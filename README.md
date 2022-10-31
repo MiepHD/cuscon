@@ -1,11 +1,12 @@
-# CandyBar Sample
-[![JitPack Version](https://jitpack.io/v/zixpo/candybar.svg)](https://jitpack.io/#zixpo/candybar)
-[![Build Status](https://img.shields.io/github/workflow/status/zixpo/candybar-sample/Android%20CI)](https://github.com/zixpo/candybar-sample/actions/workflows/android.yml)
+# Cuscon
+Icon-Pack with transpanrent icons that are outlined for good visibility.
 
-Sample Implementation of CandyBar Dashboard.
-
-Read the [Wiki](https://github.com/zixpo/candybar-sample/wiki) to get Started.
-
+# Requirements for contributing icons
+- Icons must be outlined in black
+- Icon must be visible on black background
+- dimension of 512x512px
+- approximate 30px transparent border
+- approximate 12px brush size
 # License
 ```
 Copyright (c) 2014-2016 Dani Mahardhika
