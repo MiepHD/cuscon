@@ -14,22 +14,18 @@
     <item drawable="amc_coocking" />
     <item drawable="voicenote" />
     <item drawable="smart_things" />
-    <item drawable="db_navigator" />
     <item drawable="uav_forecast" />
     <item drawable="map2fly" />
-    <item drawable="corona_warn-app" />
     <item drawable="munzee" />
     <item drawable="imaging_edge_mobile" />
     <item drawable="leaflet" />
     <item drawable="galaxy_wearable" />
     <item drawable="alexa" />
     <item drawable="dji_fly" />
-    <item drawable="flix" />
     <item drawable="aldi_talk" />
     <item drawable="kilterboard" />
     <item drawable="cuscon" />
     <!-- Aegis --><item drawable="aegis" />
-    <!-- APK Editor --><item drawable="apk_editor" />
     <!-- Bahnhofsfotos --><item drawable="bahnhofsfotos" />
     <!-- BetterCounter --><item drawable="bettercounter" />
     <!-- Bibel+ --><item drawable="bibel_" />
@@ -37,70 +33,41 @@
     <!-- Bitwarden --><item drawable="bitwarden" />
     <!-- c:geo --><item drawable="c_geo" />
     <!-- Camera Roll --><item drawable="camera_roll" />
-    <!-- DiskUsage --><item drawable="diskusage" />
     <!-- Dumbphone Assistant --><item drawable="dumbphone_assistant" />
-    <!-- Editor --><item drawable="editor" />
     <!-- Elementary --><item drawable="elementary" />
     <!-- eSpeak --><item drawable="espeak" />
     <!-- Fennec --><item drawable="fennec" />
-    <!-- GPS JoyStick --><item drawable="gps_joystick" />
     <!-- HeartBeat --><item drawable="heartbeat" />
     <!-- J2ME Loader --><item drawable="j2me_loader" />
     <!-- KFZ-Kennzeichen --><item drawable="kfz_kennzeichen" />
     <!-- Kiwix --><item drawable="kiwix" />
     <!-- Lemuroid --><item drawable="lemuroid" />
     <!-- Librera FD --><item drawable="librera_fd" />
-    <!-- Mebis --><item drawable="mebis" />
     <!-- Morse --><item drawable="morse" />
-    <!-- Mühle --><item drawable="muhle" />
-    <!-- NCalcLibre --><item drawable="ncalclibre" />
-    <!-- NewPipe --><item drawable="newpipe" />
-    <!-- ObscuraCam --><item drawable="obscuracam" />
-    <!-- Öffi Haltestellen --><item drawable="offi_haltestellen" />
-    <!-- Öffi Netzpläne --><item drawable="offi_netzplane" />
-    <!-- Öffi Verbindungen --><item drawable="offi_verbindungen" />
-    <!-- OpenDocument Reader --><item drawable="opendocument_reader" />
-    <!-- OpenTracks --><item drawable="opentracks" />
-    <!-- Phone Saver --><item drawable="phone_saver" />
-    <!-- Pocket Paint --><item drawable="pocket_paint" />
     <!-- Retouch --><item drawable="retouch" />
     <!-- Retroboy --><item drawable="retroboy" />
-    <!-- Rotation Control --><item drawable="rotation_control" />
-    <!-- SAI --><item drawable="sai" />
     <!-- Shelter --><item drawable="shelter" />
     <!-- Silence --><item drawable="silence" />
-    <!-- Smart AutoClicker --><item drawable="smart_autoclicker" />
-    <!-- SMS Import / Export --><item drawable="sms_import_export" />
-    <!-- Super Retro Mega Wars --><item drawable="super_retro_mega_wars" />
     <!-- Text Fairy --><item drawable="text_fairy" />
     <!-- Trail Sense --><item drawable="trail_sense" />
     <!-- Transistor --><item drawable="transistor" />
     <!-- Tutanota --><item drawable="tutanota" />
     <!-- Video Transcoder --><item drawable="video_transcoder" />
-    <!-- VLC --><item drawable="vlc" />
     <!-- Warden --><item drawable="warden" />
     <!-- Warpinator --><item drawable="warpinator" />
     <!-- Weather --><item drawable="weather" />
     <!-- WhereYouGo --><item drawable="whereyougo" />
     <!-- WireGuard --><item drawable="wireguard" />
     <!-- CubeX --><item drawable="cubex" />
-    <!-- DeepL --><item drawable="deepl" />
-    <!-- Dropbox --><item drawable="dropbox" />
     <!-- Flora Incognita --><item drawable="flora_incognita" />
     <!-- MiraPlug --><item drawable="miraplug" />
-    <!-- ONLYOFFICE Dokumente --><item drawable="onlyoffice_dokumente" />
     <!-- Paper copy --><item drawable="paper_copy" />
     <!-- Rocketbook --><item drawable="rocketbook" />
     <!-- Shazam --><item drawable="shazam" />
     <!-- SimpleAudio --><item drawable="simpleaudio" />
     <!-- Snapseed --><item drawable="snapseed" />
     <!-- TCL Connect --><item drawable="tcl_connect" />
-    <!-- Telegram X --><item drawable="telegram_x" />
-    <!-- VR Media Player --><item drawable="vr_media_player" />
-    <!-- ZArchiver --><item drawable="zarchiver" />
     <!-- Firewall --><item drawable="firewall" />
-    <!-- microG-Einstellungen --><item drawable="microg_einstellungen" />
-    <!-- Sicherung --><item drawable="sicherung" />
 
     <category title="Stores" />
     <item drawable="apkpure" />
@@ -119,6 +86,9 @@
     <item drawable="disney_plus" />
     <item drawable="youtube" />
     <item drawable="amazon_prime_video" />
+    <!-- NewPipe --><item drawable="newpipe" />
+    <!-- VLC --><item drawable="vlc" />
+    <!-- VR Media Player --><item drawable="vr_media_player" />
 
     <category title="Music Streaming" />
     <item drawable="amazon_music" />
@@ -134,6 +104,8 @@
     <item drawable="crossy_road" />
     <item drawable="word_mix_pro" />
     <item drawable="spingram" />
+    <!-- Mühle --><item drawable="muhle" />
+    <!-- Super Retro Mega Wars --><item drawable="super_retro_mega_wars" />
 
     <category title="Communication" />
     <item drawable="gmail" />
@@ -148,6 +120,7 @@
     <item drawable="gutefrage" />
     <item drawable="homeworker" />
     <item drawable="samsung_contacts" />
+    <!-- Telegram X --><item drawable="telegram_x" />
 
     <category title="Browser" />
     <item drawable="firefox" />
@@ -160,12 +133,22 @@
     <item drawable="samsung_calculator" />
     <item drawable="phyphox" />
     <item drawable="touch_portal" />
+    <!-- APK Editor --><item drawable="apk_editor" />
+    <!-- Editor --><item drawable="editor" />
+    <!-- Smart AutoClicker --><item drawable="smart_autoclicker" />
+    <!-- microG-Einstellungen --><item drawable="microg_einstellungen" />
+    <!-- SMS Import / Export --><item drawable="sms_import_export" />
+    <!-- Rotation Control --><item drawable="rotation_control" />
+    <!-- GPS JoyStick --><item drawable="gps_joystick" />
 
     <category title="Documents" />
     <item drawable="adobe_acrobat_reader" />
     <item drawable="docx2pdf" />
     <item drawable="office_suite" />
     <item drawable="samsung_notes" />
+    <!-- ONLYOFFICE Dokumente --><item drawable="onlyoffice_dokumente" />
+    <!-- OpenDocument Reader --><item drawable="opendocument_reader" />
+    <!-- NCalcLibre --><item drawable="ncalclibre" />
 
     <category title="VPN" />
     <item drawable="adguard" />
@@ -174,14 +157,24 @@
     <category title="Camera" />
     <item drawable="open_camera" />
     <item drawable="samsung_camera" />
+    <!-- ObscuraCam --><item drawable="obscuracam" />
 
     <category title="Maps" />
     <item drawable="google_maps" />
     <item drawable="organic_maps" />
+    <!-- Öffi Haltestellen --><item drawable="offi_haltestellen" />
+    <!-- Öffi Netzpläne --><item drawable="offi_netzplane" />
+    <!-- OpenTracks --><item drawable="opentracks" />
 
     <category title="Files" />
     <item drawable="google_drive" />
     <item drawable="samsung_files" />
+    <!-- Sicherung --><item drawable="sicherung" />
+    <!-- ZArchiver --><item drawable="zarchiver" />
+    <!-- Dropbox --><item drawable="dropbox" />
+    <!-- SAI --><item drawable="sai" />
+    <!-- DiskUsage --><item drawable="diskusage" />
+    <!-- Phone Saver --><item drawable="phone_saver" />
 
     <category title="Gallery" />
     <item drawable="samsung_gallary" />
@@ -193,7 +186,18 @@
 
     <category title="Learning" />
     <item drawable="quizlet" />
+    <!-- Mebis --><item drawable="mebis" />
+    <!-- DeepL --><item drawable="deepl" />
 
     <category title="News" />
     <item drawable="newszone" />
+
+    <category title="Design" />
+    <!-- Pocket Paint --><item drawable="pocket_paint" />
+
+    <category title="Information" />
+    <!-- Öffi Verbindungen --><item drawable="offi_verbindungen" />
+    <item drawable="db_navigator" />
+    <item drawable="flix" />
+    <item drawable="corona_warn-app" />
 </resources>
