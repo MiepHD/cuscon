@@ -5,6 +5,8 @@
     <string name="changelog_date">31.10.2022</string>
 
     <string-array name="changelog">
+        <item>2.4.1 -> 2.4.2:</item>
+        <item>Added support for more launchers</item>
         <item>2.4 -> 2.4.1:</item>
         <item>Added Sicherung, Firewall, microG-Settings</item>
         <item>2.3.1.1 -> 2.4:</item>
