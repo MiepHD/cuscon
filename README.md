@@ -1,5 +1,12 @@
 # Cuscon
+Icon-Pack with transpanrent icons that are outlined for good visibility.
 
+# Requirements for contributing icons
+- Icons must be outlined in black
+- Icon must be visible on black background
+- dimension of 512x512px
+- approximate 30px transparent border
+- approximate 12px brush size
 # License
 ```
 Copyright (c) 2014-2016 Dani Mahardhika
