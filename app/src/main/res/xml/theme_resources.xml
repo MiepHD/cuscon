@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Theme version="1">
+
+    <!-- FOR LG HOME -->
+    <Label value="Cuscon" />
+    <!-- Add all other Apps -->
+    <!-- Aegis --><AppIcon name="com.beemdevelopment.aegis/com.beemdevelopment.aegis.ui.MainActivity" image="aegis"/>
+    <!-- APK Editor --><AppIcon name="com.gmail.heagoo.apkeditor.pro/com.gmail.heagoo.apkeditor.MainActivity-New1" image="apk_editor"/>
+    <!-- Bahnhofsfotos --><AppIcon name="de.bahnhoefe.deutschlands.bahnhofsfotos/de.bahnhoefe.deutschlands.bahnhofsfotos.MainActivity" image="bahnhofsfotos"/>
+    <!-- BetterCounter --><AppIcon name="org.kde.bettercounter/org.kde.bettercounter.ui.MainActivity" image="bettercounter"/>
+    <!-- Bibel+ --><AppIcon name="net.bible.android.activity/net.bible.android.activity.StartupActivity" image="bibel_"/>
+    <!-- Binary Eye --><AppIcon name="de.markusfisch.android.binaryeye/de.markusfisch.android.binaryeye.activity.SplashActivity" image="binary_eye"/>
+    <!-- Bitwarden --><AppIcon name="com.x8bit.bitwarden/com.x8bit.bitwarden.MainActivity" image="bitwarden"/>
+    <!-- c:geo --><AppIcon name="cgeo.geocaching/cgeo.geocaching.SplashActivity" image="c_geo"/>
+    <!-- Camera Roll --><AppIcon name="us.koller.cameraroll/us.koller.cameraroll.ui.MainActivity" image="camera_roll"/>
+    <!-- DiskUsage --><AppIcon name="com.google.android.diskusage/com.google.android.diskusage.SelectActivity" image="diskusage"/>
+    <!-- Dumbphone Assistant --><AppIcon name="com.github.yeriomin.dumbphoneassistant/com.github.yeriomin.dumbphoneassistant.ManageContactsActivity" image="dumbphone_assistant"/>
+    <!-- Editor --><AppIcon name="org.billthefarmer.editor/org.billthefarmer.editor.Editor" image="editor"/>
+    <!-- Elementary --><AppIcon name="com.ultramegatech.ey/com.ultramegatech.ey.PeriodicTableActivity" image="elementary"/>
+    <!-- eSpeak --><AppIcon name="com.reecedunn.espeak/com.reecedunn.espeak.eSpeakActivity" image="espeak"/>
+    <!-- Fennec --><AppIcon name="org.mozilla.fennec_fdroid/org.mozilla.fennec_fdroid.App" image="fennec"/>
+    <!-- GPS JoyStick --><AppIcon name="com.theappninjas.fakegpsjoystick/com.theappninjas.fakegpsjoystick.ui.main.MainActivity" image="gps_joystick"/>
+    <!-- HeartBeat --><AppIcon name="eu.berdosi.app.heartbeat/eu.berdosi.app.heartbeat.MainActivity" image="heartbeat"/>
+    <!-- J2ME Loader --><AppIcon name="ru.playsoftware.j2meloader/ru.playsoftware.j2meloader.MainActivity" image="j2me_loader"/>
+    <!-- KFZ-Kennzeichen --><AppIcon name="luke.kfz/luke.kfz.MainActivity" image="kfz_kennzeichen"/>
+    <!-- Kiwix --><AppIcon name="org.kiwix.kiwixmobile/org.kiwix.kiwixmobile.main.KiwixMainActivity" image="kiwix"/>
+    <!-- Lemuroid --><AppIcon name="com.swordfish.lemuroid/com.swordfish.lemuroid.app.mobile.feature.main.MainActivity" image="lemuroid"/>
+    <!-- Librera FD --><AppIcon name="com.foobnix.pro.pdf.reader/com.foobnix.ui2.MainTabs2" image="librera_fd"/>
+    <!-- Mebis --><AppIcon name="com.asdoi.mebis/de.baumann.hhsmoodle.Activity_Main" image="mebis"/>
+    <!-- Morse --><AppIcon name="rocks.poopjournal.morse/rocks.poopjournal.morse.MainActivity" image="morse"/>
+    <!-- Mühle --><AppIcon name="com.calcitem.sanmill/com.calcitem.sanmill.MainActivity" image="muhle"/>
+    <!-- NCalcLibre --><AppIcon name="eu.laderchi.ncalc/com.duy.ncalc.calculator.BasicCalculatorActivity" image="ncalclibre"/>
+    <!-- NewPipe --><AppIcon name="org.schabi.newpipe/org.schabi.newpipe.MainActivity" image="newpipe"/>
+    <!-- ObscuraCam --><AppIcon name="org.witness.sscphase1/org.witness.obscuracam.MainActivity" image="obscuracam"/>
+    <!-- Öffi Haltestellen --><AppIcon name="de.schildbach.oeffi/de.schildbach.oeffi.stations.StationsActivity" image="offi_haltestellen"/>
+    <!-- Öffi Netzpläne --><AppIcon name="de.schildbach.oeffi/de.schildbach.oeffi.plans.PlansPickerActivity" image="offi_netzplane"/>
+    <!-- Öffi Verbindungen --><AppIcon name="de.schildbach.oeffi/de.schildbach.oeffi.directions.DirectionsActivity" image="offi_verbindungen"/>
+    <!-- OpenDocument Reader --><AppIcon name="at.tomtasche.reader/at.tomtasche.reader.ui.activity.MainActivity" image="opendocument_reader"/>
+    <!-- OpenTracks --><AppIcon name="de.dennisguse.opentracks/de.dennisguse.opentracks.introduction.IntroductionActivity" image="opentracks"/>
+    <!-- Phone Saver --><AppIcon name="link.standen.michael.phonesaver/link.standen.michael.phonesaver.activity.FolderListActivity" image="phone_saver"/>
+    <!-- Pocket Paint --><AppIcon name="org.catrobat.paintroid/org.catrobat.paintroid.MainActivity" image="pocket_paint"/>
+    <!-- Retouch --><AppIcon name="com.advasoft.touchretouch/com.advasoft.touchretouch.LicenseActivity" image="retouch"/>
+    <!-- Retroboy --><AppIcon name="se.embargo.retroboy/se.embargo.retroboy.MainActivity" image="retroboy"/>
+    <!-- Rotation Control --><AppIcon name="org.crape.rotationcontrol/org.crape.rotationcontrol.RotationControlActivity" image="rotation_control"/>
+    <!-- SAI --><AppIcon name="com.aefyr.sai.fdroid/com.aefyr.sai.ui.activities.MainActivity" image="sai"/>
+    <!-- Shelter --><AppIcon name="net.typeblog.shelter/net.typeblog.shelter.ui.MainActivity" image="shelter"/>
+    <!-- Silence --><AppIcon name="org.smssecure.smssecure/org.smssecure.smssecure.RoutingActivity" image="silence"/>
+    <!-- Smart AutoClicker --><AppIcon name="com.buzbuz.smartautoclicker/com.buzbuz.smartautoclicker.activity.ScenarioActivity" image="smart_autoclicker"/>
+    <!-- SMS Import / Export --><AppIcon name="com.github.tmo1.sms_ie/com.github.tmo1.sms_ie.MainActivity" image="sms_import_export"/>
+    <!-- Super Retro Mega Wars --><AppIcon name="com.serwylo.retrowars/com.serwylo.retrowars.AndroidLauncher" image="super_retro_mega_wars"/>
+    <!-- Text Fairy --><AppIcon name="com.renard.ocr/com.renard.ocr.documents.viewing.grid.DocumentGridActivity" image="text_fairy"/>
+    <!-- Trail Sense --><AppIcon name="com.kylecorry.trail_sense/com.kylecorry.trail_sense.main.MainActivity" image="trail_sense"/>
+    <!-- Transistor --><AppIcon name="org.y20k.transistor/org.y20k.transistor.MainActivity" image="transistor"/>
+    <!-- Tutanota --><AppIcon name="de.tutao.tutanota/de.tutao.tutanota.MainActivity" image="tutanota"/>
+    <!-- Video Transcoder --><AppIcon name="protect.videoeditor/protect.videotranscoder.activity.MainActivity" image="video_transcoder"/>
+    <!-- VLC --><AppIcon name="org.videolan.vlc/org.videolan.vlc.StartActivity" image="vlc"/>
+    <!-- Warden --><AppIcon name="com.aurora.warden/com.aurora.warden.ui.activities.AuroraActivity" image="warden"/>
+    <!-- Warpinator --><AppIcon name="slowscript.warpinator/slowscript.warpinator.MainActivity" image="warpinator"/>
+    <!-- Weather --><AppIcon name="wangdaye.com.geometricweather/wangdaye.com.geometricweather.main.MainActivity" image="weather"/>
+    <!-- WhereYouGo --><AppIcon name="menion.android.whereyougo/menion.android.whereyougo.gui.activity.MainActivity" image="whereyougo"/>
+    <!-- WireGuard --><AppIcon name="com.wireguard.android/com.wireguard.android.activity.MainActivity" image="wireguard"/>
+    <!-- CubeX --><AppIcon name="diozz.cubex/diozz.cubex.SplashActivity" image="cubex"/>
+    <!-- DeepL --><AppIcon name="com.deepl.mobiletranslator/com.deepl.mobiletranslator.MainActivity" image="deepl"/>
+    <!-- Dropbox --><AppIcon name="com.dropbox.android/com.dropbox.android.activity.DropboxBrowser" image="dropbox"/>
+    <!-- Flora Incognita --><AppIcon name="com.floraincognita.app.floraincognita/com.floraincognita.app.floraincognita.MainActivity" image="flora_incognita"/>
+    <!-- MiraPlug --><AppIcon name="com.actionsmicro.usbdisplay/com.actionsmicro.usbdisplay.MainActivity" image="miraplug"/>
+    <!-- ONLYOFFICE Dokumente --><AppIcon name="com.onlyoffice.documents/app.editors.manager.ui.activities.main.OnBoardingActivity" image="onlyoffice_dokumente"/>
+    <!-- Paper copy --><AppIcon name="com.mmicunovic.papercopy/com.mmicunovic.papercopy.ui.SplashActivity" image="paper_copy"/>
+    <!-- Rocketbook --><AppIcon name="com.rb.rocketbook/com.rb.rocketbook.StartupActivity" image="rocketbook"/>
+    <!-- Shazam --><AppIcon name="com.shazam.android/com.shazam.android.activities.SplashActivity" image="shazam"/>
+    <!-- SimpleAudio --><AppIcon name="com.pgup.simpleaudio/com.pgup.simpleaudio.InitialActivity" image="simpleaudio"/>
+    <!-- Snapseed --><AppIcon name="com.niksoftware.snapseed/com.google.android.apps.snapseed.WelcomeScreenActivity" image="snapseed"/>
+    <!-- TCL Connect --><AppIcon name="com.trackerandroid.trackerandroid/com.trackerandroid.trackerandroid.ue.activity.MainActivity" image="tcl_connect"/>
+    <!-- Telegram X --><AppIcon name="org.thunderdog.challegram/org.thunderdog.challegram.MainActivity" image="telegram_x"/>
+    <!-- VR Media Player --><AppIcon name="com.xojot.vrplayer/com.xojot.vrplayer.MainActivity" image="vr_media_player"/>
+    <!-- ZArchiver --><AppIcon name="ru.zdevs.zarchiver/ru.zdevs.zarchiver.ZArchiver" image="zarchiver"/>
+    <!-- Firewall --><item class="org.calyxos.datura.MainActivity" name="firewall"/>
+    <!-- microG-Einstellungen --><AppIcon name="com.google.android.gms/org.microg.gms.ui.SettingsActivity" image="microg_einstellungen"/>
+    <!-- Sicherung --><AppIcon name="com.stevesoltys.seedvault/com.stevesoltys.seedvault.settings.SettingsLink" image="sicherung"/>
+</Theme>

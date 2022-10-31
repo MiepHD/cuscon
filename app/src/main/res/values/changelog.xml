@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Leave empty if you don't want to show changelog date -->
+    <string name="changelog_date">31.10.2022</string>
+
+    <string-array name="changelog">
+        <item>2.4 -> 2.4.1:</item>
+        <item>Added Sicherung, Firewall, microG-Settings</item>
+        <item>2.3.1.1 -> 2.4:</item>
+        <item>Added Aegis, APK Editor, Bahnhofsfotos, BetterCounter, Bibel+, Binary Eye, Bitwarden, c:geo, Camera Roll, DiskUsage, Dumbphone Assistant, Editor, Elementary, eSpeak, Fennec, GPS JoyStick, HeartBeat, J2ME Loader, KFZ-Kennzeichen, Kiwix, Lemuroid, Librera FD, Mebis, Morse, Mühle, NCalcLibre, NewPipe, ObscuraCam, Öffi Haltestellen, Öffi Netzpläne, Öffi Verbindungen, OpenDocument Reader, OpenTracks, Phone Saver, Pocket Paint, Retouch, Retroboy, Rotation Control, SAI, Shelter, Silence, Smart AutoClicker, SMS Import / Export, Super Retro Mega Wars, Text Fairy, Trail Sense, Transistor, Tutanota, Video Transcoder, VLC, Warden, Warpinator, Weather, WhereYouGo, WireGuard, CubeX, DeepL, Dropbox, Flora Incognita, MiraPlug, ONLYOFFICE Dokumente, Paper copy, Rocketbook, Shazam, SimpleAudio, Snapseed, TCL Connect, Telegram X, VR Media Player, ZArchiver</item>
+        <item>2.3.1 -> 2.3.1.1:</item>
+        <item>Edited categories</item>
+        <item>Changed changelog</item>
+        <item>2.3 -> 2.3.1:</item>
+        <item>Created categories</item>
+        <item>2.2.2 -> 2.3:</item>
+        <item>Added Calculator, Files, Settings, E-Mail, Gallery, Calender, Contacts, Music, PDF eader, Recorder, SMS, phone, clock</item>
+        <item>2.2.1 -> 2.2.2:</item>
+        <item>Fixed wrong icons</item>
+        <item>2.2.1 -> 2.2.1-hotfix1,2:</item>
+        <item>Changed resources</item>
+        <item>2.2 -> 2.2.1:</item>
+        <item>Changed resources</item>
+        <item>2.1 -> 2.2:</item>
+        <item>Changed names</item>
+        <item>2.0 -> 2.1:</item>
+        <item>Changed to different sample</item>
+        <item>Changed pack\'s name</item>
+        <item>Changed package name</item>
+        <item>1.8.4 -> 1.8.5:</item>
+        <item>Added CloudStreaming, Kilterboard</item>
+        <item>1.8.3 -> 1.8.4:</item>
+        <item>Added Word2Pdf, PlayMods</item>
+        <item>1.8.2.1 -> 1.8.3:</item>
+        <item>Added Reddit</item>
+        <item>1.8.2 -> 1.8.2.1:</item>
+        <item>Fixed Aldi Talk</item>
+        <item>1.8.1.1 -> 1.8.2:</item>
+        <item>Added Aldi Talk (not working), Crossy Road, Zapp, Phyphox</item>
+        <item>1.8.1 -> 1.8.1.1:</item>
+        <item>Fixed Quizlet</item>
+        <item>1.8 -> 1.8.1:</item>
+        <item>Added Quizlet (not working)</item>
+        <item>1.7.1 -> 1.8:</item>
+        <item>Added Open Camera, Alexa, Google Maps, LineageOS Browser, Disney+, DJI Fly, Firefox, Flix Train</item>
+        <item>1.7 -> 1.7.1:</item>
+        <item>Added Samsung Wearable</item>
+        <item>Removed Link to Windows</item>
+        <item>1.6.1 -> 1.7:</item>
+        <item>Added Freezer, Imaging, Leaflet, Phone (Samsung)</item>
+        <item>0 -> 1.6.1:</item>
+        <item>Added Cloudflare, Adguard, Adobe Reader, Apkpure, Authenticator, Birday, Brave, Covpass, Darkland, Discord, Samsung Mail, Files, F-Droid, Gallery, Github, G-Mail, Gutefrage, Homeworker, I-Net Menue, Instagram, Calender, Camera, Keepass, Klocki, Kontakte, Aurora Store, Lucky Patcher, Netflix, Office Suite, Play Games, Amazon Prime Video, Samsung Music, ShapeOminues, Signal, Auto Sketchbook, Sound Assistant, Spingram, Steam, Calculator, Clock, Wallpaper, Whatsapp, Word Mix, Youtube, Youtube Music, ZDF Mediathek, Google Translate, Play Store, Organic Maps, DasDing, Diktiergerät, Google Drive, Google Photos, Messages, Newszone, Smart Things, Samsung Notes, DB Navigator, Amazon Music, Touch Portal, Corona, AMC, Munzee, UAV, Map2Fly</item>
+    </string-array>
+
+</resources>

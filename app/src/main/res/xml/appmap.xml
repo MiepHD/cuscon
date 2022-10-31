@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<appmap>
+
+    <!-- FOR ATOM LAUNCHER -->
+    <!-- Add all other Apps -->
+    <!-- Aegis --><item class="com.beemdevelopment.aegis.ui.MainActivity" name="aegis"/>
+    <!-- APK Editor --><item class="com.gmail.heagoo.apkeditor.MainActivity-New1" name="apk_editor"/>
+    <!-- Bahnhofsfotos --><item class="de.bahnhoefe.deutschlands.bahnhofsfotos.MainActivity" name="bahnhofsfotos"/>
+    <!-- BetterCounter --><item class="org.kde.bettercounter.ui.MainActivity" name="bettercounter"/>
+    <!-- Bibel+ --><item class="net.bible.android.activity.StartupActivity" name="bibel_"/>
+    <!-- Binary Eye --><item class="de.markusfisch.android.binaryeye.activity.SplashActivity" name="binary_eye"/>
+    <!-- Bitwarden --><item class="com.x8bit.bitwarden.MainActivity" name="bitwarden"/>
+    <!-- c:geo --><item class="cgeo.geocaching.SplashActivity" name="c_geo"/>
+    <!-- Camera Roll --><item class="us.koller.cameraroll.ui.MainActivity" name="camera_roll"/>
+    <!-- DiskUsage --><item class="com.google.android.diskusage.SelectActivity" name="diskusage"/>
+    <!-- Dumbphone Assistant --><item class="com.github.yeriomin.dumbphoneassistant.ManageContactsActivity" name="dumbphone_assistant"/>
+    <!-- Editor --><item class="org.billthefarmer.editor.Editor" name="editor"/>
+    <!-- Elementary --><item class="com.ultramegatech.ey.PeriodicTableActivity" name="elementary"/>
+    <!-- eSpeak --><item class="com.reecedunn.espeak.eSpeakActivity" name="espeak"/>
+    <!-- Fennec --><item class="org.mozilla.fennec_fdroid.App" name="fennec"/>
+    <!-- GPS JoyStick --><item class="com.theappninjas.fakegpsjoystick.ui.main.MainActivity" name="gps_joystick"/>
+    <!-- HeartBeat --><item class="eu.berdosi.app.heartbeat.MainActivity" name="heartbeat"/>
+    <!-- J2ME Loader --><item class="ru.playsoftware.j2meloader.MainActivity" name="j2me_loader"/>
+    <!-- KFZ-Kennzeichen --><item class="luke.kfz.MainActivity" name="kfz_kennzeichen"/>
+    <!-- Kiwix --><item class="org.kiwix.kiwixmobile.main.KiwixMainActivity" name="kiwix"/>
+    <!-- Lemuroid --><item class="com.swordfish.lemuroid.app.mobile.feature.main.MainActivity" name="lemuroid"/>
+    <!-- Librera FD --><item class="com.foobnix.ui2.MainTabs2" name="librera_fd"/>
+    <!-- Mebis --><item class="de.baumann.hhsmoodle.Activity_Main" name="mebis"/>
+    <!-- Morse --><item class="rocks.poopjournal.morse.MainActivity" name="morse"/>
+    <!-- Mühle --><item class="com.calcitem.sanmill.MainActivity" name="muhle"/>
+    <!-- NCalcLibre --><item class="com.duy.ncalc.calculator.BasicCalculatorActivity" name="ncalclibre"/>
+    <!-- NewPipe --><item class="org.schabi.newpipe.MainActivity" name="newpipe"/>
+    <!-- ObscuraCam --><item class="org.witness.obscuracam.MainActivity" name="obscuracam"/>
+    <!-- Öffi Haltestellen --><item class="de.schildbach.oeffi.stations.StationsActivity" name="offi_haltestellen"/>
+    <!-- Öffi Netzpläne --><item class="de.schildbach.oeffi.plans.PlansPickerActivity" name="offi_netzplane"/>
+    <!-- Öffi Verbindungen --><item class="de.schildbach.oeffi.directions.DirectionsActivity" name="offi_verbindungen"/>
+    <!-- OpenDocument Reader --><item class="at.tomtasche.reader.ui.activity.MainActivity" name="opendocument_reader"/>
+    <!-- OpenTracks --><item class="de.dennisguse.opentracks.introduction.IntroductionActivity" name="opentracks"/>
+    <!-- Phone Saver --><item class="link.standen.michael.phonesaver.activity.FolderListActivity" name="phone_saver"/>
+    <!-- Pocket Paint --><item class="org.catrobat.paintroid.MainActivity" name="pocket_paint"/>
+    <!-- Retouch --><item class="com.advasoft.touchretouch.LicenseActivity" name="retouch"/>
+    <!-- Retroboy --><item class="se.embargo.retroboy.MainActivity" name="retroboy"/>
+    <!-- Rotation Control --><item class="org.crape.rotationcontrol.RotationControlActivity" name="rotation_control"/>
+    <!-- SAI --><item class="com.aefyr.sai.ui.activities.MainActivity" name="sai"/>
+    <!-- Shelter --><item class="net.typeblog.shelter.ui.MainActivity" name="shelter"/>
+    <!-- Silence --><item class="org.smssecure.smssecure.RoutingActivity" name="silence"/>
+    <!-- Smart AutoClicker --><item class="com.buzbuz.smartautoclicker.activity.ScenarioActivity" name="smart_autoclicker"/>
+    <!-- SMS Import / Export --><item class="com.github.tmo1.sms_ie.MainActivity" name="sms_import_export"/>
+    <!-- Super Retro Mega Wars --><item class="com.serwylo.retrowars.AndroidLauncher" name="super_retro_mega_wars"/>
+    <!-- Text Fairy --><item class="com.renard.ocr.documents.viewing.grid.DocumentGridActivity" name="text_fairy"/>
+    <!-- Trail Sense --><item class="com.kylecorry.trail_sense.main.MainActivity" name="trail_sense"/>
+    <!-- Transistor --><item class="org.y20k.transistor.MainActivity" name="transistor"/>
+    <!-- Tutanota --><item class="de.tutao.tutanota.MainActivity" name="tutanota"/>
+    <!-- Video Transcoder --><item class="protect.videotranscoder.activity.MainActivity" name="video_transcoder"/>
+    <!-- VLC --><item class="org.videolan.vlc.StartActivity" name="vlc"/>
+    <!-- Warden --><item class="com.aurora.warden.ui.activities.AuroraActivity" name="warden"/>
+    <!-- Warpinator --><item class="slowscript.warpinator.MainActivity" name="warpinator"/>
+    <!-- Weather --><item class="wangdaye.com.geometricweather.main.MainActivity" name="weather"/>
+    <!-- WhereYouGo --><item class="menion.android.whereyougo.gui.activity.MainActivity" name="whereyougo"/>
+    <!-- WireGuard --><item class="com.wireguard.android.activity.MainActivity" name="wireguard"/>
+    <!-- CubeX --><item class="diozz.cubex.SplashActivity" name="cubex"/>
+    <!-- DeepL --><item class="com.deepl.mobiletranslator.MainActivity" name="deepl"/>
+    <!-- Dropbox --><item class="com.dropbox.android.activity.DropboxBrowser" name="dropbox"/>
+    <!-- Flora Incognita --><item class="com.floraincognita.app.floraincognita.MainActivity" name="flora_incognita"/>
+    <!-- MiraPlug --><item class="com.actionsmicro.usbdisplay.MainActivity" name="miraplug"/>
+    <!-- ONLYOFFICE Dokumente --><item class="app.editors.manager.ui.activities.main.OnBoardingActivity" name="onlyoffice_dokumente"/>
+    <!-- Paper copy --><item class="com.mmicunovic.papercopy.ui.SplashActivity" name="paper_copy"/>
+    <!-- Rocketbook --><item class="com.rb.rocketbook.StartupActivity" name="rocketbook"/>
+    <!-- Shazam --><item class="com.shazam.android.activities.SplashActivity" name="shazam"/>
+    <!-- SimpleAudio --><item class="com.pgup.simpleaudio.InitialActivity" name="simpleaudio"/>
+    <!-- Snapseed --><item class="com.google.android.apps.snapseed.WelcomeScreenActivity" name="snapseed"/>
+    <!-- TCL Connect --><item class="com.trackerandroid.trackerandroid.ue.activity.MainActivity" name="tcl_connect"/>
+    <!-- Telegram X --><item class="org.thunderdog.challegram.MainActivity" name="telegram_x"/>
+    <!-- VR Media Player --><item class="com.xojot.vrplayer.MainActivity" name="vr_media_player"/>
+    <!-- ZArchiver --><item class="ru.zdevs.zarchiver.ZArchiver" name="zarchiver"/>
+    <!-- Firewall -->
+    <item class="org.calyxos.datura.MainActivity" name="firewall"/>
+    <!-- microG-Einstellungen --><item class="org.microg.gms.ui.SettingsActivity" name="microg_einstellungen"/>
+    <!-- Sicherung --><item class="com.stevesoltys.seedvault.settings.SettingsLink" name="sicherung"/>
+</appmap>
