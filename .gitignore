@@ -16,6 +16,7 @@ bin/
 gen/
 out/
 app/debug/
+release/
 
 # Gradle files
 .gradle/
@@ -161,3 +162,7 @@ gradle-app.setting
 # gradle/wrapper/gradle-wrapper.properties
 
 .idea/
+
+# to-dos
+
+to-do/
