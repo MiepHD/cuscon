@@ -191,4 +191,7 @@
     <!-- EMP Shop --><AppIcon name="de.cominto.blaetterkatalog.customer.emp/de.cominto.blaetterkatalog.customer.emp.startup.StartUpActivity" image="emp_shop"/>
     <!-- Linguee --><AppIcon name="com.linguee.linguee/com.linguee.linguee.MainActivity" image="linguee"/>
     <!-- Galaxy Store --><AppIcon name="com.sec.android.app.samsungapps/com.sec.android.app.samsungapps.SamsungAppsMainActivity" image="galaxy_store"/>
+    <!-- HappyMod --><AppIcon name="com.happymod.apk/com.happymod.apk.hmmvp.allfunction.LaunchActivity" image="happymod"/>
+    <!-- MEGA --><AppIcon name="mega.privacy.android.app/mega.privacy.android.app.main.ManagerActivity" image="mega"/>
+
 </Theme>

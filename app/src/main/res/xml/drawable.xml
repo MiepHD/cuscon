@@ -81,6 +81,7 @@
     <item drawable="google_play_games" />
     <!-- EMP Shop --><item drawable="emp_shop" />
     <!-- Galaxy Store --><item drawable="galaxy_store" />
+    <!-- Happymod --><item drawable="happymod"/>
 
     <category title="Video Streaming" />
     <item drawable="netflix" />
@@ -180,6 +181,7 @@
     <!-- SAI --><item drawable="sai" />
     <!-- DiskUsage --><item drawable="diskusage" />
     <!-- Phone Saver --><item drawable="phone_saver" />
+    <!-- MEGA --><item drawable="mega"/>
 
     <category title="Gallery" />
     <item drawable="samsung_gallary" />
