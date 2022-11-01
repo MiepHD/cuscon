@@ -67,7 +67,9 @@
     <!-- SimpleAudio --><item drawable="simpleaudio" />
     <!-- Snapseed --><item drawable="snapseed" />
     <!-- TCL Connect --><item drawable="tcl_connect" />
-    <!-- Firewall --><item drawable="firewall" />
+    <!-- Lawnchair-Einstellungen --><item drawable="lawnchair_einstellungen" />
+    <!-- Reminder --><item drawable="reminder" />
+
 
     <category title="Stores" />
     <item drawable="apkpure" />
@@ -106,6 +108,7 @@
     <item drawable="spingram" />
     <!-- Mühle --><item drawable="muhle" />
     <!-- Super Retro Mega Wars --><item drawable="super_retro_mega_wars" />
+    <!-- hocus --><item drawable="hocus" />
 
     <category title="Communication" />
     <item drawable="gmail" />
@@ -121,6 +124,7 @@
     <item drawable="homeworker" />
     <item drawable="samsung_contacts" />
     <!-- Telegram X --><item drawable="telegram_x" />
+    <!-- Aliucord --><item drawable="aliucord" />
 
     <category title="Browser" />
     <item drawable="firefox" />
@@ -136,7 +140,6 @@
     <!-- APK Editor --><item drawable="apk_editor" />
     <!-- Editor --><item drawable="editor" />
     <!-- Smart AutoClicker --><item drawable="smart_autoclicker" />
-    <!-- microG-Einstellungen --><item drawable="microg_einstellungen" />
     <!-- SMS Import / Export --><item drawable="sms_import_export" />
     <!-- Rotation Control --><item drawable="rotation_control" />
     <!-- GPS JoyStick --><item drawable="gps_joystick" />
@@ -183,11 +186,14 @@
     <category title="Security" />
     <item drawable="google_authenticator" />
     <item drawable="keepass" />
+    <!-- Firewall --><item drawable="firewall" />
+    <!-- microG-Einstellungen --><item drawable="microg_einstellungen" />
 
     <category title="Learning" />
     <item drawable="quizlet" />
     <!-- Mebis --><item drawable="mebis" />
     <!-- DeepL --><item drawable="deepl" />
+    <!-- Duden Wörterbücher --><item drawable="duden_worterbucher" />
 
     <category title="News" />
     <item drawable="newszone" />
