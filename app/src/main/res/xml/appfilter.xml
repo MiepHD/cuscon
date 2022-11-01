@@ -203,5 +203,6 @@
     <!-- Lawnchair-Einstellungen --><item component="ComponentInfo{ch.deletescape.lawnchair.plah/ch.deletescape.lawnchair.settings.ui.SettingsLauncherActivity}" drawable="lawnchair_einstellungen" />
     <!-- Quizlet --><item component="ComponentInfo{com.quizlet.quizletandroie/com.quizlet.quizletandroie.ui.RootActivity}" drawable="quizlet" />
     <!-- Reminder --><item component="ComponentInfo{com.samsung.android.app.reminder/com.samsung.android.app.reminder.ui.LaunchMainActivity}" drawable="reminder" />
-
+    <!-- EMP Shop --><item component="ComponentInfo{de.cominto.blaetterkatalog.customer.emp/de.cominto.blaetterkatalog.customer.emp.startup.StartUpActivity}" drawable="emp_shop" />
+    <!-- Linguee --><item component="ComponentInfo{com.linguee.linguee/com.linguee.linguee.MainActivity}" drawable="linguee" />
 </resources>

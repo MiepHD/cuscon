@@ -187,5 +187,7 @@
     <!-- Lawnchair-Einstellungen --><item class="ch.deletescape.lawnchair.settings.ui.SettingsLauncherActivity" name="lawnchair_einstellungen"/>
     <!-- Quizlet --><item class="com.quizlet.quizletandroie.ui.RootActivity" name="quizlet"/>
     <!-- Reminder --><item class="com.samsung.android.app.reminder.ui.LaunchMainActivity" name="reminder"/>
+    <!-- EMP Shop --><item class="de.cominto.blaetterkatalog.customer.emp.startup.StartUpActivity" name="emp_shop"/>
+    <!-- Linguee --><item class="com.linguee.linguee.MainActivity" name="linguee"/>
 
 </appmap>

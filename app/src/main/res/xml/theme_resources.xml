@@ -188,5 +188,7 @@
     <!-- Lawnchair-Einstellungen --><AppIcon name="ch.deletescape.lawnchair.plah/ch.deletescape.lawnchair.settings.ui.SettingsLauncherActivity" image="lawnchair_einstellungen"/>
     <!-- Quizlet --><AppIcon name="com.quizlet.quizletandroie/com.quizlet.quizletandroie.ui.RootActivity" image="quizlet"/>
     <!-- Reminder --><AppIcon name="com.samsung.android.app.reminder/com.samsung.android.app.reminder.ui.LaunchMainActivity" image="reminder"/>
+    <!-- EMP Shop --><AppIcon name="de.cominto.blaetterkatalog.customer.emp/de.cominto.blaetterkatalog.customer.emp.startup.StartUpActivity" image="emp_shop"/>
+    <!-- Linguee --><AppIcon name="com.linguee.linguee/com.linguee.linguee.MainActivity" image="linguee"/>
 
 </Theme>
