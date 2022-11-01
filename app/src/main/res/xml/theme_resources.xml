@@ -190,5 +190,5 @@
     <!-- Reminder --><AppIcon name="com.samsung.android.app.reminder/com.samsung.android.app.reminder.ui.LaunchMainActivity" image="reminder"/>
     <!-- EMP Shop --><AppIcon name="de.cominto.blaetterkatalog.customer.emp/de.cominto.blaetterkatalog.customer.emp.startup.StartUpActivity" image="emp_shop"/>
     <!-- Linguee --><AppIcon name="com.linguee.linguee/com.linguee.linguee.MainActivity" image="linguee"/>
-
+    <!-- Galaxy Store --><AppIcon name="com.sec.android.app.samsungapps/com.sec.android.app.samsungapps.SamsungAppsMainActivity" image="galaxy_store"/>
 </Theme>

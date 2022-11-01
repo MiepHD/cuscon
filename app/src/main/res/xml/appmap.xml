@@ -189,5 +189,5 @@
     <!-- Reminder --><item class="com.samsung.android.app.reminder.ui.LaunchMainActivity" name="reminder"/>
     <!-- EMP Shop --><item class="de.cominto.blaetterkatalog.customer.emp.startup.StartUpActivity" name="emp_shop"/>
     <!-- Linguee --><item class="com.linguee.linguee.MainActivity" name="linguee"/>
-
+    <!-- Galaxy Store --><item class="com.sec.android.app.samsungapps.SamsungAppsMainActivity" name="galaxy_store"/>
 </appmap>

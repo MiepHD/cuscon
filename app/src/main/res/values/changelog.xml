@@ -5,6 +5,8 @@
     <string name="changelog_date">31.10.2022</string>
 
     <string-array name="changelog">
+        <item>2.4.4 -> 2.4.5:</item>
+        <item>Added Galaxy Store</item>
         <item>2.4.3 -> 2.4.4:</item>
         <item>Added EMP Shop, Linguee</item>
         <item>Changed icon</item>
