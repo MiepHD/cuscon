@@ -7,6 +7,9 @@ Icon-Pack with transpanrent icons that are outlined for good visibility.
 - dimension of 512x512px
 - approximate 30px transparent border
 - approximate 12px brush size
+
+# Other Contributors
+https://github.com/sourcrowd450
 # License
 ```
 Copyright (c) 2014-2016 Dani Mahardhika
