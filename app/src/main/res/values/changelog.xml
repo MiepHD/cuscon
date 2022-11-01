@@ -2,7 +2,7 @@
 <resources>
 
     <!-- Leave empty if you don't want to show changelog date -->
-    <string name="changelog_date">31.10.2022</string>
+    <string name="changelog_date">01.11.2022</string>
 
     <string-array name="changelog">
         <item>2.4.4 -> 2.4.5:</item>
