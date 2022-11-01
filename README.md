@@ -5,8 +5,8 @@ Icon-Pack with transpanrent icons that are outlined for good visibility.
 - Icons must be outlined in black
 - Icon must be visible on black background
 - dimension of 512x512px
-- approximate 30px transparent border
-- approximate 12px brush size
+- should have approximate 30px transparent border
+- should have approximate 12px brush size
 
 # Other Contributors
 https://github.com/sourcrowd450
