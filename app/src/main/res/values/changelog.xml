@@ -5,6 +5,8 @@
     <string name="changelog_date">31.10.2022</string>
 
     <string-array name="changelog">
+        <item>2.4.2 -> 2.4.3</item>
+        <item>Added Aliucord, Duden, hocus, Lawnchair-Settings, Quizlet, Reminder</item>
         <item>2.4.1 -> 2.4.2:</item>
         <item>Added support for more launchers</item>
         <item>Edited categories</item>
@@ -55,5 +57,4 @@
         <item>0 -> 1.6.1:</item>
         <item>Added Cloudflare, Adguard, Adobe Reader, Apkpure, Authenticator, Birday, Brave, Covpass, Darkland, Discord, Samsung Mail, Files, F-Droid, Gallery, Github, G-Mail, Gutefrage, Homeworker, I-Net Menue, Instagram, Calender, Camera, Keepass, Klocki, Kontakte, Aurora Store, Lucky Patcher, Netflix, Office Suite, Play Games, Amazon Prime Video, Samsung Music, ShapeOminues, Signal, Auto Sketchbook, Sound Assistant, Spingram, Steam, Calculator, Clock, Wallpaper, Whatsapp, Word Mix, Youtube, Youtube Music, ZDF Mediathek, Google Translate, Play Store, Organic Maps, DasDing, Diktiergerät, Google Drive, Google Photos, Messages, Newszone, Smart Things, Samsung Notes, DB Navigator, Amazon Music, Touch Portal, Corona, AMC, Munzee, UAV, Map2Fly</item>
     </string-array>
-
 </resources>

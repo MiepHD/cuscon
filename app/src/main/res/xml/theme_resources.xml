@@ -182,4 +182,11 @@
     <!-- Firewall --><item class="org.calyxos.datura.MainActivity" name="firewall"/>
     <!-- microG-Einstellungen --><AppIcon name="com.google.android.gms/org.microg.gms.ui.SettingsActivity" image="microg_einstellungen"/>
     <!-- Sicherung --><AppIcon name="com.stevesoltys.seedvault/com.stevesoltys.seedvault.settings.SettingsLink" image="sicherung"/>
+    <!-- Aliucord --><AppIcon name="com.aliucord/com.discord.app.AppActivity$Main" image="aliucord"/>
+    <!-- Duden Wörterbücher --><AppIcon name="com.duden.container/com.paragon.container.CatalogActivity" image="duden_worterbucher"/>
+    <!-- hocus --><AppIcon name="air.com.gamebrain.hocus/air.com.gamebrain.hocus.AppEntry" image="hocus"/>
+    <!-- Lawnchair-Einstellungen --><AppIcon name="ch.deletescape.lawnchair.plah/ch.deletescape.lawnchair.settings.ui.SettingsLauncherActivity" image="lawnchair_einstellungen"/>
+    <!-- Quizlet --><AppIcon name="com.quizlet.quizletandroie/com.quizlet.quizletandroie.ui.RootActivity" image="quizlet"/>
+    <!-- Reminder --><AppIcon name="com.samsung.android.app.reminder/com.samsung.android.app.reminder.ui.LaunchMainActivity" image="reminder"/>
+
 </Theme>

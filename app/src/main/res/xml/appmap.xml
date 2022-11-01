@@ -178,8 +178,14 @@
     <!-- Telegram X --><item class="org.thunderdog.challegram.MainActivity" name="telegram_x"/>
     <!-- VR Media Player --><item class="com.xojot.vrplayer.MainActivity" name="vr_media_player"/>
     <!-- ZArchiver --><item class="ru.zdevs.zarchiver.ZArchiver" name="zarchiver"/>
-    <!-- Firewall -->
-    <item class="org.calyxos.datura.MainActivity" name="firewall"/>
+    <!-- Firewall --><item class="org.calyxos.datura.MainActivity" name="firewall"/>
     <!-- microG-Einstellungen --><item class="org.microg.gms.ui.SettingsActivity" name="microg_einstellungen"/>
     <!-- Sicherung --><item class="com.stevesoltys.seedvault.settings.SettingsLink" name="sicherung"/>
+    <!-- Aliucord --><item class="com.discord.app.AppActivity$Main" name="aliucord"/>
+    <!-- Duden Wörterbücher --><item class="com.paragon.container.CatalogActivity" name="duden_worterbucher"/>
+    <!-- hocus --><item class="air.com.gamebrain.hocus.AppEntry" name="hocus"/>
+    <!-- Lawnchair-Einstellungen --><item class="ch.deletescape.lawnchair.settings.ui.SettingsLauncherActivity" name="lawnchair_einstellungen"/>
+    <!-- Quizlet --><item class="com.quizlet.quizletandroie.ui.RootActivity" name="quizlet"/>
+    <!-- Reminder --><item class="com.samsung.android.app.reminder.ui.LaunchMainActivity" name="reminder"/>
+
 </appmap>

@@ -197,5 +197,11 @@
     <!-- Firewall --><item component="ComponentInfo{org.calyxos.datura/org.calyxos.datura.MainActivity}" drawable="firewall" />
     <!-- microG-Einstellungen --><item component="ComponentInfo{com.google.android.gms/org.microg.gms.ui.SettingsActivity}" drawable="microg_einstellungen" />
     <!-- Sicherung --><item component="ComponentInfo{com.stevesoltys.seedvault/com.stevesoltys.seedvault.settings.SettingsLink}" drawable="sicherung" />
+    <!-- Aliucord --><item component="ComponentInfo{com.aliucord/com.discord.app.AppActivityMain}" drawable="aliucord" />
+    <!-- Duden Wörterbücher --><item component="ComponentInfo{com.duden.container/com.paragon.container.CatalogActivity}" drawable="duden_worterbucher" />
+    <!-- hocus --><item component="ComponentInfo{air.com.gamebrain.hocus/air.com.gamebrain.hocus.AppEntry}" drawable="hocus" />
+    <!-- Lawnchair-Einstellungen --><item component="ComponentInfo{ch.deletescape.lawnchair.plah/ch.deletescape.lawnchair.settings.ui.SettingsLauncherActivity}" drawable="lawnchair_einstellungen" />
+    <!-- Quizlet --><item component="ComponentInfo{com.quizlet.quizletandroie/com.quizlet.quizletandroie.ui.RootActivity}" drawable="quizlet" />
+    <!-- Reminder --><item component="ComponentInfo{com.samsung.android.app.reminder/com.samsung.android.app.reminder.ui.LaunchMainActivity}" drawable="reminder" />
 
 </resources>
