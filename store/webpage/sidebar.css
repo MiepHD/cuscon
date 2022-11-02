@@ -1,16 +1,17 @@
 #sidebar {
-	width: 5%;
+	width: 11ch;
 	height: 100%;
 	position: fixed;
 	left: 100%;
 	background-color: rgba(0,0,0,0.5);
 	transition: left .5s;
 	z-index: -1;
-	padding-top: 5%;
-	padding-left: 5px;
-	padding-right: 5px;
+	padding-top: 15ch;
+	padding-left: 1ch;
+	padding-right: 1ch;
 }
 #sidebar > a > img {
-	width: calc(100% - 10px);
+	width: 10ch;
 	height: auto;
+	float: right;
 }

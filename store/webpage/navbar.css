@@ -2,16 +2,29 @@
 nav {
 	position: fixed;
 	width: 100%;
-	height: 10%;
+	height: 10ch;
 	background-image: linear-gradient(rgb(0,0,0,255), rgba(0,0,0,0));
 	z-index: 6;
 }
 nav #menu {
-	height: auto;
-	width: 4%;
+	/*height: calc(10ch * ( 1 / var(--multiplicator)));
+	width: calc(10ch * ( 1 / var(--multiplicator)));*/
+	height: 10ch;
+	width: 10ch;
 	float: right;
-	margin-right: 5px;
-	margin-top: 5px;
+	margin-right: 1ch;
+	margin-top: 1ch;
 	z-index: 6;
-	transition: transform 0.5s;
+	cursor: pointer;
+	transition: transform .5s;
+}
+#iconwithname{
+	height: 10ch;
+	width: auto;
+	float: left;
+	margin-left: 1ch;
+	margin-top: 1ch;
+	position: relative;
+	transition: top 0.5s;
+	top: -500px;
 }

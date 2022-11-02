@@ -5,7 +5,7 @@ function showSidebar() {
 		document.getElementById("menu").style.transform = "rotate(0deg)";
 		shown = false;
 	} else {
-		document.getElementById("sidebar").style.left = "95%";
+		document.getElementById("sidebar").style.left = document.querySelector("body").offsetWidth - document.getElementById("sidebar").offsetWidth;
 		document.getElementById("menu").style.transform = "rotate(90deg)";
 		shown = true;
 	}

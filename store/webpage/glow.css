@@ -6,6 +6,8 @@
 	height: auto;
 	position: relative;
 	width: 100%;
+	margin-top: 5px;
+	margin-bottom: 5px;
 }
 .card::before {
 	background: radial-gradient(
@@ -20,7 +22,7 @@
 	position: absolute;
 	top: 0px;
 	width: 100%;
-	z-index: 2;
+	z-index: -1;
 	opacity: 0;
 	transition: opacity 500ms;
 }

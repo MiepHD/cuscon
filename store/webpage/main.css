@@ -7,20 +7,18 @@ body {
 }
 #iconlist img {
 	display: inline-flex;
-	width: 5%;
+	width: 10ch;
 	height: auto;
+	position: relative;
+	top: 50px;
+	transition: top .5s;
 }
-h1 {
+h2 {
 	text-align: center;
-	font-size: 10vw;
+	font-size: 5ch;
 }
-p {
-	font-size: 2vw;
-}
-#iconwithname{
-	height: auto;
-	width: 10%;
-	float: left;
+h3 {
+	font-size: 3ch;
 }
 /*Starting Page*/
 #main-image {
@@ -31,10 +29,12 @@ p {
 	padding-top: 10%;
 }
 #content {
-	margin-left: 20px;
-	margin-right: 20px;
+	margin-left: 2ch;
+	margin-right: 2ch;
 	margin-top: 12.5%;
+	margin-bottom: 1ch;
 }
 .card-content {
-	padding: 5px;
+	padding: 1ch;
+	font-size: 2ch;
 }
