@@ -1,0 +1,40 @@
+/*Background*/
+body {
+	background-image: linear-gradient(rgb(44, 33, 96), rgb(76,33,96), rgb(33,53,96));
+	color: white;
+	font-family: Arial Black;
+	margin: 0px;
+}
+#iconlist img {
+	display: inline-flex;
+	width: 5%;
+	height: auto;
+}
+h1 {
+	text-align: center;
+	font-size: 10vw;
+}
+p {
+	font-size: 2vw;
+}
+#iconwithname{
+	height: auto;
+	width: 10%;
+	float: left;
+}
+/*Starting Page*/
+#main-image {
+	display: flex;
+	width: 50%;
+	margin-left: auto;
+	margin-right: auto;
+	padding-top: 10%;
+}
+#content {
+	margin-left: 20px;
+	margin-right: 20px;
+	margin-top: 12.5%;
+}
+.card-content {
+	padding: 5px;
+}

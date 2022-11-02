@@ -1,0 +1,29 @@
+/*Glow effect*/
+.card {
+	background-color: rgba(255, 255, 255, 0.02);
+	border: 3px solid rgba(255, 255, 255, 0.1);
+	border-radius: 15px;
+	height: auto;
+	position: relative;
+	width: 100%;
+}
+.card::before {
+	background: radial-gradient(
+		800px circle at var(--mouse-x) var(--mouse-y),
+		rgba(255, 255, 255, 0.06),
+		transparent 40%
+	);
+	border-radius: 10px;
+	content: "";
+	height: 100%;
+	left: 0px;
+	position: absolute;
+	top: 0px;
+	width: 100%;
+	z-index: 2;
+	opacity: 0;
+	transition: opacity 500ms;
+}
+.card:hover::before {
+	opacity: 1;
+}
