@@ -69,7 +69,7 @@
     <item class="com.amazon.mp3.client.activity.LauncherActivity" image="amazon_music"/>
     <item class="rils.apps.touchportal.MainActivity" image="touch_portal"/>
     <item class="ru.aGblZgBZ.WjiFexVkX.MainActivity1" image="lucky_patcher"/>
-    <item class="de.rki.coronawarnapp.ui.launcher.LauncherActivity" image="corona_warn-app"/>
+    <item class="de.rki.coronawarnapp.ui.launcher.LauncherActivity" image="corona_warn_app"/>
     <item class="com.freezetag.munzee.MainActivity" image="munzee"/>
     <item class="f.f.freezer.MainActivity" image="freezer"/>
     <item class="com.sony.playmemories.mobile.splash.SplashActivity" image="imaging_edge_mobile"/>

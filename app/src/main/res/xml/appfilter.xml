@@ -85,7 +85,7 @@
     <item component="ComponentInfo{com.amazon.mp3/com.amazon.mp3.client.activity.LauncherActivity}" drawable="amazon_music"/>
     <item component="ComponentInfo{rils.apps.touchportal/rils.apps.touchportal.MainActivity}" drawable="touch_portal"/>
     <item component="ComponentInfo{ru.aGblZgBZ.WjiFexVkX/ru.aGblZgBZ.WjiFexVkX.MainActivity1}" drawable="lucky_patcher"/>
-    <item component="ComponentInfo{de.corona.tracing/de.rki.coronawarnapp.ui.launcher.LauncherActivity}" drawable="corona_warn-app"/>
+    <item component="ComponentInfo{de.corona.tracing/de.rki.coronawarnapp.ui.launcher.LauncherActivity}" drawable="corona_warn_app"/>
     <item component="ComponentInfo{com.freezetag.munzee/com.freezetag.munzee.MainActivity}" drawable="munzee"/>
     <item component="ComponentInfo{f.f.freezer/f.f.freezer.MainActivity}" drawable="freezer"/>
     <item component="ComponentInfo{com.sony.playmemories.mobile/com.sony.playmemories.mobile.splash.SplashActivity}" drawable="imaging_edge_mobile"/>

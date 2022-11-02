@@ -210,5 +210,5 @@
     <!-- Öffi Verbindungen --><item drawable="offi_verbindungen" />
     <item drawable="db_navigator" />
     <item drawable="flix" />
-    <item drawable="corona_warn-app" />
+    <item drawable="corona_warn_app" />
 </resources>

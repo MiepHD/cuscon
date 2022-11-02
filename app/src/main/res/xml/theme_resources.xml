@@ -70,7 +70,7 @@
     <AppIcon name="com.amazon.mp3/com.amazon.mp3.client.activity.LauncherActivity" image="amazon_music"/>
     <AppIcon name="rils.apps.touchportal/rils.apps.touchportal.MainActivity" image="touch_portal"/>
     <AppIcon name="ru.aGblZgBZ.WjiFexVkX/ru.aGblZgBZ.WjiFexVkX.MainActivity1" image="lucky_patcher"/>
-    <AppIcon name="de.corona.tracing/de.rki.coronawarnapp.ui.launcher.LauncherActivity" image="corona_warn-app"/>
+    <AppIcon name="de.corona.tracing/de.rki.coronawarnapp.ui.launcher.LauncherActivity" image="corona_warn_app"/>
     <AppIcon name="com.freezetag.munzee/com.freezetag.munzee.MainActivity" image="munzee"/>
     <AppIcon name="f.f.freezer/f.f.freezer.MainActivity" image="freezer"/>
     <AppIcon name="com.sony.playmemories.mobile/com.sony.playmemories.mobile.splash.SplashActivity" image="imaging_edge_mobile"/>
