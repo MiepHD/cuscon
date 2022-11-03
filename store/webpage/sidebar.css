@@ -1,14 +1,14 @@
 #sidebar {
-	width: 11ch;
+	width: calc(var(--normal-size) * 1.1);
 	height: 100%;
 	position: fixed;
 	left: 100%;
-	background-color: rgba(0,0,0,0.5);
+	background-color: var(--sidebar-background);
 	transition: left .5s;
 	z-index: -1;
-	padding-top: 15ch;
-	padding-left: 1ch;
-	padding-right: 1ch;
+	padding-top: calc(var(--normal-size) * 1.5);
+	padding-left: calc(var(--normal-size) / 10);
+	padding-right: calc(var(--normal-size) / 10);
 }
 #sidebar > a > img {
 	width: 100%;

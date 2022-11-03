@@ -6,13 +6,14 @@
 	height: auto;
 	position: relative;
 	width: 100%;
-	margin-top: 5px;
-	margin-bottom: 5px;
+	margin-top: calc(var(--normal-size) / 10);
+	margin-bottom: calc(var(--normal-size) / 10);
 }
 .card::before {
+	/*Light*/
 	background: radial-gradient(
 		800px circle at var(--mouse-x) var(--mouse-y),
-		rgba(255, 255, 255, 0.06),
+		var(--light-color),
 		transparent 40%
 	);
 	border-radius: 10px;

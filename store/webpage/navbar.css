@@ -7,21 +7,21 @@ nav {
 	z-index: 6;
 }
 nav > #menu {
-	height: 10ch;
-	width: 10ch;
+	height: var(--normal-size);
+	width: var(--normal-size);
 	float: right;
-	margin-right: 1ch;
-	margin-top: 1ch;
+	margin-right: calc(var(--normal-size) / 10);
+	margin-top: calc(var(--normal-size) / 10);
 	z-index: 6;
 	cursor: pointer;
 	transition: transform .5s;
 }
 #iconwithname{
-	height: 10ch;
+	height: var(--normal-size);
 	width: auto;
 	float: left;
-	margin-left: 1ch;
-	margin-top: 1ch;
+	margin-left: calc(var(--normal-size) / 10);
+	margin-top: calc(var(--normal-size) / 10);
 	position: relative;
 	transition: top 0.5s;
 	top: -500px;

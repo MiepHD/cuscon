@@ -1,10 +1,11 @@
 /*Background*/
 body {
-	background-image: linear-gradient(rgb(44, 33, 96), rgb(76,33,96), rgb(33,53,96));
-	color: white;
+	background-image: linear-gradient(var(--background-gradient));
+	color: var(--text-color);
 	font-family: Arial Black;
 	margin: 0px;
 }
+/*Set for every table*/
 .tiles {
 	display: grid;
 	grid-template-columns: repeat(var(--columns), 1fr);
@@ -12,18 +13,20 @@ body {
 }
 #iconlist img {
 	display: initial;
-	width: 10ch;
+	/*Only temporary size. Should get replaced from js with exact size*/
+	width: var(--normal-size);
 	height: auto;
 	position: relative;
 	top: 50px;
 	transition: top .5s;
 }
+/*Titles*/
 h2 {
 	text-align: center;
-	font-size: 5ch;
+	font-size: calc(var(--normal-size) / 2);
 }
 h3 {
-	font-size: 3ch;
+	font-size: calc(var(--normal-size) / 3);
 }
 /*Starting Page*/
 #main-image {
@@ -35,12 +38,19 @@ h3 {
 	z-index: -1;
 }
 #content {
-	margin-left: 2ch;
-	margin-right: 2ch;
+	margin-left: calc(var(--normal-size) / 5);
+	margin-right: calc(var(--normal-size) / 5);
 	margin-top: 12.5%;
-	margin-bottom: 1ch;
+	margin-bottom: calc(var(--normal-size) / 10);
 }
 .card-content {
-	padding: 1ch;
-	font-size: 2ch;
+	padding: calc(var(--normal-size) / 10);
+	font-size: calc(var(--normal-size) / 5);
+}
+:root {
+	--sidebar-background: rgba(0,0,0,0.5);
+	--light-color: rgba(255, 255, 255, 0.06);
+	--background-gradient: rgb(44, 33, 96), rgb(76,33,96), rgb(33,53,96);
+	--text-color: white;
+	--normal-size: 10ch;
 }
