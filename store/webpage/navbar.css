@@ -2,7 +2,7 @@
 nav {
 	position: fixed;
 	width: 100%;
-	height: 12ch;
+	height: calc(var(--normal-size) * 1.2);
 	background-image: linear-gradient(rgb(0,0,0,255), rgba(0,0,0,0));
 	z-index: 6;
 }
@@ -17,8 +17,8 @@ nav > #menu {
 	transition: transform .5s;
 }
 #iconwithname{
-	height: var(--normal-size);
-	width: auto;
+	height: auto;
+	width: calc(var(--normal-size) * 2);
 	float: left;
 	margin-left: calc(var(--normal-size) / 10);
 	margin-top: calc(var(--normal-size) / 10);

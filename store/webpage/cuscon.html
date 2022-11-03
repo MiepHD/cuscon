@@ -316,6 +316,19 @@
 				Cuscon sammelt und versendet keine Daten.
 			</div>
 		</div>
-		<center><a class="link" href="http://miep-hd.froxot.com/info/info.php">Impressum</a></center>
+		<center><a class="link" href="http://miep-hd.froxot.com/info/info.php">Impressum</a><span id="resolution"></span></center>
 	</div>
 </body>
+<script>
+window.addEventListener('resize', show);
+show();
+function show() {
+	document.getElementById("menu").style.height = "10ch";
+	normal = document.getElementById("menu").offsetHeight;
+	document.getElementById("menu").style.height = "";
+	//newsize = `${normal * (500 / window.screen.availWidth)}px`;
+	newsize = `${(-0.023 * window.screen.availWidth) + 142.34}px`;
+	document.querySelector(":root").style.setProperty("--normal-size", newsize);
+	document.getElementById("resolution").innerHTML = `${window.screen.availWidth} ${window.screen.availHeight} ${newsize}`;
+}
+</script>

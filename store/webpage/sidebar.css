@@ -6,7 +6,7 @@
 	background-color: var(--sidebar-background);
 	transition: left .5s;
 	z-index: -1;
-	padding-top: calc(var(--normal-size) * 1.5);
+	padding-top: calc(var(--normal-size));
 	padding-left: calc(var(--normal-size) / 10);
 	padding-right: calc(var(--normal-size) / 10);
 }

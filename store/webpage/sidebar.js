@@ -12,7 +12,7 @@ function showSidebar() {
 		left = document.querySelector("body").offsetWidth - width;
 		sidebar = document.getElementById("sidebar");
 		sidebar.style.left = `${left}px`;
-		sidebar.style.paddingTop = `${width}px`;
+		sidebar.style.paddingTop = `${width * 1.1}px`;
 		document.getElementById("menu").style.transform = "rotate(90deg)";
 		shown = true;
 	}
