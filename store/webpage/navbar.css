@@ -26,13 +26,3 @@ nav > #menu {
 	transition: top 0.5s;
 	top: -500px;
 }
-@media only screen and (max-width: 480px) {
-	  nav > #menu {
-		height: auto;
-		width: 19%;
-	  }
-	  #iconwithname{
-		width: 50%;
-		height: auto;
-	}
-}

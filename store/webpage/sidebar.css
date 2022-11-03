@@ -15,9 +15,3 @@
 	height: auto;
 	float: right;
 }
-@media only screen and (max-width: 480px) {
-  #sidebar {
-		width: 20%;
-		padding-top: 25%;
-	}
-}
