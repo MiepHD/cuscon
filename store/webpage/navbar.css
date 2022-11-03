@@ -6,7 +6,7 @@ nav {
 	background-image: linear-gradient(rgb(0,0,0,255), rgba(0,0,0,0));
 	z-index: 6;
 }
-nav #menu {
+nav > #menu {
 	height: 10ch;
 	width: 10ch;
 	float: right;
@@ -25,4 +25,10 @@ nav #menu {
 	position: relative;
 	transition: top 0.5s;
 	top: -500px;
+}
+@media only all and (max-width: 600px) {
+  nav > #menu {
+    height: 50ch;
+	width: 50ch;
+  }
 }
