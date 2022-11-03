@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <head>
 	<script src="glow.js"></script>
 	<script src="sidebar.js"></script>
@@ -8,6 +9,9 @@
 	<link rel="stylesheet" href="sidebar.css">
 	<link rel="stylesheet" href="navbar.css">
 	<link rel="stylesheet" href="magic_links.css">
+	<link rel="stylesheet" href="infobox.css">
+	<link rel="icon" type="image/x-icon" href="icons/cuscon.png">
+	<title>Cuscon</title>
 </head>
 <body>
 	<nav>
@@ -17,7 +21,7 @@
 			<a href="https://github.com/MiepHD/cuscon" target="_blank">
 				<img src="icons/github.png">
 			</a>
-			<a href="" target="">
+			<a href="https://play.google.com/store/apps/details?id=com.froxot.cuscon" target="_blank">
 				<img src="icons/google_play_store.png">
 			</a>
 			<a href="https://froxot.com/icon-pack-anwendung-erstellen/" target="_blank">
@@ -38,6 +42,13 @@
 			</div>
 		</div>
 		<div id="iconlist">
+			<div id="infobox">
+				<div class="card">
+					<div class="card-content">
+						Infobox
+					</div>
+				</div>
+			</div>
 			<h2>
 			Supported icons
 			</h2>
@@ -45,7 +56,7 @@
 			<div class="tiles">
 			<img src="icons/birday.png">
 			<img src="icons/covpass.png">
-			<img src="icons/github.png">
+			<img data-info="The app's <a class='link' href='https://github.com/MiepHD/cuscon' target='_blank'>Github Repository</a>." src="icons/github.png">
 			<img src="icons/i_net_menue.png">
 			<img src="icons/samsung_calander.png">
 			<img src="icons/autodesk_sketchbook.png">
@@ -54,7 +65,7 @@
 			<img src="icons/google_translate.png">
 			<img src="icons/amc_coocking.png">
 			<img src="icons/voicenote.png">
-			<img src="icons/smart_things.png">
+			<img data-info="The icon-pack's logo is inspired from this one." src="icons/smart_things.png">
 			<img src="icons/uav_forecast.png">
 			<img src="icons/map2fly.png">
 			<img src="icons/munzee.png">
@@ -65,7 +76,7 @@
 			<img src="icons/dji_fly.png">
 			<img src="icons/aldi_talk.png">
 			<img src="icons/kilterboard.png">
-			<img src="icons/cuscon.png">
+			<img data-info="The icon of this icon-pack." src="icons/cuscon.png">
 			<!-- Aegis --><img src="icons/aegis.png">
 			<!-- Bahnhofsfotos --><img src="icons/bahnhofsfotos.png">
 			<!-- BetterCounter --><img src="icons/bettercounter.png">
@@ -118,7 +129,7 @@
 			<img src="icons/f_droid.png">
 			<img src="icons/aurora_store.png">
 			<img src="icons/steam.png">
-			<img src="icons/google_play_store.png">
+			<img data-info="Download the icon-pack from the <a class='link' href='https://play.google.com/store/apps/details?id=com.froxot.cuscon' target='blank'>Google Play Store</a>." src="icons/google_play_store.png">
 			<img src="icons/playmods.png">
 			<img src="icons/google_play_games.png">
 			<!-- EMP Shop --><img src="icons/emp_shop.png">
@@ -165,7 +176,7 @@
 			<div class="tiles">
 			<img src="icons/gmail.png">
 			<img src="icons/discord.png">
-			<img src="icons/samsung_mail.png">
+			<img data-info="E-Mail: <a class='link' href='mailto:miep_hd@froxot.com'>miep_hd@froxot.com</a>" src="icons/samsung_mail.png">
 			<img src="icons/samsung_messages.png">
 			<img src="icons/phone.png">
 			<img src="icons/reddit.png">

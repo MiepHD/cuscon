@@ -7,8 +7,6 @@ nav {
 	z-index: 6;
 }
 nav #menu {
-	/*height: calc(10ch * ( 1 / var(--multiplicator)));
-	width: calc(10ch * ( 1 / var(--multiplicator)));*/
 	height: 10ch;
 	width: 10ch;
 	float: right;

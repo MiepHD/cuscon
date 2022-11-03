@@ -1,0 +1,6 @@
+#infobox {
+	grid-column: 1 / var(--length);
+	grid-row: var(--row) / calc(var(--row) + 1);
+	transform: scaleY(0);
+	transition: transform 0.2s;
+}

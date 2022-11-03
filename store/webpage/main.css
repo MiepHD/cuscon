@@ -5,8 +5,13 @@ body {
 	font-family: Arial Black;
 	margin: 0px;
 }
+.tiles {
+	display: grid;
+	grid-template-columns: repeat(var(--columns), 1fr);
+	grid-template-rows: repeat(var(--rows), 1fr);
+}
 #iconlist img {
-	display: inline-flex;
+	display: initial;
 	width: 10ch;
 	height: auto;
 	position: relative;
