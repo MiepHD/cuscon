@@ -11,7 +11,13 @@
 	padding-right: 1ch;
 }
 #sidebar > a > img {
-	width: 10ch;
+	width: 100%;
 	height: auto;
 	float: right;
+}
+@media only screen and (max-width: 480px) {
+  #sidebar {
+		width: 20%;
+		padding-top: 25%;
+	}
 }

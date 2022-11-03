@@ -3,7 +3,7 @@ function setIconWidths() {
 	fullwidth = document.querySelector(".tiles").offsetWidth;
 	number = Math.floor(fullwidth / minwidth);
 	width = fullwidth / number;
-	width = width - width / 17.84;
+	//width = width - width / 17.84;
 	document.getElementById("iconlist").setAttribute("length", number + 1);
 	lists = document.querySelectorAll(".tiles");
 	iconposition = 0;
@@ -17,7 +17,8 @@ function setIconWidths() {
 				icon.addEventListener("click", showInfo);
 				icon.style.cursor = "pointer";
 			}
-			icon.style.width = width;
+			icon.style.width = `${width}px`;
+			icon.style.height = `${width}px`;
 			row = Math.floor(totaliconsperlist / number) + 1;
 			icon.setAttribute("row", row + 1);
 			totaliconsperlist = totaliconsperlist + 1;

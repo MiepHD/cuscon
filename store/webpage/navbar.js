@@ -6,8 +6,10 @@ document.addEventListener('DOMContentLoaded', function() {
 			if (entry.isIntersecting) {
 				height = Math.ceil(movingImage.offsetHeight * -2);
 				movingImage.style.top = `${height}px`;
+				showSidebar();
 			} else {
 				movingImage.style.top = "0px";
+				hideSidebar();
 			}
 		});
 	});
