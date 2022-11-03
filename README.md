@@ -1,4 +1,5 @@
-# Cuscon
+![icon_with_name](https://user-images.githubusercontent.com/63968466/199735134-26d1c273-6306-4ea5-aeca-981fead14a72.png)
+
 Icon-Pack with transpanrent icons that are outlined for good visibility.
 
 # Requirements for contributing icons
