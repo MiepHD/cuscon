@@ -1,0 +1,15 @@
+<Theme version="1">
+
+	<!-- Der Postillon -->
+	<AppIcon name="com.postillon/io.gonative.android.SplashActivity" image="der_postillon"/>
+
+	<!-- DSBmobile -->
+	<AppIcon name="de.heinekingmedia.dsbmobile/de.heinekingmedia.dsbmobile.ui.activities.LoginActivity" image="dsbmobile"/>
+
+	<!-- Lawnchair -->
+	<AppIcon name="ch.deletescape.lawnchair.plah/ch.deletescape.lawnchair.LawnchairLauncher" image="lawnchair"/>
+
+	<!-- Vanced Manager -->
+	<AppIcon name="com.vanced.manager/com.vanced.manager.ui.SplashScreenActivity" image="vanced_manager"/>
+
+</Theme>

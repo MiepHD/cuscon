@@ -1,0 +1,15 @@
+<appmap>
+
+	<!-- Der Postillon -->
+	<item class="io.gonative.android.SplashActivity" name="der_postillon"/>
+
+	<!-- DSBmobile -->
+	<item class="de.heinekingmedia.dsbmobile.ui.activities.LoginActivity" name="dsbmobile"/>
+
+	<!-- Lawnchair -->
+	<item class="ch.deletescape.lawnchair.LawnchairLauncher" name="lawnchair"/>
+
+	<!-- Vanced Manager -->
+	<item class="com.vanced.manager.ui.SplashScreenActivity" name="vanced_manager"/>
+
+</appmap>
