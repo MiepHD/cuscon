@@ -4,3 +4,25 @@
 	transform: scaleY(0);
 	transition: transform 0.2s;
 }
+#infobox-title {
+	grid-column: 1 / 4;
+	grid-row: 1 / 2;
+}
+#infobox-title.no-author {
+	grid-column: 1 / 5;
+}
+#info {
+	grid-column: 1 / 5;
+	grid-row: 2 / 3;
+	width: auto;
+	height: auto;
+}
+#author {
+	grid-column: 4 / 5;
+	grid-row: 1 / 2;
+	text-align: right;
+}
+#infobox > .card > .card-content {
+	display: grid;
+	grid-template-columns: repeat(4, 1fr);
+}

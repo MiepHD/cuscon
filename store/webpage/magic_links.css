@@ -7,7 +7,7 @@
 		background-position: -200% center;
 	}
 }
-.link {
+a {
 	animation: background-pan 3s linear infinite;
 	background: linear-gradient(
 		to right,

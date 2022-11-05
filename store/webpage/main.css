@@ -9,7 +9,6 @@ body {
 .tiles {
 	display: grid;
 	grid-template-columns: repeat(var(--columns), 1fr);
-	grid-template-rows: repeat(var(--rows), 1fr);
 }
 #iconlist img {
 	display: initial;
@@ -27,6 +26,16 @@ h2 {
 }
 h3 {
 	font-size: calc(var(--normal-size) / 3);
+}
+h4 {
+	font-size: calc(var(--normal-size) / 3);
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+h5 {
+	font-size: calc(var(--normal-size) / 5.5);
+	margin-top: 0px;
+	margin-bottom: 0px;
 }
 /*Starting Page*/
 #main-image {

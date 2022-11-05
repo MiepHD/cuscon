@@ -12,7 +12,7 @@ function setIconWidths() {
 		tiles = x.children;
 		totaliconsperlist = 0;
 		for (icon of tiles) {
-			if (icon.getAttribute("data-info")!=undefined) {
+			if ((icon.getAttribute("data-info")!=undefined||icon.getAttribute("data-author")!=undefined)&&icon.getAttribute("data-icon-name")!=undefined) {
 				icon.setAttribute("position", iconposition);
 				icon.addEventListener("click", showInfo);
 				icon.style.cursor = "pointer";
@@ -47,8 +47,35 @@ function displayBox() {
 	infobox.style.setProperty("--row", icon.getAttribute("row"));
 	icon.parentElement.appendChild(infobox);
 	setTimeout(function () {
-		contentspace = infobox.children[0].children[0];
-		contentspace.innerHTML = icon.getAttribute("data-info");
+		//Variables for info
+		infocontentelement = document.getElementById("info-content");
+		infoelement = document.getElementById("info");
+		info = icon.getAttribute("data-info");
+		
+		//Variables for author
+		authorcontentelement = document.getElementById("author-name");
+		authorelement = document.getElementById("author");
+		author = icon.getAttribute("data-author");
+		
+		//Variables for icon-name
+		iconnameelement = document.getElementById("infobox-title");
+		iconname = icon.getAttribute("data-icon-name");
+		if (info==undefined) {
+			infoelement.style.display = "none";
+		} else {
+			infocontentelement.innerHTML = info;
+			infoelement.style.display = "block";
+		}
+		if (author==undefined) {
+			authorelement.style.display = "none";
+			iconnameelement.classList.add("no-author");
+		} else {
+			iconnameelement.classList.remove("no-author");
+			authorcontentelement.innerHTML = author;
+			authorcontentelement.href = `https://github.com/${author}`;
+			authorelement.style.display = "block";
+		}
+		iconnameelement.textContent = iconname;
 		infobox.style.transform = "scaleY(1)";
 	}, 100);
 }
