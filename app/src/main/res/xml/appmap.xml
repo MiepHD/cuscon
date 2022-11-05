@@ -192,6 +192,6 @@
     <!-- Galaxy Store --><item class="com.sec.android.app.samsungapps.SamsungAppsMainActivity" name="galaxy_store"/>
     <!-- HappyMod --><item class="com.happymod.apk.hmmvp.allfunction.LaunchActivity" name="happymod"/>
     <!-- MEGA --><item class="mega.privacy.android.app.main.ManagerActivity" name="mega"/>
-
+    <!-- Info Dienste --><item class="com.android.stk.StkMain" name="info_dienste"/>
 
 </appmap>

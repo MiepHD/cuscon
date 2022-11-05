@@ -9,9 +9,6 @@
 	<!-- Commute -->
 	<AppIcon name="com.mediocre.commute/com.mediocre.commute.Main" image="commute"/>
 
-	<!-- Info Dienste -->
-	<AppIcon name="com.android.stk/com.android.stk.StkMain" image="info_dienste"/>
-
 	<!-- Lawnchair -->
 	<AppIcon name="ch.deletescape.lawnchair.plah/ch.deletescape.lawnchair.LawnchairLauncher" image="lawnchair"/>
 

@@ -9,9 +9,6 @@
 	<!-- Commute -->
 	<item class="com.mediocre.commute.Main" name="commute"/>
 
-	<!-- Info Dienste -->
-	<item class="com.android.stk.StkMain" name="info_dienste"/>
-
 	<!-- Lawnchair -->
 	<item class="ch.deletescape.lawnchair.LawnchairLauncher" name="lawnchair"/>
 

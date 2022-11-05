@@ -9,9 +9,6 @@
 	<!-- Commute -->
 	<item component="ComponentInfo{com.mediocre.commute/com.mediocre.commute.Main}" drawable="commute" />
 
-	<!-- Info Dienste -->
-	<item component="ComponentInfo{com.android.stk/com.android.stk.StkMain}" drawable="info_dienste" />
-
 	<!-- Lawnchair -->
 	<item component="ComponentInfo{ch.deletescape.lawnchair.plah/ch.deletescape.lawnchair.LawnchairLauncher}" drawable="lawnchair" />
 

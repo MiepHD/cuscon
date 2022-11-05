@@ -193,5 +193,5 @@
     <!-- Galaxy Store --><AppIcon name="com.sec.android.app.samsungapps/com.sec.android.app.samsungapps.SamsungAppsMainActivity" image="galaxy_store"/>
     <!-- HappyMod --><AppIcon name="com.happymod.apk/com.happymod.apk.hmmvp.allfunction.LaunchActivity" image="happymod"/>
     <!-- MEGA --><AppIcon name="mega.privacy.android.app/mega.privacy.android.app.main.ManagerActivity" image="mega"/>
-
+    <!-- Info Dienste --><AppIcon name="com.android.stk/com.android.stk.StkMain" image="info_dienste"/>
 </Theme>

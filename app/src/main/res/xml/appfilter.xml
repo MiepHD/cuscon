@@ -208,4 +208,5 @@
     <!-- Galaxy Store --><item component="ComponentInfo{com.sec.android.app.samsungapps/com.sec.android.app.samsungapps.SamsungAppsMainActivity}" drawable="galaxy_store" />
     <!-- HappyMod --><item component="ComponentInfo{com.happymod.apk/com.happymod.apk.hmmvp.allfunction.LaunchActivity}" drawable="happymod" />
     <!-- MEGA --><item component="ComponentInfo{mega.privacy.android.app/mega.privacy.android.app.main.ManagerActivity}" drawable="mega" />
+    <!-- Info Dienste --><item component="ComponentInfo{com.android.stk/com.android.stk.StkMain}" drawable="info_dienste" />
 </resources>

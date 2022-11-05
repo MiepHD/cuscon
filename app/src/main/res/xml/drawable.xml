@@ -35,7 +35,7 @@
     <!-- TCL Connect --><item drawable="tcl_connect" />
     <!-- Lawnchair-Einstellungen --><item drawable="lawnchair_einstellungen" />
     <!-- Reminder --><item drawable="reminder" />
-
+    <!-- Info Dienste --><item drawable="info_dienste" />
 
     <category title="Stores" />
     <item drawable="apkpure" />
