@@ -80,7 +80,7 @@ function displayBox() {
 	}, 100);
 }
 function addTooltip() {
-  links = document.querySelectorAll("a");
+  links = document.querySelectorAll("a.unavailable");
   for (link of links) {
     if (link.children[0]==undefined) {
 			span = document.createElement("span");
