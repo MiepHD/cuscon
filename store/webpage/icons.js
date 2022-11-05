@@ -12,7 +12,7 @@ function setIconWidths() {
 		tiles = x.children;
 		totaliconsperlist = 0;
 		for (icon of tiles) {
-			if ((icon.getAttribute("data-info")!=undefined||icon.getAttribute("data-author")!=undefined)&&icon.getAttribute("data-icon-name")!=undefined) {
+			if ((icon.getAttribute("data-info")!=undefined||icon.getAttribute("data-author")!=undefined)&&icon.getAttribute("data-title")!=undefined) {
 				icon.setAttribute("position", iconposition);
 				icon.addEventListener("click", showInfo);
 				icon.style.cursor = "pointer";
@@ -57,7 +57,7 @@ function displayBox() {
 
 		//Variables for icon-name
 		titleelement = document.getElementById("infobox-title");
-		title = icon.getAttribute("data-icon-name");
+		title = icon.getAttribute("data-title");
 
 		if (info==undefined) {
 			infoelement.style.display = "none";
