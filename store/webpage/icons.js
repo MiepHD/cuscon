@@ -48,34 +48,33 @@ function displayBox() {
 	icon.parentElement.appendChild(infobox);
 	setTimeout(function () {
 		//Variables for info
-		infocontentelement = document.getElementById("info-content");
-		infoelement = document.getElementById("info");
+		infoelement = document.getElementById("infobox-info");
 		info = icon.getAttribute("data-info");
-		
+
 		//Variables for author
-		authorcontentelement = document.getElementById("author-name");
-		authorelement = document.getElementById("author");
+		authorelement = document.getElementById("infobox-author");
 		author = icon.getAttribute("data-author");
-		
+
 		//Variables for icon-name
-		iconnameelement = document.getElementById("infobox-title");
-		iconname = icon.getAttribute("data-icon-name");
+		titleelement = document.getElementById("infobox-title");
+		title = icon.getAttribute("data-icon-name");
+
 		if (info==undefined) {
 			infoelement.style.display = "none";
 		} else {
-			infocontentelement.innerHTML = info;
+			infoelement.innerHTML = info;
 			infoelement.style.display = "block";
 		}
 		if (author==undefined) {
 			authorelement.style.display = "none";
-			iconnameelement.classList.add("no-author");
+			titleelement.classList.add("no-author");
 		} else {
-			iconnameelement.classList.remove("no-author");
-			authorcontentelement.innerHTML = author;
-			authorcontentelement.href = `https://github.com/${author}`;
+			titleelement.classList.remove("no-author");
+			authorelement.innerHTML = author;
+			authorelement.href = `https://github.com/${author}`;
 			authorelement.style.display = "block";
 		}
-		iconnameelement.textContent = iconname;
+		titleelement.textContent = title;
 		infobox.style.transform = "scaleY(1)";
 	}, 100);
 }

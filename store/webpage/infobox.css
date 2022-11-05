@@ -11,13 +11,13 @@
 #infobox-title.no-author {
 	grid-column: 1 / 5;
 }
-#info {
+#infobox-info {
 	grid-column: 1 / 5;
 	grid-row: 2 / 3;
 	width: auto;
 	height: auto;
 }
-#author {
+#infobox-author {
 	grid-column: 4 / 5;
 	grid-row: 1 / 2;
 	text-align: right;
