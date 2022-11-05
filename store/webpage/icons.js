@@ -65,6 +65,7 @@ function displayBox() {
 			infoelement.innerHTML = info;
 			infoelement.style.display = "block";
 		}
+		addTooltip();
 		if (author==undefined) {
 			authorelement.style.display = "none";
 			titleelement.classList.add("no-author");
@@ -77,6 +78,18 @@ function displayBox() {
 		titleelement.textContent = title;
 		infobox.style.transform = "scaleY(1)";
 	}, 100);
+}
+function addTooltip() {
+  links = document.querySelectorAll("a");
+  for (link of links) {
+    if (link.children[0]==undefined) {
+			span = document.createElement("span");
+      span.classList.add("unavailable-tooltip");
+      span.textContent = "Coming soon";
+			link.appendChild(span);
+			span.style.marginLeft = `-${span.offsetWidth / 2}px`;
+    }
+  }
 }
 document.addEventListener('DOMContentLoaded', function() {
 	const observer = new IntersectionObserver((entries) => {
@@ -95,4 +108,5 @@ document.addEventListener('DOMContentLoaded', function() {
 	}
 	window.addEventListener('resize', setIconWidths);
 	setIconWidths();
+	addTooltip();
 }, false);
