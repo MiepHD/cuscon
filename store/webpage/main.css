@@ -28,7 +28,7 @@ h3 {
 	font-size: calc(var(--normal-size) / 3);
 }
 h4 {
-	font-size: calc(var(--normal-size) / 3);
+	font-size: calc(var(--normal-size) / 4);
 	margin-top: 0px;
 	margin-bottom: 0px;
 }
