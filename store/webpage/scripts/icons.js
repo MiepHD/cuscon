@@ -1,9 +1,11 @@
+//Calculates the width to fill the full width
 function calcWidth(minwidth, fullwidth) {
 	number = Math.floor(fullwidth / minwidth);
 	width = fullwidth / number;
 	return width;
 }
 
+//Sets the width for a single icon
 function setIconWidth(icon, width) {
 		if ((icon.getAttribute("data-info")!=undefined||icon.getAttribute("data-author")!=undefined)&&icon.getAttribute("data-title")!=undefined) {
 			icon.setAttribute("position", iconposition);
@@ -14,6 +16,7 @@ function setIconWidth(icon, width) {
 		icon.style.height = `${width}px`;
 }
 
+//Sets the width for all icons and the infobox
 function setIconWidths() {
 	minwidth = document.getElementById("menu").offsetWidth;
 	fullwidth = document.querySelector(".tiles").offsetWidth;
@@ -48,52 +51,59 @@ function setIconWidths() {
 }
 function showInfo() {
 	icon = this;
-	newicon = icon.getAttribute("position");
 	infobox = document.getElementById("infobox");
+
+	//Hide box on old place
 	infobox.style.transform = "scaleY(0)";
-	setTimeout(function () {
-		//Hides infobox when clicked again on the same icon
+	setTimeout(function () { //Wait 'til scaling is finished
+		//Completely hides infobox when clicked again on the same icon
+		newicon = icon.getAttribute("position");
 		if (currenticon==newicon) {
 			infobox.style.display = "none";
 			currenticon = undefined;
 			return;
 		}
 		currenticon = newicon;
-		
-		infobox.style.display = "initial";
+
+		//Variables for info
+		infoelement = document.getElementById("infobox-info");
+		info = icon.getAttribute("data-info");
+
+		//Variables for author
+		authorelement = document.getElementById("infobox-author");
+		author = icon.getAttribute("data-author");
+
+		//Variables for title
+		//Title should be filled but don't has to be
+		titleelement = document.getElementById("infobox-title");
+		title = icon.getAttribute("data-title");
+		titleelement.textContent = title;
+
+		if (info==undefined) {
+			infoelement.style.display = "none";
+		} else {
+			infoelement.innerHTML = info;
+			infoelement.style.display = "block";
+		}
+		if (author==undefined) {
+			authorelement.style.display = "none";
+			//let title fill full width
+			titleelement.classList.add("no-author");
+		} else {
+			titleelement.classList.remove("no-author");
+			authorelement.innerHTML = author;
+			authorelement.href = `https://github.com/${author}`;
+			authorelement.style.display = "block";
+		}
+		//Add tooltip for newly added HTML
+		addTooltip();
+		//Move to right location and "show" the box. Note: scaleY still 0
 		infobox.style.setProperty("--length", document.getElementById("iconlist").getAttribute("length"));
 		infobox.style.setProperty("--row", icon.getAttribute("row"));
 		icon.parentElement.appendChild(infobox);
-		setTimeout(function () {
-			//Variables for info
-			infoelement = document.getElementById("infobox-info");
-			info = icon.getAttribute("data-info");
-
-			//Variables for author
-			authorelement = document.getElementById("infobox-author");
-			author = icon.getAttribute("data-author");
-
-			//Variables for icon-name
-			titleelement = document.getElementById("infobox-title");
-			title = icon.getAttribute("data-title");
-
-			if (info==undefined) {
-				infoelement.style.display = "none";
-			} else {
-				infoelement.innerHTML = info;
-				infoelement.style.display = "block";
-			}
-			addTooltip();
-			if (author==undefined) {
-				authorelement.style.display = "none";
-				titleelement.classList.add("no-author");
-			} else {
-				titleelement.classList.remove("no-author");
-				authorelement.innerHTML = author;
-				authorelement.href = `https://github.com/${author}`;
-				authorelement.style.display = "block";
-			}
-			titleelement.textContent = title;
+		infobox.style.display = "initial";
+		//Actually show element
+		setTimeout(function () { //Not sure why we have to wait here but when removed it instantly appears
 			infobox.style.transform = "scaleY(1)";
 		}, transformtime);
 	}, transformtime);
@@ -101,7 +111,7 @@ function showInfo() {
 function addTooltip() {
   links = document.querySelectorAll("a.unavailable");
   for (link of links) {
-    if (link.children[0]==undefined) {
+    if (link.children[0]==undefined) { //if it has no span in it
 			span = document.createElement("span");
       span.classList.add("unavailable-tooltip");
       span.textContent = "Coming soon";
