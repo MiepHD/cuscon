@@ -33,50 +33,49 @@ function showInfo() {
 	newicon = icon.getAttribute("position");
 	infobox = document.getElementById("infobox");
 	infobox.style.transform = "scaleY(0)";
-	setTimeout(displayBox, 100);
-}
-function displayBox() {
-	if (currenticon==newicon) {
-		infobox.style.display = "none";
-		currenticon = undefined;
-		return;
-	}
-	currenticon = newicon;
-	infobox.style.display = "initial";
-	infobox.style.setProperty("--length", document.getElementById("iconlist").getAttribute("length"));
-	infobox.style.setProperty("--row", icon.getAttribute("row"));
-	icon.parentElement.appendChild(infobox);
 	setTimeout(function () {
-		//Variables for info
-		infoelement = document.getElementById("infobox-info");
-		info = icon.getAttribute("data-info");
-
-		//Variables for author
-		authorelement = document.getElementById("infobox-author");
-		author = icon.getAttribute("data-author");
-
-		//Variables for icon-name
-		titleelement = document.getElementById("infobox-title");
-		title = icon.getAttribute("data-title");
-
-		if (info==undefined) {
-			infoelement.style.display = "none";
-		} else {
-			infoelement.innerHTML = info;
-			infoelement.style.display = "block";
+		if (currenticon==newicon) {
+			infobox.style.display = "none";
+			currenticon = undefined;
+			return;
 		}
-		addTooltip();
-		if (author==undefined) {
-			authorelement.style.display = "none";
-			titleelement.classList.add("no-author");
-		} else {
-			titleelement.classList.remove("no-author");
-			authorelement.innerHTML = author;
-			authorelement.href = `https://github.com/${author}`;
-			authorelement.style.display = "block";
-		}
-		titleelement.textContent = title;
-		infobox.style.transform = "scaleY(1)";
+		currenticon = newicon;
+		infobox.style.display = "initial";
+		infobox.style.setProperty("--length", document.getElementById("iconlist").getAttribute("length"));
+		infobox.style.setProperty("--row", icon.getAttribute("row"));
+		icon.parentElement.appendChild(infobox);
+		setTimeout(function () {
+			//Variables for info
+			infoelement = document.getElementById("infobox-info");
+			info = icon.getAttribute("data-info");
+
+			//Variables for author
+			authorelement = document.getElementById("infobox-author");
+			author = icon.getAttribute("data-author");
+
+			//Variables for icon-name
+			titleelement = document.getElementById("infobox-title");
+			title = icon.getAttribute("data-title");
+
+			if (info==undefined) {
+				infoelement.style.display = "none";
+			} else {
+				infoelement.innerHTML = info;
+				infoelement.style.display = "block";
+			}
+			addTooltip();
+			if (author==undefined) {
+				authorelement.style.display = "none";
+				titleelement.classList.add("no-author");
+			} else {
+				titleelement.classList.remove("no-author");
+				authorelement.innerHTML = author;
+				authorelement.href = `https://github.com/${author}`;
+				authorelement.style.display = "block";
+			}
+			titleelement.textContent = title;
+			infobox.style.transform = "scaleY(1)";
+		}, 100);
 	}, 100);
 }
 function addTooltip() {
@@ -106,7 +105,9 @@ document.addEventListener('DOMContentLoaded', function() {
 	for (image of document.querySelectorAll("#iconlist > .tiles > img")) {
 		observer.observe(image);
 	}
-	window.addEventListener('resize', setIconWidths);
+	window.addEventListener('resize', function() {
+		setIconWidths();
+	});
 	setIconWidths();
 	addTooltip();
 }, false);
