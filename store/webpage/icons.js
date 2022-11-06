@@ -7,22 +7,25 @@ function setIconWidths() {
 	document.getElementById("iconlist").setAttribute("length", number + 1);
 	lists = document.querySelectorAll(".tiles");
 	iconposition = 0;
-	currenticon = undefined;
 	for (x of lists) {
 		tiles = x.children;
 		totaliconsperlist = 0;
 		for (icon of tiles) {
-			if ((icon.getAttribute("data-info")!=undefined||icon.getAttribute("data-author")!=undefined)&&icon.getAttribute("data-title")!=undefined) {
-				icon.setAttribute("position", iconposition);
-				icon.addEventListener("click", showInfo);
-				icon.style.cursor = "pointer";
+			if (!(icon.getAttribute("data-no-resize"))) {
+				if ((icon.getAttribute("data-info")!=undefined||icon.getAttribute("data-author")!=undefined)&&icon.getAttribute("data-title")!=undefined) {
+					icon.setAttribute("position", iconposition);
+					icon.addEventListener("click", showInfo);
+					icon.style.cursor = "pointer";
+				}
+				icon.style.width = `${width}px`;
+				icon.style.height = `${width}px`;
+				row = Math.floor(totaliconsperlist / number) + 1;
+				icon.setAttribute("row", row + 1);
+				totaliconsperlist = totaliconsperlist + 1;
+				iconposition = iconposition + 1;
+			} else {
+				icon.style.setProperty("--length", document.getElementById("iconlist").getAttribute("length"));
 			}
-			icon.style.width = `${width}px`;
-			icon.style.height = `${width}px`;
-			row = Math.floor(totaliconsperlist / number) + 1;
-			icon.setAttribute("row", row + 1);
-			totaliconsperlist = totaliconsperlist + 1;
-			iconposition = iconposition + 1;
 		}
 		x.style.setProperty("--columns", number);
 		x.style.setProperty("--rows", Math.ceil(totaliconsperlist / number));
@@ -101,6 +104,7 @@ document.addEventListener('DOMContentLoaded', function() {
 			}
 		});
 	});
+	currenticon = undefined;
 	// Create the intersection observer
 	for (image of document.querySelectorAll("#iconlist > .tiles > img")) {
 		observer.observe(image);
