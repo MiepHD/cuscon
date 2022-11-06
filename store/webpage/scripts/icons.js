@@ -59,6 +59,7 @@ function showInfo() {
 			return;
 		}
 		currenticon = newicon;
+		
 		infobox.style.display = "initial";
 		infobox.style.setProperty("--length", document.getElementById("iconlist").getAttribute("length"));
 		infobox.style.setProperty("--row", icon.getAttribute("row"));
@@ -94,8 +95,8 @@ function showInfo() {
 			}
 			titleelement.textContent = title;
 			infobox.style.transform = "scaleY(1)";
-		}, 100);
-	}, 100);
+		}, transformtime);
+	}, transformtime);
 }
 function addTooltip() {
   links = document.querySelectorAll("a.unavailable");
@@ -125,6 +126,7 @@ const observer = new IntersectionObserver((entries) => {
 	});
 });
 currenticon = undefined;
+transformtime = 200;
 document.addEventListener('DOMContentLoaded', function() {
 	// Add observer to every icon
 	for (image of document.querySelectorAll("#iconlist > .tiles > img")) {
