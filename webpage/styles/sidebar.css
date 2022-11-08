@@ -10,8 +10,13 @@
 	padding-left: calc(var(--normal-size) / 10);
 	padding-right: calc(var(--normal-size) / 10);
 }
+#sidebar > img,
 #sidebar > a > img {
 	width: 100%;
 	height: auto;
 	float: right;
+	cursor: pointer;
+}
+#language-toggle {
+	transition: transform .2s;
 }

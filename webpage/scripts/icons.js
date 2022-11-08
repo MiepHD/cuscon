@@ -95,6 +95,9 @@ function showInfo() {
 			authorelement.href = `https://github.com/${author}`;
 			authorelement.style.display = "block";
 		}
+		if (language=="de") {
+			translate();
+		}
 		//Add tooltip for newly added HTML
 		addTooltip();
 		//Move to right location and "show" the box. Note: scaleY still 0
@@ -114,7 +117,11 @@ function addTooltip() {
     if (link.children[0]==undefined) { //if it has no span in it
 			span = document.createElement("span");
       span.classList.add("unavailable-tooltip");
-      span.textContent = "Coming soon";
+			if (language=="de") {
+				span.textContent = "Kommt später";
+			} else {
+				span.textContent = "Coming soon";
+			}
 			link.appendChild(span);
 			span.style.marginLeft = `-${span.offsetWidth / 2}px`;
     }
