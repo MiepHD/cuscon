@@ -1,36 +1,35 @@
 language = "en"
-function translate() {
-  language = "de";
-  texts = document.querySelectorAll("[data-de]");
-  for (text of texts) {
-    if (!text.classList.contains("translated")) {
-			text.classList.add("translated");
-			text.setAttribute("data-en", text.textContent);
-      text.textContent = text.getAttribute("data-de");
-    }
-  }
-}
-function translateBack() {
-  language = "en";
-  texts = document.querySelectorAll(".translated");
-  for (text of texts) {
-    if (text.classList.contains("translated")) {
-      text.classList.remove("translated");
-      text.textContent = text.getAttribute("data-en");
-			text.removeAttribute("data-en");
-    }
-  }
-}
 function toggleTranslate() {
   toggle = this;
   toggle.style.transform = "scale(0.9, 0.9)";
   setTimeout(function () {toggle.style.transform = "scale(1, 1)";}, 200);
   if (language=="en") {
-    translate();
+    requestLanguageFile("de");
   } else {
-    translateBack();
+    requestLanguageFile("en");
   }
 }
 document.addEventListener('DOMContentLoaded', function() {
   document.getElementById("language-toggle").addEventListener("click", toggleTranslate);
 }, false);
+function translate(data) {
+  texts = document.querySelectorAll("[data-translation-id]");
+  for (text of texts) {
+    id = text.getAttribute("data-translation-id");
+    if (data[id]!=undefined) {
+      text.innerHTML = data[id];
+    }
+  }
+}
+function requestLanguageFile(lang) {
+  var xhttp = new XMLHttpRequest();
+  xhttp.onreadystatechange = function() {
+      if (this.readyState == 4 && this.status == 200) {
+         // Typical action to be performed when the document is ready:
+         var data = JSON.parse(this.responseText);
+         translate(data);
+      }
+  };
+  xhttp.open("GET", `translations/${lang}.json`, true);
+  xhttp.send();
+}
