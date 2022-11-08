@@ -77,7 +77,7 @@ function showInfo() {
 		//Title should be filled but don't has to be
 		titleelement = document.getElementById("infobox-title");
 		title = icon.getAttribute("data-title");
-		titleelement.textContent = title;
+		titleelement.innerHTML = title;
 
 		if (info==undefined) {
 			infoelement.style.display = "none";
