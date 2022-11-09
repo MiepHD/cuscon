@@ -1,12 +1,14 @@
-language = "en"
+language = "en";
 function toggleTranslate() {
   toggle = this;
   toggle.style.transform = "scale(0.9, 0.9)";
   setTimeout(function () {toggle.style.transform = "scale(1, 1)";}, 200);
   if (language=="en") {
     requestLanguageFile("de");
+    language = "de";
   } else {
     requestLanguageFile("en");
+    language = "en";
   }
 }
 document.addEventListener('DOMContentLoaded', function() {

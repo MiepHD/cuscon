@@ -44,9 +44,7 @@ function showInfo() {
 			authorelement.href = `https://github.com/${author}`;
 			authorelement.style.display = "block";
 		}
-		if (language=="de") {
-			translate();
-		}
+		requestLanguageFile(language);
 		//Add tooltip for newly added HTML
 		addTooltip();
 		//Move to right location and "show" the box. Note: scaleY still 0
