@@ -12,6 +12,7 @@ function toggleTranslate() {
 document.addEventListener('DOMContentLoaded', function() {
   document.getElementById("language-toggle").addEventListener("click", toggleTranslate);
 }, false);
+
 function translate(data) {
   texts = document.querySelectorAll("[data-translation-id]");
   for (text of texts) {
