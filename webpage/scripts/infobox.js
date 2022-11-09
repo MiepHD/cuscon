@@ -27,11 +27,13 @@ function showInfo() {
 		titleelement = document.getElementById("infobox-title");
 		title = icon.getAttribute("data-title");
 		titleelement.innerHTML = title;
+		titleelement.setAttribute("data-translation-id", title);
 
 		if (info==undefined) {
 			infoelement.style.display = "none";
 		} else {
 			infoelement.innerHTML = info;
+			infoelement.setAttribute("data-translation-id", info);
 			infoelement.style.display = "block";
 		}
 		if (author==undefined) {
