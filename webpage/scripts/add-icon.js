@@ -1,10 +1,12 @@
-//Adds the add icon to every category
-document.addEventListener('DOMContentLoaded', function() {
-  var addobject = document.getElementById("add-icon");
-  var lists = document.querySelectorAll(".tiles");
-  for (var list of lists) {
-    $(addobject).clone().appendTo(list);
+//Scirpts for the add icon
+class AddIcons {
+  //Adds the add icon to every category
+  add() {
+    var addobject = document.getElementById("add-icon");
+    for (var list of document.querySelectorAll(".tiles")) {
+      $(addobject).clone().appendTo(list);
+    }
+    //Remove original icon
+    document.getElementById("add-icon").remove();
   }
-  //Remove original icon
-  document.getElementById("add-icon").remove();
-}, false);
+}

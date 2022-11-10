@@ -1,5 +1,44 @@
 currenticon = undefined;
 transformtime = 500;
+function setContent(icon) {
+	//Variables for info
+	var infoelement = document.getElementById("infobox-info");
+	var info = icon.getAttribute("data-info");
+
+	//Variables for author
+	var authorelement = document.getElementById("infobox-author");
+	var author = icon.getAttribute("data-author");
+
+	//Variables for title
+	//Title should be filled but don't has to be
+	var titleelement = document.getElementById("infobox-title");
+	var title = icon.getAttribute("data-title");
+
+	//Sets title
+	titleelement.innerHTML = title;
+	titleelement.setAttribute("data-translation-id", title);
+
+	//Sets info
+	if (info==undefined) {
+		infoelement.style.display = "none";
+	} else {
+		infoelement.innerHTML = info;
+		infoelement.setAttribute("data-translation-id", info);
+		infoelement.style.display = "block";
+	}
+
+	//Sets author (Only one supported)
+	if (author==undefined) {
+		authorelement.style.display = "none";
+		//let title fill full width
+		titleelement.classList.add("no-author");
+	} else {
+		titleelement.classList.remove("no-author");
+		authorelement.innerHTML = author;
+		authorelement.href = `https://github.com/${author}`;
+		authorelement.style.display = "block";
+	}
+}
 function showInfo() {
 	icon = this;
 	infobox = document.getElementById("infobox");
@@ -14,43 +53,11 @@ function showInfo() {
 			return;
 		}
 		currenticon = newicon;
-
-		//Variables for info
-		infoelement = document.getElementById("infobox-info");
-		info = icon.getAttribute("data-info");
-
-		//Variables for author
-		authorelement = document.getElementById("infobox-author");
-		author = icon.getAttribute("data-author");
-
-		//Variables for title
-		//Title should be filled but don't has to be
-		titleelement = document.getElementById("infobox-title");
-		title = icon.getAttribute("data-title");
-		titleelement.innerHTML = title;
-		titleelement.setAttribute("data-translation-id", title);
-
-		if (info==undefined) {
-			infoelement.style.display = "none";
-		} else {
-			infoelement.innerHTML = info;
-			infoelement.setAttribute("data-translation-id", info);
-			infoelement.style.display = "block";
-		}
-		if (author==undefined) {
-			authorelement.style.display = "none";
-			//let title fill full width
-			titleelement.classList.add("no-author");
-		} else {
-			titleelement.classList.remove("no-author");
-			authorelement.innerHTML = author;
-			authorelement.href = `https://github.com/${author}`;
-			authorelement.style.display = "block";
-		}
+		setContent(icon);
 		requestLanguageFile(language);
 		//Add tooltip for newly added HTML
 		addTooltip();
-		//Move to right location and "show" the box. Note: scaleY still 0
+		//Move to right location and "show" the box. Note: maxHeight still 0
 		infobox.style.setProperty("--length", document.getElementById("iconlist").getAttribute("length"));
 		infobox.style.setProperty("--row", icon.getAttribute("row"));
 		icon.parentElement.appendChild(infobox);
