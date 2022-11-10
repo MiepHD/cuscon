@@ -54,7 +54,7 @@ function showInfo() {
 		}
 		currenticon = newicon;
 		setContent(icon);
-		requestLanguageFile(language);
+		translate.renew();
 		//Add tooltip for newly added HTML
 		addTooltip();
 		//Move to right location and "show" the box. Note: maxHeight still 0

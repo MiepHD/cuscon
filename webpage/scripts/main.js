@@ -1,5 +1,8 @@
 document.addEventListener('DOMContentLoaded', function() {
-	icons = new Icons();
+  const addicons = new AddIcons();
+  addicons.add();
+
+	const icons = new Icons();
   icons.addIntersectionObserver();
   icons.setIconWidths();
   //Things to call when tab got resized
@@ -7,9 +10,9 @@ document.addEventListener('DOMContentLoaded', function() {
     icons.setIconWidths();
   });
 
-  addicons = new AddIcons();
-  addicons.add();
-
-  build = new Builder();
+  const build = new Builder();
   build.cards();
+
+  const translate = new Translator();
+  document.getElementById("language-toggle").addEventListener("click", translate.toggle.bind(translate));
 }, false);

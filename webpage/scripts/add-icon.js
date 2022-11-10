@@ -2,8 +2,8 @@
 class AddIcons {
   //Adds the add icon to every category
   add() {
-    var addobject = document.getElementById("add-icon");
-    for (var list of document.querySelectorAll(".tiles")) {
+    const addobject = document.getElementById("add-icon");
+    for (const list of document.querySelectorAll(".tiles")) {
       $(addobject).clone().appendTo(list);
     }
     //Remove original icon
