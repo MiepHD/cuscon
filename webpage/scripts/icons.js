@@ -64,8 +64,6 @@ const observer = new IntersectionObserver((entries) => {
 		}
 	});
 });
-currenticon = undefined;
-transformtime = 200;
 document.addEventListener('DOMContentLoaded', function() {
 	// Add observer to every icon
 	for (image of document.querySelectorAll("#iconlist > .tiles > img")) {

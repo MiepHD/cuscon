@@ -1,9 +1,10 @@
+currenticon = undefined;
+transformtime = 500;
 function showInfo() {
 	icon = this;
 	infobox = document.getElementById("infobox");
-
 	//Hide box on old place
-	infobox.style.transform = "scaleY(0)";
+	infobox.style.maxHeight = "0px";
 	setTimeout(function () { //Wait 'til scaling is finished
 		//Completely hides infobox when clicked again on the same icon
 		newicon = icon.getAttribute("position");
@@ -56,7 +57,7 @@ function showInfo() {
 		infobox.style.display = "initial";
 		//Actually show element
 		setTimeout(function () { //Not sure why we have to wait here but when removed it instantly appears
-			infobox.style.transform = "scaleY(1)";
+			infobox.style.maxHeight = `${window.screen.availHeight}px`;
 		}, transformtime);
 	}, transformtime);
 }

@@ -1,8 +1,10 @@
 #infobox {
 	grid-column: 1 / var(--length);
 	grid-row: var(--row) / calc(var(--row) + 1);
-	transform: scaleY(0);
-	transition: transform 0.2s;
+	height: auto;
+	max-height: 0px;
+	transition: max-height 0.5s;
+	overflow: hidden;
 }
 #infobox-title {
 	grid-column: 1 / 4;
