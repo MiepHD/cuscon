@@ -62,8 +62,6 @@ class Infobox {
 			box.style.setProperty("--length", document.getElementById("iconlist").getAttribute("length"));
 			box.style.setProperty("--row", icon.getAttribute("row"));
 			icon.parentElement.appendChild(box);
-			//Add tooltip for newly added HTML
-			tooltip.add();
 			box.style.display = "initial";
 			//Actually show element
 			setTimeout(function () { //Not sure why we have to wait here but when removed it instantly appears

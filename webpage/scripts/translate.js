@@ -10,6 +10,9 @@ class Translator {
         }
     };
   }
+  get(id) {
+    return this.datas[this.lang][id];
+  }
   //Needs a language code; currently "en" or "de"
   to(lang) {
     this.lang = lang;
@@ -38,6 +41,7 @@ class Translator {
         text.innerHTML = data[id];
       }
     }
+    tooltip.add();
   }
   renew() {
     this.to(this.lang);
