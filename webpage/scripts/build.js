@@ -1,10 +1,10 @@
 //Builds the cards through adding a card-content div to every card
 class Builder {
   cards() {
-    for (var card of document.querySelectorAll(".card") ) {
-      var content = card.innerHTML; //saves the content temporarly
+    for (const card of document.querySelectorAll(".card") ) {
+      const content = card.innerHTML, //saves the content temporarly
+        div = document.createElement("div");
       card.innerHTML = ""; //Removes existing content
-      var div = document.createElement("div");
       div.classList.add("card-content");
       div.innerHTML = content; //adds content back
       card.appendChild(div);

@@ -2,6 +2,13 @@ class Translator {
   constructor() {
     this.lang = "en";
     this.datas = {};
+    xhttp.onreadystatechange = function() {
+        if (this.readyState == 4 && this.status == 200) {
+           // Typical action to be performed when the document is ready:
+           var data = JSON.parse(this.responseText);
+           translate.fromData(data);
+        }
+    };
   }
   //Needs a language code; currently "en" or "de"
   to(lang) {
@@ -13,7 +20,7 @@ class Translator {
     }
   }
   toggle() {
-    let toggle = document.getElementById("language-toggle")
+    const toggle = document.getElementById("language-toggle")
     toggle.style.transform = "scale(0.9, 0.9)";
     setTimeout(function () {toggle.style.transform = "scale(1, 1)";}, 200);
     if (this.lang=="en") {
@@ -24,9 +31,9 @@ class Translator {
   }
   fromData(data) {
     this.datas[this.lang] = data;
-    let texts = document.querySelectorAll("[data-translation-id]");
-    for (let text of texts) {
-      let id = text.getAttribute("data-translation-id");
+    const texts = document.querySelectorAll("[data-translation-id]");
+    for (const text of texts) {
+      const id = text.getAttribute("data-translation-id");
       if (data[id]!=undefined) {
         text.innerHTML = data[id];
       }
@@ -36,14 +43,6 @@ class Translator {
     this.to(this.lang);
   }
   requestLanguageFile(lang) {
-    var xhttp = new XMLHttpRequest();
-    xhttp.onreadystatechange = function() {
-        if (this.readyState == 4 && this.status == 200) {
-           // Typical action to be performed when the document is ready:
-           var data = JSON.parse(this.responseText);
-           translate.fromData(data);
-        }
-    };
     xhttp.open("GET", `translations/${lang}.json`, true);
     xhttp.send();
   }
