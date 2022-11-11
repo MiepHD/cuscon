@@ -43,5 +43,7 @@
   "icons.samsung-files.title": "Eigene Dateien",
   "icons.samsung-gallary.title": "Samsung Galerie",
   "icons.microg-settings.title": "microG-Einstellungen",
-  "icons.google-translate.title": "Google Übersetzer"
+  "icons.google-translate.title": "Google Übersetzer",
+  "comment": "Tooltips",
+  "tooltip.coming-soon": "Kommt später"
 }
