@@ -1,7 +1,6 @@
 const addicons = new AddIcons();
 const icons = new Icons();
 const build = new Builder();
-const xhttp = new XMLHttpRequest();
 const translate = new Translator();
 const glow = new Glow();
 const infobox = new Infobox();

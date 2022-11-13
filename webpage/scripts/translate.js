@@ -2,10 +2,11 @@ class Translator {
   constructor() {
     this.lang = "en";
     this.datas = {};
-    xhttp.onreadystatechange = function() {
+    this.xhttp = new XMLHttpRequest();
+    this.xhttp.onreadystatechange = function() {
         if (this.readyState == 4 && this.status == 200) {
            // Typical action to be performed when the document is ready:
-           var data = JSON.parse(this.responseText);
+           const data = JSON.parse(this.responseText);
            translate.fromData(data);
         }
     };
@@ -47,7 +48,7 @@ class Translator {
     this.to(this.lang);
   }
   requestLanguageFile(lang) {
-    xhttp.open("GET", `translations/${lang}.json`, true);
-    xhttp.send();
+    this.xhttp.open("GET", `translations/${lang}.json`, true);
+    this.xhttp.send();
   }
 }
