@@ -1,4 +1,5 @@
 {
+  "importantcomment": "ids not beginning with icons. have a corresponding default value in cuscon.html"
   "lang.name": "English",
   "icons.title": "Supported icons",
   "comment": "Paragraphs",
