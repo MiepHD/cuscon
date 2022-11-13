@@ -1,0 +1,37 @@
+[
+  {
+		"title":"Amazon Music"
+		"author":"MiepHD"
+		"src":"icons/amazon_music.png"
+	},
+  {
+		"title":"DasDing"
+		"author":"MiepHD"
+		"src":"icons/dasding.png"
+	},
+  {
+		"title":"Youtube Music"
+		"author":"MiepHD"
+		"src":"icons/youtube_music.png"
+	},
+  {
+		"title":"Samsung Music"
+		"author":"MiepHD"
+		"src":"icons/samsung_music.png"
+	},
+  {
+		"title":"Freezer"
+		"author":"MiepHD"
+		"src":"icons/freezer.png"
+	},
+  {
+		"title":"Transistor"
+		"author":"sourcrowd450"
+		"src":"icons/transistor.png"
+	},
+  {
+		"title":"Shazam"
+		"author":"sourcrowd450"
+		"src":"icons/shazam.png"
+	}
+]

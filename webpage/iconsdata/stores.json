@@ -1,0 +1,56 @@
+[
+  {
+  	"title":"Apkpure",
+		"info":"icons.apkpure.info",
+		"author":"MiepHD",
+		"src":"icons/apkpure.png"
+  },
+  {
+  	"title":"F-Droid",
+		"info":"icons.f-droid.info",
+		"author":"MiepHD",
+		"src":"icons/f_droid.png"
+  },
+  {
+  	"title":"Aurora Store",
+		"info":"icons.aurora-store.info",
+		"author":"MiepHD",
+		"src":"icons/aurora_store.png"
+  },
+  {
+  	"title":"Steam",
+		"author":"MiepHD",
+		"src":"icons/steam.png"
+  },
+  {
+  	"title":"Google Play Store",
+		"info":"icons.google-play-store.info",
+		"author":"MiepHD",
+		"src":"icons/google_play_store.png"
+  },
+  {
+  	"title":"Playmods",
+		"author":"MiepHD",
+		"src":"icons/playmods.png"
+  },
+  {
+  	"title":"icons.google-play-games.title",
+		"author":"MiepHD",
+		"src":"icons/google_play_games.png"
+  },
+  {
+  	"title":"EMP Shop",
+		"author":"MiepHD",
+		"src":"icons/emp_shop.png"
+  },
+  {
+  	"title":"Galaxy Store",
+		"author":"sourcrowd450",
+		"src":"icons/galaxy_store.png"
+  },
+  {
+  	"title":"Happymod",
+		"author":"sourcrowd450",
+		"src":"icons/happymod.png"
+  }
+]

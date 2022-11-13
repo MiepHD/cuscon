@@ -1,0 +1,52 @@
+[
+  {
+		"title":"Adobe Acrobat Reader",
+		"author":"MiepHD",
+		"src":"icons/adobe_acrobat_reader.png"
+	},
+  {
+		"title":"Docx2pdf",
+		"author":"MiepHD",
+		"src":"icons/docx2pdf.png"
+	},
+  {
+		"title":"Office Suite",
+		"author":"MiepHD",
+		"src":"icons/office_suite.png"
+	},
+  {
+		"title":"Samsung Notes",
+		"author":"MiepHD",
+		"src":"icons/samsung_notes.png"
+	},
+  {
+		"title":"Leaflet",
+		"author":"MiepHD",
+		"src":"icons/leaflet.png"
+	},
+  {
+		"title":"ONLYOFFICE Dokumente",
+		"author":"sourcrowd450",
+		"src":"icons/onlyoffice_dokumente.png"
+	},
+  {
+		"title":"OpenDocument Reader",
+		"author":"sourcrowd450",
+		"src":"icons/opendocument_reader.png"
+	},
+  {
+		"title":"Librera FD",
+		"author":"sourcrowd450",
+		"src":"icons/librera_fd.png"
+	},
+  {
+		"title":"Text Fairy",
+		"author":"sourcrowd450",
+		"src":"icons/text_fairy.png"
+	},
+  {
+		"title":"Rocketbook",
+		"author":"sourcrowd450",
+		"src":"icons/rocketbook.png"
+	}
+]

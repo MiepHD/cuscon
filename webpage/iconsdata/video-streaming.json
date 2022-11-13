@@ -1,0 +1,52 @@
+[
+	{
+		"title":"Netflix",
+		"author":"MiepHD",
+		"src":"icons/netflix.png"
+	},
+	{
+		"title":"ZDFMediathek",
+		"author":"MiepHD",
+		"src":"icons/zdfmediathek.png"
+	},
+	{
+		"title":"Zapp",
+		"author":"MiepHD",
+		"src":"icons/zapp.png"
+	},
+	{
+		"title":"Cloud Stream 3",
+		"author":"MiepHD",
+		"src":"icons/cloud_stream_3.png"
+	},
+	{
+		"title":"Disney+",
+		"author":"MiepHD",
+		"src":"icons/disney_plus.png"
+	},
+	{
+		"title":"Youtube",
+		"author":"MiepHD",
+		"src":"icons/youtube.png"
+	},
+	{
+		"title":"Amazon Prime Video",
+		"author":"MiepHD",
+		"src":"icons/amazon_prime_video.png"
+	},
+	{
+		"title":"NewPipe",
+		"author":"sourcrowd450",
+		"src":"icons/newpipe.png"
+	},
+	{
+		"title":"VLC",
+		"author":"sourcrowd450",
+		"src":"icons/vlc.png"
+	},
+	{
+		"title":"VR Media Player",
+		"author":"sourcrowd450",
+		"src":"icons/vr_media_player.png"
+	}
+]

@@ -1,0 +1,32 @@
+[
+  {
+		"title":"Google Maps",
+		"author":"MiepHD",
+		"src":"icons/google_maps.png"
+	},
+  {
+		"title":"Organic Maps",
+		"author":"MiepHD",
+		"src":"icons/organic_maps.png"
+	},
+  {
+		"title":"Öffi Haltestellen",
+		"author":"sourcrowd450",
+		"src":"icons/offi_haltestellen.png"
+	},
+  {
+		"title":"Öffi Netzpläne",
+		"author":"sourcrowd450",
+		"src":"icons/offi_netzplane.png"
+	},
+  {
+		"title":"OpenTracks",
+		"author":"sourcrowd450",
+		"src":"icons/opentracks.png"
+	},
+  {
+		"title":"Map2Fly",
+		"author":"MiepHD",
+		"src":"icons/map2fly.png"
+	}
+]

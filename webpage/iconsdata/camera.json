@@ -1,0 +1,32 @@
+[
+  {
+		"title":"Open Camera",
+		"author":"MiepHD",
+		"src":"icons/open_camera.png"
+	},
+  {
+		"title":"icons.samsung-camera.title",
+		"author":"MiepHD",
+		"src":"icons/samsung_camera.png"
+	},
+  {
+		"title":"ObscuraCam",
+		"author":"sourcrowd450",
+		"src":"icons/obscuracam.png"
+	},
+  {
+		"title":"Binary Eye",
+		"author":"sourcrowd450",
+		"src":"icons/binary_eye.png"
+	},
+  {
+		"title":"Retroboy",
+		"author":"sourcrowd450",
+		"src":"icons/retroboy.png"
+	},
+  {
+		"title":"Flora Incognita",
+		"author":"sourcrowd450",
+		"src":"icons/flora_incognita.png"
+	}
+]
