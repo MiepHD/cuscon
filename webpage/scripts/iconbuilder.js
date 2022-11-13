@@ -20,7 +20,9 @@ class IconBuilder {
         "src": "res/add.png"
       }
     );
-    const div = document.querySelector(`[data-category-id=${this.curreqcat}]`);
+    let div = $(`[data-category-id=${this.curreqcat}]`);
+    div.after("<div class='tiles' id='newtiles'></div>");
+    div = $("#newtiles")[0];
     for (const icon of data) {
       const image = document.createElement("img");
       if (icon.title!=undefined) {
@@ -35,8 +37,9 @@ class IconBuilder {
       if (icon.src!=undefined) {
         image.setAttribute("src", icon.src);
       }
-      div.appendChild(image);
+      div.append(image);
     }
+    div.removeAttribute("id");
     icons.addIntersectionObserver(div);
     icons.setIconWidths();
   }
