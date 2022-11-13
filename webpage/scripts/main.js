@@ -1,25 +1,24 @@
 const addicons = new AddIcons();
 const icons = new Icons();
-const build = new Builder();
+const cards = new Cards();
 const translate = new Translator();
 const glow = new Glow();
 const infobox = new Infobox();
 const navbar = new Navbar();
 const sidebar = new Sidebar();
 const tooltip = new Tooltip();
+const iconloader = new IconLoader();
 
 document.addEventListener('DOMContentLoaded', function() {
+  iconloader.addIntersectionObserver();
   addicons.add();
-
-  icons.addIntersectionObserver();
-  icons.setIconWidths();
   //Things to call when tab got resized
   window.addEventListener('resize', function() {
     icons.setIconWidths();
     sidebar.reset();
   });
 
-  build.cards();
+  cards.build();
 
   document.getElementById("language-toggle").addEventListener("click", translate.toggle.bind(translate));
 

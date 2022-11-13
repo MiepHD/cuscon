@@ -1,5 +1,5 @@
 class Icons {
-	addIntersectionObserver() {
+	addIntersectionObserver(div) {
 		const observer = new IntersectionObserver((entries) => {
 			entries.forEach((entry) => {
 				if (entry.isIntersecting) {
@@ -16,7 +16,7 @@ class Icons {
 			});
 		});
 		// Adds observer to every icon
-		for (const icon of document.querySelectorAll("#iconlist > .tiles > img")) {
+		for (const icon of div.children) {
 	    observer.observe(icon);
 	  }
 	}
