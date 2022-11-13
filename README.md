@@ -9,7 +9,8 @@ Icon-Pack with transpanrent icons that are outlined for good visibility.
 - should have approximate 30px transparent border
 - should have approximate 12px brush size
 
-# Other Contributors
+# Contributors
+https://github.com/MiepHD
 https://github.com/sourcrowd450
 
 # Supported Apps
