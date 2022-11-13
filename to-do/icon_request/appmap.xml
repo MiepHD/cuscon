@@ -9,9 +9,6 @@
 <!-- Onleihe --><item class="de.etecture.ekz.onleihe.activity.SplashScreenActivity" name="onleihe"/>
 <!-- Pixel Wheels --><item class="com.agateau.pixelwheels.android.AndroidLauncher" name="pixel_wheels"/>
 <!-- QR-Scanner --><item class="net.qrbot.ui.main.MainActivity" name="qr_scanner"/>
-<!-- SimpleLogin --><item class="io.simplelogin.android.module.startup.StartupActivity" name="simplelogin"/>
-<!-- Symbolab --><item class="com.symbolab.symbolablibrary.ui.activities.SplashActivity" name="symbolab"/>
-<!-- Termux --><item class="com.termux.app.TermuxActivity" name="termux"/>
 <!-- UUID 0xFD6F Scanner --><item class="com.emacberry.uuid0xfd6fscan.ScannerActivity" name="uuid_0xfd6f_scanner"/>
 <!-- Watten --><item class="stefanlukasv.googlemail.com.watten.SplashActivity" name="watten"/>
 <!-- WhatsApp SIM --><item class="de.eplus.mappecc.client.android.feature.splashscreen.SplashActivity" name="whatsapp_sim"/>

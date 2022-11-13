@@ -36,6 +36,8 @@
     <!-- Lawnchair-Einstellungen --><item drawable="lawnchair_einstellungen" />
     <!-- Reminder --><item drawable="reminder" />
     <!-- Info Dienste --><item drawable="info_dienste" />
+    <!--Symbolab --><item drawable="symbolab" />
+    <!--Termux --><item drawable="termux" />
 
     <category title="Stores" />
     <item drawable="apkpure" />
@@ -101,6 +103,7 @@
     <!-- Morse --><item drawable="morse" />
     <!-- Silence --><item drawable="silence" />
     <!-- Tutanota --><item drawable="tutanota" />
+    <!-- SimpleLogin --><item drawable="simplelogin" />
 
     <category title="Browser" />
     <item drawable="firefox" />

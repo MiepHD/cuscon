@@ -209,4 +209,8 @@
     <!-- HappyMod --><item component="ComponentInfo{com.happymod.apk/com.happymod.apk.hmmvp.allfunction.LaunchActivity}" drawable="happymod" />
     <!-- MEGA --><item component="ComponentInfo{mega.privacy.android.app/mega.privacy.android.app.main.ManagerActivity}" drawable="mega" />
     <!-- Info Dienste --><item component="ComponentInfo{com.android.stk/com.android.stk.StkMain}" drawable="info_dienste" />
+    <!--SimpleLogin --><item component="ComponentInfo{io.simplelogin.android/io.simplelogin.android.module.startup.StartupActivity}" drawable="simplelogin" />
+    <!--Symbolab --><item component="ComponentInfo{com.devsense.symbolab/com.symbolab.symbolablibrary.ui.activities.SplashActivity}" drawable="symbolab" />
+    <!--Termux --><item component="ComponentInfo{com.termux/com.termux.app.TermuxActivity}" drawable="termux" />
+
 </resources>

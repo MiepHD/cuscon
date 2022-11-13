@@ -10,9 +10,6 @@
 <!--Onleihe --><AppIcon name="de.etecture.ekz.onleihe/de.etecture.ekz.onleihe.activity.SplashScreenActivity" image="onleihe"/>
 <!--Pixel Wheels --><AppIcon name="com.agateau.tinywheels.android/com.agateau.pixelwheels.android.AndroidLauncher" image="pixel_wheels"/>
 <!--QR-Scanner --><AppIcon name="com.teacapps.barcodescanner/net.qrbot.ui.main.MainActivity" image="qr_scanner"/>
-<!--SimpleLogin --><AppIcon name="io.simplelogin.android/io.simplelogin.android.module.startup.StartupActivity" image="simplelogin"/>
-<!--Symbolab --><AppIcon name="com.devsense.symbolab/com.symbolab.symbolablibrary.ui.activities.SplashActivity" image="symbolab"/>
-<!--Termux --><AppIcon name="com.termux/com.termux.app.TermuxActivity" image="termux"/>
 <!--UUID 0xFD6F Scanner --><AppIcon name="com.emacberry.uuid0xfd6fscan/com.emacberry.uuid0xfd6fscan.ScannerActivity" image="uuid_0xfd6f_scanner"/>
 <!--Watten --><AppIcon name="stefanlukasv.googlemail.com.watten/stefanlukasv.googlemail.com.watten.SplashActivity" image="watten"/>
 <!--WhatsApp SIM --><AppIcon name="de.eplus.mappecc.client.android.whatsappsim/de.eplus.mappecc.client.android.feature.splashscreen.SplashActivity" image="whatsapp_sim"/>

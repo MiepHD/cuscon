@@ -194,4 +194,7 @@
     <!-- HappyMod --><AppIcon name="com.happymod.apk/com.happymod.apk.hmmvp.allfunction.LaunchActivity" image="happymod"/>
     <!-- MEGA --><AppIcon name="mega.privacy.android.app/mega.privacy.android.app.main.ManagerActivity" image="mega"/>
     <!-- Info Dienste --><AppIcon name="com.android.stk/com.android.stk.StkMain" image="info_dienste"/>
+    <!--SimpleLogin --><AppIcon name="io.simplelogin.android/io.simplelogin.android.module.startup.StartupActivity" image="simplelogin"/>
+    <!--Symbolab --><AppIcon name="com.devsense.symbolab/com.symbolab.symbolablibrary.ui.activities.SplashActivity" image="symbolab"/>
+    <!--Termux --><AppIcon name="com.termux/com.termux.app.TermuxActivity" image="termux"/>
 </Theme>

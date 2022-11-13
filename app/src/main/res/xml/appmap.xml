@@ -193,5 +193,8 @@
     <!-- HappyMod --><item class="com.happymod.apk.hmmvp.allfunction.LaunchActivity" name="happymod"/>
     <!-- MEGA --><item class="mega.privacy.android.app.main.ManagerActivity" name="mega"/>
     <!-- Info Dienste --><item class="com.android.stk.StkMain" name="info_dienste"/>
+    <!-- SimpleLogin --><item class="io.simplelogin.android.module.startup.StartupActivity" name="simplelogin"/>
+    <!-- Symbolab --><item class="com.symbolab.symbolablibrary.ui.activities.SplashActivity" name="symbolab"/>
+    <!-- Termux --><item class="com.termux.app.TermuxActivity" name="termux"/>
 
 </appmap>
