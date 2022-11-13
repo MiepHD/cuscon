@@ -1,0 +1,17 @@
+<!-- Der Postillon --><item component="ComponentInfo{com.postillon/io.gonative.android.SplashActivity}" drawable="der_postillon" />
+<!-- DSBmobile --><item component="ComponentInfo{de.heinekingmedia.dsbmobile/de.heinekingmedia.dsbmobile.ui.activities.LoginActivity}" drawable="dsbmobile" />
+<!-- Lawnchair --><item component="ComponentInfo{ch.deletescape.lawnchair.plah/ch.deletescape.lawnchair.LawnchairLauncher}" drawable="lawnchair" />
+<!-- AirConsole --><item component="ComponentInfo{com.airconsole.controller/com.airconsole.controller.MainActivity}" drawable="airconsole" />
+<!-- Clash of Clans --><item component="ComponentInfo{com.supercell.clashofclans/com.supercell.titan.GameApp}" drawable="clash_of_clans" />
+<!-- Commute --><item component="ComponentInfo{com.mediocre.commute/com.mediocre.commute.Main}" drawable="commute" />
+<!-- Microsoft SwiftKey-Tastatur --><item component="ComponentInfo{com.touchtype.swiftkey/com.touchtype.LauncherActivityIcon}" drawable="microsoft_swiftkey_tastatur" />
+<!--Mosaic --><item component="ComponentInfo{com.photograph.mosaic/com.photograph.mosaic.MainActivity}" drawable="mosaic" />
+<!--Onleihe --><item component="ComponentInfo{de.etecture.ekz.onleihe/de.etecture.ekz.onleihe.activity.SplashScreenActivity}" drawable="onleihe" />
+<!--Pixel Wheels --><item component="ComponentInfo{com.agateau.tinywheels.android/com.agateau.pixelwheels.android.AndroidLauncher}" drawable="pixel_wheels" />
+<!--QR-Scanner --><item component="ComponentInfo{com.teacapps.barcodescanner/net.qrbot.ui.main.MainActivity}" drawable="qr_scanner" />
+<!--SimpleLogin --><item component="ComponentInfo{io.simplelogin.android/io.simplelogin.android.module.startup.StartupActivity}" drawable="simplelogin" />
+<!--Symbolab --><item component="ComponentInfo{com.devsense.symbolab/com.symbolab.symbolablibrary.ui.activities.SplashActivity}" drawable="symbolab" />
+<!--Termux --><item component="ComponentInfo{com.termux/com.termux.app.TermuxActivity}" drawable="termux" />
+<!--UUID 0xFD6F Scanner --><item component="ComponentInfo{com.emacberry.uuid0xfd6fscan/com.emacberry.uuid0xfd6fscan.ScannerActivity}" drawable="uuid_0xfd6f_scanner" />
+<!--Watten --><item component="ComponentInfo{stefanlukasv.googlemail.com.watten/stefanlukasv.googlemail.com.watten.SplashActivity}" drawable="watten" />
+<!--WhatsApp SIM --><item component="ComponentInfo{de.eplus.mappecc.client.android.whatsappsim/de.eplus.mappecc.client.android.feature.splashscreen.SplashActivity}" drawable="whatsapp_sim" />
