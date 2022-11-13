@@ -11,7 +11,9 @@ class Icons {
 					Reproduce:
 					Can be reproduced through scrolling to the bottom and reloading the page.
 					*/
-					entry.target.style.top = 0;
+					const icon = entry.target;
+					icon.style.top = 0;
+					observer.unobserve(icon);
 				}
 			});
 		});

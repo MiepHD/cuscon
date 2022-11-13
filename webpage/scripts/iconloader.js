@@ -1,10 +1,12 @@
 class IconLoader {
   addIntersectionObserver() {
-    const observer = new IntersectionObserver((entries) => {
+    let observer = new IntersectionObserver((entries) => {
 			entries.forEach((entry) => {
 				if (entry.isIntersecting) {
           const build = new IconBuilder();
-          build.iconList(entry.target.getAttribute("data-category-id"));
+          const category = entry.target;
+          build.iconList(category.getAttribute("data-category-id"));
+          observer.unobserve(category);
 				}
 			});
 		});
