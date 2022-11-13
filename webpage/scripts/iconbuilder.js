@@ -12,6 +12,14 @@ class IconBuilder {
     }.bind(this);
   }
   iconListFromData(data) {
+    data.push(
+      {
+        "title": "icons.add.title",
+        "author": "MiepHD",
+        "info": "icons.add.info",
+        "src": "res/add.png"
+      }
+    );
     const div = document.querySelector(`[data-category-id=${this.curreqcat}]`);
     for (const icon of data) {
       const image = document.createElement("img");

@@ -1,4 +1,3 @@
-const addicons = new AddIcons();
 const icons = new Icons();
 const cards = new Cards();
 const translate = new Translator();
@@ -11,7 +10,6 @@ const iconloader = new IconLoader();
 
 document.addEventListener('DOMContentLoaded', function() {
   iconloader.addIntersectionObserver();
-  addicons.add();
   //Things to call when tab got resized
   window.addEventListener('resize', function() {
     icons.setIconWidths();
