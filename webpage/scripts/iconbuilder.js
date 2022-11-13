@@ -37,7 +37,7 @@ class IconBuilder {
   }
   requestIconList(category) {
     this.curreqcat = category;
-    this.xhttp.open("GET", `icons/information/${category}.json`, true);
+    this.xhttp.open("GET", `iconsdata/${category}.json`, true);
     this.xhttp.send();
   }
 }
