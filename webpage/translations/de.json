@@ -41,6 +41,13 @@
   "icons.samsung-gallary.title": "Samsung Galerie",
   "icons.microg-settings.title": "microG-Einstellungen",
   "icons.google-translate.title": "Google Übersetzer",
+  "icons.bahnhofsfotos.title": "Bahnhofsfotos",
+  "icons.bibel_.title": "Bibel+",
+  "icons.duden_worterbucher.title": "Duden Wörterbücher",
+  "icons.offi_haltestellen.title": "Öffi Haltestellen",
+  "icons.offi_netzplane.title": "Öffi Netzpläne",
+  "icons.offi_verbindungen.title": "Öffi Verbindungen",
+  "icons.onlyoffice_dokumente.title": "ONYLOFFICE Dokumente",
   "comment": "Tooltips",
   "tooltip.coming-soon": "Kommt später"
 }
