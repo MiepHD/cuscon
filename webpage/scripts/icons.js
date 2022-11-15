@@ -44,6 +44,9 @@ class Icons {
 
 	//Sets the width for all icons and the infobox
 	setIconWidths() {
+		if (document.querySelector(".tiles")==undefined) {
+			return;
+		}
 		const fullwidth = document.querySelector(".tiles").offsetWidth,
 			number = this.calcIconsPerLine(fullwidth),
 			width = fullwidth / number;
