@@ -2,7 +2,10 @@
   {
     "title": "Birday",
     "author": "MiepHD",
-    "src": "icons/birday.png"
+    "src": "icons/birday.png",
+    "filename": "birday",
+    "packagename": "com.minar.birday",
+    "activity": "com.minar.birday.activities.MainActivity"
   },
   {
     "title": "Covpass",
@@ -13,7 +16,10 @@
     "title": "Github",
     "info": "icons.github.info",
     "author": "MiepHD",
-    "src": "icons/github.png"
+    "src": "icons/github.png",
+    "filename": "github",
+    "packagename": "com.github.android",
+    "activity": "com.github.android.activities.MainActivity"
   },
   {
     "title": "I-Net Menue",

@@ -51,5 +51,10 @@
   "icons.offi_verbindungen.title": "Offi Directions",
   "icons.onlyoffice_dokumente.title": "ONYLOFFICE Documents",
   "comment": "Tooltips",
-  "tooltip.coming-soon": "Coming Soon"
+  "tooltip.coming-soon": "Coming Soon",
+  "comment": "Technical details",
+  "technical-details.title": "Technical details",
+  "technical-details.filename": "Filename",
+  "technical-details.packagename": "Packagename",
+  "technical-details.activity": "Activity"
 }

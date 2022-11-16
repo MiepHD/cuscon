@@ -5,7 +5,7 @@
 	max-height: 0px;
 	transition: max-height 0.5s;
 	overflow: hidden;
-	padding-right: 6px:
+	padding-right: 6px;
 }
 #infobox-title {
 	grid-column: 1 / 4;
@@ -25,7 +25,40 @@
 	grid-row: 1 / 2;
 	text-align: right;
 }
+#technical-details-button {
+	grid-column: 4 / 5;
+	grid-row: 2 / 3;
+	text-align: right;
+	color: #C1C1C1;
+	font-size: calc(var(--normal-size) / 10);
+	height: auto;
+	width: auto;
+	display: table;
+}
+#technical-details-button > span {
+	display: table-cell;
+	vertical-align: bottom;
+	cursor: pointer;
+}
+#technical-details-button > #arrow {
+	transform: rotate(90deg);
+	display: inline-block;
+}
+#technical-details {
+	//display: none;
+	grid-column: 1 / 4;
+	grid-row: 3 / 4;
+}
+.codeblock {
+	font-family: Consolas;
+	background-color: rgba(0, 0, 0, 0.5);
+	padding: 5px;
+  border-radius: 15px;
+  color: #C1C1C1;
+  border: 3px solid rgba(0, 0, 0, 0.5);
+}
 #infobox > .card > .card-content {
 	display: grid;
 	grid-template-columns: repeat(4, 1fr);
+	position: relative;
 }

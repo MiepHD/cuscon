@@ -50,5 +50,10 @@
   "icons.offi_verbindungen.title": "Öffi Verbindungen",
   "icons.onlyoffice_dokumente.title": "ONLYOFFICE Dokumente",
   "comment": "Tooltips",
-  "tooltip.coming-soon": "Kommt später"
+  "tooltip.coming-soon": "Kommt später",
+  "comment": "Technical details",
+  "technical-details.title": "Technische Daten",
+  "technical-details.filename": "Dateiname",
+  "technical-details.packagename": "Paketname",
+  "technical-details.activity": "Aktivität"
 }

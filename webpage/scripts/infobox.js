@@ -15,12 +15,41 @@ class Infobox {
 		//Variables for title
 		//Title should be filled but don't has to be
 			titleelement = document.getElementById("infobox-title"),
-			title = icon.getAttribute("data-title");
+			title = icon.getAttribute("data-title"),
+
+		//Variables for technical details
+			detailsbutton = document.getElementById("technical-details-button"),
+			filenameelement = document.getElementById("infobox-filename"),
+			packagenameelement = document.getElementById("infobox-packagename"),
+			activityelement = document.getElementById("infobox-activity"),
+			filename = icon.getAttribute("data-filename"),
+			packagename = icon.getAttribute("data-packagename"),
+			activity = icon.getAttribute("data-activity");
 
 		//Sets title
 		titleelement.innerHTML = title;
 		titleelement.setAttribute("data-translation-id", title);
 
+		//Sets details
+		if (filename!=undefined&&packagename!=undefined&&activity!=undefined) {
+			detailsbutton.style.display = "table";
+			for (const btn of document.querySelectorAll("#technical-details-button > span > span")) {
+				btn.addEventListener("click", function () {
+					console.log("clicked");
+					let details = document.getElementById("technical-details");//this.parentElement.parentElement.parentElement.children[4];
+					if (details.style.display=="initial") {
+						details.style.display = "none";
+					} else {
+						details.style.display = "initial";
+					}
+				});
+			}
+			filenameelement.innerHTML = filename;
+			packagenameelement.innerHTML = packagename;
+			activityelement.innerHTML = activity;
+		} else {
+			detailsbutton.style.display = "none";
+		}
 		//Sets info
 		if (info==undefined) {
 			infoelement.style.display = "none";

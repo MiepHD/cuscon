@@ -37,6 +37,15 @@ class IconBuilder {
       if (icon.src!=undefined) {
         image.setAttribute("src", icon.src);
       }
+      if (icon.filename!=undefined) {
+        image.setAttribute("data-filename", icon.filename);
+      }
+      if (icon.packagename!=undefined) {
+        image.setAttribute("data-packagename", icon.packagename);
+      }
+      if (icon.activity!=undefined) {
+        image.setAttribute("data-activity", icon.activity);
+      }
       div.append(image);
     }
     div.removeAttribute("id");
