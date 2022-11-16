@@ -5,6 +5,7 @@
 	max-height: 0px;
 	transition: max-height 0.5s;
 	overflow: hidden;
+	padding-right: 6px:
 }
 #infobox-title {
 	grid-column: 1 / 4;
