@@ -1,0 +1,78 @@
+[
+  {
+    "title": "category.other",
+    "filename": "other"
+  },
+  {
+    "title": "Stores",
+    "filename": "stores"
+  },
+  {
+    "title": "Video Streaming",
+    "filename": "video-streaming"
+  },
+  {
+    "title": "category.music-streaming",
+    "filename": "music-streaming"
+  },
+  {
+    "title": "category.games",
+    "filename": "games"
+  },
+  {
+    "title": "category.communication",
+    "filename": "communication"
+  },
+  {
+    "title": "Browser",
+    "filename": "browser"
+  },
+  {
+    "title": "Tools",
+    "filename": "tools"
+  },
+  {
+    "title": "category.documents",
+    "filename": "documents"
+  },
+  {
+    "title": "VPN",
+    "filename": "vpn"
+  },
+  {
+    "title": "category.camera",
+    "filename": "camera"
+  },
+  {
+    "title": "category.maps",
+    "filename": "maps"
+  },
+  {
+    "title": "category.files",
+    "filename": "files"
+  },
+  {
+    "title": "category.gallary",
+    "filename": "gallery"
+  },
+  {
+    "title": "category.security",
+    "filename": "security"
+  },
+  {
+    "title": "category.learning",
+    "filename": "learning"
+  },
+  {
+    "title": "News",
+    "filename": "news"
+  },
+  {
+    "title": "Design",
+    "filename": "design"
+  },
+  {
+    "title": "Information",
+    "filename": "information"
+  }
+]
