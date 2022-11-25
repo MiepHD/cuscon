@@ -176,5 +176,10 @@
     "title": "Termux",
     "author": "MiepHD",
     "src": "icons/termux.png"
+  },
+  {
+    "title": "Whatsapp SIM",
+    "author": "MiepHD",
+    "src": "icons/whatsapp_sim.png"
   }
 ]

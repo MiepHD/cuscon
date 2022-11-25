@@ -12,4 +12,3 @@
 <!--QR-Scanner --><AppIcon name="com.teacapps.barcodescanner/net.qrbot.ui.main.MainActivity" image="qr_scanner"/>
 <!--UUID 0xFD6F Scanner --><AppIcon name="com.emacberry.uuid0xfd6fscan/com.emacberry.uuid0xfd6fscan.ScannerActivity" image="uuid_0xfd6f_scanner"/>
 <!--Watten --><AppIcon name="stefanlukasv.googlemail.com.watten/stefanlukasv.googlemail.com.watten.SplashActivity" image="watten"/>
-<!--WhatsApp SIM --><AppIcon name="de.eplus.mappecc.client.android.whatsappsim/de.eplus.mappecc.client.android.feature.splashscreen.SplashActivity" image="whatsapp_sim"/>

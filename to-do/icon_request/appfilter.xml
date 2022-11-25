@@ -11,4 +11,3 @@
 <!--QR-Scanner --><item component="ComponentInfo{com.teacapps.barcodescanner/net.qrbot.ui.main.MainActivity}" drawable="qr_scanner" />
 <!--UUID 0xFD6F Scanner --><item component="ComponentInfo{com.emacberry.uuid0xfd6fscan/com.emacberry.uuid0xfd6fscan.ScannerActivity}" drawable="uuid_0xfd6f_scanner" />
 <!--Watten --><item component="ComponentInfo{stefanlukasv.googlemail.com.watten/stefanlukasv.googlemail.com.watten.SplashActivity}" drawable="watten" />
-<!--WhatsApp SIM --><item component="ComponentInfo{de.eplus.mappecc.client.android.whatsappsim/de.eplus.mappecc.client.android.feature.splashscreen.SplashActivity}" drawable="whatsapp_sim" />

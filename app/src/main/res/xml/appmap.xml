@@ -196,5 +196,6 @@
     <!-- SimpleLogin --><item class="io.simplelogin.android.module.startup.StartupActivity" name="simplelogin"/>
     <!-- Symbolab --><item class="com.symbolab.symbolablibrary.ui.activities.SplashActivity" name="symbolab"/>
     <!-- Termux --><item class="com.termux.app.TermuxActivity" name="termux"/>
-
+    <!-- WhatsApp SIM --><item class="de.eplus.mappecc.client.android.feature.splashscreen.SplashActivity" name="whatsapp_sim"/>
+    
 </appmap>

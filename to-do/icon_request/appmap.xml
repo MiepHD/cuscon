@@ -11,4 +11,3 @@
 <!-- QR-Scanner --><item class="net.qrbot.ui.main.MainActivity" name="qr_scanner"/>
 <!-- UUID 0xFD6F Scanner --><item class="com.emacberry.uuid0xfd6fscan.ScannerActivity" name="uuid_0xfd6f_scanner"/>
 <!-- Watten --><item class="stefanlukasv.googlemail.com.watten.SplashActivity" name="watten"/>
-<!-- WhatsApp SIM --><item class="de.eplus.mappecc.client.android.feature.splashscreen.SplashActivity" name="whatsapp_sim"/>
