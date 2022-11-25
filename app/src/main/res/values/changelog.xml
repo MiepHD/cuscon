@@ -5,6 +5,8 @@
     <string name="changelog_date">01.11.2022</string>
 
     <string-array name="changelog">
+        <item>2.4.5 (2.4.6) -> 2.5:</item>
+        <item>Added SimpleLogin, Symbolab, Termux, WhatsApp SIM, Aliucord Installer, Apkmody, Chrome, LADB, Pinterest, Snapchat</item>
         <item>2.4.4 -> 2.4.5:</item>
         <item>Added Galaxy Store, Happymod, MEGA, Info Dienste</item>
         <item>Edited categories</item>
