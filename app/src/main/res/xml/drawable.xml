@@ -51,6 +51,8 @@
     <!-- EMP Shop --><item drawable="emp_shop" />
     <!-- Galaxy Store --><item drawable="galaxy_store" />
     <!-- Happymod --><item drawable="happymod"/>
+    <!-- Aliucord Installer --><item drawable="aliucord_installer" />
+    <!-- Apkmody --><item drawable="apkmody" />
 
     <category title="Video Streaming" />
     <item drawable="netflix" />
@@ -105,12 +107,14 @@
     <!-- Silence --><item drawable="silence" />
     <!-- Tutanota --><item drawable="tutanota" />
     <!-- SimpleLogin --><item drawable="simplelogin" />
+    <!-- Snapchat --><item drawable="snapchat" />
 
     <category title="Browser" />
     <item drawable="firefox" />
     <item drawable= "browser" />
     <item drawable="brave" />
     <!-- Fennec --><item drawable="fennec" />
+    <!-- Chrome --><item drawable="chrome" />
 
     <category title="Tools" />
     <item drawable="lucky_patcher" />
@@ -126,6 +130,7 @@
     <!-- GPS JoyStick --><item drawable="gps_joystick" />
     <!-- Dumbphone Assistant --><item drawable="dumbphone_assistant" />
     <!-- NCalcLibre --><item drawable="ncalclibre" />
+    <!-- LADB --><item drawable="ladb" />
 
     <category title="Documents" />
     <item drawable="adobe_acrobat_reader" />
@@ -206,6 +211,7 @@
     <!-- Paper copy --><item drawable="paper_copy" />
     <!-- SimpleAudio --><item drawable="simpleaudio" />
     <!-- Snapseed --><item drawable="snapseed" />
+    <!-- Pinterest --><item drawable="pinterest" />
 
     <category title="Information" />
     <!-- Öffi Verbindungen --><item drawable="offi_verbindungen" />

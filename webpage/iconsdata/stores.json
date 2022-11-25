@@ -52,5 +52,15 @@
   	"title":"Happymod",
 		"author":"sourcrowd450",
 		"src":"icons/happymod.png"
+  },
+  {
+	"title": "Aliucord Installer",
+	"author":"MiepHD",
+	"src": "icons/aliucord_installer.png"
+  },
+  {
+	"title": "Apkmody",
+	"author": "MiepHD",
+	"src": "icons/apkmody.png"
   }
 ]

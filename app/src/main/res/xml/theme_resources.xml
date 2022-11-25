@@ -198,5 +198,11 @@
     <!--Symbolab --><AppIcon name="com.devsense.symbolab/com.symbolab.symbolablibrary.ui.activities.SplashActivity" image="symbolab"/>
     <!--Termux --><AppIcon name="com.termux/com.termux.app.TermuxActivity" image="termux"/>
     <!--WhatsApp SIM --><AppIcon name="de.eplus.mappecc.client.android.whatsappsim/de.eplus.mappecc.client.android.feature.splashscreen.SplashActivity" image="whatsapp_sim"/>
-
+    <!-- Aliucord Installer --><AppIcon name="com.aliucord.installer/com.aliucord.installer.MainActivity" image="aliucord_installer"/>
+    <!-- Apkmody --><AppIcon name="co.tech.apkgames/com.example.MainActivity" image="apkmody"/>
+    <!-- Chrome --><AppIcon name="com.android.chrome/com.google.android.apps.chrome.Main" image="chrome"/>
+    <!-- LADB --><AppIcon name="com.draco.ladb.free/com.draco.ladb.views.MainActivity" image="ladb"/>
+    <!-- Pinterest --><AppIcon name="com.pinterest/com.pinterest.activity.PinterestActivity" image="pinterest"/>
+    <!-- Snapchat --><AppIcon name="com.snapchat.android/com.snapchat.android.LandingPageActivity" image="snapchat"/>
+    
 </Theme>

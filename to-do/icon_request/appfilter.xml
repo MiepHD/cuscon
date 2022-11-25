@@ -11,3 +11,4 @@
 <!--QR-Scanner --><item component="ComponentInfo{com.teacapps.barcodescanner/net.qrbot.ui.main.MainActivity}" drawable="qr_scanner" />
 <!--UUID 0xFD6F Scanner --><item component="ComponentInfo{com.emacberry.uuid0xfd6fscan/com.emacberry.uuid0xfd6fscan.ScannerActivity}" drawable="uuid_0xfd6f_scanner" />
 <!--Watten --><item component="ComponentInfo{stefanlukasv.googlemail.com.watten/stefanlukasv.googlemail.com.watten.SplashActivity}" drawable="watten" />
+<!-- ibisPaint X --><item component="ComponentInfo{jp.ne.ibis.ibispaintx.app/jp.ne.ibis.ibispaintx.app.market.MarketAuthenticationActivity}" drawable="ibispaint_x" />

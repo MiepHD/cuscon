@@ -197,5 +197,11 @@
     <!-- Symbolab --><item class="com.symbolab.symbolablibrary.ui.activities.SplashActivity" name="symbolab"/>
     <!-- Termux --><item class="com.termux.app.TermuxActivity" name="termux"/>
     <!-- WhatsApp SIM --><item class="de.eplus.mappecc.client.android.feature.splashscreen.SplashActivity" name="whatsapp_sim"/>
+    <!-- Aliucord Installer --><item class="com.aliucord.installer.MainActivity" name="aliucord_installer"/>
+    <!-- Apkmody --><item class="com.example.MainActivity" name="apkmody"/>
+    <!-- Chrome --><item class="com.google.android.apps.chrome.Main" name="chrome"/>
+    <!-- LADB --><item class="com.draco.ladb.views.MainActivity" name="ladb"/>
+    <!-- Pinterest --><item class="com.pinterest.activity.PinterestActivity" name="pinterest"/>
+    <!-- Snapchat --><item class="com.snapchat.android.LandingPageActivity" name="snapchat"/>
     
 </appmap>

@@ -12,3 +12,4 @@
 <!--QR-Scanner --><AppIcon name="com.teacapps.barcodescanner/net.qrbot.ui.main.MainActivity" image="qr_scanner"/>
 <!--UUID 0xFD6F Scanner --><AppIcon name="com.emacberry.uuid0xfd6fscan/com.emacberry.uuid0xfd6fscan.ScannerActivity" image="uuid_0xfd6f_scanner"/>
 <!--Watten --><AppIcon name="stefanlukasv.googlemail.com.watten/stefanlukasv.googlemail.com.watten.SplashActivity" image="watten"/>
+<!-- ibisPaint X --><AppIcon name="jp.ne.ibis.ibispaintx.app/jp.ne.ibis.ibispaintx.app.market.MarketAuthenticationActivity" image="ibispaint_x"/>

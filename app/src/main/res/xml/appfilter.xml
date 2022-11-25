@@ -213,5 +213,11 @@
     <!--Symbolab --><item component="ComponentInfo{com.devsense.symbolab/com.symbolab.symbolablibrary.ui.activities.SplashActivity}" drawable="symbolab" />
     <!--Termux --><item component="ComponentInfo{com.termux/com.termux.app.TermuxActivity}" drawable="termux" />
     <!--WhatsApp SIM --><item component="ComponentInfo{de.eplus.mappecc.client.android.whatsappsim/de.eplus.mappecc.client.android.feature.splashscreen.SplashActivity}" drawable="whatsapp_sim" />
-
+    <!-- Aliucord Installer --><item component="ComponentInfo{com.aliucord.installer/com.aliucord.installer.MainActivity}" drawable="aliucord_installer" />
+    <!-- Apkmody --><item component="ComponentInfo{co.tech.apkgames/com.example.MainActivity}" drawable="apkmody" />
+    <!-- Chrome --><item component="ComponentInfo{com.android.chrome/com.google.android.apps.chrome.Main}" drawable="chrome" />
+    <!-- LADB --><item component="ComponentInfo{com.draco.ladb.free/com.draco.ladb.views.MainActivity}" drawable="ladb" />
+    <!-- Pinterest --><item component="ComponentInfo{com.pinterest/com.pinterest.activity.PinterestActivity}" drawable="pinterest" />
+    <!-- Snapchat --><item component="ComponentInfo{com.snapchat.android/com.snapchat.android.LandingPageActivity}" drawable="snapchat" />
+    
 </resources>
