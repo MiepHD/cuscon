@@ -12,7 +12,7 @@
     <AppIcon name="com.brave.browser/com.google.android.apps.chrome.Main" image="brave"/>
     <AppIcon name="de.rki.covpass.app/de.rki.covpass.app.main.MainActivity" image="covpass"/>
     <AppIcon name="com.senspark.darkland/com.unity3d.player.UnityPlayerActivity" image="darkland"/>
-    <AppIcon name="com.discord/com.discord.app.AppActivity$Main" image="discord"/>
+    <!-- Discord --><AppIcon name="com.discord/com.discord.main.MainActivity" image="discord"/>
     <AppIcon name="com.samsung.android.email.provider/com.samsung.android.email.ui.activity.MessageListXL" image="samsung_mail"/>
     <AppIcon name="com.sec.android.app.myfiles/com.sec.android.app.myfiles.external.ui.MainActivity" image="samsung_files"/>
     <AppIcon name="org.fdroid.fdroid/org.fdroid.fdroid.views.main.MainActivity" image="f_droid"/>
@@ -204,5 +204,4 @@
     <!-- LADB --><AppIcon name="com.draco.ladb.free/com.draco.ladb.views.MainActivity" image="ladb"/>
     <!-- Pinterest --><AppIcon name="com.pinterest/com.pinterest.activity.PinterestActivity" image="pinterest"/>
     <!-- Snapchat --><AppIcon name="com.snapchat.android/com.snapchat.android.LandingPageActivity" image="snapchat"/>
-    
 </Theme>

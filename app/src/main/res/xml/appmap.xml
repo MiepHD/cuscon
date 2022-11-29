@@ -11,7 +11,7 @@
     <item class="com.google.android.apps.chrome.Main" image="brave"/>
     <item class="de.rki.covpass.app.main.MainActivity" image="covpass"/>
     <item class="com.unity3d.player.UnityPlayerActivity" image="darkland"/>
-    <item class="com.discord.app.AppActivity$Main" image="discord"/>
+    <!-- Discord --><item class="com.discord.main.MainActivity" name="discord"/>
     <item class="com.samsung.android.email.ui.activity.MessageListXL" image="samsung_mail"/>
     <item class="com.sec.android.app.myfiles.external.ui.MainActivity" image="samsung_files"/>
     <item class="org.fdroid.fdroid.views.main.MainActivity" image="f_droid"/>
@@ -203,5 +203,4 @@
     <!-- LADB --><item class="com.draco.ladb.views.MainActivity" name="ladb"/>
     <!-- Pinterest --><item class="com.pinterest.activity.PinterestActivity" name="pinterest"/>
     <!-- Snapchat --><item class="com.snapchat.android.LandingPageActivity" name="snapchat"/>
-    
 </appmap>
