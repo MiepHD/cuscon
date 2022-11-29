@@ -2,6 +2,8 @@
 
 Icon-Pack with transpanrent icons that are outlined for good visibility.
 
+Contains the android app in `app` and the website under `webpage`
+
 # Requirements for contributing icons
 - Icons must be outlined in black
 - Icon must be visible on black background
