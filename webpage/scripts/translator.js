@@ -1,6 +1,11 @@
 class Translator {
   constructor() {
-    this.lang = "en";
+    const preflang = navigator.language.slice(0, -3)
+    if (preflang == "de") {
+      this.lang = "de";
+    } else {
+      this.lang = "en";
+    }
     this.datas = {};
     this.xhttp = new XMLHttpRequest();
     this.xhttp.onreadystatechange = function() {

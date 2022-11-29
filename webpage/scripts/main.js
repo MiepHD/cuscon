@@ -27,4 +27,5 @@ document.addEventListener('DOMContentLoaded', function() {
   document.getElementById("menu").addEventListener("click", sidebar.toggle.bind(sidebar));
 
   tooltip.add();
+  translate.renew();
 }, false);
