@@ -204,4 +204,5 @@
     <!-- LADB --><AppIcon name="com.draco.ladb.free/com.draco.ladb.views.MainActivity" image="ladb"/>
     <!-- Pinterest --><AppIcon name="com.pinterest/com.pinterest.activity.PinterestActivity" image="pinterest"/>
     <!-- Snapchat --><AppIcon name="com.snapchat.android/com.snapchat.android.LandingPageActivity" image="snapchat"/>
+    <!-- Nachrichten --><AppIcon name="com.samsung.android.messaging/com.android.mms.ui.ConversationComposer" image="messages"/>
 </Theme>

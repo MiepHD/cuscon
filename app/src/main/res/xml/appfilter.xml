@@ -219,5 +219,5 @@
     <!-- LADB --><item component="ComponentInfo{com.draco.ladb.free/com.draco.ladb.views.MainActivity}" drawable="ladb" />
     <!-- Pinterest --><item component="ComponentInfo{com.pinterest/com.pinterest.activity.PinterestActivity}" drawable="pinterest" />
     <!-- Snapchat --><item component="ComponentInfo{com.snapchat.android/com.snapchat.android.LandingPageActivity}" drawable="snapchat" />
-    
+    <!-- Nachrichten --><item component="ComponentInfo{com.samsung.android.messaging/com.android.mms.ui.ConversationComposer}" drawable="messages" />
 </resources>

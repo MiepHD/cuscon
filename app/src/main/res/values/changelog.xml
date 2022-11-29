@@ -6,6 +6,7 @@
 
     <string-array name="changelog">
         <item>2.5 -> 2.5.1:</item>
+        <item>Added Messages</item>
         <item>Fixed Discord</item>
         <item>Fixed AMC Cooking</item>
         <item>Fixed icons of Aliucord Installer, AMC Cooking, APK Editor, Aurora Store, Birday, Clock, Cloudflare Warp, EMP Shop, F-Droid, Flix, Galaxy Wearable, Map2Fly, Organic Maps, Samsung Mail, Samsung Music, ZDFMediathek</item>

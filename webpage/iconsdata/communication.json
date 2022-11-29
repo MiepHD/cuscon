@@ -94,5 +94,10 @@
 		"title": "Snapchat",
 		"author": "MiepHD",
 		"src": "icons/snapchat.png"
+	},
+	{
+		"title": "icons.messages.title",
+		"author": "MiepHD",
+		"src": "icons/messages.png"
 	}
 ]

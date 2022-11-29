@@ -108,6 +108,7 @@
     <!-- Tutanota --><item drawable="tutanota" />
     <!-- SimpleLogin --><item drawable="simplelogin" />
     <!-- Snapchat --><item drawable="snapchat" />
+    <!-- Nachrichten --><item drawable="messages"/>
 
     <category title="Browser" />
     <item drawable="firefox" />

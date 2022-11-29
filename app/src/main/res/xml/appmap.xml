@@ -203,4 +203,5 @@
     <!-- LADB --><item class="com.draco.ladb.views.MainActivity" name="ladb"/>
     <!-- Pinterest --><item class="com.pinterest.activity.PinterestActivity" name="pinterest"/>
     <!-- Snapchat --><item class="com.snapchat.android.LandingPageActivity" name="snapchat"/>
+    <!-- Nachrichten --><item class="com.android.mms.ui.ConversationComposer" name="messages"/>
 </appmap>
