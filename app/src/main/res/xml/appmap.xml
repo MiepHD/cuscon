@@ -50,7 +50,7 @@
     <item class="com.zdf.android.mediathek.ui.splash.SplashActivity" image="zdfmediathek"/>
     <item class="com.google.android.apps.translate.TranslateActivity" image="google_translate"/>
     <item class="com.android.vending.AssetBrowserActivity" image="google_play_store"/>
-    <item class="com.audiothermapp.MainActivity" image="amc_coocking"/>
+    <item class="com.audiothermapp.MainActivity" image="amc_cooking"/>
     <item class="com.mapswithme.maps.DownloadResourcesActivity" image="organic_maps"/>
     <item class="de.swr.dasding.MainActivity" image="dasding"/>
     <item class="com.sec.android.app.voicenote.main.VNMainActivity" image="voicenote"/>

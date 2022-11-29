@@ -51,7 +51,7 @@
     <AppIcon name="com.zdf.android.mediathek/com.zdf.android.mediathek.ui.splash.SplashActivity" image="zdfmediathek"/>
     <AppIcon name="com.google.android.apps.translate/com.google.android.apps.translate.TranslateActivity" image="google_translate"/>
     <AppIcon name="com.android.vending/com.android.vending.AssetBrowserActivity" image="google_play_store"/>
-    <AppIcon name="info.amc.cookandgo/com.audiothermapp.MainActivity" image="amc_coocking"/>
+    <AppIcon name="info.amc.cookandgo/com.audiothermapp.MainActivity" image="amc_cooking"/>
     <AppIcon name="app.organicmaps/com.mapswithme.maps.DownloadResourcesActivity" image="organic_maps"/>
     <AppIcon name="de.swr.dasding/de.swr.dasding.MainActivity" image="dasding"/>
     <AppIcon name="com.sec.android.app.voicenote/com.sec.android.app.voicenote.main.VNMainActivity" image="voicenote"/>
