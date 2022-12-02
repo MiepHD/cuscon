@@ -12,8 +12,8 @@ Contains the android app in `app` and the website under `webpage`
 - should have approximate 12px brush size
 
 # Contributors
-https://github.com/MiepHD
-https://github.com/sourcrowd450
+<a href="https://github.com/MiepHD" target="_blank"><img class="profile" src="https://avatars.githubusercontent.com/u/63968466?s=64&v=4"></a>
+<a href="https://github.com/sourcrowd450" target="_blank"><img class="profile" src="https://avatars.githubusercontent.com/u/107772832?s=64&v=4"></a>
 
 # Supported Apps
 
