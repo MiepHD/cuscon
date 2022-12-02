@@ -68,5 +68,10 @@
 		"title": "LADB",
 		"author": "MiepHD",
 		"src": "icons/ladb.png"
+	},
+	{
+		"title": "Overlay Digital Clock",
+		"author": "MiepHD",
+		"src": "icons/overlay_digital_clock.png"
 	}
 ]

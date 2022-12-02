@@ -33,5 +33,10 @@
 		"title":"KFZ-Kennzeichen",
 		"author":"sourcrowd450",
 		"src":"icons/kfz_kennzeichen.png"
+	},
+	{
+		"title": "DSBmobile",
+		"author": "MiepHD",
+		"src": "icons/dsbmobile.png"
 	}
 ]

@@ -39,6 +39,7 @@
     <!--Symbolab --><item drawable="symbolab" />
     <!--Termux --><item drawable="termux" />
     <!--WhatsApp SIM --><item drawable="whatsapp_sim"/>
+    <!-- Apex Launcher --><item drawable="apex_launcher"/>
 
     <category title="Stores" />
     <item drawable="apkpure" />
@@ -132,6 +133,7 @@
     <!-- Dumbphone Assistant --><item drawable="dumbphone_assistant" />
     <!-- NCalcLibre --><item drawable="ncalclibre" />
     <!-- LADB --><item drawable="ladb" />
+    <!-- Overlay Digital Clock --><item drawable="overlay_digital_clock"/>
 
     <category title="Documents" />
     <item drawable="adobe_acrobat_reader" />
@@ -222,4 +224,5 @@
     <item drawable="uav_forecast" />
     <!-- Elementary --><item drawable="elementary" />
     <!-- KFZ-Kennzeichen --><item drawable="kfz_kennzeichen" />
+    <!-- DSBmobile --><item drawable="dsbmobile"/>
 </resources>

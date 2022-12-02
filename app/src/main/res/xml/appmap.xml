@@ -204,4 +204,7 @@
     <!-- Pinterest --><item class="com.pinterest.activity.PinterestActivity" name="pinterest"/>
     <!-- Snapchat --><item class="com.snapchat.android.LandingPageActivity" name="snapchat"/>
     <!-- Nachrichten --><item class="com.android.mms.ui.ConversationComposer" name="messages"/>
+	<!-- Apex Launcher --><item class="com.anddoes.launcher.Launcher" name="apex_launcher"/>
+	<!-- DSBmobile --><item class="de.heinekingmedia.dsbmobile.ui.activities.LoginActivity" name="dsbmobile"/>
+	<!-- Overlay Digital Clock --><item class="com.fmroid.overlaydigitalclock.MainActivity" name="overlay_digital_clock"/>
 </appmap>

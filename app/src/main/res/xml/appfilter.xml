@@ -220,4 +220,7 @@
     <!-- Pinterest --><item component="ComponentInfo{com.pinterest/com.pinterest.activity.PinterestActivity}" drawable="pinterest" />
     <!-- Snapchat --><item component="ComponentInfo{com.snapchat.android/com.snapchat.android.LandingPageActivity}" drawable="snapchat" />
     <!-- Nachrichten --><item component="ComponentInfo{com.samsung.android.messaging/com.android.mms.ui.ConversationComposer}" drawable="messages" />
+	<!-- Apex Launcher --><item component="ComponentInfo{com.anddoes.launcher/com.anddoes.launcher.Launcher}" drawable="apex_launcher" />
+	<!-- DSBmobile --><item component="ComponentInfo{de.heinekingmedia.dsbmobile/de.heinekingmedia.dsbmobile.ui.activities.LoginActivity}" drawable="dsbmobile" />
+	<!-- Overlay Digital Clock --><item component="ComponentInfo{com.fmroid.overlaydigitalclock/com.fmroid.overlaydigitalclock.MainActivity}" drawable="overlay_digital_clock" />
 </resources>
