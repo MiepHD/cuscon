@@ -67,7 +67,7 @@
     <item component="ComponentInfo{com.google.android.apps.translate/com.google.android.apps.translate.TranslateActivity}" drawable="google_translate"/>
     <item component="ComponentInfo{com.android.vending/com.android.vending.AssetBrowserActivity}" drawable="google_play_store"/>
     <item component="ComponentInfo{info.amc.cookandgo/com.audiothermapp.MainActivity}" drawable="amc_cooking"/>
-    <item component="ComponentInfo{app.organicmaps/com.mapswithme.maps.DownloadResourcesActivity}" drawable="organic_maps"/>
+    <item component="ComponentInfo{app.organicmaps/app.organicmaps.DownloadResourcesActivity}" drawable="organic_maps"/>
     <item component="ComponentInfo{de.swr.dasding/de.swr.dasding.MainActivity}" drawable="dasding"/>
     <item component="ComponentInfo{com.sec.android.app.voicenote/com.sec.android.app.voicenote.main.VNMainActivity}" drawable="voicenote"/>
     <item component="ComponentInfo{com.google.android.apps.docs/com.google.android.apps.docs.app.NewMainProxyActivity}" drawable="google_drive"/>
