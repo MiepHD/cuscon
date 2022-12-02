@@ -2,31 +2,31 @@
 	{
 		"title":"Pocket Paint",
 		"author":"sourcrowd450",
-		"src":"icons/pocket_paint.png"
+		"src":"pocket_paint"
 	},
 	{
 		"title":"Retouch",
 		"author":"sourcrowd450",
-		"src":"icons/retouch.png"
+		"src":"retouch"
 	},
 	{
 		"title":"Paper copy",
 		"author":"sourcrowd450",
-		"src":"icons/paper_copy.png"
+		"src":"paper_copy"
 	},
 	{
 		"title":"SimpleAudio",
 		"author":"sourcrowd450",
-		"src":"icons/simpleaudio.png"
+		"src":"simpleaudio"
 	},
 	{
 		"title":"Snapseed",
 		"author":"sourcrowd450",
-		"src":"icons/snapseed.png"
+		"src":"snapseed"
 	},
 	{
 		"title": "Pinterest",
 		"author": "MiepHD",
-		"src": "icons/pinterest.png"
+		"src": "pinterest"
 	}
 ]

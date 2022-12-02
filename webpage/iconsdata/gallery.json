@@ -2,16 +2,16 @@
   {
 		"title":"icons.samsung-gallary.title",
 		"author":"MiepHD",
-		"src":"icons/samsung_gallary.png"
+		"src":"samsung_gallary"
 	},
   {
 		"title":"Google Photos",
 		"author":"MiepHD",
-		"src":"icons/google_photos.png"
+		"src":"google_photos"
 	},
   {
 		"title":"Camera Roll",
 		"author":"sourcrowd450",
-		"src":"icons/camera_roll.png"
+		"src":"camera_roll"
 	}
 ]

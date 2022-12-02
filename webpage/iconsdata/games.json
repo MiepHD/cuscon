@@ -2,56 +2,56 @@
   {
 		"title":"Darkland",
 		"author":"MiepHD",
-		"src":"icons/darkland.png"
+		"src":"darkland"
 	},
   {
 		"title":"ShapeOminoes",
 		"author":"MiepHD",
-		"src":"icons/shape_ominoes.png"
+		"src":"shape_ominoes"
 	},
   {
 		"title":"Klocki",
 		"author":"MiepHD",
-		"src":"icons/klocki.png"
+		"src":"klocki"
 	},
   {
 		"title":"Crossy Road",
 		"author":"MiepHD",
-		"src":"icons/crossy_road.png"
+		"src":"crossy_road"
 	},
   {
 		"title":"Word Mix Pro",
 		"author":"MiepHD",
-		"src":"icons/word_mix_pro.png"
+		"src":"word_mix_pro"
 	},
   {
 		"title":"Spingram",
 		"author":"MiepHD",
-		"src":"icons/spingram.png"
+		"src":"spingram"
 	},
   {
 		"title":"Mühle",
 		"author":"sourcrowd450",
-		"src":"icons/muhle.png"
+		"src":"muhle"
 	},
   {
 		"title":"Super Retro Mega Wars",
 		"author":"sourcrowd450",
-		"src":"icons/super_retro_mega_wars.png"
+		"src":"super_retro_mega_wars"
 	},
   {
 		"title":"hocus",
     "author": "MiepHD",
-		"src":"icons/hocus.png"
+		"src":"hocus"
 	},
   {
 		"title":"J2ME Loader",
 		"author":"sourcrowd450",
-		"src":"icons/j2me_loader.png"
+		"src":"j2me_loader"
 	},
   {
 		"title":"Lemuroid",
 		"author":"sourcrowd450",
-		"src":"icons/lemuroid.png"
+		"src":"lemuroid"
 	}
 ]

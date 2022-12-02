@@ -2,26 +2,26 @@
 	{
 		"title":"Firefox",
 		"author":"MiepHD",
-		"src":"icons/firefox.png"
+		"src":"firefox"
 	},
 	{
 		"title":"Browser",
 		"author":"MiepHD",
-		"src":"icons/browser.png"
+		"src":"browser"
 	},
 	{
 		"title":"Brave",
 		"author":"MiepHD",
-		"src":"icons/brave.png"
+		"src":"brave"
 	},
 	{
 		"title":"Fennec",
 		"author":"sourcrowd450",
-		"src":"icons/fennec.png"
+		"src":"fennec"
 	},
 	{
 		"title": "Chrome",
 		"author": "MiepHD",
-		"src": "icons/chrome.png"
+		"src": "chrome"
 	}
 ]

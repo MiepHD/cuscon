@@ -2,11 +2,11 @@
   {
     "title": "Newszone",
     "author": "MiepHD",
-    "src": "icons/newszone.png"
+    "src": "newszone"
   },
   {
     "title": "Weather",
     "author": "sourcrowd450",
-    "src": "icons/weather.png"
+    "src": "weather"
   }
 ]

@@ -2,31 +2,31 @@
   {
 		"title":"Google Maps",
 		"author":"MiepHD",
-		"src":"icons/google_maps.png"
+		"src":"google_maps"
 	},
   {
 		"title":"Organic Maps",
 		"author":"MiepHD",
-		"src":"icons/organic_maps.png"
+		"src":"organic_maps"
 	},
   {
 		"title":"Öffi Haltestellen",
 		"author":"sourcrowd450",
-		"src":"icons/offi_haltestellen.png"
+		"src":"offi_haltestellen"
 	},
   {
 		"title":"Öffi Netzpläne",
 		"author":"sourcrowd450",
-		"src":"icons/offi_netzplane.png"
+		"src":"offi_netzplane"
 	},
   {
 		"title":"OpenTracks",
 		"author":"sourcrowd450",
-		"src":"icons/opentracks.png"
+		"src":"opentracks"
 	},
   {
 		"title":"Map2Fly",
 		"author":"MiepHD",
-		"src":"icons/map2fly.png"
+		"src":"map2fly"
 	}
 ]

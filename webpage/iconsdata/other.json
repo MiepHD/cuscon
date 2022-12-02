@@ -2,190 +2,190 @@
   {
     "title": "Birday",
     "author": "MiepHD",
-    "src": "icons/birday.png"
+    "src": "birday"
   },
   {
     "title": "Covpass",
     "author": "MiepHD",
-    "src": "icons/covpass.png"
+    "src": "covpass"
   },
   {
     "title": "Github",
     "info": "icons.github.info",
     "author": "MiepHD",
-    "src": "icons/github.png"
+    "src": "github"
   },
   {
     "title": "I-Net Menue",
     "author": "MiepHD",
-    "src": "icons/i_net_menue.png"
+    "src": "i_net_menue"
   },
   {
     "title": "icons.samsung-calender.title",
     "author": "MiepHD",
-    "src": "icons/samsung_calander.png"
+    "src": "samsung_calander"
   },
   {
     "title": "Autodesk Sketchbook",
     "author": "MiepHD",
-    "src": "icons/autodesk_sketchbook.png"
+    "src": "autodesk_sketchbook"
   },
   {
     "title": "icons.clock.title",
     "author": "MiepHD",
-    "src": "icons/clock.png"
+    "src": "clock"
   },
   {
     "title": "Wallpaper Engine",
     "author": "MiepHD",
-    "src": "icons/wallpaper_engine.png"
+    "src": "wallpaper_engine"
   },
   {
     "title": "AMC Cooking",
     "author": "MiepHD",
-    "src": "icons/amc_cooking.png"
+    "src": "amc_cooking"
   },
   {
     "title": "icons.voicenote.title",
     "author": "MiepHD",
-    "src": "icons/voicenote.png"
+    "src": "voicenote"
   },
   {
     "title": "Smart Things",
     "info": "icons.smart-things.info",
     "author": "MiepHD",
-    "src": "icons/smart_things.png"
+    "src": "smart_things"
   },
   {
     "title": "Munzee",
     "author": "MiepHD",
-    "src": "icons/munzee.png"
+    "src": "munzee"
   },
   {
     "title": "Imaging Edge Mobile",
     "author": "MiepHD",
-    "src": "icons/imaging_edge_mobile.png"
+    "src": "imaging_edge_mobile"
   },
   {
     "title": "Galaxy Wearable",
     "author": "MiepHD",
-    "src": "icons/galaxy_wearable.png"
+    "src": "galaxy_wearable"
   },
   {
     "title": "Alexa",
     "author": "MiepHD",
-    "src": "icons/alexa.png"
+    "src": "alexa"
   },
   {
     "title": "DJI Fly",
     "author": "MiepHD",
-    "src": "icons/dji_fly.png"
+    "src": "dji_fly"
   },
   {
     "title": "Aldi Talk",
     "author": "MiepHD",
-    "src": "icons/aldi_talk.png"
+    "src": "aldi_talk"
   },
   {
     "title": "Kilterboard",
     "author": "MiepHD",
-    "src": "icons/kilterboard.png"
+    "src": "kilterboard"
   },
   {
     "title": "Cuscon",
     "info": "icons.cuscon.info",
     "author": "MiepHD",
-    "src": "icons/cuscon.png"
+    "src": "cuscon"
   },
   {
     "title": "Bahnhofsfotos",
     "author": "sourcrowd450",
-    "src": "icons/bahnhofsfotos.png"
+    "src": "bahnhofsfotos"
   },
   {
     "title": "BetterCounter",
     "author": "sourcrowd450",
-    "src": "icons/bettercounter.png"
+    "src": "bettercounter"
   },
   {
     "title": "c:geo",
     "author": "sourcrowd450",
-    "src": "icons/c_geo.png"
+    "src": "c_geo"
   },
   {
     "title": "eSpeak",
     "author": "sourcrowd450",
-    "src": "icons/espeak.png"
+    "src": "espeak"
   },
   {
     "title": "HeartBeat",
     "author": "sourcrowd450",
-    "src": "icons/heartbeat.png"
+    "src": "heartbeat"
   },
   {
     "title": "Trail Sense",
     "author": "sourcrowd450",
-    "src": "icons/trail_sense.png"
+    "src": "trail_sense"
   },
   {
     "title": "Video Transcoder",
     "author": "sourcrowd450",
-    "src": "icons/video_transcoder.png"
+    "src": "video_transcoder"
   },
   {
     "title": "Warpinator",
     "author": "sourcrowd450",
-    "src": "icons/warpinator.png"
+    "src": "warpinator"
   },
   {
     "title": "WhereYouGo",
     "author": "sourcrowd450",
-    "src": "icons/whereyougo.png"
+    "src": "whereyougo"
   },
   {
     "title": "CubeX",
     "author": "sourcrowd450",
-    "src": "icons/cubex.png"
+    "src": "cubex"
   },
   {
     "title": "MiraPlug",
     "author": "sourcrowd450",
-    "src": "icons/miraplug.png"
+    "src": "miraplug"
   },
   {
     "title": "TCL Connect",
     "author": "sourcrowd450",
-    "src": "icons/tcl_connect.png"
+    "src": "tcl_connect"
   },
   {
     "title": "icons.lawnchair-settings.title",
     "info": "icons.lawnchair-settings.info",
     "author": "MiepHD",
-    "src": "icons/lawnchair_einstellungen.png"
+    "src": "lawnchair_einstellungen"
   },
   {
     "title": "Reminder",
     "author": "MiepHD",
-    "src": "icons/reminder.png"
+    "src": "reminder"
   },
   {
     "title": "Info Dienste",
     "author": "MiepHD",
-    "src": "icons/info_dienste.png"
+    "src": "info_dienste"
   },
   {
     "title": "Termux",
     "author": "MiepHD",
-    "src": "icons/termux.png"
+    "src": "termux"
   },
   {
     "title": "Whatsapp SIM",
     "author": "MiepHD",
-    "src": "icons/whatsapp_sim.png"
+    "src": "whatsapp_sim"
   },
   {
     "title": "Apex Launcher",
     "author": "MiepHD",
-    "src": "icons/apex_launcher.png"
+    "src": "apex_launcher"
   }
 ]

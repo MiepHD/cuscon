@@ -29,3 +29,7 @@
 	display: grid;
 	grid-template-columns: repeat(4, 1fr);
 }
+#technical-details,
+#technical-details-button {
+	display: none !important;
+}

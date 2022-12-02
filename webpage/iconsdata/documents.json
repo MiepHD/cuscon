@@ -2,51 +2,51 @@
   {
 		"title":"Adobe Acrobat Reader",
 		"author":"MiepHD",
-		"src":"icons/adobe_acrobat_reader.png"
+		"src":"adobe_acrobat_reader"
 	},
   {
 		"title":"Docx2pdf",
 		"author":"MiepHD",
-		"src":"icons/docx2pdf.png"
+		"src":"docx2pdf"
 	},
   {
 		"title":"Office Suite",
 		"author":"MiepHD",
-		"src":"icons/office_suite.png"
+		"src":"office_suite"
 	},
   {
 		"title":"Samsung Notes",
 		"author":"MiepHD",
-		"src":"icons/samsung_notes.png"
+		"src":"samsung_notes"
 	},
   {
 		"title":"Leaflet",
 		"author":"MiepHD",
-		"src":"icons/leaflet.png"
+		"src":"leaflet"
 	},
   {
 		"title":"ONLYOFFICE Dokumente",
 		"author":"sourcrowd450",
-		"src":"icons/onlyoffice_dokumente.png"
+		"src":"onlyoffice_dokumente"
 	},
   {
 		"title":"OpenDocument Reader",
 		"author":"sourcrowd450",
-		"src":"icons/opendocument_reader.png"
+		"src":"opendocument_reader"
 	},
   {
 		"title":"Librera FD",
 		"author":"sourcrowd450",
-		"src":"icons/librera_fd.png"
+		"src":"librera_fd"
 	},
   {
 		"title":"Text Fairy",
 		"author":"sourcrowd450",
-		"src":"icons/text_fairy.png"
+		"src":"text_fairy"
 	},
   {
 		"title":"Rocketbook",
 		"author":"sourcrowd450",
-		"src":"icons/rocketbook.png"
+		"src":"rocketbook"
 	}
 ]

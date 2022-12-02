@@ -2,41 +2,41 @@
   {
 		"title":"Öffi Verbindungen",
 		"author":"sourcrowd450",
-		"src":"icons/offi_verbindungen.png"
+		"src":"offi_verbindungen"
 	},
   {
 		"title":"DB Navigator",
 		"author":"MiepHD",
-		"src":"icons/db_navigator.png"
+		"src":"db_navigator"
 	},
   {
 		"title":"Flix",
 		"author":"MiepHD",
-		"src":"icons/flix.png"
+		"src":"flix"
 	},
   {
 		"title":"Corona Warn App",
 		"author":"MiepHD",
-		"src":"icons/corona_warn_app.png"
+		"src":"corona_warn_app"
 	},
   {
 		"title":"UAV Forecast",
 		"author":"MiepHD",
-		"src":"icons/uav_forecast.png"
+		"src":"uav_forecast"
 	},
   {
 		"title":"Elementary",
 		"author":"sourcrowd450",
-		"src":"icons/elementary.png"
+		"src":"elementary"
 	},
   {
 		"title":"KFZ-Kennzeichen",
 		"author":"sourcrowd450",
-		"src":"icons/kfz_kennzeichen.png"
+		"src":"kfz_kennzeichen"
 	},
 	{
 		"title": "DSBmobile",
 		"author": "MiepHD",
-		"src": "icons/dsbmobile.png"
+		"src": "dsbmobile"
 	}
 ]

@@ -2,41 +2,41 @@
   {
 		"title":"Google Authenticator",
 		"author":"MiepHD",
-		"src":"icons/google_authenticator.png"
+		"src":"google_authenticator"
 	},
   {
 		"title":"Keepass",
 		"author":"MiepHD",
-		"src":"icons/keepass.png"
+		"src":"keepass"
 	},
   {
 		"title":"Firewall",
 		"author":"sourcrowd450",
-		"src":"icons/firewall.png"
+		"src":"firewall"
 	},
   {
 		"title":"icons.microg-settings.title",
 		"author":"sourcrowd450",
-		"src":"icons/microg_einstellungen.png"
+		"src":"microg_einstellungen"
 	},
   {
 		"title":"Aegis",
 		"author":"sourcrowd450",
-		"src":"icons/aegis.png"
+		"src":"aegis"
 	},
   {
 		"title":"Bitwarden",
 		"author":"sourcrowd450",
-		"src":"icons/bitwarden.png"
+		"src":"bitwarden"
 	},
   {
 		"title":"Shelter",
 		"author":"sourcrowd450",
-		"src":"icons/shelter.png"
+		"src":"shelter"
 	},
   {
 		"title":"Warden",
 		"author":"sourcrowd450",
-		"src":"icons/warden.png"
+		"src":"warden"
 	}
 ]

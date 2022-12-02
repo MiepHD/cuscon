@@ -2,76 +2,76 @@
 	{
 		"title":"Lucky Patcher",
 		"author":"MiepHD",
-		"src":"icons/lucky_patcher.png"
+		"src":"lucky_patcher"
 	},
 	{
 		"title":"Samsung Sound Assistant",
 		"author":"MiepHD",
-		"src":"icons/samsung_sound_assistant.png"
+		"src":"samsung_sound_assistant"
 	},
 	{
 		"title":"icons.samsung-calculator.title",
 		"author":"MiepHD",
-		"src":"icons/samsung_calculator.png"
+		"src":"samsung_calculator"
 	},
 	{
 		"title":"Phyphox",
 		"author":"MiepHD",
-		"src":"icons/phyphox.png"
+		"src":"phyphox"
 	},
 	{
 		"title":"Touch Portal",
 		"author":"MiepHD",
-		"src":"icons/touch_portal.png"
+		"src":"touch_portal"
 	},
 	{
 		"title":"APK Editor",
 		"author":"sourcrowd450",
-		"src":"icons/apk_editor.png"
+		"src":"apk_editor"
 	},
 	{
 		"title":"Editor",
 		"author":"sourcrowd450",
-		"src":"icons/editor.png"
+		"src":"editor"
 	},
 	{
 		"title":"Smart AutoClicker",
 		"author":"sourcrowd450",
-		"src":"icons/smart_autoclicker.png"
+		"src":"smart_autoclicker"
 	},
 	{
 		"title":"SMS Import / Export",
 		"author":"sourcrowd450",
-		"src":"icons/sms_import_export.png"
+		"src":"sms_import_export"
 	},
 	{
 		"title":"Rotation Control",
 		"author":"sourcrowd450",
-		"src":"icons/rotation_control.png"
+		"src":"rotation_control"
 	},
 	{
 		"title":"GPS JoyStick",
 		"author":"sourcrowd450",
-		"src":"icons/gps_joystick.png"
+		"src":"gps_joystick"
 	},
 	{
 		"title":"Dumbphone Assistant",
 		"author":"sourcrowd450",
-		"src":"icons/dumbphone_assistant.png"
+		"src":"dumbphone_assistant"
 	},
 	{
 		"title":"NCalcLibre",
 		"author":"sourcrowd450",
-		"src":"icons/ncalclibre.png"
+		"src":"ncalclibre"
 	},
 	{
 		"title": "LADB",
 		"author": "MiepHD",
-		"src": "icons/ladb.png"
+		"src": "ladb"
 	},
 	{
 		"title": "Overlay Digital Clock",
 		"author": "MiepHD",
-		"src": "icons/overlay_digital_clock.png"
+		"src": "overlay_digital_clock"
 	}
 ]

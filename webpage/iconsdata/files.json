@@ -2,46 +2,46 @@
   {
 		"title":"Google Drive",
 		"author":"MiepHD",
-		"src":"icons/google_drive.png"
+		"src":"google_drive"
 	},
   {
 		"title":"icons.samsung-files.title",
 		"author":"MiepHD",
-		"src":"icons/samsung_files.png"
+		"src":"samsung_files"
 	},
   {
 		"title":"Sicherung",
 		"author":"sourcrowd450",
-		"src":"icons/sicherung.png"
+		"src":"sicherung"
 	},
   {
 		"title":"ZArchiver",
 		"author":"sourcrowd450",
-		"src":"icons/zarchiver.png"
+		"src":"zarchiver"
 	},
   {
 		"title":"Dropbox",
 		"author":"sourcrowd450",
-		"src":"icons/dropbox.png"
+		"src":"dropbox"
 	},
   {
 		"title":"SAI",
 		"author":"sourcrowd450",
-		"src":"icons/sai.png"
+		"src":"sai"
 	},
   {
 		"title":"DiskUsage",
 		"author":"sourcrowd450",
-		"src":"icons/diskusage.png"
+		"src":"diskusage"
 	},
   {
 		"title":"Phone Saver",
 		"author":"sourcrowd450",
-		"src":"icons/phone_saver.png"
+		"src":"phone_saver"
 	},
   {
 		"title":"Mega",
 		"author":"sourcrowd450",
-		"src":"icons/mega.png"
+		"src":"mega"
 	}
 ]

@@ -2,31 +2,31 @@
   {
 		"title":"Open Camera",
 		"author":"MiepHD",
-		"src":"icons/open_camera.png"
+		"src":"open_camera"
 	},
   {
 		"title":"icons.samsung-camera.title",
 		"author":"MiepHD",
-		"src":"icons/samsung_camera.png"
+		"src":"samsung_camera"
 	},
   {
 		"title":"ObscuraCam",
 		"author":"sourcrowd450",
-		"src":"icons/obscuracam.png"
+		"src":"obscuracam"
 	},
   {
 		"title":"Binary Eye",
 		"author":"sourcrowd450",
-		"src":"icons/binary_eye.png"
+		"src":"binary_eye"
 	},
   {
 		"title":"Retroboy",
 		"author":"sourcrowd450",
-		"src":"icons/retroboy.png"
+		"src":"retroboy"
 	},
   {
 		"title":"Flora Incognita",
 		"author":"sourcrowd450",
-		"src":"icons/flora_incognita.png"
+		"src":"flora_incognita"
 	}
 ]

@@ -35,6 +35,9 @@ class IconBuilder {
         image.setAttribute("data-info", icon.info);
       }
       if (icon.src!=undefined) {
+        if (!icon.src.includes("/")) {
+          icon.src = `icons/${icon.src}.png`
+        }
         image.setAttribute("src", icon.src);
       }
       div.append(image);

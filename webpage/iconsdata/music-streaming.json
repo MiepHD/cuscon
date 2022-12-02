@@ -2,36 +2,36 @@
   {
 		"title":"Amazon Music",
 		"author":"MiepHD",
-		"src":"icons/amazon_music.png"
+		"src":"amazon_music"
 	},
   {
 		"title":"DasDing",
 		"author":"MiepHD",
-		"src":"icons/dasding.png"
+		"src":"dasding"
 	},
   {
 		"title":"Youtube Music",
 		"author":"MiepHD",
-		"src":"icons/youtube_music.png"
+		"src":"youtube_music"
 	},
   {
 		"title":"Samsung Music",
 		"author":"MiepHD",
-		"src":"icons/samsung_music.png"
+		"src":"samsung_music"
 	},
   {
 		"title":"Freezer",
 		"author":"MiepHD",
-		"src":"icons/freezer.png"
+		"src":"freezer"
 	},
   {
 		"title":"Transistor",
 		"author":"sourcrowd450",
-		"src":"icons/transistor.png"
+		"src":"transistor"
 	},
   {
 		"title":"Shazam",
 		"author":"sourcrowd450",
-		"src":"icons/shazam.png"
+		"src":"shazam"
 	}
 ]

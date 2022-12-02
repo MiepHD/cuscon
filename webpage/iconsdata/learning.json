@@ -2,41 +2,41 @@
   {
 		"title":"Quizlet",
 		"author":"MiepHD",
-		"src":"icons/quizlet.png"
+		"src":"quizlet"
 	},
   {
 		"title":"Mebis",
 		"author":"sourcrowd450",
-		"src":"icons/mebis.png"
+		"src":"mebis"
 	},
   {
 		"title":"DeepL",
 		"author":"sourcrowd450",
-		"src":"icons/deepl.png"
+		"src":"deepl"
 	},
   {
 		"title":"Duden Wörterbücher",
     "author": "MiepHD",
-		"src":"icons/duden_worterbucher.png"
+		"src":"duden_worterbucher"
 	},
   {
 		"title":"Linguee",
 		"author":"MiepHD",
-		"src":"icons/linguee.png"
+		"src":"linguee"
 	},
   {
 		"title":"icons.google-translate.title",
 		"author":"MiepHD",
-		"src":"icons/google_translate.png"
+		"src":"google_translate"
 	},
   {
 		"title":"Bibel+",
 		"author":"sourcrowd450",
-		"src":"icons/bibel_.png"
+		"src":"bibel_"
 	},
   {
 		"title":"Kiwix",
 		"author":"sourcrowd450",
-		"src":"icons/kiwix.png"
+		"src":"kiwix"
 	}
 ]

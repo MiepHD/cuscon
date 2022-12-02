@@ -2,102 +2,102 @@
 	{
 		"title":"GMail",
 		"author":"MiepHD",
-		"src":"icons/gmail.png"
+		"src":"gmail"
 	},
 	{
 		"title":"Discord",
 		"author":"MiepHD",
-		"src":"icons/discord.png"
+		"src":"discord"
 	},
 	{
 		"title":"Samsung Mail",
 		"author":"MiepHD",
 		"info":"E-Mail: <a href:'mailto:miep_hd@froxot.com'>miep_hd@froxot.com</a>",
-		"src":"icons/samsung_mail.png"
+		"src":"samsung_mail"
 	},
 	{
 		"title":"icons.samsung-messages.title",
 		"author":"MiepHD",
-		"src":"icons/samsung_messages.png"
+		"src":"samsung_messages"
 	},
 	{
 		"title":"icons.samsung-phone.title",
 		"author":"MiepHD",
-		"src":"icons/phone.png"
+		"src":"phone"
 	},
 	{
 		"title":"Reddit",
 		"author":"MiepHD",
-		"src":"icons/reddit.png"
+		"src":"reddit"
 	},
 	{
 		"title":"Whatsapp",
 		"author":"MiepHD",
-		"src":"icons/whatsapp.png"
+		"src":"whatsapp"
 	},
 	{
 		"title":"Signal",
 		"author":"MiepHD",
-		"src":"icons/signal.png"
+		"src":"signal"
 	},
 	{
 		"title":"Instagram",
 		"author":"MiepHD",
-		"src":"icons/instagram.png"
+		"src":"instagram"
 	},
 	{
 		"title":"Gutefrage",
 		"author":"MiepHD",
-		"src":"icons/gutefrage.png"
+		"src":"gutefrage"
 	},
 	{
 		"title":"Homeworker",
 		"author":"MiepHD",
-		"src":"icons/homeworker.png"
+		"src":"homeworker"
 	},
 	{
 		"title":"icons.samsung-contacts.title",
 		"author":"MiepHD",
-		"src":"icons/samsung_contacts.png"
+		"src":"samsung_contacts"
 	},
 	{
 		"title":"Telegram X",
 		"author":"sourcrowd450",
-		"src":"icons/telegram_x.png"
+		"src":"telegram_x"
 	},
 	{
 		"title":"Aliucord",
 		"author":"MiepHD",
-		"src":"icons/aliucord.png"
+		"src":"aliucord"
 	},
 	{
 		"title":"Morse",
 		"author":"sourcrowd450",
-		"src":"icons/morse.png"
+		"src":"morse"
 	},
 	{
 		"title":"Silence",
 		"author":"sourcrowd450",
-		"src":"icons/silence.png"
+		"src":"silence"
 	},
 	{
 		"title":"Tutanota",
 		"author":"sourcrowd450",
-		"src":"icons/tutanota.png"
+		"src":"tutanota"
 	},
 	{
 		"title":"SimpleLogin",
 		"author":"MiepHD",
-		"src":"icons/simplelogin.png"
+		"src":"simplelogin"
 	},
 	{
 		"title": "Snapchat",
 		"author": "MiepHD",
-		"src": "icons/snapchat.png"
+		"src": "snapchat"
 	},
 	{
 		"title": "icons.messages.title",
 		"author": "MiepHD",
-		"src": "icons/messages.png"
+		"src": "messages"
 	}
 ]

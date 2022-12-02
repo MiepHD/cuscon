@@ -2,16 +2,16 @@
   {
 		"title":"Adguard",
 		"author":"MiepHD",
-		"src":"icons/adguard.png"
+		"src":"adguard"
 	},
   {
 		"title":"Cloudflare Warp",
 		"author":"MiepHD",
-		"src":"icons/cloudflare_warp.png"
+		"src":"cloudflare_warp"
 	},
   {
 		"title":"WireGuard",
 		"author":"sourcrowd450",
-		"src":"icons/wireguard.png"
+		"src":"wireguard"
 	}
 ]
