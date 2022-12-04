@@ -19,6 +19,7 @@ class IconLoader {
       const build = new IconBuilder();
       build.iconList(category.filename);
     }
+    translate.renew();
   }
   load() {
     this.requestCategories();
