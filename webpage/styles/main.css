@@ -43,7 +43,7 @@ h5 {
 	width: 50%;
 	margin-left: auto;
 	margin-right: auto;
-	padding-top: 10%;
+	padding-top: calc(var(--normal-size) * 1.5);
 	z-index: -1;
 }
 #content {
