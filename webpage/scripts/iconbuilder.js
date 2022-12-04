@@ -5,7 +5,6 @@ class IconBuilder {
     this.xhttp = new XMLHttpRequest();
     this.xhttp.onreadystatechange = function() {
         if (this.xhttp.readyState == 4 && this.xhttp.status == 200) {
-           // Typical action to be performed when the document is ready:
            const data = JSON.parse(this.xhttp.responseText);
            this.iconListFromData(data);
         }
