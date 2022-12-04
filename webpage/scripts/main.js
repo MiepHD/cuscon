@@ -9,7 +9,7 @@ const tooltip = new Tooltip();
 const iconloader = new IconLoader();
 
 document.addEventListener('DOMContentLoaded', function() {
-  iconloader.addIntersectionObserver();
+  iconloader.load();
   //Things to call when tab got resized
   window.addEventListener('resize', function() {
     icons.setIconWidths();
