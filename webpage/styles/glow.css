@@ -8,6 +8,10 @@
 	width: 100%;
 	margin-top: calc(var(--normal-size) / 10);
 	margin-bottom: calc(var(--normal-size) / 10);
+	padding-top: calc(var(--normal-size) / 10);
+	padding-bottom: calc(var(--normal-size) / 10);
+	padding-left: calc(var(--normal-size) / 10);
+	padding-right: calc(var(--normal-size) / 10);
 }
 .card::before {
 	/*Light*/
