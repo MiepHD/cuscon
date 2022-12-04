@@ -208,4 +208,7 @@
 	<!-- Apex Launcher --><AppIcon name="com.anddoes.launcher/com.anddoes.launcher.Launcher" image="apex_launcher"/>
 	<!-- DSBmobile --><AppIcon name="de.heinekingmedia.dsbmobile/de.heinekingmedia.dsbmobile.ui.activities.LoginActivity" image="dsbmobile"/>
 	<!-- Overlay Digital Clock --><AppIcon name="com.fmroid.overlaydigitalclock/com.fmroid.overlaydigitalclock.MainActivity" image="overlay_digital_clock"/>
+	<!-- Privacy Browser --><AppIcon name="com.stoutner.privacybrowser.standard/com.stoutner.privacybrowser.activities.MainWebViewActivity" image="privacy_browser"/>
+	<!-- Opera Mini --><AppIcon name="com.opera.mini.native/com.opera.mini.android.Browser" image="opera_mini"/>
+	<!-- Redlight Web Browser --><AppIcon name="pl.eprogmedia.rwb/pl.eprogmedia.rwb.FirstActivity" image="redlight_web_browser"/>
 </Theme>

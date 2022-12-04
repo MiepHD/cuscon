@@ -223,4 +223,7 @@
 	<!-- Apex Launcher --><item component="ComponentInfo{com.anddoes.launcher/com.anddoes.launcher.Launcher}" drawable="apex_launcher" />
 	<!-- DSBmobile --><item component="ComponentInfo{de.heinekingmedia.dsbmobile/de.heinekingmedia.dsbmobile.ui.activities.LoginActivity}" drawable="dsbmobile" />
 	<!-- Overlay Digital Clock --><item component="ComponentInfo{com.fmroid.overlaydigitalclock/com.fmroid.overlaydigitalclock.MainActivity}" drawable="overlay_digital_clock" />
+	<!-- Privacy Browser --><item component="ComponentInfo{com.stoutner.privacybrowser.standard/com.stoutner.privacybrowser.activities.MainWebViewActivity}" drawable="privacy_browser" />
+	<!-- Opera Mini --><item component="ComponentInfo{com.opera.mini.native/com.opera.mini.android.Browser}" drawable="opera_mini" />
+	<!-- Redlight Web Browser --><item component="ComponentInfo{pl.eprogmedia.rwb/pl.eprogmedia.rwb.FirstActivity}" drawable="redlight_web_browser" />
 </resources>

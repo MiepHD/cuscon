@@ -117,6 +117,9 @@
     <item drawable="brave" />
     <!-- Fennec --><item drawable="fennec" />
     <!-- Chrome --><item drawable="chrome" />
+	<!-- Privacy Browser --><item drawable="privacy_browser"/>
+	<!-- Opera Mini --><item drawable="opera_mini"/>
+	<!-- Redlight Web Browser --><item drawable="redlight_web_browser"/>
 
     <category title="Tools" />
     <item drawable="lucky_patcher" />

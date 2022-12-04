@@ -23,5 +23,20 @@
 		"title": "Chrome",
 		"author": "MiepHD",
 		"src": "chrome"
+	},
+	{
+		"title": "Privacy Browser",
+		"author": "MiepHD",
+		"src": "privacy_browser"
+	},
+	{
+		"title": "Opera Mini",
+		"author": "MiepHD",
+		"src": "opera_mini"
+	},
+	{
+		"title": "Redlight Web Browser",
+		"author": "MiepHD",
+		"src": "redlight_web_browser"
 	}
 ]
