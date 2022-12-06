@@ -23,16 +23,20 @@ class Sidebar {
 		sidebar.style.left = `${left}px`;
 		sidebar.style.paddingTop = `${width * 1.1}px`;
 		document.getElementById("menu").style.transform = "rotate(90deg)";
-		for (const card of document.querySelectorAll(".card")) {
-			card.style.maxWidth = `${card.offsetWidth - width}px`;
+		if (!this.shown) {
+			for (const card of document.querySelectorAll(".card")) {
+				card.style.maxWidth = `${card.offsetWidth - width}px`;
+			}
 		}
 		this.shown = true;
 	}
 	hide() {
 		document.getElementById("sidebar").style.left = "100%";
 		document.getElementById("menu").style.transform = "rotate(0deg)";
-		for (const card of document.querySelectorAll(".card")) {
-			card.style.maxWidth = `${card.offsetWidth + document.getElementById("sidebar").offsetWidth}px`;
+		if (this.shown) {
+			for (const card of document.querySelectorAll(".card")) {
+				card.style.maxWidth = `${card.offsetWidth + document.getElementById("sidebar").offsetWidth}px`;
+			}
 		}
 		this.shown = false;
 	}
