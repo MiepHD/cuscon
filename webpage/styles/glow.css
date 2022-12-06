@@ -5,7 +5,7 @@
 	border-radius: 15px;
 	height: auto;
 	position: relative;
-	width: 100%;
+	width: auto;
 	margin-top: calc(var(--normal-size) / 10);
 	margin-bottom: calc(var(--normal-size) / 10);
 	padding-top: calc(var(--normal-size) / 10);
