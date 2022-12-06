@@ -5,13 +5,14 @@
 	border-radius: 15px;
 	height: auto;
 	position: relative;
-	width: auto;
+	max-width: auto;
 	margin-top: calc(var(--normal-size) / 10);
 	margin-bottom: calc(var(--normal-size) / 10);
 	padding-top: calc(var(--normal-size) / 10);
 	padding-bottom: calc(var(--normal-size) / 10);
 	padding-left: calc(var(--normal-size) / 10);
 	padding-right: calc(var(--normal-size) / 10);
+	transition: max-width .5s;
 }
 .card::before {
 	/*Light*/
@@ -29,7 +30,7 @@
 	width: 100%;
 	z-index: -1;
 	opacity: 0;
-	transition: opacity 500ms;
+	transition: opacity .5s;
 }
 .card:hover::before {
 	opacity: 1;
