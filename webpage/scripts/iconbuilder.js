@@ -26,6 +26,7 @@ class IconBuilder {
       const image = document.createElement("img");
       if (icon.title!=undefined) {
         image.setAttribute("data-title", icon.title);
+        image.setAttribute("alt", icon.title);
       }
       if (icon.author!=undefined) {
         image.setAttribute("data-author", icon.author);
