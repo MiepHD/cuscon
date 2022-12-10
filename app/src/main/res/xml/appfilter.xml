@@ -226,4 +226,5 @@
 	<!-- Privacy Browser --><item component="ComponentInfo{com.stoutner.privacybrowser.standard/com.stoutner.privacybrowser.activities.MainWebViewActivity}" drawable="privacy_browser" />
 	<!-- Opera Mini --><item component="ComponentInfo{com.opera.mini.native/com.opera.mini.android.Browser}" drawable="opera_mini" />
 	<!-- Redlight Web Browser --><item component="ComponentInfo{pl.eprogmedia.rwb/pl.eprogmedia.rwb.FirstActivity}" drawable="redlight_web_browser" />
+    <!-- YouTube --><item component="ComponentInfo{com.google.android.youtube/com.google.android.youtube.app.honeycomb.ShellHomeActivity}" drawable="youtube" />
 </resources>

@@ -210,4 +210,5 @@
 	<!-- Privacy Browser --><item class="com.stoutner.privacybrowser.activities.MainWebViewActivity" name="privacy_browser"/>
 	<!-- Opera Mini --><item class="com.opera.mini.android.Browser" name="opera_mini"/>
 	<!-- Redlight Web Browser --><item class="pl.eprogmedia.rwb.FirstActivity" name="redlight_web_browser"/>
+	<!-- YouTube --><item class="com.google.android.youtube.app.honeycomb.Shell" name="youtube"/>
 </appmap>

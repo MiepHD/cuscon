@@ -211,4 +211,5 @@
 	<!-- Privacy Browser --><AppIcon name="com.stoutner.privacybrowser.standard/com.stoutner.privacybrowser.activities.MainWebViewActivity" image="privacy_browser"/>
 	<!-- Opera Mini --><AppIcon name="com.opera.mini.native/com.opera.mini.android.Browser" image="opera_mini"/>
 	<!-- Redlight Web Browser --><AppIcon name="pl.eprogmedia.rwb/pl.eprogmedia.rwb.FirstActivity" image="redlight_web_browser"/>
+    <!-- YouTube --><AppIcon name="com.google.android.youtube/com.google.android.youtube.app.honeycomb.Shell" image="youtube"/>
 </Theme>
