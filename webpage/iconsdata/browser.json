@@ -38,5 +38,10 @@
 		"title": "Redlight Web Browser",
 		"author": "MiepHD",
 		"src": "redlight_web_browser"
+	},
+	{
+		"title": "Samsung Internet",
+		"author": "MiepHD",
+		"src": "samsung_internet"
 	}
 ]

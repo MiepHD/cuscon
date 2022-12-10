@@ -212,4 +212,16 @@
 	<!-- Opera Mini --><AppIcon name="com.opera.mini.native/com.opera.mini.android.Browser" image="opera_mini"/>
 	<!-- Redlight Web Browser --><AppIcon name="pl.eprogmedia.rwb/pl.eprogmedia.rwb.FirstActivity" image="redlight_web_browser"/>
     <!-- YouTube --><AppIcon name="com.google.android.youtube/com.google.android.youtube.app.honeycomb.Shell" image="youtube"/>
+	<!-- Lawnchair --><AppIcon name="ch.deletescape.lawnchair.plah/ch.deletescape.lawnchair.LawnchairLauncher" image="lawnchair"/>
+	<!-- Mosaic --><AppIcon name="com.photograph.mosaic/com.photograph.mosaic.MainActivity" image="mosaic"/>
+	<!-- Facebook --><AppIcon name="com.facebook.katana/com.facebook.katana.LoginActivity" image="facebook"/>
+	<!-- Google --><AppIcon name="com.google.android.googlequicksearchbox/com.google.android.googlequicksearchbox.SearchActivity" image="google"/>
+	<!-- Samsung Internet --><AppIcon name="com.sec.android.app.sbrowser/com.sec.android.app.sbrowser.SBrowserMainActivity" image="samsung_internet"/>
+	<!-- LinkedIn --><AppIcon name="com.linkedin.android/com.linkedin.android.authenticator.LaunchActivity" image="linkedin"/>
+	<!-- Meet --><AppIcon name="com.google.android.apps.tachyon/com.google.android.apps.tachyon.MainActivity" image="meet"/>
+	<!-- Microsoft Office --><AppIcon name="com.microsoft.office.officehubrow/com.microsoft.office.officesuite.OfficeSuiteActivity" image="microsoft_office"/>
+	<!-- OneDrive --><AppIcon name="com.microsoft.skydrive/com.microsoft.skydrive.MainActivity" image="onedrive"/>
+	<!-- Play Music --><AppIcon name="com.google.android.music/com.google.android.music.tombstone.LauncherActivity" image="play_music"/>
+	<!-- Radio --><AppIcon name="com.sec.android.app.fm/com.sec.android.app.fm.MainActivity" image="radio"/>
+	<!-- Spotify --><AppIcon name="com.spotify.music/com.spotify.music.MainActivity" image="spotify"/>
 </Theme>

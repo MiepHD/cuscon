@@ -40,6 +40,8 @@
     <!--Termux --><item drawable="termux" />
     <!--WhatsApp SIM --><item drawable="whatsapp_sim"/>
     <!-- Apex Launcher --><item drawable="apex_launcher"/>
+    <!-- Lawnchair --><item drawable="lawnchair"/>
+    <!-- Google --><item drawable="google"/>
 
     <category title="Stores" />
     <item drawable="apkpure" />
@@ -75,6 +77,9 @@
     <item drawable="freezer" />
     <!-- Transistor --><item drawable="transistor" />
     <!-- Shazam --><item drawable="shazam" />
+    <!-- Radio --><item drawable="radio"/>
+    <!-- Play Music --><item drawable="play_music"/>
+    <!-- Spotify --><item drawable="spotify"/>
 
     <category title="Games" />
     <item drawable="darkland" />
@@ -110,6 +115,9 @@
     <!-- SimpleLogin --><item drawable="simplelogin" />
     <!-- Snapchat --><item drawable="snapchat" />
     <!-- Nachrichten --><item drawable="messages"/>
+    <!-- Facebook --><item drawable="facebook"/>
+    <!-- Meet --><item drawable="meet"/>
+    <!-- LinkedIn --><item drawable="linkedin"/>
 
     <category title="Browser" />
     <item drawable="firefox" />
@@ -120,6 +128,7 @@
 	<!-- Privacy Browser --><item drawable="privacy_browser"/>
 	<!-- Opera Mini --><item drawable="opera_mini"/>
 	<!-- Redlight Web Browser --><item drawable="redlight_web_browser"/>
+    <!-- Samsung Internet --><item drawable="samsung_internet"/>
 
     <category title="Tools" />
     <item drawable="lucky_patcher" />
@@ -149,6 +158,7 @@
     <!-- Librera FD --><item drawable="librera_fd" />
     <!-- Text Fairy --><item drawable="text_fairy" />
     <!-- Rocketbook --><item drawable="rocketbook" />
+    <!-- Microsoft Office --><item drawable="microsoft_office"/>
 
     <category title="VPN" />
     <item drawable="adguard" />
@@ -162,6 +172,7 @@
     <!-- Binary Eye --><item drawable="binary_eye" />
     <!-- Retroboy --><item drawable="retroboy" />
     <!-- Flora Incognita --><item drawable="flora_incognita" />
+    <!-- Mosaic --><item drawable="mosaic"/>
 
     <category title="Maps" />
     <item drawable="google_maps" />
@@ -181,6 +192,7 @@
     <!-- DiskUsage --><item drawable="diskusage" />
     <!-- Phone Saver --><item drawable="phone_saver" />
     <!-- MEGA --><item drawable="mega"/>
+    <!-- OneDrive --><item drawable="onedrive"/>
 
     <category title="Gallery" />
     <item drawable="samsung_gallary" />

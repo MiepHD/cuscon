@@ -7,6 +7,7 @@
     <string-array name="changelog">
         <item>2.5.2 -> 2.5.3:</item>
         <item>Fixed Discord, Youtube</item>
+        <item>Added Spotify, Samsung Internet, Lawnchair, Mosaic, Facebook, Google, LinkedIn, Meet, Microsoft Office, OneDrive, Play Music, Radio</item>
         <item>2.5.1 -> 2.5.2:</item>
         <item>Added Apex Launcher, DSBmobile, Overlay Digital Clock, Privacy Browser, Opera Mini, Redlight Web Browser</item>
         <item>2.5 -> 2.5.1:</item>

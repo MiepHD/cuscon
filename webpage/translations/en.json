@@ -25,7 +25,8 @@
   "icons.github.info": "The app's <a href='https://github.com/MiepHD/cuscon' target='_blank'>Github Repository</a>.",
   "icons.smart-things.info": "The icon-pack's logo is inspired from this one.",
   "icons.cuscon.info": "The icon of this icon-pack.",
-  "icons.lawnchair-settings.info": "The Settings for the Lawnchair-Laucher which you can use to display this icon-pack. When you use One UI this icon will be displayed for the main app too but this is due to a mistake in Theme Park or One UI.",
+  "icons.lawnchair-settings.info": "The Settings for the Lawnchair-Laucher which you can use to display this icon-pack.",
+  "icons.lawnchair.info": "Laucher which you can use to display this icon-pack.",
   "icons.add.info": "If you want to add more icons feel free to open an issue or a pull request on the <a href='https://github.com/MiepHD/cuscon' target='_blank'>Github Repository</a>.<br>You can also send a icon-request (from the app) to <a href='mailto:miep_hd@froxot.com'>miep_hd@froxot.com</a>.",
   "icons.apkpure.info": "Download the icon-pack from <a href='https://apkpure.com/de/cuscon/com.froxot.cuscon' target='_blank'>Apkpure</a>.",
   "icons.f-droid.info": "Download the icon-pack from <a class='unavailable' target='_blank'>F-Droid</a>.",
@@ -55,6 +56,7 @@
   "icons.offi_netzplane.title": "Offi Plans",
   "icons.offi_verbindungen.title": "Offi Directions",
   "icons.onlyoffice_dokumente.title": "ONYLOFFICE Documents",
+  "icons.play-music.title": "Play Music",
   "comment5": "Tooltips",
   "tooltip.coming-soon": "Coming Soon"
 }

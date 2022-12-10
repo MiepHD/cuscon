@@ -99,5 +99,20 @@
 		"title": "icons.messages.title",
 		"author": "MiepHD",
 		"src": "messages"
+	},
+	{
+		"title": "Facebook",
+		"author": "MiepHD",
+		"src": "facebook"
+	},
+	{
+		"title": "Meet",
+		"author": "MiepHD",
+		"src": "meet"
+	},
+	{
+		"title": "LinkedIn",
+		"author": "MiepHD",
+		"src": "linkedin"
 	}
 ]

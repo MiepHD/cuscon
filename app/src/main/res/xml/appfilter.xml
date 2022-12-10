@@ -227,4 +227,16 @@
 	<!-- Opera Mini --><item component="ComponentInfo{com.opera.mini.native/com.opera.mini.android.Browser}" drawable="opera_mini" />
 	<!-- Redlight Web Browser --><item component="ComponentInfo{pl.eprogmedia.rwb/pl.eprogmedia.rwb.FirstActivity}" drawable="redlight_web_browser" />
     <!-- YouTube --><item component="ComponentInfo{com.google.android.youtube/com.google.android.youtube.app.honeycomb.ShellHomeActivity}" drawable="youtube" />
+	<!-- Spotify --><item component="ComponentInfo{com.spotify.music/com.spotify.music.MainActivity}" drawable="spotify" />
+	<!-- Samsung Internet --><item component="ComponentInfo{com.sec.android.app.sbrowser/com.sec.android.app.sbrowser.SBrowserMainActivity}" drawable="samsung_internet" />
+	<!-- Lawnchair --><item component="ComponentInfo{ch.deletescape.lawnchair.plah/ch.deletescape.lawnchair.LawnchairLauncher}" drawable="lawnchair" />
+	<!-- Mosaic --><item component="ComponentInfo{com.photograph.mosaic/com.photograph.mosaic.MainActivity}" drawable="mosaic" />
+	<!-- Facebook --><item component="ComponentInfo{com.facebook.katana/com.facebook.katana.LoginActivity}" drawable="facebook" />
+	<!-- Google --><item component="ComponentInfo{com.google.android.googlequicksearchbox/com.google.android.googlequicksearchbox.SearchActivity}" drawable="google" />
+	<!-- LinkedIn --><item component="ComponentInfo{com.linkedin.android/com.linkedin.android.authenticator.LaunchActivity}" drawable="linkedin" />
+	<!-- Meet --><item component="ComponentInfo{com.google.android.apps.tachyon/com.google.android.apps.tachyon.MainActivity}" drawable="meet" />
+	<!-- Microsoft Office --><item component="ComponentInfo{com.microsoft.office.officehubrow/com.microsoft.office.officesuite.OfficeSuiteActivity}" drawable="microsoft_office" />
+	<!-- OneDrive --><item component="ComponentInfo{com.microsoft.skydrive/com.microsoft.skydrive.MainActivity}" drawable="onedrive" />
+	<!-- Play Music --><item component="ComponentInfo{com.google.android.music/com.google.android.music.tombstone.LauncherActivity}" drawable="play_music" />
+	<!-- Radio --><item component="ComponentInfo{com.sec.android.app.fm/com.sec.android.app.fm.MainActivity}" drawable="radio" />
 </resources>

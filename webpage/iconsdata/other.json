@@ -187,5 +187,16 @@
     "title": "Apex Launcher",
     "author": "MiepHD",
     "src": "apex_launcher"
+  },
+  {
+    "title": "Lawnchair",
+    "info": "icons.lawnchair.info",
+    "author": "MiepHD",
+    "src": "lawnchair"
+  },
+  {
+    "title": "Google",
+    "author": "MiepHD",
+    "src": "google"
   }
 ]

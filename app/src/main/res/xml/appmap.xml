@@ -211,4 +211,16 @@
 	<!-- Opera Mini --><item class="com.opera.mini.android.Browser" name="opera_mini"/>
 	<!-- Redlight Web Browser --><item class="pl.eprogmedia.rwb.FirstActivity" name="redlight_web_browser"/>
 	<!-- YouTube --><item class="com.google.android.youtube.app.honeycomb.Shell" name="youtube"/>
+	<!-- LinkedIn --><item class="com.linkedin.android.authenticator.LaunchActivity" name="linkedin"/>
+	<!-- Meet --><item class="com.google.android.apps.tachyon.MainActivity" name="meet"/>
+	<!-- Microsoft Office --><item class="com.microsoft.office.officesuite.OfficeSuiteActivity" name="microsoft_office"/>
+	<!-- OneDrive --><item class="com.microsoft.skydrive.MainActivity" name="onedrive"/>
+	<!-- Play Music --><item class="com.google.android.music.tombstone.LauncherActivity" name="play_music"/>
+	<!-- Radio --><item class="com.sec.android.app.fm.MainActivity" name="radio"/>
+	<!-- Spotify --><item class="com.spotify.music.MainActivity" name="spotify"/>
+	<!-- Google --><item class="com.google.android.googlequicksearchbox.SearchActivity" name="google"/>
+	<!-- Facebook --><item class="com.facebook.katana.LoginActivity" name="facebook"/>
+	<!-- Lawnchair --><item class="ch.deletescape.lawnchair.LawnchairLauncher" name="lawnchair"/>
+	<!-- Mosaic --><item class="com.photograph.mosaic.MainActivity" name="mosaic"/>
+	<!-- Samsung Internet --><item class="com.sec.android.app.sbrowser.SBrowserMainActivity" name="samsung_internet"/>
 </appmap>

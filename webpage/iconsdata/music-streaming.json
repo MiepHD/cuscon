@@ -33,5 +33,20 @@
 		"title":"Shazam",
 		"author":"sourcrowd450",
 		"src":"shazam"
+	},
+	{
+		"title": "Radio",
+		"author": "MiepHD",
+		"src": "radio"
+	},
+	{
+		"title": "Spotify",
+		"author": "MiepHD",
+		"src": "spotify"
+	},
+	{
+		"title": "icons.play-music.title",
+		"author": "MiepHD",
+		"src": "play_music"
 	}
 ]

@@ -43,5 +43,10 @@
 		"title":"Mega",
 		"author":"sourcrowd450",
 		"src":"mega"
+	},
+	{
+		"title": "OneDrive",
+		"author": "MiepHD",
+		"src": "onedrive"
 	}
 ]
