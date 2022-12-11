@@ -5,6 +5,8 @@
     <string name="changelog_date">01.11.2022</string>
 
     <string-array name="changelog">
+        <item>2.5.3 -> 2.5.4:</item>
+        <item>Fixed GMail</item>
         <item>2.5.2 -> 2.5.3:</item>
         <item>Fixed Discord, Youtube</item>
         <item>Added Spotify, Samsung Internet, Lawnchair, Mosaic, Facebook, Google, LinkedIn, Meet, Microsoft Office, OneDrive, Play Music, Radio</item>
