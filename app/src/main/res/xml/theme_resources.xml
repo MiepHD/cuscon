@@ -236,4 +236,14 @@
 	<!-- Play Music --><AppIcon name="com.google.android.music/com.google.android.music.tombstone.LauncherActivity" image="play_music"/>
 	<!-- Radio --><AppIcon name="com.sec.android.app.fm/com.sec.android.app.fm.MainActivity" image="radio"/>
 	<!-- Spotify --><AppIcon name="com.spotify.music/com.spotify.music.MainActivity" image="spotify"/>
+    <!-- Google Assistant--><AppIcon name="com.google.android.apps.googleassistant/com.google.android.apps.googleassistant.AssistantActivity" image="google_assistant"/>
+	<!-- Documents--><AppIcon name="com.google.android.apps.docs.editors.docs/com.google.android.apps.docs.app.NewMainProxyActivity" image="documents"/>
+	<!-- Fing--><AppIcon name="com.overlook.android.fing/com.overlook.android.fing.ui.main.SplashActivity" image="fing"/>
+	<!-- Gallery--><AppIcon name="com.simplemobiletools.gallery.pro/com.simplemobiletools.gallery.pro.activities.SplashActivity.Orange" image="gallery"/>
+	<!-- Google One--><AppIcon name="com.google.android.apps.subscriptions.red/com.google.android.apps.subscriptions.red.LauncherActivity" image="google_one"/>
+	<!-- Google TV--><AppIcon name="com.google.android.videos/com.google.android.videos.GoogleTvEntryPoint" image="google_tv"/>
+	<!-- Games--><AppIcon name="com.motorola.gamemode/com.motorola.gamemode.ui.launcher.main.GameCenterActivity" image="games"/>
+	<!-- Mi WiFi--><AppIcon name="com.xiaomi.router/com.xiaomi.router.module.splash.SplashActivity" image="mi_wifi"/>
+	<!-- WiFiAnalyzer--><AppIcon name="com.vrem.wifianalyzer/com.vrem.wifianalyzer.MainActivity" image="wifianalyzer"/>
+	<!-- WLANScanner--><AppIcon name="org.bitbatzen.wlanscanner/org.bitbatzen.wlanscanner.MainActivity" image="wlanscanner"/>
 </Theme>

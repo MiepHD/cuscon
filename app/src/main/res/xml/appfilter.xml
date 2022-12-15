@@ -251,4 +251,14 @@
 	<!-- OneDrive --><item component="ComponentInfo{com.microsoft.skydrive/com.microsoft.skydrive.MainActivity}" drawable="onedrive" />
 	<!-- Play Music --><item component="ComponentInfo{com.google.android.music/com.google.android.music.tombstone.LauncherActivity}" drawable="play_music" />
 	<!-- Radio --><item component="ComponentInfo{com.sec.android.app.fm/com.sec.android.app.fm.MainActivity}" drawable="radio" />
+    <!-- Google Assistant--><item component="ComponentInfo{com.google.android.apps.googleassistant/com.google.android.apps.googleassistant.AssistantActivity}" drawable="google_assistant" />
+	<!-- Documents--><item component="ComponentInfo{com.google.android.apps.docs.editors.docs/com.google.android.apps.docs.app.NewMainProxyActivity}" drawable="documents" />
+	<!-- Fing--><item component="ComponentInfo{com.overlook.android.fing/com.overlook.android.fing.ui.main.SplashActivity}" drawable="fing" />
+	<!-- Gallery--><item component="ComponentInfo{com.simplemobiletools.gallery.pro/com.simplemobiletools.gallery.pro.activities.SplashActivity.Orange}" drawable="gallery" />
+	<!-- Google One--><item component="ComponentInfo{com.google.android.apps.subscriptions.red/com.google.android.apps.subscriptions.red.LauncherActivity}" drawable="google_one" />
+	<!-- Google TV--><item component="ComponentInfo{com.google.android.videos/com.google.android.videos.GoogleTvEntryPoint}" drawable="google_tv" />
+	<!-- Games--><item component="ComponentInfo{com.motorola.gamemode/com.motorola.gamemode.ui.launcher.main.GameCenterActivity}" drawable="games" />
+	<!-- Mi WiFi--><item component="ComponentInfo{com.xiaomi.router/com.xiaomi.router.module.splash.SplashActivity}" drawable="mi_wifi" />
+	<!-- WiFiAnalyzer--><item component="ComponentInfo{com.vrem.wifianalyzer/com.vrem.wifianalyzer.MainActivity}" drawable="wifianalyzer" />
+	<!-- WLANScanner--><item component="ComponentInfo{org.bitbatzen.wlanscanner/org.bitbatzen.wlanscanner.MainActivity}" drawable="wlanscanner" />
 </resources>

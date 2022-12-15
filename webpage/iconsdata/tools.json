@@ -73,5 +73,25 @@
 		"title": "Overlay Digital Clock",
 		"author": "MiepHD",
 		"src": "overlay_digital_clock"
+	},
+	{
+		"title": "Fing",
+		"src": "fing",
+		"author": "MiepHD"
+	},
+	{
+		"title": "Mi WiFi",
+		"src": "mi_wifi",
+		"author": "MiepHD"
+	},
+	{
+		"title": "WiFiAnalyzer",
+		"src": "wifianalyzer",
+		"author": "MiepHD"
+	},
+	{
+		"title": "WLANScanner",
+		"src": "wlanscanner",
+		"author": "MiepHD"
 	}
 ]

@@ -53,5 +53,15 @@
 		"title": "Microsoft Office",
 		"author": "MiepHD",
 		"src": "microsoft_office"
-	}
+	},
+  {
+    "title": "Documents",
+    "src": "documents",
+    "author": "MiepHD"
+  },
+  {
+    "title": "Gallery",
+    "src": "gallery",
+    "author": "MiepHD"
+  }
 ]

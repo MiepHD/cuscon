@@ -229,4 +229,14 @@
 	<!-- Lawnchair --><item class="ch.deletescape.lawnchair.LawnchairLauncher" name="lawnchair"/>
 	<!-- Mosaic --><item class="com.photograph.mosaic.MainActivity" name="mosaic"/>
 	<!-- Samsung Internet --><item class="com.sec.android.app.sbrowser.SBrowserMainActivity" name="samsung_internet"/>
+    <!-- Google Assistant--><item class="com.google.android.apps.googleassistant.AssistantActivity" name="google_assistant"/>
+	<!-- Documents--><item class="com.google.android.apps.docs.app.NewMainProxyActivity" name="documents"/>
+	<!-- Fing--><item class="com.overlook.android.fing.ui.main.SplashActivity" name="fing"/>
+	<!-- Gallery--><item class="com.simplemobiletools.gallery.pro.activities.SplashActivity.Orange" name="gallery"/>
+	<!-- Google One--><item class="com.google.android.apps.subscriptions.red.LauncherActivity" name="google_one"/>
+	<!-- Google TV--><item class="com.google.android.videos.GoogleTvEntryPoint" name="google_tv"/>
+	<!-- Games--><item class="com.motorola.gamemode.ui.launcher.main.GameCenterActivity" name="games"/>
+	<!-- Mi WiFi--><item class="com.xiaomi.router.module.splash.SplashActivity" name="mi_wifi"/>
+	<!-- WiFiAnalyzer--><item class="com.vrem.wifianalyzer.MainActivity" name="wifianalyzer"/>
+	<!-- WLANScanner--><item class="org.bitbatzen.wlanscanner.MainActivity" name="wlanscanner"/>
 </appmap>

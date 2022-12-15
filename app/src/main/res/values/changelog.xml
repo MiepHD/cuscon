@@ -7,6 +7,7 @@
     <string-array name="changelog">
         <item>2.5.4 -> 2.5.5:</item>
         <item>Fixed AdGuard, Files, Calculator, Clock, YouTube, YT Music, Contacts, Phone</item>
+        <item>Added Google Assistant, Documents, Fing, Gallery, Google One, Google TV, Games, Mi WiFi, WiFiAnalyzer, WLANScanner</item>
         <item>2.5.3 -> 2.5.4:</item>
         <item>Fixed GMail</item>
         <item>2.5.2 -> 2.5.3:</item>

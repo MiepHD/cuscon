@@ -198,5 +198,20 @@
     "title": "Google",
     "author": "MiepHD",
     "src": "google"
+  },
+  {
+    "title": "Google Assistant",
+    "src": "google_assistant",
+    "author": "MiepHD"
+  },
+  {
+    "title": "Google One",
+    "src": "google_one",
+    "author": "MiepHD"
+  },
+  {
+    "title": "Google TV",
+    "src": "google_tv",
+    "author": "MiepHD"
   }
 ]

@@ -42,6 +42,9 @@
     <!-- Apex Launcher --><item drawable="apex_launcher"/>
     <!-- Lawnchair --><item drawable="lawnchair"/>
     <!-- Google --><item drawable="google"/>
+    <!-- Google Assistant--><item drawable="google_assistant" />
+    <!-- Google One--><item drawable="google_one" />
+	<!-- Google TV--><item drawable="google_tv" />
 
     <category title="Stores" />
     <item drawable="apkpure" />
@@ -93,6 +96,7 @@
     <!-- hocus --><item drawable="hocus" />
     <!-- J2ME Loader --><item drawable="j2me_loader" />
     <!-- Lemuroid --><item drawable="lemuroid" />
+    <!-- Games--><item drawable="games" />
 
     <category title="Communication" />
     <item drawable="gmail" />
@@ -146,6 +150,10 @@
     <!-- NCalcLibre --><item drawable="ncalclibre" />
     <!-- LADB --><item drawable="ladb" />
     <!-- Overlay Digital Clock --><item drawable="overlay_digital_clock"/>
+    <!-- Fing--><item drawable="fing" />
+	<!-- Mi WiFi--><item drawable="mi_wifi" />
+	<!-- WiFiAnalyzer--><item drawable="wifianalyzer" />
+	<!-- WLANScanner--><item drawable="wlanscanner" />
 
     <category title="Documents" />
     <item drawable="adobe_acrobat_reader" />
@@ -159,6 +167,7 @@
     <!-- Text Fairy --><item drawable="text_fairy" />
     <!-- Rocketbook --><item drawable="rocketbook" />
     <!-- Microsoft Office --><item drawable="microsoft_office"/>
+    <!-- Documents--><item drawable="documents" />
 
     <category title="VPN" />
     <item drawable="adguard" />
@@ -196,6 +205,7 @@
 
     <category title="Gallery" />
     <item drawable="samsung_gallary" />
+    <!-- Gallery--><item drawable="gallery" />
     <item drawable="google_photos" />
     <!-- Camera Roll --><item drawable="camera_roll" />
 

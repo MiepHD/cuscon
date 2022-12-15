@@ -53,5 +53,10 @@
 		"title":"Lemuroid",
 		"author":"sourcrowd450",
 		"src":"lemuroid"
-	}
+	},
+  {
+    "title": "Games",
+    "src": "games",
+    "author": "MiepHD"
+  }
 ]
