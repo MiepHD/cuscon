@@ -15,5 +15,30 @@
 	<!-- Duolingo --><item component="ComponentInfo{com.duolingo/com.duolingo.app.LoginActivity}" drawable="duolingo" />
 	<!-- ING Banking --><item component="ComponentInfo{de.ingdiba.bankingapp/com.ing.mobile.diba.startup.SplashActivity}" drawable="ing_banking" />
 	<!-- S-pushTAN --><item component="ComponentInfo{com.starfinanz.mobile.android.pushtan/com.starfinanz.mobile.android.spushtan.SPushTan}" drawable="s_pushtan" />
+	<!-- Ayuda del dispositivo--><item component="ComponentInfo{com.motorola.genie/com.motorola.genie.main.start.LaunchActivity}" drawable="ayuda_del_dispositivo" />
+	<!-- Calendar--><item component="ComponentInfo{com.google.android.calendar/com.android.calendar.AllInOneActivity}" drawable="calendar" />
+	<!-- Cámara--><item component="ComponentInfo{com.motorola.camera3/com.motorola.camera.Camera}" drawable="camara" />
+	<!-- D-Link Wi-Fi--><item component="ComponentInfo{com.dlink.dlinkwifi/com.mydlink.unify.activity.Launch2Activity}" drawable="d_link_wi_fi" />
+	<!-- FAST--><item component="ComponentInfo{com.netflix.Speedtest/com.netflix.Speedtest.MainActivity}" drawable="fast" />
+	<!-- Files--><item component="ComponentInfo{com.google.android.apps.nbu.files/com.google.android.apps.nbu.files.home.HomeActivity}" drawable="files" />
+	<!-- Fondos de pantalla--><item component="ComponentInfo{com.google.android.apps.wallpaper/com.google.android.apps.wallpaper.picker.CategoryPickerActivity}" drawable="fondos_de_pantalla" />
+	<!-- Fondos interactivos--><item component="ComponentInfo{com.motorola.livewallpaper3/com.motorola.livewallpaper3.ui.menu.WallpaperMenuTrampolineActivity}" drawable="fondos_interactivos" />
+	<!-- Gestor de Redes--><item component="ComponentInfo{com.eakteam.networkmanager.pro/com.eakteam.networkmanager.pro.activities.paneli_kryesor}" drawable="gestor_de_redes" />
+	<!-- iwscan--><item component="ComponentInfo{com.evbadroid.iwscan/com.evbadroid.iwscan.ScanActivity}" drawable="iwscan" />
+	<!-- Kiwi Browser--><item component="ComponentInfo{com.kiwibrowser.browser/com.google.android.apps.chrome.Main}" drawable="kiwi_browser" />
+	<!-- Mi O2--><item component="ComponentInfo{es.o2.mio2/com.movistar.android.mimovistar.es.presentation.MainActivity}" drawable="mi_o2" />
+	<!-- Moto--><item component="ComponentInfo{com.motorola.moto/com.motorola.assist.ui.screens.MainActivity}" drawable="moto" />
+	<!-- Mou-te--><item component="ComponentInfo{cat.gencat.mouteapp/cat.gencat.mouteapp.MainActivity}" drawable="mou_te" />
+	<!-- Notificaciones de Motorola--><item component="ComponentInfo{com.motorola.ccc.notification/com.motorola.engageapp.ui.EngageActivity}" drawable="notificaciones_de_motorola" />
+	<!-- Nova Launcher--><item component="ComponentInfo{com.teslacoilsw.launcher/com.teslacoilsw.launcher.NovaShortcutHandler}" drawable="nova_launcher" />
+	<!-- Nova Launcher Prime--><item component="ComponentInfo{com.teslacoilsw.launcher.prime/com.teslacoilsw.launcher.prime.NovaLauncherPrimeActivity}" drawable="nova_launcher_prime" />
+	<!-- Port Authority--><item component="ComponentInfo{com.aaronjwood.portauthority.free/com.aaronjwood.portauthority.activity.MainActivity}" drawable="port_authority" />
+	<!-- Radio FM--><item component="ComponentInfo{com.motorola.fmplayer/com.motorola.fmplayer.ChangeThemeActivity}" drawable="radio_fm" />
+	<!-- Sweech--><item component="ComponentInfo{com.sweech/com.sweech.MainActivity}" drawable="sweech" />
+	<!-- WeeNet--><item component="ComponentInfo{com.sangiorgisrl.wifimanagertool/com.sangiorgisrl.wifimanagertool.ui.intro.LaunchActivity}" drawable="weenet" />
+	<!-- WiFi Monitor Pro--><item component="ComponentInfo{com.signalmonitoring.wifimonitoringpro/com.signalmonitoring.wifilib.ui.activities.MonitoringActivity}" drawable="wifi_monitor_pro" />
+	<!-- WiFiman--><item component="ComponentInfo{com.ubnt.usurvey/com.ubnt.usurvey.ui.app.splash.SplashActivity}" drawable="wifiman" />
+	<!-- WLAN--><item component="ComponentInfo{de.avm.android.wlanapp/de.avm.android.wlanapp.permissions.LocationPermissionActivity}" drawable="wlan" />
+	<!-- WlanScanner by Latetech--><item component="ComponentInfo{com.Latetech.WlanScanner/com.Latetech.WlanScanner.MainActivity}" drawable="wlanscanner_by_latetech" />
 
 </resources>

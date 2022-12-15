@@ -15,5 +15,30 @@
 	<!-- Duolingo --><item class="com.duolingo.app.LoginActivity" name="duolingo"/>
 	<!-- ING Banking --><item class="com.ing.mobile.diba.startup.SplashActivity" name="ing_banking"/>
 	<!-- S-pushTAN --><item class="com.starfinanz.mobile.android.spushtan.SPushTan" name="s_pushtan"/>
+	<!-- Ayuda del dispositivo--><item class="com.motorola.genie.main.start.LaunchActivity" name="ayuda_del_dispositivo"/>
+	<!-- Calendar--><item class="com.android.calendar.AllInOneActivity" name="calendar"/>
+	<!-- Cámara--><item class="com.motorola.camera.Camera" name="camara"/>
+	<!-- D-Link Wi-Fi--><item class="com.mydlink.unify.activity.Launch2Activity" name="d_link_wi_fi"/>
+	<!-- FAST--><item class="com.netflix.Speedtest.MainActivity" name="fast"/>
+	<!-- Files--><item class="com.google.android.apps.nbu.files.home.HomeActivity" name="files"/>
+	<!-- Fondos de pantalla--><item class="com.google.android.apps.wallpaper.picker.CategoryPickerActivity" name="fondos_de_pantalla"/>
+	<!-- Fondos interactivos--><item class="com.motorola.livewallpaper3.ui.menu.WallpaperMenuTrampolineActivity" name="fondos_interactivos"/>
+	<!-- Gestor de Redes--><item class="com.eakteam.networkmanager.pro.activities.paneli_kryesor" name="gestor_de_redes"/>
+	<!-- iwscan--><item class="com.evbadroid.iwscan.ScanActivity" name="iwscan"/>
+	<!-- Kiwi Browser--><item class="com.google.android.apps.chrome.Main" name="kiwi_browser"/>
+	<!-- Mi O2--><item class="com.movistar.android.mimovistar.es.presentation.MainActivity" name="mi_o2"/>
+	<!-- Moto--><item class="com.motorola.assist.ui.screens.MainActivity" name="moto"/>
+	<!-- Mou-te--><item class="cat.gencat.mouteapp.MainActivity" name="mou_te"/>
+	<!-- Notificaciones de Motorola--><item class="com.motorola.engageapp.ui.EngageActivity" name="notificaciones_de_motorola"/>
+	<!-- Nova Launcher--><item class="com.teslacoilsw.launcher.NovaShortcutHandler" name="nova_launcher"/>
+	<!-- Nova Launcher Prime--><item class="com.teslacoilsw.launcher.prime.NovaLauncherPrimeActivity" name="nova_launcher_prime"/>
+	<!-- Port Authority--><item class="com.aaronjwood.portauthority.activity.MainActivity" name="port_authority"/>
+	<!-- Radio FM--><item class="com.motorola.fmplayer.ChangeThemeActivity" name="radio_fm"/>
+	<!-- Sweech--><item class="com.sweech.MainActivity" name="sweech"/>
+	<!-- WeeNet--><item class="com.sangiorgisrl.wifimanagertool.ui.intro.LaunchActivity" name="weenet"/>
+	<!-- WiFi Monitor Pro--><item class="com.signalmonitoring.wifilib.ui.activities.MonitoringActivity" name="wifi_monitor_pro"/>
+	<!-- WiFiman--><item class="com.ubnt.usurvey.ui.app.splash.SplashActivity" name="wifiman"/>
+	<!-- WLAN--><item class="de.avm.android.wlanapp.permissions.LocationPermissionActivity" name="wlan"/>
+	<!-- WlanScanner by Latetech--><item class="com.Latetech.WlanScanner.MainActivity" name="wlanscanner_by_latetech"/>
 
 </resources>
