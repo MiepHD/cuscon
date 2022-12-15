@@ -4,6 +4,7 @@
     <!-- FOR ATOM LAUNCHER -->
     <item class="com.cloudflare.app.presentation.main.SplashActivity" image="cloudflare_warp"/>
     <item class="com.adguard.android.ui.MainActivity" image="adguard"/>
+    <!-- AdGuard--><item class="com.adguard.android.ui.SplashActivity" name="adguard"/>
     <item class="com.adobe.reader.AdobeReader" image="adobe_acrobat_reader"/>
     <item class="com.apkpure.aegon.main.activity.SplashActivity" image="apkpure"/>
     <item class="com.google.android.apps.authenticator.AuthenticatorActivity" image="google_authenticator"/>
@@ -41,6 +42,7 @@
     <item class="com.unity3d.player.UnityPlayerActivity" image="spingram"/>
     <item class="com.valvesoftware.android.steam.community.activity.MainActivity" image="steam"/>
     <item class="com.sec.android.app.popupcalculator.Calculator" image="samsung_calculator"/>
+    <!-- Calculator--><item class="com.android.calculator2.Calculator" name="samsung_calculator"/>
     <item class="com.sec.android.app.clockpackage.ClockPackage" image="clock"/>
     <item class="io.wallpaperengine.weclient.BrowseActivity" image="wallpaper_engine"/>
     <item class="com.whatsapp.Main" image="whatsapp"/>
@@ -96,7 +98,9 @@
     <item class="com.auroraclimbing.auroraboard.controller.SplashActivity" image="kilterboard"/>
     <item class="com.froxot.cuscon.activities.SplashActivity" image="cuscon"/>
     <item class="calculatorlock.calculatorvault.secretcalculator.calculatorlockapphider.MainActivity" image="samsung_calculator"/>
+    <!-- Files-->
     <item class="com.android.documentsui.LauncherActivity" image="samsung_files"/>
+    <item class="com.simplemobiletools.filemanager.pro.activities.SplashActivity.Orange" name="samsung_files"/>
     <item class="com.android.settings.Settings" image="samsung_sound_assistant"/>
     <item class="com.easilydo.mail.ui.SplashActivity" image="samsung_mail"/>
     <item class="com.android.gallery3d.app.GalleryActivity" image="samsung_gallary"/>
@@ -106,7 +110,9 @@
     <item class="pdf.reader.pdfviewer.pdfeditor.MainLaunchActivity" image="adobe_acrobat_reader"/>
     <item class="org.lineageos.recorder.RecorderActivity" image="voicenote"/>
     <item class="com.android.messaging.ui.conversationlist.ConversationListActivity" image="samsung_messages"/>
+    <!-- Phone -->
     <item class="com.android.dialer.main.impl.MainActivity" image="phone"/>
+    <item class="com.google.android.dialer.extensions.GoogleDialtactsActivity" name="phone"/>
     <item class="com.android.deskclock.DeskClock" image="clock"/>
     <!-- Aegis --><item class="com.beemdevelopment.aegis.ui.MainActivity" name="aegis"/>
     <!-- APK Editor --><item class="com.gmail.heagoo.apkeditor.MainActivity-New1" name="apk_editor"/>

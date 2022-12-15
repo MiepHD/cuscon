@@ -5,6 +5,7 @@
     <Label value="Cuscon" />
     <AppIcon name="com.cloudflare.onedotonedotonedotone/com.cloudflare.app.presentation.main.SplashActivity" image="cloudflare_warp"/>
     <AppIcon name="com.adguard.android/com.adguard.android.ui.MainActivity" image="adguard"/>
+    <!-- AdGuard--><AppIcon name="com.adguard.android/com.adguard.android.ui.SplashActivity" image="adguard"/>
     <AppIcon name="com.adobe.reader/com.adobe.reader.AdobeReader" image="adobe_acrobat_reader"/>
     <AppIcon name="com.apkpure.aegon/com.apkpure.aegon.main.activity.SplashActivity" image="apkpure"/>
     <AppIcon name="com.google.android.apps.authenticator2/com.google.android.apps.authenticator.AuthenticatorActivity" image="google_authenticator"/>
@@ -14,7 +15,9 @@
     <AppIcon name="com.senspark.darkland/com.unity3d.player.UnityPlayerActivity" image="darkland"/>
     <!-- Discord --><AppIcon name="com.discord/com.discord.app.MainActivity" image="discord"/>
     <AppIcon name="com.samsung.android.email.provider/com.samsung.android.email.ui.activity.MessageListXL" image="samsung_mail"/>
+    <!-- Files-->
     <AppIcon name="com.sec.android.app.myfiles/com.sec.android.app.myfiles.external.ui.MainActivity" image="samsung_files"/>
+	<AppIcon name="com.simplemobiletools.filemanager.pro/com.simplemobiletools.filemanager.pro.activities.SplashActivity.Orange" image="samsung_files"/>
     <AppIcon name="org.fdroid.fdroid/org.fdroid.fdroid.views.main.MainActivity" image="f_droid"/>
     <AppIcon name="com.sec.android.gallery3d/com.samsung.android.gallery.app.activity.GalleryActivity" image="samsung_gallary"/>
     <AppIcon name="com.github.android/com.github.android.activities.MainActivity" image="github"/>
@@ -42,12 +45,17 @@
     <AppIcon name="com.sandrotraettino.games.spingram/com.unity3d.player.UnityPlayerActivity" image="spingram"/>
     <AppIcon name="com.valvesoftware.android.steam.community/com.valvesoftware.android.steam.community.activity.MainActivity" image="steam"/>
     <AppIcon name="com.sec.android.app.popupcalculator/com.sec.android.app.popupcalculator.Calculator" image="samsung_calculator"/>
+    <!-- Calculator--><AppIcon name="com.google.android.calculator/com.android.calculator2.Calculator" image="samsung_calculator"/>
+    <!-- Clock-->
     <AppIcon name="com.sec.android.app.clockpackage/com.sec.android.app.clockpackage.ClockPackage" image="clock"/>
-    <AppIcon name="io.wallpaperengine.weclient/io.wallpaperengine.weclient.BrowseActivity" image="wallpaper_engine"/>
-    <AppIcon name="com.whatsapp/com.whatsapp.Main" image="whatsapp"/>
+    <AppIcon name="com.google.android.deskclock/com.android.deskclock.DeskClock" image="clock"/>
+    <!-- Wallpaper Engine--><AppIcon name="io.wallpaperengine.weclient/io.wallpaperengine.weclient.BrowseActivity" image="wallpaper_engine"/>
+    <!-- Whatsapp--><AppIcon name="com.whatsapp/com.whatsapp.Main" image="whatsapp"/>
     <AppIcon name="de.saschahlusiak.wordmixpro/de.saschahlusiak.wordmix.startscreen.StartScreenActivity" image="word_mix_pro"/>
     <AppIcon name="com.vanced.android.youtube/com.google.android.youtube.app.honeycomb.Shell$HomeActivity" image="youtube"/>
     <AppIcon name="com.vanced.android.apps.youtube.music/com.google.android.apps.youtube.music.activities.MusicActivity" image="youtube_music"/>
+    <!-- YouTube--><AppIcon name="com.google.android.youtube/com.google.android.youtube.app.honeycomb.Shell$HomeActivity" image="youtube"/>
+	<!-- YT Music--><AppIcon name="com.google.android.apps.youtube.music/com.google.android.apps.youtube.music.activities.MusicActivity" image="youtube_music"/>
     <AppIcon name="com.zdf.android.mediathek/com.zdf.android.mediathek.ui.splash.SplashActivity" image="zdfmediathek"/>
     <AppIcon name="com.google.android.apps.translate/com.google.android.apps.translate.TranslateActivity" image="google_translate"/>
     <AppIcon name="com.android.vending/com.android.vending.AssetBrowserActivity" image="google_play_store"/>
@@ -102,12 +110,16 @@
     <AppIcon name="com.easilydo.mail/com.easilydo.mail.ui.SplashActivity" image="samsung_mail"/>
     <AppIcon name="com.android.gallery3d/com.android.gallery3d.app.GalleryActivity" image="samsung_gallary"/>
     <AppIcon name="org.lineageos.etar/com.android.calendar.AllInOneActivity" image="samsung_calander"/>
+    <!-- Contacts-->
     <AppIcon name="com.android.contacts/com.android.contacts.activities.PeopleActivity" image="samsung_contacts"/>
+    <AppIcon name="com.google.android.contacts/com.android.contacts.activities.PeopleActivity" image="samsung_contacts"/>
     <AppIcon name="org.lineageos.eleven/org.lineageos.eleven.ui.activities.HomeActivity" image="samsung_music"/>
     <AppIcon name="pdf.reader.pdfviewer.pdfeditor/pdf.reader.pdfviewer.pdfeditor.MainLaunchActivity" image="adobe_acrobat_reader"/>
     <AppIcon name="org.lineageos.recorder/org.lineageos.recorder.RecorderActivity" image="voicenote"/>
     <AppIcon name="com.android.messaging/com.android.messaging.ui.conversationlist.ConversationListActivity" image="samsung_messages"/>
+    <!-- Phone-->
     <AppIcon name="com.android.dialer/com.android.dialer.main.impl.MainActivity" image="phone"/>
+    <AppIcon name="com.google.android.dialer/com.google.android.dialer.extensions.GoogleDialtactsActivity" image="phone"/>
     <AppIcon name="com.android.deskclock/com.android.deskclock.DeskClock" image="clock"/>
     <!-- Aegis --><AppIcon name="com.beemdevelopment.aegis/com.beemdevelopment.aegis.ui.MainActivity" image="aegis"/>
     <!-- APK Editor --><AppIcon name="com.gmail.heagoo.apkeditor.pro/com.gmail.heagoo.apkeditor.MainActivity-New1" image="apk_editor"/>

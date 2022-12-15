@@ -20,6 +20,7 @@
 
     <item component="ComponentInfo{com.cloudflare.onedotonedotonedotone/com.cloudflare.app.presentation.main.SplashActivity}" drawable="cloudflare_warp"/>
     <item component="ComponentInfo{com.adguard.android/com.adguard.android.ui.MainActivity}" drawable="adguard"/>
+    <!-- AdGuard--><item component="ComponentInfo{com.adguard.android/com.adguard.android.ui.SplashActivity}" drawable="adguard" />
     <item component="ComponentInfo{com.adobe.reader/com.adobe.reader.AdobeReader}" drawable="adobe_acrobat_reader"/>
     <item component="ComponentInfo{com.apkpure.aegon/com.apkpure.aegon.main.activity.SplashActivity}" drawable="apkpure"/>
     <item component="ComponentInfo{com.google.android.apps.authenticator2/com.google.android.apps.authenticator.AuthenticatorActivity}" drawable="google_authenticator"/>
@@ -29,7 +30,9 @@
     <item component="ComponentInfo{com.senspark.darkland/com.unity3d.player.UnityPlayerActivity}" drawable="darkland"/>
     <!-- Discord --><item component="ComponentInfo{com.discord/com.discord.app.MainActivity}" drawable="discord" />
     <item component="ComponentInfo{com.samsung.android.email.provider/com.samsung.android.email.ui.activity.MessageListXL}" drawable="samsung_mail"/>
+    <!-- Files-->
     <item component="ComponentInfo{com.sec.android.app.myfiles/com.sec.android.app.myfiles.external.ui.MainActivity}" drawable="samsung_files"/>
+	<item component="ComponentInfo{com.simplemobiletools.filemanager.pro/com.simplemobiletools.filemanager.pro.activities.SplashActivity.Orange}" drawable="samsung_files" />
     <item component="ComponentInfo{org.fdroid.fdroid/org.fdroid.fdroid.views.main.MainActivity}" drawable="f_droid"/>
     <item component="ComponentInfo{com.sec.android.gallery3d/com.samsung.android.gallery.app.activity.GalleryActivity}" drawable="samsung_gallary"/>
     <item component="ComponentInfo{com.github.android/com.github.android.activities.MainActivity}" drawable="github"/>
@@ -57,12 +60,17 @@
     <item component="ComponentInfo{com.sandrotraettino.games.spingram/com.unity3d.player.UnityPlayerActivity}" drawable="spingram"/>
     <item component="ComponentInfo{com.valvesoftware.android.steam.community/com.valvesoftware.android.steam.community.activity.MainActivity}" drawable="steam"/>
     <item component="ComponentInfo{com.sec.android.app.popupcalculator/com.sec.android.app.popupcalculator.Calculator}" drawable="samsung_calculator"/>
+    <!-- Calculator--><item component="ComponentInfo{com.google.android.calculator/com.android.calculator2.Calculator}" drawable="samsung_calculator" />
+    <!-- Clock-->
     <item component="ComponentInfo{com.sec.android.app.clockpackage/com.sec.android.app.clockpackage.ClockPackage}" drawable="clock"/>
+	<item component="ComponentInfo{com.google.android.deskclock/com.android.deskclock.DeskClock}" drawable="clock" />
     <item component="ComponentInfo{io.wallpaperengine.weclient/io.wallpaperengine.weclient.BrowseActivity}" drawable="wallpaper_engine"/>
     <item component="ComponentInfo{com.whatsapp/com.whatsapp.Main}" drawable="whatsapp"/>
     <item component="ComponentInfo{de.saschahlusiak.wordmixpro/de.saschahlusiak.wordmix.startscreen.StartScreenActivity}" drawable="word_mix_pro"/>
     <item component="ComponentInfo{com.vanced.android.youtube/com.google.android.youtube.app.honeycomb.Shell$HomeActivity}" drawable="youtube"/>
     <item component="ComponentInfo{com.vanced.android.apps.youtube.music/com.google.android.apps.youtube.music.activities.MusicActivity}" drawable="youtube_music"/>
+    <!-- YouTube--><item component="ComponentInfo{com.google.android.youtube/com.google.android.youtube.app.honeycomb.ShellHomeActivity}" drawable="youtube" />
+	<!-- YT Music--><item component="ComponentInfo{com.google.android.apps.youtube.music/com.google.android.apps.youtube.music.activities.MusicActivity}" drawable="yt_music" />
     <item component="ComponentInfo{com.zdf.android.mediathek/com.zdf.android.mediathek.ui.splash.SplashActivity}" drawable="zdfmediathek"/>
     <item component="ComponentInfo{com.google.android.apps.translate/com.google.android.apps.translate.TranslateActivity}" drawable="google_translate"/>
     <item component="ComponentInfo{com.android.vending/com.android.vending.AssetBrowserActivity}" drawable="google_play_store"/>
@@ -117,12 +125,16 @@
     <item component="ComponentInfo{com.easilydo.mail/com.easilydo.mail.ui.SplashActivity}" drawable="samsung_mail"/>
     <item component="ComponentInfo{com.android.gallery3d/com.android.gallery3d.app.GalleryActivity}" drawable="samsung_gallary"/>
     <item component="ComponentInfo{org.lineageos.etar/com.android.calendar.AllInOneActivity}" drawable="samsung_calander"/>
+    <!-- Contacts-->
     <item component="ComponentInfo{com.android.contacts/com.android.contacts.activities.PeopleActivity}" drawable="samsung_contacts"/>
+    <item component="ComponentInfo{com.google.android.contacts/com.android.contacts.activities.PeopleActivity}" drawable="samsung_contacts" />
     <item component="ComponentInfo{org.lineageos.eleven/org.lineageos.eleven.ui.activities.HomeActivity}" drawable="samsung_music"/>
     <item component="ComponentInfo{pdf.reader.pdfviewer.pdfeditor/pdf.reader.pdfviewer.pdfeditor.MainLaunchActivity}" drawable="adobe_acrobat_reader"/>
     <item component="ComponentInfo{org.lineageos.recorder/org.lineageos.recorder.RecorderActivity}" drawable="voicenote"/>
     <item component="ComponentInfo{com.android.messaging/com.android.messaging.ui.conversationlist.ConversationListActivity}" drawable="samsung_messages"/>
+    <!-- Phone-->
     <item component="ComponentInfo{com.android.dialer/com.android.dialer.main.impl.MainActivity}" drawable="phone"/>
+	<item component="ComponentInfo{com.google.android.dialer/com.google.android.dialer.extensions.GoogleDialtactsActivity}" drawable="phone" />
     <item component="ComponentInfo{com.android.deskclock/com.android.deskclock.DeskClock}" drawable="clock"/>
     <!-- Aegis --><item component="ComponentInfo{com.beemdevelopment.aegis/com.beemdevelopment.aegis.ui.MainActivity}" drawable="aegis" />
     <!-- APK Editor --><item component="ComponentInfo{com.gmail.heagoo.apkeditor.pro/com.gmail.heagoo.apkeditor.MainActivity-New1}" drawable="apk_editor" />
