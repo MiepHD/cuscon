@@ -1,0 +1,35 @@
+input {
+	display: block;
+	width: 100%;
+	border-style: solid;
+	color: white;
+	border-image: linear-gradient(
+		to right,
+		rgb(103,48,188),
+		rgb(201, 172, 246),
+		rgb(103,48,188)
+	);
+	animation: gradient 5s linear infinite;
+	border-width: 0px 0px calc(var(--normal-size) / 20) 0px;
+	background-color: transparent;
+}
+@keyframes gradient {
+	0% {
+	  border-image-slice: 1;
+	}
+	100% {
+	  border-image-slice: 7;
+	}
+  }
+#search-icon {
+	height: calc(var(--normal-size) / 4) !important;
+    width: calc(var(--normal-size) / 4) !important;
+}
+#search-area {
+	display: flex;
+    width: 100%;
+	height: calc(var(--normal-size) / 4) !important;
+}
+[data-category-id=search] {
+	display: none;
+}

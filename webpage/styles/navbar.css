@@ -1,10 +1,12 @@
 /*Navigation Bar*/
 nav {
+	top: 0px;
 	position: fixed;
 	width: 100%;
 	height: calc(var(--normal-size) * 1.2);
 	background-image: linear-gradient(rgb(0,0,0,255), rgba(0,0,0,0));
 	z-index: 1;
+	pointer-events: none;
 }
 nav > #menu {
 	height: var(--normal-size);
@@ -15,6 +17,7 @@ nav > #menu {
 	z-index: 2;
 	cursor: pointer;
 	transition: transform .5s;
+	pointer-events: auto;
 }
 #iconwithname{
 	height: auto;

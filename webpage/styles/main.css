@@ -51,7 +51,7 @@ h6 {
 	padding-top: calc(var(--normal-size) * 1.5);
 	z-index: -1;
 }
-#content {
+main {
 	margin-left: calc(var(--normal-size) / 5);
 	margin-right: calc(var(--normal-size) / 5);
 	margin-top: 12.5%;

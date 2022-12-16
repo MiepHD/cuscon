@@ -1,13 +1,17 @@
+allicons = [];
 //Builds the cards through adding a card-content div to every card
 class IconBuilder {
   constructor () {
     this.curreqcat = undefined; //CURrentlyREQuestedCATegory
     this.xhttp = new XMLHttpRequest();
     this.xhttp.onreadystatechange = function() {
-        if (this.xhttp.readyState == 4 && this.xhttp.status == 200) {
-           const data = JSON.parse(this.xhttp.responseText);
-           this.iconListFromData(data);
+      if (this.xhttp.readyState == 4 && this.xhttp.status == 200) {
+        const data = JSON.parse(this.xhttp.responseText);
+        for (const icon of data) {
+          allicons.push(icon);
         }
+        this.iconListFromData(data);
+      }
     }.bind(this);
   }
   iconListFromData(data) {
@@ -45,6 +49,7 @@ class IconBuilder {
     div.removeAttribute("id");
     icons.addIntersectionObserver(div);
     icons.setIconWidths();
+    return div;
   }
   iconList(category) {
     this.requestIconList(category);

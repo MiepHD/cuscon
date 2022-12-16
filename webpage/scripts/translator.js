@@ -17,15 +17,19 @@ class Translator {
     };
   }
   get(id) {
-    return this.datas[this.lang][id];
+    try {
+      return this.datas[this.lang][id];
+    } catch {
+      return undefined;
+    }
   }
   //Needs a language code; currently "en" or "de"
   to(lang) {
     this.lang = lang;
-    if (this.datas[lang]==undefined) {
-      this.requestLanguageFile(lang);
-    } else {
+    if (this.datas[lang]) {
       this.fromData(this.datas[lang]);
+    } else {
+      this.requestLanguageFile(lang);
     }
   }
   toggle() {

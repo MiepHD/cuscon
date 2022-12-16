@@ -7,6 +7,7 @@ const navbar = new Navbar();
 const sidebar = new Sidebar();
 const tooltip = new Tooltip();
 const iconloader = new IconLoader();
+const search = new Search();
 
 document.addEventListener('DOMContentLoaded', function() {
   iconloader.load();
@@ -28,4 +29,6 @@ document.addEventListener('DOMContentLoaded', function() {
 
   tooltip.add();
   translate.renew();
+  
+  search.addEventListener();
 }, false);

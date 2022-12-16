@@ -43,8 +43,18 @@ class Infobox {
 		}
 	}
 	show() {
-		const icon = this,
+		const icon = this;
+		let box;
+		if (document.getElementById("infobox")) {
 			box = document.getElementById("infobox");
+		} else {
+			//const box = $("<div data-no-resize=true id='infobox'><div class='card'><h4 id='infobox-title'></h4><p id='infobox-info'></p><a id='infobox-author'></a></div></div>");
+			box = document.createElement("div");
+			box.setAttribute("data-no-resize", "true");
+			box.setAttribute("id", "infobox");
+			box.innerHTML = "<div class='card'><div class='card-content' data-translation-id='null'><h4 id='infobox-title'></h4><p id='infobox-info'></p><a id='infobox-author'></a></div></div>";
+			document.getElementById("iconlist").appendChild(box);
+		}
 		//Hide box on old place
 		box.style.maxHeight = "0px";
 		setTimeout(function () { //Wait 'til scaling is finished
