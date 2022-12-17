@@ -200,7 +200,7 @@
     <!-- Email to use when sending icon requests.
         Regular request email address will be used to send bug reports.
         You can leave "premium_request_email" empty to use the regular request's email to send premium icon requests. -->
-    <string name="regular_request_email">miep_hd@froxot.com</string>
+    <string name="regular_request_email">cuscon-requests@froxot.de</string>
     <string name="premium_request_email"></string>
 
     <!-- Icon request email subjects. Leave empty to use default Subject. -->
@@ -288,9 +288,8 @@
         ex: <string-array name="about_social_links"></string-array>
         -->
     <string-array name="about_social_links">
-        <item>miep_hd@froxot.com</item>
-        <!--<item>https://telegram.me/yourusername</item>
-        <item>https://your.webpage.com</item>-->
+        <item>cuscon@froxot.de</item>
+        <item>http://miep-hd.froxot.com/app/cuscon.html</item>
     </string-array>
 
     <!-- Contributors dialog
