@@ -8,6 +8,10 @@ Contains the android app in `app` and the website under `webpage`
 
 http://miep-hd.froxot.com/app/cuscon.html
 
+# Requests
+
+Please send request to <a href="mailto:cuscon-requests@froxot.de">cuscon-requests@froxot.de</a>
+
 # Requirements for contributing icons
 - Icons must be outlined in black
 - Icon must be visible on black background
