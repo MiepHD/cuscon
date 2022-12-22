@@ -4,6 +4,10 @@ Icon-Pack with transpanrent icons that are outlined for good visibility.
 
 Contains the android app in `app` and the website under `webpage`
 
+# Supported Apps
+
+http://miep-hd.froxot.com/app/cuscon.html
+
 # Requirements for contributing icons
 - Icons must be outlined in black
 - Icon must be visible on black background
@@ -14,10 +18,6 @@ Contains the android app in `app` and the website under `webpage`
 # Contributors
 <a href="https://github.com/MiepHD" target="_blank"><img class="profile" src="https://avatars.githubusercontent.com/u/63968466?s=64&v=4"></a>
 <a href="https://github.com/sourcrowd450" target="_blank"><img class="profile" src="https://avatars.githubusercontent.com/u/107772832?s=64&v=4"></a>
-
-# Supported Apps
-
-http://miep-hd.froxot.com/app/cuscon.html
 
 # License
 ```
