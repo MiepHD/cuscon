@@ -40,5 +40,21 @@
 	<!-- WiFiman--><item class="com.ubnt.usurvey.ui.app.splash.SplashActivity" name="wifiman"/>
 	<!-- WLAN--><item class="de.avm.android.wlanapp.permissions.LocationPermissionActivity" name="wlan"/>
 	<!-- WlanScanner by Latetech--><item class="com.Latetech.WlanScanner.MainActivity" name="wlanscanner_by_latetech"/>
+	<!-- Adobe Scan --><item class="com.adobe.scan.android.SplashActivity" name="adobe_scan"/>
+	<!-- Authenticator --><item class="com.azure.authenticator.ui.LaunchActivity" name="authenticator"/>
+	<!-- Camera Assistant --><item class="com.samsung.android.app.cameraassistant.MainActivity" name="camera_assistant"/>
+	<!-- Good Guardians --><item class="com.android.samsung.utilityapp.app.presentation.welcomepage.WelcomeActivity" name="good_guardians"/>
+	<!-- Good Lock --><item class="com.samsung.android.goodlock.presentation.view.LaunchActivity" name="good_lock"/>
+	<!-- Lieferando --><item class="com.takeaway.android.activity.Splash" name="lieferando"/>
+	<!-- OneNote --><item class="com.microsoft.office.onenote.ui.ONMSplashActivity" name="onenote"/>
+	<!-- PayPal --><item class="com.paypal.android.p2pmobile.startup.activities.StartupActivity" name="paypal"/>
+	<!-- Samsung Flow --><item class="com.samsung.android.galaxycontinuity.SplashActivity" name="samsung_flow"/>
+	<!-- Skype --><item class="com.skype4life.MainActivity" name="skype"/>
+	<!-- Teams --><item class="com.microsoft.skype.teams.Launcher" name="teams"/>
+	<!-- Theme Park --><item class="com.samsung.android.themedesigner.SplashActivity" name="theme_park"/>
+	<!-- TikTok --><item class="com.ss.android.ugc.aweme.splash.SplashActivity" name="tiktok"/>
+	<!-- To Do --><item class="com.microsoft.todos.ui.LaunchActivity" name="to_do"/>
+	<!-- Zalando --><item class="de.zalando.mobile.ui.start.SplashActivity" name="zalando"/>
+	<!-- Zoom --><item class="com.zipow.videobox.LauncherActivity" name="zoom"/>
 
 </resources>

@@ -40,5 +40,21 @@
 	<!-- WiFiman--><AppIcon name="com.ubnt.usurvey/com.ubnt.usurvey.ui.app.splash.SplashActivity" image="wifiman"/>
 	<!-- WLAN--><AppIcon name="de.avm.android.wlanapp/de.avm.android.wlanapp.permissions.LocationPermissionActivity" image="wlan"/>
 	<!-- WlanScanner by Latetech--><AppIcon name="com.Latetech.WlanScanner/com.Latetech.WlanScanner.MainActivity" image="wlanscanner_by_latetech"/>
-
+	<!-- Adobe Scan --><AppIcon name="com.adobe.scan.android/com.adobe.scan.android.SplashActivity" image="adobe_scan"/>
+	<!-- Authenticator --><AppIcon name="com.azure.authenticator/com.azure.authenticator.ui.LaunchActivity" image="authenticator"/>
+	<!-- Camera Assistant --><AppIcon name="com.samsung.android.app.cameraassistant/com.samsung.android.app.cameraassistant.MainActivity" image="camera_assistant"/>
+	<!-- Good Guardians --><AppIcon name="com.android.samsung.utilityapp/com.android.samsung.utilityapp.app.presentation.welcomepage.WelcomeActivity" image="good_guardians"/>
+	<!-- Good Lock --><AppIcon name="com.samsung.android.goodlock/com.samsung.android.goodlock.presentation.view.LaunchActivity" image="good_lock"/>
+	<!-- Lieferando --><AppIcon name="com.yopeso.lieferando/com.takeaway.android.activity.Splash" image="lieferando"/>
+	<!-- OneNote --><AppIcon name="com.microsoft.office.onenote/com.microsoft.office.onenote.ui.ONMSplashActivity" image="onenote"/>
+	<!-- PayPal --><AppIcon name="com.paypal.android.p2pmobile/com.paypal.android.p2pmobile.startup.activities.StartupActivity" image="paypal"/>
+	<!-- Samsung Flow --><AppIcon name="com.samsung.android.galaxycontinuity/com.samsung.android.galaxycontinuity.SplashActivity" image="samsung_flow"/>
+	<!-- Skype --><AppIcon name="com.skype.raider/com.skype4life.MainActivity" image="skype"/>
+	<!-- Teams --><AppIcon name="com.microsoft.teams/com.microsoft.skype.teams.Launcher" image="teams"/>
+	<!-- Theme Park --><AppIcon name="com.samsung.android.themedesigner/com.samsung.android.themedesigner.SplashActivity" image="theme_park"/>
+	<!-- TikTok --><AppIcon name="com.zhiliaoapp.musically/com.ss.android.ugc.aweme.splash.SplashActivity" image="tiktok"/>
+	<!-- To Do --><AppIcon name="com.microsoft.todos/com.microsoft.todos.ui.LaunchActivity" image="to_do"/>
+	<!-- Zalando --><AppIcon name="de.zalando.mobile/de.zalando.mobile.ui.start.SplashActivity" image="zalando"/>
+	<!-- Zoom --><AppIcon name="us.zoom.videomeetings/com.zipow.videobox.LauncherActivity" image="zoom"/>
+	
 </resources>
