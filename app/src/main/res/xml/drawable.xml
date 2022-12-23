@@ -7,7 +7,6 @@
     <item drawable="github" />
     <item drawable="i_net_menue" />
     <item drawable="samsung_calander" />
-    <item drawable="autodesk_sketchbook" />
     <item drawable="clock" />
     <item drawable="wallpaper_engine" />
     <item drawable="amc_cooking" />
@@ -45,6 +44,12 @@
     <!-- Google Assistant--><item drawable="google_assistant" />
     <!-- Google One--><item drawable="google_one" />
 	<!-- Google TV--><item drawable="google_tv" />
+    <!-- Google Calendar --><item drawable="google_calendar" />
+    <!-- Google Wallpapers --><item drawable="google_wallpapers" />
+	<!-- Moto Interactive Wallpaper --><item drawable="moto_interactive_wallpaper" />
+	<!-- Microsoft To Do --><item drawable="microsoft_to_do" />
+	<!-- WeeNet --><item drawable="weenet" />
+    <!-- Settings --><item drawable="settings" />
 
     <category title="Stores" />
     <item drawable="apkpure" />
@@ -158,9 +163,9 @@
     <category title="Documents" />
     <item drawable="adobe_acrobat_reader" />
     <item drawable="docx2pdf" />
-    <item drawable="office_suite" />
-    <item drawable="samsung_notes" />
-    <item drawable="leaflet" />
+    <!-- Office Suite --><item drawable="office_suite" />
+    <!-- Samsung Notes --><item drawable="samsung_notes" />
+    <!-- Leaflet --><item drawable="leaflet" />
     <!-- ONLYOFFICE Dokumente --><item drawable="onlyoffice_dokumente" />
     <!-- OpenDocument Reader --><item drawable="opendocument_reader" />
     <!-- Librera FD --><item drawable="librera_fd" />
@@ -168,15 +173,16 @@
     <!-- Rocketbook --><item drawable="rocketbook" />
     <!-- Microsoft Office --><item drawable="microsoft_office"/>
     <!-- Documents--><item drawable="documents" />
+    <!-- Adobe Scan --><item drawable="adobe_scan" />
 
     <category title="VPN" />
-    <item drawable="adguard" />
-    <item drawable="cloudflare_warp" />
+    <!-- Adguard --><item drawable="adguard" />
+    <!-- Cloudflare Warp --><item drawable="cloudflare_warp" />
     <!-- WireGuard --><item drawable="wireguard" />
 
     <category title="Camera" />
-    <item drawable="open_camera" />
-    <item drawable="samsung_camera" />
+    <!-- Open Camera --><item drawable="open_camera" />
+    <!-- Samsung Camera --><item drawable="samsung_camera" />
     <!-- ObscuraCam --><item drawable="obscuracam" />
     <!-- Binary Eye --><item drawable="binary_eye" />
     <!-- Retroboy --><item drawable="retroboy" />
@@ -184,16 +190,16 @@
     <!-- Mosaic --><item drawable="mosaic"/>
 
     <category title="Maps" />
-    <item drawable="google_maps" />
-    <item drawable="organic_maps" />
-    <item drawable="map2fly" />
+    <!-- Google Maps --><item drawable="google_maps" />
+    <!-- Organic Maps --><item drawable="organic_maps" />
+    <!-- Map2Fly --><item drawable="map2fly" />
     <!-- Öffi Haltestellen --><item drawable="offi_haltestellen" />
     <!-- Öffi Netzpläne --><item drawable="offi_netzplane" />
     <!-- OpenTracks --><item drawable="opentracks" />
 
     <category title="Files" />
-    <item drawable="google_drive" />
-    <item drawable="samsung_files" />
+    <!-- Google Drive --><item drawable="google_drive" />
+    <!-- Samsung Files --><item drawable="samsung_files" />
     <!-- Sicherung --><item drawable="sicherung" />
     <!-- ZArchiver --><item drawable="zarchiver" />
     <!-- Dropbox --><item drawable="dropbox" />
@@ -202,16 +208,17 @@
     <!-- Phone Saver --><item drawable="phone_saver" />
     <!-- MEGA --><item drawable="mega"/>
     <!-- OneDrive --><item drawable="onedrive"/>
+    <!-- Google Files --><item drawable="google_files" />
 
     <category title="Gallery" />
-    <item drawable="samsung_gallary" />
+    <!-- Samsung Gallary --><item drawable="samsung_gallary" />
     <!-- Gallery--><item drawable="gallery" />
-    <item drawable="google_photos" />
+    <!-- Google Photos --><item drawable="google_photos" />
     <!-- Camera Roll --><item drawable="camera_roll" />
 
     <category title="Security" />
-    <item drawable="google_authenticator" />
-    <item drawable="keepass" />
+    <!-- Google Authenticator --><item drawable="google_authenticator" />
+    <!-- Keepass --><item drawable="keepass" />
     <!-- Firewall --><item drawable="firewall" />
     <!-- microG-Einstellungen --><item drawable="microg_einstellungen" />
     <!-- Aegis --><item drawable="aegis" />
@@ -220,17 +227,17 @@
     <!-- Warden --><item drawable="warden" />
 
     <category title="Learning" />
-    <item drawable="quizlet" />
+    <!-- Quizlet --><item drawable="quizlet" />
     <!-- Mebis --><item drawable="mebis" />
     <!-- DeepL --><item drawable="deepl" />
     <!-- Duden Wörterbücher --><item drawable="duden_worterbucher" />
     <!-- Linguee --><item drawable="linguee" />
     <!-- Bibel+ --><item drawable="bibel_" />
     <!-- Kiwix --><item drawable="kiwix" />
-    <item drawable="google_translate" />
+    <!-- Google Translate --><item drawable="google_translate" />
 
     <category title="News" />
-    <item drawable="newszone" />
+    <!-- Newszone --><item drawable="newszone" />
     <!-- Weather --><item drawable="weather" />
 
     <category title="Design" />
@@ -240,13 +247,15 @@
     <!-- SimpleAudio --><item drawable="simpleaudio" />
     <!-- Snapseed --><item drawable="snapseed" />
     <!-- Pinterest --><item drawable="pinterest" />
+    <!-- ibisPaint X --><item drawable="ibispaint_x" />
+    <!-- Autodesk Sketchbook --><item drawable="autodesk_sketchbook" />
 
     <category title="Information" />
     <!-- Öffi Verbindungen --><item drawable="offi_verbindungen" />
-    <item drawable="db_navigator" />
-    <item drawable="flix" />
-    <item drawable="corona_warn_app" />
-    <item drawable="uav_forecast" />
+    <!-- DB Navigator --><item drawable="db_navigator" />
+    <!-- Flix --><item drawable="flix" />
+    <!-- Corona Warn App --><item drawable="corona_warn_app" />
+    <!-- UAV Forecast --><item drawable="uav_forecast" />
     <!-- Elementary --><item drawable="elementary" />
     <!-- KFZ-Kennzeichen --><item drawable="kfz_kennzeichen" />
     <!-- DSBmobile --><item drawable="dsbmobile"/>

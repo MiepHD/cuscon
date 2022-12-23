@@ -10,19 +10,14 @@
 	<!-- QR-Scanner --><item class="net.qrbot.ui.main.MainActivity" name="qr_scanner"/>
 	<!-- UUID 0xFD6F Scanner --><item class="com.emacberry.uuid0xfd6fscan.ScannerActivity" name="uuid_0xfd6f_scanner"/>
 	<!-- Watten --><item class="stefanlukasv.googlemail.com.watten.SplashActivity" name="watten"/>
-	<!-- ibisPaint X --><item class="jp.ne.ibis.ibispaintx.app.market.MarketAuthenticationActivity" name="ibispaint_x"/>
 	<!-- Barclays --><item class="com.veripark.barclaycard.screen.main.activities.MainActivity" name="barclays"/>
 	<!-- Duolingo --><item class="com.duolingo.app.LoginActivity" name="duolingo"/>
 	<!-- ING Banking --><item class="com.ing.mobile.diba.startup.SplashActivity" name="ing_banking"/>
 	<!-- S-pushTAN --><item class="com.starfinanz.mobile.android.spushtan.SPushTan" name="s_pushtan"/>
 	<!-- Ayuda del dispositivo--><item class="com.motorola.genie.main.start.LaunchActivity" name="ayuda_del_dispositivo"/>
-	<!-- Calendar--><item class="com.android.calendar.AllInOneActivity" name="calendar"/>
 	<!-- Cámara--><item class="com.motorola.camera.Camera" name="camara"/>
 	<!-- D-Link Wi-Fi--><item class="com.mydlink.unify.activity.Launch2Activity" name="d_link_wi_fi"/>
-	<!-- FAST--><item class="com.netflix.Speedtest.MainActivity" name="fast"/>
-	<!-- Files--><item class="com.google.android.apps.nbu.files.home.HomeActivity" name="files"/>
-	<!-- Fondos de pantalla--><item class="com.google.android.apps.wallpaper.picker.CategoryPickerActivity" name="fondos_de_pantalla"/>
-	<!-- Fondos interactivos--><item class="com.motorola.livewallpaper3.ui.menu.WallpaperMenuTrampolineActivity" name="fondos_interactivos"/>
+	<!-- FAST--><item class="com.netflix.Speedtest.MainActivity" name="fast"/>´
 	<!-- Gestor de Redes--><item class="com.eakteam.networkmanager.pro.activities.paneli_kryesor" name="gestor_de_redes"/>
 	<!-- iwscan--><item class="com.evbadroid.iwscan.ScanActivity" name="iwscan"/>
 	<!-- Kiwi Browser--><item class="com.google.android.apps.chrome.Main" name="kiwi_browser"/>
@@ -35,12 +30,10 @@
 	<!-- Port Authority--><item class="com.aaronjwood.portauthority.activity.MainActivity" name="port_authority"/>
 	<!-- Radio FM--><item class="com.motorola.fmplayer.ChangeThemeActivity" name="radio_fm"/>
 	<!-- Sweech--><item class="com.sweech.MainActivity" name="sweech"/>
-	<!-- WeeNet--><item class="com.sangiorgisrl.wifimanagertool.ui.intro.LaunchActivity" name="weenet"/>
 	<!-- WiFi Monitor Pro--><item class="com.signalmonitoring.wifilib.ui.activities.MonitoringActivity" name="wifi_monitor_pro"/>
 	<!-- WiFiman--><item class="com.ubnt.usurvey.ui.app.splash.SplashActivity" name="wifiman"/>
 	<!-- WLAN--><item class="de.avm.android.wlanapp.permissions.LocationPermissionActivity" name="wlan"/>
 	<!-- WlanScanner by Latetech--><item class="com.Latetech.WlanScanner.MainActivity" name="wlanscanner_by_latetech"/>
-	<!-- Adobe Scan --><item class="com.adobe.scan.android.SplashActivity" name="adobe_scan"/>
 	<!-- Authenticator --><item class="com.azure.authenticator.ui.LaunchActivity" name="authenticator"/>
 	<!-- Camera Assistant --><item class="com.samsung.android.app.cameraassistant.MainActivity" name="camera_assistant"/>
 	<!-- Good Guardians --><item class="com.android.samsung.utilityapp.app.presentation.welcomepage.WelcomeActivity" name="good_guardians"/>
@@ -53,7 +46,6 @@
 	<!-- Teams --><item class="com.microsoft.skype.teams.Launcher" name="teams"/>
 	<!-- Theme Park --><item class="com.samsung.android.themedesigner.SplashActivity" name="theme_park"/>
 	<!-- TikTok --><item class="com.ss.android.ugc.aweme.splash.SplashActivity" name="tiktok"/>
-	<!-- To Do --><item class="com.microsoft.todos.ui.LaunchActivity" name="to_do"/>
 	<!-- Zalando --><item class="de.zalando.mobile.ui.start.SplashActivity" name="zalando"/>
 	<!-- Zoom --><item class="com.zipow.videobox.LauncherActivity" name="zoom"/>
 

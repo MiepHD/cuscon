@@ -28,5 +28,15 @@
 		"title": "Pinterest",
 		"author": "MiepHD",
 		"src": "pinterest"
+	},
+	{
+		"title": "Autodesk Sketchbook",
+		"author": "MiepHD",
+		"src": "autodesk_sketchbook"
+	},
+	{
+		"title": "ibisPaint X",
+		"src": "ibispaint_x",
+		"author": "MiepHD"
 	}
 ]

@@ -101,7 +101,7 @@
     <!-- Files-->
     <item class="com.android.documentsui.LauncherActivity" image="samsung_files"/>
     <item class="com.simplemobiletools.filemanager.pro.activities.SplashActivity.Orange" name="samsung_files"/>
-    <item class="com.android.settings.Settings" image="samsung_sound_assistant"/>
+    <item class="com.android.settings.Settings" image="settings"/>
     <item class="com.easilydo.mail.ui.SplashActivity" image="samsung_mail"/>
     <item class="com.android.gallery3d.app.GalleryActivity" image="samsung_gallary"/>
     <item class="com.android.calendar.AllInOneActivity" image="samsung_calander"/>
@@ -239,4 +239,13 @@
 	<!-- Mi WiFi--><item class="com.xiaomi.router.module.splash.SplashActivity" name="mi_wifi"/>
 	<!-- WiFiAnalyzer--><item class="com.vrem.wifianalyzer.MainActivity" name="wifianalyzer"/>
 	<!-- WLANScanner--><item class="org.bitbatzen.wlanscanner.MainActivity" name="wlanscanner"/>
+    <!-- ibisPaint X --><item class="jp.ne.ibis.ibispaintx.app.market.MarketAuthenticationActivity" name="ibispaint_x"/>
+	<!-- Google Calendar--><item class="com.android.calendar.AllInOneActivity" name="google_calendar"/>
+	<!-- Google Files--><item class="com.google.android.apps.nbu.files.home.HomeActivity" name="google_files"/>
+	<!-- Google Wallpapers--><item class="com.google.android.apps.wallpaper.picker.CategoryPickerActivity" name="google_wallpapers"/>
+	<!-- Moto Interactive Wallpaper--><item class="com.motorola.livewallpaper3.ui.menu.WallpaperMenuTrampolineActivity" name="moto_interactive_wallpaper"/>
+	<!-- WeeNet--><item class="com.sangiorgisrl.wifimanagertool.ui.intro.LaunchActivity" name="weenet"/>
+	<!-- Adobe Scan --><item class="com.adobe.scan.android.SplashActivity" name="adobe_scan"/>
+	<!-- Microsoft To Do --><item class="com.microsoft.todos.ui.LaunchActivity" name="microsoft_to_do"/>
+
 </appmap>
