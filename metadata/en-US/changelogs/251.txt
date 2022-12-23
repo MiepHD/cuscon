@@ -1,0 +1,4 @@
+Added Messages
+Fixed Discord
+Fixed AMC Cooking
+Fixed icons of Aliucord Installer, AMC Cooking, APK Editor, Aurora Store, Birday, Clock, Cloudflare Warp, EMP Shop, F-Droid, Flix, Galaxy Wearable, Map2Fly, Organic Maps, Samsung Mail, Samsung Music, ZDFMediathek

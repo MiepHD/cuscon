@@ -1,0 +1,3 @@
+Changed to different sample
+Changed pack\'s name
+Changed package name

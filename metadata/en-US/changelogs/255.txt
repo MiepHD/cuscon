@@ -1,0 +1,2 @@
+Fixed AdGuard, Files, Calculator, Clock, YouTube, YT Music, Contacts, Phone
+Added Google Assistant, Documents, Fing, Gallery, Google One, Google TV, Games, Mi WiFi, WiFiAnalyzer, WLANScanner
