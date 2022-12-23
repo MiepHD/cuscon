@@ -106,7 +106,7 @@
     <AppIcon name="com.froxot.cuscon/com.froxot.cuscon.activities.SplashActivity" image="cuscon"/>
     <AppIcon name="calculatorlock.calculatorvault.secretcalculator.calculatorlockapphider/calculatorlock.calculatorvault.secretcalculator.calculatorlockapphider.MainActivity" image="samsung_calculator"/>
     <AppIcon name="com.android.documentsui/com.android.documentsui.LauncherActivity" image="samsung_files"/>
-    <AppIcon name="com.android.settings/com.android.settings.Settings" image="samsung_sound_assistant"/>
+    <AppIcon name="com.android.settings/com.android.settings.Settings" image="settings"/>
     <AppIcon name="com.easilydo.mail/com.easilydo.mail.ui.SplashActivity" image="samsung_mail"/>
     <AppIcon name="com.android.gallery3d/com.android.gallery3d.app.GalleryActivity" image="samsung_gallary"/>
     <AppIcon name="org.lineageos.etar/com.android.calendar.AllInOneActivity" image="samsung_calander"/>
@@ -246,4 +246,13 @@
 	<!-- Mi WiFi--><AppIcon name="com.xiaomi.router/com.xiaomi.router.module.splash.SplashActivity" image="mi_wifi"/>
 	<!-- WiFiAnalyzer--><AppIcon name="com.vrem.wifianalyzer/com.vrem.wifianalyzer.MainActivity" image="wifianalyzer"/>
 	<!-- WLANScanner--><AppIcon name="org.bitbatzen.wlanscanner/org.bitbatzen.wlanscanner.MainActivity" image="wlanscanner"/>
+    <!-- ibisPaint X --><AppIcon name="jp.ne.ibis.ibispaintx.app/jp.ne.ibis.ibispaintx.app.market.MarketAuthenticationActivity" image="ibispaint_x"/>
+	<!-- Google Calendar--><AppIcon name="com.google.android.calendar/com.android.calendar.AllInOneActivity" image="google_calender"/>
+	<!-- WeeNet--><AppIcon name="com.sangiorgisrl.wifimanagertool/com.sangiorgisrl.wifimanagertool.ui.intro.LaunchActivity" image="weenet"/>
+	<!-- Google Files--><AppIcon name="com.google.android.apps.nbu.files/com.google.android.apps.nbu.files.home.HomeActivity" image="google_files"/>
+	<!-- Google Wallpapers--><AppIcon name="com.google.android.apps.wallpaper/com.google.android.apps.wallpaper.picker.CategoryPickerActivity" image="google_wallpapers"/>
+	<!-- Moto Interactive Wallpaper--><AppIcon name="com.motorola.livewallpaper3/com.motorola.livewallpaper3.ui.menu.WallpaperMenuTrampolineActivity" image="moto_interactive_wallpaper"/>
+	<!-- Microsoft To Do --><AppIcon name="com.microsoft.todos/com.microsoft.todos.ui.LaunchActivity" image="microsoft_to_do"/>
+	<!-- Adobe Scan --><AppIcon name="com.adobe.scan.android/com.adobe.scan.android.SplashActivity" image="adobe_scan"/>
+
 </Theme>

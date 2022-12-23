@@ -5,6 +5,10 @@
     <string name="changelog_date">15.12.2022</string>
 
     <string-array name="changelog">
+        <item>2.5.5 -> 2.5.6:</item>
+        <item>Changed Settings</item>
+        <item>Added Adobe Scan, Google Wallpapers, Moto Interactive Wallpaper, Google Calendar, Google Files, ibisPaint X, Microsoft To Do, WeeNet</item>
+        <item>Changed E-Mail address to cuscon-request@froxot.de</item>
         <item>2.5.4 -> 2.5.5:</item>
         <item>Fixed AdGuard, Files, Calculator, Clock, YouTube, YT Music, Contacts, Phone</item>
         <item>Added Google Assistant, Documents, Fing, Gallery, Google One, Google TV, Games, Mi WiFi, WiFiAnalyzer, WLANScanner</item>

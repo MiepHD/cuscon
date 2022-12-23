@@ -48,5 +48,10 @@
 		"title": "OneDrive",
 		"author": "MiepHD",
 		"src": "onedrive"
+	},
+    {
+		"title": "Google Files",
+		"src": "google_files",
+		"author": "MiepHD"
 	}
 ]

@@ -10,19 +10,14 @@
 	<!-- QR-Scanner --><AppIcon name="com.teacapps.barcodescanner/net.qrbot.ui.main.MainActivity" image="qr_scanner"/>
 	<!-- UUID 0xFD6F Scanner --><AppIcon name="com.emacberry.uuid0xfd6fscan/com.emacberry.uuid0xfd6fscan.ScannerActivity" image="uuid_0xfd6f_scanner"/>
 	<!-- Watten --><AppIcon name="stefanlukasv.googlemail.com.watten/stefanlukasv.googlemail.com.watten.SplashActivity" image="watten"/>
-	<!-- ibisPaint X --><AppIcon name="jp.ne.ibis.ibispaintx.app/jp.ne.ibis.ibispaintx.app.market.MarketAuthenticationActivity" image="ibispaint_x"/>
 	<!-- Barclays --><AppIcon name="com.barclaycard.germany/com.veripark.barclaycard.screen.main.activities.MainActivity" image="barclays"/>
 	<!-- Duolingo --><AppIcon name="com.duolingo/com.duolingo.app.LoginActivity" image="duolingo"/>
 	<!-- ING Banking --><AppIcon name="de.ingdiba.bankingapp/com.ing.mobile.diba.startup.SplashActivity" image="ing_banking"/>
 	<!-- S-pushTAN --><AppIcon name="com.starfinanz.mobile.android.pushtan/com.starfinanz.mobile.android.spushtan.SPushTan" image="s_pushtan"/>
 	<!-- Ayuda del dispositivo--><AppIcon name="com.motorola.genie/com.motorola.genie.main.start.LaunchActivity" image="ayuda_del_dispositivo"/>
-	<!-- Calendar--><AppIcon name="com.google.android.calendar/com.android.calendar.AllInOneActivity" image="google_calender"/>
 	<!-- Cámara--><AppIcon name="com.motorola.camera3/com.motorola.camera.Camera" image="camara2"/>
 	<!-- D-Link Wi-Fi--><AppIcon name="com.dlink.dlinkwifi/com.mydlink.unify.activity.Launch2Activity" image="d_link_wi_fi"/>
 	<!-- FAST--><AppIcon name="com.netflix.Speedtest/com.netflix.Speedtest.MainActivity" image="fast"/>
-	<!-- Files--><AppIcon name="com.google.android.apps.nbu.files/com.google.android.apps.nbu.files.home.HomeActivity" image="google_files"/>
-	<!-- Fondos de pantalla--><AppIcon name="com.google.android.apps.wallpaper/com.google.android.apps.wallpaper.picker.CategoryPickerActivity" image="fondos_de_pantalla"/>
-	<!-- Fondos interactivos--><AppIcon name="com.motorola.livewallpaper3/com.motorola.livewallpaper3.ui.menu.WallpaperMenuTrampolineActivity" image="fondos_interactivos"/>
 	<!-- Gestor de Redes--><AppIcon name="com.eakteam.networkmanager.pro/com.eakteam.networkmanager.pro.activities.paneli_kryesor" image="gestor_de_redes"/>
 	<!-- iwscan--><AppIcon name="com.evbadroid.iwscan/com.evbadroid.iwscan.ScanActivity" image="iwscan"/>
 	<!-- Kiwi Browser--><AppIcon name="com.kiwibrowser.browser/com.google.android.apps.chrome.Main" image="kiwi_browser"/>
@@ -35,12 +30,10 @@
 	<!-- Port Authority--><AppIcon name="com.aaronjwood.portauthority.free/com.aaronjwood.portauthority.activity.MainActivity" image="port_authority"/>
 	<!-- Radio FM--><AppIcon name="com.motorola.fmplayer/com.motorola.fmplayer.ChangeThemeActivity" image="radio_fm"/>
 	<!-- Sweech--><AppIcon name="com.sweech/com.sweech.MainActivity" image="sweech"/>
-	<!-- WeeNet--><AppIcon name="com.sangiorgisrl.wifimanagertool/com.sangiorgisrl.wifimanagertool.ui.intro.LaunchActivity" image="weenet"/>
 	<!-- WiFi Monitor Pro--><AppIcon name="com.signalmonitoring.wifimonitoringpro/com.signalmonitoring.wifilib.ui.activities.MonitoringActivity" image="wifi_monitor_pro"/>
 	<!-- WiFiman--><AppIcon name="com.ubnt.usurvey/com.ubnt.usurvey.ui.app.splash.SplashActivity" image="wifiman"/>
 	<!-- WLAN--><AppIcon name="de.avm.android.wlanapp/de.avm.android.wlanapp.permissions.LocationPermissionActivity" image="wlan"/>
 	<!-- WlanScanner by Latetech--><AppIcon name="com.Latetech.WlanScanner/com.Latetech.WlanScanner.MainActivity" image="wlanscanner_by_latetech"/>
-	<!-- Adobe Scan --><AppIcon name="com.adobe.scan.android/com.adobe.scan.android.SplashActivity" image="adobe_scan"/>
 	<!-- Authenticator --><AppIcon name="com.azure.authenticator/com.azure.authenticator.ui.LaunchActivity" image="authenticator"/>
 	<!-- Camera Assistant --><AppIcon name="com.samsung.android.app.cameraassistant/com.samsung.android.app.cameraassistant.MainActivity" image="camera_assistant"/>
 	<!-- Good Guardians --><AppIcon name="com.android.samsung.utilityapp/com.android.samsung.utilityapp.app.presentation.welcomepage.WelcomeActivity" image="good_guardians"/>
@@ -53,7 +46,6 @@
 	<!-- Teams --><AppIcon name="com.microsoft.teams/com.microsoft.skype.teams.Launcher" image="teams"/>
 	<!-- Theme Park --><AppIcon name="com.samsung.android.themedesigner/com.samsung.android.themedesigner.SplashActivity" image="theme_park"/>
 	<!-- TikTok --><AppIcon name="com.zhiliaoapp.musically/com.ss.android.ugc.aweme.splash.SplashActivity" image="tiktok"/>
-	<!-- To Do --><AppIcon name="com.microsoft.todos/com.microsoft.todos.ui.LaunchActivity" image="to_do"/>
 	<!-- Zalando --><AppIcon name="de.zalando.mobile/de.zalando.mobile.ui.start.SplashActivity" image="zalando"/>
 	<!-- Zoom --><AppIcon name="us.zoom.videomeetings/com.zipow.videobox.LauncherActivity" image="zoom"/>
 	

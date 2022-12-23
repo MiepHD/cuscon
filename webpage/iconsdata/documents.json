@@ -63,5 +63,10 @@
     "title": "Gallery",
     "src": "gallery",
     "author": "MiepHD"
+  },
+  {
+	"title": "Adobe Scan",
+	"src": "adobe_scan",
+	"author": "MiepHD"
   }
 ]
