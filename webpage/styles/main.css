@@ -66,5 +66,5 @@ main {
 	--light-color: rgba(255, 255, 255, 0.06);
 	--background-gradient: rgb(44, 33, 96), rgb(76,33,96), rgb(33,53,96);
 	--text-color: white;
-	--normal-size: 10ch;
+	--normal-size: 8ch;
 }
