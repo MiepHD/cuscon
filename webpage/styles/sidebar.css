@@ -1,21 +1,24 @@
 #sidebar {
-	width: var(--normal-size);
+	display: grid;
+	width: auto;
 	height: 100%;
 	position: fixed;
 	left: 100%;
 	background-color: var(--sidebar-background);
 	transition: left .5s;
 	z-index: -1;
-	padding-top: calc(var(--normal-size));
+	padding-top: calc(var(--normal-size) / 10);
 	padding-left: calc(var(--normal-size) / 10);
 	padding-right: calc(var(--normal-size) / 10);
+	padding-bottom: calc(var(--normal-size) / 10);
 	pointer-events: auto;
+	grid-template-rows: var(--normal-size) calc(var(--normal-size) / 4) repeat(5, var(--normal-size));
+	box-sizing: border-box;
 }
 #sidebar > img,
 #sidebar > a > img {
-	width: 100%;
-	height: auto;
-	float: right;
+	height: 100%;
+	width: auto;
 	cursor: pointer;
 }
 #language-toggle {

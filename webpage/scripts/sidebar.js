@@ -23,7 +23,6 @@ class Sidebar {
 		const width = this.sidebar.offsetWidth;
 		const left = document.querySelector("body").offsetWidth - width;
 		this.sidebar.style.left = `${left}px`;
-		this.sidebar.style.paddingTop = `${width * 1.1}px`;
 		document.getElementById("menu").style.transform = "rotate(90deg)";
 		if (!this.shown) {
 			for (const card of document.querySelectorAll(".card")) {
@@ -31,6 +30,9 @@ class Sidebar {
 			}
 		}
 		this.shown = true;
+		if (this.sidebar.scrollHeight > this.sidebar.clientHeight) {
+			this.sidebar.style.setProperty("grid-template-rows", "16% 4% repeat(5, 16%)");
+		}
 	}
 	hide() {
 		this.sidebar.style.left = "100%";

@@ -10,25 +10,16 @@ const iconloader = new IconLoader();
 const search = new Search();
 
 document.addEventListener('DOMContentLoaded', function() {
-
+  new Updater();
   iconloader.load();
   sidebar.load();
-  //Things to call when tab got resized
-  window.addEventListener('resize', function() {
-    icons.setIconWidths();
-    sidebar.reset();
-  });
-
   cards.build();
-
   document.getElementById("language-toggle").addEventListener("click", translate.toggle.bind(translate));
-
   glow.addMouseMoveListener();
-
   navbar.addIntersectionObserver();
-
+  $("#menu").width($("#placeholderformenu").height());
+  $("#menu").height($("#placeholderformenu").height());
   document.getElementById("menu").addEventListener("click", sidebar.toggle.bind(sidebar));
-
   tooltip.add();
   translate.renew();
   

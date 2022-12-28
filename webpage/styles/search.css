@@ -20,15 +20,11 @@ input {
 	100% {
 	  border-image-slice: 7;
 	}
-  }
-#search-icon {
-	height: calc(var(--normal-size) / 4) !important;
-    width: calc(var(--normal-size) / 4) !important;
 }
 #search-area {
 	display: flex;
-    width: 100%;
-	height: calc(var(--normal-size) / 4) !important;
+	width: auto;
+	height: 100% !important;
 }
 [data-category-id=search] {
 	display: none;
