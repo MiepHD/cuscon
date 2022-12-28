@@ -10,7 +10,9 @@ const iconloader = new IconLoader();
 const search = new Search();
 
 document.addEventListener('DOMContentLoaded', function() {
+
   iconloader.load();
+  sidebar.load();
   //Things to call when tab got resized
   window.addEventListener('resize', function() {
     icons.setIconWidths();
@@ -32,3 +34,17 @@ document.addEventListener('DOMContentLoaded', function() {
   
   search.addEventListener();
 }, false);
+function $$(query) {
+  const result = document.querySelectorAll(query);
+  switch (result.length) {
+    case 0: {
+      return undefined;
+    }
+    case 1: {
+      return result[0];
+    }
+    default: {
+      return result;
+    }
+  }
+}

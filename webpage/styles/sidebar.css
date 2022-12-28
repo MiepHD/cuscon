@@ -1,5 +1,5 @@
 #sidebar {
-	width: calc(var(--normal-size) * 1.1);
+	width: var(--normal-size);
 	height: 100%;
 	position: fixed;
 	left: 100%;
