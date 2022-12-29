@@ -32,14 +32,12 @@ class Icons {
 	//Sets the data for a single icon
 	//Gets a icon, a width and an iconposition
 	//Return nothing
-	setIconData(icon, width, iconposition) {
+	setIconData(icon, iconposition) {
 			if ((icon.getAttribute("data-info")!=undefined||icon.getAttribute("data-author")!=undefined)&&icon.getAttribute("data-title")!=undefined) {
 				icon.setAttribute("position", iconposition);
 				icon.addEventListener("click", infobox.show);
 				icon.style.cursor = "pointer";
 			}
-			icon.style.width = `${width}px`;
-			icon.style.height = `${width}px`;
 	}
 
 	//Sets the width for all icons and the infobox
@@ -50,7 +48,9 @@ class Icons {
 			width = fullwidth / number;
 		//Sets the length
 		//Note: length is 1 longer than actual length
-		$$("#iconlist").setAttribute("length", number + 1);
+		const iconlist = $$("#iconlist");
+		iconlist.style.setProperty("--icon-width", `${width}px`);
+		iconlist.style.setProperty("--columns", number);
 		//Used to indicate which infobox is opened
 		let iconposition = 0;
 		for (const list of document.querySelectorAll(".tiles")) { //Note: querySelectorAll can't get replaced with $$ here
@@ -59,17 +59,11 @@ class Icons {
 			let totaliconsperlist = 1;
 			for (const icon of icons) {
 				if (!(icon.getAttribute("data-no-resize"))) {
-					this.setIconData(icon, width, iconposition++);
+					this.setIconData(icon, iconposition++);
 					const row = Math.ceil(totaliconsperlist++ / number) + 1; //It should output the row under the current one
 					icon.setAttribute("row", row);
-				} else {
-					//This "icon" is the infobox
-					//Applies if infobox is shown while resizing
-					icon.style.setProperty("--length", $$("#iconlist").getAttribute("length"));
 				}
 			}
-			//Declares columns for grid
-			list.style.setProperty("--columns", number);
 		}
 	}
 }

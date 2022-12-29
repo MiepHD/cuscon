@@ -1,5 +1,5 @@
 #infobox {
-	grid-column: 1 / var(--length);
+	grid-column: 1 / span var(--columns);
 	grid-row: var(--row) / calc(var(--row) + 1);
 	height: auto;
 	max-height: 0px;

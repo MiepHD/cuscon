@@ -69,7 +69,6 @@ class Infobox {
 			infobox.setContent(icon);
 			translate.renew();
 			//Move to right location and "show" the box. Note: maxHeight still 0
-			box.style.setProperty("--length", $$("#iconlist").getAttribute("length"));
 			box.style.setProperty("--row", icon.getAttribute("row"));
 			icon.parentElement.appendChild(box);
 			box.style.display = "initial";
