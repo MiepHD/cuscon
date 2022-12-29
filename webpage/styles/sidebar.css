@@ -12,7 +12,7 @@
 	padding-right: calc(var(--normal-size) / 10);
 	padding-bottom: calc(var(--normal-size) / 10);
 	pointer-events: auto;
-	grid-template-rows: var(--normal-size) calc(var(--normal-size) / 4) repeat(5, var(--normal-size));
+	grid-template-rows: calc(var(--normal-size) * 0.7) calc(var(--normal-size) / 4) repeat(5, calc(var(--normal-size) * 0.7));
 	box-sizing: border-box;
 }
 #sidebar > img,

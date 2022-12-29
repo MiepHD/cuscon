@@ -8,9 +8,9 @@ const sidebar = new Sidebar();
 const tooltip = new Tooltip();
 const iconloader = new IconLoader();
 const search = new Search();
+const updater = new Updater();
 
 document.addEventListener('DOMContentLoaded', function() {
-  new Updater();
   iconloader.load();
   sidebar.load();
   cards.build();

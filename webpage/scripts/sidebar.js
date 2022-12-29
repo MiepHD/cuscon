@@ -23,11 +23,11 @@ class Sidebar {
 		const width = this.sidebar.offsetWidth;
 
 		//Move sidebar
-		const left = document.querySelector("body").offsetWidth - width;
+		const left = $$("body").offsetWidth - width;
 		this.sidebar.style.left = `${left}px`;
 
 		//Rotate Icon
-		document.getElementById("menu").style.transform = "rotate(90deg)";
+		$$("#menu").style.transform = "rotate(90deg)";
 
 		//Resize cards
 		if (!this.shown) {
@@ -36,11 +36,13 @@ class Sidebar {
 		this.shown = true;
 		if (this.sidebar.scrollHeight > this.sidebar.clientHeight) {
 			this.sidebar.style.setProperty("grid-template-rows", "16% 4% repeat(5, 16%)");
+		} else if ($$("#normal-size").offsetWidth * 6.4 < this.sidebar.clientHeight) {
+			this.sidebar.style.removeProperty("grid-template-rows");
 		}
 	}
 	hide() {
 		this.sidebar.style.left = "100%";
-		document.getElementById("menu").style.transform = "rotate(0deg)";
+		$$("#menu").style.transform = "rotate(0deg)";
 		if (this.shown) {
 			cards.setFullSize();
 		}
