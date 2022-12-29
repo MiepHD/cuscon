@@ -44,10 +44,8 @@ class Icons {
 
 	//Sets the width for all icons and the infobox
 	setIconWidths() {
-		if (document.querySelector(".tiles")==undefined) {
-			return;
-		}
-		const fullwidth = document.querySelector(".tiles").offsetWidth,
+		if (!($$(".tiles"))) return;
+		const fullwidth = document.querySelector(".tiles").offsetWidth, //Note: querySelector can't get replaced with $$ here
 			number = this.calcIconsPerLine(fullwidth),
 			width = fullwidth / number;
 		//Sets the length
@@ -55,7 +53,7 @@ class Icons {
 		$$("#iconlist").setAttribute("length", number + 1);
 		//Used to indicate which infobox is opened
 		let iconposition = 0;
-		for (const list of document.querySelectorAll(".tiles")) {
+		for (const list of document.querySelectorAll(".tiles")) { //Note: querySelectorAll can't get replaced with $$ here
 			const icons = list.children;
 			//Used to calc rows per list
 			let totaliconsperlist = 1;

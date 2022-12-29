@@ -1,11 +1,8 @@
 class Translator {
   constructor() {
-    const preflang = navigator.language.slice(0, -3)
-    if (preflang == "de") {
-      this.lang = "de";
-    } else {
-      this.lang = "en";
-    }
+    const preflang = navigator.language.slice(0, -3);
+    if (preflang == "de") { this.lang = "de" }
+    else { this.lang = "en" }
     this.datas = {};
     this.xhttp = new XMLHttpRequest();
     this.xhttp.onreadystatechange = function() {
@@ -14,50 +11,36 @@ class Translator {
            const data = JSON.parse(this.responseText);
            translate.fromData(data);
         }
-    };
-  }
-  get(id) {
-    try {
-      return this.datas[this.lang][id];
-    } catch {
-      return undefined;
-    }
-  }
-  //Needs a language code; currently "en" or "de"
-  to(lang) {
-    this.lang = lang;
-    if (this.datas[lang]) {
-      this.fromData(this.datas[lang]);
-    } else {
-      this.requestLanguageFile(lang);
-    }
-  }
-  toggle() {
-    const toggle = document.getElementById("language-toggle")
-    toggle.style.transform = "scale(0.9, 0.9)";
-    setTimeout(function () {toggle.style.transform = "scale(1, 1)";}, 200);
-    if (this.lang=="en") {
-      this.to("de");
-    } else {
-      this.to("en");
     }
   }
   fromData(data) {
     this.datas[this.lang] = data;
-    const texts = document.querySelectorAll("[data-translation-id]");
-    for (const text of texts) {
+    for (const text of $$("[data-translation-id]")) {
       const id = text.getAttribute("data-translation-id");
-      if (data[id]!=undefined) {
-        text.innerHTML = data[id];
-      }
+      if (data[id]) text.innerHTML = data[id];
     }
     tooltip.add();
-  }
-  renew() {
-    this.to(this.lang);
   }
   requestLanguageFile(lang) {
     this.xhttp.open("GET", `translations/${lang}.json`, true);
     this.xhttp.send();
+  }
+  get(id) {
+    try { return this.datas[this.lang][id] }
+    catch { return }
+  }
+  //Needs a language code; currently "en" or "de"
+  to(lang) {
+    this.lang = lang;
+    if (this.datas[lang]) { this.fromData(this.datas[lang]) }
+    else { this.requestLanguageFile(lang) }
+  }
+  renew() { this.to(this.lang) }
+  toggle() {
+    const toggle = $$("#language-toggle");
+    toggle.style.transform = "scale(0.9, 0.9)";
+    setTimeout(() => { toggle.style.transform = "scale(1, 1)" }, 200);
+    if (this.lang=="en") { this.to("de") }
+    else { this.to("en") }
   }
 }
