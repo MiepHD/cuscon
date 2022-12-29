@@ -3,18 +3,13 @@ allicons = [];
 class IconBuilder {
   constructor () {
     this.curreqcat = undefined; //CURrentlyREQuestedCATegory
-    this.xhttp = new XMLHttpRequest();
-    this.xhttp.onreadystatechange = function() {
-      if (this.xhttp.readyState == 4 && this.xhttp.status == 200) {
-        const data = JSON.parse(this.xhttp.responseText);
-        for (const icon of data) {
-          allicons.push(icon);
-        }
-        this.iconListFromData(data);
-      }
-    }.bind(this);
+    const xhttp = new XMLHttpRequest();
+    xhttp.onreadystatechange = () => { if (xhttp.readyState == 4 && xhttp.status == 200) allicons = JSON.parse(xhttp.responseText); };
+    xhttp.open("GET", `iconsdata/icons.json`, true);
+    xhttp.send();
   }
-  iconListFromData(data) {
+  iconList(category, data) {
+    if (!data) data = allicons.filter(icon => icon.category === category);
     data.push(
       {
         "title": "icons.add.title",
@@ -23,7 +18,7 @@ class IconBuilder {
         "src": "res/add.png"
       }
     );
-    let div = $(`[data-category-id=${this.curreqcat}]`);
+    let div = $(`[data-category-id=${category}]`);
     div.after("<div class='tiles' id='newtiles'></div>");
     div = $("#newtiles")[0];
     for (const icon of data) {
@@ -50,13 +45,5 @@ class IconBuilder {
     icons.addIntersectionObserver(div);
     icons.setIconWidths();
     return div;
-  }
-  iconList(category) {
-    this.requestIconList(category);
-  }
-  requestIconList(category) {
-    this.curreqcat = category;
-    this.xhttp.open("GET", `iconsdata/${category}.json`, true);
-    this.xhttp.send();
   }
 }

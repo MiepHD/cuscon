@@ -1,78 +1,78 @@
 [
   {
     "title": "category.other",
-    "filename": "other"
+    "id": "other"
   },
   {
     "title": "Stores",
-    "filename": "stores"
+    "id": "stores"
   },
   {
     "title": "Video Streaming",
-    "filename": "video-streaming"
+    "id": "video-streaming"
   },
   {
     "title": "category.music-streaming",
-    "filename": "music-streaming"
+    "id": "music-streaming"
   },
   {
     "title": "category.games",
-    "filename": "games"
+    "id": "games"
   },
   {
     "title": "category.communication",
-    "filename": "communication"
+    "id": "communication"
   },
   {
     "title": "Browser",
-    "filename": "browser"
+    "id": "browser"
   },
   {
     "title": "Tools",
-    "filename": "tools"
+    "id": "tools"
   },
   {
     "title": "category.documents",
-    "filename": "documents"
+    "id": "documents"
   },
   {
     "title": "VPN",
-    "filename": "vpn"
+    "id": "vpn"
   },
   {
     "title": "category.camera",
-    "filename": "camera"
+    "id": "camera"
   },
   {
     "title": "category.maps",
-    "filename": "maps"
+    "id": "maps"
   },
   {
     "title": "category.files",
-    "filename": "files"
+    "id": "files"
   },
   {
     "title": "category.gallery",
-    "filename": "gallery"
+    "id": "gallery"
   },
   {
     "title": "category.security",
-    "filename": "security"
+    "id": "security"
   },
   {
     "title": "category.learning",
-    "filename": "learning"
+    "id": "learning"
   },
   {
     "title": "News",
-    "filename": "news"
+    "id": "news"
   },
   {
     "title": "Design",
-    "filename": "design"
+    "id": "design"
   },
   {
     "title": "Information",
-    "filename": "information"
+    "id": "information"
   }
 ]

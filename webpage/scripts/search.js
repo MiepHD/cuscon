@@ -19,12 +19,11 @@ class Search {
             $(".top").css("display", "none");
             $("[data-category-id=search]").css("display", "block");
             const icons = search.search(this.value);
-            const build = new IconBuilder();
-            build.curreqcat = "search";
             if (this.oldSearch) {
                 this.oldSearch.remove();
             }
-            this.oldSearch = build.iconListFromData(icons);
+            const build = new IconBuilder();
+            this.oldSearch = build.iconList("search", icons);
           });
     }
     search(query) {

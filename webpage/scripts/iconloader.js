@@ -1,5 +1,6 @@
 class IconLoader {
   constructor() {
+    this.build = new IconBuilder();
     this.xhttp = new XMLHttpRequest();
     this.xhttp.onreadystatechange = function() {
         if (this.xhttp.readyState == 4 && this.xhttp.status == 200) {
@@ -11,13 +12,13 @@ class IconLoader {
   constructFromData(data) {
     const iconlist = $("#iconlist");
     for (const category of data) {
+      const id = category.id;
       let div = document.createElement("h3");
-      div.setAttribute("data-translation-id", `category.${category.filename}`);
-      div.setAttribute("data-category-id", category.filename);
+      div.setAttribute("data-translation-id", `category.${id}`);
+      div.setAttribute("data-category-id", id);
       div.innerHTML = category.title;
       iconlist.append(div);
-      const build = new IconBuilder();
-      build.iconList(category.filename);
+      this.build.iconList(id);
     }
     translate.renew();
   }
@@ -25,7 +26,7 @@ class IconLoader {
     this.requestCategories();
   }
   requestCategories() {
-    this.xhttp.open("GET", `iconsdata/index.json`, true);
+    this.xhttp.open("GET", `iconsdata/categories.json`, true);
     this.xhttp.send();
   }
 }
