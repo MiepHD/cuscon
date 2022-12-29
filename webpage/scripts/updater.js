@@ -7,6 +7,7 @@ class Updater {
         $("#menu").width($("#placeholderformenu").height());
         $("#menu").height($("#placeholderformenu").height());
         $("#sidebar").width($("#placeholderformenu").height());
+        cards.reset();
         sidebar.reset();
     }
 }

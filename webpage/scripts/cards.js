@@ -1,4 +1,7 @@
 class Cards {
+  constructor() {
+    this.fullsize = false;
+  }
   build() {
     for (const card of document.querySelectorAll(".card") ) {
       const content = card.innerHTML, //saves the content temporarly
@@ -11,5 +14,24 @@ class Cards {
       div.setAttribute("data-translation-id", translationid);
       card.appendChild(div);
     };
+  }
+  setSmallSize() {
+    this.fullsize = false;
+    for (const card of $$(".card")) {
+      card.style.maxWidth = `${$("main").width() - $$("#sidebar").offsetWidth}px`;
+    }
+  }
+  setFullSize() {
+    this.fullsize = true;
+    for (const card of $$(".card")) {
+      card.style.maxWidth = `${$("main").width() + $$("#sidebar").offsetWidth}px`;
+    }
+  }
+  reset() {
+    if (this.fullsize) {
+      this.setFullSize();
+    } else {
+      this.setSmallSize();
+    }
   }
 }

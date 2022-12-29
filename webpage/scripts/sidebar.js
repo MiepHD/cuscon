@@ -21,13 +21,17 @@ class Sidebar {
 	}
 	show() {
 		const width = this.sidebar.offsetWidth;
+
+		//Move sidebar
 		const left = document.querySelector("body").offsetWidth - width;
 		this.sidebar.style.left = `${left}px`;
+
+		//Rotate Icon
 		document.getElementById("menu").style.transform = "rotate(90deg)";
+
+		//Resize cards
 		if (!this.shown) {
-			for (const card of document.querySelectorAll(".card")) {
-				card.style.maxWidth = `${card.offsetWidth - width}px`;
-			}
+			cards.setSmallSize();
 		}
 		this.shown = true;
 		if (this.sidebar.scrollHeight > this.sidebar.clientHeight) {
@@ -38,9 +42,7 @@ class Sidebar {
 		this.sidebar.style.left = "100%";
 		document.getElementById("menu").style.transform = "rotate(0deg)";
 		if (this.shown) {
-			for (const card of document.querySelectorAll(".card")) {
-				card.style.maxWidth = `${card.offsetWidth + this.sidebar.offsetWidth}px`;
-			}
+			cards.setFullSize();
 		}
 		this.shown = false;
 	}
