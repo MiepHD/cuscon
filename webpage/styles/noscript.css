@@ -1,12 +1,3 @@
-/*Set for every table*/
-.tiles {
-	display: flex;
-	flex-direction:row;
-	flex-wrap: wrap;
-}
-#iconlist img {
-	top: 0px;
-}
 #noscript-message {
 	position: absolute;
 	top: 0px;
@@ -17,4 +8,11 @@
 	width: 100%;
 	height: auto;
 	z-index: 2;
+}
+#sidebar {
+	left: calc(100% - (var(--normal-size) * 1.2));
+}
+/*Navigation Bar*/
+#iconwithname{
+	top: 0px;
 }
