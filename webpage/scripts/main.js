@@ -10,16 +10,16 @@ const iconloader = new IconLoader();
 const search = new Search();
 const updater = new Updater();
 
-document.addEventListener('DOMContentLoaded', function() {
+document.addEventListener('DOMContentLoaded', () => {
   iconloader.load();
   sidebar.load();
   cards.build();
-  document.getElementById("language-toggle").addEventListener("click", translate.toggle.bind(translate));
+  $$("#language-toggle").addEventListener("click", translate.toggle.bind(translate));
   glow.addMouseMoveListener();
   navbar.addIntersectionObserver();
   $("#menu").width($("#placeholderformenu").height());
   $("#menu").height($("#placeholderformenu").height());
-  document.getElementById("menu").addEventListener("click", sidebar.toggle.bind(sidebar));
+  $$("#menu").addEventListener("click", sidebar.toggle.bind(sidebar));
   tooltip.add();
   translate.renew();
   
@@ -28,14 +28,8 @@ document.addEventListener('DOMContentLoaded', function() {
 function $$(query) {
   const result = document.querySelectorAll(query);
   switch (result.length) {
-    case 0: {
-      return undefined;
-    }
-    case 1: {
-      return result[0];
-    }
-    default: {
-      return result;
-    }
+    case 0: return undefined;
+    case 1: return result[0];
+    default: return result;
   }
 }

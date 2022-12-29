@@ -3,7 +3,7 @@ class Cards {
     this.fullsize = false;
   }
   build() {
-    for (const card of document.querySelectorAll(".card") ) {
+    for (const card of $$(".card") ) {
       const content = card.innerHTML, //saves the content temporarly
         div = document.createElement("div"),
         translationid = card.getAttribute("data-translation-id");

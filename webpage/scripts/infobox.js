@@ -5,16 +5,16 @@ class Infobox {
 	}
 	setContent(icon) {
 		//Variables for info
-		const infoelement = document.getElementById("infobox-info"),
+		const infoelement = $$("#infobox-info"),
 			info = icon.getAttribute("data-info"),
 
 		//Variables for author
-			authorelement = document.getElementById("infobox-author"),
+			authorelement = $$("#infobox-author"),
 			author = icon.getAttribute("data-author"),
 
 		//Variables for title
 		//Title should be filled but don't has to be
-			titleelement = document.getElementById("infobox-title"),
+			titleelement = $$("#infobox-title"),
 			title = icon.getAttribute("data-title");
 
 		//Sets title
@@ -45,15 +45,15 @@ class Infobox {
 	show() {
 		const icon = this;
 		let box;
-		if (document.getElementById("infobox")) {
-			box = document.getElementById("infobox");
+		if ($$("#infobox")) {
+			box = $$("#infobox");
 		} else {
 			//const box = $("<div data-no-resize=true id='infobox'><div class='card'><h4 id='infobox-title'></h4><p id='infobox-info'></p><a id='infobox-author'></a></div></div>");
 			box = document.createElement("div");
 			box.setAttribute("data-no-resize", "true");
 			box.setAttribute("id", "infobox");
 			box.innerHTML = "<div class='card'><div class='card-content' data-translation-id='null'><h4 id='infobox-title'></h4><p id='infobox-info'></p><a id='infobox-author'></a></div></div>";
-			document.getElementById("iconlist").appendChild(box);
+			$$("#iconlist").appendChild(box);
 		}
 		//Hide box on old place
 		box.style.maxHeight = "0px";
@@ -69,7 +69,7 @@ class Infobox {
 			infobox.setContent(icon);
 			translate.renew();
 			//Move to right location and "show" the box. Note: maxHeight still 0
-			box.style.setProperty("--length", document.getElementById("iconlist").getAttribute("length"));
+			box.style.setProperty("--length", $$("#iconlist").getAttribute("length"));
 			box.style.setProperty("--row", icon.getAttribute("row"));
 			icon.parentElement.appendChild(box);
 			box.style.display = "initial";

@@ -6,10 +6,10 @@ class Search {
         div.setAttribute("data-category-id", "search");
         div.innerHTML = "Search";
         iconlist.append(div);
-        document.getElementById("searchbox").addEventListener("input", function() {
+        $$("#searchbox").addEventListener("input", function() {
             if (this.value=="") {
                 this.oldSearch.remove();
-                for (const card of document.querySelectorAll(".card")) {
+                for (const card of $$(".card")) {
                     card.style.removeProperty("max-width");
                 }
                 $(".top").css("display", "block");

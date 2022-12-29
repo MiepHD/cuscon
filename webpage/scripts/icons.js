@@ -25,7 +25,7 @@ class Icons {
 	//Calculates from min- and fullwidth how many icons can fit in a row
 	//Returns number of icons that fit in a row
 	calcIconsPerLine(fullwidth) {
-		const minwidth = document.getElementById("menu").offsetWidth;
+		const minwidth = $$("#menu").offsetWidth;
 		return Math.floor(fullwidth / minwidth);
 	}
 
@@ -52,7 +52,7 @@ class Icons {
 			width = fullwidth / number;
 		//Sets the length
 		//Note: length is 1 longer than actual length
-		document.getElementById("iconlist").setAttribute("length", number + 1);
+		$$("#iconlist").setAttribute("length", number + 1);
 		//Used to indicate which infobox is opened
 		let iconposition = 0;
 		for (const list of document.querySelectorAll(".tiles")) {
@@ -67,7 +67,7 @@ class Icons {
 				} else {
 					//This "icon" is the infobox
 					//Applies if infobox is shown while resizing
-					icon.style.setProperty("--length", document.getElementById("iconlist").getAttribute("length"));
+					icon.style.setProperty("--length", $$("#iconlist").getAttribute("length"));
 				}
 			}
 			//Declares columns for grid

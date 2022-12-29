@@ -1,8 +1,7 @@
 class Tooltip {
   add() {
-    const links = document.querySelectorAll("a.unavailable");
-    for (const link of links) {
-      if (link.closest("span")==undefined) { //if it has no span in it
+    for (const link of document.querySelectorAll("a.unavailable")) {
+      if (!(link.closest("span"))) { //if it has no span in it
   			const span = document.createElement("span");
         span.classList.add("unavailable-tooltip");
   			link.appendChild(span);

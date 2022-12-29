@@ -9,7 +9,7 @@ class Glow{
     target.style.setProperty("--mouse-y", `${y}px`);
   }
   addMouseMoveListener() {
-    for (const card of document.querySelectorAll(".card")) {
+    for (const card of $$(".card")) {
   		card.onmousemove = e => glow.updatePosition(e);
   	}
   }

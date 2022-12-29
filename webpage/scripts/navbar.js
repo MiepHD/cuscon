@@ -3,7 +3,7 @@ class Navbar {
 		const observer = new IntersectionObserver((entries) => {
 			entries.forEach((entry) => {
 				//Icon at the top left
-				const movingImage = document.querySelector("#iconwithname");
+				const movingImage = $$("#iconwithname");
 				if (entry.isIntersecting) {
 					//Moves two times up
 					const height = Math.ceil(movingImage.offsetHeight * -2);
@@ -16,6 +16,6 @@ class Navbar {
 			});
 		});
 		// Create the intersection observer
-		observer.observe(document.querySelector("#main-image"));
+		observer.observe($$("#main-image"));
 	}
 }
