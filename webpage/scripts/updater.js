@@ -8,6 +8,6 @@ class Updater {
         sidebar.reset();
         $("#menu").width($("#placeholderformenu").height());
         $("#menu").height($("#placeholderformenu").height());
-        $("#sidebar").width($("#placeholderformenu").height());
+        $("nav").width($("#placeholderformenu").height());
     }
 }

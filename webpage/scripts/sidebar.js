@@ -3,7 +3,7 @@ class Sidebar {
 		this.shown = false;
 	}
 	load() {
-		this.sidebar = $$("#sidebar");
+		this.sidebar = $$("nav");
 	}
 	toggle() {
 		if (this.shown) {
@@ -20,14 +20,8 @@ class Sidebar {
 		}
 	}
 	show() {
-		const width = this.sidebar.offsetWidth;
-
-		//Move sidebar
-		const left = $$("body").offsetWidth - width;
-		this.sidebar.style.left = `${left}px`;
-
-		//Rotate Icon
-		$$("#menu").style.transform = "rotate(90deg)";
+		this.sidebar.setAttribute("state", "shown");
+		$$("#menu").setAttribute("aria-expanded", "true");
 
 		//Resize cards
 		if (!this.shown) {
@@ -35,14 +29,19 @@ class Sidebar {
 		}
 		this.shown = true;
 		if (this.sidebar.scrollHeight > this.sidebar.clientHeight) {
-			this.sidebar.style.setProperty("grid-template-rows", "16% 4% repeat(5, 16%)");
+			this.sidebar.style.setProperty("grid-template-rows", "16% 84%");
+			$$("#primary-navigation").style.setProperty("grid-template-rows", "6.66% repeat(5, 18.66%)");
 		} else if ($$("#normal-size").offsetWidth * 6.4 < this.sidebar.clientHeight) {
 			this.sidebar.style.removeProperty("grid-template-rows");
+			$$("#primary-navigation").style.removeProperty("grid-template-rows");
 		}
 	}
 	hide() {
-		this.sidebar.style.left = "100%";
-		$$("#menu").style.transform = "rotate(0deg)";
+		this.sidebar.setAttribute("state", "hiding");
+		this.sidebar.addEventListener("animationend", () => {
+			this.sidebar.setAttribute("state", "hidden");
+		}, {once: true});
+		$$("#menu").setAttribute("aria-expanded", "false");
 		if (this.shown) {
 			cards.setFullSize();
 		}

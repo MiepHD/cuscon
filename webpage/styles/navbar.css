@@ -1,5 +1,5 @@
 /*Navigation Bar*/
-nav {
+#navbar {
 	top: 0px;
 	position: fixed;
 	width: 100%;
@@ -8,18 +8,7 @@ nav {
 	z-index: 1;
 	pointer-events: none;
 }
-nav > #menu {
-	height: var(--normal-size);
-	width: var(--normal-size);
-	float: right;
-	margin-right: calc(var(--normal-size) / 10);
-	margin-top: calc(var(--normal-size) / 10);
-	z-index: 2;
-	cursor: pointer;
-	transition: transform .5s;
-	pointer-events: auto;
-}
-#iconwithname{
+#iconwithname {
 	height: auto;
 	width: calc(var(--normal-size) * 2);
 	float: left;

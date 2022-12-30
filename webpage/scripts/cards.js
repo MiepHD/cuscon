@@ -18,13 +18,13 @@ class Cards {
   setSmallSize() {
     this.fullsize = false;
     for (const card of $$(".card")) {
-      card.style.maxWidth = `${$("main").width() - $$("#sidebar").offsetWidth}px`;
+      card.style.maxWidth = `${$("main").width() - $$("nav").offsetWidth}px`;
     }
   }
   setFullSize() {
     this.fullsize = true;
     for (const card of $$(".card")) {
-      card.style.maxWidth = `${$("main").width() + $$("#sidebar").offsetWidth}px`;
+      card.style.maxWidth = `${$("main").width() + $$("nav").offsetWidth}px`;
     }
   }
   reset() {

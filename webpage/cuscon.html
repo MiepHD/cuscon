@@ -34,24 +34,25 @@
 <body>
 	<div id="normal-size"></div>
 	<header>
-		<nav>
+		<div id="navbar">
 			<noscript id="noscript-message">This page needs javascript!</noscript>
 			<img id="iconwithname" src="res/icon_with_name.png">
-			<img id="menu" src="res/menu.png">
-			<div id="sidebar">
-				<div id="placeholderformenu"></div>
-				<div id="search-area">
-					<img id="search-icon" src="res/search.png">
-					<input type="text" id="searchbox"/>
+			<nav>
+				<button id="menu" aria-controls="primary-navigation" aria-label="Menu" aria-expanded="false"><img class="sidebar-image" src="res/menu.png" class="sidebar-image"></button>
+				<div id="primary-navigation">
+					<div id="search-area">
+						<img id="search-icon" src="res/search.png" alt="Search-Icon">
+						<input type="text" id="searchbox" aria-label="Searchbar"/>
+					</div>
+					<a href="https://github.com/MiepHD/cuscon" target="_blank"><button class="sidebar-image" aria-label="Github"><img class="sidebar-image" src="icons/github.png" alt="Github-Icon"></button></a>
+					<a href="https://play.google.com/store/apps/details?id=com.froxot.cuscon" target="_blank"><button class="sidebar-image" aria-label="Google Play Store"><img class="sidebar-image" src="icons/google_play_store.png" alt="Google Play Store-Icon"></button></a>
+					<a href="https://froxot.com/icon-pack-anwendung-erstellen/" target="_blank"><button class="sidebar-image" aria-label="Antworten-Webpage"><img class="sidebar-image" src="res/antworten.png" alt="A-Icon"></button></a>
+					<a href="releases/cuscon-latest.apk" target="_blank"><button class="sidebar-image" aira-label="Direct Download"><img class="sidebar-image" src="res/download.png" alt="Download-Icon"></button></a>
+					<button class="sidebar-image" id="language-toggle" aria-label="Language Toggle"><img class="sidebar-image" src="icons/google_translate.png" alt="Translate-Icon"></button>
 				</div>
-				<a href="https://github.com/MiepHD/cuscon" target="_blank"><img src="icons/github.png"></a>
-				<a href="https://play.google.com/store/apps/details?id=com.froxot.cuscon" target="_blank"><img src="icons/google_play_store.png"></a>
-				<a href="https://froxot.com/icon-pack-anwendung-erstellen/" target="_blank"><img src="res/antworten.png"></a>
-				<a href="releases/cuscon-latest.apk" target="_blank"><img src="res/download.png"></a>
-				<img id="language-toggle" src="icons/google_translate.png">
 				<div id="fillend"></div>
-			</div>
-		</nav>
+			</nav>
+		</div>
 		<img id="main-image" src="res/icon_with_name.png">
 	</header>
 	<main>

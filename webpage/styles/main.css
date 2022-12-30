@@ -74,3 +74,8 @@ main {
 	left: calc(var(--normal-size) * -1);
 	top: calc(var(--normal-size) * -1);
 }
+button {
+	background: transparent;
+	border: 0;
+	padding: 0px 0px;
+}

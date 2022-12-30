@@ -9,7 +9,7 @@
 	height: auto;
 	z-index: 2;
 }
-#sidebar {
+nav {
 	left: calc(100% - (var(--normal-size) * 1.2));
 }
 /*Navigation Bar*/
