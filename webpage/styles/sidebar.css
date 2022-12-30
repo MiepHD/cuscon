@@ -35,9 +35,7 @@ nav[state="hidden"] > #primary-navigation {
 #menu {
 	float: right;
 	z-index: 2;
-	cursor: pointer;
 	transition: transform .5s, translate .5s;
-	pointer-events: auto;
 }
 #menu[aria-expanded="true"] {
 	transform: rotate(90deg);
@@ -48,6 +46,7 @@ nav[state="hidden"] > #primary-navigation {
 	translate: -100%;
 }
 .sidebar-image {
+	cursor: pointer;
 	height: 100%;
 	width: auto;
 }

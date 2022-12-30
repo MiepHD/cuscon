@@ -19,7 +19,6 @@ a {
 	-webkit-background-clip: text;
 	-webkit-text-fill-color: transparent;
 	white-space: nowrap;
-	cursor: pointer;
 }
 a.unavailable {
 	position: relative;
