@@ -15,11 +15,11 @@
     <item drawable="munzee" />
     <item drawable="imaging_edge_mobile" />
     <item drawable="galaxy_wearable" />
-    <item drawable="alexa" />
-    <item drawable="dji_fly" />
-    <item drawable="aldi_talk" />
-    <item drawable="kilterboard" />
-    <item drawable="cuscon" />
+    <!-- Alexa --><item drawable="alexa" />
+    <!-- DJI Fly --><item drawable="dji_fly" />
+    <!-- Aldi Talk --><item drawable="aldi_talk" />
+    <!-- Kilterboard --><item drawable="kilterboard" />
+    <!-- Cuscon --><item drawable="cuscon" />
     <!-- Bahnhofsfotos --><item drawable="bahnhofsfotos" />
     <!-- BetterCounter --><item drawable="bettercounter" />
     <!-- c:geo --><item drawable="c_geo" />
@@ -50,6 +50,10 @@
 	<!-- Microsoft To Do --><item drawable="microsoft_to_do" />
 	<!-- WeeNet --><item drawable="weenet" />
     <!-- Settings --><item drawable="settings" />
+    <!-- Motorola Device Help --><item drawable="motorola_device_help"/>
+    <!-- Barclays --><item drawable="barclays"/>
+    <!-- Moto--><item drawable="moto"/>
+    <!-- PayPal --><item drawable="paypal"/>
 
     <category title="Stores" />
     <item drawable="apkpure" />
@@ -64,6 +68,7 @@
     <!-- Happymod --><item drawable="happymod"/>
     <!-- Aliucord Installer --><item drawable="aliucord_installer" />
     <!-- Apkmody --><item drawable="apkmody" />
+    <!-- Zalando --><item drawable="zalando"/>
 
     <category title="Video Streaming" />
     <item drawable="netflix" />
@@ -76,6 +81,7 @@
     <!-- NewPipe --><item drawable="newpipe" />
     <!-- VLC --><item drawable="vlc" />
     <!-- VR Media Player --><item drawable="vr_media_player" />
+    <!-- TikTok --><item drawable="tiktok"/>
 
     <category title="Music Streaming" />
     <item drawable="amazon_music" />
@@ -159,6 +165,7 @@
 	<!-- Mi WiFi--><item drawable="mi_wifi" />
 	<!-- WiFiAnalyzer--><item drawable="wifianalyzer" />
 	<!-- WLANScanner--><item drawable="wlanscanner" />
+    <!-- Good Guardians --><item drawable="good_guardians"/>
 
     <category title="Documents" />
     <item drawable="adobe_acrobat_reader" />
@@ -174,6 +181,7 @@
     <!-- Microsoft Office --><item drawable="microsoft_office"/>
     <!-- Documents--><item drawable="documents" />
     <!-- Adobe Scan --><item drawable="adobe_scan" />
+    <!-- OneNote --><item drawable="onenote"/>
 
     <category title="VPN" />
     <!-- Adguard --><item drawable="adguard" />
@@ -188,6 +196,8 @@
     <!-- Retroboy --><item drawable="retroboy" />
     <!-- Flora Incognita --><item drawable="flora_incognita" />
     <!-- Mosaic --><item drawable="mosaic"/>
+    <!-- Camera Assistant --><item drawable="camera_assistant"/>
+    <!-- TeaCapps QR & Barcode Reader --><item drawable="teacapps_qr__barcode_reader"/>
 
     <category title="Maps" />
     <!-- Google Maps --><item drawable="google_maps" />
@@ -225,6 +235,7 @@
     <!-- Bitwarden --><item drawable="bitwarden" />
     <!-- Shelter --><item drawable="shelter" />
     <!-- Warden --><item drawable="warden" />
+    <!-- Microsoft Authenticator --><item drawable="microsoft_authenticator"/>
 
     <category title="Learning" />
     <!-- Quizlet --><item drawable="quizlet" />
@@ -249,6 +260,7 @@
     <!-- Pinterest --><item drawable="pinterest" />
     <!-- ibisPaint X --><item drawable="ibispaint_x" />
     <!-- Autodesk Sketchbook --><item drawable="autodesk_sketchbook" />
+    <!-- Good Lock --><item drawable="good_lock"/>
 
     <category title="Information" />
     <!-- Öffi Verbindungen --><item drawable="offi_verbindungen" />

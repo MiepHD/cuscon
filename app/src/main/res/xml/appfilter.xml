@@ -269,5 +269,17 @@
 	<!-- ibisPaint X --><item component="ComponentInfo{jp.ne.ibis.ibispaintx.app/jp.ne.ibis.ibispaintx.app.market.MarketAuthenticationActivity}" drawable="ibispaint_x" />
 	<!-- Microsoft To Do --><item component="ComponentInfo{com.microsoft.todos/com.microsoft.todos.ui.LaunchActivity}" drawable="microsoft_to_do" />
 	<!-- WeeNet --><item component="ComponentInfo{com.sangiorgisrl.wifimanagertool/com.sangiorgisrl.wifimanagertool.ui.intro.LaunchActivity}" drawable="weenet" />
+    <!-- Microsoft Authenticator --><item component="ComponentInfo{com.azure.authenticator/com.azure.authenticator.ui.LaunchActivity}" drawable="microsoft_authenticator" />
+	<!-- Motorola Device Help --><item component="ComponentInfo{com.motorola.genie/com.motorola.genie.main.start.LaunchActivity}" drawable="motorola_device_help" />
+	<!-- Barclays --><item component="ComponentInfo{com.barclaycard.germany/com.veripark.barclaycard.screen.main.activities.MainActivity}" drawable="barclays" />
+	<!-- Camera Assistant --><item component="ComponentInfo{com.samsung.android.app.cameraassistant/com.samsung.android.app.cameraassistant.MainActivity}" drawable="camera_assistant" />
+	<!-- Good Guardians --><item component="ComponentInfo{com.android.samsung.utilityapp/com.android.samsung.utilityapp.app.presentation.welcomepage.WelcomeActivity}" drawable="good_guardians" />
+	<!-- Good Lock --><item component="ComponentInfo{com.samsung.android.goodlock/com.samsung.android.goodlock.presentation.view.LaunchActivity}" drawable="good_lock" />
+	<!-- Moto --><item component="ComponentInfo{com.motorola.moto/com.motorola.assist.ui.screens.MainActivity}" drawable="moto" />
+	<!-- PayPal --><item component="ComponentInfo{com.paypal.android.p2pmobile/com.paypal.android.p2pmobile.startup.activities.StartupActivity}" drawable="paypal" />
+	<!-- OneNote --><item component="ComponentInfo{com.microsoft.office.onenote/com.microsoft.office.onenote.ui.ONMSplashActivity}" drawable="onenote" />
+	<!-- TeaCapps QR & Barcode Reader --><item component="ComponentInfo{com.teacapps.barcodescanner/net.qrbot.ui.main.MainActivity}" drawable="teacapps_qr__barcode_reader" />
+	<!-- Zalando --><item component="ComponentInfo{de.zalando.mobile/de.zalando.mobile.ui.start.SplashActivity}" drawable="zalando" />
+	<!-- TikTok --><item component="ComponentInfo{com.zhiliaoapp.musically/com.ss.android.ugc.aweme.splash.SplashActivity}" drawable="tiktok" />
 
 </resources>

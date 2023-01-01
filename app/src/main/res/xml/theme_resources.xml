@@ -254,5 +254,17 @@
 	<!-- Moto Interactive Wallpaper--><AppIcon name="com.motorola.livewallpaper3/com.motorola.livewallpaper3.ui.menu.WallpaperMenuTrampolineActivity" image="moto_interactive_wallpaper"/>
 	<!-- Microsoft To Do --><AppIcon name="com.microsoft.todos/com.microsoft.todos.ui.LaunchActivity" image="microsoft_to_do"/>
 	<!-- Adobe Scan --><AppIcon name="com.adobe.scan.android/com.adobe.scan.android.SplashActivity" image="adobe_scan"/>
+    <!-- Microsoft Authenticator --><AppIcon name="com.azure.authenticator/com.azure.authenticator.ui.LaunchActivity" image="microsoft_authenticator"/>
+	<!-- Motorola Device Help --><AppIcon name="com.motorola.genie/com.motorola.genie.main.start.LaunchActivity" image="motorola_device_help"/>
+	<!-- Barclays --><AppIcon name="com.barclaycard.germany/com.veripark.barclaycard.screen.main.activities.MainActivity" image="barclays"/>
+	<!-- Camera Assistant --><AppIcon name="com.samsung.android.app.cameraassistant/com.samsung.android.app.cameraassistant.MainActivity" image="camera_assistant"/>
+	<!-- Good Guardians --><AppIcon name="com.android.samsung.utilityapp/com.android.samsung.utilityapp.app.presentation.welcomepage.WelcomeActivity" image="good_guardians"/>
+	<!-- Good Lock --><AppIcon name="com.samsung.android.goodlock/com.samsung.android.goodlock.presentation.view.LaunchActivity" image="good_lock"/>
+	<!-- Moto--><AppIcon name="com.motorola.moto/com.motorola.assist.ui.screens.MainActivity" image="moto"/>
+	<!-- PayPal --><AppIcon name="com.paypal.android.p2pmobile/com.paypal.android.p2pmobile.startup.activities.StartupActivity" image="paypal"/>
+	<!-- OneNote --><AppIcon name="com.microsoft.office.onenote/com.microsoft.office.onenote.ui.ONMSplashActivity" image="onenote"/>
+	<!-- TeaCapps QR & Barcode Reader --><AppIcon name="com.teacapps.barcodescanner/net.qrbot.ui.main.MainActivity" image="teacapps_qr__barcode_reader"/>
+	<!-- Zalando --><AppIcon name="de.zalando.mobile/de.zalando.mobile.ui.start.SplashActivity" image="zalando"/>
+	<!-- TikTok --><AppIcon name="com.zhiliaoapp.musically/com.ss.android.ugc.aweme.splash.SplashActivity" image="tiktok"/>
 
 </Theme>

@@ -1328,5 +1328,77 @@
 		"author":"sourcrowd450",
 		"src":"wireguard",
 		"category": "vpn"
+	},
+	{
+		"title": "Microsoft Authenticator",
+		"author": "MiepHD",
+		"src": "microsoft_authenticator",
+		"category": "security"
+	},
+	{
+		"title": "Motorola Device Help",
+		"author": "MiepHD",
+		"src": "motorola_device_help",
+		"category": "other"
+	},
+	{
+		"title": "Barclays",
+		"author": "MiepHD",
+		"src": "barclays",
+		"category": "other"
+	},
+	{
+		"title": "Camera Assistant",
+		"author": "MiepHD",
+		"src": "camera_assistant",
+		"category": "camera"
+	},
+	{
+		"title": "Good Guardians",
+		"author": "MiepHD",
+		"src": "good_guardians",
+		"category": "tools"
+	},
+	{
+		"title": "Good Lock",
+		"author": "MiepHD",
+		"src": "good_lock",
+		"category": "design"
+	},
+	{
+		"title": "Moto",
+		"author": "MiepHD",
+		"src": "moto",
+		"category": "other"
+	},
+	{
+		"title": "PayPal",
+		"author": "MiepHD",
+		"src": "paypal",
+		"category": "other"
+	},
+	{
+		"title": "OneNote",
+		"author": "MiepHD",
+		"src": "onenote",
+		"category": "documents"
+	},
+	{
+		"title": "TeaCapps QR & Barcode Reader",
+		"author": "MiepHD",
+		"src": "teacapps_qr__barcode_reader",
+		"category": "camera"
+	},
+	{
+		"title": "Zalando",
+		"author": "MiepHD",
+		"src": "zalando",
+		"category": "stores"
+	},
+	{
+		"title": "TikTok",
+		"author": "MiepHD",
+		"src": "tiktok",
+		"category": "video-streaming"
 	}
 ]

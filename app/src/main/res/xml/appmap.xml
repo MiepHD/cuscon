@@ -247,5 +247,17 @@
 	<!-- WeeNet--><item class="com.sangiorgisrl.wifimanagertool.ui.intro.LaunchActivity" name="weenet"/>
 	<!-- Adobe Scan --><item class="com.adobe.scan.android.SplashActivity" name="adobe_scan"/>
 	<!-- Microsoft To Do --><item class="com.microsoft.todos.ui.LaunchActivity" name="microsoft_to_do"/>
+    <!-- Microsoft Authenticator --><item class="com.azure.authenticator.ui.LaunchActivity" name="microsoft_authenticator"/>
+	<!-- Motorola Device Help--><item class="com.motorola.genie.main.start.LaunchActivity" name="motorola_device_help"/>
+	<!-- Barclays --><item class="com.veripark.barclaycard.screen.main.activities.MainActivity" name="barclays"/>
+	<!-- Camera Assistant --><item class="com.samsung.android.app.cameraassistant.MainActivity" name="camera_assistant"/>
+	<!-- Good Guardians --><item class="com.android.samsung.utilityapp.app.presentation.welcomepage.WelcomeActivity" name="good_guardians"/>
+	<!-- Good Lock --><item class="com.samsung.android.goodlock.presentation.view.LaunchActivity" name="good_lock"/>
+	<!-- Moto--><item class="com.motorola.assist.ui.screens.MainActivity" name="moto"/>
+	<!-- PayPal --><item class="com.paypal.android.p2pmobile.startup.activities.StartupActivity" name="paypal"/>
+	<!-- OneNote --><item class="com.microsoft.office.onenote.ui.ONMSplashActivity" name="onenote"/>
+	<!-- TeaCapps QR & Barcode Reader --><item class="net.qrbot.ui.main.MainActivity" name="teacapps_qr__barcode_reader"/>
+	<!-- Zalando --><item class="de.zalando.mobile.ui.start.SplashActivity" name="zalando"/>
+	<!-- TikTok --><item class="com.ss.android.ugc.aweme.splash.SplashActivity" name="tiktok"/>
 
 </appmap>

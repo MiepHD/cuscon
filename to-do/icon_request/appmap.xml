@@ -7,14 +7,11 @@
 	<!-- Microsoft SwiftKey-Tastatur --><item class="com.touchtype.LauncherActivityIcon" name="microsoft_swiftkey_tastatur"/>´
 	<!-- Onleihe --><item class="de.etecture.ekz.onleihe.activity.SplashScreenActivity" name="onleihe"/>
 	<!-- Pixel Wheels --><item class="com.agateau.pixelwheels.android.AndroidLauncher" name="pixel_wheels"/>
-	<!-- QR-Scanner --><item class="net.qrbot.ui.main.MainActivity" name="qr_scanner"/>
 	<!-- UUID 0xFD6F Scanner --><item class="com.emacberry.uuid0xfd6fscan.ScannerActivity" name="uuid_0xfd6f_scanner"/>
 	<!-- Watten --><item class="stefanlukasv.googlemail.com.watten.SplashActivity" name="watten"/>
-	<!-- Barclays --><item class="com.veripark.barclaycard.screen.main.activities.MainActivity" name="barclays"/>
 	<!-- Duolingo --><item class="com.duolingo.app.LoginActivity" name="duolingo"/>
 	<!-- ING Banking --><item class="com.ing.mobile.diba.startup.SplashActivity" name="ing_banking"/>
 	<!-- S-pushTAN --><item class="com.starfinanz.mobile.android.spushtan.SPushTan" name="s_pushtan"/>
-	<!-- Ayuda del dispositivo--><item class="com.motorola.genie.main.start.LaunchActivity" name="ayuda_del_dispositivo"/>
 	<!-- Cámara--><item class="com.motorola.camera.Camera" name="camara"/>
 	<!-- D-Link Wi-Fi--><item class="com.mydlink.unify.activity.Launch2Activity" name="d_link_wi_fi"/>
 	<!-- FAST--><item class="com.netflix.Speedtest.MainActivity" name="fast"/>´
@@ -22,7 +19,6 @@
 	<!-- iwscan--><item class="com.evbadroid.iwscan.ScanActivity" name="iwscan"/>
 	<!-- Kiwi Browser--><item class="com.google.android.apps.chrome.Main" name="kiwi_browser"/>
 	<!-- Mi O2--><item class="com.movistar.android.mimovistar.es.presentation.MainActivity" name="mi_o2"/>
-	<!-- Moto--><item class="com.motorola.assist.ui.screens.MainActivity" name="moto"/>
 	<!-- Mou-te--><item class="cat.gencat.mouteapp.MainActivity" name="mou_te"/>
 	<!-- Notificaciones de Motorola--><item class="com.motorola.engageapp.ui.EngageActivity" name="notificaciones_de_motorola"/>
 	<!-- Nova Launcher--><item class="com.teslacoilsw.launcher.NovaShortcutHandler" name="nova_launcher"/>
@@ -34,19 +30,11 @@
 	<!-- WiFiman--><item class="com.ubnt.usurvey.ui.app.splash.SplashActivity" name="wifiman"/>
 	<!-- WLAN--><item class="de.avm.android.wlanapp.permissions.LocationPermissionActivity" name="wlan"/>
 	<!-- WlanScanner by Latetech--><item class="com.Latetech.WlanScanner.MainActivity" name="wlanscanner_by_latetech"/>
-	<!-- Authenticator --><item class="com.azure.authenticator.ui.LaunchActivity" name="authenticator"/>
-	<!-- Camera Assistant --><item class="com.samsung.android.app.cameraassistant.MainActivity" name="camera_assistant"/>
-	<!-- Good Guardians --><item class="com.android.samsung.utilityapp.app.presentation.welcomepage.WelcomeActivity" name="good_guardians"/>
-	<!-- Good Lock --><item class="com.samsung.android.goodlock.presentation.view.LaunchActivity" name="good_lock"/>
 	<!-- Lieferando --><item class="com.takeaway.android.activity.Splash" name="lieferando"/>
-	<!-- OneNote --><item class="com.microsoft.office.onenote.ui.ONMSplashActivity" name="onenote"/>
-	<!-- PayPal --><item class="com.paypal.android.p2pmobile.startup.activities.StartupActivity" name="paypal"/>
 	<!-- Samsung Flow --><item class="com.samsung.android.galaxycontinuity.SplashActivity" name="samsung_flow"/>
 	<!-- Skype --><item class="com.skype4life.MainActivity" name="skype"/>
 	<!-- Teams --><item class="com.microsoft.skype.teams.Launcher" name="teams"/>
 	<!-- Theme Park --><item class="com.samsung.android.themedesigner.SplashActivity" name="theme_park"/>
-	<!-- TikTok --><item class="com.ss.android.ugc.aweme.splash.SplashActivity" name="tiktok"/>
-	<!-- Zalando --><item class="de.zalando.mobile.ui.start.SplashActivity" name="zalando"/>
 	<!-- Zoom --><item class="com.zipow.videobox.LauncherActivity" name="zoom"/>
 
 </resources>
