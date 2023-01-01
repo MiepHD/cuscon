@@ -16,9 +16,7 @@ android {
     }
 
     bundle {
-        language {
-            enableSplit false
-        }
+        language { enableSplit false }
     }
 
     buildTypes {
@@ -35,18 +33,4 @@ android {
     }
 }
 
-dependencies {
-    /*
-     * CandyBar Material Dashboard Library
-     *
-     * TODO: How to update the dashboard?!
-     * Check this update guide for every version
-     *      - https://github.com/zixpo/candybar-sample/wiki/Updating-the-dashboard
-     * If you've missed some versions you've to also follow update guide for those versions
-     */
-
-    implementation 'com.github.zixpo:candybar:3.16.2'
-
-    // TODO: Remove `//` below to enable OneSignal
-    //implementation 'com.onesignal:OneSignal:[4.0.0, 4.99.99]'
-}
+dependencies { implementation 'com.github.zixpo:candybar:3.16.2' }
