@@ -3,6 +3,7 @@
     <string name="changelog_date">01.01.2023</string>
     <string-array name="changelog">
         <item>2.5.8:</item>
+        <item>Fixed Microsoft To Do</item>
         <item>Added Microsoft Authenticator, Motorola Device Help, Barclays, Camera Assistant, Good Guardians, Good Lock, Moto, PayPal, OneNote, TeaCapps QR and Barcode Reader, Zalando, TikTok</item>
         <item>2.5.6:</item>
         <item>Changed Settings</item>
