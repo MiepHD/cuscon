@@ -3,31 +3,8 @@ package com.froxot.cuscon.licenses;
 import candybar.lib.items.InAppBilling;
 
 public class License {
-
-    /*
-     * License Checker
-     * private static final boolean ENABLE_LICENSE_CHECKER = true; --> enabled
-     * Change to private static final boolean ENABLE_LICENSE_CHECKER = false; if you want to disable it
-     *
-     * NOTE: If you disable license checker you need to remove LICENSE_CHECK permission inside AndroidManifest.xml
-     */
     private static final boolean ENABLE_LICENSE_CHECKER = false;
-
-    /*
-     * NOTE: If license checker is disabled (above), just ignore this
-     *
-     * Generate 20 random bytes
-     * For easy way, go to https://www.random.org/strings/
-     * Set generate 20 random strings
-     * Each string should be 2 character long
-     * Check numeric digit (0-9)
-     * Choose each string should be unique
-     * Get string
-     */
-    private static final byte[] SALT = new byte[]{
-            //Put generated random bytes below, separate with comma, ex: 14, 23, 58, 85, ...
-
-    };
+    private static final byte[] SALT = new byte[]{};
 
     /*
      * Your license key
@@ -38,10 +15,6 @@ public class License {
     /*
      * NOTE: Make sure your app name in project same as app name at play store listing
      * NOTE: Your InApp Purchase will works only after the apk published
-     */
-
-    /*
-     * NOTE: If premium request disabled, just ignored this
      *
      * InApp product id for premium request
      * Product name displayed the same as product name displayed at play store
@@ -49,10 +22,11 @@ public class License {
      * Format: new InAppBilling("premium request product id", number of icons)
      */
     private static final InAppBilling[] PREMIUM_REQUEST_PRODUCTS = new InAppBilling[]{
-            new InAppBilling("your.product.id", 1),
-            new InAppBilling("your.product.id", 2),
-            new InAppBilling("your.product.id", 3),
-            new InAppBilling("your.product.id", 4)
+            new InAppBilling("cuscon.prequest.two", 2),
+            new InAppBilling("cuscon.prequest.4", 4),
+            new InAppBilling("cuscon.prequest.6", 6),
+            new InAppBilling("cuscon.prequest.8", 8),
+            new InAppBilling("cuscon.prequest.10", 10)
     };
 
     /*
@@ -64,10 +38,9 @@ public class License {
      * Format: new InAppBilling("donation product id")
      */
     private static final InAppBilling[] DONATION_PRODUCT = new InAppBilling[]{
-            new InAppBilling("your.product.id"),
-            new InAppBilling("your.product.id"),
-            new InAppBilling("your.product.id"),
-            new InAppBilling("your.product.id")
+            new InAppBilling("cuscon.donation.1"),
+            new InAppBilling("cuscon.donation.2"),
+            new InAppBilling("cuscon.donation.3")
     };
 
     public static boolean isLicenseCheckerEnabled() {
