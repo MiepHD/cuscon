@@ -23,20 +23,14 @@ class IconBuilder {
     div = $("#newtiles")[0];
     for (const icon of data) {
       const image = document.createElement("img");
-      if (icon.title!=undefined) {
+      if (icon.title) {
         image.setAttribute("data-title", icon.title);
         image.setAttribute("alt", icon.title);
       }
-      if (icon.author!=undefined) {
-        image.setAttribute("data-author", icon.author);
-      }
-      if (icon.info!=undefined) {
-        image.setAttribute("data-info", icon.info);
-      }
-      if (icon.src!=undefined) {
-        if (!icon.src.includes("/")) {
-          icon.src = `icons/${icon.src}.png`
-        }
+      if (icon.author) image.setAttribute("data-author", icon.author);
+      if (icon.info) image.setAttribute("data-info", icon.info);
+      if (icon.src) {
+        if (!icon.src.includes("/")) icon.src = `icons/${icon.src}.png`;
         image.setAttribute("src", icon.src);
       }
       div.append(image);

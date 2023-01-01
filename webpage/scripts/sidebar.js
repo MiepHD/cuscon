@@ -6,27 +6,19 @@ class Sidebar {
 		this.sidebar = $$("nav");
 	}
 	toggle() {
-		if (this.shown) {
-			this.hide();
-		} else {
-			this.show();
-		}
+		if (this.shown) { this.hide(); }
+		else { this.show(); }
 	}
 	reset() {
-		if (!this.shown) {
-			this.hide();
-		} else {
-			this.show();
-		}
+		if (!this.shown) { this.hide(); }
+		else { this.show(); }
 	}
 	show() {
 		this.sidebar.setAttribute("state", "shown");
 		$$("#menu").setAttribute("aria-expanded", "true");
 
 		//Resize cards
-		if (!this.shown) {
-			cards.setSmallSize();
-		}
+		if (!this.shown) cards.setSmallSize();
 		this.shown = true;
 		if (this.sidebar.scrollHeight > this.sidebar.clientHeight) {
 			this.sidebar.style.setProperty("grid-template-rows", "16% 84%");
@@ -42,9 +34,7 @@ class Sidebar {
 			this.sidebar.setAttribute("state", "hidden");
 		}, {once: true});
 		$$("#menu").setAttribute("aria-expanded", "false");
-		if (this.shown) {
-			cards.setFullSize();
-		}
+		if (this.shown) cards.setFullSize();
 		this.shown = false;
 	}
 }

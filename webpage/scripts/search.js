@@ -19,9 +19,7 @@ class Search {
             $(".top").css("display", "none");
             $("[data-category-id=search]").css("display", "block");
             const icons = search.search(this.value);
-            if (this.oldSearch) {
-                this.oldSearch.remove();
-            }
+            if (this.oldSearch) this.oldSearch.remove();
             const build = new IconBuilder();
             this.oldSearch = build.iconList("search", icons);
           });
@@ -33,9 +31,7 @@ class Search {
             for (const icon of allicons) {
                 for (let value of Object.values(icon)) {
                     const translation = translate.get(value);
-                    if (translation) {
-                        value = translation;
-                    }
+                    if (translation) value = translation;
                     if (value.toLowerCase().includes(entry)) {
                         results.push(icon);
                         break;

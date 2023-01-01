@@ -28,10 +28,7 @@ class Cards {
     }
   }
   reset() {
-    if (this.fullsize) {
-      this.setFullSize();
-    } else {
-      this.setSmallSize();
-    }
+    if (this.fullsize) { this.setFullSize(); }
+    else { this.setSmallSize(); }
   }
 }

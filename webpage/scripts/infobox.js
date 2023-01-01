@@ -22,7 +22,7 @@ class Infobox {
 		titleelement.setAttribute("data-translation-id", title);
 
 		//Sets info
-		if (info==undefined) {
+		if (!(info)) {
 			infoelement.style.display = "none";
 		} else {
 			infoelement.innerHTML = info;
@@ -31,7 +31,7 @@ class Infobox {
 		}
 
 		//Sets author (Only one supported)
-		if (author==undefined) {
+		if (!(author)) {
 			authorelement.style.display = "none";
 			//let title fill full width
 			titleelement.classList.add("no-author");
