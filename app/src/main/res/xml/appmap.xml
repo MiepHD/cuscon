@@ -259,5 +259,19 @@
 	<!-- TeaCapps QR & Barcode Reader --><item class="net.qrbot.ui.main.MainActivity" name="teacapps_qr__barcode_reader"/>
 	<!-- Zalando --><item class="de.zalando.mobile.ui.start.SplashActivity" name="zalando"/>
 	<!-- TikTok --><item class="com.ss.android.ugc.aweme.splash.SplashActivity" name="tiktok"/>
+    <!-- Nova Launcher--><item class="com.teslacoilsw.launcher.NovaShortcutHandler" name="nova_launcher"/>
+	<!-- Nova Launcher Prime--><item class="com.teslacoilsw.launcher.prime.NovaLauncherPrimeActivity" name="nova_launcher_prime"/>
+	<!-- iwscan--><item class="com.evbadroid.iwscan.ScanActivity" name="iwscan"/>
+	<!-- Kiwi Browser--><item class="com.google.android.apps.chrome.Main" name="kiwi_browser"/>
+	<!-- Mi O2--><item class="com.movistar.android.mimovistar.es.presentation.MainActivity" name="my_o2"/>
+	<!-- Mein O2 --><item class="canvasm.myo2.SplashActivity" name="my_o2"/>
+	<!-- My O2 --><item class="cz.o2.moje.RouterActivity" name="my_o2"/>
+	<!-- My O2 --><item class="com.tuenti.messenger.ui.activity.MainActivity" name="my_o2"/>
+	<!-- O2 --><item class="sk.o2.mojeo2.MainActivity" name="my_o2"/>
+	<!-- Mou-te--><item class="cat.gencat.mouteapp.MainActivity" name="mou_te"/>
+	<!-- Motorola Notifications--><item class="com.motorola.engageapp.ui.EngageActivity" name="motorola_notifications"/>
+	<!-- FAST Speed Test--><item class="com.netflix.Speedtest.MainActivity" name="fast_speed_test"/>
+	<!-- Moto Camera 3--><item class="com.motorola.camera.Camera" name="moto_camera_3"/>
+	<!-- Port Authority--><item class="com.aaronjwood.portauthority.activity.MainActivity" name="port_authority"/>
 
 </appmap>

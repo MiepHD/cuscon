@@ -12,18 +12,8 @@
 	<!-- Duolingo --><item component="ComponentInfo{com.duolingo/com.duolingo.app.LoginActivity}" drawable="duolingo" />
 	<!-- ING Banking --><item component="ComponentInfo{de.ingdiba.bankingapp/com.ing.mobile.diba.startup.SplashActivity}" drawable="ing_banking" />
 	<!-- S-pushTAN --><item component="ComponentInfo{com.starfinanz.mobile.android.pushtan/com.starfinanz.mobile.android.spushtan.SPushTan}" drawable="s_pushtan" />
-	<!-- Cámara --><item component="ComponentInfo{com.motorola.camera3/com.motorola.camera.Camera}" drawable="camara" />
 	<!-- D-Link Wi-Fi --><item component="ComponentInfo{com.dlink.dlinkwifi/com.mydlink.unify.activity.Launch2Activity}" drawable="d_link_wi_fi" />
-	<!-- FAST --><item component="ComponentInfo{com.netflix.Speedtest/com.netflix.Speedtest.MainActivity}" drawable="fast" />
 	<!-- Gestor de Redes --><item component="ComponentInfo{com.eakteam.networkmanager.pro/com.eakteam.networkmanager.pro.activities.paneli_kryesor}" drawable="gestor_de_redes" />
-	<!-- iwscan --><item component="ComponentInfo{com.evbadroid.iwscan/com.evbadroid.iwscan.ScanActivity}" drawable="iwscan" />
-	<!-- Kiwi Browser --><item component="ComponentInfo{com.kiwibrowser.browser/com.google.android.apps.chrome.Main}" drawable="kiwi_browser" />
-	<!-- Mi O2 --><item component="ComponentInfo{es.o2.mio2/com.movistar.android.mimovistar.es.presentation.MainActivity}" drawable="mi_o2" />
-	<!-- Mou-te --><item component="ComponentInfo{cat.gencat.mouteapp/cat.gencat.mouteapp.MainActivity}" drawable="mou_te" />
-	<!-- Notificaciones de Motorola --><item component="ComponentInfo{com.motorola.ccc.notification/com.motorola.engageapp.ui.EngageActivity}" drawable="notificaciones_de_motorola" />
-	<!-- Nova Launcher --><item component="ComponentInfo{com.teslacoilsw.launcher/com.teslacoilsw.launcher.NovaShortcutHandler}" drawable="nova_launcher" />
-	<!-- Nova Launcher Prime --><item component="ComponentInfo{com.teslacoilsw.launcher.prime/com.teslacoilsw.launcher.prime.NovaLauncherPrimeActivity}" drawable="nova_launcher_prime" />
-	<!-- Port Authority --><item component="ComponentInfo{com.aaronjwood.portauthority.free/com.aaronjwood.portauthority.activity.MainActivity}" drawable="port_authority" />
 	<!-- Radio FM --><item component="ComponentInfo{com.motorola.fmplayer/com.motorola.fmplayer.ChangeThemeActivity}" drawable="radio_fm" />
 	<!-- Sweech --><item component="ComponentInfo{com.sweech/com.sweech.MainActivity}" drawable="sweech" />
 	<!-- WiFi Monitor Pro --><item component="ComponentInfo{com.signalmonitoring.wifimonitoringpro/com.signalmonitoring.wifilib.ui.activities.MonitoringActivity}" drawable="wifi_monitor_pro" />

@@ -8,7 +8,6 @@
     <item drawable="i_net_menue" />
     <item drawable="samsung_calander" />
     <item drawable="clock" />
-    <item drawable="wallpaper_engine" />
     <item drawable="amc_cooking" />
     <item drawable="voicenote" />
     <item drawable="smart_things" />
@@ -38,15 +37,11 @@
     <!--Symbolab --><item drawable="symbolab" />
     <!--Termux --><item drawable="termux" />
     <!--WhatsApp SIM --><item drawable="whatsapp_sim"/>
-    <!-- Apex Launcher --><item drawable="apex_launcher"/>
-    <!-- Lawnchair --><item drawable="lawnchair"/>
     <!-- Google --><item drawable="google"/>
     <!-- Google Assistant--><item drawable="google_assistant" />
     <!-- Google One--><item drawable="google_one" />
 	<!-- Google TV--><item drawable="google_tv" />
     <!-- Google Calendar --><item drawable="google_calendar" />
-    <!-- Google Wallpapers --><item drawable="google_wallpapers" />
-	<!-- Moto Interactive Wallpaper --><item drawable="moto_interactive_wallpaper" />
 	<!-- Microsoft To Do --><item drawable="microsoft_to_do" />
 	<!-- WeeNet --><item drawable="weenet" />
     <!-- Settings --><item drawable="settings" />
@@ -54,6 +49,14 @@
     <!-- Barclays --><item drawable="barclays"/>
     <!-- Moto--><item drawable="moto"/>
     <!-- PayPal --><item drawable="paypal"/>
+	<!-- FAST Speed Test--><AppIcon drawable="fast_speed_test"/>
+	<!-- Mi O2--><AppIcon drawable="my_o2"/>
+	<!-- Mein O2 --><AppIcon drawable="my_o2"/>
+	<!-- My O2 --><AppIcon drawable="my_o2"/>
+	<!-- My O2 --><AppIcon drawable="my_o2"/>
+	<!-- O2 --><AppIcon drawable="my_o2"/>
+	<!-- Mou-te--><AppIcon drawable="mou_te"/>
+	<!-- Motorola Notifications--><AppIcon drawable="motorola_notifications"/>
 
     <category title="Stores" />
     <item drawable="apkpure" />
@@ -69,6 +72,12 @@
     <!-- Aliucord Installer --><item drawable="aliucord_installer" />
     <!-- Apkmody --><item drawable="apkmody" />
     <!-- Zalando --><item drawable="zalando"/>
+
+    <category title="Launcher" />
+    <!-- Apex Launcher --><item drawable="apex_launcher"/>
+    <!-- Lawnchair --><item drawable="lawnchair"/>
+    <!-- Nova Launcher--><AppIcon drawable="nova_launcher"/>
+	<!-- Nova Launcher Prime--><AppIcon drawable="nova_launcher_prime"/>
 
     <category title="Video Streaming" />
     <item drawable="netflix" />
@@ -144,6 +153,7 @@
 	<!-- Opera Mini --><item drawable="opera_mini"/>
 	<!-- Redlight Web Browser --><item drawable="redlight_web_browser"/>
     <!-- Samsung Internet --><item drawable="samsung_internet"/>
+    <!-- Kiwi Browser--><AppIcon drawable="kiwi_browser"/>
 
     <category title="Tools" />
     <item drawable="lucky_patcher" />
@@ -166,6 +176,8 @@
 	<!-- WiFiAnalyzer--><item drawable="wifianalyzer" />
 	<!-- WLANScanner--><item drawable="wlanscanner" />
     <!-- Good Guardians --><item drawable="good_guardians"/>
+    <!-- iwscan--><AppIcon drawable="iwscan"/>
+    <!-- Port Authority--><AppIcon drawable="port_authority"/>
 
     <category title="Documents" />
     <item drawable="adobe_acrobat_reader" />
@@ -198,6 +210,7 @@
     <!-- Mosaic --><item drawable="mosaic"/>
     <!-- Camera Assistant --><item drawable="camera_assistant"/>
     <!-- TeaCapps QR & Barcode Reader --><item drawable="teacapps_qr__barcode_reader"/>
+    <!-- Moto Camera 3--><AppIcon drawable="moto_camera_3"/>
 
     <category title="Maps" />
     <!-- Google Maps --><item drawable="google_maps" />
@@ -261,6 +274,9 @@
     <!-- ibisPaint X --><item drawable="ibispaint_x" />
     <!-- Autodesk Sketchbook --><item drawable="autodesk_sketchbook" />
     <!-- Good Lock --><item drawable="good_lock"/>
+    <!-- Wallpaper Engine --><item drawable="wallpaper_engine" />
+    <!-- Google Wallpapers --><item drawable="google_wallpapers" />
+	<!-- Moto Interactive Wallpaper --><item drawable="moto_interactive_wallpaper" />
 
     <category title="Information" />
     <!-- Öffi Verbindungen --><item drawable="offi_verbindungen" />

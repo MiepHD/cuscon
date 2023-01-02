@@ -281,5 +281,19 @@
 	<!-- TeaCapps QR & Barcode Reader --><item component="ComponentInfo{com.teacapps.barcodescanner/net.qrbot.ui.main.MainActivity}" drawable="teacapps_qr__barcode_reader" />
 	<!-- Zalando --><item component="ComponentInfo{de.zalando.mobile/de.zalando.mobile.ui.start.SplashActivity}" drawable="zalando" />
 	<!-- TikTok --><item component="ComponentInfo{com.zhiliaoapp.musically/com.ss.android.ugc.aweme.splash.SplashActivity}" drawable="tiktok" />
+    <!-- Moto Camera 3 --><item component="ComponentInfo{com.motorola.camera3/com.motorola.camera.Camera}" drawable="moto_camera_3" />
+	<!-- FAST Speed Test --><item component="ComponentInfo{com.netflix.Speedtest/com.netflix.Speedtest.MainActivity}" drawable="fast_speed_test" />
+	<!-- iwscan --><item component="ComponentInfo{com.evbadroid.iwscan/com.evbadroid.iwscan.ScanActivity}" drawable="iwscan" />
+	<!-- Kiwi Browser --><item component="ComponentInfo{com.kiwibrowser.browser/com.google.android.apps.chrome.Main}" drawable="kiwi_browser" />
+	<!-- Mi O2 --><item component="ComponentInfo{es.o2.mio2/com.movistar.android.mimovistar.es.presentation.MainActivity}" drawable="my_o2" />
+	<!-- Mein O2 --><item component="ComponentInfo{canvasm.myo2/canvasm.myo2.SplashActivity}" drawable="my_o2" />
+	<!-- My O2 --><item component="ComponentInfo{cz.o2.moje/cz.o2.moje.RouterActivity}" drawable="my_o2" />
+	<!-- My O2 --><item component="ComponentInfo{uk.co.o2.android.myo2/com.tuenti.messenger.ui.activity.MainActivity}" drawable="my_o2" />
+	<!-- O2 --><item component="ComponentInfo{sk.o2.mojeo2/sk.o2.mojeo2.MainActivity}" drawable="my_o2" />
+	<!-- Mou-te --><item component="ComponentInfo{cat.gencat.mouteapp/cat.gencat.mouteapp.MainActivity}" drawable="mou_te" />
+	<!-- Motorola Notifications --><item component="ComponentInfo{com.motorola.ccc.notification/com.motorola.engageapp.ui.EngageActivity}" drawable="motorola_notifications" />
+	<!-- Nova Launcher --><item component="ComponentInfo{com.teslacoilsw.launcher/com.teslacoilsw.launcher.NovaShortcutHandler}" drawable="nova_launcher" />
+	<!-- Nova Launcher Prime --><item component="ComponentInfo{com.teslacoilsw.launcher.prime/com.teslacoilsw.launcher.prime.NovaLauncherPrimeActivity}" drawable="nova_launcher_prime" />
+	<!-- Port Authority --><item component="ComponentInfo{com.aaronjwood.portauthority.free/com.aaronjwood.portauthority.activity.MainActivity}" drawable="port_authority" />
 
 </resources>

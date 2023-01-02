@@ -4,6 +4,10 @@
     "id": "other"
   },
   {
+	"title": "Launcher",
+	"id": "launcher"
+  },
+  {
     "title": "Stores",
     "id": "stores"
   },

@@ -12,18 +12,8 @@
 	<!-- Duolingo --><AppIcon name="com.duolingo/com.duolingo.app.LoginActivity" image="duolingo"/>
 	<!-- ING Banking --><AppIcon name="de.ingdiba.bankingapp/com.ing.mobile.diba.startup.SplashActivity" image="ing_banking"/>
 	<!-- S-pushTAN --><AppIcon name="com.starfinanz.mobile.android.pushtan/com.starfinanz.mobile.android.spushtan.SPushTan" image="s_pushtan"/>
-	<!-- Cámara--><AppIcon name="com.motorola.camera3/com.motorola.camera.Camera" image="camara2"/>
 	<!-- D-Link Wi-Fi--><AppIcon name="com.dlink.dlinkwifi/com.mydlink.unify.activity.Launch2Activity" image="d_link_wi_fi"/>
-	<!-- FAST--><AppIcon name="com.netflix.Speedtest/com.netflix.Speedtest.MainActivity" image="fast"/>
 	<!-- Gestor de Redes--><AppIcon name="com.eakteam.networkmanager.pro/com.eakteam.networkmanager.pro.activities.paneli_kryesor" image="gestor_de_redes"/>
-	<!-- iwscan--><AppIcon name="com.evbadroid.iwscan/com.evbadroid.iwscan.ScanActivity" image="iwscan"/>
-	<!-- Kiwi Browser--><AppIcon name="com.kiwibrowser.browser/com.google.android.apps.chrome.Main" image="kiwi_browser"/>
-	<!-- Mi O2--><AppIcon name="es.o2.mio2/com.movistar.android.mimovistar.es.presentation.MainActivity" image="mi_o2"/>´
-	<!-- Mou-te--><AppIcon name="cat.gencat.mouteapp/cat.gencat.mouteapp.MainActivity" image="mou_te"/>
-	<!-- Notificaciones de Motorola--><AppIcon name="com.motorola.ccc.notification/com.motorola.engageapp.ui.EngageActivity" image="notificaciones_de_motorola"/>
-	<!-- Nova Launcher--><AppIcon name="com.teslacoilsw.launcher/com.teslacoilsw.launcher.NovaShortcutHandler" image="nova_launcher"/>
-	<!-- Nova Launcher Prime--><AppIcon name="com.teslacoilsw.launcher.prime/com.teslacoilsw.launcher.prime.NovaLauncherPrimeActivity" image="nova_launcher_prime"/>
-	<!-- Port Authority--><AppIcon name="com.aaronjwood.portauthority.free/com.aaronjwood.portauthority.activity.MainActivity" image="port_authority"/>
 	<!-- Radio FM--><AppIcon name="com.motorola.fmplayer/com.motorola.fmplayer.ChangeThemeActivity" image="radio_fm"/>
 	<!-- Sweech--><AppIcon name="com.sweech/com.sweech.MainActivity" image="sweech"/>
 	<!-- WiFi Monitor Pro--><AppIcon name="com.signalmonitoring.wifimonitoringpro/com.signalmonitoring.wifilib.ui.activities.MonitoringActivity" image="wifi_monitor_pro"/>

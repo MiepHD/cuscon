@@ -266,5 +266,19 @@
 	<!-- TeaCapps QR & Barcode Reader --><AppIcon name="com.teacapps.barcodescanner/net.qrbot.ui.main.MainActivity" image="teacapps_qr__barcode_reader"/>
 	<!-- Zalando --><AppIcon name="de.zalando.mobile/de.zalando.mobile.ui.start.SplashActivity" image="zalando"/>
 	<!-- TikTok --><AppIcon name="com.zhiliaoapp.musically/com.ss.android.ugc.aweme.splash.SplashActivity" image="tiktok"/>
+    <!-- Moto Camera 3--><AppIcon name="com.motorola.camera3/com.motorola.camera.Camera" image="moto_camera_3"/>
+	<!-- FAST Speed Test--><AppIcon name="com.netflix.Speedtest/com.netflix.Speedtest.MainActivity" image="fast_speed_test"/>
+	<!-- iwscan--><AppIcon name="com.evbadroid.iwscan/com.evbadroid.iwscan.ScanActivity" image="iwscan"/>
+	<!-- Kiwi Browser--><AppIcon name="com.kiwibrowser.browser/com.google.android.apps.chrome.Main" image="kiwi_browser"/>
+	<!-- Mi O2--><AppIcon name="es.o2.mio2/com.movistar.android.mimovistar.es.presentation.MainActivity" image="my_o2"/>
+	<!-- Mein O2 --><AppIcon name="canvasm.myo2/canvasm.myo2.SplashActivity" image="my_o2"/>
+	<!-- My O2 --><AppIcon name="cz.o2.moje/cz.o2.moje.RouterActivity" image="my_o2"/>
+	<!-- My O2 --><AppIcon name="uk.co.o2.android.myo2/com.tuenti.messenger.ui.activity.MainActivity" image="my_o2"/>
+	<!-- O2 --><AppIcon name="sk.o2.mojeo2/sk.o2.mojeo2.MainActivity" image="my_o2"/>
+	<!-- Mou-te--><AppIcon name="cat.gencat.mouteapp/cat.gencat.mouteapp.MainActivity" image="mou_te"/>
+	<!-- Motorola Notifications--><AppIcon name="com.motorola.ccc.notification/com.motorola.engageapp.ui.EngageActivity" image="motorola_notifications"/>
+	<!-- Nova Launcher--><AppIcon name="com.teslacoilsw.launcher/com.teslacoilsw.launcher.NovaShortcutHandler" image="nova_launcher"/>
+	<!-- Nova Launcher Prime--><AppIcon name="com.teslacoilsw.launcher.prime/com.teslacoilsw.launcher.prime.NovaLauncherPrimeActivity" image="nova_launcher_prime"/>
+	<!-- Port Authority--><AppIcon name="com.aaronjwood.portauthority.free/com.aaronjwood.portauthority.activity.MainActivity" image="port_authority"/>
 
 </Theme>

@@ -767,7 +767,7 @@
     "title": "Wallpaper Engine",
     "author": "MiepHD",
     "src": "wallpaper_engine",
-	"category": "other"
+	"category": "design"
 	},
   {
     "title": "AMC Cooking",
@@ -944,14 +944,14 @@
     "title": "Apex Launcher",
     "author": "MiepHD",
     "src": "apex_launcher",
-	"category": "other"
+	"category": "launcher"
 	},
   {
     "title": "Lawnchair",
     "info": "icons.lawnchair.info",
     "author": "MiepHD",
     "src": "lawnchair",
-	"category": "other"
+	"category": "launcher"
 	},
   {
     "title": "Google",
@@ -987,13 +987,13 @@
 	"title": "Google Wallpapers",
     "src": "google_wallpapers",
     "author": "MiepHD",
-	"category": "other"
+	"category": "design"
 	},
   {
     "title": "Moto Interactive Wallpaper",
     "src": "moto_interactive_wallpaper",
     "author": "MiepHD",
-	"category": "other"
+	"category": "design"
 	},
   {
     "title": "Microsoft To Do",
@@ -1400,5 +1400,65 @@
 		"author": "MiepHD",
 		"src": "tiktok",
 		"category": "video-streaming"
+	},
+	{
+		"title": "Moto Camera 3",
+		"author": "MiepHD",
+		"src": "moto_camera_3",
+		"category": "camera"
+	},
+	{
+		"title": "FAST Speed Test",
+		"author": "MiepHD",
+		"src": "fast_speed_test",
+		"category": "other"
+	},
+	{
+		"title": "iwscan",
+		"author": "MiepHD",
+		"src": "iwscan",
+		"category": "tools"
+	},
+	{
+		"title": "Kiwi Browser",
+		"author": "MiepHD",
+		"src": "kiwi_browser",
+		"category": "browser"
+	},
+	{
+		"title": "My O2",
+		"author": "MiepHD",
+		"src": "my_o2",
+		"category": "other"
+	},
+	{
+		"title": "Mou-te",
+		"author": "MiepHD",
+		"src": "mou_te",
+		"category": "other"
+	},
+	{
+		"title": "Motorola Notifications",
+		"author": "MiepHD",
+		"src": "motorola_notifications",
+		"category": "other"
+	},
+	{
+		"title": "Nova Launcher",
+		"author": "MiepHD",
+		"src": "nova_launcher",
+		"category": "launcher"
+	},
+	{
+		"title": "Nova Launcher Prime",
+		"author": "MiepHD",
+		"src": "nova_launcher_prime",
+		"category": "launcher"
+	},
+	{
+		"title": "Port Authority",
+		"author": "MiepHD",
+		"src": "port_authority",
+		"category": "tools"
 	}
 ]
