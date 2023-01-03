@@ -2,6 +2,8 @@
 <resources>
     <string name="changelog_date">01.01.2023</string>
     <string-array name="changelog">
+        <item>2.6.1:</item>
+        <item>Fixed Google Calendar, Youtube</item>
         <item>2.6.0:</item>
         <item>Added Moto Camera 3, FAST Speed Test, iwscan, Kiwi Browser, My O2, Mou-te, Motorola Notifications, Nova Launcher, Nova Launcher Prime, Port Authority</item>
         <item>2.5.9:</item>

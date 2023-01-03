@@ -69,7 +69,7 @@
     <item component="ComponentInfo{de.saschahlusiak.wordmixpro/de.saschahlusiak.wordmix.startscreen.StartScreenActivity}" drawable="word_mix_pro"/>
     <item component="ComponentInfo{com.vanced.android.youtube/com.google.android.youtube.app.honeycomb.Shell$HomeActivity}" drawable="youtube"/>
     <item component="ComponentInfo{com.vanced.android.apps.youtube.music/com.google.android.apps.youtube.music.activities.MusicActivity}" drawable="youtube_music"/>
-    <!-- YouTube--><item component="ComponentInfo{com.google.android.youtube/com.google.android.youtube.app.honeycomb.ShellHomeActivity}" drawable="youtube" />
+    <!-- YouTube --><item component="ComponentInfo{com.google.android.youtube/com.google.android.youtube.app.honeycomb.Shell$HomeActivity}" drawable="youtube" />
 	<!-- YT Music--><item component="ComponentInfo{com.google.android.apps.youtube.music/com.google.android.apps.youtube.music.activities.MusicActivity}" drawable="yt_music" />
     <item component="ComponentInfo{com.zdf.android.mediathek/com.zdf.android.mediathek.ui.splash.SplashActivity}" drawable="zdfmediathek"/>
     <item component="ComponentInfo{com.google.android.apps.translate/com.google.android.apps.translate.TranslateActivity}" drawable="google_translate"/>
@@ -238,8 +238,7 @@
 	<!-- Privacy Browser --><item component="ComponentInfo{com.stoutner.privacybrowser.standard/com.stoutner.privacybrowser.activities.MainWebViewActivity}" drawable="privacy_browser" />
 	<!-- Opera Mini --><item component="ComponentInfo{com.opera.mini.native/com.opera.mini.android.Browser}" drawable="opera_mini" />
 	<!-- Redlight Web Browser --><item component="ComponentInfo{pl.eprogmedia.rwb/pl.eprogmedia.rwb.FirstActivity}" drawable="redlight_web_browser" />
-    <!-- YouTube --><item component="ComponentInfo{com.google.android.youtube/com.google.android.youtube.app.honeycomb.ShellHomeActivity}" drawable="youtube" />
-	<!-- Spotify --><item component="ComponentInfo{com.spotify.music/com.spotify.music.MainActivity}" drawable="spotify" />
+    <!-- Spotify --><item component="ComponentInfo{com.spotify.music/com.spotify.music.MainActivity}" drawable="spotify" />
 	<!-- Samsung Internet --><item component="ComponentInfo{com.sec.android.app.sbrowser/com.sec.android.app.sbrowser.SBrowserMainActivity}" drawable="samsung_internet" />
 	<!-- Lawnchair --><item component="ComponentInfo{ch.deletescape.lawnchair.plah/ch.deletescape.lawnchair.LawnchairLauncher}" drawable="lawnchair" />
 	<!-- Mosaic --><item component="ComponentInfo{com.photograph.mosaic/com.photograph.mosaic.MainActivity}" drawable="mosaic" />
