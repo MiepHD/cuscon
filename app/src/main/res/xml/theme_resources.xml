@@ -290,5 +290,15 @@
 	<!-- FRITZ!App WLAN --><AppIcon name="de.avm.android.wlanapp/de.avm.android.wlanapp.permissions.LocationPermissionActivity" image="fritz_app_wlan"/>
 	<!-- WlanScanner by Latetech --><AppIcon name="com.Latetech.WlanScanner/com.Latetech.WlanScanner.MainActivity" image="wlanscanner_by_latetech"/>
 	<!-- WiFi Monitor Pro--><AppIcon name="com.signalmonitoring.wifimonitoringpro/com.signalmonitoring.wifilib.ui.activities.MonitoringActivity" image="wifi_monitor_pro"/>
+    <!-- Der Postillon --><AppIcon name="com.postillon/io.gonative.android.SplashActivity" image="der_postillon"/>
+	<!-- Microsoft SwiftKey-Tastatur --><AppIcon name="com.touchtype.swiftkey/com.touchtype.LauncherActivityIcon" image="microsoft_swiftkey_tastatur"/>
+	<!-- UUID 0xFD6F Scanner --><AppIcon name="com.emacberry.uuid0xfd6fscan/com.emacberry.uuid0xfd6fscan.ScannerActivity" image="uuid_0xfd6f_scanner"/>
+	<!-- Onleihe --><AppIcon name="de.etecture.ekz.onleihe/de.etecture.ekz.onleihe.activity.SplashScreenActivity" image="onleihe"/>
+	<!-- Duolingo --><AppIcon name="com.duolingo/com.duolingo.app.LoginActivity" image="duolingo"/>
+	<!-- Lieferando --><AppIcon name="com.yopeso.lieferando/com.takeaway.android.activity.Splash" image="lieferando"/>
+	<!-- Samsung Flow --><AppIcon name="com.samsung.android.galaxycontinuity/com.samsung.android.galaxycontinuity.SplashActivity" image="samsung_flow"/>
+	<!-- Skype --><AppIcon name="com.skype.raider/com.skype4life.MainActivity" image="skype"/>
+	<!-- Teams --><AppIcon name="com.microsoft.teams/com.microsoft.skype.teams.Launcher" image="teams"/>
+	<!-- Theme Park --><AppIcon name="com.samsung.android.themedesigner/com.samsung.android.themedesigner.SplashActivity" image="theme_park"/>
 
 </Theme>

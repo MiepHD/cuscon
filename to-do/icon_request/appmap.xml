@@ -1,22 +1,12 @@
 <resources>
-
-	<!-- Der Postillon --><item class="io.gonative.android.SplashActivity" name="der_postillon"/>
+	
 	<!-- AirConsole --><item class="com.airconsole.controller.MainActivity" name="airconsole"/>
 	<!-- Clash of Clans --><item class="com.supercell.titan.GameApp" name="clash_of_clans"/>
 	<!-- Commute --><item class="com.mediocre.commute.Main" name="commute"/>
-	<!-- Microsoft SwiftKey-Tastatur --><item class="com.touchtype.LauncherActivityIcon" name="microsoft_swiftkey_tastatur"/>´
-	<!-- Onleihe --><item class="de.etecture.ekz.onleihe.activity.SplashScreenActivity" name="onleihe"/>
 	<!-- Pixel Wheels --><item class="com.agateau.pixelwheels.android.AndroidLauncher" name="pixel_wheels"/>
-	<!-- UUID 0xFD6F Scanner --><item class="com.emacberry.uuid0xfd6fscan.ScannerActivity" name="uuid_0xfd6f_scanner"/>
 	<!-- Watten --><item class="stefanlukasv.googlemail.com.watten.SplashActivity" name="watten"/>
-	<!-- Duolingo --><item class="com.duolingo.app.LoginActivity" name="duolingo"/>
 	<!-- ING Banking --><item class="com.ing.mobile.diba.startup.SplashActivity" name="ing_banking"/>
 	<!-- S-pushTAN --><item class="com.starfinanz.mobile.android.spushtan.SPushTan" name="s_pushtan"/>
-	<!-- Lieferando --><item class="com.takeaway.android.activity.Splash" name="lieferando"/>
-	<!-- Samsung Flow --><item class="com.samsung.android.galaxycontinuity.SplashActivity" name="samsung_flow"/>
-	<!-- Skype --><item class="com.skype4life.MainActivity" name="skype"/>
-	<!-- Teams --><item class="com.microsoft.skype.teams.Launcher" name="teams"/>
-	<!-- Theme Park --><item class="com.samsung.android.themedesigner.SplashActivity" name="theme_park"/>
 	<!-- Zoom --><item class="com.zipow.videobox.LauncherActivity" name="zoom"/>
 
 </resources>

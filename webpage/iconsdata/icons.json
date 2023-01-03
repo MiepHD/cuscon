@@ -1520,5 +1520,65 @@
 		"author": "MiepHD",
 		"src": "wifi_monitor_pro",
 		"category": "tools"
+	},
+	{
+		"title": "Der Postillon",
+		"author": "MiepHD",
+		"src": "der_postillon",
+		"category": "news"
+	},
+	{
+		"title": "Microsoft SwiftKey-Tastatur",
+		"author": "MiepHD",
+		"src": "microsoft_swiftkey_tastatur",
+		"category": "other"
+	},
+	{
+		"title": "UUID 0xFD6F Scanner",
+		"author": "MiepHD",
+		"src": "uuid_0xfd6f_scanner",
+		"category": "information"
+	},
+	{
+		"title": "Onleihe",
+		"author": "MiepHD",
+		"src": "onleihe",
+		"category": "other"
+	},
+	{
+		"title": "Duolingo",
+		"author": "MiepHD",
+		"src": "duolingo",
+		"category": "learning"
+	},
+	{
+		"title": "Lieferando",
+		"author": "MiepHD",
+		"src": "lieferando",
+		"category": "stores"
+	},
+	{
+		"title": "Samsung Flow",
+		"author": "MiepHD",
+		"src": "samsung_flow",
+		"category": "tools"
+	},
+	{
+		"title": "Skype",
+		"author": "MiepHD",
+		"src": "skype",
+		"category": "communication"
+	},
+	{
+		"title": "Teams",
+		"author": "MiepHD",
+		"src": "teams",
+		"category": "communication"
+	},
+	{
+		"title": "Theme Park",
+		"author": "MiepHD",
+		"src": "theme_park",
+		"category": "design"
 	}
 ]

@@ -58,6 +58,8 @@
 	<!-- Mou-te--><AppIcon drawable="mou_te"/>
 	<!-- Motorola Notifications--><AppIcon drawable="motorola_notifications"/>
 	<!-- D-Link Wi-Fi --><item drawable="d_link_wi_fi"/>
+    <!-- Microsoft SwiftKey-Tastatur --><item name="microsoft_swiftkey_tastatur"/>
+    <!-- Onleihe --><item name="onleihe"/>
 
     <category title="Stores" />
     <item drawable="apkpure" />
@@ -73,6 +75,7 @@
     <!-- Aliucord Installer --><item drawable="aliucord_installer" />
     <!-- Apkmody --><item drawable="apkmody" />
     <!-- Zalando --><item drawable="zalando"/>
+    <!-- Lieferando --><item name="lieferando"/>
 
     <category title="Launcher" />
     <!-- Apex Launcher --><item drawable="apex_launcher"/>
@@ -144,6 +147,8 @@
     <!-- Facebook --><item drawable="facebook"/>
     <!-- Meet --><item drawable="meet"/>
     <!-- LinkedIn --><item drawable="linkedin"/>
+    <!-- Skype --><item name="skype"/>
+    <!-- Teams --><item name="teams"/>
 
     <category title="Browser" />
     <item drawable="firefox" />
@@ -186,6 +191,7 @@
 	<!-- FRITZ!App WLAN --><item drawable="fritz_app_wlan"/>
     <!-- WlanScanner by Latetech --><item drawable="wlanscanner_by_latetech"/>
 	<!-- WiFi Monitor Pro--><item drawable="wifi_monitor_pro"/>
+    <!-- Samsung Flow --><item name="samsung_flow"/>
 
     <category title="Documents" />
     <item drawable="adobe_acrobat_reader" />
@@ -268,11 +274,13 @@
     <!-- Bibel+ --><item drawable="bibel_" />
     <!-- Kiwix --><item drawable="kiwix" />
     <!-- Google Translate --><item drawable="google_translate" />
+    <!-- Duolingo --><item name="duolingo"/>
 
     <category title="News" />
     <!-- Newszone --><item drawable="newszone" />
     <!-- Weather --><item drawable="weather" />
     <!-- Weather Station - Barometer --><item drawable="weather_station_barometer"/>
+    <!-- Der Postillon --><item name="der_postillon"/>
 
     <category title="Design" />
     <!-- Pocket Paint --><item drawable="pocket_paint" />
@@ -287,6 +295,7 @@
     <!-- Wallpaper Engine --><item drawable="wallpaper_engine" />
     <!-- Google Wallpapers --><item drawable="google_wallpapers" />
 	<!-- Moto Interactive Wallpaper --><item drawable="moto_interactive_wallpaper" />
+    <!-- Theme Park --><item name="theme_park"/>
 
     <category title="Information" />
     <!-- Öffi Verbindungen --><item drawable="offi_verbindungen" />
@@ -297,4 +306,5 @@
     <!-- Elementary --><item drawable="elementary" />
     <!-- KFZ-Kennzeichen --><item drawable="kfz_kennzeichen" />
     <!-- DSBmobile --><item drawable="dsbmobile"/>
+    <!-- UUID 0xFD6F Scanner --><item name="uuid_0xfd6f_scanner"/>
 </resources>

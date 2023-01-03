@@ -1,22 +1,12 @@
 <resources>
-
-	<!-- Der Postillon --><AppIcon name="com.postillon/io.gonative.android.SplashActivity" image="der_postillon"/>
+	
 	<!-- AirConsole --><AppIcon name="com.airconsole.controller/com.airconsole.controller.MainActivity" image="airconsole"/>
 	<!-- Clash of Clans --><AppIcon name="com.supercell.clashofclans/com.supercell.titan.GameApp" image="clash_of_clans"/>
 	<!-- Commute --><AppIcon name="com.mediocre.commute/com.mediocre.commute.Main" image="commute"/>
-	<!-- Microsoft SwiftKey-Tastatur --><AppIcon name="com.touchtype.swiftkey/com.touchtype.LauncherActivityIcon" image="microsoft_swiftkey_tastatur"/>
-	<!-- Onleihe --><AppIcon name="de.etecture.ekz.onleihe/de.etecture.ekz.onleihe.activity.SplashScreenActivity" image="onleihe"/>
 	<!-- Pixel Wheels --><AppIcon name="com.agateau.tinywheels.android/com.agateau.pixelwheels.android.AndroidLauncher" image="pixel_wheels"/>
-	<!-- UUID 0xFD6F Scanner --><AppIcon name="com.emacberry.uuid0xfd6fscan/com.emacberry.uuid0xfd6fscan.ScannerActivity" image="uuid_0xfd6f_scanner"/>
 	<!-- Watten --><AppIcon name="stefanlukasv.googlemail.com.watten/stefanlukasv.googlemail.com.watten.SplashActivity" image="watten"/>
-	<!-- Duolingo --><AppIcon name="com.duolingo/com.duolingo.app.LoginActivity" image="duolingo"/>
 	<!-- ING Banking --><AppIcon name="de.ingdiba.bankingapp/com.ing.mobile.diba.startup.SplashActivity" image="ing_banking"/>
 	<!-- S-pushTAN --><AppIcon name="com.starfinanz.mobile.android.pushtan/com.starfinanz.mobile.android.spushtan.SPushTan" image="s_pushtan"/>
-	<!-- Lieferando --><AppIcon name="com.yopeso.lieferando/com.takeaway.android.activity.Splash" image="lieferando"/>
-	<!-- Samsung Flow --><AppIcon name="com.samsung.android.galaxycontinuity/com.samsung.android.galaxycontinuity.SplashActivity" image="samsung_flow"/>
-	<!-- Skype --><AppIcon name="com.skype.raider/com.skype4life.MainActivity" image="skype"/>
-	<!-- Teams --><AppIcon name="com.microsoft.teams/com.microsoft.skype.teams.Launcher" image="teams"/>
-	<!-- Theme Park --><AppIcon name="com.samsung.android.themedesigner/com.samsung.android.themedesigner.SplashActivity" image="theme_park"/>
 	<!-- Zoom --><AppIcon name="us.zoom.videomeetings/com.zipow.videobox.LauncherActivity" image="zoom"/>
 	
 </resources>

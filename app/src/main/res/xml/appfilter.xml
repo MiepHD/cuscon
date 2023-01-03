@@ -304,5 +304,15 @@
 	<!-- FRITZ!App WLAN --><item component="ComponentInfo{de.avm.android.wlanapp/de.avm.android.wlanapp.permissions.LocationPermissionActivity}" drawable="fritz_app_wlan" />
 	<!-- WlanScanner by Latetech --><item component="ComponentInfo{com.Latetech.WlanScanner/com.Latetech.WlanScanner.MainActivity}" drawable="wlanscanner_by_latetech" />
 	<!-- WiFi Monitor Pro --><item component="ComponentInfo{com.signalmonitoring.wifimonitoringpro/com.signalmonitoring.wifilib.ui.activities.MonitoringActivity}" drawable="wifi_monitor_pro" />
+    <!-- Microsoft SwiftKey-Tastatur --><item component="ComponentInfo{com.touchtype.swiftkey/com.touchtype.LauncherActivityIcon}" drawable="microsoft_swiftkey_tastatur" />
+	<!-- Onleihe --><item component="ComponentInfo{de.etecture.ekz.onleihe/de.etecture.ekz.onleihe.activity.SplashScreenActivity}" drawable="onleihe" />
+	<!-- Der Postillon --><item component="ComponentInfo{com.postillon/io.gonative.android.SplashActivity}" drawable="der_postillon" />
+	<!-- Duolingo --><item component="ComponentInfo{com.duolingo/com.duolingo.app.LoginActivity}" drawable="duolingo" />
+	<!-- Lieferando --><item component="ComponentInfo{com.yopeso.lieferando/com.takeaway.android.activity.Splash}" drawable="lieferando" />
+	<!-- Samsung Flow --><item component="ComponentInfo{com.samsung.android.galaxycontinuity/com.samsung.android.galaxycontinuity.SplashActivity}" drawable="samsung_flow" />
+	<!-- Skype --><item component="ComponentInfo{com.skype.raider/com.skype4life.MainActivity}" drawable="skype" />
+	<!-- Teams --><item component="ComponentInfo{com.microsoft.teams/com.microsoft.skype.teams.Launcher}" drawable="teams" />
+	<!-- Theme Park --><item component="ComponentInfo{com.samsung.android.themedesigner/com.samsung.android.themedesigner.SplashActivity}" drawable="theme_park" />
+	<!-- UUID 0xFD6F Scanner --><item component="ComponentInfo{com.emacberry.uuid0xfd6fscan/com.emacberry.uuid0xfd6fscan.ScannerActivity}" drawable="uuid_0xfd6f_scanner" />
 
 </resources>
