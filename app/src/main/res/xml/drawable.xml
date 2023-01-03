@@ -18,7 +18,6 @@
     <!-- DJI Fly --><item drawable="dji_fly" />
     <!-- Aldi Talk --><item drawable="aldi_talk" />
     <!-- Kilterboard --><item drawable="kilterboard" />
-    <!-- Cuscon --><item drawable="cuscon" />
     <!-- Bahnhofsfotos --><item drawable="bahnhofsfotos" />
     <!-- BetterCounter --><item drawable="bettercounter" />
     <!-- c:geo --><item drawable="c_geo" />
@@ -31,7 +30,6 @@
     <!-- CubeX --><item drawable="cubex" />
     <!-- MiraPlug --><item drawable="miraplug" />
     <!-- TCL Connect --><item drawable="tcl_connect" />
-    <!-- Lawnchair-Einstellungen --><item drawable="lawnchair_einstellungen" />
     <!-- Reminder --><item drawable="reminder" />
     <!-- Info Dienste --><item drawable="info_dienste" />
     <!--Symbolab --><item drawable="symbolab" />
@@ -50,18 +48,12 @@
     <!-- Moto--><item drawable="moto"/>
     <!-- PayPal --><item drawable="paypal"/>
 	<!-- FAST Speed Test--><AppIcon drawable="fast_speed_test"/>
-	<!-- Mi O2--><AppIcon drawable="my_o2"/>
-	<!-- Mein O2 --><AppIcon drawable="my_o2"/>
 	<!-- My O2 --><AppIcon drawable="my_o2"/>
-	<!-- My O2 --><AppIcon drawable="my_o2"/>
-	<!-- O2 --><AppIcon drawable="my_o2"/>
 	<!-- Mou-te--><AppIcon drawable="mou_te"/>
 	<!-- Motorola Notifications--><AppIcon drawable="motorola_notifications"/>
 	<!-- D-Link Wi-Fi --><item drawable="d_link_wi_fi"/>
     <!-- Microsoft SwiftKey-Tastatur --><item name="microsoft_swiftkey_tastatur"/>
     <!-- Onleihe --><item name="onleihe"/>
-    <!-- CandyBar Dev --><item name="candybar_dev"/>
-    <!-- Delta --><item name="delta"/>
 
     <category title="Stores" />
     <item drawable="apkpure" />
@@ -83,6 +75,7 @@
     <category title="Launcher" />
     <!-- Apex Launcher --><item drawable="apex_launcher"/>
     <!-- Lawnchair --><item drawable="lawnchair"/>
+    <!-- Lawnchair-Einstellungen --><item drawable="lawnchair_einstellungen" />
     <!-- Nova Launcher--><AppIcon drawable="nova_launcher"/>
 	<!-- Nova Launcher Prime--><AppIcon drawable="nova_launcher_prime"/>
 
@@ -313,4 +306,10 @@
     <!-- KFZ-Kennzeichen --><item drawable="kfz_kennzeichen" />
     <!-- DSBmobile --><item drawable="dsbmobile"/>
     <!-- UUID 0xFD6F Scanner --><item name="uuid_0xfd6f_scanner"/>
+
+    <category title="Icon Packs" />
+    <!-- Cuscon --><item drawable="cuscon" />
+    <!-- CandyBar Dev --><item name="candybar_dev"/>
+    <!-- Delta --><item name="delta"/>
+
 </resources>
