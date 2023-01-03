@@ -320,6 +320,6 @@
 	<!-- Jojoy --><item component="ComponentInfo{io.jojoy/com.example.MainActivity}" drawable="jojoy" />
 	<!-- Steam --><item component="ComponentInfo{com.valvesoftware.android.steam.community/com.valvesoftware.android.steam.community.MainActivity}" drawable="steam" />
 	<!-- VirusTotal Mobile --><item component="ComponentInfo{com.funnycat.virustotal/com.funnycat.virustotal.ui.splash.SplashActivity}" drawable="virustotal_mobile" />
-	<!-- YouTube Revanced --><item component="ComponentInfo{app.revanced.android.youtube/com.google.android.youtube.app.honeycomb.ShellHomeActivity}" drawable="youtube_revanced" />
+	<!-- YouTube Revanced --><item component="ComponentInfo{app.revanced.android.youtube/com.google.android.youtube.app.honeycomb.Shell$HomeActivity}" drawable="youtube_revanced" />
 
 </resources>
