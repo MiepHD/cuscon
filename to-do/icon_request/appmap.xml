@@ -8,5 +8,7 @@
 	<!-- ING Banking --><item class="com.ing.mobile.diba.startup.SplashActivity" name="ing_banking"/>
 	<!-- S-pushTAN --><item class="com.starfinanz.mobile.android.spushtan.SPushTan" name="s_pushtan"/>
 	<!-- Zoom --><item class="com.zipow.videobox.LauncherActivity" name="zoom"/>
+	<!-- BeReal. --><item class="bereal.app.MainActivity" name="bereal"/>
+	<!-- Joyn --><item class="de.prosiebensat1digital.playerpluggable.testapp.splash.SplashActivity" name="joyn"/>
 
 </resources>

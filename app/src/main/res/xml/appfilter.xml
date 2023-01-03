@@ -314,5 +314,12 @@
 	<!-- Teams --><item component="ComponentInfo{com.microsoft.teams/com.microsoft.skype.teams.Launcher}" drawable="teams" />
 	<!-- Theme Park --><item component="ComponentInfo{com.samsung.android.themedesigner/com.samsung.android.themedesigner.SplashActivity}" drawable="theme_park" />
 	<!-- UUID 0xFD6F Scanner --><item component="ComponentInfo{com.emacberry.uuid0xfd6fscan/com.emacberry.uuid0xfd6fscan.ScannerActivity}" drawable="uuid_0xfd6f_scanner" />
+    <!-- AdGuard VPN --><item component="ComponentInfo{com.adguard.vpn/com.adguard.vpn.ui.SplashActivity}" drawable="adguard_vpn" />
+	<!-- CandyBar Dev --><item component="ComponentInfo{com.candybar.dev/com.candybar.dev.activities.SplashActivity}" drawable="candybar_dev" />
+	<!-- Delta --><item component="ComponentInfo{website.leifs.delta/website.leifs.delta.activities.SplashActivity}" drawable="delta" />
+	<!-- Jojoy --><item component="ComponentInfo{io.jojoy/com.example.MainActivity}" drawable="jojoy" />
+	<!-- Steam --><item component="ComponentInfo{com.valvesoftware.android.steam.community/com.valvesoftware.android.steam.community.MainActivity}" drawable="steam" />
+	<!-- VirusTotal Mobile --><item component="ComponentInfo{com.funnycat.virustotal/com.funnycat.virustotal.ui.splash.SplashActivity}" drawable="virustotal_mobile" />
+	<!-- YouTube Revanced --><item component="ComponentInfo{app.revanced.android.youtube/com.google.android.youtube.app.honeycomb.ShellHomeActivity}" drawable="youtube_revanced" />
 
 </resources>

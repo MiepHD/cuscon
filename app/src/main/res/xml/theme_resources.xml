@@ -300,5 +300,12 @@
 	<!-- Skype --><AppIcon name="com.skype.raider/com.skype4life.MainActivity" image="skype"/>
 	<!-- Teams --><AppIcon name="com.microsoft.teams/com.microsoft.skype.teams.Launcher" image="teams"/>
 	<!-- Theme Park --><AppIcon name="com.samsung.android.themedesigner/com.samsung.android.themedesigner.SplashActivity" image="theme_park"/>
+    <!-- AdGuard VPN --><AppIcon name="com.adguard.vpn/com.adguard.vpn.ui.SplashActivity" image="adguard_vpn"/>
+	<!-- CandyBar Dev --><AppIcon name="com.candybar.dev/com.candybar.dev.activities.SplashActivity" image="candybar_dev"/>
+	<!-- Delta --><AppIcon name="website.leifs.delta/website.leifs.delta.activities.SplashActivity" image="delta"/>
+	<!-- Jojoy --><AppIcon name="io.jojoy/com.example.MainActivity" image="jojoy"/>
+	<!-- Steam --><AppIcon name="com.valvesoftware.android.steam.community/com.valvesoftware.android.steam.community.MainActivity" image="steam"/>
+	<!-- VirusTotal Mobile --><AppIcon name="com.funnycat.virustotal/com.funnycat.virustotal.ui.splash.SplashActivity" image="virustotal_mobile"/>
+	<!-- YouTube Revanced --><AppIcon name="app.revanced.android.youtube/com.google.android.youtube.app.honeycomb.Shell$HomeActivity" image="youtube_revanced"/>
 
 </Theme>

@@ -1580,5 +1580,41 @@
 		"author": "MiepHD",
 		"src": "theme_park",
 		"category": "design"
+	},
+	{
+		"title": "AdGuard VPN",
+		"author": "MiepHD",
+		"src": "adguard_vpn",
+		"category": "vpn"
+	},
+	{
+		"title": "CandyBar Dev",
+		"author": "MiepHD",
+		"src": "candybar_dev",
+		"category": "other"
+	},
+	{
+		"title": "Delta",
+		"author": "MiepHD",
+		"src": "delta",
+		"category": "other"
+	},
+	{
+		"title": "Jojoy",
+		"author": "MiepHD",
+		"src": "jojoy",
+		"category": "stores"
+	},
+	{
+		"title": "VirusTotal Mobile",
+		"author": "MiepHD",
+		"src": "virustotal_mobile",
+		"category": "security"
+	},
+	{
+		"title": "YouTube Revanced",
+		"author": "MiepHD",
+		"src": "youtube_revanced",
+		"category": "video-streaming"
 	}
 ]

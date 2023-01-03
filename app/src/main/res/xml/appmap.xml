@@ -293,5 +293,12 @@
 	<!-- Skype --><item class="com.skype4life.MainActivity" name="skype"/>
 	<!-- Teams --><item class="com.microsoft.skype.teams.Launcher" name="teams"/>
 	<!-- Theme Park --><item class="com.samsung.android.themedesigner.SplashActivity" name="theme_park"/>
+    <!-- AdGuard VPN --><item class="com.adguard.vpn.ui.SplashActivity" name="adguard_vpn"/>
+	<!-- CandyBar Dev --><item class="com.candybar.dev.activities.SplashActivity" name="candybar_dev"/>
+	<!-- Delta --><item class="website.leifs.delta.activities.SplashActivity" name="delta"/>
+	<!-- Jojoy --><item class="com.example.MainActivity" name="jojoy"/>
+	<!-- Steam --><item class="com.valvesoftware.android.steam.community.MainActivity" name="steam"/>
+	<!-- VirusTotal Mobile --><item class="com.funnycat.virustotal.ui.splash.SplashActivity" name="virustotal_mobile"/>
+	<!-- YouTube Revanced --><item class="com.google.android.youtube.app.honeycomb.Shell$HomeActivity" name="youtube_revanced"/>
 
 </appmap>

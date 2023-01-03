@@ -8,5 +8,7 @@
 	<!-- ING Banking --><AppIcon name="de.ingdiba.bankingapp/com.ing.mobile.diba.startup.SplashActivity" image="ing_banking"/>
 	<!-- S-pushTAN --><AppIcon name="com.starfinanz.mobile.android.pushtan/com.starfinanz.mobile.android.spushtan.SPushTan" image="s_pushtan"/>
 	<!-- Zoom --><AppIcon name="us.zoom.videomeetings/com.zipow.videobox.LauncherActivity" image="zoom"/>
+	<!-- BeReal. --><AppIcon name="com.bereal.ft/bereal.app.MainActivity" image="bereal"/>
+	<!-- Joyn --><AppIcon name="de.prosiebensat1digital.seventv/de.prosiebensat1digital.playerpluggable.testapp.splash.SplashActivity" image="joyn"/>
 	
 </resources>

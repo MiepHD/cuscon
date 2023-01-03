@@ -60,6 +60,8 @@
 	<!-- D-Link Wi-Fi --><item drawable="d_link_wi_fi"/>
     <!-- Microsoft SwiftKey-Tastatur --><item name="microsoft_swiftkey_tastatur"/>
     <!-- Onleihe --><item name="onleihe"/>
+    <!-- CandyBar Dev --><item name="candybar_dev"/>
+    <!-- Delta --><item name="delta"/>
 
     <category title="Stores" />
     <item drawable="apkpure" />
@@ -76,6 +78,7 @@
     <!-- Apkmody --><item drawable="apkmody" />
     <!-- Zalando --><item drawable="zalando"/>
     <!-- Lieferando --><item name="lieferando"/>
+    <!-- Jojoy --><item name="jojoy"/>
 
     <category title="Launcher" />
     <!-- Apex Launcher --><item drawable="apex_launcher"/>
@@ -95,6 +98,7 @@
     <!-- VLC --><item drawable="vlc" />
     <!-- VR Media Player --><item drawable="vr_media_player" />
     <!-- TikTok --><item drawable="tiktok"/>
+    <!-- YouTube Revanced --><item name="youtube_revanced"/>
 
     <category title="Music Streaming" />
     <item drawable="amazon_music" />
@@ -213,6 +217,7 @@
     <!-- Adguard --><item drawable="adguard" />
     <!-- Cloudflare Warp --><item drawable="cloudflare_warp" />
     <!-- WireGuard --><item drawable="wireguard" />
+    <!-- AdGuard VPN --><item name="adguard_vpn"/>
 
     <category title="Camera" />
     <!-- Open Camera --><item drawable="open_camera" />
@@ -264,6 +269,7 @@
     <!-- Shelter --><item drawable="shelter" />
     <!-- Warden --><item drawable="warden" />
     <!-- Microsoft Authenticator --><item drawable="microsoft_authenticator"/>
+    <!-- VirusTotal Mobile --><item name="virustotal_mobile"/>
 
     <category title="Learning" />
     <!-- Quizlet --><item drawable="quizlet" />
