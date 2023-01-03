@@ -12,14 +12,6 @@
 	<!-- Duolingo --><AppIcon name="com.duolingo/com.duolingo.app.LoginActivity" image="duolingo"/>
 	<!-- ING Banking --><AppIcon name="de.ingdiba.bankingapp/com.ing.mobile.diba.startup.SplashActivity" image="ing_banking"/>
 	<!-- S-pushTAN --><AppIcon name="com.starfinanz.mobile.android.pushtan/com.starfinanz.mobile.android.spushtan.SPushTan" image="s_pushtan"/>
-	<!-- D-Link Wi-Fi--><AppIcon name="com.dlink.dlinkwifi/com.mydlink.unify.activity.Launch2Activity" image="d_link_wi_fi"/>
-	<!-- Gestor de Redes--><AppIcon name="com.eakteam.networkmanager.pro/com.eakteam.networkmanager.pro.activities.paneli_kryesor" image="gestor_de_redes"/>
-	<!-- Radio FM--><AppIcon name="com.motorola.fmplayer/com.motorola.fmplayer.ChangeThemeActivity" image="radio_fm"/>
-	<!-- Sweech--><AppIcon name="com.sweech/com.sweech.MainActivity" image="sweech"/>
-	<!-- WiFi Monitor Pro--><AppIcon name="com.signalmonitoring.wifimonitoringpro/com.signalmonitoring.wifilib.ui.activities.MonitoringActivity" image="wifi_monitor_pro"/>
-	<!-- WiFiman--><AppIcon name="com.ubnt.usurvey/com.ubnt.usurvey.ui.app.splash.SplashActivity" image="wifiman"/>
-	<!-- WLAN--><AppIcon name="de.avm.android.wlanapp/de.avm.android.wlanapp.permissions.LocationPermissionActivity" image="wlan"/>
-	<!-- WlanScanner by Latetech--><AppIcon name="com.Latetech.WlanScanner/com.Latetech.WlanScanner.MainActivity" image="wlanscanner_by_latetech"/>
 	<!-- Lieferando --><AppIcon name="com.yopeso.lieferando/com.takeaway.android.activity.Splash" image="lieferando"/>
 	<!-- Samsung Flow --><AppIcon name="com.samsung.android.galaxycontinuity/com.samsung.android.galaxycontinuity.SplashActivity" image="samsung_flow"/>
 	<!-- Skype --><AppIcon name="com.skype.raider/com.skype4life.MainActivity" image="skype"/>

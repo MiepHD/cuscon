@@ -294,5 +294,15 @@
 	<!-- Nova Launcher --><item component="ComponentInfo{com.teslacoilsw.launcher/com.teslacoilsw.launcher.NovaShortcutHandler}" drawable="nova_launcher" />
 	<!-- Nova Launcher Prime --><item component="ComponentInfo{com.teslacoilsw.launcher.prime/com.teslacoilsw.launcher.prime.NovaLauncherPrimeActivity}" drawable="nova_launcher_prime" />
 	<!-- Port Authority --><item component="ComponentInfo{com.aaronjwood.portauthority.free/com.aaronjwood.portauthority.activity.MainActivity}" drawable="port_authority" />
+    <!-- 1Tap Cleaner Pro --><item component="ComponentInfo{com.a0soft.gphone.acc.pro/com.a0soft.gphone.acc.pro.MainWnd}" drawable="_1tap_cleaner_pro" />
+	<!-- Weather Station - Barometer --><item component="ComponentInfo{com.robobobo.apps.aws/com.ansca.corona.CoronaActivity}" drawable="weather_station_barometer" />
+	<!-- D-Link Wi-Fi --><item component="ComponentInfo{com.dlink.dlinkwifi/com.mydlink.unify.activity.Launch2Activity}" drawable="d_link_wi_fi" />
+	<!-- NetMan --><item component="ComponentInfo{com.eakteam.networkmanager.pro/com.eakteam.networkmanager.pro.activities.paneli_kryesor}" drawable="netman" />
+	<!-- Radio FM --><item component="ComponentInfo{com.motorola.fmplayer/com.motorola.fmplayer.ChangeThemeActivity}" drawable="radio_fm" />
+	<!-- Sweech --><item component="ComponentInfo{com.sweech/com.sweech.MainActivity}" drawable="sweech" />
+	<!-- WiFiman --><item component="ComponentInfo{com.ubnt.usurvey/com.ubnt.usurvey.ui.app.splash.SplashActivity}" drawable="wifiman" />
+	<!-- FRITZ!App WLAN --><item component="ComponentInfo{de.avm.android.wlanapp/de.avm.android.wlanapp.permissions.LocationPermissionActivity}" drawable="fritz_app_wlan" />
+	<!-- WlanScanner by Latetech --><item component="ComponentInfo{com.Latetech.WlanScanner/com.Latetech.WlanScanner.MainActivity}" drawable="wlanscanner_by_latetech" />
+	<!-- WiFi Monitor Pro --><item component="ComponentInfo{com.signalmonitoring.wifimonitoringpro/com.signalmonitoring.wifilib.ui.activities.MonitoringActivity}" drawable="wifi_monitor_pro" />
 
 </resources>

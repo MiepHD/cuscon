@@ -273,5 +273,15 @@
 	<!-- FAST Speed Test--><item class="com.netflix.Speedtest.MainActivity" name="fast_speed_test"/>
 	<!-- Moto Camera 3--><item class="com.motorola.camera.Camera" name="moto_camera_3"/>
 	<!-- Port Authority--><item class="com.aaronjwood.portauthority.activity.MainActivity" name="port_authority"/>
+    <!-- 1Tap Cleaner Pro --><item class="com.a0soft.gphone.acc.pro.MainWnd" name="_1tap_cleaner_pro"/>
+	<!-- Weather Station - Barometer --><item class="com.ansca.corona.CoronaActivity" name="weather_station_barometer"/>
+	<!-- D-Link Wi-Fi --><item class="com.mydlink.unify.activity.Launch2Activity" name="d_link_wi_fi"/>
+	<!-- NetMan --><item class="com.eakteam.networkmanager.pro.activities.paneli_kryesor" name="netman"/>
+	<!-- Radio FM --><item class="com.motorola.fmplayer.ChangeThemeActivity" name="radio_fm"/>
+	<!-- Sweech --><item class="com.sweech.MainActivity" name="sweech"/>
+	<!-- WiFiman --><item class="com.ubnt.usurvey.ui.app.splash.SplashActivity" name="wifiman"/>
+	<!-- FRITZ!App WLAN --><item class="de.avm.android.wlanapp.permissions.LocationPermissionActivity" name="fritz_app_wlan"/>
+	<!-- WlanScanner by Latetech --><item class="com.Latetech.WlanScanner.MainActivity" name="wlanscanner_by_latetech"/>
+	<!-- WiFi Monitor Pro--><item class="com.signalmonitoring.wifilib.ui.activities.MonitoringActivity" name="wifi_monitor_pro"/>
 
 </appmap>

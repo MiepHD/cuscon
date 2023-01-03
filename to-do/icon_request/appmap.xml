@@ -12,14 +12,6 @@
 	<!-- Duolingo --><item class="com.duolingo.app.LoginActivity" name="duolingo"/>
 	<!-- ING Banking --><item class="com.ing.mobile.diba.startup.SplashActivity" name="ing_banking"/>
 	<!-- S-pushTAN --><item class="com.starfinanz.mobile.android.spushtan.SPushTan" name="s_pushtan"/>
-	<!-- D-Link Wi-Fi--><item class="com.mydlink.unify.activity.Launch2Activity" name="d_link_wi_fi"/>
-	<!-- Gestor de Redes--><item class="com.eakteam.networkmanager.pro.activities.paneli_kryesor" name="gestor_de_redes"/>
-	<!-- Radio FM--><item class="com.motorola.fmplayer.ChangeThemeActivity" name="radio_fm"/>
-	<!-- Sweech--><item class="com.sweech.MainActivity" name="sweech"/>
-	<!-- WiFi Monitor Pro--><item class="com.signalmonitoring.wifilib.ui.activities.MonitoringActivity" name="wifi_monitor_pro"/>
-	<!-- WiFiman--><item class="com.ubnt.usurvey.ui.app.splash.SplashActivity" name="wifiman"/>
-	<!-- WLAN--><item class="de.avm.android.wlanapp.permissions.LocationPermissionActivity" name="wlan"/>
-	<!-- WlanScanner by Latetech--><item class="com.Latetech.WlanScanner.MainActivity" name="wlanscanner_by_latetech"/>
 	<!-- Lieferando --><item class="com.takeaway.android.activity.Splash" name="lieferando"/>
 	<!-- Samsung Flow --><item class="com.samsung.android.galaxycontinuity.SplashActivity" name="samsung_flow"/>
 	<!-- Skype --><item class="com.skype4life.MainActivity" name="skype"/>

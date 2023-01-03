@@ -57,6 +57,7 @@
 	<!-- O2 --><AppIcon drawable="my_o2"/>
 	<!-- Mou-te--><AppIcon drawable="mou_te"/>
 	<!-- Motorola Notifications--><AppIcon drawable="motorola_notifications"/>
+	<!-- D-Link Wi-Fi --><item drawable="d_link_wi_fi"/>
 
     <category title="Stores" />
     <item drawable="apkpure" />
@@ -103,6 +104,7 @@
     <!-- Radio --><item drawable="radio"/>
     <!-- Play Music --><item drawable="play_music"/>
     <!-- Spotify --><item drawable="spotify"/>
+    <!-- Radio FM --><item drawable="radio_fm"/>
 
     <category title="Games" />
     <item drawable="darkland" />
@@ -178,6 +180,12 @@
     <!-- Good Guardians --><item drawable="good_guardians"/>
     <!-- iwscan--><AppIcon drawable="iwscan"/>
     <!-- Port Authority--><AppIcon drawable="port_authority"/>
+    <!-- 1Tap Cleaner Pro --><item drawable="_1tap_cleaner_pro"/>
+    <!-- NetMan --><item drawable="netman"/>
+    <!-- WiFiman --><item drawable="wifiman"/>
+	<!-- FRITZ!App WLAN --><item drawable="fritz_app_wlan"/>
+    <!-- WlanScanner by Latetech --><item drawable="wlanscanner_by_latetech"/>
+	<!-- WiFi Monitor Pro--><item drawable="wifi_monitor_pro"/>
 
     <category title="Documents" />
     <item drawable="adobe_acrobat_reader" />
@@ -232,6 +240,7 @@
     <!-- MEGA --><item drawable="mega"/>
     <!-- OneDrive --><item drawable="onedrive"/>
     <!-- Google Files --><item drawable="google_files" />
+    <!-- Sweech --><item drawable="sweech"/>
 
     <category title="Gallery" />
     <!-- Samsung Gallary --><item drawable="samsung_gallary" />
@@ -263,6 +272,7 @@
     <category title="News" />
     <!-- Newszone --><item drawable="newszone" />
     <!-- Weather --><item drawable="weather" />
+    <!-- Weather Station - Barometer --><item drawable="weather_station_barometer"/>
 
     <category title="Design" />
     <!-- Pocket Paint --><item drawable="pocket_paint" />

@@ -12,14 +12,6 @@
 	<!-- Duolingo --><item component="ComponentInfo{com.duolingo/com.duolingo.app.LoginActivity}" drawable="duolingo" />
 	<!-- ING Banking --><item component="ComponentInfo{de.ingdiba.bankingapp/com.ing.mobile.diba.startup.SplashActivity}" drawable="ing_banking" />
 	<!-- S-pushTAN --><item component="ComponentInfo{com.starfinanz.mobile.android.pushtan/com.starfinanz.mobile.android.spushtan.SPushTan}" drawable="s_pushtan" />
-	<!-- D-Link Wi-Fi --><item component="ComponentInfo{com.dlink.dlinkwifi/com.mydlink.unify.activity.Launch2Activity}" drawable="d_link_wi_fi" />
-	<!-- Gestor de Redes --><item component="ComponentInfo{com.eakteam.networkmanager.pro/com.eakteam.networkmanager.pro.activities.paneli_kryesor}" drawable="gestor_de_redes" />
-	<!-- Radio FM --><item component="ComponentInfo{com.motorola.fmplayer/com.motorola.fmplayer.ChangeThemeActivity}" drawable="radio_fm" />
-	<!-- Sweech --><item component="ComponentInfo{com.sweech/com.sweech.MainActivity}" drawable="sweech" />
-	<!-- WiFi Monitor Pro --><item component="ComponentInfo{com.signalmonitoring.wifimonitoringpro/com.signalmonitoring.wifilib.ui.activities.MonitoringActivity}" drawable="wifi_monitor_pro" />
-	<!-- WiFiman --><item component="ComponentInfo{com.ubnt.usurvey/com.ubnt.usurvey.ui.app.splash.SplashActivity}" drawable="wifiman" />
-	<!-- WLAN --><item component="ComponentInfo{de.avm.android.wlanapp/de.avm.android.wlanapp.permissions.LocationPermissionActivity}" drawable="wlan" />
-	<!-- WlanScanner by Latetech --><item component="ComponentInfo{com.Latetech.WlanScanner/com.Latetech.WlanScanner.MainActivity}" drawable="wlanscanner_by_latetech" />
 	<!-- Lieferando --><item component="ComponentInfo{com.yopeso.lieferando/com.takeaway.android.activity.Splash}" drawable="lieferando" />
 	<!-- Samsung Flow --><item component="ComponentInfo{com.samsung.android.galaxycontinuity/com.samsung.android.galaxycontinuity.SplashActivity}" drawable="samsung_flow" />
 	<!-- Skype --><item component="ComponentInfo{com.skype.raider/com.skype4life.MainActivity}" drawable="skype" />

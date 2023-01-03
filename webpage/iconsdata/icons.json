@@ -1460,5 +1460,65 @@
 		"author": "MiepHD",
 		"src": "port_authority",
 		"category": "tools"
+	},
+	{
+		"title": "1Tap Cleaner Pro",
+		"author": "MiepHD",
+		"src": "1tap_cleaner_pro",
+		"category": "tools"
+	},
+	{
+		"title": "Weather Station - Barometer",
+		"author": "MiepHD",
+		"src": "weather_station_barometer",
+		"category": "news"
+	},
+	{
+		"title": "D-Link Wi-Fi",
+		"author": "MiepHD",
+		"src": "d_link_wi_fi",
+		"category": "other"
+	},
+	{
+		"title": "NetMan",
+		"author": "MiepHD",
+		"src": "netman",
+		"category": "tools"
+	},
+	{
+		"title": "Radio FM",
+		"author": "MiepHD",
+		"src": "radio_fm",
+		"category": "music-streaming"
+	},
+	{
+		"title": "Sweech",
+		"author": "MiepHD",
+		"src": "sweech",
+		"category": "files"
+	},
+	{
+		"title": "WiFiman",
+		"author": "MiepHD",
+		"src": "wifiman",
+		"category": "tools"
+	},
+	{
+		"title": "FRITZ!App WLAN",
+		"author": "MiepHD",
+		"src": "fritz_app_wlan",
+		"category": "tools"
+	},
+	{
+		"title": "WlanScanner by Latetech",
+		"author": "MiepHD",
+		"src": "wlanscanner_by_latetech",
+		"category": "tools"
+	},
+	{
+		"title": "WiFi Monitor Pro",
+		"author": "MiepHD",
+		"src": "wifi_monitor_pro",
+		"category": "tools"
 	}
 ]
