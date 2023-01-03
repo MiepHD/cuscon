@@ -78,5 +78,9 @@
   {
     "title": "Information",
     "id": "information"
+  },
+  {
+    "title": "Icon Packs",
+    "id": "icon_packs"
   }
 ]
