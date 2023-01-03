@@ -6,7 +6,7 @@
     <item drawable="covpass" />
     <item drawable="github" />
     <item drawable="i_net_menue" />
-    <item drawable="samsung_calander" />
+    <item drawable="samsung_calendar" />
     <item drawable="clock" />
     <item drawable="amc_cooking" />
     <item drawable="voicenote" />
@@ -247,7 +247,7 @@
     <!-- Sweech --><item drawable="sweech"/>
 
     <category title="Gallery" />
-    <!-- Samsung Gallary --><item drawable="samsung_gallary" />
+    <!-- Samsung Gallary --><item drawable="samsung_gallery" />
     <!-- Gallery--><item drawable="gallery" />
     <!-- Google Photos --><item drawable="google_photos" />
     <!-- Camera Roll --><item drawable="camera_roll" />

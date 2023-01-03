@@ -23,7 +23,7 @@
     <item class="info.xolf.homeworker.MainActivity" image="homeworker"/>
     <item class="com.journaldev.barcodevisionapi.MainActivity" image="i_net_menue"/>
     <item class="com.instagram.android.activity.MainTabActivity" image="instagram"/>
-    <item class="com.samsung.android.app.calendar.activity.MainActivity" image="samsung_calander"/>
+    <item class="com.samsung.android.app.calendar.activity.MainActivity" image="samsung_calendar"/>
     <item class="com.android.camera.LaunchActivity" image="samsung_camera"/>
     <item class="com.android.keepass.KeePass" image="keepass"/>
     <item class="com.unity3d.player.UnityPlayerActivity" image="klocki"/>
@@ -103,7 +103,7 @@
     <item class="com.simplemobiletools.filemanager.pro.activities.SplashActivity.Orange" name="samsung_files"/>
     <item class="com.android.settings.Settings" image="settings"/>
     <item class="com.easilydo.mail.ui.SplashActivity" image="samsung_mail"/>
-    <item class="com.android.gallery3d.app.GalleryActivity" image="samsung_gallary"/>
+    <item class="com.android.gallery3d.app.GalleryActivity" image="samsung_gallery"/>
     <item class="com.android.calendar.AllInOneActivity" image="samsung_calander"/>
     <item class="com.android.contacts.activities.PeopleActivity" image="samsung_contacts"/>
     <item class="org.lineageos.eleven.ui.activities.HomeActivity" image="samsung_music"/>

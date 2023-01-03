@@ -19,14 +19,14 @@
     <AppIcon name="com.sec.android.app.myfiles/com.sec.android.app.myfiles.external.ui.MainActivity" image="samsung_files"/>
 	<AppIcon name="com.simplemobiletools.filemanager.pro/com.simplemobiletools.filemanager.pro.activities.SplashActivity.Orange" image="samsung_files"/>
     <AppIcon name="org.fdroid.fdroid/org.fdroid.fdroid.views.main.MainActivity" image="f_droid"/>
-    <AppIcon name="com.sec.android.gallery3d/com.samsung.android.gallery.app.activity.GalleryActivity" image="samsung_gallary"/>
+    <AppIcon name="com.sec.android.gallery3d/com.samsung.android.gallery.app.activity.GalleryActivity" image="samsung_gallery"/>
     <AppIcon name="com.github.android/com.github.android.activities.MainActivity" image="github"/>
     <AppIcon name="com.google.android.gm/com.google.android.gm.ConversationListActivityGmail" image="gmail"/>
     <AppIcon name="net.gutefrage.android/net.gutefrage.android.MainActivity" image="gutefrage"/>
     <AppIcon name="info.xolf.homeworker/info.xolf.homeworker.MainActivity" image="homeworker"/>
     <AppIcon name="com.scs.inet/com.journaldev.barcodevisionapi.MainActivity" image="i_net_menue"/>
     <AppIcon name="com.instagram.android/com.instagram.android.activity.MainTabActivity" image="instagram"/>
-    <AppIcon name="com.samsung.android.calendar/com.samsung.android.app.calendar.activity.MainActivity" image="samsung_calander"/>
+    <AppIcon name="com.samsung.android.calendar/com.samsung.android.app.calendar.activity.MainActivity" image="samsung_calendar"/>
     <AppIcon name="tools.photo.hd.camera/com.android.camera.LaunchActivity" image="samsung_camera"/>
     <AppIcon name="com.android.keepass/com.android.keepass.KeePass" image="keepass"/>
     <AppIcon name="com.klockigame.klocki/com.unity3d.player.UnityPlayerActivity" image="klocki"/>
@@ -44,8 +44,9 @@
     <AppIcon name="com.samsung.android.soundassistant/com.sec.android.soundassistant.activities.MainActivity" image="samsung_sound_assistant"/>
     <AppIcon name="com.sandrotraettino.games.spingram/com.unity3d.player.UnityPlayerActivity" image="spingram"/>
     <AppIcon name="com.valvesoftware.android.steam.community/com.valvesoftware.android.steam.community.activity.MainActivity" image="steam"/>
+    <!-- Calculator-->
     <AppIcon name="com.sec.android.app.popupcalculator/com.sec.android.app.popupcalculator.Calculator" image="samsung_calculator"/>
-    <!-- Calculator--><AppIcon name="com.google.android.calculator/com.android.calculator2.Calculator" image="samsung_calculator"/>
+    <AppIcon name="com.google.android.calculator/com.android.calculator2.Calculator" image="samsung_calculator"/>
     <!-- Clock-->
     <AppIcon name="com.sec.android.app.clockpackage/com.sec.android.app.clockpackage.ClockPackage" image="clock"/>
     <AppIcon name="com.google.android.deskclock/com.android.deskclock.DeskClock" image="clock"/>

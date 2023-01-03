@@ -7,15 +7,15 @@
 
     <!-- Nova Launcher Stuff -->
     <item component=":BROWSER" drawable="browser" />
-    <item component=":CALCULATOR" drawable="calculator" />
-    <item component=":CALENDAR" drawable="calendar" />
-    <item component=":CAMERA" drawable="camera" />
+    <item component=":CALCULATOR" drawable="samsung_calculator" />
+    <item component=":CALENDAR" drawable="smasung_calendar" />
+    <item component=":CAMERA" drawable="samsung_camera" />
     <item component=":CLOCK" drawable="clock" />
-    <item component=":CONTACTS" drawable="contacts" />
-    <item component=":EMAIL" drawable="email" />
-    <item component=":GALLERY" drawable="gallery" />
+    <item component=":CONTACTS" drawable="samsung_contacts" />
+    <item component=":EMAIL" drawable="samsung_mail" />
+    <item component=":GALLERY" drawable="samsung_gallery" />
     <item component=":PHONE" drawable="phone" />
-    <item component=":SMS" drawable="messaging" />
+    <item component=":SMS" drawable="samsung_messages" />
     <item component=":LAUNCHER_ACTION_APP_DRAWER" drawable="app_drawer" />
 
     <item component="ComponentInfo{com.cloudflare.onedotonedotonedotone/com.cloudflare.app.presentation.main.SplashActivity}" drawable="cloudflare_warp"/>
@@ -34,14 +34,14 @@
     <item component="ComponentInfo{com.sec.android.app.myfiles/com.sec.android.app.myfiles.external.ui.MainActivity}" drawable="samsung_files"/>
 	<item component="ComponentInfo{com.simplemobiletools.filemanager.pro/com.simplemobiletools.filemanager.pro.activities.SplashActivity.Orange}" drawable="samsung_files" />
     <item component="ComponentInfo{org.fdroid.fdroid/org.fdroid.fdroid.views.main.MainActivity}" drawable="f_droid"/>
-    <item component="ComponentInfo{com.sec.android.gallery3d/com.samsung.android.gallery.app.activity.GalleryActivity}" drawable="samsung_gallary"/>
+    <item component="ComponentInfo{com.sec.android.gallery3d/com.samsung.android.gallery.app.activity.GalleryActivity}" drawable="samsung_gallery"/>
     <item component="ComponentInfo{com.github.android/com.github.android.activities.MainActivity}" drawable="github"/>
     <item component="ComponentInfo{com.google.android.gm/com.google.android.gm.ConversationListActivityGmail}" drawable="gmail"/>
     <item component="ComponentInfo{net.gutefrage.android/net.gutefrage.android.MainActivity}" drawable="gutefrage"/>
     <item component="ComponentInfo{info.xolf.homeworker/info.xolf.homeworker.MainActivity}" drawable="homeworker"/>
     <item component="ComponentInfo{com.scs.inet/com.journaldev.barcodevisionapi.MainActivity}" drawable="i_net_menue"/>
     <item component="ComponentInfo{com.instagram.android/com.instagram.android.activity.MainTabActivity}" drawable="instagram"/>
-    <item component="ComponentInfo{com.samsung.android.calendar/com.samsung.android.app.calendar.activity.MainActivity}" drawable="samsung_calander"/>
+    <item component="ComponentInfo{com.samsung.android.calendar/com.samsung.android.app.calendar.activity.MainActivity}" drawable="samsung_calendar"/>
     <item component="ComponentInfo{tools.photo.hd.camera/com.android.camera.LaunchActivity}" drawable="samsung_camera"/>
     <item component="ComponentInfo{com.android.keepass/com.android.keepass.KeePass}" drawable="keepass"/>
     <item component="ComponentInfo{com.klockigame.klocki/com.unity3d.player.UnityPlayerActivity}" drawable="klocki"/>

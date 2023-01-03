@@ -435,7 +435,7 @@
 	{
 		"title":"icons.samsung-gallary.title",
 		"author":"MiepHD",
-		"src":"samsung_gallary",
+		"src":"samsung_gallery",
 		"category": "gallery"
 	},
   {
@@ -754,7 +754,7 @@
   {
     "title": "icons.samsung-calender.title",
     "author": "MiepHD",
-    "src": "samsung_calander",
+    "src": "samsung_calendar",
 	"category": "other"
 	},
   {
