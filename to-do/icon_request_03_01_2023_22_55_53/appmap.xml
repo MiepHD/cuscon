@@ -1,0 +1,15 @@
+<appmap>
+
+	<!-- 061 Salut Respon --><item class="cat.gencat.mobi.sem.controller.activity.SplashActivity" name="_061_salut_respon"/>
+	<!-- AMB Mobilitat --><item class="com.amb.ambtemps.MainActivity" name="amb_mobilitat"/>
+	<!-- Barcelona Metro --><item class="com.mapway.isubway.app.HomeActivity" name="barcelona_metro"/>
+	<!-- Barcelona Metro Bus Rodalies Bicing --><item class="com.gls.barcelona.metrobusrodaliesbicing.app.ui.loading.LoadingActivity" name="barcelona_metro_bus_rodalies_bicing"/>
+	<!-- Barcelona Transit --><item class="com.swash.transitworld.SplashScreen" name="barcelona_transit"/>
+	<!-- Barcelona Transporte --><item class="com.jsvmsoft.interurbanos.presentation.MainActivity" name="barcelona_transporte"/>
+	<!-- Despertador para mí --><item class="com.apalon.myclockfree.activity.MainAdsActivity" name="despertador_para_mi"/>
+	<!-- El tiempo M8 --><item class="bz.zaa.weather.ui.activity.SplashActivity" name="el_tiempo_m8"/>
+	<!-- Frog Weather --><item class="com.giovesoft.frogweather.activities.StartupActivity" name="frog_weather"/>
+	<!-- La Meva Salut --><item class="cat.gencat.lamevasalut.splash.view.SplashActivity" name="la_meva_salut"/>
+	<!-- Mi Transporte Barcelona --><item class="com.movimad.transportebcn.InitActivity" name="mi_transporte_barcelona"/>
+
+</appmap>

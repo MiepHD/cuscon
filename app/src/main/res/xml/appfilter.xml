@@ -321,5 +321,15 @@
 	<!-- Steam --><item component="ComponentInfo{com.valvesoftware.android.steam.community/com.valvesoftware.android.steam.community.MainActivity}" drawable="steam" />
 	<!-- VirusTotal Mobile --><item component="ComponentInfo{com.funnycat.virustotal/com.funnycat.virustotal.ui.splash.SplashActivity}" drawable="virustotal_mobile" />
 	<!-- YouTube Revanced --><item component="ComponentInfo{app.revanced.android.youtube/com.google.android.youtube.app.honeycomb.Shell$HomeActivity}" drawable="youtube_revanced" />
+    <!-- Barcelona Bus Tracker --><item component="ComponentInfo{com.goder.busquerysystembar/com.goder.busquerysystembar.MainActivity}" drawable="barcelona_bus_tracker" />
+	<!-- Blokada 5 --><item component="ComponentInfo{org.blokada.origin.alarm/ui.MainActivity}" drawable="blokada_5" />
+	<!-- Circuit --><item component="ComponentInfo{com.underwood.route_optimiser/com.circuit.ui.MainActivity}" drawable="circuit" />
+	<!-- Citymapper --><item component="ComponentInfo{com.citymapper.app.release/com.citymapper.app.MainActivity}" drawable="citymapper" />
+	<!-- El meu tren --><item component="ComponentInfo{com.el.meu.tren/com.appyet.activity.MainActivity}" drawable="el_meu_tren" />
+	<!-- FGC --><item component="ComponentInfo{com.iboomobile.fgc/com.iboomobile.fgc.MainActivity}" drawable="fgc" />
+	<!-- Frog Weather Shortcut --><item component="ComponentInfo{jp.miyavi.androiod.gnws/jp.miyavi.androiod.gnws.MainActivity}" drawable="frog_weather_shortcut" />
+	<!-- gencat --><item component="ComponentInfo{cat.gencat.mobi.home/cat.gencat.mobi.gencatapp.presentation.splash.SplashActivity}" drawable="gencat" />
+	<!-- Google Weather Activity --><item component="ComponentInfo{tasker.sanchithhegde.googleweather/net.dinglisch.android.tasker.Kid}" drawable="google_weather_activity" />
+	<!-- Next bus Barcelona --><item component="ComponentInfo{cat.ereza.properbusbcn/cat.ereza.properbusbcn.ui.activities.MainActivity}" drawable="next_bus_barcelona" />
 
 </resources>

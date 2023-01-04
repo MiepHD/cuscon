@@ -1616,5 +1616,65 @@
 		"author": "MiepHD",
 		"src": "youtube_revanced",
 		"category": "video-streaming"
+	},
+	{
+		"title": "Barcelona Bus Tracker",
+		"author": "MiepHD",
+		"src": "barcelona_bus_tracker",
+		"category": "other"
+	},
+	{
+		"title": "Blokada 5",
+		"author": "MiepHD",
+		"src": "blokada_5",
+		"category": "other"
+	},
+	{
+		"title": "Circuit",
+		"author": "MiepHD",
+		"src": "circuit",
+		"category": "other"
+	},
+	{
+		"title": "Citymapper",
+		"author": "MiepHD",
+		"src": "citymapper",
+		"category": "other"
+	},
+	{
+		"title": "El meu tren",
+		"author": "MiepHD",
+		"src": "el_meu_tren",
+		"category": "other"
+	},
+	{
+		"title": "FGC",
+		"author": "MiepHD",
+		"src": "fgc",
+		"category": "other"
+	},
+	{
+		"title": "Frog Weather Shortcut",
+		"author": "MiepHD",
+		"src": "frog_weather_shortcut",
+		"category": "other"
+	},
+	{
+		"title": "gencat",
+		"author": "MiepHD",
+		"src": "gencat",
+		"category": "other"
+	},
+	{
+		"title": "Google Weather Activity",
+		"author": "MiepHD",
+		"src": "google_weather_activity",
+		"category": "news"
+	},
+	{
+		"title": "Next bus Barcelona",
+		"author": "MiepHD",
+		"src": "next_bus",
+		"category": "other"
 	}
 ]

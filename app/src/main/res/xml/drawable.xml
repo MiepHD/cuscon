@@ -54,6 +54,15 @@
 	<!-- D-Link Wi-Fi --><item drawable="d_link_wi_fi"/>
     <!-- Microsoft SwiftKey-Tastatur --><item name="microsoft_swiftkey_tastatur"/>
     <!-- Onleihe --><item name="onleihe"/>
+    <!-- Barcelona Bus Tracker --><item drawable="barcelona_bus_tracker"/>
+    <!-- Blokada 5 --><item drawable="blokada_5"/>
+    <!-- Circuit --><item drawable="circuit"/>
+    <!-- Citymapper --><item drawable="citymapper"/>
+    <!-- El meu tren --><item drawable="el_meu_tren"/>
+    <!-- FGC --><item drawable="fgc"/>
+    <!-- Frog Weather Shortcut --><item drawable="frog_weather_shortcut"/>
+    <!-- gencat --><item drawable="gencat"/>
+    <!-- Next bus Barcelona --><item drawable="next_bus_barcelona"/>
 
     <category title="Stores" />
     <item drawable="apkpure" />
@@ -280,6 +289,7 @@
     <!-- Weather --><item drawable="weather" />
     <!-- Weather Station - Barometer --><item drawable="weather_station_barometer"/>
     <!-- Der Postillon --><item name="der_postillon"/>
+    <!-- Google Weather Activity --><item drawable="google_weather_activity"/>
 
     <category title="Design" />
     <!-- Pocket Paint --><item drawable="pocket_paint" />

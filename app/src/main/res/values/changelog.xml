@@ -2,6 +2,8 @@
 <resources>
     <string name="changelog_date">01.01.2023</string>
     <string-array name="changelog">
+        <item>2.6.2:</item>
+        <item>Added Barcelona Bus Tracker, Blokada 5, Circuit, Citymapper, El meu tren, FGC, Frog Weather Shortcut, gencat, Google Weather Activity, Next bus Barcelona</item>
         <item>2.6.1:</item>
         <item>Fixed Google Calendar, Youtube, Steam</item>
         <item>Added 1Tap Cleaner Pro, Weather Station - Barometer, D-Link Wi-Fi, NetMan, Radio FM, Sweech, WiFiman, FRITZ!App WLAN, WlanScanner by Latetech, WiFi Monitor Pro, Der Postillon, Microsoft SwiftKey-Tastatur, UUID 0xFD6F Scanner, Onleihe, Duolingo, Lieferando, Samsung Flow, Skype, Teams, Theme Park, AdGuard VPN, CandyBar Dev, Delta, Jojoy, VirusTotal Mobile, YouTube Revanced</item>

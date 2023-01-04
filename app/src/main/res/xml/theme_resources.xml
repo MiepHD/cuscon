@@ -308,5 +308,15 @@
 	<!-- Steam --><AppIcon name="com.valvesoftware.android.steam.community/com.valvesoftware.android.steam.community.MainActivity" image="steam"/>
 	<!-- VirusTotal Mobile --><AppIcon name="com.funnycat.virustotal/com.funnycat.virustotal.ui.splash.SplashActivity" image="virustotal_mobile"/>
 	<!-- YouTube Revanced --><AppIcon name="app.revanced.android.youtube/com.google.android.youtube.app.honeycomb.Shell$HomeActivity" image="youtube_revanced"/>
+    <!-- Barcelona Bus Tracker --><AppIcon name="com.goder.busquerysystembar/com.goder.busquerysystembar.MainActivity" image="barcelona_bus_tracker"/>
+	<!-- Blokada 5 --><AppIcon name="org.blokada.origin.alarm/ui.MainActivity" image="blokada_5"/>
+	<!-- Circuit --><AppIcon name="com.underwood.route_optimiser/com.circuit.ui.MainActivity" image="circuit"/>
+	<!-- Citymapper --><AppIcon name="com.citymapper.app.release/com.citymapper.app.MainActivity" image="citymapper"/>
+	<!-- El meu tren --><AppIcon name="com.el.meu.tren/com.appyet.activity.MainActivity" image="el_meu_tren"/>
+	<!-- FGC --><AppIcon name="com.iboomobile.fgc/com.iboomobile.fgc.MainActivity" image="fgc"/>
+	<!-- Frog Weather Shortcut --><AppIcon name="jp.miyavi.androiod.gnws/jp.miyavi.androiod.gnws.MainActivity" image="frog_weather_shortcut"/>
+	<!-- gencat --><AppIcon name="cat.gencat.mobi.home/cat.gencat.mobi.gencatapp.presentation.splash.SplashActivity" image="gencat"/>
+	<!-- Google Weather Activity --><AppIcon name="tasker.sanchithhegde.googleweather/net.dinglisch.android.tasker.Kid" image="google_weather_activity"/>
+	<!-- Next bus Barcelona --><AppIcon name="cat.ereza.properbusbcn/cat.ereza.properbusbcn.ui.activities.MainActivity" image="next_bus_barcelona"/>
 
 </Theme>

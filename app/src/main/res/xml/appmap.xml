@@ -300,5 +300,15 @@
 	<!-- Steam --><item class="com.valvesoftware.android.steam.community.MainActivity" name="steam"/>
 	<!-- VirusTotal Mobile --><item class="com.funnycat.virustotal.ui.splash.SplashActivity" name="virustotal_mobile"/>
 	<!-- YouTube Revanced --><item class="com.google.android.youtube.app.honeycomb.Shell$HomeActivity" name="youtube_revanced"/>
+    <!-- Barcelona Bus Tracker --><item class="com.goder.busquerysystembar.MainActivity" name="barcelona_bus_tracker"/>
+	<!-- Blokada 5 --><item class="ui.MainActivity" name="blokada_5"/>
+	<!-- Circuit --><item class="com.circuit.ui.MainActivity" name="circuit"/>
+	<!-- Citymapper --><item class="com.citymapper.app.MainActivity" name="citymapper"/>
+	<!-- El meu tren --><item class="com.appyet.activity.MainActivity" name="el_meu_tren"/>
+	<!-- FGC --><item class="com.iboomobile.fgc.MainActivity" name="fgc"/>
+	<!-- Frog Weather Shortcut --><item class="jp.miyavi.androiod.gnws.MainActivity" name="frog_weather_shortcut"/>
+	<!-- gencat --><item class="cat.gencat.mobi.gencatapp.presentation.splash.SplashActivity" name="gencat"/>
+	<!-- Google Weather Activity --><item class="net.dinglisch.android.tasker.Kid" name="google_weather_activity"/>
+	<!-- Next bus Barcelona --><item class="cat.ereza.properbusbcn.ui.activities.MainActivity" name="next_bus_barcelona"/>
 
 </appmap>
