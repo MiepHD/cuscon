@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="changelog_date">01.01.2023</string>
+    <string name="changelog_date">04.01.2023</string>
     <string-array name="changelog">
         <item>2.6.2:</item>
         <item>Added Barcelona Bus Tracker, Blokada 5, Circuit, Citymapper, El meu tren, FGC, Frog Weather Shortcut, gencat, Google Weather Activity, Next bus Barcelona, BubbleUPnP, Chromium, Collabora Office, Dawn, GMaps WV, Hash Droid, JBL Headphones, Kiwi Browser, Material Flashlight, Mull, Native α, NINA, QRServ, Remo Duplicate File Remover, Resolution Changer, Saber, satellite, Screen Stream, Standard Notes, Threema, Tomb of the Mask, Tor Browser, USB Media Explorer, Voicemail, CalyxOS Work Profile, xManager, Sueddeutsche Zeitung</item>
