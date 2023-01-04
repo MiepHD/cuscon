@@ -335,5 +335,31 @@
 	<!-- gencat --><item component="ComponentInfo{cat.gencat.mobi.home/cat.gencat.mobi.gencatapp.presentation.splash.SplashActivity}" drawable="gencat" />
 	<!-- Google Weather Activity --><item component="ComponentInfo{tasker.sanchithhegde.googleweather/net.dinglisch.android.tasker.Kid}" drawable="google_weather_activity" />
 	<!-- Next bus Barcelona --><item component="ComponentInfo{cat.ereza.properbusbcn/cat.ereza.properbusbcn.ui.activities.MainActivity}" drawable="next_bus_barcelona" />
+    <!-- BubbleUPnP --><item component="ComponentInfo{com.bubblesoft.android.bubbleupnp/com.bubblesoft.android.bubbleupnp.MainActivity}" drawable="bubbleupnp" />
+	<!-- Chromium --><item component="ComponentInfo{org.chromium.chrome/com.google.android.apps.chrome.Main}" drawable="chromium" />
+	<!-- Collabora Office --><item component="ComponentInfo{com.collabora.libreoffice/org.libreoffice.androidapp.ui.LibreOfficeUIActivity}" drawable="collabora_office" />
+	<!-- Dawn --><item component="ComponentInfo{me.thanel.dank/me.saket.dank.Launcher}" drawable="dawn" />
+	<!-- GMaps WV --><item component="ComponentInfo{us.spotco.maps/us.spotco.maps.MainActivity}" drawable="gmaps_wv" />
+	<!-- Hash Droid --><item component="ComponentInfo{com.hobbyone.HashDroid/com.hobbyone.HashDroid.MainActivity}" drawable="hash_droid" />
+	<!-- JBL Headphones --><item component="ComponentInfo{jbl.stc.com/jbl.stc.com.activity.SplashActivity}" drawable="jbl_headphones" />
+	<!-- Material Flashlight --><item component="ComponentInfo{co.garmax.materialflashlight/co.garmax.materialflashlight.ui.root.RootActivity}" drawable="material_flashlight" />
+	<!-- Mull --><item component="ComponentInfo{us.spotco.fennec_dos/us.spotco.fennec_dos.App}" drawable="mull" />
+	<!-- Native alpha --><item component="ComponentInfo{com.cylonid.nativealpha/com.cylonid.nativealpha.MainActivity}" drawable="native_alpha" />
+	<!-- NINA --><item component="ComponentInfo{de.materna.bbk.mobile.app/de.materna.bbk.mobile.app.ui.SplashScreenActivity}" drawable="nina" />
+	<!-- QRServ --><item component="ComponentInfo{dev.uint.qrserv/dev.uint.qrserv.MainActivity}" drawable="qrserv" />
+	<!-- Remo Duplicate File Remover --><item component="ComponentInfo{com.remoduplicatefilesremover/com.remoduplicatefilesremover.ui.SplashScreen}" drawable="remo_duplicate_file_remover" />
+	<!-- Resolution Changer --><item component="ComponentInfo{com.draco.resolutionchanger/com.draco.resolutionchanger.MainActivity}" drawable="resolution_changer" />
+	<!-- Saber --><item component="ComponentInfo{com.adilhanney.saber/com.adilhanney.saber.MainActivity}" drawable="saber" />
+	<!-- satellite --><item component="ComponentInfo{de.sipgate.app.satellite/de.sipgate.app.satellite.startup.RoutingActivity}" drawable="satellite" />
+	<!-- Screen Stream --><item component="ComponentInfo{info.dvkr.screenstream/info.dvkr.screenstream.ui.activity.AppActivity}" drawable="screen_stream" />
+	<!-- Standard Notes --><item component="ComponentInfo{com.standardnotes/com.standardnotes.MainActivity}" drawable="standard_notes" />
+	<!-- Threema --><item component="ComponentInfo{ch.threema.app/ch.threema.app.activities.MainActivity}" drawable="threema" />
+	<!-- Tomb of the Mask --><item component="ComponentInfo{com.playgendary.tom/com.lllibset.LLActivity.LLActivity}" drawable="tomb_of_the_mask" />
+	<!-- Tor Browser --><item component="ComponentInfo{org.torproject.torbrowser/org.torproject.torbrowser.App}" drawable="tor_browser" />
+	<!-- USB Media Explorer --><item component="ComponentInfo{com.homeysoft.nexususb.importer/com.homeysoft.nexususb.importer.NexusMediaImporterActivity}" drawable="usb_media_explorer" />
+	<!-- Voicemail --><item component="ComponentInfo{de.telekom.mds.mbp/de.telekom.tpd.fmc.MainActivity}" drawable="voicemail" />
+	<!-- CalyxOS Work Profile --><item component="ComponentInfo{org.calyxos.bellis/org.calyxos.bellis.MainActivity}" drawable="calyxos_work_profile" />
+	<!-- xManager --><item component="ComponentInfo{com.xc3fff0e.xmanager/com.xc3fff0e.xmanager.SplashActivity}" drawable="xmanager" />
+	<!-- Sueddeutsche Zeitung --><item component="ComponentInfo{de.sueddeutsche/de.sueddeutsche.LauncherActivity}" drawable="sueddeutsche_zeitung" />
 
 </resources>

@@ -63,6 +63,7 @@
     <!-- Frog Weather Shortcut --><item drawable="frog_weather_shortcut"/>
     <!-- gencat --><item drawable="gencat"/>
     <!-- Next bus Barcelona --><item drawable="next_bus_barcelona"/>
+    <!-- JBL Headphones --><item drawable="jbl_headphones" />
 
     <category title="Stores" />
     <item drawable="apkpure" />
@@ -114,6 +115,7 @@
     <!-- Play Music --><item drawable="play_music"/>
     <!-- Spotify --><item drawable="spotify"/>
     <!-- Radio FM --><item drawable="radio_fm"/>
+    <!-- xManager --><item drawable="xmanager" />
 
     <category title="Games" />
     <item drawable="darkland" />
@@ -128,6 +130,7 @@
     <!-- J2ME Loader --><item drawable="j2me_loader" />
     <!-- Lemuroid --><item drawable="lemuroid" />
     <!-- Games--><item drawable="games" />
+    <!-- Tomb of the Mask --><item drawable="tomb_of_the_mask" />
 
     <category title="Communication" />
     <item drawable="gmail" />
@@ -154,6 +157,10 @@
     <!-- LinkedIn --><item drawable="linkedin"/>
     <!-- Skype --><item name="skype"/>
     <!-- Teams --><item name="teams"/>
+    <!-- Dawn --><item drawable="dawn" />
+    <!-- satellite --><item drawable="satellite" />
+    <!-- Threema --><item drawable="threema" />
+    <!-- Voicemail --><item drawable="voicemail" />
 
     <category title="Browser" />
     <item drawable="firefox" />
@@ -166,6 +173,10 @@
 	<!-- Redlight Web Browser --><item drawable="redlight_web_browser"/>
     <!-- Samsung Internet --><item drawable="samsung_internet"/>
     <!-- Kiwi Browser--><AppIcon drawable="kiwi_browser"/>
+    <!-- Chromium --><item drawable="chromium" />
+    <!-- Mull --><item drawable="mull" />
+    <!-- Native alpha --><item drawable="native_alpha" />
+    <!-- Tor Browser --><item drawable="tor_browser" />
 
     <category title="Tools" />
     <item drawable="lucky_patcher" />
@@ -197,6 +208,9 @@
     <!-- WlanScanner by Latetech --><item drawable="wlanscanner_by_latetech"/>
 	<!-- WiFi Monitor Pro--><item drawable="wifi_monitor_pro"/>
     <!-- Samsung Flow --><item name="samsung_flow"/>
+    <!-- Material Flashlight --><item drawable="material_flashlight" />
+    <!-- QRServ --><item drawable="qrserv" />
+    <!-- Resolution Changer --><item drawable="resolution_changer" />
 
     <category title="Documents" />
     <item drawable="adobe_acrobat_reader" />
@@ -213,6 +227,9 @@
     <!-- Documents--><item drawable="documents" />
     <!-- Adobe Scan --><item drawable="adobe_scan" />
     <!-- OneNote --><item drawable="onenote"/>
+    <!-- Collabora Office --><item drawable="collabora_office" />
+    <!-- Saber --><item drawable="saber" />
+    <!-- Standard Notes --><item drawable="standard_notes" />
 
     <category title="VPN" />
     <!-- Adguard --><item drawable="adguard" />
@@ -239,6 +256,7 @@
     <!-- Öffi Haltestellen --><item drawable="offi_haltestellen" />
     <!-- Öffi Netzpläne --><item drawable="offi_netzplane" />
     <!-- OpenTracks --><item drawable="opentracks" />
+    <!-- GMaps WV --><item drawable="gmaps_wv" />
 
     <category title="Files" />
     <!-- Google Drive --><item drawable="google_drive" />
@@ -253,12 +271,15 @@
     <!-- OneDrive --><item drawable="onedrive"/>
     <!-- Google Files --><item drawable="google_files" />
     <!-- Sweech --><item drawable="sweech"/>
+    <!-- Remo Duplicate File Remover --><item drawable="remo_duplicate_file_remover" />
+    <!-- USB Media Explorer --><item drawable="usb_media_explorer" />
 
     <category title="Gallery" />
     <!-- Samsung Gallary --><item drawable="samsung_gallery" />
     <!-- Gallery--><item drawable="gallery" />
     <!-- Google Photos --><item drawable="google_photos" />
     <!-- Camera Roll --><item drawable="camera_roll" />
+    <!-- BubbleUPnP --><item drawable="bubbleupnp" />
 
     <category title="Security" />
     <!-- Google Authenticator --><item drawable="google_authenticator" />
@@ -272,6 +293,9 @@
     <!-- Microsoft Authenticator --><item drawable="microsoft_authenticator"/>
     <!-- VirusTotal Mobile --><item name="virustotal_mobile"/>
     <!-- SimpleLogin --><item drawable="simplelogin" />
+    <!-- Hash Droid --><item drawable="hash_droid" />
+    <!-- Screen Stream --><item drawable="screen_stream" />
+    <!-- CalyxOS Work Profile --><item drawable="calyxos_work_profile" />
 
     <category title="Learning" />
     <!-- Quizlet --><item drawable="quizlet" />
@@ -290,6 +314,7 @@
     <!-- Weather Station - Barometer --><item drawable="weather_station_barometer"/>
     <!-- Der Postillon --><item name="der_postillon"/>
     <!-- Google Weather Activity --><item drawable="google_weather_activity"/>
+    <!-- Sueddeutsche Zeitung --><item drawable="sueddeutsche_zeitung" />
 
     <category title="Design" />
     <!-- Pocket Paint --><item drawable="pocket_paint" />
@@ -316,6 +341,7 @@
     <!-- KFZ-Kennzeichen --><item drawable="kfz_kennzeichen" />
     <!-- DSBmobile --><item drawable="dsbmobile"/>
     <!-- UUID 0xFD6F Scanner --><item name="uuid_0xfd6f_scanner"/>
+    <!-- NINA --><item drawable="nina" />
 
     <category title="Icon Packs" />
     <!-- Cuscon --><item drawable="cuscon" />

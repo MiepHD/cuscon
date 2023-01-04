@@ -1676,5 +1676,167 @@
 		"author": "MiepHD",
 		"src": "next_bus_barcelona",
 		"category": "other"
+	},
+	{
+		"title": "BubbleUPnP",
+		"author": "sourcrowd450",
+		"src": "bubbleupnp",
+		"category": "gallery"
+	},
+	{
+		"title": "Chromium",
+		"author": "sourcrowd450",
+		"src": "chromium",
+		"category": "browser"
+	},
+	{
+		"title": "Collabora Office",
+		"author": "sourcrowd450",
+		"src": "collabora_office",
+		"category": "documents"
+	},
+	{
+		"title": "Dawn",
+		"author": "sourcrowd450",
+		"src": "dawn",
+		"category": "communication"
+	},
+	{
+		"title": "GMaps WV",
+		"author": "sourcrowd450",
+		"src": "gmaps_wv",
+		"category": "maps"
+	},
+	{
+		"title": "Hash Droid",
+		"author": "sourcrowd450",
+		"src": "hash_droid",
+		"category": "security"
+	},
+	{
+		"title": "JBL Headphones",
+		"author": "sourcrowd450",
+		"src": "jbl_headphones",
+		"category": "other"
+	},
+	{
+		"title": "Kiwi Browser",
+		"author": "sourcrowd450",
+		"src": "kiwi_browser",
+		"category": "browser"
+	},
+	{
+		"title": "Material Flashlight",
+		"author": "sourcrowd450",
+		"src": "material_flashlight",
+		"category": "tools"
+	},
+	{
+		"title": "Mull",
+		"author": "sourcrowd450",
+		"src": "mull",
+		"category": "browser"
+	},
+	{
+		"title": "Native Alpha",
+		"author": "sourcrowd450",
+		"src": "native_alpha",
+		"category": "browser"
+	},
+	{
+		"title": "NINA",
+		"author": "sourcrowd450",
+		"src": "nina",
+		"category": "information"
+	},
+	{
+		"title": "QRServ",
+		"author": "sourcrowd450",
+		"src": "qrserv",
+		"category": "tools"
+	},
+	{
+		"title": "Remo Duplicate File Remover",
+		"author": "sourcrowd450",
+		"src": "remo_duplicate_file_remover",
+		"category": "files"
+	},
+	{
+		"title": "Resolution Changer",
+		"author": "sourcrowd450",
+		"src": "resolution_changer",
+		"category": "tools"
+	},
+	{
+		"title": "Saber",
+		"author": "sourcrowd450",
+		"src": "saber",
+		"category": "documents"
+	},
+	{
+		"title": "satellite",
+		"author": "sourcrowd450",
+		"src": "satellite",
+		"category": "communication"
+	},
+	{
+		"title": "Screen Stream",
+		"author": "sourcrowd450",
+		"src": "screen_stream",
+		"category": "security"
+	},
+	{
+		"title": "Standard Notes",
+		"author": "sourcrowd450",
+		"src": "standard_notes",
+		"category": "documents"
+	},
+	{
+		"title": "Threema",
+		"author": "sourcrowd450",
+		"src": "threema",
+		"category": "communication"
+	},
+	{
+		"title": "Tomb of the Mask",
+		"author": "sourcrowd450",
+		"src": "tomb_of_the_mask",
+		"category": "games"
+	},
+	{
+		"title": "Tor Browser",
+		"author": "sourcrowd450",
+		"src": "tor_browser",
+		"category": "browser"
+	},
+	{
+		"title": "USB Media Explorer",
+		"author": "sourcrowd450",
+		"src": "usb_media_explorer",
+		"category": "files"
+	},
+	{
+		"title": "Voicemail",
+		"author": "sourcrowd450",
+		"src": "voicemail",
+		"category": "communication"
+	},
+	{
+		"title": "CalyxOS Work Profile",
+		"author": "sourcrowd450",
+		"src": "calyxos_work_profile",
+		"category": "security"
+	},
+	{
+		"title": "xManager",
+		"author": "sourcrowd450",
+		"src": "xmanager",
+		"category": "music-streaming"
+	},
+	{
+		"title": "Sueddeutsche Zeitung",
+		"author": "sourcrowd450",
+		"src": "sueddeutsche_zeitung",
+		"category": "news"
 	}
 ]
