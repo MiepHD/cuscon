@@ -32,9 +32,9 @@
     <!-- TCL Connect --><item drawable="tcl_connect" />
     <!-- Reminder --><item drawable="reminder" />
     <!-- Info Dienste --><item drawable="info_dienste" />
-    <!--Symbolab --><item drawable="symbolab" />
-    <!--Termux --><item drawable="termux" />
-    <!--WhatsApp SIM --><item drawable="whatsapp_sim"/>
+    <!-- Symbolab --><item drawable="symbolab" />
+    <!-- Termux --><item drawable="termux" />
+    <!-- WhatsApp SIM --><item drawable="whatsapp_sim"/>
     <!-- Google --><item drawable="google"/>
     <!-- Google Assistant--><item drawable="google_assistant" />
     <!-- Google One--><item drawable="google_one" />

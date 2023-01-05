@@ -74,7 +74,7 @@
     <item component="ComponentInfo{com.zdf.android.mediathek/com.zdf.android.mediathek.ui.splash.SplashActivity}" drawable="zdfmediathek"/>
     <item component="ComponentInfo{com.google.android.apps.translate/com.google.android.apps.translate.TranslateActivity}" drawable="google_translate"/>
     <item component="ComponentInfo{com.android.vending/com.android.vending.AssetBrowserActivity}" drawable="google_play_store"/>
-    <item component="ComponentInfo{info.amc.cookandgo/com.audiothermapp.MainActivity}" drawable="amc_cooking"/>
+A    <item component="ComponentInfo{info.amc.cookandgo/com.guidedcooking.MainActivity}" drawable="amc_cooking"/>
     <item component="ComponentInfo{app.organicmaps/app.organicmaps.DownloadResourcesActivity}" drawable="organic_maps"/>
     <item component="ComponentInfo{de.swr.dasding/de.swr.dasding.MainActivity}" drawable="dasding"/>
     <item component="ComponentInfo{com.sec.android.app.voicenote/com.sec.android.app.voicenote.main.VNMainActivity}" drawable="voicenote"/>
@@ -209,7 +209,7 @@
     <!-- Firewall --><item component="ComponentInfo{org.calyxos.datura/org.calyxos.datura.MainActivity}" drawable="firewall" />
     <!-- microG-Einstellungen --><item component="ComponentInfo{com.google.android.gms/org.microg.gms.ui.SettingsActivity}" drawable="microg_einstellungen" />
     <!-- Sicherung --><item component="ComponentInfo{com.stevesoltys.seedvault/com.stevesoltys.seedvault.settings.SettingsLink}" drawable="sicherung" />
-    <!-- Aliucord --><item component="ComponentInfo{com.aliucord/com.discord.app.AppActivityMain}" drawable="aliucord" />
+    <!-- Aliucord --><item component="ComponentInfo{com.aliucord/com.discord.app.AppActivity$Main}" drawable="aliucord" />
     <!-- Duden Wörterbücher --><item component="ComponentInfo{com.duden.container/com.paragon.container.CatalogActivity}" drawable="duden_worterbucher" />
     <!-- hocus --><item component="ComponentInfo{air.com.gamebrain.hocus/air.com.gamebrain.hocus.AppEntry}" drawable="hocus" />
     <!-- Lawnchair-Einstellungen --><item component="ComponentInfo{ch.deletescape.lawnchair.plah/ch.deletescape.lawnchair.settings.ui.SettingsLauncherActivity}" drawable="lawnchair_einstellungen" />
