@@ -1838,5 +1838,47 @@
 		"author": "sourcrowd450",
 		"src": "sueddeutsche_zeitung",
 		"category": "news"
+	},
+	{
+		"title": "AMB Mobilitat",
+		"author": "MiepHD",
+		"src": "amb_mobilitat",
+		"category": "other"
+	},
+	{
+		"title": "Barcelona Metro",
+		"author": "MiepHD",
+		"src": "barcelona_metro",
+		"category": "other"
+	},
+	{
+		"title": "Barcelona Metro Bus Rodalies Bicing",
+		"author": "MiepHD",
+		"src": "barcelona_metro_bus_rodalies_bicing",
+		"category": "other"
+	},
+	{
+		"title": "Barcelona Transport",
+		"author": "MiepHD",
+		"src": "barcelona_transport",
+		"category": "other"
+	},
+	{
+		"title": "Weather M8",
+		"author": "MiepHD",
+		"src": "weather_m8",
+		"category": "news"
+	},
+	{
+		"title": "Frog weather forecast",
+		"author": "MiepHD",
+		"src": "frog_weather_forecast",
+		"category": "news"
+	},
+	{
+		"title": "Mi Transporte Barcelona",
+		"author": "MiepHD",
+		"src": "mi_transporte_barcelona",
+		"category": "other"
 	}
 ]

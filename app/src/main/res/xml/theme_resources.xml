@@ -348,5 +348,12 @@
 	<!-- CalyxOS Work Profile --><AppIcon name="org.calyxos.bellis/org.calyxos.bellis.MainActivity" image="calyxos_work_profile"/>
 	<!-- xManager --><AppIcon name="com.xc3fff0e.xmanager/com.xc3fff0e.xmanager.SplashActivity" image="xmanager" />
 	<!-- Sueddeutsche Zeitung --><AppIcon name="de.sueddeutsche/de.sueddeutsche.LauncherActivity" image="sueddeutsche_zeitung"/>
+    <!-- AMB Mobilitat --><AppIcon name="com.amb.ambtemps/com.amb.ambtemps.MainActivity" image="amb_mobilitat"/>
+	<!-- Barcelona Metro --><AppIcon name="uk.co.mxdata.barcelonametro/com.mapway.isubway.app.HomeActivity" image="barcelona_metro"/>
+	<!-- Barcelona Metro Bus Rodalies Bicing --><AppIcon name="com.gls.barcelona.metrobusrodaliesbicing/com.gls.barcelona.metrobusrodaliesbicing.app.ui.loading.LoadingActivity" image="barcelona_metro_bus_rodalies_bicing"/>
+	<!-- Barcelona Transport --><AppIcon name="com.jsvmsoft.barcelona/com.jsvmsoft.interurbanos.presentation.MainActivity" image="barcelona_transport"/>
+	<!-- Weather M8 --><AppIcon name="pro.burgerz.miweather8/bz.zaa.weather.ui.activity.SplashActivity" image="weather_m8"/>
+	<!-- Frog weather forecast --><AppIcon name="com.giovesoft.frogweather/com.giovesoft.frogweather.activities.StartupActivity" image="frog_weather_forecast"/>
+	<!-- Mi Transporte Barcelona --><AppIcon name="com.movimad.transportebcn/com.movimad.transportebcn.InitActivity" image="mi_transporte_barcelona"/>
 
 </Theme>

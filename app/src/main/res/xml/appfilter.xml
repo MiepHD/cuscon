@@ -361,5 +361,12 @@
 	<!-- CalyxOS Work Profile --><item component="ComponentInfo{org.calyxos.bellis/org.calyxos.bellis.MainActivity}" drawable="calyxos_work_profile" />
 	<!-- xManager --><item component="ComponentInfo{com.xc3fff0e.xmanager/com.xc3fff0e.xmanager.SplashActivity}" drawable="xmanager" />
 	<!-- Sueddeutsche Zeitung --><item component="ComponentInfo{de.sueddeutsche/de.sueddeutsche.LauncherActivity}" drawable="sueddeutsche_zeitung" />
+    <!-- AMB Mobilitat --><item component="ComponentInfo{com.amb.ambtemps/com.amb.ambtemps.MainActivity}" drawable="amb_mobilitat" />
+	<!-- Barcelona Metro --><item component="ComponentInfo{uk.co.mxdata.barcelonametro/com.mapway.isubway.app.HomeActivity}" drawable="barcelona_metro" />
+	<!-- Barcelona Metro Bus Rodalies Bicing --><item component="ComponentInfo{com.gls.barcelona.metrobusrodaliesbicing/com.gls.barcelona.metrobusrodaliesbicing.app.ui.loading.LoadingActivity}" drawable="barcelona_metro_bus_rodalies_bicing" />
+	<!-- Barcelona Transport --><item component="ComponentInfo{com.jsvmsoft.barcelona/com.jsvmsoft.interurbanos.presentation.MainActivity}" drawable="barcelona_transport" />
+	<!-- Weather M8 --><item component="ComponentInfo{pro.burgerz.miweather8/bz.zaa.weather.ui.activity.SplashActivity}" drawable="weather_m8" />
+	<!-- Frog weather forecast --><item component="ComponentInfo{com.giovesoft.frogweather/com.giovesoft.frogweather.activities.StartupActivity}" drawable="frog_weather_forecast" />
+	<!-- Mi Transporte Barcelona --><item component="ComponentInfo{com.movimad.transportebcn/com.movimad.transportebcn.InitActivity}" drawable="mi_transporte_barcelona" />
 
 </resources>

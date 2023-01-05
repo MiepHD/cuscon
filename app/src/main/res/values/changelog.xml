@@ -2,6 +2,8 @@
 <resources>
     <string name="changelog_date">04.01.2023</string>
     <string-array name="changelog">
+        <item>2.6.4:</item>
+        <item>Added AMB Mobilitat, Barcelona Metro, Barcelona Metro Bus Rodalies Bicing, Barcelona Transport, Weather M8, Frog weather forecast, Mi Transporte Barcelona</item>
         <item>2.6.3:</item>
         <item>Fixed Youtube Music</item>
         <item>2.6.2:</item>

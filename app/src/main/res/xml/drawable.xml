@@ -64,6 +64,11 @@
     <!-- gencat --><item drawable="gencat"/>
     <!-- Next bus Barcelona --><item drawable="next_bus_barcelona"/>
     <!-- JBL Headphones --><item drawable="jbl_headphones" />
+    <!-- AMB Mobilitat --><item name="amb_mobilitat"/>
+    <!-- Barcelona Metro --><item name="barcelona_metro"/>
+    <!-- Barcelona Metro Bus Rodalies Bicing --><item name="barcelona_metro_bus_rodalies_bicing"/>
+    <!-- Barcelona Transport --><item name="barcelona_transport"/>
+    <!-- Mi Transporte Barcelona --><item name="mi_transporte_barcelona"/>
 
     <category title="Stores" />
     <item drawable="apkpure" />
@@ -315,6 +320,8 @@
     <!-- Der Postillon --><item name="der_postillon"/>
     <!-- Google Weather Activity --><item drawable="google_weather_activity"/>
     <!-- Sueddeutsche Zeitung --><item drawable="sueddeutsche_zeitung" />
+    <!-- Weather M8 --><item name="weather_m8"/>
+    <!-- Frog weather forecast --><item name="frog_weather_forecast"/>
 
     <category title="Design" />
     <!-- Pocket Paint --><item drawable="pocket_paint" />

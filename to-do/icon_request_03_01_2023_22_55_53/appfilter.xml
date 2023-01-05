@@ -1,15 +1,8 @@
 <resources>
 
 	<!-- 061 Salut Respon --><item component="ComponentInfo{cat.gencat.mobi.sem/cat.gencat.mobi.sem.controller.activity.SplashActivity}" drawable="_061_salut_respon" />
-	<!-- AMB Mobilitat --><item component="ComponentInfo{com.amb.ambtemps/com.amb.ambtemps.MainActivity}" drawable="amb_mobilitat" />
-	<!-- Barcelona Metro --><item component="ComponentInfo{uk.co.mxdata.barcelonametro/com.mapway.isubway.app.HomeActivity}" drawable="barcelona_metro" />
-	<!-- Barcelona Metro Bus Rodalies Bicing --><item component="ComponentInfo{com.gls.barcelona.metrobusrodaliesbicing/com.gls.barcelona.metrobusrodaliesbicing.app.ui.loading.LoadingActivity}" drawable="barcelona_metro_bus_rodalies_bicing" />
 	<!-- Barcelona Transit --><item component="ComponentInfo{com.swash.transitworld.barcelona/com.swash.transitworld.SplashScreen}" drawable="barcelona_transit" />
-	<!-- Barcelona Transporte --><item component="ComponentInfo{com.jsvmsoft.barcelona/com.jsvmsoft.interurbanos.presentation.MainActivity}" drawable="barcelona_transporte" />
-	<!-- Despertador para mí --><item component="ComponentInfo{com.apalon.myclockfree/com.apalon.myclockfree.activity.MainAdsActivity}" drawable="despertador_para_mi" />
-	<!-- El tiempo M8 --><item component="ComponentInfo{pro.burgerz.miweather8/bz.zaa.weather.ui.activity.SplashActivity}" drawable="el_tiempo_m8" />
-	<!-- Frog Weather --><item component="ComponentInfo{com.giovesoft.frogweather/com.giovesoft.frogweather.activities.StartupActivity}" drawable="frog_weather" />
+	<!-- Alarm Clock for Me --><item component="ComponentInfo{com.apalon.myclockfree/com.apalon.myclockfree.activity.MainAdsActivity}" drawable="alarm_clock_for_me" />
 	<!-- La Meva Salut --><item component="ComponentInfo{cat.gencat.mobi.lamevasalut/cat.gencat.lamevasalut.splash.view.SplashActivity}" drawable="la_meva_salut" />
-	<!-- Mi Transporte Barcelona --><item component="ComponentInfo{com.movimad.transportebcn/com.movimad.transportebcn.InitActivity}" drawable="mi_transporte_barcelona" />
 
 </resources>

@@ -336,5 +336,12 @@
 	<!-- CalyxOS Work Profile --><item class="org.calyxos.bellis.MainActivity" name="calyxos_work_profile"/>
 	<!-- xManager --><item class="com.xc3fff0e.xmanager.SplashActivity" name="xmanager" />
 	<!-- Sueddeutsche Zeitung --><item class="de.sueddeutsche.LauncherActivity" name="sueddeutsche_zeitung"/>
+    <!-- AMB Mobilitat --><item class="com.amb.ambtemps.MainActivity" name="amb_mobilitat"/>
+	<!-- Barcelona Metro --><item class="com.mapway.isubway.app.HomeActivity" name="barcelona_metro"/>
+	<!-- Barcelona Metro Bus Rodalies Bicing --><item class="com.gls.barcelona.metrobusrodaliesbicing.app.ui.loading.LoadingActivity" name="barcelona_metro_bus_rodalies_bicing"/>
+	<!-- Barcelona Transport --><item class="com.jsvmsoft.interurbanos.presentation.MainActivity" name="barcelona_transport"/>
+	<!-- Weather M8 --><item class="bz.zaa.weather.ui.activity.SplashActivity" name="weather_m8"/>
+	<!-- Frog weather forecast --><item class="com.giovesoft.frogweather.activities.StartupActivity" name="frog_weather_forecast"/>
+	<!-- Mi Transporte Barcelona --><item class="com.movimad.transportebcn.InitActivity" name="mi_transporte_barcelona"/>
 
 </appmap>

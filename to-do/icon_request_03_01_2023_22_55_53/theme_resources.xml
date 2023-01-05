@@ -1,15 +1,8 @@
 <Theme version="1">
 
 	<!-- 061 Salut Respon --><AppIcon name="cat.gencat.mobi.sem/cat.gencat.mobi.sem.controller.activity.SplashActivity" image="_061_salut_respon"/>
-	<!-- AMB Mobilitat --><AppIcon name="com.amb.ambtemps/com.amb.ambtemps.MainActivity" image="amb_mobilitat"/>
-	<!-- Barcelona Metro --><AppIcon name="uk.co.mxdata.barcelonametro/com.mapway.isubway.app.HomeActivity" image="barcelona_metro"/>
-	<!-- Barcelona Metro Bus Rodalies Bicing --><AppIcon name="com.gls.barcelona.metrobusrodaliesbicing/com.gls.barcelona.metrobusrodaliesbicing.app.ui.loading.LoadingActivity" image="barcelona_metro_bus_rodalies_bicing"/>
 	<!-- Barcelona Transit --><AppIcon name="com.swash.transitworld.barcelona/com.swash.transitworld.SplashScreen" image="barcelona_transit"/>
-	<!-- Barcelona Transporte --><AppIcon name="com.jsvmsoft.barcelona/com.jsvmsoft.interurbanos.presentation.MainActivity" image="barcelona_transporte"/>
-	<!-- Despertador para mí --><AppIcon name="com.apalon.myclockfree/com.apalon.myclockfree.activity.MainAdsActivity" image="despertador_para_mi"/>
-	<!-- El tiempo M8 --><AppIcon name="pro.burgerz.miweather8/bz.zaa.weather.ui.activity.SplashActivity" image="el_tiempo_m8"/>
-	<!-- Frog Weather --><AppIcon name="com.giovesoft.frogweather/com.giovesoft.frogweather.activities.StartupActivity" image="frog_weather"/>
+	<!-- Alarm Clock for Me --><AppIcon name="com.apalon.myclockfree/com.apalon.myclockfree.activity.MainAdsActivity" image="alarm_clock_for_me"/>
 	<!-- La Meva Salut --><AppIcon name="cat.gencat.mobi.lamevasalut/cat.gencat.lamevasalut.splash.view.SplashActivity" image="la_meva_salut"/>
-	<!-- Mi Transporte Barcelona --><AppIcon name="com.movimad.transportebcn/com.movimad.transportebcn.InitActivity" image="mi_transporte_barcelona"/>
 
 </Theme>
