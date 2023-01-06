@@ -10,5 +10,30 @@
 	<!-- Zoom --><item class="com.zipow.videobox.LauncherActivity" name="zoom"/>
 	<!-- BeReal. --><item class="bereal.app.MainActivity" name="bereal"/>
 	<!-- Joyn --><item class="de.prosiebensat1digital.playerpluggable.testapp.splash.SplashActivity" name="joyn"/>
+	<!-- bob World --><item class="com.bankofbaroda.mconnect.activities.SplashActivity" name="bob_world"/>
+	<!-- Camera --><item class="com.android.camera.Camera" name="camera"/>
+	<!-- Feedback --><item class="com.miui.bugreport.ui.MainTabActivity" name="feedback"/>
+	<!-- File Manager --><item class="com.android.fileexplorer.FileExplorerTabActivity" name="file_manager"/>
+	<!-- Flipkart --><item class="com.flipkart.android.SplashActivity" name="flipkart"/>
+	<!-- FM Radio --><item class="com.miui.fmradio.FmActivity" name="fm_radio"/>
+	<!-- GPay --><item class="com.google.nbu.paisa.flutter.gpay.app.LauncherActivity" name="gpay"/>
+	<!-- IPPB Mobile --><item class="com.iexceed.appzillon.ippbMB.AppzillonMainScreen" name="ippb_mobile"/>
+	<!-- IRCTC Rail Connect --><item class="cris.org.in.ima.activities.IRCTCConnectActivity" name="irctc_rail_connect"/>
+	<!-- Microsoft Launcher --><item class="com.microsoft.launcher.Launcher" name="microsoft_launcher"/>
+	<!-- MyJio --><item class="com.jio.myjio.dashboard.activities.SplashActivity" name="myjio"/>
+	<!-- Ncert Book --><item class="letest.ncertbooks.SplashActivity" name="ncert_book"/>
+	<!-- Paisa Lelo --><item class="com.psb.novawala.activity.SplashActivity" name="paisa_lelo"/>
+	<!-- Paisa Wala --><item class="com.psb.novawala.activity.SplashActivity" name="paisa_wala"/>
+	<!-- Paytm --><item class="net.one97.paytm.app.LauncherActivity" name="paytm"/>
+	<!-- Phone Master --><item class="com.cyin.himgr.ads.SplashActivity" name="phone_master"/>
+	<!-- PhonePe --><item class="com.phonepe.app.v4.nativeapps.splash.Navigator_SplashActivity" name="phonepe"/>
+	<!-- Qr Barcode Scanner --><item class="com.QRBS.activity.StartActivity" name="qr_barcode_scanner"/>
+	<!-- Rooter --><item class="com.threesixteen.app.ui.activities.SplashActivity" name="rooter"/>
+	<!-- ShareChat --><item class="sharechat.ads.feature.eva.EvaActivity" name="sharechat"/>
+	<!-- Telegram --><item class="org.telegram.messenger.DefaultIcon" name="telegram"/>
+	<!-- Truecaller --><item class="com.truecaller.ui.TruecallerInit" name="truecaller"/>
+	<!-- WA Business --><item class="com.whatsapp.Main" name="wa_business"/>
+	<!-- Where is my Train --><item class="com.whereismytrain.view.activities.MainPagerActivity" name="where_is_my_train"/>
+	<!-- XRecorder --><item class="com.inshot.screenrecorder.activities.SplashBeforeActivity" name="xrecorder"/>
 
 </resources>

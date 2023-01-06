@@ -10,5 +10,30 @@
 	<!-- Zoom --><AppIcon name="us.zoom.videomeetings/com.zipow.videobox.LauncherActivity" image="zoom"/>
 	<!-- BeReal. --><AppIcon name="com.bereal.ft/bereal.app.MainActivity" image="bereal"/>
 	<!-- Joyn --><AppIcon name="de.prosiebensat1digital.seventv/de.prosiebensat1digital.playerpluggable.testapp.splash.SplashActivity" image="joyn"/>
+	<!-- bob World --><AppIcon name="com.bankofbaroda.mconnect/com.bankofbaroda.mconnect.activities.SplashActivity" image="bob_world"/>
+	<!-- Camera --><AppIcon name="com.android.camera/com.android.camera.Camera" image="camera"/>
+	<!-- Feedback --><AppIcon name="com.miui.bugreport/com.miui.bugreport.ui.MainTabActivity" image="feedback"/>
+	<!-- File Manager --><AppIcon name="com.mi.android.globalFileexplorer/com.android.fileexplorer.FileExplorerTabActivity" image="file_manager"/>
+	<!-- Flipkart --><AppIcon name="com.flipkart.android/com.flipkart.android.SplashActivity" image="flipkart"/>
+	<!-- FM Radio --><AppIcon name="com.miui.fm/com.miui.fmradio.FmActivity" image="fm_radio"/>
+	<!-- GPay --><AppIcon name="com.google.android.apps.nbu.paisa.user/com.google.nbu.paisa.flutter.gpay.app.LauncherActivity" image="gpay"/>
+	<!-- IPPB Mobile --><AppIcon name="com.iexceed.appzillon.ippbMB/com.iexceed.appzillon.ippbMB.AppzillonMainScreen" image="ippb_mobile"/>
+	<!-- IRCTC Rail Connect --><AppIcon name="cris.org.in.prs.ima/cris.org.in.ima.activities.IRCTCConnectActivity" image="irctc_rail_connect"/>
+	<!-- Microsoft Launcher --><AppIcon name="com.microsoft.launcher/com.microsoft.launcher.Launcher" image="microsoft_launcher"/>
+	<!-- MyJio --><AppIcon name="com.jio.myjio/com.jio.myjio.dashboard.activities.SplashActivity" image="myjio"/>
+	<!-- Ncert Book --><AppIcon name="letest.ncertbooks/letest.ncertbooks.SplashActivity" image="ncert_book"/>
+	<!-- Paisa Lelo --><AppIcon name="com.paisa.lelo.app/com.psb.novawala.activity.SplashActivity" image="paisa_lelo"/>
+	<!-- Paisa Wala --><AppIcon name="com.paisa.wala.app/com.psb.novawala.activity.SplashActivity" image="paisa_wala"/>
+	<!-- Paytm --><AppIcon name="net.one97.paytm/net.one97.paytm.app.LauncherActivity" image="paytm"/>
+	<!-- Phone Master --><AppIcon name="com.transsion.phonemaster/com.cyin.himgr.ads.SplashActivity" image="phone_master"/>
+	<!-- PhonePe --><AppIcon name="com.phonepe.app/com.phonepe.app.v4.nativeapps.splash.Navigator_SplashActivity" image="phonepe"/>
+	<!-- Qr Barcode Scanner --><AppIcon name="appinventor.ai_progetto2003.SCAN/com.QRBS.activity.StartActivity" image="qr_barcode_scanner"/>
+	<!-- Rooter --><AppIcon name="com.threesixteen.app/com.threesixteen.app.ui.activities.SplashActivity" image="rooter"/>
+	<!-- ShareChat --><AppIcon name="in.mohalla.sharechat/sharechat.ads.feature.eva.EvaActivity" image="sharechat"/>
+	<!-- Telegram --><AppIcon name="org.telegram.messenger/org.telegram.messenger.DefaultIcon" image="telegram"/>
+	<!-- Truecaller --><AppIcon name="com.truecaller/com.truecaller.ui.TruecallerInit" image="truecaller"/>
+	<!-- WA Business --><AppIcon name="com.whatsapp.w4b/com.whatsapp.Main" image="wa_business"/>
+	<!-- Where is my Train --><AppIcon name="com.whereismytrain.android/com.whereismytrain.view.activities.MainPagerActivity" image="where_is_my_train"/>
+	<!-- XRecorder --><AppIcon name="videoeditor.videorecorder.screenrecorder/com.inshot.screenrecorder.activities.SplashBeforeActivity" image="xrecorder"/>
 	
 </resources>

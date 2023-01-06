@@ -1,0 +1,14 @@
+<resources>
+
+	<!-- 061 Salut Respon --><item component="ComponentInfo{cat.gencat.mobi.sem/cat.gencat.mobi.sem.controller.activity.SplashActivity}" drawable="_061_salut_respon" />
+	<!-- Barcelona Transit --><item component="ComponentInfo{com.swash.transitworld.barcelona/com.swash.transitworld.SplashScreen}" drawable="barcelona_transit" />
+	<!-- Alarm Clock for Me --><item component="ComponentInfo{com.apalon.myclockfree/com.apalon.myclockfree.activity.MainAdsActivity}" drawable="alarm_clock_for_me" />
+	<!-- La Meva Salut --><item component="ComponentInfo{cat.gencat.mobi.lamevasalut/cat.gencat.lamevasalut.splash.view.SplashActivity}" drawable="la_meva_salut" />
+	<!-- hyperion --><item component="ComponentInfo{projekt.launcher/projekt.launcher.ProjektLauncher}" drawable="hyperion" />
+	<!-- Horarios Renfe --><item component="ComponentInfo{com.wekele.cercanias/com.wekele.cercanias.Main}" drawable="horarios_renfe" />
+	<!-- Renfe --><item component="ComponentInfo{com.renfeviajeros.ticket/com.renfeviajeros.ticket.presentation.ui.splash.SplashViewActivity}" drawable="renfe" />
+	<!-- Renfe Cercanías --><item component="ComponentInfo{com.renfe.renfecercanias/com.renfe.renfecercanias.view.activity.splash.SplashActivity}" drawable="renfe_cercanias" />
+	<!-- Rodalies --><item component="ComponentInfo{cat.gencat.mobi.rodalies/cat.gencat.mobi.rodalies.presentation.view.activity.SplashActivity}" drawable="rodalies" />
+	<!-- Trànsit --><item component="ComponentInfo{com.tsol.transit/com.tsol.transit.activities.SplashActivity}" drawable="transit" />
+
+</resources>

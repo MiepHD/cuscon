@@ -1880,5 +1880,67 @@
 		"author": "MiepHD",
 		"src": "mi_transporte_barcelona",
 		"category": "other"
+	},
+	{
+		"title": "Moovit",
+		"author": "MiepHD",
+		"src": "moovit",
+		"category": "other"
+	},
+	{
+		"title": "OK Transporte Barcelona",
+		"author": "MiepHD",
+		"src": "ok_transporte_barcelona",
+		"category": "other"
+	},
+	{
+		"title": "TMB App",
+		"author": "MiepHD",
+		"src": "tmb_app",
+		"category": "other"
+	},
+	{
+		"title": "TRAM Barcelona",
+		"author": "MiepHD",
+		"src": "tram_barcelona",
+		"category": ""
+	},
+	{
+		"title": "Transit: Bus & Subway Times",
+		"author": "MiepHD",
+		"src": "transit_bus_subway_times",
+		"category": "other"
+	},
+	
+	{
+		"title": "Apex Launcher Pro",
+		"author": "MiepHD",
+		"src": "apex_launcher_pro",
+		"category": "launcher"
+	},
+	
+	{
+		"title": "Via Browser",
+		"author": "MiepHD",
+		"src": "via_browser",
+		"category": "browser"
+	},
+	{
+		"title": "XBrowser",
+		"author": "MiepHD",
+		"src": "xbrowser",
+		"category": "browser"
+	},
+	{
+		"title": "Yuzu Browser",
+		"author": "MiepHD",
+		"src": "yuzu_browser",
+		"category": "browser"
+	},
+	{
+		"title": "FOSS Browser",
+		"author": "MiepHD",
+		"src": "foss_browser",
+		"category": "browser"
 	}
 ]

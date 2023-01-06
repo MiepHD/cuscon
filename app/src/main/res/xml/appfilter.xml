@@ -368,5 +368,15 @@ A    <item component="ComponentInfo{info.amc.cookandgo/com.guidedcooking.MainAct
 	<!-- Weather M8 --><item component="ComponentInfo{pro.burgerz.miweather8/bz.zaa.weather.ui.activity.SplashActivity}" drawable="weather_m8" />
 	<!-- Frog weather forecast --><item component="ComponentInfo{com.giovesoft.frogweather/com.giovesoft.frogweather.activities.StartupActivity}" drawable="frog_weather_forecast" />
 	<!-- Mi Transporte Barcelona --><item component="ComponentInfo{com.movimad.transportebcn/com.movimad.transportebcn.InitActivity}" drawable="mi_transporte_barcelona" />
+    <!-- Apex Launcher Pro --><item component="ComponentInfo{com.anddoes.launcher.pro/com.anddoes.launcher.pro.ApexLauncherProActivity}" drawable="apex_launcher_pro" />
+	<!-- Moovit --><item component="ComponentInfo{com.tranzmate/com.moovit.app.home.HomeActivity}" drawable="moovit" />
+	<!-- OK Transporte Barcelona --><item component="ComponentInfo{com.oktransportebarcelona/com.oktransportebarcelona.MainActivity}" drawable="ok_transporte_barcelona" />
+	<!-- FOSS Browser --><item component="ComponentInfo{de.baumann.browser1/de.baumann.browser.activity.BrowserActivity}" drawable="foss_browser" />
+	<!-- TMB App --><item component="ComponentInfo{com.geomobile.tmbmobile/com.geomobile.tmbmobile.ui.activities.SplashActivity}" drawable="tmb_app" />
+	<!-- TRAM Barcelona --><item component="ComponentInfo{com.itequia.apptram/crc64c31a67c82d0a8023.SplashActivity}" drawable="tram_barcelona" />
+	<!-- Via Browser --><item component="ComponentInfo{mark.via.gp/mark.via.Shell}" drawable="via_browser" />
+	<!-- XBrowser --><item component="ComponentInfo{com.xbrowser.play/com.mmbox.xbrowser.BrowserActivity}" drawable="xbrowser" />
+	<!-- Yuzu Browser --><item component="ComponentInfo{jp.hazuki.yuzubrowser/jp.hazuki.yuzubrowser.browser.BrowserActivity}" drawable="yuzu_browser" />
+	<!-- Transit: Bus & Subway Times --><item component="ComponentInfo{com.thetransitapp.droid/com.thetransitapp.droid.shared.activity.SplashActivity}" drawable="transit_bus_subway_times" />
 
 </resources>

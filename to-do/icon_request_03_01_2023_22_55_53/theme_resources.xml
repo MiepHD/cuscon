@@ -1,8 +1,0 @@
-<Theme version="1">
-
-	<!-- 061 Salut Respon --><AppIcon name="cat.gencat.mobi.sem/cat.gencat.mobi.sem.controller.activity.SplashActivity" image="_061_salut_respon"/>
-	<!-- Barcelona Transit --><AppIcon name="com.swash.transitworld.barcelona/com.swash.transitworld.SplashScreen" image="barcelona_transit"/>
-	<!-- Alarm Clock for Me --><AppIcon name="com.apalon.myclockfree/com.apalon.myclockfree.activity.MainAdsActivity" image="alarm_clock_for_me"/>
-	<!-- La Meva Salut --><AppIcon name="cat.gencat.mobi.lamevasalut/cat.gencat.lamevasalut.splash.view.SplashActivity" image="la_meva_salut"/>
-
-</Theme>

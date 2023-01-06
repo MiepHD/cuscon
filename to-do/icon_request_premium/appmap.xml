@@ -1,0 +1,14 @@
+<appmap>
+
+	<!-- 061 Salut Respon --><item class="cat.gencat.mobi.sem.controller.activity.SplashActivity" name="_061_salut_respon"/>
+	<!-- Barcelona Transit --><item class="com.swash.transitworld.SplashScreen" name="barcelona_transit"/>
+	<!-- Alarm Clock for Me --><item class="com.apalon.myclockfree.activity.MainAdsActivity" name="alarm_clock_for_me"/>
+	<!-- La Meva Salut --><item class="cat.gencat.lamevasalut.splash.view.SplashActivity" name="la_meva_salut"/>
+	<!-- hyperion --><item class="projekt.launcher.ProjektLauncher" name="hyperion"/>
+	<!-- Horarios Renfe --><item class="com.wekele.cercanias.Main" name="horarios_renfe"/>
+	<!-- Renfe --><item class="com.renfeviajeros.ticket.presentation.ui.splash.SplashViewActivity" name="renfe"/>
+	<!-- Renfe Cercanías --><item class="com.renfe.renfecercanias.view.activity.splash.SplashActivity" name="renfe_cercanias"/>
+	<!-- Rodalies --><item class="cat.gencat.mobi.rodalies.presentation.view.activity.SplashActivity" name="rodalies"/>
+	<!-- Trànsit --><item class="com.tsol.transit.activities.SplashActivity" name="transit"/>
+
+</appmap>

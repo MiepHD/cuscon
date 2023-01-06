@@ -343,5 +343,15 @@
 	<!-- Weather M8 --><item class="bz.zaa.weather.ui.activity.SplashActivity" name="weather_m8"/>
 	<!-- Frog weather forecast --><item class="com.giovesoft.frogweather.activities.StartupActivity" name="frog_weather_forecast"/>
 	<!-- Mi Transporte Barcelona --><item class="com.movimad.transportebcn.InitActivity" name="mi_transporte_barcelona"/>
+    <!-- Apex Launcher Pro --><item class="com.anddoes.launcher.pro.ApexLauncherProActivity" name="apex_launcher_pro"/>
+	<!-- FOSS Browser --><item class="de.baumann.browser.activity.BrowserActivity" name="foss_browser"/>
+	<!-- Via Browser --><item class="mark.via.Shell" name="via_browser"/>
+	<!-- XBrowser --><item class="com.mmbox.xbrowser.BrowserActivity" name="xbrowser"/>
+	<!-- Yuzu Browser --><item class="jp.hazuki.yuzubrowser.browser.BrowserActivity" name="yuzu_browser"/>
+	<!-- Moovit --><item class="com.moovit.app.home.HomeActivity" name="moovit"/>
+	<!-- OK Transporte Barcelona --><item class="com.oktransportebarcelona.MainActivity" name="ok_transporte_barcelona"/>
+	<!-- TMB App --><item class="com.geomobile.tmbmobile.ui.activities.SplashActivity" name="tmb_app"/>
+	<!-- TRAM Barcelona --><item class="crc64c31a67c82d0a8023.SplashActivity" name="tram_barcelona"/>
+	<!-- Transit: Bus & Subway Times --><item class="com.thetransitapp.droid.shared.activity.SplashActivity" name="transit_bus_subway_times"/>
 
 </appmap>

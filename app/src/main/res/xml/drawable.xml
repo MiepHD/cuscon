@@ -47,13 +47,13 @@
     <!-- Barclays --><item drawable="barclays"/>
     <!-- Moto--><item drawable="moto"/>
     <!-- PayPal --><item drawable="paypal"/>
-	<!-- FAST Speed Test--><AppIcon drawable="fast_speed_test"/>
-	<!-- My O2 --><AppIcon drawable="my_o2"/>
-	<!-- Mou-te--><AppIcon drawable="mou_te"/>
-	<!-- Motorola Notifications--><AppIcon drawable="motorola_notifications"/>
+	<!-- FAST Speed Test--><item drawable="fast_speed_test"/>
+	<!-- My O2 --><item drawable="my_o2"/>
+	<!-- Mou-te--><item drawable="mou_te"/>
+	<!-- Motorola Notifications--><item drawable="motorola_notifications"/>
 	<!-- D-Link Wi-Fi --><item drawable="d_link_wi_fi"/>
-    <!-- Microsoft SwiftKey-Tastatur --><item name="microsoft_swiftkey_tastatur"/>
-    <!-- Onleihe --><item name="onleihe"/>
+    <!-- Microsoft SwiftKey-Tastatur --><item drawable="microsoft_swiftkey_tastatur"/>
+    <!-- Onleihe --><item drawable="onleihe"/>
     <!-- Barcelona Bus Tracker --><item drawable="barcelona_bus_tracker"/>
     <!-- Blokada 5 --><item drawable="blokada_5"/>
     <!-- Circuit --><item drawable="circuit"/>
@@ -64,11 +64,16 @@
     <!-- gencat --><item drawable="gencat"/>
     <!-- Next bus Barcelona --><item drawable="next_bus_barcelona"/>
     <!-- JBL Headphones --><item drawable="jbl_headphones" />
-    <!-- AMB Mobilitat --><item name="amb_mobilitat"/>
-    <!-- Barcelona Metro --><item name="barcelona_metro"/>
-    <!-- Barcelona Metro Bus Rodalies Bicing --><item name="barcelona_metro_bus_rodalies_bicing"/>
-    <!-- Barcelona Transport --><item name="barcelona_transport"/>
-    <!-- Mi Transporte Barcelona --><item name="mi_transporte_barcelona"/>
+    <!-- AMB Mobilitat --><item drawable="amb_mobilitat"/>
+    <!-- Barcelona Metro --><item drawable="barcelona_metro"/>
+    <!-- Barcelona Metro Bus Rodalies Bicing --><item drawable="barcelona_metro_bus_rodalies_bicing"/>
+    <!-- Barcelona Transport --><item drawable="barcelona_transport"/>
+    <!-- Mi Transporte Barcelona --><item drawable="mi_transporte_barcelona"/>
+	<!-- Moovit --><item drawable="moovit" />
+	<!-- OK Transporte Barcelona --><item drawable="ok_transporte_barcelona" />
+	<!-- TMB App --><item drawable="tmb_app" />
+	<!-- TRAM Barcelona --><item drawable="tram_barcelona" />
+	<!-- Transit: Bus & Subway Times --><item drawable="transit_bus_subway_times" />
 
     <category title="Stores" />
     <item drawable="apkpure" />
@@ -84,15 +89,16 @@
     <!-- Aliucord Installer --><item drawable="aliucord_installer" />
     <!-- Apkmody --><item drawable="apkmody" />
     <!-- Zalando --><item drawable="zalando"/>
-    <!-- Lieferando --><item name="lieferando"/>
-    <!-- Jojoy --><item name="jojoy"/>
+    <!-- Lieferando --><item drawable="lieferando"/>
+    <!-- Jojoy --><item drawable="jojoy"/>
 
     <category title="Launcher" />
     <!-- Apex Launcher --><item drawable="apex_launcher"/>
     <!-- Lawnchair --><item drawable="lawnchair"/>
     <!-- Lawnchair-Einstellungen --><item drawable="lawnchair_einstellungen" />
-    <!-- Nova Launcher--><AppIcon drawable="nova_launcher"/>
-	<!-- Nova Launcher Prime--><AppIcon drawable="nova_launcher_prime"/>
+    <!-- Nova Launcher--><item drawable="nova_launcher"/>
+	<!-- Nova Launcher Prime--><item drawable="nova_launcher_prime"/>
+    <!-- Apex Launcher Pro --><item drawable="apex_launcher_pro" />
 
     <category title="Video Streaming" />
     <item drawable="netflix" />
@@ -106,7 +112,7 @@
     <!-- VLC --><item drawable="vlc" />
     <!-- VR Media Player --><item drawable="vr_media_player" />
     <!-- TikTok --><item drawable="tiktok"/>
-    <!-- YouTube Revanced --><item name="youtube_revanced"/>
+    <!-- YouTube Revanced --><item drawable="youtube_revanced"/>
 
     <category title="Music Streaming" />
     <item drawable="amazon_music" />
@@ -160,8 +166,8 @@
     <!-- Facebook --><item drawable="facebook"/>
     <!-- Meet --><item drawable="meet"/>
     <!-- LinkedIn --><item drawable="linkedin"/>
-    <!-- Skype --><item name="skype"/>
-    <!-- Teams --><item name="teams"/>
+    <!-- Skype --><item drawable="skype"/>
+    <!-- Teams --><item drawable="teams"/>
     <!-- Dawn --><item drawable="dawn" />
     <!-- satellite --><item drawable="satellite" />
     <!-- Threema --><item drawable="threema" />
@@ -177,11 +183,15 @@
 	<!-- Opera Mini --><item drawable="opera_mini"/>
 	<!-- Redlight Web Browser --><item drawable="redlight_web_browser"/>
     <!-- Samsung Internet --><item drawable="samsung_internet"/>
-    <!-- Kiwi Browser--><AppIcon drawable="kiwi_browser"/>
+    <!-- Kiwi Browser--><item drawable="kiwi_browser"/>
     <!-- Chromium --><item drawable="chromium" />
     <!-- Mull --><item drawable="mull" />
     <!-- Native alpha --><item drawable="native_alpha" />
     <!-- Tor Browser --><item drawable="tor_browser" />
+    <!-- Via Browser --><item drawable="via_browser" />
+	<!-- XBrowser --><item drawable="xbrowser" />
+	<!-- Yuzu Browser --><item drawable="yuzu_browser" />
+    <!-- FOSS Browser --><item drawable="foss_browser" />
 
     <category title="Tools" />
     <item drawable="lucky_patcher" />
@@ -204,15 +214,15 @@
 	<!-- WiFiAnalyzer--><item drawable="wifianalyzer" />
 	<!-- WLANScanner--><item drawable="wlanscanner" />
     <!-- Good Guardians --><item drawable="good_guardians"/>
-    <!-- iwscan--><AppIcon drawable="iwscan"/>
-    <!-- Port Authority--><AppIcon drawable="port_authority"/>
+    <!-- iwscan--><item drawable="iwscan"/>
+    <!-- Port Authority--><item drawable="port_authority"/>
     <!-- 1Tap Cleaner Pro --><item drawable="_1tap_cleaner_pro"/>
     <!-- NetMan --><item drawable="netman"/>
     <!-- WiFiman --><item drawable="wifiman"/>
 	<!-- FRITZ!App WLAN --><item drawable="fritz_app_wlan"/>
     <!-- WlanScanner by Latetech --><item drawable="wlanscanner_by_latetech"/>
 	<!-- WiFi Monitor Pro--><item drawable="wifi_monitor_pro"/>
-    <!-- Samsung Flow --><item name="samsung_flow"/>
+    <!-- Samsung Flow --><item drawable="samsung_flow"/>
     <!-- Material Flashlight --><item drawable="material_flashlight" />
     <!-- QRServ --><item drawable="qrserv" />
     <!-- Resolution Changer --><item drawable="resolution_changer" />
@@ -240,7 +250,7 @@
     <!-- Adguard --><item drawable="adguard" />
     <!-- Cloudflare Warp --><item drawable="cloudflare_warp" />
     <!-- WireGuard --><item drawable="wireguard" />
-    <!-- AdGuard VPN --><item name="adguard_vpn"/>
+    <!-- AdGuard VPN --><item drawable="adguard_vpn"/>
 
     <category title="Camera" />
     <!-- Open Camera --><item drawable="open_camera" />
@@ -252,7 +262,7 @@
     <!-- Mosaic --><item drawable="mosaic"/>
     <!-- Camera Assistant --><item drawable="camera_assistant"/>
     <!-- TeaCapps QR & Barcode Reader --><item drawable="teacapps_qr__barcode_reader"/>
-    <!-- Moto Camera 3--><AppIcon drawable="moto_camera_3"/>
+    <!-- Moto Camera 3--><item drawable="moto_camera_3"/>
 
     <category title="Maps" />
     <!-- Google Maps --><item drawable="google_maps" />
@@ -296,7 +306,7 @@
     <!-- Shelter --><item drawable="shelter" />
     <!-- Warden --><item drawable="warden" />
     <!-- Microsoft Authenticator --><item drawable="microsoft_authenticator"/>
-    <!-- VirusTotal Mobile --><item name="virustotal_mobile"/>
+    <!-- VirusTotal Mobile --><item drawable="virustotal_mobile"/>
     <!-- SimpleLogin --><item drawable="simplelogin" />
     <!-- Hash Droid --><item drawable="hash_droid" />
     <!-- Screen Stream --><item drawable="screen_stream" />
@@ -311,17 +321,17 @@
     <!-- Bibel+ --><item drawable="bibel_" />
     <!-- Kiwix --><item drawable="kiwix" />
     <!-- Google Translate --><item drawable="google_translate" />
-    <!-- Duolingo --><item name="duolingo"/>
+    <!-- Duolingo --><item drawable="duolingo"/>
 
     <category title="News" />
     <!-- Newszone --><item drawable="newszone" />
     <!-- Weather --><item drawable="weather" />
     <!-- Weather Station - Barometer --><item drawable="weather_station_barometer"/>
-    <!-- Der Postillon --><item name="der_postillon"/>
+    <!-- Der Postillon --><item drawable="der_postillon"/>
     <!-- Google Weather Activity --><item drawable="google_weather_activity"/>
     <!-- Sueddeutsche Zeitung --><item drawable="sueddeutsche_zeitung" />
-    <!-- Weather M8 --><item name="weather_m8"/>
-    <!-- Frog weather forecast --><item name="frog_weather_forecast"/>
+    <!-- Weather M8 --><item drawable="weather_m8"/>
+    <!-- Frog weather forecast --><item drawable="frog_weather_forecast"/>
 
     <category title="Design" />
     <!-- Pocket Paint --><item drawable="pocket_paint" />
@@ -336,7 +346,7 @@
     <!-- Wallpaper Engine --><item drawable="wallpaper_engine" />
     <!-- Google Wallpapers --><item drawable="google_wallpapers" />
 	<!-- Moto Interactive Wallpaper --><item drawable="moto_interactive_wallpaper" />
-    <!-- Theme Park --><item name="theme_park"/>
+    <!-- Theme Park --><item drawable="theme_park"/>
 
     <category title="Information" />
     <!-- Öffi Verbindungen --><item drawable="offi_verbindungen" />
@@ -347,12 +357,12 @@
     <!-- Elementary --><item drawable="elementary" />
     <!-- KFZ-Kennzeichen --><item drawable="kfz_kennzeichen" />
     <!-- DSBmobile --><item drawable="dsbmobile"/>
-    <!-- UUID 0xFD6F Scanner --><item name="uuid_0xfd6f_scanner"/>
+    <!-- UUID 0xFD6F Scanner --><item drawable="uuid_0xfd6f_scanner"/>
     <!-- NINA --><item drawable="nina" />
 
     <category title="Icon Packs" />
     <!-- Cuscon --><item drawable="cuscon" />
-    <!-- CandyBar Dev --><item name="candybar_dev"/>
-    <!-- Delta --><item name="delta"/>
+    <!-- CandyBar Dev --><item drawable="candybar_dev"/>
+    <!-- Delta --><item drawable="delta"/>
 
 </resources>

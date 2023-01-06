@@ -355,5 +355,15 @@
 	<!-- Weather M8 --><AppIcon name="pro.burgerz.miweather8/bz.zaa.weather.ui.activity.SplashActivity" image="weather_m8"/>
 	<!-- Frog weather forecast --><AppIcon name="com.giovesoft.frogweather/com.giovesoft.frogweather.activities.StartupActivity" image="frog_weather_forecast"/>
 	<!-- Mi Transporte Barcelona --><AppIcon name="com.movimad.transportebcn/com.movimad.transportebcn.InitActivity" image="mi_transporte_barcelona"/>
+    <!-- Apex Launcher Pro --><AppIcon name="com.anddoes.launcher.pro/com.anddoes.launcher.pro.ApexLauncherProActivity" image="apex_launcher_pro"/>
+	<!-- FOSS Browser --><AppIcon name="de.baumann.browser1/de.baumann.browser.activity.BrowserActivity" image="foss_browser"/>
+	<!-- Via Browser --><AppIcon name="mark.via.gp/mark.via.Shell" image="via_browser"/>
+	<!-- XBrowser --><AppIcon name="com.xbrowser.play/com.mmbox.xbrowser.BrowserActivity" image="xbrowser"/>
+	<!-- Yuzu Browser --><AppIcon name="jp.hazuki.yuzubrowser/jp.hazuki.yuzubrowser.browser.BrowserActivity" image="yuzu_browser"/>
+	<!-- Moovit --><AppIcon name="com.tranzmate/com.moovit.app.home.HomeActivity" image="moovit"/>
+	<!-- OK Transporte Barcelona --><AppIcon name="com.oktransportebarcelona/com.oktransportebarcelona.MainActivity" image="ok_transporte_barcelona"/>
+	<!-- TMB App --><AppIcon name="com.geomobile.tmbmobile/com.geomobile.tmbmobile.ui.activities.SplashActivity" image="tmb_app"/>
+	<!-- TRAM Barcelona --><AppIcon name="com.itequia.apptram/crc64c31a67c82d0a8023.SplashActivity" image="tram_barcelona"/>
+	<!-- Transit: Bus & Subway Times --><AppIcon name="com.thetransitapp.droid/com.thetransitapp.droid.shared.activity.SplashActivity" image="transit_bus_subway_times"/>
 
 </Theme>
