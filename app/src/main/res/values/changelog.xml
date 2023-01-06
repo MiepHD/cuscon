@@ -3,7 +3,7 @@
     <string name="changelog_date">06.01.2023</string>
     <string-array name="changelog">
         <item>2.6.5:</item>
-        <item>Added Moovit, OK Transporte Barcelona, TMB App, TRAM Barcelona, Transit: Bus & Subway Times, Apex Launcher Pro, Via Browser, XBrowser, Yuzu Browser, FOSS Browser</item>
+        <item>Added Moovit, OK Transporte Barcelona, TMB App, TRAM Barcelona, Transit: Bus and Subway Times, Apex Launcher Pro, Via Browser, XBrowser, Yuzu Browser, FOSS Browser</item>
         <item>Fixed icons not displaying in icon list</item>
         <item>2.6.4:</item>
         <item>Added AMB Mobilitat, Barcelona Metro, Barcelona Metro Bus Rodalies Bicing, Barcelona Transport, Weather M8, Frog weather forecast, Mi Transporte Barcelona</item>
