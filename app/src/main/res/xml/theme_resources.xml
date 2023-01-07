@@ -247,7 +247,7 @@
 	<!-- Gallery --><AppIcon name="com.simplemobiletools.gallery.pro/com.simplemobiletools.gallery.pro.activities.SplashActivity.Orange" image="gallery"/>
 	<!-- Google One --><AppIcon name="com.google.android.apps.subscriptions.red/com.google.android.apps.subscriptions.red.LauncherActivity" image="google_one"/>
 	<!-- Google TV --><AppIcon name="com.google.android.videos/com.google.android.videos.GoogleTvEntryPoint" image="google_tv"/>
-	<!-- Games --><AppIcon name="com.motorola.gamemode/com.motorola.gamemode.ui.launcher.main.GameCenterActivity" image="games"/>
+	<!-- Moto Gametime --><AppIcon name="com.motorola.gamemode/com.motorola.gamemode.ui.launcher.main.GameCenterActivity" image="moto_gametime"/>
 	<!-- Mi WiFi --><AppIcon name="com.xiaomi.router/com.xiaomi.router.module.splash.SplashActivity" image="mi_wifi"/>
 	<!-- WiFiAnalyzer --><AppIcon name="com.vrem.wifianalyzer/com.vrem.wifianalyzer.MainActivity" image="wifianalyzer"/>
 	<!-- WLANScanner --><AppIcon name="org.bitbatzen.wlanscanner/org.bitbatzen.wlanscanner.MainActivity" image="wlanscanner"/>

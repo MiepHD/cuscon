@@ -235,7 +235,7 @@
 	<!-- Gallery--><item class="com.simplemobiletools.gallery.pro.activities.SplashActivity.Orange" name="gallery"/>
 	<!-- Google One--><item class="com.google.android.apps.subscriptions.red.LauncherActivity" name="google_one"/>
 	<!-- Google TV--><item class="com.google.android.videos.GoogleTvEntryPoint" name="google_tv"/>
-	<!-- Games--><item class="com.motorola.gamemode.ui.launcher.main.GameCenterActivity" name="games"/>
+	<!-- Moto Gametime--><item class="com.motorola.gamemode.ui.launcher.main.GameCenterActivity" name="moto_gametime"/>
 	<!-- Mi WiFi--><item class="com.xiaomi.router.module.splash.SplashActivity" name="mi_wifi"/>
 	<!-- WiFiAnalyzer--><item class="com.vrem.wifianalyzer.MainActivity" name="wifianalyzer"/>
 	<!-- WLANScanner--><item class="org.bitbatzen.wlanscanner.MainActivity" name="wlanscanner"/>
