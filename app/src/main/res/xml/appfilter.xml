@@ -378,5 +378,35 @@ A    <item component="ComponentInfo{info.amc.cookandgo/com.guidedcooking.MainAct
 	<!-- XBrowser --><item component="ComponentInfo{com.xbrowser.play/com.mmbox.xbrowser.BrowserActivity}" drawable="xbrowser" />
 	<!-- Yuzu Browser --><item component="ComponentInfo{jp.hazuki.yuzubrowser/jp.hazuki.yuzubrowser.browser.BrowserActivity}" drawable="yuzu_browser" />
 	<!-- Transit: Bus & Subway Times --><item component="ComponentInfo{com.thetransitapp.droid/com.thetransitapp.droid.shared.activity.SplashActivity}" drawable="transit_bus_subway_times" />
+    <!-- 061 Salut Respon --><item component="ComponentInfo{cat.gencat.mobi.sem/cat.gencat.mobi.sem.controller.activity.SplashActivity}" drawable="_061_salut_respon" />
+	<!-- Barcelona Transit --><item component="ComponentInfo{com.swash.transitworld.barcelona/com.swash.transitworld.SplashScreen}" drawable="barcelona_transit" />
+	<!-- Alarm Clock for Me --><item component="ComponentInfo{com.apalon.myclockfree/com.apalon.myclockfree.activity.MainAdsActivity}" drawable="alarm_clock_for_me" />
+	<!-- La Meva Salut --><item component="ComponentInfo{cat.gencat.mobi.lamevasalut/cat.gencat.lamevasalut.splash.view.SplashActivity}" drawable="la_meva_salut" />
+	<!-- hyperion --><item component="ComponentInfo{projekt.launcher/projekt.launcher.ProjektLauncher}" drawable="hyperion" />
+	<!-- Horarios Renfe --><item component="ComponentInfo{com.wekele.cercanias/com.wekele.cercanias.Main}" drawable="horarios_renfe" />
+	<!-- Renfe --><item component="ComponentInfo{com.renfeviajeros.ticket/com.renfeviajeros.ticket.presentation.ui.splash.SplashViewActivity}" drawable="renfe" />
+	<!-- Renfe Cercanías --><item component="ComponentInfo{com.renfe.renfecercanias/com.renfe.renfecercanias.view.activity.splash.SplashActivity}" drawable="renfe_cercanias" />
+	<!-- Rodalies --><item component="ComponentInfo{cat.gencat.mobi.rodalies/cat.gencat.mobi.rodalies.presentation.view.activity.SplashActivity}" drawable="rodalies" />
+	<!-- Trànsit --><item component="ComponentInfo{com.tsol.transit/com.tsol.transit.activities.SplashActivity}" drawable="transit" />
+    <!-- ING Banking --><item component="ComponentInfo{de.ingdiba.bankingapp/com.ing.mobile.diba.startup.SplashActivity}" drawable="ing_banking" />
+	<!-- S-pushTAN --><item component="ComponentInfo{com.starfinanz.mobile.android.pushtan/com.starfinanz.mobile.android.spushtan.SPushTan}" drawable="s_pushtan" />
+	<!-- BeReal. --><item component="ComponentInfo{com.bereal.ft/bereal.app.MainActivity}" drawable="bereal" />
+	<!-- Joyn --><item component="ComponentInfo{de.prosiebensat1digital.seventv/de.prosiebensat1digital.playerpluggable.testapp.splash.SplashActivity}" drawable="joyn" />
+	<!-- bob World --><item component="ComponentInfo{com.bankofbaroda.mconnect/com.bankofbaroda.mconnect.activities.SplashActivity}" drawable="bob_world" />
+	<!-- Android Camera --><item component="ComponentInfo{com.android.camera/com.android.camera.Camera}" drawable="android_camera" />
+	<!-- Miui Bugreport --><item component="ComponentInfo{com.miui.bugreport/com.miui.bugreport.ui.MainTabActivity}" drawable="miui_bugreport" />
+	<!-- Mi File Manager --><item component="ComponentInfo{com.mi.android.globalFileexplorer/com.android.fileexplorer.FileExplorerTabActivity}" drawable="mi_file_manager" />
+	<!-- GPay --><item component="ComponentInfo{com.google.android.apps.nbu.paisa.user/com.google.nbu.paisa.flutter.gpay.app.LauncherActivity}" drawable="gpay" />
+	<!-- IPPB Mobile --><item component="ComponentInfo{com.iexceed.appzillon.ippbMB/com.iexceed.appzillon.ippbMB.AppzillonMainScreen}" drawable="ippb_mobile" />
+	<!-- Microsoft Launcher --><item component="ComponentInfo{com.microsoft.launcher/com.microsoft.launcher.Launcher}" drawable="microsoft_launcher" />
+	<!-- MyJio --><item component="ComponentInfo{com.jio.myjio/com.jio.myjio.dashboard.activities.SplashActivity}" drawable="myjio" />
+	<!-- Ncert Book --><item component="ComponentInfo{letest.ncertbooks/letest.ncertbooks.SplashActivity}" drawable="ncert_book" />
+	<!-- Paisa Wala --><item component="ComponentInfo{com.paisa.wala.app/com.psb.novawala.activity.SplashActivity}" drawable="paisa_wala" />
+	<!-- Paytm --><item component="ComponentInfo{net.one97.paytm/net.one97.paytm.app.LauncherActivity}" drawable="paytm" />
+	<!-- PhonePe --><item component="ComponentInfo{com.phonepe.app/com.phonepe.app.v4.nativeapps.splash.Navigator_SplashActivity}" drawable="phonepe" />
+	<!-- ShareChat --><item component="ComponentInfo{in.mohalla.sharechat/sharechat.ads.feature.eva.EvaActivity}" drawable="sharechat" />
+	<!-- Telegram --><item component="ComponentInfo{org.telegram.messenger/org.telegram.messenger.DefaultIcon}" drawable="telegram" />
+	<!-- Truecaller --><item component="ComponentInfo{com.truecaller/com.truecaller.ui.TruecallerInit}" drawable="truecaller" />
+	<!-- WA Business --><item component="ComponentInfo{com.whatsapp.w4b/com.whatsapp.Main}" drawable="wa_business" />
 
 </resources>

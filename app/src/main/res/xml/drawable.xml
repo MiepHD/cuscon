@@ -2,19 +2,10 @@
 <resources>
     <version>1</version>
     <category title="Other" />
-    <item drawable="birday" />
     <item drawable="covpass" />
     <item drawable="github" />
-    <item drawable="i_net_menue" />
-    <item drawable="samsung_calendar" />
-    <item drawable="clock" />
     <item drawable="amc_cooking" />
-    <item drawable="voicenote" />
-    <item drawable="smart_things" />
-    <item drawable="munzee" />
-    <item drawable="imaging_edge_mobile" />
     <item drawable="galaxy_wearable" />
-    <!-- Alexa --><item drawable="alexa" />
     <!-- DJI Fly --><item drawable="dji_fly" />
     <!-- Aldi Talk --><item drawable="aldi_talk" />
     <!-- Kilterboard --><item drawable="kilterboard" />
@@ -30,23 +21,17 @@
     <!-- CubeX --><item drawable="cubex" />
     <!-- MiraPlug --><item drawable="miraplug" />
     <!-- TCL Connect --><item drawable="tcl_connect" />
-    <!-- Reminder --><item drawable="reminder" />
     <!-- Info Dienste --><item drawable="info_dienste" />
     <!-- Symbolab --><item drawable="symbolab" />
     <!-- Termux --><item drawable="termux" />
     <!-- WhatsApp SIM --><item drawable="whatsapp_sim"/>
     <!-- Google --><item drawable="google"/>
-    <!-- Google Assistant--><item drawable="google_assistant" />
     <!-- Google One--><item drawable="google_one" />
 	<!-- Google TV--><item drawable="google_tv" />
-    <!-- Google Calendar --><item drawable="google_calendar" />
-	<!-- Microsoft To Do --><item drawable="microsoft_to_do" />
 	<!-- WeeNet --><item drawable="weenet" />
     <!-- Settings --><item drawable="settings" />
     <!-- Motorola Device Help --><item drawable="motorola_device_help"/>
-    <!-- Barclays --><item drawable="barclays"/>
     <!-- Moto--><item drawable="moto"/>
-    <!-- PayPal --><item drawable="paypal"/>
 	<!-- FAST Speed Test--><item drawable="fast_speed_test"/>
 	<!-- My O2 --><item drawable="my_o2"/>
 	<!-- Mou-te--><item drawable="mou_te"/>
@@ -74,8 +59,25 @@
 	<!-- TMB App --><item drawable="tmb_app" />
 	<!-- TRAM Barcelona --><item drawable="tram_barcelona" />
 	<!-- Transit: Bus & Subway Times --><item drawable="transit_bus_subway_times" />
+    <!-- 061 Salut Respon --><item drawable="_061_salut_respon" />
+	<!-- Barcelona Transit --><item drawable="barcelona_transit" />
+	<!-- Alarm Clock for Me --><item drawable="alarm_clock_for_me" />
+	<!-- La Meva Salut --><item drawable="la_meva_salut" />
+	<!-- hyperion --><item drawable="hyperion" />
+	<!-- Horarios Renfe --><item drawable="horarios_renfe" />
+	<!-- Renfe --><item drawable="renfe" />
+	<!-- Renfe Cercanías --><item drawable="renfe_cercanias" />
+	<!-- Rodalies --><item drawable="rodalies" />
+	<!-- Trànsit --><item drawable="transit" />
+	<!-- bob World --><item drawable="bob_world" />
+	<!-- Miui Bugreport --><item drawable="miui_bugreport" />
+	<!-- IPPB Mobile --><item drawable="ippb_mobile" />
+	<!-- MyJio --><item drawable="myjio" />
+	<!-- Ncert Book --><item drawable="ncert_book" />
+	<!-- Paisa Wala --><item drawable="paisa_wala" />
+	<!-- Truecaller --><item drawable="truecaller" />
 
-    <category title="Stores" />
+    <category title="App Stores" />
     <item drawable="apkpure" />
     <item drawable="f_droid" />
     <item drawable="aurora_store" />
@@ -83,14 +85,17 @@
     <item drawable="google_play_store" />
     <item drawable="playmods" />
     <item drawable="google_play_games" />
-    <!-- EMP Shop --><item drawable="emp_shop" />
     <!-- Galaxy Store --><item drawable="galaxy_store" />
     <!-- Happymod --><item drawable="happymod"/>
     <!-- Aliucord Installer --><item drawable="aliucord_installer" />
     <!-- Apkmody --><item drawable="apkmody" />
-    <!-- Zalando --><item drawable="zalando"/>
-    <!-- Lieferando --><item drawable="lieferando"/>
     <!-- Jojoy --><item drawable="jojoy"/>
+
+    <category title="Shops" />
+    <!-- Lieferando --><item drawable="lieferando"/>
+    <item drawable="i_net_menue" />
+    <!-- EMP Shop --><item drawable="emp_shop" />
+    <!-- Zalando --><item drawable="zalando"/>
 
     <category title="Launcher" />
     <!-- Apex Launcher --><item drawable="apex_launcher"/>
@@ -99,6 +104,15 @@
     <!-- Nova Launcher--><item drawable="nova_launcher"/>
 	<!-- Nova Launcher Prime--><item drawable="nova_launcher_prime"/>
     <!-- Apex Launcher Pro --><item drawable="apex_launcher_pro" />
+    <!-- Microsoft Launcher --><item drawable="microsoft_launcher" />
+
+    <category title="Planning" />
+    <item drawable="samsung_calendar" />
+    <item drawable="birday" />
+    <!-- Google Calendar --><item drawable="google_calendar" />
+    <!-- Microsoft To Do --><item drawable="microsoft_to_do" />
+    <!-- Reminder --><item drawable="reminder" />
+    <item drawable="clock" />
 
     <category title="Video Streaming" />
     <item drawable="netflix" />
@@ -113,6 +127,7 @@
     <!-- VR Media Player --><item drawable="vr_media_player" />
     <!-- TikTok --><item drawable="tiktok"/>
     <!-- YouTube Revanced --><item drawable="youtube_revanced"/>
+    <!-- Joyn --><item drawable="joyn" />
 
     <category title="Music Streaming" />
     <item drawable="amazon_music" />
@@ -128,6 +143,9 @@
     <!-- Radio FM --><item drawable="radio_fm"/>
     <!-- xManager --><item drawable="xmanager" />
 
+    <category title="Recording" />
+    <item drawable="voicenote" />
+
     <category title="Games" />
     <item drawable="darkland" />
     <item drawable="shape_ominoes" />
@@ -138,40 +156,56 @@
     <!-- Mühle --><item drawable="muhle" />
     <!-- Super Retro Mega Wars --><item drawable="super_retro_mega_wars" />
     <!-- hocus --><item drawable="hocus" />
+    <!-- Tomb of the Mask --><item drawable="tomb_of_the_mask" />
+    <item drawable="munzee" />
+
+    <category title="Gaming Experience" />
+    <!-- Moto Gametime--><item drawable="moto_gametime" />
     <!-- J2ME Loader --><item drawable="j2me_loader" />
     <!-- Lemuroid --><item drawable="lemuroid" />
-    <!-- Games--><item drawable="games" />
-    <!-- Tomb of the Mask --><item drawable="tomb_of_the_mask" />
+    
+    <category title="Virtual Assistant" />
+    <!-- Alexa --><item drawable="alexa" />
+    <!-- Google Assistant--><item drawable="google_assistant" />
 
-    <category title="Communication" />
+    <category title="Mail" />
     <item drawable="gmail" />
-    <item drawable="discord" />
     <item drawable="samsung_mail" />
+    <!-- Voicemail --><item drawable="voicemail" />
+
+    <category title="Messenger" />
     <item drawable="samsung_messages" />
-    <item drawable="phone" />
-    <item drawable="reddit" />
     <item drawable="whatsapp" />
     <item drawable="signal" />
-    <item drawable="instagram" />
-    <item drawable="gutefrage" />
-    <item drawable="homeworker" />
-    <item drawable="samsung_contacts" />
+    <!-- Nachrichten --><item drawable="messages"/>
+    <!-- Threema --><item drawable="threema" />
     <!-- Telegram X --><item drawable="telegram_x" />
+    <!-- Telegram --><item drawable="telegram" />
+    <!-- WA Business --><item drawable="wa_business" />
+
+    <category title="Communication" />
+    <item drawable="discord" />
+    <item drawable="phone" />
+    <item drawable="samsung_contacts" />
     <!-- Aliucord --><item drawable="aliucord" />
     <!-- Morse --><item drawable="morse" />
     <!-- Silence --><item drawable="silence" />
     <!-- Tutanota --><item drawable="tutanota" />
-    <!-- Snapchat --><item drawable="snapchat" />
-    <!-- Nachrichten --><item drawable="messages"/>
-    <!-- Facebook --><item drawable="facebook"/>
     <!-- Meet --><item drawable="meet"/>
-    <!-- LinkedIn --><item drawable="linkedin"/>
     <!-- Skype --><item drawable="skype"/>
     <!-- Teams --><item drawable="teams"/>
     <!-- Dawn --><item drawable="dawn" />
     <!-- satellite --><item drawable="satellite" />
-    <!-- Threema --><item drawable="threema" />
-    <!-- Voicemail --><item drawable="voicemail" />
+
+    <category title="Social Media" />
+    <!-- LinkedIn --><item drawable="linkedin"/>
+    <!-- Facebook --><item drawable="facebook"/>
+    <!-- Snapchat --><item drawable="snapchat" />
+    <!-- Instagram --><item drawable="instagram" />
+    <item drawable="reddit" />
+    <item drawable="gutefrage" />
+    <!-- BeReal. --><item drawable="bereal" />
+    <!-- ShareChat --><item drawable="sharechat" />
 
     <category title="Browser" />
     <item drawable="firefox" />
@@ -216,7 +250,6 @@
     <!-- Good Guardians --><item drawable="good_guardians"/>
     <!-- iwscan--><item drawable="iwscan"/>
     <!-- Port Authority--><item drawable="port_authority"/>
-    <!-- 1Tap Cleaner Pro --><item drawable="_1tap_cleaner_pro"/>
     <!-- NetMan --><item drawable="netman"/>
     <!-- WiFiman --><item drawable="wifiman"/>
 	<!-- FRITZ!App WLAN --><item drawable="fritz_app_wlan"/>
@@ -226,6 +259,11 @@
     <!-- Material Flashlight --><item drawable="material_flashlight" />
     <!-- QRServ --><item drawable="qrserv" />
     <!-- Resolution Changer --><item drawable="resolution_changer" />
+    <!-- Mosaic --><item drawable="mosaic"/>
+
+    <category title="Internet of Things" />
+    <item drawable="smart_things" />
+    <item drawable="imaging_edge_mobile" />
 
     <category title="Documents" />
     <item drawable="adobe_acrobat_reader" />
@@ -258,11 +296,13 @@
     <!-- ObscuraCam --><item drawable="obscuracam" />
     <!-- Binary Eye --><item drawable="binary_eye" />
     <!-- Retroboy --><item drawable="retroboy" />
-    <!-- Flora Incognita --><item drawable="flora_incognita" />
-    <!-- Mosaic --><item drawable="mosaic"/>
     <!-- Camera Assistant --><item drawable="camera_assistant"/>
-    <!-- TeaCapps QR & Barcode Reader --><item drawable="teacapps_qr__barcode_reader"/>
     <!-- Moto Camera 3--><item drawable="moto_camera_3"/>
+    <!-- Android Camera --><item drawable="android_camera" />
+
+    <category title="Scanner" />
+    <!-- Flora Incognita --><item drawable="flora_incognita" />
+    <!-- TeaCapps QR & Barcode Reader --><item drawable="teacapps_qr__barcode_reader"/>
 
     <category title="Maps" />
     <!-- Google Maps --><item drawable="google_maps" />
@@ -288,6 +328,8 @@
     <!-- Sweech --><item drawable="sweech"/>
     <!-- Remo Duplicate File Remover --><item drawable="remo_duplicate_file_remover" />
     <!-- USB Media Explorer --><item drawable="usb_media_explorer" />
+    <!-- Mi File Manager --><item drawable="mi_file_manager" />
+    <!-- 1Tap Cleaner Pro --><item drawable="_1tap_cleaner_pro"/>
 
     <category title="Gallery" />
     <!-- Samsung Gallary --><item drawable="samsung_gallery" />
@@ -322,6 +364,7 @@
     <!-- Kiwix --><item drawable="kiwix" />
     <!-- Google Translate --><item drawable="google_translate" />
     <!-- Duolingo --><item drawable="duolingo"/>
+    <item drawable="homeworker" />
 
     <category title="News" />
     <!-- Newszone --><item drawable="newszone" />
@@ -364,5 +407,14 @@
     <!-- Cuscon --><item drawable="cuscon" />
     <!-- CandyBar Dev --><item drawable="candybar_dev"/>
     <!-- Delta --><item drawable="delta"/>
+
+    <category title="Banking" />
+    <!-- ING Banking --><item drawable="ing_banking" />
+	<!-- S-pushTAN --><item drawable="s_pushtan" />
+    <!-- GPay --><item drawable="gpay" />
+    <!-- Barclays --><item drawable="barclays"/>
+    <!-- PayPal --><item drawable="paypal"/>
+    <!-- Paytm --><item drawable="paytm" />
+    <!-- PhonePe --><item drawable="phonepe" />
 
 </resources>

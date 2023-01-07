@@ -353,5 +353,35 @@
 	<!-- TMB App --><item class="com.geomobile.tmbmobile.ui.activities.SplashActivity" name="tmb_app"/>
 	<!-- TRAM Barcelona --><item class="crc64c31a67c82d0a8023.SplashActivity" name="tram_barcelona"/>
 	<!-- Transit: Bus & Subway Times --><item class="com.thetransitapp.droid.shared.activity.SplashActivity" name="transit_bus_subway_times"/>
+    <!-- 061 Salut Respon --><item class="cat.gencat.mobi.sem.controller.activity.SplashActivity" name="_061_salut_respon"/>
+	<!-- Barcelona Transit --><item class="com.swash.transitworld.SplashScreen" name="barcelona_transit"/>
+	<!-- Alarm Clock for Me --><item class="com.apalon.myclockfree.activity.MainAdsActivity" name="alarm_clock_for_me"/>
+	<!-- La Meva Salut --><item class="cat.gencat.lamevasalut.splash.view.SplashActivity" name="la_meva_salut"/>
+	<!-- hyperion --><item class="projekt.launcher.ProjektLauncher" name="hyperion"/>
+	<!-- Horarios Renfe --><item class="com.wekele.cercanias.Main" name="horarios_renfe"/>
+	<!-- Renfe --><item class="com.renfeviajeros.ticket.presentation.ui.splash.SplashViewActivity" name="renfe"/>
+	<!-- Renfe Cercanías --><item class="com.renfe.renfecercanias.view.activity.splash.SplashActivity" name="renfe_cercanias"/>
+	<!-- Rodalies --><item class="cat.gencat.mobi.rodalies.presentation.view.activity.SplashActivity" name="rodalies"/>
+	<!-- Trànsit --><item class="com.tsol.transit.activities.SplashActivity" name="transit"/>
+    <!-- ING Banking --><item class="com.ing.mobile.diba.startup.SplashActivity" name="ing_banking"/>
+	<!-- S-pushTAN --><item class="com.starfinanz.mobile.android.spushtan.SPushTan" name="s_pushtan"/>
+	<!-- BeReal. --><item class="bereal.app.MainActivity" name="bereal"/>
+	<!-- Joyn --><item class="de.prosiebensat1digital.playerpluggable.testapp.splash.SplashActivity" name="joyn"/>
+	<!-- bob World --><item class="com.bankofbaroda.mconnect.activities.SplashActivity" name="bob_world"/>
+	<!-- Android Camera --><item class="com.android.camera.Camera" name="android_camera"/>
+	<!-- Miui Bugreport --><item class="com.miui.bugreport.ui.MainTabActivity" name="miui_bugreport"/>
+	<!-- Mi File Manager --><item class="com.android.fileexplorer.FileExplorerTabActivity" name="mi_file_manager"/>
+	<!-- GPay --><item class="com.google.nbu.paisa.flutter.gpay.app.LauncherActivity" name="gpay"/>
+	<!-- IPPB Mobile --><item class="com.iexceed.appzillon.ippbMB.AppzillonMainScreen" name="ippb_mobile"/>
+	<!-- Microsoft Launcher --><item class="com.microsoft.launcher.Launcher" name="microsoft_launcher"/>
+	<!-- MyJio --><item class="com.jio.myjio.dashboard.activities.SplashActivity" name="myjio"/>
+	<!-- Ncert Book --><item class="letest.ncertbooks.SplashActivity" name="ncert_book"/>
+	<!-- Paisa Wala --><item class="com.psb.novawala.activity.SplashActivity" name="paisa_wala"/>
+	<!-- Paytm --><item class="net.one97.paytm.app.LauncherActivity" name="paytm"/>
+	<!-- PhonePe --><item class="com.phonepe.app.v4.nativeapps.splash.Navigator_SplashActivity" name="phonepe"/>
+	<!-- ShareChat --><item class="sharechat.ads.feature.eva.EvaActivity" name="sharechat"/>
+	<!-- Telegram --><item class="org.telegram.messenger.DefaultIcon" name="telegram"/>
+	<!-- Truecaller --><item class="com.truecaller.ui.TruecallerInit" name="truecaller"/>
+	<!-- WA Business --><item class="com.whatsapp.Main" name="wa_business"/>
 
 </appmap>

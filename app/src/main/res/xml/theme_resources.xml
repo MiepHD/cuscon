@@ -365,5 +365,35 @@
 	<!-- TMB App --><AppIcon name="com.geomobile.tmbmobile/com.geomobile.tmbmobile.ui.activities.SplashActivity" image="tmb_app"/>
 	<!-- TRAM Barcelona --><AppIcon name="com.itequia.apptram/crc64c31a67c82d0a8023.SplashActivity" image="tram_barcelona"/>
 	<!-- Transit: Bus & Subway Times --><AppIcon name="com.thetransitapp.droid/com.thetransitapp.droid.shared.activity.SplashActivity" image="transit_bus_subway_times"/>
+    <!-- 061 Salut Respon --><AppIcon name="cat.gencat.mobi.sem/cat.gencat.mobi.sem.controller.activity.SplashActivity" image="_061_salut_respon"/>
+	<!-- Barcelona Transit --><AppIcon name="com.swash.transitworld.barcelona/com.swash.transitworld.SplashScreen" image="barcelona_transit"/>
+	<!-- Alarm Clock for Me --><AppIcon name="com.apalon.myclockfree/com.apalon.myclockfree.activity.MainAdsActivity" image="alarm_clock_for_me"/>
+	<!-- La Meva Salut --><AppIcon name="cat.gencat.mobi.lamevasalut/cat.gencat.lamevasalut.splash.view.SplashActivity" image="la_meva_salut"/>
+	<!-- hyperion --><AppIcon name="projekt.launcher/projekt.launcher.ProjektLauncher" image="hyperion"/>
+	<!-- Horarios Renfe --><AppIcon name="com.wekele.cercanias/com.wekele.cercanias.Main" image="horarios_renfe"/>
+	<!-- Renfe --><AppIcon name="com.renfeviajeros.ticket/com.renfeviajeros.ticket.presentation.ui.splash.SplashViewActivity" image="renfe"/>
+	<!-- Renfe Cercanías --><AppIcon name="com.renfe.renfecercanias/com.renfe.renfecercanias.view.activity.splash.SplashActivity" image="renfe_cercanias"/>
+	<!-- Rodalies --><AppIcon name="cat.gencat.mobi.rodalies/cat.gencat.mobi.rodalies.presentation.view.activity.SplashActivity" image="rodalies"/>
+	<!-- Trànsit --><AppIcon name="com.tsol.transit/com.tsol.transit.activities.SplashActivity" image="transit"/>
+    <!-- ING Banking --><AppIcon name="de.ingdiba.bankingapp/com.ing.mobile.diba.startup.SplashActivity" image="ing_banking"/>
+	<!-- S-pushTAN --><AppIcon name="com.starfinanz.mobile.android.pushtan/com.starfinanz.mobile.android.spushtan.SPushTan" image="s_pushtan"/>
+	<!-- BeReal. --><AppIcon name="com.bereal.ft/bereal.app.MainActivity" image="bereal"/>
+	<!-- Joyn --><AppIcon name="de.prosiebensat1digital.seventv/de.prosiebensat1digital.playerpluggable.testapp.splash.SplashActivity" image="joyn"/>
+	<!-- bob World --><AppIcon name="com.bankofbaroda.mconnect/com.bankofbaroda.mconnect.activities.SplashActivity" image="bob_world"/>
+	<!-- Android Camera --><AppIcon name="com.android.camera/com.android.camera.Camera" image="android_camera"/>
+	<!-- Miui Bugreport --><AppIcon name="com.miui.bugreport/com.miui.bugreport.ui.MainTabActivity" image="miui_bugreport"/>
+	<!-- Mi File Manager --><AppIcon name="com.mi.android.globalFileexplorer/com.android.fileexplorer.FileExplorerTabActivity" image="mi_file_manager"/>
+	<!-- GPay --><AppIcon name="com.google.android.apps.nbu.paisa.user/com.google.nbu.paisa.flutter.gpay.app.LauncherActivity" image="gpay"/>
+	<!-- IPPB Mobile --><AppIcon name="com.iexceed.appzillon.ippbMB/com.iexceed.appzillon.ippbMB.AppzillonMainScreen" image="ippb_mobile"/>
+	<!-- Microsoft Launcher --><AppIcon name="com.microsoft.launcher/com.microsoft.launcher.Launcher" image="microsoft_launcher"/>
+	<!-- MyJio --><AppIcon name="com.jio.myjio/com.jio.myjio.dashboard.activities.SplashActivity" image="myjio"/>
+	<!-- Ncert Book --><AppIcon name="letest.ncertbooks/letest.ncertbooks.SplashActivity" image="ncert_book"/>
+	<!-- Paisa Wala --><AppIcon name="com.paisa.wala.app/com.psb.novawala.activity.SplashActivity" image="paisa_wala"/>
+	<!-- Paytm --><AppIcon name="net.one97.paytm/net.one97.paytm.app.LauncherActivity" image="paytm"/>
+	<!-- PhonePe --><AppIcon name="com.phonepe.app/com.phonepe.app.v4.nativeapps.splash.Navigator_SplashActivity" image="phonepe"/>
+	<!-- ShareChat --><AppIcon name="in.mohalla.sharechat/sharechat.ads.feature.eva.EvaActivity" image="sharechat"/>
+	<!-- Telegram --><AppIcon name="org.telegram.messenger/org.telegram.messenger.DefaultIcon" image="telegram"/>
+	<!-- Truecaller --><AppIcon name="com.truecaller/com.truecaller.ui.TruecallerInit" image="truecaller"/>
+	<!-- WA Business --><AppIcon name="com.whatsapp.w4b/com.whatsapp.Main" image="wa_business"/>
 
 </Theme>

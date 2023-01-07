@@ -2,6 +2,10 @@
 <resources>
     <string name="changelog_date">06.01.2023</string>
     <string-array name="changelog">
+        <item>2.7.0:</item>
+        <item>Added 061 Salut Respon, Barcelona Transit, Alarm Clock for Me, La Meva Salut, hyperion, Horarios Renfe, Renfe, Renfe Cercanías, Rodalies, Trànsit, ING Banking, S-pushTAN, BeReal., Joyn, bob World, Android Camera, Miui Bugreport, Mi File Manager, GPay, IPPB Mobile, Microsoft Launcher, MyJio, Ncert Book, Paisa Wala, Paytm, PhonePe, ShareChat, Telegram, Truecaller, WA Business</item>
+        <item>Sorted icons</item>
+        <item>Added categories</item>
         <item>2.6.5:</item>
         <item>Added Moovit, OK Transporte Barcelona, TMB App, TRAM Barcelona, Transit: Bus and Subway Times, Apex Launcher Pro, Via Browser, XBrowser, Yuzu Browser, FOSS Browser</item>
         <item>Fixed icons not displaying in icon list</item>
