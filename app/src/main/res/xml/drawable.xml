@@ -61,7 +61,6 @@
     <item drawable="apkpure" />
     <item drawable="f_droid" />
     <item drawable="aurora_store" />
-    <item drawable="steam" />
     <item drawable="google_play_store" />
     <item drawable="playmods" />
     <item drawable="google_play_games" />
@@ -76,6 +75,7 @@
     <item drawable="i_net_menue" />
     <!-- EMP Shop --><item drawable="emp_shop" />
     <!-- Zalando --><item drawable="zalando"/>
+    <item drawable="steam" />
 
     <category title="Launcher" />
     <!-- Apex Launcher --><item drawable="apex_launcher"/>
@@ -155,11 +155,6 @@
     <!-- Alexa --><item drawable="alexa" />
     <!-- Google Assistant--><item drawable="google_assistant" />
 
-    <category title="Mail" />
-    <item drawable="gmail" />
-    <item drawable="samsung_mail" />
-    <!-- Voicemail --><item drawable="voicemail" />
-
     <category title="Messenger" />
     <item drawable="samsung_messages" />
     <item drawable="whatsapp" />
@@ -169,6 +164,9 @@
     <!-- Telegram X --><item drawable="telegram_x" />
     <!-- Telegram --><item drawable="telegram" />
     <!-- WA Business --><item drawable="wa_business" />
+    <item drawable="gmail" />
+    <item drawable="samsung_mail" />
+    <!-- Voicemail --><item drawable="voicemail" />
 
     <category title="Communication" />
     <item drawable="discord" />
@@ -220,7 +218,6 @@
     <item drawable="samsung_sound_assistant" />
     <item drawable="touch_portal" />
     <!-- APK Editor --><item drawable="apk_editor" />
-    <!-- Editor --><item drawable="editor" />
     <!-- Smart AutoClicker --><item drawable="smart_autoclicker" />
     <!-- SMS Import / Export --><item drawable="sms_import_export" />
     <!-- Rotation Control --><item drawable="rotation_control" />
@@ -236,8 +233,9 @@
     <!-- Mosaic --><item drawable="mosaic"/>
     <!-- c:geo --><item drawable="c_geo" />
     <!-- Video Transcoder --><item drawable="video_transcoder" />
+    <!-- Camera Assistant --><item drawable="camera_assistant"/>
 
-    <category title="Calculator" />
+    <category title="Calculators" />
     <item drawable="samsung_calculator" />
     <!-- NCalcLibre --><item drawable="ncalclibre" />
     <!-- Symbolab --><item drawable="symbolab" />
@@ -285,6 +283,7 @@
     <!-- Collabora Office --><item drawable="collabora_office" />
     <!-- Saber --><item drawable="saber" />
     <!-- Standard Notes --><item drawable="standard_notes" />
+    <!-- Editor --><item drawable="editor" />
 
     <category title="VPN" />
     <!-- Adguard --><item drawable="adguard" />
@@ -298,7 +297,6 @@
     <!-- ObscuraCam --><item drawable="obscuracam" />
     <!-- Binary Eye --><item drawable="binary_eye" />
     <!-- Retroboy --><item drawable="retroboy" />
-    <!-- Camera Assistant --><item drawable="camera_assistant"/>
     <!-- Moto Camera 3--><item drawable="moto_camera_3"/>
     <!-- Android Camera --><item drawable="android_camera" />
 
