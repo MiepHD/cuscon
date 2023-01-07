@@ -1,1946 +1,373 @@
 [
-	{
-		"title":"Firefox",
-		"author":"MiepHD",
-		"src":"firefox",
-		"category": "browser"
-	},
-	{
-		"title":"Browser",
-		"author":"MiepHD",
-		"src":"browser",
-		"category": "browser"
-	},
-	{
-		"title":"Brave",
-		"author":"MiepHD",
-		"src":"brave",
-		"category": "browser"
-	},
-	{
-		"title":"Fennec",
-		"author":"sourcrowd450",
-		"src":"fennec",
-		"category": "browser"
-	},
-	{
-		"title": "Chrome",
-		"author": "MiepHD",
-		"src": "chrome",
-		"category": "browser"
-	},
-	{
-		"title": "Privacy Browser",
-		"author": "MiepHD",
-		"src": "privacy_browser",
-		"category": "browser"
-	},
-	{
-		"title": "Opera Mini",
-		"author": "MiepHD",
-		"src": "opera_mini",
-		"category": "browser"
-	},
-	{
-		"title": "Redlight Web Browser",
-		"author": "MiepHD",
-		"src": "redlight_web_browser",
-		"category": "browser"
-	},
-	{
-		"title": "Samsung Internet",
-		"author": "MiepHD",
-		"src": "samsung_internet",
-		"category": "browser"
-	},
-  {
-		"title":"Open Camera",
-		"author":"MiepHD",
-		"src":"open_camera",
-		"category": "camera"
-	},
-  {
-		"title":"icons.samsung-camera.title",
-		"author":"MiepHD",
-		"src":"samsung_camera",
-		"category": "camera"
-	},
-  {
-		"title":"ObscuraCam",
-		"author":"sourcrowd450",
-		"src":"obscuracam",
-		"category": "camera"
-	},
-  {
-		"title":"Binary Eye",
-		"author":"sourcrowd450",
-		"src":"binary_eye",
-		"category": "camera"
-	},
-  {
-		"title":"Retroboy",
-		"author":"sourcrowd450",
-		"src":"retroboy",
-		"category": "camera"
-	},
-  {
-		"title":"Flora Incognita",
-		"author":"sourcrowd450",
-		"src":"flora_incognita",
-		"category": "camera"
-	},
-	{
-		"title": "Mosaic",
-		"author": "MiepHD",
-		"src": "mosaic",
-		"category": "camera"
-	},
-	{
-		"title":"GMail",
-		"author":"MiepHD",
-		"src":"gmail",
-		"category": "communication"
-	},
-	{
-		"title":"Discord",
-		"author":"MiepHD",
-		"src":"discord",
-		"category": "communication"
-	},
-	{
-		"title":"Samsung Mail",
-		"author":"MiepHD",
-		"info":"E-Mail: <a href:'mailto:miep_hd@froxot.com'>miep_hd@froxot.com</a>",
-		"src":"samsung_mail",
-		"category": "communication"
-	},
-	{
-		"title":"icons.samsung-messages.title",
-		"author":"MiepHD",
-		"src":"samsung_messages",
-		"category": "communication"
-	},
-	{
-		"title":"icons.samsung-phone.title",
-		"author":"MiepHD",
-		"src":"phone",
-		"category": "communication"
-	},
-	{
-		"title":"Reddit",
-		"author":"MiepHD",
-		"src":"reddit",
-		"category": "communication"
-	},
-	{
-		"title":"Whatsapp",
-		"author":"MiepHD",
-		"src":"whatsapp",
-		"category": "communication"
-	},
-	{
-		"title":"Signal",
-		"author":"MiepHD",
-		"src":"signal",
-		"category": "communication"
-	},
-	{
-		"title":"Instagram",
-		"author":"MiepHD",
-		"src":"instagram",
-		"category": "communication"
-	},
-	{
-		"title":"Gutefrage",
-		"author":"MiepHD",
-		"src":"gutefrage",
-		"category": "communication"
-	},
-	{
-		"title":"Homeworker",
-		"author":"MiepHD",
-		"src":"homeworker",
-		"category": "communication"
-	},
-	{
-		"title":"icons.samsung-contacts.title",
-		"author":"MiepHD",
-		"src":"samsung_contacts",
-		"category": "communication"
-	},
-	{
-		"title":"Telegram X",
-		"author":"sourcrowd450",
-		"src":"telegram_x",
-		"category": "communication"
-	},
-	{
-		"title":"Aliucord",
-		"author":"MiepHD",
-		"src":"aliucord",
-		"category": "communication"
-	},
-	{
-		"title":"Morse",
-		"author":"sourcrowd450",
-		"src":"morse",
-		"category": "communication"
-	},
-	{
-		"title":"Silence",
-		"author":"sourcrowd450",
-		"src":"silence",
-		"category": "communication"
-	},
-	{
-		"title":"Tutanota",
-		"author":"sourcrowd450",
-		"src":"tutanota",
-		"category": "communication"
-	},
-	{
-		"title":"SimpleLogin",
-		"author":"MiepHD",
-		"src":"simplelogin",
-		"category": "communication"
-	},
-	{
-		"title": "Snapchat",
-		"author": "MiepHD",
-		"src": "snapchat",
-		"category": "communication"
-	},
-	{
-		"title": "icons.messages.title",
-		"author": "MiepHD",
-		"src": "messages",
-		"category": "communication"
-	},
-	{
-		"title": "Facebook",
-		"author": "MiepHD",
-		"src": "facebook",
-		"category": "communication"
-	},
-	{
-		"title": "Meet",
-		"author": "MiepHD",
-		"src": "meet",
-		"category": "communication"
-	},
-	{
-		"title": "LinkedIn",
-		"author": "MiepHD",
-		"src": "linkedin",
-		"category": "communication"
-	},
-	{
-		"title":"Pocket Paint",
-		"author":"sourcrowd450",
-		"src":"pocket_paint",
-		"category": "design"
-	},
-	{
-		"title":"Retouch",
-		"author":"sourcrowd450",
-		"src":"retouch",
-		"category": "design"
-	},
-	{
-		"title":"Paper copy",
-		"author":"sourcrowd450",
-		"src":"paper_copy",
-		"category": "design"
-	},
-	{
-		"title":"SimpleAudio",
-		"author":"sourcrowd450",
-		"src":"simpleaudio",
-		"category": "design"
-	},
-	{
-		"title":"Snapseed",
-		"author":"sourcrowd450",
-		"src":"snapseed",
-		"category": "design"
-	},
-	{
-		"title": "Pinterest",
-		"author": "MiepHD",
-		"src": "pinterest",
-		"category": "design"
-	},
-	{
-		"title": "Autodesk Sketchbook",
-		"author": "MiepHD",
-		"src": "autodesk_sketchbook",
-		"category": "design"
-	},
-	{
-		"title": "ibisPaint X",
-		"src": "ibispaint_x",
-		"author": "MiepHD",
-		"category": "design"
-	},
-	{
-		"title":"Adobe Acrobat Reader",
-		"author":"MiepHD",
-		"src":"adobe_acrobat_reader",
-		"category": "documents"
-	},
-  {
-		"title":"Docx2pdf",
-		"author":"MiepHD",
-		"src":"docx2pdf",
-		"category": "documents"
-	},
-  {
-		"title":"Office Suite",
-		"author":"MiepHD",
-		"src":"office_suite",
-		"category": "documents"
-	},
-  {
-		"title":"Samsung Notes",
-		"author":"MiepHD",
-		"src":"samsung_notes",
-		"category": "documents"
-	},
-  {
-		"title":"Leaflet",
-		"author":"MiepHD",
-		"src":"leaflet",
-		"category": "documents"
-	},
-  {
-		"title":"ONLYOFFICE Dokumente",
-		"author":"sourcrowd450",
-		"src":"onlyoffice_dokumente",
-		"category": "documents"
-	},
-  {
-		"title":"OpenDocument Reader",
-		"author":"sourcrowd450",
-		"src":"opendocument_reader",
-		"category": "documents"
-	},
-  {
-		"title":"Librera FD",
-		"author":"sourcrowd450",
-		"src":"librera_fd",
-		"category": "documents"
-	},
-  {
-		"title":"Text Fairy",
-		"author":"sourcrowd450",
-		"src":"text_fairy",
-		"category": "documents"
-	},
-  {
-		"title":"Rocketbook",
-		"author":"sourcrowd450",
-		"src":"rocketbook",
-		"category": "documents"
-	},
-	{
-		"title": "Microsoft Office",
-		"author": "MiepHD",
-		"src": "microsoft_office",
-		"category": "documents"
-	},
-  {
-    "title": "Documents",
-    "src": "documents",
-    "author": "MiepHD",
-	"category": "documents"
-  },
-  {
-    "title": "Gallery",
-    "src": "gallery",
-    "author": "MiepHD",
-	"category": "other"
-  },
-  {
-	"title": "Adobe Scan",
-	"src": "adobe_scan",
-	"author": "MiepHD",
-	"category": "documents"
-  },
-  {
-		"title":"Google Drive",
-		"author":"MiepHD",
-		"src":"google_drive",
-		"category": "files"
-	},
-  {
-		"title":"icons.samsung-files.title",
-		"author":"MiepHD",
-		"src":"samsung_files",
-		"category": "files"
-	},
-  {
-		"title":"Sicherung",
-		"author":"sourcrowd450",
-		"src":"sicherung",
-		"category": "files"
-	},
-  {
-		"title":"ZArchiver",
-		"author":"sourcrowd450",
-		"src":"zarchiver",
-		"category": "files"
-	},
-  {
-		"title":"Dropbox",
-		"author":"sourcrowd450",
-		"src":"dropbox",
-		"category": "files"
-	},
-  {
-		"title":"SAI",
-		"author":"sourcrowd450",
-		"src":"sai",
-		"category": "files"
-	},
-  {
-		"title":"DiskUsage",
-		"author":"sourcrowd450",
-		"src":"diskusage",
-		"category": "files"
-	},
-  {
-		"title":"Phone Saver",
-		"author":"sourcrowd450",
-		"src":"phone_saver",
-		"category": "files"
-	},
-  {
-		"title":"Mega",
-		"author":"sourcrowd450",
-		"src":"mega",
-		"category": "files"
-	},
-	{
-		"title": "OneDrive",
-		"author": "MiepHD",
-		"src": "onedrive",
-		"category": "files"
-	},
-    {
-		"title": "Google Files",
-		"src": "google_files",
-		"author": "MiepHD",
-		"category": "files"
-	},
-	{
-		"title":"icons.samsung-gallary.title",
-		"author":"MiepHD",
-		"src":"samsung_gallery",
-		"category": "gallery"
-	},
-  {
-		"title":"Google Photos",
-		"author":"MiepHD",
-		"src":"google_photos",
-		"category": "gallery"
-	},
-  {
-		"title":"Camera Roll",
-		"author":"sourcrowd450",
-		"src":"camera_roll",
-		"category": "gallery"
-	},
-	{
-		"title":"Darkland",
-		"author":"MiepHD",
-		"src":"darkland",
-		"category": "games"
-	},
-  {
-		"title":"ShapeOminoes",
-		"author":"MiepHD",
-		"src":"shape_ominoes",
-		"category": "games"
-	},
-  {
-		"title":"Klocki",
-		"author":"MiepHD",
-		"src":"klocki",
-		"category": "games"
-	},
-  {
-		"title":"Crossy Road",
-		"author":"MiepHD",
-		"src":"crossy_road",
-		"category": "games"
-	},
-  {
-		"title":"Word Mix Pro",
-		"author":"MiepHD",
-		"src":"word_mix_pro",
-		"category": "games"
-	},
-  {
-		"title":"Spingram",
-		"author":"MiepHD",
-		"src":"spingram",
-		"category": "games"
-	},
-  {
-		"title":"Mühle",
-		"author":"sourcrowd450",
-		"src":"muhle",
-		"category": "games"
-	},
-  {
-		"title":"Super Retro Mega Wars",
-		"author":"sourcrowd450",
-		"src":"super_retro_mega_wars",
-		"category": "games"
-	},
-  {
-		"title":"hocus",
-    "author": "MiepHD",
-		"src":"hocus",
-		"category": "games"
-	},
-  {
-		"title":"J2ME Loader",
-		"author":"sourcrowd450",
-		"src":"j2me_loader",
-		"category": "games"
-	},
-  {
-		"title":"Lemuroid",
-		"author":"sourcrowd450",
-		"src":"lemuroid",
-		"category": "games"
-	},
-  {
-    "title": "Games",
-    "src": "games",
-    "author": "MiepHD",
-	"category": "games"
-  },
-  {
-		"title":"Öffi Verbindungen",
-		"author":"sourcrowd450",
-		"src":"offi_verbindungen",
-		"category": "information"
-	},
-  {
-		"title":"DB Navigator",
-		"author":"MiepHD",
-		"src":"db_navigator",
-		"category": "information"
-	},
-  {
-		"title":"Flix",
-		"author":"MiepHD",
-		"src":"flix",
-		"category": "information"
-	},
-  {
-		"title":"Corona Warn App",
-		"author":"MiepHD",
-		"src":"corona_warn_app",
-		"category": "information"
-	},
-  {
-		"title":"UAV Forecast",
-		"author":"MiepHD",
-		"src":"uav_forecast",
-		"category": "information"
-	},
-  {
-		"title":"Elementary",
-		"author":"sourcrowd450",
-		"src":"elementary",
-		"category": "information"
-	},
-  {
-		"title":"KFZ-Kennzeichen",
-		"author":"sourcrowd450",
-		"src":"kfz_kennzeichen",
-		"category": "information"
-	},
-	{
-		"title": "DSBmobile",
-		"author": "MiepHD",
-		"src": "dsbmobile",
-		"category": "information"
-	},
-	{
-		"title":"Quizlet",
-		"author":"MiepHD",
-		"src":"quizlet",
-		"category": "learning"
-	},
-  {
-		"title":"Mebis",
-		"author":"sourcrowd450",
-		"src":"mebis",
-		"category": "learning"
-	},
-  {
-		"title":"DeepL",
-		"author":"sourcrowd450",
-		"src":"deepl",
-		"category": "learning"
-	},
-  {
-		"title":"Duden Wörterbücher",
-    "author": "MiepHD",
-		"src":"duden_worterbucher",
-		"category": "learning"
-	},
-  {
-		"title":"Linguee",
-		"author":"MiepHD",
-		"src":"linguee",
-		"category": "learning"
-	},
-  {
-		"title":"icons.google-translate.title",
-		"author":"MiepHD",
-		"src":"google_translate",
-		"category": "learning"
-	},
-  {
-		"title":"Bibel+",
-		"author":"sourcrowd450",
-		"src":"bibel_",
-		"category": "learning"
-	},
-  {
-		"title":"Kiwix",
-		"author":"sourcrowd450",
-		"src":"kiwix",
-		"category": "learning"
-	},
-	{
-		"title":"Google Maps",
-		"author":"MiepHD",
-		"src":"google_maps",
-		"category": "maps"
-	},
-  {
-		"title":"Organic Maps",
-		"author":"MiepHD",
-		"src":"organic_maps",
-		"category": "maps"
-	},
-  {
-		"title":"Öffi Haltestellen",
-		"author":"sourcrowd450",
-		"src":"offi_haltestellen",
-		"category": "maps"
-	},
-  {
-		"title":"Öffi Netzpläne",
-		"author":"sourcrowd450",
-		"src":"offi_netzplane",
-		"category": "maps"
-	},
-  {
-		"title":"OpenTracks",
-		"author":"sourcrowd450",
-		"src":"opentracks",
-		"category": "maps"
-	},
-  {
-		"title":"Map2Fly",
-		"author":"MiepHD",
-		"src":"map2fly",
-		"category": "maps"
-	},
-	{
-		"title":"Amazon Music",
-		"author":"MiepHD",
-		"src":"amazon_music",
-		"category": "music-streaming"
-	},
-  {
-		"title":"DasDing",
-		"author":"MiepHD",
-		"src":"dasding",
-		"category": "music-streaming"
-	},
-  {
-		"title":"Youtube Music",
-		"author":"MiepHD",
-		"src":"youtube_music",
-		"category": "music-streaming"
-	},
-  {
-		"title":"Samsung Music",
-		"author":"MiepHD",
-		"src":"samsung_music",
-		"category": "music-streaming"
-	},
-  {
-		"title":"Freezer",
-		"author":"MiepHD",
-		"src":"freezer",
-		"category": "music-streaming"
-	},
-  {
-		"title":"Transistor",
-		"author":"sourcrowd450",
-		"src":"transistor",
-		"category": "music-streaming"
-	},
-  {
-		"title":"Shazam",
-		"author":"sourcrowd450",
-		"src":"shazam",
-		"category": "music-streaming"
-	},
-	{
-		"title": "Radio",
-		"author": "MiepHD",
-		"src": "radio",
-		"category": "music-streaming"
-	},
-	{
-		"title": "Spotify",
-		"author": "MiepHD",
-		"src": "spotify",
-		"category": "music-streaming"
-	},
-	{
-		"title": "icons.play-music.title",
-		"author": "MiepHD",
-		"src": "play_music",
-		"category": "music-streaming"
-	},
-	{
-    "title": "Newszone",
-    "author": "MiepHD",
-    "src": "newszone",
-	"category": "news"
-	},
-  {
-    "title": "Weather",
-    "author": "sourcrowd450",
-    "src": "weather",
-	"category": "news"
-  },
-  {
-    "title": "Birday",
-    "author": "MiepHD",
-    "src": "birday",
-	"category": "other"
-	},
-  {
-    "title": "Covpass",
-    "author": "MiepHD",
-    "src": "covpass",
-	"category": "other"
-	},
-  {
-    "title": "Github",
-    "info": "icons.github.info",
-    "author": "MiepHD",
-    "src": "github",
-	"category": "other"
-	},
-  {
-    "title": "I-Net Menue",
-    "author": "MiepHD",
-    "src": "i_net_menue",
-	"category": "other"
-	},
-  {
-    "title": "icons.samsung-calender.title",
-    "author": "MiepHD",
-    "src": "samsung_calendar",
-	"category": "other"
-	},
-  {
-    "title": "icons.clock.title",
-    "author": "MiepHD",
-    "src": "clock",
-	"category": "other"
-	},
-  {
-    "title": "Wallpaper Engine",
-    "author": "MiepHD",
-    "src": "wallpaper_engine",
-	"category": "design"
-	},
-  {
-    "title": "AMC Cooking",
-    "author": "MiepHD",
-    "src": "amc_cooking",
-	"category": "other"
-	},
-  {
-    "title": "icons.voicenote.title",
-    "author": "MiepHD",
-    "src": "voicenote",
-	"category": "other"
-	},
-  {
-    "title": "Smart Things",
-    "info": "icons.smart-things.info",
-    "author": "MiepHD",
-    "src": "smart_things",
-	"category": "other"
-	},
-  {
-    "title": "Munzee",
-    "author": "MiepHD",
-    "src": "munzee",
-	"category": "other"
-	},
-  {
-    "title": "Imaging Edge Mobile",
-    "author": "MiepHD",
-    "src": "imaging_edge_mobile",
-	"category": "other"
-	},
-  {
-    "title": "Galaxy Wearable",
-    "author": "MiepHD",
-    "src": "galaxy_wearable",
-	"category": "other"
-	},
-  {
-    "title": "Alexa",
-    "author": "MiepHD",
-    "src": "alexa",
-	"category": "other"
-	},
-  {
-    "title": "DJI Fly",
-    "author": "MiepHD",
-    "src": "dji_fly",
-	"category": "other"
-	},
-  {
-    "title": "Aldi Talk",
-    "author": "MiepHD",
-    "src": "aldi_talk",
-	"category": "other"
-	},
-  {
-    "title": "Kilterboard",
-    "author": "MiepHD",
-    "src": "kilterboard",
-	"category": "other"
-	},
-  {
-    "title": "Cuscon",
-    "info": "icons.cuscon.info",
-    "author": "MiepHD",
-    "src": "cuscon",
-	"category": "icon_packs"
-	},
-  {
-    "title": "Bahnhofsfotos",
-    "author": "sourcrowd450",
-    "src": "bahnhofsfotos",
-	"category": "other"
-	},
-  {
-    "title": "BetterCounter",
-    "author": "sourcrowd450",
-    "src": "bettercounter",
-	"category": "other"
-	},
-  {
-    "title": "c:geo",
-    "author": "sourcrowd450",
-    "src": "c_geo",
-	"category": "other"
-	},
-  {
-    "title": "eSpeak",
-    "author": "sourcrowd450",
-    "src": "espeak",
-	"category": "other"
-	},
-  {
-    "title": "HeartBeat",
-    "author": "sourcrowd450",
-    "src": "heartbeat",
-	"category": "other"
-	},
-  {
-    "title": "Trail Sense",
-    "author": "sourcrowd450",
-    "src": "trail_sense",
-	"category": "other"
-	},
-  {
-    "title": "Video Transcoder",
-    "author": "sourcrowd450",
-    "src": "video_transcoder",
-	"category": "other"
-	},
-  {
-    "title": "Warpinator",
-    "author": "sourcrowd450",
-    "src": "warpinator",
-	"category": "other"
-	},
-  {
-    "title": "WhereYouGo",
-    "author": "sourcrowd450",
-    "src": "whereyougo",
-	"category": "other"
-	},
-  {
-    "title": "CubeX",
-    "author": "sourcrowd450",
-    "src": "cubex",
-	"category": "other"
-	},
-  {
-    "title": "MiraPlug",
-    "author": "sourcrowd450",
-    "src": "miraplug",
-	"category": "other"
-	},
-  {
-    "title": "TCL Connect",
-    "author": "sourcrowd450",
-    "src": "tcl_connect",
-	"category": "other"
-	},
-  {
-    "title": "icons.lawnchair-settings.title",
-    "info": "icons.lawnchair-settings.info",
-    "author": "MiepHD",
-    "src": "lawnchair_einstellungen",
-	"category": "launcher"
-	},
-  {
-    "title": "Reminder",
-    "author": "MiepHD",
-    "src": "reminder",
-	"category": "other"
-	},
-  {
-    "title": "Info Dienste",
-    "author": "MiepHD",
-    "src": "info_dienste",
-	"category": "other"
-	},
-  {
-    "title": "Termux",
-    "author": "MiepHD",
-    "src": "termux",
-	"category": "other"
-	},
-  {
-    "title": "Whatsapp SIM",
-    "author": "MiepHD",
-    "src": "whatsapp_sim",
-	"category": "other"
-	},
-  {
-    "title": "Apex Launcher",
-    "author": "MiepHD",
-    "src": "apex_launcher",
-	"category": "launcher"
-	},
-  {
-    "title": "Lawnchair",
-    "info": "icons.lawnchair.info",
-    "author": "MiepHD",
-    "src": "lawnchair",
-	"category": "launcher"
-	},
-  {
-    "title": "Google",
-    "author": "MiepHD",
-    "src": "google",
-	"category": "other"
-	},
-  {
-    "title": "Google Assistant",
-    "src": "google_assistant",
-    "author": "MiepHD",
-	"category": "other"
-	},
-  {
-    "title": "Google One",
-    "src": "google_one",
-    "author": "MiepHD",
-	"category": "other"
-	},
-  {
-    "title": "Google TV",
-    "src": "google_tv",
-    "author": "MiepHD",
-	"category": "other"
-	},
-  {
-	"title": "Google Calendar",
-	"src": "google_calendar",
-	"author": "MiepHD",
-	"category": "other"
-	},
-  {
-	"title": "Google Wallpapers",
-    "src": "google_wallpapers",
-    "author": "MiepHD",
-	"category": "design"
-	},
-  {
-    "title": "Moto Interactive Wallpaper",
-    "src": "moto_interactive_wallpaper",
-    "author": "MiepHD",
-	"category": "design"
-	},
-  {
-    "title": "Microsoft To Do",
-    "src": "microsoft_to_do",
-    "author": "MiepHD",
-	"category": "other"
-	},
-  {
-    "title": "WeeNet",
-    "src": "weenet",
-    "author": "MiepHD",
-	"category": "other"
-	},
-  {
-    "title": "Settings",
-    "src": "settings",
-    "author": "MiepHD",
-	"category": "other"
-	},
-	{
-		"title":"Google Authenticator",
-		"author":"MiepHD",
-		"src":"google_authenticator",
-		"category": "security"
-	},
-  {
-		"title":"Keepass",
-		"author":"MiepHD",
-		"src":"keepass",
-		"category": "security"
-	},
-  {
-		"title":"Firewall",
-		"author":"sourcrowd450",
-		"src":"firewall",
-		"category": "security"
-	},
-  {
-		"title":"icons.microg-settings.title",
-		"author":"sourcrowd450",
-		"src":"microg_einstellungen",
-		"category": "security"
-	},
-  {
-		"title":"Aegis",
-		"author":"sourcrowd450",
-		"src":"aegis",
-		"category": "security"
-	},
-  {
-		"title":"Bitwarden",
-		"author":"sourcrowd450",
-		"src":"bitwarden",
-		"category": "security"
-	},
-  {
-		"title":"Shelter",
-		"author":"sourcrowd450",
-		"src":"shelter",
-		"category": "security"
-	},
-  {
-		"title":"Warden",
-		"author":"sourcrowd450",
-		"src":"warden",
-		"category": "security"
-	},
-	{
-  	"title":"Apkpure",
-		"info":"icons.apkpure.info",
-		"author":"MiepHD",
-		"src":"apkpure",
-		"category": "stores"
-	},
-  {
-  	"title":"F-Droid",
-		"info":"icons.f-droid.info",
-		"author":"MiepHD",
-		"src":"f_droid",
-		"category": "stores"
-	},
-  {
-  	"title":"Aurora Store",
-		"info":"icons.aurora-store.info",
-		"author":"MiepHD",
-		"src":"aurora_store",
-		"category": "stores"
-	},
-  {
-  	"title":"Steam",
-		"author":"MiepHD",
-		"src":"steam",
-		"category": "stores"
-	},
-  {
-  	"title":"Google Play Store",
-		"info":"icons.google-play-store.info",
-		"author":"MiepHD",
-		"src":"google_play_store",
-		"category": "stores"
-	},
-  {
-  	"title":"Playmods",
-		"author":"MiepHD",
-		"src":"playmods",
-		"category": "stores"
-	},
-  {
-  	"title":"icons.google-play-games.title",
-		"author":"MiepHD",
-		"src":"google_play_games",
-		"category": "stores"
-	},
-  {
-  	"title":"EMP Shop",
-		"author":"MiepHD",
-		"src":"emp_shop",
-		"category": "stores"
-	},
-  {
-  	"title":"Galaxy Store",
-		"author":"sourcrowd450",
-		"src":"galaxy_store",
-		"category": "stores"
-	},
-  {
-  	"title":"Happymod",
-		"author":"sourcrowd450",
-		"src":"happymod",
-		"category": "stores"
-	},
-  {
-	"title": "Aliucord Installer",
-	"author":"MiepHD",
-	"src": "aliucord_installer",
-		"category": "stores"
-	},
-  {
-	"title": "Apkmody",
-	"author": "MiepHD",
-	"src": "apkmody",
-		"category": "stores"
-	},
-	{
-		"title":"Lucky Patcher",
-		"author":"MiepHD",
-		"src":"lucky_patcher",
-		"category": "tools"
-	},
-	{
-		"title":"Samsung Sound Assistant",
-		"author":"MiepHD",
-		"src":"samsung_sound_assistant",
-		"category": "tools"
-	},
-	{
-		"title":"icons.samsung-calculator.title",
-		"author":"MiepHD",
-		"src":"samsung_calculator",
-		"category": "tools"
-	},
-	{
-		"title":"Phyphox",
-		"author":"MiepHD",
-		"src":"phyphox",
-		"category": "tools"
-	},
-	{
-		"title":"Touch Portal",
-		"author":"MiepHD",
-		"src":"touch_portal",
-		"category": "tools"
-	},
-	{
-		"title":"APK Editor",
-		"author":"sourcrowd450",
-		"src":"apk_editor",
-		"category": "tools"
-	},
-	{
-		"title":"Editor",
-		"author":"sourcrowd450",
-		"src":"editor",
-		"category": "tools"
-	},
-	{
-		"title":"Smart AutoClicker",
-		"author":"sourcrowd450",
-		"src":"smart_autoclicker",
-		"category": "tools"
-	},
-	{
-		"title":"SMS Import / Export",
-		"author":"sourcrowd450",
-		"src":"sms_import_export",
-		"category": "tools"
-	},
-	{
-		"title":"Rotation Control",
-		"author":"sourcrowd450",
-		"src":"rotation_control",
-		"category": "tools"
-	},
-	{
-		"title":"GPS JoyStick",
-		"author":"sourcrowd450",
-		"src":"gps_joystick",
-		"category": "tools"
-	},
-	{
-		"title":"Dumbphone Assistant",
-		"author":"sourcrowd450",
-		"src":"dumbphone_assistant",
-		"category": "tools"
-	},
-	{
-		"title":"NCalcLibre",
-		"author":"sourcrowd450",
-		"src":"ncalclibre",
-		"category": "tools"
-	},
-	{
-		"title": "LADB",
-		"author": "MiepHD",
-		"src": "ladb",
-		"category": "tools"
-	},
-	{
-		"title": "Overlay Digital Clock",
-		"author": "MiepHD",
-		"src": "overlay_digital_clock",
-		"category": "tools"
-	},
-	{
-		"title": "Fing",
-		"src": "fing",
-		"author": "MiepHD",
-		"category": "tools"
-	},
-	{
-		"title": "Mi WiFi",
-		"src": "mi_wifi",
-		"author": "MiepHD",
-		"category": "tools"
-	},
-	{
-		"title": "WiFiAnalyzer",
-		"src": "wifianalyzer",
-		"author": "MiepHD",
-		"category": "tools"
-	},
-	{
-		"title": "WLANScanner",
-		"src": "wlanscanner",
-		"author": "MiepHD",
-		"category": "tools"
-	},
-	{
-		"title":"Netflix",
-		"author":"MiepHD",
-		"src":"netflix",
-		"category": "video-streaming"
-	},
-	{
-		"title":"ZDFMediathek",
-		"author":"MiepHD",
-		"src":"zdfmediathek",
-		"category": "video-streaming"
-	},
-	{
-		"title":"Zapp",
-		"author":"MiepHD",
-		"src":"zapp",
-		"category": "video-streaming"
-	},
-	{
-		"title":"Cloud Stream 3",
-		"author":"MiepHD",
-		"src":"cloud_stream_3",
-		"category": "video-streaming"
-	},
-	{
-		"title":"Disney+",
-		"author":"MiepHD",
-		"src":"disney_plus",
-		"category": "video-streaming"
-	},
-	{
-		"title":"Youtube",
-		"author":"MiepHD",
-		"src":"youtube",
-		"category": "video-streaming"
-	},
-	{
-		"title":"Amazon Prime Video",
-		"author":"MiepHD",
-		"src":"amazon_prime_video",
-		"category": "video-streaming"
-	},
-	{
-		"title":"NewPipe",
-		"author":"sourcrowd450",
-		"src":"newpipe",
-		"category": "video-streaming"
-	},
-	{
-		"title":"VLC",
-		"author":"sourcrowd450",
-		"src":"vlc",
-		"category": "video-streaming"
-	},
-	{
-		"title":"VR Media Player",
-		"author":"sourcrowd450",
-		"src":"vr_media_player",
-		"category": "video-streaming"
-	},
-	{
-		"title":"Adguard",
-		"author":"MiepHD",
-		"src":"adguard",
-		"category": "vpn"
-	},
-  {
-		"title":"Cloudflare Warp",
-		"author":"MiepHD",
-		"src":"cloudflare_warp",
-		"category": "vpn"
-	},
-  {
-		"title":"WireGuard",
-		"author":"sourcrowd450",
-		"src":"wireguard",
-		"category": "vpn"
-	},
-	{
-		"title": "Microsoft Authenticator",
-		"author": "MiepHD",
-		"src": "microsoft_authenticator",
-		"category": "security"
-	},
-	{
-		"title": "Motorola Device Help",
-		"author": "MiepHD",
-		"src": "motorola_device_help",
-		"category": "other"
-	},
-	{
-		"title": "Barclays",
-		"author": "MiepHD",
-		"src": "barclays",
-		"category": "other"
-	},
-	{
-		"title": "Camera Assistant",
-		"author": "MiepHD",
-		"src": "camera_assistant",
-		"category": "camera"
-	},
-	{
-		"title": "Good Guardians",
-		"author": "MiepHD",
-		"src": "good_guardians",
-		"category": "tools"
-	},
-	{
-		"title": "Good Lock",
-		"author": "MiepHD",
-		"src": "good_lock",
-		"category": "design"
-	},
-	{
-		"title": "Moto",
-		"author": "MiepHD",
-		"src": "moto",
-		"category": "other"
-	},
-	{
-		"title": "PayPal",
-		"author": "MiepHD",
-		"src": "paypal",
-		"category": "other"
-	},
-	{
-		"title": "OneNote",
-		"author": "MiepHD",
-		"src": "onenote",
-		"category": "documents"
-	},
-	{
-		"title": "TeaCapps QR & Barcode Reader",
-		"author": "MiepHD",
-		"src": "teacapps_qr__barcode_reader",
-		"category": "camera"
-	},
-	{
-		"title": "Zalando",
-		"author": "MiepHD",
-		"src": "zalando",
-		"category": "stores"
-	},
-	{
-		"title": "TikTok",
-		"author": "MiepHD",
-		"src": "tiktok",
-		"category": "video-streaming"
-	},
-	{
-		"title": "Moto Camera 3",
-		"author": "MiepHD",
-		"src": "moto_camera_3",
-		"category": "camera"
-	},
-	{
-		"title": "FAST Speed Test",
-		"author": "MiepHD",
-		"src": "fast_speed_test",
-		"category": "other"
-	},
-	{
-		"title": "iwscan",
-		"author": "MiepHD",
-		"src": "iwscan",
-		"category": "tools"
-	},
-	{
-		"title": "Kiwi Browser",
-		"author": "MiepHD",
-		"src": "kiwi_browser",
-		"category": "browser"
-	},
-	{
-		"title": "My O2",
-		"author": "MiepHD",
-		"src": "my_o2",
-		"category": "other"
-	},
-	{
-		"title": "Mou-te",
-		"author": "MiepHD",
-		"src": "mou_te",
-		"category": "other"
-	},
-	{
-		"title": "Motorola Notifications",
-		"author": "MiepHD",
-		"src": "motorola_notifications",
-		"category": "other"
-	},
-	{
-		"title": "Nova Launcher",
-		"author": "MiepHD",
-		"src": "nova_launcher",
-		"category": "launcher"
-	},
-	{
-		"title": "Nova Launcher Prime",
-		"author": "MiepHD",
-		"src": "nova_launcher_prime",
-		"category": "launcher"
-	},
-	{
-		"title": "Port Authority",
-		"author": "MiepHD",
-		"src": "port_authority",
-		"category": "tools"
-	},
-	{
-		"title": "1Tap Cleaner Pro",
-		"author": "MiepHD",
-		"src": "_1tap_cleaner_pro",
-		"category": "tools"
-	},
-	{
-		"title": "Weather Station - Barometer",
-		"author": "MiepHD",
-		"src": "weather_station_barometer",
-		"category": "news"
-	},
-	{
-		"title": "D-Link Wi-Fi",
-		"author": "MiepHD",
-		"src": "d_link_wi_fi",
-		"category": "other"
-	},
-	{
-		"title": "NetMan",
-		"author": "MiepHD",
-		"src": "netman",
-		"category": "tools"
-	},
-	{
-		"title": "Radio FM",
-		"author": "MiepHD",
-		"src": "radio_fm",
-		"category": "music-streaming"
-	},
-	{
-		"title": "Sweech",
-		"author": "MiepHD",
-		"src": "sweech",
-		"category": "files"
-	},
-	{
-		"title": "WiFiman",
-		"author": "MiepHD",
-		"src": "wifiman",
-		"category": "tools"
-	},
-	{
-		"title": "FRITZ!App WLAN",
-		"author": "MiepHD",
-		"src": "fritz_app_wlan",
-		"category": "tools"
-	},
-	{
-		"title": "WlanScanner by Latetech",
-		"author": "MiepHD",
-		"src": "wlanscanner_by_latetech",
-		"category": "tools"
-	},
-	{
-		"title": "WiFi Monitor Pro",
-		"author": "MiepHD",
-		"src": "wifi_monitor_pro",
-		"category": "tools"
-	},
-	{
-		"title": "Der Postillon",
-		"author": "MiepHD",
-		"src": "der_postillon",
-		"category": "news"
-	},
-	{
-		"title": "Microsoft SwiftKey-Tastatur",
-		"author": "MiepHD",
-		"src": "microsoft_swiftkey_tastatur",
-		"category": "other"
-	},
-	{
-		"title": "UUID 0xFD6F Scanner",
-		"author": "MiepHD",
-		"src": "uuid_0xfd6f_scanner",
-		"category": "information"
-	},
-	{
-		"title": "Onleihe",
-		"author": "MiepHD",
-		"src": "onleihe",
-		"category": "other"
-	},
-	{
-		"title": "Duolingo",
-		"author": "MiepHD",
-		"src": "duolingo",
-		"category": "learning"
-	},
-	{
-		"title": "Lieferando",
-		"author": "MiepHD",
-		"src": "lieferando",
-		"category": "stores"
-	},
-	{
-		"title": "Samsung Flow",
-		"author": "MiepHD",
-		"src": "samsung_flow",
-		"category": "tools"
-	},
-	{
-		"title": "Skype",
-		"author": "MiepHD",
-		"src": "skype",
-		"category": "communication"
-	},
-	{
-		"title": "Teams",
-		"author": "MiepHD",
-		"src": "teams",
-		"category": "communication"
-	},
-	{
-		"title": "Theme Park",
-		"author": "MiepHD",
-		"src": "theme_park",
-		"category": "design"
-	},
-	{
-		"title": "AdGuard VPN",
-		"author": "MiepHD",
-		"src": "adguard_vpn",
-		"category": "vpn"
-	},
-	{
-		"title": "CandyBar Dev",
-		"author": "MiepHD",
-		"src": "candybar_dev",
-		"category": "icon_packs"
-	},
-	{
-		"title": "Delta",
-		"author": "MiepHD",
-		"src": "delta",
-		"category": "icon_packs"
-	},
-	{
-		"title": "Jojoy",
-		"author": "MiepHD",
-		"src": "jojoy",
-		"category": "stores"
-	},
-	{
-		"title": "VirusTotal Mobile",
-		"author": "MiepHD",
-		"src": "virustotal_mobile",
-		"category": "security"
-	},
-	{
-		"title": "YouTube Revanced",
-		"author": "MiepHD",
-		"src": "youtube_revanced",
-		"category": "video-streaming"
-	},
-	{
-		"title": "Barcelona Bus Tracker",
-		"author": "MiepHD",
-		"src": "barcelona_bus_tracker",
-		"category": "other"
-	},
-	{
-		"title": "Blokada 5",
-		"author": "MiepHD",
-		"src": "blokada_5",
-		"category": "other"
-	},
-	{
-		"title": "Circuit",
-		"author": "MiepHD",
-		"src": "circuit",
-		"category": "other"
-	},
-	{
-		"title": "Citymapper",
-		"author": "MiepHD",
-		"src": "citymapper",
-		"category": "other"
-	},
-	{
-		"title": "El meu tren",
-		"author": "MiepHD",
-		"src": "el_meu_tren",
-		"category": "other"
-	},
-	{
-		"title": "FGC",
-		"author": "MiepHD",
-		"src": "fgc",
-		"category": "other"
-	},
-	{
-		"title": "Frog Weather Shortcut",
-		"author": "MiepHD",
-		"src": "frog_weather_shortcut",
-		"category": "other"
-	},
-	{
-		"title": "gencat",
-		"author": "MiepHD",
-		"src": "gencat",
-		"category": "other"
-	},
-	{
-		"title": "Google Weather Activity",
-		"author": "MiepHD",
-		"src": "google_weather_activity",
-		"category": "news"
-	},
-	{
-		"title": "Next bus Barcelona",
-		"author": "MiepHD",
-		"src": "next_bus_barcelona",
-		"category": "other"
-	},
-	{
-		"title": "BubbleUPnP",
-		"author": "sourcrowd450",
-		"src": "bubbleupnp",
-		"category": "gallery"
-	},
-	{
-		"title": "Chromium",
-		"author": "sourcrowd450",
-		"src": "chromium",
-		"category": "browser"
-	},
-	{
-		"title": "Collabora Office",
-		"author": "sourcrowd450",
-		"src": "collabora_office",
-		"category": "documents"
-	},
-	{
-		"title": "Dawn",
-		"author": "sourcrowd450",
-		"src": "dawn",
-		"category": "communication"
-	},
-	{
-		"title": "GMaps WV",
-		"author": "sourcrowd450",
-		"src": "gmaps_wv",
-		"category": "maps"
-	},
-	{
-		"title": "Hash Droid",
-		"author": "sourcrowd450",
-		"src": "hash_droid",
-		"category": "security"
-	},
-	{
-		"title": "JBL Headphones",
-		"author": "sourcrowd450",
-		"src": "jbl_headphones",
-		"category": "other"
-	},
-	{
-		"title": "Kiwi Browser",
-		"author": "sourcrowd450",
-		"src": "kiwi_browser",
-		"category": "browser"
-	},
-	{
-		"title": "Material Flashlight",
-		"author": "sourcrowd450",
-		"src": "material_flashlight",
-		"category": "tools"
-	},
-	{
-		"title": "Mull",
-		"author": "sourcrowd450",
-		"src": "mull",
-		"category": "browser"
-	},
-	{
-		"title": "Native Alpha",
-		"author": "sourcrowd450",
-		"src": "native_alpha",
-		"category": "browser"
-	},
-	{
-		"title": "NINA",
-		"author": "sourcrowd450",
-		"src": "nina",
-		"category": "information"
-	},
-	{
-		"title": "QRServ",
-		"author": "sourcrowd450",
-		"src": "qrserv",
-		"category": "tools"
-	},
-	{
-		"title": "Remo Duplicate File Remover",
-		"author": "sourcrowd450",
-		"src": "remo_duplicate_file_remover",
-		"category": "files"
-	},
-	{
-		"title": "Resolution Changer",
-		"author": "sourcrowd450",
-		"src": "resolution_changer",
-		"category": "tools"
-	},
-	{
-		"title": "Saber",
-		"author": "sourcrowd450",
-		"src": "saber",
-		"category": "documents"
-	},
-	{
-		"title": "satellite",
-		"author": "sourcrowd450",
-		"src": "satellite",
-		"category": "communication"
-	},
-	{
-		"title": "Screen Stream",
-		"author": "sourcrowd450",
-		"src": "screen_stream",
-		"category": "security"
-	},
-	{
-		"title": "Standard Notes",
-		"author": "sourcrowd450",
-		"src": "standard_notes",
-		"category": "documents"
-	},
-	{
-		"title": "Threema",
-		"author": "sourcrowd450",
-		"src": "threema",
-		"category": "communication"
-	},
-	{
-		"title": "Tomb of the Mask",
-		"author": "sourcrowd450",
-		"src": "tomb_of_the_mask",
-		"category": "games"
-	},
-	{
-		"title": "Tor Browser",
-		"author": "sourcrowd450",
-		"src": "tor_browser",
-		"category": "browser"
-	},
-	{
-		"title": "USB Media Explorer",
-		"author": "sourcrowd450",
-		"src": "usb_media_explorer",
-		"category": "files"
-	},
-	{
-		"title": "Voicemail",
-		"author": "sourcrowd450",
-		"src": "voicemail",
-		"category": "communication"
-	},
-	{
-		"title": "CalyxOS Work Profile",
-		"author": "sourcrowd450",
-		"src": "calyxos_work_profile",
-		"category": "security"
-	},
-	{
-		"title": "xManager",
-		"author": "sourcrowd450",
-		"src": "xmanager",
-		"category": "music-streaming"
-	},
-	{
-		"title": "Sueddeutsche Zeitung",
-		"author": "sourcrowd450",
-		"src": "sueddeutsche_zeitung",
-		"category": "news"
-	},
-	{
-		"title": "AMB Mobilitat",
-		"author": "MiepHD",
-		"src": "amb_mobilitat",
-		"category": "other"
-	},
-	{
-		"title": "Barcelona Metro",
-		"author": "MiepHD",
-		"src": "barcelona_metro",
-		"category": "other"
-	},
-	{
-		"title": "Barcelona Metro Bus Rodalies Bicing",
-		"author": "MiepHD",
-		"src": "barcelona_metro_bus_rodalies_bicing",
-		"category": "other"
-	},
-	{
-		"title": "Barcelona Transport",
-		"author": "MiepHD",
-		"src": "barcelona_transport",
-		"category": "other"
-	},
-	{
-		"title": "Weather M8",
-		"author": "MiepHD",
-		"src": "weather_m8",
-		"category": "news"
-	},
-	{
-		"title": "Frog weather forecast",
-		"author": "MiepHD",
-		"src": "frog_weather_forecast",
-		"category": "news"
-	},
-	{
-		"title": "Mi Transporte Barcelona",
-		"author": "MiepHD",
-		"src": "mi_transporte_barcelona",
-		"category": "other"
-	},
-	{
-		"title": "Moovit",
-		"author": "MiepHD",
-		"src": "moovit",
-		"category": "other"
-	},
-	{
-		"title": "OK Transporte Barcelona",
-		"author": "MiepHD",
-		"src": "ok_transporte_barcelona",
-		"category": "other"
-	},
-	{
-		"title": "TMB App",
-		"author": "MiepHD",
-		"src": "tmb_app",
-		"category": "other"
-	},
-	{
-		"title": "TRAM Barcelona",
-		"author": "MiepHD",
-		"src": "tram_barcelona",
-		"category": ""
-	},
-	{
-		"title": "Transit: Bus & Subway Times",
-		"author": "MiepHD",
-		"src": "transit_bus_subway_times",
-		"category": "other"
-	},
-	
-	{
-		"title": "Apex Launcher Pro",
-		"author": "MiepHD",
-		"src": "apex_launcher_pro",
-		"category": "launcher"
-	},
-	
-	{
-		"title": "Via Browser",
-		"author": "MiepHD",
-		"src": "via_browser",
-		"category": "browser"
-	},
-	{
-		"title": "XBrowser",
-		"author": "MiepHD",
-		"src": "xbrowser",
-		"category": "browser"
-	},
-	{
-		"title": "Yuzu Browser",
-		"author": "MiepHD",
-		"src": "yuzu_browser",
-		"category": "browser"
-	},
-	{
-		"title": "FOSS Browser",
-		"author": "MiepHD",
-		"src": "foss_browser",
-		"category": "browser"
-	}
+	{ "title":"Firefox", "author":"MiepHD", "src":"firefox", "category": "browser" },
+	{ "title":"Browser", "author":"MiepHD", "src":"browser", "category": "browser" },
+	{ "title":"Brave", "author":"MiepHD", "src":"brave", "category": "browser" },
+	{ "title":"Fennec", "author":"sourcrowd450", "src":"fennec", "category": "browser" },
+	{ "title": "Chrome", "author": "MiepHD", "src": "chrome", "category": "browser" },
+	{ "title": "Privacy Browser", "author": "MiepHD", "src": "privacy_browser", "category": "browser" },
+	{ "title": "Opera Mini", "author": "MiepHD", "src": "opera_mini", "category": "browser" },
+	{ "title": "Redlight Web Browser", "author": "MiepHD", "src": "redlight_web_browser", "category": "browser" },
+	{ "title": "Samsung Internet", "author": "MiepHD", "src": "samsung_internet", "category": "browser" },
+	{ "title":"Open Camera", "author":"MiepHD", "src":"open_camera", "category": "camera" },
+	{ "title":"icons.samsung-camera.title", "author":"MiepHD", "src":"samsung_camera", "category": "camera" },
+	{ "title":"ObscuraCam", "author":"sourcrowd450", "src":"obscuracam", "category": "camera" },
+	{ "title":"Binary Eye", "author":"sourcrowd450", "src":"binary_eye", "category": "camera" },
+	{ "title":"Retroboy", "author":"sourcrowd450", "src":"retroboy", "category": "camera" },
+	{ "title":"Flora Incognita", "author":"sourcrowd450", "src":"flora_incognita", "category": "scanner" },
+	{ "title": "Mosaic", "author": "MiepHD", "src": "mosaic", "category": "tools" },
+	{ "title":"GMail", "author":"MiepHD", "src":"gmail", "category": "messenger" },
+	{ "title":"Discord", "author":"MiepHD", "src":"discord", "category": "communication" },
+	{ "title":"Samsung Mail", "author":"MiepHD",
+	  "info":"E-Mail: <a href:'mailto:miep_hd@froxot.com'>miep_hd@froxot.com</a>", 
+	  "src":"samsung_mail", "category": "messenger" },
+	{ "title":"icons.samsung-messages.title", "author":"MiepHD", "src":"samsung_messages", "category": "messenger" },
+	{ "title":"icons.samsung-phone.title", "author":"MiepHD", "src":"phone", "category": "communication" },
+	{ "title":"Reddit", "author":"MiepHD", "src":"reddit", "category": "social-media" },
+	{ "title":"Whatsapp", "author":"MiepHD", "src":"whatsapp", "category": "messenger" },
+	{ "title":"Signal", "author":"MiepHD", "src":"signal", "category": "messenger" },
+	{ "title":"Instagram", "author":"MiepHD", "src":"instagram", "category": "social-media" },
+	{ "title":"Gutefrage", "author":"MiepHD", "src":"gutefrage", "category": "social-media" },
+	{ "title":"Homeworker", "author":"MiepHD", "src":"homeworker", "category": "learning" },
+	{ "title":"icons.samsung-contacts.title", "author":"MiepHD", "src":"samsung_contacts", "category": "communication" },
+	{ "title":"Telegram X", "author":"sourcrowd450", "src":"telegram_x", "category": "messenger" },
+	{ "title":"Aliucord", "author":"MiepHD", "src":"aliucord", "category": "communication" },
+	{ "title":"Morse", "author":"sourcrowd450", "src":"morse", "category": "communication" },
+	{ "title":"Silence", "author":"sourcrowd450", "src":"silence", "category": "communication" },
+	{ "title":"Tutanota", "author":"sourcrowd450", "src":"tutanota", "category": "communication" },
+	{ "title":"SimpleLogin", "author":"MiepHD", "src":"simplelogin", "category": "security" },
+	{ "title": "Snapchat", "author": "MiepHD", "src": "snapchat", "category": "social-media" },
+	{ "title": "icons.messages.title", "author": "MiepHD", "src": "messages", "category": "messenger" },
+	{ "title": "Facebook", "author": "MiepHD", "src": "facebook", "category": "social-media" },
+	{ "title": "Meet", "author": "MiepHD", "src": "meet", "category": "communication" },
+	{ "title": "LinkedIn", "author": "MiepHD", "src": "linkedin", "category": "social-media" },
+	{ "title":"Pocket Paint", "author":"sourcrowd450", "src":"pocket_paint", "category": "design" },
+	{ "title":"Retouch", "author":"sourcrowd450", "src":"retouch", "category": "design" },
+	{ "title":"Paper copy", "author":"sourcrowd450", "src":"paper_copy", "category": "design" },
+	{ "title":"SimpleAudio", "author":"sourcrowd450", "src":"simpleaudio", "category": "design" },
+	{ "title":"Snapseed", "author":"sourcrowd450", "src":"snapseed", "category": "design" },
+	{ "title": "Pinterest", "author": "MiepHD", "src": "pinterest", "category": "design" },
+	{ "title": "Autodesk Sketchbook", "author": "MiepHD", "src": "autodesk_sketchbook", "category": "design" },
+	{ "title": "ibisPaint X", "src": "ibispaint_x", "author": "MiepHD", "category": "design" },
+	{ "title":"Adobe Acrobat Reader", "author":"MiepHD", "src":"adobe_acrobat_reader", "category": "documents" },
+	{ "title":"Docx2pdf", "author":"MiepHD", "src":"docx2pdf", "category": "documents" },
+	{ "title":"Office Suite", "author":"MiepHD", "src":"office_suite", "category": "documents" },
+	{ "title":"Samsung Notes", "author":"MiepHD", "src":"samsung_notes", "category": "documents" },
+	{ "title":"Leaflet", "author":"MiepHD", "src":"leaflet", "category": "documents" },
+	{ "title":"ONLYOFFICE Dokumente", "author":"sourcrowd450", "src":"onlyoffice_dokumente", "category": "documents" },
+	{ "title":"OpenDocument Reader", "author":"sourcrowd450", "src":"opendocument_reader", "category": "documents" },
+	{ "title":"Librera FD", "author":"sourcrowd450", "src":"librera_fd", "category": "documents" },
+	{ "title":"Text Fairy", "author":"sourcrowd450", "src":"text_fairy", "category": "documents" },
+	{ "title":"Rocketbook", "author":"sourcrowd450", "src":"rocketbook", "category": "documents" },
+	{ "title": "Microsoft Office", "author": "MiepHD", "src": "microsoft_office", "category": "documents" },
+	{ "title": "Documents", "src": "documents", "author": "MiepHD", "category": "documents" },
+	{ "title": "Gallery", "src": "gallery", "author": "MiepHD", "category": "gallery" },
+	{ "title": "Adobe Scan", "src": "adobe_scan", "author": "MiepHD", "category": "documents" },
+	{ "title":"Google Drive", "author":"MiepHD", "src":"google_drive", "category": "files" },
+	{ "title":"icons.samsung-files.title", "author":"MiepHD", "src":"samsung_files", "category": "files" },
+	{ "title":"Sicherung", "author":"sourcrowd450", "src":"sicherung", "category": "files" },
+	{ "title":"ZArchiver", "author":"sourcrowd450", "src":"zarchiver", "category": "files" },
+	{ "title":"Dropbox", "author":"sourcrowd450", "src":"dropbox", "category": "files" },
+	{ "title":"SAI", "author":"sourcrowd450", "src":"sai", "category": "files" },
+	{ "title":"DiskUsage", "author":"sourcrowd450", "src":"diskusage", "category": "files" },
+	{ "title":"Phone Saver", "author":"sourcrowd450", "src":"phone_saver", "category": "files" },
+	{ "title":"Mega", "author":"sourcrowd450", "src":"mega", "category": "files" },
+	{ "title": "OneDrive", "author": "MiepHD", "src": "onedrive", "category": "files" }, { "title": "Google Files", "src": "google_files", "author": "MiepHD", "category": "files" },
+	{ "title":"icons.samsung-gallary.title", "author":"MiepHD", "src":"samsung_gallery", "category": "gallery" },
+	{ "title":"Google Photos", "author":"MiepHD", "src":"google_photos", "category": "gallery" },
+	{ "title":"Camera Roll", "author":"sourcrowd450", "src":"camera_roll", "category": "gallery" },
+	{ "title":"Darkland", "author":"MiepHD", "src":"darkland", "category": "games" },
+	{ "title":"ShapeOminoes", "author":"MiepHD", "src":"shape_ominoes", "category": "games" },
+	{ "title":"Klocki", "author":"MiepHD", "src":"klocki", "category": "games" },
+	{ "title":"Crossy Road", "author":"MiepHD", "src":"crossy_road", "category": "games" },
+	{ "title":"Word Mix Pro", "author":"MiepHD", "src":"word_mix_pro", "category": "games" },
+	{ "title":"Spingram", "author":"MiepHD", "src":"spingram", "category": "games" },
+	{ "title":"Mühle", "author":"sourcrowd450", "src":"muhle", "category": "games" },
+	{ "title":"Super Retro Mega Wars", "author":"sourcrowd450", "src":"super_retro_mega_wars", "category": "games" },
+	{ "title":"hocus", "author": "MiepHD", "src":"hocus", "category": "games" },
+	{ "title":"J2ME Loader", "author":"sourcrowd450", "src":"j2me_loader", "category": "emulators" },
+	{ "title":"Lemuroid", "author":"sourcrowd450", "src":"lemuroid", "category": "emulators" },
+	{ "title": "Moto Gametime", "src": "moto_gametime", "author": "MiepHD", "category": "games" },
+	{ "title":"Öffi Verbindungen", "author":"sourcrowd450", "src":"offi_verbindungen", "category": "information" },
+	{ "title":"DB Navigator", "author":"MiepHD", "src":"db_navigator", "category": "information" },
+	{ "title":"Flix", "author":"MiepHD", "src":"flix", "category": "information" },
+	{ "title":"Corona Warn App", "author":"MiepHD", "src":"corona_warn_app", "category": "information" },
+	{ "title":"UAV Forecast", "author":"MiepHD", "src":"uav_forecast", "category": "information" },
+	{ "title":"Elementary", "author":"sourcrowd450", "src":"elementary", "category": "information" },
+	{ "title":"KFZ-Kennzeichen", "author":"sourcrowd450", "src":"kfz_kennzeichen", "category": "information" },
+	{ "title": "DSBmobile", "author": "MiepHD", "src": "dsbmobile", "category": "information" },
+	{ "title":"Quizlet", "author":"MiepHD", "src":"quizlet", "category": "learning" },
+	{ "title":"Mebis", "author":"sourcrowd450", "src":"mebis", "category": "learning" },
+	{ "title":"DeepL", "author":"sourcrowd450", "src":"deepl", "category": "learning" },
+	{ "title":"Duden Wörterbücher", "author": "MiepHD", "src":"duden_worterbucher", "category": "learning" },
+	{ "title":"Linguee", "author":"MiepHD", "src":"linguee", "category": "learning" },
+	{ "title":"icons.google-translate.title", "author":"MiepHD", "src":"google_translate", "category": "learning" },
+	{ "title":"Bibel+", "author":"sourcrowd450", "src":"bibel_", "category": "learning" },
+	{ "title":"Kiwix", "author":"sourcrowd450", "src":"kiwix", "category": "learning" },
+	{ "title":"Google Maps", "author":"MiepHD", "src":"google_maps", "category": "maps" },
+	{ "title":"Organic Maps", "author":"MiepHD", "src":"organic_maps", "category": "maps" },
+	{ "title":"Öffi Haltestellen", "author":"sourcrowd450", "src":"offi_haltestellen", "category": "maps" },
+	{ "title":"Öffi Netzpläne", "author":"sourcrowd450", "src":"offi_netzplane", "category": "maps" },
+	{ "title":"OpenTracks", "author":"sourcrowd450", "src":"opentracks", "category": "maps" },
+	{ "title":"Map2Fly", "author":"MiepHD", "src":"map2fly", "category": "maps" },
+	{ "title":"Amazon Music", "author":"MiepHD", "src":"amazon_music", "category": "music-streaming" },
+	{ "title":"DasDing", "author":"MiepHD", "src":"dasding", "category": "music-streaming" },
+	{ "title":"Youtube Music", "author":"MiepHD", "src":"youtube_music", "category": "music-streaming" },
+	{ "title":"Samsung Music", "author":"MiepHD", "src":"samsung_music", "category": "music-streaming" },
+	{ "title":"Freezer", "author":"MiepHD", "src":"freezer", "category": "music-streaming" },
+	{ "title":"Transistor", "author":"sourcrowd450", "src":"transistor", "category": "music-streaming" },
+	{ "title":"Shazam", "author":"sourcrowd450", "src":"shazam", "category": "music-streaming" },
+	{ "title": "Radio", "author": "MiepHD", "src": "radio", "category": "music-streaming" },
+	{ "title": "Spotify", "author": "MiepHD", "src": "spotify", "category": "music-streaming" },
+	{ "title": "icons.play-music.title", "author": "MiepHD", "src": "play_music", "category": "music-streaming" },
+	{ "title": "Newszone", "author": "MiepHD", "src": "newszone", "category": "news" },
+	{ "title": "Weather", "author": "sourcrowd450", "src": "weather", "category": "news" },
+	{ "title": "Birday", "author": "MiepHD", "src": "birday", "category": "planning" },
+	{ "title": "Covpass", "author": "MiepHD", "src": "covpass", "category": "other" },
+	{ "title": "Github",
+	  "info": "icons.github.info",
+	  "author": "MiepHD", "src": "github", "category": "other" },
+	{ "title": "I-Net Menue", "author": "MiepHD", "src": "i_net_menue", "category": "shops" },
+	{ "title": "icons.samsung-calender.title", "author": "MiepHD", "src": "samsung_calendar", "category": "planning" },
+	{ "title": "icons.clock.title", "author": "MiepHD", "src": "clock", "category": "planning" },
+	{ "title": "Wallpaper Engine", "author": "MiepHD", "src": "wallpaper_engine", "category": "design" },
+	{ "title": "AMC Cooking", "author": "MiepHD", "src": "amc_cooking", "category": "other" },
+	{ "title": "icons.voicenote.title", "author": "MiepHD", "src": "voicenote", "category": "recording" },
+	{ "title": "Smart Things",
+	  "info": "icons.smart-things.info",
+	  "author": "MiepHD", "src": "smart_things", "category": "iot" },
+	{ "title": "Munzee", "author": "MiepHD", "src": "munzee", "category": "games" },
+	{ "title": "Imaging Edge Mobile", "author": "MiepHD", "src": "imaging_edge_mobile", "category": "iot" },
+	{ "title": "Galaxy Wearable", "author": "MiepHD", "src": "galaxy_wearable", "category": "iot" },
+	{ "title": "Alexa", "author": "MiepHD", "src": "alexa", "category": "virtual-assistant" },
+	{ "title": "DJI Fly", "author": "MiepHD", "src": "dji_fly", "category": "iot" },
+	{ "title": "Aldi Talk", "author": "MiepHD", "src": "aldi_talk", "category": "other" },
+	{ "title": "Kilterboard", "author": "MiepHD", "src": "kilterboard", "category": "iot" },
+	{ "title": "Cuscon",
+	  "info": "icons.cuscon.info",
+	  "author": "MiepHD", "src": "cuscon", "category": "icon_packs" },
+	{ "title": "Bahnhofsfotos", "author": "sourcrowd450", "src": "bahnhofsfotos", "category": "games" },
+	{ "title": "BetterCounter", "author": "sourcrowd450", "src": "bettercounter", "category": "analyzer" },
+	{ "title": "c:geo", "author": "sourcrowd450", "src": "c_geo", "category": "tools" },
+	{ "title": "eSpeak", "author": "sourcrowd450", "src": "espeak", "category": "other" },
+	{ "title": "HeartBeat", "author": "sourcrowd450", "src": "heartbeat", "category": "scanner" },
+	{ "title": "Trail Sense", "author": "sourcrowd450", "src": "trail_sense", "category": "other" },
+	{ "title": "Video Transcoder", "author": "sourcrowd450", "src": "video_transcoder", "category": "tools" },
+	{ "title": "Warpinator", "author": "sourcrowd450", "src": "warpinator", "category": "files" },
+	{ "title": "WhereYouGo", "author": "sourcrowd450", "src": "whereyougo", "category": "games" },
+	{ "title": "CubeX", "author": "sourcrowd450", "src": "cubex", "category": "scanner" },
+	{ "title": "MiraPlug", "author": "sourcrowd450", "src": "miraplug", "category": "gaming-experience" },
+	{ "title": "TCL Connect", "author": "sourcrowd450", "src": "tcl_connect", "category": "iot" },
+	{ "title": "icons.lawnchair-settings.title",
+	  "info": "icons.lawnchair-settings.info",
+	  "author": "MiepHD", "src": "lawnchair_einstellungen", "category": "launcher" },
+	{ "title": "Reminder", "author": "MiepHD", "src": "reminder", "category": "planning" },
+	{ "title": "Info Dienste", "author": "MiepHD", "src": "info_dienste", "category": "other" },
+	{ "title": "Termux", "author": "MiepHD", "src": "termux", "category": "emulators" },
+	{ "title": "Whatsapp SIM", "author": "MiepHD", "src": "whatsapp_sim", "category": "other" },
+	{ "title": "Apex Launcher", "author": "MiepHD", "src": "apex_launcher", "category": "launcher" },
+	{ "title": "Lawnchair",
+	  "info": "icons.lawnchair.info",
+	  "author": "MiepHD", "src": "lawnchair", "category": "launcher" },
+	{ "title": "Google", "author": "MiepHD", "src": "google", "category": "browser" },
+	{ "title": "Google Assistant", "src": "google_assistant", "author": "MiepHD", "category": "virtual-assistant" },
+	{ "title": "Google One", "src": "google_one", "author": "MiepHD", "category": "files" },
+	{ "title": "Google TV", "src": "google_tv", "author": "MiepHD", "category": "video-streaming" },
+	{ "title": "Google Calendar", "src": "google_calendar", "author": "MiepHD", "category": "planning" },
+	{ "title": "Google Wallpapers", "src": "google_wallpapers", "author": "MiepHD", "category": "design" },
+	{ "title": "Moto Interactive Wallpaper", "src": "moto_interactive_wallpaper", "author": "MiepHD", "category": "design" },
+	{ "title": "Microsoft To Do", "src": "microsoft_to_do", "author": "MiepHD", "category": "planning" },
+	{ "title": "WeeNet", "src": "weenet", "author": "MiepHD", "category": "analyzer" },
+	{ "title": "Settings", "src": "settings", "author": "MiepHD", "category": "other" },
+	{ "title":"Google Authenticator", "author":"MiepHD", "src":"google_authenticator", "category": "security" },
+	{ "title":"Keepass", "author":"MiepHD", "src":"keepass", "category": "security" },
+	{ "title":"Firewall", "author":"sourcrowd450", "src":"firewall", "category": "security" },
+	{ "title":"icons.microg-settings.title", "author":"sourcrowd450", "src":"microg_einstellungen", "category": "security" },
+	{ "title":"Aegis", "author":"sourcrowd450", "src":"aegis", "category": "security" },
+	{ "title":"Bitwarden", "author":"sourcrowd450", "src":"bitwarden", "category": "security" },
+	{ "title":"Shelter", "author":"sourcrowd450", "src":"shelter", "category": "security" },
+	{ "title":"Warden", "author":"sourcrowd450", "src":"warden", "category": "security" },
+	{ "title":"Apkpure",
+	  "info":"icons.apkpure.info",
+	  "author":"MiepHD", "src":"apkpure", "category": "app-stores" },
+	{ "title":"F-Droid",
+	  "info":"icons.f-droid.info",
+	  "author":"MiepHD", "src":"f_droid", "category": "app-stores" },
+	{ "title":"Aurora Store",
+	  "info":"icons.aurora-store.info",
+	  "author":"MiepHD", "src":"aurora_store", "category": "app-stores" },
+	{ "title":"Steam", "author":"MiepHD", "src":"steam", "category": "shops" },
+	{ "title":"Google Play Store",
+	  "info":"icons.google-play-store.info",
+	  "author":"MiepHD", "src":"google_play_store", "category": "app-stores" },
+	{ "title":"Playmods", "author":"MiepHD", "src":"playmods", "category": "app-stores" },
+	{ "title":"icons.google-play-games.title", "author":"MiepHD", "src":"google_play_games", "category": "app-stores" },
+	{ "title":"EMP Shop", "author":"MiepHD", "src":"emp_shop", "category": "app-stores" },
+	{ "title":"Galaxy Store", "author":"sourcrowd450", "src":"galaxy_store", "category": "app-stores" },
+	{ "title":"Happymod", "author":"sourcrowd450", "src":"happymod", "category": "app-stores" },
+	{ "title": "Aliucord Installer", "author":"MiepHD", "src": "aliucord_installer", "category": "app-stores" },
+	{ "title": "Apkmody", "author": "MiepHD", "src": "apkmody", "category": "app-stores" },
+	{ "title":"Lucky Patcher", "author":"MiepHD", "src":"lucky_patcher", "category": "tools" },
+	{ "title":"Samsung Sound Assistant", "author":"MiepHD", "src":"samsung_sound_assistant", "category": "tools" },
+	{ "title":"icons.samsung-calculator.title", "author":"MiepHD", "src":"samsung_calculator", "category": "calculators" },
+	{ "title":"Phyphox", "author":"MiepHD", "src":"phyphox", "category": "analyzer" },
+	{ "title":"Touch Portal", "author":"MiepHD", "src":"touch_portal", "category": "tools" },
+	{ "title":"APK Editor", "author":"sourcrowd450", "src":"apk_editor", "category": "tools" },
+	{ "title":"Editor", "author":"sourcrowd450", "src":"editor", "category": "documents" },
+	{ "title":"Smart AutoClicker", "author":"sourcrowd450", "src":"smart_autoclicker", "category": "tools" },
+	{ "title":"SMS Import / Export", "author":"sourcrowd450", "src":"sms_import_export", "category": "tools" },
+	{ "title":"Rotation Control", "author":"sourcrowd450", "src":"rotation_control", "category": "tools" },
+	{ "title":"GPS JoyStick", "author":"sourcrowd450", "src":"gps_joystick", "category": "tools" },
+	{ "title":"Dumbphone Assistant", "author":"sourcrowd450", "src":"dumbphone_assistant", "category": "tools" },
+	{ "title":"NCalcLibre", "author":"sourcrowd450", "src":"ncalclibre", "category": "calculators" },
+	{ "title": "LADB", "author": "MiepHD", "src": "ladb", "category": "tools" },
+	{ "title": "Overlay Digital Clock", "author": "MiepHD", "src": "overlay_digital_clock", "category": "tools" },
+	{ "title": "Fing", "src": "fing", "author": "MiepHD", "category": "analyzer" },
+	{ "title": "Mi WiFi", "src": "mi_wifi", "author": "MiepHD", "category": "iot" },
+	{ "title": "WiFiAnalyzer", "src": "wifianalyzer", "author": "MiepHD", "category": "analyzer" },
+	{ "title": "WLANScanner", "src": "wlanscanner", "author": "MiepHD", "category": "analyzer" },
+	{ "title":"Netflix", "author":"MiepHD", "src":"netflix", "category": "video-streaming" },
+	{ "title":"ZDFMediathek", "author":"MiepHD", "src":"zdfmediathek", "category": "video-streaming" },
+	{ "title":"Zapp", "author":"MiepHD", "src":"zapp", "category": "video-streaming" },
+	{ "title":"Cloud Stream 3", "author":"MiepHD", "src":"cloud_stream_3", "category": "video-streaming" },
+	{ "title":"Disney+", "author":"MiepHD", "src":"disney_plus", "category": "video-streaming" },
+	{ "title":"Youtube", "author":"MiepHD", "src":"youtube", "category": "video-streaming" },
+	{ "title":"Amazon Prime Video", "author":"MiepHD", "src":"amazon_prime_video", "category": "video-streaming" },
+	{ "title":"NewPipe", "author":"sourcrowd450", "src":"newpipe", "category": "video-streaming" },
+	{ "title":"VLC", "author":"sourcrowd450", "src":"vlc", "category": "video-streaming" },
+	{ "title":"VR Media Player", "author":"sourcrowd450", "src":"vr_media_player", "category": "video-streaming" },
+	{ "title":"Adguard", "author":"MiepHD", "src":"adguard", "category": "vpn" },
+	{ "title":"Cloudflare Warp", "author":"MiepHD", "src":"cloudflare_warp", "category": "vpn" },
+	{ "title":"WireGuard", "author":"sourcrowd450", "src":"wireguard", "category": "vpn" },
+	{ "title": "Microsoft Authenticator", "author": "MiepHD", "src": "microsoft_authenticator", "category": "security" },
+	{ "title": "Motorola Device Help", "author": "MiepHD", "src": "motorola_device_help", "category": "other" },
+	{ "title": "Barclays", "author": "MiepHD", "src": "barclays", "category": "banking" },
+	{ "title": "Camera Assistant", "author": "MiepHD", "src": "camera_assistant", "category": "tools" },
+	{ "title": "Good Guardians", "author": "MiepHD", "src": "good_guardians", "category": "tools" },
+	{ "title": "Good Lock", "author": "MiepHD", "src": "good_lock", "category": "design" },
+	{ "title": "Moto", "author": "MiepHD", "src": "moto", "category": "other" },
+	{ "title": "PayPal", "author": "MiepHD", "src": "paypal", "category": "banking" },
+	{ "title": "OneNote", "author": "MiepHD", "src": "onenote", "category": "documents" },
+	{ "title": "TeaCapps QR & Barcode Reader", "author": "MiepHD", "src": "teacapps_qr__barcode_reader", "category": "camera" },
+	{ "title": "Zalando", "author": "MiepHD", "src": "zalando", "category": "shops" },
+	{ "title": "TikTok", "author": "MiepHD", "src": "tiktok", "category": "video-streaming" },
+	{ "title": "Moto Camera 3", "author": "MiepHD", "src": "moto_camera_3", "category": "camera" },
+	{ "title": "FAST Speed Test", "author": "MiepHD", "src": "fast_speed_test", "category": "analyzer" },
+	{ "title": "iwscan", "author": "MiepHD", "src": "iwscan", "category": "analyzer" },
+	{ "title": "Kiwi Browser", "author": "MiepHD", "src": "kiwi_browser", "category": "browser" },
+	{ "title": "My O2", "author": "MiepHD", "src": "my_o2", "category": "other" },
+	{ "title": "Mou-te", "author": "MiepHD", "src": "mou_te", "category": "other" },
+	{ "title": "Motorola Notifications", "author": "MiepHD", "src": "motorola_notifications", "category": "other" },
+	{ "title": "Nova Launcher", "author": "MiepHD", "src": "nova_launcher", "category": "launcher" },
+	{ "title": "Nova Launcher Prime", "author": "MiepHD", "src": "nova_launcher_prime", "category": "launcher" },
+	{ "title": "Port Authority", "author": "MiepHD", "src": "port_authority", "category": "analyzer" },
+	{ "title": "1Tap Cleaner Pro", "author": "MiepHD", "src": "_1tap_cleaner_pro", "category": "files" },
+	{ "title": "Weather Station - Barometer", "author": "MiepHD", "src": "weather_station_barometer", "category": "news" },
+	{ "title": "D-Link Wi-Fi", "author": "MiepHD", "src": "d_link_wi_fi", "category": "other" },
+	{ "title": "NetMan", "author": "MiepHD", "src": "netman", "category": "analyzer" },
+	{ "title": "Radio FM", "author": "MiepHD", "src": "radio_fm", "category": "music-streaming" },
+	{ "title": "Sweech", "author": "MiepHD", "src": "sweech", "category": "files" },
+	{ "title": "WiFiman", "author": "MiepHD", "src": "wifiman", "category": "analyzer" },
+	{ "title": "FRITZ!App WLAN", "author": "MiepHD", "src": "fritz_app_wlan", "category": "tools" },
+	{ "title": "WlanScanner by Latetech", "author": "MiepHD", "src": "wlanscanner_by_latetech", "category": "analyzer" },
+	{ "title": "WiFi Monitor Pro", "author": "MiepHD", "src": "wifi_monitor_pro", "category": "analyzer" },
+	{ "title": "Der Postillon", "author": "MiepHD", "src": "der_postillon", "category": "news" },
+	{ "title": "Microsoft SwiftKey-Tastatur", "author": "MiepHD", "src": "microsoft_swiftkey_tastatur", "category": "other" },
+	{ "title": "UUID 0xFD6F Scanner", "author": "MiepHD", "src": "uuid_0xfd6f_scanner", "category": "information" },
+	{ "title": "Onleihe", "author": "MiepHD", "src": "onleihe", "category": "other" },
+	{ "title": "Duolingo", "author": "MiepHD", "src": "duolingo", "category": "learning" },
+	{ "title": "Lieferando", "author": "MiepHD", "src": "lieferando", "category": "shops" },
+	{ "title": "Samsung Flow", "author": "MiepHD", "src": "samsung_flow", "category": "tools" },
+	{ "title": "Skype", "author": "MiepHD", "src": "skype", "category": "communication" },
+	{ "title": "Teams", "author": "MiepHD", "src": "teams", "category": "communication" },
+	{ "title": "Theme Park", "author": "MiepHD", "src": "theme_park", "category": "design" },
+	{ "title": "AdGuard VPN", "author": "MiepHD", "src": "adguard_vpn", "category": "vpn" },
+	{ "title": "CandyBar Dev", "author": "MiepHD", "src": "candybar_dev", "category": "icon_packs" },
+	{ "title": "Delta", "author": "MiepHD", "src": "delta", "category": "icon_packs" },
+	{ "title": "Jojoy", "author": "MiepHD", "src": "jojoy", "category": "app-stores" },
+	{ "title": "VirusTotal Mobile", "author": "MiepHD", "src": "virustotal_mobile", "category": "security" },
+	{ "title": "YouTube Revanced", "author": "MiepHD", "src": "youtube_revanced", "category": "video-streaming" },
+	{ "title": "Barcelona Bus Tracker", "author": "MiepHD", "src": "barcelona_bus_tracker", "category": "other" },
+	{ "title": "Blokada 5", "author": "MiepHD", "src": "blokada_5", "category": "other" },
+	{ "title": "Circuit", "author": "MiepHD", "src": "circuit", "category": "other" },
+	{ "title": "Citymapper", "author": "MiepHD", "src": "citymapper", "category": "other" },
+	{ "title": "El meu tren", "author": "MiepHD", "src": "el_meu_tren", "category": "other" },
+	{ "title": "FGC", "author": "MiepHD", "src": "fgc", "category": "other" },
+	{ "title": "Frog Weather Shortcut", "author": "MiepHD", "src": "frog_weather_shortcut", "category": "other" },
+	{ "title": "gencat", "author": "MiepHD", "src": "gencat", "category": "other" },
+	{ "title": "Google Weather Activity", "author": "MiepHD", "src": "google_weather_activity", "category": "news" },
+	{ "title": "Next bus Barcelona", "author": "MiepHD", "src": "next_bus_barcelona", "category": "other" },
+	{ "title": "BubbleUPnP", "author": "sourcrowd450", "src": "bubbleupnp", "category": "gallery" },
+	{ "title": "Chromium", "author": "sourcrowd450", "src": "chromium", "category": "browser" },
+	{ "title": "Collabora Office", "author": "sourcrowd450", "src": "collabora_office", "category": "documents" },
+	{ "title": "Dawn", "author": "sourcrowd450", "src": "dawn", "category": "communication" },
+	{ "title": "GMaps WV", "author": "sourcrowd450", "src": "gmaps_wv", "category": "maps" },
+	{ "title": "Hash Droid", "author": "sourcrowd450", "src": "hash_droid", "category": "security" },
+	{ "title": "JBL Headphones", "author": "sourcrowd450", "src": "jbl_headphones", "category": "other" },
+	{ "title": "Kiwi Browser", "author": "sourcrowd450", "src": "kiwi_browser", "category": "browser" },
+	{ "title": "Material Flashlight", "author": "sourcrowd450", "src": "material_flashlight", "category": "tools" },
+	{ "title": "Mull", "author": "sourcrowd450", "src": "mull", "category": "browser" },
+	{ "title": "Native Alpha", "author": "sourcrowd450", "src": "native_alpha", "category": "browser" },
+	{ "title": "NINA", "author": "sourcrowd450", "src": "nina", "category": "information" },
+	{ "title": "QRServ", "author": "sourcrowd450", "src": "qrserv", "category": "tools" },
+	{ "title": "Remo Duplicate File Remover", "author": "sourcrowd450", "src": "remo_duplicate_file_remover", "category": "files" },
+	{ "title": "Resolution Changer", "author": "sourcrowd450", "src": "resolution_changer", "category": "tools" },
+	{ "title": "Saber", "author": "sourcrowd450", "src": "saber", "category": "documents" },
+	{ "title": "satellite", "author": "sourcrowd450", "src": "satellite", "category": "communication" },
+	{ "title": "Screen Stream", "author": "sourcrowd450", "src": "screen_stream", "category": "security" },
+	{ "title": "Standard Notes", "author": "sourcrowd450", "src": "standard_notes", "category": "documents" },
+	{ "title": "Threema", "author": "sourcrowd450", "src": "threema", "category": "messenger" },
+	{ "title": "Tomb of the Mask", "author": "sourcrowd450", "src": "tomb_of_the_mask", "category": "games" },
+	{ "title": "Tor Browser", "author": "sourcrowd450", "src": "tor_browser", "category": "browser" },
+	{ "title": "USB Media Explorer", "author": "sourcrowd450", "src": "usb_media_explorer", "category": "files" },
+	{ "title": "Voicemail", "author": "sourcrowd450", "src": "voicemail", "category": "messenger" },
+	{ "title": "CalyxOS Work Profile", "author": "sourcrowd450", "src": "calyxos_work_profile", "category": "security" },
+	{ "title": "xManager", "author": "sourcrowd450", "src": "xmanager", "category": "music-streaming" },
+	{ "title": "Sueddeutsche Zeitung", "author": "sourcrowd450", "src": "sueddeutsche_zeitung", "category": "news" },
+	{ "title": "AMB Mobilitat", "author": "MiepHD", "src": "amb_mobilitat", "category": "other" },
+	{ "title": "Barcelona Metro", "author": "MiepHD", "src": "barcelona_metro", "category": "other" },
+	{ "title": "Barcelona Metro Bus Rodalies Bicing", "author": "MiepHD", "src": "barcelona_metro_bus_rodalies_bicing", "category": "other" },
+	{ "title": "Barcelona Transport", "author": "MiepHD", "src": "barcelona_transport", "category": "other" },
+	{ "title": "Weather M8", "author": "MiepHD", "src": "weather_m8", "category": "news" },
+	{ "title": "Frog weather forecast", "author": "MiepHD", "src": "frog_weather_forecast", "category": "news" },
+	{ "title": "Mi Transporte Barcelona", "author": "MiepHD", "src": "mi_transporte_barcelona", "category": "other" },
+	{ "title": "Moovit", "author": "MiepHD", "src": "moovit", "category": "other" },
+	{ "title": "OK Transporte Barcelona", "author": "MiepHD", "src": "ok_transporte_barcelona", "category": "other" },
+	{ "title": "TMB App", "author": "MiepHD", "src": "tmb_app", "category": "other" },
+	{ "title": "TRAM Barcelona", "author": "MiepHD", "src": "tram_barcelona", "category": "other" },
+	{ "title": "Transit: Bus & Subway Times", "author": "MiepHD", "src": "transit_bus_subway_times", "category": "other" },
+	{ "title": "Apex Launcher Pro", "author": "MiepHD", "src": "apex_launcher_pro", "category": "launcher" },
+	{ "title": "Via Browser", "author": "MiepHD", "src": "via_browser", "category": "browser" },
+	{ "title": "XBrowser", "author": "MiepHD", "src": "xbrowser", "category": "browser" },
+	{ "title": "Yuzu Browser", "author": "MiepHD", "src": "yuzu_browser", "category": "browser" },
+	{ "title": "FOSS Browser", "author": "MiepHD", "src": "foss_browser", "category": "browser" },
+	{ "title": "061 Salut Respon", "author": "MiepHD", "src": "_061_salut_respon", "category": "other" },
+	{ "title": "Barcelona Transit", "author": "MiepHD", "src": "barcelona_transit", "category": "other" },
+	{ "title": "Alarm Clock for Me", "author": "MiepHD", "src": "alarm_clock_for_me", "category": "other" },
+	{ "title": "La Meva Salut", "author": "MiepHD", "src": "la_meva_salut", "category": "other" },
+	{ "title": "hyperion", "author": "MiepHD", "src": "hyperion", "category": "other" },
+	{ "title": "Horarios Renfe", "author": "MiepHD", "src": "horarios_renfe", "category": "other" },
+	{ "title": "Renfe", "author": "MiepHD", "src": "renfe", "category": "other" },
+	{ "title": "Renfe Cercanías", "author": "MiepHD", "src": "renfe_cercanias", "category": "other" },
+	{ "title": "Rodalies", "author": "MiepHD", "src": "rodalies", "category": "other" },
+	{ "title": "Trànsit", "author": "MiepHD", "src": "transit", "category": "other" },
+	{ "title": "ING Banking", "author": "MiepHD", "src": "ing_banking", "category": "banking" },
+	{ "title": "S-pushTAN", "author": "MiepHD", "src": "s_pushtan", "category": "banking" },
+	{ "title": "BeReal.", "author": "MiepHD", "src": "bereal", "category": "social-media" },
+	{ "title": "Joyn", "author": "MiepHD", "src": "joyn", "category": "video-streaming" },
+	{ "title": "bob World", "author": "MiepHD", "src": "bob_world", "category": "other" },
+	{ "title": "Android Camera", "author": "MiepHD", "src": "android_camera", "category": "camera" },
+	{ "title": "Miui Bugreport", "author": "MiepHD", "src": "miui_bugreport", "category": "other" },
+	{ "title": "Mi File Manager", "author": "MiepHD", "src": "mi_file_manager", "category": "files" },
+	{ "title": "GPay", "author": "MiepHD", "src": "gpay", "category": "banking" },
+	{ "title": "IPPB Mobile", "author": "MiepHD", "src": "ippb_mobile", "category": "other" },
+	{ "title": "Microsoft Launcher", "author": "MiepHD", "src": "microsoft_launcher", "category": "launcher" },
+	{ "title": "MyJio", "author": "MiepHD", "src": "myjio", "category": "other" },
+	{ "title": "Ncert Book", "author": "MiepHD", "src": "ncert_book", "category": "other" },
+	{ "title": "Paisa Wala", "author": "MiepHD", "src": "paisa_wala", "category": "other" },
+	{ "title": "Paytm", "author": "MiepHD", "src": "paytm", "category": "banking" },
+	{ "title": "PhonePe", "author": "MiepHD", "src": "phonepe", "category": "banking" },
+	{ "title": "ShareChat", "author": "MiepHD", "src": "sharechat", "category": "social-media" },
+	{ "title": "Telegram", "author": "MiepHD", "src": "telegram", "category": "messenger" },
+	{ "title": "Truecaller", "author": "MiepHD", "src": "truecaller", "category": "other" },
+	{ "title": "WA Business", "author": "MiepHD", "src": "wa_business", "category": "messenger" }
 ]
