@@ -5,34 +5,14 @@
     <item drawable="covpass" />
     <item drawable="github" />
     <item drawable="amc_cooking" />
-    <item drawable="galaxy_wearable" />
-    <!-- DJI Fly --><item drawable="dji_fly" />
     <!-- Aldi Talk --><item drawable="aldi_talk" />
-    <!-- Kilterboard --><item drawable="kilterboard" />
-    <!-- Bahnhofsfotos --><item drawable="bahnhofsfotos" />
-    <!-- BetterCounter --><item drawable="bettercounter" />
-    <!-- c:geo --><item drawable="c_geo" />
     <!-- eSpeak --><item drawable="espeak" />
-    <!-- HeartBeat --><item drawable="heartbeat" />
     <!-- Trail Sense --><item drawable="trail_sense" />
-    <!-- Video Transcoder --><item drawable="video_transcoder" />
-    <!-- Warpinator --><item drawable="warpinator" />
-    <!-- WhereYouGo --><item drawable="whereyougo" />
-    <!-- CubeX --><item drawable="cubex" />
-    <!-- MiraPlug --><item drawable="miraplug" />
-    <!-- TCL Connect --><item drawable="tcl_connect" />
     <!-- Info Dienste --><item drawable="info_dienste" />
-    <!-- Symbolab --><item drawable="symbolab" />
-    <!-- Termux --><item drawable="termux" />
     <!-- WhatsApp SIM --><item drawable="whatsapp_sim"/>
-    <!-- Google --><item drawable="google"/>
-    <!-- Google One--><item drawable="google_one" />
-	<!-- Google TV--><item drawable="google_tv" />
-	<!-- WeeNet --><item drawable="weenet" />
     <!-- Settings --><item drawable="settings" />
     <!-- Motorola Device Help --><item drawable="motorola_device_help"/>
     <!-- Moto--><item drawable="moto"/>
-	<!-- FAST Speed Test--><item drawable="fast_speed_test"/>
 	<!-- My O2 --><item drawable="my_o2"/>
 	<!-- Mou-te--><item drawable="mou_te"/>
 	<!-- Motorola Notifications--><item drawable="motorola_notifications"/>
@@ -128,6 +108,7 @@
     <!-- TikTok --><item drawable="tiktok"/>
     <!-- YouTube Revanced --><item drawable="youtube_revanced"/>
     <!-- Joyn --><item drawable="joyn" />
+    <!-- Google TV--><item drawable="google_tv" />
 
     <category title="Music Streaming" />
     <item drawable="amazon_music" />
@@ -158,9 +139,15 @@
     <!-- hocus --><item drawable="hocus" />
     <!-- Tomb of the Mask --><item drawable="tomb_of_the_mask" />
     <item drawable="munzee" />
+    <!-- Bahnhofsfotos --><item drawable="bahnhofsfotos" />
+    <!-- WhereYouGo --><item drawable="whereyougo" />
 
     <category title="Gaming Experience" />
     <!-- Moto Gametime--><item drawable="moto_gametime" />
+    <!-- MiraPlug --><item drawable="miraplug" />
+
+    <category title="Emulators" />
+    <!-- Termux --><item drawable="termux" />
     <!-- J2ME Loader --><item drawable="j2me_loader" />
     <!-- Lemuroid --><item drawable="lemuroid" />
     
@@ -226,12 +213,11 @@
 	<!-- XBrowser --><item drawable="xbrowser" />
 	<!-- Yuzu Browser --><item drawable="yuzu_browser" />
     <!-- FOSS Browser --><item drawable="foss_browser" />
+    <!-- Google --><item drawable="google"/>
 
     <category title="Tools" />
     <item drawable="lucky_patcher" />
     <item drawable="samsung_sound_assistant" />
-    <item drawable="samsung_calculator" />
-    <item drawable="phyphox" />
     <item drawable="touch_portal" />
     <!-- APK Editor --><item drawable="apk_editor" />
     <!-- Editor --><item drawable="editor" />
@@ -240,30 +226,46 @@
     <!-- Rotation Control --><item drawable="rotation_control" />
     <!-- GPS JoyStick --><item drawable="gps_joystick" />
     <!-- Dumbphone Assistant --><item drawable="dumbphone_assistant" />
-    <!-- NCalcLibre --><item drawable="ncalclibre" />
     <!-- LADB --><item drawable="ladb" />
     <!-- Overlay Digital Clock --><item drawable="overlay_digital_clock"/>
-    <!-- Fing--><item drawable="fing" />
-	<!-- Mi WiFi--><item drawable="mi_wifi" />
-	<!-- WiFiAnalyzer--><item drawable="wifianalyzer" />
-	<!-- WLANScanner--><item drawable="wlanscanner" />
-    <!-- Good Guardians --><item drawable="good_guardians"/>
-    <!-- iwscan--><item drawable="iwscan"/>
-    <!-- Port Authority--><item drawable="port_authority"/>
-    <!-- NetMan --><item drawable="netman"/>
-    <!-- WiFiman --><item drawable="wifiman"/>
 	<!-- FRITZ!App WLAN --><item drawable="fritz_app_wlan"/>
-    <!-- WlanScanner by Latetech --><item drawable="wlanscanner_by_latetech"/>
-	<!-- WiFi Monitor Pro--><item drawable="wifi_monitor_pro"/>
     <!-- Samsung Flow --><item drawable="samsung_flow"/>
     <!-- Material Flashlight --><item drawable="material_flashlight" />
     <!-- QRServ --><item drawable="qrserv" />
     <!-- Resolution Changer --><item drawable="resolution_changer" />
     <!-- Mosaic --><item drawable="mosaic"/>
+    <!-- c:geo --><item drawable="c_geo" />
+    <!-- Video Transcoder --><item drawable="video_transcoder" />
+
+    <category title="Calculator" />
+    <item drawable="samsung_calculator" />
+    <!-- NCalcLibre --><item drawable="ncalclibre" />
+    <!-- Symbolab --><item drawable="symbolab" />
+
+    <category title="Analyzer" />
+    <!-- BetterCounter --><item drawable="bettercounter" />
+    <item drawable="phyphox" />
+    <!-- WiFiAnalyzer--><item drawable="wifianalyzer" />
+	<!-- WLANScanner--><item drawable="wlanscanner" />
+    <!-- Good Guardians --><item drawable="good_guardians"/>
+    <!-- iwscan--><item drawable="iwscan"/>
+    <!-- Fing--><item drawable="fing" />
+    <!-- Port Authority--><item drawable="port_authority"/>
+    <!-- NetMan --><item drawable="netman"/>
+    <!-- WiFiman --><item drawable="wifiman"/>
+    <!-- WlanScanner by Latetech --><item drawable="wlanscanner_by_latetech"/>
+    <!-- WiFi Monitor Pro--><item drawable="wifi_monitor_pro"/>
+    <!-- WeeNet --><item drawable="weenet" />
+    <!-- FAST Speed Test--><item drawable="fast_speed_test"/>
 
     <category title="Internet of Things" />
     <item drawable="smart_things" />
     <item drawable="imaging_edge_mobile" />
+    <item drawable="galaxy_wearable" />
+    <!-- DJI Fly --><item drawable="dji_fly" />
+    <!-- Kilterboard --><item drawable="kilterboard" />
+    <!-- Mi WiFi--><item drawable="mi_wifi" />
+    <!-- TCL Connect --><item drawable="tcl_connect" />
 
     <category title="Documents" />
     <item drawable="adobe_acrobat_reader" />
@@ -303,6 +305,8 @@
     <category title="Scanner" />
     <!-- Flora Incognita --><item drawable="flora_incognita" />
     <!-- TeaCapps QR & Barcode Reader --><item drawable="teacapps_qr__barcode_reader"/>
+    <!-- HeartBeat --><item drawable="heartbeat" />
+    <!-- CubeX --><item drawable="cubex" />
 
     <category title="Maps" />
     <!-- Google Maps --><item drawable="google_maps" />
@@ -330,6 +334,8 @@
     <!-- USB Media Explorer --><item drawable="usb_media_explorer" />
     <!-- Mi File Manager --><item drawable="mi_file_manager" />
     <!-- 1Tap Cleaner Pro --><item drawable="_1tap_cleaner_pro"/>
+    <!-- Warpinator --><item drawable="warpinator" />
+    <!-- Google One--><item drawable="google_one" />
 
     <category title="Gallery" />
     <!-- Samsung Gallary --><item drawable="samsung_gallery" />
