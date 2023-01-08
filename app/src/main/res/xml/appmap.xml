@@ -383,5 +383,15 @@
 	<!-- Telegram --><item class="org.telegram.messenger.DefaultIcon" name="telegram"/>
 	<!-- Truecaller --><item class="com.truecaller.ui.TruecallerInit" name="truecaller"/>
 	<!-- WA Business --><item class="com.whatsapp.Main" name="wa_business"/>
+    <item class="net.tsapps.appsales.ui.main.MainActivity" name="appsales"/>
+	<item class="net.techet.netanalyzerlite.an.activity.MainActivity" name="net_analyzer"/>
+	<item class="com.networkinfo.networkanalyzers.activity.SplashActivity" name="atlanta_info_network_analyzer"/>
+	<item class="com.nperf.tester.Activity.SplashScreenActivity" name="nperf"/>
+	<item class="com.deluxewebapps.portscanner.activity.MainActivity" name="advanced_port_scanner"/>
+	<item class="com.intelisoft.portscanner.views.main.MainActivity" name="fast_port_scanner"/>
+	<item class="com.ookla.mobile4.screens.main.MainActivity" name="speedtest_by_ookla"/>
+	<item class="abdelrahman.wifianalyzerpro.MainActivity" name="olgor_wifi_analyzer"/>
+	<item class="cz.webprovider.wifianalyzer.MainActivity" name="webprovider_wifi_analyzer"/>
+	<item class="com.pierwiastek.wifidata.activities.main.MainActivity" name="wifi_data"/>
 
 </appmap>

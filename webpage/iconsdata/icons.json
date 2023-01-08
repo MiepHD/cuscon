@@ -369,5 +369,15 @@
 	{ "title": "ShareChat", "author": "MiepHD", "src": "sharechat", "category": "social-media" },
 	{ "title": "Telegram", "author": "MiepHD", "src": "telegram", "category": "messenger" },
 	{ "title": "Truecaller", "author": "MiepHD", "src": "truecaller", "category": "other" },
-	{ "title": "WA Business", "author": "MiepHD", "src": "wa_business", "category": "messenger" }
+	{ "title": "WA Business", "author": "MiepHD", "src": "wa_business", "category": "messenger" },
+	{ "title": "AppSales", "author": "MiepHD", "src": "appsales", "category": "tools" },
+	{ "title": "Techet Net Analyzer", "author": "MiepHD", "src": "techet_net_analyzer", "category": "analyzer" },
+	{ "title": "Atlanta Info Network Analyzer", "author": "MiepHD", "src": "atlanta_info_network_analyzer", "category": "analyzer" },
+	{ "title": "nPerf", "author": "MiepHD", "src": "nperf", "category": "analyzer" },
+	{ "title": "Advanced Port Scanner", "author": "MiepHD", "src": "advanced_port_scanner", "category": "analyzer" },
+	{ "title": "Fast Port Scanner", "author": "MiepHD", "src": "fast_port_scanner", "category": "analyzer" },
+	{ "title": "Speedtest by Ookla", "author": "MiepHD", "src": "speedtest_by_ookla", "category": "analyzer" },
+	{ "title": "Olgor WiFi Analyzer", "author": "MiepHD", "src": "olgor_wifi_analyzer", "category": "analyzer" },
+	{ "title": "Webprovider Wifi Analyzer", "author": "MiepHD", "src": "webprovider_wifi_analyzer", "category": "analyzer" },
+	{ "title": "WiFi Data", "author": "MiepHD", "src": "wifi_data", "category": "analyzer" }
 ]

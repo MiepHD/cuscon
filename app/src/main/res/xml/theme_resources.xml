@@ -395,5 +395,15 @@
 	<!-- Telegram --><AppIcon name="org.telegram.messenger/org.telegram.messenger.DefaultIcon" image="telegram"/>
 	<!-- Truecaller --><AppIcon name="com.truecaller/com.truecaller.ui.TruecallerInit" image="truecaller"/>
 	<!-- WA Business --><AppIcon name="com.whatsapp.w4b/com.whatsapp.Main" image="wa_business"/>
+    <AppIcon name="net.tsapps.appsales/net.tsapps.appsales.ui.main.MainActivity" image="appsales"/>
+	<AppIcon name="net.techet.netanalyzerlite.an/net.techet.netanalyzerlite.an.activity.MainActivity" image="net_analyzer"/>
+	<AppIcon name="com.networkinfo.networkanalyzers/com.networkinfo.networkanalyzers.activity.SplashActivity" image="atlanta_info_network_analyzer"/>
+	<AppIcon name="com.nperf.tester/com.nperf.tester.Activity.SplashScreenActivity" image="nperf"/>
+	<AppIcon name="com.deluxewebapps.portscanner.free/com.deluxewebapps.portscanner.activity.MainActivity" image="advanced_port_scanner"/>
+	<AppIcon name="com.intelisoft.portscanner/com.intelisoft.portscanner.views.main.MainActivity" image="fast_port_scanner"/>
+	<AppIcon name="org.zwanoo.android.speedtest/com.ookla.mobile4.screens.main.MainActivity" image="speedtest_by_ookla"/>
+	<AppIcon name="abdelrahman.wifianalyzerpro/abdelrahman.wifianalyzerpro.MainActivity" image="olgor_wifi_analyzer"/>
+	<AppIcon name="cz.webprovider.wifianalyzer/cz.webprovider.wifianalyzer.MainActivity" image="webprovider_wifi_analyzer"/>
+	<AppIcon name="com.pierwiastek.wifidata/com.pierwiastek.wifidata.activities.main.MainActivity" image="wifi_data"/>
 
 </Theme>

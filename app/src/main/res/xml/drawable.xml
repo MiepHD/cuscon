@@ -234,6 +234,7 @@
     <!-- c:geo --><item drawable="c_geo" />
     <!-- Video Transcoder --><item drawable="video_transcoder" />
     <!-- Camera Assistant --><item drawable="camera_assistant"/>
+    <!-- AppSales --><item drawable="appsales" />
 
     <category title="Calculators" />
     <item drawable="samsung_calculator" />
@@ -255,6 +256,15 @@
     <!-- WiFi Monitor Pro--><item drawable="wifi_monitor_pro"/>
     <!-- WeeNet --><item drawable="weenet" />
     <!-- FAST Speed Test--><item drawable="fast_speed_test"/>
+    <!-- Techet Net Analyzer --><item drawable="techet_net_analyzer" />
+    <!-- Atlanta Info Network Analyzer --><item drawable="atlanta_info_network_analyzer" />
+    <!-- Advanced Port Scanner --><item drawable="advanced_port_scanner" />
+    <!-- Fast Port Scanner --><item drawable="fast_port_scanner" />
+    <!-- Speedtest by Ookla --><item drawable="speedtest_by_ookla" />
+    <!-- Olgor WiFi Analyzer --><item drawable="olgor_wifi_analyzer" />
+    <!-- Webprovider Wifi Analyzer --><item drawable="webprovider_wifi_analyzer" />
+    <!-- WiFi Data --><item drawable="wifi_data" />
+    <!-- nPerf --><item drawable="nperf" />
 
     <category title="Internet of Things" />
     <item drawable="smart_things" />

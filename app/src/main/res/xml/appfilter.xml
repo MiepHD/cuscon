@@ -408,5 +408,15 @@ A    <item component="ComponentInfo{info.amc.cookandgo/com.guidedcooking.MainAct
 	<!-- Telegram --><item component="ComponentInfo{org.telegram.messenger/org.telegram.messenger.DefaultIcon}" drawable="telegram" />
 	<!-- Truecaller --><item component="ComponentInfo{com.truecaller/com.truecaller.ui.TruecallerInit}" drawable="truecaller" />
 	<!-- WA Business --><item component="ComponentInfo{com.whatsapp.w4b/com.whatsapp.Main}" drawable="wa_business" />
+    <item component="ComponentInfo{net.tsapps.appsales/net.tsapps.appsales.ui.main.MainActivity}" drawable="appsales" />
+	<item component="ComponentInfo{net.techet.netanalyzerlite.an/net.techet.netanalyzerlite.an.activity.MainActivity}" drawable="techet_net_analyzer" />
+	<item component="ComponentInfo{com.networkinfo.networkanalyzers/com.networkinfo.networkanalyzers.activity.SplashActivity}" drawable="atlanta_info_network_analyzer" />
+	<item component="ComponentInfo{com.nperf.tester/com.nperf.tester.Activity.SplashScreenActivity}" drawable="nperf" />
+	<item component="ComponentInfo{com.deluxewebapps.portscanner.free/com.deluxewebapps.portscanner.activity.MainActivity}" drawable="advanced_port_scanner" />
+	<item component="ComponentInfo{com.intelisoft.portscanner/com.intelisoft.portscanner.views.main.MainActivity}" drawable="fast_port_scanner" />
+	<item component="ComponentInfo{org.zwanoo.android.speedtest/com.ookla.mobile4.screens.main.MainActivity}" drawable="speedtest_by_ookla" />
+	<item component="ComponentInfo{abdelrahman.wifianalyzerpro/abdelrahman.wifianalyzerpro.MainActivity}" drawable="olgor_wifi_analyzer" />
+	<item component="ComponentInfo{cz.webprovider.wifianalyzer/cz.webprovider.wifianalyzer.MainActivity}" drawable="webprovider_wifi_analyzer" />
+	<item component="ComponentInfo{com.pierwiastek.wifidata/com.pierwiastek.wifidata.activities.main.MainActivity}" drawable="wifi_data" />
 
 </resources>
