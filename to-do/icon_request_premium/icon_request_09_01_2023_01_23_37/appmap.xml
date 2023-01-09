@@ -1,0 +1,33 @@
+<appmap>
+
+	<!-- Google Fi -->
+	<item class="com.google.android.apps.tycho.AccountDetailsActivity" name="google_fi"/>
+
+	<!-- KWGT -->
+	<item class="org.kustom.widget.picker.WidgetPicker" name="kwgt"/>
+
+	<!-- KWGT Pro -->
+	<item class="org.kustom.pro.MainActivity" name="kwgt_pro"/>
+
+	<!-- NetSpot -->
+	<item class="com.etwok.netspot.MainActivity" name="netspot"/>
+
+	<!-- SmartWiFiSelector -->
+	<item class="com.tartar.strongestwifi.MainActivity" name="smartwifiselector"/>
+
+	<!-- SWIFI -->
+	<item class="com.seah0rse.swifi.MainActivity" name="swifi"/>
+
+	<!-- Tiempo En Vivo -->
+	<item class="com.apalon.weatherlive.activity.ActivityMain" name="tiempo_en_vivo"/>
+
+	<!-- Wallet -->
+	<item class="com.google.commerce.tapandpay.android.wallet.WalletActivity" name="wallet"/>
+
+	<!-- WiFi Analyzer Plus -->
+	<item class="com.lengkenglab.wifianalyzer.SplashActivity" name="wifi_analyzer_plus"/>
+
+	<!-- WiFiAnalyzer -->
+	<item class="com.maverick.wifianalyzer.SplashActivity" name="wifianalyzer"/>
+
+</appmap>
