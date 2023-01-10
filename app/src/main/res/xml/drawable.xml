@@ -57,6 +57,7 @@
 	<!-- Paisa Wala --><item drawable="paisa_wala" />
 	<!-- Truecaller --><item drawable="truecaller" />
     <!-- Google Fi --><item drawable="google_fi" />
+    <!-- München Navigator --><item drawable="munchen_navigator" />
 
     <category title="App Stores" />
     <item drawable="apkpure" />

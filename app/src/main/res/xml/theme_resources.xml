@@ -415,5 +415,6 @@
 	<AppIcon name="com.google.android.apps.walletnfcrel/com.google.commerce.tapandpay.android.wallet.WalletActivity" image="google_wallet"/>
 	<AppIcon name="com.lengkenglab.wifianalyzer/com.lengkenglab.wifianalyzer.SplashActivity" image="lengkeng_lab_wifi_analyzer_plus"/>
 	<AppIcon name="com.maverick.wifianalyzer/com.maverick.wifianalyzer.SplashActivity" image="maverick_soft_wifianalyzer"/>
+    <AppIcon name="de.hafas.android.sbm/de.hafas.main.HafasApp" image="munchen_navigator"/>
 
 </Theme>

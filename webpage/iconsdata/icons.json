@@ -389,5 +389,6 @@
 	{ "title": "Weather Live0", "author": "MiepHD", "src": "weather_live0", "category": "news" },
 	{ "title": "Google Wallet", "author": "MiepHD", "src": "google_wallet", "category": "banking" },
 	{ "title": "LengKeng Lab WiFi Analyzer Plus", "author": "MiepHD", "src": "lengkeng_lab_wifi_analyzer_plus", "category": "analyzer" },
-	{ "title": "Maverick Soft WiFiAnalyzer", "author": "MiepHD", "src": "maverick_soft_wifianalyzer", "category": "analyzer" }
+	{ "title": "Maverick Soft WiFiAnalyzer", "author": "MiepHD", "src": "maverick_soft_wifianalyzer", "category": "analyzer" },
+	{ "title": "München Navigator", "author": "MiepHD", "src": "munchen_navigator", "category": "other" }
 ]

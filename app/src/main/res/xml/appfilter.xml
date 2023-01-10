@@ -433,5 +433,6 @@
 	<item component="ComponentInfo{com.google.android.apps.walletnfcrel/com.google.commerce.tapandpay.android.wallet.WalletActivity}" drawable="google_wallet" />
 	<item component="ComponentInfo{com.lengkenglab.wifianalyzer/com.lengkenglab.wifianalyzer.SplashActivity}" drawable="lengkeng_lab_wifi_analyzer_plus" />
 	<item component="ComponentInfo{com.maverick.wifianalyzer/com.maverick.wifianalyzer.SplashActivity}" drawable="maverick_soft_wifianalyzer" />
+    <item component="ComponentInfo{de.hafas.android.sbm/de.hafas.main.HafasApp}" drawable="munchen_navigator" />
 
 </resources>

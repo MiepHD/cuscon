@@ -403,5 +403,6 @@
 	<item class="com.google.commerce.tapandpay.android.wallet.WalletActivity" name="google_wallet"/>
 	<item class="com.lengkenglab.wifianalyzer.SplashActivity" name="lengkeng_lab_wifi_analyzer_plus"/>
 	<item class="com.maverick.wifianalyzer.SplashActivity" name="maverick_soft_wifianalyzer"/>
+    <item class="de.hafas.main.HafasApp" name="munchen_navigator"/>
 
 </appmap>
