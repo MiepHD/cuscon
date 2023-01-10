@@ -379,5 +379,15 @@
 	{ "title": "Speedtest by Ookla", "author": "MiepHD", "src": "speedtest_by_ookla", "category": "analyzer" },
 	{ "title": "Olgor WiFi Analyzer", "author": "MiepHD", "src": "olgor_wifi_analyzer", "category": "analyzer" },
 	{ "title": "Webprovider Wifi Analyzer", "author": "MiepHD", "src": "webprovider_wifi_analyzer", "category": "analyzer" },
-	{ "title": "WiFi Data", "author": "MiepHD", "src": "wifi_data", "category": "analyzer" }
+	{ "title": "WiFi Data", "author": "MiepHD", "src": "wifi_data", "category": "analyzer" },
+	{ "title": "Google Fi", "author": "MiepHD", "src": "google_fi", "category": "other" },
+	{ "title": "KWGT", "author": "MiepHD", "src": "kwgt", "category": "design" },
+	{ "title": "KWGT Pro", "author": "MiepHD", "src": "kwgt_pro", "category": "design" },
+	{ "title": "NetSpot", "author": "MiepHD", "src": "netspot", "category": "analyzer" },
+	{ "title": "SmartWiFiSelector", "author": "MiepHD", "src": "smartwifiselector", "category": "tools" },
+	{ "title": "SWIFI", "author": "MiepHD", "src": "swifi", "category": "tools" },
+	{ "title": "Weather Live0", "author": "MiepHD", "src": "weather_live0", "category": "news" },
+	{ "title": "Google Wallet", "author": "MiepHD", "src": "google_wallet", "category": "banking" },
+	{ "title": "LengKeng Lab WiFi Analyzer Plus", "author": "MiepHD", "src": "lengkeng_lab_wifi_analyzer_plus", "category": "analyzer" },
+	{ "title": "Maverick Soft WiFiAnalyzer", "author": "MiepHD", "src": "maverick_soft_wifianalyzer", "category": "analyzer" }
 ]

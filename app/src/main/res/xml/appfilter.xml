@@ -423,5 +423,15 @@
 	<item component="ComponentInfo{abdelrahman.wifianalyzerpro/abdelrahman.wifianalyzerpro.MainActivity}" drawable="olgor_wifi_analyzer" />
 	<item component="ComponentInfo{cz.webprovider.wifianalyzer/cz.webprovider.wifianalyzer.MainActivity}" drawable="webprovider_wifi_analyzer" />
 	<item component="ComponentInfo{com.pierwiastek.wifidata/com.pierwiastek.wifidata.activities.main.MainActivity}" drawable="wifi_data" />
+    <item component="ComponentInfo{com.google.android.apps.tycho/com.google.android.apps.tycho.AccountDetailsActivity}" drawable="google_fi" />
+	<item component="ComponentInfo{org.kustom.widget/org.kustom.widget.picker.WidgetPicker}" drawable="kwgt" />
+	<item component="ComponentInfo{org.kustom.widget.pro/org.kustom.pro.MainActivity}" drawable="kwgt_pro" />
+	<item component="ComponentInfo{com.etwok.netspotapp/com.etwok.netspot.MainActivity}" drawable="netspot" />
+	<item component="ComponentInfo{com.tartar.strongestwifi/com.tartar.strongestwifi.MainActivity}" drawable="smartwifiselector" />
+	<item component="ComponentInfo{com.seah0rse.swifi/com.seah0rse.swifi.MainActivity}" drawable="swifi" />
+	<item component="ComponentInfo{com.apalon.weatherlive/com.apalon.weatherlive.activity.ActivityMain}" drawable="weather_live0" />
+	<item component="ComponentInfo{com.google.android.apps.walletnfcrel/com.google.commerce.tapandpay.android.wallet.WalletActivity}" drawable="google_wallet" />
+	<item component="ComponentInfo{com.lengkenglab.wifianalyzer/com.lengkenglab.wifianalyzer.SplashActivity}" drawable="lengkeng_lab_wifi_analyzer_plus" />
+	<item component="ComponentInfo{com.maverick.wifianalyzer/com.maverick.wifianalyzer.SplashActivity}" drawable="maverick_soft_wifianalyzer" />
 
 </resources>

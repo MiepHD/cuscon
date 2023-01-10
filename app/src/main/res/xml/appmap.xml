@@ -393,5 +393,15 @@
 	<item class="abdelrahman.wifianalyzerpro.MainActivity" name="olgor_wifi_analyzer"/>
 	<item class="cz.webprovider.wifianalyzer.MainActivity" name="webprovider_wifi_analyzer"/>
 	<item class="com.pierwiastek.wifidata.activities.main.MainActivity" name="wifi_data"/>
+	<item class="com.google.android.apps.tycho.AccountDetailsActivity" name="google_fi"/>
+	<item class="org.kustom.widget.picker.WidgetPicker" name="kwgt"/>
+	<item class="org.kustom.pro.MainActivity" name="kwgt_pro"/>
+	<item class="com.etwok.netspot.MainActivity" name="netspot"/>
+	<item class="com.tartar.strongestwifi.MainActivity" name="smartwifiselector"/>
+	<item class="com.seah0rse.swifi.MainActivity" name="swifi"/>
+	<item class="com.apalon.weatherlive.activity.ActivityMain" name="weather_live0"/>
+	<item class="com.google.commerce.tapandpay.android.wallet.WalletActivity" name="google_wallet"/>
+	<item class="com.lengkenglab.wifianalyzer.SplashActivity" name="lengkeng_lab_wifi_analyzer_plus"/>
+	<item class="com.maverick.wifianalyzer.SplashActivity" name="maverick_soft_wifianalyzer"/>
 
 </appmap>

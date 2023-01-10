@@ -405,5 +405,15 @@
 	<AppIcon name="abdelrahman.wifianalyzerpro/abdelrahman.wifianalyzerpro.MainActivity" image="olgor_wifi_analyzer"/>
 	<AppIcon name="cz.webprovider.wifianalyzer/cz.webprovider.wifianalyzer.MainActivity" image="webprovider_wifi_analyzer"/>
 	<AppIcon name="com.pierwiastek.wifidata/com.pierwiastek.wifidata.activities.main.MainActivity" image="wifi_data"/>
+    <AppIcon name="com.google.android.apps.tycho/com.google.android.apps.tycho.AccountDetailsActivity" image="google_fi"/>
+	<AppIcon name="org.kustom.widget/org.kustom.widget.picker.WidgetPicker" image="kwgt"/>
+	<AppIcon name="org.kustom.widget.pro/org.kustom.pro.MainActivity" image="kwgt_pro"/>
+	<AppIcon name="com.etwok.netspotapp/com.etwok.netspot.MainActivity" image="netspot"/>
+	<AppIcon name="com.tartar.strongestwifi/com.tartar.strongestwifi.MainActivity" image="smartwifiselector"/>
+	<AppIcon name="com.seah0rse.swifi/com.seah0rse.swifi.MainActivity" image="swifi"/>
+	<AppIcon name="com.apalon.weatherlive/com.apalon.weatherlive.activity.ActivityMain" image="weather_live0"/>
+	<AppIcon name="com.google.android.apps.walletnfcrel/com.google.commerce.tapandpay.android.wallet.WalletActivity" image="google_wallet"/>
+	<AppIcon name="com.lengkenglab.wifianalyzer/com.lengkenglab.wifianalyzer.SplashActivity" image="lengkeng_lab_wifi_analyzer_plus"/>
+	<AppIcon name="com.maverick.wifianalyzer/com.maverick.wifianalyzer.SplashActivity" image="maverick_soft_wifianalyzer"/>
 
 </Theme>

@@ -2,6 +2,8 @@
 <resources>
     <string name="changelog_date">08.01.2023</string>
     <string-array name="changelog">
+        <item>2.7.2:</item>
+        <item>Added Google Fi, KWGT, KWGT Pro, NetSpot, SmartWiFiSelector, SWIFI, Weather Live0, Google Wallet, LengKeng Lab WiFi Analyzer Plus, Maverick Soft WiFiAnalyzer</item>
         <item>2.7.1:</item>
         <item>Added AppSales, Techet Net Analyzer, Atlanta Info Network Analyzer, Advanced Port Scanner, Fast Port Scanner, Speedtest by Ookla, Olgor WiFi Analyzer, Webprovider Wifi Analyzer, WiFi Data, nPerf</item>
         <item>2.7.0:</item>
