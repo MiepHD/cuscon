@@ -1,19 +1,12 @@
 <resources>
 	
-	<!-- AirConsole --><AppIcon name="com.airconsole.controller/com.airconsole.controller.MainActivity" image="airconsole"/>
-	<!-- Clash of Clans --><AppIcon name="com.supercell.clashofclans/com.supercell.titan.GameApp" image="clash_of_clans"/>
-	<!-- Commute --><AppIcon name="com.mediocre.commute/com.mediocre.commute.Main" image="commute"/>
-	<!-- Pixel Wheels --><AppIcon name="com.agateau.tinywheels.android/com.agateau.pixelwheels.android.AndroidLauncher" image="pixel_wheels"/>
-	<!-- Watten --><AppIcon name="stefanlukasv.googlemail.com.watten/stefanlukasv.googlemail.com.watten.SplashActivity" image="watten"/>
-	<!-- Zoom --><AppIcon name="us.zoom.videomeetings/com.zipow.videobox.LauncherActivity" image="zoom"/>
-	<!-- Flipkart --><AppIcon name="com.flipkart.android/com.flipkart.android.SplashActivity" image="flipkart"/>
-	<!-- FM Radio --><AppIcon name="com.miui.fm/com.miui.fmradio.FmActivity" image="fm_radio"/>
-	<!-- IRCTC Rail Connect --><AppIcon name="cris.org.in.prs.ima/cris.org.in.ima.activities.IRCTCConnectActivity" image="irctc_rail_connect"/>
-	<!-- Paisa Lelo --><AppIcon name="com.paisa.lelo.app/com.psb.novawala.activity.SplashActivity" image="paisa_lelo"/>
-	<!-- Phone Master --><AppIcon name="com.transsion.phonemaster/com.cyin.himgr.ads.SplashActivity" image="phone_master"/>
-	<!-- Qr Barcode Scanner --><AppIcon name="appinventor.ai_progetto2003.SCAN/com.QRBS.activity.StartActivity" image="qr_barcode_scanner"/>
-	<!-- Rooter --><AppIcon name="com.threesixteen.app/com.threesixteen.app.ui.activities.SplashActivity" image="rooter"/>
-	<!-- Where is my Train --><AppIcon name="com.whereismytrain.android/com.whereismytrain.view.activities.MainPagerActivity" image="where_is_my_train"/>
-	<!-- XRecorder --><AppIcon name="videoeditor.videorecorder.screenrecorder/com.inshot.screenrecorder.activities.SplashBeforeActivity" image="xrecorder"/>
+	<AppIcon name="com.airconsole.controller/com.airconsole.controller.MainActivity" image="airconsole"/>
+	<AppIcon name="com.supercell.clashofclans/com.supercell.titan.GameApp" image="clash_of_clans"/>
+	<AppIcon name="com.mediocre.commute/com.mediocre.commute.Main" image="commute"/>
+	<AppIcon name="stefanlukasv.googlemail.com.watten/stefanlukasv.googlemail.com.watten.SplashActivity" image="watten"/>
+	<AppIcon name="com.miui.fm/com.miui.fmradio.FmActivity" image="fm_radio"/>
+	<AppIcon name="cris.org.in.prs.ima/cris.org.in.ima.activities.IRCTCConnectActivity" image="irctc_rail_connect"/>
+	<AppIcon name="com.paisa.lelo.app/com.psb.novawala.activity.SplashActivity" image="paisa_lelo"/>
+	<AppIcon name="com.transsion.phonemaster/com.cyin.himgr.ads.SplashActivity" image="phone_master"/>
 	
 </resources>

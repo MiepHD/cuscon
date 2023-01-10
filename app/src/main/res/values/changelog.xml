@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="changelog_date">08.01.2023</string>
+    <string name="changelog_date">10.01.2023</string>
     <string-array name="changelog">
         <item>2.7.2:</item>
-        <item>Added Google Fi, KWGT, KWGT Pro, NetSpot, SmartWiFiSelector, SWIFI, Weather Live0, Google Wallet, LengKeng Lab WiFi Analyzer Plus, Maverick Soft WiFiAnalyzer, München Navigator</item>
+        <item>Added Google Fi, KWGT, KWGT Pro, NetSpot, SmartWiFiSelector, SWIFI, Weather Live0, Google Wallet, LengKeng Lab WiFi Analyzer Plus, Maverick Soft WiFiAnalyzer, München Navigator, Pixel Wheels, Zoom, Flipkart, Qr Barcode Scanner, Where is my Train, XRecorder</item>
         <item>2.7.1:</item>
         <item>Added AppSales, Techet Net Analyzer, Atlanta Info Network Analyzer, Advanced Port Scanner, Fast Port Scanner, Speedtest by Ookla, Olgor WiFi Analyzer, Webprovider Wifi Analyzer, WiFi Data, nPerf</item>
         <item>2.7.0:</item>

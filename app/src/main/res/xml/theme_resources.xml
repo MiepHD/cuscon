@@ -416,5 +416,11 @@
 	<AppIcon name="com.lengkenglab.wifianalyzer/com.lengkenglab.wifianalyzer.SplashActivity" image="lengkeng_lab_wifi_analyzer_plus"/>
 	<AppIcon name="com.maverick.wifianalyzer/com.maverick.wifianalyzer.SplashActivity" image="maverick_soft_wifianalyzer"/>
     <AppIcon name="de.hafas.android.sbm/de.hafas.main.HafasApp" image="munchen_navigator"/>
+    <AppIcon name="com.agateau.tinywheels.android/com.agateau.pixelwheels.android.AndroidLauncher" image="pixel_wheels"/>
+	<AppIcon name="us.zoom.videomeetings/com.zipow.videobox.LauncherActivity" image="zoom"/>
+	<AppIcon name="com.flipkart.android/com.flipkart.android.SplashActivity" image="flipkart"/>
+	<AppIcon name="appinventor.ai_progetto2003.SCAN/com.QRBS.activity.StartActivity" image="qr_barcode_scanner"/>
+	<AppIcon name="com.whereismytrain.android/com.whereismytrain.view.activities.MainPagerActivity" image="where_is_my_train"/>
+	<AppIcon name="videoeditor.videorecorder.screenrecorder/com.inshot.screenrecorder.activities.SplashBeforeActivity" image="xrecorder"/>
 
 </Theme>

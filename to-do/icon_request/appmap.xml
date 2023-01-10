@@ -1,19 +1,12 @@
 <resources>
 	
-	<!-- AirConsole --><item class="com.airconsole.controller.MainActivity" name="airconsole"/>
-	<!-- Clash of Clans --><item class="com.supercell.titan.GameApp" name="clash_of_clans"/>
-	<!-- Commute --><item class="com.mediocre.commute.Main" name="commute"/>
-	<!-- Pixel Wheels --><item class="com.agateau.pixelwheels.android.AndroidLauncher" name="pixel_wheels"/>
-	<!-- Watten --><item class="stefanlukasv.googlemail.com.watten.SplashActivity" name="watten"/>
-	<!-- Zoom --><item class="com.zipow.videobox.LauncherActivity" name="zoom"/>
-	<!-- Flipkart --><item class="com.flipkart.android.SplashActivity" name="flipkart"/>
-	<!-- FM Radio --><item class="com.miui.fmradio.FmActivity" name="fm_radio"/>	
-	<!-- IRCTC Rail Connect --><item class="cris.org.in.ima.activities.IRCTCConnectActivity" name="irctc_rail_connect"/>
-	<!-- Paisa Lelo --><item class="com.psb.novawala.activity.SplashActivity" name="paisa_lelo"/>
-	<!-- Phone Master --><item class="com.cyin.himgr.ads.SplashActivity" name="phone_master"/>
-	<!-- Qr Barcode Scanner --><item class="com.QRBS.activity.StartActivity" name="qr_barcode_scanner"/>
-	<!-- Rooter --><item class="com.threesixteen.app.ui.activities.SplashActivity" name="rooter"/>
-	<!-- Where is my Train --><item class="com.whereismytrain.view.activities.MainPagerActivity" name="where_is_my_train"/>
-	<!-- XRecorder --><item class="com.inshot.screenrecorder.activities.SplashBeforeActivity" name="xrecorder"/>
+	<item class="com.airconsole.controller.MainActivity" name="airconsole"/>
+	<item class="com.supercell.titan.GameApp" name="clash_of_clans"/>
+	<item class="com.mediocre.commute.Main" name="commute"/>
+	<item class="stefanlukasv.googlemail.com.watten.SplashActivity" name="watten"/>
+	<item class="com.miui.fmradio.FmActivity" name="fm_radio"/>	
+	<item class="cris.org.in.ima.activities.IRCTCConnectActivity" name="irctc_rail_connect"/>
+	<item class="com.psb.novawala.activity.SplashActivity" name="paisa_lelo"/>
+	<item class="com.cyin.himgr.ads.SplashActivity" name="phone_master"/>
 
 </resources>

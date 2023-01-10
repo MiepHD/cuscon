@@ -1,19 +1,12 @@
 <resources>
-	
+
 	<!-- AirConsole --><item component="ComponentInfo{com.airconsole.controller/com.airconsole.controller.MainActivity}" drawable="airconsole" />
 	<!-- Clash of Clans --><item component="ComponentInfo{com.supercell.clashofclans/com.supercell.titan.GameApp}" drawable="clash_of_clans" />
 	<!-- Commute --><item component="ComponentInfo{com.mediocre.commute/com.mediocre.commute.Main}" drawable="commute" />
-	<!-- Pixel Wheels --><item component="ComponentInfo{com.agateau.tinywheels.android/com.agateau.pixelwheels.android.AndroidLauncher}" drawable="pixel_wheels" />
 	<!-- Watten --><item component="ComponentInfo{stefanlukasv.googlemail.com.watten/stefanlukasv.googlemail.com.watten.SplashActivity}" drawable="watten" />
-	<!-- Zoom --><item component="ComponentInfo{us.zoom.videomeetings/com.zipow.videobox.LauncherActivity}" drawable="zoom" />
-	<!-- Flipkart --><item component="ComponentInfo{com.flipkart.android/com.flipkart.android.SplashActivity}" drawable="flipkart" />
 	<!-- FM Radio --><item component="ComponentInfo{com.miui.fm/com.miui.fmradio.FmActivity}" drawable="fm_radio" />
 	<!-- IRCTC Rail Connect --><item component="ComponentInfo{cris.org.in.prs.ima/cris.org.in.ima.activities.IRCTCConnectActivity}" drawable="irctc_rail_connect" />
 	<!-- Paisa Lelo --><item component="ComponentInfo{com.paisa.lelo.app/com.psb.novawala.activity.SplashActivity}" drawable="paisa_lelo" />
 	<!-- Phone Master --><item component="ComponentInfo{com.transsion.phonemaster/com.cyin.himgr.ads.SplashActivity}" drawable="phone_master" />
-	<!-- Qr Barcode Scanner --><item component="ComponentInfo{appinventor.ai_progetto2003.SCAN/com.QRBS.activity.StartActivity}" drawable="qr_barcode_scanner" />
-	<!-- Rooter --><item component="ComponentInfo{com.threesixteen.app/com.threesixteen.app.ui.activities.SplashActivity}" drawable="rooter" />
-	<!-- Where is my Train --><item component="ComponentInfo{com.whereismytrain.android/com.whereismytrain.view.activities.MainPagerActivity}" drawable="where_is_my_train" />
-	<!-- XRecorder --><item component="ComponentInfo{videoeditor.videorecorder.screenrecorder/com.inshot.screenrecorder.activities.SplashBeforeActivity}" drawable="xrecorder" />
 
 </resources>

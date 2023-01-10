@@ -390,5 +390,11 @@
 	{ "title": "Google Wallet", "author": "MiepHD", "src": "google_wallet", "category": "banking" },
 	{ "title": "LengKeng Lab WiFi Analyzer Plus", "author": "MiepHD", "src": "lengkeng_lab_wifi_analyzer_plus", "category": "analyzer" },
 	{ "title": "Maverick Soft WiFiAnalyzer", "author": "MiepHD", "src": "maverick_soft_wifianalyzer", "category": "analyzer" },
-	{ "title": "München Navigator", "author": "MiepHD", "src": "munchen_navigator", "category": "other" }
+	{ "title": "München Navigator", "author": "MiepHD", "src": "munchen_navigator", "category": "other" },
+	{ "title": "Pixel Wheels", "author": "MiepHD", "src": "pixel_wheels", "category": "games" },
+	{ "title": "Zoom", "author": "MiepHD", "src": "zoom", "category": "communication" },
+	{ "title": "Flipkart", "author": "MiepHD", "src": "flipkart", "category": "shops" },
+	{ "title": "Qr Barcode Scanner", "author": "MiepHD", "src": "qr_barcode_scanner", "category": "scanner" },
+	{ "title": "Where is my Train", "author": "MiepHD", "src": "where_is_my_train", "category": "information" },
+	{ "title": "XRecorder", "author": "MiepHD", "src": "xrecorder", "category": "recording" }
 ]

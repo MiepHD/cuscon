@@ -434,5 +434,11 @@
 	<item component="ComponentInfo{com.lengkenglab.wifianalyzer/com.lengkenglab.wifianalyzer.SplashActivity}" drawable="lengkeng_lab_wifi_analyzer_plus" />
 	<item component="ComponentInfo{com.maverick.wifianalyzer/com.maverick.wifianalyzer.SplashActivity}" drawable="maverick_soft_wifianalyzer" />
     <item component="ComponentInfo{de.hafas.android.sbm/de.hafas.main.HafasApp}" drawable="munchen_navigator" />
+    <item component="ComponentInfo{com.agateau.tinywheels.android/com.agateau.pixelwheels.android.AndroidLauncher}" drawable="pixel_wheels" />
+	<item component="ComponentInfo{us.zoom.videomeetings/com.zipow.videobox.LauncherActivity}" drawable="zoom" />
+	<item component="ComponentInfo{com.flipkart.android/com.flipkart.android.SplashActivity}" drawable="flipkart" />
+	<item component="ComponentInfo{appinventor.ai_progetto2003.SCAN/com.QRBS.activity.StartActivity}" drawable="qr_barcode_scanner" />
+	<item component="ComponentInfo{com.whereismytrain.android/com.whereismytrain.view.activities.MainPagerActivity}" drawable="where_is_my_train" />
+	<item component="ComponentInfo{videoeditor.videorecorder.screenrecorder/com.inshot.screenrecorder.activities.SplashBeforeActivity}" drawable="xrecorder" />
 
 </resources>

@@ -404,5 +404,11 @@
 	<item class="com.lengkenglab.wifianalyzer.SplashActivity" name="lengkeng_lab_wifi_analyzer_plus"/>
 	<item class="com.maverick.wifianalyzer.SplashActivity" name="maverick_soft_wifianalyzer"/>
     <item class="de.hafas.main.HafasApp" name="munchen_navigator"/>
+    <item class="com.agateau.pixelwheels.android.AndroidLauncher" name="pixel_wheels"/>
+	<item class="com.zipow.videobox.LauncherActivity" name="zoom"/>
+	<item class="com.flipkart.android.SplashActivity" name="flipkart"/>
+	<item class="com.QRBS.activity.StartActivity" name="qr_barcode_scanner"/>
+	<item class="com.whereismytrain.view.activities.MainPagerActivity" name="where_is_my_train"/>
+	<item class="com.inshot.screenrecorder.activities.SplashBeforeActivity" name="xrecorder"/>
 
 </appmap>
