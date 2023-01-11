@@ -1,12 +1,17 @@
 <resources>
-	
-	<AppIcon name="com.airconsole.controller/com.airconsole.controller.MainActivity" image="airconsole"/>
+
 	<AppIcon name="com.supercell.clashofclans/com.supercell.titan.GameApp" image="clash_of_clans"/>
-	<AppIcon name="com.mediocre.commute/com.mediocre.commute.Main" image="commute"/>
 	<AppIcon name="stefanlukasv.googlemail.com.watten/stefanlukasv.googlemail.com.watten.SplashActivity" image="watten"/>
 	<AppIcon name="com.miui.fm/com.miui.fmradio.FmActivity" image="fm_radio"/>
 	<AppIcon name="cris.org.in.prs.ima/cris.org.in.ima.activities.IRCTCConnectActivity" image="irctc_rail_connect"/>
 	<AppIcon name="com.paisa.lelo.app/com.psb.novawala.activity.SplashActivity" image="paisa_lelo"/>
 	<AppIcon name="com.transsion.phonemaster/com.cyin.himgr.ads.SplashActivity" image="phone_master"/>
+	<AppIcon name="com.noodlecake.gettingoverit/com.pollock_roe.app_open.AppOpenAdActivity" image="getting_over_it"/>
+	<AppIcon name="com.samsung.android.keyscafe/com.samsung.android.keyscafe.main.ui.KeysCafeSplashActivity" image="keys_cafe"/>
+	<AppIcon name="com.netflix.NGP.Mahjong/com.smokingguninc.engine.framework.SgiLauncherActivity" image="mahjong_solitaire"/>
+	<AppIcon name="monitor.kmv.multinotes/monitor.kmv.multinotes.MainActivity" image="multinotes"/>
+	<AppIcon name="com.netflix.NGP.Oxenfree/com.unity3d.player.UnityPlayerActivity" image="oxenfree"/>
+	<AppIcon name="ussr.razar.youtube_dl/ussr.razar.youtube_dl.MainActivityEX" image="powertube"/>
+	<AppIcon name="com.tap_to_translate.snap_translate/com.tap_to_translate.snap_translate.domain.main.MainActivity_" image="tap_translate_screen"/>
 	
 </resources>

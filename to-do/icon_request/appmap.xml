@@ -1,12 +1,17 @@
 <resources>
 	
-	<item class="com.airconsole.controller.MainActivity" name="airconsole"/>
 	<item class="com.supercell.titan.GameApp" name="clash_of_clans"/>
-	<item class="com.mediocre.commute.Main" name="commute"/>
 	<item class="stefanlukasv.googlemail.com.watten.SplashActivity" name="watten"/>
 	<item class="com.miui.fmradio.FmActivity" name="fm_radio"/>	
 	<item class="cris.org.in.ima.activities.IRCTCConnectActivity" name="irctc_rail_connect"/>
 	<item class="com.psb.novawala.activity.SplashActivity" name="paisa_lelo"/>
 	<item class="com.cyin.himgr.ads.SplashActivity" name="phone_master"/>
+	<item class="com.pollock_roe.app_open.AppOpenAdActivity" name="getting_over_it"/>
+	<item class="com.samsung.android.keyscafe.main.ui.KeysCafeSplashActivity" name="keys_cafe"/>
+	<item class="com.smokingguninc.engine.framework.SgiLauncherActivity" name="mahjong_solitaire"/>
+	<item class="monitor.kmv.multinotes.MainActivity" name="multinotes"/>
+	<item class="com.unity3d.player.UnityPlayerActivity" name="oxenfree"/>
+	<item class="ussr.razar.youtube_dl.MainActivityEX" name="powertube"/>
+	<item class="com.tap_to_translate.snap_translate.domain.main.MainActivity_" name="tap_translate_screen"/>
 
 </resources>
