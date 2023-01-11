@@ -396,5 +396,21 @@
 	{ "title": "Flipkart", "author": "MiepHD", "src": "flipkart", "category": "shops" },
 	{ "title": "Qr Barcode Scanner", "author": "MiepHD", "src": "qr_barcode_scanner", "category": "scanner" },
 	{ "title": "Where is my Train", "author": "MiepHD", "src": "where_is_my_train", "category": "information" },
-	{ "title": "XRecorder", "author": "MiepHD", "src": "xrecorder", "category": "recording" }
+	{ "title": "XRecorder", "author": "MiepHD", "src": "xrecorder", "category": "recording" },
+	{ "title": "Google Find My Device", "author": "MiepHD", "src": "google_find_my_device", "category": "" },
+	{ "title": "Google Chat", "author": "MiepHD", "src": "google_chat", "category": "" },
+	{ "title": "DNS Speed Test", "author": "MiepHD", "src": "dns_speed_test", "category": "" },
+	{ "title": "IP Tools: WiFi Analyzer", "author": "MiepHD", "src": "ip_tools_wifi_analyzer", "category": "" },
+	{ "title": "NetMonster", "author": "MiepHD", "src": "netmonster", "category": "" },
+	{ "title": "Network Browser", "author": "MiepHD", "src": "network_browser", "category": "" },
+	{ "title": "PingTools Pro", "author": "MiepHD", "src": "pingtools_pro", "category": "" },
+	{ "title": "WiFi Interference Analyzer", "author": "MiepHD", "src": "wifi_interference_analyzer", "category": "" },
+	{ "title": "Wifiallnep Scanner", "author": "MiepHD", "src": "wifiallnep_scanner", "category": "" },
+	{ "title": "YT Studio", "author": "MiepHD", "src": "yt_studio", "category": "" },
+	{ "title": "AirConsole", "author": "MiepHD", "src": "airconsole", "category": "" },
+	{ "title": "Commute", "author": "MiepHD", "src": "commute", "category": "" },
+	{ "title": "Nonogram.com", "author": "MiepHD", "src": "nonogramcom", "category": "" },
+	{ "title": "Tile Shortcuts", "author": "MiepHD", "src": "tile_shortcuts", "category": "" },
+	{ "title": "Bayern-Fahrplan", "author": "MiepHD", "src": "bayern_fahrplan", "category": "" },
+	{ "title": "JustWatch", "author": "MiepHD", "src": "justwatch", "category": "" }
 ]

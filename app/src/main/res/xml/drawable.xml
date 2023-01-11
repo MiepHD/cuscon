@@ -58,6 +58,23 @@
 	<!-- Truecaller --><item drawable="truecaller" />
     <!-- Google Fi --><item drawable="google_fi" />
 
+    <!-- Google Find My Device --><item drawable="google_find_my_device" />
+    <!-- Google Chat --><item drawable="google_chat" />
+    <!-- DNS Speed Test --><item drawable="dns_speed_test" />
+    <!-- IP Tools: WiFi Analyzer --><item drawable="ip_tools_wifi_analyzer" />
+    <!-- NetMonster --><item drawable="netmonster" />
+    <!-- Network Browser --><item drawable="network_browser" />
+    <!-- PingTools Pro --><item drawable="pingtools_pro" />
+    <!-- WiFi Interference Analyzer --><item drawable="wifi_interference_analyzer" />
+    <!-- Wifiallnep Scanner --><item drawable="wifiallnep_scanner" />
+    <!-- YT Studio --><item drawable="yt_studio" />
+    <!-- AirConsole --><item drawable="airconsole" />
+    <!-- Commute --><item drawable="commute" />
+    <!-- Nonogram.com --><item drawable="nonogramcom" />
+    <!-- Tile Shortcuts --><item drawable="tile_shortcuts" />
+    <!-- Bayern-Fahrplan --><item drawable="bayern_fahrplan" />
+    <!-- JustWatch --><item drawable="justwatch" />
+
     <category title="App Stores" />
     <item drawable="apkpure" />
     <item drawable="f_droid" />

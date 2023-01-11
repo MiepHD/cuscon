@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="changelog_date">10.01.2023</string>
+    <string name="changelog_date">11.01.2023</string>
     <string-array name="changelog">
+        <item>2.7.3:</item>
+        <item>Added Google Find My Device, Google Chat, DNS Speed Test, IP Tools: WiFi Analyzer, NetMonster, Network Browser, PingTools Pro, WiFi Interference Analyzer, Wifiallnep Scanner, YT Studio, AirConsole, Commute, Nonogram.com, Tile Shortcuts, Bayern-Fahrplan, JustWatch</item>
         <item>2.7.2:</item>
         <item>Added Google Fi, KWGT, KWGT Pro, NetSpot, SmartWiFiSelector, SWIFI, Weather Live0, Google Wallet, LengKeng Lab WiFi Analyzer Plus, Maverick Soft WiFiAnalyzer, München Navigator, Pixel Wheels, Zoom, Flipkart, Qr Barcode Scanner, Where is my Train, XRecorder</item>
         <item>2.7.1:</item>

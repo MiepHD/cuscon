@@ -410,5 +410,21 @@
 	<item class="com.QRBS.activity.StartActivity" name="qr_barcode_scanner"/>
 	<item class="com.whereismytrain.view.activities.MainPagerActivity" name="where_is_my_train"/>
 	<item class="com.inshot.screenrecorder.activities.SplashBeforeActivity" name="xrecorder"/>
+    <item class="com.google.android.apps.adm.activities.MainActivity" name="google_find_my_device"/>
+	<item class="com.google.android.apps.dynamite.startup.StartUpActivity" name="google_chat"/>
+	<item class="com.catinthebox.dnsspeedtest.activitys.MainActivity" name="dns_speed_test"/>
+	<item class="com.ddm.iptools.ui.MainActivity" name="ip_tools_wifi_analyzer"/>
+	<item class="cz.mroczis.kotlin.presentation.main.MainActivity" name="netmonster"/>
+	<item class="com.ape.apps.networkbrowser.MainActivity" name="network_browser"/>
+	<item class="ua.com.streamsoft.pingtools.MainActivity_AA" name="pingtools_pro"/>
+	<item class="com.woosh.wirelesscoverage.MainActivity" name="wifi_interference_analyzer"/>
+	<item class="com.wifiallnep.wifiscanner.MainActivity" name="wifiallnep_scanner"/>
+	<item class="com.google.android.apps.youtube.creator.main.MainActivity" name="yt_studio"/>
+	<item class="com.airconsole.controller.MainActivity" name="airconsole"/>
+	<item class="com.mediocre.commute.Main" name="commute"/>
+	<item class="com.easybrain.template.SplashActivity" name="nonogramcom"/>
+	<item class="com.tombayley.tileshortcuts.app.ui.home.MainActivity" name="tile_shortcuts"/>
+	<item class="crc647ef4524d5a1e5d63.MainActivity" name="bayern_fahrplan"/>
+	<item class="com.justwatch.justwatch.MainActivity" name="justwatch"/>
 
 </appmap>

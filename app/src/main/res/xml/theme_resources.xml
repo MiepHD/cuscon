@@ -422,5 +422,21 @@
 	<AppIcon name="appinventor.ai_progetto2003.SCAN/com.QRBS.activity.StartActivity" image="qr_barcode_scanner"/>
 	<AppIcon name="com.whereismytrain.android/com.whereismytrain.view.activities.MainPagerActivity" image="where_is_my_train"/>
 	<AppIcon name="videoeditor.videorecorder.screenrecorder/com.inshot.screenrecorder.activities.SplashBeforeActivity" image="xrecorder"/>
+    <AppIcon name="com.google.android.apps.adm/com.google.android.apps.adm.activities.MainActivity" image="google_find_my_device"/>
+	<AppIcon name="com.google.android.apps.dynamite/com.google.android.apps.dynamite.startup.StartUpActivity" image="google_chat"/>
+	<AppIcon name="com.catinthebox.dnsspeedtest/com.catinthebox.dnsspeedtest.activitys.MainActivity" image="dns_speed_test"/>
+	<AppIcon name="com.ddm.iptools/com.ddm.iptools.ui.MainActivity" image="ip_tools_wifi_analyzer"/>
+	<AppIcon name="cz.mroczis.netmonster/cz.mroczis.kotlin.presentation.main.MainActivity" image="netmonster"/>
+	<AppIcon name="com.ape.apps.networkbrowser/com.ape.apps.networkbrowser.MainActivity" image="network_browser"/>
+	<AppIcon name="ua.com.streamsoft.pingtoolspro/ua.com.streamsoft.pingtools.MainActivity_AA" image="pingtools_pro"/>
+	<AppIcon name="com.woosh.wirelesscoverage/com.woosh.wirelesscoverage.MainActivity" image="wifi_interference_analyzer"/>
+	<AppIcon name="com.wifiallnep.wifiscanner/com.wifiallnep.wifiscanner.MainActivity" image="wifiallnep_scanner"/>
+	<AppIcon name="com.google.android.apps.youtube.creator/com.google.android.apps.youtube.creator.main.MainActivity" image="yt_studio"/>
+	<AppIcon name="com.airconsole.controller/com.airconsole.controller.MainActivity" image="airconsole"/>
+	<AppIcon name="com.mediocre.commute/com.mediocre.commute.Main" image="commute"/>
+	<AppIcon name="com.easybrain.nonogram/com.easybrain.template.SplashActivity" image="nonogramcom"/>
+	<AppIcon name="com.tombayley.tileshortcuts/com.tombayley.tileshortcuts.app.ui.home.MainActivity" image="tile_shortcuts"/>
+	<AppIcon name="com.mdv.DEFASCompanion/crc647ef4524d5a1e5d63.MainActivity" image="bayern_fahrplan"/>
+	<AppIcon name="com.justwatch.justwatch/com.justwatch.justwatch.MainActivity" image="justwatch"/>
 
 </Theme>

@@ -440,5 +440,21 @@
 	<item component="ComponentInfo{appinventor.ai_progetto2003.SCAN/com.QRBS.activity.StartActivity}" drawable="qr_barcode_scanner" />
 	<item component="ComponentInfo{com.whereismytrain.android/com.whereismytrain.view.activities.MainPagerActivity}" drawable="where_is_my_train" />
 	<item component="ComponentInfo{videoeditor.videorecorder.screenrecorder/com.inshot.screenrecorder.activities.SplashBeforeActivity}" drawable="xrecorder" />
+	<item component="ComponentInfo{com.google.android.apps.adm/com.google.android.apps.adm.activities.MainActivity}" drawable="google_find_my_device" />
+	<item component="ComponentInfo{com.google.android.apps.dynamite/com.google.android.apps.dynamite.startup.StartUpActivity}" drawable="google_chat" />
+	<item component="ComponentInfo{com.catinthebox.dnsspeedtest/com.catinthebox.dnsspeedtest.activitys.MainActivity}" drawable="dns_speed_test" />
+	<item component="ComponentInfo{com.ddm.iptools/com.ddm.iptools.ui.MainActivity}" drawable="ip_tools_wifi_analyzer" />
+	<item component="ComponentInfo{cz.mroczis.netmonster/cz.mroczis.kotlin.presentation.main.MainActivity}" drawable="netmonster" />
+	<item component="ComponentInfo{com.ape.apps.networkbrowser/com.ape.apps.networkbrowser.MainActivity}" drawable="network_browser" />
+	<item component="ComponentInfo{ua.com.streamsoft.pingtoolspro/ua.com.streamsoft.pingtools.MainActivity_AA}" drawable="pingtools_pro" />
+	<item component="ComponentInfo{com.woosh.wirelesscoverage/com.woosh.wirelesscoverage.MainActivity}" drawable="wifi_interference_analyzer" />
+	<item component="ComponentInfo{com.wifiallnep.wifiscanner/com.wifiallnep.wifiscanner.MainActivity}" drawable="wifiallnep_scanner" />
+	<item component="ComponentInfo{com.google.android.apps.youtube.creator/com.google.android.apps.youtube.creator.main.MainActivity}" drawable="yt_studio" />
+	<item component="ComponentInfo{com.airconsole.controller/com.airconsole.controller.MainActivity}" drawable="airconsole" />
+	<item component="ComponentInfo{com.mediocre.commute/com.mediocre.commute.Main}" drawable="commute" />
+	<item component="ComponentInfo{com.easybrain.nonogram/com.easybrain.template.SplashActivity}" drawable="nonogramcom" />
+	<item component="ComponentInfo{com.tombayley.tileshortcuts/com.tombayley.tileshortcuts.app.ui.home.MainActivity}" drawable="tile_shortcuts" />
+	<item component="ComponentInfo{com.mdv.DEFASCompanion/crc647ef4524d5a1e5d63.MainActivity}" drawable="bayern_fahrplan" />
+	<item component="ComponentInfo{com.justwatch.justwatch/com.justwatch.justwatch.MainActivity}" drawable="justwatch" />
 
 </resources>
