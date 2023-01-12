@@ -2,6 +2,8 @@
 <resources>
     <string name="changelog_date">11.01.2023</string>
     <string-array name="changelog">
+        <item>2.7.4:</item>
+        <item>Added AEMET, Rain Alarm, Google Earth, Lujop El Temps, ElTiempo.es, NebulaCodex Horarios de tren, MyRadar, OnSóc, Rec., Ull del temps, Bahn Fahrplan und Live Tracking, Clash of Clans, FM Radio, IRCTC Rail Connect, Getting Over It, Keys Cafe, Mahjong Solitaire, MultiNotes, OXENFREE, PowerTube, Tap Translate Screen</item>
         <item>2.7.3:</item>
         <item>Added Google Find My Device, Google Chat, DNS Speed Test, IP Tools: WiFi Analyzer, NetMonster, Network Browser, PingTools Pro, WiFi Interference Analyzer, Wifiallnep Scanner, YT Studio, AirConsole, Commute, Nonogram.com, Tile Shortcuts, Bayern-Fahrplan, JustWatch</item>
         <item>2.7.2:</item>

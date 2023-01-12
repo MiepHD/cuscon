@@ -456,5 +456,26 @@
 	<item component="ComponentInfo{com.tombayley.tileshortcuts/com.tombayley.tileshortcuts.app.ui.home.MainActivity}" drawable="tile_shortcuts" />
 	<item component="ComponentInfo{com.mdv.DEFASCompanion/crc647ef4524d5a1e5d63.MainActivity}" drawable="bayern_fahrplan" />
 	<item component="ComponentInfo{com.justwatch.justwatch/com.justwatch.justwatch.MainActivity}" drawable="justwatch" />
+    <item component="ComponentInfo{es.aemet/es.aemet.activities.SplashScreenActivity}" drawable="aemet" />
+	<item component="ComponentInfo{de.mdiener.rain.usa/de.mdiener.rain.usa.MainMaps2}" drawable="rain_alarm" />
+	<item component="ComponentInfo{com.google.earth/com.google.android.apps.earth.EarthActivity}" drawable="google_earth" />
+	<item component="ComponentInfo{cat.joanpujol.eltemps/cat.joanpujol.eltemps.MainActivity}" drawable="lujop_el_temps" />
+	<item component="ComponentInfo{es.eltiempo.weatherapp/es.eltiempo.weatherapp.presentation.view.splash.SplashActivity}" drawable="eltiempoes" />
+	<item component="ComponentInfo{es.nebulacodex.horarios.free/es.nebulacodex.horarios.MainActivity}" drawable="nebulacodex_horarios_de_tren" />
+	<item component="ComponentInfo{com.acmeaom.android.myradar/com.acmeaom.android.myradar.app.activity.LaunchActivity}" drawable="myradar" />
+	<item component="ComponentInfo{com.icgc.onsoc/com.icgc.onsoc.MainActivity}" drawable="onsoc" />
+	<item component="ComponentInfo{com.spectrl.rec/com.spectrl.rec.ui.RecActivity}" drawable="rec" />
+	<item component="ComponentInfo{com.app.ulldeltempsapp/com.app.ulldeltempsapp.MainActivity}" drawable="ull_del_temps" />
+	<item component="ComponentInfo{com.hellany.bahn/com.hellany.bahn.app.MainActivity}" drawable="bahn_fahrplan_und_live_tracking" />
+	<item component="ComponentInfo{com.supercell.clashofclans/com.supercell.titan.GameApp}" drawable="clash_of_clans" />
+	<item component="ComponentInfo{com.miui.fm/com.miui.fmradio.FmActivity}" drawable="fm_radio" />
+	<item component="ComponentInfo{cris.org.in.prs.ima/cris.org.in.ima.activities.IRCTCConnectActivity}" drawable="irctc_rail_connect" />
+	<item component="ComponentInfo{com.noodlecake.gettingoverit/com.pollock_roe.app_open.AppOpenAdActivity}" drawable="getting_over_it" />
+	<item component="ComponentInfo{com.samsung.android.keyscafe/com.samsung.android.keyscafe.main.ui.KeysCafeSplashActivity}" drawable="keys_cafe" />
+	<item component="ComponentInfo{com.netflix.NGP.Mahjong/com.smokingguninc.engine.framework.SgiLauncherActivity}" drawable="mahjong_solitaire" />
+	<item component="ComponentInfo{monitor.kmv.multinotes/monitor.kmv.multinotes.MainActivity}" drawable="multinotes" />
+	<item component="ComponentInfo{com.netflix.NGP.Oxenfree/com.unity3d.player.UnityPlayerActivity}" drawable="oxenfree" />
+	<item component="ComponentInfo{ussr.razar.youtube_dl/ussr.razar.youtube_dl.MainActivityEX}" drawable="powertube" />
+	<item component="ComponentInfo{com.tap_to_translate.snap_translate/com.tap_to_translate.snap_translate.domain.main.MainActivity_}" drawable="tap_translate_screen" />
 
 </resources>

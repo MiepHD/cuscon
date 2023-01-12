@@ -1,17 +1,7 @@
 <resources>
-
-	<!-- Clash of Clans --><item component="ComponentInfo{com.supercell.clashofclans/com.supercell.titan.GameApp}" drawable="clash_of_clans" />
-	<!-- Watten --><item component="ComponentInfo{stefanlukasv.googlemail.com.watten/stefanlukasv.googlemail.com.watten.SplashActivity}" drawable="watten" />
-	<!-- FM Radio --><item component="ComponentInfo{com.miui.fm/com.miui.fmradio.FmActivity}" drawable="fm_radio" />
-	<!-- IRCTC Rail Connect --><item component="ComponentInfo{cris.org.in.prs.ima/cris.org.in.ima.activities.IRCTCConnectActivity}" drawable="irctc_rail_connect" />
+	
 	<!-- Paisa Lelo --><item component="ComponentInfo{com.paisa.lelo.app/com.psb.novawala.activity.SplashActivity}" drawable="paisa_lelo" />
 	<!-- Phone Master --><item component="ComponentInfo{com.transsion.phonemaster/com.cyin.himgr.ads.SplashActivity}" drawable="phone_master" />
-	<!-- Getting Over It --><item component="ComponentInfo{com.noodlecake.gettingoverit/com.pollock_roe.app_open.AppOpenAdActivity}" drawable="getting_over_it" />
-	<!-- Keys Cafe --><item component="ComponentInfo{com.samsung.android.keyscafe/com.samsung.android.keyscafe.main.ui.KeysCafeSplashActivity}" drawable="keys_cafe" />
-	<!-- Mahjong Solitaire --><item component="ComponentInfo{com.netflix.NGP.Mahjong/com.smokingguninc.engine.framework.SgiLauncherActivity}" drawable="mahjong_solitaire" />
-	<!-- MultiNotes --><item component="ComponentInfo{monitor.kmv.multinotes/monitor.kmv.multinotes.MainActivity}" drawable="multinotes" />
-	<!-- OXENFREE --><item component="ComponentInfo{com.netflix.NGP.Oxenfree/com.unity3d.player.UnityPlayerActivity}" drawable="oxenfree" />
-	<!-- PowerTube --><item component="ComponentInfo{ussr.razar.youtube_dl/ussr.razar.youtube_dl.MainActivityEX}" drawable="powertube" />
-	<!-- Tap Translate Screen --><item component="ComponentInfo{com.tap_to_translate.snap_translate/com.tap_to_translate.snap_translate.domain.main.MainActivity_}" drawable="tap_translate_screen" />
+	<!-- Watten --><item component="ComponentInfo{stefanlukasv.googlemail.com.watten/stefanlukasv.googlemail.com.watten.SplashActivity}" drawable="watten" />
 
 </resources>

@@ -438,5 +438,26 @@
 	<AppIcon name="com.tombayley.tileshortcuts/com.tombayley.tileshortcuts.app.ui.home.MainActivity" image="tile_shortcuts"/>
 	<AppIcon name="com.mdv.DEFASCompanion/crc647ef4524d5a1e5d63.MainActivity" image="bayern_fahrplan"/>
 	<AppIcon name="com.justwatch.justwatch/com.justwatch.justwatch.MainActivity" image="justwatch"/>
+    <AppIcon name="es.aemet/es.aemet.activities.SplashScreenActivity" image="aemet"/>
+	<AppIcon name="de.mdiener.rain.usa/de.mdiener.rain.usa.MainMaps2" image="rain_alarm"/>
+	<AppIcon name="com.google.earth/com.google.android.apps.earth.EarthActivity" image="google_earth"/>
+	<AppIcon name="cat.joanpujol.eltemps/cat.joanpujol.eltemps.MainActivity" image="lujop_el_temps"/>
+	<AppIcon name="es.eltiempo.weatherapp/es.eltiempo.weatherapp.presentation.view.splash.SplashActivity" image="eltiempoes"/>
+	<AppIcon name="es.nebulacodex.horarios.free/es.nebulacodex.horarios.MainActivity" image="nebulacodex_horarios_de_tren"/>
+	<AppIcon name="com.acmeaom.android.myradar/com.acmeaom.android.myradar.app.activity.LaunchActivity" image="myradar"/>
+	<AppIcon name="com.icgc.onsoc/com.icgc.onsoc.MainActivity" image="onsoc"/>
+	<AppIcon name="com.spectrl.rec/com.spectrl.rec.ui.RecActivity" image="rec"/>
+	<AppIcon name="com.app.ulldeltempsapp/com.app.ulldeltempsapp.MainActivity" image="ull_del_temps"/>
+	<AppIcon name="com.hellany.bahn/com.hellany.bahn.app.MainActivity" image="bahn_fahrplan_und_live_tracking"/>
+	<AppIcon name="com.supercell.clashofclans/com.supercell.titan.GameApp" image="clash_of_clans"/>
+	<AppIcon name="com.miui.fm/com.miui.fmradio.FmActivity" image="fm_radio"/>
+	<AppIcon name="cris.org.in.prs.ima/cris.org.in.ima.activities.IRCTCConnectActivity" image="irctc_rail_connect"/>
+	<AppIcon name="com.noodlecake.gettingoverit/com.pollock_roe.app_open.AppOpenAdActivity" image="getting_over_it"/>
+	<AppIcon name="com.samsung.android.keyscafe/com.samsung.android.keyscafe.main.ui.KeysCafeSplashActivity" image="keys_cafe"/>
+	<AppIcon name="com.netflix.NGP.Mahjong/com.smokingguninc.engine.framework.SgiLauncherActivity" image="mahjong_solitaire"/>
+	<AppIcon name="monitor.kmv.multinotes/monitor.kmv.multinotes.MainActivity" image="multinotes"/>
+	<AppIcon name="com.netflix.NGP.Oxenfree/com.unity3d.player.UnityPlayerActivity" image="oxenfree"/>
+	<AppIcon name="ussr.razar.youtube_dl/ussr.razar.youtube_dl.MainActivityEX" image="powertube"/>
+	<AppIcon name="com.tap_to_translate.snap_translate/com.tap_to_translate.snap_translate.domain.main.MainActivity_" image="tap_translate_screen"/>
 
 </Theme>

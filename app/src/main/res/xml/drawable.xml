@@ -57,23 +57,15 @@
 	<!-- Paisa Wala --><item drawable="paisa_wala" />
 	<!-- Truecaller --><item drawable="truecaller" />
     <!-- Google Fi --><item drawable="google_fi" />
-
-    <!-- Google Find My Device --><item drawable="google_find_my_device" />
-    <!-- Google Chat --><item drawable="google_chat" />
-    <!-- DNS Speed Test --><item drawable="dns_speed_test" />
-    <!-- IP Tools: WiFi Analyzer --><item drawable="ip_tools_wifi_analyzer" />
     <!-- NetMonster --><item drawable="netmonster" />
     <!-- Network Browser --><item drawable="network_browser" />
-    <!-- PingTools Pro --><item drawable="pingtools_pro" />
-    <!-- WiFi Interference Analyzer --><item drawable="wifi_interference_analyzer" />
-    <!-- Wifiallnep Scanner --><item drawable="wifiallnep_scanner" />
     <!-- YT Studio --><item drawable="yt_studio" />
-    <!-- AirConsole --><item drawable="airconsole" />
     <!-- Commute --><item drawable="commute" />
-    <!-- Nonogram.com --><item drawable="nonogramcom" />
     <!-- Tile Shortcuts --><item drawable="tile_shortcuts" />
-    <!-- Bayern-Fahrplan --><item drawable="bayern_fahrplan" />
-    <!-- JustWatch --><item drawable="justwatch" />
+    <!-- MyRadar --><item drawable="myradar" />
+    <!-- OnSóc --><item drawable="onsoc" />
+    <!-- Ull del temps --><item drawable="ull_del_temps" />
+    <!-- IRCTC Rail Connect --><item drawable="irctc_rail_connect" />
 
     <category title="App Stores" />
     <item drawable="apkpure" />
@@ -128,6 +120,7 @@
     <!-- YouTube Revanced --><item drawable="youtube_revanced"/>
     <!-- Joyn --><item drawable="joyn" />
     <!-- Google TV--><item drawable="google_tv" />
+    <!-- PowerTube --><item drawable="powertube" />
 
     <category title="Music Streaming" />
     <item drawable="amazon_music" />
@@ -142,10 +135,12 @@
     <!-- Spotify --><item drawable="spotify"/>
     <!-- Radio FM --><item drawable="radio_fm"/>
     <!-- xManager --><item drawable="xmanager" />
+    <!-- FM Radio --><item drawable="fm_radio" />
 
     <category title="Recording" />
     <item drawable="voicenote" />
     <!-- XRecorder --><item drawable="xrecorder" />
+    <!-- Rec. --><item drawable="rec" />
 
     <category title="Games" />
     <item drawable="darkland" />
@@ -162,10 +157,16 @@
     <!-- Bahnhofsfotos --><item drawable="bahnhofsfotos" />
     <!-- WhereYouGo --><item drawable="whereyougo" />
     <!-- Pixel Wheels --><item drawable="pixel_wheels" />
+    <!-- Nonogram.com --><item drawable="nonogramcom" />
+    <!-- Getting Over It --><item drawable="getting_over_it" />
+    <!-- OXENFREE --><item drawable="oxenfree" />
+    <!-- Clash of Clans --><item drawable="clash_of_clans" />
+    <!-- Mahjong Solitaire --><item drawable="mahjong_solitaire" />
 
     <category title="Gaming Experience" />
     <!-- Moto Gametime--><item drawable="moto_gametime" />
     <!-- MiraPlug --><item drawable="miraplug" />
+    <!-- AirConsole --><item drawable="airconsole" />
 
     <category title="Emulators" />
     <!-- Termux --><item drawable="termux" />
@@ -203,6 +204,7 @@
     <!-- Dawn --><item drawable="dawn" />
     <!-- satellite --><item drawable="satellite" />
     <!-- Zoom --><item drawable="zoom" />
+    <!-- Google Chat --><item drawable="google_chat" />
 
     <category title="Social Media" />
     <!-- LinkedIn --><item drawable="linkedin"/>
@@ -259,6 +261,9 @@
     <!-- AppSales --><item drawable="appsales" />
     <!-- SmartWiFiSelector --><item drawable="smartwifiselector" />
 	<!-- SWIFI --><item drawable="swifi" />
+    <!-- Google Find My Device --><item drawable="google_find_my_device" />
+    <!-- Tap Translate Screen --><item drawable="tap_translate_screen" />
+    <!-- MultiNotes --><item drawable="multinotes" />
 
     <category title="Calculators" />
     <item drawable="samsung_calculator" />
@@ -292,6 +297,11 @@
     <!-- LengKeng Lab WiFi Analyzer Plus --><item drawable="lengkeng_lab_wifi_analyzer_plus" />
 	<!-- Maverick Soft WiFiAnalyzer --><item drawable="maverick_soft_wifianalyzer" />
     <!-- NetSpot --><item drawable="netspot" />
+    <!-- DNS Speed Test --><item drawable="dns_speed_test" />
+    <!-- IP Tools: WiFi Analyzer --><item drawable="ip_tools_wifi_analyzer" />
+    <!-- PingTools Pro --><item drawable="pingtools_pro" />
+    <!-- WiFi Interference Analyzer --><item drawable="wifi_interference_analyzer" />
+    <!-- Wifiallnep Scanner --><item drawable="wifiallnep_scanner" />
 
     <category title="Internet of Things" />
     <item drawable="smart_things" />
@@ -352,6 +362,7 @@
     <!-- Öffi Netzpläne --><item drawable="offi_netzplane" />
     <!-- OpenTracks --><item drawable="opentracks" />
     <!-- GMaps WV --><item drawable="gmaps_wv" />
+    <!-- Google Earth --><item drawable="google_earth" />
 
     <category title="Files" />
     <!-- Google Drive --><item drawable="google_drive" />
@@ -418,6 +429,10 @@
     <!-- Weather M8 --><item drawable="weather_m8"/>
     <!-- Frog weather forecast --><item drawable="frog_weather_forecast"/>
     <!-- Weather Live0 --><item drawable="weather_live0" />
+    <!-- AEMET --><item drawable="aemet" />
+    <!-- Rain Alarm --><item drawable="rain_alarm" />
+    <!-- Lujop El Temps --><item drawable="lujop_el_temps" />
+    <!-- ElTiempo.es --><item drawable="eltiempoes" />
 
     <category title="Design" />
     <!-- Pocket Paint --><item drawable="pocket_paint" />
@@ -435,6 +450,7 @@
     <!-- Theme Park --><item drawable="theme_park"/>
     <!-- KWGT --><item drawable="kwgt" />
 	<!-- KWGT Pro --><item drawable="kwgt_pro" />
+    <!-- Keys Cafe --><item drawable="keys_cafe" />
 
     <category title="Information" />
     <!-- Öffi Verbindungen --><item drawable="offi_verbindungen" />
@@ -449,6 +465,10 @@
     <!-- NINA --><item drawable="nina" />
     <!-- München Navigator --><item drawable="munchen_navigator" />
 	<!-- Where is my Train --><item drawable="where_is_my_train" />
+    <!-- Bayern-Fahrplan --><item drawable="bayern_fahrplan" />
+    <!-- JustWatch --><item drawable="justwatch" />
+    <!-- NebulaCodex Horarios de tren --><item drawable="nebulacodex_horarios_de_tren" />
+    <!-- Bahn Fahrplan und Live Tracking --><item drawable="bahn_fahrplan_und_live_tracking" />
 
     <category title="Icon Packs" />
     <!-- Cuscon --><item drawable="cuscon" />

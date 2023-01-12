@@ -426,5 +426,26 @@
 	<item class="com.tombayley.tileshortcuts.app.ui.home.MainActivity" name="tile_shortcuts"/>
 	<item class="crc647ef4524d5a1e5d63.MainActivity" name="bayern_fahrplan"/>
 	<item class="com.justwatch.justwatch.MainActivity" name="justwatch"/>
+    <item class="es.aemet.activities.SplashScreenActivity" name="aemet"/>
+	<item class="de.mdiener.rain.usa.MainMaps2" name="rain_alarm"/>
+	<item class="com.google.android.apps.earth.EarthActivity" name="google_earth"/>
+	<item class="cat.joanpujol.eltemps.MainActivity" name="lujop_el_temps"/>
+	<item class="es.eltiempo.weatherapp.presentation.view.splash.SplashActivity" name="eltiempoes"/>
+	<item class="es.nebulacodex.horarios.MainActivity" name="nebulacodex_horarios_de_tren"/>
+	<item class="com.acmeaom.android.myradar.app.activity.LaunchActivity" name="myradar"/>
+	<item class="com.icgc.onsoc.MainActivity" name="onsoc"/>
+	<item class="com.spectrl.rec.ui.RecActivity" name="rec"/>
+	<item class="com.app.ulldeltempsapp.MainActivity" name="ull_del_temps"/>
+	<item class="com.hellany.bahn.app.MainActivity" name="bahn_fahrplan_und_live_tracking"/>
+	<item class="com.supercell.titan.GameApp" name="clash_of_clans"/>
+	<item class="com.miui.fmradio.FmActivity" name="fm_radio"/>	
+	<item class="cris.org.in.ima.activities.IRCTCConnectActivity" name="irctc_rail_connect"/>
+	<item class="com.pollock_roe.app_open.AppOpenAdActivity" name="getting_over_it"/>
+	<item class="com.samsung.android.keyscafe.main.ui.KeysCafeSplashActivity" name="keys_cafe"/>
+	<item class="com.smokingguninc.engine.framework.SgiLauncherActivity" name="mahjong_solitaire"/>
+	<item class="monitor.kmv.multinotes.MainActivity" name="multinotes"/>
+	<item class="com.unity3d.player.UnityPlayerActivity" name="oxenfree"/>
+	<item class="ussr.razar.youtube_dl.MainActivityEX" name="powertube"/>
+	<item class="com.tap_to_translate.snap_translate.domain.main.MainActivity_" name="tap_translate_screen"/>
 
 </appmap>
