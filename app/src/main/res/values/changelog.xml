@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="changelog_date">11.01.2023</string>
+    <string name="changelog_date">12.01.2023</string>
     <string-array name="changelog">
         <item>2.7.4:</item>
         <item>Added AEMET, Rain Alarm, Google Earth, Lujop El Temps, ElTiempo.es, NebulaCodex Horarios de tren, MyRadar, OnSóc, Rec., Ull del temps, Bahn Fahrplan und Live Tracking, Clash of Clans, FM Radio, IRCTC Rail Connect, Getting Over It, Keys Cafe, Mahjong Solitaire, MultiNotes, OXENFREE, PowerTube, Tap Translate Screen</item>
