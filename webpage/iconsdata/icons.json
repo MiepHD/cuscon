@@ -442,6 +442,5 @@
 	{ "title": "Google Play Books", "author": "MiepHD", "src": "google_play_books", "category": "other" },
 	{ "title": "Google Slides", "author": "MiepHD", "src": "google_slides", "category": "other" },
 	{ "title": "Ruthless", "author": "MiepHD", "src": "ruthless", "category": "other" },
-	{ "title": "Ruthless Settings", "author": "MiepHD", "src": "ruthless", "category": "other" },
 	{ "title": "Google Voice", "author": "MiepHD", "src": "google_voice", "category": "communication" }
 ]
