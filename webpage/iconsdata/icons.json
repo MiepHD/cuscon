@@ -433,5 +433,15 @@
 	{ "title": "MultiNotes", "author": "MiepHD", "src": "multinotes", "category": "tools" },
 	{ "title": "OXENFREE", "author": "MiepHD", "src": "oxenfree", "category": "games" },
 	{ "title": "PowerTube", "author": "MiepHD", "src": "powertube", "category": "video-streaming" },
-	{ "title": "Tap Translate Screen", "author": "MiepHD", "src": "tap_translate_screen", "category": "tools" }
+	{ "title": "Tap Translate Screen", "author": "MiepHD", "src": "tap_translate_screen", "category": "tools" },
+	{ "title": "Google Gallery", "author": "MiepHD", "src": "google_gallery", "category": "gallery" },
+	{ "title": "Google Sheets", "author": "MiepHD", "src": "google_sheets", "category": "calculators" },
+	{ "title": "Google Home", "author": "MiepHD", "src": "google_home", "category": "iot" },
+	{ "title": "Google Keep", "author": "MiepHD", "src": "google_keep", "category": "other" },
+	{ "title": "Google Lens", "author": "MiepHD", "src": "google_lens", "category": "scanner" },
+	{ "title": "Google Play Books", "author": "MiepHD", "src": "google_play_books", "category": "other" },
+	{ "title": "Google Slides", "author": "MiepHD", "src": "google_slides", "category": "other" },
+	{ "title": "Ruthless", "author": "MiepHD", "src": "ruthless", "category": "other" },
+	{ "title": "Ruthless Settings", "author": "MiepHD", "src": "ruthless", "category": "other" },
+	{ "title": "Google Voice", "author": "MiepHD", "src": "google_voice", "category": "communication" }
 ]

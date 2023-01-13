@@ -459,5 +459,15 @@
 	<AppIcon name="com.netflix.NGP.Oxenfree/com.unity3d.player.UnityPlayerActivity" image="oxenfree"/>
 	<AppIcon name="ussr.razar.youtube_dl/ussr.razar.youtube_dl.MainActivityEX" image="powertube"/>
 	<AppIcon name="com.tap_to_translate.snap_translate/com.tap_to_translate.snap_translate.domain.main.MainActivity_" image="tap_translate_screen"/>
+    <AppIcon name="com.google.android.apps.photosgo/com.google.android.apps.photosgo.home.HomeActivity" image="google_gallery"/>
+	<AppIcon name="com.google.android.apps.docs.editors.sheets/com.google.android.apps.docs.app.NewMainProxyActivity" image="google_sheets"/>
+	<AppIcon name="com.google.android.apps.chromecast.app/com.google.android.apps.chromecast.app.DiscoveryActivity" image="google_home"/>
+	<AppIcon name="com.google.android.keep/com.google.android.keep.activities.BrowseActivity" image="google_keep"/>
+	<AppIcon name="com.google.ar.lens/com.google.vr.apps.ornament.app.lens.LensLauncherActivity" image="google_lens"/>
+	<AppIcon name="com.google.android.apps.books/com.google.android.apps.books.app.BooksActivity" image="google_play_books"/>
+	<AppIcon name="com.google.android.apps.docs.editors.slides/com.google.android.apps.docs.app.NewMainProxyActivity" image="google_slides"/>
+	<AppIcon name="shubh.ruthless/amirz.shade.ShadeLauncher" image="ruthless"/>
+	<AppIcon name="shubh.ruthless/amirz.shade.ShadeSettings" image="ruthless"/>
+	<AppIcon name="com.google.android.apps.googlevoice/com.google.android.apps.googlevoice.SplashActivity" image="google_voice"/>
 
 </Theme>

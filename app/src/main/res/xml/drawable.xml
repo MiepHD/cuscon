@@ -67,6 +67,11 @@
     <!-- Ull del temps --><item drawable="ull_del_temps" />
     <!-- IRCTC Rail Connect --><item drawable="irctc_rail_connect" />
 
+	<!-- Google Keep --><item drawable="google_keep" />
+    <!-- Google Play Books --><item drawable="google_play_books" />
+	<!-- Google Slides --><item drawable="google_slides" />
+	<!-- Ruthless --><item drawable="ruthless" />
+
     <category title="App Stores" />
     <item drawable="apkpure" />
     <item drawable="f_droid" />
@@ -205,6 +210,7 @@
     <!-- satellite --><item drawable="satellite" />
     <!-- Zoom --><item drawable="zoom" />
     <!-- Google Chat --><item drawable="google_chat" />
+    <!-- Google Voice --><item drawable="google_voice" />
 
     <category title="Social Media" />
     <!-- LinkedIn --><item drawable="linkedin"/>
@@ -269,6 +275,7 @@
     <item drawable="samsung_calculator" />
     <!-- NCalcLibre --><item drawable="ncalclibre" />
     <!-- Symbolab --><item drawable="symbolab" />
+    <!-- Google Sheets --><item drawable="google_sheets" />
 
     <category title="Analyzer" />
     <!-- BetterCounter --><item drawable="bettercounter" />
@@ -311,6 +318,7 @@
     <!-- Kilterboard --><item drawable="kilterboard" />
     <!-- Mi WiFi--><item drawable="mi_wifi" />
     <!-- TCL Connect --><item drawable="tcl_connect" />
+    <!-- Google Home --><item drawable="google_home" />
 
     <category title="Documents" />
     <item drawable="adobe_acrobat_reader" />
@@ -353,6 +361,7 @@
     <!-- HeartBeat --><item drawable="heartbeat" />
     <!-- CubeX --><item drawable="cubex" />
     <!-- Qr Barcode Scanner --><item drawable="qr_barcode_scanner" />
+    <!-- Google Lens --><item drawable="google_lens" />
 
     <category title="Maps" />
     <!-- Google Maps --><item drawable="google_maps" />
@@ -390,6 +399,7 @@
     <!-- Google Photos --><item drawable="google_photos" />
     <!-- Camera Roll --><item drawable="camera_roll" />
     <!-- BubbleUPnP --><item drawable="bubbleupnp" />
+    <!-- Google Gallery --><item drawable="google_gallery" />
 
     <category title="Security" />
     <!-- Google Authenticator --><item drawable="google_authenticator" />

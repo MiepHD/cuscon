@@ -477,5 +477,15 @@
 	<item component="ComponentInfo{com.netflix.NGP.Oxenfree/com.unity3d.player.UnityPlayerActivity}" drawable="oxenfree" />
 	<item component="ComponentInfo{ussr.razar.youtube_dl/ussr.razar.youtube_dl.MainActivityEX}" drawable="powertube" />
 	<item component="ComponentInfo{com.tap_to_translate.snap_translate/com.tap_to_translate.snap_translate.domain.main.MainActivity_}" drawable="tap_translate_screen" />
+	<item component="ComponentInfo{com.google.android.apps.photosgo/com.google.android.apps.photosgo.home.HomeActivity}" drawable="google_gallery" />
+	<item component="ComponentInfo{com.google.android.apps.docs.editors.sheets/com.google.android.apps.docs.app.NewMainProxyActivity}" drawable="google_sheets" />
+	<item component="ComponentInfo{com.google.android.apps.chromecast.app/com.google.android.apps.chromecast.app.DiscoveryActivity}" drawable="google_home" />
+	<item component="ComponentInfo{com.google.android.keep/com.google.android.keep.activities.BrowseActivity}" drawable="google_keep" />
+	<item component="ComponentInfo{com.google.ar.lens/com.google.vr.apps.ornament.app.lens.LensLauncherActivity}" drawable="google_lens" />
+	<item component="ComponentInfo{com.google.android.apps.books/com.google.android.apps.books.app.BooksActivity}" drawable="google_play_books" />
+	<item component="ComponentInfo{com.google.android.apps.docs.editors.slides/com.google.android.apps.docs.app.NewMainProxyActivity}" drawable="google_slides" />
+	<item component="ComponentInfo{shubh.ruthless/amirz.shade.ShadeLauncher}" drawable="ruthless" />
+	<item component="ComponentInfo{shubh.ruthless/amirz.shade.ShadeSettings}" drawable="ruthless" />
+	<item component="ComponentInfo{com.google.android.apps.googlevoice/com.google.android.apps.googlevoice.SplashActivity}" drawable="google_voice" />
 
 </resources>

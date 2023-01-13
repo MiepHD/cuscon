@@ -447,5 +447,15 @@
 	<item class="com.unity3d.player.UnityPlayerActivity" name="oxenfree"/>
 	<item class="ussr.razar.youtube_dl.MainActivityEX" name="powertube"/>
 	<item class="com.tap_to_translate.snap_translate.domain.main.MainActivity_" name="tap_translate_screen"/>
+    <item class="com.google.android.apps.photosgo.home.HomeActivity" name="google_gallery"/>
+ 	<item class="com.google.android.apps.docs.app.NewMainProxyActivity" name="google_sheets"/>
+ 	<item class="com.google.android.apps.chromecast.app.DiscoveryActivity" name="google_home"/>
+ 	<item class="com.google.android.keep.activities.BrowseActivity" name="google_keep"/>
+ 	<item class="com.google.vr.apps.ornament.app.lens.LensLauncherActivity" name="google_lens"/>
+ 	<item class="com.google.android.apps.books.app.BooksActivity" name="google_play_books"/>
+ 	<item class="com.google.android.apps.docs.app.NewMainProxyActivity" name="google_slides"/>
+ 	<item class="amirz.shade.ShadeLauncher" name="ruthless"/>
+ 	<item class="amirz.shade.ShadeSettings" name="ruthless"/>
+ 	<item class="com.google.android.apps.googlevoice.SplashActivity" name="google_voice"/>
 
 </appmap>
