@@ -457,5 +457,13 @@
  	<item class="amirz.shade.ShadeLauncher" name="ruthless"/>
  	<item class="amirz.shade.ShadeSettings" name="ruthless"/>
  	<item class="com.google.android.apps.googlevoice.SplashActivity" name="google_voice"/>
+    <item class="org.chromium.chromoting.Chromoting" name="chrome_remote_desktop"/>
+	<item class="com.google.android.apps.photos.scanner.home.HomeActivity" name="google_photoscan"/>
+	<item class="com.google.android.apps.podcasts.PodcastsActivity" name="google_podcasts"/>
+	<item class="com.stealthcopter.portdroid.activities.StartActivity" name="portdroid"/>
+	<item class="com.google.android.libraries.streetview.main.StreetViewActivity" name="google_street_view"/>
+	<item class="com.google.android.apps.accessibility.voiceaccess.activities.LaunchActivity" name="voice_access"/>
+	<item class="com.google.android.apps.wear.companion.application.RootActivity" name="google_pixel_watch"/>
+	<item class="com.jhj.dev.wifi.ui.activity.MainActivity" name="huajian_jiang_wifi_service"/>
 
 </appmap>

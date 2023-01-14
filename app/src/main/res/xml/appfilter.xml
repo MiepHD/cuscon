@@ -487,5 +487,13 @@
 	<item component="ComponentInfo{shubh.ruthless/amirz.shade.ShadeLauncher}" drawable="ruthless" />
 	<item component="ComponentInfo{shubh.ruthless/amirz.shade.ShadeSettings}" drawable="ruthless" />
 	<item component="ComponentInfo{com.google.android.apps.googlevoice/com.google.android.apps.googlevoice.SplashActivity}" drawable="google_voice" />
+	<item component="ComponentInfo{com.google.chromeremotedesktop/org.chromium.chromoting.Chromoting}" drawable="chrome_remote_desktop" />
+	<item component="ComponentInfo{com.google.android.apps.photos.scanner/com.google.android.apps.photos.scanner.home.HomeActivity}" drawable="google_photoscan" />
+	<item component="ComponentInfo{com.google.android.apps.podcasts/com.google.android.apps.podcasts.PodcastsActivity}" drawable="google_podcasts" />
+	<item component="ComponentInfo{com.stealthcopter.portdroid/com.stealthcopter.portdroid.activities.StartActivity}" drawable="portdroid" />
+	<item component="ComponentInfo{com.google.android.street/com.google.android.libraries.streetview.main.StreetViewActivity}" drawable="google_street_view" />
+	<item component="ComponentInfo{com.google.android.apps.accessibility.voiceaccess/com.google.android.apps.accessibility.voiceaccess.activities.LaunchActivity}" drawable="voice_access" />
+	<item component="ComponentInfo{com.google.android.apps.wear.companion/com.google.android.apps.wear.companion.application.RootActivity}" drawable="google_pixel_watch" />
+	<item component="ComponentInfo{com.jhj.dev.wifi/com.jhj.dev.wifi.ui.activity.MainActivity}" drawable="huajian_jiang_wifi_service" />
 
 </resources>

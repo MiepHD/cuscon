@@ -469,5 +469,13 @@
 	<AppIcon name="shubh.ruthless/amirz.shade.ShadeLauncher" image="ruthless"/>
 	<AppIcon name="shubh.ruthless/amirz.shade.ShadeSettings" image="ruthless"/>
 	<AppIcon name="com.google.android.apps.googlevoice/com.google.android.apps.googlevoice.SplashActivity" image="google_voice"/>
+    <AppIcon name="com.google.chromeremotedesktop/org.chromium.chromoting.Chromoting" image="chrome_remote_desktop"/>
+	<AppIcon name="com.google.android.apps.photos.scanner/com.google.android.apps.photos.scanner.home.HomeActivity" image="google_photoscan"/>
+	<AppIcon name="com.google.android.apps.podcasts/com.google.android.apps.podcasts.PodcastsActivity" image="google_podcasts"/>
+	<AppIcon name="com.stealthcopter.portdroid/com.stealthcopter.portdroid.activities.StartActivity" image="portdroid"/>
+	<AppIcon name="com.google.android.street/com.google.android.libraries.streetview.main.StreetViewActivity" image="google_street_view"/>
+	<AppIcon name="com.google.android.apps.accessibility.voiceaccess/com.google.android.apps.accessibility.voiceaccess.activities.LaunchActivity" image="voice_access"/>
+	<AppIcon name="com.google.android.apps.wear.companion/com.google.android.apps.wear.companion.application.RootActivity" image="google_pixel_watch"/>
+	<AppIcon name="com.jhj.dev.wifi/com.jhj.dev.wifi.ui.activity.MainActivity" image="huajian_jiang_wifi_service"/>
 
 </Theme>

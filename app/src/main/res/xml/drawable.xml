@@ -66,11 +66,13 @@
     <!-- OnSóc --><item drawable="onsoc" />
     <!-- Ull del temps --><item drawable="ull_del_temps" />
     <!-- IRCTC Rail Connect --><item drawable="irctc_rail_connect" />
-
 	<!-- Google Keep --><item drawable="google_keep" />
     <!-- Google Play Books --><item drawable="google_play_books" />
 	<!-- Google Slides --><item drawable="google_slides" />
 	<!-- Ruthless --><item drawable="ruthless" />
+
+    <!-- Chrome Remote Desktop --><item drawable="chrome_remote_desktop" />
+	<!-- Voice Access --><item drawable="voice_access" />
 
     <category title="App Stores" />
     <item drawable="apkpure" />
@@ -141,6 +143,7 @@
     <!-- Radio FM --><item drawable="radio_fm"/>
     <!-- xManager --><item drawable="xmanager" />
     <!-- FM Radio --><item drawable="fm_radio" />
+    <!-- Google Podcasts --><item drawable="google_podcasts" />
 
     <category title="Recording" />
     <item drawable="voicenote" />
@@ -309,6 +312,8 @@
     <!-- PingTools Pro --><item drawable="pingtools_pro" />
     <!-- WiFi Interference Analyzer --><item drawable="wifi_interference_analyzer" />
     <!-- Wifiallnep Scanner --><item drawable="wifiallnep_scanner" />
+    <!-- PortDroid --><item drawable="portdroid" />
+    <!-- Huajian Jiang WiFi Service --><item drawable="huajian_jiang_wifi_service" />
 
     <category title="Internet of Things" />
     <item drawable="smart_things" />
@@ -319,6 +324,7 @@
     <!-- Mi WiFi--><item drawable="mi_wifi" />
     <!-- TCL Connect --><item drawable="tcl_connect" />
     <!-- Google Home --><item drawable="google_home" />
+    <!-- Google Pixel Watch --><item drawable="google_pixel_watch" />
 
     <category title="Documents" />
     <item drawable="adobe_acrobat_reader" />
@@ -362,6 +368,7 @@
     <!-- CubeX --><item drawable="cubex" />
     <!-- Qr Barcode Scanner --><item drawable="qr_barcode_scanner" />
     <!-- Google Lens --><item drawable="google_lens" />
+    <!-- PhotoScan by Google Photos --><item drawable="google_photoscan" />
 
     <category title="Maps" />
     <!-- Google Maps --><item drawable="google_maps" />
@@ -372,6 +379,7 @@
     <!-- OpenTracks --><item drawable="opentracks" />
     <!-- GMaps WV --><item drawable="gmaps_wv" />
     <!-- Google Earth --><item drawable="google_earth" />
+    <!-- Google Street View --><item drawable="google_street_view" />
 
     <category title="Files" />
     <!-- Google Drive --><item drawable="google_drive" />

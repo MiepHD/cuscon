@@ -442,5 +442,13 @@
 	{ "title": "Google Slides", "author": "MiepHD", "src": "google_slides", "category": "other" },
 	{ "title": "Ruthless", "author": "MiepHD", "src": "ruthless", "category": "other" },
 	{ "title": "Google Voice", "author": "MiepHD", "src": "google_voice", "category": "communication" },
-	{ "title": "Symbolab", "author": "MiepHD", "src": "symbolab", "category": "calculators"}
+	{ "title": "Symbolab", "author": "MiepHD", "src": "symbolab", "category": "calculators"},
+	{ "title": "Chrome Remote Desktop", "author": "MiepHD", "src": "chrome_remote_desktop", "category": "other" },
+	{ "title": "PhotoScan by Google Photos", "author": "MiepHD", "src": "google_photoscan", "category": "scanner" },
+	{ "title": "Google Podcasts", "author": "MiepHD", "src": "google_podcasts", "category": "music-streaming" },
+	{ "title": "PortDroid", "author": "MiepHD", "src": "portdroid", "category": "analyzer" },
+	{ "title": "Google Street View", "author": "MiepHD", "src": "google_street_view", "category": "maps" },
+	{ "title": "Voice Access", "author": "MiepHD", "src": "voice_access", "category": "other" },
+	{ "title": "Google Pixel Watch", "author": "MiepHD", "src": "google_pixel_watch", "category": "iot" },
+	{ "title": "Huajian Jiang WiFi Service", "author": "MiepHD", "src": "huajian_jiang_wifi_service", "category": "analyzer" }
 ]
