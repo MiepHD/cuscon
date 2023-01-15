@@ -465,5 +465,6 @@
 	<item class="com.google.android.apps.accessibility.voiceaccess.activities.LaunchActivity" name="voice_access"/>
 	<item class="com.google.android.apps.wear.companion.application.RootActivity" name="google_pixel_watch"/>
 	<item class="com.jhj.dev.wifi.ui.activity.MainActivity" name="huajian_jiang_wifi_service"/>
+	<item class="com.awtech1.wifianalyzer.splash1" name="wifianalyzer"/>
 
 </appmap>

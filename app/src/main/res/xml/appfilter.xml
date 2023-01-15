@@ -495,5 +495,6 @@
 	<item component="ComponentInfo{com.google.android.apps.accessibility.voiceaccess/com.google.android.apps.accessibility.voiceaccess.activities.LaunchActivity}" drawable="voice_access" />
 	<item component="ComponentInfo{com.google.android.apps.wear.companion/com.google.android.apps.wear.companion.application.RootActivity}" drawable="google_pixel_watch" />
 	<item component="ComponentInfo{com.jhj.dev.wifi/com.jhj.dev.wifi.ui.activity.MainActivity}" drawable="huajian_jiang_wifi_service" />
+	<item component="ComponentInfo{com.awtech1.wifianalyzer/com.awtech1.wifianalyzer.splash1}" drawable="wifianalyzer" />
 
 </resources>
