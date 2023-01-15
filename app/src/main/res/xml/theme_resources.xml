@@ -478,5 +478,10 @@
 	<AppIcon name="com.google.android.apps.wear.companion/com.google.android.apps.wear.companion.application.RootActivity" image="google_pixel_watch"/>
 	<AppIcon name="com.jhj.dev.wifi/com.jhj.dev.wifi.ui.activity.MainActivity" image="huajian_jiang_wifi_service"/>
     <AppIcon name="com.awtech1.wifianalyzer/com.awtech1.wifianalyzer.splash1" image="wifianalyzer"/>
+    <AppIcon name="com.vmons.app.alarm/com.vmons.app.alarm.SplashActivity" image="digital_alarm_clock"/>
+	<AppIcon name="de.android.telnet/de.android.telnet.TelnetActivity" image="network_signal_info"/>
+	<AppIcon name="dev.egl.com.intensidadwifi/dev.egl.com.intensidadwifi.ui.SplashActivity" image="wifi_signal_meter"/>
+	<AppIcon name="com.google.android.apps.tasks/com.google.android.apps.tasks.ui.TaskListsActivity" image="google_tasks"/>
+	<AppIcon name="com.ubnt.easyunifi/com.ubnt.unifi.network.splashscreen.SplashScreenActivity" image="unifi_network"/>
 
 </Theme>

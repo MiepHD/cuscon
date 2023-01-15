@@ -450,5 +450,10 @@
 	{ "title": "Google Street View", "author": "MiepHD", "src": "google_street_view", "category": "maps" },
 	{ "title": "Voice Access", "author": "MiepHD", "src": "voice_access", "category": "other" },
 	{ "title": "Google Pixel Watch", "author": "MiepHD", "src": "google_pixel_watch", "category": "iot" },
-	{ "title": "Huajian Jiang WiFi Service", "author": "MiepHD", "src": "huajian_jiang_wifi_service", "category": "analyzer" }
+	{ "title": "Huajian Jiang WiFi Service", "author": "MiepHD", "src": "huajian_jiang_wifi_service", "category": "analyzer" },
+	{ "title": "Digital Alarm Clock", "author": "MiepHD", "src": "digital_alarm_clock", "category": "other" },
+	{ "title": "Network Signal Info", "author": "MiepHD", "src": "network_signal_info", "category": "analyzer" },
+	{ "title": "WiFi Signal Meter", "author": "MiepHD", "src": "wifi_signal_meter", "category": "analyzer" },
+	{ "title": "Google Tasks", "author": "MiepHD", "src": "google_tasks", "category": "planning" },
+	{ "title": "UniFi Network", "author": "MiepHD", "src": "unifi_network", "category": "analyzer" }
 ]

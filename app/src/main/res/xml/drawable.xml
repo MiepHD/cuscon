@@ -70,9 +70,9 @@
     <!-- Google Play Books --><item drawable="google_play_books" />
 	<!-- Google Slides --><item drawable="google_slides" />
 	<!-- Ruthless --><item drawable="ruthless" />
-
     <!-- Chrome Remote Desktop --><item drawable="chrome_remote_desktop" />
 	<!-- Voice Access --><item drawable="voice_access" />
+    <!-- Digital Alarm Clock --><item drawable="digital_alarm_clock" />
 
     <category title="App Stores" />
     <item drawable="apkpure" />
@@ -111,6 +111,7 @@
     <!-- Microsoft To Do --><item drawable="microsoft_to_do" />
     <!-- Reminder --><item drawable="reminder" />
     <item drawable="clock" />
+    <!-- Google Tasks --><item drawable="google_tasks" />
 
     <category title="Video Streaming" />
     <item drawable="netflix" />
@@ -314,6 +315,9 @@
     <!-- Wifiallnep Scanner --><item drawable="wifiallnep_scanner" />
     <!-- PortDroid --><item drawable="portdroid" />
     <!-- Huajian Jiang WiFi Service --><item drawable="huajian_jiang_wifi_service" />
+    <!-- Network Signal Info --><item drawable="network_signal_info" />
+	<!-- WiFi Signal Meter --><item drawable="wifi_signal_meter" />
+    <!-- UniFi Network --><item drawable="unifi_network" />
 
     <category title="Internet of Things" />
     <item drawable="smart_things" />

@@ -466,5 +466,10 @@
 	<item class="com.google.android.apps.wear.companion.application.RootActivity" name="google_pixel_watch"/>
 	<item class="com.jhj.dev.wifi.ui.activity.MainActivity" name="huajian_jiang_wifi_service"/>
 	<item class="com.awtech1.wifianalyzer.splash1" name="wifianalyzer"/>
+	<item class="com.vmons.app.alarm.SplashActivity" name="digital_alarm_clock"/>
+	<item class="de.android.telnet.TelnetActivity" name="network_signal_info"/>
+	<item class="dev.egl.com.intensidadwifi.ui.SplashActivity" name="wifi_signal_meter"/>
+	<item class="com.google.android.apps.tasks.ui.TaskListsActivity" name="google_tasks"/>
+	<item class="com.ubnt.unifi.network.splashscreen.SplashScreenActivity" name="unifi_network"/>
 
 </appmap>

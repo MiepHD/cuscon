@@ -496,5 +496,10 @@
 	<item component="ComponentInfo{com.google.android.apps.wear.companion/com.google.android.apps.wear.companion.application.RootActivity}" drawable="google_pixel_watch" />
 	<item component="ComponentInfo{com.jhj.dev.wifi/com.jhj.dev.wifi.ui.activity.MainActivity}" drawable="huajian_jiang_wifi_service" />
 	<item component="ComponentInfo{com.awtech1.wifianalyzer/com.awtech1.wifianalyzer.splash1}" drawable="wifianalyzer" />
+	<item component="ComponentInfo{com.vmons.app.alarm/com.vmons.app.alarm.SplashActivity}" drawable="digital_alarm_clock" />
+	<item component="ComponentInfo{de.android.telnet/de.android.telnet.TelnetActivity}" drawable="network_signal_info" />
+	<item component="ComponentInfo{dev.egl.com.intensidadwifi/dev.egl.com.intensidadwifi.ui.SplashActivity}" drawable="wifi_signal_meter" />
+	<item component="ComponentInfo{com.google.android.apps.tasks/com.google.android.apps.tasks.ui.TaskListsActivity}" drawable="google_tasks" />
+	<item component="ComponentInfo{com.ubnt.easyunifi/com.ubnt.unifi.network.splashscreen.SplashScreenActivity}" drawable="unifi_network" />
 
 </resources>

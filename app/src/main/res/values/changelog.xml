@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="changelog_date">14.01.2023</string>
+    <string name="changelog_date">15.01.2023</string>
     <string-array name="changelog">
         <item>2.7.7:</item>
-        <item>Added Wifianalyzer</item>
+        <item>Added Wifianalyzer, Digital Alarm Clock, Network Signal Info, WiFi Signal Meter, Google Tasks, UniFi Network</item>
         <item>2.7.6:</item>
         <item>Added Chrome Remote Desktop, PhotoScan by Google Photos, Google Podcasts, PortDroid, Google Street View, Voice Access, Google Pixel Watch, Huajian Jiang WiFi Service</item>
         <item>2.7.5:</item>
