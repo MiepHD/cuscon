@@ -11,9 +11,7 @@
 	grid-column: 1 / 4;
 	grid-row: 1 / 2;
 }
-#infobox-title.no-author {
-	grid-column: 1 / 5;
-}
+#infobox-title.no-author { grid-column: 1 / 5; }
 #infobox-info {
 	grid-column: 1 / 5;
 	grid-row: 2 / 3;
@@ -30,6 +28,4 @@
 	grid-template-columns: repeat(4, 1fr);
 }
 #technical-details,
-#technical-details-button {
-	display: none !important;
-}
+#technical-details-button { display: none !important; }

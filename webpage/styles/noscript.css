@@ -9,10 +9,6 @@
 	height: auto;
 	z-index: 2;
 }
-nav {
-	left: calc(100% - (var(--normal-size) * 1.2));
-}
+nav { left: calc(100% - (var(--normal-size) * 1.2)); }
 /*Navigation Bar*/
-#iconwithname{
-	top: 0px;
-}
+#iconwithname{ top: 0px; }

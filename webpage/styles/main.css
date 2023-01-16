@@ -24,16 +24,7 @@ h2 {
 	text-align: center;
 	font-size: calc(var(--normal-size) / 2);
 }
-h3 {
-	font-size: calc(var(--normal-size) / 3);
-}
-h4 {
-	font-size: calc(var(--normal-size) / 4);
-	margin-top: 0px;
-	margin-bottom: 0px;
-}
-h5 {
-	font-size: calc(var(--normal-size) / 5.5);
+h4, h5 {
 	margin-top: 0px;
 	margin-bottom: 0px;
 }
@@ -42,6 +33,9 @@ h6 {
 	margin-top: calc(var(--normal-size) / 11);
 	margin-bottom: calc(var(--normal-size) / 11);
 }
+h3 { font-size: calc(var(--normal-size) / 3); }
+h4 { font-size: calc(var(--normal-size) / 4); }
+h5 { font-size: calc(var(--normal-size) / 5.5); }
 /*Starting Page*/
 #main-image {
 	display: flex;
@@ -51,12 +45,7 @@ h6 {
 	padding-top: calc(var(--normal-size) * 1.5);
 	z-index: -1;
 }
-main {
-	margin-left: calc(var(--normal-size) / 5);
-	margin-right: calc(var(--normal-size) / 5);
-	margin-top: 12.5%;
-	margin-bottom: calc(var(--normal-size) / 10);
-}
+main { margin: 12.5% calc(var(--normal-size) / 5) calc(var(--normal-size) / 10) calc(var(--normal-size) / 5); }
 .card-content {
 	padding: calc(var(--normal-size) / 10);
 	font-size: calc(var(--normal-size) / 5);

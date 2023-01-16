@@ -7,23 +7,14 @@ nav {
 	background-color: var(--sidebar-background);
 	transition: translate .5s;
 	z-index: -1;
-	padding-top: calc(var(--normal-size) / 10);
-	padding-left: calc(var(--normal-size) / 10);
-	padding-right: calc(var(--normal-size) / 10);
-	padding-bottom: calc(var(--normal-size) / 10);
+	padding: calc(var(--normal-size) / 10);
 	pointer-events: auto;
 	grid-template-rows: calc(var(--normal-size) * 0.7) calc(var(--normal-size) * 3.75);
 	box-sizing: border-box;
 }
-nav[state="shown"] {
-	animation: showSidebar .5s linear forwards;
-}
-nav[state="hiding"] {
-	animation: hideSidebar .5s linear forwards;
-}
-nav[state="hidden"] > #primary-navigation {
-	display: none;
-}
+nav[state="shown"] { animation: showSidebar .5s linear forwards; }
+nav[state="hiding"] { animation: hideSidebar .5s linear forwards; }
+nav[state="hidden"] > #primary-navigation { display: none; }
 @keyframes showSidebar {
 	0% { translate: 0% }
 	100% { translate: -100% }
@@ -50,9 +41,7 @@ nav[state="hidden"] > #primary-navigation {
 	height: 100%;
 	width: auto;
 }
-#language-toggle {
-	transition: transform .2s;
-}
+#language-toggle { transition: transform .2s; }
 #primary-navigation {
 	display: grid;
 	grid-template-rows: calc(var(--normal-size) / 4) repeat(5, calc(var(--normal-size) * 0.7));

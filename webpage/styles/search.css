@@ -14,18 +14,12 @@ input {
 	background-color: transparent;
 }
 @keyframes gradient {
-	0% {
-	  border-image-slice: 1;
-	}
-	100% {
-	  border-image-slice: 7;
-	}
+	0% { border-image-slice: 1; }
+	100% { border-image-slice: 7; }
 }
 #search-area {
 	display: flex;
 	width: auto;
 	height: 100% !important;
 }
-[data-category-id=search] {
-	display: none;
-}
+[data-category-id=search] { display: none; }
