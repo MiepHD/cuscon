@@ -501,5 +501,8 @@
 	<item component="ComponentInfo{dev.egl.com.intensidadwifi/dev.egl.com.intensidadwifi.ui.SplashActivity}" drawable="wifi_signal_meter" />
 	<item component="ComponentInfo{com.google.android.apps.tasks/com.google.android.apps.tasks.ui.TaskListsActivity}" drawable="google_tasks" />
 	<item component="ComponentInfo{com.ubnt.easyunifi/com.ubnt.unifi.network.splashscreen.SplashScreenActivity}" drawable="unifi_network" />
+	<item component="ComponentInfo{com.paisa.lelo.app/com.psb.novawala.activity.SplashActivity}" drawable="paisa_lelo" />
+	<item component="ComponentInfo{com.transsion.phonemaster/com.cyin.himgr.ads.SplashActivity}" drawable="phone_master" />
+	<item component="ComponentInfo{stefanlukasv.googlemail.com.watten/stefanlukasv.googlemail.com.watten.SplashActivity}" drawable="watten" />
 
 </resources>

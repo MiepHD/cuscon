@@ -1,7 +1,0 @@
-<resources>
-	
-	<AppIcon name="com.paisa.lelo.app/com.psb.novawala.activity.SplashActivity" image="paisa_lelo"/>
-	<AppIcon name="com.transsion.phonemaster/com.cyin.himgr.ads.SplashActivity" image="phone_master"/>
-	<AppIcon name="stefanlukasv.googlemail.com.watten/stefanlukasv.googlemail.com.watten.SplashActivity" image="watten"/>
-	
-</resources>

@@ -455,5 +455,8 @@
 	{ "title": "Network Signal Info", "author": "MiepHD", "src": "network_signal_info", "category": "analyzer" },
 	{ "title": "WiFi Signal Meter", "author": "MiepHD", "src": "wifi_signal_meter", "category": "analyzer" },
 	{ "title": "Google Tasks", "author": "MiepHD", "src": "google_tasks", "category": "planning" },
-	{ "title": "UniFi Network", "author": "MiepHD", "src": "unifi_network", "category": "analyzer" }
+	{ "title": "UniFi Network", "author": "MiepHD", "src": "unifi_network", "category": "analyzer" },
+	{ "title": "Paisa Lelo", "author": "MiepHD", "src": "paisa_lelo", "category": "games" },
+	{ "title": "Phone Master", "author": "MiepHD", "src": "phone_master", "category": "other" },
+	{ "title": "Watten VoglS", "author": "MiepHD", "src": "watten", "category": "games" }
 ]

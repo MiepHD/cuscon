@@ -1,7 +1,0 @@
-<resources>
-	
-	<!-- Paisa Lelo --><item component="ComponentInfo{com.paisa.lelo.app/com.psb.novawala.activity.SplashActivity}" drawable="paisa_lelo" />
-	<!-- Phone Master --><item component="ComponentInfo{com.transsion.phonemaster/com.cyin.himgr.ads.SplashActivity}" drawable="phone_master" />
-	<!-- Watten --><item component="ComponentInfo{stefanlukasv.googlemail.com.watten/stefanlukasv.googlemail.com.watten.SplashActivity}" drawable="watten" />
-
-</resources>

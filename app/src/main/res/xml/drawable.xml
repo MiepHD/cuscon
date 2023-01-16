@@ -73,6 +73,7 @@
     <!-- Chrome Remote Desktop --><item drawable="chrome_remote_desktop" />
 	<!-- Voice Access --><item drawable="voice_access" />
     <!-- Digital Alarm Clock --><item drawable="digital_alarm_clock" />
+    <!-- Phone Master --><item drawable="phone_master" />
 
     <category title="App Stores" />
     <item drawable="apkpure" />
@@ -171,6 +172,8 @@
     <!-- OXENFREE --><item drawable="oxenfree" />
     <!-- Clash of Clans --><item drawable="clash_of_clans" />
     <!-- Mahjong Solitaire --><item drawable="mahjong_solitaire" />
+    <!-- Watten VoglS --><item drawable="watten" />
+    <!-- Paisa Lelo --><item drawable="paisa_lelo" />
 
     <category title="Gaming Experience" />
     <!-- Moto Gametime--><item drawable="moto_gametime" />

@@ -483,5 +483,8 @@
 	<AppIcon name="dev.egl.com.intensidadwifi/dev.egl.com.intensidadwifi.ui.SplashActivity" image="wifi_signal_meter"/>
 	<AppIcon name="com.google.android.apps.tasks/com.google.android.apps.tasks.ui.TaskListsActivity" image="google_tasks"/>
 	<AppIcon name="com.ubnt.easyunifi/com.ubnt.unifi.network.splashscreen.SplashScreenActivity" image="unifi_network"/>
+    <AppIcon name="com.paisa.lelo.app/com.psb.novawala.activity.SplashActivity" image="paisa_lelo"/>
+	<AppIcon name="com.transsion.phonemaster/com.cyin.himgr.ads.SplashActivity" image="phone_master"/>
+	<AppIcon name="stefanlukasv.googlemail.com.watten/stefanlukasv.googlemail.com.watten.SplashActivity" image="watten"/>
 
 </Theme>

@@ -1,7 +1,0 @@
-<resources>
-	
-	<item class="com.psb.novawala.activity.SplashActivity" name="paisa_lelo"/>
-	<item class="com.cyin.himgr.ads.SplashActivity" name="phone_master"/>
-	<item class="stefanlukasv.googlemail.com.watten.SplashActivity" name="watten"/>
-
-</resources>

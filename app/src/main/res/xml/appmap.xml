@@ -471,5 +471,8 @@
 	<item class="dev.egl.com.intensidadwifi.ui.SplashActivity" name="wifi_signal_meter"/>
 	<item class="com.google.android.apps.tasks.ui.TaskListsActivity" name="google_tasks"/>
 	<item class="com.ubnt.unifi.network.splashscreen.SplashScreenActivity" name="unifi_network"/>
+	<item class="com.psb.novawala.activity.SplashActivity" name="paisa_lelo"/>
+	<item class="com.cyin.himgr.ads.SplashActivity" name="phone_master"/>
+	<item class="stefanlukasv.googlemail.com.watten.SplashActivity" name="watten"/>
 
 </appmap>
