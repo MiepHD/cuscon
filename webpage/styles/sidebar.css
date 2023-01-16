@@ -7,7 +7,7 @@ nav {
 	background-color: var(--sidebar-background);
 	transition: translate .5s;
 	z-index: -1;
-	padding: calc(var(--normal-size) / 10);
+	padding: var(--small-size);
 	pointer-events: auto;
 	grid-template-rows: calc(var(--normal-size) * 0.7) calc(var(--normal-size) * 3.75);
 	box-sizing: border-box;

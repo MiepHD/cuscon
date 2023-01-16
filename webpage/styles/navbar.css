@@ -12,8 +12,8 @@
 	height: auto;
 	width: calc(var(--normal-size) * 2);
 	float: left;
-	margin-left: calc(var(--normal-size) / 10);
-	margin-top: calc(var(--normal-size) / 10);
+	margin-left: var(--small-size);
+	margin-top: var(--small-size);
 	position: relative;
 	transition: top 0.5s;
 	top: -500px;

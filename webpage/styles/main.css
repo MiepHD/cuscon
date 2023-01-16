@@ -1,3 +1,11 @@
+:root {
+	--sidebar-background: rgba(0,0,0,0.5);
+	--light-color: rgba(255, 255, 255, 0.06);
+	--background-gradient: rgb(44, 33, 96), rgb(76,33,96), rgb(33,53,96);
+	--text-color: white;
+	--normal-size: 10ch;
+	--small-size: calc(var(--normal-size)/ 10);
+}
 /*Background*/
 body {
 	background-image: linear-gradient(var(--background-gradient));
@@ -45,17 +53,10 @@ h5 { font-size: calc(var(--normal-size) / 5.5); }
 	padding-top: calc(var(--normal-size) * 1.5);
 	z-index: -1;
 }
-main { margin: 12.5% calc(var(--normal-size) / 5) calc(var(--normal-size) / 10) calc(var(--normal-size) / 5); }
+main { margin: 12.5% calc(var(--normal-size) / 5) var(--small-size) calc(var(--normal-size) / 5); }
 .card-content {
-	padding: calc(var(--normal-size) / 10);
+	padding: var(--small-size);
 	font-size: calc(var(--normal-size) / 5);
-}
-:root {
-	--sidebar-background: rgba(0,0,0,0.5);
-	--light-color: rgba(255, 255, 255, 0.06);
-	--background-gradient: rgb(44, 33, 96), rgb(76,33,96), rgb(33,53,96);
-	--text-color: white;
-	--normal-size: 10ch;
 }
 #normal-size {
 	height: var(--normal-size);
