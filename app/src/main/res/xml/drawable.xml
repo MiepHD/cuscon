@@ -75,6 +75,10 @@
     <!-- Digital Alarm Clock --><item drawable="digital_alarm_clock" />
     <!-- Phone Master --><item drawable="phone_master" />
 
+    <!-- RNE En Directo --><item drawable="rne_en_directo" />
+    <!-- RTVE Noticias --><item drawable="rtve_noticias" />
+    <!-- RTVE Play --><item drawable="rtve_play" />
+
     <category title="App Stores" />
     <item drawable="apkpure" />
     <item drawable="f_droid" />
@@ -104,6 +108,8 @@
 	<!-- Nova Launcher Prime--><item drawable="nova_launcher_prime"/>
     <!-- Apex Launcher Pro --><item drawable="apex_launcher_pro" />
     <!-- Microsoft Launcher --><item drawable="microsoft_launcher" />
+    <!-- Flick Launcher --><item drawable="flick_launcher" />
+    <!-- Flick Launcher PRO --><item drawable="flick_launcher_pro" />
 
     <category title="Planning" />
     <item drawable="samsung_calendar" />
@@ -130,6 +136,7 @@
     <!-- Joyn --><item drawable="joyn" />
     <!-- Google TV--><item drawable="google_tv" />
     <!-- PowerTube --><item drawable="powertube" />
+    <!-- Playz --><item drawable="playz" />
 
     <category title="Music Streaming" />
     <item drawable="amazon_music" />
@@ -146,6 +153,7 @@
     <!-- xManager --><item drawable="xmanager" />
     <!-- FM Radio --><item drawable="fm_radio" />
     <!-- Google Podcasts --><item drawable="google_podcasts" />
+    <!-- Radio 3 --><item drawable="radio_3" />
 
     <category title="Recording" />
     <item drawable="voicenote" />
@@ -249,6 +257,7 @@
 	<!-- Yuzu Browser --><item drawable="yuzu_browser" />
     <!-- FOSS Browser --><item drawable="foss_browser" />
     <!-- Google --><item drawable="google"/>
+    <!-- Tabero Private Internet Browser --><item drawable="tabero_private_internet_browser" />
 
     <category title="Tools" />
     <item drawable="lucky_patcher" />
@@ -407,6 +416,7 @@
     <!-- 1Tap Cleaner Pro --><item drawable="_1tap_cleaner_pro"/>
     <!-- Warpinator --><item drawable="warpinator" />
     <!-- Google One--><item drawable="google_one" />
+    <!-- Maple Media File Explorer --><item drawable="maple_media_file_explorer" />
 
     <category title="Gallery" />
     <!-- Samsung Gallary --><item drawable="samsung_gallery" />
@@ -458,6 +468,7 @@
     <!-- Rain Alarm --><item drawable="rain_alarm" />
     <!-- Lujop El Temps --><item drawable="lujop_el_temps" />
     <!-- ElTiempo.es --><item drawable="eltiempoes" />
+    <!-- Weather Network --><item drawable="weather_network" />
 
     <category title="Design" />
     <!-- Pocket Paint --><item drawable="pocket_paint" />

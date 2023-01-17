@@ -486,5 +486,15 @@
     <AppIcon name="com.paisa.lelo.app/com.psb.novawala.activity.SplashActivity" image="paisa_lelo"/>
 	<AppIcon name="com.transsion.phonemaster/com.cyin.himgr.ads.SplashActivity" image="phone_master"/>
 	<AppIcon name="stefanlukasv.googlemail.com.watten/stefanlukasv.googlemail.com.watten.SplashActivity" image="watten"/>
+    <AppIcon name="com.universallauncher.universallauncher/com.android.launcher3.Launcher" image="flick_launcher"/>
+	<AppIcon name="com.universallauncher.flicklauncherpro/com.universallauncher.flicklauncherpro.MainActivity" image="flick_launcher_pro"/>
+	<AppIcon name="fm.clean/fm.clean.MainActivity" image="maple_media_file_explorer"/>
+	<AppIcon name="com.lechneralexander.privatebrowser/com.lechneralexander.privatebrowser.activity.MainActivity" image="tabero_private_internet_browser"/>
+	<AppIcon name="com.rtve.playz/com.rtve.playz.Screen.SplashScreen_" image="playz"/>
+	<AppIcon name="com.rtve.radio3/com.rtve.radio3.Screen.SplashScreen_" image="radio_3"/>
+	<AppIcon name="com.rtve.radio/com.rtve.radio.Screen.SplashScreen_" image="rne_en_directo"/>
+	<AppIcon name="com.rtve.mas24/com.rtve.mas24.Screen.SplashScreen_" image="rtve_noticias"/>
+	<AppIcon name="rtve.tablet.android/rtve.tablet.android.Activity.SplashActivity_" image="rtve_play"/>
+	<AppIcon name="com.pelmorex.WeatherEyeAndroid/com.pelmorex.WeatherEyeAndroid.unified.activity.splashscreen.SplashScreenActivity" image="weather_network"/>
 
 </Theme>

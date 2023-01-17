@@ -504,5 +504,15 @@
 	<item component="ComponentInfo{com.paisa.lelo.app/com.psb.novawala.activity.SplashActivity}" drawable="paisa_lelo" />
 	<item component="ComponentInfo{com.transsion.phonemaster/com.cyin.himgr.ads.SplashActivity}" drawable="phone_master" />
 	<item component="ComponentInfo{stefanlukasv.googlemail.com.watten/stefanlukasv.googlemail.com.watten.SplashActivity}" drawable="watten" />
+	<item component="ComponentInfo{com.universallauncher.universallauncher/com.android.launcher3.Launcher}" drawable="flick_launcher" />
+	<item component="ComponentInfo{com.universallauncher.flicklauncherpro/com.universallauncher.flicklauncherpro.MainActivity}" drawable="flick_launcher_pro" />
+	<item component="ComponentInfo{fm.clean/fm.clean.MainActivity}" drawable="maple_media_file_explorer" />
+	<item component="ComponentInfo{com.lechneralexander.privatebrowser/com.lechneralexander.privatebrowser.activity.MainActivity}" drawable="tabero_private_internet_browser" />
+	<item component="ComponentInfo{com.rtve.playz/com.rtve.playz.Screen.SplashScreen_}" drawable="playz" />
+	<item component="ComponentInfo{com.rtve.radio3/com.rtve.radio3.Screen.SplashScreen_}" drawable="radio_3" />
+	<item component="ComponentInfo{com.rtve.radio/com.rtve.radio.Screen.SplashScreen_}" drawable="rne_en_directo" />
+	<item component="ComponentInfo{com.rtve.mas24/com.rtve.mas24.Screen.SplashScreen_}" drawable="rtve_noticias" />
+	<item component="ComponentInfo{rtve.tablet.android/rtve.tablet.android.Activity.SplashActivity_}" drawable="rtve_play" />
+	<item component="ComponentInfo{com.pelmorex.WeatherEyeAndroid/com.pelmorex.WeatherEyeAndroid.unified.activity.splashscreen.SplashScreenActivity}" drawable="weather_network" />
 
 </resources>

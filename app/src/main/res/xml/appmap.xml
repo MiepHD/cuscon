@@ -474,5 +474,15 @@
 	<item class="com.psb.novawala.activity.SplashActivity" name="paisa_lelo"/>
 	<item class="com.cyin.himgr.ads.SplashActivity" name="phone_master"/>
 	<item class="stefanlukasv.googlemail.com.watten.SplashActivity" name="watten"/>
+	<item class="com.android.launcher3.Launcher" name="flick_launcher"/>
+	<item class="com.universallauncher.flicklauncherpro.MainActivity" name="flick_launcher_pro"/>
+	<item class="fm.clean.MainActivity" name="maple_media_file_explorer"/>
+	<item class="com.lechneralexander.privatebrowser.activity.MainActivity" name="tabero_private_internet_browser"/>
+	<item class="com.rtve.playz.Screen.SplashScreen_" name="playz"/>
+	<item class="com.rtve.radio3.Screen.SplashScreen_" name="radio_3"/>
+	<item class="com.rtve.radio.Screen.SplashScreen_" name="rne_en_directo"/>
+	<item class="com.rtve.mas24.Screen.SplashScreen_" name="rtve_noticias"/>
+	<item class="rtve.tablet.android.Activity.SplashActivity_" name="rtve_play"/>
+	<item class="com.pelmorex.WeatherEyeAndroid.unified.activity.splashscreen.SplashScreenActivity" name="weather_network"/>
 
 </appmap>

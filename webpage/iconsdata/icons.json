@@ -458,5 +458,15 @@
 	{ "title": "UniFi Network", "author": "MiepHD", "src": "unifi_network", "category": "analyzer" },
 	{ "title": "Paisa Lelo", "author": "MiepHD", "src": "paisa_lelo", "category": "games" },
 	{ "title": "Phone Master", "author": "MiepHD", "src": "phone_master", "category": "other" },
-	{ "title": "Watten VoglS", "author": "MiepHD", "src": "watten", "category": "games" }
+	{ "title": "Watten VoglS", "author": "MiepHD", "src": "watten", "category": "games" },
+	{ "title": "Flick Launcher", "author": "MiepHD", "src": "flick_launcher", "category": "launcher" },
+	{ "title": "Flick Launcher PRO", "author": "MiepHD", "src": "flick_launcher_pro", "category": "launcher" },
+	{ "title": "Maple Media File Explorer", "author": "MiepHD", "src": "maple_media_file_explorer", "category": "files" },
+	{ "title": "Tabero Private Internet Browser", "author": "MiepHD", "src": "tabero_private_internet_browser", "category": "browser" },
+	{ "title": "Playz", "author": "MiepHD", "src": "playz", "category": "video-streaming" },
+	{ "title": "Radio 3", "author": "MiepHD", "src": "radio_3", "category": "music-streaming" },
+	{ "title": "RNE En Directo", "author": "MiepHD", "src": "rne_en_directo", "category": "other" },
+	{ "title": "RTVE Noticias", "author": "MiepHD", "src": "rtve_noticias", "category": "other" },
+	{ "title": "RTVE Play", "author": "MiepHD", "src": "rtve_play", "category": "other" },
+	{ "title": "Weather Network", "author": "MiepHD", "src": "weather_network", "category": "news" }
 ]
