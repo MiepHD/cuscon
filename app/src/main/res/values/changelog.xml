@@ -2,6 +2,9 @@
 <resources>
     <string name="changelog_date">16.01.2023</string>
     <string-array name="changelog">
+        <item>2.7.9</item>
+        <item>Updated Mi O2</item>
+        <item>Added Catalunya Noticies, CatalunyaDiari, Diari ARA, El Nacional.cat, Nacio Digital, RAC1, RAC105, VilaWeb</item>
         <item>2.7.8:</item>
         <item>Added Added Flick Launcher, Flick Launcher PRO, Maple Media File Explorer, Tabero Private Internet Browser, Playz, Radio 3, RNE En Directo, RTVE Noticias, RTVE Play, Weather Network</item>
         <item>2.7.7:</item>

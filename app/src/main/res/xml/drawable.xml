@@ -74,7 +74,6 @@
 	<!-- Voice Access --><item drawable="voice_access" />
     <!-- Digital Alarm Clock --><item drawable="digital_alarm_clock" />
     <!-- Phone Master --><item drawable="phone_master" />
-
     <!-- RNE En Directo --><item drawable="rne_en_directo" />
     <!-- RTVE Noticias --><item drawable="rtve_noticias" />
     <!-- RTVE Play --><item drawable="rtve_play" />
@@ -154,6 +153,9 @@
     <!-- FM Radio --><item drawable="fm_radio" />
     <!-- Google Podcasts --><item drawable="google_podcasts" />
     <!-- Radio 3 --><item drawable="radio_3" />
+    <!-- Catalunya Noticies --><item drawable="catalunya_noticies" />
+    <!-- RAC1 --><item drawable="rac1" />
+    <!-- RAC105 --><item drawable="rac105" />
 
     <category title="Recording" />
     <item drawable="voicenote" />
@@ -469,6 +471,11 @@
     <!-- Lujop El Temps --><item drawable="lujop_el_temps" />
     <!-- ElTiempo.es --><item drawable="eltiempoes" />
     <!-- Weather Network --><item drawable="weather_network" />
+    <!-- CatalunyaDiari --><item drawable="catalunyadiari" />
+    <!-- Diari ARA --><item drawable="diari_ara" />
+    <!-- El Nacional.cat --><item drawable="el_nacionalcat" />
+    <!-- Nacio Digital --><item drawable="nacio_digital" />
+    <!-- VilaWeb --><item drawable="vilaweb" />
 
     <category title="Design" />
     <!-- Pocket Paint --><item drawable="pocket_paint" />

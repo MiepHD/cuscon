@@ -486,5 +486,13 @@
 	<item class="com.rtve.mas24.Screen.SplashScreen_" name="rtve_noticias"/>
 	<item class="rtve.tablet.android.Activity.SplashActivity_" name="rtve_play"/>
 	<item class="com.pelmorex.WeatherEyeAndroid.unified.activity.splashscreen.SplashScreenActivity" name="weather_network"/>
+	<item class="com.edsbestapps.catalunya.MainActivity" name="catalunya_noticies"/>
+	<item class="com.catalunyadiari.MainActivity" name="catalunyadiari"/>
+	<item class="com.atsistemas.ara.ui.MainToolbarActivity" name="diari_ara"/>
+	<item class="com.babsoft.elnacional.MainActivity" name="el_nacionalcat"/>
+	<item class="com.sixtemia.naciodigitalbase.SplashActivity" name="nacio_digital"/>
+	<item class="com.grupogodo.rac.SplashActivity" name="rac1"/>
+	<item class="com.grupogodo.rac.SplashActivity" name="rac105"/>
+	<item class="com.eideam.vilaweb.SplashScreenActivity" name="vilaweb"/>
 
 </appmap>

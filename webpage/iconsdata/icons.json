@@ -468,5 +468,13 @@
 	{ "title": "RNE En Directo", "author": "MiepHD", "src": "rne_en_directo", "category": "other" },
 	{ "title": "RTVE Noticias", "author": "MiepHD", "src": "rtve_noticias", "category": "other" },
 	{ "title": "RTVE Play", "author": "MiepHD", "src": "rtve_play", "category": "other" },
-	{ "title": "Weather Network", "author": "MiepHD", "src": "weather_network", "category": "news" }
+	{ "title": "Weather Network", "author": "MiepHD", "src": "weather_network", "category": "news" },
+	{ "title": "Catalunya Noticies", "author": "MiepHD", "src": "catalunya_noticies", "category": "music-streaming" },
+	{ "title": "CatalunyaDiari", "author": "MiepHD", "src": "catalunyadiari", "category": "news" },
+	{ "title": "Diari ARA", "author": "MiepHD", "src": "diari_ara", "category": "news" },
+	{ "title": "El Nacional.cat", "author": "MiepHD", "src": "el_nacionalcat", "category": "news" },
+	{ "title": "Nacio Digital", "author": "MiepHD", "src": "nacio_digital", "category": "news" },
+	{ "title": "RAC1", "author": "MiepHD", "src": "rac1", "category": "music-streaming" },
+	{ "title": "RAC105", "author": "MiepHD", "src": "rac105", "category": "music-streaming" },
+	{ "title": "VilaWeb", "author": "MiepHD", "src": "vilaweb", "category": "news" }
 ]

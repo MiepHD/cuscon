@@ -498,5 +498,13 @@
 	<AppIcon name="com.rtve.mas24/com.rtve.mas24.Screen.SplashScreen_" image="rtve_noticias"/>
 	<AppIcon name="rtve.tablet.android/rtve.tablet.android.Activity.SplashActivity_" image="rtve_play"/>
 	<AppIcon name="com.pelmorex.WeatherEyeAndroid/com.pelmorex.WeatherEyeAndroid.unified.activity.splashscreen.SplashScreenActivity" image="weather_network"/>
+	<AppIcon name="com.edsbestapps.catalunya/com.edsbestapps.catalunya.MainActivity" image="catalunya_noticies"/>
+	<AppIcon name="com.catalunyadiari/com.catalunyadiari.MainActivity" image="catalunyadiari"/>
+	<AppIcon name="cat.ara.android/com.atsistemas.ara.ui.MainToolbarActivity" image="diari_ara"/>
+	<AppIcon name="cat.elnacional.elmeunacional/com.babsoft.elnacional.MainActivity" image="el_nacionalcat"/>
+	<AppIcon name="com.sixtemia.naciodigital/com.sixtemia.naciodigitalbase.SplashActivity" image="nacio_digital"/>
+	<AppIcon name="com.grupogodo.rac1/com.grupogodo.rac.SplashActivity" image="rac1"/>
+	<AppIcon name="com.grupogodo.rac105/com.grupogodo.rac.SplashActivity" image="rac105"/>
+	<AppIcon name="com.eideam.vilaweb/com.eideam.vilaweb.SplashScreenActivity" image="vilaweb"/>
 
 </Theme>

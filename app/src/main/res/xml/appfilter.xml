@@ -516,5 +516,13 @@
 	<item component="ComponentInfo{com.rtve.mas24/com.rtve.mas24.Screen.SplashScreen_}" drawable="rtve_noticias" />
 	<item component="ComponentInfo{rtve.tablet.android/rtve.tablet.android.Activity.SplashActivity_}" drawable="rtve_play" />
 	<item component="ComponentInfo{com.pelmorex.WeatherEyeAndroid/com.pelmorex.WeatherEyeAndroid.unified.activity.splashscreen.SplashScreenActivity}" drawable="weather_network" />
+	<item component="ComponentInfo{com.edsbestapps.catalunya/com.edsbestapps.catalunya.MainActivity}" drawable="catalunya_noticies" />
+	<item component="ComponentInfo{com.catalunyadiari/com.catalunyadiari.MainActivity}" drawable="catalunyadiari" />
+	<item component="ComponentInfo{cat.ara.android/com.atsistemas.ara.ui.MainToolbarActivity}" drawable="diari_ara" />
+	<item component="ComponentInfo{cat.elnacional.elmeunacional/com.babsoft.elnacional.MainActivity}" drawable="el_nacionalcat" />
+	<item component="ComponentInfo{com.sixtemia.naciodigital/com.sixtemia.naciodigitalbase.SplashActivity}" drawable="nacio_digital" />
+	<item component="ComponentInfo{com.grupogodo.rac1/com.grupogodo.rac.SplashActivity}" drawable="rac1" />
+	<item component="ComponentInfo{com.grupogodo.rac105/com.grupogodo.rac.SplashActivity}" drawable="rac105" />
+	<item component="ComponentInfo{com.eideam.vilaweb/com.eideam.vilaweb.SplashScreenActivity}" drawable="vilaweb" />
 
 </resources>
