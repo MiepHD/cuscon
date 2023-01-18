@@ -494,5 +494,6 @@
 	<item class="com.grupogodo.rac.SplashActivity" name="rac1"/>
 	<item class="com.grupogodo.rac.SplashActivity" name="rac105"/>
 	<item class="com.eideam.vilaweb.SplashScreenActivity" name="vilaweb"/>
+	<item class="de.danoeh.antennapod.activity.SplashActivity" name="antennapod"/>
 
 </appmap>

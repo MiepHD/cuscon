@@ -524,5 +524,6 @@
 	<item component="ComponentInfo{com.grupogodo.rac1/com.grupogodo.rac.SplashActivity}" drawable="rac1" />
 	<item component="ComponentInfo{com.grupogodo.rac105/com.grupogodo.rac.SplashActivity}" drawable="rac105" />
 	<item component="ComponentInfo{com.eideam.vilaweb/com.eideam.vilaweb.SplashScreenActivity}" drawable="vilaweb" />
+	<item component="ComponentInfo{de.danoeh.antennapod/de.danoeh.antennapod.activity.SplashActivity}" drawable="antennapod" />
 
 </resources>

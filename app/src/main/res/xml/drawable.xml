@@ -77,6 +77,7 @@
     <!-- RNE En Directo --><item drawable="rne_en_directo" />
     <!-- RTVE Noticias --><item drawable="rtve_noticias" />
     <!-- RTVE Play --><item drawable="rtve_play" />
+    <!-- AntennaPod --><item drawable="antennapod" />
 
     <category title="App Stores" />
     <item drawable="apkpure" />

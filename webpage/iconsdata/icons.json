@@ -476,5 +476,6 @@
 	{ "title": "Nacio Digital", "author": "MiepHD", "src": "nacio_digital", "category": "news" },
 	{ "title": "RAC1", "author": "MiepHD", "src": "rac1", "category": "music-streaming" },
 	{ "title": "RAC105", "author": "MiepHD", "src": "rac105", "category": "music-streaming" },
-	{ "title": "VilaWeb", "author": "MiepHD", "src": "vilaweb", "category": "news" }
+	{ "title": "VilaWeb", "author": "MiepHD", "src": "vilaweb", "category": "news" },
+	{ "title": "AntennaPod", "author": "MiepHD", "src": "antennapod", "category": "other" }
 ]
