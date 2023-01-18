@@ -263,7 +263,9 @@
 	<!-- Nova Launcher Prime--><item class="com.teslacoilsw.launcher.prime.NovaLauncherPrimeActivity" name="nova_launcher_prime"/>
 	<!-- iwscan--><item class="com.evbadroid.iwscan.ScanActivity" name="iwscan"/>
 	<!-- Kiwi Browser --><item class="com.google.android.apps.chrome.Main" name="kiwi_browser"/>
-	<!-- Mi O2--><item class="com.movistar.android.mimovistar.es.presentation.MainActivity" name="my_o2"/>
+	<!-- Mi O2-->
+		<item class="com.movistar.android.mimovistar.es.presentation.MainActivity" name="my_o2"/>
+		<item class="es.o2.mio2.views.MainActivity" name="my_o2"/>
 	<!-- Mein O2 --><item class="canvasm.myo2.SplashActivity" name="my_o2"/>
 	<!-- My O2 --><item class="cz.o2.moje.RouterActivity" name="my_o2"/>
 	<!-- My O2 --><item class="com.tuenti.messenger.ui.activity.MainActivity" name="my_o2"/>

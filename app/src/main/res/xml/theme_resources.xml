@@ -275,7 +275,9 @@
 	<!-- FAST Speed Test --><AppIcon name="com.netflix.Speedtest/com.netflix.Speedtest.MainActivity" image="fast_speed_test"/>
 	<!-- iwscan --><AppIcon name="com.evbadroid.iwscan/com.evbadroid.iwscan.ScanActivity" image="iwscan"/>
 	<!-- Kiwi Browser --><AppIcon name="com.kiwibrowser.browser/com.google.android.apps.chrome.Main" image="kiwi_browser"/>
-	<!-- Mi O2 --><AppIcon name="es.o2.mio2/com.movistar.android.mimovistar.es.presentation.MainActivity" image="my_o2"/>
+	<!-- Mi O2 -->
+		<AppIcon name="es.o2.mio2/com.movistar.android.mimovistar.es.presentation.MainActivity" image="my_o2"/>
+		<AppIcon name="es.o2.mio2/es.o2.mio2.views.MainActivity" image="my_o2"/>
 	<!-- Mein O2 --><AppIcon name="canvasm.myo2/canvasm.myo2.SplashActivity" image="my_o2"/>
 	<!-- My O2 --><AppIcon name="cz.o2.moje/cz.o2.moje.RouterActivity" image="my_o2"/>
 	<!-- My O2 --><AppIcon name="uk.co.o2.android.myo2/com.tuenti.messenger.ui.activity.MainActivity" image="my_o2"/>

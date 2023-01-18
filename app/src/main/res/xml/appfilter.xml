@@ -227,13 +227,13 @@
     <!-- MEGA --><item component="ComponentInfo{mega.privacy.android.app/mega.privacy.android.app.main.ManagerActivity}" drawable="mega" />
     <!-- Info Dienste --><item component="ComponentInfo{com.android.stk/com.android.stk.StkMain}" drawable="info_dienste" />
 
-    <!--SimpleLogin -->
+    <!-- SimpleLogin -->
         <item component="ComponentInfo{io.simplelogin.android/io.simplelogin.android.module.startup.StartupActivity}" drawable="simplelogin" />
         <item component="ComponentInfo{io.simplelogin.android.fdroid/io.simplelogin.android.module.startup.StartupActivity}" drawable="simplelogin" />
 
-    <!--Symbolab --><item component="ComponentInfo{com.devsense.symbolab/com.symbolab.symbolablibrary.ui.activities.SplashActivity}" drawable="symbolab" />
-    <!--Termux --><item component="ComponentInfo{com.termux/com.termux.app.TermuxActivity}" drawable="termux" />
-    <!--WhatsApp SIM --><item component="ComponentInfo{de.eplus.mappecc.client.android.whatsappsim/de.eplus.mappecc.client.android.feature.splashscreen.SplashActivity}" drawable="whatsapp_sim" />
+    <!-- Symbolab --><item component="ComponentInfo{com.devsense.symbolab/com.symbolab.symbolablibrary.ui.activities.SplashActivity}" drawable="symbolab" />
+    <!-- Termux --><item component="ComponentInfo{com.termux/com.termux.app.TermuxActivity}" drawable="termux" />
+    <!-- WhatsApp SIM --><item component="ComponentInfo{de.eplus.mappecc.client.android.whatsappsim/de.eplus.mappecc.client.android.feature.splashscreen.SplashActivity}" drawable="whatsapp_sim" />
     <!-- Aliucord Installer --><item component="ComponentInfo{com.aliucord.installer/com.aliucord.installer.MainActivity}" drawable="aliucord_installer" />
     <!-- Apkmody --><item component="ComponentInfo{co.tech.apkgames/com.example.MainActivity}" drawable="apkmody" />
     <!-- Chrome --><item component="ComponentInfo{com.android.chrome/com.google.android.apps.chrome.Main}" drawable="chrome" />
@@ -293,7 +293,9 @@
 	<!-- FAST Speed Test --><item component="ComponentInfo{com.netflix.Speedtest/com.netflix.Speedtest.MainActivity}" drawable="fast_speed_test" />
 	<!-- iwscan --><item component="ComponentInfo{com.evbadroid.iwscan/com.evbadroid.iwscan.ScanActivity}" drawable="iwscan" />
 	<!-- Kiwi Browser --><item component="ComponentInfo{com.kiwibrowser.browser/com.google.android.apps.chrome.Main}" drawable="kiwi_browser" />
-	<!-- Mi O2 --><item component="ComponentInfo{es.o2.mio2/com.movistar.android.mimovistar.es.presentation.MainActivity}" drawable="my_o2" />
+	<!-- Mi O2 -->
+		<item component="ComponentInfo{es.o2.mio2/com.movistar.android.mimovistar.es.presentation.MainActivity}" drawable="my_o2" />
+		<item component="ComponentInfo{es.o2.mio2/es.o2.mio2.views.MainActivity}" drawable="my_o2" />
 	<!-- Mein O2 --><item component="ComponentInfo{canvasm.myo2/canvasm.myo2.SplashActivity}" drawable="my_o2" />
 	<!-- My O2 --><item component="ComponentInfo{cz.o2.moje/cz.o2.moje.RouterActivity}" drawable="my_o2" />
 	<!-- My O2 --><item component="ComponentInfo{uk.co.o2.android.myo2/com.tuenti.messenger.ui.activity.MainActivity}" drawable="my_o2" />
