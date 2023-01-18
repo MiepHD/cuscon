@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="changelog_date">16.01.2023</string>
+    <string name="changelog_date">18.01.2023</string>
     <string-array name="changelog">
         <item>2.7.9</item>
         <item>Updated Mi O2</item>
