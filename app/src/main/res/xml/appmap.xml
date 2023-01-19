@@ -495,5 +495,15 @@
 	<item class="com.grupogodo.rac.SplashActivity" name="rac105"/>
 	<item class="com.eideam.vilaweb.SplashScreenActivity" name="vilaweb"/>
 	<item class="de.danoeh.antennapod.activity.SplashActivity" name="antennapod"/>
+	<item class="com.dhl.exp.dhlmobile.MainActivity" name="dhl_express"/>
+	<item class="com.dinaprise.envialiamobile.MainActivity" name="envialia"/>
+	<item class="com.fedex.ida.android.views.core.FedExHOME" name="fedex"/>
+	<item class="com.imaginbank.appima.darkimagin" name="imagin"/>
+	<item class="com.orange.bluu.jazztel.MainActivity" name="jazztel"/>
+	<item class="com.nacex.mynacex.MainActivity" name="my_nacex"/>
+	<item class="com.spanishcoders.pepephone.MainActivity" name="pepephone"/>
+	<item class="com.tipsa.app.Tipsa" name="tipsa"/>
+	<item class="com.tnt.mobile.SplashActivity" name="tnt_tracking"/>
+	<item class="crc6466778ac8e5630834.SplashActivity" name="ups"/>
 
 </appmap>

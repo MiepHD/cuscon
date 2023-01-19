@@ -507,5 +507,15 @@
 	<AppIcon name="com.grupogodo.rac105/com.grupogodo.rac.SplashActivity" image="rac105"/>
 	<AppIcon name="com.eideam.vilaweb/com.eideam.vilaweb.SplashScreenActivity" image="vilaweb"/>
 	<AppIcon name="de.danoeh.antennapod/de.danoeh.antennapod.activity.SplashActivity" image="antennapod"/>
+	<AppIcon name="com.dhl.exp.dhlmobile/com.dhl.exp.dhlmobile.MainActivity" image="dhl_express"/>
+	<AppIcon name="com.dinaprise.envialiamobile/com.dinaprise.envialiamobile.MainActivity" image="envialia"/>
+	<AppIcon name="com.fedex.ida.android/com.fedex.ida.android.views.core.FedExHOME" image="fedex"/>
+	<AppIcon name="com.imaginbank.app/com.imaginbank.appima.darkimagin" image="imagin"/>
+	<AppIcon name="com.orange.bluu.jazztel/com.orange.bluu.jazztel.MainActivity" image="jazztel"/>
+	<AppIcon name="com.nacex.mynacex/com.nacex.mynacex.MainActivity" image="my_nacex"/>
+	<AppIcon name="com.spanishcoders.pepephone/com.spanishcoders.pepephone.MainActivity" image="pepephone"/>
+	<AppIcon name="com.tipsa.app/com.tipsa.app.Tipsa" image="tipsa"/>
+	<AppIcon name="com.tnt.mobile/com.tnt.mobile.SplashActivity" image="tnt_tracking"/>
+	<AppIcon name="com.ups.mobile.android/crc6466778ac8e5630834.SplashActivity" image="ups"/>
 
 </Theme>

@@ -477,5 +477,15 @@
 	{ "title": "RAC1", "author": "MiepHD", "src": "rac1", "category": "music-streaming" },
 	{ "title": "RAC105", "author": "MiepHD", "src": "rac105", "category": "music-streaming" },
 	{ "title": "VilaWeb", "author": "MiepHD", "src": "vilaweb", "category": "news" },
-	{ "title": "AntennaPod", "author": "MiepHD", "src": "antennapod", "category": "other" }
+	{ "title": "AntennaPod", "author": "MiepHD", "src": "antennapod", "category": "other" },
+	{ "title": "DHL Express", "author": "MiepHD", "src": "dhl_express", "category": "other" },
+	{ "title": "Envialia", "author": "MiepHD", "src": "envialia", "category": "other" },
+	{ "title": "FedEx", "author": "MiepHD", "src": "fedex", "category": "other" },
+	{ "title": "imagin", "author": "MiepHD", "src": "imagin", "category": "banking" },
+	{ "title": "Jazztel", "author": "MiepHD", "src": "jazztel", "category": "other" },
+	{ "title": "My Nacex", "author": "MiepHD", "src": "my_nacex", "category": "other" },
+	{ "title": "Pepephone", "author": "MiepHD", "src": "pepephone", "category": "other" },
+	{ "title": "Tipsa", "author": "MiepHD", "src": "tipsa", "category": "other" },
+	{ "title": "TNT - Tracking", "author": "MiepHD", "src": "tnt_tracking", "category": "other" },
+	{ "title": "UPS", "author": "MiepHD", "src": "ups", "category": "other" }
 ]

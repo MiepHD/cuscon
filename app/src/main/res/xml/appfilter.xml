@@ -525,5 +525,15 @@
 	<item component="ComponentInfo{com.grupogodo.rac105/com.grupogodo.rac.SplashActivity}" drawable="rac105" />
 	<item component="ComponentInfo{com.eideam.vilaweb/com.eideam.vilaweb.SplashScreenActivity}" drawable="vilaweb" />
 	<item component="ComponentInfo{de.danoeh.antennapod/de.danoeh.antennapod.activity.SplashActivity}" drawable="antennapod" />
+	<item component="ComponentInfo{com.dhl.exp.dhlmobile/com.dhl.exp.dhlmobile.MainActivity}" drawable="dhl_express" />
+	<item component="ComponentInfo{com.dinaprise.envialiamobile/com.dinaprise.envialiamobile.MainActivity}" drawable="envialia" />
+	<item component="ComponentInfo{com.fedex.ida.android/com.fedex.ida.android.views.core.FedExHOME}" drawable="fedex" />
+	<item component="ComponentInfo{com.imaginbank.app/com.imaginbank.appima.darkimagin}" drawable="imagin" />
+	<item component="ComponentInfo{com.orange.bluu.jazztel/com.orange.bluu.jazztel.MainActivity}" drawable="jazztel" />
+	<item component="ComponentInfo{com.nacex.mynacex/com.nacex.mynacex.MainActivity}" drawable="my_nacex" />
+	<item component="ComponentInfo{com.spanishcoders.pepephone/com.spanishcoders.pepephone.MainActivity}" drawable="pepephone" />
+	<item component="ComponentInfo{com.tipsa.app/com.tipsa.app.Tipsa}" drawable="tipsa" />
+	<item component="ComponentInfo{com.tnt.mobile/com.tnt.mobile.SplashActivity}" drawable="tnt_tracking" />
+	<item component="ComponentInfo{com.ups.mobile.android/crc6466778ac8e5630834.SplashActivity}" drawable="ups" />
 
 </resources>

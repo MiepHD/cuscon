@@ -78,6 +78,15 @@
     <!-- RTVE Noticias --><item drawable="rtve_noticias" />
     <!-- RTVE Play --><item drawable="rtve_play" />
     <!-- AntennaPod --><item drawable="antennapod" />
+    <!-- DHL Express --><item drawable="dhl_express" />
+	<!-- Envialia --><item drawable="envialia" />
+	<!-- FedEx --><item drawable="fedex" />
+	<!-- Jazztel --><item drawable="jazztel" />
+	<!-- My Nacex --><item drawable="my_nacex" />
+	<!-- Pepephone --><item drawable="pepephone" />
+	<!-- Tipsa --><item drawable="tipsa" />
+	<!-- TNT - Tracking --><item drawable="tnt_tracking" />
+	<!-- UPS --><item drawable="ups" />
 
     <category title="App Stores" />
     <item drawable="apkpure" />
@@ -528,5 +537,6 @@
     <!-- Paytm --><item drawable="paytm" />
     <!-- PhonePe --><item drawable="phonepe" />
     <!-- Google Wallet --><item drawable="google_wallet" />
+    <!-- imagin --><item drawable="imagin" />
 
 </resources>
