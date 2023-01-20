@@ -87,6 +87,7 @@
 	<!-- Tipsa --><item drawable="tipsa" />
 	<!-- TNT - Tracking --><item drawable="tnt_tracking" />
 	<!-- UPS --><item drawable="ups" />
+    <!-- DB Streckenagent --><item drawable="db_streckenagent" />
 
     <category title="App Stores" />
     <item drawable="apkpure" />

@@ -535,5 +535,6 @@
 	<item component="ComponentInfo{com.tipsa.app/com.tipsa.app.Tipsa}" drawable="tipsa" />
 	<item component="ComponentInfo{com.tnt.mobile/com.tnt.mobile.SplashActivity}" drawable="tnt_tracking" />
 	<item component="ComponentInfo{com.ups.mobile.android/crc6466778ac8e5630834.SplashActivity}" drawable="ups" />
+	<item component="ComponentInfo{de.hafas.android.bayernnavi/com.moovel.mobility.screens.main.splash.SplashActivity}" drawable="db_streckenagent" />
 
 </resources>

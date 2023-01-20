@@ -517,5 +517,6 @@
 	<AppIcon name="com.tipsa.app/com.tipsa.app.Tipsa" image="tipsa"/>
 	<AppIcon name="com.tnt.mobile/com.tnt.mobile.SplashActivity" image="tnt_tracking"/>
 	<AppIcon name="com.ups.mobile.android/crc6466778ac8e5630834.SplashActivity" image="ups"/>
+	<AppIcon name="de.hafas.android.bayernnavi/com.moovel.mobility.screens.main.splash.SplashActivity" image="db_streckenagent"/>
 
 </Theme>

@@ -505,5 +505,6 @@
 	<item class="com.tipsa.app.Tipsa" name="tipsa"/>
 	<item class="com.tnt.mobile.SplashActivity" name="tnt_tracking"/>
 	<item class="crc6466778ac8e5630834.SplashActivity" name="ups"/>
+	<item class="com.moovel.mobility.screens.main.splash.SplashActivity" name="db_streckenagent"/>
 
 </appmap>
