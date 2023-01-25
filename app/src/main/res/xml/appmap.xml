@@ -511,5 +511,7 @@
 	<item class="com.unity3d.player.UnityPlayerActivity" name="lawyerslegacy"/>
 	<item class="com.wakdev.nfctools.free.views.MainActivityFree" name="nfc_tools"/>
 	<item class="com.scopely.unity.ScopelyUnityActivity" name="stumble_guys"/>
+	<item class="com.amazon.venezia.Launcher" name="amazon_appstore"/>
+	<item class="com.android.camera.CameraLauncher" name="open_camera"/>
 
 </appmap>

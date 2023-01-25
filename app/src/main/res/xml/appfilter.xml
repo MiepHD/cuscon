@@ -541,5 +541,7 @@
 	<item component="ComponentInfo{com.YGameStudios.LawyersLegacy/com.unity3d.player.UnityPlayerActivity}" drawable="lawyerslegacy" />
 	<item component="ComponentInfo{com.wakdev.wdnfc/com.wakdev.nfctools.free.views.MainActivityFree}" drawable="nfc_tools" />
 	<item component="ComponentInfo{com.kitkagames.fallbuddies/com.scopely.unity.ScopelyUnityActivity}" drawable="stumble_guys" />
+	<item component="ComponentInfo{com.amazon.venezia/com.amazon.venezia.Launcher}" drawable="amazon_appstore" />
+	<item component="ComponentInfo{com.android.camera2/com.android.camera.CameraLauncher}" drawable="open_camera" />
 
 </resources>

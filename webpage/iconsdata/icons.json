@@ -493,5 +493,7 @@
 	{ "title": "Infinity", "author": "MiepHD", "src": "infinity", "category": "other" },
 	{ "title": "LawyersLegacy", "author": "MiepHD", "src": "lawyerslegacy", "category": "games" },
 	{ "title": "NFC Tools", "author": "MiepHD", "src": "nfc_tools", "category": "other" },
-	{ "title": "Stumble Guys", "author": "MiepHD", "src": "stumble_guys", "category": "games" }
+	{ "title": "Stumble Guys", "author": "MiepHD", "src": "stumble_guys", "category": "games" },
+	{ "title": "Amazon Appstore", "author": "MiepHD", "src": "amazon_appstore", "category": "app-stores" },
+{ "title": "Kamera", "author": "MiepHD", "src": "open_camera", "category": "camera" }
 ]

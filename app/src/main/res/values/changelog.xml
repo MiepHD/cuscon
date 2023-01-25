@@ -3,7 +3,7 @@
     <string name="changelog_date">25.01.2023</string>
     <string-array name="changelog">
         <item>2.8.1:</item>
-        <item>Added DB Streckenagent, DB Train Simulator, Infinity, LawyersLegacy, NFC Tools, Stumble Guys</item>
+        <item>Added DB Streckenagent, DB Train Simulator, Infinity, LawyersLegacy, NFC Tools, Stumble Guys, Amazon Appstore, Kamera</item>
         <item>Updated Bayern-Fahrplan</item>
         <item>2.8.0:</item>
         <item>Added Antennapod, DHL Express, Envialia, FedEx, imagin, Jazztel, My Nacex, Pepephone, Tipsa, TNT - Tracking, UPS</item>

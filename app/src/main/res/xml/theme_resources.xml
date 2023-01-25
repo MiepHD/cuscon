@@ -523,5 +523,7 @@
 	<AppIcon name="com.YGameStudios.LawyersLegacy/com.unity3d.player.UnityPlayerActivity" image="lawyerslegacy"/>
 	<AppIcon name="com.wakdev.wdnfc/com.wakdev.nfctools.free.views.MainActivityFree" image="nfc_tools"/>
 	<AppIcon name="com.kitkagames.fallbuddies/com.scopely.unity.ScopelyUnityActivity" image="stumble_guys"/>
+	<AppIcon name="com.amazon.venezia/com.amazon.venezia.Launcher" image="amazon_appstore"/>
+	<AppIcon name="com.android.camera2/com.android.camera.CameraLauncher" image="open_camera"/>
 
 </Theme>

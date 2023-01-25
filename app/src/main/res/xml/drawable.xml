@@ -103,6 +103,7 @@
     <!-- Aliucord Installer --><item drawable="aliucord_installer" />
     <!-- Apkmody --><item drawable="apkmody" />
     <!-- Jojoy --><item drawable="jojoy"/>
+    <!-- Amazon Appstore --><item drawable="amazon_appstore" />
 
     <category title="Shops" />
     <!-- Lieferando --><item drawable="lieferando"/>
@@ -394,6 +395,7 @@
     <!-- Retroboy --><item drawable="retroboy" />
     <!-- Moto Camera 3--><item drawable="moto_camera_3"/>
     <!-- Android Camera --><item drawable="android_camera" />
+    <!-- Kamera --><item drawable="open_camera" />
 
     <category title="Scanner" />
     <!-- Flora Incognita --><item drawable="flora_incognita" />
