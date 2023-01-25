@@ -88,6 +88,8 @@
 	<!-- TNT - Tracking --><item drawable="tnt_tracking" />
 	<!-- UPS --><item drawable="ups" />
     <!-- DB Streckenagent --><item drawable="db_streckenagent" />
+	<!-- Infinity --><item drawable="infinity" />
+	<!-- NFC Tools --><item drawable="nfc_tools" />
 
     <category title="App Stores" />
     <item drawable="apkpure" />
@@ -195,6 +197,9 @@
     <!-- Mahjong Solitaire --><item drawable="mahjong_solitaire" />
     <!-- Watten VoglS --><item drawable="watten" />
     <!-- Paisa Lelo --><item drawable="paisa_lelo" />
+    <!-- DB Train Simulator --><item drawable="db_train_simulator" />
+    <!-- Stumble Guys --><item drawable="stumble_guys" />
+    <!-- LawyersLegacy --><item drawable="lawyerslegacy" />
 
     <category title="Gaming Experience" />
     <!-- Moto Gametime--><item drawable="moto_gametime" />

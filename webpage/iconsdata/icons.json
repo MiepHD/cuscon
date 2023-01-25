@@ -488,5 +488,10 @@
 	{ "title": "Tipsa", "author": "MiepHD", "src": "tipsa", "category": "other" },
 	{ "title": "TNT - Tracking", "author": "MiepHD", "src": "tnt_tracking", "category": "other" },
 	{ "title": "UPS", "author": "MiepHD", "src": "ups", "category": "other" },
-	{ "title": "DB Streckenagent", "author": "MiepHD", "src": "db_streckenagent", "category": "other" }
+	{ "title": "DB Streckenagent", "author": "MiepHD", "src": "db_streckenagent", "category": "other" },
+	{ "title": "DB Train Simulator", "author": "MiepHD", "src": "db_train_simulator", "category": "games" },
+	{ "title": "Infinity", "author": "MiepHD", "src": "infinity", "category": "other" },
+	{ "title": "LawyersLegacy", "author": "MiepHD", "src": "lawyerslegacy", "category": "games" },
+	{ "title": "NFC Tools", "author": "MiepHD", "src": "nfc_tools", "category": "other" },
+	{ "title": "Stumble Guys", "author": "MiepHD", "src": "stumble_guys", "category": "games" }
 ]

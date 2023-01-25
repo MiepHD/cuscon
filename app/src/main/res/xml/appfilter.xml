@@ -536,5 +536,10 @@
 	<item component="ComponentInfo{com.tnt.mobile/com.tnt.mobile.SplashActivity}" drawable="tnt_tracking" />
 	<item component="ComponentInfo{com.ups.mobile.android/crc6466778ac8e5630834.SplashActivity}" drawable="ups" />
 	<item component="ComponentInfo{de.hafas.android.bayernnavi/com.moovel.mobility.screens.main.splash.SplashActivity}" drawable="db_streckenagent" />
+	<item component="ComponentInfo{com.vidiludi.dbtrainsimulator/com.unity3d.player.UnityPlayerActivity}" drawable="db_train_simulator" />
+	<item component="ComponentInfo{ml.docilealligator.infinityforreddit/ml.docilealligator.infinityforreddit.activities.MainActivity}" drawable="infinity" />
+	<item component="ComponentInfo{com.YGameStudios.LawyersLegacy/com.unity3d.player.UnityPlayerActivity}" drawable="lawyerslegacy" />
+	<item component="ComponentInfo{com.wakdev.wdnfc/com.wakdev.nfctools.free.views.MainActivityFree}" drawable="nfc_tools" />
+	<item component="ComponentInfo{com.kitkagames.fallbuddies/com.scopely.unity.ScopelyUnityActivity}" drawable="stumble_guys" />
 
 </resources>

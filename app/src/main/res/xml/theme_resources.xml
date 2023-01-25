@@ -518,5 +518,10 @@
 	<AppIcon name="com.tnt.mobile/com.tnt.mobile.SplashActivity" image="tnt_tracking"/>
 	<AppIcon name="com.ups.mobile.android/crc6466778ac8e5630834.SplashActivity" image="ups"/>
 	<AppIcon name="de.hafas.android.bayernnavi/com.moovel.mobility.screens.main.splash.SplashActivity" image="db_streckenagent"/>
+	<AppIcon name="com.vidiludi.dbtrainsimulator/com.unity3d.player.UnityPlayerActivity" image="db_train_simulator"/>
+	<AppIcon name="ml.docilealligator.infinityforreddit/ml.docilealligator.infinityforreddit.activities.MainActivity" image="infinity"/>
+	<AppIcon name="com.YGameStudios.LawyersLegacy/com.unity3d.player.UnityPlayerActivity" image="lawyerslegacy"/>
+	<AppIcon name="com.wakdev.wdnfc/com.wakdev.nfctools.free.views.MainActivityFree" image="nfc_tools"/>
+	<AppIcon name="com.kitkagames.fallbuddies/com.scopely.unity.ScopelyUnityActivity" image="stumble_guys"/>
 
 </Theme>

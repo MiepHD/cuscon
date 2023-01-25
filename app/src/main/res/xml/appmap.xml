@@ -506,5 +506,10 @@
 	<item class="com.tnt.mobile.SplashActivity" name="tnt_tracking"/>
 	<item class="crc6466778ac8e5630834.SplashActivity" name="ups"/>
 	<item class="com.moovel.mobility.screens.main.splash.SplashActivity" name="db_streckenagent"/>
+	<item class="com.unity3d.player.UnityPlayerActivity" name="db_train_simulator"/>
+	<item class="ml.docilealligator.infinityforreddit.activities.MainActivity" name="infinity"/>
+	<item class="com.unity3d.player.UnityPlayerActivity" name="lawyerslegacy"/>
+	<item class="com.wakdev.nfctools.free.views.MainActivityFree" name="nfc_tools"/>
+	<item class="com.scopely.unity.ScopelyUnityActivity" name="stumble_guys"/>
 
 </appmap>
