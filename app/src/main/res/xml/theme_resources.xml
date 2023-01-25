@@ -438,7 +438,7 @@
 	<AppIcon name="com.mediocre.commute/com.mediocre.commute.Main" image="commute"/>
 	<AppIcon name="com.easybrain.nonogram/com.easybrain.template.SplashActivity" image="nonogramcom"/>
 	<AppIcon name="com.tombayley.tileshortcuts/com.tombayley.tileshortcuts.app.ui.home.MainActivity" image="tile_shortcuts"/>
-	<AppIcon name="com.mdv.DEFASCompanion/crc647ef4524d5a1e5d63.MainActivity" image="bayern_fahrplan"/>
+	<AppIcon name="com.mdv.DEFASCompanion/com.mentz.betabeggullivrapp.MainActivity" image="bayern_fahrplan"/>
 	<AppIcon name="com.justwatch.justwatch/com.justwatch.justwatch.MainActivity" image="justwatch"/>
     <AppIcon name="es.aemet/es.aemet.activities.SplashScreenActivity" image="aemet"/>
 	<AppIcon name="de.mdiener.rain.usa/de.mdiener.rain.usa.MainMaps2" image="rain_alarm"/>

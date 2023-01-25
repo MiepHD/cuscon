@@ -456,7 +456,7 @@
 	<item component="ComponentInfo{com.mediocre.commute/com.mediocre.commute.Main}" drawable="commute" />
 	<item component="ComponentInfo{com.easybrain.nonogram/com.easybrain.template.SplashActivity}" drawable="nonogramcom" />
 	<item component="ComponentInfo{com.tombayley.tileshortcuts/com.tombayley.tileshortcuts.app.ui.home.MainActivity}" drawable="tile_shortcuts" />
-	<item component="ComponentInfo{com.mdv.DEFASCompanion/crc647ef4524d5a1e5d63.MainActivity}" drawable="bayern_fahrplan" />
+	<item component="ComponentInfo{com.mdv.DEFASCompanion/com.mentz.betabeggullivrapp.MainActivity}" drawable="bayern_fahrplan" />
 	<item component="ComponentInfo{com.justwatch.justwatch/com.justwatch.justwatch.MainActivity}" drawable="justwatch" />
     <item component="ComponentInfo{es.aemet/es.aemet.activities.SplashScreenActivity}" drawable="aemet" />
 	<item component="ComponentInfo{de.mdiener.rain.usa/de.mdiener.rain.usa.MainMaps2}" drawable="rain_alarm" />

@@ -426,7 +426,7 @@
 	<item class="com.mediocre.commute.Main" name="commute"/>
 	<item class="com.easybrain.template.SplashActivity" name="nonogramcom"/>
 	<item class="com.tombayley.tileshortcuts.app.ui.home.MainActivity" name="tile_shortcuts"/>
-	<item class="crc647ef4524d5a1e5d63.MainActivity" name="bayern_fahrplan"/>
+	<item class="com.mentz.betabeggullivrapp.MainActivity" name="bayern_fahrplan"/>
 	<item class="com.justwatch.justwatch.MainActivity" name="justwatch"/>
     <item class="es.aemet.activities.SplashScreenActivity" name="aemet"/>
 	<item class="de.mdiener.rain.usa.MainMaps2" name="rain_alarm"/>
