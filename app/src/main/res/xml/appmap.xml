@@ -513,5 +513,15 @@
 	<item class="com.scopely.unity.ScopelyUnityActivity" name="stumble_guys"/>
 	<item class="com.amazon.venezia.Launcher" name="amazon_appstore"/>
 	<item class="com.android.camera.CameraLauncher" name="open_camera"/>
+	<item class="es.correos.widget.presentation.BaseActivity" name="correos"/>
+	<item class="com.correosexpress.app.view.activity.SplashActivity_" name="correos_express"/>
+	<item class="nu.tommie.inbrowser.lib.Inbrowser" name="inbrowser"/>
+	<item class="com.miui.android.apps.chrome.Main" name="mint_browser"/>
+	<item class="com.noxgroup.app.browser.ui.launcher.LauncherActivity" name="noxbrowser"/>
+	<item class="com.correosprepago.presentation.splash.SplashActivity" name="prepago"/>
+	<item class="com.vs.browser.MainActivity" name="pure_browser"/>
+	<item class="com.macropinch.swan.WeatherActivity2" name="macropinch_weather"/>
+	<item class="com.UCMobile.main.UCMobile" name="uc_mini"/>
+	<item class="com.westernunion.moneytransferr3app.MainActivity" name="westernunion"/>
 
 </appmap>

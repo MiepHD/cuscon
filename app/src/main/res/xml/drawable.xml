@@ -90,6 +90,10 @@
     <!-- DB Streckenagent --><item drawable="db_streckenagent" />
 	<!-- Infinity --><item drawable="infinity" />
 	<!-- NFC Tools --><item drawable="nfc_tools" />
+    <!-- Correos --><item drawable="correos" />
+	<!-- Correos Express --><item drawable="correos_express" />
+	<!-- Prepago --><item drawable="prepago" />
+	<!-- UC Mini --><item drawable="uc_mini" />
 
     <category title="App Stores" />
     <item drawable="apkpure" />
@@ -277,6 +281,10 @@
     <!-- FOSS Browser --><item drawable="foss_browser" />
     <!-- Google --><item drawable="google"/>
     <!-- Tabero Private Internet Browser --><item drawable="tabero_private_internet_browser" />
+    <!-- InBrowser --><item drawable="inbrowser" />
+	<!-- Mint Browser --><item drawable="mint_browser" />
+	<!-- NoxBrowser --><item drawable="noxbrowser" />
+    <!-- Pure Browser --><item drawable="pure_browser" />
 
     <category title="Tools" />
     <item drawable="lucky_patcher" />
@@ -494,6 +502,7 @@
     <!-- El Nacional.cat --><item drawable="el_nacionalcat" />
     <!-- Nacio Digital --><item drawable="nacio_digital" />
     <!-- VilaWeb --><item drawable="vilaweb" />
+    <!-- MacroPinch Weather --><item drawable="macropinch_weather" />
 
     <category title="Design" />
     <!-- Pocket Paint --><item drawable="pocket_paint" />
@@ -546,5 +555,6 @@
     <!-- PhonePe --><item drawable="phonepe" />
     <!-- Google Wallet --><item drawable="google_wallet" />
     <!-- imagin --><item drawable="imagin" />
+    <!-- WesternUnion --><item drawable="westernunion" />
 
 </resources>

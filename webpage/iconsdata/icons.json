@@ -495,5 +495,15 @@
 	{ "title": "NFC Tools", "author": "MiepHD", "src": "nfc_tools", "category": "other" },
 	{ "title": "Stumble Guys", "author": "MiepHD", "src": "stumble_guys", "category": "games" },
 	{ "title": "Amazon Appstore", "author": "MiepHD", "src": "amazon_appstore", "category": "app-stores" },
-{ "title": "Kamera", "author": "MiepHD", "src": "open_camera", "category": "camera" }
+	{ "title": "Kamera", "author": "MiepHD", "src": "open_camera", "category": "camera" },
+	{ "title": "Correos", "author": "MiepHD", "src": "correos", "category": "other" },
+	{ "title": "Correos Express", "author": "MiepHD", "src": "correos_express", "category": "other" },
+	{ "title": "InBrowser", "author": "MiepHD", "src": "inbrowser", "category": "browser" },
+	{ "title": "Mint Browser", "author": "MiepHD", "src": "mint_browser", "category": "browser" },
+	{ "title": "NoxBrowser", "author": "MiepHD", "src": "noxbrowser", "category": "browser" },
+	{ "title": "Prepago", "author": "MiepHD", "src": "prepago", "category": "other" },
+	{ "title": "Pure Browser", "author": "MiepHD", "src": "pure_browser", "category": "browser" },
+	{ "title": "MacroPinch Weather", "author": "MiepHD", "src": "macropinch_weather", "category": "news" },
+	{ "title": "UC Mini", "author": "MiepHD", "src": "uc_mini", "category": "other" },
+	{ "title": "WesternUnion", "author": "MiepHD", "src": "westernunion", "category": "banking" }
 ]

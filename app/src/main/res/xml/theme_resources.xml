@@ -525,5 +525,15 @@
 	<AppIcon name="com.kitkagames.fallbuddies/com.scopely.unity.ScopelyUnityActivity" image="stumble_guys"/>
 	<AppIcon name="com.amazon.venezia/com.amazon.venezia.Launcher" image="amazon_appstore"/>
 	<AppIcon name="com.android.camera2/com.android.camera.CameraLauncher" image="open_camera"/>
+	<AppIcon name="es.correos.widget/es.correos.widget.presentation.BaseActivity" image="correos"/>
+	<AppIcon name="com.correosexpress.app/com.correosexpress.app.view.activity.SplashActivity_" image="correos_express"/>
+	<AppIcon name="nu.tommie.inbrowser/nu.tommie.inbrowser.lib.Inbrowser" image="inbrowser"/>
+	<AppIcon name="com.mi.globalbrowser.mini/com.miui.android.apps.chrome.Main" image="mint_browser"/>
+	<AppIcon name="com.noxgroup.app.browser/com.noxgroup.app.browser.ui.launcher.LauncherActivity" image="noxbrowser"/>
+	<AppIcon name="com.correosprepago/com.correosprepago.presentation.splash.SplashActivity" image="prepago"/>
+	<AppIcon name="pure.lite.browser/com.vs.browser.MainActivity" image="pure_browser"/>
+	<AppIcon name="com.macropinch.swan/com.macropinch.swan.WeatherActivity2" image="macropinch_weather"/>
+	<AppIcon name="com.uc.browser.en/com.UCMobile.main.UCMobile" image="uc_mini"/>
+	<AppIcon name="com.westernunion.moneytransferr3app.es/com.westernunion.moneytransferr3app.MainActivity" image="westernunion"/>
 
 </Theme>

@@ -543,5 +543,15 @@
 	<item component="ComponentInfo{com.kitkagames.fallbuddies/com.scopely.unity.ScopelyUnityActivity}" drawable="stumble_guys" />
 	<item component="ComponentInfo{com.amazon.venezia/com.amazon.venezia.Launcher}" drawable="amazon_appstore" />
 	<item component="ComponentInfo{com.android.camera2/com.android.camera.CameraLauncher}" drawable="open_camera" />
+	<item component="ComponentInfo{es.correos.widget/es.correos.widget.presentation.BaseActivity}" drawable="correos" />
+	<item component="ComponentInfo{com.correosexpress.app/com.correosexpress.app.view.activity.SplashActivity_}" drawable="correos_express" />
+	<item component="ComponentInfo{nu.tommie.inbrowser/nu.tommie.inbrowser.lib.Inbrowser}" drawable="inbrowser" />
+	<item component="ComponentInfo{com.mi.globalbrowser.mini/com.miui.android.apps.chrome.Main}" drawable="mint_browser" />
+	<item component="ComponentInfo{com.noxgroup.app.browser/com.noxgroup.app.browser.ui.launcher.LauncherActivity}" drawable="noxbrowser" />
+	<item component="ComponentInfo{com.correosprepago/com.correosprepago.presentation.splash.SplashActivity}" drawable="prepago" />
+	<item component="ComponentInfo{pure.lite.browser/com.vs.browser.MainActivity}" drawable="pure_browser" />
+	<item component="ComponentInfo{com.macropinch.swan/com.macropinch.swan.WeatherActivity2}" drawable="macropinch_weather" />
+	<item component="ComponentInfo{com.uc.browser.en/com.UCMobile.main.UCMobile}" drawable="uc_mini" />
+	<item component="ComponentInfo{com.westernunion.moneytransferr3app.es/com.westernunion.moneytransferr3app.MainActivity}" drawable="westernunion" />
 
 </resources>
