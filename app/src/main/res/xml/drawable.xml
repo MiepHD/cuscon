@@ -556,5 +556,7 @@
     <!-- Google Wallet --><item drawable="google_wallet" />
     <!-- imagin --><item drawable="imagin" />
     <!-- WesternUnion --><item drawable="westernunion" />
+    <!-- VR Pay --><item drawable="vr_pay" />
+	<!-- VR Banking App --><item drawable="vr_banking_app" />
 
 </resources>

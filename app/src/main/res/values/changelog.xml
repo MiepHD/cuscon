@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="changelog_date">25.01.2023</string>
+    <string name="changelog_date">27.01.2023</string>
     <string-array name="changelog">
+        <item>2.8.3:</item>
+        <item>Added VR Pay, VR Banking App</item>
         <item>2.8.2:</item>
         <item>Added Correos, Correos Express, InBrowser, Mint Browser, NoxBrowser, Prepago, Pure Browser, MacroPinch Weather, UC Mini, WesternUnion</item>
         <item>2.8.1:</item>

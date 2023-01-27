@@ -4,7 +4,7 @@
     <!-- FOR ATOM LAUNCHER -->
     <item class="com.cloudflare.app.presentation.main.SplashActivity" image="cloudflare_warp"/>
     <item class="com.adguard.android.ui.MainActivity" image="adguard"/>
-    <!-- AdGuard--><item class="com.adguard.android.ui.SplashActivity" name="adguard"/>
+    <item class="com.adguard.android.ui.SplashActivity" name="adguard"/>
     <item class="com.adobe.reader.AdobeReader" image="adobe_acrobat_reader"/>
     <item class="com.apkpure.aegon.main.activity.SplashActivity" image="apkpure"/>
     <item class="com.google.android.apps.authenticator.AuthenticatorActivity" image="google_authenticator"/>
@@ -12,7 +12,7 @@
     <item class="com.google.android.apps.chrome.Main" image="brave"/>
     <item class="de.rki.covpass.app.main.MainActivity" image="covpass"/>
     <item class="com.unity3d.player.UnityPlayerActivity" image="darkland"/>
-    <!-- Discord --><item class="com.discord.app.MainActivity" name="discord"/>
+    <item class="com.discord.app.MainActivity" name="discord"/>
     <item class="com.samsung.android.email.ui.activity.MessageListXL" image="samsung_mail"/>
     <item class="com.sec.android.app.myfiles.external.ui.MainActivity" image="samsung_files"/>
     <item class="org.fdroid.fdroid.views.main.MainActivity" image="f_droid"/>
@@ -42,12 +42,12 @@
     <item class="com.unity3d.player.UnityPlayerActivity" image="spingram"/>
     <item class="com.valvesoftware.android.steam.community.activity.MainActivity" image="steam"/>
     <item class="com.sec.android.app.popupcalculator.Calculator" image="samsung_calculator"/>
-    <!-- Calculator--><item class="com.android.calculator2.Calculator" name="samsung_calculator"/>
+    <item class="com.android.calculator2.Calculator" name="samsung_calculator"/>
     <item class="com.sec.android.app.clockpackage.ClockPackage" image="clock"/>
     <item class="io.wallpaperengine.weclient.BrowseActivity" image="wallpaper_engine"/>
     <item class="com.whatsapp.Main" image="whatsapp"/>
     <item class="de.saschahlusiak.wordmix.startscreen.StartScreenActivity" image="word_mix_pro"/>
-    <!-- YouTube --><item class="com.google.android.youtube.app.honeycomb.Shell$HomeActivity" name="youtube"/>
+    <item class="com.google.android.youtube.app.honeycomb.Shell$HomeActivity" name="youtube"/>
     <item class="com.google.android.apps.youtube.music.activities.MusicActivity" image="youtube_music"/>
     <item class="com.zdf.android.mediathek.ui.splash.SplashActivity" image="zdfmediathek"/>
     <item class="com.google.android.apps.translate.TranslateActivity" image="google_translate"/>
@@ -98,7 +98,6 @@
     <item class="com.auroraclimbing.auroraboard.controller.SplashActivity" image="kilterboard"/>
     <item class="com.froxot.cuscon.activities.SplashActivity" image="cuscon"/>
     <item class="calculatorlock.calculatorvault.secretcalculator.calculatorlockapphider.MainActivity" image="samsung_calculator"/>
-    <!-- Files-->
     <item class="com.android.documentsui.LauncherActivity" image="samsung_files"/>
     <item class="com.simplemobiletools.filemanager.pro.activities.SplashActivity.Orange" name="samsung_files"/>
     <item class="com.android.settings.Settings" image="settings"/>
@@ -110,281 +109,280 @@
     <item class="pdf.reader.pdfviewer.pdfeditor.MainLaunchActivity" image="adobe_acrobat_reader"/>
     <item class="org.lineageos.recorder.RecorderActivity" image="voicenote"/>
     <item class="com.android.messaging.ui.conversationlist.ConversationListActivity" image="samsung_messages"/>
-    <!-- Phone -->
     <item class="com.android.dialer.main.impl.MainActivity" image="phone"/>
     <item class="com.google.android.dialer.extensions.GoogleDialtactsActivity" name="phone"/>
     <item class="com.android.deskclock.DeskClock" image="clock"/>
-    <!-- Aegis --><item class="com.beemdevelopment.aegis.ui.MainActivity" name="aegis"/>
-    <!-- APK Editor --><item class="com.gmail.heagoo.apkeditor.MainActivity-New1" name="apk_editor"/>
-    <!-- Bahnhofsfotos --><item class="de.bahnhoefe.deutschlands.bahnhofsfotos.MainActivity" name="bahnhofsfotos"/>
-    <!-- BetterCounter --><item class="org.kde.bettercounter.ui.MainActivity" name="bettercounter"/>
-    <!-- Bibel+ --><item class="net.bible.android.activity.StartupActivity" name="bibel_"/>
-    <!-- Binary Eye --><item class="de.markusfisch.android.binaryeye.activity.SplashActivity" name="binary_eye"/>
-    <!-- Bitwarden --><item class="com.x8bit.bitwarden.MainActivity" name="bitwarden"/>
-    <!-- c:geo --><item class="cgeo.geocaching.SplashActivity" name="c_geo"/>
-    <!-- Camera Roll --><item class="us.koller.cameraroll.ui.MainActivity" name="camera_roll"/>
-    <!-- DiskUsage --><item class="com.google.android.diskusage.SelectActivity" name="diskusage"/>
-    <!-- Dumbphone Assistant --><item class="com.github.yeriomin.dumbphoneassistant.ManageContactsActivity" name="dumbphone_assistant"/>
-    <!-- Editor --><item class="org.billthefarmer.editor.Editor" name="editor"/>
-    <!-- Elementary --><item class="com.ultramegatech.ey.PeriodicTableActivity" name="elementary"/>
-    <!-- eSpeak --><item class="com.reecedunn.espeak.eSpeakActivity" name="espeak"/>
-    <!-- Fennec --><item class="org.mozilla.fennec_fdroid.App" name="fennec"/>
-    <!-- GPS JoyStick --><item class="com.theappninjas.fakegpsjoystick.ui.main.MainActivity" name="gps_joystick"/>
-    <!-- HeartBeat --><item class="eu.berdosi.app.heartbeat.MainActivity" name="heartbeat"/>
-    <!-- J2ME Loader --><item class="ru.playsoftware.j2meloader.MainActivity" name="j2me_loader"/>
-    <!-- KFZ-Kennzeichen --><item class="luke.kfz.MainActivity" name="kfz_kennzeichen"/>
-    <!-- Kiwix --><item class="org.kiwix.kiwixmobile.main.KiwixMainActivity" name="kiwix"/>
-    <!-- Lemuroid --><item class="com.swordfish.lemuroid.app.mobile.feature.main.MainActivity" name="lemuroid"/>
-    <!-- Librera FD --><item class="com.foobnix.ui2.MainTabs2" name="librera_fd"/>
-    <!-- Mebis --><item class="de.baumann.hhsmoodle.Activity_Main" name="mebis"/>
-    <!-- Morse --><item class="rocks.poopjournal.morse.MainActivity" name="morse"/>
-    <!-- Mühle --><item class="com.calcitem.sanmill.MainActivity" name="muhle"/>
-    <!-- NCalcLibre --><item class="com.duy.ncalc.calculator.BasicCalculatorActivity" name="ncalclibre"/>
-    <!-- NewPipe --><item class="org.schabi.newpipe.MainActivity" name="newpipe"/>
-    <!-- ObscuraCam --><item class="org.witness.obscuracam.MainActivity" name="obscuracam"/>
-    <!-- Öffi Haltestellen --><item class="de.schildbach.oeffi.stations.StationsActivity" name="offi_haltestellen"/>
-    <!-- Öffi Netzpläne --><item class="de.schildbach.oeffi.plans.PlansPickerActivity" name="offi_netzplane"/>
-    <!-- Öffi Verbindungen --><item class="de.schildbach.oeffi.directions.DirectionsActivity" name="offi_verbindungen"/>
-    <!-- OpenDocument Reader --><item class="at.tomtasche.reader.ui.activity.MainActivity" name="opendocument_reader"/>
-    <!-- OpenTracks --><item class="de.dennisguse.opentracks.introduction.IntroductionActivity" name="opentracks"/>
-    <!-- Phone Saver --><item class="link.standen.michael.phonesaver.activity.FolderListActivity" name="phone_saver"/>
-    <!-- Pocket Paint --><item class="org.catrobat.paintroid.MainActivity" name="pocket_paint"/>
-    <!-- Retouch --><item class="com.advasoft.touchretouch.LicenseActivity" name="retouch"/>
-    <!-- Retroboy --><item class="se.embargo.retroboy.MainActivity" name="retroboy"/>
-    <!-- Rotation Control --><item class="org.crape.rotationcontrol.RotationControlActivity" name="rotation_control"/>
-    <!-- SAI --><item class="com.aefyr.sai.ui.activities.MainActivity" name="sai"/>
-    <!-- Shelter --><item class="net.typeblog.shelter.ui.MainActivity" name="shelter"/>
-    <!-- Silence --><item class="org.smssecure.smssecure.RoutingActivity" name="silence"/>
-    <!-- Smart AutoClicker --><item class="com.buzbuz.smartautoclicker.activity.ScenarioActivity" name="smart_autoclicker"/>
-    <!-- SMS Import / Export --><item class="com.github.tmo1.sms_ie.MainActivity" name="sms_import_export"/>
-    <!-- Super Retro Mega Wars --><item class="com.serwylo.retrowars.AndroidLauncher" name="super_retro_mega_wars"/>
-    <!-- Text Fairy --><item class="com.renard.ocr.documents.viewing.grid.DocumentGridActivity" name="text_fairy"/>
-    <!-- Trail Sense --><item class="com.kylecorry.trail_sense.main.MainActivity" name="trail_sense"/>
-    <!-- Transistor --><item class="org.y20k.transistor.MainActivity" name="transistor"/>
-    <!-- Tutanota --><item class="de.tutao.tutanota.MainActivity" name="tutanota"/>
-    <!-- Video Transcoder --><item class="protect.videotranscoder.activity.MainActivity" name="video_transcoder"/>
-    <!-- VLC --><item class="org.videolan.vlc.StartActivity" name="vlc"/>
-    <!-- Warden --><item class="com.aurora.warden.ui.activities.AuroraActivity" name="warden"/>
-    <!-- Warpinator --><item class="slowscript.warpinator.MainActivity" name="warpinator"/>
-    <!-- Weather --><item class="wangdaye.com.geometricweather.main.MainActivity" name="weather"/>
-    <!-- WhereYouGo --><item class="menion.android.whereyougo.gui.activity.MainActivity" name="whereyougo"/>
-    <!-- WireGuard --><item class="com.wireguard.android.activity.MainActivity" name="wireguard"/>
-    <!-- CubeX --><item class="diozz.cubex.SplashActivity" name="cubex"/>
-    <!-- DeepL --><item class="com.deepl.mobiletranslator.MainActivity" name="deepl"/>
-    <!-- Dropbox --><item class="com.dropbox.android.activity.DropboxBrowser" name="dropbox"/>
-    <!-- Flora Incognita --><item class="com.floraincognita.app.floraincognita.MainActivity" name="flora_incognita"/>
-    <!-- MiraPlug --><item class="com.actionsmicro.usbdisplay.MainActivity" name="miraplug"/>
-    <!-- ONLYOFFICE Dokumente --><item class="app.editors.manager.ui.activities.main.OnBoardingActivity" name="onlyoffice_dokumente"/>
-    <!-- Paper copy --><item class="com.mmicunovic.papercopy.ui.SplashActivity" name="paper_copy"/>
-    <!-- Rocketbook --><item class="com.rb.rocketbook.StartupActivity" name="rocketbook"/>
-    <!-- Shazam --><item class="com.shazam.android.activities.SplashActivity" name="shazam"/>
-    <!-- SimpleAudio --><item class="com.pgup.simpleaudio.InitialActivity" name="simpleaudio"/>
-    <!-- Snapseed --><item class="com.google.android.apps.snapseed.WelcomeScreenActivity" name="snapseed"/>
-    <!-- TCL Connect --><item class="com.trackerandroid.trackerandroid.ue.activity.MainActivity" name="tcl_connect"/>
-    <!-- Telegram X --><item class="org.thunderdog.challegram.MainActivity" name="telegram_x"/>
-    <!-- VR Media Player --><item class="com.xojot.vrplayer.MainActivity" name="vr_media_player"/>
-    <!-- ZArchiver --><item class="ru.zdevs.zarchiver.ZArchiver" name="zarchiver"/>
-    <!-- Firewall --><item class="org.calyxos.datura.MainActivity" name="firewall"/>
-    <!-- microG-Einstellungen --><item class="org.microg.gms.ui.SettingsActivity" name="microg_einstellungen"/>
-    <!-- Sicherung --><item class="com.stevesoltys.seedvault.settings.SettingsLink" name="sicherung"/>
-    <!-- Aliucord --><item class="com.discord.app.AppActivity$Main" name="aliucord"/>
-    <!-- Duden Wörterbücher --><item class="com.paragon.container.CatalogActivity" name="duden_worterbucher"/>
-    <!-- hocus --><item class="air.com.gamebrain.hocus.AppEntry" name="hocus"/>
-    <!-- Lawnchair-Einstellungen --><item class="ch.deletescape.lawnchair.settings.ui.SettingsLauncherActivity" name="lawnchair_einstellungen"/>
-    <!-- Quizlet --><item class="com.quizlet.quizletandroie.ui.RootActivity" name="quizlet"/>
-    <!-- Reminder --><item class="com.samsung.android.app.reminder.ui.LaunchMainActivity" name="reminder"/>
-    <!-- EMP Shop --><item class="de.cominto.blaetterkatalog.customer.emp.startup.StartUpActivity" name="emp_shop"/>
-    <!-- Linguee --><item class="com.linguee.linguee.MainActivity" name="linguee"/>
-    <!-- Galaxy Store --><item class="com.sec.android.app.samsungapps.SamsungAppsMainActivity" name="galaxy_store"/>
-    <!-- HappyMod --><item class="com.happymod.apk.hmmvp.allfunction.LaunchActivity" name="happymod"/>
-    <!-- MEGA --><item class="mega.privacy.android.app.main.ManagerActivity" name="mega"/>
-    <!-- Info Dienste --><item class="com.android.stk.StkMain" name="info_dienste"/>
-    <!-- SimpleLogin --><item class="io.simplelogin.android.module.startup.StartupActivity" name="simplelogin"/>
-    <!-- Symbolab --><item class="com.symbolab.symbolablibrary.ui.activities.SplashActivity" name="symbolab"/>
-    <!-- Termux --><item class="com.termux.app.TermuxActivity" name="termux"/>
-    <!-- WhatsApp SIM --><item class="de.eplus.mappecc.client.android.feature.splashscreen.SplashActivity" name="whatsapp_sim"/>
-    <!-- Aliucord Installer --><item class="com.aliucord.installer.MainActivity" name="aliucord_installer"/>
-    <!-- Apkmody --><item class="com.example.MainActivity" name="apkmody"/>
-    <!-- Chrome --><item class="com.google.android.apps.chrome.Main" name="chrome"/>
-    <!-- LADB --><item class="com.draco.ladb.views.MainActivity" name="ladb"/>
-    <!-- Pinterest --><item class="com.pinterest.activity.PinterestActivity" name="pinterest"/>
-    <!-- Snapchat --><item class="com.snapchat.android.LandingPageActivity" name="snapchat"/>
-    <!-- Nachrichten --><item class="com.android.mms.ui.ConversationComposer" name="messages"/>
-	<!-- Apex Launcher --><item class="com.anddoes.launcher.Launcher" name="apex_launcher"/>
-	<!-- DSBmobile --><item class="de.heinekingmedia.dsbmobile.ui.activities.LoginActivity" name="dsbmobile"/>
-	<!-- Overlay Digital Clock --><item class="com.fmroid.overlaydigitalclock.MainActivity" name="overlay_digital_clock"/>
-	<!-- Privacy Browser --><item class="com.stoutner.privacybrowser.activities.MainWebViewActivity" name="privacy_browser"/>
-	<!-- Opera Mini --><item class="com.opera.mini.android.Browser" name="opera_mini"/>
-	<!-- Redlight Web Browser --><item class="pl.eprogmedia.rwb.FirstActivity" name="redlight_web_browser"/>
-	<!-- YouTube --><item class="com.google.android.youtube.app.honeycomb.Shell" name="youtube"/>
-	<!-- LinkedIn --><item class="com.linkedin.android.authenticator.LaunchActivity" name="linkedin"/>
-	<!-- Meet --><item class="com.google.android.apps.tachyon.MainActivity" name="meet"/>
-	<!-- Microsoft Office --><item class="com.microsoft.office.officesuite.OfficeSuiteActivity" name="microsoft_office"/>
-	<!-- OneDrive --><item class="com.microsoft.skydrive.MainActivity" name="onedrive"/>
-	<!-- Play Music --><item class="com.google.android.music.tombstone.LauncherActivity" name="play_music"/>
-	<!-- Radio --><item class="com.sec.android.app.fm.MainActivity" name="radio"/>
-	<!-- Spotify --><item class="com.spotify.music.MainActivity" name="spotify"/>
-	<!-- Google --><item class="com.google.android.googlequicksearchbox.SearchActivity" name="google"/>
-	<!-- Facebook --><item class="com.facebook.katana.LoginActivity" name="facebook"/>
-	<!-- Lawnchair --><item class="ch.deletescape.lawnchair.LawnchairLauncher" name="lawnchair"/>
-	<!-- Mosaic --><item class="com.photograph.mosaic.MainActivity" name="mosaic"/>
-	<!-- Samsung Internet --><item class="com.sec.android.app.sbrowser.SBrowserMainActivity" name="samsung_internet"/>
-    <!-- Google Assistant--><item class="com.google.android.apps.googleassistant.AssistantActivity" name="google_assistant"/>
-	<!-- Documents--><item class="com.google.android.apps.docs.app.NewMainProxyActivity" name="documents"/>
-	<!-- Fing--><item class="com.overlook.android.fing.ui.main.SplashActivity" name="fing"/>
-	<!-- Gallery--><item class="com.simplemobiletools.gallery.pro.activities.SplashActivity.Orange" name="gallery"/>
-	<!-- Google One--><item class="com.google.android.apps.subscriptions.red.LauncherActivity" name="google_one"/>
-	<!-- Google TV--><item class="com.google.android.videos.GoogleTvEntryPoint" name="google_tv"/>
-	<!-- Moto Gametime--><item class="com.motorola.gamemode.ui.launcher.main.GameCenterActivity" name="moto_gametime"/>
-	<!-- Mi WiFi--><item class="com.xiaomi.router.module.splash.SplashActivity" name="mi_wifi"/>
-	<!-- WiFiAnalyzer--><item class="com.vrem.wifianalyzer.MainActivity" name="wifianalyzer"/>
-	<!-- WLANScanner--><item class="org.bitbatzen.wlanscanner.MainActivity" name="wlanscanner"/>
-    <!-- ibisPaint X --><item class="jp.ne.ibis.ibispaintx.app.market.MarketAuthenticationActivity" name="ibispaint_x"/>
-	<!-- Google Calendar--><item class="com.android.calendar.AllInOneActivity" name="google_calendar"/>
-	<!-- Google Files--><item class="com.google.android.apps.nbu.files.home.HomeActivity" name="google_files"/>
-	<!-- Google Wallpapers--><item class="com.google.android.apps.wallpaper.picker.CategoryPickerActivity" name="google_wallpapers"/>
-	<!-- Moto Interactive Wallpaper--><item class="com.motorola.livewallpaper3.ui.menu.WallpaperMenuTrampolineActivity" name="moto_interactive_wallpaper"/>
-	<!-- WeeNet--><item class="com.sangiorgisrl.wifimanagertool.ui.intro.LaunchActivity" name="weenet"/>
-	<!-- Adobe Scan --><item class="com.adobe.scan.android.SplashActivity" name="adobe_scan"/>
-	<!-- Microsoft To Do --><item class="com.microsoft.todos.ui.LaunchActivity" name="microsoft_to_do"/>
-    <!-- Microsoft Authenticator --><item class="com.azure.authenticator.ui.LaunchActivity" name="microsoft_authenticator"/>
-	<!-- Motorola Device Help--><item class="com.motorola.genie.main.start.LaunchActivity" name="motorola_device_help"/>
-	<!-- Barclays --><item class="com.veripark.barclaycard.screen.main.activities.MainActivity" name="barclays"/>
-	<!-- Camera Assistant --><item class="com.samsung.android.app.cameraassistant.MainActivity" name="camera_assistant"/>
-	<!-- Good Guardians --><item class="com.android.samsung.utilityapp.app.presentation.welcomepage.WelcomeActivity" name="good_guardians"/>
-	<!-- Good Lock --><item class="com.samsung.android.goodlock.presentation.view.LaunchActivity" name="good_lock"/>
-	<!-- Moto--><item class="com.motorola.assist.ui.screens.MainActivity" name="moto"/>
-	<!-- PayPal --><item class="com.paypal.android.p2pmobile.startup.activities.StartupActivity" name="paypal"/>
-	<!-- OneNote --><item class="com.microsoft.office.onenote.ui.ONMSplashActivity" name="onenote"/>
-	<!-- TeaCapps QR & Barcode Reader --><item class="net.qrbot.ui.main.MainActivity" name="teacapps_qr__barcode_reader"/>
-	<!-- Zalando --><item class="de.zalando.mobile.ui.start.SplashActivity" name="zalando"/>
-	<!-- TikTok --><item class="com.ss.android.ugc.aweme.splash.SplashActivity" name="tiktok"/>
-    <!-- Nova Launcher--><item class="com.teslacoilsw.launcher.NovaShortcutHandler" name="nova_launcher"/>
-	<!-- Nova Launcher Prime--><item class="com.teslacoilsw.launcher.prime.NovaLauncherPrimeActivity" name="nova_launcher_prime"/>
-	<!-- iwscan--><item class="com.evbadroid.iwscan.ScanActivity" name="iwscan"/>
-	<!-- Kiwi Browser --><item class="com.google.android.apps.chrome.Main" name="kiwi_browser"/>
+    <item class="com.beemdevelopment.aegis.ui.MainActivity" name="aegis"/>
+    <item class="com.gmail.heagoo.apkeditor.MainActivity-New1" name="apk_editor"/>
+    <item class="de.bahnhoefe.deutschlands.bahnhofsfotos.MainActivity" name="bahnhofsfotos"/>
+    <item class="org.kde.bettercounter.ui.MainActivity" name="bettercounter"/>
+    <item class="net.bible.android.activity.StartupActivity" name="bibel_"/>
+    <item class="de.markusfisch.android.binaryeye.activity.SplashActivity" name="binary_eye"/>
+    <item class="com.x8bit.bitwarden.MainActivity" name="bitwarden"/>
+    <item class="cgeo.geocaching.SplashActivity" name="c_geo"/>
+    <item class="us.koller.cameraroll.ui.MainActivity" name="camera_roll"/>
+    <item class="com.google.android.diskusage.SelectActivity" name="diskusage"/>
+    <item class="com.github.yeriomin.dumbphoneassistant.ManageContactsActivity" name="dumbphone_assistant"/>
+    <item class="org.billthefarmer.editor.Editor" name="editor"/>
+    <item class="com.ultramegatech.ey.PeriodicTableActivity" name="elementary"/>
+    <item class="com.reecedunn.espeak.eSpeakActivity" name="espeak"/>
+    <item class="org.mozilla.fennec_fdroid.App" name="fennec"/>
+    <item class="com.theappninjas.fakegpsjoystick.ui.main.MainActivity" name="gps_joystick"/>
+    <item class="eu.berdosi.app.heartbeat.MainActivity" name="heartbeat"/>
+    <item class="ru.playsoftware.j2meloader.MainActivity" name="j2me_loader"/>
+    <item class="luke.kfz.MainActivity" name="kfz_kennzeichen"/>
+    <item class="org.kiwix.kiwixmobile.main.KiwixMainActivity" name="kiwix"/>
+    <item class="com.swordfish.lemuroid.app.mobile.feature.main.MainActivity" name="lemuroid"/>
+    <item class="com.foobnix.ui2.MainTabs2" name="librera_fd"/>
+    <item class="de.baumann.hhsmoodle.Activity_Main" name="mebis"/>
+    <item class="rocks.poopjournal.morse.MainActivity" name="morse"/>
+    <item class="com.calcitem.sanmill.MainActivity" name="muhle"/>
+    <item class="com.duy.ncalc.calculator.BasicCalculatorActivity" name="ncalclibre"/>
+    <item class="org.schabi.newpipe.MainActivity" name="newpipe"/>
+    <item class="org.witness.obscuracam.MainActivity" name="obscuracam"/>
+    <item class="de.schildbach.oeffi.stations.StationsActivity" name="offi_haltestellen"/>
+    <item class="de.schildbach.oeffi.plans.PlansPickerActivity" name="offi_netzplane"/>
+    <item class="de.schildbach.oeffi.directions.DirectionsActivity" name="offi_verbindungen"/>
+    <item class="at.tomtasche.reader.ui.activity.MainActivity" name="opendocument_reader"/>
+    <item class="de.dennisguse.opentracks.introduction.IntroductionActivity" name="opentracks"/>
+    <item class="link.standen.michael.phonesaver.activity.FolderListActivity" name="phone_saver"/>
+    <item class="org.catrobat.paintroid.MainActivity" name="pocket_paint"/>
+    <item class="com.advasoft.touchretouch.LicenseActivity" name="retouch"/>
+    <item class="se.embargo.retroboy.MainActivity" name="retroboy"/>
+    <item class="org.crape.rotationcontrol.RotationControlActivity" name="rotation_control"/>
+    <item class="com.aefyr.sai.ui.activities.MainActivity" name="sai"/>
+    <item class="net.typeblog.shelter.ui.MainActivity" name="shelter"/>
+    <item class="org.smssecure.smssecure.RoutingActivity" name="silence"/>
+    <item class="com.buzbuz.smartautoclicker.activity.ScenarioActivity" name="smart_autoclicker"/>
+    <item class="com.github.tmo1.sms_ie.MainActivity" name="sms_import_export"/>
+    <item class="com.serwylo.retrowars.AndroidLauncher" name="super_retro_mega_wars"/>
+    <item class="com.renard.ocr.documents.viewing.grid.DocumentGridActivity" name="text_fairy"/>
+    <item class="com.kylecorry.trail_sense.main.MainActivity" name="trail_sense"/>
+    <item class="org.y20k.transistor.MainActivity" name="transistor"/>
+    <item class="de.tutao.tutanota.MainActivity" name="tutanota"/>
+    <item class="protect.videotranscoder.activity.MainActivity" name="video_transcoder"/>
+    <item class="org.videolan.vlc.StartActivity" name="vlc"/>
+    <item class="com.aurora.warden.ui.activities.AuroraActivity" name="warden"/>
+    <item class="slowscript.warpinator.MainActivity" name="warpinator"/>
+    <item class="wangdaye.com.geometricweather.main.MainActivity" name="weather"/>
+    <item class="menion.android.whereyougo.gui.activity.MainActivity" name="whereyougo"/>
+    <item class="com.wireguard.android.activity.MainActivity" name="wireguard"/>
+    <item class="diozz.cubex.SplashActivity" name="cubex"/>
+    <item class="com.deepl.mobiletranslator.MainActivity" name="deepl"/>
+    <item class="com.dropbox.android.activity.DropboxBrowser" name="dropbox"/>
+    <item class="com.floraincognita.app.floraincognita.MainActivity" name="flora_incognita"/>
+    <item class="com.actionsmicro.usbdisplay.MainActivity" name="miraplug"/>
+    <item class="app.editors.manager.ui.activities.main.OnBoardingActivity" name="onlyoffice_dokumente"/>
+    <item class="com.mmicunovic.papercopy.ui.SplashActivity" name="paper_copy"/>
+    <item class="com.rb.rocketbook.StartupActivity" name="rocketbook"/>
+    <item class="com.shazam.android.activities.SplashActivity" name="shazam"/>
+    <item class="com.pgup.simpleaudio.InitialActivity" name="simpleaudio"/>
+    <item class="com.google.android.apps.snapseed.WelcomeScreenActivity" name="snapseed"/>
+    <item class="com.trackerandroid.trackerandroid.ue.activity.MainActivity" name="tcl_connect"/>
+    <item class="org.thunderdog.challegram.MainActivity" name="telegram_x"/>
+    <item class="com.xojot.vrplayer.MainActivity" name="vr_media_player"/>
+    <item class="ru.zdevs.zarchiver.ZArchiver" name="zarchiver"/>
+    <item class="org.calyxos.datura.MainActivity" name="firewall"/>
+    <item class="org.microg.gms.ui.SettingsActivity" name="microg_einstellungen"/>
+    <item class="com.stevesoltys.seedvault.settings.SettingsLink" name="sicherung"/>
+    <item class="com.discord.app.AppActivity$Main" name="aliucord"/>
+    <item class="com.paragon.container.CatalogActivity" name="duden_worterbucher"/>
+    <item class="air.com.gamebrain.hocus.AppEntry" name="hocus"/>
+    <item class="ch.deletescape.lawnchair.settings.ui.SettingsLauncherActivity" name="lawnchair_einstellungen"/>
+    <item class="com.quizlet.quizletandroie.ui.RootActivity" name="quizlet"/>
+    <item class="com.samsung.android.app.reminder.ui.LaunchMainActivity" name="reminder"/>
+    <item class="de.cominto.blaetterkatalog.customer.emp.startup.StartUpActivity" name="emp_shop"/>
+    <item class="com.linguee.linguee.MainActivity" name="linguee"/>
+    <item class="com.sec.android.app.samsungapps.SamsungAppsMainActivity" name="galaxy_store"/>
+    <item class="com.happymod.apk.hmmvp.allfunction.LaunchActivity" name="happymod"/>
+    <item class="mega.privacy.android.app.main.ManagerActivity" name="mega"/>
+    <item class="com.android.stk.StkMain" name="info_dienste"/>
+    <item class="io.simplelogin.android.module.startup.StartupActivity" name="simplelogin"/>
+    <item class="com.symbolab.symbolablibrary.ui.activities.SplashActivity" name="symbolab"/>
+    <item class="com.termux.app.TermuxActivity" name="termux"/>
+    <item class="de.eplus.mappecc.client.android.feature.splashscreen.SplashActivity" name="whatsapp_sim"/>
+    <item class="com.aliucord.installer.MainActivity" name="aliucord_installer"/>
+    <item class="com.example.MainActivity" name="apkmody"/>
+    <item class="com.google.android.apps.chrome.Main" name="chrome"/>
+    <item class="com.draco.ladb.views.MainActivity" name="ladb"/>
+    <item class="com.pinterest.activity.PinterestActivity" name="pinterest"/>
+    <item class="com.snapchat.android.LandingPageActivity" name="snapchat"/>
+    <item class="com.android.mms.ui.ConversationComposer" name="messages"/>
+	<item class="com.anddoes.launcher.Launcher" name="apex_launcher"/>
+	<item class="de.heinekingmedia.dsbmobile.ui.activities.LoginActivity" name="dsbmobile"/>
+	<item class="com.fmroid.overlaydigitalclock.MainActivity" name="overlay_digital_clock"/>
+	<item class="com.stoutner.privacybrowser.activities.MainWebViewActivity" name="privacy_browser"/>
+	<item class="com.opera.mini.android.Browser" name="opera_mini"/>
+	<item class="pl.eprogmedia.rwb.FirstActivity" name="redlight_web_browser"/>
+	<item class="com.google.android.youtube.app.honeycomb.Shell" name="youtube"/>
+	<item class="com.linkedin.android.authenticator.LaunchActivity" name="linkedin"/>
+	<item class="com.google.android.apps.tachyon.MainActivity" name="meet"/>
+	<item class="com.microsoft.office.officesuite.OfficeSuiteActivity" name="microsoft_office"/>
+	<item class="com.microsoft.skydrive.MainActivity" name="onedrive"/>
+	<item class="com.google.android.music.tombstone.LauncherActivity" name="play_music"/>
+	<item class="com.sec.android.app.fm.MainActivity" name="radio"/>
+	<item class="com.spotify.music.MainActivity" name="spotify"/>
+	<item class="com.google.android.googlequicksearchbox.SearchActivity" name="google"/>
+	<item class="com.facebook.katana.LoginActivity" name="facebook"/>
+	<item class="ch.deletescape.lawnchair.LawnchairLauncher" name="lawnchair"/>
+	<item class="com.photograph.mosaic.MainActivity" name="mosaic"/>
+	<item class="com.sec.android.app.sbrowser.SBrowserMainActivity" name="samsung_internet"/>
+    <item class="com.google.android.apps.googleassistant.AssistantActivity" name="google_assistant"/>
+	<item class="com.google.android.apps.docs.app.NewMainProxyActivity" name="documents"/>
+	<item class="com.overlook.android.fing.ui.main.SplashActivity" name="fing"/>
+	<item class="com.simplemobiletools.gallery.pro.activities.SplashActivity.Orange" name="gallery"/>
+	<item class="com.google.android.apps.subscriptions.red.LauncherActivity" name="google_one"/>
+	<item class="com.google.android.videos.GoogleTvEntryPoint" name="google_tv"/>
+	<item class="com.motorola.gamemode.ui.launcher.main.GameCenterActivity" name="moto_gametime"/>
+	<item class="com.xiaomi.router.module.splash.SplashActivity" name="mi_wifi"/>
+	<item class="com.vrem.wifianalyzer.MainActivity" name="wifianalyzer"/>
+	<item class="org.bitbatzen.wlanscanner.MainActivity" name="wlanscanner"/>
+    <item class="jp.ne.ibis.ibispaintx.app.market.MarketAuthenticationActivity" name="ibispaint_x"/>
+	<item class="com.android.calendar.AllInOneActivity" name="google_calendar"/>
+	<item class="com.google.android.apps.nbu.files.home.HomeActivity" name="google_files"/>
+	<item class="com.google.android.apps.wallpaper.picker.CategoryPickerActivity" name="google_wallpapers"/>
+	<item class="com.motorola.livewallpaper3.ui.menu.WallpaperMenuTrampolineActivity" name="moto_interactive_wallpaper"/>
+	<item class="com.sangiorgisrl.wifimanagertool.ui.intro.LaunchActivity" name="weenet"/>
+	<item class="com.adobe.scan.android.SplashActivity" name="adobe_scan"/>
+	<item class="com.microsoft.todos.ui.LaunchActivity" name="microsoft_to_do"/>
+    <item class="com.azure.authenticator.ui.LaunchActivity" name="microsoft_authenticator"/>
+	<item class="com.motorola.genie.main.start.LaunchActivity" name="motorola_device_help"/>
+	<item class="com.veripark.barclaycard.screen.main.activities.MainActivity" name="barclays"/>
+	<item class="com.samsung.android.app.cameraassistant.MainActivity" name="camera_assistant"/>
+	<item class="com.android.samsung.utilityapp.app.presentation.welcomepage.WelcomeActivity" name="good_guardians"/>
+	<item class="com.samsung.android.goodlock.presentation.view.LaunchActivity" name="good_lock"/>
+	<item class="com.motorola.assist.ui.screens.MainActivity" name="moto"/>
+	<item class="com.paypal.android.p2pmobile.startup.activities.StartupActivity" name="paypal"/>
+	<item class="com.microsoft.office.onenote.ui.ONMSplashActivity" name="onenote"/>
+	<item class="net.qrbot.ui.main.MainActivity" name="teacapps_qr__barcode_reader"/>
+	<item class="de.zalando.mobile.ui.start.SplashActivity" name="zalando"/>
+	<item class="com.ss.android.ugc.aweme.splash.SplashActivity" name="tiktok"/>
+    <item class="com.teslacoilsw.launcher.NovaShortcutHandler" name="nova_launcher"/>
+	<item class="com.teslacoilsw.launcher.prime.NovaLauncherPrimeActivity" name="nova_launcher_prime"/>
+	<item class="com.evbadroid.iwscan.ScanActivity" name="iwscan"/>
+	<item class="com.google.android.apps.chrome.Main" name="kiwi_browser"/>
 	<!-- Mi O2-->
 		<item class="com.movistar.android.mimovistar.es.presentation.MainActivity" name="my_o2"/>
 		<item class="es.o2.mio2.views.MainActivity" name="my_o2"/>
-	<!-- Mein O2 --><item class="canvasm.myo2.SplashActivity" name="my_o2"/>
-	<!-- My O2 --><item class="cz.o2.moje.RouterActivity" name="my_o2"/>
-	<!-- My O2 --><item class="com.tuenti.messenger.ui.activity.MainActivity" name="my_o2"/>
-	<!-- O2 --><item class="sk.o2.mojeo2.MainActivity" name="my_o2"/>
-	<!-- Mou-te--><item class="cat.gencat.mouteapp.MainActivity" name="mou_te"/>
-	<!-- Motorola Notifications--><item class="com.motorola.engageapp.ui.EngageActivity" name="motorola_notifications"/>
-	<!-- FAST Speed Test--><item class="com.netflix.Speedtest.MainActivity" name="fast_speed_test"/>
-	<!-- Moto Camera 3--><item class="com.motorola.camera.Camera" name="moto_camera_3"/>
-	<!-- Port Authority--><item class="com.aaronjwood.portauthority.activity.MainActivity" name="port_authority"/>
-    <!-- 1Tap Cleaner Pro --><item class="com.a0soft.gphone.acc.pro.MainWnd" name="_1tap_cleaner_pro"/>
-	<!-- Weather Station - Barometer --><item class="com.ansca.corona.CoronaActivity" name="weather_station_barometer"/>
-	<!-- D-Link Wi-Fi --><item class="com.mydlink.unify.activity.Launch2Activity" name="d_link_wi_fi"/>
-	<!-- NetMan --><item class="com.eakteam.networkmanager.pro.activities.paneli_kryesor" name="netman"/>
-	<!-- Radio FM --><item class="com.motorola.fmplayer.ChangeThemeActivity" name="radio_fm"/>
-	<!-- Sweech --><item class="com.sweech.MainActivity" name="sweech"/>
-	<!-- WiFiman --><item class="com.ubnt.usurvey.ui.app.splash.SplashActivity" name="wifiman"/>
-	<!-- FRITZ!App WLAN --><item class="de.avm.android.wlanapp.permissions.LocationPermissionActivity" name="fritz_app_wlan"/>
-	<!-- WlanScanner by Latetech --><item class="com.Latetech.WlanScanner.MainActivity" name="wlanscanner_by_latetech"/>
-	<!-- WiFi Monitor Pro--><item class="com.signalmonitoring.wifilib.ui.activities.MonitoringActivity" name="wifi_monitor_pro"/>
-    <!-- Der Postillon --><item class="io.gonative.android.SplashActivity" name="der_postillon"/>
-	<!-- Microsoft SwiftKey-Tastatur --><item class="com.touchtype.LauncherActivityIcon" name="microsoft_swiftkey_tastatur"/>´
-	<!-- Onleihe --><item class="de.etecture.ekz.onleihe.activity.SplashScreenActivity" name="onleihe"/>
-	<!-- UUID 0xFD6F Scanner --><item class="com.emacberry.uuid0xfd6fscan.ScannerActivity" name="uuid_0xfd6f_scanner"/>
-	<!-- Duolingo --><item class="com.duolingo.app.LoginActivity" name="duolingo"/>
-	<!-- Lieferando --><item class="com.takeaway.android.activity.Splash" name="lieferando"/>
-	<!-- Samsung Flow --><item class="com.samsung.android.galaxycontinuity.SplashActivity" name="samsung_flow"/>
-	<!-- Skype --><item class="com.skype4life.MainActivity" name="skype"/>
-	<!-- Teams --><item class="com.microsoft.skype.teams.Launcher" name="teams"/>
-	<!-- Theme Park --><item class="com.samsung.android.themedesigner.SplashActivity" name="theme_park"/>
-    <!-- AdGuard VPN --><item class="com.adguard.vpn.ui.SplashActivity" name="adguard_vpn"/>
-	<!-- CandyBar Dev --><item class="com.candybar.dev.activities.SplashActivity" name="candybar_dev"/>
-	<!-- Delta --><item class="website.leifs.delta.activities.SplashActivity" name="delta"/>
-	<!-- Jojoy --><item class="com.example.MainActivity" name="jojoy"/>
-	<!-- Steam --><item class="com.valvesoftware.android.steam.community.MainActivity" name="steam"/>
-	<!-- VirusTotal Mobile --><item class="com.funnycat.virustotal.ui.splash.SplashActivity" name="virustotal_mobile"/>
-	<!-- YouTube Revanced --><item class="com.google.android.youtube.app.honeycomb.Shell$HomeActivity" name="youtube_revanced"/>
-    <!-- Barcelona Bus Tracker --><item class="com.goder.busquerysystembar.MainActivity" name="barcelona_bus_tracker"/>
-	<!-- Blokada 5 --><item class="ui.MainActivity" name="blokada_5"/>
-	<!-- Circuit --><item class="com.circuit.ui.MainActivity" name="circuit"/>
-	<!-- Citymapper --><item class="com.citymapper.app.MainActivity" name="citymapper"/>
-	<!-- El meu tren --><item class="com.appyet.activity.MainActivity" name="el_meu_tren"/>
-	<!-- FGC --><item class="com.iboomobile.fgc.MainActivity" name="fgc"/>
-	<!-- Frog Weather Shortcut --><item class="jp.miyavi.androiod.gnws.MainActivity" name="frog_weather_shortcut"/>
-	<!-- gencat --><item class="cat.gencat.mobi.gencatapp.presentation.splash.SplashActivity" name="gencat"/>
-	<!-- Google Weather Activity --><item class="net.dinglisch.android.tasker.Kid" name="google_weather_activity"/>
-	<!-- Next bus Barcelona --><item class="cat.ereza.properbusbcn.ui.activities.MainActivity" name="next_bus_barcelona"/>
-    <!-- BubbleUPnP --><item class="com.bubblesoft.android.bubbleupnp.MainActivity" name="bubbleupnp"/>
-	<!-- Chromium --><item class="com.google.android.apps.chrome.Main" name="chromium" />
-	<!-- Collabora Office --><item class="org.libreoffice.androidapp.ui.LibreOfficeUIActivity" name="collabora_office"/>
-	<!-- Dawn --><item class="me.saket.dank.Launcher" name="dawn"/>
-	<!-- GMaps WV --><item class="us.spotco.maps.MainActivity" name="gmaps_wv"/>
-	<!-- Hash Droid --><item class="com.hobbyone.HashDroid.MainActivity" name="hash_droid" />
-	<!-- JBL Headphones --><item class="jbl.stc.com.activity.SplashActivity" name="jbl_headphones" />
-	<!-- Material Flashlight --><item class="co.garmax.materialflashlight.ui.root.RootActivity" name="material_flashlight"/>
-	<!-- Mull --><item class="us.spotco.fennec_dos.App" name="mull"/>
-	<!-- Native alpha --><item class="com.cylonid.nativealpha.MainActivity" name="native_alpha"/>
-	<!-- NINA --><item class="de.materna.bbk.mobile.app.ui.SplashScreenActivity" name="nina"/>
-	<!-- QRServ --><item class="dev.uint.qrserv.MainActivity" name="qrserv" />
-	<!-- Remo Duplicate File Remover --><item class="com.remoduplicatefilesremover.ui.SplashScreen" name="remo_duplicate_file_remover"/>
-	<!-- Resolution Changer --><item class="com.draco.resolutionchanger.MainActivity" name="resolution_changer"/>
-	<!-- Saber --><item class="com.adilhanney.saber.MainActivity" name="saber"/>
-	<!-- satellite --><item class="de.sipgate.app.satellite.startup.RoutingActivity" name="satellite"/>
-	<!-- Screen Stream --><item class="info.dvkr.screenstream.ui.activity.AppActivity" name="screen_stream"/>
-	<!-- Standard Notes --><item class="com.standardnotes.MainActivity" name="standard_notes"/>
-	<!-- Threema --><item class="ch.threema.app.activities.MainActivity" name="threema" />
-	<!-- Tomb of the Mask --><item class="com.lllibset.LLActivity.LLActivity" name="tomb_of_the_mask"/>
-	<!-- Tor Browser --><item class="org.torproject.torbrowser.App" name="tor_browser"/>
-	<!-- USB Media Explorer --><item class="com.homeysoft.nexususb.importer.NexusMediaImporterActivity" name="usb_media_explorer"/>
-	<!-- Voicemail --><item class="de.telekom.tpd.fmc.MainActivity" name="voicemail"/>
-	<!-- CalyxOS Work Profile --><item class="org.calyxos.bellis.MainActivity" name="calyxos_work_profile"/>
-	<!-- xManager --><item class="com.xc3fff0e.xmanager.SplashActivity" name="xmanager" />
-	<!-- Sueddeutsche Zeitung --><item class="de.sueddeutsche.LauncherActivity" name="sueddeutsche_zeitung"/>
-    <!-- AMB Mobilitat --><item class="com.amb.ambtemps.MainActivity" name="amb_mobilitat"/>
-	<!-- Barcelona Metro --><item class="com.mapway.isubway.app.HomeActivity" name="barcelona_metro"/>
-	<!-- Barcelona Metro Bus Rodalies Bicing --><item class="com.gls.barcelona.metrobusrodaliesbicing.app.ui.loading.LoadingActivity" name="barcelona_metro_bus_rodalies_bicing"/>
-	<!-- Barcelona Transport --><item class="com.jsvmsoft.interurbanos.presentation.MainActivity" name="barcelona_transport"/>
-	<!-- Weather M8 --><item class="bz.zaa.weather.ui.activity.SplashActivity" name="weather_m8"/>
-	<!-- Frog weather forecast --><item class="com.giovesoft.frogweather.activities.StartupActivity" name="frog_weather_forecast"/>
-	<!-- Mi Transporte Barcelona --><item class="com.movimad.transportebcn.InitActivity" name="mi_transporte_barcelona"/>
-    <!-- Apex Launcher Pro --><item class="com.anddoes.launcher.pro.ApexLauncherProActivity" name="apex_launcher_pro"/>
-	<!-- FOSS Browser --><item class="de.baumann.browser.activity.BrowserActivity" name="foss_browser"/>
-	<!-- Via Browser --><item class="mark.via.Shell" name="via_browser"/>
-	<!-- XBrowser --><item class="com.mmbox.xbrowser.BrowserActivity" name="xbrowser"/>
-	<!-- Yuzu Browser --><item class="jp.hazuki.yuzubrowser.browser.BrowserActivity" name="yuzu_browser"/>
-	<!-- Moovit --><item class="com.moovit.app.home.HomeActivity" name="moovit"/>
-	<!-- OK Transporte Barcelona --><item class="com.oktransportebarcelona.MainActivity" name="ok_transporte_barcelona"/>
-	<!-- TMB App --><item class="com.geomobile.tmbmobile.ui.activities.SplashActivity" name="tmb_app"/>
-	<!-- TRAM Barcelona --><item class="crc64c31a67c82d0a8023.SplashActivity" name="tram_barcelona"/>
-	<!-- Transit: Bus & Subway Times --><item class="com.thetransitapp.droid.shared.activity.SplashActivity" name="transit_bus_subway_times"/>
-    <!-- 061 Salut Respon --><item class="cat.gencat.mobi.sem.controller.activity.SplashActivity" name="_061_salut_respon"/>
-	<!-- Barcelona Transit --><item class="com.swash.transitworld.SplashScreen" name="barcelona_transit"/>
-	<!-- Alarm Clock for Me --><item class="com.apalon.myclockfree.activity.MainAdsActivity" name="alarm_clock_for_me"/>
-	<!-- La Meva Salut --><item class="cat.gencat.lamevasalut.splash.view.SplashActivity" name="la_meva_salut"/>
-	<!-- hyperion --><item class="projekt.launcher.ProjektLauncher" name="hyperion"/>
-	<!-- Horarios Renfe --><item class="com.wekele.cercanias.Main" name="horarios_renfe"/>
-	<!-- Renfe --><item class="com.renfeviajeros.ticket.presentation.ui.splash.SplashViewActivity" name="renfe"/>
-	<!-- Renfe Cercanías --><item class="com.renfe.renfecercanias.view.activity.splash.SplashActivity" name="renfe_cercanias"/>
-	<!-- Rodalies --><item class="cat.gencat.mobi.rodalies.presentation.view.activity.SplashActivity" name="rodalies"/>
-	<!-- Trànsit --><item class="com.tsol.transit.activities.SplashActivity" name="transit"/>
-    <!-- ING Banking --><item class="com.ing.mobile.diba.startup.SplashActivity" name="ing_banking"/>
-	<!-- S-pushTAN --><item class="com.starfinanz.mobile.android.spushtan.SPushTan" name="s_pushtan"/>
-	<!-- BeReal. --><item class="bereal.app.MainActivity" name="bereal"/>
-	<!-- Joyn --><item class="de.prosiebensat1digital.playerpluggable.testapp.splash.SplashActivity" name="joyn"/>
-	<!-- bob World --><item class="com.bankofbaroda.mconnect.activities.SplashActivity" name="bob_world"/>
-	<!-- Android Camera --><item class="com.android.camera.Camera" name="android_camera"/>
-	<!-- Miui Bugreport --><item class="com.miui.bugreport.ui.MainTabActivity" name="miui_bugreport"/>
-	<!-- Mi File Manager --><item class="com.android.fileexplorer.FileExplorerTabActivity" name="mi_file_manager"/>
-	<!-- GPay --><item class="com.google.nbu.paisa.flutter.gpay.app.LauncherActivity" name="gpay"/>
-	<!-- IPPB Mobile --><item class="com.iexceed.appzillon.ippbMB.AppzillonMainScreen" name="ippb_mobile"/>
-	<!-- Microsoft Launcher --><item class="com.microsoft.launcher.Launcher" name="microsoft_launcher"/>
-	<!-- MyJio --><item class="com.jio.myjio.dashboard.activities.SplashActivity" name="myjio"/>
-	<!-- Ncert Book --><item class="letest.ncertbooks.SplashActivity" name="ncert_book"/>
-	<!-- Paisa Wala --><item class="com.psb.novawala.activity.SplashActivity" name="paisa_wala"/>
-	<!-- Paytm --><item class="net.one97.paytm.app.LauncherActivity" name="paytm"/>
-	<!-- PhonePe --><item class="com.phonepe.app.v4.nativeapps.splash.Navigator_SplashActivity" name="phonepe"/>
-	<!-- ShareChat --><item class="sharechat.ads.feature.eva.EvaActivity" name="sharechat"/>
-	<!-- Telegram --><item class="org.telegram.messenger.DefaultIcon" name="telegram"/>
-	<!-- Truecaller --><item class="com.truecaller.ui.TruecallerInit" name="truecaller"/>
-	<!-- WA Business --><item class="com.whatsapp.Main" name="wa_business"/>
+	<item class="canvasm.myo2.SplashActivity" name="my_o2"/>
+	<item class="cz.o2.moje.RouterActivity" name="my_o2"/>
+	<item class="com.tuenti.messenger.ui.activity.MainActivity" name="my_o2"/>
+	<item class="sk.o2.mojeo2.MainActivity" name="my_o2"/>
+	<item class="cat.gencat.mouteapp.MainActivity" name="mou_te"/>
+	<item class="com.motorola.engageapp.ui.EngageActivity" name="motorola_notifications"/>
+	<item class="com.netflix.Speedtest.MainActivity" name="fast_speed_test"/>
+	<item class="com.motorola.camera.Camera" name="moto_camera_3"/>
+	<item class="com.aaronjwood.portauthority.activity.MainActivity" name="port_authority"/>
+    <item class="com.a0soft.gphone.acc.pro.MainWnd" name="_1tap_cleaner_pro"/>
+	<item class="com.ansca.corona.CoronaActivity" name="weather_station_barometer"/>
+	<item class="com.mydlink.unify.activity.Launch2Activity" name="d_link_wi_fi"/>
+	<item class="com.eakteam.networkmanager.pro.activities.paneli_kryesor" name="netman"/>
+	<item class="com.motorola.fmplayer.ChangeThemeActivity" name="radio_fm"/>
+	<item class="com.sweech.MainActivity" name="sweech"/>
+	<item class="com.ubnt.usurvey.ui.app.splash.SplashActivity" name="wifiman"/>
+	<item class="de.avm.android.wlanapp.permissions.LocationPermissionActivity" name="fritz_app_wlan"/>
+	<item class="com.Latetech.WlanScanner.MainActivity" name="wlanscanner_by_latetech"/>
+	<item class="com.signalmonitoring.wifilib.ui.activities.MonitoringActivity" name="wifi_monitor_pro"/>
+    <item class="io.gonative.android.SplashActivity" name="der_postillon"/>
+	<item class="com.touchtype.LauncherActivityIcon" name="microsoft_swiftkey_tastatur"/>´
+	<item class="de.etecture.ekz.onleihe.activity.SplashScreenActivity" name="onleihe"/>
+	<item class="com.emacberry.uuid0xfd6fscan.ScannerActivity" name="uuid_0xfd6f_scanner"/>
+	<item class="com.duolingo.app.LoginActivity" name="duolingo"/>
+	<item class="com.takeaway.android.activity.Splash" name="lieferando"/>
+	<item class="com.samsung.android.galaxycontinuity.SplashActivity" name="samsung_flow"/>
+	<item class="com.skype4life.MainActivity" name="skype"/>
+	<item class="com.microsoft.skype.teams.Launcher" name="teams"/>
+	<item class="com.samsung.android.themedesigner.SplashActivity" name="theme_park"/>
+    <item class="com.adguard.vpn.ui.SplashActivity" name="adguard_vpn"/>
+	<item class="com.candybar.dev.activities.SplashActivity" name="candybar_dev"/>
+	<item class="website.leifs.delta.activities.SplashActivity" name="delta"/>
+	<item class="com.example.MainActivity" name="jojoy"/>
+	<item class="com.valvesoftware.android.steam.community.MainActivity" name="steam"/>
+	<item class="com.funnycat.virustotal.ui.splash.SplashActivity" name="virustotal_mobile"/>
+	<item class="com.google.android.youtube.app.honeycomb.Shell$HomeActivity" name="youtube_revanced"/>
+    <item class="com.goder.busquerysystembar.MainActivity" name="barcelona_bus_tracker"/>
+	<item class="ui.MainActivity" name="blokada_5"/>
+	<item class="com.circuit.ui.MainActivity" name="circuit"/>
+	<item class="com.citymapper.app.MainActivity" name="citymapper"/>
+	<item class="com.appyet.activity.MainActivity" name="el_meu_tren"/>
+	<item class="com.iboomobile.fgc.MainActivity" name="fgc"/>
+	<item class="jp.miyavi.androiod.gnws.MainActivity" name="frog_weather_shortcut"/>
+	<item class="cat.gencat.mobi.gencatapp.presentation.splash.SplashActivity" name="gencat"/>
+	<item class="net.dinglisch.android.tasker.Kid" name="google_weather_activity"/>
+	<item class="cat.ereza.properbusbcn.ui.activities.MainActivity" name="next_bus_barcelona"/>
+    <item class="com.bubblesoft.android.bubbleupnp.MainActivity" name="bubbleupnp"/>
+	<item class="com.google.android.apps.chrome.Main" name="chromium" />
+	<item class="org.libreoffice.androidapp.ui.LibreOfficeUIActivity" name="collabora_office"/>
+	<item class="me.saket.dank.Launcher" name="dawn"/>
+	<item class="us.spotco.maps.MainActivity" name="gmaps_wv"/>
+	<item class="com.hobbyone.HashDroid.MainActivity" name="hash_droid" />
+	<item class="jbl.stc.com.activity.SplashActivity" name="jbl_headphones" />
+	<item class="co.garmax.materialflashlight.ui.root.RootActivity" name="material_flashlight"/>
+	<item class="us.spotco.fennec_dos.App" name="mull"/>
+	<item class="com.cylonid.nativealpha.MainActivity" name="native_alpha"/>
+	<item class="de.materna.bbk.mobile.app.ui.SplashScreenActivity" name="nina"/>
+	<item class="dev.uint.qrserv.MainActivity" name="qrserv" />
+	<item class="com.remoduplicatefilesremover.ui.SplashScreen" name="remo_duplicate_file_remover"/>
+	<item class="com.draco.resolutionchanger.MainActivity" name="resolution_changer"/>
+	<item class="com.adilhanney.saber.MainActivity" name="saber"/>
+	<item class="de.sipgate.app.satellite.startup.RoutingActivity" name="satellite"/>
+	<item class="info.dvkr.screenstream.ui.activity.AppActivity" name="screen_stream"/>
+	<item class="com.standardnotes.MainActivity" name="standard_notes"/>
+	<item class="ch.threema.app.activities.MainActivity" name="threema" />
+	<item class="com.lllibset.LLActivity.LLActivity" name="tomb_of_the_mask"/>
+	<item class="org.torproject.torbrowser.App" name="tor_browser"/>
+	<item class="com.homeysoft.nexususb.importer.NexusMediaImporterActivity" name="usb_media_explorer"/>
+	<item class="de.telekom.tpd.fmc.MainActivity" name="voicemail"/>
+	<item class="org.calyxos.bellis.MainActivity" name="calyxos_work_profile"/>
+	<item class="com.xc3fff0e.xmanager.SplashActivity" name="xmanager" />
+	<item class="de.sueddeutsche.LauncherActivity" name="sueddeutsche_zeitung"/>
+    <item class="com.amb.ambtemps.MainActivity" name="amb_mobilitat"/>
+	<item class="com.mapway.isubway.app.HomeActivity" name="barcelona_metro"/>
+	<item class="com.gls.barcelona.metrobusrodaliesbicing.app.ui.loading.LoadingActivity" name="barcelona_metro_bus_rodalies_bicing"/>
+	<item class="com.jsvmsoft.interurbanos.presentation.MainActivity" name="barcelona_transport"/>
+	<item class="bz.zaa.weather.ui.activity.SplashActivity" name="weather_m8"/>
+	<item class="com.giovesoft.frogweather.activities.StartupActivity" name="frog_weather_forecast"/>
+	<item class="com.movimad.transportebcn.InitActivity" name="mi_transporte_barcelona"/>
+    <item class="com.anddoes.launcher.pro.ApexLauncherProActivity" name="apex_launcher_pro"/>
+	<item class="de.baumann.browser.activity.BrowserActivity" name="foss_browser"/>
+	<item class="mark.via.Shell" name="via_browser"/>
+	<item class="com.mmbox.xbrowser.BrowserActivity" name="xbrowser"/>
+	<item class="jp.hazuki.yuzubrowser.browser.BrowserActivity" name="yuzu_browser"/>
+	<item class="com.moovit.app.home.HomeActivity" name="moovit"/>
+	<item class="com.oktransportebarcelona.MainActivity" name="ok_transporte_barcelona"/>
+	<item class="com.geomobile.tmbmobile.ui.activities.SplashActivity" name="tmb_app"/>
+	<item class="crc64c31a67c82d0a8023.SplashActivity" name="tram_barcelona"/>
+	<item class="com.thetransitapp.droid.shared.activity.SplashActivity" name="transit_bus_subway_times"/>
+    <item class="cat.gencat.mobi.sem.controller.activity.SplashActivity" name="_061_salut_respon"/>
+	<item class="com.swash.transitworld.SplashScreen" name="barcelona_transit"/>
+	<item class="com.apalon.myclockfree.activity.MainAdsActivity" name="alarm_clock_for_me"/>
+	<item class="cat.gencat.lamevasalut.splash.view.SplashActivity" name="la_meva_salut"/>
+	<item class="projekt.launcher.ProjektLauncher" name="hyperion"/>
+	<item class="com.wekele.cercanias.Main" name="horarios_renfe"/>
+	<item class="com.renfeviajeros.ticket.presentation.ui.splash.SplashViewActivity" name="renfe"/>
+	<item class="com.renfe.renfecercanias.view.activity.splash.SplashActivity" name="renfe_cercanias"/>
+	<item class="cat.gencat.mobi.rodalies.presentation.view.activity.SplashActivity" name="rodalies"/>
+	<item class="com.tsol.transit.activities.SplashActivity" name="transit"/>
+    <item class="com.ing.mobile.diba.startup.SplashActivity" name="ing_banking"/>
+	<item class="com.starfinanz.mobile.android.spushtan.SPushTan" name="s_pushtan"/>
+	<item class="bereal.app.MainActivity" name="bereal"/>
+	<item class="de.prosiebensat1digital.playerpluggable.testapp.splash.SplashActivity" name="joyn"/>
+	<item class="com.bankofbaroda.mconnect.activities.SplashActivity" name="bob_world"/>
+	<item class="com.android.camera.Camera" name="android_camera"/>
+	<item class="com.miui.bugreport.ui.MainTabActivity" name="miui_bugreport"/>
+	<item class="com.android.fileexplorer.FileExplorerTabActivity" name="mi_file_manager"/>
+	<item class="com.google.nbu.paisa.flutter.gpay.app.LauncherActivity" name="gpay"/>
+	<item class="com.iexceed.appzillon.ippbMB.AppzillonMainScreen" name="ippb_mobile"/>
+	<item class="com.microsoft.launcher.Launcher" name="microsoft_launcher"/>
+	<item class="com.jio.myjio.dashboard.activities.SplashActivity" name="myjio"/>
+	<item class="letest.ncertbooks.SplashActivity" name="ncert_book"/>
+	<item class="com.psb.novawala.activity.SplashActivity" name="paisa_wala"/>
+	<item class="net.one97.paytm.app.LauncherActivity" name="paytm"/>
+	<item class="com.phonepe.app.v4.nativeapps.splash.Navigator_SplashActivity" name="phonepe"/>
+	<item class="sharechat.ads.feature.eva.EvaActivity" name="sharechat"/>
+	<item class="org.telegram.messenger.DefaultIcon" name="telegram"/>
+	<item class="com.truecaller.ui.TruecallerInit" name="truecaller"/>
+	<item class="com.whatsapp.Main" name="wa_business"/>
     <item class="net.tsapps.appsales.ui.main.MainActivity" name="appsales"/>
 	<item class="net.techet.netanalyzerlite.an.activity.MainActivity" name="net_analyzer"/>
 	<item class="com.networkinfo.networkanalyzers.activity.SplashActivity" name="atlanta_info_network_analyzer"/>
@@ -523,5 +521,7 @@
 	<item class="com.macropinch.swan.WeatherActivity2" name="macropinch_weather"/>
 	<item class="com.UCMobile.main.UCMobile" name="uc_mini"/>
 	<item class="com.westernunion.moneytransferr3app.MainActivity" name="westernunion"/>
+	<item class="de.fiduciagad.android.vrwallet_module.ui.dispatcher.view.DispatcherActivity" name="vr_pay"/>
+	<item class="de.fiduciagad.banking.screens.navigation.NavigationActivity" name="vr_banking_app"/>
 
 </appmap>

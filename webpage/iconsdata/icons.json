@@ -505,5 +505,7 @@
 	{ "title": "Pure Browser", "author": "MiepHD", "src": "pure_browser", "category": "browser" },
 	{ "title": "MacroPinch Weather", "author": "MiepHD", "src": "macropinch_weather", "category": "news" },
 	{ "title": "UC Mini", "author": "MiepHD", "src": "uc_mini", "category": "other" },
-	{ "title": "WesternUnion", "author": "MiepHD", "src": "westernunion", "category": "banking" }
+	{ "title": "WesternUnion", "author": "MiepHD", "src": "westernunion", "category": "banking" },
+	{ "title": "VR Pay", "author": "MiepHD", "src": "vr_pay", "category": "banking" },
+	{ "title": "VR Banking App", "author": "MiepHD", "src": "vr_banking_app", "category": "banking" }
 ]
