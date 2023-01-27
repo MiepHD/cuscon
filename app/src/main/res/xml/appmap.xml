@@ -523,5 +523,6 @@
 	<item class="com.westernunion.moneytransferr3app.MainActivity" name="westernunion"/>
 	<item class="de.fiduciagad.android.vrwallet_module.ui.dispatcher.view.DispatcherActivity" name="vr_pay"/>
 	<item class="de.fiduciagad.banking.screens.navigation.NavigationActivity" name="vr_banking_app"/>
+	<item class="com.unity3d.player.UnityPlayerActivity" name="_1_2_3_4_player_games"/>
 
 </appmap>

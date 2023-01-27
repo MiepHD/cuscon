@@ -205,6 +205,7 @@
     <!-- DB Train Simulator --><item drawable="db_train_simulator" />
     <!-- Stumble Guys --><item drawable="stumble_guys" />
     <!-- LawyersLegacy --><item drawable="lawyerslegacy" />
+    <!-- 1 2 3 4 Player Games --><item drawable="_1_2_3_4_player_games" />
 
     <category title="Gaming Experience" />
     <!-- Moto Gametime--><item drawable="moto_gametime" />

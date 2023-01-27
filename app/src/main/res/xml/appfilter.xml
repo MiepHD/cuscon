@@ -555,5 +555,6 @@
 	<item component="ComponentInfo{com.westernunion.moneytransferr3app.es/com.westernunion.moneytransferr3app.MainActivity}" drawable="westernunion" />
 	<item component="ComponentInfo{de.fiduciagad.android.vrwallet/de.fiduciagad.android.vrwallet_module.ui.dispatcher.view.DispatcherActivity}" drawable="vr_pay" />
 	<item component="ComponentInfo{de.fiduciagad.banking.vr/de.fiduciagad.banking.screens.navigation.NavigationActivity}" drawable="vr_banking_app" />
+	<item component="ComponentInfo{com.JindoBlu.FourPlayers/com.unity3d.player.UnityPlayerActivity}" drawable="_1_2_3_4_player_games" />
 
 </resources>
