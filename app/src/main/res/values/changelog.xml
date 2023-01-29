@@ -4,6 +4,7 @@
     <string-array name="changelog">
         <item>2.8.4:</item>
         <item>Fixed PowerTube</item>
+        <item>Added Caelum, CatalunyaMeteo, EnHora, Horarios Renfe Feve, Rodalies Widget, Public transport Worldwide</item>
         <item>2.8.3:</item>
         <item>Added VR Pay, VR Banking App, 1 2 3 4 Player Games</item>
         <item>2.8.2:</item>

@@ -533,5 +533,11 @@
 	<AppIcon name="de.fiduciagad.android.vrwallet/de.fiduciagad.android.vrwallet_module.ui.dispatcher.view.DispatcherActivity" image="vr_pay"/>
 	<AppIcon name="de.fiduciagad.banking.vr/de.fiduciagad.banking.screens.navigation.NavigationActivity" image="vr_banking_app"/>
 	<AppIcon name="com.JindoBlu.FourPlayers/com.unity3d.player.UnityPlayerActivity" image="_1_2_3_4_player_games"/>
+	<AppIcon name="com.alxnophis.meteocat/com.alxnophis.meteo.root.ui.RootActivity" image="caelum"/>
+	<AppIcon name="com.roviapps.catalunyameteo/com.roviapps.catalunyameteo.SplashScreenActivity" image="catalunyameteo"/>
+	<AppIcon name="es.nebulacodex.enhora.free/es.nebulacodex.enhora.MainActivity" image="enhora"/>
+	<AppIcon name="feve.mobile/feve.mobile.Main" image="horarios_renfe_feve"/>
+	<AppIcon name="org.angelmariages.rodalieswidget/org.angelmariages.rodalieswidget.FirstTimeActivity" image="rodalies_widget"/>
+	<AppIcon name="de.pnpq.transportlocator/de.pnpq.osmlocator.base.activities.AppMainActivity" image="public_transport_worldwide"/>
 
 </Theme>

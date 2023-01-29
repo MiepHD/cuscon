@@ -524,5 +524,11 @@
 	<item class="de.fiduciagad.android.vrwallet_module.ui.dispatcher.view.DispatcherActivity" name="vr_pay"/>
 	<item class="de.fiduciagad.banking.screens.navigation.NavigationActivity" name="vr_banking_app"/>
 	<item class="com.unity3d.player.UnityPlayerActivity" name="_1_2_3_4_player_games"/>
+	<item class="com.alxnophis.meteo.root.ui.RootActivity" name="caelum"/>
+	<item class="com.roviapps.catalunyameteo.SplashScreenActivity" name="catalunyameteo"/>
+	<item class="es.nebulacodex.enhora.MainActivity" name="enhora"/>
+	<item class="feve.mobile.Main" name="horarios_renfe_feve"/>
+	<item class="org.angelmariages.rodalieswidget.FirstTimeActivity" name="rodalies_widget"/>
+	<item class="de.pnpq.osmlocator.base.activities.AppMainActivity" name="public_transport_worldwide"/>
 
 </appmap>
