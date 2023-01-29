@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="changelog_date">27.01.2023</string>
+    <string name="changelog_date">29.01.2023</string>
     <string-array name="changelog">
+        <item>2.8.4:</item>
+        <item>Fixed PowerTube</item>
         <item>2.8.3:</item>
         <item>Added VR Pay, VR Banking App, 1 2 3 4 Player Games</item>
         <item>2.8.2:</item>
