@@ -531,5 +531,6 @@
 	<item class="org.angelmariages.rodalieswidget.FirstTimeActivity" name="rodalies_widget"/>
 	<item class="de.pnpq.osmlocator.base.activities.AppMainActivity" name="public_transport_worldwide"/>
 	<item class="com.deutschebahn.bahnbonus.ui.LauncherActivity" name="bahnbonus"/>
+	<item class="com.moodle.moodlemobile.MainActivity" name="moodle"/>
 
 </appmap>

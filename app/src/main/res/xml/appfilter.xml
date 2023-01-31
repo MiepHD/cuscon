@@ -563,5 +563,6 @@
 	<item component="ComponentInfo{org.angelmariages.rodalieswidget/org.angelmariages.rodalieswidget.FirstTimeActivity}" drawable="rodalies_widget" />
 	<item component="ComponentInfo{de.pnpq.transportlocator/de.pnpq.osmlocator.base.activities.AppMainActivity}" drawable="public_transport_worldwide" />
 	<item component="ComponentInfo{com.deutschebahn.bahnbonus/com.deutschebahn.bahnbonus.ui.LauncherActivity}" drawable="bahnbonus" />
+	<item component="ComponentInfo{com.moodle.moodlemobile/com.moodle.moodlemobile.MainActivity}" drawable="moodle" />
 
 </resources>

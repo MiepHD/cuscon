@@ -95,6 +95,7 @@
 	<!-- Prepago --><item drawable="prepago" />
 	<!-- UC Mini --><item drawable="uc_mini" />
     <!-- BahnBonus --><item drawable="bahnbonus" />
+    <!-- Moodle --><item drawable="moodle" />
 
     <category title="App Stores" />
     <item drawable="apkpure" />
