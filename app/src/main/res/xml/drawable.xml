@@ -212,6 +212,7 @@
 	<!-- Horarios Renfe Feve --><item drawable="horarios_renfe_feve" />
 	<!-- Rodalies Widget --><item drawable="rodalies_widget" />
 	<!-- Public transport Worldwide --><item drawable="public_transport_worldwide" />
+    <!-- Happy Color --><item drawable="happy_color" />
 
     <category title="Gaming Experience" />
     <!-- Moto Gametime--><item drawable="moto_gametime" />

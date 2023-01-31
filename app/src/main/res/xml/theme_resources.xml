@@ -541,5 +541,6 @@
 	<AppIcon name="de.pnpq.transportlocator/de.pnpq.osmlocator.base.activities.AppMainActivity" image="public_transport_worldwide"/>
 	<AppIcon name="com.deutschebahn.bahnbonus/com.deutschebahn.bahnbonus.ui.LauncherActivity" image="bahnbonus"/>
 	<AppIcon name="com.moodle.moodlemobile/com.moodle.moodlemobile.MainActivity" image="moodle"/>
+	<AppIcon name="com.pixel.art.coloring.color.number/com.google.firebase.MessagingUnityPlayerActivity" image="happy_color"/>
 
 </Theme>

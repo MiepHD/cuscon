@@ -516,5 +516,6 @@
 	{ "title": "Rodalies Widget", "author": "MiepHD", "src": "rodalies_widget", "category": "other" },
 	{ "title": "Public transport Worldwide", "author": "MiepHD", "src": "public_transport_worldwide", "category": "other" },
 	{ "title": "BahnBonus", "author": "MiepHD", "src": "bahnbonus", "category": "other" },
-	{ "title": "Moodle", "author": "MiepHD", "src": "moodle", "category": "learning" }
+	{ "title": "Moodle", "author": "MiepHD", "src": "moodle", "category": "learning" },
+	{ "title": "Happy Color", "author": "MiepHD", "src": "happy_color", "category": "games" }
 ]

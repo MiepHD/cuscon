@@ -3,7 +3,7 @@
     <string name="changelog_date">29.01.2023</string>
     <string-array name="changelog">
         <item>2.8.5:</item>
-        <item>Added BahnBonus, Moodle</item>
+        <item>Added BahnBonus, Moodle, Happy Color</item>
         <item>2.8.4:</item>
         <item>Fixed PowerTube</item>
         <item>Added Caelum, CatalunyaMeteo, EnHora, Horarios Renfe Feve, Rodalies Widget, Public transport Worldwide</item>
