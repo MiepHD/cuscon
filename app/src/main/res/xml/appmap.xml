@@ -530,5 +530,6 @@
 	<item class="feve.mobile.Main" name="horarios_renfe_feve"/>
 	<item class="org.angelmariages.rodalieswidget.FirstTimeActivity" name="rodalies_widget"/>
 	<item class="de.pnpq.osmlocator.base.activities.AppMainActivity" name="public_transport_worldwide"/>
+	<item class="com.deutschebahn.bahnbonus.ui.LauncherActivity" name="bahnbonus"/>
 
 </appmap>

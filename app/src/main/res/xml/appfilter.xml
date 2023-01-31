@@ -562,5 +562,6 @@
 	<item component="ComponentInfo{feve.mobile/feve.mobile.Main}" drawable="horarios_renfe_feve" />
 	<item component="ComponentInfo{org.angelmariages.rodalieswidget/org.angelmariages.rodalieswidget.FirstTimeActivity}" drawable="rodalies_widget" />
 	<item component="ComponentInfo{de.pnpq.transportlocator/de.pnpq.osmlocator.base.activities.AppMainActivity}" drawable="public_transport_worldwide" />
+	<item component="ComponentInfo{com.deutschebahn.bahnbonus/com.deutschebahn.bahnbonus.ui.LauncherActivity}" drawable="bahnbonus" />
 
 </resources>

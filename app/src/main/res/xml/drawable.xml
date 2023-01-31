@@ -94,6 +94,7 @@
 	<!-- Correos Express --><item drawable="correos_express" />
 	<!-- Prepago --><item drawable="prepago" />
 	<!-- UC Mini --><item drawable="uc_mini" />
+    <!-- BahnBonus --><item drawable="bahnbonus" />
 
     <category title="App Stores" />
     <item drawable="apkpure" />

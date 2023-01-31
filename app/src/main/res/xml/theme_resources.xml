@@ -539,5 +539,6 @@
 	<AppIcon name="feve.mobile/feve.mobile.Main" image="horarios_renfe_feve"/>
 	<AppIcon name="org.angelmariages.rodalieswidget/org.angelmariages.rodalieswidget.FirstTimeActivity" image="rodalies_widget"/>
 	<AppIcon name="de.pnpq.transportlocator/de.pnpq.osmlocator.base.activities.AppMainActivity" image="public_transport_worldwide"/>
+	<AppIcon name="com.deutschebahn.bahnbonus/com.deutschebahn.bahnbonus.ui.LauncherActivity" image="bahnbonus"/>
 
 </Theme>

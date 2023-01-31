@@ -514,5 +514,6 @@
 	{ "title": "EnHora", "author": "MiepHD", "src": "enhora", "category": "other" },
 	{ "title": "Horarios Renfe Feve", "author": "MiepHD", "src": "horarios_renfe_feve", "category": "other" },
 	{ "title": "Rodalies Widget", "author": "MiepHD", "src": "rodalies_widget", "category": "other" },
-	{ "title": "Public transport Worldwide", "author": "MiepHD", "src": "public_transport_worldwide", "category": "other" }
+	{ "title": "Public transport Worldwide", "author": "MiepHD", "src": "public_transport_worldwide", "category": "other" },
+	{ "title": "BahnBonus", "author": "MiepHD", "src": "bahnbonus", "category": "other" }
 ]
