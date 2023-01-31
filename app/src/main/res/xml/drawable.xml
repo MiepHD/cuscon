@@ -95,7 +95,10 @@
 	<!-- Prepago --><item drawable="prepago" />
 	<!-- UC Mini --><item drawable="uc_mini" />
     <!-- BahnBonus --><item drawable="bahnbonus" />
-    <!-- Moodle --><item drawable="moodle" />
+    <!-- EnHora --><item drawable="enhora" />
+	<!-- Horarios Renfe Feve --><item drawable="horarios_renfe_feve" />
+	<!-- Rodalies Widget --><item drawable="rodalies_widget" />
+	<!-- Public transport Worldwide --><item drawable="public_transport_worldwide" />
 
     <category title="App Stores" />
     <item drawable="apkpure" />
@@ -208,10 +211,6 @@
     <!-- Stumble Guys --><item drawable="stumble_guys" />
     <!-- LawyersLegacy --><item drawable="lawyerslegacy" />
     <!-- 1 2 3 4 Player Games --><item drawable="_1_2_3_4_player_games" />
-	<!-- EnHora --><item drawable="enhora" />
-	<!-- Horarios Renfe Feve --><item drawable="horarios_renfe_feve" />
-	<!-- Rodalies Widget --><item drawable="rodalies_widget" />
-	<!-- Public transport Worldwide --><item drawable="public_transport_worldwide" />
     <!-- Happy Color --><item drawable="happy_color" />
 
     <category title="Gaming Experience" />
@@ -489,6 +488,7 @@
     <!-- Google Translate --><item drawable="google_translate" />
     <!-- Duolingo --><item drawable="duolingo"/>
     <item drawable="homeworker" />
+    <!-- Moodle --><item drawable="moodle" />
 
     <category title="News" />
     <!-- Newszone --><item drawable="newszone" />
