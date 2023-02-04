@@ -533,5 +533,11 @@
 	<item class="com.deutschebahn.bahnbonus.ui.LauncherActivity" name="bahnbonus"/>
 	<item class="com.moodle.moodlemobile.MainActivity" name="moodle"/>
 	<item class="com.google.firebase.MessagingUnityPlayerActivity" name="happy_color"/>
+	<item class="cat.consellrepublica.portalapp.MainActivity" name="consell_republica"/>
+	<item class="com.kfces.orderserv.SplashActivity" name="kfc_espana"/>
+	<item class="cat.epa.quiosc.activity.TriaActivity" name="la_republica"/>
+	<item class="aplicacion.InicialActivity" name="meteored"/>
+	<item class="com.prisa.ser.presentation.screens.fakeSplash.FakeSplashActivity" name="ser"/>
+	<item class="com.thisisaim.templateapp.view.activity.intro.IntroActivity" name="ser_cat"/>
 
 </appmap>

@@ -517,5 +517,11 @@
 	{ "title": "Public transport Worldwide", "author": "MiepHD", "src": "public_transport_worldwide", "category": "other" },
 	{ "title": "BahnBonus", "author": "MiepHD", "src": "bahnbonus", "category": "other" },
 	{ "title": "Moodle", "author": "MiepHD", "src": "moodle", "category": "learning" },
-	{ "title": "Happy Color", "author": "MiepHD", "src": "happy_color", "category": "games" }
+	{ "title": "Happy Color", "author": "MiepHD", "src": "happy_color", "category": "games" },
+	{ "title": "Consell República", "author": "MiepHD", "src": "consell_republica", "category": "other" },
+	{ "title": "KFC España", "author": "MiepHD", "src": "kfc_espana", "category": "other" },
+	{ "title": "La República", "author": "MiepHD", "src": "la_republica", "category": "other" },
+	{ "title": "Meteored", "author": "MiepHD", "src": "meteored", "category": "news" },
+	{ "title": "SER", "author": "MiepHD", "src": "ser", "category": "music-streaming" },
+	{ "title": "SER Cat", "author": "MiepHD", "src": "ser_cat", "category": "news" }
 ]

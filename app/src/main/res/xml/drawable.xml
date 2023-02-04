@@ -99,6 +99,9 @@
 	<!-- Horarios Renfe Feve --><item drawable="horarios_renfe_feve" />
 	<!-- Rodalies Widget --><item drawable="rodalies_widget" />
 	<!-- Public transport Worldwide --><item drawable="public_transport_worldwide" />
+    <!-- Consell República --><item drawable="consell_republica" />
+	<!-- KFC España --><item drawable="kfc_espana" />
+	<!-- La República --><item drawable="la_republica" />
 
     <category title="App Stores" />
     <item drawable="apkpure" />
@@ -179,6 +182,7 @@
     <!-- Catalunya Noticies --><item drawable="catalunya_noticies" />
     <!-- RAC1 --><item drawable="rac1" />
     <!-- RAC105 --><item drawable="rac105" />
+    <!-- SER --><item drawable="ser" />
 
     <category title="Recording" />
     <item drawable="voicenote" />
@@ -513,6 +517,8 @@
     <!-- MacroPinch Weather --><item drawable="macropinch_weather" />
     <!-- Caelum --><item drawable="caelum" />
 	<!-- CatalunyaMeteo --><item drawable="catalunyameteo" />
+    <!-- Meteored --><item drawable="meteored" />
+    <!-- SER Cat --><item drawable="ser_cat" />
 
     <category title="Design" />
     <!-- Pocket Paint --><item drawable="pocket_paint" />

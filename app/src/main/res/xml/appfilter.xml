@@ -565,5 +565,11 @@
 	<item component="ComponentInfo{com.deutschebahn.bahnbonus/com.deutschebahn.bahnbonus.ui.LauncherActivity}" drawable="bahnbonus" />
 	<item component="ComponentInfo{com.moodle.moodlemobile/com.moodle.moodlemobile.MainActivity}" drawable="moodle" />
 	<item component="ComponentInfo{com.pixel.art.coloring.color.number/com.google.firebase.MessagingUnityPlayerActivity}" drawable="happy_color" />
+	<item component="ComponentInfo{cat.consellrepublica.portalapp/cat.consellrepublica.portalapp.MainActivity}" drawable="consell_republica" />
+	<item component="ComponentInfo{es.kfc.spain/com.kfces.orderserv.SplashActivity}" drawable="kfc_espana" />
+	<item component="ComponentInfo{cat.epa.quiosc.rep/cat.epa.quiosc.activity.TriaActivity}" drawable="la_republica" />
+	<item component="ComponentInfo{aplicacion.tiempo/aplicacion.InicialActivity}" drawable="meteored" />
+	<item component="ComponentInfo{com.prisaradio.replicapp.cadenaser/com.prisa.ser.presentation.screens.fakeSplash.FakeSplashActivity}" drawable="ser" />
+	<item component="ComponentInfo{com.prisaradio.sercatalunya/com.thisisaim.templateapp.view.activity.intro.IntroActivity}" drawable="ser_cat" />
 
 </resources>

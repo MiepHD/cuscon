@@ -542,5 +542,11 @@
 	<AppIcon name="com.deutschebahn.bahnbonus/com.deutschebahn.bahnbonus.ui.LauncherActivity" image="bahnbonus"/>
 	<AppIcon name="com.moodle.moodlemobile/com.moodle.moodlemobile.MainActivity" image="moodle"/>
 	<AppIcon name="com.pixel.art.coloring.color.number/com.google.firebase.MessagingUnityPlayerActivity" image="happy_color"/>
+	<AppIcon name="cat.consellrepublica.portalapp/cat.consellrepublica.portalapp.MainActivity" image="consell_republica"/>
+	<AppIcon name="es.kfc.spain/com.kfces.orderserv.SplashActivity" image="kfc_espana"/>
+	<AppIcon name="cat.epa.quiosc.rep/cat.epa.quiosc.activity.TriaActivity" image="la_republica"/>
+	<AppIcon name="aplicacion.tiempo/aplicacion.InicialActivity" image="meteored"/>
+	<AppIcon name="com.prisaradio.replicapp.cadenaser/com.prisa.ser.presentation.screens.fakeSplash.FakeSplashActivity" image="ser"/>
+	<AppIcon name="com.prisaradio.sercatalunya/com.thisisaim.templateapp.view.activity.intro.IntroActivity" image="ser_cat"/>
 
 </Theme>
