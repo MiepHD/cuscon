@@ -571,5 +571,6 @@
 	<item component="ComponentInfo{aplicacion.tiempo/aplicacion.InicialActivity}" drawable="meteored" />
 	<item component="ComponentInfo{com.prisaradio.replicapp.cadenaser/com.prisa.ser.presentation.screens.fakeSplash.FakeSplashActivity}" drawable="ser" />
 	<item component="ComponentInfo{com.prisaradio.sercatalunya/com.thisisaim.templateapp.view.activity.intro.IntroActivity}" drawable="ser_cat" />
+	<item component="ComponentInfo{at.wienerlinien.wienmobillab/at.upstream.citymobil.feature.splash.SplashActivity}" drawable="wienmobil" />
 
 </resources>

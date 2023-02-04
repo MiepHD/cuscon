@@ -102,6 +102,7 @@
     <!-- Consell República --><item drawable="consell_republica" />
 	<!-- KFC España --><item drawable="kfc_espana" />
 	<!-- La República --><item drawable="la_republica" />
+    <!-- WienMobil --><item drawable="wienmobil" />
 
     <category title="App Stores" />
     <item drawable="apkpure" />

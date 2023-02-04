@@ -523,5 +523,6 @@
 	{ "title": "La República", "author": "MiepHD", "src": "la_republica", "category": "other" },
 	{ "title": "Meteored", "author": "MiepHD", "src": "meteored", "category": "news" },
 	{ "title": "SER", "author": "MiepHD", "src": "ser", "category": "music-streaming" },
-	{ "title": "SER Cat", "author": "MiepHD", "src": "ser_cat", "category": "news" }
+	{ "title": "SER Cat", "author": "MiepHD", "src": "ser_cat", "category": "news" },
+	{ "title": "WienMobil", "author": "MiepHD", "src": "wienmobil", "category": "other" }
 ]

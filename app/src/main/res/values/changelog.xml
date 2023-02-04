@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="changelog_date">29.01.2023</string>
+    <string name="changelog_date">04.02.2023</string>
     <string-array name="changelog">
         <item>2.8.5:</item>
-        <item>Added BahnBonus, Moodle, Happy Color, Consell República, KFC España, La República, Meteored, SER, SER Cat</item>
+        <item>Added BahnBonus, Moodle, Happy Color, Consell República, KFC España, La República, Meteored, SER, SER Cat, WienMobil</item>
         <item>2.8.4:</item>
         <item>Fixed PowerTube</item>
         <item>Added Caelum, CatalunyaMeteo, EnHora, Horarios Renfe Feve, Rodalies Widget, Public transport Worldwide</item>
