@@ -103,6 +103,7 @@
 	<!-- KFC España --><item drawable="kfc_espana" />
 	<!-- La República --><item drawable="la_republica" />
     <!-- WienMobil --><item drawable="wienmobil" />
+    <!-- Dollify --><item drawable="dollify" />
 
     <category title="App Stores" />
     <item drawable="apkpure" />

@@ -524,5 +524,6 @@
 	{ "title": "Meteored", "author": "MiepHD", "src": "meteored", "category": "news" },
 	{ "title": "SER", "author": "MiepHD", "src": "ser", "category": "music-streaming" },
 	{ "title": "SER Cat", "author": "MiepHD", "src": "ser_cat", "category": "news" },
-	{ "title": "WienMobil", "author": "MiepHD", "src": "wienmobil", "category": "other" }
+	{ "title": "WienMobil", "author": "MiepHD", "src": "wienmobil", "category": "other" },
+	{ "title": "Dollify", "author": "MiepHD", "src": "dollify", "category": "other" }
 ]

@@ -540,5 +540,6 @@
 	<item class="com.prisa.ser.presentation.screens.fakeSplash.FakeSplashActivity" name="ser"/>
 	<item class="com.thisisaim.templateapp.view.activity.intro.IntroActivity" name="ser_cat"/>
 	<item class="at.upstream.citymobil.feature.splash.SplashActivity" name="wienmobil"/>
+	<item class="com.unity3d.player.UnityPlayerActivity" name="dollify"/>
 
 </appmap>

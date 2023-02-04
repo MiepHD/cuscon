@@ -549,5 +549,6 @@
 	<AppIcon name="com.prisaradio.replicapp.cadenaser/com.prisa.ser.presentation.screens.fakeSplash.FakeSplashActivity" image="ser"/>
 	<AppIcon name="com.prisaradio.sercatalunya/com.thisisaim.templateapp.view.activity.intro.IntroActivity" image="ser_cat"/>
 	<AppIcon name="at.wienerlinien.wienmobillab/at.upstream.citymobil.feature.splash.SplashActivity" image="wienmobil"/>
+	<AppIcon name="com.davexp.dollify/com.unity3d.player.UnityPlayerActivity" image="dollify"/>
 
 </Theme>
