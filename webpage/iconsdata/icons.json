@@ -531,5 +531,9 @@
 	{ "title": "Island", "author": "MiepHD", "src": "island", "category": "other" },
 	{ "title": "GLS", "author": "MiepHD", "src": "gls", "category": "other" },
 	{ "title": "smou", "author": "MiepHD", "src": "smou", "category": "other" },
-	{ "title": "Wi-Fi Switcher", "author": "MiepHD", "src": "wi_fi_switcher", "category": "other" }
+	{ "title": "Wi-Fi Switcher", "author": "MiepHD", "src": "wi_fi_switcher", "category": "other" },
+	{ "title": "Samsung Finder", "author": "MiepHD", "src": "samsung_finder", "category": "tools" },
+	{ "title": "Galaxy App Booster", "author": "MiepHD", "src": "galaxy_app_booster", "category": "tools" },
+	{ "title": "Device Care", "author": "MiepHD", "src": "device_care", "category": "tools" },
+	{ "title": "Private Share", "author": "MiepHD", "src": "private_share", "category": "tools" }
 ]

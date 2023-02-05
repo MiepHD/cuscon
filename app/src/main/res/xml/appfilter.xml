@@ -579,5 +579,9 @@
 	<item component="ComponentInfo{com.gls.consigneeapp/com.gls.consigneeapp.MainActivity}" drawable="gls" />
 	<item component="ComponentInfo{cat.bcn.smoubcn/crc64c845a49dd12b02a5.LoadSplashScreen}" drawable="smou" />
 	<item component="ComponentInfo{com.softmediacts.wifiswitch/com.softmediacts.wifiswitch.MainActivity}" drawable="wi_fi_switcher" />
+	<item component="ComponentInfo{com.samsung.android.app.galaxyfinder/com.samsung.android.app.galaxyfinder.GalaxyFinderActivity}" drawable="samsung_finder" />
+	<item component="ComponentInfo{com.samsung.android.appbooster/com.samsung.android.appbooster.app.presentation.home.HomeActivity}" drawable="galaxy_app_booster" />
+	<item component="ComponentInfo{com.samsung.android.lool/com.samsung.android.sm.score.ui.ScoreBoardActivity}" drawable="device_care" />
+	<item component="ComponentInfo{com.samsung.android.privateshare/com.samsung.android.privacy.view.MainActivity}" drawable="private_share" />
 
 </resources>

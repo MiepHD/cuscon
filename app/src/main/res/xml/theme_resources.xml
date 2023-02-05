@@ -556,5 +556,9 @@
 	<AppIcon name="com.gls.consigneeapp/com.gls.consigneeapp.MainActivity" image="gls"/>
 	<AppIcon name="cat.bcn.smoubcn/crc64c845a49dd12b02a5.LoadSplashScreen" image="smou"/>
 	<AppIcon name="com.softmediacts.wifiswitch/com.softmediacts.wifiswitch.MainActivity" image="wi_fi_switcher"/>
+	<AppIcon name="com.samsung.android.app.galaxyfinder/com.samsung.android.app.galaxyfinder.GalaxyFinderActivity}" image="samsung_finder" />
+	<AppIcon name="com.samsung.android.appbooster/com.samsung.android.appbooster.app.presentation.home.HomeActivity}" image="galaxy_app_booster" />
+	<AppIcon name="com.samsung.android.lool/com.samsung.android.sm.score.ui.ScoreBoardActivity}" image="device_care" />
+	<AppIcon name="com.samsung.android.privateshare/com.samsung.android.privacy.view.MainActivity}" image="private_share" />
 
 </Theme>

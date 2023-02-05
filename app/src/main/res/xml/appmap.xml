@@ -547,5 +547,9 @@
 	<item class="com.gls.consigneeapp.MainActivity" name="gls"/>
 	<item class="crc64c845a49dd12b02a5.LoadSplashScreen" name="smou"/>
 	<item class="com.softmediacts.wifiswitch.MainActivity" name="wi_fi_switcher"/>
+	<item class="com.samsung.android.app.galaxyfinder.GalaxyFinderActivity}" name="samsung_finder" />
+	<item class="com.samsung.android.appbooster.app.presentation.home.HomeActivity}" name="galaxy_app_booster" />
+	<item class="com.samsung.android.sm.score.ui.ScoreBoardActivity}" name="device_care" />
+	<item class="com.samsung.android.privacy.view.MainActivity}" name="private_share" />
 
 </appmap>

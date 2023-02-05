@@ -330,6 +330,10 @@
     <!-- Google Find My Device --><item drawable="google_find_my_device" />
     <!-- Tap Translate Screen --><item drawable="tap_translate_screen" />
     <!-- MultiNotes --><item drawable="multinotes" />
+    <!-- Samsung Finder --><item drawable="samsung_finder" />
+	<!-- Galaxy App Booster --><item drawable="galaxy_app_booster" />
+	<!-- Device Care --><item drawable="device_care" />
+	<!-- Private Share --><item drawable="private_share" />
 
     <category title="Calculators" />
     <item drawable="samsung_calculator" />
