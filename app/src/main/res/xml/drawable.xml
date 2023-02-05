@@ -122,6 +122,7 @@
     <!-- Apkmody --><item drawable="apkmody" />
     <!-- Jojoy --><item drawable="jojoy"/>
     <!-- Amazon Appstore --><item drawable="amazon_appstore" />
+    <!-- Vanced Manager --><item drawable="vanced_manager" />
 
     <category title="Shops" />
     <!-- Lieferando --><item drawable="lieferando"/>
@@ -467,6 +468,7 @@
     <!-- Warpinator --><item drawable="warpinator" />
     <!-- Google One--><item drawable="google_one" />
     <!-- Maple Media File Explorer --><item drawable="maple_media_file_explorer" />
+    <!-- ES File Explorer --><item drawable="es_file_explorer" />
 
     <category title="Gallery" />
     <!-- Samsung Gallary --><item drawable="samsung_gallery" />

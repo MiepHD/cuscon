@@ -552,5 +552,7 @@
 	<item class="com.samsung.android.sm.score.ui.ScoreBoardActivity}" name="device_care" />
 	<item class="com.samsung.android.privacy.view.MainActivity}" name="private_share" />
 	<item class="ginlemon.flower.HomeScreen" name="smart_launcher"/>
+	<item class="com.estrongs.android.pop.app.openscreenad.NewSplashActivity" name="es_file_explorer"/>
+	<item class="com.vanced.manager.ui.SplashScreenActivity" name="vanced_manager"/>
 
 </appmap>

@@ -536,5 +536,7 @@
 	{ "title": "Galaxy App Booster", "author": "MiepHD", "src": "galaxy_app_booster", "category": "tools" },
 	{ "title": "Device Care", "author": "MiepHD", "src": "device_care", "category": "tools" },
 	{ "title": "Private Share", "author": "MiepHD", "src": "private_share", "category": "tools" },
-	{ "title": "Smart Launcher", "author": "MiepHD", "src": "smart_launcher", "category": "launcher" }
+	{ "title": "Smart Launcher", "author": "MiepHD", "src": "smart_launcher", "category": "launcher" },
+	{ "title": "ES File Explorer", "author": "MiepHD", "src": "es_file_explorer", "category": "files" },
+	{ "title": "Vanced Manager", "author": "MiepHD", "src": "vanced_manager", "category": "app-stores" }
 ]
