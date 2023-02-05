@@ -2,5 +2,11 @@
 
 	<!-- 2 Player Games -->
 	<item component="ComponentInfo{com.JindoBlu.TwoPlayerGamesChallenge/com.unity3d.player.UnityPlayerActivity}" drawable="_2_player_games" />
+	
+	<!-- AI Art Generator -->
+	<item component="ComponentInfo{com.tapuniverse.aiartgenerator/com.tapuniverse.aiartgenerator.ui.main.MainActivity}" drawable="ai_art_generator" />
+
+	<!-- HabitNow -->
+	<item component="ComponentInfo{com.habitnow/com.habit.now.apps.activities.splashActivity.StartingActivity}" drawable="habitnow" />
 
 </resources>

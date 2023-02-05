@@ -2,5 +2,11 @@
 
 	<!-- 2 Player Games -->
 	<item class="com.unity3d.player.UnityPlayerActivity" name="_2_player_games"/>
+	
+	<!-- AI Art Generator -->
+	<item class="com.tapuniverse.aiartgenerator.ui.main.MainActivity" name="ai_art_generator"/>
+
+	<!-- HabitNow -->
+	<item class="com.habit.now.apps.activities.splashActivity.StartingActivity" name="habitnow"/>
 
 </appmap>

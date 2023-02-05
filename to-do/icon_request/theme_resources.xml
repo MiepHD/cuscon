@@ -2,5 +2,11 @@
 
 	<!-- 2 Player Games -->
 	<AppIcon name="com.JindoBlu.TwoPlayerGamesChallenge/com.unity3d.player.UnityPlayerActivity" image="_2_player_games"/>
+	
+	<!-- AI Art Generator -->
+	<AppIcon name="com.tapuniverse.aiartgenerator/com.tapuniverse.aiartgenerator.ui.main.MainActivity" image="ai_art_generator"/>
+
+	<!-- HabitNow -->
+	<AppIcon name="com.habitnow/com.habit.now.apps.activities.splashActivity.StartingActivity" image="habitnow"/>
 
 </Theme>
