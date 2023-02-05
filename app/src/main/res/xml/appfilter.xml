@@ -573,5 +573,11 @@
 	<item component="ComponentInfo{com.prisaradio.sercatalunya/com.thisisaim.templateapp.view.activity.intro.IntroActivity}" drawable="ser_cat" />
 	<item component="ComponentInfo{at.wienerlinien.wienmobillab/at.upstream.citymobil.feature.splash.SplashActivity}" drawable="wienmobil" />
 	<item component="ComponentInfo{com.davexp.dollify/com.unity3d.player.UnityPlayerActivity}" drawable="dollify" />
+	<item component="ComponentInfo{com.andro4all/com.andro4all.MainActivity}" drawable="andro4all" />
+	<item component="ComponentInfo{com.el.androide.libre/com.appyet.activity.MainActivity}" drawable="el_androide_libre" />
+	<item component="ComponentInfo{com.oasisfeng.island/com.oasisfeng.island.MainActivity}" drawable="island" />
+	<item component="ComponentInfo{com.gls.consigneeapp/com.gls.consigneeapp.MainActivity}" drawable="gls" />
+	<item component="ComponentInfo{cat.bcn.smoubcn/crc64c845a49dd12b02a5.LoadSplashScreen}" drawable="smou" />
+	<item component="ComponentInfo{com.softmediacts.wifiswitch/com.softmediacts.wifiswitch.MainActivity}" drawable="wi_fi_switcher" />
 
 </resources>

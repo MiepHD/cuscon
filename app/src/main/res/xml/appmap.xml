@@ -541,5 +541,11 @@
 	<item class="com.thisisaim.templateapp.view.activity.intro.IntroActivity" name="ser_cat"/>
 	<item class="at.upstream.citymobil.feature.splash.SplashActivity" name="wienmobil"/>
 	<item class="com.unity3d.player.UnityPlayerActivity" name="dollify"/>
+	<item class="com.andro4all.MainActivity" name="andro4all"/>
+	<item class="com.appyet.activity.MainActivity" name="el_androide_libre"/>
+	<item class="com.oasisfeng.island.MainActivity" name="island"/>
+	<item class="com.gls.consigneeapp.MainActivity" name="gls"/>
+	<item class="crc64c845a49dd12b02a5.LoadSplashScreen" name="smou"/>
+	<item class="com.softmediacts.wifiswitch.MainActivity" name="wi_fi_switcher"/>
 
 </appmap>

@@ -550,5 +550,11 @@
 	<AppIcon name="com.prisaradio.sercatalunya/com.thisisaim.templateapp.view.activity.intro.IntroActivity" image="ser_cat"/>
 	<AppIcon name="at.wienerlinien.wienmobillab/at.upstream.citymobil.feature.splash.SplashActivity" image="wienmobil"/>
 	<AppIcon name="com.davexp.dollify/com.unity3d.player.UnityPlayerActivity" image="dollify"/>
+	<AppIcon name="com.andro4all/com.andro4all.MainActivity" image="andro4all"/>
+	<AppIcon name="com.el.androide.libre/com.appyet.activity.MainActivity" image="el_androide_libre"/>
+	<AppIcon name="com.oasisfeng.island/com.oasisfeng.island.MainActivity" image="island"/>
+	<AppIcon name="com.gls.consigneeapp/com.gls.consigneeapp.MainActivity" image="gls"/>
+	<AppIcon name="cat.bcn.smoubcn/crc64c845a49dd12b02a5.LoadSplashScreen" image="smou"/>
+	<AppIcon name="com.softmediacts.wifiswitch/com.softmediacts.wifiswitch.MainActivity" image="wi_fi_switcher"/>
 
 </Theme>

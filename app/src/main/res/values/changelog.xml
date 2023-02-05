@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="changelog_date">04.02.2023</string>
+    <string name="changelog_date">05.02.2023</string>
     <string-array name="changelog">
+        <item>2.8.6:</item>
+        <item>Added Andro4all, El Androide Libre", Island, GLS, smou, Wi-Fi Switcher</item>
         <item>2.8.5:</item>
         <item>Added BahnBonus, Moodle, Happy Color, Consell República, KFC España, La República, Meteored, SER, SER Cat, WienMobil, Dollify</item>
         <item>2.8.4:</item>

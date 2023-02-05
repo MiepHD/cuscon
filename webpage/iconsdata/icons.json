@@ -525,5 +525,11 @@
 	{ "title": "SER", "author": "MiepHD", "src": "ser", "category": "music-streaming" },
 	{ "title": "SER Cat", "author": "MiepHD", "src": "ser_cat", "category": "news" },
 	{ "title": "WienMobil", "author": "MiepHD", "src": "wienmobil", "category": "other" },
-	{ "title": "Dollify", "author": "MiepHD", "src": "dollify", "category": "other" }
+	{ "title": "Dollify", "author": "MiepHD", "src": "dollify", "category": "other" },
+	{ "title": "Andro4all", "author": "MiepHD", "src": "andro4all", "category": "news" },
+	{ "title": "El Androide Libre", "author": "MiepHD", "src": "el_androide_libre", "category": "news" },
+	{ "title": "Island", "author": "MiepHD", "src": "island", "category": "other" },
+	{ "title": "GLS", "author": "MiepHD", "src": "gls", "category": "other" },
+	{ "title": "smou", "author": "MiepHD", "src": "smou", "category": "other" },
+	{ "title": "Wi-Fi Switcher", "author": "MiepHD", "src": "wi_fi_switcher", "category": "other" }
 ]

@@ -104,6 +104,10 @@
 	<!-- La República --><item drawable="la_republica" />
     <!-- WienMobil --><item drawable="wienmobil" />
     <!-- Dollify --><item drawable="dollify" />
+    <!-- Island --><item drawable="island" />
+	<!-- GLS --><item drawable="gls" />
+	<!-- smou --><item drawable="smou" />
+	<!-- Wi-Fi Switcher --><item drawable="wi_fi_switcher" />
 
     <category title="App Stores" />
     <item drawable="apkpure" />
@@ -521,6 +525,8 @@
 	<!-- CatalunyaMeteo --><item drawable="catalunyameteo" />
     <!-- Meteored --><item drawable="meteored" />
     <!-- SER Cat --><item drawable="ser_cat" />
+    <!-- Andro4all --><item drawable="andro4all" />
+	<!-- El Androide Libre --><item drawable="el_androide_libre" />
 
     <category title="Design" />
     <!-- Pocket Paint --><item drawable="pocket_paint" />
