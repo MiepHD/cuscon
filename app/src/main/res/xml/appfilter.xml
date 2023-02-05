@@ -583,5 +583,6 @@
 	<item component="ComponentInfo{com.samsung.android.appbooster/com.samsung.android.appbooster.app.presentation.home.HomeActivity}" drawable="galaxy_app_booster" />
 	<item component="ComponentInfo{com.samsung.android.lool/com.samsung.android.sm.score.ui.ScoreBoardActivity}" drawable="device_care" />
 	<item component="ComponentInfo{com.samsung.android.privateshare/com.samsung.android.privacy.view.MainActivity}" drawable="private_share" />
+	<item component="ComponentInfo{ginlemon.flowerfree/ginlemon.flower.HomeScreen}" drawable="smart_launcher" />
 
 </resources>

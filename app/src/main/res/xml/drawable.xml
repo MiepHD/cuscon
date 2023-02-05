@@ -141,6 +141,7 @@
     <!-- Microsoft Launcher --><item drawable="microsoft_launcher" />
     <!-- Flick Launcher --><item drawable="flick_launcher" />
     <!-- Flick Launcher PRO --><item drawable="flick_launcher_pro" />
+    <!-- Smart Launcher --><item drawable="smart_launcher" />
 
     <category title="Planning" />
     <item drawable="samsung_calendar" />

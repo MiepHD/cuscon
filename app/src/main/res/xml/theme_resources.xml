@@ -560,5 +560,6 @@
 	<AppIcon name="com.samsung.android.appbooster/com.samsung.android.appbooster.app.presentation.home.HomeActivity}" image="galaxy_app_booster" />
 	<AppIcon name="com.samsung.android.lool/com.samsung.android.sm.score.ui.ScoreBoardActivity}" image="device_care" />
 	<AppIcon name="com.samsung.android.privateshare/com.samsung.android.privacy.view.MainActivity}" image="private_share" />
+	<AppIcon name="ginlemon.flowerfree/ginlemon.flower.HomeScreen" image="smart_launcher"/>
 
 </Theme>

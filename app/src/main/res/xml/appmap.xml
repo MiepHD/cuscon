@@ -551,5 +551,6 @@
 	<item class="com.samsung.android.appbooster.app.presentation.home.HomeActivity}" name="galaxy_app_booster" />
 	<item class="com.samsung.android.sm.score.ui.ScoreBoardActivity}" name="device_care" />
 	<item class="com.samsung.android.privacy.view.MainActivity}" name="private_share" />
+	<item class="ginlemon.flower.HomeScreen" name="smart_launcher"/>
 
 </appmap>
