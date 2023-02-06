@@ -555,5 +555,6 @@
 	<item class="ginlemon.flower.HomeScreen" name="smart_launcher"/>
 	<item class="com.estrongs.android.pop.app.openscreenad.NewSplashActivity" name="es_file_explorer"/>
 	<item class="com.vanced.manager.ui.SplashScreenActivity" name="vanced_manager"/>
+	<item class="de.szalkowski.activitylauncher.MainActivity" name="activity_launcher"/>
 
 </appmap>

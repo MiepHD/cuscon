@@ -564,5 +564,6 @@
 	<AppIcon name="ginlemon.flowerfree/ginlemon.flower.HomeScreen" image="smart_launcher"/>
 	<AppIcon name="com.estrongs.android.pop/com.estrongs.android.pop.app.openscreenad.NewSplashActivity" image="es_file_explorer"/>
 	<AppIcon name="com.vanced.manager/com.vanced.manager.ui.SplashScreenActivity" image="vanced_manager"/>
+	<AppIcon name="de.szalkowski.activitylauncher/de.szalkowski.activitylauncher.MainActivity" image="activity_launcher"/>
 
 </Theme>

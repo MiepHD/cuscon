@@ -538,5 +538,6 @@
 	{ "title": "Private Share", "author": "MiepHD", "src": "private_share", "category": "tools" },
 	{ "title": "Smart Launcher", "author": "MiepHD", "src": "smart_launcher", "category": "launcher" },
 	{ "title": "ES File Explorer", "author": "MiepHD", "src": "es_file_explorer", "category": "files" },
-	{ "title": "Vanced Manager", "author": "MiepHD", "src": "vanced_manager", "category": "app-stores" }
+	{ "title": "Vanced Manager", "author": "MiepHD", "src": "vanced_manager", "category": "app-stores" },
+	{ "title": "Activity Launcher", "author": "MiepHD", "src": "activity_launcher", "category": "tools" }
 ]

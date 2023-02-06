@@ -336,6 +336,7 @@
 	<!-- Galaxy App Booster --><item drawable="galaxy_app_booster" />
 	<!-- Device Care --><item drawable="device_care" />
 	<!-- Private Share --><item drawable="private_share" />
+    <!-- Activity Launcher --><item drawable="activity_launcher" />
 
     <category title="Calculators" />
     <item drawable="samsung_calculator" />
