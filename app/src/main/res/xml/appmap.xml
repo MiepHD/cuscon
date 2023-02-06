@@ -556,5 +556,13 @@
 	<item class="com.estrongs.android.pop.app.openscreenad.NewSplashActivity" name="es_file_explorer"/>
 	<item class="com.vanced.manager.ui.SplashScreenActivity" name="vanced_manager"/>
 	<item class="de.szalkowski.activitylauncher.MainActivity" name="activity_launcher"/>
+	<item class="com.elpais.elpais.ui.view.activity.SplashActivity" name="el_pais"/>
+	<item class="com.arf.weatherstation.ActivityMain" name="dromosys_weather_station"/>
+	<item class="com.flicklauncher.ataglance.ui.activity.MainActivity" name="flick_a_glance"/>
+	<item class="com.android.launcher3.nowcompanion.MainActivity" name="flick_now"/>
+	<item class="com.appworld.iptools.Splash_Activity" name="ip_tools"/>
+	<item class="com.mishuto.pingtest.MainActivity" name="pingmon"/>
+	<item class="com.lucky_apps.rainviewer.main.ui.activity.MainActivity" name="rainviewer"/>
+	<item class="com.appyet.activity.MainActivity" name="serveiscat"/>
 
 </appmap>

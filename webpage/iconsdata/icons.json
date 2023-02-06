@@ -539,5 +539,13 @@
 	{ "title": "Smart Launcher", "author": "MiepHD", "src": "smart_launcher", "category": "launcher" },
 	{ "title": "ES File Explorer", "author": "MiepHD", "src": "es_file_explorer", "category": "files" },
 	{ "title": "Vanced Manager", "author": "MiepHD", "src": "vanced_manager", "category": "app-stores" },
-	{ "title": "Activity Launcher", "author": "MiepHD", "src": "activity_launcher", "category": "tools" }
+	{ "title": "Activity Launcher", "author": "MiepHD", "src": "activity_launcher", "category": "tools" },
+	{ "title": "EL PAÍS", "author": "MiepHD", "src": "el_pais", "category": "other" },
+	{ "title": "Flick a Glance", "author": "MiepHD", "src": "flick_a_glance", "category": "other" },
+	{ "title": "Flick Now", "author": "MiepHD", "src": "flick_now", "category": "other" },
+	{ "title": "IP Tools", "author": "MiepHD", "src": "ip_tools", "category": "tools" },
+	{ "title": "Pingmon", "author": "MiepHD", "src": "pingmon", "category": "tools" },
+	{ "title": "RainViewer", "author": "MiepHD", "src": "rainviewer", "category": "news" },
+	{ "title": "Dromosys Weather Station", "author": "MiepHD", "src": "dromosys_weather_station", "category": "news" },
+	{ "title": "ServeisCAT", "author": "MiepHD", "src": "serveiscat", "category": "other" }
 ]

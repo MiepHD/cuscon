@@ -565,5 +565,13 @@
 	<AppIcon name="com.estrongs.android.pop/com.estrongs.android.pop.app.openscreenad.NewSplashActivity" image="es_file_explorer"/>
 	<AppIcon name="com.vanced.manager/com.vanced.manager.ui.SplashScreenActivity" image="vanced_manager"/>
 	<AppIcon name="de.szalkowski.activitylauncher/de.szalkowski.activitylauncher.MainActivity" image="activity_launcher"/>
+	<AppIcon name="com.elpais.elpais/com.elpais.elpais.ui.view.activity.SplashActivity" image="el_pais"/>
+	<AppIcon name="com.arf.weatherstation/com.arf.weatherstation.ActivityMain" image="dromosys_weather_station"/>
+	<AppIcon name="com.flicklauncher.ataglance/com.flicklauncher.ataglance.ui.activity.MainActivity" image="flick_a_glance"/>
+	<AppIcon name="com.android.launcher3.nowcompanion/com.android.launcher3.nowcompanion.MainActivity" image="flick_now"/>
+	<AppIcon name="com.appworld.iptools/com.appworld.iptools.Splash_Activity" image="ip_tools"/>
+	<AppIcon name="com.mishuto.pingtest/com.mishuto.pingtest.MainActivity" image="pingmon"/>
+	<AppIcon name="com.lucky_apps.RainViewer/com.lucky_apps.rainviewer.main.ui.activity.MainActivity" image="rainviewer"/>
+	<AppIcon name="cat.appmrc.serveis/com.appyet.activity.MainActivity" image="serveiscat"/>
 
 </Theme>

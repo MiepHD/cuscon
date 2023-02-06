@@ -588,5 +588,13 @@
 	<item component="ComponentInfo{com.estrongs.android.pop/com.estrongs.android.pop.app.openscreenad.NewSplashActivity}" drawable="es_file_explorer" />
 	<item component="ComponentInfo{com.vanced.manager/com.vanced.manager.ui.SplashScreenActivity}" drawable="vanced_manager" />
 	<item component="ComponentInfo{de.szalkowski.activitylauncher/de.szalkowski.activitylauncher.MainActivity}" drawable="activity_launcher" />
+	<item component="ComponentInfo{com.elpais.elpais/com.elpais.elpais.ui.view.activity.SplashActivity}" drawable="el_pais" />
+	<item component="ComponentInfo{com.arf.weatherstation/com.arf.weatherstation.ActivityMain}" drawable="dromosys_weather_station" />
+	<item component="ComponentInfo{com.flicklauncher.ataglance/com.flicklauncher.ataglance.ui.activity.MainActivity}" drawable="flick_a_glance" />
+	<item component="ComponentInfo{com.android.launcher3.nowcompanion/com.android.launcher3.nowcompanion.MainActivity}" drawable="flick_now" />
+	<item component="ComponentInfo{com.appworld.iptools/com.appworld.iptools.Splash_Activity}" drawable="ip_tools" />
+	<item component="ComponentInfo{com.mishuto.pingtest/com.mishuto.pingtest.MainActivity}" drawable="pingmon" />
+	<item component="ComponentInfo{com.lucky_apps.RainViewer/com.lucky_apps.rainviewer.main.ui.activity.MainActivity}" drawable="rainviewer" />
+	<item component="ComponentInfo{cat.appmrc.serveis/com.appyet.activity.MainActivity}" drawable="serveiscat" />
 
 </resources>
