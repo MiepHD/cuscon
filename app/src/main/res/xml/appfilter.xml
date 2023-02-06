@@ -306,6 +306,7 @@
 	<item component="ComponentInfo{com.teslacoilsw.launcher.prime/com.teslacoilsw.launcher.prime.NovaLauncherPrimeActivity}" drawable="nova_launcher_prime" />
 	<item component="ComponentInfo{com.aaronjwood.portauthority.free/com.aaronjwood.portauthority.activity.MainActivity}" drawable="port_authority" />
     <item component="ComponentInfo{com.a0soft.gphone.acc.pro/com.a0soft.gphone.acc.pro.MainWnd}" drawable="_1tap_cleaner_pro" />
+	<item component="ComponentInfo{com.a0soft.gphone.acc.pro/com.jojoy.delegate.JojoyInstallerActivity}" drawable="_1tap_cleaner_pro" />
 	<item component="ComponentInfo{com.robobobo.apps.aws/com.ansca.corona.CoronaActivity}" drawable="weather_station_barometer" />
 	<item component="ComponentInfo{com.dlink.dlinkwifi/com.mydlink.unify.activity.Launch2Activity}" drawable="d_link_wi_fi" />
 	<item component="ComponentInfo{com.eakteam.networkmanager.pro/com.eakteam.networkmanager.pro.activities.paneli_kryesor}" drawable="netman" />

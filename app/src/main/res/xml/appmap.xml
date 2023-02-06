@@ -274,6 +274,7 @@
 	<item class="com.motorola.camera.Camera" name="moto_camera_3"/>
 	<item class="com.aaronjwood.portauthority.activity.MainActivity" name="port_authority"/>
     <item class="com.a0soft.gphone.acc.pro.MainWnd" name="_1tap_cleaner_pro"/>
+	<item class="com.jojoy.delegate.JojoyInstallerActivity" name="_1tap_cleaner_pro"/>
 	<item class="com.ansca.corona.CoronaActivity" name="weather_station_barometer"/>
 	<item class="com.mydlink.unify.activity.Launch2Activity" name="d_link_wi_fi"/>
 	<item class="com.eakteam.networkmanager.pro.activities.paneli_kryesor" name="netman"/>

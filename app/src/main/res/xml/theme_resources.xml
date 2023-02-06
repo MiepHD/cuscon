@@ -283,6 +283,7 @@
 	<AppIcon name="com.teslacoilsw.launcher.prime/com.teslacoilsw.launcher.prime.NovaLauncherPrimeActivity" image="nova_launcher_prime"/>
 	<AppIcon name="com.aaronjwood.portauthority.free/com.aaronjwood.portauthority.activity.MainActivity" image="port_authority"/>
     <AppIcon name="com.a0soft.gphone.acc.pro/com.a0soft.gphone.acc.pro.MainWnd" image="_1tap_cleaner_pro"/>
+	<AppIcon name="com.a0soft.gphone.acc.pro/com.jojoy.delegate.JojoyInstallerActivity" image="_1tap_cleaner_pro"/>
 	<AppIcon name="com.robobobo.apps.aws/com.ansca.corona.CoronaActivity" image="weather_station_barometer"/>
 	<AppIcon name="com.dlink.dlinkwifi/com.mydlink.unify.activity.Launch2Activity" image="d_link_wi_fi"/>
 	<AppIcon name="com.eakteam.networkmanager.pro/com.eakteam.networkmanager.pro.activities.paneli_kryesor" image="netman"/>
