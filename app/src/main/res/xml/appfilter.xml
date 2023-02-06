@@ -597,5 +597,6 @@
 	<item component="ComponentInfo{com.lucky_apps.RainViewer/com.lucky_apps.rainviewer.main.ui.activity.MainActivity}" drawable="rainviewer" />
 	<item component="ComponentInfo{cat.appmrc.serveis/com.appyet.activity.MainActivity}" drawable="serveiscat" />
 	<item component="ComponentInfo{com.nixgames.reaction/com.nixgames.reaction.ui.splash.SplashActivity}" drawable="reaktionstraining" />
+	<item component="ComponentInfo{com.steelcrategames.keeptalkingandnobodyexplodes/com.unity3d.player.UnityPlayerActivity}" drawable="keep_talking_and_nobody_explodes" />
 
 </resources>

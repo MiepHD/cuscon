@@ -229,6 +229,7 @@
     <!-- 1 2 3 4 Player Games --><item drawable="_1_2_3_4_player_games" />
     <!-- Happy Color --><item drawable="happy_color" />
     <!-- Reaktionstraining --><item drawable="reaktionstraining" />
+    <!-- Keep Talking and Nobody Explodes --><item drawable="keep_talking_and_nobody_explodes" />
 
     <category title="Gaming Experience" />
     <!-- Moto Gametime--><item drawable="moto_gametime" />

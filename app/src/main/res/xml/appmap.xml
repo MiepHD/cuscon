@@ -565,5 +565,6 @@
 	<item class="com.lucky_apps.rainviewer.main.ui.activity.MainActivity" name="rainviewer"/>
 	<item class="com.appyet.activity.MainActivity" name="serveiscat"/>
 	<item class="com.nixgames.reaction.ui.splash.SplashActivity" name="reaktionstraining"/>
+	<item class="com.unity3d.player.UnityPlayerActivity" name="keep_talking_and_nobody_explodes"/>
 
 </appmap>
