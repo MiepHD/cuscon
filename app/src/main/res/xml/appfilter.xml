@@ -596,5 +596,6 @@
 	<item component="ComponentInfo{com.mishuto.pingtest/com.mishuto.pingtest.MainActivity}" drawable="pingmon" />
 	<item component="ComponentInfo{com.lucky_apps.RainViewer/com.lucky_apps.rainviewer.main.ui.activity.MainActivity}" drawable="rainviewer" />
 	<item component="ComponentInfo{cat.appmrc.serveis/com.appyet.activity.MainActivity}" drawable="serveiscat" />
+	<item component="ComponentInfo{com.nixgames.reaction/com.nixgames.reaction.ui.splash.SplashActivity}" drawable="reaktionstraining" />
 
 </resources>

@@ -564,5 +564,6 @@
 	<item class="com.mishuto.pingtest.MainActivity" name="pingmon"/>
 	<item class="com.lucky_apps.rainviewer.main.ui.activity.MainActivity" name="rainviewer"/>
 	<item class="com.appyet.activity.MainActivity" name="serveiscat"/>
+	<item class="com.nixgames.reaction.ui.splash.SplashActivity" name="reaktionstraining"/>
 
 </appmap>

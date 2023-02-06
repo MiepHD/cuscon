@@ -547,5 +547,6 @@
 	{ "title": "Pingmon", "author": "MiepHD", "src": "pingmon", "category": "tools" },
 	{ "title": "RainViewer", "author": "MiepHD", "src": "rainviewer", "category": "news" },
 	{ "title": "Dromosys Weather Station", "author": "MiepHD", "src": "dromosys_weather_station", "category": "news" },
-	{ "title": "ServeisCAT", "author": "MiepHD", "src": "serveiscat", "category": "other" }
+	{ "title": "ServeisCAT", "author": "MiepHD", "src": "serveiscat", "category": "other" },
+	{ "title": "Reaktionstraining", "author": "MiepHD", "src": "reaktionstraining", "category": "games" }
 ]

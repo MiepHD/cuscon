@@ -573,5 +573,6 @@
 	<AppIcon name="com.mishuto.pingtest/com.mishuto.pingtest.MainActivity" image="pingmon"/>
 	<AppIcon name="com.lucky_apps.RainViewer/com.lucky_apps.rainviewer.main.ui.activity.MainActivity" image="rainviewer"/>
 	<AppIcon name="cat.appmrc.serveis/com.appyet.activity.MainActivity" image="serveiscat"/>
+	<AppIcon name="com.nixgames.reaction/com.nixgames.reaction.ui.splash.SplashActivity" image="reaktionstraining"/>
 
 </Theme>
