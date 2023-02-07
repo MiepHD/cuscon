@@ -112,6 +112,8 @@
 	<!-- Flick a Glance --><item drawable="flick_a_glance" />
 	<!-- Flick Now --><item drawable="flick_now" />
 	<!-- ServeisCAT --><item drawable="serveiscat" />
+    <!-- 324 --><item drawable="_324" />
+	<!-- iCat --><item drawable="icat" />
 
     <category title="App Stores" />
     <item drawable="apkpure" />
@@ -174,6 +176,7 @@
     <!-- Google TV--><item drawable="google_tv" />
     <!-- PowerTube --><item drawable="powertube" />
     <!-- Playz --><item drawable="playz" />
+    <!-- TV3 --><item drawable="tv3" />
 
     <category title="Music Streaming" />
     <item drawable="amazon_music" />
@@ -195,6 +198,7 @@
     <!-- RAC1 --><item drawable="rac1" />
     <!-- RAC105 --><item drawable="rac105" />
     <!-- SER --><item drawable="ser" />
+    <!-- Catalunya Ràdio --><item drawable="catalunya_radio" />
 
     <category title="Recording" />
     <item drawable="voicenote" />

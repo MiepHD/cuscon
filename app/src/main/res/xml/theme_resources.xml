@@ -575,5 +575,9 @@
 	<AppIcon name="cat.appmrc.serveis/com.appyet.activity.MainActivity" image="serveiscat"/>
 	<AppIcon name="com.nixgames.reaction/com.nixgames.reaction.ui.splash.SplashActivity" image="reaktionstraining"/>
 	<AppIcon name="com.steelcrategames.keeptalkingandnobodyexplodes/com.unity3d.player.UnityPlayerActivity" image="keep_talking_and_nobody_explodes"/>
+	<AppIcon name="com.tres24/cat.ccma.news.view.activity.SplashActivity" image="_324"/>
+	<AppIcon name="cat.catradio.eng/cat.ccma.tv3.view.activities.SplashActivity" image="catalunya_radio"/>
+	<AppIcon name="com.catradio.iCatFM/cat.ccma.tv3.view.activities.SplashActivity" image="icat"/>
+	<AppIcon name="cat.tv3.eng.tresac/cat.ccma.tv3.view.activities.SplashActivity" image="tv3"/>
 
 </Theme>

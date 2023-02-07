@@ -566,5 +566,9 @@
 	<item class="com.appyet.activity.MainActivity" name="serveiscat"/>
 	<item class="com.nixgames.reaction.ui.splash.SplashActivity" name="reaktionstraining"/>
 	<item class="com.unity3d.player.UnityPlayerActivity" name="keep_talking_and_nobody_explodes"/>
+	<item class="cat.ccma.news.view.activity.SplashActivity" name="_324"/>
+	<item class="cat.ccma.tv3.view.activities.SplashActivity" name="catalunya_radio"/>
+	<item class="cat.ccma.tv3.view.activities.SplashActivity" name="icat"/>
+	<item class="cat.ccma.tv3.view.activities.SplashActivity" name="tv3"/>
 
 </appmap>

@@ -549,5 +549,9 @@
 	{ "title": "Dromosys Weather Station", "author": "MiepHD", "src": "dromosys_weather_station", "category": "news" },
 	{ "title": "ServeisCAT", "author": "MiepHD", "src": "serveiscat", "category": "other" },
 	{ "title": "Reaktionstraining", "author": "MiepHD", "src": "reaktionstraining", "category": "games" },
-	{ "title": "Keep Talking and Nobody Explodes", "author": "MiepHD", "src": "keep_talking_and_nobody_explodes", "category": "games" }
+	{ "title": "Keep Talking and Nobody Explodes", "author": "MiepHD", "src": "keep_talking_and_nobody_explodes", "category": "games" },
+	{ "title": "324", "author": "MiepHD", "src": "_324", "category": "other" },
+	{ "title": "iCat", "author": "MiepHD", "src": "icat", "category": "other" },
+	{ "title": "Catalunya Ràdio", "author": "MiepHD", "src": "catalunya_radio", "category": "music-streaming" },
+	{ "title": "TV3", "author": "MiepHD", "src": "tv3", "category": "video-streaming" }
 ]

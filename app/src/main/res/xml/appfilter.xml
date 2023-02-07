@@ -598,5 +598,9 @@
 	<item component="ComponentInfo{cat.appmrc.serveis/com.appyet.activity.MainActivity}" drawable="serveiscat" />
 	<item component="ComponentInfo{com.nixgames.reaction/com.nixgames.reaction.ui.splash.SplashActivity}" drawable="reaktionstraining" />
 	<item component="ComponentInfo{com.steelcrategames.keeptalkingandnobodyexplodes/com.unity3d.player.UnityPlayerActivity}" drawable="keep_talking_and_nobody_explodes" />
+	<item component="ComponentInfo{com.tres24/cat.ccma.news.view.activity.SplashActivity}" drawable="_324" />
+	<item component="ComponentInfo{cat.catradio.eng/cat.ccma.tv3.view.activities.SplashActivity}" drawable="catalunya_radio" />
+	<item component="ComponentInfo{com.catradio.iCatFM/cat.ccma.tv3.view.activities.SplashActivity}" drawable="icat" />
+	<item component="ComponentInfo{cat.tv3.eng.tresac/cat.ccma.tv3.view.activities.SplashActivity}" drawable="tv3" />
 
 </resources>

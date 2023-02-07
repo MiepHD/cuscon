@@ -2,6 +2,8 @@
 <resources>
     <string name="changelog_date">06.02.2023</string>
     <string-array name="changelog">
+        <item>2.8.8:</item>
+        <item>Added 324, iCat, Catalunya Ràdio, TV3</item>
         <item>2.8.7:</item>
         <item>Fixed 1Tap Cleaner Pro</item>
         <item>Added Activity Launcher, EL PAÍS, Flick a Glance, Flick Now, IP Tools, Pingmon, RainViewer, Dromosys Weather Station, ServeisCAT, Reaktionstraining, Keep Talking and Nobody Explodes</item>
