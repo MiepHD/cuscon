@@ -553,5 +553,11 @@
 	{ "title": "324", "author": "MiepHD", "src": "_324", "category": "other" },
 	{ "title": "iCat", "author": "MiepHD", "src": "icat", "category": "other" },
 	{ "title": "Catalunya Ràdio", "author": "MiepHD", "src": "catalunya_radio", "category": "music-streaming" },
-	{ "title": "TV3", "author": "MiepHD", "src": "tv3", "category": "video-streaming" }
+	{ "title": "TV3", "author": "MiepHD", "src": "tv3", "category": "video-streaming" },
+	{ "title": "Adblock Browser", "author": "MiepHD", "src": "adblock_browser", "category": "browser" },
+	{ "title": "Aloha", "author": "MiepHD", "src": "aloha", "category": "other" },
+	{ "title": "Free Adblocker Browser", "author": "MiepHD", "src": "free_adblocker_browser", "category": "browser" },
+	{ "title": "Hi Browser", "author": "MiepHD", "src": "hi_browser", "category": "browser" },
+	{ "title": "Soul", "author": "MiepHD", "src": "soul", "category": "other" },
+	{ "title": "Stargon", "author": "MiepHD", "src": "stargon", "category": "other" }
 ]

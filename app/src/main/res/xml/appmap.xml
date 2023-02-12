@@ -570,5 +570,11 @@
 	<item class="cat.ccma.tv3.view.activities.SplashActivity" name="catalunya_radio"/>
 	<item class="cat.ccma.tv3.view.activities.SplashActivity" name="icat"/>
 	<item class="cat.ccma.tv3.view.activities.SplashActivity" name="tv3"/>
+	<item class="com.google.android.apps.chrome.Main" name="adblock_browser"/>
+	<item class="com.alohamobile.browser.presentation.launcher.LauncherActivity" name="aloha"/>
+	<item class="com.google.android.apps.chrome.Main" name="free_adblocker_browser"/>
+	<item class="com.talpa.hibrowser.framework.ui.HiStartActivity" name="hi_browser"/>
+	<item class="com.mycompany.app.web.WebViewActivity" name="soul"/>
+	<item class="net.onecook.browser.MainActivity" name="stargon"/>
 
 </appmap>

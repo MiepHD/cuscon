@@ -579,5 +579,11 @@
 	<AppIcon name="cat.catradio.eng/cat.ccma.tv3.view.activities.SplashActivity" image="catalunya_radio"/>
 	<AppIcon name="com.catradio.iCatFM/cat.ccma.tv3.view.activities.SplashActivity" image="icat"/>
 	<AppIcon name="cat.tv3.eng.tresac/cat.ccma.tv3.view.activities.SplashActivity" image="tv3"/>
+	<AppIcon name="org.adblockplus.browser/com.google.android.apps.chrome.Main" image="adblock_browser"/>
+	<AppIcon name="com.aloha.browser/com.alohamobile.browser.presentation.launcher.LauncherActivity" image="aloha"/>
+	<AppIcon name="com.hsv.freeadblockerbrowser/com.google.android.apps.chrome.Main" image="free_adblocker_browser"/>
+	<AppIcon name="com.talpa.hibrowser/com.talpa.hibrowser.framework.ui.HiStartActivity" image="hi_browser"/>
+	<AppIcon name="com.mycompany.app.soulbrowser/com.mycompany.app.web.WebViewActivity" image="soul"/>
+	<AppIcon name="net.onecook.browser/net.onecook.browser.MainActivity" image="stargon"/>
 
 </Theme>

@@ -114,6 +114,9 @@
 	<!-- ServeisCAT --><item drawable="serveiscat" />
     <!-- 324 --><item drawable="_324" />
 	<!-- iCat --><item drawable="icat" />
+	<!-- Aloha --><item drawable="aloha" />
+	<!-- Soul --><item drawable="soul" />
+	<!-- Stargon --><item drawable="stargon" />
 
     <category title="App Stores" />
     <item drawable="apkpure" />
@@ -314,6 +317,9 @@
 	<!-- Mint Browser --><item drawable="mint_browser" />
 	<!-- NoxBrowser --><item drawable="noxbrowser" />
     <!-- Pure Browser --><item drawable="pure_browser" />
+    <!-- Hi Browser --><item drawable="hi_browser" />
+    <!-- Adblock Browser --><item drawable="adblock_browser" />
+    <!-- Free Adblocker Browser --><item drawable="free_adblocker_browser" />
 
     <category title="Tools" />
     <item drawable="lucky_patcher" />

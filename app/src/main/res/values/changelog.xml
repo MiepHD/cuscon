@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="changelog_date">07.02.2023</string>
+    <string name="changelog_date">12.02.2023</string>
     <string-array name="changelog">
+        <item>2.8.9:</item>
+        <item>Added Adblock Browser, Aloha, Free Adblocker Browser, Hi Browser, Soul, Stargon<item>
         <item>2.8.8:</item>
         <item>Added 324, iCat, Catalunya Ràdio, TV3</item>
         <item>2.8.7:</item>

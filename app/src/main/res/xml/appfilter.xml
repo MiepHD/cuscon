@@ -602,5 +602,11 @@
 	<item component="ComponentInfo{cat.catradio.eng/cat.ccma.tv3.view.activities.SplashActivity}" drawable="catalunya_radio" />
 	<item component="ComponentInfo{com.catradio.iCatFM/cat.ccma.tv3.view.activities.SplashActivity}" drawable="icat" />
 	<item component="ComponentInfo{cat.tv3.eng.tresac/cat.ccma.tv3.view.activities.SplashActivity}" drawable="tv3" />
+	<item component="ComponentInfo{org.adblockplus.browser/com.google.android.apps.chrome.Main}" drawable="adblock_browser" />
+	<item component="ComponentInfo{com.aloha.browser/com.alohamobile.browser.presentation.launcher.LauncherActivity}" drawable="aloha" />
+	<item component="ComponentInfo{com.hsv.freeadblockerbrowser/com.google.android.apps.chrome.Main}" drawable="free_adblocker_browser" />
+	<item component="ComponentInfo{com.talpa.hibrowser/com.talpa.hibrowser.framework.ui.HiStartActivity}" drawable="hi_browser" />
+	<item component="ComponentInfo{com.mycompany.app.soulbrowser/com.mycompany.app.web.WebViewActivity}" drawable="soul" />
+	<item component="ComponentInfo{net.onecook.browser/net.onecook.browser.MainActivity}" drawable="stargon" />
 
 </resources>
