@@ -3,7 +3,7 @@
     <string name="changelog_date">12.02.2023</string>
     <string-array name="changelog">
         <item>2.8.9:</item>
-        <item>Added Adblock Browser, Aloha, Free Adblocker Browser, Hi Browser, Soul, Stargon<item>
+        <item>Added Adblock Browser, Aloha, Free Adblocker Browser, Hi Browser, Soul, Stargon</item>
         <item>2.8.8:</item>
         <item>Added 324, iCat, Catalunya Ràdio, TV3</item>
         <item>2.8.7:</item>
@@ -70,7 +70,7 @@
         <item>Fixed Google Wallpapers</item>
         <item>Filled out About section</item>
         <item>Added donations, premium requests</item>
-        <item>Added contributer page</item>
+        <item>Added contributor page</item>
         <item>2.5.8:</item>
         <item>Fixed Microsoft To Do</item>
         <item>Added Microsoft Authenticator, Motorola Device Help, Barclays, Camera Assistant, Good Guardians, Good Lock, Moto, PayPal, OneNote, TeaCapps QR and Barcode Reader, Zalando, TikTok</item>
