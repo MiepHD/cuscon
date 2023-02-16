@@ -576,5 +576,7 @@
 	<item class="com.talpa.hibrowser.framework.ui.HiStartActivity" name="hi_browser"/>
 	<item class="com.mycompany.app.web.WebViewActivity" name="soul"/>
 	<item class="net.onecook.browser.MainActivity" name="stargon"/>
+	<item class="com.phuongpn.whousemywifi.networkscanner.pro.MainActivity" name="quien_es_usar_mi_wifi_pro_"/>
+	<item class="com.phuongpn.wifisignalstrengthmeterpro.MainActivity" name="senal_neta"/>
 
 </appmap>

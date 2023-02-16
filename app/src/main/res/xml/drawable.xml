@@ -117,6 +117,8 @@
 	<!-- Aloha --><item drawable="aloha" />
 	<!-- Soul --><item drawable="soul" />
 	<!-- Stargon --><item drawable="stargon" />
+    <!-- Quien es usar mi WiFi (Pro) --><item drawable="quien_es_usar_mi_wifi_pro_"/>
+    <!-- Senal neta --><item drawable="senal_neta"/>
 
     <category title="App Stores" />
     <item drawable="apkpure" />

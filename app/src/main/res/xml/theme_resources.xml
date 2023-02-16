@@ -585,5 +585,7 @@
 	<AppIcon name="com.talpa.hibrowser/com.talpa.hibrowser.framework.ui.HiStartActivity" image="hi_browser"/>
 	<AppIcon name="com.mycompany.app.soulbrowser/com.mycompany.app.web.WebViewActivity" image="soul"/>
 	<AppIcon name="net.onecook.browser/net.onecook.browser.MainActivity" image="stargon"/>
+	<AppIcon name="com.phuongpn.whousemywifi.networkscanner.pro/com.phuongpn.whousemywifi.networkscanner.pro.MainActivity" image="quien_es_usar_mi_wifi_pro_"/>
+	<AppIcon name="com.phuongpn.wifisignalstrengthmeterpro/com.phuongpn.wifisignalstrengthmeterpro.MainActivity" image="senal_neta"/>
 
 </Theme>
