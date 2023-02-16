@@ -587,5 +587,6 @@
 	<AppIcon name="net.onecook.browser/net.onecook.browser.MainActivity" image="stargon"/>
 	<AppIcon name="com.phuongpn.whousemywifi.networkscanner.pro/com.phuongpn.whousemywifi.networkscanner.pro.MainActivity" image="quien_es_usar_mi_wifi_pro_"/>
 	<AppIcon name="com.phuongpn.wifisignalstrengthmeterpro/com.phuongpn.wifisignalstrengthmeterpro.MainActivity" image="senal_neta"/>
+	<AppIcon name="com.totaltransitapp.totaltransit/com.totaltransitapp.totaltransit.MainActivity" image="whiz"/>
 
 </Theme>
