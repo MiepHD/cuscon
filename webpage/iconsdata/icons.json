@@ -561,5 +561,6 @@
 	{ "title": "Soul", "author": "MiepHD", "src": "soul", "category": "other" },
 	{ "title": "Stargon", "author": "MiepHD", "src": "stargon", "category": "other" },
 	{ "title": "Quien es usar mi WiFi (Pro)", "author": "MiepHD", "src": "quien_es_usar_mi_wifi_pro_", "category": "other" },
-    { "title": "Senal neta", "author": "MiepHD", "src": "senal_neta", "category": "other" }
+    { "title": "Senal neta", "author": "MiepHD", "src": "senal_neta", "category": "other" },
+	{ "title": "Whiz", "author": "MiepHD", "src": "whiz", "category": "other" }
 ]
