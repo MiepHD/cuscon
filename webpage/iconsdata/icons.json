@@ -567,5 +567,9 @@
 	{ "title": "Krita", "author": "MiepHD", "src": "krita", "category": "design" },
 	{ "title": "Lemmings", "author": "MiepHD", "src": "lemmings", "category": "games" },
 	{ "title": "MOROway", "author": "MiepHD", "src": "moroway", "category": "games" },
-	{ "title": "WhatsApp Web To Go", "author": "MiepHD", "src": "whatsapp_web_to_go", "category": "messenger" }
+	{ "title": "WhatsApp Web To Go", "author": "MiepHD", "src": "whatsapp_web_to_go", "category": "messenger" },
+	{ "title": "AI Art Generator", "author": "MiepHD", "src": "ai_art_generator", "category": "design" },
+	{ "title": "HabitNow", "author": "MiepHD", "src": "habitnow", "category": "planning" },
+	{ "title": "The Ants", "author": "MiepHD", "src": "the_ants", "category": "games" },
+	{ "title": "Township", "author": "MiepHD", "src": "township", "category": "games" }
 ]

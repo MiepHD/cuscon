@@ -593,5 +593,9 @@
 	<AppIcon name="com.sadpuppy.lemmings/com.sadpuppy.lemmings.RockCakesUnityPlayerActivity" image="lemmings"/>
 	<AppIcon name="de.moroway.oc/de.moroway.oc.MainActivity" image="moroway"/>
 	<AppIcon name="io.kuenzler.whatsappwebtogo/io.kuenzler.whatsappwebtogo.WebviewActivity" image="whatsapp_web_to_go"/>
+	<AppIcon name="com.tapuniverse.aiartgenerator/com.tapuniverse.aiartgenerator.ui.main.MainActivity" image="ai_art_generator"/>
+	<AppIcon name="com.habitnow/com.habit.now.apps.activities.splashActivity.StartingActivity" image="habitnow"/>
+	<AppIcon name="com.star.union.planetant/com.star.union.planetant.MainActivity" image="the_ants"/>
+	<AppIcon name="com.playrix.township/com.playrix.township.Launcher" image="township"/>
 
 </Theme>

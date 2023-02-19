@@ -584,5 +584,9 @@
 	<item class="com.sadpuppy.lemmings.RockCakesUnityPlayerActivity" name="lemmings"/>
 	<item class="de.moroway.oc.MainActivity" name="moroway"/>
 	<item class="io.kuenzler.whatsappwebtogo.WebviewActivity" name="whatsapp_web_to_go"/>
+	<item class="com.tapuniverse.aiartgenerator.ui.main.MainActivity" name="ai_art_generator"/>
+	<item class="com.habit.now.apps.activities.splashActivity.StartingActivity" name="habitnow"/>
+	<item class="com.star.union.planetant.MainActivity" name="the_ants"/>
+	<item class="com.playrix.township.Launcher" name="township"/>
 
 </appmap>

@@ -164,6 +164,7 @@
     <!-- Reminder --><item drawable="reminder" />
     <item drawable="clock" />
     <!-- Google Tasks --><item drawable="google_tasks" />
+    <!-- HabitNow --><item drawable="habitnow" />
 
     <category title="Video Streaming" />
     <item drawable="netflix" />
@@ -243,6 +244,8 @@
     <!-- ColorSwitch --><item drawable="colorswitch" />
 	<!-- Lemmings --><item drawable="lemmings" />
 	<!-- MOROway --><item drawable="moroway" />
+    <!-- The Ants --><item drawable="the_ants" />
+	<!-- Township --><item drawable="township" />
 
     <category title="Gaming Experience" />
     <!-- Moto Gametime--><item drawable="moto_gametime" />
@@ -581,6 +584,7 @@
 	<!-- KWGT Pro --><item drawable="kwgt_pro" />
     <!-- Keys Cafe --><item drawable="keys_cafe" />
     <!-- Krita --><item drawable="krita" />
+    <!-- AI Art Generator --><item drawable="ai_art_generator" />
 
     <category title="Information" />
     <!-- Öffi Verbindungen --><item drawable="offi_verbindungen" />

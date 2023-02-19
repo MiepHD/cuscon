@@ -616,5 +616,9 @@
 	<item component="ComponentInfo{com.sadpuppy.lemmings/com.sadpuppy.lemmings.RockCakesUnityPlayerActivity}" drawable="lemmings" />
 	<item component="ComponentInfo{de.moroway.oc/de.moroway.oc.MainActivity}" drawable="moroway" />
 	<item component="ComponentInfo{io.kuenzler.whatsappwebtogo/io.kuenzler.whatsappwebtogo.WebviewActivity}" drawable="whatsapp_web_to_go" />
+	<item component="ComponentInfo{com.tapuniverse.aiartgenerator/com.tapuniverse.aiartgenerator.ui.main.MainActivity}" drawable="ai_art_generator" />
+	<item component="ComponentInfo{com.habitnow/com.habit.now.apps.activities.splashActivity.StartingActivity}" drawable="habitnow" />
+	<item component="ComponentInfo{com.star.union.planetant/com.star.union.planetant.MainActivity}" drawable="the_ants" />
+	<item component="ComponentInfo{com.playrix.township/com.playrix.township.Launcher}" drawable="township" />
 
 </resources>
