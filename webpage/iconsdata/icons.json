@@ -562,5 +562,10 @@
 	{ "title": "Stargon", "author": "MiepHD", "src": "stargon", "category": "other" },
 	{ "title": "Quien es usar mi WiFi (Pro)", "author": "MiepHD", "src": "quien_es_usar_mi_wifi_pro_", "category": "other" },
     { "title": "Senal neta", "author": "MiepHD", "src": "senal_neta", "category": "other" },
-	{ "title": "Whiz", "author": "MiepHD", "src": "whiz", "category": "other" }
+	{ "title": "Whiz", "author": "MiepHD", "src": "whiz", "category": "other" },
+	{ "title": "ColorSwitch", "author": "MiepHD", "src": "colorswitch", "category": "games" },
+	{ "title": "Krita", "author": "MiepHD", "src": "krita", "category": "design" },
+	{ "title": "Lemmings", "author": "MiepHD", "src": "lemmings", "category": "games" },
+	{ "title": "MOROway", "author": "MiepHD", "src": "moroway", "category": "games" },
+	{ "title": "WhatsApp Web To Go", "author": "MiepHD", "src": "whatsapp_web_to_go", "category": "messenger" }
 ]

@@ -2,6 +2,8 @@
 <resources>
     <string name="changelog_date">16.02.2023</string>
     <string-array name="changelog">
+        <item>2.9.1:</item>
+        <item>Added ColorSwitch, Krita, Lemmings, MOROway, WhatsApp Web To Go</item>
         <item>2.9.0:</item>
         <item>Added Quien es usar mi WiFi (Pro), Senal neta, Whiz</item>
         <item>2.8.9:</item>

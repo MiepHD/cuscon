@@ -611,5 +611,10 @@
 	<item component="ComponentInfo{com.phuongpn.whousemywifi.networkscanner.pro/com.phuongpn.whousemywifi.networkscanner.pro.MainActivity}" drawable="quien_es_usar_mi_wifi_pro_"/>
 	<item component="ComponentInfo{com.phuongpn.wifisignalstrengthmeterpro/com.phuongpn.wifisignalstrengthmeterpro.MainActivity}" drawable="senal_neta"/>
 	<item component="ComponentInfo{com.totaltransitapp.totaltransit/com.totaltransitapp.totaltransit.MainActivity}" drawable="whiz"/>
+	<item component="ComponentInfo{com.colorswitch.fingercolor.fingerbattle/crazy.colorswitch.SplashScreenActivity}" drawable="colorswitch" />
+	<item component="ComponentInfo{org.krita/org.krita.android.MainActivity}" drawable="krita" />
+	<item component="ComponentInfo{com.sadpuppy.lemmings/com.sadpuppy.lemmings.RockCakesUnityPlayerActivity}" drawable="lemmings" />
+	<item component="ComponentInfo{de.moroway.oc/de.moroway.oc.MainActivity}" drawable="moroway" />
+	<item component="ComponentInfo{io.kuenzler.whatsappwebtogo/io.kuenzler.whatsappwebtogo.WebviewActivity}" drawable="whatsapp_web_to_go" />
 
 </resources>

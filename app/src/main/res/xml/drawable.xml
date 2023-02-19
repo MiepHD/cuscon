@@ -240,6 +240,9 @@
     <!-- Happy Color --><item drawable="happy_color" />
     <!-- Reaktionstraining --><item drawable="reaktionstraining" />
     <!-- Keep Talking and Nobody Explodes --><item drawable="keep_talking_and_nobody_explodes" />
+    <!-- ColorSwitch --><item drawable="colorswitch" />
+	<!-- Lemmings --><item drawable="lemmings" />
+	<!-- MOROway --><item drawable="moroway" />
 
     <category title="Gaming Experience" />
     <!-- Moto Gametime--><item drawable="moto_gametime" />
@@ -267,6 +270,7 @@
     <item drawable="gmail" />
     <item drawable="samsung_mail" />
     <!-- Voicemail --><item drawable="voicemail" />
+    <!-- WhatsApp Web To Go --><item drawable="whatsapp_web_to_go" />
 
     <category title="Communication" />
     <item drawable="discord" />
@@ -576,6 +580,7 @@
     <!-- KWGT --><item drawable="kwgt" />
 	<!-- KWGT Pro --><item drawable="kwgt_pro" />
     <!-- Keys Cafe --><item drawable="keys_cafe" />
+    <!-- Krita --><item drawable="krita" />
 
     <category title="Information" />
     <!-- Öffi Verbindungen --><item drawable="offi_verbindungen" />

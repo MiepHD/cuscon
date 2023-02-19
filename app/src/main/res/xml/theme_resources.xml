@@ -588,5 +588,10 @@
 	<AppIcon name="com.phuongpn.whousemywifi.networkscanner.pro/com.phuongpn.whousemywifi.networkscanner.pro.MainActivity" image="quien_es_usar_mi_wifi_pro_"/>
 	<AppIcon name="com.phuongpn.wifisignalstrengthmeterpro/com.phuongpn.wifisignalstrengthmeterpro.MainActivity" image="senal_neta"/>
 	<AppIcon name="com.totaltransitapp.totaltransit/com.totaltransitapp.totaltransit.MainActivity" image="whiz"/>
+	<AppIcon name="com.colorswitch.fingercolor.fingerbattle/crazy.colorswitch.SplashScreenActivity" image="colorswitch"/>
+	<AppIcon name="org.krita/org.krita.android.MainActivity" image="krita"/>
+	<AppIcon name="com.sadpuppy.lemmings/com.sadpuppy.lemmings.RockCakesUnityPlayerActivity" image="lemmings"/>
+	<AppIcon name="de.moroway.oc/de.moroway.oc.MainActivity" image="moroway"/>
+	<AppIcon name="io.kuenzler.whatsappwebtogo/io.kuenzler.whatsappwebtogo.WebviewActivity" image="whatsapp_web_to_go"/>
 
 </Theme>

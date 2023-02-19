@@ -579,5 +579,10 @@
 	<item class="com.phuongpn.whousemywifi.networkscanner.pro.MainActivity" name="quien_es_usar_mi_wifi_pro_"/>
 	<item class="com.phuongpn.wifisignalstrengthmeterpro.MainActivity" name="senal_neta"/>
 	<item class="com.totaltransitapp.totaltransit.MainActivity" name="whiz"/>
+	<item class="crazy.colorswitch.SplashScreenActivity" name="colorswitch"/>
+	<item class="org.krita.android.MainActivity" name="krita"/>
+	<item class="com.sadpuppy.lemmings.RockCakesUnityPlayerActivity" name="lemmings"/>
+	<item class="de.moroway.oc.MainActivity" name="moroway"/>
+	<item class="io.kuenzler.whatsappwebtogo.WebviewActivity" name="whatsapp_web_to_go"/>
 
 </appmap>
