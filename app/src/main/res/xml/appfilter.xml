@@ -630,5 +630,6 @@
 	<item component="ComponentInfo{us.rec.screen/com.zipoapps.premiumhelper.ui.splash.PHSplashActivity}" drawable="rec_screen_recorder" />
 	<item component="ComponentInfo{com.tianxingjian.screenshot/com.tianxingjian.screenshot.ui.activity.SplashActivity}" drawable="super_screen_recorder" />
 	<item component="ComponentInfo{com.weawow/com.weawow.MainActivity}" drawable="weawow" />
+	<item component="ComponentInfo{com.JindoBlu.TwoPlayerGamesChallenge/com.unity3d.player.UnityPlayerActivity}" drawable="_2_player_games" />
 
 </resources>

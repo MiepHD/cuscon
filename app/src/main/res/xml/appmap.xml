@@ -598,5 +598,6 @@
 	<item class="com.zipoapps.premiumhelper.ui.splash.PHSplashActivity" name="rec_screen_recorder"/>
 	<item class="com.tianxingjian.screenshot.ui.activity.SplashActivity" name="super_screen_recorder"/>
 	<item class="com.weawow.MainActivity" name="weawow"/>
+	<item class="com.unity3d.player.UnityPlayerActivity" name="_2_player_games"/>
 
 </appmap>

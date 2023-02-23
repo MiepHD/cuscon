@@ -607,5 +607,6 @@
 	<AppIcon name="us.rec.screen/com.zipoapps.premiumhelper.ui.splash.PHSplashActivity" image="rec_screen_recorder"/>
 	<AppIcon name="com.tianxingjian.screenshot/com.tianxingjian.screenshot.ui.activity.SplashActivity" image="super_screen_recorder"/>
 	<AppIcon name="com.weawow/com.weawow.MainActivity" image="weawow"/>
+	<AppIcon name="com.JindoBlu.TwoPlayerGamesChallenge/com.unity3d.player.UnityPlayerActivity" image="_2_player_games"/>
 
 </Theme>

@@ -1,6 +1,0 @@
-<resources>
-
-	<!-- 2 Player Games -->
-	<item component="ComponentInfo{com.JindoBlu.TwoPlayerGamesChallenge/com.unity3d.player.UnityPlayerActivity}" drawable="_2_player_games" />
-
-</resources>

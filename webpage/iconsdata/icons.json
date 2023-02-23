@@ -581,5 +581,6 @@
 	{ "title": "Overdrop", "author": "MiepHD", "src": "overdrop", "category": "other" },
 	{ "title": "REC - Screen Recorder", "author": "MiepHD", "src": "rec_screen_recorder", "category": "recording" },
 	{ "title": "Super Screen Recorder", "author": "MiepHD", "src": "super_screen_recorder", "category": "recording" },
-	{ "title": "Weawow", "author": "MiepHD", "src": "weawow", "category": "other" }
+	{ "title": "Weawow", "author": "MiepHD", "src": "weawow", "category": "other" },
+	{ "title": "2 Player Games", "author": "MiepHD", "src": "_2_player_games", "category": "games" }
 ]

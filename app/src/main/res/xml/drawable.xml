@@ -255,6 +255,7 @@
 	<!-- MOROway --><item drawable="moroway" />
     <!-- The Ants --><item drawable="the_ants" />
 	<!-- Township --><item drawable="township" />
+    <!-- 2 Player Games --><item drawable="_2_player_games" />
 
     <category title="Gaming Experience" />
     <!-- Moto Gametime--><item drawable="moto_gametime" />
