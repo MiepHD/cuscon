@@ -588,5 +588,15 @@
 	<item class="com.habit.now.apps.activities.splashActivity.StartingActivity" name="habitnow"/>
 	<item class="com.star.union.planetant.MainActivity" name="the_ants"/>
 	<item class="com.playrix.township.Launcher" name="township"/>
+	<item class="com.accuweather.android.splashscreen.SplashActivity" name="accuweather"/>
+	<item class="cat.grupbonpreu.android.bonpreuesclat.MainActivity" name="bonpreu"/>
+	<item class="com.ocado.mobile.android.feature.main.ui.MainActivity" name="compra_online"/>
+	<item class="com.lidl.mobile.app.launcher.ui.activity.LauncherActivity" name="lidl"/>
+	<item class="es.lidlplus.i18n.splash.presentation.view.SplashActivity" name="lidl_plus"/>
+	<item class="com.munrodev.crfmobile.init.view.InitActivity" name="mi_carrefour_30"/>
+	<item class="widget.dd.com.overdrop.free.alias.DefaultIconAlias" name="overdrop"/>
+	<item class="com.zipoapps.premiumhelper.ui.splash.PHSplashActivity" name="rec_screen_recorder"/>
+	<item class="com.tianxingjian.screenshot.ui.activity.SplashActivity" name="super_screen_recorder"/>
+	<item class="com.weawow.MainActivity" name="weawow"/>
 
 </appmap>

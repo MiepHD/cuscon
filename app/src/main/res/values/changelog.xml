@@ -2,6 +2,8 @@
 <resources>
     <string name="changelog_date">19.02.2023</string>
     <string-array name="changelog">
+        <item>2.9.2:</item>
+        <item>Added AccuWeather, Bonpreu, Compra online, Lidl, Lidl Plus, Mi Carrefour 3.0, Overdrop, REC - Screen Recorder, Super Screen Recorder, Weawow</item>
         <item>2.9.1:</item>
         <item>Added ColorSwitch, Krita, Lemmings, MOROway, WhatsApp Web To Go, AI Art Generator, HabitNow, The Ants, Township</item>
         <item>2.9.0:</item>

@@ -597,5 +597,15 @@
 	<AppIcon name="com.habitnow/com.habit.now.apps.activities.splashActivity.StartingActivity" image="habitnow"/>
 	<AppIcon name="com.star.union.planetant/com.star.union.planetant.MainActivity" image="the_ants"/>
 	<AppIcon name="com.playrix.township/com.playrix.township.Launcher" image="township"/>
+	<AppIcon name="com.accuweather.android/com.accuweather.android.splashscreen.SplashActivity" image="accuweather"/>
+	<AppIcon name="cat.grupbonpreu.android.bonpreuesclat/cat.grupbonpreu.android.bonpreuesclat.MainActivity" image="bonpreu"/>
+	<AppIcon name="com.bonpreu.mobile.android/com.ocado.mobile.android.feature.main.ui.MainActivity" image="compra_online"/>
+	<AppIcon name="de.sec.mobile/com.lidl.mobile.app.launcher.ui.activity.LauncherActivity" image="lidl"/>
+	<AppIcon name="com.lidl.eci.lidlplus/es.lidlplus.i18n.splash.presentation.view.SplashActivity" image="lidl_plus"/>
+	<AppIcon name="com.munrodev.crfmobile/com.munrodev.crfmobile.init.view.InitActivity" image="mi_carrefour_30"/>
+	<AppIcon name="widget.dd.com.overdrop.free/widget.dd.com.overdrop.free.alias.DefaultIconAlias" image="overdrop"/>
+	<AppIcon name="us.rec.screen/com.zipoapps.premiumhelper.ui.splash.PHSplashActivity" image="rec_screen_recorder"/>
+	<AppIcon name="com.tianxingjian.screenshot/com.tianxingjian.screenshot.ui.activity.SplashActivity" image="super_screen_recorder"/>
+	<AppIcon name="com.weawow/com.weawow.MainActivity" image="weawow"/>
 
 </Theme>

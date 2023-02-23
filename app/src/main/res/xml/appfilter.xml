@@ -620,5 +620,15 @@
 	<item component="ComponentInfo{com.habitnow/com.habit.now.apps.activities.splashActivity.StartingActivity}" drawable="habitnow" />
 	<item component="ComponentInfo{com.star.union.planetant/com.star.union.planetant.MainActivity}" drawable="the_ants" />
 	<item component="ComponentInfo{com.playrix.township/com.playrix.township.Launcher}" drawable="township" />
+	<item component="ComponentInfo{com.accuweather.android/com.accuweather.android.splashscreen.SplashActivity}" drawable="accuweather" />
+	<item component="ComponentInfo{cat.grupbonpreu.android.bonpreuesclat/cat.grupbonpreu.android.bonpreuesclat.MainActivity}" drawable="bonpreu" />
+	<item component="ComponentInfo{com.bonpreu.mobile.android/com.ocado.mobile.android.feature.main.ui.MainActivity}" drawable="compra_online" />
+	<item component="ComponentInfo{de.sec.mobile/com.lidl.mobile.app.launcher.ui.activity.LauncherActivity}" drawable="lidl" />
+	<item component="ComponentInfo{com.lidl.eci.lidlplus/es.lidlplus.i18n.splash.presentation.view.SplashActivity}" drawable="lidl_plus" />
+	<item component="ComponentInfo{com.munrodev.crfmobile/com.munrodev.crfmobile.init.view.InitActivity}" drawable="mi_carrefour_30" />
+	<item component="ComponentInfo{widget.dd.com.overdrop.free/widget.dd.com.overdrop.free.alias.DefaultIconAlias}" drawable="overdrop" />
+	<item component="ComponentInfo{us.rec.screen/com.zipoapps.premiumhelper.ui.splash.PHSplashActivity}" drawable="rec_screen_recorder" />
+	<item component="ComponentInfo{com.tianxingjian.screenshot/com.tianxingjian.screenshot.ui.activity.SplashActivity}" drawable="super_screen_recorder" />
+	<item component="ComponentInfo{com.weawow/com.weawow.MainActivity}" drawable="weawow" />
 
 </resources>
