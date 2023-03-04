@@ -284,6 +284,7 @@
     <item drawable="samsung_mail" />
     <!-- Voicemail --><item drawable="voicemail" />
     <!-- WhatsApp Web To Go --><item drawable="whatsapp_web_to_go" />
+    <!-- Google Messages --><item drawable="google_messages" />
 
     <category title="Communication" />
     <item drawable="discord" />

@@ -631,5 +631,6 @@
 	<item component="ComponentInfo{com.tianxingjian.screenshot/com.tianxingjian.screenshot.ui.activity.SplashActivity}" drawable="super_screen_recorder" />
 	<item component="ComponentInfo{com.weawow/com.weawow.MainActivity}" drawable="weawow" />
 	<item component="ComponentInfo{com.JindoBlu.TwoPlayerGamesChallenge/com.unity3d.player.UnityPlayerActivity}" drawable="_2_player_games" />
+	<item component="ComponentInfo{com.google.android.apps.messaging/com.google.android.apps.messaging.main.MainActivity}" drawable="google_messages" />
 
 </resources>

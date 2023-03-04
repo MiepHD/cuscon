@@ -7,8 +7,8 @@ android {
         applicationId 'com.froxot.cuscon'
         minSdkVersion rootProject.ext.MinSdk
         targetSdkVersion rootProject.ext.TargetSdk
-        versionCode 292
-        versionName '2.9.2'
+        versionCode 293
+        versionName '2.9.3'
         multiDexEnabled true
 
         // Naming app bundles
