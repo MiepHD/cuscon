@@ -609,5 +609,6 @@
 	<AppIcon name="com.weawow/com.weawow.MainActivity" image="weawow"/>
 	<AppIcon name="com.JindoBlu.TwoPlayerGamesChallenge/com.unity3d.player.UnityPlayerActivity" image="_2_player_games"/>
 	<AppIcon name="com.google.android.apps.messaging/com.google.android.apps.messaging.main.MainActivity" image="google_messages"/>
+	<AppIcon name="com.discord/com.discord.main.MainActivity" image="discord"/>
 
 </Theme>

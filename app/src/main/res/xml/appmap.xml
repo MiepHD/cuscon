@@ -13,6 +13,7 @@
     <item class="de.rki.covpass.app.main.MainActivity" image="covpass"/>
     <item class="com.unity3d.player.UnityPlayerActivity" image="darkland"/>
     <item class="com.discord.app.MainActivity" name="discord"/>
+	<item class="com.discord.main.MainActivity" name="discord"/>
     <item class="com.samsung.android.email.ui.activity.MessageListXL" image="samsung_mail"/>
     <item class="com.sec.android.app.myfiles.external.ui.MainActivity" image="samsung_files"/>
     <item class="org.fdroid.fdroid.views.main.MainActivity" image="f_droid"/>
