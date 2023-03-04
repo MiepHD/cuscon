@@ -124,6 +124,8 @@
 	<!-- Compra online --><item drawable="compra_online" />
 	<!-- Overdrop --><item drawable="overdrop" />
 	<!-- Weawow --><item drawable="weawow" />
+    <!-- AusweisApp2 --><item drawable="ausweisapp2" />
+    <!-- DJH --><item drawable="djh" />
 
     <category title="App Stores" />
     <item drawable="apkpure" />
@@ -172,6 +174,7 @@
     <item drawable="clock" />
     <!-- Google Tasks --><item drawable="google_tasks" />
     <!-- HabitNow --><item drawable="habitnow" />
+    <!-- OneCalendar --><item drawable="onecalendar" />
 
     <category title="Video Streaming" />
     <item drawable="netflix" />
@@ -256,6 +259,7 @@
     <!-- The Ants --><item drawable="the_ants" />
 	<!-- Township --><item drawable="township" />
     <!-- 2 Player Games --><item drawable="_2_player_games" />
+    <!-- Brain Gym --><item drawable="brain_gym" />
 
     <category title="Gaming Experience" />
     <!-- Moto Gametime--><item drawable="moto_gametime" />
@@ -615,6 +619,8 @@
     <!-- JustWatch --><item drawable="justwatch" />
     <!-- NebulaCodex Horarios de tren --><item drawable="nebulacodex_horarios_de_tren" />
     <!-- Bahn Fahrplan und Live Tracking --><item drawable="bahn_fahrplan_und_live_tracking" />
+    <!-- FlixBus --><item drawable="flixbus" />
+    <!-- DB Signale --><item drawable="db_signale" />
 
     <category title="Icon Packs" />
     <!-- Cuscon --><item drawable="cuscon" />

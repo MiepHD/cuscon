@@ -610,5 +610,11 @@
 	<AppIcon name="com.JindoBlu.TwoPlayerGamesChallenge/com.unity3d.player.UnityPlayerActivity" image="_2_player_games"/>
 	<AppIcon name="com.google.android.apps.messaging/com.google.android.apps.messaging.main.MainActivity" image="google_messages"/>
 	<AppIcon name="com.discord/com.discord.main.MainActivity" image="discord"/>
+	<AppIcon name="com.governikus.ausweisapp2/com.governikus.ausweisapp2.MainActivity" image="ausweisapp2"/>
+	<AppIcon name="com.abhilash.braingym/com.abhilash.braingym.HomeActivity" image="brain_gym"/>
+	<AppIcon name="de.dbtraining.signale/de.dbtraining.signale.MainActivity" image="db_signale"/>
+	<AppIcon name="eu.djh.app/eu.djh.app.ui.SplashActivity" image="djh"/>
+	<AppIcon name="de.flixbus.app/de.flixbus.app.Main" image="flixbus"/>
+	<AppIcon name="biz.codespark.xcalendarapp/crc64c040fa4b38b83970.MainActivity" image="onecalendar"/>
 
 </Theme>

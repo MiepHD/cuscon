@@ -633,5 +633,11 @@
 	<item component="ComponentInfo{com.JindoBlu.TwoPlayerGamesChallenge/com.unity3d.player.UnityPlayerActivity}" drawable="_2_player_games" />
 	<item component="ComponentInfo{com.google.android.apps.messaging/com.google.android.apps.messaging.main.MainActivity}" drawable="google_messages" />
 	<item component="ComponentInfo{com.discord/com.discord.main.MainActivity}" drawable="discord" />
+	<item component="ComponentInfo{com.governikus.ausweisapp2/com.governikus.ausweisapp2.MainActivity}" drawable="ausweisapp2" />
+	<item component="ComponentInfo{com.abhilash.braingym/com.abhilash.braingym.HomeActivity}" drawable="brain_gym" />
+	<item component="ComponentInfo{de.dbtraining.signale/de.dbtraining.signale.MainActivity}" drawable="db_signale" />
+	<item component="ComponentInfo{eu.djh.app/eu.djh.app.ui.SplashActivity}" drawable="djh" />
+	<item component="ComponentInfo{de.flixbus.app/de.flixbus.app.Main}" drawable="flixbus" />
+	<item component="ComponentInfo{biz.codespark.xcalendarapp/crc64c040fa4b38b83970.MainActivity}" drawable="onecalendar" />
 
 </resources>

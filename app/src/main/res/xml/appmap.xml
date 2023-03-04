@@ -601,5 +601,11 @@
 	<item class="com.weawow.MainActivity" name="weawow"/>
 	<item class="com.unity3d.player.UnityPlayerActivity" name="_2_player_games"/>
 	<item class="com.google.android.apps.messaging.main.MainActivity" name="google_messages"/>
+	<item class="com.governikus.ausweisapp2.MainActivity" name="ausweisapp2"/>
+	<item class="com.abhilash.braingym.HomeActivity" name="brain_gym"/>
+	<item class="de.dbtraining.signale.MainActivity" name="db_signale"/>
+	<item class="eu.djh.app.ui.SplashActivity" name="djh"/>
+	<item class="de.flixbus.app.Main" name="flixbus"/>
+	<item class="crc64c040fa4b38b83970.MainActivity" name="onecalendar"/>
 
 </appmap>

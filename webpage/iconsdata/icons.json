@@ -583,5 +583,11 @@
 	{ "title": "Super Screen Recorder", "author": "MiepHD", "src": "super_screen_recorder", "category": "recording" },
 	{ "title": "Weawow", "author": "MiepHD", "src": "weawow", "category": "other" },
 	{ "title": "2 Player Games", "author": "MiepHD", "src": "_2_player_games", "category": "games" },
-	{ "title": "Google Messages", "author": "MiepHD", "src": "google_messages", "category": "messenger" }
+	{ "title": "Google Messages", "author": "MiepHD", "src": "google_messages", "category": "messenger" },
+	{ "title": "AusweisApp2", "author": "MiepHD", "src": "ausweisapp2", "category": "other" },
+	{ "title": "Brain Gym", "author": "MiepHD", "src": "brain_gym", "category": "games" },
+	{ "title": "DB Signale", "author": "MiepHD", "src": "db_signale", "category": "information" },
+	{ "title": "DJH", "author": "MiepHD", "src": "djh", "category": "other" },
+	{ "title": "FlixBus", "author": "MiepHD", "src": "flixbus", "category": "information" },
+	{ "title": "OneCalendar", "author": "MiepHD", "src": "onecalendar", "category": "planning" }
 ]
