@@ -607,5 +607,6 @@
 	<item class="eu.djh.app.ui.SplashActivity" name="djh"/>
 	<item class="de.flixbus.app.Main" name="flixbus"/>
 	<item class="crc64c040fa4b38b83970.MainActivity" name="onecalendar"/>
+	<item class="com.supercell.brawlstars.GameApp" name="brawl_stars"/>
 
 </appmap>

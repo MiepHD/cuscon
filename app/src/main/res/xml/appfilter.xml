@@ -639,5 +639,6 @@
 	<item component="ComponentInfo{eu.djh.app/eu.djh.app.ui.SplashActivity}" drawable="djh" />
 	<item component="ComponentInfo{de.flixbus.app/de.flixbus.app.Main}" drawable="flixbus" />
 	<item component="ComponentInfo{biz.codespark.xcalendarapp/crc64c040fa4b38b83970.MainActivity}" drawable="onecalendar" />
+	<item component="ComponentInfo{com.supercell.brawlstars/com.supercell.brawlstars.GameApp}" drawable="brawl_stars" />
 
 </resources>

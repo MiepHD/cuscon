@@ -260,6 +260,7 @@
 	<!-- Township --><item drawable="township" />
     <!-- 2 Player Games --><item drawable="_2_player_games" />
     <!-- Brain Gym --><item drawable="brain_gym" />
+    <!-- Brawl Stars --><item drawable="brawl_stars" />
 
     <category title="Gaming Experience" />
     <!-- Moto Gametime--><item drawable="moto_gametime" />

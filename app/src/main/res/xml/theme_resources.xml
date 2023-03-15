@@ -616,5 +616,6 @@
 	<AppIcon name="eu.djh.app/eu.djh.app.ui.SplashActivity" image="djh"/>
 	<AppIcon name="de.flixbus.app/de.flixbus.app.Main" image="flixbus"/>
 	<AppIcon name="biz.codespark.xcalendarapp/crc64c040fa4b38b83970.MainActivity" image="onecalendar"/>
+	<AppIcon name="com.supercell.brawlstars/com.supercell.brawlstars.GameApp" image="brawl_stars"/>
 
 </Theme>

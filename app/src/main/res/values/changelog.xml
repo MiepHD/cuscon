@@ -2,6 +2,8 @@
 <resources>
     <string name="changelog_date">04.03.2023</string>
     <string-array name="changelog">
+        <item>2.9.4:</item>
+        <item>Added Brawl Stars</item>
         <item>2.9.3:</item>
         <item>Added Google Messages, AusweisApp2, Brain Gym, DB Signale, DJH, FlixBus, OneCalendar</item>
         <item>Updated Discord</item>
