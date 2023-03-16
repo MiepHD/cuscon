@@ -590,5 +590,8 @@
 	{ "title": "DJH", "author": "MiepHD", "src": "djh", "category": "other" },
 	{ "title": "FlixBus", "author": "MiepHD", "src": "flixbus", "category": "information" },
 	{ "title": "OneCalendar", "author": "MiepHD", "src": "onecalendar", "category": "planning" },
-	{ "title": "Brawl Stars", "author": "MiepHD", "src": "brawl_stars", "category": "games" }
+	{ "title": "Brawl Stars", "author": "MiepHD", "src": "brawl_stars", "category": "games" },
+	{ "title": "Fahrinfo", "author": "MiepHD", "src": "fahrinfo", "category": "other" },
+	{ "title": "Jodel", "author": "MiepHD", "src": "jodel", "category": "other" },
+	{ "title": "MapRun 6", "author": "MiepHD", "src": "maprun_6", "category": "other" }
 ]

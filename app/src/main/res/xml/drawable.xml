@@ -126,6 +126,9 @@
 	<!-- Weawow --><item drawable="weawow" />
     <!-- AusweisApp2 --><item drawable="ausweisapp2" />
     <!-- DJH --><item drawable="djh" />
+    <!-- Fahrinfo --><item drawable="fahrinfo" />
+	<!-- Jodel --><item drawable="jodel" />
+	<!-- MapRun 6 --><item drawable="maprun_6" />
 
     <category title="App Stores" />
     <item drawable="apkpure" />

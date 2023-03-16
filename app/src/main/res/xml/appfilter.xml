@@ -640,5 +640,8 @@
 	<item component="ComponentInfo{de.flixbus.app/de.flixbus.app.Main}" drawable="flixbus" />
 	<item component="ComponentInfo{biz.codespark.xcalendarapp/crc64c040fa4b38b83970.MainActivity}" drawable="onecalendar" />
 	<item component="ComponentInfo{com.supercell.brawlstars/com.supercell.brawlstars.GameApp}" drawable="brawl_stars" />
+	<item component="ComponentInfo{de.eos.uptrade.android.fahrinfo.berlin/de.hafas.main.HafasApp}" drawable="fahrinfo" />
+	<item component="ComponentInfo{com.tellm.android.app/com.jodelapp.jodelandroidv3.view.Launcher}" drawable="jodel" />
+	<item component="ComponentInfo{au.com.fne.maprun6/au.com.fne.maprun6.MainActivity}" drawable="maprun_6" />
 
 </resources>
