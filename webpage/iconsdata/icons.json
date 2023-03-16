@@ -589,5 +589,6 @@
 	{ "title": "DB Signale", "author": "MiepHD", "src": "db_signale", "category": "information" },
 	{ "title": "DJH", "author": "MiepHD", "src": "djh", "category": "other" },
 	{ "title": "FlixBus", "author": "MiepHD", "src": "flixbus", "category": "information" },
-	{ "title": "OneCalendar", "author": "MiepHD", "src": "onecalendar", "category": "planning" }
+	{ "title": "OneCalendar", "author": "MiepHD", "src": "onecalendar", "category": "planning" },
+	{ "title": "Brawl Stars", "author": "MiepHD", "src": "brawl_stars", "category": "games" }
 ]
