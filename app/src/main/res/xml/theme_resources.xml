@@ -623,5 +623,7 @@
 	<AppIcon name="com.groundspeak.react.adventures/com.groundspeak.react.adventures.MainActivity" image="adventure_lab"/>
 	<AppIcon name="com.pronetis.ironball2/com.unity3d.player.UnityPlayerActivity" image="going_balls"/>
 	<AppIcon name="de.fiduciagad.securego.vr/de.fiduciagad.securego.MainActivity" image="vr_securego_plus"/>
+	<AppIcon name="com.minar.birdaz/com.minar.birdaz.activities.MainActivity" image="birday"/>
+	<AppIcon name="com.itds.sms.ping/com.itds.sms.ping.MainActivity" image="sms_ping"/>
 
 </Theme>

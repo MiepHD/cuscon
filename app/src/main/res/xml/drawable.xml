@@ -386,6 +386,7 @@
     <!-- Activity Launcher --><item drawable="activity_launcher" />
     <!-- IP Tools --><item drawable="ip_tools" />
 	<!-- Pingmon --><item drawable="pingmon" />
+    <!-- SMS Ping --><item drawable="sms_ping" />
 
     <category title="Calculators" />
     <item drawable="samsung_calculator" />

@@ -614,5 +614,7 @@
 	<item class="com.groundspeak.react.adventures.MainActivity" name="adventure_lab"/>
 	<item class="com.unity3d.player.UnityPlayerActivity" name="going_balls"/>
 	<item class="de.fiduciagad.securego.MainActivity" name="vr_securego_plus"/>
+	<item class="com.minar.birdaz.activities.MainActivity" name="birday"/>
+	<item class="com.itds.sms.ping.MainActivity" name="sms_ping"/>
 
 </appmap>

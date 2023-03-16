@@ -646,5 +646,7 @@
 	<item component="ComponentInfo{com.groundspeak.react.adventures/com.groundspeak.react.adventures.MainActivity}" drawable="adventure_lab" />
 	<item component="ComponentInfo{com.pronetis.ironball2/com.unity3d.player.UnityPlayerActivity}" drawable="going_balls" />
 	<item component="ComponentInfo{de.fiduciagad.securego.vr/de.fiduciagad.securego.MainActivity}" drawable="vr_securego_plus" />
+	<item component="ComponentInfo{com.minar.birdaz/com.minar.birdaz.activities.MainActivity}" drawable="birday" />
+	<item component="ComponentInfo{com.itds.sms.ping/com.itds.sms.ping.MainActivity}" drawable="sms_ping" />
 
 </resources>
