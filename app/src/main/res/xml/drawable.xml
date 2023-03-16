@@ -129,6 +129,7 @@
     <!-- Fahrinfo --><item drawable="fahrinfo" />
 	<!-- Jodel --><item drawable="jodel" />
 	<!-- MapRun 6 --><item drawable="maprun_6" />
+    <!-- Adventure Lab --><item drawable="adventure_lab" />
 
     <category title="App Stores" />
     <item drawable="apkpure" />
@@ -264,6 +265,7 @@
     <!-- 2 Player Games --><item drawable="_2_player_games" />
     <!-- Brain Gym --><item drawable="brain_gym" />
     <!-- Brawl Stars --><item drawable="brawl_stars" />
+    <!-- Going Balls --><item drawable="going_balls" />
 
     <category title="Gaming Experience" />
     <!-- Moto Gametime--><item drawable="moto_gametime" />
@@ -644,5 +646,6 @@
     <!-- WesternUnion --><item drawable="westernunion" />
     <!-- VR Pay --><item drawable="vr_pay" />
 	<!-- VR Banking App --><item drawable="vr_banking_app" />
+    <!-- VR SecureGo plus --><item drawable="vr_securego_plus" />
 
 </resources>

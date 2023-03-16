@@ -620,5 +620,8 @@
 	<AppIcon name="de.eos.uptrade.android.fahrinfo.berlin/de.hafas.main.HafasApp" image="fahrinfo"/>
 	<AppIcon name="com.tellm.android.app/com.jodelapp.jodelandroidv3.view.Launcher" image="jodel"/>
 	<AppIcon name="au.com.fne.maprun6/au.com.fne.maprun6.MainActivity" image="maprun_6"/>
+	<AppIcon name="com.groundspeak.react.adventures/com.groundspeak.react.adventures.MainActivity" image="adventure_lab"/>
+	<AppIcon name="com.pronetis.ironball2/com.unity3d.player.UnityPlayerActivity" image="going_balls"/>
+	<AppIcon name="de.fiduciagad.securego.vr/de.fiduciagad.securego.MainActivity" image="vr_securego_plus"/>
 
 </Theme>

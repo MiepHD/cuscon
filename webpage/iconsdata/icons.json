@@ -593,5 +593,8 @@
 	{ "title": "Brawl Stars", "author": "MiepHD", "src": "brawl_stars", "category": "games" },
 	{ "title": "Fahrinfo", "author": "MiepHD", "src": "fahrinfo", "category": "other" },
 	{ "title": "Jodel", "author": "MiepHD", "src": "jodel", "category": "other" },
-	{ "title": "MapRun 6", "author": "MiepHD", "src": "maprun_6", "category": "other" }
+	{ "title": "MapRun 6", "author": "MiepHD", "src": "maprun_6", "category": "other" },
+	{ "title": "Adventure Lab", "author": "MiepHD", "src": "adventure_lab", "category": "other" },
+	{ "title": "Going Balls", "author": "MiepHD", "src": "going_balls", "category": "games" },
+	{ "title": "VR SecureGo plus", "author": "MiepHD", "src": "vr_securego_plus", "category": "banking" }
 ]
