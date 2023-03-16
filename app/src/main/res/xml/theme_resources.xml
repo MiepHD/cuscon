@@ -625,5 +625,8 @@
 	<AppIcon name="de.fiduciagad.securego.vr/de.fiduciagad.securego.MainActivity" image="vr_securego_plus"/>
 	<AppIcon name="com.minar.birdaz/com.minar.birdaz.activities.MainActivity" image="birday"/>
 	<AppIcon name="com.itds.sms.ping/com.itds.sms.ping.MainActivity" image="sms_ping"/>
+	<AppIcon name="com.womboai.wombodream/com.jojoy.delegate.JojoyInstallerActivity" image="dream"/>
+	<AppIcon name="com.codeway.wonder/com.codeway.wonder.MainActivity" image="modcombowonder"/>
+	<AppIcon name="com.hugelettuce.art.generator/com.hugelettuce.art.generator.activity.SplashActivity" image="unidream"/>
 
 </Theme>

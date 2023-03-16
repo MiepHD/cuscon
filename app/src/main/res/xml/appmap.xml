@@ -616,5 +616,8 @@
 	<item class="de.fiduciagad.securego.MainActivity" name="vr_securego_plus"/>
 	<item class="com.minar.birdaz.activities.MainActivity" name="birday"/>
 	<item class="com.itds.sms.ping.MainActivity" name="sms_ping"/>
+	<item class="com.jojoy.delegate.JojoyInstallerActivity" name="dream"/>
+	<item class="com.codeway.wonder.MainActivity" name="modcombowonder"/>
+	<item class="com.hugelettuce.art.generator.activity.SplashActivity" name="unidream"/>
 
 </appmap>

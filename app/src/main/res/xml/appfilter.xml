@@ -648,5 +648,8 @@
 	<item component="ComponentInfo{de.fiduciagad.securego.vr/de.fiduciagad.securego.MainActivity}" drawable="vr_securego_plus" />
 	<item component="ComponentInfo{com.minar.birdaz/com.minar.birdaz.activities.MainActivity}" drawable="birday" />
 	<item component="ComponentInfo{com.itds.sms.ping/com.itds.sms.ping.MainActivity}" drawable="sms_ping" />
+	<item component="ComponentInfo{com.womboai.wombodream/com.jojoy.delegate.JojoyInstallerActivity}" drawable="dream" />
+	<item component="ComponentInfo{com.codeway.wonder/com.codeway.wonder.MainActivity}" drawable="modcombowonder" />
+	<item component="ComponentInfo{com.hugelettuce.art.generator/com.hugelettuce.art.generator.activity.SplashActivity}" drawable="unidream" />
 
 </resources>

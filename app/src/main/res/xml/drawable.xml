@@ -608,6 +608,8 @@
     <!-- Keys Cafe --><item drawable="keys_cafe" />
     <!-- Krita --><item drawable="krita" />
     <!-- AI Art Generator --><item drawable="ai_art_generator" />
+    <!-- Dream --><item drawable="dream" />
+	<!-- UniDream --><item drawable="unidream" />
 
     <category title="Information" />
     <!-- Öffi Verbindungen --><item drawable="offi_verbindungen" />

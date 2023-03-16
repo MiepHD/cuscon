@@ -597,5 +597,7 @@
 	{ "title": "Adventure Lab", "author": "MiepHD", "src": "adventure_lab", "category": "other" },
 	{ "title": "Going Balls", "author": "MiepHD", "src": "going_balls", "category": "games" },
 	{ "title": "VR SecureGo plus", "author": "MiepHD", "src": "vr_securego_plus", "category": "banking" },
-	{ "title": "SMS Ping", "author": "MiepHD", "src": "sms_ping", "category": "tools" }
+	{ "title": "SMS Ping", "author": "MiepHD", "src": "sms_ping", "category": "tools" },
+	{ "title": "Dream", "author": "miepHD", "src": "dream", "category": "design" },
+	{ "title": "UniDream", "author": "MiepHD", "src": "unidream", "category": "design" }
 ]
