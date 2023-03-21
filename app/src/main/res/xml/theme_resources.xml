@@ -628,5 +628,14 @@
 	<AppIcon name="com.womboai.wombodream/com.jojoy.delegate.JojoyInstallerActivity" image="dream"/>
 	<AppIcon name="com.codeway.wonder/com.codeway.wonder.MainActivity" image="modcombowonder"/>
 	<AppIcon name="com.hugelettuce.art.generator/com.hugelettuce.art.generator.activity.SplashActivity" image="unidream"/>
+	<AppIcon name="net.inverline.bancosabadell.officelocator.android/net.inverline.bancosabadell.officelocator.android.sab.SplashActivity" image="banco_sabadell"/>
+	<AppIcon name="com.bankinter.launcher/com.bankinter.launcher.Launcher" image="bankinter"/>
+	<AppIcon name="es.lacaixa.mobile.android.newwapicon/es.lacaixa.mobile.appcbk.features.splash.view.SplashActivity" image="caixabanknow"/>
+	<AppIcon name="es.finetwork.mifi/es.finetwork.mifi.MainActivity" image="finetwork"/>
+	<AppIcon name="www.ingdirect.nativeframe/es.ingdirect.www.main.ui.MainRouterActivity" image="ing"/>
+	<AppIcon name="com.masmovil.masmovil/com.ragnarok.apps.ui.base.MainActivity" image="masmovil"/>
+	<AppIcon name="com.milowi.app/com.milowi.app.SplashActivity" image="mi_lowi"/>
+	<AppIcon name="com.movistar.android.mimovistar.es/com.tuenti.messenger.ui.activity.MainActivity" image="mi_movistar"/>
+	<AppIcon name="com.orange.miorange/com.orange.MainActivity" image="mi_orange"/>
 
 </Theme>

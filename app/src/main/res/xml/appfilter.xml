@@ -651,5 +651,13 @@
 	<item component="ComponentInfo{com.womboai.wombodream/com.jojoy.delegate.JojoyInstallerActivity}" drawable="dream" />
 	<item component="ComponentInfo{com.codeway.wonder/com.codeway.wonder.MainActivity}" drawable="modcombowonder" />
 	<item component="ComponentInfo{com.hugelettuce.art.generator/com.hugelettuce.art.generator.activity.SplashActivity}" drawable="unidream" />
-
+	<item component="ComponentInfo{net.inverline.bancosabadell.officelocator.android/net.inverline.bancosabadell.officelocator.android.sab.SplashActivity}" drawable="banco_sabadell" />
+	<item component="ComponentInfo{com.bankinter.launcher/com.bankinter.launcher.Launcher}" drawable="bankinter" />
+	<item component="ComponentInfo{es.lacaixa.mobile.android.newwapicon/es.lacaixa.mobile.appcbk.features.splash.view.SplashActivity}" drawable="caixabanknow" />
+	<item component="ComponentInfo{es.finetwork.mifi/es.finetwork.mifi.MainActivity}" drawable="finetwork" />
+	<item component="ComponentInfo{www.ingdirect.nativeframe/es.ingdirect.www.main.ui.MainRouterActivity}" drawable="ing" />
+	<item component="ComponentInfo{com.masmovil.masmovil/com.ragnarok.apps.ui.base.MainActivity}" drawable="masmovil" />
+	<item component="ComponentInfo{com.milowi.app/com.milowi.app.SplashActivity}" drawable="mi_lowi" />
+	<item component="ComponentInfo{com.movistar.android.mimovistar.es/com.tuenti.messenger.ui.activity.MainActivity}" drawable="mi_movistar" />
+	<item component="ComponentInfo{com.orange.miorange/com.orange.MainActivity}" drawable="mi_orange" />
 </resources>

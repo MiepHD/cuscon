@@ -130,6 +130,14 @@
 	<!-- Jodel --><item drawable="jodel" />
 	<!-- MapRun 6 --><item drawable="maprun_6" />
     <!-- Adventure Lab --><item drawable="adventure_lab" />
+    <!-- Banco Sabadell --><item drawable="banco_sabadell" />
+    <!-- Bankinter --><item drawable="bankinter" />
+    <!-- CaixaBankNow --><item drawable="caixabanknow" />
+    <!-- finetwork --><item drawable="finetwork" />
+    <!-- MásMóvil --><item drawable="masmovil" />
+    <!-- Mi Lowi --><item drawable="mi_lowi" />
+    <!-- Mi Movistar --><item drawable="mi_movistar" />
+    <!-- Mi Orange --><item drawable="mi_orange" />
 
     <category title="App Stores" />
     <item drawable="apkpure" />
@@ -638,6 +646,7 @@
 
     <category title="Banking" />
     <!-- ING Banking --><item drawable="ing_banking" />
+    <!-- ING Es --><item drawable="ing" />
 	<!-- S-pushTAN --><item drawable="s_pushtan" />
     <!-- GPay --><item drawable="gpay" />
     <!-- Barclays --><item drawable="barclays"/>

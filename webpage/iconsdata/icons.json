@@ -599,5 +599,14 @@
 	{ "title": "VR SecureGo plus", "author": "MiepHD", "src": "vr_securego_plus", "category": "banking" },
 	{ "title": "SMS Ping", "author": "MiepHD", "src": "sms_ping", "category": "tools" },
 	{ "title": "Dream", "author": "miepHD", "src": "dream", "category": "design" },
-	{ "title": "UniDream", "author": "MiepHD", "src": "unidream", "category": "design" }
+	{ "title": "UniDream", "author": "MiepHD", "src": "unidream", "category": "design" },
+	{ "title": "Banco Sabadell", "author": "MiepHD", "src": "banco_sabadell", "category": "other" },
+	{ "title": "Bankinter", "author": "MiepHD", "src": "bankinter", "category": "other" },
+	{ "title": "CaixaBankNow", "author": "MiepHD", "src": "caixabanknow", "category": "other" },
+	{ "title": "finetwork", "author": "MiepHD", "src": "finetwork", "category": "other" },
+	{ "title": "ING", "author": "MiepHD", "src": "ing", "category": "banking" },
+	{ "title": "MásMóvil", "author": "MiepHD", "src": "masmovil", "category": "other" },
+	{ "title": "Mi Lowi", "author": "MiepHD", "src": "mi_lowi", "category": "other" },
+	{ "title": "Mi Movistar", "author": "MiepHD", "src": "mi_movistar", "category": "other" },
+	{ "title": "Mi Orange", "author": "MiepHD", "src": "mi_orange", "category": "other" }
 ]

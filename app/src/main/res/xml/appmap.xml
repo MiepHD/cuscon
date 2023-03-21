@@ -619,5 +619,14 @@
 	<item class="com.jojoy.delegate.JojoyInstallerActivity" name="dream"/>
 	<item class="com.codeway.wonder.MainActivity" name="modcombowonder"/>
 	<item class="com.hugelettuce.art.generator.activity.SplashActivity" name="unidream"/>
+	<item class="net.inverline.bancosabadell.officelocator.android.sab.SplashActivity" name="banco_sabadell"/>
+	<item class="com.bankinter.launcher.Launcher" name="bankinter"/>
+	<item class="es.lacaixa.mobile.appcbk.features.splash.view.SplashActivity" name="caixabanknow"/>
+	<item class="es.finetwork.mifi.MainActivity" name="finetwork"/>
+	<item class="es.ingdirect.www.main.ui.MainRouterActivity" name="ing"/>
+	<item class="com.ragnarok.apps.ui.base.MainActivity" name="masmovil"/>
+	<item class="com.milowi.app.SplashActivity" name="mi_lowi"/>
+	<item class="com.tuenti.messenger.ui.activity.MainActivity" name="mi_movistar"/>
+	<item class="com.orange.MainActivity" name="mi_orange"/>
 
 </appmap>
