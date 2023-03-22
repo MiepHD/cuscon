@@ -608,5 +608,6 @@
 	{ "title": "MásMóvil", "author": "MiepHD", "src": "masmovil", "category": "other" },
 	{ "title": "Mi Lowi", "author": "MiepHD", "src": "mi_lowi", "category": "other" },
 	{ "title": "Mi Movistar", "author": "MiepHD", "src": "mi_movistar", "category": "other" },
-	{ "title": "Mi Orange", "author": "MiepHD", "src": "mi_orange", "category": "other" }
+	{ "title": "Mi Orange", "author": "MiepHD", "src": "mi_orange", "category": "other" },
+	{ "title": "BBVA", "author": "MiepHD", "src": "bbva", "category": "other" }
 ]

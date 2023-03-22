@@ -138,6 +138,7 @@
     <!-- Mi Lowi --><item drawable="mi_lowi" />
     <!-- Mi Movistar --><item drawable="mi_movistar" />
     <!-- Mi Orange --><item drawable="mi_orange" />
+    <!-- BBVA --><item drawable="bbva" />
 
     <category title="App Stores" />
     <item drawable="apkpure" />

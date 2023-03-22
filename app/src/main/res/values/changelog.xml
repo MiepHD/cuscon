@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="changelog_date">21.03.2023</string>
+    <string name="changelog_date">22.03.2023</string>
     <string-array name="changelog">
+        <item>2.9.6:</item>
+        <item>Added BBVA</item>
         <item>2.9.5:</item>
         <item>Added Banco Sabadell, Bankinter, CaixaBankNow, finetwork, ING, MasMovil, Mi Lowi, Mi Movistar, Mi Orange</item>
         <item>2.9.4:</item>

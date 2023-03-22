@@ -628,5 +628,6 @@
 	<item class="com.milowi.app.SplashActivity" name="mi_lowi"/>
 	<item class="com.tuenti.messenger.ui.activity.MainActivity" name="mi_movistar"/>
 	<item class="com.orange.MainActivity" name="mi_orange"/>
+	<item class="com.bbva.woody.app.modules.initial.splash.view.SplashActivity" name="bbva"/>
 
 </appmap>

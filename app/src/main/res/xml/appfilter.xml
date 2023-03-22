@@ -660,4 +660,6 @@
 	<item component="ComponentInfo{com.milowi.app/com.milowi.app.SplashActivity}" drawable="mi_lowi" />
 	<item component="ComponentInfo{com.movistar.android.mimovistar.es/com.tuenti.messenger.ui.activity.MainActivity}" drawable="mi_movistar" />
 	<item component="ComponentInfo{com.orange.miorange/com.orange.MainActivity}" drawable="mi_orange" />
+	<item component="ComponentInfo{com.bbva.bbvacontigo/com.bbva.woody.app.modules.initial.splash.view.SplashActivity}" drawable="bbva" />
+
 </resources>

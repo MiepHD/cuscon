@@ -637,5 +637,6 @@
 	<AppIcon name="com.milowi.app/com.milowi.app.SplashActivity" image="mi_lowi"/>
 	<AppIcon name="com.movistar.android.mimovistar.es/com.tuenti.messenger.ui.activity.MainActivity" image="mi_movistar"/>
 	<AppIcon name="com.orange.miorange/com.orange.MainActivity" image="mi_orange"/>
+	<AppIcon name="com.bbva.bbvacontigo/com.bbva.woody.app.modules.initial.splash.view.SplashActivity" image="bbva"/>
 
 </Theme>
