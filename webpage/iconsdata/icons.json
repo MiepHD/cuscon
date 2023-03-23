@@ -609,5 +609,15 @@
 	{ "title": "Mi Lowi", "author": "MiepHD", "src": "mi_lowi", "category": "other" },
 	{ "title": "Mi Movistar", "author": "MiepHD", "src": "mi_movistar", "category": "other" },
 	{ "title": "Mi Orange", "author": "MiepHD", "src": "mi_orange", "category": "other" },
-	{ "title": "BBVA", "author": "MiepHD", "src": "bbva", "category": "other" }
+	{ "title": "BBVA", "author": "MiepHD", "src": "bbva", "category": "other" },
+	{ "title": "MiDIGI", "author": "MiepHD", "src": "midigi", "category": "other" },
+	{ "title": "Parlem", "author": "MiepHD", "src": "parlem", "category": "other" },
+	{ "title": "Santander", "author": "MiepHD", "src": "santander", "category": "other" },
+	{ "title": "Simyo", "author": "MiepHD", "src": "simyo", "category": "other" },
+	{ "title": "Smart WiFi", "author": "MiepHD", "src": "smart_wifi", "category": "iot" },
+	{ "title": "The Weather Channel", "author": "MiepHD", "src": "the_weather_channel", "category": "news" },
+	{ "title": "Tiempo", "author": "MiepHD", "src": "tiempo", "category": "news" },
+	{ "title": "Virgin telco", "author": "MiepHD", "src": "virgin_telco", "category": "other" },
+	{ "title": "Windy", "author": "MiepHD", "src": "windy", "category": "other" },
+	{ "title": "WiZink", "author": "MiepHD", "src": "wizink", "category": "other" }
 ]

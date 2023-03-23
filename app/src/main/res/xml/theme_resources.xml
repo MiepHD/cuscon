@@ -638,5 +638,15 @@
 	<AppIcon name="com.movistar.android.mimovistar.es/com.tuenti.messenger.ui.activity.MainActivity" image="mi_movistar"/>
 	<AppIcon name="com.orange.miorange/com.orange.MainActivity" image="mi_orange"/>
 	<AppIcon name="com.bbva.bbvacontigo/com.bbva.woody.app.modules.initial.splash.view.SplashActivity" image="bbva"/>
+	<AppIcon name="es.digimobil.micuenta/es.digimobil.micuenta.ui.splashscreen.SplashActivity" image="midigi"/>
+	<AppIcon name="com.parlem.telecom/com.parlem.telecom.MainActivity" image="parlem"/>
+	<AppIcon name="es.bancosantander.apps/es.bancosantander.apps.mobile.android.activities.PublicActivity" image="santander"/>
+	<AppIcon name="com.simyo/com.simyo.ui.modules.deeplink.DeepLinkActivity" image="simyo"/>
+	<AppIcon name="com.movistar.base/com.movistar.base.ui.splash.SplashActivity" image="smart_wifi"/>
+	<AppIcon name="com.weather.Weather/com.weather.Weather.app.SplashScreenActivity" image="the_weather_channel"/>
+	<AppIcon name="com.yahoo.mobile.client.android.weather/com.yahoo.mobile.client.android.weather.ui.WeatherMainActivity" image="tiempo"/>
+	<AppIcon name="es.virgintelco.myapp/es.virgintelco.myapp.MainActivity" image="virgin_telco"/>
+	<AppIcon name="com.windyty.android/com.windyty.android.MainActivity" image="windy"/>
+	<AppIcon name="app.wizink.es/com.newco.android.popular.operations.splash.activities.SplashActivity" image="wizink"/>
 
 </Theme>

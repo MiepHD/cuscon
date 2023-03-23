@@ -629,5 +629,15 @@
 	<item class="com.tuenti.messenger.ui.activity.MainActivity" name="mi_movistar"/>
 	<item class="com.orange.MainActivity" name="mi_orange"/>
 	<item class="com.bbva.woody.app.modules.initial.splash.view.SplashActivity" name="bbva"/>
+	<item class="es.digimobil.micuenta.ui.splashscreen.SplashActivity" name="midigi"/>
+	<item class="com.parlem.telecom.MainActivity" name="parlem"/>
+	<item class="es.bancosantander.apps.mobile.android.activities.PublicActivity" name="santander"/>
+	<item class="com.simyo.ui.modules.deeplink.DeepLinkActivity" name="simyo"/>
+	<item class="com.movistar.base.ui.splash.SplashActivity" name="smart_wifi"/>
+	<item class="com.weather.Weather.app.SplashScreenActivity" name="the_weather_channel"/>
+	<item class="com.yahoo.mobile.client.android.weather.ui.WeatherMainActivity" name="tiempo"/>
+	<item class="es.virgintelco.myapp.MainActivity" name="virgin_telco"/>
+	<item class="com.windyty.android.MainActivity" name="windy"/>
+	<item class="com.newco.android.popular.operations.splash.activities.SplashActivity" name="wizink"/>
 
 </appmap>

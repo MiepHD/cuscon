@@ -140,6 +140,14 @@
     <!-- Mi Orange --><item drawable="mi_orange" />
     <!-- BBVA --><item drawable="bbva" />
 
+    <!-- MiDIGI --><item drawable="midigi" />
+	<!-- Parlem --><item drawable="parlem" />
+	<!-- Santander --><item drawable="santander" />
+	<!-- Simyo --><item drawable="simyo" />
+	<!-- Virgin telco --><item drawable="virgin_telco" />
+	<!-- Windy --><item drawable="windy" />
+	<!-- WiZink --><item drawable="wizink" />
+
     <category title="App Stores" />
     <item drawable="apkpure" />
     <item drawable="f_droid" />
@@ -451,6 +459,7 @@
     <!-- TCL Connect --><item drawable="tcl_connect" />
     <!-- Google Home --><item drawable="google_home" />
     <!-- Google Pixel Watch --><item drawable="google_pixel_watch" />
+    <!-- Smart WiFi --><item drawable="smart_wifi" />
 
     <category title="Documents" />
     <item drawable="adobe_acrobat_reader" />
@@ -597,6 +606,8 @@
     <!-- RainViewer --><item drawable="rainviewer" />
 	<!-- Dromosys Weather Station --><item drawable="dromosys_weather_station" />
     <!-- AccuWeather --><item drawable="accuweather" />
+    <!-- Tiempo --><item drawable="tiempo" />
+    <!-- The Weather Channel --><item drawable="the_weather_channel" />
 
     <category title="Design" />
     <!-- Pocket Paint --><item drawable="pocket_paint" />

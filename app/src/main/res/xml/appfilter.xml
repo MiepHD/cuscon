@@ -661,5 +661,15 @@
 	<item component="ComponentInfo{com.movistar.android.mimovistar.es/com.tuenti.messenger.ui.activity.MainActivity}" drawable="mi_movistar" />
 	<item component="ComponentInfo{com.orange.miorange/com.orange.MainActivity}" drawable="mi_orange" />
 	<item component="ComponentInfo{com.bbva.bbvacontigo/com.bbva.woody.app.modules.initial.splash.view.SplashActivity}" drawable="bbva" />
+	<item component="ComponentInfo{es.digimobil.micuenta/es.digimobil.micuenta.ui.splashscreen.SplashActivity}" drawable="midigi" />
+	<item component="ComponentInfo{com.parlem.telecom/com.parlem.telecom.MainActivity}" drawable="parlem" />
+	<item component="ComponentInfo{es.bancosantander.apps/es.bancosantander.apps.mobile.android.activities.PublicActivity}" drawable="santander" />
+	<item component="ComponentInfo{com.simyo/com.simyo.ui.modules.deeplink.DeepLinkActivity}" drawable="simyo" />
+	<item component="ComponentInfo{com.movistar.base/com.movistar.base.ui.splash.SplashActivity}" drawable="smart_wifi" />
+	<item component="ComponentInfo{com.weather.Weather/com.weather.Weather.app.SplashScreenActivity}" drawable="the_weather_channel" />
+	<item component="ComponentInfo{com.yahoo.mobile.client.android.weather/com.yahoo.mobile.client.android.weather.ui.WeatherMainActivity}" drawable="tiempo" />
+	<item component="ComponentInfo{es.virgintelco.myapp/es.virgintelco.myapp.MainActivity}" drawable="virgin_telco" />
+	<item component="ComponentInfo{com.windyty.android/com.windyty.android.MainActivity}" drawable="windy" />
+	<item component="ComponentInfo{app.wizink.es/com.newco.android.popular.operations.splash.activities.SplashActivity}" drawable="wizink" />
 
 </resources>
