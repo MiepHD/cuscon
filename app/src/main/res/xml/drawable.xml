@@ -637,6 +637,7 @@
     <!-- AI Art Generator --><item drawable="ai_art_generator" />
     <!-- Dream --><item drawable="dream" />
 	<!-- UniDream --><item drawable="unidream" />
+    <!-- Wonder --><item drawable="wonder" />
 
     <category title="Information" />
     <!-- Öffi Verbindungen --><item drawable="offi_verbindungen" />

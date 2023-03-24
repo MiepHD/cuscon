@@ -656,5 +656,6 @@
 	<AppIcon name="com.alphainventor.filemanager/com.alphainventor.filemanager.activity.MainActivity" image="gestor_de_archivos_"/>
 	<AppIcon name="com.rsupport.mvagent/com.rsupport.mvagent.ui.activity.splash.SplashActivity" image="mobizen"/>
 	<AppIcon name="vidma.screenrecorder.videorecorder.videoeditor.pro/com.atlasv.android.screen.recorder.ui.splash.LaunchActivity" image="vidma_recorder"/>
+	<AppIcon name="com.codeway.wonder/com.codeway.wonder.MainActivity" image="wonder"/>
 
 </Theme>

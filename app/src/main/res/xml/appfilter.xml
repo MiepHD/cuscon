@@ -679,5 +679,6 @@
 	<item component="ComponentInfo{com.alphainventor.filemanager/com.alphainventor.filemanager.activity.MainActivity}" drawable="gestor_de_archivos_" />
 	<item component="ComponentInfo{com.rsupport.mvagent/com.rsupport.mvagent.ui.activity.splash.SplashActivity}" drawable="mobizen" />
 	<item component="ComponentInfo{vidma.screenrecorder.videorecorder.videoeditor.pro/com.atlasv.android.screen.recorder.ui.splash.LaunchActivity}" drawable="vidma_recorder" />
+	<item component="ComponentInfo{com.codeway.wonder/com.codeway.wonder.MainActivity}" drawable="wonder" />
 
 </resources>

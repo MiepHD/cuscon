@@ -647,5 +647,6 @@
 	<item class="com.alphainventor.filemanager.activity.MainActivity" name="gestor_de_archivos_"/>
 	<item class="com.rsupport.mvagent.ui.activity.splash.SplashActivity" name="mobizen"/>
 	<item class="com.atlasv.android.screen.recorder.ui.splash.LaunchActivity" name="vidma_recorder"/>
+	<item class="com.codeway.wonder.MainActivity" name="wonder"/>
 
 </appmap>

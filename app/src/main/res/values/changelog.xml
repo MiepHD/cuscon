@@ -2,6 +2,8 @@
 <resources>
     <string name="changelog_date">24.03.2023</string>
     <string-array name="changelog">
+        <item>2.9.8:</item>
+        <item>Added Wonder</item>
         <item>2.9.7:</item>
         <item>Added AZ Screen Recorder, Bing, Cx Explorador de Archivos, El Temps, ElDiario.es, Gestor de archivos +, Mobizen, Vidma Recorder</item>
         <item>2.9.6:</item>
