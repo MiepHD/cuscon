@@ -139,7 +139,6 @@
     <!-- Mi Movistar --><item drawable="mi_movistar" />
     <!-- Mi Orange --><item drawable="mi_orange" />
     <!-- BBVA --><item drawable="bbva" />
-
     <!-- MiDIGI --><item drawable="midigi" />
 	<!-- Parlem --><item drawable="parlem" />
 	<!-- Santander --><item drawable="santander" />
@@ -147,6 +146,9 @@
 	<!-- Virgin telco --><item drawable="virgin_telco" />
 	<!-- Windy --><item drawable="windy" />
 	<!-- WiZink --><item drawable="wizink" />
+	<!-- ElDiario.es --><item drawable="eldiarioes" />
+	<!-- Gestor de archivos + --><item drawable="gestor_de_archivos_" />
+	<!-- Mobizen --><item drawable="mobizen" />
 
     <category title="App Stores" />
     <item drawable="apkpure" />
@@ -244,6 +246,8 @@
     <!-- Rec. --><item drawable="rec" />
     <!-- REC - Screen Recorder --><item drawable="rec_screen_recorder" />
 	<!-- Super Screen Recorder --><item drawable="super_screen_recorder" />
+    <!-- AZ Screen Recorder --><item drawable="az_screen_recorder" />
+    <!-- Vidma Recorder --><item drawable="vidma_recorder" />
 
     <category title="Games" />
     <item drawable="darkland" />
@@ -368,6 +372,7 @@
     <!-- Hi Browser --><item drawable="hi_browser" />
     <!-- Adblock Browser --><item drawable="adblock_browser" />
     <!-- Free Adblocker Browser --><item drawable="free_adblocker_browser" />
+    <!-- Bing --><item drawable="bing" />
 
     <category title="Tools" />
     <item drawable="lucky_patcher" />
@@ -538,6 +543,7 @@
     <!-- Google One--><item drawable="google_one" />
     <!-- Maple Media File Explorer --><item drawable="maple_media_file_explorer" />
     <!-- ES File Explorer --><item drawable="es_file_explorer" />
+    <!-- Cx Explorador de Archivos --><item drawable="cx_explorador_de_archivos" />
 
     <category title="Gallery" />
     <!-- Samsung Gallary --><item drawable="samsung_gallery" />
@@ -608,6 +614,7 @@
     <!-- AccuWeather --><item drawable="accuweather" />
     <!-- Tiempo --><item drawable="tiempo" />
     <!-- The Weather Channel --><item drawable="the_weather_channel" />
+    <!-- El Temps --><item drawable="el_temps" />
 
     <category title="Design" />
     <!-- Pocket Paint --><item drawable="pocket_paint" />

@@ -619,5 +619,13 @@
 	{ "title": "Tiempo", "author": "MiepHD", "src": "tiempo", "category": "news" },
 	{ "title": "Virgin telco", "author": "MiepHD", "src": "virgin_telco", "category": "other" },
 	{ "title": "Windy", "author": "MiepHD", "src": "windy", "category": "other" },
-	{ "title": "WiZink", "author": "MiepHD", "src": "wizink", "category": "other" }
+	{ "title": "WiZink", "author": "MiepHD", "src": "wizink", "category": "other" },
+	{ "title": "AZ Screen Recorder", "author": "MiepHD", "src": "az_screen_recorder", "category": "recording" },
+	{ "title": "Bing", "author": "MiepHD", "src": "bing", "category": "browser" },
+	{ "title": "Cx Explorador de Archivos", "author": "MiepHD", "src": "cx_explorador_de_archivos", "category": "files" },
+	{ "title": "El Temps", "author": "MiepHD", "src": "el_temps", "category": "news" },
+	{ "title": "ElDiario.es", "author": "MiepHD", "src": "eldiarioes", "category": "other" },
+	{ "title": "Gestor de archivos +", "author": "MiepHD", "src": "gestor_de_archivos_", "category": "other" },
+	{ "title": "Mobizen", "author": "MiepHD", "src": "mobizen", "category": "other" },
+	{ "title": "Vidma Recorder", "author": "MiepHD", "src": "vidma_recorder", "category": "recording" }
 ]

@@ -648,5 +648,13 @@
 	<AppIcon name="es.virgintelco.myapp/es.virgintelco.myapp.MainActivity" image="virgin_telco"/>
 	<AppIcon name="com.windyty.android/com.windyty.android.MainActivity" image="windy"/>
 	<AppIcon name="app.wizink.es/com.newco.android.popular.operations.splash.activities.SplashActivity" image="wizink"/>
+	<AppIcon name="com.hecorat.screenrecorder.free/com.hecorat.screenrecorder.free.ui.MainActivity" image="az_screen_recorder"/>
+	<AppIcon name="com.microsoft.bing/com.microsoft.sapphire.app.main.SapphireMainActivity" image="bing"/>
+	<AppIcon name="com.cxinventor.file.explorer/com.alphainventor.filemanager.activity.MainActivity" image="cx_explorador_de_archivos"/>
+	<AppIcon name="com.otaeme.www/com.otaeme.www.MainActivity" image="el_temps"/>
+	<AppIcon name="es.eldiario.app/es.eldiario.app.MainActivity" image="eldiarioes"/>
+	<AppIcon name="com.alphainventor.filemanager/com.alphainventor.filemanager.activity.MainActivity" image="gestor_de_archivos_"/>
+	<AppIcon name="com.rsupport.mvagent/com.rsupport.mvagent.ui.activity.splash.SplashActivity" image="mobizen"/>
+	<AppIcon name="vidma.screenrecorder.videorecorder.videoeditor.pro/com.atlasv.android.screen.recorder.ui.splash.LaunchActivity" image="vidma_recorder"/>
 
 </Theme>

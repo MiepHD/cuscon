@@ -639,5 +639,13 @@
 	<item class="es.virgintelco.myapp.MainActivity" name="virgin_telco"/>
 	<item class="com.windyty.android.MainActivity" name="windy"/>
 	<item class="com.newco.android.popular.operations.splash.activities.SplashActivity" name="wizink"/>
+	<item class="com.hecorat.screenrecorder.free.ui.MainActivity" name="az_screen_recorder"/>
+	<item class="com.microsoft.sapphire.app.main.SapphireMainActivity" name="bing"/>
+	<item class="com.alphainventor.filemanager.activity.MainActivity" name="cx_explorador_de_archivos"/>
+	<item class="com.otaeme.www.MainActivity" name="el_temps"/>
+	<item class="es.eldiario.app.MainActivity" name="eldiarioes"/>
+	<item class="com.alphainventor.filemanager.activity.MainActivity" name="gestor_de_archivos_"/>
+	<item class="com.rsupport.mvagent.ui.activity.splash.SplashActivity" name="mobizen"/>
+	<item class="com.atlasv.android.screen.recorder.ui.splash.LaunchActivity" name="vidma_recorder"/>
 
 </appmap>

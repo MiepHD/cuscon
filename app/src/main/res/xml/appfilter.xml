@@ -671,5 +671,13 @@
 	<item component="ComponentInfo{es.virgintelco.myapp/es.virgintelco.myapp.MainActivity}" drawable="virgin_telco" />
 	<item component="ComponentInfo{com.windyty.android/com.windyty.android.MainActivity}" drawable="windy" />
 	<item component="ComponentInfo{app.wizink.es/com.newco.android.popular.operations.splash.activities.SplashActivity}" drawable="wizink" />
+	<item component="ComponentInfo{com.hecorat.screenrecorder.free/com.hecorat.screenrecorder.free.ui.MainActivity}" drawable="az_screen_recorder" />
+	<item component="ComponentInfo{com.microsoft.bing/com.microsoft.sapphire.app.main.SapphireMainActivity}" drawable="bing" />
+	<item component="ComponentInfo{com.cxinventor.file.explorer/com.alphainventor.filemanager.activity.MainActivity}" drawable="cx_explorador_de_archivos" />
+	<item component="ComponentInfo{com.otaeme.www/com.otaeme.www.MainActivity}" drawable="el_temps" />
+	<item component="ComponentInfo{es.eldiario.app/es.eldiario.app.MainActivity}" drawable="eldiarioes" />
+	<item component="ComponentInfo{com.alphainventor.filemanager/com.alphainventor.filemanager.activity.MainActivity}" drawable="gestor_de_archivos_" />
+	<item component="ComponentInfo{com.rsupport.mvagent/com.rsupport.mvagent.ui.activity.splash.SplashActivity}" drawable="mobizen" />
+	<item component="ComponentInfo{vidma.screenrecorder.videorecorder.videoeditor.pro/com.atlasv.android.screen.recorder.ui.splash.LaunchActivity}" drawable="vidma_recorder" />
 
 </resources>

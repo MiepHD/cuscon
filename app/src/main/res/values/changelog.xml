@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="changelog_date">23.03.2023</string>
+    <string name="changelog_date">24.03.2023</string>
     <string-array name="changelog">
+        <item>2.9.7:</item>
+        <item>Added AZ Screen Recorder, Bing, Cx Explorador de Archivos, El Temps, ElDiario.es, Gestor de archivos +, Mobizen, Vidma Recorder</item>
         <item>2.9.6:</item>
         <item>Added BBVA, MiDIGI, Parlem, Santander, Simyo, Smart WiFi, The Weather Channel, Tiempo, Virgin telco, Windy, WiZink</item>
         <item>2.9.5:</item>
