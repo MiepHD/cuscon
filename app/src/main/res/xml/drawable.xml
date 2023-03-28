@@ -149,6 +149,7 @@
 	<!-- ElDiario.es --><item drawable="eldiarioes" />
 	<!-- Gestor de archivos + --><item drawable="gestor_de_archivos_" />
 	<!-- Mobizen --><item drawable="mobizen" />
+    <!-- X-plore --><item drawable="x_plore" />
 
     <category title="App Stores" />
     <item drawable="apkpure" />

@@ -628,5 +628,7 @@
 	{ "title": "Gestor de archivos +", "author": "MiepHD", "src": "gestor_de_archivos_", "category": "other" },
 	{ "title": "Mobizen", "author": "MiepHD", "src": "mobizen", "category": "other" },
 	{ "title": "Vidma Recorder", "author": "MiepHD", "src": "vidma_recorder", "category": "recording" },
-	{ "title": "Wonder", "author": "MiepHD", "src": "wonder", "category": "design" }
+	{ "title": "Wonder", "author": "MiepHD", "src": "wonder", "category": "design" },
+	{ "title": "X-plore", "author": "MiepHD", "src": "x_plore", "category": "other" }
+	
 ]
