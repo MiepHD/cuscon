@@ -692,7 +692,7 @@
 	<item component="ComponentInfo{com.jio.jioplay.tv/com.jio.media.tv.ui.permission_onboarding.PermissionActivity}" drawable="jiotv" />
 	<item component="ComponentInfo{io.jungleerummy.jungleegames/io.jungleerummy.jungleegames.MainActivity}" drawable="junglee_rummy" />
 	<item component="ComponentInfo{com.ushareit.listenit/com.ushareit.listenit.main.StartupActivity}" drawable="listenit" />
-	<item component="ComponentInfo{com.nautilus.RealCricket3DLite/com.google.firebase.MessagingUnityPlayerActivity}" drawable="real_cricket™_go" />
+	<item component="ComponentInfo{com.nautilus.RealCricket3DLite/com.google.firebase.MessagingUnityPlayerActivity}" drawable="real_cricket_go" />
 	<item component="ComponentInfo{com.samsung.android.themestore/com.samsung.android.themestore.activity.Launcher}" drawable="themes" />
 
 </resources>

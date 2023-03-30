@@ -669,7 +669,7 @@
 	<AppIcon name="com.jio.jioplay.tv/com.jio.media.tv.ui.permission_onboarding.PermissionActivity" image="jiotv"/>
 	<AppIcon name="io.jungleerummy.jungleegames/io.jungleerummy.jungleegames.MainActivity" image="junglee_rummy"/>
 	<AppIcon name="com.ushareit.listenit/com.ushareit.listenit.main.StartupActivity" image="listenit"/>
-	<AppIcon name="com.nautilus.RealCricket3DLite/com.google.firebase.MessagingUnityPlayerActivity" image="real_cricket™_go"/>
+	<AppIcon name="com.nautilus.RealCricket3DLite/com.google.firebase.MessagingUnityPlayerActivity" image="real_cricket_go"/>
 	<AppIcon name="com.samsung.android.themestore/com.samsung.android.themestore.activity.Launcher" image="themes"/>
 
 </Theme>

@@ -660,7 +660,7 @@
 	<item class="com.jio.media.tv.ui.permission_onboarding.PermissionActivity" name="jiotv"/>
 	<item class="io.jungleerummy.jungleegames.MainActivity" name="junglee_rummy"/>
 	<item class="com.ushareit.listenit.main.StartupActivity" name="listenit"/>
-	<item class="com.google.firebase.MessagingUnityPlayerActivity" name="real_cricket™_go"/>
+	<item class="com.google.firebase.MessagingUnityPlayerActivity" name="real_cricket_go"/>
 	<item class="com.samsung.android.themestore.activity.Launcher" name="themes"/>
 
 </appmap>

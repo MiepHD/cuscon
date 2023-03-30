@@ -156,7 +156,7 @@
 	<!-- JioTV --><item drawable="jiotv" />
 	<!-- Junglee Rummy --><item drawable="junglee_rummy" />
 	<!-- LISTENit --><item drawable="listenit" />
-	<!-- Real Cricket™ GO --><item drawable="real_cricket™_go" />
+	<!-- Real Cricket™ GO --><item drawable="real_cricket_go" />
 
     <category title="App Stores" />
     <item drawable="apkpure" />
