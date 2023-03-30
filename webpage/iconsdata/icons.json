@@ -629,6 +629,7 @@
 	{ "title": "Mobizen", "author": "MiepHD", "src": "mobizen", "category": "other" },
 	{ "title": "Vidma Recorder", "author": "MiepHD", "src": "vidma_recorder", "category": "recording" },
 	{ "title": "Wonder", "author": "MiepHD", "src": "wonder", "category": "design" },
-	{ "title": "X-plore", "author": "MiepHD", "src": "x_plore", "category": "other" }
+	{ "title": "X-plore", "author": "MiepHD", "src": "x_plore", "category": "other" },
+	{ "title": "File Commander", "author": "MiepHD", "src": "file_commander", "category": "files" }
 	
 ]

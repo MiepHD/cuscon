@@ -545,6 +545,7 @@
     <!-- Maple Media File Explorer --><item drawable="maple_media_file_explorer" />
     <!-- ES File Explorer --><item drawable="es_file_explorer" />
     <!-- Cx Explorador de Archivos --><item drawable="cx_explorador_de_archivos" />
+    <!-- File Commander --><item drawable="file_commander" />
 
     <category title="Gallery" />
     <!-- Samsung Gallary --><item drawable="samsung_gallery" />

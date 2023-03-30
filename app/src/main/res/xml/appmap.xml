@@ -649,5 +649,6 @@
 	<item class="com.atlasv.android.screen.recorder.ui.splash.LaunchActivity" name="vidma_recorder"/>
 	<item class="com.codeway.wonder.MainActivity" name="wonder"/>
 	<item class="com.lonelycatgames.Xplore.Browser" name="x_plore"/>
+	<item class="com.mobisystems.files.FileBrowser" name="file_commander"/>
 
 </appmap>
