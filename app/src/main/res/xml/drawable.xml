@@ -150,6 +150,7 @@
 	<!-- Gestor de archivos + --><item drawable="gestor_de_archivos_" />
 	<!-- Mobizen --><item drawable="mobizen" />
     <!-- X-plore --><item drawable="x_plore" />
+    <!-- SWLApp --><item drawable="swlapp" />
 
     <category title="App Stores" />
     <item drawable="apkpure" />
@@ -660,6 +661,7 @@
     <!-- Bahn Fahrplan und Live Tracking --><item drawable="bahn_fahrplan_und_live_tracking" />
     <!-- FlixBus --><item drawable="flixbus" />
     <!-- DB Signale --><item drawable="db_signale" />
+    <!-- Landshut_Info --><item drawable="landshut_info" />
 
     <category title="Icon Packs" />
     <!-- Cuscon --><item drawable="cuscon" />

@@ -659,5 +659,7 @@
 	<AppIcon name="com.codeway.wonder/com.codeway.wonder.MainActivity" image="wonder"/>
 	<AppIcon name="com.lonelycatgames.Xplore/com.lonelycatgames.Xplore.Browser" image="x_plore"/>
 	<AppIcon name="com.mobisystems.fileman/com.mobisystems.files.FileBrowser" image="file_commander"/>
+	<AppIcon name="eu.mapone.landshut/eu.mapone.landshut.MainActivity" image="landshut_info"/>
+	<AppIcon name="de.swlandshut.swlapp/de.swlandshut.swlapp.core.MainActivity" image="swlapp"/>
 
 </Theme>

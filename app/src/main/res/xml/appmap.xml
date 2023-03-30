@@ -650,5 +650,7 @@
 	<item class="com.codeway.wonder.MainActivity" name="wonder"/>
 	<item class="com.lonelycatgames.Xplore.Browser" name="x_plore"/>
 	<item class="com.mobisystems.files.FileBrowser" name="file_commander"/>
+	<item class="eu.mapone.landshut.MainActivity" name="landshut_info"/>
+	<item class="de.swlandshut.swlapp.core.MainActivity" name="swlapp"/>
 
 </appmap>

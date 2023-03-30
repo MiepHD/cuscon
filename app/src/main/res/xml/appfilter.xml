@@ -682,5 +682,7 @@
 	<item component="ComponentInfo{com.codeway.wonder/com.codeway.wonder.MainActivity}" drawable="wonder" />
 	<item component="ComponentInfo{com.lonelycatgames.Xplore/com.lonelycatgames.Xplore.Browser}" drawable="x_plore" />
 	<item component="ComponentInfo{com.mobisystems.fileman/com.mobisystems.files.FileBrowser}" drawable="file_commander" />
+	<item component="ComponentInfo{eu.mapone.landshut/eu.mapone.landshut.MainActivity}" drawable="landshut_info" />
+	<item component="ComponentInfo{de.swlandshut.swlapp/de.swlandshut.swlapp.core.MainActivity}" drawable="swlapp" />
 
 </resources>
