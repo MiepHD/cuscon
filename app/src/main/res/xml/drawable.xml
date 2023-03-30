@@ -455,6 +455,7 @@
     <!-- Network Signal Info --><item drawable="network_signal_info" />
 	<!-- WiFi Signal Meter --><item drawable="wifi_signal_meter" />
     <!-- UniFi Network --><item drawable="unifi_network" />
+    <!-- Color Grab --><item drawable="color_grab" />
 
     <category title="Internet of Things" />
     <item drawable="smart_things" />

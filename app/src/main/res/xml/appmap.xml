@@ -652,5 +652,7 @@
 	<item class="com.mobisystems.files.FileBrowser" name="file_commander"/>
 	<item class="eu.mapone.landshut.MainActivity" name="landshut_info"/>
 	<item class="de.swlandshut.swlapp.core.MainActivity" name="swlapp"/>
+	<item class="com.loomatix.colorgrab.SplashActivity" name="color_grab"/>
+	<item class="com.scs.inet.MainActivity" name="i_net_menue"/>
 
 </appmap>

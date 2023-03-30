@@ -661,5 +661,7 @@
 	<AppIcon name="com.mobisystems.fileman/com.mobisystems.files.FileBrowser" image="file_commander"/>
 	<AppIcon name="eu.mapone.landshut/eu.mapone.landshut.MainActivity" image="landshut_info"/>
 	<AppIcon name="de.swlandshut.swlapp/de.swlandshut.swlapp.core.MainActivity" image="swlapp"/>
+	<AppIcon name="com.loomatix.colorgrab/com.loomatix.colorgrab.SplashActivity" image="color_grab"/>
+	<AppIcon name="com.scs.inet/com.scs.inet.MainActivity" image="i_net_menue"/>
 
 </Theme>

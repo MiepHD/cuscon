@@ -684,5 +684,7 @@
 	<item component="ComponentInfo{com.mobisystems.fileman/com.mobisystems.files.FileBrowser}" drawable="file_commander" />
 	<item component="ComponentInfo{eu.mapone.landshut/eu.mapone.landshut.MainActivity}" drawable="landshut_info" />
 	<item component="ComponentInfo{de.swlandshut.swlapp/de.swlandshut.swlapp.core.MainActivity}" drawable="swlapp" />
+	<item component="ComponentInfo{com.loomatix.colorgrab/com.loomatix.colorgrab.SplashActivity}" drawable="color_grab" />
+	<item component="ComponentInfo{com.scs.inet/com.scs.inet.MainActivity}" drawable="i_net_menue" />
 
 </resources>
