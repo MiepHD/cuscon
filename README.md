@@ -1,4 +1,4 @@
-![icon_with_name](http://miep-hd.froxot.com/app/res/icon_with_name.png)
+![icon_with_name](http://miep-hd.froxot.com/cuscon/res/icon_with_name.png)
 
 Icon-Pack with transpanrent icons that are outlined for good visibility.
 
@@ -6,7 +6,7 @@ Contains the android app in `app` and the website under `webpage`
 
 # Supported Apps
 
-http://miep-hd.froxot.com/app/cuscon.html
+http://miep-hd.froxot.com/cuscon
 
 # Requests
 
