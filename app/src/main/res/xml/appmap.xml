@@ -654,5 +654,13 @@
 	<item class="de.swlandshut.swlapp.core.MainActivity" name="swlapp"/>
 	<item class="com.loomatix.colorgrab.SplashActivity" name="color_grab"/>
 	<item class="com.scs.inet.MainActivity" name="i_net_menue"/>
+	<item class="com.miniclip.baseballhomerun.BaseballActivity" name="baseball"/>
+	<item class="com.drivetrackplusrefuel.splash.GlanceActivity" name="hp_pay"/>
+	<item class="com.v18.voot.features.home.ui.JVHomeActivity" name="jiocinema"/>
+	<item class="com.jio.media.tv.ui.permission_onboarding.PermissionActivity" name="jiotv"/>
+	<item class="io.jungleerummy.jungleegames.MainActivity" name="junglee_rummy"/>
+	<item class="com.ushareit.listenit.main.StartupActivity" name="listenit"/>
+	<item class="com.google.firebase.MessagingUnityPlayerActivity" name="real_cricket™_go"/>
+	<item class="com.samsung.android.themestore.activity.Launcher" name="themes"/>
 
 </appmap>

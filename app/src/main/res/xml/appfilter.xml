@@ -686,5 +686,13 @@
 	<item component="ComponentInfo{de.swlandshut.swlapp/de.swlandshut.swlapp.core.MainActivity}" drawable="swlapp" />
 	<item component="ComponentInfo{com.loomatix.colorgrab/com.loomatix.colorgrab.SplashActivity}" drawable="color_grab" />
 	<item component="ComponentInfo{com.scs.inet/com.scs.inet.MainActivity}" drawable="i_net_menue" />
+	<item component="ComponentInfo{com.miniclip.baseballhomerun/com.miniclip.baseballhomerun.BaseballActivity}" drawable="baseball" />
+	<item component="ComponentInfo{com.drivetrackplusrefuel/com.drivetrackplusrefuel.splash.GlanceActivity}" drawable="hp_pay" />
+	<item component="ComponentInfo{com.jio.media.ondemand/com.v18.voot.features.home.ui.JVHomeActivity}" drawable="jiocinema" />
+	<item component="ComponentInfo{com.jio.jioplay.tv/com.jio.media.tv.ui.permission_onboarding.PermissionActivity}" drawable="jiotv" />
+	<item component="ComponentInfo{io.jungleerummy.jungleegames/io.jungleerummy.jungleegames.MainActivity}" drawable="junglee_rummy" />
+	<item component="ComponentInfo{com.ushareit.listenit/com.ushareit.listenit.main.StartupActivity}" drawable="listenit" />
+	<item component="ComponentInfo{com.nautilus.RealCricket3DLite/com.google.firebase.MessagingUnityPlayerActivity}" drawable="real_cricket™_go" />
+	<item component="ComponentInfo{com.samsung.android.themestore/com.samsung.android.themestore.activity.Launcher}" drawable="themes" />
 
 </resources>

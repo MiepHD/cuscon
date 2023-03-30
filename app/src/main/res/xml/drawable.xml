@@ -151,6 +151,12 @@
 	<!-- Mobizen --><item drawable="mobizen" />
     <!-- X-plore --><item drawable="x_plore" />
     <!-- SWLApp --><item drawable="swlapp" />
+    <!-- Baseball --><item drawable="baseball" />
+	<!-- JioCinema --><item drawable="jiocinema" />
+	<!-- JioTV --><item drawable="jiotv" />
+	<!-- Junglee Rummy --><item drawable="junglee_rummy" />
+	<!-- LISTENit --><item drawable="listenit" />
+	<!-- Real Cricket™ GO --><item drawable="real_cricket™_go" />
 
     <category title="App Stores" />
     <item drawable="apkpure" />
@@ -166,6 +172,7 @@
     <!-- Jojoy --><item drawable="jojoy"/>
     <!-- Amazon Appstore --><item drawable="amazon_appstore" />
     <!-- Vanced Manager --><item drawable="vanced_manager" />
+    <!-- Themes --><item drawable="themes" />
 
     <category title="Shops" />
     <!-- Lieferando --><item drawable="lieferando"/>
@@ -684,5 +691,6 @@
     <!-- VR Pay --><item drawable="vr_pay" />
 	<!-- VR Banking App --><item drawable="vr_banking_app" />
     <!-- VR SecureGo plus --><item drawable="vr_securego_plus" />
+    <!-- HP PAY --><item drawable="hp_pay" />
 
 </resources>
