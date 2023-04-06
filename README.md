@@ -14,7 +14,7 @@ Please send request to <a href="mailto:cuscon-requests@froxot.de">cuscon-request
 
 # Pull Requests
 
-If you want to contribute icons, you can use the icons under `to-do` or send a icon request to yourself to get the things you need. Then edit the icons so they match the criteria (Requirements for contributing icons). These go to `app\src\main\res\drawable-nodpi` and `webpage\icons`. After that, extract the parts for your icons from the xml files and paste these in the corresponding files in `app\src\main\res\xml`. The title, src(drawable), category(categoryid) and the name of you go to `webpage/iconsdata/icons.json` as a JSON object. If you've used any translationids in your JSON object, add these to the files in `webpage\translations`. New categories go to `webpage/iconsdata/categories.json`. Finally, create a pull request with these changes.<br>
+If you want to contribute icons, you can use the icons under `to-do` or send a icon request to yourself to get the things you need. Then edit the icons so they match the criteria (Requirements for contributing icons). These go to `app\src\main\res\drawable-nodpi` and `webpage\icons`. After that, extract the parts for your icons from the xml files and paste these in the corresponding files in `app\src\main\res\xml`. The title, src(drawable), category(categoryid) and the name of you(author) go to `webpage/iconsdata/icons.json` as a JSON object. If you've used any translationids in your JSON object, add these to the files in `webpage\translations`. New categories go to `webpage/iconsdata/categories.json`. Finally, create a pull request with these changes.<br>
 
 <b>If you just want to create the image, please upload it with the corresponding data in the xml files as an issue.</b>
 
