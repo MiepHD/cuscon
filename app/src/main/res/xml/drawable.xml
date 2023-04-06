@@ -158,6 +158,10 @@
 	<!-- LISTENit --><item drawable="listenit" />
 	<!-- Real Cricket™ GO --><item drawable="real_cricket_go" />
 
+	<!-- CapCut --><item drawable="capcut" />
+	<!-- Debeka Gesundheit --><item drawable="debeka_gesundheit" />
+	<!-- Smart Switch --><item drawable="smart_switch" />
+
     <category title="App Stores" />
     <item drawable="apkpure" />
     <item drawable="f_droid" />
@@ -184,6 +188,10 @@
     <!-- Lidl --><item drawable="lidl" />
 	<!-- Lidl Plus --><item drawable="lidl_plus" />
 	<!-- Mi Carrefour 3.0 --><item drawable="mi_carrefour_30" />
+    <!-- OTTO --><item drawable="otto" />
+	<!-- PENNY --><item drawable="penny" />
+	<!-- REWE --><item drawable="rewe" />
+	<!-- SHEIN --><item drawable="shein" />
 
     <category title="Launcher" />
     <!-- Apex Launcher --><item drawable="apex_launcher"/>
@@ -418,6 +426,7 @@
     <!-- IP Tools --><item drawable="ip_tools" />
 	<!-- Pingmon --><item drawable="pingmon" />
     <!-- SMS Ping --><item drawable="sms_ping" />
+    <!-- Ask AI --><item drawable="ask_ai" />
 
     <category title="Calculators" />
     <item drawable="samsung_calculator" />
@@ -501,6 +510,7 @@
     <!-- Cloudflare Warp --><item drawable="cloudflare_warp" />
     <!-- WireGuard --><item drawable="wireguard" />
     <!-- AdGuard VPN --><item drawable="adguard_vpn"/>
+    <!-- Ninja VPN --><item drawable="ninja_vpn" />
 
     <category title="Camera" />
     <!-- Open Camera --><item drawable="open_camera" />
@@ -692,5 +702,6 @@
 	<!-- VR Banking App --><item drawable="vr_banking_app" />
     <!-- VR SecureGo plus --><item drawable="vr_securego_plus" />
     <!-- HP PAY --><item drawable="hp_pay" />
+    <!-- Klarna --><item drawable="klarna" />
 
 </resources>

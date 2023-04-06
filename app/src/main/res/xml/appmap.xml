@@ -662,5 +662,15 @@
 	<item class="com.ushareit.listenit.main.StartupActivity" name="listenit"/>
 	<item class="com.google.firebase.MessagingUnityPlayerActivity" name="real_cricket_go"/>
 	<item class="com.samsung.android.themestore.activity.Launcher" name="themes"/>
+	<item class="com.codeway.chatapp.MainActivity" name="ask_ai"/>
+	<item class="com.vega.main.MainActivity" name="capcut"/>
+	<item class="com.ibm.ramen.login.web.strategy.RamenLoginFlowContainerActivity" name="debeka_gesundheit"/>
+	<item class="com.klarna.MainActivity" name="klarna"/>
+	<item class="com.xd.vpn.MainActivity" name="ninja_vpn"/>
+	<item class="de.cellular.ottohybrid.MainActivity" name="otto"/>
+	<item class="de.penny.app.main.view.MainActivity" name="penny"/>
+	<item class="de.rewe.app.app.view.MainActivity" name="rewe"/>
+	<item class="com.shein.welcome.WelcomeActivity" name="shein"/>
+	<item class="com.sec.android.easyMover.DistributionActivity" name="smart_switch"/>
 
 </appmap>

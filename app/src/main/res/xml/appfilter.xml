@@ -694,5 +694,15 @@
 	<item component="ComponentInfo{com.ushareit.listenit/com.ushareit.listenit.main.StartupActivity}" drawable="listenit" />
 	<item component="ComponentInfo{com.nautilus.RealCricket3DLite/com.google.firebase.MessagingUnityPlayerActivity}" drawable="real_cricket_go" />
 	<item component="ComponentInfo{com.samsung.android.themestore/com.samsung.android.themestore.activity.Launcher}" drawable="themes" />
+	<item component="ComponentInfo{com.codeway.chatapp/com.codeway.chatapp.MainActivity}" drawable="ask_ai" />
+	<item component="ComponentInfo{com.lemon.lvoverseas/com.vega.main.MainActivity}" drawable="capcut" />
+	<item component="ComponentInfo{de.debeka.gesundheit/com.ibm.ramen.login.web.strategy.RamenLoginFlowContainerActivity}" drawable="debeka_gesundheit" />
+	<item component="ComponentInfo{com.myklarnamobile/com.klarna.MainActivity}" drawable="klarna" />
+	<item component="ComponentInfo{free.vpn.ninja/com.xd.vpn.MainActivity}" drawable="ninja_vpn" />
+	<item component="ComponentInfo{de.cellular.ottohybrid/de.cellular.ottohybrid.MainActivity}" drawable="otto" />
+	<item component="ComponentInfo{de.penny.app/de.penny.app.main.view.MainActivity}" drawable="penny" />
+	<item component="ComponentInfo{de.rewe.app.mobile/de.rewe.app.app.view.MainActivity}" drawable="rewe" />
+	<item component="ComponentInfo{com.zzkko/com.shein.welcome.WelcomeActivity}" drawable="shein" />
+	<item component="ComponentInfo{com.sec.android.easyMover/com.sec.android.easyMover.DistributionActivity}" drawable="smart_switch" />
 
 </resources>

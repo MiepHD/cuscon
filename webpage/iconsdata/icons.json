@@ -641,6 +641,16 @@
 	{ "title": "Junglee Rummy", "author": "MiepHD", "src": "junglee_rummy", "category": "other" },
 	{ "title": "LISTENit", "author": "MiepHD", "src": "listenit", "category": "other" },
 	{ "title": "Real Cricket™ GO", "author": "MiepHD", "src": "real_cricket™_go", "category": "other" },
-	{ "title": "Themes", "author": "MiepHD", "src": "themes", "category": "app-stores" }
+	{ "title": "Themes", "author": "MiepHD", "src": "themes", "category": "app-stores" },
+	{ "title": "Ask AI", "author": "MiepHD", "src": "ask_ai", "category": "tools" },
+	{ "title": "CapCut", "author": "MiepHD", "src": "capcut", "category": "other" },
+	{ "title": "Debeka Gesundheit", "author": "MiepHD", "src": "debeka_gesundheit", "category": "other" },
+	{ "title": "Klarna", "author": "MiepHD", "src": "klarna", "category": "banking" },
+	{ "title": "Ninja VPN", "author": "MiepHD", "src": "ninja_vpn", "category": "vpn" },
+	{ "title": "OTTO", "author": "MiepHD", "src": "otto", "category": "shops" },
+	{ "title": "PENNY", "author": "MiepHD", "src": "penny", "category": "shops" },
+	{ "title": "REWE", "author": "MiepHD", "src": "rewe", "category": "shops" },
+	{ "title": "SHEIN", "author": "MiepHD", "src": "shein", "category": "shops" },
+	{ "title": "Smart Switch", "author": "MiepHD", "src": "smart_switch", "category": "other" }
 	
 ]

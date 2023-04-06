@@ -671,5 +671,15 @@
 	<AppIcon name="com.ushareit.listenit/com.ushareit.listenit.main.StartupActivity" image="listenit"/>
 	<AppIcon name="com.nautilus.RealCricket3DLite/com.google.firebase.MessagingUnityPlayerActivity" image="real_cricket_go"/>
 	<AppIcon name="com.samsung.android.themestore/com.samsung.android.themestore.activity.Launcher" image="themes"/>
+	<AppIcon name="com.codeway.chatapp/com.codeway.chatapp.MainActivity" image="ask_ai"/>
+	<AppIcon name="com.lemon.lvoverseas/com.vega.main.MainActivity" image="capcut"/>
+	<AppIcon name="de.debeka.gesundheit/com.ibm.ramen.login.web.strategy.RamenLoginFlowContainerActivity" image="debeka_gesundheit"/>
+	<AppIcon name="com.myklarnamobile/com.klarna.MainActivity" image="klarna"/>
+	<AppIcon name="free.vpn.ninja/com.xd.vpn.MainActivity" image="ninja_vpn"/>
+	<AppIcon name="de.cellular.ottohybrid/de.cellular.ottohybrid.MainActivity" image="otto"/>
+	<AppIcon name="de.penny.app/de.penny.app.main.view.MainActivity" image="penny"/>
+	<AppIcon name="de.rewe.app.mobile/de.rewe.app.app.view.MainActivity" image="rewe"/>
+	<AppIcon name="com.zzkko/com.shein.welcome.WelcomeActivity" image="shein"/>
+	<AppIcon name="com.sec.android.easyMover/com.sec.android.easyMover.DistributionActivity" image="smart_switch"/>
 
 </Theme>
