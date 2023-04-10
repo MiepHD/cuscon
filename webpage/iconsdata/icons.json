@@ -651,6 +651,25 @@
 	{ "title": "PENNY", "author": "MiepHD", "src": "penny", "category": "shops" },
 	{ "title": "REWE", "author": "MiepHD", "src": "rewe", "category": "shops" },
 	{ "title": "SHEIN", "author": "MiepHD", "src": "shein", "category": "shops" },
-	{ "title": "Smart Switch", "author": "MiepHD", "src": "smart_switch", "category": "other" }
+	{ "title": "Smart Switch", "author": "MiepHD", "src": "smart_switch", "category": "other" },
+	{ "title": "Ameixa Monochrome", "author": "sourcrowd450", "src": "ameixa_monochrome", "category": "icon_packs" },
+	{ "title": "AnonAddy", "author": "sourcrowd450", "src": "anonaddy", "category": "security" },
+	{ "title": "Barcode Scanner", "author": "sourcrowd450", "src": "barcode_scanner", "category": "scanner" },
+	{ "title": "Deutsch", "author": "sourcrowd450", "src": "deutsch", "category": "learning" },
+	{ "title": "Englisch", "author": "sourcrowd450", "src": "englisch", "category": "learning" },
+	{ "title": "Erklär-App", "author": "sourcrowd450", "src": "erklar_app", "category": "gaming-experience" },
+	{ "title": "Flappy Bird", "author": "sourcrowd450", "src": "flappy_bird", "category": "games" },
+	{ "title": "GIF Live Wallpaper", "author": "sourcrowd450", "src": "gif_live_wallpaper", "category": "other" },
+	{ "title": "LibreTorrent", "author": "sourcrowd450", "src": "libretorrent", "category": "files" },
+	{ "title": "OpenScan", "author": "sourcrowd450", "src": "openscan", "category": "scanner" },
+	{ "title": "Oscilloscope", "author": "sourcrowd450", "src": "oscilloscope", "category": "tools" },
+	{ "title": "PDF Converter", "author": "sourcrowd450", "src": "pdf_converter", "category": "documents" },
+	{ "title": "Proton VPN", "author": "sourcrowd450", "src": "proton_vpn", "category": "vpn" },
+	{ "title": "React", "author": "sourcrowd450", "src": "react", "category": "games" },
+	{ "title": "Seeker", "author": "sourcrowd450", "src": "seeker", "category": "files" },
+	{ "title": "Send Reduced Lite", "author": "sourcrowd450", "src": "send_reduced_lite", "category": "other" },
+	{ "title": "Signal Generator", "author": "sourcrowd450", "src": "signal_generator", "category": "tools" },
+	{ "title": "Wire", "author": "sourcrowd450", "src": "wire", "category": "messenger" },
+	{ "title": "Yuito", "author": "sourcrowd450", "src": "yuito", "category": "social-media" }
 	
 ]

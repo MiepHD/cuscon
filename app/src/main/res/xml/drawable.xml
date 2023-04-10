@@ -157,10 +157,11 @@
 	<!-- Junglee Rummy --><item drawable="junglee_rummy" />
 	<!-- LISTENit --><item drawable="listenit" />
 	<!-- Real Cricket™ GO --><item drawable="real_cricket_go" />
-
 	<!-- CapCut --><item drawable="capcut" />
 	<!-- Debeka Gesundheit --><item drawable="debeka_gesundheit" />
 	<!-- Smart Switch --><item drawable="smart_switch" />
+	<!-- GIF Live Wallpaper --><item drawable="gif_live_wallpaper" />
+	<!-- Send Reduced Lite --><item drawable="send_reduced_lite" />
 
     <category title="App Stores" />
     <item drawable="apkpure" />
@@ -304,11 +305,14 @@
     <!-- Brain Gym --><item drawable="brain_gym" />
     <!-- Brawl Stars --><item drawable="brawl_stars" />
     <!-- Going Balls --><item drawable="going_balls" />
+    <!-- Flappy Bird --><item drawable="flappy_bird" />
+    <!-- React --><item drawable="react" />
 
     <category title="Gaming Experience" />
     <!-- Moto Gametime--><item drawable="moto_gametime" />
     <!-- MiraPlug --><item drawable="miraplug" />
     <!-- AirConsole --><item drawable="airconsole" />
+    <!-- Erklär-App --><item drawable="erklar_app" />
 
     <category title="Emulators" />
     <!-- Termux --><item drawable="termux" />
@@ -333,6 +337,7 @@
     <!-- Voicemail --><item drawable="voicemail" />
     <!-- WhatsApp Web To Go --><item drawable="whatsapp_web_to_go" />
     <!-- Google Messages --><item drawable="google_messages" />
+    <!-- Wire --><item drawable="wire" />
 
     <category title="Communication" />
     <item drawable="discord" />
@@ -360,6 +365,7 @@
     <item drawable="gutefrage" />
     <!-- BeReal. --><item drawable="bereal" />
     <!-- ShareChat --><item drawable="sharechat" />
+    <!-- Yuito --><item drawable="yuito" />
 
     <category title="Browser" />
     <item drawable="firefox" />
@@ -427,6 +433,8 @@
 	<!-- Pingmon --><item drawable="pingmon" />
     <!-- SMS Ping --><item drawable="sms_ping" />
     <!-- Ask AI --><item drawable="ask_ai" />
+    <!-- Oscilloscope --><item drawable="oscilloscope" />
+    <!-- Signal Generator --><item drawable="signal_generator" />
 
     <category title="Calculators" />
     <item drawable="samsung_calculator" />
@@ -504,6 +512,7 @@
     <!-- Saber --><item drawable="saber" />
     <!-- Standard Notes --><item drawable="standard_notes" />
     <!-- Editor --><item drawable="editor" />
+    <!-- PDF Converter --><item drawable="pdf_converter" />
 
     <category title="VPN" />
     <!-- Adguard --><item drawable="adguard" />
@@ -511,6 +520,7 @@
     <!-- WireGuard --><item drawable="wireguard" />
     <!-- AdGuard VPN --><item drawable="adguard_vpn"/>
     <!-- Ninja VPN --><item drawable="ninja_vpn" />
+    <!-- Proton VPN --><item drawable="proton_vpn" />
 
     <category title="Camera" />
     <!-- Open Camera --><item drawable="open_camera" />
@@ -530,6 +540,8 @@
     <!-- Qr Barcode Scanner --><item drawable="qr_barcode_scanner" />
     <!-- Google Lens --><item drawable="google_lens" />
     <!-- PhotoScan by Google Photos --><item drawable="google_photoscan" />
+    <!-- Barcode Scanner --><item drawable="barcode_scanner" />
+    <!-- OpenScan --><item drawable="openscan" />
 
     <category title="Maps" />
     <!-- Google Maps --><item drawable="google_maps" />
@@ -565,6 +577,8 @@
     <!-- ES File Explorer --><item drawable="es_file_explorer" />
     <!-- Cx Explorador de Archivos --><item drawable="cx_explorador_de_archivos" />
     <!-- File Commander --><item drawable="file_commander" />
+    <!-- LibreTorrent --><item drawable="libretorrent" />
+    <!-- Seeker --><item drawable="seeker" />
 
     <category title="Gallery" />
     <!-- Samsung Gallary --><item drawable="samsung_gallery" />
@@ -589,6 +603,7 @@
     <!-- Hash Droid --><item drawable="hash_droid" />
     <!-- Screen Stream --><item drawable="screen_stream" />
     <!-- CalyxOS Work Profile --><item drawable="calyxos_work_profile" />
+    <!-- AnonAddy --><item drawable="anonaddy" />
 
     <category title="Learning" />
     <!-- Quizlet --><item drawable="quizlet" />
@@ -602,6 +617,8 @@
     <!-- Duolingo --><item drawable="duolingo"/>
     <item drawable="homeworker" />
     <!-- Moodle --><item drawable="moodle" />
+    <!-- Deutsch --><item drawable="deutsch" />
+	<!-- Englisch --><item drawable="englisch" />
 
     <category title="News" />
     <!-- Newszone --><item drawable="newszone" />
@@ -685,6 +702,7 @@
     <!-- Cuscon --><item drawable="cuscon" />
     <!-- CandyBar Dev --><item drawable="candybar_dev"/>
     <!-- Delta --><item drawable="delta"/>
+    <!-- Ameixa Monochrome --><item drawable="ameixa_monochrome" />
 
     <category title="Banking" />
     <!-- ING Banking --><item drawable="ing_banking" />

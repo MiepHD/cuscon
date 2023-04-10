@@ -672,5 +672,29 @@
 	<item class="de.rewe.app.app.view.MainActivity" name="rewe"/>
 	<item class="com.shein.welcome.WelcomeActivity" name="shein"/>
 	<item class="com.sec.android.easyMover.DistributionActivity" name="smart_switch"/>
+	<item class="org.xphnx.ameixa.activities.MainActivity" name="ameixa_monochrome"/>
+	<item class="host.stjin.anonaddy.DefaultIcon" name="anonaddy"/>
+	<item class="com.atharok.barcodescanner.presentation.views.activities.MainActivity" name="barcode_scanner"/>
+	<item class="livio.pack.lang.de_DE.DictionaryView" name="deutsch"/>
+	<item class="livio.pack.lang.en_US.DictionaryView" name="englisch"/>
+	<item class="com.unity3d.player.UnityPlayerActivity" name="erklar_app"/>
+	<item class="com.dotgears.flappy.SplashScreen" name="flappy_bird"/>
+	<item class="net.redwarp.gifwallpaper.ui.MainActivity" name="gif_live_wallpaper"/>
+	<item class="com.android.camera.CameraLauncher" name="android_camera"/>
+	<item class="app.lawnchair.LawnchairLauncher" name="lawnchair"/>
+	<item class="org.proninyaroslav.libretorrent.ui.main.MainActivity" name="libretorrent"/>
+	<item class="org.schabi.newpipe.MainActivity" name="newpipe"/>
+	<item class="com.ethereal.openscan.MainActivity" name="openscan"/>
+	<item class="org.billthefarmer.scope.MainActivity" name="oscilloscope"/>
+	<item class="swati4star.createpdf.activity.MainActivity" name="pdf_converter"/>
+	<item class="com.protonvpn.android.ui.onboarding.SplashActivity" name="proton_vpn"/>
+	<item class="io.github.engsergiu.react.MainActivity" name="react"/>
+	<item class="com.android.calculator2.Calculator" name="samsung_calculator"/>
+	<item class="org.lineageos.recorder.RecorderActivity" name="voicenote"/>
+	<item class="crc64c9fbd4a1c52464df.MainActivity" name="seeker"/>
+	<item class="mobi.omegacentauri.SendReduced.Options" name="send_reduced_lite"/>
+	<item class="org.billthefarmer.siggen.Main" name="signal_generator"/>
+	<item class="com.waz.zclient.LaunchActivity" name="wire"/>
+	<item class="com.keylesspalace.tusky.SplashActivity" name="yuito"/>
 
 </appmap>

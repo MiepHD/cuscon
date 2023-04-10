@@ -704,5 +704,29 @@
 	<item component="ComponentInfo{de.rewe.app.mobile/de.rewe.app.app.view.MainActivity}" drawable="rewe" />
 	<item component="ComponentInfo{com.zzkko/com.shein.welcome.WelcomeActivity}" drawable="shein" />
 	<item component="ComponentInfo{com.sec.android.easyMover/com.sec.android.easyMover.DistributionActivity}" drawable="smart_switch" />
+	<item component="ComponentInfo{org.xphnx.ameixamonochrome/org.xphnx.ameixa.activities.MainActivity}" drawable="ameixa_monochrome" />
+	<item component="ComponentInfo{host.stjin.anonaddy/host.stjin.anonaddy.DefaultIcon}" drawable="anonaddy" />
+	<item component="ComponentInfo{com.atharok.barcodescanner/com.atharok.barcodescanner.presentation.views.activities.MainActivity}" drawable="barcode_scanner" />
+	<item component="ComponentInfo{livio.pack.lang.de_DE/livio.pack.lang.de_DE.DictionaryView}" drawable="deutsch" />
+	<item component="ComponentInfo{livio.pack.lang.en_US/livio.pack.lang.en_US.DictionaryView}" drawable="englisch" />
+	<item component="ComponentInfo{com.kosmos.tutorial/com.unity3d.player.UnityPlayerActivity}" drawable="erklar_app" />
+	<item component="ComponentInfo{com.dotgears.flappybird/com.dotgears.flappy.SplashScreen}" drawable="flappy_bird" />
+	<item component="ComponentInfo{net.redwarp.gifwallpaper/net.redwarp.gifwallpaper.ui.MainActivity}" drawable="gif_live_wallpaper" />
+	<item component="ComponentInfo{com.google.android.GoogleCamera/com.android.camera.CameraLauncher}" drawable="android_camera" />
+	<item component="ComponentInfo{app.lawnchair/app.lawnchair.LawnchairLauncher}" drawable="lawnchair" />
+	<item component="ComponentInfo{org.proninyaroslav.libretorrent/org.proninyaroslav.libretorrent.ui.main.MainActivity}" drawable="libretorrent" />
+	<item component="ComponentInfo{org.polymorphicshade.newpipe/org.schabi.newpipe.MainActivity}" drawable="newpipe" />
+	<item component="ComponentInfo{com.ethereal.openscan/com.ethereal.openscan.MainActivity}" drawable="openscan" />
+	<item component="ComponentInfo{org.billthefarmer.scope/org.billthefarmer.scope.MainActivity}" drawable="oscilloscope" />
+	<item component="ComponentInfo{swati4star.createpdf/swati4star.createpdf.activity.MainActivity}" drawable="pdf_converter" />
+	<item component="ComponentInfo{ch.protonvpn.android/com.protonvpn.android.ui.onboarding.SplashActivity}" drawable="proton_vpn" />
+	<item component="ComponentInfo{io.github.engsergiu.react/io.github.engsergiu.react.MainActivity}" drawable="react" />
+	<item component="ComponentInfo{com.android.calculator2/com.android.calculator2.Calculator}" drawable="samsung_calculator" />
+	<item component="ComponentInfo{org.calyxos.recorder/org.lineageos.recorder.RecorderActivity}" drawable="voicenote" />
+	<item component="ComponentInfo{com.companyname.andriodapp1/crc64c9fbd4a1c52464df.MainActivity}" drawable="seeker" />
+	<item component="ComponentInfo{mobi.omegacentauri.SendReduced/mobi.omegacentauri.SendReduced.Options}" drawable="send_reduced_lite" />
+	<item component="ComponentInfo{org.billthefarmer.siggen/org.billthefarmer.siggen.Main}" drawable="signal_generator" />
+	<item component="ComponentInfo{com.wire/com.waz.zclient.LaunchActivity}" drawable="wire" />
+	<item component="ComponentInfo{net.accelf.yuito/com.keylesspalace.tusky.SplashActivity}" drawable="yuito" />
 
 </resources>

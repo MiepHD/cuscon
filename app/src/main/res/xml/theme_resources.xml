@@ -681,5 +681,29 @@
 	<AppIcon name="de.rewe.app.mobile/de.rewe.app.app.view.MainActivity" image="rewe"/>
 	<AppIcon name="com.zzkko/com.shein.welcome.WelcomeActivity" image="shein"/>
 	<AppIcon name="com.sec.android.easyMover/com.sec.android.easyMover.DistributionActivity" image="smart_switch"/>
+	<AppIcon name="org.xphnx.ameixamonochrome/org.xphnx.ameixa.activities.MainActivity" image="ameixa_monochrome"/>
+	<AppIcon name="host.stjin.anonaddy/host.stjin.anonaddy.DefaultIcon" image="anonaddy"/>
+	<AppIcon name="com.atharok.barcodescanner/com.atharok.barcodescanner.presentation.views.activities.MainActivity" image="barcode_scanner"/>
+	<AppIcon name="livio.pack.lang.de_DE/livio.pack.lang.de_DE.DictionaryView" image="deutsch"/>
+	<AppIcon name="livio.pack.lang.en_US/livio.pack.lang.en_US.DictionaryView" image="englisch"/>
+	<AppIcon name="com.kosmos.tutorial/com.unity3d.player.UnityPlayerActivity" image="erklar_app"/>
+	<AppIcon name="com.dotgears.flappybird/com.dotgears.flappy.SplashScreen" image="flappy_bird"/>
+	<AppIcon name="net.redwarp.gifwallpaper/net.redwarp.gifwallpaper.ui.MainActivity" image="gif_live_wallpaper"/>
+	<AppIcon name="com.google.android.GoogleCamera/com.android.camera.CameraLauncher" image="android_camera"/>
+	<AppIcon name="app.lawnchair/app.lawnchair.LawnchairLauncher" image="lawnchair"/>
+	<AppIcon name="org.proninyaroslav.libretorrent/org.proninyaroslav.libretorrent.ui.main.MainActivity" image="libretorrent"/>
+	<AppIcon name="org.polymorphicshade.newpipe/org.schabi.newpipe.MainActivity" image="newpipe"/>
+	<AppIcon name="com.ethereal.openscan/com.ethereal.openscan.MainActivity" image="openscan"/>
+	<AppIcon name="org.billthefarmer.scope/org.billthefarmer.scope.MainActivity" image="oscilloscope"/>
+	<AppIcon name="swati4star.createpdf/swati4star.createpdf.activity.MainActivity" image="pdf_converter"/>
+	<AppIcon name="ch.protonvpn.android/com.protonvpn.android.ui.onboarding.SplashActivity" image="proton_vpn"/>
+	<AppIcon name="io.github.engsergiu.react/io.github.engsergiu.react.MainActivity" image="react"/>
+	<AppIcon name="com.android.calculator2/com.android.calculator2.Calculator" image="samsung_calculator"/>
+	<AppIcon name="org.calyxos.recorder/org.lineageos.recorder.RecorderActivity" image="voicenote"/>
+	<AppIcon name="com.companyname.andriodapp1/crc64c9fbd4a1c52464df.MainActivity" image="seeker"/>
+	<AppIcon name="mobi.omegacentauri.SendReduced/mobi.omegacentauri.SendReduced.Options" image="send_reduced_lite"/>
+	<AppIcon name="org.billthefarmer.siggen/org.billthefarmer.siggen.Main" image="signal_generator"/>
+	<AppIcon name="com.wire/com.waz.zclient.LaunchActivity" image="wire"/>
+	<AppIcon name="net.accelf.yuito/com.keylesspalace.tusky.SplashActivity" image="yuito"/>
 
 </Theme>
