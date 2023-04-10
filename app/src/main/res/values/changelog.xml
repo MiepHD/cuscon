@@ -1,171 +1,173 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="changelog_date">30.03.2023</string>
+    <string name="changelog_date">10.04.2023</string>
     <string-array name="changelog">
-        <item>2.9.9:</item>
+        <item>3.0.0.0:</item>
+        <item>Updated Aemet, AirConsole, Aloha, Andro4all, Android Camera, Antennapod, AppSales, Bayern-Fahrplan, CatalunyaDiari, CatalunyaMeteo, Chrome Remote Desktop, Collabora Office, Compra Online, Correos, Google Podcasts, Maverick Soft Wifianalyzer</item>
+        <item>2.9.9.0:</item>
         <item>Added Ask AI, CapCut, Debeka Gesundheit, Klarna, Ninja VPN, OTTO, PENNY, REWE, SHEIN, Smart Switch</item>
         <item>Increased contrast of The Weather Channel</item>
-        <item>2.9.8:</item>
+        <item>2.9.8.0:</item>
         <item>Added Wonder, X-plore, File Commander, SWLApp, Landshut_Info, Color Grab, Baseball, HP PAY, JioCinema, JioTV, Junglee Rummy, LISTENit, Real Cricket GO, Themes</item>
         <item>Updated I-Net-Menue</item>
-        <item>2.9.7:</item>
+        <item>2.9.7.0:</item>
         <item>Added AZ Screen Recorder, Bing, Cx Explorador de Archivos, El Temps, ElDiario.es, Gestor de archivos +, Mobizen, Vidma Recorder</item>
-        <item>2.9.6:</item>
+        <item>2.9.6.0:</item>
         <item>Added BBVA, MiDIGI, Parlem, Santander, Simyo, Smart WiFi, The Weather Channel, Tiempo, Virgin telco, Windy, WiZink</item>
-        <item>2.9.5:</item>
+        <item>2.9.5.0:</item>
         <item>Added Banco Sabadell, Bankinter, CaixaBankNow, finetwork, ING, MasMovil, Mi Lowi, Mi Movistar, Mi Orange</item>
-        <item>2.9.4:</item>
+        <item>2.9.4.0:</item>
         <item>Added Brawl Stars, Fahrinfo, Jodel, MapRun 6, Adventure Lab, Going Balls, VR SecureGo plus, SMS Ping, Dream, UniDream</item>
-        <item>2.9.3:</item>
+        <item>2.9.3.0:</item>
         <item>Added Google Messages, AusweisApp2, Brain Gym, DB Signale, DJH, FlixBus, OneCalendar</item>
         <item>Updated Discord</item>
-        <item>2.9.2:</item>
+        <item>2.9.2.0:</item>
         <item>Added AccuWeather, Bonpreu, Compra online, Lidl, Lidl Plus, Mi Carrefour 3.0, Overdrop, REC - Screen Recorder, Super Screen Recorder, Weawow, 2 Player Games</item>
-        <item>2.9.1:</item>
+        <item>2.9.1.0:</item>
         <item>Added ColorSwitch, Krita, Lemmings, MOROway, WhatsApp Web To Go, AI Art Generator, HabitNow, The Ants, Township</item>
-        <item>2.9.0:</item>
+        <item>2.9.0.0:</item>
         <item>Added Quien es usar mi WiFi (Pro), Senal neta, Whiz</item>
-        <item>2.8.9:</item>
+        <item>2.8.9.0:</item>
         <item>Added Adblock Browser, Aloha, Free Adblocker Browser, Hi Browser, Soul, Stargon</item>
-        <item>2.8.8:</item>
+        <item>2.8.8.0:</item>
         <item>Added 324, iCat, Catalunya Ràdio, TV3</item>
-        <item>2.8.7:</item>
+        <item>2.8.7.0:</item>
         <item>Fixed 1Tap Cleaner Pro</item>
         <item>Added Activity Launcher, EL PAÍS, Flick a Glance, Flick Now, IP Tools, Pingmon, RainViewer, Dromosys Weather Station, ServeisCAT, Reaktionstraining, Keep Talking and Nobody Explodes</item>
-        <item>2.8.6:</item>
+        <item>2.8.6.0:</item>
         <item>Added Andro4all, El Androide Libre", Island, GLS, smou, Wi-Fi Switcher, Samsung Finder, Galaxy App Booster, Device Care, Private Share, Smart Launcher, ES File Explorer, Vanced Manager</item>
-        <item>2.8.5:</item>
+        <item>2.8.5.0:</item>
         <item>Added BahnBonus, Moodle, Happy Color, Consell República, KFC España, La República, Meteored, SER, SER Cat, WienMobil, Dollify</item>
-        <item>2.8.4:</item>
+        <item>2.8.4.0:</item>
         <item>Fixed PowerTube</item>
         <item>Added Caelum, CatalunyaMeteo, EnHora, Horarios Renfe Feve, Rodalies Widget, Public transport Worldwide</item>
-        <item>2.8.3:</item>
+        <item>2.8.3.0:</item>
         <item>Added VR Pay, VR Banking App, 1 2 3 4 Player Games</item>
-        <item>2.8.2:</item>
+        <item>2.8.2.0:</item>
         <item>Added Correos, Correos Express, InBrowser, Mint Browser, NoxBrowser, Prepago, Pure Browser, MacroPinch Weather, UC Mini, WesternUnion</item>
-        <item>2.8.1:</item>
+        <item>2.8.1.0:</item>
         <item>Added DB Streckenagent, DB Train Simulator, Infinity, LawyersLegacy, NFC Tools, Stumble Guys, Amazon Appstore, Kamera</item>
         <item>Updated Bayern-Fahrplan</item>
-        <item>2.8.0:</item>
+        <item>2.8.0.0:</item>
         <item>Added Antennapod, DHL Express, Envialia, FedEx, imagin, Jazztel, My Nacex, Pepephone, Tipsa, TNT - Tracking, UPS</item>
-        <item>2.7.9:</item>
+        <item>2.7.9.0:</item>
         <item>Updated Mi O2</item>
         <item>Added Catalunya Noticies, CatalunyaDiari, Diari ARA, El Nacional.cat, Nacio Digital, RAC1, RAC105, VilaWeb</item>
-        <item>2.7.8:</item>
+        <item>2.7.8.0:</item>
         <item>Added Added Flick Launcher, Flick Launcher PRO, Maple Media File Explorer, Tabero Private Internet Browser, Playz, Radio 3, RNE En Directo, RTVE Noticias, RTVE Play, Weather Network</item>
-        <item>2.7.7:</item>
+        <item>2.7.7.0:</item>
         <item>Added Wifianalyzer, Digital Alarm Clock, Network Signal Info, WiFi Signal Meter, Google Tasks, UniFi Network, Paisa Lelo, Phone Master, Watten VoglS</item>
-        <item>2.7.6:</item>
+        <item>2.7.6.0:</item>
         <item>Added Chrome Remote Desktop, PhotoScan by Google Photos, Google Podcasts, PortDroid, Google Street View, Voice Access, Google Pixel Watch, Huajian Jiang WiFi Service</item>
-        <item>2.7.5:</item>
+        <item>2.7.5.0:</item>
         <item>Fixed Lujop El Temps, Oxenfree, Rain Alarm, Google Earth, Tram Barcelona, Wifiallnet Scanner, Via Browser, Horarios de Tren</item>
         <item>Added Google Gallery, Google Sheets, Google Home, Google Keep, Google Lens, Google Play Books, Google Slides, Ruthless, Ruthless Settings, Google Voice</item>
-        <item>2.7.4:</item>
+        <item>2.7.4.0:</item>
         <item>Added AEMET, Rain Alarm, Google Earth, Lujop El Temps, ElTiempo.es, NebulaCodex Horarios de tren, MyRadar, OnSóc, Rec., Ull del temps, Bahn Fahrplan und Live Tracking, Clash of Clans, FM Radio, IRCTC Rail Connect, Getting Over It, Keys Cafe, Mahjong Solitaire, MultiNotes, OXENFREE, PowerTube, Tap Translate Screen</item>
-        <item>2.7.3:</item>
-        <item>Added Google Find My Device, Google Chat, DNS Speed Test, IP Tools: WiFi Analyzer, NetMonster, Network Browser, PingTools Pro, WiFi Interference Analyzer, Wifiallnep Scanner, YT Studio, AirConsole, Commute, Nonogram.com, Tile Shortcuts, Bayern-Fahrplan, JustWatch</item>
-        <item>2.7.2:</item>
+        <item>2.7.3.0:</item>
+        <item>Added Google Find My Device, Google Chat, DNS Speed Test, IP Tools.0: WiFi Analyzer, NetMonster, Network Browser, PingTools Pro, WiFi Interference Analyzer, Wifiallnep Scanner, YT Studio, AirConsole, Commute, Nonogram.com, Tile Shortcuts, Bayern-Fahrplan, JustWatch</item>
+        <item>2.7.2.0:</item>
         <item>Added Google Fi, KWGT, KWGT Pro, NetSpot, SmartWiFiSelector, SWIFI, Weather Live0, Google Wallet, LengKeng Lab WiFi Analyzer Plus, Maverick Soft WiFiAnalyzer, München Navigator, Pixel Wheels, Zoom, Flipkart, Qr Barcode Scanner, Where is my Train, XRecorder</item>
-        <item>2.7.1:</item>
+        <item>2.7.1.0:</item>
         <item>Added AppSales, Techet Net Analyzer, Atlanta Info Network Analyzer, Advanced Port Scanner, Fast Port Scanner, Speedtest by Ookla, Olgor WiFi Analyzer, Webprovider Wifi Analyzer, WiFi Data, nPerf</item>
-        <item>2.7.0:</item>
+        <item>2.7.0.0:</item>
         <item>Added 061 Salut Respon, Barcelona Transit, Alarm Clock for Me, La Meva Salut, hyperion, Horarios Renfe, Renfe, Renfe Cercanías, Rodalies, Trànsit, ING Banking, S-pushTAN, BeReal., Joyn, bob World, Android Camera, Miui Bugreport, Mi File Manager, GPay, IPPB Mobile, Microsoft Launcher, MyJio, Ncert Book, Paisa Wala, Paytm, PhonePe, ShareChat, Telegram, Truecaller, WA Business</item>
         <item>Sorted icons</item>
         <item>Added categories</item>
-        <item>2.6.5:</item>
-        <item>Added Moovit, OK Transporte Barcelona, TMB App, TRAM Barcelona, Transit: Bus and Subway Times, Apex Launcher Pro, Via Browser, XBrowser, Yuzu Browser, FOSS Browser</item>
+        <item>2.6.5.0:</item>
+        <item>Added Moovit, OK Transporte Barcelona, TMB App, TRAM Barcelona, Transit.0: Bus and Subway Times, Apex Launcher Pro, Via Browser, XBrowser, Yuzu Browser, FOSS Browser</item>
         <item>Fixed icons not displaying in icon list</item>
-        <item>2.6.4:</item>
+        <item>2.6.4.0:</item>
         <item>Added AMB Mobilitat, Barcelona Metro, Barcelona Metro Bus Rodalies Bicing, Barcelona Transport, Weather M8, Frog weather forecast, Mi Transporte Barcelona</item>
         <item>Fixed Aliucord, AMC Cooking, Youtube Music</item>
-        <item>2.6.2:</item>
+        <item>2.6.2.0:</item>
         <item>Added Barcelona Bus Tracker, Blokada 5, Circuit, Citymapper, El meu tren, FGC, Frog Weather Shortcut, gencat, Google Weather Activity, Next bus Barcelona, BubbleUPnP, Chromium, Collabora Office, Dawn, GMaps WV, Hash Droid, JBL Headphones, Kiwi Browser, Material Flashlight, Mull, Native α, NINA, QRServ, Remo Duplicate File Remover, Resolution Changer, Saber, satellite, Screen Stream, Standard Notes, Threema, Tomb of the Mask, Tor Browser, USB Media Explorer, Voicemail, CalyxOS Work Profile, xManager, Sueddeutsche Zeitung</item>
         <item>Fixed SimpleLogin</item>
         <item>Resorted icons</item>
-        <item>2.6.1:</item>
+        <item>2.6.1.0:</item>
         <item>Fixed Google Calendar, Youtube, Steam</item>
         <item>Added 1Tap Cleaner Pro, Weather Station - Barometer, D-Link Wi-Fi, NetMan, Radio FM, Sweech, WiFiman, FRITZ!App WLAN, WlanScanner by Latetech, WiFi Monitor Pro, Der Postillon, Microsoft SwiftKey-Tastatur, UUID 0xFD6F Scanner, Onleihe, Duolingo, Lieferando, Samsung Flow, Skype, Teams, Theme Park, AdGuard VPN, CandyBar Dev, Delta, Jojoy, VirusTotal Mobile, YouTube Revanced</item>
         <item>Added category icon packs</item>
         <item>Sorted icons</item>
-        <item>2.6.0:</item>
+        <item>2.6.0.0:</item>
         <item>Added Moto Camera 3, FAST Speed Test, iwscan, Kiwi Browser, My O2, Mou-te, Motorola Notifications, Nova Launcher, Nova Launcher Prime, Port Authority</item>
-        <item>2.5.9:</item>
+        <item>2.5.9.0:</item>
         <item>Fixed Google Wallpapers</item>
         <item>Filled out About section</item>
         <item>Added donations, premium requests</item>
         <item>Added contributor page</item>
-        <item>2.5.8:</item>
+        <item>2.5.8.0:</item>
         <item>Fixed Microsoft To Do</item>
         <item>Added Microsoft Authenticator, Motorola Device Help, Barclays, Camera Assistant, Good Guardians, Good Lock, Moto, PayPal, OneNote, TeaCapps QR and Barcode Reader, Zalando, TikTok</item>
-        <item>2.5.6:</item>
+        <item>2.5.6.0:</item>
         <item>Changed Settings</item>
         <item>Added Adobe Scan, Google Wallpapers, Moto Interactive Wallpaper, Google Calendar, Google Files, ibisPaint X, Microsoft To Do, WeeNet</item>
         <item>Changed E-Mail address to cuscon-request@froxot.de</item>
-        <item>2.5.5:</item>
+        <item>2.5.5.0:</item>
         <item>Fixed AdGuard, Files, Calculator, Clock, YouTube, YT Music, Contacts, Phone</item>
         <item>Added Google Assistant, Documents, Fing, Gallery, Google One, Google TV, Games, Mi WiFi, WiFiAnalyzer, WLANScanner</item>
-        <item>2.5.4:</item>
+        <item>2.5.4.0:</item>
         <item>Fixed GMail</item>
-        <item>2.5.3:</item>
+        <item>2.5.3.0:</item>
         <item>Fixed Discord, Youtube</item>
         <item>Added Spotify, Samsung Internet, Lawnchair, Mosaic, Facebook, Google, LinkedIn, Meet, Microsoft Office, OneDrive, Play Music, Radio</item>
-        <item>2.5.2:</item>
+        <item>2.5.2.0:</item>
         <item>Added Apex Launcher, DSBmobile, Overlay Digital Clock, Privacy Browser, Opera Mini, Redlight Web Browser</item>
-        <item>2.5.1:</item>
+        <item>2.5.1.0:</item>
         <item>Added Messages</item>
         <item>Fixed Discord</item>
         <item>Fixed AMC Cooking</item>
         <item>Fixed icons of Aliucord Installer, AMC Cooking, APK Editor, Aurora Store, Birday, Clock, Cloudflare Warp, EMP Shop, F-Droid, Flix, Galaxy Wearable, Map2Fly, Organic Maps, Samsung Mail, Samsung Music, ZDFMediathek</item>
-        <item>2.5.0:</item>
+        <item>2.5.0.0:</item>
         <item>Added SimpleLogin, Symbolab, Termux, WhatsApp SIM, Aliucord Installer, Apkmody, Chrome, LADB, Pinterest, Snapchat</item>
-        <item>2.4.5:</item>
+        <item>2.4.5.0:</item>
         <item>Added Galaxy Store, Happymod, MEGA, Info Dienste</item>
         <item>Edited categories</item>
-        <item>2.4.4:</item>
+        <item>2.4.4.0:</item>
         <item>Added EMP Shop, Linguee</item>
         <item>Changed icon</item>
-        <item>2.4.3:</item>
+        <item>2.4.3.0:</item>
         <item>Added Aliucord, Duden, hocus, Lawnchair-Settings, Quizlet, Reminder</item>
         <item>Edited categories</item>
-        <item>2.4.2:</item>
+        <item>2.4.2.0:</item>
         <item>Added support for more launchers</item>
         <item>Edited categories</item>
-        <item>2.4.1:</item>
+        <item>2.4.1.0:</item>
         <item>Added Sicherung, Firewall, microG-Settings</item>
-        <item>2.4.0:</item>
-        <item>Added Aegis, APK Editor, Bahnhofsfotos, BetterCounter, Bibel+, Binary Eye, Bitwarden, c:geo, Camera Roll, DiskUsage, Dumbphone Assistant, Editor, Elementary, eSpeak, Fennec, GPS JoyStick, HeartBeat, J2ME Loader, KFZ-Kennzeichen, Kiwix, Lemuroid, Librera FD, Mebis, Morse, Mühle, NCalcLibre, NewPipe, ObscuraCam, Öffi Haltestellen, Öffi Netzpläne, Öffi Verbindungen, OpenDocument Reader, OpenTracks, Phone Saver, Pocket Paint, Retouch, Retroboy, Rotation Control, SAI, Shelter, Silence, Smart AutoClicker, SMS Import / Export, Super Retro Mega Wars, Text Fairy, Trail Sense, Transistor, Tutanota, Video Transcoder, VLC, Warden, Warpinator, Weather, WhereYouGo, WireGuard, CubeX, DeepL, Dropbox, Flora Incognita, MiraPlug, ONLYOFFICE Dokumente, Paper copy, Rocketbook, Shazam, SimpleAudio, Snapseed, TCL Connect, Telegram X, VR Media Player, ZArchiver</item>
-        <item>2.3.1:</item>
+        <item>2.4.0.0:</item>
+        <item>Added Aegis, APK Editor, Bahnhofsfotos, BetterCounter, Bibel+, Binary Eye, Bitwarden, c.0:geo, Camera Roll, DiskUsage, Dumbphone Assistant, Editor, Elementary, eSpeak, Fennec, GPS JoyStick, HeartBeat, J2ME Loader, KFZ-Kennzeichen, Kiwix, Lemuroid, Librera FD, Mebis, Morse, Mühle, NCalcLibre, NewPipe, ObscuraCam, Öffi Haltestellen, Öffi Netzpläne, Öffi Verbindungen, OpenDocument Reader, OpenTracks, Phone Saver, Pocket Paint, Retouch, Retroboy, Rotation Control, SAI, Shelter, Silence, Smart AutoClicker, SMS Import / Export, Super Retro Mega Wars, Text Fairy, Trail Sense, Transistor, Tutanota, Video Transcoder, VLC, Warden, Warpinator, Weather, WhereYouGo, WireGuard, CubeX, DeepL, Dropbox, Flora Incognita, MiraPlug, ONLYOFFICE Dokumente, Paper copy, Rocketbook, Shazam, SimpleAudio, Snapseed, TCL Connect, Telegram X, VR Media Player, ZArchiver</item>
+        <item>2.3.1.0:</item>
         <item>Created categories</item>
-        <item>2.3.0:</item>
+        <item>2.3.0.0:</item>
         <item>Added Calculator, Files, Settings, E-Mail, Gallery, Calender, Contacts, Music, PDF eader, Recorder, SMS, phone, clock</item>
-        <item>2.2.2:</item>
+        <item>2.2.2.0:</item>
         <item>Fixed wrong icons</item>
-        <item>2.2.1:</item>
+        <item>2.2.1.0:</item>
         <item>Changed resources</item>
-        <item>2.2.0:</item>
+        <item>2.2.0.0:</item>
         <item>Changed names</item>
-        <item>2.1.0:</item>
+        <item>2.1.0.0:</item>
         <item>Changed to different sample</item>
         <item>Changed pack\'s name</item>
         <item>Changed package name</item>
-        <item>1.8.5:</item>
+        <item>1.8.5.0:</item>
         <item>Added CloudStreaming, Kilterboard</item>
-        <item>1.8.4:</item>
+        <item>1.8.4.0:</item>
         <item>Added Word2Pdf, PlayMods</item>
-        <item>1.8.3:</item>
+        <item>1.8.3.0:</item>
         <item>Added Reddit</item>
-        <item>1.8.2:</item>
+        <item>1.8.2.0:</item>
         <item>Added Aldi Talk, Crossy Road, Zapp, Phyphox</item>
-        <item>1.8.1:</item>
+        <item>1.8.1.0:</item>
         <item>Added Quizlet</item>
-        <item>1.8.0:</item>
+        <item>1.8.0.0:</item>
         <item>Added Open Camera, Alexa, Google Maps, LineageOS Browser, Disney+, DJI Fly, Firefox, Flix Train</item>
-        <item>1.7.1:</item>
+        <item>1.7.1.0:</item>
         <item>Added Samsung Wearable</item>
         <item>Removed Link to Windows</item>
-        <item>1.7.0:</item>
+        <item>1.7.0.0:</item>
         <item>Added Freezer, Imaging, Leaflet, Phone (Samsung)</item>
-        <item>1.6.1:</item>
+        <item>1.6.1.0:</item>
         <item>Added Cloudflare, Adguard, Adobe Reader, Apkpure, Authenticator, Birday, Brave, Covpass, Darkland, Discord, Samsung Mail, Files, F-Droid, Gallery, Github, G-Mail, Gutefrage, Homeworker, I-Net Menue, Instagram, Calender, Camera, Keepass, Klocki, Kontakte, Aurora Store, Lucky Patcher, Netflix, Office Suite, Play Games, Amazon Prime Video, Samsung Music, ShapeOminues, Signal, Auto Sketchbook, Sound Assistant, Spingram, Steam, Calculator, Clock, Wallpaper, Whatsapp, Word Mix, Youtube, Youtube Music, ZDF Mediathek, Google Translate, Play Store, Organic Maps, DasDing, Diktiergerät, Google Drive, Google Photos, Messages, Newszone, Smart Things, Samsung Notes, DB Navigator, Amazon Music, Touch Portal, Corona, AMC, Munzee, UAV, Map2Fly</item>
     </string-array>
 </resources>
