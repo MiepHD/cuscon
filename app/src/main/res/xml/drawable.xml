@@ -193,6 +193,10 @@
 	<!-- PENNY --><item drawable="penny" />
 	<!-- REWE --><item drawable="rewe" />
 	<!-- SHEIN --><item drawable="shein" />
+    <!-- Tickets --><item drawable="tickets" />
+    <!-- Jelbi --><item drawable="jelbi" />
+    <!-- Berlin --><item drawable="berlin" />
+    <!-- BVG Muva --><item drawable="bvg_muva" />
 
     <category title="Launcher" />
     <!-- Apex Launcher --><item drawable="apex_launcher"/>
@@ -698,6 +702,7 @@
     <!-- FlixBus --><item drawable="flixbus" />
     <!-- DB Signale --><item drawable="db_signale" />
     <!-- Landshut_Info --><item drawable="landshut_info" />
+    <!-- PROFILapp --><item drawable="profilapp" />
 
     <category title="Icon Packs" />
     <!-- Cuscon --><item drawable="cuscon" />

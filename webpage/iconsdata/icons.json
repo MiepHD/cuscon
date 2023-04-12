@@ -671,5 +671,10 @@
 	{ "title": "Signal Generator", "author": "sourcrowd450", "src": "signal_generator", "category": "tools" },
 	{ "title": "Wire", "author": "sourcrowd450", "src": "wire", "category": "messenger" },
 	{ "title": "Yuito", "author": "sourcrowd450", "src": "yuito", "category": "social-media" },
-	{ "title": "Logo quiz", "author": "MiepHD", "src": "logo_quiz", "category": "games" }
+	{ "title": "Logo quiz", "author": "MiepHD", "src": "logo_quiz", "category": "games" },
+	{ "title": "Berlin", "author": "MiepHD", "src": "berlin", "category": "shops" },
+	{ "title": "BVG Muva", "author": "MiepHD", "src": "bvg_muva", "category": "shops" },
+	{ "title": "Jelbi", "author": "MiepHD", "src": "jelbi", "category": "shops" },
+	{ "title": "PROFILapp", "author": "MiepHD", "src": "profilapp", "category": "information" },
+	{ "title": "Tickets", "author": "MiepHD", "src": "tickets", "category": "shops" }
 ]

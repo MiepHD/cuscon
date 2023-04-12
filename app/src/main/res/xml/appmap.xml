@@ -697,5 +697,10 @@
 	<item class="com.waz.zclient.LaunchActivity" name="wire"/>
 	<item class="com.keylesspalace.tusky.SplashActivity" name="yuito"/>
 	<item class="logos.quiz.companies.game.LogosQuizActivity" name="logo_quiz"/>
+	<item class="uk.co.mxdata.isubway.ui.HomeActivity" name="berlin"/>
+	<item class="via.rider.activities.HomeActivity" name="bvg_muva"/>
+	<item class="com.trafi.whitelabel.MainActivity" name="jelbi"/>
+	<item class="com.staffbase.capacitor.MainActivity" name="profilapp"/>
+	<item class="crc64d2d4cb336c3a6db9.MainActivity" name="tickets"/>
 
 </appmap>

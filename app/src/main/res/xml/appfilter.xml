@@ -729,5 +729,10 @@
 	<item component="ComponentInfo{com.wire/com.waz.zclient.LaunchActivity}" drawable="wire" />
 	<item component="ComponentInfo{net.accelf.yuito/com.keylesspalace.tusky.SplashActivity}" drawable="yuito" />
 	<item component="ComponentInfo{logos.quiz.companies.game/logos.quiz.companies.game.LogosQuizActivity}" drawable="logo_quiz" />
+	<item component="ComponentInfo{uk.co.mxdata.berlinsubway/uk.co.mxdata.isubway.ui.HomeActivity}" drawable="berlin" />
+	<item component="ComponentInfo{ridewithvia.rufbusberlin/via.rider.activities.HomeActivity}" drawable="bvg_muva" />
+	<item component="ComponentInfo{com.trafi.whitelabel.bvg/com.trafi.whitelabel.MainActivity}" drawable="jelbi" />
+	<item component="ComponentInfo{com.eyo.profilapp.android/com.staffbase.capacitor.MainActivity}" drawable="profilapp" />
+	<item component="ComponentInfo{de.bvg.ticket/crc64d2d4cb336c3a6db9.MainActivity}" drawable="tickets" />
 
 </resources>

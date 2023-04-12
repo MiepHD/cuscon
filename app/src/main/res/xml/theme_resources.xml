@@ -706,5 +706,10 @@
 	<AppIcon name="com.wire/com.waz.zclient.LaunchActivity" image="wire"/>
 	<AppIcon name="net.accelf.yuito/com.keylesspalace.tusky.SplashActivity" image="yuito"/>
 	<AppIcon name="logos.quiz.companies.game/logos.quiz.companies.game.LogosQuizActivity" image="logo_quiz"/>
+	<AppIcon name="uk.co.mxdata.berlinsubway/uk.co.mxdata.isubway.ui.HomeActivity" image="berlin"/>
+	<AppIcon name="ridewithvia.rufbusberlin/via.rider.activities.HomeActivity" image="bvg_muva"/>
+	<AppIcon name="com.trafi.whitelabel.bvg/com.trafi.whitelabel.MainActivity" image="jelbi"/>
+	<AppIcon name="com.eyo.profilapp.android/com.staffbase.capacitor.MainActivity" image="profilapp"/>
+	<AppIcon name="de.bvg.ticket/crc64d2d4cb336c3a6db9.MainActivity" image="tickets"/>
 
 </Theme>
