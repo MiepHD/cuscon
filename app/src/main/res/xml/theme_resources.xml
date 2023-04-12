@@ -705,5 +705,6 @@
 	<AppIcon name="org.billthefarmer.siggen/org.billthefarmer.siggen.Main" image="signal_generator"/>
 	<AppIcon name="com.wire/com.waz.zclient.LaunchActivity" image="wire"/>
 	<AppIcon name="net.accelf.yuito/com.keylesspalace.tusky.SplashActivity" image="yuito"/>
+	<AppIcon name="logos.quiz.companies.game/logos.quiz.companies.game.LogosQuizActivity" image="logo_quiz"/>
 
 </Theme>

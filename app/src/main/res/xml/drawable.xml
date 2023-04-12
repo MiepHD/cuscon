@@ -307,6 +307,7 @@
     <!-- Going Balls --><item drawable="going_balls" />
     <!-- Flappy Bird --><item drawable="flappy_bird" />
     <!-- React --><item drawable="react" />
+    <!-- Logo quiz --><item drawable="logo_quiz" />
 
     <category title="Gaming Experience" />
     <!-- Moto Gametime--><item drawable="moto_gametime" />

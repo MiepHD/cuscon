@@ -728,5 +728,6 @@
 	<item component="ComponentInfo{org.billthefarmer.siggen/org.billthefarmer.siggen.Main}" drawable="signal_generator" />
 	<item component="ComponentInfo{com.wire/com.waz.zclient.LaunchActivity}" drawable="wire" />
 	<item component="ComponentInfo{net.accelf.yuito/com.keylesspalace.tusky.SplashActivity}" drawable="yuito" />
+	<item component="ComponentInfo{logos.quiz.companies.game/logos.quiz.companies.game.LogosQuizActivity}" drawable="logo_quiz" />
 
 </resources>

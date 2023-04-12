@@ -670,6 +670,6 @@
 	{ "title": "Send Reduced Lite", "author": "sourcrowd450", "src": "send_reduced_lite", "category": "other" },
 	{ "title": "Signal Generator", "author": "sourcrowd450", "src": "signal_generator", "category": "tools" },
 	{ "title": "Wire", "author": "sourcrowd450", "src": "wire", "category": "messenger" },
-	{ "title": "Yuito", "author": "sourcrowd450", "src": "yuito", "category": "social-media" }
-	
+	{ "title": "Yuito", "author": "sourcrowd450", "src": "yuito", "category": "social-media" },
+	{ "title": "Logo quiz", "author": "MiepHD", "src": "logo_quiz", "category": "games" }
 ]

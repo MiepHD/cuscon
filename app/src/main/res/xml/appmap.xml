@@ -696,5 +696,6 @@
 	<item class="org.billthefarmer.siggen.Main" name="signal_generator"/>
 	<item class="com.waz.zclient.LaunchActivity" name="wire"/>
 	<item class="com.keylesspalace.tusky.SplashActivity" name="yuito"/>
+	<item class="logos.quiz.companies.game.LogosQuizActivity" name="logo_quiz"/>
 
 </appmap>
