@@ -2,6 +2,8 @@
 <resources>
     <string name="changelog_date">11.04.2023</string>
     <string-array name="changelog">
+        <item>3.0.0.2:</item>
+        <item>Modified Correos, GIF Live Wallpaper, Moto, Ok Transporte Barcelona, Wire, Speedtest by Ookla, Ninja VPN, Barcode Scanner, Anonaddy, Open Camera</item>
         <item>3.0.0.1:</item>
         <item>Added Ameixa Monochrome, AnonAddy, Barcode Scanner, Deutsch, Englisch, Erklär-App, Flappy Bird, GIF Live Wallpaper, LibreTorrent, OpenScan, Oscilloscope, PDF Converter, Proton VPN, React, Seeker, Send Reduced Lite, Signal Generator, Wire, Yuito</item>
         <item>Updated Camera, Lawnchair, NewPipe, Calculator, Recorder</item>
