@@ -3,9 +3,6 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:installLocation="auto">
 
-    <!-- If you are not using donation and premium request, you need to remove BILLING permission -->
-    <uses-permission android:name="com.android.vending.BILLING" />
-
     <supports-screens
         android:smallScreens="true"
         android:normalScreens="true"
