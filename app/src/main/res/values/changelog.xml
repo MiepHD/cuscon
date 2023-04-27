@@ -2,6 +2,8 @@
 <resources>
     <string name="changelog_date">12.04.2023</string>
     <string-array name="changelog">
+        <item>3.0.0.3:</item>
+        <item>Added Today Weather</item>
         <item>3.0.0.2:</item>
         <item>Added Logo quiz, Berlin, BVG Muva, Jelbi, PROFILapp, Tickets</item>
         <item>Modified Correos, GIF Live Wallpaper, Moto, Ok Transporte Barcelona, Wire, Speedtest by Ookla, Ninja VPN, Barcode Scanner, Anonaddy, Open Camera</item>

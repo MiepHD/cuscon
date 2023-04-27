@@ -734,5 +734,6 @@
 	<item component="ComponentInfo{com.trafi.whitelabel.bvg/com.trafi.whitelabel.MainActivity}" drawable="jelbi" />
 	<item component="ComponentInfo{com.eyo.profilapp.android/com.staffbase.capacitor.MainActivity}" drawable="profilapp" />
 	<item component="ComponentInfo{de.bvg.ticket/crc64d2d4cb336c3a6db9.MainActivity}" drawable="tickets" />
+	<item component="ComponentInfo{mobi.lockdown.weather/mobi.lockdown.weather.activity.SplashActivity}" drawable="today_weather" />
 
 </resources>

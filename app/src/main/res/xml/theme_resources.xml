@@ -711,5 +711,6 @@
 	<AppIcon name="com.trafi.whitelabel.bvg/com.trafi.whitelabel.MainActivity" image="jelbi"/>
 	<AppIcon name="com.eyo.profilapp.android/com.staffbase.capacitor.MainActivity" image="profilapp"/>
 	<AppIcon name="de.bvg.ticket/crc64d2d4cb336c3a6db9.MainActivity" image="tickets"/>
+	<AppIcon name="mobi.lockdown.weather/mobi.lockdown.weather.activity.SplashActivity" image="today_weather"/>
 
 </Theme>
