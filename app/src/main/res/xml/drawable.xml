@@ -162,6 +162,8 @@
 	<!-- Smart Switch --><item drawable="smart_switch" />
 	<!-- GIF Live Wallpaper --><item drawable="gif_live_wallpaper" />
 	<!-- Send Reduced Lite --><item drawable="send_reduced_lite" />
+    <!-- Geo Tracker --><item drawable="geo_tracker" />
+	<!-- PC Remote --><item drawable="pc_remote" />
 
     <category title="App Stores" />
     <item drawable="apkpure" />

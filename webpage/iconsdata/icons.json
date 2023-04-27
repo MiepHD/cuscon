@@ -677,5 +677,7 @@
 	{ "title": "Jelbi", "author": "MiepHD", "src": "jelbi", "category": "shops" },
 	{ "title": "PROFILapp", "author": "MiepHD", "src": "profilapp", "category": "information" },
 	{ "title": "Tickets", "author": "MiepHD", "src": "tickets", "category": "shops" },
-	{ "title": "Today Weather", "author": "MiepHD", "src": "today_weather", "category": "news" }
+	{ "title": "Today Weather", "author": "MiepHD", "src": "today_weather", "category": "news" },
+	{ "title": "Geo Tracker", "author": "MiepHD", "src": "geo_tracker", "category": "other" },
+	{ "title": "PC Remote", "author": "MiepHD", "src": "pc_remote", "category": "other" }
 ]

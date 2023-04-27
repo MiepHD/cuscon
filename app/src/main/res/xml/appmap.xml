@@ -703,5 +703,7 @@
 	<item class="com.staffbase.capacitor.MainActivity" name="profilapp"/>
 	<item class="crc64d2d4cb336c3a6db9.MainActivity" name="tickets"/>
 	<item class="mobi.lockdown.weather.activity.SplashActivity" name="today_weather"/>
+	<item class="com.ilyabogdanovich.geotracker.GeoTrackerActivity" name="geo_tracker"/>
+	<item class="com.monect.core.ui.main.MainActivity" name="pc_remote"/>
 
 </appmap>
