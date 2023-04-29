@@ -684,7 +684,7 @@
     <!-- Today Weather --><item drawable="today_weather" />
     <!-- Hyperlocal Meteorológica --><item drawable="hyperlocal_meteorologica" />
 	<!-- Rain Radar --><item drawable="rain_radar" />
-	<!-- Tiempo&​Radar --><item drawable="tiempo_and_​radar" />
+	<!-- Tiempo ​Radar --><item drawable="tiempo_and_radar" />
 	<!-- Weather Radar --><item drawable="weather_radar" />
     <!-- Samsung Free --><item drawable="samsung_free" />
 
