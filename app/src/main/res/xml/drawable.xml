@@ -675,6 +675,7 @@
     <!-- El Temps --><item drawable="el_temps" />
     <!-- Today Weather --><item drawable="today_weather" />
     <!-- Hyperlocal Meteorológica --><item drawable="hyperlocal_meteorologica" />
+	<!-- Rain Radar --><item drawable="rain_radar" />
 	<!-- Tiempo&​Radar --><item drawable="tiempo_and_​radar" />
 	<!-- Weather Radar --><item drawable="weather_radar" />
 

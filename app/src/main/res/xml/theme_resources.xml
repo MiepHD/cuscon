@@ -728,6 +728,7 @@
 	<AppIcon name="com.mojang.minecraftpe/com.mojang.minecraftpe.MainActivity" image="minecraft"/>
 	<AppIcon name="com.sec.penup/com.sec.penup.ui.SplashActivity" image="penup"/>
 	<AppIcon name="com.mcy.cihan.darkskyxweather/com.mcy.cihan.darkskyxweather.SplashActivity" image="hyperlocal_meteorologica"/>
+	<AppIcon name="webfreak.si.rainradar/webfreak.si.rainradar.MainActivity" image="rain_radar"/>
 	<AppIcon name="de.wetteronline.wetterapp/de.wetteronline.wetterapp.MainActivityGoogle" image="tiempo_and_​radar"/>
 	<AppIcon name="weatherradar.livemaps.free/weatherradar.livemaps.free.activities.Splash" image="weather_radar"/>
 
