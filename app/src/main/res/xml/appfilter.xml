@@ -755,5 +755,13 @@
 	<item component="ComponentInfo{de.wetteronline.wetterapp/de.wetteronline.wetterapp.MainActivityGoogle}" drawable="tiempo_and_​radar" />
 	<item component="ComponentInfo{weatherradar.livemaps.free/weatherradar.livemaps.free.activities.Splash}" drawable="weather_radar" />
 	<item component="ComponentInfo{com.dertsizvebugsiz.chartmakerpro/com.dertsizvebugsiz.chartmakerpro.activities.MainActivity}" drawable="diagrammersteller_pro" />
+	<item component="ComponentInfo{com.ction.playergames/com.ction.playergames.RunnerActivity}" drawable="_2_3_4_player_games" />
+	<item component="ComponentInfo{com.samsung.android.bixby.agent/com.samsung.android.bixby.assistanthome.AssistantHomeLauncherActivity}" drawable="bixby" />
+	<item component="ComponentInfo{com.supercell.clashroyale/com.supercell.titan.GameApp}" drawable="clash_royale" />
+	<item component="ComponentInfo{com.CubeCubeSports.Cubic234PlayerGames/com.unity3d.player.UnityPlayerActivity}" drawable="cubic_2_3_4_player_games" />
+	<item component="ComponentInfo{com.MalyaWka.PartyGamesPALS/com.unity3d.player.UnityPlayerActivity}" drawable="party_games" />
+	<item component="ComponentInfo{com.samsung.android.app.spage/com.samsung.android.app.spage.main.LauncherActivity}" drawable="samsung_free" />
+	<item component="ComponentInfo{com.jackboxgames.TJPP5Loader/com.jackboxgames.jbgplayer.MainActivity}" drawable="the_jackbox_party_pack_5" />
+	<item component="ComponentInfo{com.gamepass.samsung/com.gamepass.MainActivity}" drawable="xbox_game_pass" />
 
 </resources>

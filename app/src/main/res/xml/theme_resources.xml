@@ -732,5 +732,13 @@
 	<AppIcon name="de.wetteronline.wetterapp/de.wetteronline.wetterapp.MainActivityGoogle" image="tiempo_and_​radar"/>
 	<AppIcon name="weatherradar.livemaps.free/weatherradar.livemaps.free.activities.Splash" image="weather_radar"/>
 	<AppIcon name="com.dertsizvebugsiz.chartmakerpro/com.dertsizvebugsiz.chartmakerpro.activities.MainActivity" image="diagrammersteller_pro"/>
+	<AppIcon name="com.ction.playergames/com.ction.playergames.RunnerActivity" image="_2_3_4_player_games"/>
+	<AppIcon name="com.samsung.android.bixby.agent/com.samsung.android.bixby.assistanthome.AssistantHomeLauncherActivity" image="bixby"/>
+	<AppIcon name="com.supercell.clashroyale/com.supercell.titan.GameApp" image="clash_royale"/>
+	<AppIcon name="com.CubeCubeSports.Cubic234PlayerGames/com.unity3d.player.UnityPlayerActivity" image="cubic_2_3_4_player_games"/>
+	<AppIcon name="com.MalyaWka.PartyGamesPALS/com.unity3d.player.UnityPlayerActivity" image="party_games"/>
+	<AppIcon name="com.samsung.android.app.spage/com.samsung.android.app.spage.main.LauncherActivity" image="samsung_free"/>
+	<AppIcon name="com.jackboxgames.TJPP5Loader/com.jackboxgames.jbgplayer.MainActivity" image="the_jackbox_party_pack_5"/>
+	<AppIcon name="com.gamepass.samsung/com.gamepass.MainActivity" image="xbox_game_pass"/>
 
 </Theme>

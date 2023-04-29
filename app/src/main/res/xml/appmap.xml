@@ -723,5 +723,13 @@
 	<item class="de.wetteronline.wetterapp.MainActivityGoogle" name="tiempo_and_​radar"/>
 	<item class="weatherradar.livemaps.free.activities.Splash" name="weather_radar"/>
 	<item class="com.dertsizvebugsiz.chartmakerpro.activities.MainActivity" name="diagrammersteller_pro"/>
+	<item class="com.ction.playergames.RunnerActivity" name="_2_3_4_player_games"/>
+	<item class="com.samsung.android.bixby.assistanthome.AssistantHomeLauncherActivity" name="bixby"/>
+	<item class="com.supercell.titan.GameApp" name="clash_royale"/>
+	<item class="com.unity3d.player.UnityPlayerActivity" name="cubic_2_3_4_player_games"/>
+	<item class="com.unity3d.player.UnityPlayerActivity" name="party_games"/>
+	<item class="com.samsung.android.app.spage.main.LauncherActivity" name="samsung_free"/>
+	<item class="com.jackboxgames.jbgplayer.MainActivity" name="the_jackbox_party_pack_5"/>
+	<item class="com.gamepass.MainActivity" name="xbox_game_pass"/>
 
 </appmap>

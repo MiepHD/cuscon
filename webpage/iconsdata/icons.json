@@ -697,5 +697,13 @@
 	{ "title": "Rain Radar", "author": "MiepHD", "src": "rain_radar", "category": "news" },
 	{ "title": "Tiempo&​Radar", "author": "MiepHD", "src": "tiempo_and_​radar", "category": "news" },
 	{ "title": "Weather Radar", "author": "MiepHD", "src": "weather_radar", "category": "news" },
-	{ "title": "Diagrammersteller Pro", "author": "MiepHD", "src": "diagrammersteller_pro", "category": "analyzer" }
+	{ "title": "Diagrammersteller Pro", "author": "MiepHD", "src": "diagrammersteller_pro", "category": "analyzer" },
+	{ "title": "2 3 4 Player Games", "author": "MiepHD", "src": "_2_3_4_player_games", "category": "games" },
+	{ "title": "Bixby", "author": "MiepHD", "src": "bixby", "category": "other" },
+	{ "title": "Clash Royale", "author": "MiepHD", "src": "clash_royale", "category": "games" },
+	{ "title": "Cubic 2 3 4 Player Games", "author": "MiepHD", "src": "cubic_2_3_4_player_games", "category": "games" },
+	{ "title": "Party Games", "author": "MiepHD", "src": "party_games", "category": "games" },
+	{ "title": "Samsung Free", "author": "MiepHD", "src": "samsung_free", "category": "news" },
+	{ "title": "The Jackbox Party Pack 5", "author": "MiepHD", "src": "the_jackbox_party_pack_5", "category": "games" },
+	{ "title": "Xbox Game Pass", "author": "MiepHD", "src": "xbox_game_pass", "category": "games" }
 ]
