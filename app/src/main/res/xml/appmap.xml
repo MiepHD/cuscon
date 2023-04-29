@@ -718,5 +718,8 @@
 	<item class="com.samsung.android.game.gamehome.activity.StartActivity" name="game_launcher"/>
 	<item class="com.mojang.minecraftpe.MainActivity" name="minecraft"/>
 	<item class="com.sec.penup.ui.SplashActivity" name="penup"/>
+	<item class="com.mcy.cihan.darkskyxweather.SplashActivity" name="hyperlocal_meteorologica"/>
+	<item class="de.wetteronline.wetterapp.MainActivityGoogle" name="tiempo_and_​radar"/>
+	<item class="weatherradar.livemaps.free.activities.Splash" name="weather_radar"/>
 
 </appmap>

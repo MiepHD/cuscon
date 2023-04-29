@@ -2,6 +2,8 @@
 <resources>
     <string name="changelog_date">12.04.2023</string>
     <string-array name="changelog">
+        <item>3.0.0.4:</item>
+        <item>Added Hyperlocal Meteorológica, Tiempo Radar, Weather Radar</item>
         <item>3.0.0.3:</item>
         <item>Added Today Weather, Geo Tracker, PC Remote, Galaxy Shop, Lens, Pentastic, PowerPoint, ScreenMirror, The Jackbox Party Pack 1, 3, 4, 7, Force Landscape, Game Launcher, Minecraft, PENUP</item>
         <item>3.0.0.2:</item>

@@ -674,6 +674,9 @@
     <!-- The Weather Channel --><item drawable="the_weather_channel" />
     <!-- El Temps --><item drawable="el_temps" />
     <!-- Today Weather --><item drawable="today_weather" />
+    <!-- Hyperlocal Meteorológica --><item drawable="hyperlocal_meteorologica" />
+	<!-- Tiempo&​Radar --><item drawable="tiempo_and_​radar" />
+	<!-- Weather Radar --><item drawable="weather_radar" />
 
     <category title="Design" />
     <!-- Pocket Paint --><item drawable="pocket_paint" />

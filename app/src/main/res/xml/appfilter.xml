@@ -750,5 +750,8 @@
 	<item component="ComponentInfo{com.samsung.android.game.gamehome/com.samsung.android.game.gamehome.activity.StartActivity}" drawable="game_launcher" />
 	<item component="ComponentInfo{com.mojang.minecraftpe/com.mojang.minecraftpe.MainActivity}" drawable="minecraft" />
 	<item component="ComponentInfo{com.sec.penup/com.sec.penup.ui.SplashActivity}" drawable="penup" />
+	<item component="ComponentInfo{com.mcy.cihan.darkskyxweather/com.mcy.cihan.darkskyxweather.SplashActivity}" drawable="hyperlocal_meteorologica" />
+	<item component="ComponentInfo{de.wetteronline.wetterapp/de.wetteronline.wetterapp.MainActivityGoogle}" drawable="tiempo_and_​radar" />
+	<item component="ComponentInfo{weatherradar.livemaps.free/weatherradar.livemaps.free.activities.Splash}" drawable="weather_radar" />
 
 </resources>

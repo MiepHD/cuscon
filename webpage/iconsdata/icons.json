@@ -692,5 +692,8 @@
 	{ "title": "Force Landscape", "author": "MiepHD", "src": "force_landscape", "category": "tools" },
 	{ "title": "Game Launcher", "author": "MiepHD", "src": "game_launcher", "category": "gaming-experience" },
 	{ "title": "Minecraft", "author": "MiepHD", "src": "minecraft", "category": "games" },
-	{ "title": "PENUP", "author": "MiepHD", "src": "penup", "category": "other" }
+	{ "title": "PENUP", "author": "MiepHD", "src": "penup", "category": "other" },
+	{ "title": "Hyperlocal Meteorológica", "author": "MiepHD", "src": "hyperlocal_meteorologica", "category": "news" },
+	{ "title": "Tiempo&​Radar", "author": "MiepHD", "src": "tiempo_and_​radar", "category": "news" },
+	{ "title": "Weather Radar", "author": "MiepHD", "src": "weather_radar", "category": "news" }
 ]
