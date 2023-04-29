@@ -737,5 +737,14 @@
 	<item component="ComponentInfo{mobi.lockdown.weather/mobi.lockdown.weather.activity.SplashActivity}" drawable="today_weather" />
 	<item component="ComponentInfo{com.ilyabogdanovich.geotracker/com.ilyabogdanovich.geotracker.GeoTrackerActivity}" drawable="geo_tracker" />
 	<item component="ComponentInfo{com.monect.portable/com.monect.core.ui.main.MainActivity}" drawable="pc_remote" />
+	<item component="ComponentInfo{com.samsung.android.galaxy/com.samsung.android.galaxy.MainActivity}" drawable="galaxy_shop" />
+	<item component="ComponentInfo{com.microsoft.office.officelens/com.microsoft.office.officelens.MainActivity}" drawable="lens" />
+	<item component="ComponentInfo{com.samsung.android.pentastic/com.samsung.android.pentastic.settings.SettingsActivity}" drawable="pentastic" />
+	<item component="ComponentInfo{com.microsoft.office.powerpoint/com.microsoft.office.apphost.LaunchActivity}" drawable="powerpoint" />
+	<item component="ComponentInfo{com.screen.mirroring.tv.cast.remote/com.screen.mirroring.tv.cast.remote.page.pageSplash.SplashActivity}" drawable="screenmirror" />
+	<item component="ComponentInfo{com.jackboxgames.JackboxPartyLoaderFull/com.jackboxgames.jbgplayer.MainActivity}" drawable="the_jackbox_party_pack" />
+	<item component="ComponentInfo{com.jackboxgames.TJPP3Loader/com.jackboxgames.jbgplayer.MainActivity}" drawable="the_jackbox_party_pack_3" />
+	<item component="ComponentInfo{com.jackboxgames.TJPP4Loader/com.jackboxgames.jbgplayer.MainActivity}" drawable="the_jackbox_party_pack_4" />
+	<item component="ComponentInfo{com.jackboxgames.TJPP7Loader/com.jackboxgames.jbgplayer.MainActivity}" drawable="the_jackbox_party_pack_7" />
 
 </resources>

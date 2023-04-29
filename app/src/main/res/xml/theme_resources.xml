@@ -714,5 +714,14 @@
 	<AppIcon name="mobi.lockdown.weather/mobi.lockdown.weather.activity.SplashActivity" image="today_weather"/>
 	<AppIcon name="com.ilyabogdanovich.geotracker/com.ilyabogdanovich.geotracker.GeoTrackerActivity" image="geo_tracker"/>
 	<AppIcon name="com.monect.portable/com.monect.core.ui.main.MainActivity" image="pc_remote"/>
+	<AppIcon name="com.samsung.android.galaxy/com.samsung.android.galaxy.MainActivity" image="galaxy_shop"/>
+	<AppIcon name="com.microsoft.office.officelens/com.microsoft.office.officelens.MainActivity" image="lens"/>
+	<AppIcon name="com.samsung.android.pentastic/com.samsung.android.pentastic.settings.SettingsActivity" image="pentastic"/>
+	<AppIcon name="com.microsoft.office.powerpoint/com.microsoft.office.apphost.LaunchActivity" image="powerpoint"/>
+	<AppIcon name="com.screen.mirroring.tv.cast.remote/com.screen.mirroring.tv.cast.remote.page.pageSplash.SplashActivity" image="screenmirror"/>
+	<AppIcon name="com.jackboxgames.JackboxPartyLoaderFull/com.jackboxgames.jbgplayer.MainActivity" image="the_jackbox_party_pack"/>
+	<AppIcon name="com.jackboxgames.TJPP3Loader/com.jackboxgames.jbgplayer.MainActivity" image="the_jackbox_party_pack_3"/>
+	<AppIcon name="com.jackboxgames.TJPP4Loader/com.jackboxgames.jbgplayer.MainActivity" image="the_jackbox_party_pack_4"/>
+	<AppIcon name="com.jackboxgames.TJPP7Loader/com.jackboxgames.jbgplayer.MainActivity" image="the_jackbox_party_pack_7"/>
 
 </Theme>

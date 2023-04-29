@@ -679,5 +679,14 @@
 	{ "title": "Tickets", "author": "MiepHD", "src": "tickets", "category": "shops" },
 	{ "title": "Today Weather", "author": "MiepHD", "src": "today_weather", "category": "news" },
 	{ "title": "Geo Tracker", "author": "MiepHD", "src": "geo_tracker", "category": "other" },
-	{ "title": "PC Remote", "author": "MiepHD", "src": "pc_remote", "category": "other" }
+	{ "title": "PC Remote", "author": "MiepHD", "src": "pc_remote", "category": "other" },
+	{ "title": "Galaxy Shop", "author": "MiepHD", "src": "galaxy_shop", "category": "other" },
+	{ "title": "Lens", "author": "MiepHD", "src": "lens", "category": "documents" },
+	{ "title": "Pentastic", "author": "MiepHD", "src": "pentastic", "category": "other" },
+	{ "title": "PowerPoint", "author": "MiepHD", "src": "powerpoint", "category": "documents" },
+	{ "title": "ScreenMirror", "author": "MiepHD", "src": "screenmirror", "category": "tools" },
+	{ "title": "The Jackbox Party Pack", "author": "MiepHD", "src": "the_jackbox_party_pack", "category": "games" },
+	{ "title": "The Jackbox Party Pack 3", "author": "MiepHD", "src": "the_jackbox_party_pack_3", "category": "games" },
+    { "title": "The Jackbox Party Pack 4", "author": "MiepHD", "src": "the_jackbox_party_pack_4", "category": "games" },
+	{ "title": "The Jackbox Party Pack 7", "author": "MiepHD", "src": "the_jackbox_party_pack_7", "category": "games" }
 ]

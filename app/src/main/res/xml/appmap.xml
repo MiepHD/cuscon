@@ -705,5 +705,14 @@
 	<item class="mobi.lockdown.weather.activity.SplashActivity" name="today_weather"/>
 	<item class="com.ilyabogdanovich.geotracker.GeoTrackerActivity" name="geo_tracker"/>
 	<item class="com.monect.core.ui.main.MainActivity" name="pc_remote"/>
+	<item class="com.samsung.android.galaxy.MainActivity" name="galaxy_shop"/>
+	<item class="com.microsoft.office.officelens.MainActivity" name="lens"/>
+	<item class="com.samsung.android.pentastic.settings.SettingsActivity" name="pentastic"/>
+	<item class="com.microsoft.office.apphost.LaunchActivity" name="powerpoint"/>
+	<item class="com.jackboxgames.jbgplayer.MainActivity" name="the_jackbox_party_pack_7"/>
+	<item class="com.screen.mirroring.tv.cast.remote.page.pageSplash.SplashActivity" name="screenmirror"/>
+	<item class="com.jackboxgames.jbgplayer.MainActivity" name="the_jackbox_party_pack"/>
+	<item class="com.jackboxgames.jbgplayer.MainActivity" name="the_jackbox_party_pack_3"/>
+	<item class="com.jackboxgames.jbgplayer.MainActivity" name="the_jackbox_party_pack_4"/>
 
 </appmap>

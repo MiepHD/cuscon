@@ -164,6 +164,8 @@
 	<!-- Send Reduced Lite --><item drawable="send_reduced_lite" />
     <!-- Geo Tracker --><item drawable="geo_tracker" />
 	<!-- PC Remote --><item drawable="pc_remote" />
+    <!-- Galaxy Shop --><item drawable="galaxy_shop" />
+	<!-- Pentastic --><item drawable="pentastic" />
 
     <category title="App Stores" />
     <item drawable="apkpure" />
@@ -314,6 +316,10 @@
     <!-- Flappy Bird --><item drawable="flappy_bird" />
     <!-- React --><item drawable="react" />
     <!-- Logo quiz --><item drawable="logo_quiz" />
+    <!-- The Jackbox Party Pack --><item drawable="the_jackbox_party_pack" />
+	<!-- The Jackbox Party Pack 3 --><item drawable="the_jackbox_party_pack_3" />
+    <!-- The Jackbox Party Pack 4 --><item drawable="the_jackbox_party_pack_4" />
+	<!-- The Jackbox Party Pack 7 --><item drawable="the_jackbox_party_pack_7" />
 
     <category title="Gaming Experience" />
     <!-- Moto Gametime--><item drawable="moto_gametime" />
@@ -442,6 +448,7 @@
     <!-- Ask AI --><item drawable="ask_ai" />
     <!-- Oscilloscope --><item drawable="oscilloscope" />
     <!-- Signal Generator --><item drawable="signal_generator" />
+    <!-- ScreenMirror --><item drawable="screenmirror" />
 
     <category title="Calculators" />
     <item drawable="samsung_calculator" />
@@ -520,6 +527,8 @@
     <!-- Standard Notes --><item drawable="standard_notes" />
     <!-- Editor --><item drawable="editor" />
     <!-- PDF Converter --><item drawable="pdf_converter" />
+    <!-- Lens --><item drawable="lens" />
+    <!-- PowerPoint --><item drawable="powerpoint" />
 
     <category title="VPN" />
     <!-- Adguard --><item drawable="adguard" />
