@@ -688,5 +688,9 @@
 	{ "title": "The Jackbox Party Pack", "author": "MiepHD", "src": "the_jackbox_party_pack", "category": "games" },
 	{ "title": "The Jackbox Party Pack 3", "author": "MiepHD", "src": "the_jackbox_party_pack_3", "category": "games" },
     { "title": "The Jackbox Party Pack 4", "author": "MiepHD", "src": "the_jackbox_party_pack_4", "category": "games" },
-	{ "title": "The Jackbox Party Pack 7", "author": "MiepHD", "src": "the_jackbox_party_pack_7", "category": "games" }
+	{ "title": "The Jackbox Party Pack 7", "author": "MiepHD", "src": "the_jackbox_party_pack_7", "category": "games" },
+	{ "title": "Force Landscape", "author": "MiepHD", "src": "force_landscape", "category": "tools" },
+	{ "title": "Game Launcher", "author": "MiepHD", "src": "game_launcher", "category": "gaming-experience" },
+	{ "title": "Minecraft", "author": "MiepHD", "src": "minecraft", "category": "games" },
+	{ "title": "PENUP", "author": "MiepHD", "src": "penup", "category": "other" }
 ]

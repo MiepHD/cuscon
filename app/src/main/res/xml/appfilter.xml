@@ -746,5 +746,9 @@
 	<item component="ComponentInfo{com.jackboxgames.TJPP3Loader/com.jackboxgames.jbgplayer.MainActivity}" drawable="the_jackbox_party_pack_3" />
 	<item component="ComponentInfo{com.jackboxgames.TJPP4Loader/com.jackboxgames.jbgplayer.MainActivity}" drawable="the_jackbox_party_pack_4" />
 	<item component="ComponentInfo{com.jackboxgames.TJPP7Loader/com.jackboxgames.jbgplayer.MainActivity}" drawable="the_jackbox_party_pack_7" />
+	<item component="ComponentInfo{p4nd4.forcelandscape/p4nd4.forcelandscape.Setup}" drawable="force_landscape" />
+	<item component="ComponentInfo{com.samsung.android.game.gamehome/com.samsung.android.game.gamehome.activity.StartActivity}" drawable="game_launcher" />
+	<item component="ComponentInfo{com.mojang.minecraftpe/com.mojang.minecraftpe.MainActivity}" drawable="minecraft" />
+	<item component="ComponentInfo{com.sec.penup/com.sec.penup.ui.SplashActivity}" drawable="penup" />
 
 </resources>

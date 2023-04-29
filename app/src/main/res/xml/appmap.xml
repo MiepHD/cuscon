@@ -714,5 +714,9 @@
 	<item class="com.jackboxgames.jbgplayer.MainActivity" name="the_jackbox_party_pack"/>
 	<item class="com.jackboxgames.jbgplayer.MainActivity" name="the_jackbox_party_pack_3"/>
 	<item class="com.jackboxgames.jbgplayer.MainActivity" name="the_jackbox_party_pack_4"/>
+	<item class="p4nd4.forcelandscape.Setup" name="force_landscape"/>
+	<item class="com.samsung.android.game.gamehome.activity.StartActivity" name="game_launcher"/>
+	<item class="com.mojang.minecraftpe.MainActivity" name="minecraft"/>
+	<item class="com.sec.penup.ui.SplashActivity" name="penup"/>
 
 </appmap>

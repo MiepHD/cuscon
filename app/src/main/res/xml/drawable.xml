@@ -166,6 +166,7 @@
 	<!-- PC Remote --><item drawable="pc_remote" />
     <!-- Galaxy Shop --><item drawable="galaxy_shop" />
 	<!-- Pentastic --><item drawable="pentastic" />
+	<!-- PENUP --><item drawable="penup" />
 
     <category title="App Stores" />
     <item drawable="apkpure" />
@@ -320,12 +321,14 @@
 	<!-- The Jackbox Party Pack 3 --><item drawable="the_jackbox_party_pack_3" />
     <!-- The Jackbox Party Pack 4 --><item drawable="the_jackbox_party_pack_4" />
 	<!-- The Jackbox Party Pack 7 --><item drawable="the_jackbox_party_pack_7" />
+    <!-- Minecraft --><item drawable="minecraft" />
 
     <category title="Gaming Experience" />
     <!-- Moto Gametime--><item drawable="moto_gametime" />
     <!-- MiraPlug --><item drawable="miraplug" />
     <!-- AirConsole --><item drawable="airconsole" />
     <!-- Erklär-App --><item drawable="erklar_app" />
+    <!-- Game Launcher --><item drawable="game_launcher" />
 
     <category title="Emulators" />
     <!-- Termux --><item drawable="termux" />
@@ -449,6 +452,7 @@
     <!-- Oscilloscope --><item drawable="oscilloscope" />
     <!-- Signal Generator --><item drawable="signal_generator" />
     <!-- ScreenMirror --><item drawable="screenmirror" />
+    <!-- Force Landscape --><item drawable="force_landscape" />
 
     <category title="Calculators" />
     <item drawable="samsung_calculator" />

@@ -723,5 +723,9 @@
 	<AppIcon name="com.jackboxgames.TJPP3Loader/com.jackboxgames.jbgplayer.MainActivity" image="the_jackbox_party_pack_3"/>
 	<AppIcon name="com.jackboxgames.TJPP4Loader/com.jackboxgames.jbgplayer.MainActivity" image="the_jackbox_party_pack_4"/>
 	<AppIcon name="com.jackboxgames.TJPP7Loader/com.jackboxgames.jbgplayer.MainActivity" image="the_jackbox_party_pack_7"/>
+	<AppIcon name="p4nd4.forcelandscape/p4nd4.forcelandscape.Setup" image="force_landscape"/>
+	<AppIcon name="com.samsung.android.game.gamehome/com.samsung.android.game.gamehome.activity.StartActivity" image="game_launcher"/>
+	<AppIcon name="com.mojang.minecraftpe/com.mojang.minecraftpe.MainActivity" image="minecraft"/>
+	<AppIcon name="com.sec.penup/com.sec.penup.ui.SplashActivity" image="penup"/>
 
 </Theme>
