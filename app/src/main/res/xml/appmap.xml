@@ -722,5 +722,6 @@
 	<item class="webfreak.si.rainradar.MainActivity" name="rain_radar"/>
 	<item class="de.wetteronline.wetterapp.MainActivityGoogle" name="tiempo_and_​radar"/>
 	<item class="weatherradar.livemaps.free.activities.Splash" name="weather_radar"/>
+	<item class="com.dertsizvebugsiz.chartmakerpro.activities.MainActivity" name="diagrammersteller_pro"/>
 
 </appmap>

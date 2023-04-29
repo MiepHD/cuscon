@@ -696,5 +696,6 @@
 	{ "title": "Hyperlocal Meteorológica", "author": "MiepHD", "src": "hyperlocal_meteorologica", "category": "news" },
 	{ "title": "Rain Radar", "author": "MiepHD", "src": "rain_radar", "category": "news" },
 	{ "title": "Tiempo&​Radar", "author": "MiepHD", "src": "tiempo_and_​radar", "category": "news" },
-	{ "title": "Weather Radar", "author": "MiepHD", "src": "weather_radar", "category": "news" }
+	{ "title": "Weather Radar", "author": "MiepHD", "src": "weather_radar", "category": "news" },
+	{ "title": "Diagrammersteller Pro", "author": "MiepHD", "src": "diagrammersteller_pro", "category": "analyzer" }
 ]
