@@ -705,5 +705,6 @@
 	{ "title": "Party Games", "author": "MiepHD", "src": "party_games", "category": "games" },
 	{ "title": "Samsung Free", "author": "MiepHD", "src": "samsung_free", "category": "news" },
 	{ "title": "The Jackbox Party Pack 5", "author": "MiepHD", "src": "the_jackbox_party_pack_5", "category": "games" },
-	{ "title": "Xbox Game Pass", "author": "MiepHD", "src": "xbox_game_pass", "category": "games" }
+	{ "title": "Xbox Game Pass", "author": "MiepHD", "src": "xbox_game_pass", "category": "games" },
+	{ "title": "Play Console", "author": "MiepHD", "src": "play_console", "category": "other" }
 ]
