@@ -740,5 +740,6 @@
 	<AppIcon name="com.samsung.android.app.spage/com.samsung.android.app.spage.main.LauncherActivity" image="samsung_free"/>
 	<AppIcon name="com.jackboxgames.TJPP5Loader/com.jackboxgames.jbgplayer.MainActivity" image="the_jackbox_party_pack_5"/>
 	<AppIcon name="com.gamepass.samsung/com.gamepass.MainActivity" image="xbox_game_pass"/>
+	<AppIcon name="com.google.android.apps.playconsole/com.google.android.apps.playconsole.activity.MainAndroidActivity" image="play_console"/>
 
 </Theme>
