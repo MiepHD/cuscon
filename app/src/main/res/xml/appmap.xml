@@ -731,5 +731,5 @@
 	<item class="com.samsung.android.app.spage.main.LauncherActivity" name="samsung_free"/>
 	<item class="com.jackboxgames.jbgplayer.MainActivity" name="the_jackbox_party_pack_5"/>
 	<item class="com.gamepass.MainActivity" name="xbox_game_pass"/>
-
+	<item class="com.google.android.apps.playconsole.activity.MainAndroidActivity" name="play_console"/>
 </appmap>
