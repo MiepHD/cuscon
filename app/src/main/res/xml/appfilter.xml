@@ -763,5 +763,6 @@
 	<item component="ComponentInfo{com.samsung.android.app.spage/com.samsung.android.app.spage.main.LauncherActivity}" drawable="samsung_free" />
 	<item component="ComponentInfo{com.jackboxgames.TJPP5Loader/com.jackboxgames.jbgplayer.MainActivity}" drawable="the_jackbox_party_pack_5" />
 	<item component="ComponentInfo{com.gamepass.samsung/com.gamepass.MainActivity}" drawable="xbox_game_pass" />
+	<item component="ComponentInfo{com.google.android.apps.playconsole/com.google.android.apps.playconsole.activity.MainAndroidActivity}" drawable="play_console" />
 
 </resources>
