@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="changelog_date">29.04.2023</string>
+    <string name="changelog_date">04.05.2023</string>
     <string-array name="changelog">
+        <item>3.0.0.5:</item>
+        <item>Fixed Tiempo Radar</item>
+        <item>Added Play Console</item>
         <item>3.0.0.4:</item>
         <item>Added Hyperlocal Meteorológica, Rain Radar, Tiempo Radar, Weather Radar, Diagrammersteller Pro, 2 3 4 Player Games, Bixby, Clash Royale, Cubic 2 3 4 Player Games, Party Games, Samsung Free, The Jackbox Party Pack 5, Xbox Game Pass</item>
         <item>3.0.0.3:</item>
