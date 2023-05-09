@@ -741,5 +741,9 @@
 	<AppIcon name="com.jackboxgames.TJPP5Loader/com.jackboxgames.jbgplayer.MainActivity" image="the_jackbox_party_pack_5"/>
 	<AppIcon name="com.gamepass.samsung/com.gamepass.MainActivity" image="xbox_game_pass"/>
 	<AppIcon name="com.google.android.apps.playconsole/com.google.android.apps.playconsole.activity.MainAndroidActivity" image="play_console"/>
+	<AppIcon name="com.elconfidencial.rss/com.elconfidencial.start.StartActivity" image="el_confidencial"/>
+	<AppIcon name="com.grupozeta.elperiodico/com.grupozeta.epe.MainActivity" image="elperiodico"/>
+	<AppIcon name="com.exovoid.weather.app/com.exovoid.weather.app.MainActivity" image="tiempo_xl"/>
+	<AppIcon name="weather.radar.live/coocent.app.weather.weather_14.MainActivity" image="weasce_clima"/>
 
 </Theme>

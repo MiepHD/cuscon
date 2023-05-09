@@ -732,4 +732,9 @@
 	<item class="com.jackboxgames.jbgplayer.MainActivity" name="the_jackbox_party_pack_5"/>
 	<item class="com.gamepass.MainActivity" name="xbox_game_pass"/>
 	<item class="com.google.android.apps.playconsole.activity.MainAndroidActivity" name="play_console"/>
+	<item class="com.elconfidencial.start.StartActivity" name="el_confidencial"/>
+	<item class="com.grupozeta.epe.MainActivity" name="elperiodico"/>
+	<item class="com.exovoid.weather.app.MainActivity" name="tiempo_xl"/>
+	<item class="coocent.app.weather.weather_14.MainActivity" name="weasce_clima"/>
+
 </appmap>

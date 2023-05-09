@@ -168,6 +168,8 @@
 	<!-- Pentastic --><item drawable="pentastic" />
 	<!-- PENUP --><item drawable="penup" />
 	<!-- Bixby --><item drawable="bixby" />
+    <!-- El Confidencial --><item drawable="el_confidencial" />
+	<!-- elPeriodico --><item drawable="elperiodico" />
 
     <category title="App Stores" />
     <item drawable="apkpure" />
@@ -687,6 +689,8 @@
 	<!-- Tiempo ​Radar --><item drawable="tiempo_and_radar" />
 	<!-- Weather Radar --><item drawable="weather_radar" />
     <!-- Samsung Free --><item drawable="samsung_free" />
+    <!-- Tiempo XL --><item drawable="tiempo_xl" />
+	<!-- WeaSce Clima --><item drawable="weasce_clima" />
 
     <category title="Design" />
     <!-- Pocket Paint --><item drawable="pocket_paint" />
