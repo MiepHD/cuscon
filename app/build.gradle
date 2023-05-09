@@ -34,4 +34,4 @@ android {
     namespace 'com.froxot.cuscon'
 }
 
-dependencies { implementation 'com.github.MiepHD:candybar:1.0' }
+dependencies { implementation 'com.github.miephd:candybar:v1.0' }
