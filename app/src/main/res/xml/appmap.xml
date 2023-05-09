@@ -702,5 +702,34 @@
 	<item class="com.trafi.whitelabel.MainActivity" name="jelbi"/>
 	<item class="com.staffbase.capacitor.MainActivity" name="profilapp"/>
 	<item class="crc64d2d4cb336c3a6db9.MainActivity" name="tickets"/>
-
+	<item class="mobi.lockdown.weather.activity.SplashActivity" name="today_weather"/>
+	<item class="com.ilyabogdanovich.geotracker.GeoTrackerActivity" name="geo_tracker"/>
+	<item class="com.monect.core.ui.main.MainActivity" name="pc_remote"/>
+	<item class="com.samsung.android.galaxy.MainActivity" name="galaxy_shop"/>
+	<item class="com.microsoft.office.officelens.MainActivity" name="lens"/>
+	<item class="com.samsung.android.pentastic.settings.SettingsActivity" name="pentastic"/>
+	<item class="com.microsoft.office.apphost.LaunchActivity" name="powerpoint"/>
+	<item class="com.jackboxgames.jbgplayer.MainActivity" name="the_jackbox_party_pack_7"/>
+	<item class="com.screen.mirroring.tv.cast.remote.page.pageSplash.SplashActivity" name="screenmirror"/>
+	<item class="com.jackboxgames.jbgplayer.MainActivity" name="the_jackbox_party_pack"/>
+	<item class="com.jackboxgames.jbgplayer.MainActivity" name="the_jackbox_party_pack_3"/>
+	<item class="com.jackboxgames.jbgplayer.MainActivity" name="the_jackbox_party_pack_4"/>
+	<item class="p4nd4.forcelandscape.Setup" name="force_landscape"/>
+	<item class="com.samsung.android.game.gamehome.activity.StartActivity" name="game_launcher"/>
+	<item class="com.mojang.minecraftpe.MainActivity" name="minecraft"/>
+	<item class="com.sec.penup.ui.SplashActivity" name="penup"/>
+	<item class="com.mcy.cihan.darkskyxweather.SplashActivity" name="hyperlocal_meteorologica"/>
+	<item class="webfreak.si.rainradar.MainActivity" name="rain_radar"/>
+	<item class="de.wetteronline.wetterapp.MainActivityGoogle" name="tiempo_and_​radar"/>
+	<item class="weatherradar.livemaps.free.activities.Splash" name="weather_radar"/>
+	<item class="com.dertsizvebugsiz.chartmakerpro.activities.MainActivity" name="diagrammersteller_pro"/>
+	<item class="com.ction.playergames.RunnerActivity" name="_2_3_4_player_games"/>
+	<item class="com.samsung.android.bixby.assistanthome.AssistantHomeLauncherActivity" name="bixby"/>
+	<item class="com.supercell.titan.GameApp" name="clash_royale"/>
+	<item class="com.unity3d.player.UnityPlayerActivity" name="cubic_2_3_4_player_games"/>
+	<item class="com.unity3d.player.UnityPlayerActivity" name="party_games"/>
+	<item class="com.samsung.android.app.spage.main.LauncherActivity" name="samsung_free"/>
+	<item class="com.jackboxgames.jbgplayer.MainActivity" name="the_jackbox_party_pack_5"/>
+	<item class="com.gamepass.MainActivity" name="xbox_game_pass"/>
+	<item class="com.google.android.apps.playconsole.activity.MainAndroidActivity" name="play_console"/>
 </appmap>
