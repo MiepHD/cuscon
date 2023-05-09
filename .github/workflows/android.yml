@@ -3,7 +3,7 @@ name: Android CI
 on:
   workflow_dispatch: 
   release:
-      - created
+    types: [created]
 
 jobs:
   build:
