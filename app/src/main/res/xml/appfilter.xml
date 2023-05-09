@@ -734,35 +734,5 @@
 	<item component="ComponentInfo{com.trafi.whitelabel.bvg/com.trafi.whitelabel.MainActivity}" drawable="jelbi" />
 	<item component="ComponentInfo{com.eyo.profilapp.android/com.staffbase.capacitor.MainActivity}" drawable="profilapp" />
 	<item component="ComponentInfo{de.bvg.ticket/crc64d2d4cb336c3a6db9.MainActivity}" drawable="tickets" />
-	<item component="ComponentInfo{mobi.lockdown.weather/mobi.lockdown.weather.activity.SplashActivity}" drawable="today_weather" />
-	<item component="ComponentInfo{com.ilyabogdanovich.geotracker/com.ilyabogdanovich.geotracker.GeoTrackerActivity}" drawable="geo_tracker" />
-	<item component="ComponentInfo{com.monect.portable/com.monect.core.ui.main.MainActivity}" drawable="pc_remote" />
-	<item component="ComponentInfo{com.samsung.android.galaxy/com.samsung.android.galaxy.MainActivity}" drawable="galaxy_shop" />
-	<item component="ComponentInfo{com.microsoft.office.officelens/com.microsoft.office.officelens.MainActivity}" drawable="lens" />
-	<item component="ComponentInfo{com.samsung.android.pentastic/com.samsung.android.pentastic.settings.SettingsActivity}" drawable="pentastic" />
-	<item component="ComponentInfo{com.microsoft.office.powerpoint/com.microsoft.office.apphost.LaunchActivity}" drawable="powerpoint" />
-	<item component="ComponentInfo{com.screen.mirroring.tv.cast.remote/com.screen.mirroring.tv.cast.remote.page.pageSplash.SplashActivity}" drawable="screenmirror" />
-	<item component="ComponentInfo{com.jackboxgames.JackboxPartyLoaderFull/com.jackboxgames.jbgplayer.MainActivity}" drawable="the_jackbox_party_pack" />
-	<item component="ComponentInfo{com.jackboxgames.TJPP3Loader/com.jackboxgames.jbgplayer.MainActivity}" drawable="the_jackbox_party_pack_3" />
-	<item component="ComponentInfo{com.jackboxgames.TJPP4Loader/com.jackboxgames.jbgplayer.MainActivity}" drawable="the_jackbox_party_pack_4" />
-	<item component="ComponentInfo{com.jackboxgames.TJPP7Loader/com.jackboxgames.jbgplayer.MainActivity}" drawable="the_jackbox_party_pack_7" />
-	<item component="ComponentInfo{p4nd4.forcelandscape/p4nd4.forcelandscape.Setup}" drawable="force_landscape" />
-	<item component="ComponentInfo{com.samsung.android.game.gamehome/com.samsung.android.game.gamehome.activity.StartActivity}" drawable="game_launcher" />
-	<item component="ComponentInfo{com.mojang.minecraftpe/com.mojang.minecraftpe.MainActivity}" drawable="minecraft" />
-	<item component="ComponentInfo{com.sec.penup/com.sec.penup.ui.SplashActivity}" drawable="penup" />
-	<item component="ComponentInfo{com.mcy.cihan.darkskyxweather/com.mcy.cihan.darkskyxweather.SplashActivity}" drawable="hyperlocal_meteorologica" />
-	<item component="ComponentInfo{webfreak.si.rainradar/webfreak.si.rainradar.MainActivity}" drawable="rain_radar" />
-	<item component="ComponentInfo{de.wetteronline.wetterapp/de.wetteronline.wetterapp.MainActivityGoogle}" drawable="tiempo_and_radar" />
-	<item component="ComponentInfo{weatherradar.livemaps.free/weatherradar.livemaps.free.activities.Splash}" drawable="weather_radar" />
-	<item component="ComponentInfo{com.dertsizvebugsiz.chartmakerpro/com.dertsizvebugsiz.chartmakerpro.activities.MainActivity}" drawable="diagrammersteller_pro" />
-	<item component="ComponentInfo{com.ction.playergames/com.ction.playergames.RunnerActivity}" drawable="_2_3_4_player_games" />
-	<item component="ComponentInfo{com.samsung.android.bixby.agent/com.samsung.android.bixby.assistanthome.AssistantHomeLauncherActivity}" drawable="bixby" />
-	<item component="ComponentInfo{com.supercell.clashroyale/com.supercell.titan.GameApp}" drawable="clash_royale" />
-	<item component="ComponentInfo{com.CubeCubeSports.Cubic234PlayerGames/com.unity3d.player.UnityPlayerActivity}" drawable="cubic_2_3_4_player_games" />
-	<item component="ComponentInfo{com.MalyaWka.PartyGamesPALS/com.unity3d.player.UnityPlayerActivity}" drawable="party_games" />
-	<item component="ComponentInfo{com.samsung.android.app.spage/com.samsung.android.app.spage.main.LauncherActivity}" drawable="samsung_free" />
-	<item component="ComponentInfo{com.jackboxgames.TJPP5Loader/com.jackboxgames.jbgplayer.MainActivity}" drawable="the_jackbox_party_pack_5" />
-	<item component="ComponentInfo{com.gamepass.samsung/com.gamepass.MainActivity}" drawable="xbox_game_pass" />
-	<item component="ComponentInfo{com.google.android.apps.playconsole/com.google.android.apps.playconsole.activity.MainAndroidActivity}" drawable="play_console" />
 
 </resources>

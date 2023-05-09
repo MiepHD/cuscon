@@ -162,12 +162,6 @@
 	<!-- Smart Switch --><item drawable="smart_switch" />
 	<!-- GIF Live Wallpaper --><item drawable="gif_live_wallpaper" />
 	<!-- Send Reduced Lite --><item drawable="send_reduced_lite" />
-    <!-- Geo Tracker --><item drawable="geo_tracker" />
-	<!-- PC Remote --><item drawable="pc_remote" />
-    <!-- Galaxy Shop --><item drawable="galaxy_shop" />
-	<!-- Pentastic --><item drawable="pentastic" />
-	<!-- PENUP --><item drawable="penup" />
-	<!-- Bixby --><item drawable="bixby" />
 
     <category title="App Stores" />
     <item drawable="apkpure" />
@@ -318,24 +312,12 @@
     <!-- Flappy Bird --><item drawable="flappy_bird" />
     <!-- React --><item drawable="react" />
     <!-- Logo quiz --><item drawable="logo_quiz" />
-    <!-- The Jackbox Party Pack --><item drawable="the_jackbox_party_pack" />
-	<!-- The Jackbox Party Pack 3 --><item drawable="the_jackbox_party_pack_3" />
-    <!-- The Jackbox Party Pack 4 --><item drawable="the_jackbox_party_pack_4" />
-	<!-- The Jackbox Party Pack 7 --><item drawable="the_jackbox_party_pack_7" />
-    <!-- Minecraft --><item drawable="minecraft" />
-    <!-- 2 3 4 Player Games --><item drawable="_2_3_4_player_games" />
-    <!-- Clash Royale --><item drawable="clash_royale" />
-	<!-- Cubic 2 3 4 Player Games --><item drawable="cubic_2_3_4_player_games" />
-	<!-- Party Games --><item drawable="party_games" />
-    <!-- The Jackbox Party Pack 5 --><item drawable="the_jackbox_party_pack_5" />
-	<!-- Xbox Game Pass --><item drawable="xbox_game_pass" />
 
     <category title="Gaming Experience" />
     <!-- Moto Gametime--><item drawable="moto_gametime" />
     <!-- MiraPlug --><item drawable="miraplug" />
     <!-- AirConsole --><item drawable="airconsole" />
     <!-- Erklär-App --><item drawable="erklar_app" />
-    <!-- Game Launcher --><item drawable="game_launcher" />
 
     <category title="Emulators" />
     <!-- Termux --><item drawable="termux" />
@@ -458,8 +440,6 @@
     <!-- Ask AI --><item drawable="ask_ai" />
     <!-- Oscilloscope --><item drawable="oscilloscope" />
     <!-- Signal Generator --><item drawable="signal_generator" />
-    <!-- ScreenMirror --><item drawable="screenmirror" />
-    <!-- Force Landscape --><item drawable="force_landscape" />
 
     <category title="Calculators" />
     <item drawable="samsung_calculator" />
@@ -504,7 +484,7 @@
     <!-- Network Signal Info --><item drawable="network_signal_info" />
 	<!-- WiFi Signal Meter --><item drawable="wifi_signal_meter" />
     <!-- UniFi Network --><item drawable="unifi_network" />
-    <!-- Diagrammersteller Pro --><item drawable="diagrammersteller_pro" />
+    <!-- Color Grab --><item drawable="color_grab" />
 
     <category title="Internet of Things" />
     <item drawable="smart_things" />
@@ -538,8 +518,6 @@
     <!-- Standard Notes --><item drawable="standard_notes" />
     <!-- Editor --><item drawable="editor" />
     <!-- PDF Converter --><item drawable="pdf_converter" />
-    <!-- Lens --><item drawable="lens" />
-    <!-- PowerPoint --><item drawable="powerpoint" />
 
     <category title="VPN" />
     <!-- Adguard --><item drawable="adguard" />
@@ -569,7 +547,6 @@
     <!-- PhotoScan by Google Photos --><item drawable="google_photoscan" />
     <!-- Barcode Scanner --><item drawable="barcode_scanner" />
     <!-- OpenScan --><item drawable="openscan" />
-    <!-- Color Grab --><item drawable="color_grab" />
 
     <category title="Maps" />
     <!-- Google Maps --><item drawable="google_maps" />
@@ -681,12 +658,6 @@
     <!-- Tiempo --><item drawable="tiempo" />
     <!-- The Weather Channel --><item drawable="the_weather_channel" />
     <!-- El Temps --><item drawable="el_temps" />
-    <!-- Today Weather --><item drawable="today_weather" />
-    <!-- Hyperlocal Meteorológica --><item drawable="hyperlocal_meteorologica" />
-	<!-- Rain Radar --><item drawable="rain_radar" />
-	<!-- Tiempo ​Radar --><item drawable="tiempo_and_radar" />
-	<!-- Weather Radar --><item drawable="weather_radar" />
-    <!-- Samsung Free --><item drawable="samsung_free" />
 
     <category title="Design" />
     <!-- Pocket Paint --><item drawable="pocket_paint" />
