@@ -764,5 +764,9 @@
 	<item component="ComponentInfo{com.jackboxgames.TJPP5Loader/com.jackboxgames.jbgplayer.MainActivity}" drawable="the_jackbox_party_pack_5" />
 	<item component="ComponentInfo{com.gamepass.samsung/com.gamepass.MainActivity}" drawable="xbox_game_pass" />
 	<item component="ComponentInfo{com.google.android.apps.playconsole/com.google.android.apps.playconsole.activity.MainAndroidActivity}" drawable="play_console" />
+	<item component="ComponentInfo{com.elconfidencial.rss/com.elconfidencial.start.StartActivity}" drawable="el_confidencial" />
+	<item component="ComponentInfo{com.grupozeta.elperiodico/com.grupozeta.epe.MainActivity}" drawable="elperiodico" />
+	<item component="ComponentInfo{com.exovoid.weather.app/com.exovoid.weather.app.MainActivity}" drawable="tiempo_xl" />
+	<item component="ComponentInfo{weather.radar.live/coocent.app.weather.weather_14.MainActivity}" drawable="weasce_clima" />
 
 </resources>

@@ -706,5 +706,9 @@
 	{ "title": "Samsung Free", "author": "MiepHD", "src": "samsung_free", "category": "news" },
 	{ "title": "The Jackbox Party Pack 5", "author": "MiepHD", "src": "the_jackbox_party_pack_5", "category": "games" },
 	{ "title": "Xbox Game Pass", "author": "MiepHD", "src": "xbox_game_pass", "category": "games" },
-	{ "title": "Play Console", "author": "MiepHD", "src": "play_console", "category": "other" }
+	{ "title": "Play Console", "author": "MiepHD", "src": "play_console", "category": "other" },
+	{ "title": "El Confidencial", "author": "MiepHD", "src": "el_confidencial", "category": "other" },
+	{ "title": "elPeriodico", "author": "MiepHD", "src": "elperiodico", "category": "other" },
+	{ "title": "Tiempo XL", "author": "MiepHD", "src": "tiempo_xl", "category": "news" },
+	{ "title": "WeaSce Clima", "author": "MiepHD", "src": "weasce_clima", "category": "news" }
 ]
