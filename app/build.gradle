@@ -34,4 +34,4 @@ android {
     namespace 'com.froxot.cuscon'
 }
 
-dependencies { implementation 'com.github.zixpo:candybar:3.16.2' }
+dependencies { implementation 'com.github.zixpo:candybar:3.17.1' }

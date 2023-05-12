@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="changelog_date">09.05.2023</string>
+    <string name="changelog_date">12.05.2023</string>
     <string-array name="changelog">
+        <item>3.0.0.6:</item>
+        <item>Updated Candybar dependency</item>
         <item>3.0.0.5:</item>
         <item>Fixed Tiempo Radar</item>
         <item>Added Play Console, El Confidencial, elPeriodico, Tiempo XL, WeaSce Clima</item>
