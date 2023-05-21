@@ -332,7 +332,8 @@
 	<!-- Cubic 2 3 4 Player Games --><item drawable="cubic_2_3_4_player_games" />
 	<!-- Party Games --><item drawable="party_games" />
     <!-- The Jackbox Party Pack 5 --><item drawable="the_jackbox_party_pack_5" />
-	<!-- Xbox Game Pass --><item drawable="xbox_game_pass" />
+    <!-- FS 20 --><item drawable="fs_20" />
+	<!-- Reventure --><item drawable="reventure" />
 
     <category title="Gaming Experience" />
     <!-- Moto Gametime--><item drawable="moto_gametime" />
@@ -340,6 +341,9 @@
     <!-- AirConsole --><item drawable="airconsole" />
     <!-- Erklär-App --><item drawable="erklar_app" />
     <!-- Game Launcher --><item drawable="game_launcher" />
+    <!-- Amazon Luna --><item drawable="amazon_luna" />
+    <!-- Xbox Game Pass --><item drawable="xbox_game_pass" />
+    <!-- Steam Link --><item drawable="steam_link" />
 
     <category title="Emulators" />
     <!-- Termux --><item drawable="termux" />
@@ -466,6 +470,8 @@
     <!-- ScreenMirror --><item drawable="screenmirror" />
     <!-- Force Landscape --><item drawable="force_landscape" />
     <!-- Nice Catch --><item drawable="nice_catch" />
+    <!-- External Keyboard Helper Pro --><item drawable="external_keyboard_helper_pro" />
+    <!-- Vanced microG Settings --><item drawable="vanced_microg_settings" />
 
     <category title="Calculators" />
     <item drawable="samsung_calculator" />

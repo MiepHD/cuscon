@@ -743,5 +743,14 @@
 	<item class="com.samsung.android.app.goodcatch.main.activity.MainActivity" name="nice_catch"/>
 	<item class="com.microsoft.office.outlook.MainActivity" name="outlook"/>
 	<item class="com.samsung.android.app.tips.TipsMainActivity" name="tipps"/>
+	<item class="com.amazon.spiderpork.activities.MainActivity" name="amazon_luna"/>
+	<item class="com.apedroid.hwkeyboardhelper.ChooserActivity" name="external_keyboard_helper_pro"/>
+	<item class="com.jojoy.delegate.JojoyInstallerActivity" name="external_keyboard_helper_pro"/>
+	<item class="com.apedroid.hwkeyboardhelper.DefaultActivity" name="external_keyboard_helper_pro"/>
+	<item class="com.jojoy.delegate.JojoyInstallerActivity" name="fs_20"/>
+	<item class="com.giantssoftware.MainActivity" name="fs_20"/>
+	<item class="com.unity3d.player.UnityPlayerActivity" name="reventure"/>
+	<item class="com.valvesoftware.steamlink.SteamShellActivity" name="steam_link"/>
+	<item class="org.microg.gms.ui.SettingsActivityLauncher" name="vanced_microg_settings"/>
 
 </appmap>

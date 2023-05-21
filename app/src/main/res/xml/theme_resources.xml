@@ -753,5 +753,14 @@
 	<AppIcon name="com.samsung.android.app.goodcatch/com.samsung.android.app.goodcatch.main.activity.MainActivity" image="nice_catch"/>
 	<AppIcon name="com.microsoft.office.outlook/com.microsoft.office.outlook.MainActivity" image="outlook"/>
 	<AppIcon name="com.samsung.android.app.tips/com.samsung.android.app.tips.TipsMainActivity" image="tipps"/>
+	<AppIcon name="com.amazon.spiderpork/com.amazon.spiderpork.activities.MainActivity" image="amazon_luna"/>
+	<AppIcon name="com.apedroid.hwkeyboardhelper/com.apedroid.hwkeyboardhelper.ChooserActivity" image="external_keyboard_helper_pro"/>
+	<AppIcon name="com.apedroid.hwkeyboardhelper/com.jojoy.delegate.JojoyInstallerActivity" image="external_keyboard_helper_pro"/>
+	<AppIcon name="com.apedroid.hwkeyboardhelper/com.apedroid.hwkeyboardhelper.DefaultActivity" image="external_keyboard_helper_pro"/>
+	<AppIcon name="com.giantssoftware.fs20.google/com.jojoy.delegate.JojoyInstallerActivity" image="fs_20"/>
+	<AppIcon name="com.giantssoftware.fs20.google/com.giantssoftware.MainActivity" image="fs_20"/>
+	<AppIcon name="com.Pixelatto.Reventure/com.unity3d.player.UnityPlayerActivity" image="reventure"/>
+	<AppIcon name="com.valvesoftware.steamlink/com.valvesoftware.steamlink.SteamShellActivity" image="steam_link"/>
+	<AppIcon name="com.mgoogle.android.gms/org.microg.gms.ui.SettingsActivityLauncher" image="vanced_microg_settings"/>
 
 </Theme>

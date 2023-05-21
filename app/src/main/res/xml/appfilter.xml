@@ -776,5 +776,14 @@
 	<item component="ComponentInfo{com.samsung.android.app.goodcatch/com.samsung.android.app.goodcatch.main.activity.MainActivity}" drawable="nice_catch" />
 	<item component="ComponentInfo{com.microsoft.office.outlook/com.microsoft.office.outlook.MainActivity}" drawable="outlook" />
 	<item component="ComponentInfo{com.samsung.android.app.tips/com.samsung.android.app.tips.TipsMainActivity}" drawable="tipps" />
+	<item component="ComponentInfo{com.amazon.spiderpork/com.amazon.spiderpork.activities.MainActivity}" drawable="amazon_luna" />
+	<item component="ComponentInfo{com.apedroid.hwkeyboardhelper/com.apedroid.hwkeyboardhelper.ChooserActivity}" drawable="external_keyboard_helper_pro" />
+	<item component="ComponentInfo{com.apedroid.hwkeyboardhelper/com.jojoy.delegate.JojoyInstallerActivity}" drawable="external_keyboard_helper_pro" />
+	<item component="ComponentInfo{com.apedroid.hwkeyboardhelper/com.apedroid.hwkeyboardhelper.DefaultActivity}" drawable="external_keyboard_helper_pro" />
+	<item component="ComponentInfo{com.giantssoftware.fs20.google/com.jojoy.delegate.JojoyInstallerActivity}" drawable="fs_20" />
+	<item component="ComponentInfo{com.giantssoftware.fs20.google/com.giantssoftware.MainActivity}" drawable="fs_20" />
+	<item component="ComponentInfo{com.Pixelatto.Reventure/com.unity3d.player.UnityPlayerActivity}" drawable="reventure" />
+	<item component="ComponentInfo{com.valvesoftware.steamlink/com.valvesoftware.steamlink.SteamShellActivity}" drawable="steam_link" />
+	<item component="ComponentInfo{com.mgoogle.android.gms/org.microg.gms.ui.SettingsActivityLauncher}" drawable="vanced_microg_settings" />
 
 </resources>

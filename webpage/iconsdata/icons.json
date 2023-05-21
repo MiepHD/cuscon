@@ -716,5 +716,11 @@
 	{ "title": "Clip Studio", "author": "MiepHD", "src": "clip_studio", "category": "other" },
 	{ "title": "Nice Catch", "author": "MiepHD", "src": "nice_catch", "category": "tools" },
 	{ "title": "Outlook", "author": "MiepHD", "src": "outlook", "category": "messenger" },
-	{ "title": "Tipps", "author": "MiepHD", "src": "tipps", "category": "information" }
+	{ "title": "Tipps", "author": "MiepHD", "src": "tipps", "category": "information" },
+	{ "title": "Amazon Luna", "author": "MiepHD", "src": "amazon_luna", "category": "gaming-experience" },
+	{ "title": "External Keyboard Helper Pro", "author": "MiepHD", "src": "external_keyboard_helper_pro", "category": "tools" },
+	{ "title": "FS 20", "author": "MiepHD", "src": "fs_20", "category": "games" },
+	{ "title": "Reventure", "author": "MiepHD", "src": "reventure", "category": "games" },
+	{ "title": "Steam Link", "author": "MiepHD", "src": "steam_link", "category": "gaming-experience" },
+	{ "title": "Vanced microG Settings", "author": "MiepHD", "src": "vanced_microg_settings", "category": "tools" }
 ]
