@@ -771,5 +771,10 @@
 	<item component="ComponentInfo{com.exovoid.weather.app/com.exovoid.weather.app.MainActivity}" drawable="tiempo_xl" />
 	<item component="ComponentInfo{weather.radar.live/coocent.app.weather.weather_14.MainActivity}" drawable="weasce_clima" />
 	<item component="ComponentInfo{com.duolingo/com.duolingo.app.StreakSocietyLauncher}" drawable="duolingo_streak" />
+	<item component="ComponentInfo{com.samsung.android.arzone/com.samsung.android.arzone.ARZoneLauncher}" drawable="ar_zone" />
+	<item component="ComponentInfo{jp.co.celsys.clipstudiopaint.galaxystore/com.celsys.pwlegacyandroidhelpers.PWLegacyJniCustomNativeActivityAndroid}" drawable="clip_studio" />
+	<item component="ComponentInfo{com.samsung.android.app.goodcatch/com.samsung.android.app.goodcatch.main.activity.MainActivity}" drawable="nice_catch" />
+	<item component="ComponentInfo{com.microsoft.office.outlook/com.microsoft.office.outlook.MainActivity}" drawable="outlook" />
+	<item component="ComponentInfo{com.samsung.android.app.tips/com.samsung.android.app.tips.TipsMainActivity}" drawable="tipps" />
 
 </resources>

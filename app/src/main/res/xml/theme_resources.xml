@@ -748,5 +748,10 @@
 	<AppIcon name="com.exovoid.weather.app/com.exovoid.weather.app.MainActivity" image="tiempo_xl"/>
 	<AppIcon name="weather.radar.live/coocent.app.weather.weather_14.MainActivity" image="weasce_clima"/>
 	<AppIcon name="com.duolingo/com.duolingo.app.StreakSocietyLauncher" image="duolingo_streak"/>
+	<AppIcon name="com.samsung.android.arzone/com.samsung.android.arzone.ARZoneLauncher" image="ar_zone"/>
+	<AppIcon name="jp.co.celsys.clipstudiopaint.galaxystore/com.celsys.pwlegacyandroidhelpers.PWLegacyJniCustomNativeActivityAndroid" image="clip_studio"/>
+	<AppIcon name="com.samsung.android.app.goodcatch/com.samsung.android.app.goodcatch.main.activity.MainActivity" image="nice_catch"/>
+	<AppIcon name="com.microsoft.office.outlook/com.microsoft.office.outlook.MainActivity" image="outlook"/>
+	<AppIcon name="com.samsung.android.app.tips/com.samsung.android.app.tips.TipsMainActivity" image="tipps"/>
 
 </Theme>

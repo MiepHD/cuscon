@@ -170,6 +170,8 @@
 	<!-- Bixby --><item drawable="bixby" />
     <!-- El Confidencial --><item drawable="el_confidencial" />
 	<!-- elPeriodico --><item drawable="elperiodico" />
+    <!-- AR-Zone --><item drawable="ar_zone" />
+	<!-- Clip Studio --><item drawable="clip_studio" />
 
     <category title="App Stores" />
     <item drawable="apkpure" />
@@ -363,6 +365,7 @@
     <!-- WhatsApp Web To Go --><item drawable="whatsapp_web_to_go" />
     <!-- Google Messages --><item drawable="google_messages" />
     <!-- Wire --><item drawable="wire" />
+    <!-- Outlook --><item drawable="outlook" />
 
     <category title="Communication" />
     <item drawable="discord" />
@@ -462,6 +465,7 @@
     <!-- Signal Generator --><item drawable="signal_generator" />
     <!-- ScreenMirror --><item drawable="screenmirror" />
     <!-- Force Landscape --><item drawable="force_landscape" />
+    <!-- Nice Catch --><item drawable="nice_catch" />
 
     <category title="Calculators" />
     <item drawable="samsung_calculator" />
@@ -737,6 +741,7 @@
     <!-- DB Signale --><item drawable="db_signale" />
     <!-- Landshut_Info --><item drawable="landshut_info" />
     <!-- PROFILapp --><item drawable="profilapp" />
+    <!-- Tipps --><item drawable="tipps" />
 
     <category title="Icon Packs" />
     <!-- Cuscon --><item drawable="cuscon" />

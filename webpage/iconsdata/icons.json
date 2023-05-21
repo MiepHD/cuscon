@@ -711,5 +711,10 @@
 	{ "title": "elPeriodico", "author": "MiepHD", "src": "elperiodico", "category": "other" },
 	{ "title": "Tiempo XL", "author": "MiepHD", "src": "tiempo_xl", "category": "news" },
 	{ "title": "WeaSce Clima", "author": "MiepHD", "src": "weasce_clima", "category": "news" },
-	{ "title": "Duolingo Streak", "author": "MiepHD", "src": "duolingo_streak", "category": "learning" }
+	{ "title": "Duolingo Streak", "author": "MiepHD", "src": "duolingo_streak", "category": "learning" },
+	{ "title": "AR-Zone", "author": "MiepHD", "src": "ar_zone", "category": "other" },
+	{ "title": "Clip Studio", "author": "MiepHD", "src": "clip_studio", "category": "other" },
+	{ "title": "Nice Catch", "author": "MiepHD", "src": "nice_catch", "category": "tools" },
+	{ "title": "Outlook", "author": "MiepHD", "src": "outlook", "category": "messenger" },
+	{ "title": "Tipps", "author": "MiepHD", "src": "tipps", "category": "information" }
 ]

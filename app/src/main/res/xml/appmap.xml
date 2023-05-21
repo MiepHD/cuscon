@@ -738,5 +738,10 @@
 	<item class="com.exovoid.weather.app.MainActivity" name="tiempo_xl"/>
 	<item class="coocent.app.weather.weather_14.MainActivity" name="weasce_clima"/>
 	<item class="com.duolingo.app.StreakSocietyLauncher" name="duolingo_streak"/>
+	<item class="com.samsung.android.arzone.ARZoneLauncher" name="ar_zone"/>
+	<item class="com.celsys.pwlegacyandroidhelpers.PWLegacyJniCustomNativeActivityAndroid" name="clip_studio"/>
+	<item class="com.samsung.android.app.goodcatch.main.activity.MainActivity" name="nice_catch"/>
+	<item class="com.microsoft.office.outlook.MainActivity" name="outlook"/>
+	<item class="com.samsung.android.app.tips.TipsMainActivity" name="tipps"/>
 
 </appmap>
