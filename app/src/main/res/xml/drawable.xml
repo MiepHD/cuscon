@@ -645,6 +645,7 @@
     <!-- Kiwix --><item drawable="kiwix" />
     <!-- Google Translate --><item drawable="google_translate" />
     <!-- Duolingo --><item drawable="duolingo"/>
+    <!-- Duolingo Streak --><item drawable="duolingo_streak" />
     <item drawable="homeworker" />
     <!-- Moodle --><item drawable="moodle" />
     <!-- Deutsch --><item drawable="deutsch" />

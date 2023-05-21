@@ -287,7 +287,7 @@
 	<item class="com.Latetech.WlanScanner.MainActivity" name="wlanscanner_by_latetech"/>
 	<item class="com.signalmonitoring.wifilib.ui.activities.MonitoringActivity" name="wifi_monitor_pro"/>
     <item class="io.gonative.android.SplashActivity" name="der_postillon"/>
-	<item class="com.touchtype.LauncherActivityIcon" name="microsoft_swiftkey_tastatur"/>´
+	<item class="com.touchtype.LauncherActivityIcon" name="microsoft_swiftkey_tastatur"/>
 	<item class="de.etecture.ekz.onleihe.activity.SplashScreenActivity" name="onleihe"/>
 	<item class="com.emacberry.uuid0xfd6fscan.ScannerActivity" name="uuid_0xfd6f_scanner"/>
 	<item class="com.duolingo.app.LoginActivity" name="duolingo"/>
@@ -737,5 +737,6 @@
 	<item class="com.grupozeta.epe.MainActivity" name="elperiodico"/>
 	<item class="com.exovoid.weather.app.MainActivity" name="tiempo_xl"/>
 	<item class="coocent.app.weather.weather_14.MainActivity" name="weasce_clima"/>
+	<item class="com.duolingo.app.StreakSocietyLauncher" name="duolingo_streak"/>
 
 </appmap>

@@ -180,6 +180,7 @@
     <item component="ComponentInfo{se.embargo.retroboy/se.embargo.retroboy.MainActivity}" drawable="retroboy" />
     <item component="ComponentInfo{org.crape.rotationcontrol/org.crape.rotationcontrol.RotationControlActivity}" drawable="rotation_control" />
     <item component="ComponentInfo{com.aefyr.sai.fdroid/com.aefyr.sai.ui.activities.MainActivity}" drawable="sai" />
+	<item component="ComponentInfo{com.aefyr.sai/com.aefyr.sai.ui.activities.MainActivity}" drawable="sai" />
     <item component="ComponentInfo{net.typeblog.shelter/net.typeblog.shelter.ui.MainActivity}" drawable="shelter" />
     <item component="ComponentInfo{org.smssecure.smssecure/org.smssecure.smssecure.RoutingActivity}" drawable="silence" />
     <item component="ComponentInfo{com.buzbuz.smartautoclicker/com.buzbuz.smartautoclicker.activity.ScenarioActivity}" drawable="smart_autoclicker" />
@@ -769,5 +770,6 @@
 	<item component="ComponentInfo{com.grupozeta.elperiodico/com.grupozeta.epe.MainActivity}" drawable="elperiodico" />
 	<item component="ComponentInfo{com.exovoid.weather.app/com.exovoid.weather.app.MainActivity}" drawable="tiempo_xl" />
 	<item component="ComponentInfo{weather.radar.live/coocent.app.weather.weather_14.MainActivity}" drawable="weasce_clima" />
+	<item component="ComponentInfo{com.duolingo/com.duolingo.app.StreakSocietyLauncher}" drawable="duolingo_streak" />
 
 </resources>

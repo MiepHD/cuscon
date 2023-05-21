@@ -156,6 +156,7 @@
     <AppIcon name="se.embargo.retroboy/se.embargo.retroboy.MainActivity" image="retroboy"/>
     <AppIcon name="org.crape.rotationcontrol/org.crape.rotationcontrol.RotationControlActivity" image="rotation_control"/>
     <AppIcon name="com.aefyr.sai.fdroid/com.aefyr.sai.ui.activities.MainActivity" image="sai"/>
+	<AppIcon name="com.aefyr.sai/com.aefyr.sai.ui.activities.MainActivity" image="sai"/>
     <AppIcon name="net.typeblog.shelter/net.typeblog.shelter.ui.MainActivity" image="shelter"/>
     <AppIcon name="org.smssecure.smssecure/org.smssecure.smssecure.RoutingActivity" image="silence"/>
     <AppIcon name="com.buzbuz.smartautoclicker/com.buzbuz.smartautoclicker.activity.ScenarioActivity" image="smart_autoclicker"/>
@@ -746,5 +747,6 @@
 	<AppIcon name="com.grupozeta.elperiodico/com.grupozeta.epe.MainActivity" image="elperiodico"/>
 	<AppIcon name="com.exovoid.weather.app/com.exovoid.weather.app.MainActivity" image="tiempo_xl"/>
 	<AppIcon name="weather.radar.live/coocent.app.weather.weather_14.MainActivity" image="weasce_clima"/>
+	<AppIcon name="com.duolingo/com.duolingo.app.StreakSocietyLauncher" image="duolingo_streak"/>
 
 </Theme>

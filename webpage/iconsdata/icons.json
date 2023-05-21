@@ -710,5 +710,6 @@
 	{ "title": "El Confidencial", "author": "MiepHD", "src": "el_confidencial", "category": "other" },
 	{ "title": "elPeriodico", "author": "MiepHD", "src": "elperiodico", "category": "other" },
 	{ "title": "Tiempo XL", "author": "MiepHD", "src": "tiempo_xl", "category": "news" },
-	{ "title": "WeaSce Clima", "author": "MiepHD", "src": "weasce_clima", "category": "news" }
+	{ "title": "WeaSce Clima", "author": "MiepHD", "src": "weasce_clima", "category": "news" },
+	{ "title": "Duolingo Streak", "author": "MiepHD", "src": "duolingo_streak", "category": "learning" }
 ]

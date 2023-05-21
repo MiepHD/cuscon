@@ -3,7 +3,8 @@
     <string name="changelog_date">21.05.2023</string>
     <string-array name="changelog">
         <item>3.0.0.7:</item>
-        <item>Fixed Wifiman</item>
+        <item>Fixed Wifiman, SAI</item>
+        <item>Added Duolingo Streak</item>
         <item>3.0.0.6:</item>
         <item>Updated Candybar dependency</item>
         <item>3.0.0.5:</item>
