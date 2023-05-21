@@ -282,6 +282,7 @@
 	<item class="com.motorola.fmplayer.ChangeThemeActivity" name="radio_fm"/>
 	<item class="com.sweech.MainActivity" name="sweech"/>
 	<item class="com.ubnt.usurvey.ui.app.splash.SplashActivity" name="wifiman"/>
+	<item class="com.ubnt.usurvey.ui.splash.SplashActivity" name="wifiman"/>
 	<item class="de.avm.android.wlanapp.permissions.LocationPermissionActivity" name="fritz_app_wlan"/>
 	<item class="com.Latetech.WlanScanner.MainActivity" name="wlanscanner_by_latetech"/>
 	<item class="com.signalmonitoring.wifilib.ui.activities.MonitoringActivity" name="wifi_monitor_pro"/>

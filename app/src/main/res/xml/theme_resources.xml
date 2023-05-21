@@ -290,6 +290,7 @@
 	<AppIcon name="com.motorola.fmplayer/com.motorola.fmplayer.ChangeThemeActivity" image="radio_fm"/>
 	<AppIcon name="com.sweech/com.sweech.MainActivity" image="sweech"/>
 	<AppIcon name="com.ubnt.usurvey/com.ubnt.usurvey.ui.app.splash.SplashActivity" image="wifiman"/>
+	<AppIcon name="com.ubnt.usurvey/com.ubnt.usurvey.ui.splash.SplashActivity" image="wifiman"/>
 	<AppIcon name="de.avm.android.wlanapp/de.avm.android.wlanapp.permissions.LocationPermissionActivity" image="fritz_app_wlan"/>
 	<AppIcon name="com.Latetech.WlanScanner/com.Latetech.WlanScanner.MainActivity" image="wlanscanner_by_latetech"/>
 	<AppIcon name="com.signalmonitoring.wifimonitoringpro/com.signalmonitoring.wifilib.ui.activities.MonitoringActivity" image="wifi_monitor_pro"/>
