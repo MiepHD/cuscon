@@ -9,8 +9,7 @@ class IconBuilder {
     xhttp.send();
   }
   iconList(category, data) {
-    if (!data) data = allicons.filter(icon => icon.category === category);
-    data = alasql('SELECT * FROM ? ORDER BY title', [data]);
+    if (!data) data = allicons;
     data.push(
       {
         "title": "icons.add.title",
