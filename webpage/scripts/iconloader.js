@@ -9,17 +9,15 @@ class IconLoader {
         }
     }.bind(this);
   }
-  constructFromData(data) {
+  constructFromData() {
     const iconlist = $("#iconlist");
-    for (const category of data) {
-      const id = category.id;
-      let div = document.createElement("h3");
-      div.setAttribute("data-translation-id", `category.${id}`);
-      div.setAttribute("data-category-id", id);
-      div.innerHTML = category.title;
-      iconlist.append(div);
-      this.build.iconList(id);
-    }
+    const id = undefined;
+    let div = document.createElement("h3");
+    div.setAttribute("data-translation-id", `category.${id}`);
+    div.setAttribute("data-category-id", id);
+    div.innerHTML = "";
+    iconlist.append(div);
+    this.build.iconList(id);
     translate.renew();
   }
   load() {
