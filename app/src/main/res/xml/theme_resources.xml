@@ -762,5 +762,9 @@
 	<AppIcon name="com.Pixelatto.Reventure/com.unity3d.player.UnityPlayerActivity" image="reventure"/>
 	<AppIcon name="com.valvesoftware.steamlink/com.valvesoftware.steamlink.SteamShellActivity" image="steam_link"/>
 	<AppIcon name="com.mgoogle.android.gms/org.microg.gms.ui.SettingsActivityLauncher" image="vanced_microg_settings"/>
+	<AppIcon name="com.microsoft.office.excel/com.microsoft.office.apphost.LaunchActivity" image="excel"/>
+	<AppIcon name="com.samsung.android.app.routines/com.samsung.android.app.routines.ui.main.RoutineLaunchActivityDummy" image="modi_und_routinen"/>
+	<AppIcon name="app.revanced.manager.flutter/app.revanced.manager.flutter.MainActivity" image="revanced_manager"/>
+	<AppIcon name="com.microsoft.office.word/com.microsoft.office.apphost.LaunchActivity" image="word"/>
 
 </Theme>

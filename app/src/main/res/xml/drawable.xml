@@ -172,8 +172,10 @@
 	<!-- elPeriodico --><item drawable="elperiodico" />
     <!-- AR-Zone --><item drawable="ar_zone" />
 	<!-- Clip Studio --><item drawable="clip_studio" />
-
-    <category title="App Stores" />
+    <!-- Excel --><item drawable="excel" />
+	<!-- Modi und Routinen --><item drawable="modi_und_routinen" />
+	<!-- ReVanced Manager --><item drawable="revanced_manager" />
+	<!-- Word --><item drawable="word" />
     <item drawable="apkpure" />
     <item drawable="f_droid" />
     <item drawable="aurora_store" />
@@ -188,8 +190,6 @@
     <!-- Amazon Appstore --><item drawable="amazon_appstore" />
     <!-- Vanced Manager --><item drawable="vanced_manager" />
     <!-- Themes --><item drawable="themes" />
-
-    <category title="Shops" />
     <!-- Lieferando --><item drawable="lieferando"/>
     <item drawable="i_net_menue" />
     <!-- EMP Shop --><item drawable="emp_shop" />
@@ -207,8 +207,6 @@
     <!-- Jelbi --><item drawable="jelbi" />
     <!-- Berlin --><item drawable="berlin" />
     <!-- BVG Muva --><item drawable="bvg_muva" />
-
-    <category title="Launcher" />
     <!-- Apex Launcher --><item drawable="apex_launcher"/>
     <!-- Lawnchair --><item drawable="lawnchair"/>
     <!-- Lawnchair-Einstellungen --><item drawable="lawnchair_einstellungen" />
@@ -219,8 +217,6 @@
     <!-- Flick Launcher --><item drawable="flick_launcher" />
     <!-- Flick Launcher PRO --><item drawable="flick_launcher_pro" />
     <!-- Smart Launcher --><item drawable="smart_launcher" />
-
-    <category title="Planning" />
     <item drawable="samsung_calendar" />
     <item drawable="birday" />
     <!-- Google Calendar --><item drawable="google_calendar" />
@@ -230,8 +226,6 @@
     <!-- Google Tasks --><item drawable="google_tasks" />
     <!-- HabitNow --><item drawable="habitnow" />
     <!-- OneCalendar --><item drawable="onecalendar" />
-
-    <category title="Video Streaming" />
     <item drawable="netflix" />
     <item drawable="zdfmediathek" />
     <item drawable="zapp" />
@@ -249,8 +243,6 @@
     <!-- PowerTube --><item drawable="powertube" />
     <!-- Playz --><item drawable="playz" />
     <!-- TV3 --><item drawable="tv3" />
-
-    <category title="Music Streaming" />
     <item drawable="amazon_music" />
     <item drawable="dasding" />
     <item drawable="youtube_music" />
@@ -271,8 +263,6 @@
     <!-- RAC105 --><item drawable="rac105" />
     <!-- SER --><item drawable="ser" />
     <!-- Catalunya Ràdio --><item drawable="catalunya_radio" />
-
-    <category title="Recording" />
     <item drawable="voicenote" />
     <!-- XRecorder --><item drawable="xrecorder" />
     <!-- Rec. --><item drawable="rec" />
@@ -280,8 +270,6 @@
 	<!-- Super Screen Recorder --><item drawable="super_screen_recorder" />
     <!-- AZ Screen Recorder --><item drawable="az_screen_recorder" />
     <!-- Vidma Recorder --><item drawable="vidma_recorder" />
-
-    <category title="Games" />
     <item drawable="darkland" />
     <item drawable="shape_ominoes" />
     <item drawable="klocki" />
@@ -334,8 +322,6 @@
     <!-- The Jackbox Party Pack 5 --><item drawable="the_jackbox_party_pack_5" />
     <!-- FS 20 --><item drawable="fs_20" />
 	<!-- Reventure --><item drawable="reventure" />
-
-    <category title="Gaming Experience" />
     <!-- Moto Gametime--><item drawable="moto_gametime" />
     <!-- MiraPlug --><item drawable="miraplug" />
     <!-- AirConsole --><item drawable="airconsole" />
@@ -344,17 +330,11 @@
     <!-- Amazon Luna --><item drawable="amazon_luna" />
     <!-- Xbox Game Pass --><item drawable="xbox_game_pass" />
     <!-- Steam Link --><item drawable="steam_link" />
-
-    <category title="Emulators" />
     <!-- Termux --><item drawable="termux" />
     <!-- J2ME Loader --><item drawable="j2me_loader" />
     <!-- Lemuroid --><item drawable="lemuroid" />
-    
-    <category title="Virtual Assistant" />
     <!-- Alexa --><item drawable="alexa" />
     <!-- Google Assistant--><item drawable="google_assistant" />
-
-    <category title="Messenger" />
     <item drawable="samsung_messages" />
     <item drawable="whatsapp" />
     <item drawable="signal" />
@@ -370,8 +350,6 @@
     <!-- Google Messages --><item drawable="google_messages" />
     <!-- Wire --><item drawable="wire" />
     <!-- Outlook --><item drawable="outlook" />
-
-    <category title="Communication" />
     <item drawable="discord" />
     <item drawable="phone" />
     <item drawable="samsung_contacts" />
@@ -387,8 +365,6 @@
     <!-- Zoom --><item drawable="zoom" />
     <!-- Google Chat --><item drawable="google_chat" />
     <!-- Google Voice --><item drawable="google_voice" />
-
-    <category title="Social Media" />
     <!-- LinkedIn --><item drawable="linkedin"/>
     <!-- Facebook --><item drawable="facebook"/>
     <!-- Snapchat --><item drawable="snapchat" />
@@ -398,8 +374,6 @@
     <!-- BeReal. --><item drawable="bereal" />
     <!-- ShareChat --><item drawable="sharechat" />
     <!-- Yuito --><item drawable="yuito" />
-
-    <category title="Browser" />
     <item drawable="firefox" />
     <item drawable= "browser" />
     <item drawable="brave" />
@@ -428,8 +402,6 @@
     <!-- Adblock Browser --><item drawable="adblock_browser" />
     <!-- Free Adblocker Browser --><item drawable="free_adblocker_browser" />
     <!-- Bing --><item drawable="bing" />
-
-    <category title="Tools" />
     <item drawable="lucky_patcher" />
     <item drawable="samsung_sound_assistant" />
     <item drawable="touch_portal" />
@@ -472,14 +444,10 @@
     <!-- Nice Catch --><item drawable="nice_catch" />
     <!-- External Keyboard Helper Pro --><item drawable="external_keyboard_helper_pro" />
     <!-- Vanced microG Settings --><item drawable="vanced_microg_settings" />
-
-    <category title="Calculators" />
     <item drawable="samsung_calculator" />
     <!-- NCalcLibre --><item drawable="ncalclibre" />
     <!-- Symbolab --><item drawable="symbolab" />
     <!-- Google Sheets --><item drawable="google_sheets" />
-
-    <category title="Analyzer" />
     <!-- BetterCounter --><item drawable="bettercounter" />
     <item drawable="phyphox" />
     <!-- WiFiAnalyzer--><item drawable="wifianalyzer" />
@@ -517,8 +485,6 @@
 	<!-- WiFi Signal Meter --><item drawable="wifi_signal_meter" />
     <!-- UniFi Network --><item drawable="unifi_network" />
     <!-- Diagrammersteller Pro --><item drawable="diagrammersteller_pro" />
-
-    <category title="Internet of Things" />
     <item drawable="smart_things" />
     <item drawable="imaging_edge_mobile" />
     <item drawable="galaxy_wearable" />
@@ -529,8 +495,6 @@
     <!-- Google Home --><item drawable="google_home" />
     <!-- Google Pixel Watch --><item drawable="google_pixel_watch" />
     <!-- Smart WiFi --><item drawable="smart_wifi" />
-
-    <category title="Documents" />
     <item drawable="adobe_acrobat_reader" />
     <item drawable="docx2pdf" />
     <!-- Office Suite --><item drawable="office_suite" />
@@ -552,16 +516,12 @@
     <!-- PDF Converter --><item drawable="pdf_converter" />
     <!-- Lens --><item drawable="lens" />
     <!-- PowerPoint --><item drawable="powerpoint" />
-
-    <category title="VPN" />
     <!-- Adguard --><item drawable="adguard" />
     <!-- Cloudflare Warp --><item drawable="cloudflare_warp" />
     <!-- WireGuard --><item drawable="wireguard" />
     <!-- AdGuard VPN --><item drawable="adguard_vpn"/>
     <!-- Ninja VPN --><item drawable="ninja_vpn" />
     <!-- Proton VPN --><item drawable="proton_vpn" />
-
-    <category title="Camera" />
     <!-- Open Camera --><item drawable="open_camera" />
     <!-- Samsung Camera --><item drawable="samsung_camera" />
     <!-- ObscuraCam --><item drawable="obscuracam" />
@@ -570,8 +530,6 @@
     <!-- Moto Camera 3--><item drawable="moto_camera_3"/>
     <!-- Android Camera --><item drawable="android_camera" />
     <!-- Kamera --><item drawable="open_camera" />
-
-    <category title="Scanner" />
     <!-- Flora Incognita --><item drawable="flora_incognita" />
     <!-- TeaCapps QR & Barcode Reader --><item drawable="teacapps_qr__barcode_reader"/>
     <!-- HeartBeat --><item drawable="heartbeat" />
@@ -582,8 +540,6 @@
     <!-- Barcode Scanner --><item drawable="barcode_scanner" />
     <!-- OpenScan --><item drawable="openscan" />
     <!-- Color Grab --><item drawable="color_grab" />
-
-    <category title="Maps" />
     <!-- Google Maps --><item drawable="google_maps" />
     <!-- Organic Maps --><item drawable="organic_maps" />
     <!-- Map2Fly --><item drawable="map2fly" />
@@ -593,8 +549,6 @@
     <!-- GMaps WV --><item drawable="gmaps_wv" />
     <!-- Google Earth --><item drawable="google_earth" />
     <!-- Google Street View --><item drawable="google_street_view" />
-
-    <category title="Files" />
     <!-- Google Drive --><item drawable="google_drive" />
     <!-- Samsung Files --><item drawable="samsung_files" />
     <!-- Sicherung --><item drawable="sicherung" />
@@ -619,16 +573,12 @@
     <!-- File Commander --><item drawable="file_commander" />
     <!-- LibreTorrent --><item drawable="libretorrent" />
     <!-- Seeker --><item drawable="seeker" />
-
-    <category title="Gallery" />
     <!-- Samsung Gallary --><item drawable="samsung_gallery" />
     <!-- Gallery--><item drawable="gallery" />
     <!-- Google Photos --><item drawable="google_photos" />
     <!-- Camera Roll --><item drawable="camera_roll" />
     <!-- BubbleUPnP --><item drawable="bubbleupnp" />
     <!-- Google Gallery --><item drawable="google_gallery" />
-
-    <category title="Security" />
     <!-- Google Authenticator --><item drawable="google_authenticator" />
     <!-- Keepass --><item drawable="keepass" />
     <!-- Firewall --><item drawable="firewall" />
@@ -644,8 +594,6 @@
     <!-- Screen Stream --><item drawable="screen_stream" />
     <!-- CalyxOS Work Profile --><item drawable="calyxos_work_profile" />
     <!-- AnonAddy --><item drawable="anonaddy" />
-
-    <category title="Learning" />
     <!-- Quizlet --><item drawable="quizlet" />
     <!-- Mebis --><item drawable="mebis" />
     <!-- DeepL --><item drawable="deepl" />
@@ -660,8 +608,6 @@
     <!-- Moodle --><item drawable="moodle" />
     <!-- Deutsch --><item drawable="deutsch" />
 	<!-- Englisch --><item drawable="englisch" />
-
-    <category title="News" />
     <!-- Newszone --><item drawable="newszone" />
     <!-- Weather --><item drawable="weather" />
     <!-- Weather Station - Barometer --><item drawable="weather_station_barometer"/>
@@ -702,8 +648,6 @@
     <!-- Samsung Free --><item drawable="samsung_free" />
     <!-- Tiempo XL --><item drawable="tiempo_xl" />
 	<!-- WeaSce Clima --><item drawable="weasce_clima" />
-
-    <category title="Design" />
     <!-- Pocket Paint --><item drawable="pocket_paint" />
     <!-- Retouch --><item drawable="retouch" />
     <!-- Paper copy --><item drawable="paper_copy" />
@@ -725,8 +669,6 @@
     <!-- Dream --><item drawable="dream" />
 	<!-- UniDream --><item drawable="unidream" />
     <!-- Wonder --><item drawable="wonder" />
-
-    <category title="Information" />
     <!-- Öffi Verbindungen --><item drawable="offi_verbindungen" />
     <!-- DB Navigator --><item drawable="db_navigator" />
     <!-- Flix --><item drawable="flix" />
@@ -748,14 +690,10 @@
     <!-- Landshut_Info --><item drawable="landshut_info" />
     <!-- PROFILapp --><item drawable="profilapp" />
     <!-- Tipps --><item drawable="tipps" />
-
-    <category title="Icon Packs" />
     <!-- Cuscon --><item drawable="cuscon" />
     <!-- CandyBar Dev --><item drawable="candybar_dev"/>
     <!-- Delta --><item drawable="delta"/>
     <!-- Ameixa Monochrome --><item drawable="ameixa_monochrome" />
-
-    <category title="Banking" />
     <!-- ING Banking --><item drawable="ing_banking" />
     <!-- ING Es --><item drawable="ing" />
 	<!-- S-pushTAN --><item drawable="s_pushtan" />

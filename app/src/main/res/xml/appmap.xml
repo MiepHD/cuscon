@@ -752,5 +752,9 @@
 	<item class="com.unity3d.player.UnityPlayerActivity" name="reventure"/>
 	<item class="com.valvesoftware.steamlink.SteamShellActivity" name="steam_link"/>
 	<item class="org.microg.gms.ui.SettingsActivityLauncher" name="vanced_microg_settings"/>
+	<item class="com.microsoft.office.apphost.LaunchActivity" name="excel"/>
+	<item class="com.samsung.android.app.routines.ui.main.RoutineLaunchActivityDummy" name="modi_und_routinen"/>
+	<item class="app.revanced.manager.flutter.MainActivity" name="revanced_manager"/>
+	<item class="com.microsoft.office.apphost.LaunchActivity" name="word"/>
 
 </appmap>

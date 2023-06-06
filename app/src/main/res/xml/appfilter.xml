@@ -608,7 +608,7 @@
 	<item component="ComponentInfo{com.aloha.browser/com.alohamobile.browser.presentation.launcher.LauncherActivity}" drawable="aloha" />
 	<item component="ComponentInfo{com.hsv.freeadblockerbrowser/com.google.android.apps.chrome.Main}" drawable="free_adblocker_browser" />
 	<item component="ComponentInfo{com.talpa.hibrowser/com.talpa.hibrowser.framework.ui.HiStartActivity}" drawable="hi_browser" />
-	<item component="ComponentInfo{com.mycompany.app.soulbrowser/com.mycompany.app.web.WebViewActivity}" drawable="soul" />
+	<item component="ComponentInfo{com.mycompany.app.soulbrowser/com.mycompany.app.web.WebViewActivity}" drawable="soul" /> 
 	<item component="ComponentInfo{net.onecook.browser/net.onecook.browser.MainActivity}" drawable="stargon" />
 	<item component="ComponentInfo{com.phuongpn.whousemywifi.networkscanner.pro/com.phuongpn.whousemywifi.networkscanner.pro.MainActivity}" drawable="quien_es_usar_mi_wifi_pro_"/>
 	<item component="ComponentInfo{com.phuongpn.wifisignalstrengthmeterpro/com.phuongpn.wifisignalstrengthmeterpro.MainActivity}" drawable="senal_neta"/>
@@ -785,5 +785,9 @@
 	<item component="ComponentInfo{com.Pixelatto.Reventure/com.unity3d.player.UnityPlayerActivity}" drawable="reventure" />
 	<item component="ComponentInfo{com.valvesoftware.steamlink/com.valvesoftware.steamlink.SteamShellActivity}" drawable="steam_link" />
 	<item component="ComponentInfo{com.mgoogle.android.gms/org.microg.gms.ui.SettingsActivityLauncher}" drawable="vanced_microg_settings" />
+	<item component="ComponentInfo{com.microsoft.office.excel/com.microsoft.office.apphost.LaunchActivity}" drawable="excel" />
+	<item component="ComponentInfo{com.samsung.android.app.routines/com.samsung.android.app.routines.ui.main.RoutineLaunchActivityDummy}" drawable="modi_und_routinen" />
+	<item component="ComponentInfo{app.revanced.manager.flutter/app.revanced.manager.flutter.MainActivity}" drawable="revanced_manager" />
+	<item component="ComponentInfo{com.microsoft.office.word/com.microsoft.office.apphost.LaunchActivity}" drawable="word" />
 
 </resources>

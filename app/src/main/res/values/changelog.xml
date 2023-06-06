@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="changelog_date">21.05.2023</string>
+    <string name="changelog_date">06.06.2023</string>
     <string-array name="changelog">
+        <item>3.0.0.8:</item>
+        <item>Added Excel, Modi und Routinen, ReVanced Manager, Word</item>
         <item>3.0.0.7:</item>
         <item>Fixed Wifiman, SAI</item>
         <item>Added Duolingo Streak, AR-Zone, Clip Studio, Nice Catch, Outlook, Tipps, Amazon Luna, External Keyboard Helper Pro, FS 20, Reventure, Steam Link, Vanced microG Settings</item>
