@@ -1,7 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <version>1</version>
-    <category title="Other" />
+    <category title="All" />
+    <!-- ActiveArmor --><item drawable="activearmor" />
+	<!-- Amazon Photos --><item drawable="amazon_photos" />
+	<!-- Amazon Shopping --><item drawable="amazon_shopping" />
+	<!-- AR Emoji Stickers --><item drawable="ar_emoji_stickers" />
+	<!-- Backdrops --><item drawable="backdrops" />
+	<!-- Bitmoji --><item drawable="bitmoji" />
+	<!-- Cash App --><item drawable="cash_app" />
+	<!-- DailyPay --><item drawable="dailypay" />
+	<!-- Digital Clock and Weather --><item drawable="digital_clock_and_weather" />
+	<!-- FEED --><item drawable="feed" />
+	<!-- Geeky Tools --><item drawable="geeky_tools" />
+	<!-- Hacker X --><item drawable="hacker_x" />
+	<!-- Hacking --><item drawable="hacking" />
+	<!-- Lime --><item drawable="lime" />
+	<!-- Lookout --><item drawable="lookout" />
+	<!-- MHQ --><item drawable="mhq" />
+	<!-- Miles --><item drawable="miles" />
+	<!-- Possible --><item drawable="possible" />
+	<!-- Progressive --><item drawable="progressive" />
+	<!-- Secure Folder --><item drawable="secure_folder" />
+	<!-- Setup & Transfer --><item drawable="setup_and_transfer" />
+	<!-- Visual Voicemail --><item drawable="visual_voicemail" />
+	<!-- Walli 4K --><item drawable="walli_4k" />
+	<!-- Wallnut --><item drawable="wallnut" />
+	<!-- Yahoo Mail --><item drawable="yahoo_mail" />
+	<!-- Zedge --><item drawable="zedge" />
     <item drawable="covpass" />
     <item drawable="github" />
     <item drawable="amc_cooking" />

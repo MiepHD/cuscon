@@ -554,6 +554,7 @@
 	<item class="com.samsung.android.appbooster.app.presentation.home.HomeActivity}" name="galaxy_app_booster" />
 	<item class="com.samsung.android.sm.score.ui.ScoreBoardActivity}" name="device_care" />
 	<item class="com.samsung.android.privacy.view.MainActivity}" name="private_share" />
+	<item class="com.samsung.android.privacy.view.MainActivity.launcher" name="private_share"/>
 	<item class="ginlemon.flower.HomeScreen" name="smart_launcher"/>
 	<item class="com.estrongs.android.pop.app.openscreenad.NewSplashActivity" name="es_file_explorer"/>
 	<item class="com.vanced.manager.ui.SplashScreenActivity" name="vanced_manager"/>
@@ -756,5 +757,31 @@
 	<item class="com.samsung.android.app.routines.ui.main.RoutineLaunchActivityDummy" name="modi_und_routinen"/>
 	<item class="app.revanced.manager.flutter.MainActivity" name="revanced_manager"/>
 	<item class="com.microsoft.office.apphost.LaunchActivity" name="word"/>
+	<item class="com.att.mobilesecurity.ui.launcher.AttOneAppLoadDispatchActivity" name="activearmor"/>
+	<item class="com.amazon.photos.activity.LauncherActivity" name="amazon_photos"/>
+	<item class="com.amazon.mShop.home.HomeActivity" name="amazon_shopping"/>
+	<item class="com.sec.android.mimage.avatarstickers.activity.ShortcutActivity" name="ar_emoji_stickers"/>
+	<item class="com.backdrops.wallpapers.WelcomeActivity" name="backdrops"/>
+	<item class="com.bitstrips.imoji.ui.activities.LandingActivity" name="bitmoji"/>
+	<item class="com.squareup.cash.ui.MainActivity" name="cash_app"/>
+	<item class="com.DailyPay.DailyPay.MainActivity" name="dailypay"/>
+	<item class="com.sonyericsson.digitalclockwidget2.Info" name="digital_clock_and_weather"/>
+	<item class="com.kroger.feed.activities.SplashActivity" name="feed"/>
+	<item class="com.secretcodes.geekyitools.activity.SplashScreen" name="geeky_tools"/>
+	<item class="com.projectx.hackerx.MainActivity" name="hacker_x"/>
+	<item class="com.freeit.java.modules.onboarding.SplashScreenActivity" name="hacking"/>
+	<item class="com.limebike.launcher.LauncherActivity" name="lime"/>
+	<item class="com.lookout.ui.LoadDispatch" name="lookout"/>
+	<item class="com.marlboro.mhq.app.MainActivity" name="mhq"/>
+	<item class="connectiq.miles.app.onboarding.SplashScreenActivity" name="miles"/>
+	<item class="com.possible_mobile.MainActivity" name="possible"/>
+	<item class="com.phonevalley.progressive.common.activities.SplashActivity" name="progressive"/>
+	<item class="com.samsung.knox.securefolder.presentation.switcher.view.SecureFolderShortcutActivity" name="secure_folder"/>
+	<item class="com.synchronoss.dcs.att.r2g.ATTSplash" name="setup_and_transfer"/>
+	<item class="com.samsung.vvm.vvmapp.VVMApplication" name="visual_voicemail"/>
+	<item class="com.shanga.walli.mvp.splash.SplashActivity" name="walli_4k"/>
+	<item class="com.dreamon.wallnut.MainActivity" name="wallnut"/>
+	<item class="com.yahoo.mobile.client.android.mail.activity.MainActivity" name="yahoo_mail"/>
+	<item class="net.zedge.android.MainDefault" name="zedge"/>
 
 </appmap>

@@ -586,6 +586,7 @@
 	<item component="ComponentInfo{com.samsung.android.appbooster/com.samsung.android.appbooster.app.presentation.home.HomeActivity}" drawable="galaxy_app_booster" />
 	<item component="ComponentInfo{com.samsung.android.lool/com.samsung.android.sm.score.ui.ScoreBoardActivity}" drawable="device_care" />
 	<item component="ComponentInfo{com.samsung.android.privateshare/com.samsung.android.privacy.view.MainActivity}" drawable="private_share" />
+	<item component="ComponentInfo{com.samsung.android.privateshare/com.samsung.android.privacy.view.MainActivity.launcher}" drawable="private_share" />
 	<item component="ComponentInfo{ginlemon.flowerfree/ginlemon.flower.HomeScreen}" drawable="smart_launcher" />
 	<item component="ComponentInfo{com.estrongs.android.pop/com.estrongs.android.pop.app.openscreenad.NewSplashActivity}" drawable="es_file_explorer" />
 	<item component="ComponentInfo{com.vanced.manager/com.vanced.manager.ui.SplashScreenActivity}" drawable="vanced_manager" />
@@ -789,5 +790,31 @@
 	<item component="ComponentInfo{com.samsung.android.app.routines/com.samsung.android.app.routines.ui.main.RoutineLaunchActivityDummy}" drawable="modi_und_routinen" />
 	<item component="ComponentInfo{app.revanced.manager.flutter/app.revanced.manager.flutter.MainActivity}" drawable="revanced_manager" />
 	<item component="ComponentInfo{com.microsoft.office.word/com.microsoft.office.apphost.LaunchActivity}" drawable="word" />
+	<item component="ComponentInfo{com.att.mobilesecurity/com.att.mobilesecurity.ui.launcher.AttOneAppLoadDispatchActivity}" drawable="activearmor" />
+	<item component="ComponentInfo{com.amazon.clouddrive.photos/com.amazon.photos.activity.LauncherActivity}" drawable="amazon_photos" />
+	<item component="ComponentInfo{com.amazon.mShop.android.shopping/com.amazon.mShop.home.HomeActivity}" drawable="amazon_shopping" />
+	<item component="ComponentInfo{com.sec.android.mimage.avatarstickers/com.sec.android.mimage.avatarstickers.activity.ShortcutActivity}" drawable="ar_emoji_stickers" />
+	<item component="ComponentInfo{com.backdrops.wallpapers/com.backdrops.wallpapers.WelcomeActivity}" drawable="backdrops" />
+	<item component="ComponentInfo{com.bitstrips.imoji/com.bitstrips.imoji.ui.activities.LandingActivity}" drawable="bitmoji" />
+	<item component="ComponentInfo{com.squareup.cash/com.squareup.cash.ui.MainActivity}" drawable="cash_app" />
+	<item component="ComponentInfo{com.DailyPay.DailyPay/com.DailyPay.DailyPay.MainActivity}" drawable="dailypay" />
+	<item component="ComponentInfo{com.sonyericsson.digitalclockwidget2/com.sonyericsson.digitalclockwidget2.Info}" drawable="digital_clock_and_weather" />
+	<item component="ComponentInfo{com.kroger.feed/com.kroger.feed.activities.SplashActivity}" drawable="feed" />
+	<item component="ComponentInfo{com.secretcodes.geekyitools/com.secretcodes.geekyitools.activity.SplashScreen}" drawable="geeky_tools" />
+	<item component="ComponentInfo{hacking.learnhacking.learn.hack.ethicalhacking.programming.coding.hackerx.cybersecurity/com.projectx.hackerx.MainActivity}" drawable="hacker_x" />
+	<item component="ComponentInfo{hacking.learnhacking.learn.hack.ethicalhacking.programming.coding/com.freeit.java.modules.onboarding.SplashScreenActivity}" drawable="hacking" />
+	<item component="ComponentInfo{com.limebike/com.limebike.launcher.LauncherActivity}" drawable="lime" />
+	<item component="ComponentInfo{com.lookout/com.lookout.ui.LoadDispatch}" drawable="lookout" />
+	<item component="ComponentInfo{com.marlboro.mhq.app/com.marlboro.mhq.app.MainActivity}" drawable="mhq" />
+	<item component="ComponentInfo{connectiq.miles.app/connectiq.miles.app.onboarding.SplashScreenActivity}" drawable="miles" />
+	<item component="ComponentInfo{com.possible_mobile/com.possible_mobile.MainActivity}" drawable="possible" />
+	<item component="ComponentInfo{com.phonevalley.progressive/com.phonevalley.progressive.common.activities.SplashActivity}" drawable="progressive" />
+	<item component="ComponentInfo{com.samsung.knox.securefolder/com.samsung.knox.securefolder.presentation.switcher.view.SecureFolderShortcutActivity}" drawable="secure_folder" />
+	<item component="ComponentInfo{com.synchronoss.dcs.att.r2g/com.synchronoss.dcs.att.r2g.ATTSplash}" drawable="setup_and_transfer" />
+	<item component="ComponentInfo{com.samsung.vvm/com.samsung.vvm.vvmapp.VVMApplication}" drawable="visual_voicemail" />
+	<item component="ComponentInfo{com.shanga.walli/com.shanga.walli.mvp.splash.SplashActivity}" drawable="walli_4k" />
+	<item component="ComponentInfo{com.dreamon.wallnut/com.dreamon.wallnut.MainActivity}" drawable="wallnut" />
+	<item component="ComponentInfo{com.yahoo.mobile.client.android.mail/com.yahoo.mobile.client.android.mail.activity.MainActivity}" drawable="yahoo_mail" />
+	<item component="ComponentInfo{net.zedge.android/net.zedge.android.MainDefault}" drawable="zedge" />
 
 </resources>
