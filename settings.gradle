@@ -1,1 +1,6 @@
 include ':app'
+sourceControl {
+    gitRepository("https://github.com/MiepHD/candybar.git") {
+        producesModule("com.github.miephd:candybar")
+    }
+}
