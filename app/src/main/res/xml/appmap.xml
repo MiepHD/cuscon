@@ -783,5 +783,22 @@
 	<item class="com.dreamon.wallnut.MainActivity" name="wallnut"/>
 	<item class="com.yahoo.mobile.client.android.mail.activity.MainActivity" name="yahoo_mail"/>
 	<item class="net.zedge.android.MainDefault" name="zedge"/>
+	<item class="info.lamatricexiste.networksearch.Activity_Splash" name="alerta_de_wifi_en_casa"/>
+	<item class="com.analiti.fastest.android.LaunchActivity" name="analiti"/>
+	<item class="com.pzolee.wifiinfo.MainActivity" name="analizador_wifi"/>
+	<item class="com.microsoft.ruby.Main" name="edge"/>
+	<item class="com.ghostery.android.ghostery.App" name="ghostery"/>
+	<item class="info.plateaukao.einkbro.activity.BrowserActivity" name="navegador_einkbro"/>
+	<item class="com.google.android.apps.chrome.Main" name="vivaldi_browser"/>
+	<item class="com.asahantech.wifianalyzer.MainActivity" name="wifi_analyzer"/>
+	<item class="atomic.black.icon.pack.activities.SplashActivity" name="atomic"/>
+	<item class="com.hiya.aegis.ui.HomeScreenActivity" name="call_protect"/>
+	<item class="com.chase.sig.android.activity.SplashActivity" name="chase"/>
+	<item class="com.askills.edu.ethical.hacking.university.MainActivity" name="ethical_hacking_university"/>
+	<item class="com.greendotcorp.core.SplashActivity" name="go2bank"/>
+	<item class="com.facebook.orca.auth.StartScreenActivity" name="messenger"/>
+	<item class="com.samsung.android.voc.LauncherActivity" name="samsung_members"/>
+	<item class="com.samsung.android.samsungpass.launcher.EntryLauncher" name="samsung_pass"/>
+	<item class="com.samsung.android.spay.ui.SpayMainActivity" name="samsung_wallet"/>
 
 </appmap>

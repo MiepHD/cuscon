@@ -2,6 +2,23 @@
 <resources>
     <version>1</version>
     <category title="All" />
+	<!-- Atomic --><item drawable="atomic" />
+	<!-- Call Protect --><item drawable="call_protect" />
+	<!-- Chase --><item drawable="chase" />
+	<!-- Ethical Hacking University --><item drawable="ethical_hacking_university" />
+	<!-- GO2bank --><item drawable="go2bank" />
+	<!-- Messenger --><item drawable="messenger" />
+	<!-- Samsung Members --><item drawable="samsung_members" />
+	<!-- Samsung Pass --><item drawable="samsung_pass" />
+	<!-- Samsung Wallet --><item drawable="samsung_wallet" />
+    <!-- Alerta de WiFi en casa --><item drawable="alerta_de_wifi_en_casa" />
+	<!-- analiti --><item drawable="analiti" />
+	<!-- Analizador WiFi --><item drawable="analizador_wifi" />
+	<!-- Edge --><item drawable="edge" />
+	<!-- Ghostery --><item drawable="ghostery" />
+	<!-- Navegador EinkBro --><item drawable="navegador_einkbro" />
+	<!-- Vivaldi Browser --><item drawable="vivaldi_browser" />
+	<!-- WiFi Analyzer --><item drawable="wifi_analyzer" />
     <!-- ActiveArmor --><item drawable="activearmor" />
 	<!-- Amazon Photos --><item drawable="amazon_photos" />
 	<!-- Amazon Shopping --><item drawable="amazon_shopping" />

@@ -752,5 +752,22 @@
 	{ "title": "Walli 4K", "author": "MiepHD", "src": "walli_4k" },
 	{ "title": "Wallnut", "author": "MiepHD", "src": "wallnut" },
 	{ "title": "Yahoo Mail", "author": "MiepHD", "src": "yahoo_mail" },
-	{ "title": "Zedge", "author": "MiepHD", "src": "zedge" }
+	{ "title": "Zedge", "author": "MiepHD", "src": "zedge" },
+	{ "title": "Alerta de WiFi en casa", "author": "MiepHD", "src": "alerta_de_wifi_en_casa" },
+	{ "title": "analiti", "author": "MiepHD", "src": "analiti" },
+	{ "title": "Analizador WiFi", "author": "MiepHD", "src": "analizador_wifi" },
+	{ "title": "Edge", "author": "MiepHD", "src": "edge" },
+	{ "title": "Ghostery", "author": "MiepHD", "src": "ghostery" },
+	{ "title": "Navegador EinkBro", "author": "MiepHD", "src": "navegador_einkbro" },
+	{ "title": "Vivaldi Browser", "author": "MiepHD", "src": "vivaldi_browser" },
+	{ "title": "WiFi Analyzer", "author": "MiepHD", "src": "wifi_analyzer" },
+	{ "title": "Atomic", "author": "MiepHD", "src": "atomic" },
+	{ "title": "Call Protect", "author": "MiepHD", "src": "call_protect" },
+	{ "title": "Chase", "author": "MiepHD", "src": "chase" },
+	{ "title": "Ethical Hacking University", "author": "MiepHD", "src": "ethical_hacking_university" },
+	{ "title": "GO2bank", "author": "MiepHD", "src": "go2bank" },
+	{ "title": "Messenger", "author": "MiepHD", "src": "messenger" },
+	{ "title": "Samsung Members", "author": "MiepHD", "src": "samsung_members" },
+	{ "title": "Samsung Pass", "author": "MiepHD", "src": "samsung_pass" },
+	{ "title": "Samsung Wallet", "author": "MiepHD", "src": "samsung_wallet" }
 ]

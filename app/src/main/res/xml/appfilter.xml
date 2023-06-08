@@ -816,5 +816,22 @@
 	<item component="ComponentInfo{com.dreamon.wallnut/com.dreamon.wallnut.MainActivity}" drawable="wallnut" />
 	<item component="ComponentInfo{com.yahoo.mobile.client.android.mail/com.yahoo.mobile.client.android.mail.activity.MainActivity}" drawable="yahoo_mail" />
 	<item component="ComponentInfo{net.zedge.android/net.zedge.android.MainDefault}" drawable="zedge" />
+	<item component="ComponentInfo{info.lamatricexiste.networksearch/info.lamatricexiste.networksearch.Activity_Splash}" drawable="alerta_de_wifi_en_casa" />
+	<item component="ComponentInfo{com.analiti.fastest.android/com.analiti.fastest.android.LaunchActivity}" drawable="analiti" />
+	<item component="ComponentInfo{com.pzolee.wifiinfo/com.pzolee.wifiinfo.MainActivity}" drawable="analizador_wifi" />
+	<item component="ComponentInfo{com.microsoft.emmx/com.microsoft.ruby.Main}" drawable="edge" />
+	<item component="ComponentInfo{com.ghostery.android.ghostery/com.ghostery.android.ghostery.App}" drawable="ghostery" />
+	<item component="ComponentInfo{info.plateaukao.einkbro/info.plateaukao.einkbro.activity.BrowserActivity}" drawable="navegador_einkbro" />
+	<item component="ComponentInfo{com.vivaldi.browser/com.google.android.apps.chrome.Main}" drawable="vivaldi_browser" />
+	<item component="ComponentInfo{com.asahantech.wifianalyzer/com.asahantech.wifianalyzer.MainActivity}" drawable="wifi_analyzer" />
+	<item component="ComponentInfo{atomic.black.icon.pack/atomic.black.icon.pack.activities.SplashActivity}" drawable="atomic" />
+	<item component="ComponentInfo{com.att.callprotect/com.hiya.aegis.ui.HomeScreenActivity}" drawable="call_protect" />
+	<item component="ComponentInfo{com.chase.sig.android/com.chase.sig.android.activity.SplashActivity}" drawable="chase" />
+	<item component="ComponentInfo{com.askills.edu.ethical.hacking.university/com.askills.edu.ethical.hacking.university.MainActivity}" drawable="ethical_hacking_university" />
+	<item component="ComponentInfo{com.greendotcorp.go2bank/com.greendotcorp.core.SplashActivity}" drawable="go2bank" />
+	<item component="ComponentInfo{com.facebook.orca/com.facebook.orca.auth.StartScreenActivity}" drawable="messenger" />
+	<item component="ComponentInfo{com.samsung.android.voc/com.samsung.android.voc.LauncherActivity}" drawable="samsung_members" />
+	<item component="ComponentInfo{com.samsung.android.samsungpass/com.samsung.android.samsungpass.launcher.EntryLauncher}" drawable="samsung_pass" />
+	<item component="ComponentInfo{com.samsung.android.spay/com.samsung.android.spay.ui.SpayMainActivity}" drawable="samsung_wallet" />
 
 </resources>

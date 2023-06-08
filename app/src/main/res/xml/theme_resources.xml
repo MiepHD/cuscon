@@ -793,5 +793,22 @@
 	<AppIcon name="com.dreamon.wallnut/com.dreamon.wallnut.MainActivity" image="wallnut"/>
 	<AppIcon name="com.yahoo.mobile.client.android.mail/com.yahoo.mobile.client.android.mail.activity.MainActivity" image="yahoo_mail"/>
 	<AppIcon name="net.zedge.android/net.zedge.android.MainDefault" image="zedge"/>
+	<AppIcon name="info.lamatricexiste.networksearch/info.lamatricexiste.networksearch.Activity_Splash" image="alerta_de_wifi_en_casa"/>
+	<AppIcon name="com.analiti.fastest.android/com.analiti.fastest.android.LaunchActivity" image="analiti"/>
+	<AppIcon name="com.pzolee.wifiinfo/com.pzolee.wifiinfo.MainActivity" image="analizador_wifi"/>
+	<AppIcon name="com.microsoft.emmx/com.microsoft.ruby.Main" image="edge"/>
+	<AppIcon name="com.ghostery.android.ghostery/com.ghostery.android.ghostery.App" image="ghostery"/>
+	<AppIcon name="info.plateaukao.einkbro/info.plateaukao.einkbro.activity.BrowserActivity" image="navegador_einkbro"/>
+	<AppIcon name="com.vivaldi.browser/com.google.android.apps.chrome.Main" image="vivaldi_browser"/>
+	<AppIcon name="com.asahantech.wifianalyzer/com.asahantech.wifianalyzer.MainActivity" image="wifi_analyzer"/>
+	<AppIcon name="atomic.black.icon.pack/atomic.black.icon.pack.activities.SplashActivity" image="atomic"/>
+	<AppIcon name="com.att.callprotect/com.hiya.aegis.ui.HomeScreenActivity" image="call_protect"/>
+	<AppIcon name="com.chase.sig.android/com.chase.sig.android.activity.SplashActivity" image="chase"/>
+	<AppIcon name="com.askills.edu.ethical.hacking.university/com.askills.edu.ethical.hacking.university.MainActivity" image="ethical_hacking_university"/>
+	<AppIcon name="com.greendotcorp.go2bank/com.greendotcorp.core.SplashActivity" image="go2bank"/>
+	<AppIcon name="com.facebook.orca/com.facebook.orca.auth.StartScreenActivity" image="messenger"/>
+	<AppIcon name="com.samsung.android.voc/com.samsung.android.voc.LauncherActivity" image="samsung_members"/>
+	<AppIcon name="com.samsung.android.samsungpass/com.samsung.android.samsungpass.launcher.EntryLauncher" image="samsung_pass"/>
+	<AppIcon name="com.samsung.android.spay/com.samsung.android.spay.ui.SpayMainActivity" image="samsung_wallet"/>
 
 </Theme>

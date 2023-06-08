@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="changelog_date">06.06.2023</string>
+    <string name="changelog_date">08.06.2023</string>
     <string-array name="changelog">
+        <item>3.0.0.9:</item>
+        <item>Added Alerta de WiFi en casa, analiti, Analizador WiFi, Edge, Ghostery, Navegador EinkBro, Vivaldi Browser, WiFi Analyzer, Atomic, Call Protect, Chase, Ethical Hacking University, GO2bank, Messenger, Samsung Members, Samsung Pass, Samsung Wallet</item>
         <item>3.0.0.8:</item>
         <item>Added Excel, Modi und Routinen, ReVanced Manager, Word, ActiveArmor, Amazon Photos, Amazon Shopping, AR Emoji Stickers, Backdrops, Bitmoji, Cash App, DailyPay, Digital Clock and Weather, FEED, Geeky Tools, Hacker X, Hacking, Lime, Lookout, MHQ, Miles, Possible, Progressive, Secure Folder, Setup and Transfer, Visual Voicemail, Walli 4K, Wallnut, Yahoo Mail, Zedge</item>
         <item>Updated Private Share</item>
