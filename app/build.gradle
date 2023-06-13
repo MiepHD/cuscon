@@ -26,6 +26,21 @@ android {
             proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
         }
     }
+    
+    flavorDimensions "variant"
+	productFlavors {
+		play {
+			dimension "variant"
+			resValue "string", "app_name", "Cuscon"
+			matchingFallbacks = ["play"]
+		}
+		foss {
+			dimension "variant"
+			applicationIdSuffix '.foss'
+			resValue "string", "app_name", "Cuscon"
+			matchingFallbacks = ["foss"]
+		}
+	}
 
     compileOptions {
         sourceCompatibility JavaVersion.VERSION_1_8
@@ -34,4 +49,7 @@ android {
     namespace 'com.froxot.cuscon'
 }
 
-dependencies { implementation 'com.github.zixpo:candybar:3.17.1' }
+dependencies {
+	playImplementation 'com.github.zixpo:candybar:3.17.4'
+	fossImplementation 'com.github.Donnnno:candybar-foss:3.17.4'
+}
