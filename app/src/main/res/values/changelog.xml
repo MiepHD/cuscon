@@ -2,6 +2,8 @@
 <resources>
     <string name="changelog_date">08.06.2023</string>
     <string-array name="changelog">
+        <item>3.0.1.0:</item>
+        <item>Updated candybar version</item>
         <item>3.0.0.9:</item>
         <item>Added Alerta de WiFi en casa, analiti, Analizador WiFi, Edge, Ghostery, Navegador EinkBro, Vivaldi Browser, WiFi Analyzer, Atomic, Call Protect, Chase, Ethical Hacking University, GO2bank, Messenger, Samsung Members, Samsung Pass, Samsung Wallet</item>
         <item>3.0.0.8:</item>
