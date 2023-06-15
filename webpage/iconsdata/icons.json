@@ -769,5 +769,11 @@
 	{ "title": "Messenger", "author": "MiepHD", "src": "messenger" },
 	{ "title": "Samsung Members", "author": "MiepHD", "src": "samsung_members" },
 	{ "title": "Samsung Pass", "author": "MiepHD", "src": "samsung_pass" },
-	{ "title": "Samsung Wallet", "author": "MiepHD", "src": "samsung_wallet" }
+	{ "title": "Samsung Wallet", "author": "MiepHD", "src": "samsung_wallet" },
+	{ "title": "AT&T Cloud", "author": "MiepHD", "src": "at_and_t_cloud" },
+	{ "title": "AT&T Smart Wi-Fi", "author": "MiepHD", "src": "at_and_t_smart_wi_fi" },
+	{ "title": "Device Help", "author": "MiepHD", "src": "device_help" },
+	{ "title": "myAT&T", "author": "MiepHD", "src": "myat_and_t" },
+	{ "title": "WhitArt", "author": "MiepHD", "src": "whitart" },
+	{ "title": "WiZ", "author": "MiepHD", "src": "wiz" }
 ]

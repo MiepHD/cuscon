@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="changelog_date">08.06.2023</string>
+    <string name="changelog_date">15.06.2023</string>
     <string-array name="changelog">
+        <item>3.0.1.1:</item>
+        <item>Added ATT Cloud, ATT Smart Wi-Fi, Device Help, myATT, WhitArt, WiZ</item>
         <item>3.0.1.0:</item>
         <item>Updated candybar version</item>
         <item>3.0.0.9:</item>

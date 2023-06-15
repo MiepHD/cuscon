@@ -810,5 +810,11 @@
 	<AppIcon name="com.samsung.android.voc/com.samsung.android.voc.LauncherActivity" image="samsung_members"/>
 	<AppIcon name="com.samsung.android.samsungpass/com.samsung.android.samsungpass.launcher.EntryLauncher" image="samsung_pass"/>
 	<AppIcon name="com.samsung.android.spay/com.samsung.android.spay.ui.SpayMainActivity" image="samsung_wallet"/>
+	<AppIcon name="com.att.personalcloud/com.att.personalcloud.gui.activities.SplashLogoActivity" image="at_and_t_cloud"/>
+	<AppIcon name="com.att.android.attsmartwifi/com.att.android.attsmartwifi.ui.SplashScreen" image="at_and_t_smart_wi_fi"/>
+	<AppIcon name="com.att.dh/com.mce.MainActivity" image="device_help"/>
+	<AppIcon name="com.att.myWireless/com.att.myWireless.RNMainActivity" image="myat_and_t"/>
+	<AppIcon name="com.osheden.whitart/com.osheden.whitart.activities.SplashActivity" image="whitart"/>
+	<AppIcon name="com.tao.wiz/com.tao.wiz.front.activities.splashscreen.SplashScreenActivity" image="wiz"/>
 
 </Theme>

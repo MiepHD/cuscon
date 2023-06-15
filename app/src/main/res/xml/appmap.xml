@@ -800,5 +800,11 @@
 	<item class="com.samsung.android.voc.LauncherActivity" name="samsung_members"/>
 	<item class="com.samsung.android.samsungpass.launcher.EntryLauncher" name="samsung_pass"/>
 	<item class="com.samsung.android.spay.ui.SpayMainActivity" name="samsung_wallet"/>
+	<item class="com.att.personalcloud.gui.activities.SplashLogoActivity" name="at_and_t_cloud"/>
+	<item class="com.att.android.attsmartwifi.ui.SplashScreen" name="at_and_t_smart_wi_fi"/>
+	<item class="com.mce.MainActivity" name="device_help"/>
+	<item class="com.att.myWireless.RNMainActivity" name="myat_and_t"/>
+	<item class="com.osheden.whitart.activities.SplashActivity" name="whitart"/>
+	<item class="com.tao.wiz.front.activities.splashscreen.SplashScreenActivity" name="wiz"/>
 
 </appmap>

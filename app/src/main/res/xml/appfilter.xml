@@ -833,5 +833,11 @@
 	<item component="ComponentInfo{com.samsung.android.voc/com.samsung.android.voc.LauncherActivity}" drawable="samsung_members" />
 	<item component="ComponentInfo{com.samsung.android.samsungpass/com.samsung.android.samsungpass.launcher.EntryLauncher}" drawable="samsung_pass" />
 	<item component="ComponentInfo{com.samsung.android.spay/com.samsung.android.spay.ui.SpayMainActivity}" drawable="samsung_wallet" />
+	<item component="ComponentInfo{com.att.personalcloud/com.att.personalcloud.gui.activities.SplashLogoActivity}" drawable="at_and_t_cloud" />
+	<item component="ComponentInfo{com.att.android.attsmartwifi/com.att.android.attsmartwifi.ui.SplashScreen}" drawable="at_and_t_smart_wi_fi" />
+	<item component="ComponentInfo{com.att.dh/com.mce.MainActivity}" drawable="device_help" />
+	<item component="ComponentInfo{com.att.myWireless/com.att.myWireless.RNMainActivity}" drawable="myat_and_t" />
+	<item component="ComponentInfo{com.osheden.whitart/com.osheden.whitart.activities.SplashActivity}" drawable="whitart" />
+	<item component="ComponentInfo{com.tao.wiz/com.tao.wiz.front.activities.splashscreen.SplashScreenActivity}" drawable="wiz" />
 
 </resources>

@@ -2,6 +2,12 @@
 <resources>
     <version>1</version>
     <category title="All" />
+	<!-- AT&T Cloud --><item drawable="at_and_t_cloud" />
+	<!-- AT&T Smart Wi-Fi --><item drawable="at_and_t_smart_wi_fi" />
+	<!-- Device Help --><item drawable="device_help" />
+	<!-- myAT&T --><item drawable="myat_and_t" />
+	<!-- WhitArt --><item drawable="whitart" />
+	<!-- WiZ --><item drawable="wiz" />
 	<!-- Atomic --><item drawable="atomic" />
 	<!-- Call Protect --><item drawable="call_protect" />
 	<!-- Chase --><item drawable="chase" />
