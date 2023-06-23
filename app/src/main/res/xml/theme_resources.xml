@@ -821,5 +821,7 @@
 	<AppIcon name="com.apalon.weatherradar.free/com.apalon.weatherradar.activity.MapActivity" image="clime"/>
 	<AppIcon name="cz.ackee.ventusky/cz.ackee.ventusky.screens.MainActivity" image="ventusky"/>
 	<AppIcon name="me.zhanghai.android.files/me.zhanghai.android.files.filelist.FileListActivity" image="material_files"/>
+	<AppIcon name="com.illusivereflection.berbausimulator/com.godot.game.GodotApp" image="ber_bausimulator"/>
+	<AppIcon name="org.localsend.localsend_app/org.localsend.localsend_app.MainActivity" image="localsend"/>
 
 </Theme>

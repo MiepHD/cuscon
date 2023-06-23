@@ -2,6 +2,8 @@
 <resources>
     <version>1</version>
     <category title="All" />
+	<!-- BER Bausimulator --><item drawable="ber_bausimulator" />
+	<!-- LocalSend --><item drawable="localsend" />
 	<!-- Material Files --><item drawable="material_files" />
 	<!-- Clima diario --><item drawable="clima_diario" />
 	<!-- Clime --><item drawable="clime" />

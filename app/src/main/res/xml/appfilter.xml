@@ -844,5 +844,7 @@
 	<item component="ComponentInfo{com.apalon.weatherradar.free/com.apalon.weatherradar.activity.MapActivity}" drawable="clime" />
 	<item component="ComponentInfo{cz.ackee.ventusky/cz.ackee.ventusky.screens.MainActivity}" drawable="ventusky" />
 	<item component="ComponentInfo{me.zhanghai.android.files/me.zhanghai.android.files.filelist.FileListActivity}" drawable="material_files" />
+	<item component="ComponentInfo{com.illusivereflection.berbausimulator/com.godot.game.GodotApp}" drawable="ber_bausimulator" />
+	<item component="ComponentInfo{org.localsend.localsend_app/org.localsend.localsend_app.MainActivity}" drawable="localsend" />
 
 </resources>

@@ -811,4 +811,7 @@
 	<item class="com.apalon.weatherradar.activity.MapActivity" name="clime"/>
 	<item class="cz.ackee.ventusky.screens.MainActivity" name="ventusky"/>
 	<item class="me.zhanghai.android.files.filelist.FileListActivity" name="material_files"/>
+	<item class="com.godot.game.GodotApp" name="ber_bausimulator"/>
+	<item class="org.localsend.localsend_app.MainActivity" name="localsend"/>
+
 </appmap>
