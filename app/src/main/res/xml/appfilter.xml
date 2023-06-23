@@ -839,5 +839,9 @@
 	<item component="ComponentInfo{com.att.myWireless/com.att.myWireless.RNMainActivity}" drawable="myat_and_t" />
 	<item component="ComponentInfo{com.osheden.whitart/com.osheden.whitart.activities.SplashActivity}" drawable="whitart" />
 	<item component="ComponentInfo{com.tao.wiz/com.tao.wiz.front.activities.splashscreen.SplashScreenActivity}" drawable="wiz" />
+	<item component="ComponentInfo{com.adguard.android/com.adguard.android.ui.activity.MainActivity}" drawable="adguard" />
+	<item component="ComponentInfo{com.meteo.weather.forecast.radar.v2/com.toh.weatherforecast3.ui.settings.SettingsActivity}" drawable="clima_diario" />
+	<item component="ComponentInfo{com.apalon.weatherradar.free/com.apalon.weatherradar.activity.MapActivity}" drawable="clime" />
+	<item component="ComponentInfo{cz.ackee.ventusky/cz.ackee.ventusky.screens.MainActivity}" drawable="ventusky" />
 
 </resources>

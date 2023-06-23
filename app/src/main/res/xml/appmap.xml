@@ -806,5 +806,9 @@
 	<item class="com.att.myWireless.RNMainActivity" name="myat_and_t"/>
 	<item class="com.osheden.whitart.activities.SplashActivity" name="whitart"/>
 	<item class="com.tao.wiz.front.activities.splashscreen.SplashScreenActivity" name="wiz"/>
+	<item class="com.adguard.android.ui.activity.MainActivity" name="adguard"/>
+	<item class="com.toh.weatherforecast3.ui.settings.SettingsActivity" name="clima_diario"/>
+	<item class="com.apalon.weatherradar.activity.MapActivity" name="clime"/>
+	<item class="cz.ackee.ventusky.screens.MainActivity" name="ventusky"/>
 
 </appmap>

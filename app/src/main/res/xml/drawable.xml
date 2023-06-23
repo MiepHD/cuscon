@@ -2,6 +2,9 @@
 <resources>
     <version>1</version>
     <category title="All" />
+	<!-- Clima diario --><item drawable="clima_diario" />
+	<!-- Clime --><item drawable="clime" />
+	<!-- Ventusky --><item drawable="ventusky" />
 	<!-- AT&T Cloud --><item drawable="at_and_t_cloud" />
 	<!-- AT&T Smart Wi-Fi --><item drawable="at_and_t_smart_wi_fi" />
 	<!-- Device Help --><item drawable="device_help" />

@@ -816,5 +816,9 @@
 	<AppIcon name="com.att.myWireless/com.att.myWireless.RNMainActivity" image="myat_and_t"/>
 	<AppIcon name="com.osheden.whitart/com.osheden.whitart.activities.SplashActivity" image="whitart"/>
 	<AppIcon name="com.tao.wiz/com.tao.wiz.front.activities.splashscreen.SplashScreenActivity" image="wiz"/>
+	<AppIcon name="com.adguard.android/com.adguard.android.ui.activity.MainActivity" image="adguard"/>
+	<AppIcon name="com.meteo.weather.forecast.radar.v2/com.toh.weatherforecast3.ui.settings.SettingsActivity" image="clima_diario"/>
+	<AppIcon name="com.apalon.weatherradar.free/com.apalon.weatherradar.activity.MapActivity" image="clime"/>
+	<AppIcon name="cz.ackee.ventusky/cz.ackee.ventusky.screens.MainActivity" image="ventusky"/>
 
 </Theme>
