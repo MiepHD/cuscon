@@ -820,5 +820,6 @@
 	<AppIcon name="com.meteo.weather.forecast.radar.v2/com.toh.weatherforecast3.ui.settings.SettingsActivity" image="clima_diario"/>
 	<AppIcon name="com.apalon.weatherradar.free/com.apalon.weatherradar.activity.MapActivity" image="clime"/>
 	<AppIcon name="cz.ackee.ventusky/cz.ackee.ventusky.screens.MainActivity" image="ventusky"/>
+	<AppIcon name="me.zhanghai.android.files/me.zhanghai.android.files.filelist.FileListActivity" image="material_files"/>
 
 </Theme>

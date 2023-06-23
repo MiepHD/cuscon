@@ -843,5 +843,6 @@
 	<item component="ComponentInfo{com.meteo.weather.forecast.radar.v2/com.toh.weatherforecast3.ui.settings.SettingsActivity}" drawable="clima_diario" />
 	<item component="ComponentInfo{com.apalon.weatherradar.free/com.apalon.weatherradar.activity.MapActivity}" drawable="clime" />
 	<item component="ComponentInfo{cz.ackee.ventusky/cz.ackee.ventusky.screens.MainActivity}" drawable="ventusky" />
+	<item component="ComponentInfo{me.zhanghai.android.files/me.zhanghai.android.files.filelist.FileListActivity}" drawable="material_files" />
 
 </resources>

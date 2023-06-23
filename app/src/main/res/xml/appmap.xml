@@ -810,5 +810,5 @@
 	<item class="com.toh.weatherforecast3.ui.settings.SettingsActivity" name="clima_diario"/>
 	<item class="com.apalon.weatherradar.activity.MapActivity" name="clime"/>
 	<item class="cz.ackee.ventusky.screens.MainActivity" name="ventusky"/>
-
+	<item class="me.zhanghai.android.files.filelist.FileListActivity" name="material_files"/>
 </appmap>
