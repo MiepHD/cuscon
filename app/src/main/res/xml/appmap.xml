@@ -840,7 +840,7 @@
 	<item class="teletalk.teletalkcustomerapp.activity.SplashActivity" name="myteletalk"/>
 	<item class="com.samsung.android.ruler.main.rulerPreviewActivity" name="quick_measure"/>
 	<item class="com.google.android.youtube.app.honeycomb.Shell$HomeActivity" name="revanced_extended"/>
-	<item class="com.revanced.net.revancedmanager.MainActivity" name="revanced_manager_revancednet"/>
+	<item class="com.revanced.net.revancedmanager.MainActivity" name="revanced_manager"/>
 	<item class="com.dbbl.mbs.apps.main.SplashActivity" name="rocket"/>
 	<item class="com.android.stk.StkLauncherActivity" name="teletalk_stk_menu"/>
 	<item class="com.signallab.thunder.activity.SplashActivity" name="thunder_vpn"/>

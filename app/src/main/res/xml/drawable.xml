@@ -790,7 +790,6 @@
 	<!-- MyTeletalk --><item drawable="myteletalk" />
 	<!-- Quick measure --><item drawable="quick_measure" />
 	<!-- ReVanced Extended --><item drawable="revanced_extended" />
-	<!-- Revanced Manager - revanced.net --><item drawable="revanced_manager_revancednet" />
 	<!-- Rocket --><item drawable="rocket" />
 	<!-- Teletalk STK Menu --><item drawable="teletalk_stk_menu" />
 	<!-- Thunder VPN --><item drawable="thunder_vpn" />

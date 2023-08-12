@@ -873,7 +873,7 @@
 	<item component="ComponentInfo{teletalk.teletalkcustomerapp/teletalk.teletalkcustomerapp.activity.SplashActivity}" drawable="myteletalk" />
 	<item component="ComponentInfo{com.samsung.android.ruler/com.samsung.android.ruler.main.rulerPreviewActivity}" drawable="quick_measure" />
 	<item component="ComponentInfo{app.rvx.android.youtube/com.google.android.youtube.app.honeycomb.Shell$HomeActivity}" drawable="revanced_extended" />
-	<item component="ComponentInfo{com.revanced.net.revancedmanager/com.revanced.net.revancedmanager.MainActivity}" drawable="revanced_manager_revancednet" />
+	<item component="ComponentInfo{com.revanced.net.revancedmanager/com.revanced.net.revancedmanager.MainActivity}" drawable="revanced_manager" />
 	<item component="ComponentInfo{com.dbbl.mbs.apps.main/com.dbbl.mbs.apps.main.SplashActivity}" drawable="rocket" />
 	<item component="ComponentInfo{com.android.stk/com.android.stk.StkLauncherActivity}" drawable="teletalk_stk_menu" />
 	<item component="ComponentInfo{com.fast.free.unblock.thunder.vpn/com.signallab.thunder.activity.SplashActivity}" drawable="thunder_vpn" />

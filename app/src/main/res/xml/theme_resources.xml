@@ -850,7 +850,7 @@
 	<AppIcon name="teletalk.teletalkcustomerapp/teletalk.teletalkcustomerapp.activity.SplashActivity" image="myteletalk"/>
 	<AppIcon name="com.samsung.android.ruler/com.samsung.android.ruler.main.rulerPreviewActivity" image="quick_measure"/>
 	<AppIcon name="app.rvx.android.youtube/com.google.android.youtube.app.honeycomb.Shell$HomeActivity" image="revanced_extended"/>
-	<AppIcon name="com.revanced.net.revancedmanager/com.revanced.net.revancedmanager.MainActivity" image="revanced_manager_revancednet"/>
+	<AppIcon name="com.revanced.net.revancedmanager/com.revanced.net.revancedmanager.MainActivity" image="revanced_manager"/>
 	<AppIcon name="com.dbbl.mbs.apps.main/com.dbbl.mbs.apps.main.SplashActivity" image="rocket"/>
 	<AppIcon name="com.android.stk/com.android.stk.StkLauncherActivity" image="teletalk_stk_menu"/>
 	<AppIcon name="com.fast.free.unblock.thunder.vpn/com.signallab.thunder.activity.SplashActivity" image="thunder_vpn"/>
