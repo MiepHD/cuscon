@@ -765,5 +765,7 @@
     <!-- VR SecureGo plus --><item drawable="vr_securego_plus" />
     <!-- HP PAY --><item drawable="hp_pay" />
     <!-- Klarna --><item drawable="klarna" />
+    <!-- Dolby Atmos --><item drawable="dolby_atmos" />
+	<!-- Grabadora --><item drawable="grabadora" />
 
 </resources>

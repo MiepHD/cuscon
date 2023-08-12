@@ -813,5 +813,7 @@
 	<item class="me.zhanghai.android.files.filelist.FileListActivity" name="material_files"/>
 	<item class="com.godot.game.GodotApp" name="ber_bausimulator"/>
 	<item class="org.localsend.localsend_app.MainActivity" name="localsend"/>
+	<item class="com.motorola.dolby.dolbyui.ui.LauncherActivity" name="dolby_atmos"/>
+	<item class="com.motorola.audiorecorder.ui.main.MainActivity" name="grabadora"/>
 
 </appmap>

@@ -823,5 +823,7 @@
 	<AppIcon name="me.zhanghai.android.files/me.zhanghai.android.files.filelist.FileListActivity" image="material_files"/>
 	<AppIcon name="com.illusivereflection.berbausimulator/com.godot.game.GodotApp" image="ber_bausimulator"/>
 	<AppIcon name="org.localsend.localsend_app/org.localsend.localsend_app.MainActivity" image="localsend"/>
+	<AppIcon name="com.motorola.dolby.dolbyui/com.motorola.dolby.dolbyui.ui.LauncherActivity" image="dolby_atmos"/>
+	<AppIcon name="com.motorola.audiorecorder/com.motorola.audiorecorder.ui.main.MainActivity" image="grabadora"/>
 
 </Theme>
