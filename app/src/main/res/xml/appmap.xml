@@ -818,5 +818,7 @@
 	<item class="com.zafaco.breitbandmessung.activities.HomeActivity" name="messung"/>
 	<item class="com.thirtydays.headset.page.activity.LoadingActivity" name="soundpeats"/>
 	<item class="com.termux.widget.activities.TermuxWidgetActivity" name="termux"/>
-
+	<item class="db.vendo.android.vendigator.view.main.MainActivity" name="next_db_navigator"/>
+	<item class="org.klimabuendnis.stadtradeln.StartupActivity" name="stadtradeln"/>
+	<item class="com.instagram.barcelona.mainactivity.BarcelonaActivity" name="threads"/>
 </appmap>

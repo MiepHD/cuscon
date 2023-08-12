@@ -769,5 +769,8 @@
 	<!-- Grabadora --><item drawable="grabadora" />
 	<!-- Messung --><item drawable="messung" />
 	<!-- SOUNDPEATS --><item drawable="soundpeats" />
+	<!-- Next DB Navigator --><item drawable="next_db_navigator" />
+	<!-- STADTRADELN --><item drawable="stadtradeln" />
+	<!-- Threads --><item drawable="threads" />
 
 </resources>

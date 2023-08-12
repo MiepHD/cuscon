@@ -851,5 +851,8 @@
 	<item component="ComponentInfo{com.zafaco.breitbandmessung/com.zafaco.breitbandmessung.activities.HomeActivity}" drawable="messung" />
 	<item component="ComponentInfo{com.thirtydays.headset/com.thirtydays.headset.page.activity.LoadingActivity}" drawable="soundpeats" />
 	<item component="ComponentInfo{com.termux.widget/com.termux.widget.activities.TermuxWidgetActivity}" drawable="termux" />
+	<item component="ComponentInfo{com.deutschebahn.app.android/db.vendo.android.vendigator.view.main.MainActivity}" drawable="next_db_navigator" />
+	<item component="ComponentInfo{org.klimabuendnis.Stadtradeln/org.klimabuendnis.stadtradeln.StartupActivity}" drawable="stadtradeln" />
+	<item component="ComponentInfo{com.instagram.barcelona/com.instagram.barcelona.mainactivity.BarcelonaActivity}" drawable="threads" />
 
 </resources>

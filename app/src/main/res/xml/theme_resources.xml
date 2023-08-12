@@ -828,5 +828,8 @@
 	<AppIcon name="com.zafaco.breitbandmessung/com.zafaco.breitbandmessung.activities.HomeActivity" image="messung"/>
 	<AppIcon name="com.thirtydays.headset/com.thirtydays.headset.page.activity.LoadingActivity" image="soundpeats"/>
 	<AppIcon name="com.termux.widget/com.termux.widget.activities.TermuxWidgetActivity" image="termux"/>
+	<AppIcon name="com.deutschebahn.app.android/db.vendo.android.vendigator.view.main.MainActivity" image="next_db_navigator"/>
+	<AppIcon name="org.klimabuendnis.Stadtradeln/org.klimabuendnis.stadtradeln.StartupActivity" image="stadtradeln"/>
+	<AppIcon name="com.instagram.barcelona/com.instagram.barcelona.mainactivity.BarcelonaActivity" image="threads"/>
 
 </Theme>
