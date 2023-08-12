@@ -815,5 +815,8 @@
 	<item class="org.localsend.localsend_app.MainActivity" name="localsend"/>
 	<item class="com.motorola.dolby.dolbyui.ui.LauncherActivity" name="dolby_atmos"/>
 	<item class="com.motorola.audiorecorder.ui.main.MainActivity" name="grabadora"/>
+	<item class="com.zafaco.breitbandmessung.activities.HomeActivity" name="messung"/>
+	<item class="com.thirtydays.headset.page.activity.LoadingActivity" name="soundpeats"/>
+	<item class="com.termux.widget.activities.TermuxWidgetActivity" name="termux"/>
 
 </appmap>

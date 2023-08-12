@@ -825,5 +825,8 @@
 	<AppIcon name="org.localsend.localsend_app/org.localsend.localsend_app.MainActivity" image="localsend"/>
 	<AppIcon name="com.motorola.dolby.dolbyui/com.motorola.dolby.dolbyui.ui.LauncherActivity" image="dolby_atmos"/>
 	<AppIcon name="com.motorola.audiorecorder/com.motorola.audiorecorder.ui.main.MainActivity" image="grabadora"/>
+	<AppIcon name="com.zafaco.breitbandmessung/com.zafaco.breitbandmessung.activities.HomeActivity" image="messung"/>
+	<AppIcon name="com.thirtydays.headset/com.thirtydays.headset.page.activity.LoadingActivity" image="soundpeats"/>
+	<AppIcon name="com.termux.widget/com.termux.widget.activities.TermuxWidgetActivity" image="termux"/>
 
 </Theme>

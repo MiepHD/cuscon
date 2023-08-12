@@ -848,5 +848,8 @@
 	<item component="ComponentInfo{org.localsend.localsend_app/org.localsend.localsend_app.MainActivity}" drawable="localsend" />
 	<item component="ComponentInfo{com.motorola.dolby.dolbyui/com.motorola.dolby.dolbyui.ui.LauncherActivity}" drawable="dolby_atmos" />
 	<item component="ComponentInfo{com.motorola.audiorecorder/com.motorola.audiorecorder.ui.main.MainActivity}" drawable="grabadora" />
+	<item component="ComponentInfo{com.zafaco.breitbandmessung/com.zafaco.breitbandmessung.activities.HomeActivity}" drawable="messung" />
+	<item component="ComponentInfo{com.thirtydays.headset/com.thirtydays.headset.page.activity.LoadingActivity}" drawable="soundpeats" />
+	<item component="ComponentInfo{com.termux.widget/com.termux.widget.activities.TermuxWidgetActivity}" drawable="termux" />
 
 </resources>

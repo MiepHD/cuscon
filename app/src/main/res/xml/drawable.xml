@@ -767,5 +767,7 @@
     <!-- Klarna --><item drawable="klarna" />
     <!-- Dolby Atmos --><item drawable="dolby_atmos" />
 	<!-- Grabadora --><item drawable="grabadora" />
+	<!-- Messung --><item drawable="messung" />
+	<!-- SOUNDPEATS --><item drawable="soundpeats" />
 
 </resources>
