@@ -831,5 +831,10 @@
 	<AppIcon name="com.deutschebahn.app.android/db.vendo.android.vendigator.view.main.MainActivity" image="next_db_navigator"/>
 	<AppIcon name="org.klimabuendnis.Stadtradeln/org.klimabuendnis.stadtradeln.StartupActivity" image="stadtradeln"/>
 	<AppIcon name="com.instagram.barcelona/com.instagram.barcelona.mainactivity.BarcelonaActivity" image="threads"/>
+	<AppIcon name="com.happymod.apk/com.happymod.apk.hmmvp.main.LaunchActivity" image="happymod"/>
+	<AppIcon name="com.netflix.NGP.CatsSoup/com.unity3d.player.UnityPlayerActivity" image="katzen_and_suppe"/>
+	<AppIcon name="com.netflix.NGP.KrispeeStreet/com.unity3d.player.UnityPlayerActivity" image="krispee_street"/>
+	<AppIcon name="com.netflix.NGP.Moonlighter/com.unity3d.player.UnityPlayerActivity" image="moonlighter_netflix_edition"/>
+	<AppIcon name="com.netflix.NGP.WonderputtForever/com.netflix.NGP.WonderputtForever.AIRAppEntry" image="wonderputt_forever"/>
 
 </Theme>

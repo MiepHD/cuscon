@@ -854,5 +854,10 @@
 	<item component="ComponentInfo{com.deutschebahn.app.android/db.vendo.android.vendigator.view.main.MainActivity}" drawable="next_db_navigator" />
 	<item component="ComponentInfo{org.klimabuendnis.Stadtradeln/org.klimabuendnis.stadtradeln.StartupActivity}" drawable="stadtradeln" />
 	<item component="ComponentInfo{com.instagram.barcelona/com.instagram.barcelona.mainactivity.BarcelonaActivity}" drawable="threads" />
+	<item component="ComponentInfo{com.happymod.apk/com.happymod.apk.hmmvp.main.LaunchActivity}" drawable="happymod" />
+	<item component="ComponentInfo{com.netflix.NGP.CatsSoup/com.unity3d.player.UnityPlayerActivity}" drawable="katzen_and_suppe" />
+	<item component="ComponentInfo{com.netflix.NGP.KrispeeStreet/com.unity3d.player.UnityPlayerActivity}" drawable="krispee_street" />
+	<item component="ComponentInfo{com.netflix.NGP.Moonlighter/com.unity3d.player.UnityPlayerActivity}" drawable="moonlighter_netflix_edition" />
+	<item component="ComponentInfo{com.netflix.NGP.WonderputtForever/com.netflix.NGP.WonderputtForever.AIRAppEntry}" drawable="wonderputt_forever" />
 
 </resources>

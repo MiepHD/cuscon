@@ -772,5 +772,9 @@
 	<!-- Next DB Navigator --><item drawable="next_db_navigator" />
 	<!-- STADTRADELN --><item drawable="stadtradeln" />
 	<!-- Threads --><item drawable="threads" />
+	<!-- Katzen Suppe --><item drawable="katzen_and_suppe" />
+	<!-- Krispee Street --><item drawable="krispee_street" />
+	<!-- Moonlighter Netflix Edition --><item drawable="moonlighter_netflix_edition" />
+	<!-- Wonderputt Forever --><item drawable="wonderputt_forever" />
 
 </resources>

@@ -821,4 +821,10 @@
 	<item class="db.vendo.android.vendigator.view.main.MainActivity" name="next_db_navigator"/>
 	<item class="org.klimabuendnis.stadtradeln.StartupActivity" name="stadtradeln"/>
 	<item class="com.instagram.barcelona.mainactivity.BarcelonaActivity" name="threads"/>
+	<item class="com.happymod.apk.hmmvp.main.LaunchActivity" name="happymod"/>
+	<item class="com.unity3d.player.UnityPlayerActivity" name="katzen_and_suppe"/>
+	<item class="com.unity3d.player.UnityPlayerActivity" name="krispee_street"/>
+	<item class="com.unity3d.player.UnityPlayerActivity" name="moonlighter_netflix_edition"/>
+	<item class="com.netflix.NGP.WonderputtForever.AIRAppEntry" name="wonderputt_forever"/>
+
 </appmap>
