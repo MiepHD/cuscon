@@ -836,5 +836,25 @@
 	<AppIcon name="com.netflix.NGP.KrispeeStreet/com.unity3d.player.UnityPlayerActivity" image="krispee_street"/>
 	<AppIcon name="com.netflix.NGP.Moonlighter/com.unity3d.player.UnityPlayerActivity" image="moonlighter_netflix_edition"/>
 	<AppIcon name="com.netflix.NGP.WonderputtForever/com.netflix.NGP.WonderputtForever.AIRAppEntry" image="wonderputt_forever"/>
+	<AppIcon name="org.adblockplus.adblockplussbrowser/org.adblockplus.adblockplussbrowser.app.ui.LauncherActivity" image="abp_for_samsung_internet"/>
+	<AppIcon name="com.bKash.customerapp/com.bKash.customerapp.MainActivity" image="bkash"/>
+	<AppIcon name="com.daraz.android/com.lazada.android.maintab.DarazEntryActivity" image="daraz"/>
+	<AppIcon name="com.samsung.android.app.edgetouch/com.samsung.android.app.edgetouch.ui.activity.MainActivity" image="edge_touch"/>
+	<AppIcon name="com.global.foodpanda.android/de.foodora.android.ui.launcher.LauncherActivity" image="foodpanda"/>
+	<AppIcon name="com.samsung.android.game.gamelab/com.samsung.android.game.gamelab.ui.StartActivity" image="game_plugins"/>
+	<AppIcon name="com.google.android.inputmethod.latin/com.google.android.apps.inputmethod.libs.framework.core.LauncherActivity" image="gboard"/>
+	<AppIcon name="com.imo.android.imoim/com.imo.android.imoim.activities.Home" image="imo"/>
+	<AppIcon name="com.adobe.lrmobile/com.adobe.lrmobile.StorageCheckActivity" image="lightroom"/>
+	<AppIcon name="com.android.stk2/com.android.stk2.StkLauncherActivity" image="my_robi"/>
+	<AppIcon name="net.omobio.robisc/net.omobio.robisc.ui.splash.SplashActivity" image="my_robi"/>
+	<AppIcon name="teletalk.teletalkcustomerapp/teletalk.teletalkcustomerapp.activity.SplashActivity" image="myteletalk"/>
+	<AppIcon name="com.samsung.android.ruler/com.samsung.android.ruler.main.rulerPreviewActivity" image="quick_measure"/>
+	<AppIcon name="app.rvx.android.youtube/com.google.android.youtube.app.honeycomb.Shell$HomeActivity" image="revanced_extended"/>
+	<AppIcon name="com.revanced.net.revancedmanager/com.revanced.net.revancedmanager.MainActivity" image="revanced_manager_revancednet"/>
+	<AppIcon name="com.dbbl.mbs.apps.main/com.dbbl.mbs.apps.main.SplashActivity" image="rocket"/>
+	<AppIcon name="com.android.stk/com.android.stk.StkLauncherActivity" image="teletalk_stk_menu"/>
+	<AppIcon name="com.fast.free.unblock.thunder.vpn/com.signallab.thunder.activity.SplashActivity" image="thunder_vpn"/>
+	<AppIcon name="com.samsung.android.videolist/com.samsung.android.videolist.list.activity.VideoList" image="video"/>
+	<AppIcon name="com.wallwow.wallpapers/com.wallwow.wallpapers.layout.StartupActivity" image="wallwow"/>
 
 </Theme>

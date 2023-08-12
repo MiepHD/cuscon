@@ -776,5 +776,25 @@
 	<!-- Krispee Street --><item drawable="krispee_street" />
 	<!-- Moonlighter Netflix Edition --><item drawable="moonlighter_netflix_edition" />
 	<!-- Wonderputt Forever --><item drawable="wonderputt_forever" />
+    <!-- ABP for Samsung Internet --><item drawable="abp_for_samsung_internet" />
+	<!-- bKash --><item drawable="bkash" />
+	<!-- Daraz --><item drawable="daraz" />
+	<!-- Edge Touch --><item drawable="edge_touch" />
+	<!-- foodpanda --><item drawable="foodpanda" />
+	<!-- Game Plugins --><item drawable="game_plugins" />
+	<!-- Gboard --><item drawable="gboard" />
+	<!-- imo --><item drawable="imo" />
+	<!-- Lightroom --><item drawable="lightroom" />
+	<!-- My Robi --><item drawable="my_robi" />
+	<!-- My Robi --><item drawable="my_robi" />
+	<!-- MyTeletalk --><item drawable="myteletalk" />
+	<!-- Quick measure --><item drawable="quick_measure" />
+	<!-- ReVanced Extended --><item drawable="revanced_extended" />
+	<!-- Revanced Manager - revanced.net --><item drawable="revanced_manager_revancednet" />
+	<!-- Rocket --><item drawable="rocket" />
+	<!-- Teletalk STK Menu --><item drawable="teletalk_stk_menu" />
+	<!-- Thunder VPN --><item drawable="thunder_vpn" />
+	<!-- Video --><item drawable="video" />
+	<!-- WallWOW --><item drawable="wallwow" />
 
 </resources>

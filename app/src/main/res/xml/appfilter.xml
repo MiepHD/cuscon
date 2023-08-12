@@ -859,5 +859,25 @@
 	<item component="ComponentInfo{com.netflix.NGP.KrispeeStreet/com.unity3d.player.UnityPlayerActivity}" drawable="krispee_street" />
 	<item component="ComponentInfo{com.netflix.NGP.Moonlighter/com.unity3d.player.UnityPlayerActivity}" drawable="moonlighter_netflix_edition" />
 	<item component="ComponentInfo{com.netflix.NGP.WonderputtForever/com.netflix.NGP.WonderputtForever.AIRAppEntry}" drawable="wonderputt_forever" />
+	<item component="ComponentInfo{org.adblockplus.adblockplussbrowser/org.adblockplus.adblockplussbrowser.app.ui.LauncherActivity}" drawable="abp_for_samsung_internet" />
+	<item component="ComponentInfo{com.bKash.customerapp/com.bKash.customerapp.MainActivity}" drawable="bkash" />
+	<item component="ComponentInfo{com.daraz.android/com.lazada.android.maintab.DarazEntryActivity}" drawable="daraz" />
+	<item component="ComponentInfo{com.samsung.android.app.edgetouch/com.samsung.android.app.edgetouch.ui.activity.MainActivity}" drawable="edge_touch" />
+	<item component="ComponentInfo{com.global.foodpanda.android/de.foodora.android.ui.launcher.LauncherActivity}" drawable="foodpanda" />
+	<item component="ComponentInfo{com.samsung.android.game.gamelab/com.samsung.android.game.gamelab.ui.StartActivity}" drawable="game_plugins" />
+	<item component="ComponentInfo{com.google.android.inputmethod.latin/com.google.android.apps.inputmethod.libs.framework.core.LauncherActivity}" drawable="gboard" />
+	<item component="ComponentInfo{com.imo.android.imoim/com.imo.android.imoim.activities.Home}" drawable="imo" />
+	<item component="ComponentInfo{com.adobe.lrmobile/com.adobe.lrmobile.StorageCheckActivity}" drawable="lightroom" />
+	<item component="ComponentInfo{com.android.stk2/com.android.stk2.StkLauncherActivity}" drawable="my_robi" />
+	<item component="ComponentInfo{net.omobio.robisc/net.omobio.robisc.ui.splash.SplashActivity}" drawable="my_robi" />
+	<item component="ComponentInfo{teletalk.teletalkcustomerapp/teletalk.teletalkcustomerapp.activity.SplashActivity}" drawable="myteletalk" />
+	<item component="ComponentInfo{com.samsung.android.ruler/com.samsung.android.ruler.main.rulerPreviewActivity}" drawable="quick_measure" />
+	<item component="ComponentInfo{app.rvx.android.youtube/com.google.android.youtube.app.honeycomb.Shell$HomeActivity}" drawable="revanced_extended" />
+	<item component="ComponentInfo{com.revanced.net.revancedmanager/com.revanced.net.revancedmanager.MainActivity}" drawable="revanced_manager_revancednet" />
+	<item component="ComponentInfo{com.dbbl.mbs.apps.main/com.dbbl.mbs.apps.main.SplashActivity}" drawable="rocket" />
+	<item component="ComponentInfo{com.android.stk/com.android.stk.StkLauncherActivity}" drawable="teletalk_stk_menu" />
+	<item component="ComponentInfo{com.fast.free.unblock.thunder.vpn/com.signallab.thunder.activity.SplashActivity}" drawable="thunder_vpn" />
+	<item component="ComponentInfo{com.samsung.android.videolist/com.samsung.android.videolist.list.activity.VideoList}" drawable="video" />
+	<item component="ComponentInfo{com.wallwow.wallpapers/com.wallwow.wallpapers.layout.StartupActivity}" drawable="wallwow" />
 
 </resources>

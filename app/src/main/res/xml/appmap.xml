@@ -826,5 +826,25 @@
 	<item class="com.unity3d.player.UnityPlayerActivity" name="krispee_street"/>
 	<item class="com.unity3d.player.UnityPlayerActivity" name="moonlighter_netflix_edition"/>
 	<item class="com.netflix.NGP.WonderputtForever.AIRAppEntry" name="wonderputt_forever"/>
+	<item class="org.adblockplus.adblockplussbrowser.app.ui.LauncherActivity" name="abp_for_samsung_internet"/>
+	<item class="com.bKash.customerapp.MainActivity" name="bkash"/>
+	<item class="com.lazada.android.maintab.DarazEntryActivity" name="daraz"/>
+	<item class="com.samsung.android.app.edgetouch.ui.activity.MainActivity" name="edge_touch"/>
+	<item class="de.foodora.android.ui.launcher.LauncherActivity" name="foodpanda"/>
+	<item class="com.samsung.android.game.gamelab.ui.StartActivity" name="game_plugins"/>
+	<item class="com.google.android.apps.inputmethod.libs.framework.core.LauncherActivity" name="gboard"/>
+	<item class="com.imo.android.imoim.activities.Home" name="imo"/>
+	<item class="com.adobe.lrmobile.StorageCheckActivity" name="lightroom"/>
+	<item class="com.android.stk2.StkLauncherActivity" name="my_robi"/>
+	<item class="net.omobio.robisc.ui.splash.SplashActivity" name="my_robi"/>
+	<item class="teletalk.teletalkcustomerapp.activity.SplashActivity" name="myteletalk"/>
+	<item class="com.samsung.android.ruler.main.rulerPreviewActivity" name="quick_measure"/>
+	<item class="com.google.android.youtube.app.honeycomb.Shell$HomeActivity" name="revanced_extended"/>
+	<item class="com.revanced.net.revancedmanager.MainActivity" name="revanced_manager_revancednet"/>
+	<item class="com.dbbl.mbs.apps.main.SplashActivity" name="rocket"/>
+	<item class="com.android.stk.StkLauncherActivity" name="teletalk_stk_menu"/>
+	<item class="com.signallab.thunder.activity.SplashActivity" name="thunder_vpn"/>
+	<item class="com.samsung.android.videolist.list.activity.VideoList" name="video"/>
+	<item class="com.wallwow.wallpapers.layout.StartupActivity" name="wallwow"/>
 
 </appmap>
