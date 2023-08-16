@@ -880,5 +880,21 @@
 	<item component="ComponentInfo{com.samsung.android.videolist/com.samsung.android.videolist.list.activity.VideoList}" drawable="video" />
 	<item component="ComponentInfo{com.wallwow.wallpapers/com.wallwow.wallpapers.layout.StartupActivity}" drawable="wallwow" />
 	<item component="ComponentInfo{com.samsung.android.app.galaxyraw/com.samsung.android.app.galaxyraw.GalaxyRaw}" drawable="expert_raw" />
+	<item component="ComponentInfo{com.axis.net/com.axis.net.ui.splashLogin.SplashActivity}" drawable="axisnet" />
+	<item component="ComponentInfo{io.manymous.coloredline/io.manymous.coloredline.activities.SplashActivity}" drawable="coloredline" />
+	<item component="ComponentInfo{id.dana/id.dana.onboarding.splash.LauncherActivity}" drawable="dana" />
+	<item component="ComponentInfo{deb.file.opener.extractor.debfileextractor/deb.file.opener.extractor.debfileextractor.MainActivity}" drawable="deb_file_extractor" />
+	<item component="ComponentInfo{io.chaldeaprjkt.gamespace/io.chaldeaprjkt.gamespace.settings.SettingsActivity}" drawable="game_space" />
+	<item component="ComponentInfo{org.lineageos.aperture/org.lineageos.aperture.CameraLauncher}" drawable="kamera" />
+	<item component="ComponentInfo{com.buak.Link2SD/com.buak.Link2SD.Link2SD}" drawable="link2sd" />
+	<item component="ComponentInfo{com.facebook.lite/com.facebook.lite.MainActivity}" drawable="lite" />
+	<item component="ComponentInfo{com.topjohnwu.magisk/com.topjohnwu.magisk.ui.MainActivity}" drawable="magisk" />
+	<item component="ComponentInfo{bin.mt.plus/bin.mt.plus.MainLightIcon}" drawable="manajer_mt" />
+	<item component="ComponentInfo{org.materialos.icons/org.materialos.icons.HomeActivity}" drawable="materialos" />
+	<item component="ComponentInfo{org.omnirom.logcat/com.pluscubed.logcat.ui.LogcatActivity}" drawable="matlog" />
+	<item component="ComponentInfo{com.telkomsel.telkomselcm/com.telkomsel.mytelkomsel.view.splash.SplashActivityRevamp}" drawable="mytelkomsel" />
+	<item component="ComponentInfo{code.name.monkey.retromusic/code.name.monkey.retromusic.activities.MainActivity}" drawable="retro_music" />
+	<item component="ComponentInfo{com.speedsoftware.rootexplorer/com.speedsoftware.rootexplorer.RootExplorer}" drawable="root_explorer" />
+	<item component="ComponentInfo{com.royalroice.zikirtasbih/com.royalroice.zikirtasbih.view.HomeScreen}" drawable="zikir_tasbih" />
 
 </resources>

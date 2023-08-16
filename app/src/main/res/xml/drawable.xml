@@ -796,5 +796,21 @@
 	<!-- Video --><item drawable="video" />
 	<!-- WallWOW --><item drawable="wallwow" />
     <!-- Expert RAW --><item drawable="expert_raw" />
+	<!-- AXISnet --><item drawable="axisnet" />
+	<!-- ColoredLine --><item drawable="coloredline" />
+	<!-- DANA --><item drawable="dana" />
+	<!-- Deb File Extractor --><item drawable="deb_file_extractor" />
+	<!-- Game Space --><item drawable="game_space" />
+	<!-- Kamera --><item drawable="kamera" />
+	<!-- Link2SD --><item drawable="link2sd" />
+	<!-- Lite --><item drawable="lite" />
+	<!-- Magisk --><item drawable="magisk" />
+	<!-- Manajer MT --><item drawable="manajer_mt" />
+	<!-- MaterialOS --><item drawable="materialos" />
+	<!-- MatLog --><item drawable="matlog" />
+	<!-- MyTelkomsel --><item drawable="mytelkomsel" />
+	<!-- Retro Music --><item drawable="retro_music" />
+	<!-- Root Explorer --><item drawable="root_explorer" />
+	<!-- Zikir Tasbih --><item drawable="zikir_tasbih" />
 
 </resources>

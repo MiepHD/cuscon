@@ -847,5 +847,21 @@
 	<item class="com.samsung.android.videolist.list.activity.VideoList" name="video"/>
 	<item class="com.wallwow.wallpapers.layout.StartupActivity" name="wallwow"/>
 	<item class="com.samsung.android.app.galaxyraw.GalaxyRaw" name="expert_raw"/>
+	<item class="com.axis.net.ui.splashLogin.SplashActivity" name="axisnet"/>
+	<item class="io.manymous.coloredline.activities.SplashActivity" name="coloredline"/>
+	<item class="id.dana.onboarding.splash.LauncherActivity" name="dana"/>
+	<item class="deb.file.opener.extractor.debfileextractor.MainActivity" name="deb_file_extractor"/>
+	<item class="io.chaldeaprjkt.gamespace.settings.SettingsActivity" name="game_space"/>
+	<item class="org.lineageos.aperture.CameraLauncher" name="kamera"/>
+	<item class="com.buak.Link2SD.Link2SD" name="link2sd"/>
+	<item class="com.facebook.lite.MainActivity" name="lite"/>
+	<item class="com.topjohnwu.magisk.ui.MainActivity" name="magisk"/>
+	<item class="bin.mt.plus.MainLightIcon" name="manajer_mt"/>
+	<item class="org.materialos.icons.HomeActivity" name="materialos"/>
+	<item class="com.pluscubed.logcat.ui.LogcatActivity" name="matlog"/>
+	<item class="com.telkomsel.mytelkomsel.view.splash.SplashActivityRevamp" name="mytelkomsel"/>
+	<item class="code.name.monkey.retromusic.activities.MainActivity" name="retro_music"/>
+	<item class="com.speedsoftware.rootexplorer.RootExplorer" name="root_explorer"/>
+	<item class="com.royalroice.zikirtasbih.view.HomeScreen" name="zikir_tasbih"/>
 
 </appmap>

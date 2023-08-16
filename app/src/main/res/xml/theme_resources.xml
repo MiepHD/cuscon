@@ -857,5 +857,21 @@
 	<AppIcon name="com.samsung.android.videolist/com.samsung.android.videolist.list.activity.VideoList" image="video"/>
 	<AppIcon name="com.wallwow.wallpapers/com.wallwow.wallpapers.layout.StartupActivity" image="wallwow"/>
 	<AppIcon name="com.samsung.android.app.galaxyraw/com.samsung.android.app.galaxyraw.GalaxyRaw" image="expert_raw"/>
+	<AppIcon name="com.axis.net/com.axis.net.ui.splashLogin.SplashActivity" image="axisnet"/>
+	<AppIcon name="io.manymous.coloredline/io.manymous.coloredline.activities.SplashActivity" image="coloredline"/>
+	<AppIcon name="id.dana/id.dana.onboarding.splash.LauncherActivity" image="dana"/>
+	<AppIcon name="deb.file.opener.extractor.debfileextractor/deb.file.opener.extractor.debfileextractor.MainActivity" image="deb_file_extractor"/>
+	<AppIcon name="io.chaldeaprjkt.gamespace/io.chaldeaprjkt.gamespace.settings.SettingsActivity" image="game_space"/>
+	<AppIcon name="org.lineageos.aperture/org.lineageos.aperture.CameraLauncher" image="kamera"/>
+	<AppIcon name="com.buak.Link2SD/com.buak.Link2SD.Link2SD" image="link2sd"/>
+	<AppIcon name="com.facebook.lite/com.facebook.lite.MainActivity" image="lite"/>
+	<AppIcon name="com.topjohnwu.magisk/com.topjohnwu.magisk.ui.MainActivity" image="magisk"/>
+	<AppIcon name="bin.mt.plus/bin.mt.plus.MainLightIcon" image="manajer_mt"/>
+	<AppIcon name="org.materialos.icons/org.materialos.icons.HomeActivity" image="materialos"/>
+	<AppIcon name="org.omnirom.logcat/com.pluscubed.logcat.ui.LogcatActivity" image="matlog"/>
+	<AppIcon name="com.telkomsel.telkomselcm/com.telkomsel.mytelkomsel.view.splash.SplashActivityRevamp" image="mytelkomsel"/>
+	<AppIcon name="code.name.monkey.retromusic/code.name.monkey.retromusic.activities.MainActivity" image="retro_music"/>
+	<AppIcon name="com.speedsoftware.rootexplorer/com.speedsoftware.rootexplorer.RootExplorer" image="root_explorer"/>
+	<AppIcon name="com.royalroice.zikirtasbih/com.royalroice.zikirtasbih.view.HomeScreen" image="zikir_tasbih"/>
 
 </Theme>
