@@ -795,5 +795,6 @@
 	<!-- Thunder VPN --><item drawable="thunder_vpn" />
 	<!-- Video --><item drawable="video" />
 	<!-- WallWOW --><item drawable="wallwow" />
+    <!-- Expert RAW --><item drawable="expert_raw" />
 
 </resources>

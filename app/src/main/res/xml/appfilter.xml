@@ -879,5 +879,6 @@
 	<item component="ComponentInfo{com.fast.free.unblock.thunder.vpn/com.signallab.thunder.activity.SplashActivity}" drawable="thunder_vpn" />
 	<item component="ComponentInfo{com.samsung.android.videolist/com.samsung.android.videolist.list.activity.VideoList}" drawable="video" />
 	<item component="ComponentInfo{com.wallwow.wallpapers/com.wallwow.wallpapers.layout.StartupActivity}" drawable="wallwow" />
+	<item component="ComponentInfo{com.samsung.android.app.galaxyraw/com.samsung.android.app.galaxyraw.GalaxyRaw}" drawable="expert_raw" />
 
 </resources>

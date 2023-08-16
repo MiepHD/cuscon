@@ -846,5 +846,6 @@
 	<item class="com.signallab.thunder.activity.SplashActivity" name="thunder_vpn"/>
 	<item class="com.samsung.android.videolist.list.activity.VideoList" name="video"/>
 	<item class="com.wallwow.wallpapers.layout.StartupActivity" name="wallwow"/>
+	<item class="com.samsung.android.app.galaxyraw.GalaxyRaw" name="expert_raw"/>
 
 </appmap>

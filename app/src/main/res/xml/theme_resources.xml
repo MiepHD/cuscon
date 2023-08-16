@@ -856,5 +856,6 @@
 	<AppIcon name="com.fast.free.unblock.thunder.vpn/com.signallab.thunder.activity.SplashActivity" image="thunder_vpn"/>
 	<AppIcon name="com.samsung.android.videolist/com.samsung.android.videolist.list.activity.VideoList" image="video"/>
 	<AppIcon name="com.wallwow.wallpapers/com.wallwow.wallpapers.layout.StartupActivity" image="wallwow"/>
+	<AppIcon name="com.samsung.android.app.galaxyraw/com.samsung.android.app.galaxyraw.GalaxyRaw" image="expert_raw"/>
 
 </Theme>
