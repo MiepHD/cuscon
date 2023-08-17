@@ -815,5 +815,7 @@
 	<!-- Al-Qur'an Indonesia --><item drawable="al_quran_indonesia" />
 	<!-- Ratib Attas --><item drawable="ratib_attas" />
 	<!-- TajwidLengkap --><item drawable="tajwidlengkap" />
+    <!-- Ad Blocker Pro --><item drawable="ad_blocker_pro" />
+	<!-- Contactos --><item drawable="contactos" />
 
 </resources>

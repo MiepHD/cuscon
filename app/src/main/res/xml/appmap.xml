@@ -866,5 +866,7 @@
 	<item class="com.andi.alquran.ActivityHome" name="al_quran_indonesia"/>
 	<item class="com.aplikita.ratib_al_attas_terlengkap.MainActivity" name="ratib_attas"/>
 	<item class="qtmedia.tajwidlangkap.MainActivity" name="tajwidlengkap"/>
+	<item class="jp.snowlife01.android.ad_blocker.AdsStopActivity" name="ad_blocker_pro"/>
+	<item class="com.simplemobiletools.contacts.activities.SplashActivity.Orange" name="contactos"/>
 
 </appmap>

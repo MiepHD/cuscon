@@ -899,5 +899,7 @@
 	<item component="ComponentInfo{com.andi.alquran.id/com.andi.alquran.ActivityHome}" drawable="al_quran_indonesia" />
 	<item component="ComponentInfo{com.aplikita.ratib_al_attas_terlengkap/com.aplikita.ratib_al_attas_terlengkap.MainActivity}" drawable="ratib_attas" />
 	<item component="ComponentInfo{qtmedia.tajwidlangkap/qtmedia.tajwidlangkap.MainActivity}" drawable="tajwidlengkap" />
+	<item component="ComponentInfo{jp.snowlife01.android.ad_blocker/jp.snowlife01.android.ad_blocker.AdsStopActivity}" drawable="ad_blocker_pro" />
+	<item component="ComponentInfo{com.simplemobiletools.contacts/com.simplemobiletools.contacts.activities.SplashActivity.Orange}" drawable="contactos" />
 
 </resources>
