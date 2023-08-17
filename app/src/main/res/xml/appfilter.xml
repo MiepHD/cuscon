@@ -896,5 +896,8 @@
 	<item component="ComponentInfo{code.name.monkey.retromusic/code.name.monkey.retromusic.activities.MainActivity}" drawable="retro_music" />
 	<item component="ComponentInfo{com.speedsoftware.rootexplorer/com.speedsoftware.rootexplorer.RootExplorer}" drawable="root_explorer" />
 	<item component="ComponentInfo{com.royalroice.zikirtasbih/com.royalroice.zikirtasbih.view.HomeScreen}" drawable="zikir_tasbih" />
+	<item component="ComponentInfo{com.andi.alquran.id/com.andi.alquran.ActivityHome}" drawable="al_quran_indonesia" />
+	<item component="ComponentInfo{com.aplikita.ratib_al_attas_terlengkap/com.aplikita.ratib_al_attas_terlengkap.MainActivity}" drawable="ratib_attas" />
+	<item component="ComponentInfo{qtmedia.tajwidlangkap/qtmedia.tajwidlangkap.MainActivity}" drawable="tajwidlengkap" />
 
 </resources>

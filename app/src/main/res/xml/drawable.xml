@@ -812,5 +812,8 @@
 	<!-- Retro Music --><item drawable="retro_music" />
 	<!-- Root Explorer --><item drawable="root_explorer" />
 	<!-- Zikir Tasbih --><item drawable="zikir_tasbih" />
+	<!-- Al-Qur'an Indonesia --><item drawable="al_quran_indonesia" />
+	<!-- Ratib Attas --><item drawable="ratib_attas" />
+	<!-- TajwidLengkap --><item drawable="tajwidlengkap" />
 
 </resources>

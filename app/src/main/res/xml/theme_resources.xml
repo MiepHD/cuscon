@@ -873,5 +873,8 @@
 	<AppIcon name="code.name.monkey.retromusic/code.name.monkey.retromusic.activities.MainActivity" image="retro_music"/>
 	<AppIcon name="com.speedsoftware.rootexplorer/com.speedsoftware.rootexplorer.RootExplorer" image="root_explorer"/>
 	<AppIcon name="com.royalroice.zikirtasbih/com.royalroice.zikirtasbih.view.HomeScreen" image="zikir_tasbih"/>
+	<AppIcon name="com.andi.alquran.id/com.andi.alquran.ActivityHome" image="al_quran_indonesia"/>
+	<AppIcon name="com.aplikita.ratib_al_attas_terlengkap/com.aplikita.ratib_al_attas_terlengkap.MainActivity" image="ratib_attas"/>
+	<AppIcon name="qtmedia.tajwidlangkap/qtmedia.tajwidlangkap.MainActivity" image="tajwidlengkap"/>
 
 </Theme>
