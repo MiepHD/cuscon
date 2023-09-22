@@ -868,5 +868,14 @@
 	<item class="qtmedia.tajwidlangkap.MainActivity" name="tajwidlengkap"/>
 	<item class="jp.snowlife01.android.ad_blocker.AdsStopActivity" name="ad_blocker_pro"/>
 	<item class="com.simplemobiletools.contacts.activities.SplashActivity.Orange" name="contactos"/>
-
+	<item class="com.motorola.spaces.presentation.LauncherActivity" name="family_space"/>
+	<item class="com.google.android.apps.fitness.welcome.WelcomeActivity" name="fit"/>
+	<item class="com.motorola.assist.LauncherActivity" name="moto_new"/>
+	<item class="com.motorola.securityhub.ui.view.MainActivity" name="moto_secure"/>
+	<item class="com.bycsdrive.android.ui.activity.SplashActivity" name="bycs_drive"/>
+	<item class="org.geogebra.android.privatelibrary.splashscreen.SplashScreenActivity" name="grafikrechner"/>
+	<item class="com.google.android.apps.youtube.music.activities.MusicActivity" name="rvx_music"/>
+	<item class="im.vector.application.features.Alias" name="bycs_messenger"/>
+	<item class="db.vendo.android.vendigator.view.main.MainActivity" name="db_navigator"/>
+	<item class="com.musixmatch.android.ui.phone.DashBoardActivity" name="musixmatch"/>
 </appmap>

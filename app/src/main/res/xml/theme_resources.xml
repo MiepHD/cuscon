@@ -878,5 +878,14 @@
 	<AppIcon name="qtmedia.tajwidlangkap/qtmedia.tajwidlangkap.MainActivity" image="tajwidlengkap"/>
 	<AppIcon name="jp.snowlife01.android.ad_blocker/jp.snowlife01.android.ad_blocker.AdsStopActivity" image="ad_blocker_pro"/>
 	<AppIcon name="com.simplemobiletools.contacts/com.simplemobiletools.contacts.activities.SplashActivity.Orange" image="contactos"/>
-
+	<AppIcon name="com.motorola.spaces/com.motorola.spaces.presentation.LauncherActivity" image="family_space"/>
+	<AppIcon name="com.google.android.apps.fitness/com.google.android.apps.fitness.welcome.WelcomeActivity" image="fit"/>
+	<AppIcon name="com.motorola.moto/com.motorola.assist.LauncherActivity" image="moto_new"/>
+	<AppIcon name="com.motorola.securityhub/com.motorola.securityhub.ui.view.MainActivity" image="moto_secure"/>
+	<AppIcon name="com.bycsdrive.android/com.bycsdrive.android.ui.activity.SplashActivity" image="bycs_drive"/>
+	<AppIcon name="org.geogebra.android/org.geogebra.android.privatelibrary.splashscreen.SplashScreenActivity" image="grafikrechner"/>
+	<AppIcon name="app.rvx.android.apps.youtube.music/com.google.android.apps.youtube.music.activities.MusicActivity" image="rvx_music"/>
+	<AppIcon name="de.bayern.stmuk.messenger.android/im.vector.application.features.Alias" image="bycs_messenger"/>
+	<AppIcon name="de.hafas.android.db/db.vendo.android.vendigator.view.main.MainActivity" image="db_navigator"/>
+	<AppIcon name="com.musixmatch.android.lyrify/com.musixmatch.android.ui.phone.DashBoardActivity" image="musixmatch"/>
 </Theme>

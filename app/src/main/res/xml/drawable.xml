@@ -817,5 +817,15 @@
 	<!-- TajwidLengkap --><item drawable="tajwidlengkap" />
     <!-- Ad Blocker Pro --><item drawable="ad_blocker_pro" />
 	<!-- Contactos --><item drawable="contactos" />
+	<!-- Family Space --><item drawable="family_space" />
+	<!-- Fit --><item drawable="fit" />
+	<!-- Moto --><item drawable="moto_new" />
+	<!-- Moto Secure --><item drawable="moto_secure" />
+	<!-- ByCS-Drive --><item drawable="bycs_drive" />
+	<!-- Grafikrechner --><item drawable="grafikrechner" />
+	<!-- RVX Music --><item drawable="rvx_music" />
+    <!-- ByCS-Messenger --><item drawable="bycs_messenger" />
+	<!-- DB Navigator --><item drawable="db_navigator" />
+	<!-- Musixmatch --><item drawable="musixmatch" />
 
 </resources>
