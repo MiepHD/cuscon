@@ -827,5 +827,13 @@
     <!-- ByCS-Messenger --><item drawable="bycs_messenger" />
 	<!-- DB Navigator --><item drawable="db_navigator" />
 	<!-- Musixmatch --><item drawable="musixmatch" />
+	<!-- Administrador de archivos --><item drawable="administrador_de_archivos" />
+	<!-- ASTRO --><item drawable="astro" />
+	<!-- ESuper Archivo --><item drawable="esuper_archivo" />
+	<!-- Grabadora de Audio --><item drawable="grabadora_de_audio" />
+	<!-- Vidma Recorder Lite --><item drawable="vidma_recorder_lite" />
+	<!-- Graphical --><item drawable="graphical" />
+	<!-- Orbot --><item drawable="orbot" />
+	<!-- vSolution App --><item drawable="vsolution_app" />
 
 </resources>

@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="changelog_date">22.09.2023</string>
+    <string name="changelog_date">12.10.2023</string>
     <string-array name="changelog">
+        <iten>3.0.1.9:</iten>
+        <item>Added Administrador de archivos, ASTRO, ESuper Archivo, Grabadora de Audio, Vidma Recorder Lite, Graphical, Orbot, vSolution App</item>
+        <item>Fixed ladb</item>
+        <item>Updated dependencies</item>
         <item>3.0.1.8:</item>
         <item>Added Al-Quran Indonesia, Ratib Attas, TajwidLengkap, Ad Blocker Pro, Contactos, ByCS-Messenger, Musixmatch, Family Space, Fit, Moto Secure, ByCS-Drive, Grafikrechner, RVX Music</item>
         <item>Fixed DB Navigator, Moto</item>

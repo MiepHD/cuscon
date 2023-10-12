@@ -911,5 +911,14 @@
 	<item component="ComponentInfo{de.bayern.stmuk.messenger.android/im.vector.application.features.Alias}" drawable="bycs_messenger" />
 	<item component="ComponentInfo{de.hafas.android.db/db.vendo.android.vendigator.view.main.MainActivity}" drawable="db_navigator" />
 	<item component="ComponentInfo{com.musixmatch.android.lyrify/com.musixmatch.android.ui.phone.DashBoardActivity}" drawable="musixmatch" />
+	<item component="ComponentInfo{files.fileexplorer.filemanager/filemanger.manager.iostudio.manager.SplashActivity}" drawable="administrador_de_archivos" />
+	<item component="ComponentInfo{com.metago.astro/com.metago.astro.MainActivity}" drawable="astro" />
+	<item component="ComponentInfo{com.esuper.file.explorer/com.frames.filemanager.module.activity.FirstActivity}" drawable="esuper_archivo" />
+	<item component="ComponentInfo{com.github.ultron.audiorecorder/com.github.ultron.audiorecorder.activities.MainActivity}" drawable="grabadora_de_audio" />
+	<item component="ComponentInfo{vidma.screenrecorder.videorecorder.videoeditor.lite/com.atlasv.android.screen.recorder.ui.splash.LaunchActivity}" drawable="vidma_recorder_lite" />
+	<item component="ComponentInfo{com.vernier.graphicalanalysis/com.vernier.graphicalanalysis.MainActivity}" drawable="graphical" />
+	<item component="ComponentInfo{com.draco.ladb/com.draco.ladb.views.MainActivity}" drawable="ladb" />
+	<item component="ComponentInfo{org.torproject.android/org.torproject.android.OrbotMainActivity}" drawable="orbot" />
+	<item component="ComponentInfo{com.wolfvision.phoenix/com.wolfvision.phoenix.activities.SplashActivity}" drawable="vsolution_app" />
 
 </resources>

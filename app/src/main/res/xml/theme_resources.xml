@@ -888,4 +888,14 @@
 	<AppIcon name="de.bayern.stmuk.messenger.android/im.vector.application.features.Alias" image="bycs_messenger"/>
 	<AppIcon name="de.hafas.android.db/db.vendo.android.vendigator.view.main.MainActivity" image="db_navigator"/>
 	<AppIcon name="com.musixmatch.android.lyrify/com.musixmatch.android.ui.phone.DashBoardActivity" image="musixmatch"/>
+	<AppIcon name="files.fileexplorer.filemanager/filemanger.manager.iostudio.manager.SplashActivity" image="administrador_de_archivos"/>
+	<AppIcon name="com.metago.astro/com.metago.astro.MainActivity" image="astro"/>
+	<AppIcon name="com.esuper.file.explorer/com.frames.filemanager.module.activity.FirstActivity" image="esuper_archivo"/>
+	<AppIcon name="com.github.ultron.audiorecorder/com.github.ultron.audiorecorder.activities.MainActivity" image="grabadora_de_audio"/>
+	<AppIcon name="vidma.screenrecorder.videorecorder.videoeditor.lite/com.atlasv.android.screen.recorder.ui.splash.LaunchActivity" image="vidma_recorder_lite"/>
+	<AppIcon name="com.vernier.graphicalanalysis/com.vernier.graphicalanalysis.MainActivity" image="graphical"/>
+	<AppIcon name="com.draco.ladb/com.draco.ladb.views.MainActivity" image="ladb"/>
+	<AppIcon name="org.torproject.android/org.torproject.android.OrbotMainActivity" image="orbot"/>
+	<AppIcon name="com.wolfvision.phoenix/com.wolfvision.phoenix.activities.SplashActivity" image="vsolution_app"/>
+
 </Theme>

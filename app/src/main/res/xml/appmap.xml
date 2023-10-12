@@ -878,4 +878,14 @@
 	<item class="im.vector.application.features.Alias" name="bycs_messenger"/>
 	<item class="db.vendo.android.vendigator.view.main.MainActivity" name="db_navigator"/>
 	<item class="com.musixmatch.android.ui.phone.DashBoardActivity" name="musixmatch"/>
+	<item class="filemanger.manager.iostudio.manager.SplashActivity" name="administrador_de_archivos"/>
+	<item class="com.metago.astro.MainActivity" name="astro"/>
+	<item class="com.frames.filemanager.module.activity.FirstActivity" name="esuper_archivo"/>
+	<item class="com.github.ultron.audiorecorder.activities.MainActivity" name="grabadora_de_audio"/>
+	<item class="com.atlasv.android.screen.recorder.ui.splash.LaunchActivity" name="vidma_recorder_lite"/>
+	<item class="com.vernier.graphicalanalysis.MainActivity" name="graphical"/>
+	<item class="com.draco.ladb.views.MainActivity" name="ladb"/>
+	<item class="org.torproject.android.OrbotMainActivity" name="orbot"/>
+	<item class="com.wolfvision.phoenix.activities.SplashActivity" name="vsolution_app"/>
+
 </appmap>
