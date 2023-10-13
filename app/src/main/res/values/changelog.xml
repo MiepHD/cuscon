@@ -2,7 +2,7 @@
 <resources>
     <string name="changelog_date">12.10.2023</string>
     <string-array name="changelog">
-        <iten>3.0.1.9:</iten>
+        <item>3.0.1.9:</item>
         <item>Added Administrador de archivos, ASTRO, ESuper Archivo, Grabadora de Audio, Vidma Recorder Lite, Graphical, Orbot, vSolution App</item>
         <item>Fixed ladb</item>
         <item>Updated dependencies</item>
@@ -193,7 +193,7 @@
         <item>Changed names</item>
         <item>2.1.0.0:</item>
         <item>Changed to different sample</item>
-        <item>Changed pack\'s name</item>
+        <item>Changed pack name</item>
         <item>Changed package name</item>
         <item>1.8.5.0:</item>
         <item>Added CloudStreaming, Kilterboard</item>
