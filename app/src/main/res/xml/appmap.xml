@@ -887,5 +887,13 @@
 	<item class="com.draco.ladb.views.MainActivity" name="ladb"/>
 	<item class="org.torproject.android.OrbotMainActivity" name="orbot"/>
 	<item class="com.wolfvision.phoenix.activities.SplashActivity" name="vsolution_app"/>
+	<item class="nextapp.fx.ui.ExplorerActivity" name="fx"/>
+	<item class="com.concise.filemanager.FileManagerMainActivity" name="gestion_archivos"/>
+	<item class="com.se.screenrecording.SplashActivity" name="screen_recording"/>
+	<item class="com.digitalchemy.recorder.ui.main.MainActivity" name="sound_recorder_plus"/>
+	<item class="com.xvideostudio.videoeditor.windowmanager.RecorderSplashActivity" name="v_recorder"/>
+	<item class="com.realtimeboard.MainActivity" name="miro"/>
+	<item class="com.ccbuchner.cas.MainActivity" name="click_and_study"/>
+	<item class="de.vonaffenfels.Mobile.ApeActivity" name="klett_lernen"/>
 
 </appmap>

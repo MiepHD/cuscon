@@ -897,5 +897,13 @@
 	<AppIcon name="com.draco.ladb/com.draco.ladb.views.MainActivity" image="ladb"/>
 	<AppIcon name="org.torproject.android/org.torproject.android.OrbotMainActivity" image="orbot"/>
 	<AppIcon name="com.wolfvision.phoenix/com.wolfvision.phoenix.activities.SplashActivity" image="vsolution_app"/>
+	<AppIcon name="nextapp.fx/nextapp.fx.ui.ExplorerActivity" image="fx"/>
+	<AppIcon name="com.concise.filemanager/com.concise.filemanager.FileManagerMainActivity" image="gestion_archivos"/>
+	<AppIcon name="com.se.screen.recoder/com.se.screenrecording.SplashActivity" image="screen_recording"/>
+	<AppIcon name="com.digitalchemy.recorder/com.digitalchemy.recorder.ui.main.MainActivity" image="sound_recorder_plus"/>
+	<AppIcon name="screenrecorder.recorder.editor/com.xvideostudio.videoeditor.windowmanager.RecorderSplashActivity" image="v_recorder"/>
+	<AppIcon name="com.realtimeboard/com.realtimeboard.MainActivity" image="miro"/>
+	<AppIcon name="com.ccbuchner.cas/com.ccbuchner.cas.MainActivity" image="click_and_study"/>
+	<AppIcon name="de.klett.dua.schueler/de.vonaffenfels.Mobile.ApeActivity" image="klett_lernen"/>
 
 </Theme>

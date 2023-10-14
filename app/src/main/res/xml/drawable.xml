@@ -835,5 +835,19 @@
 	<!-- Graphical --><item drawable="graphical" />
 	<!-- Orbot --><item drawable="orbot" />
 	<!-- vSolution App --><item drawable="vsolution_app" />
+    <!-- Le Dictionnaire --><item drawable="dictionnaire" />
+    <!-- Eltern Portal --><item drawable="eltern-portal" />
+    <!-- Pons --><item drawable="pons" />
+    <!-- JustSketchMe --><item drawable="justsketchme" />
+    <!-- online-ide --><item drawable="online-ide" />
+    <!-- Schueler Portal --><item drawable="schueler-portal" />
+	<!-- FX --><item drawable="fx" />
+	<!-- Gestión archivos --><item drawable="gestion_archivos" />
+	<!-- Screen Recording --><item drawable="screen_recording" />
+	<!-- Sound Recorder Plus --><item drawable="sound_recorder_plus" />
+	<!-- V Recorder --><item drawable="v_recorder" />
+	<!-- Miro --><item drawable="miro" />
+	<!-- click & study --><item drawable="click_and_study" />
+	<!-- Klett Lernen --><item drawable="klett_lernen" />
 
 </resources>
