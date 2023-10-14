@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="changelog_date">12.10.2023</string>
+    <string name="changelog_date">14.10.2023</string>
     <string-array name="changelog">
+        <item>3.0.2.0:<item>
+        <item>Compressed images</item>
         <item>3.0.1.9:</item>
         <item>Added Administrador de archivos, ASTRO, ESuper Archivo, Grabadora de Audio, Vidma Recorder Lite, Graphical, Orbot, vSolution App</item>
         <item>Fixed ladb</item>
