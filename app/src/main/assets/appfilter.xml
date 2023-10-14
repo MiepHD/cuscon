@@ -920,5 +920,13 @@
 	<item component="ComponentInfo{com.draco.ladb/com.draco.ladb.views.MainActivity}" drawable="ladb" />
 	<item component="ComponentInfo{org.torproject.android/org.torproject.android.OrbotMainActivity}" drawable="orbot" />
 	<item component="ComponentInfo{com.wolfvision.phoenix/com.wolfvision.phoenix.activities.SplashActivity}" drawable="vsolution_app" />
+	<item component="ComponentInfo{nextapp.fx/nextapp.fx.ui.ExplorerActivity}" drawable="fx" />
+	<item component="ComponentInfo{com.concise.filemanager/com.concise.filemanager.FileManagerMainActivity}" drawable="gestion_archivos" />
+	<item component="ComponentInfo{com.se.screen.recoder/com.se.screenrecording.SplashActivity}" drawable="screen_recording" />
+	<item component="ComponentInfo{com.digitalchemy.recorder/com.digitalchemy.recorder.ui.main.MainActivity}" drawable="sound_recorder_plus" />
+	<item component="ComponentInfo{screenrecorder.recorder.editor/com.xvideostudio.videoeditor.windowmanager.RecorderSplashActivity}" drawable="v_recorder" />
+	<item component="ComponentInfo{com.realtimeboard/com.realtimeboard.MainActivity}" drawable="miro" />
+	<item component="ComponentInfo{com.ccbuchner.cas/com.ccbuchner.cas.MainActivity}" drawable="click_and_study" />
+	<item component="ComponentInfo{de.klett.dua.schueler/de.vonaffenfels.Mobile.ApeActivity}" drawable="klett_lernen" />
 
 </resources>
