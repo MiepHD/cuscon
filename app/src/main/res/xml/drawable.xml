@@ -836,11 +836,11 @@
 	<!-- Orbot --><item drawable="orbot" />
 	<!-- vSolution App --><item drawable="vsolution_app" />
     <!-- Le Dictionnaire --><item drawable="dictionnaire" />
-    <!-- Eltern Portal --><item drawable="eltern-portal" />
+    <!-- Eltern Portal --><item drawable="eltern_portal" />
     <!-- Pons --><item drawable="pons" />
     <!-- JustSketchMe --><item drawable="justsketchme" />
-    <!-- online-ide --><item drawable="online-ide" />
-    <!-- Schueler Portal --><item drawable="schueler-portal" />
+    <!-- online-ide --><item drawable="online_ide" />
+    <!-- Schueler Portal --><item drawable="schueler_portal" />
 	<!-- FX --><item drawable="fx" />
 	<!-- Gestión archivos --><item drawable="gestion_archivos" />
 	<!-- Screen Recording --><item drawable="screen_recording" />
