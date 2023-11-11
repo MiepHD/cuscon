@@ -72,11 +72,7 @@
             If you don't want to show any description, just leave this empty
             ex: <string name="home_description"></string>
             -->
-    <string name="home_description">
-        <![CDATA[
-            You can find more info and all icons on <a href="http://miep-hd.froxot.com/app/cuscon.html">the webpage</a>.
-        ]]>
-    </string>
+    <string name="home_description"></string>
 
     <!-- Link to your app's Rate and Review page.
         Leave this empty to disable the "Rate and Review" button.
