@@ -928,5 +928,11 @@
 	<item component="ComponentInfo{com.realtimeboard/com.realtimeboard.MainActivity}" drawable="miro" />
 	<item component="ComponentInfo{com.ccbuchner.cas/com.ccbuchner.cas.MainActivity}" drawable="click_and_study" />
 	<item component="ComponentInfo{de.klett.dua.schueler/de.vonaffenfels.Mobile.ApeActivity}" drawable="klett_lernen" />
+	<item component="ComponentInfo{cat.tv3.eng.tresac/cat.ccma.android.tresplay.NavHostActivity}" drawable="_3cat" />
+	<item component="ComponentInfo{com.adif.elcanomovil/com.adif.elcanomovil.SplashScreenActivity}" drawable="adif" />
+	<item component="ComponentInfo{com.ghostsq.commander/com.ghostsq.commander.FileCommander}" drawable="ghost_commander" />
+	<item component="ComponentInfo{com.correos.prepago/com.correos.prepago.architecture.views.activities.contexts.splash.SplashActivity}" drawable="mi_prepago" />
+	<item component="ComponentInfo{cat.gencat.mobi.mossos/cat.gencat.mobi.mossos.LauncherActivity}" drawable="mossos_desquadra" />
+	<item component="ComponentInfo{com.ghisler.android.TotalCommander/com.ghisler.android.TotalCommander.TotalCommander}" drawable="total_commander" />
 
 </resources>

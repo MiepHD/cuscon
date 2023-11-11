@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="changelog_date">14.10.2023</string>
+    <string name="changelog_date">11.11.2023</string>
     <string-array name="changelog">
+        <item>3.0.2.1:</item>
+        <item>Added 3Cat, Adif, Ghost Commander, Mi Prepago, Mossos d\'Esquadra, Total Commander</item>
+        <item>Removed home_description</item>
         <item>3.0.2.0:</item>
         <item>Compressed images</item>
         <item>Added Le Dictionnaire, Eltern Portal, Pons, JustSketchMe, online-ide, Schueler Portal, FX, Gestión archivos, Screen Recording, Sound Recorder Plus, V Recorder, Miro, click and study, Klett Lernen</item>

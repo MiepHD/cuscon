@@ -895,5 +895,11 @@
 	<item class="com.realtimeboard.MainActivity" name="miro"/>
 	<item class="com.ccbuchner.cas.MainActivity" name="click_and_study"/>
 	<item class="de.vonaffenfels.Mobile.ApeActivity" name="klett_lernen"/>
+	<item class="cat.ccma.android.tresplay.NavHostActivity" name="_3cat"/>
+	<item class="com.adif.elcanomovil.SplashScreenActivity" name="adif"/>
+	<item class="com.ghostsq.commander.FileCommander" name="ghost_commander"/>
+	<item class="com.correos.prepago.architecture.views.activities.contexts.splash.SplashActivity" name="mi_prepago"/>
+	<item class="cat.gencat.mobi.mossos.LauncherActivity" name="mossos_desquadra"/>
+	<item class="com.ghisler.android.TotalCommander.TotalCommander" name="total_commander"/>
 
 </appmap>

@@ -905,5 +905,11 @@
 	<AppIcon name="com.realtimeboard/com.realtimeboard.MainActivity" image="miro"/>
 	<AppIcon name="com.ccbuchner.cas/com.ccbuchner.cas.MainActivity" image="click_and_study"/>
 	<AppIcon name="de.klett.dua.schueler/de.vonaffenfels.Mobile.ApeActivity" image="klett_lernen"/>
+	<AppIcon name="cat.tv3.eng.tresac/cat.ccma.android.tresplay.NavHostActivity" image="_3cat"/>
+	<AppIcon name="com.adif.elcanomovil/com.adif.elcanomovil.SplashScreenActivity" image="adif"/>
+	<AppIcon name="com.ghostsq.commander/com.ghostsq.commander.FileCommander" image="ghost_commander"/>
+	<AppIcon name="com.correos.prepago/com.correos.prepago.architecture.views.activities.contexts.splash.SplashActivity" image="mi_prepago"/>
+	<AppIcon name="cat.gencat.mobi.mossos/cat.gencat.mobi.mossos.LauncherActivity" image="mossos_desquadra"/>
+	<AppIcon name="com.ghisler.android.TotalCommander/com.ghisler.android.TotalCommander.TotalCommander" image="total_commander"/>
 
 </Theme>
