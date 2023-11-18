@@ -901,5 +901,6 @@
 	<item class="com.correos.prepago.architecture.views.activities.contexts.splash.SplashActivity" name="mi_prepago"/>
 	<item class="cat.gencat.mobi.mossos.LauncherActivity" name="mossos_desquadra"/>
 	<item class="com.ghisler.android.TotalCommander.TotalCommander" name="total_commander"/>
+	<item class="com.helliwood.click_and_study.MainActivity" name="click_and_study"/>
 
 </appmap>

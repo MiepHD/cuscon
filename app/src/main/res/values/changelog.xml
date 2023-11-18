@@ -2,6 +2,8 @@
 <resources>
     <string name="changelog_date">11.11.2023</string>
     <string-array name="changelog">
+        <item>3.0.2.2:</item>
+        <item>Fixed click and study</item>
         <item>3.0.2.1:</item>
         <item>Added 3Cat, Adif, Ghost Commander, Mi Prepago, Mossos d\'Esquadra, Total Commander</item>
         <item>Removed home_description</item>
