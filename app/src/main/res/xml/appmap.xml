@@ -905,5 +905,8 @@
 	<item class="com.ace.fileexplorer.feature.activity.AceFirstActivity" name="ex_explorador_de_archivos"/>
 	<item class="es.rtve.playradio.Activity.SplashActivity_" name="rtve_audio"/>
 	<item class="pl.solidexplorer.SolidExplorer" name="solid_explorer"/>
+	<item class="com.drawexpress.activity.MyProjectManagerActivity" name="drawexpress"/>
+	<item class="ch.protonmail.android.mailbox.presentation.ui.MailboxActivity" name="proton_mail"/>
+	<item class="jp.snowlife01.android.rotationcontrolpro.rotation2.MainActivityNew" name="rotation_control_pro"/>
 
 </appmap>

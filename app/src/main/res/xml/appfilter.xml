@@ -938,5 +938,8 @@
 	<item component="ComponentInfo{com.ace.ex.file.manager/com.ace.fileexplorer.feature.activity.AceFirstActivity}" drawable="ex_explorador_de_archivos" />
 	<item component="ComponentInfo{es.rtve.playradio/es.rtve.playradio.Activity.SplashActivity_}" drawable="rtve_audio" />
 	<item component="ComponentInfo{pl.solidexplorer2/pl.solidexplorer.SolidExplorer}" drawable="solid_explorer" />
+	<item component="ComponentInfo{com.drawexpress.full/com.drawexpress.activity.MyProjectManagerActivity}" drawable="drawexpress" />
+	<item component="ComponentInfo{ch.protonmail.android/ch.protonmail.android.mailbox.presentation.ui.MailboxActivity}" drawable="proton_mail" />
+	<item component="ComponentInfo{jp.snowlife01.android.rotationcontrolpro/jp.snowlife01.android.rotationcontrolpro.rotation2.MainActivityNew}" drawable="rotation_control_pro" />
 
 </resources>

@@ -915,5 +915,8 @@
 	<AppIcon name="com.ace.ex.file.manager/com.ace.fileexplorer.feature.activity.AceFirstActivity" image="ex_explorador_de_archivos"/>
 	<AppIcon name="es.rtve.playradio/es.rtve.playradio.Activity.SplashActivity_" image="rtve_audio"/>
 	<AppIcon name="pl.solidexplorer2/pl.solidexplorer.SolidExplorer" image="solid_explorer"/>
+	<AppIcon name="com.drawexpress.full/com.drawexpress.activity.MyProjectManagerActivity" image="drawexpress"/>
+	<AppIcon name="ch.protonmail.android/ch.protonmail.android.mailbox.presentation.ui.MailboxActivity" image="proton_mail"/>
+	<AppIcon name="jp.snowlife01.android.rotationcontrolpro/jp.snowlife01.android.rotationcontrolpro.rotation2.MainActivityNew" image="rotation_control_pro"/>
 
 </Theme>
