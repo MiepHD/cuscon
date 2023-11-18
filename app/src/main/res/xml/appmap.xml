@@ -927,5 +927,6 @@
 	<item class="io.github.muntashirakon.setedit.EditorActivity" name="setedit"/>
 	<item class="com.bnyro.translate.ui.MainActivity" name="translate_you"/>
 	<item class="cn.xender.ui.activity.SplashActivity" name="xender"/>
+	<item class="com.google.android.libraries.inputmethod.launcher.LauncherActivity" name="gboard"/>
 
 </appmap>

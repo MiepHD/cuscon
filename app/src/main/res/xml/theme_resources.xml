@@ -937,5 +937,6 @@
 	<AppIcon name="io.github.muntashirakon.setedit/io.github.muntashirakon.setedit.EditorActivity" image="setedit"/>
 	<AppIcon name="com.bnyro.translate/com.bnyro.translate.ui.MainActivity" image="translate_you"/>
 	<AppIcon name="cn.xender/cn.xender.ui.activity.SplashActivity" image="xender"/>
+	<AppIcon name="com.google.android.inputmethod.latin/com.google.android.libraries.inputmethod.launcher.LauncherActivity" image="gboard"/>
 
 </Theme>
