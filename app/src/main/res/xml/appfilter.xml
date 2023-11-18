@@ -941,5 +941,12 @@
 	<item component="ComponentInfo{com.drawexpress.full/com.drawexpress.activity.MyProjectManagerActivity}" drawable="drawexpress" />
 	<item component="ComponentInfo{ch.protonmail.android/ch.protonmail.android.mailbox.presentation.ui.MailboxActivity}" drawable="proton_mail" />
 	<item component="ComponentInfo{jp.snowlife01.android.rotationcontrolpro/jp.snowlife01.android.rotationcontrolpro.rotation2.MainActivityNew}" drawable="rotation_control_pro" />
+	<item component="ComponentInfo{es.aeat.dgc.mobile/es.aeat.dgc.mobile.ui.splash.SplashActivity}" drawable="aeat" />
+	<item component="ComponentInfo{com.diariscatalunya/com.shared.SplashActivity}" drawable="diarios_de_catalunya" />
+	<item component="ComponentInfo{com.agni.dina.weather.ai/com.agni.dina.activities.MainActivity}" drawable="dina" />
+	<item component="ComponentInfo{com.foreca.android.weather/com.foreca.android.weather.MainActivity}" drawable="foreca" />
+	<item component="ComponentInfo{es.gob.carpeta/com.sgad.android.carpeta.presentation.RootActivity}" drawable="mi_carpeta_ciudadana" />
+	<item component="ComponentInfo{uk.co.openweather/uk.co.openweather.MainActivity}" drawable="openweather" />
+	<item component="ComponentInfo{au.com.weatherzone.android.weatherzonefreeapp/au.com.weatherzone.android.weatherzonefreeapp.LauncherActivity}" drawable="weatherzone" />
 
 </resources>

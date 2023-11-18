@@ -908,5 +908,12 @@
 	<item class="com.drawexpress.activity.MyProjectManagerActivity" name="drawexpress"/>
 	<item class="ch.protonmail.android.mailbox.presentation.ui.MailboxActivity" name="proton_mail"/>
 	<item class="jp.snowlife01.android.rotationcontrolpro.rotation2.MainActivityNew" name="rotation_control_pro"/>
+	<item class="es.aeat.dgc.mobile.ui.splash.SplashActivity" name="aeat"/>
+	<item class="com.shared.SplashActivity" name="diarios_de_catalunya"/>
+	<item class="com.agni.dina.activities.MainActivity" name="dina"/>
+	<item class="com.foreca.android.weather.MainActivity" name="foreca"/>
+	<item class="com.sgad.android.carpeta.presentation.RootActivity" name="mi_carpeta_ciudadana"/>
+	<item class="uk.co.openweather.MainActivity" name="openweather"/>
+	<item class="au.com.weatherzone.android.weatherzonefreeapp.LauncherActivity" name="weatherzone"/>
 
 </appmap>

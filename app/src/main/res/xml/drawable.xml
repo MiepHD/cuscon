@@ -858,5 +858,12 @@
 	<item drawable="ex_explorador_de_archivos" />
 	<item drawable="rtve_audio" />
 	<item drawable="solid_explorer" />
+	<item drawable="aeat" />
+	<item drawable="diarios_de_catalunya" />
+	<item drawable="dina" />
+	<item drawable="foreca" />
+	<item drawable="mi_carpeta_ciudadana" />
+	<item drawable="openweather" />
+	<item drawable="weatherzone" />
 
 </resources>

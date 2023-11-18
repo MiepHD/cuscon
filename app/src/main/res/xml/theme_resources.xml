@@ -918,5 +918,12 @@
 	<AppIcon name="com.drawexpress.full/com.drawexpress.activity.MyProjectManagerActivity" image="drawexpress"/>
 	<AppIcon name="ch.protonmail.android/ch.protonmail.android.mailbox.presentation.ui.MailboxActivity" image="proton_mail"/>
 	<AppIcon name="jp.snowlife01.android.rotationcontrolpro/jp.snowlife01.android.rotationcontrolpro.rotation2.MainActivityNew" image="rotation_control_pro"/>
+	<AppIcon name="es.aeat.dgc.mobile/es.aeat.dgc.mobile.ui.splash.SplashActivity" image="aeat"/>
+	<AppIcon name="com.diariscatalunya/com.shared.SplashActivity" image="diarios_de_catalunya"/>
+	<AppIcon name="com.agni.dina.weather.ai/com.agni.dina.activities.MainActivity" image="dina"/>
+	<AppIcon name="com.foreca.android.weather/com.foreca.android.weather.MainActivity" image="foreca"/>
+	<AppIcon name="es.gob.carpeta/com.sgad.android.carpeta.presentation.RootActivity" image="mi_carpeta_ciudadana"/>
+	<AppIcon name="uk.co.openweather/uk.co.openweather.MainActivity" image="openweather"/>
+	<AppIcon name="au.com.weatherzone.android.weatherzonefreeapp/au.com.weatherzone.android.weatherzonefreeapp.LauncherActivity" image="weatherzone"/>
 
 </Theme>
