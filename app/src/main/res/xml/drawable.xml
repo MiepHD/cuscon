@@ -877,5 +877,8 @@
 	<item drawable="setedit" />
 	<item drawable="translate_you" />
 	<item drawable="xender" />
+	<item drawable="drawexpress" />
+	<item drawable="proton_mail" />
+	<item drawable="rotation_control_pro" />
 
 </resources>
