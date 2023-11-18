@@ -855,5 +855,27 @@
 	<item drawable="mi_prepago" />
 	<item drawable="mossos_desquadra" />
 	<item drawable="total_commander" />
+	<item drawable="ex_explorador_de_archivos" />
+	<item drawable="rtve_audio" />
+	<item drawable="solid_explorer" />
+	<item drawable="aeat" />
+	<item drawable="diarios_de_catalunya" />
+	<item drawable="dina" />
+	<item drawable="foreca" />
+	<item drawable="mi_carpeta_ciudadana" />
+	<item drawable="openweather" />
+	<item drawable="weatherzone" />
+	<item drawable="camera" />
+	<item drawable="fm_xradio" />
+	<item drawable="instagram_lite" />
+	<item drawable="lean_settings" />
+	<item drawable="office_reader" />
+	<item drawable="one_hand_operation_" />
+	<item drawable="opera" />
+	<item drawable="pc_simulator" />
+	<item drawable="privacy_dots" />
+	<item drawable="setedit" />
+	<item drawable="translate_you" />
+	<item drawable="xender" />
 
 </resources>

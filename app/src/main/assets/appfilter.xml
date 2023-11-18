@@ -935,5 +935,31 @@
 	<item component="ComponentInfo{com.correos.prepago/com.correos.prepago.architecture.views.activities.contexts.splash.SplashActivity}" drawable="mi_prepago" />
 	<item component="ComponentInfo{cat.gencat.mobi.mossos/cat.gencat.mobi.mossos.LauncherActivity}" drawable="mossos_desquadra" />
 	<item component="ComponentInfo{com.ghisler.android.TotalCommander/com.ghisler.android.TotalCommander.TotalCommander}" drawable="total_commander" />
+	<item component="ComponentInfo{com.ace.ex.file.manager/com.ace.fileexplorer.feature.activity.AceFirstActivity}" drawable="ex_explorador_de_archivos" />
+	<item component="ComponentInfo{es.rtve.playradio/es.rtve.playradio.Activity.SplashActivity_}" drawable="rtve_audio" />
+	<item component="ComponentInfo{pl.solidexplorer2/pl.solidexplorer.SolidExplorer}" drawable="solid_explorer" />
+	<item component="ComponentInfo{com.drawexpress.full/com.drawexpress.activity.MyProjectManagerActivity}" drawable="drawexpress" />
+	<item component="ComponentInfo{ch.protonmail.android/ch.protonmail.android.mailbox.presentation.ui.MailboxActivity}" drawable="proton_mail" />
+	<item component="ComponentInfo{jp.snowlife01.android.rotationcontrolpro/jp.snowlife01.android.rotationcontrolpro.rotation2.MainActivityNew}" drawable="rotation_control_pro" />
+	<item component="ComponentInfo{es.aeat.dgc.mobile/es.aeat.dgc.mobile.ui.splash.SplashActivity}" drawable="aeat" />
+	<item component="ComponentInfo{com.diariscatalunya/com.shared.SplashActivity}" drawable="diarios_de_catalunya" />
+	<item component="ComponentInfo{com.agni.dina.weather.ai/com.agni.dina.activities.MainActivity}" drawable="dina" />
+	<item component="ComponentInfo{com.foreca.android.weather/com.foreca.android.weather.MainActivity}" drawable="foreca" />
+	<item component="ComponentInfo{es.gob.carpeta/com.sgad.android.carpeta.presentation.RootActivity}" drawable="mi_carpeta_ciudadana" />
+	<item component="ComponentInfo{uk.co.openweather/uk.co.openweather.MainActivity}" drawable="openweather" />
+	<item component="ComponentInfo{au.com.weatherzone.android.weatherzonefreeapp/au.com.weatherzone.android.weatherzonefreeapp.LauncherActivity}" drawable="weatherzone" />
+	<item component="ComponentInfo{com.simplemobiletools.camera/com.simplemobiletools.camera.activities.SplashActivity.Orange}" drawable="camera" />
+	<item component="ComponentInfo{com.funbase.xradio/com.funbase.xradio.home.activity.MainActivity}" drawable="fm_xradio" />
+	<item component="ComponentInfo{com.instagram.lite/com.facebook.lite.MainActivity}" drawable="instagram_lite" />
+	<item component="ComponentInfo{com.hdeva.launcher/com.google.android.apps.nexuslauncher.SettingsActivity}" drawable="lean_settings" />
+	<item component="ComponentInfo{net.sjava.officereader/net.sjava.officereader.ui.activities.MainActivity}" drawable="office_reader" />
+	<item component="ComponentInfo{com.samsung.android.sidegesturepad/com.samsung.android.sidegesturepad.settings.SGPSettingsActivity}" drawable="one_hand_operation_" />
+	<item component="ComponentInfo{com.opera.browser/com.opera.Opera}" drawable="opera" />
+	<item component="ComponentInfo{com.Yiming.PC/com.unity3d.player.UnityPlayerActivity}" drawable="pc_simulator" />
+	<item component="ComponentInfo{com.paget96.privacydots/com.paget96.privacydots.MainActivity}" drawable="privacy_dots" />
+	<item component="ComponentInfo{io.github.muntashirakon.setedit/io.github.muntashirakon.setedit.EditorActivity}" drawable="setedit" />
+	<item component="ComponentInfo{com.bnyro.translate/com.bnyro.translate.ui.MainActivity}" drawable="translate_you" />
+	<item component="ComponentInfo{cn.xender/cn.xender.ui.activity.SplashActivity}" drawable="xender" />
+	<item component="ComponentInfo{com.google.android.inputmethod.latin/com.google.android.libraries.inputmethod.launcher.LauncherActivity}" drawable="gboard" />
 
 </resources>
