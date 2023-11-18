@@ -902,5 +902,8 @@
 	<item class="cat.gencat.mobi.mossos.LauncherActivity" name="mossos_desquadra"/>
 	<item class="com.ghisler.android.TotalCommander.TotalCommander" name="total_commander"/>
 	<item class="com.helliwood.click_and_study.MainActivity" name="click_and_study"/>
+	<item class="com.ace.fileexplorer.feature.activity.AceFirstActivity" name="ex_explorador_de_archivos"/>
+	<item class="es.rtve.playradio.Activity.SplashActivity_" name="rtve_audio"/>
+	<item class="pl.solidexplorer.SolidExplorer" name="solid_explorer"/>
 
 </appmap>

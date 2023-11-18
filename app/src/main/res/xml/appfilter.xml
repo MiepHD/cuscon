@@ -935,5 +935,8 @@
 	<item component="ComponentInfo{com.correos.prepago/com.correos.prepago.architecture.views.activities.contexts.splash.SplashActivity}" drawable="mi_prepago" />
 	<item component="ComponentInfo{cat.gencat.mobi.mossos/cat.gencat.mobi.mossos.LauncherActivity}" drawable="mossos_desquadra" />
 	<item component="ComponentInfo{com.ghisler.android.TotalCommander/com.ghisler.android.TotalCommander.TotalCommander}" drawable="total_commander" />
+	<item component="ComponentInfo{com.ace.ex.file.manager/com.ace.fileexplorer.feature.activity.AceFirstActivity}" drawable="ex_explorador_de_archivos" />
+	<item component="ComponentInfo{es.rtve.playradio/es.rtve.playradio.Activity.SplashActivity_}" drawable="rtve_audio" />
+	<item component="ComponentInfo{pl.solidexplorer2/pl.solidexplorer.SolidExplorer}" drawable="solid_explorer" />
 
 </resources>

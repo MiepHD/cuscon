@@ -855,5 +855,8 @@
 	<item drawable="mi_prepago" />
 	<item drawable="mossos_desquadra" />
 	<item drawable="total_commander" />
+	<item drawable="ex_explorador_de_archivos" />
+	<item drawable="rtve_audio" />
+	<item drawable="solid_explorer" />
 
 </resources>

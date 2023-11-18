@@ -912,5 +912,8 @@
 	<AppIcon name="cat.gencat.mobi.mossos/cat.gencat.mobi.mossos.LauncherActivity" image="mossos_desquadra"/>
 	<AppIcon name="com.ghisler.android.TotalCommander/com.ghisler.android.TotalCommander.TotalCommander" image="total_commander"/>
 	<AppIcon name="com.ccbuchner.cas/com.helliwood.click_and_study.MainActivity" image="click_and_study"/>
+	<AppIcon name="com.ace.ex.file.manager/com.ace.fileexplorer.feature.activity.AceFirstActivity" image="ex_explorador_de_archivos"/>
+	<AppIcon name="es.rtve.playradio/es.rtve.playradio.Activity.SplashActivity_" image="rtve_audio"/>
+	<AppIcon name="pl.solidexplorer2/pl.solidexplorer.SolidExplorer" image="solid_explorer"/>
 
 </Theme>
