@@ -948,5 +948,17 @@
 	<item component="ComponentInfo{es.gob.carpeta/com.sgad.android.carpeta.presentation.RootActivity}" drawable="mi_carpeta_ciudadana" />
 	<item component="ComponentInfo{uk.co.openweather/uk.co.openweather.MainActivity}" drawable="openweather" />
 	<item component="ComponentInfo{au.com.weatherzone.android.weatherzonefreeapp/au.com.weatherzone.android.weatherzonefreeapp.LauncherActivity}" drawable="weatherzone" />
+	<item component="ComponentInfo{com.simplemobiletools.camera/com.simplemobiletools.camera.activities.SplashActivity.Orange}" drawable="camera" />
+	<item component="ComponentInfo{com.funbase.xradio/com.funbase.xradio.home.activity.MainActivity}" drawable="fm_xradio" />
+	<item component="ComponentInfo{com.instagram.lite/com.facebook.lite.MainActivity}" drawable="instagram_lite" />
+	<item component="ComponentInfo{com.hdeva.launcher/com.google.android.apps.nexuslauncher.SettingsActivity}" drawable="lean_settings" />
+	<item component="ComponentInfo{net.sjava.officereader/net.sjava.officereader.ui.activities.MainActivity}" drawable="office_reader" />
+	<item component="ComponentInfo{com.samsung.android.sidegesturepad/com.samsung.android.sidegesturepad.settings.SGPSettingsActivity}" drawable="one_hand_operation_" />
+	<item component="ComponentInfo{com.opera.browser/com.opera.Opera}" drawable="opera" />
+	<item component="ComponentInfo{com.Yiming.PC/com.unity3d.player.UnityPlayerActivity}" drawable="pc_simulator" />
+	<item component="ComponentInfo{com.paget96.privacydots/com.paget96.privacydots.MainActivity}" drawable="privacy_dots" />
+	<item component="ComponentInfo{io.github.muntashirakon.setedit/io.github.muntashirakon.setedit.EditorActivity}" drawable="setedit" />
+	<item component="ComponentInfo{com.bnyro.translate/com.bnyro.translate.ui.MainActivity}" drawable="translate_you" />
+	<item component="ComponentInfo{cn.xender/cn.xender.ui.activity.SplashActivity}" drawable="xender" />
 
 </resources>

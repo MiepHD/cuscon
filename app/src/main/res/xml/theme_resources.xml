@@ -925,5 +925,17 @@
 	<AppIcon name="es.gob.carpeta/com.sgad.android.carpeta.presentation.RootActivity" image="mi_carpeta_ciudadana"/>
 	<AppIcon name="uk.co.openweather/uk.co.openweather.MainActivity" image="openweather"/>
 	<AppIcon name="au.com.weatherzone.android.weatherzonefreeapp/au.com.weatherzone.android.weatherzonefreeapp.LauncherActivity" image="weatherzone"/>
+	<AppIcon name="com.simplemobiletools.camera/com.simplemobiletools.camera.activities.SplashActivity.Orange" image="camera"/>
+	<AppIcon name="com.funbase.xradio/com.funbase.xradio.home.activity.MainActivity" image="fm_xradio"/>
+	<AppIcon name="com.instagram.lite/com.facebook.lite.MainActivity" image="instagram_lite"/>
+	<AppIcon name="com.hdeva.launcher/com.google.android.apps.nexuslauncher.SettingsActivity" image="lean_settings"/>
+	<AppIcon name="net.sjava.officereader/net.sjava.officereader.ui.activities.MainActivity" image="office_reader"/>
+	<AppIcon name="com.samsung.android.sidegesturepad/com.samsung.android.sidegesturepad.settings.SGPSettingsActivity" image="one_hand_operation_"/>
+	<AppIcon name="com.opera.browser/com.opera.Opera" image="opera"/>
+	<AppIcon name="com.Yiming.PC/com.unity3d.player.UnityPlayerActivity" image="pc_simulator"/>
+	<AppIcon name="com.paget96.privacydots/com.paget96.privacydots.MainActivity" image="privacy_dots"/>
+	<AppIcon name="io.github.muntashirakon.setedit/io.github.muntashirakon.setedit.EditorActivity" image="setedit"/>
+	<AppIcon name="com.bnyro.translate/com.bnyro.translate.ui.MainActivity" image="translate_you"/>
+	<AppIcon name="cn.xender/cn.xender.ui.activity.SplashActivity" image="xender"/>
 
 </Theme>
