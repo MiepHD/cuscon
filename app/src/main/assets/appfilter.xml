@@ -961,5 +961,14 @@
 	<item component="ComponentInfo{com.bnyro.translate/com.bnyro.translate.ui.MainActivity}" drawable="translate_you" />
 	<item component="ComponentInfo{cn.xender/cn.xender.ui.activity.SplashActivity}" drawable="xender" />
 	<item component="ComponentInfo{com.google.android.inputmethod.latin/com.google.android.libraries.inputmethod.launcher.LauncherActivity}" drawable="gboard" />
-
+	<item component="ComponentInfo{jp.ejimax.berrybrowser/jp.ejimax.berrybrowser.BrowserActivity}" drawable="berry_browser" />
+	<item component="ComponentInfo{mobi.mgeek.TunnyBrowser/mobi.mgeek.TunnyBrowser.SplashActivity}" drawable="dolphin" />
+	<item component="ComponentInfo{com.duckduckgo.mobile.android/com.duckduckgo.app.launch.Launcher}" drawable="duckduckgo" />
+	<item component="ComponentInfo{com.ecosia.android/com.google.android.apps.chrome.Main}" drawable="ecosia" />
+	<item component="ComponentInfo{org.mozilla.focus/org.mozilla.focus.activity.MainActivity}" drawable="firefox_focus" />
+	<item component="ComponentInfo{com.androidbull.incognito.browser/com.androidbull.incognito.browser.SplashActivity}" drawable="navegador_de_incognito" />
+	<item component="ComponentInfo{com.mi.globalbrowser/com.mi.globalbrowser.Main}" drawable="navegador_mi" />
+	<item component="ComponentInfo{com.cloudmosa.puffinFree/com.cloudmosa.app.LemonActivity}" drawable="puffin" />
+	<item component="ComponentInfo{com.cloudmosa.puffinIncognito/com.cloudmosa.app.LemonActivity}" drawable="puffin" />
+	<item component="ComponentInfo{com.nationaledtech.spinbrowser/com.nationaledtech.spinbrowser.App}" drawable="spin" />
 </resources>

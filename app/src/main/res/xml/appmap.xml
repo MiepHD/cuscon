@@ -928,5 +928,15 @@
 	<item class="com.bnyro.translate.ui.MainActivity" name="translate_you"/>
 	<item class="cn.xender.ui.activity.SplashActivity" name="xender"/>
 	<item class="com.google.android.libraries.inputmethod.launcher.LauncherActivity" name="gboard"/>
+	<item class="jp.ejimax.berrybrowser.BrowserActivity" name="berry_browser"/>
+	<item class="mobi.mgeek.TunnyBrowser.SplashActivity" name="dolphin"/>
+	<item class="com.duckduckgo.app.launch.Launcher" name="duckduckgo"/>
+	<item class="com.google.android.apps.chrome.Main" name="ecosia"/>
+	<item class="org.mozilla.focus.activity.MainActivity" name="firefox_focus"/>
+	<item class="com.androidbull.incognito.browser.SplashActivity" name="navegador_de_incognito"/>
+	<item class="com.mi.globalbrowser.Main" name="navegador_mi"/>
+	<item class="com.cloudmosa.app.LemonActivity" name="puffin"/>
+	<item class="com.cloudmosa.app.LemonActivity" name="puffin"/>
+	<item class="com.nationaledtech.spinbrowser.App" name="spin"/>
 
 </appmap>

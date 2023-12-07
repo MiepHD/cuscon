@@ -877,5 +877,17 @@
 	<item drawable="setedit" />
 	<item drawable="translate_you" />
 	<item drawable="xender" />
-
+	<item drawable="drawexpress" />
+	<item drawable="proton_mail" />
+	<item drawable="rotation_control_pro" />
+	<item drawable="berry_browser" />
+	<item drawable="dolphin" />
+	<item drawable="duckduckgo" />
+	<item drawable="ecosia" />
+	<item drawable="firefox_focus" />
+	<item drawable="navegador_de_incognito" />
+	<item drawable="navegador_mi" />
+	<item drawable="puffin" />
+	<item drawable="puffin" />
+	<item drawable="spin" />
 </resources>
