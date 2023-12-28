@@ -976,5 +976,30 @@
 	<AppIcon name="org.kolel/org.kolel.MainActivity" image="kolel"/>
 	<AppIcon name="clalit.android/clalit.android.MainActivity" image="clalit"/>
 	<AppIcon name="com.leumi.leumiwallet/com.ngsoft.app.ui.LMSplashActivity" image="leumiwallet"/>
+	<AppIcon name="com.paget96.batteryguru/com.paget96.batteryguru.activities.SplashScreen" image="battery_guru"/>
+	<AppIcon name="co.brainly/com.brainly.StartActivity" image="brainly"/>
+	<AppIcon name="advanced.scientific.calculator.calc991.plus/advanced.scientific.calculator.calc991.plus.splash.SplashScreenActivity" image="calces"/>
+	<AppIcon name="com.canva.editor/com.canva.app.editor.splash.SplashActivity" image="canva"/>
+	<AppIcon name="photoeditor.layout.collagemaker/com.camerasideas.collagemaker.activity.DummyActivity" image="collage_maker_gridart"/>
+	<AppIcon name="com.roasterygames.devicestycoon/com.roasterygames.devicestycoon.MainActivity" image="devices_tycoon"/>
+	<AppIcon name="com.dede.android_eggs/com.dede.android_eggs.main.EasterEggsActivity" image="easter_eggs"/>
+	<AppIcon name="dev.patrickgold.florisboard.debug/dev.patrickgold.florisboard.SettingsLauncherAlias" image="florisboard_debug"/>
+	<AppIcon name="com.freebasics/com.facebook.iorg.app.activity.IorgLauncherActivity" image="free_basics"/>
+	<AppIcon name="com.google.android.apps.searchlite/com.google.android.apps.searchlite.ui.SearchActivity" image="google_go"/>
+	<AppIcon name="com.zionhuang.music/com.zionhuang.music.MainActivity" image="innertune"/>
+	<AppIcon name="com.internet.speed.meter.lite/com.internet.speed.meter.lite.MainActivity" image="internet_speed_meter_lite"/>
+	<AppIcon name="com.simplemobiletools.launcher/com.simplemobiletools.launcher.activities.SplashActivity.Orange" image="launcher"/>
+	<AppIcon name="com.google.audio.hearing.visualization.accessibility.scribe/com.google.audio.hearing.visualization.accessibility.scribe.MainActivity" image="live_transcribe"/>
+	<AppIcon name="com.google.android.apps.mapslite/com.google.maps.lite.twa.MapsLiteTwaLauncherActivity" image="maps_go"/>
+	<AppIcon name="com.microsoft.math/com.microsoft.bing.reactnative.lib.MainActivity" image="math"/>
+	<AppIcon name="com.evezzon.nightowl/com.evezzon.nightowl.ui.MainActivity" image="night_owl"/>
+	<AppIcon name="com.sec.sesl.tester/dev.oneuiproject.oneuiexample.activity.MainActivity" image="oneui_sample"/>
+	<AppIcon name="com.iudesk.android.photo.editor/app.activity.MainActivity" image="photo_editor"/>
+	<AppIcon name="com.MA.Polyfield/com.unity3d.player.UnityPlayerActivity" image="polyfield"/>
+	<AppIcon name="com.opera.max.global/com.opera.max.ui.v2.MainActivity" image="samsung_max"/>
+	<AppIcon name="com.kidscrape.king/com.kidscrape.king.MainActivity" image="touch_lock"/>
+	<AppIcon name="com.opera.max.global/com.opera.max.ui.v2.UltraLauncherActivity" image="ultra_apps"/>
+	<AppIcon name="io.sbaud.wavstudio/io.sbaud.wavstudio.activities.LoadActivity" image="waveeditor"/>
+	<AppIcon name="com.sec.android.daemonapp/com.samsung.android.weather.app.AppLauncherActivity" image="samsung_weather"/>
 
 </Theme>

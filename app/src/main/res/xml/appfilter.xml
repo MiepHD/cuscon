@@ -999,5 +999,30 @@
 	<item component="ComponentInfo{org.kolel/org.kolel.MainActivity}" drawable="kolel" />
 	<item component="ComponentInfo{clalit.android/clalit.android.MainActivity}" drawable="clalit" />
 	<item component="ComponentInfo{com.leumi.leumiwallet/com.ngsoft.app.ui.LMSplashActivity}" drawable="leumiwallet" />
+	<item component="ComponentInfo{com.paget96.batteryguru/com.paget96.batteryguru.activities.SplashScreen}" drawable="battery_guru" />
+	<item component="ComponentInfo{co.brainly/com.brainly.StartActivity}" drawable="brainly" />
+	<item component="ComponentInfo{advanced.scientific.calculator.calc991.plus/advanced.scientific.calculator.calc991.plus.splash.SplashScreenActivity}" drawable="calces" />
+	<item component="ComponentInfo{com.canva.editor/com.canva.app.editor.splash.SplashActivity}" drawable="canva" />
+	<item component="ComponentInfo{photoeditor.layout.collagemaker/com.camerasideas.collagemaker.activity.DummyActivity}" drawable="collage_maker_gridart" />
+	<item component="ComponentInfo{com.roasterygames.devicestycoon/com.roasterygames.devicestycoon.MainActivity}" drawable="devices_tycoon" />
+	<item component="ComponentInfo{com.dede.android_eggs/com.dede.android_eggs.main.EasterEggsActivity}" drawable="easter_eggs" />
+	<item component="ComponentInfo{dev.patrickgold.florisboard.debug/dev.patrickgold.florisboard.SettingsLauncherAlias}" drawable="florisboard_debug" />
+	<item component="ComponentInfo{com.freebasics/com.facebook.iorg.app.activity.IorgLauncherActivity}" drawable="free_basics" />
+	<item component="ComponentInfo{com.google.android.apps.searchlite/com.google.android.apps.searchlite.ui.SearchActivity}" drawable="google_go" />
+	<item component="ComponentInfo{com.zionhuang.music/com.zionhuang.music.MainActivity}" drawable="innertune" />
+	<item component="ComponentInfo{com.internet.speed.meter.lite/com.internet.speed.meter.lite.MainActivity}" drawable="internet_speed_meter_lite" />
+	<item component="ComponentInfo{com.simplemobiletools.launcher/com.simplemobiletools.launcher.activities.SplashActivity.Orange}" drawable="launcher" />
+	<item component="ComponentInfo{com.google.audio.hearing.visualization.accessibility.scribe/com.google.audio.hearing.visualization.accessibility.scribe.MainActivity}" drawable="live_transcribe" />
+	<item component="ComponentInfo{com.google.android.apps.mapslite/com.google.maps.lite.twa.MapsLiteTwaLauncherActivity}" drawable="maps_go" />
+	<item component="ComponentInfo{com.microsoft.math/com.microsoft.bing.reactnative.lib.MainActivity}" drawable="math" />
+	<item component="ComponentInfo{com.evezzon.nightowl/com.evezzon.nightowl.ui.MainActivity}" drawable="night_owl" />
+	<item component="ComponentInfo{com.sec.sesl.tester/dev.oneuiproject.oneuiexample.activity.MainActivity}" drawable="oneui_sample" />
+	<item component="ComponentInfo{com.iudesk.android.photo.editor/app.activity.MainActivity}" drawable="photo_editor" />
+	<item component="ComponentInfo{com.MA.Polyfield/com.unity3d.player.UnityPlayerActivity}" drawable="polyfield" />
+	<item component="ComponentInfo{com.opera.max.global/com.opera.max.ui.v2.MainActivity}" drawable="samsung_max" />
+	<item component="ComponentInfo{com.kidscrape.king/com.kidscrape.king.MainActivity}" drawable="touch_lock" />
+	<item component="ComponentInfo{com.opera.max.global/com.opera.max.ui.v2.UltraLauncherActivity}" drawable="ultra_apps" />
+	<item component="ComponentInfo{io.sbaud.wavstudio/io.sbaud.wavstudio.activities.LoadActivity}" drawable="waveeditor" />
+	<item component="ComponentInfo{com.sec.android.daemonapp/com.samsung.android.weather.app.AppLauncherActivity}" drawable="samsung_weather" />
 
 </resources>

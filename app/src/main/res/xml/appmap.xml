@@ -964,5 +964,30 @@
 	<item class="org.kolel.MainActivity" name="kolel"/>
 	<item class="clalit.android.MainActivity" name="clalit"/>
 	<item class="com.ngsoft.app.ui.LMSplashActivity" name="leumiwallet"/>
+	<item class="com.paget96.batteryguru.activities.SplashScreen" name="battery_guru"/>
+	<item class="com.brainly.StartActivity" name="brainly"/>
+	<item class="advanced.scientific.calculator.calc991.plus.splash.SplashScreenActivity" name="calces"/>
+	<item class="com.canva.app.editor.splash.SplashActivity" name="canva"/>
+	<item class="com.camerasideas.collagemaker.activity.DummyActivity" name="collage_maker_gridart"/>
+	<item class="com.roasterygames.devicestycoon.MainActivity" name="devices_tycoon"/>
+	<item class="com.dede.android_eggs.main.EasterEggsActivity" name="easter_eggs"/>
+	<item class="dev.patrickgold.florisboard.SettingsLauncherAlias" name="florisboard_debug"/>
+	<item class="com.facebook.iorg.app.activity.IorgLauncherActivity" name="free_basics"/>
+	<item class="com.google.android.apps.searchlite.ui.SearchActivity" name="google_go"/>
+	<item class="com.zionhuang.music.MainActivity" name="innertune"/>
+	<item class="com.internet.speed.meter.lite.MainActivity" name="internet_speed_meter_lite"/>
+	<item class="com.simplemobiletools.launcher.activities.SplashActivity.Orange" name="launcher"/>
+	<item class="com.google.audio.hearing.visualization.accessibility.scribe.MainActivity" name="live_transcribe"/>
+	<item class="com.google.maps.lite.twa.MapsLiteTwaLauncherActivity" name="maps_go"/>
+	<item class="com.microsoft.bing.reactnative.lib.MainActivity" name="math"/>
+	<item class="com.evezzon.nightowl.ui.MainActivity" name="night_owl"/>
+	<item class="dev.oneuiproject.oneuiexample.activity.MainActivity" name="oneui_sample"/>
+	<item class="app.activity.MainActivity" name="photo_editor"/>
+	<item class="com.unity3d.player.UnityPlayerActivity" name="polyfield"/>
+	<item class="com.opera.max.ui.v2.MainActivity" name="samsung_max"/>
+	<item class="com.kidscrape.king.MainActivity" name="touch_lock"/>
+	<item class="com.opera.max.ui.v2.UltraLauncherActivity" name="ultra_apps"/>
+	<item class="io.sbaud.wavstudio.activities.LoadActivity" name="waveeditor"/>
+	<item class="com.samsung.android.weather.app.AppLauncherActivity" name="samsung_weather"/>
 
 </appmap>
