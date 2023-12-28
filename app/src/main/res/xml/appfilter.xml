@@ -1024,5 +1024,14 @@
 	<item component="ComponentInfo{com.opera.max.global/com.opera.max.ui.v2.UltraLauncherActivity}" drawable="ultra_apps" />
 	<item component="ComponentInfo{io.sbaud.wavstudio/io.sbaud.wavstudio.activities.LoadActivity}" drawable="waveeditor" />
 	<item component="ComponentInfo{com.sec.android.daemonapp/com.samsung.android.weather.app.AppLauncherActivity}" drawable="samsung_weather" />
+	<item component="ComponentInfo{mobi.infolife.ezweather/mobi.infolife.ezweather.WeatherDetailActivity}" drawable="amber_weather" />
+	<item component="ComponentInfo{com.enzuredigital.weatherbomb/com.enzuredigital.weatherbomb.WeatherActivity}" drawable="flowx" />
+	<item component="ComponentInfo{screenrecorder.videoeditor.videorecorder/com.inshot.aorecorder.home.splash.pre.SplashBeforeActivity}" drawable="grabadora_de_pantalla_ax_recorder" />
+	<item component="ComponentInfo{com.media.bestrecorder.audiorecorder/com.media.bestrecorder.audiorecorder.NavigationActivity}" drawable="grabadora_de_voz" />
+	<item component="ComponentInfo{com.splendapps.voicerec/com.splendapps.voicerec.MainActivity}" drawable="grabadora_de_audio" />
+	<item component="ComponentInfo{com.helloweatherapp/com.helloweatherapp.feature.home.HomeActivity}" drawable="hello_weather" />
+	<item component="ComponentInfo{com.apalon.weatherlive.free/com.apalon.weatherlive.activity.ActivityMain}" drawable="weather_live0" />
+	<item component="ComponentInfo{com.aws.android/com.aws.android.app.ui.HomeActivity}" drawable="weatherbug" />
+	<item component="ComponentInfo{com.wunderground.android.weather/com.wunderground.android.weather.ui.splash.WeatherHomeActivity}" drawable="wunderground" />
 
 </resources>

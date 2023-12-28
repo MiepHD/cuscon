@@ -1001,5 +1001,14 @@
 	<AppIcon name="com.opera.max.global/com.opera.max.ui.v2.UltraLauncherActivity" image="ultra_apps"/>
 	<AppIcon name="io.sbaud.wavstudio/io.sbaud.wavstudio.activities.LoadActivity" image="waveeditor"/>
 	<AppIcon name="com.sec.android.daemonapp/com.samsung.android.weather.app.AppLauncherActivity" image="samsung_weather"/>
+	<AppIcon name="mobi.infolife.ezweather/mobi.infolife.ezweather.WeatherDetailActivity" image="amber_weather"/>
+	<AppIcon name="com.enzuredigital.weatherbomb/com.enzuredigital.weatherbomb.WeatherActivity" image="flowx"/>
+	<AppIcon name="screenrecorder.videoeditor.videorecorder/com.inshot.aorecorder.home.splash.pre.SplashBeforeActivity" image="grabadora_de_pantalla_ax_recorder"/>
+	<AppIcon name="com.media.bestrecorder.audiorecorder/com.media.bestrecorder.audiorecorder.NavigationActivity" image="grabadora_de_voz"/>
+	<AppIcon name="com.splendapps.voicerec/com.splendapps.voicerec.MainActivity" image="grabadora_de_audio"/>
+	<AppIcon name="com.helloweatherapp/com.helloweatherapp.feature.home.HomeActivity" image="hello_weather"/>
+	<AppIcon name="com.apalon.weatherlive.free/com.apalon.weatherlive.activity.ActivityMain" image="weather_live0"/>
+	<AppIcon name="com.aws.android/com.aws.android.app.ui.HomeActivity" image="weatherbug"/>
+	<AppIcon name="com.wunderground.android.weather/com.wunderground.android.weather.ui.splash.WeatherHomeActivity" image="wunderground"/>
 
 </Theme>

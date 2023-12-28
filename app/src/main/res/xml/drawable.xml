@@ -937,4 +937,12 @@
 	<item drawable="ultra_apps" />
 	<item drawable="waveeditor" />
 	<item drawable="samsung_weather" />
+    <item drawable="amber_weather" />
+	<item drawable="flowx" />
+	<item drawable="grabadora_de_pantalla_ax_recorder" />
+	<item drawable="grabadora_de_voz" />
+	<item drawable="hello_weather" />
+	<item drawable="weatherbug" />
+	<item drawable="wunderground" />
+
 </resources>

@@ -989,5 +989,13 @@
 	<item class="com.opera.max.ui.v2.UltraLauncherActivity" name="ultra_apps"/>
 	<item class="io.sbaud.wavstudio.activities.LoadActivity" name="waveeditor"/>
 	<item class="com.samsung.android.weather.app.AppLauncherActivity" name="samsung_weather"/>
+	<item class="mobi.infolife.ezweather.WeatherDetailActivity" name="amber_weather"/>
+	<item class="com.enzuredigital.weatherbomb.WeatherActivity" name="flowx"/>
+	<item class="com.inshot.aorecorder.home.splash.pre.SplashBeforeActivity" name="grabadora_de_pantalla_ax_recorder"/>
+	<item class="com.media.bestrecorder.audiorecorder.NavigationActivity" name="grabadora_de_voz"/>
+	<item class="com.splendapps.voicerec.MainActivity" name="grabadora_de_audio"/>
+	<item class="com.helloweatherapp.feature.home.HomeActivity" name="hello_weather"/>
+	<item class="com.aws.android.app.ui.HomeActivity" name="weatherbug"/>
+	<item class="com.wunderground.android.weather.ui.splash.WeatherHomeActivity" name="wunderground"/>
 
 </appmap>
