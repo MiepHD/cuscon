@@ -1,16 +1,10 @@
 ![icon_with_name](http://miep-hd.froxot.com/cuscon/res/icon_with_name.png)
 
-Icon-Pack with transpanrent icons that are outlined for good visibility.
-
-Contains the android app in `app` and the website under `webpage`
-
-# Supported Apps
-
-http://miep-hd.froxot.com/cuscon
+This icon pack makes your home screen varied and dynamic. As there is no background, each icon looks unique and the constant pattern of the grid is broken up.
 
 # Requests
 
-Please send request to <a href="mailto:cuscon-requests@froxot.de">cuscon-requests@froxot.de</a>
+Please send requests to <a href="mailto:cuscon-requests@froxot.de">cuscon-requests@froxot.de</a>
 
 # Pull Requests
 
