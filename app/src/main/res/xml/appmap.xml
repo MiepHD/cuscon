@@ -813,7 +813,7 @@
 	<item class="me.zhanghai.android.files.filelist.FileListActivity" name="material_files"/>
 	<item class="com.godot.game.GodotApp" name="ber_bausimulator"/>
 	<item class="org.localsend.localsend_app.MainActivity" name="localsend"/>
-	<item class="com.motorola.dolby.dolbyui.ui.LauncherActivity" name="dolby_atmos"/>
+	<item class="com.motorola.dolby.dolbyui.ui.LauncherActivity" name="motorola_dolby_atmos"/>
 	<item class="com.motorola.audiorecorder.ui.main.MainActivity" name="grabadora"/>
 	<item class="com.zafaco.breitbandmessung.activities.HomeActivity" name="messung"/>
 	<item class="com.thirtydays.headset.page.activity.LoadingActivity" name="soundpeats"/>
@@ -936,9 +936,33 @@
 	<item class="com.androidbull.incognito.browser.SplashActivity" name="navegador_de_incognito"/>
 	<item class="com.mi.globalbrowser.Main" name="navegador_mi"/>
 	<item class="com.cloudmosa.app.LemonActivity" name="puffin"/>
-	<item class="com.cloudmosa.app.LemonActivity" name="puffin"/>
 	<item class="com.nationaledtech.spinbrowser.App" name="spin"/>
 	<item class="com.mobimento.caponate.MainActivity" name="radar_meteocat"/>
 	<item class="com.oneweather.app.MainActivity" name="_1weather"/>
+	<item class="io.github.muntashirakon.AppManager.main.SplashActivity" name="app_manager"/>
+	<item class="com.aurora.store.MainActivity" name="aurora_store"/>
+	<item class="com.sadellie.unitto.MainActivity" name="calculator"/>
+	<item class="com.simplemobiletools.calendar.pro.activities.SplashActivity.Light_blue" name="calendar"/>
+	<item class="com.bnyro.clock.ui.MainActivity" name="clock_you"/>
+	<item class="com.simplemobiletools.contacts.pro.activities.SplashActivity.Orange" name="contactos"/>
+	<item class="com.froxot.cuscon.activities.SplashActivity" name="cuscon"/>
+	<item class="com.dolby.daxappui.MainActivity" name="dolby_atmos2"/>
+	<item class="com.simplemobiletools.gallery.pro.activities.SplashActivity.Light_blue" name="gallery2"/>
+	<item class="com.here.app.wego.MainActivity" name="here_wego"/>
+	<item class="ru.tech.imageresizershrinker.presentation.main_screen.MainActivity" name="image_toolbox_resizer_"/>
+	<item class="com.fsck.k9.activity.MessageList" name="k_9_mail"/>
+	<item class="com.oriondev.moneywallet.ui.activity.LauncherActivity" name="moneywallet"/>
+	<item class="com.maltaisn.notes.ui.main.MainActivity" name="notes"/>
+	<item class="dev.imranr.obtainium.MainActivity" name="obtainium"/>
+	<item class="com.bnyro.recorder.ui.MainActivity" name="record_you"/>
+	<item class="org.sefaria.sefaria.SplashActivity" name="sefaria"/>
+	<item class="com.simplemobiletools.smsmessenger.activities.SplashActivity.Light_blue" name="sms_messenger"/>
+	<item class="app.suhasdissa.vibeyou.MainActivity" name="vibe_you"/>
+	<item class="it.vfsfitvnm.vimusic.MainActivity" name="vimusic"/>
+	<item class="de.beowulf.wetter.activities.LaunchActivity" name="weather2"/>
+	<item class="cn.wps.moffice.documentmanager.PreStartActivity" name="wps_office"/>
+	<item class="org.kolel.MainActivity" name="kolel"/>
+	<item class="clalit.android.MainActivity" name="clalit"/>
+	<item class="com.ngsoft.app.ui.LMSplashActivity" name="leumiwallet"/>
 
 </appmap>

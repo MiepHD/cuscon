@@ -765,7 +765,7 @@
     <item drawable="vr_securego_plus" />
     <item drawable="hp_pay" />
     <item drawable="klarna" />
-    <item drawable="dolby_atmos" />
+    <item drawable="motorola_dolby_atmos" />
 	<item drawable="grabadora" />
 	<item drawable="messung" />
 	<item drawable="soundpeats" />

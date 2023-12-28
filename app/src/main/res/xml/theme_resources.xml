@@ -823,7 +823,7 @@
 	<AppIcon name="me.zhanghai.android.files/me.zhanghai.android.files.filelist.FileListActivity" image="material_files"/>
 	<AppIcon name="com.illusivereflection.berbausimulator/com.godot.game.GodotApp" image="ber_bausimulator"/>
 	<AppIcon name="org.localsend.localsend_app/org.localsend.localsend_app.MainActivity" image="localsend"/>
-	<AppIcon name="com.motorola.dolby.dolbyui/com.motorola.dolby.dolbyui.ui.LauncherActivity" image="dolby_atmos"/>
+	<AppIcon name="com.motorola.dolby.dolbyui/com.motorola.dolby.dolbyui.ui.LauncherActivity" image="motorola_dolby_atmos"/>
 	<AppIcon name="com.motorola.audiorecorder/com.motorola.audiorecorder.ui.main.MainActivity" image="grabadora"/>
 	<AppIcon name="com.zafaco.breitbandmessung/com.zafaco.breitbandmessung.activities.HomeActivity" image="messung"/>
 	<AppIcon name="com.thirtydays.headset/com.thirtydays.headset.page.activity.LoadingActivity" image="soundpeats"/>
@@ -950,5 +950,31 @@
 	<AppIcon name="com.nationaledtech.spinbrowser/com.nationaledtech.spinbrowser.App" image="spin"/>
 	<AppIcon name="com.mobincube.radar_meteocat.sc_ECIXC4/com.mobimento.caponate.MainActivity" image="radar_meteocat"/>
 	<AppIcon name="com.handmark.expressweather/com.oneweather.app.MainActivity" image="_1weather"/>
+	<AppIcon name="io.github.muntashirakon.AppManager/io.github.muntashirakon.AppManager.main.SplashActivity" image="app_manager"/>
+	<AppIcon name="com.aurora.store/com.aurora.store.MainActivity" image="aurora_store"/>
+	<AppIcon name="com.sadellie.unitto/com.sadellie.unitto.MainActivity" image="calculator"/>
+	<AppIcon name="com.simplemobiletools.calendar.pro/com.simplemobiletools.calendar.pro.activities.SplashActivity.Light_blue" image="calendar"/>
+	<AppIcon name="com.bnyro.clock/com.bnyro.clock.ui.MainActivity" image="clock_you"/>
+	<AppIcon name="com.simplemobiletools.contacts.pro/com.simplemobiletools.contacts.pro.activities.SplashActivity.Orange" image="contactos"/>
+	<AppIcon name="com.froxot.cuscon.foss/com.froxot.cuscon.activities.SplashActivity" image="cuscon"/>
+	<AppIcon name="website.leifs.delta.foss/website.leifs.delta.activities.SplashActivity" image="delta"/>
+	<AppIcon name="com.dolby.daxappui/com.dolby.daxappui.MainActivity" image="dolby_atmos2"/>
+	<AppIcon name="com.simplemobiletools.gallery.pro/com.simplemobiletools.gallery.pro.activities.SplashActivity.Light_blue" image="gallery2"/>
+	<AppIcon name="com.here.app.maps/com.here.app.wego.MainActivity" image="here_wego"/>
+	<AppIcon name="ru.tech.imageresizershrinker/ru.tech.imageresizershrinker.presentation.main_screen.MainActivity" image="image_toolbox_resizer_"/>
+	<AppIcon name="com.fsck.k9/com.fsck.k9.activity.MessageList" image="k_9_mail"/>
+	<AppIcon name="com.oriondev.moneywallet/com.oriondev.moneywallet.ui.activity.LauncherActivity" image="moneywallet"/>
+	<AppIcon name="com.maltaisn.notes.sync/com.maltaisn.notes.ui.main.MainActivity" image="notes"/>
+	<AppIcon name="dev.imranr.obtainium/dev.imranr.obtainium.MainActivity" image="obtainium"/>
+	<AppIcon name="com.bnyro.recorder/com.bnyro.recorder.ui.MainActivity" image="record_you"/>
+	<AppIcon name="org.sefaria.sefaria/org.sefaria.sefaria.SplashActivity" image="sefaria"/>
+	<AppIcon name="com.simplemobiletools.smsmessenger/com.simplemobiletools.smsmessenger.activities.SplashActivity.Light_blue" image="sms_messenger"/>
+	<AppIcon name="app.suhasdissa.vibeyou/app.suhasdissa.vibeyou.MainActivity" image="vibe_you"/>
+	<AppIcon name="it.vfsfitvnm.vimusic/it.vfsfitvnm.vimusic.MainActivity" image="vimusic"/>
+	<AppIcon name="de.beowulf.wetter/de.beowulf.wetter.activities.LaunchActivity" image="weather2"/>
+	<AppIcon name="cn.wps.moffice_eng/cn.wps.moffice.documentmanager.PreStartActivity" image="wps_office"/>
+	<AppIcon name="org.kolel/org.kolel.MainActivity" image="kolel"/>
+	<AppIcon name="clalit.android/clalit.android.MainActivity" image="clalit"/>
+	<AppIcon name="com.leumi.leumiwallet/com.ngsoft.app.ui.LMSplashActivity" image="leumiwallet"/>
 
 </Theme>

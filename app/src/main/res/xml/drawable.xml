@@ -577,7 +577,6 @@
     <item drawable="adguard_vpn"/>
     <item drawable="ninja_vpn" />
     <item drawable="proton_vpn" />
-    <item drawable="open_camera" />
     <item drawable="samsung_camera" />
     <item drawable="obscuracam" />
     <item drawable="binary_eye" />
@@ -765,7 +764,7 @@
     <item drawable="vr_securego_plus" />
     <item drawable="hp_pay" />
     <item drawable="klarna" />
-    <item drawable="dolby_atmos" />
+    <item drawable="motorola_dolby_atmos" />
 	<item drawable="grabadora" />
 	<item drawable="messung" />
 	<item drawable="soundpeats" />
@@ -785,7 +784,6 @@
 	<item drawable="gboard" />
 	<item drawable="imo" />
 	<item drawable="lightroom" />
-	<item drawable="my_robi" />
 	<item drawable="my_robi" />
 	<item drawable="myteletalk" />
 	<item drawable="quick_measure" />
@@ -888,9 +886,30 @@
 	<item drawable="navegador_de_incognito" />
 	<item drawable="navegador_mi" />
 	<item drawable="puffin" />
-	<item drawable="puffin" />
+	<item drawable="puffin_1700317178210" />
 	<item drawable="spin" />
     <item drawable="radar_meteocat" />
     <item drawable="_1weather" />
-
+	<item drawable="app_manager" />
+	<item drawable="calculator" />
+	<item drawable="calendar" />
+	<item drawable="clock_you" />
+	<item drawable="dolby_atmos" />
+	<item drawable="gallery_light_blue" />
+	<item drawable="here_wego" />
+	<item drawable="image_toolbox_resizer_" />
+	<item drawable="k_9_mail" />
+	<item drawable="moneywallet" />
+	<item drawable="notes" />
+	<item drawable="obtainium" />
+	<item drawable="record_you" />
+	<item drawable="sefaria" />
+	<item drawable="sms_messenger" />
+	<item drawable="vibe_you" />
+	<item drawable="vimusic" />
+	<item drawable="beowulf_weather" />
+	<item drawable="wps_office" />
+	<item drawable="kolel" />
+	<item drawable="clalit" />
+	<item drawable="leumiwallet" />
 </resources>
