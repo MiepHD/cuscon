@@ -891,5 +891,6 @@
 	<item drawable="puffin" />
 	<item drawable="spin" />
     <item drawable="radar_meteocat" />
+    <item drawable="_1weather" />
 
 </resources>

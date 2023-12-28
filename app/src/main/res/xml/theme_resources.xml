@@ -949,5 +949,6 @@
 	<AppIcon name="com.cloudmosa.puffinIncognito/com.cloudmosa.app.LemonActivity" image="puffin"/>
 	<AppIcon name="com.nationaledtech.spinbrowser/com.nationaledtech.spinbrowser.App" image="spin"/>
 	<AppIcon name="com.mobincube.radar_meteocat.sc_ECIXC4/com.mobimento.caponate.MainActivity" image="radar_meteocat"/>
+	<AppIcon name="com.handmark.expressweather/com.oneweather.app.MainActivity" image="_1weather"/>
 
 </Theme>

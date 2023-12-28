@@ -939,5 +939,6 @@
 	<item class="com.cloudmosa.app.LemonActivity" name="puffin"/>
 	<item class="com.nationaledtech.spinbrowser.App" name="spin"/>
 	<item class="com.mobimento.caponate.MainActivity" name="radar_meteocat"/>
+	<item class="com.oneweather.app.MainActivity" name="_1weather"/>
 
 </appmap>

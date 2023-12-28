@@ -972,5 +972,6 @@
 	<item component="ComponentInfo{com.cloudmosa.puffinIncognito/com.cloudmosa.app.LemonActivity}" drawable="puffin" />
 	<item component="ComponentInfo{com.nationaledtech.spinbrowser/com.nationaledtech.spinbrowser.App}" drawable="spin" />
 	<item component="ComponentInfo{com.mobincube.radar_meteocat.sc_ECIXC4/com.mobimento.caponate.MainActivity}" drawable="radar_meteocat" />
+	<item component="ComponentInfo{com.handmark.expressweather/com.oneweather.app.MainActivity}" drawable="_1weather" />
 
 </resources>
