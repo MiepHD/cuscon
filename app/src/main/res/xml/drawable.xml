@@ -955,5 +955,11 @@
 	<item drawable="dolby_atmos_lite" />
 	<item drawable="globeone" />
 	<item drawable="zfont_3" />
+	<item drawable="admin_de_archivos" />
+	<item drawable="copilot" />
+	<item drawable="explorer" />
+	<item drawable="rar" />
+	<item drawable="rs_gestor_de_archivos" />
+	<item drawable="utilidades_amaze" />
 
 </resources>

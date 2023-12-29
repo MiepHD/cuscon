@@ -1009,5 +1009,11 @@
 	<item class="ru.g000sha256.bass_booster.MainActivity" name="dolby_atmos_lite"/>
 	<item class="ph.com.globe.globeonesuperapp.BaseActivity" name="globeone"/>
 	<item class="com.htetznaing.zfont2.ui.StartingActivity" name="zfont_3"/>
+	<item class="com.transsion.filemanagerx.MainFilemanagerActivity" name="admin_de_archivos"/>
+	<item class="com.microsoft.sapphire.app.main.SapphireMainActivity" name="copilot"/>
+	<item class="com.speedsoftware.explorer.Explorer" name="explorer"/>
+	<item class="com.rarlab.rar.MainActivity" name="rar"/>
+	<item class="com.edili.filemanager.module.activity.FirstActivity" name="rs_gestor_de_archivos"/>
+	<item class="com.amaze.fileutilities.home_page.MainActivity" name="utilidades_amaze"/>
 
 </appmap>

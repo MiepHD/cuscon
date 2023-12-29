@@ -1022,5 +1022,11 @@
 	<AppIcon name="apcports.dolbyatmos98/ru.g000sha256.bass_booster.MainActivity" image="dolby_atmos_lite"/>
 	<AppIcon name="ph.com.globe.globeonesuperapp/ph.com.globe.globeonesuperapp.BaseActivity" image="globeone"/>
 	<AppIcon name="com.htetznaing.zfont2/com.htetznaing.zfont2.ui.StartingActivity" image="zfont_3"/>
+	<AppIcon name="com.transsion.filemanagerx/com.transsion.filemanagerx.MainFilemanagerActivity" image="admin_de_archivos"/>
+	<AppIcon name="com.microsoft.copilot/com.microsoft.sapphire.app.main.SapphireMainActivity" image="copilot"/>
+	<AppIcon name="com.speedsoftware.explorer/com.speedsoftware.explorer.Explorer" image="explorer"/>
+	<AppIcon name="com.rarlab.rar/com.rarlab.rar.MainActivity" image="rar"/>
+	<AppIcon name="com.rs.explorer.filemanager/com.edili.filemanager.module.activity.FirstActivity" image="rs_gestor_de_archivos"/>
+	<AppIcon name="com.amaze.fileutilities/com.amaze.fileutilities.home_page.MainActivity" image="utilidades_amaze"/>
 
 </Theme>
