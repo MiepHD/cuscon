@@ -1,0 +1,3 @@
+- Added Grabador de pantalla, Among Us, Country Friends, Eternium, Woerterbuch, NMM, Replika, DITO, Dolby Atmos Lite, GlobeOne, zFont 3, Admin. de archivos, Copilot, Explorer, RAR, RS Gestor de Archivos, Utilidades Amaze
+- Updated Eigene Dateien
+- Removed old changelogs
