@@ -949,5 +949,7 @@
 	<item drawable="country_friends" />
 	<item drawable="eternium" />
 	<item drawable="worterbuch" />
+	<item drawable="nmm" />
+	<item drawable="replika" />
 
 </resources>

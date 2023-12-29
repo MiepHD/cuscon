@@ -1002,5 +1002,8 @@
 	<item class="com.netflix.NGP.CountryFriends.MainActivity" name="country_friends"/>
 	<item class="com.makingfun.mageandminions.Main" name="eternium"/>
 	<item class="com.diotek.sec.lookup.dictionary.AppActivity" name="worterbuch"/>
+	<item class="com.sec.android.app.myfiles.ui.MainActivity" name="samsung_files"/>
+	<item class="com.nmmedit.files.ui.FileManagerActivity" name="nmm"/>
+	<item class="ai.replika.app.home.ui.MainActivity" name="replika"/>
 
 </appmap>

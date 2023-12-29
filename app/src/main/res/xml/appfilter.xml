@@ -1038,5 +1038,8 @@
 	<item component="ComponentInfo{com.netflix.NGP.CountryFriends/com.netflix.NGP.CountryFriends.MainActivity}" drawable="country_friends" />
 	<item component="ComponentInfo{com.makingfun.mageandminions/com.makingfun.mageandminions.Main}" drawable="eternium" />
 	<item component="ComponentInfo{com.diotek.sec.lookup.dictionary/com.diotek.sec.lookup.dictionary.AppActivity}" drawable="worterbuch" />
+	<item component="ComponentInfo{com.sec.android.app.myfiles/com.sec.android.app.myfiles.ui.MainActivity}" drawable="samsung_files" />
+	<item component="ComponentInfo{in.mfile/com.nmmedit.files.ui.FileManagerActivity}" drawable="nmm" />
+	<item component="ComponentInfo{ai.replika.app/ai.replika.app.home.ui.MainActivity}" drawable="replika" />
 
 </resources>

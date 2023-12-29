@@ -1015,5 +1015,8 @@
 	<AppIcon name="com.netflix.NGP.CountryFriends/com.netflix.NGP.CountryFriends.MainActivity" image="country_friends"/>
 	<AppIcon name="com.makingfun.mageandminions/com.makingfun.mageandminions.Main" image="eternium"/>
 	<AppIcon name="com.diotek.sec.lookup.dictionary/com.diotek.sec.lookup.dictionary.AppActivity" image="worterbuch"/>
+	<AppIcon name="com.sec.android.app.myfiles/com.sec.android.app.myfiles.ui.MainActivity" image="samsung_files"/>
+	<AppIcon name="in.mfile/com.nmmedit.files.ui.FileManagerActivity" image="nmm"/>
+	<AppIcon name="ai.replika.app/ai.replika.app.home.ui.MainActivity" image="replika"/>
 
 </Theme>
