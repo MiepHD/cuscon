@@ -1034,5 +1034,22 @@
 	<item component="ComponentInfo{com.aws.android/com.aws.android.app.ui.HomeActivity}" drawable="weatherbug" />
 	<item component="ComponentInfo{com.wunderground.android.weather/com.wunderground.android.weather.ui.splash.WeatherHomeActivity}" drawable="wunderground" />
 	<item component="ComponentInfo{com.dah.videoeditor.screenrecorder/com.dah.screenrecorder.activity.SplashActivity}" drawable="grabador_de_pantalla" />
+	<item component="ComponentInfo{com.innersloth.spacemafia/com.innersloth.spacemafia.EosUnityPlayerActivity}" drawable="among_us" />
+	<item component="ComponentInfo{com.netflix.NGP.CountryFriends/com.netflix.NGP.CountryFriends.MainActivity}" drawable="country_friends" />
+	<item component="ComponentInfo{com.makingfun.mageandminions/com.makingfun.mageandminions.Main}" drawable="eternium" />
+	<item component="ComponentInfo{com.diotek.sec.lookup.dictionary/com.diotek.sec.lookup.dictionary.AppActivity}" drawable="worterbuch" />
+	<item component="ComponentInfo{com.sec.android.app.myfiles/com.sec.android.app.myfiles.ui.MainActivity}" drawable="samsung_files" />
+	<item component="ComponentInfo{in.mfile/com.nmmedit.files.ui.FileManagerActivity}" drawable="nmm" />
+	<item component="ComponentInfo{ai.replika.app/ai.replika.app.home.ui.MainActivity}" drawable="replika" />
+	<item component="ComponentInfo{com.mydito/com.mydito.ui.login.GuidePageActivity}" drawable="dito" />
+	<item component="ComponentInfo{apcports.dolbyatmos98/ru.g000sha256.bass_booster.MainActivity}" drawable="dolby_atmos_lite" />
+	<item component="ComponentInfo{ph.com.globe.globeonesuperapp/ph.com.globe.globeonesuperapp.BaseActivity}" drawable="globeone" />
+	<item component="ComponentInfo{com.htetznaing.zfont2/com.htetznaing.zfont2.ui.StartingActivity}" drawable="zfont_3" />
+	<item component="ComponentInfo{com.transsion.filemanagerx/com.transsion.filemanagerx.MainFilemanagerActivity}" drawable="admin_de_archivos" />
+	<item component="ComponentInfo{com.microsoft.copilot/com.microsoft.sapphire.app.main.SapphireMainActivity}" drawable="copilot" />
+	<item component="ComponentInfo{com.speedsoftware.explorer/com.speedsoftware.explorer.Explorer}" drawable="explorer" />
+	<item component="ComponentInfo{com.rarlab.rar/com.rarlab.rar.MainActivity}" drawable="rar" />
+	<item component="ComponentInfo{com.rs.explorer.filemanager/com.edili.filemanager.module.activity.FirstActivity}" drawable="rs_gestor_de_archivos" />
+	<item component="ComponentInfo{com.amaze.fileutilities/com.amaze.fileutilities.home_page.MainActivity}" drawable="utilidades_amaze" />
 
 </resources>

@@ -945,5 +945,21 @@
 	<item drawable="weatherbug" />
 	<item drawable="wunderground" />
     <item drawable="grabador_de_pantalla" />
+	<item drawable="among_us" />
+	<item drawable="country_friends" />
+	<item drawable="eternium" />
+	<item drawable="worterbuch" />
+	<item drawable="nmm" />
+	<item drawable="replika" />
+	<item drawable="dito" />
+	<item drawable="dolby_atmos_lite" />
+	<item drawable="globeone" />
+	<item drawable="zfont_3" />
+	<item drawable="admin_de_archivos" />
+	<item drawable="copilot" />
+	<item drawable="explorer" />
+	<item drawable="rar" />
+	<item drawable="rs_gestor_de_archivos" />
+	<item drawable="utilidades_amaze" />
 
 </resources>
