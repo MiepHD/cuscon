@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="changelog_date">11.11.2023</string>
+    <string name="changelog_date">29.12.2023</string>
     <string-array name="changelog">
+        <item>3.0.2.6:</item>
+        <item>Saved user-image in apk</item>
         <item>3.0.2.5:</item>
         <item>Added Grabador de pantalla, Among Us, Country Friends, Eternium, Woerterbuch, NMM, Replika, DITO, Dolby Atmos Lite, GlobeOne, zFont 3, Admin. de archivos, Copilot, Explorer, RAR, RS Gestor de Archivos, Utilidades Amaze</item>
         <item>Updated Eigene Dateien</item>
