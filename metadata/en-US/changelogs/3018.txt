@@ -1,0 +1,4 @@
+- Added Al-Qur'an Indonesia, Ratib Attas, TajwidLengkap, Ad Blocker Pro, Contactos, ByCS-Messenger, Musixmatch, Family Space, Fit, Moto Secure, ByCS-Drive, Grafikrechner, RVX Music
+- Fixed DB Navigator, Moto
+- Updated dependency
+- Compressed images

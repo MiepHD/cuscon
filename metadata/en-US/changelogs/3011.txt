@@ -1,0 +1,2 @@
+- Added ATT Cloud, ATT Smart Wi-Fi, Device Help, myATT, WhitArt, WiZ
+- Updated gradle version

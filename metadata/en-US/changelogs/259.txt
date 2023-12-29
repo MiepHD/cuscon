@@ -1,0 +1,4 @@
+- Fixed Google Wallpapers
+- Filled out About section
+- Added donations, premium requests
+- Added contributer page

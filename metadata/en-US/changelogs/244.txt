@@ -1,2 +1,2 @@
-Added EMP Shop, Linguee
-Changed icon
+- Added EMP Shop, Linguee
+- Changed icon

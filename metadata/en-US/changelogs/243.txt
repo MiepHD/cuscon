@@ -1,2 +1,2 @@
-Added Aliucord, Duden, hocus, Lawnchair-Settings, Quizlet, Reminder
-Edited categories
+- Added Aliucord, Duden, hocus, Lawnchair-Settings, Quizlet, Reminder
+- Edited categories

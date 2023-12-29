@@ -1,0 +1,2 @@
+- Fixed PowerTube
+- Added Caelum, CatalunyaMeteo, EnHora, Horarios Renfe Feve, Rodalies Widget, Public transport Worldwide

@@ -1,0 +1,2 @@
+- Added 3Cat, Adif, Ghost Commander, Mi Prepago, Mossos d'Esquadra, Total Commander
+- Removed home_description

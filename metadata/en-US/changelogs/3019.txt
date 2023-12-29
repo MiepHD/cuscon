@@ -1,0 +1,3 @@
+- Added Administrador de archivos, ASTRO, ESuper Archivo, Grabadora de Audio, Vidma Recorder Lite, Graphical, Orbot, vSolution App
+- Fixed ladb
+- Updated dependencies

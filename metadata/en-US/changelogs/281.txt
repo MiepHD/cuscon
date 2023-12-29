@@ -1,0 +1,2 @@
+- Added DB Streckenagent, DB Train Simulator, Infinity, LawyersLegacy, NFC Tools, Stumble Guys, Amazon Appstore, Kamera
+- Updated Bayern-Fahrplan

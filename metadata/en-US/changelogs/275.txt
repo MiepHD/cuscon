@@ -1,0 +1,2 @@
+- Fixed Lujop El Temps, Oxenfree, Rain Alarm, Google Earth, Tram Barcelona, Wifiallnet Scanner, Via Browser, Horarios de Tren
+- Added Google Gallery, Google Sheets, Google Home, Google Keep, Google Lens, Google Play Books, Google Slides, Ruthless, Ruthless Settings, Google Voice

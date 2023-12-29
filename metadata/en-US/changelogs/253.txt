@@ -1,2 +1,2 @@
-Fixed Discord, Youtube
-Added Spotify, Samsung Internet, Lawnchair, Mosaic, Facebook, Google, LinkedIn, Meet, Microsoft Office, OneDrive, Play Music, Radio
+- Fixed Discord, Youtube
+- Added Spotify, Samsung Internet, Lawnchair, Mosaic, Facebook, Google, LinkedIn, Meet, Microsoft Office, OneDrive, Play Music, Radio

@@ -1,3 +1,3 @@
-Changed Settings
-Added Adobe Scan, Google Wallpapers, Moto Interactive Wallpaper, Google Calendar, Google Files, ibisPaint X, Microsoft To Do, WeeNet
-Changed E-Mail address to cuscon-request@froxot.de
+- Changed Settings
+- Added Adobe Scan, Google Wallpapers, Moto Interactive Wallpaper, Google Calendar, Google Files, ibisPaint X, Microsoft To Do, WeeNet
+- Changed E-Mail address to cuscon-request@froxot.de

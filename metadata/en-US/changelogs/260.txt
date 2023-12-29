@@ -1,0 +1,3 @@
+- Added Moto Camera 3, FAST Speed Test, iwscan, Kiwi Browser, My O2, Mou-te, Motorola Notifications, Nova Launcher, Nova Launcher Prime, Port Authority
+- Added launcher category
+- Sorted icons

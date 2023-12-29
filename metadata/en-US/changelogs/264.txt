@@ -1,0 +1,2 @@
+- Added AMB Mobilitat, Barcelona Metro, Barcelona Metro Bus Rodalies Bicing, Barcelona Transport, Weather M8, Frog weather forecast, Mi Transporte Barcelona
+- Fixed Aliucord, AMC Cooking, Youtube Music

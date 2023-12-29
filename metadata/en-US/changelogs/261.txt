@@ -1,0 +1,4 @@
+- Fixed Google Calendar, Youtube, Steam
+- Added 1Tap Cleaner Pro, Weather Station - Barometer, D-Link Wi-Fi, NetMan, Radio FM, Sweech, WiFiman, FRITZ!App WLAN, WlanScanner by Latetech, WiFi Monitor Pro, Der Postillon, Microsoft SwiftKey-Tastatur, UUID 0xFD6F Scanner, Onleihe, Duolingo, Lieferando, Samsung Flow, Skype, Teams, Theme Park, AdGuard VPN, CandyBar Dev, Delta, VirusTotal Mobile
+- Added category icon packs
+- Sorted icons

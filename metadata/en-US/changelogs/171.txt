@@ -1,2 +1,2 @@
-Added Samsung Wearable
-Removed Link to Windows
+- Added Samsung Wearable
+- Removed Link to Windows

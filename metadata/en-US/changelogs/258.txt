@@ -1,0 +1,3 @@
+- Fixed Microsoft To Do
+- Added Microsoft Authenticator, Motorola Device Help, Barclays, Camera Assistant, Good Guardians, Good Lock, Moto, PayPal, OneNote, TeaCapps QR and Barcode Reader, Zalando, TikTok
+- Adapted to errors from f-droid's bot

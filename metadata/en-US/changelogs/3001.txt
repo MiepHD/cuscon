@@ -1,0 +1,3 @@
+- Added Ameixa Monochrome, AnonAddy, Barcode Scanner, Deutsch, Englisch, Erklär-App, Flappy Bird, GIF Live Wallpaper, LibreTorrent, OpenScan, Oscilloscope, PDF Converter, Proton VPN, React, Seeker, Send Reduced Lite, Signal Generator, Wire, Yuito
+- Updated Camera, Lawnchair, NewPipe, Calculator, Recorder
+- Modified netspot, NoxBrowser, Smart Switch, SmartWiFiSelector, Smou, SWLApp, Tipsa, UC Mini, Wifianalyzer, WlanScanner, Weather Network, Webprovider Wifi Analyzer, iwscan

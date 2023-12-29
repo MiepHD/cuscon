@@ -1,2 +1,2 @@
-Added support for more launchers
-Edited categories
+- Added support for more launchers
+- Edited categories
