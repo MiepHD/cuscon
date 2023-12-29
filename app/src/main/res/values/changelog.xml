@@ -2,6 +2,8 @@
 <resources>
     <string name="changelog_date">29.12.2023</string>
     <string-array name="changelog">
+        <item>3.0.2.7:</item>
+        <item>Removed internet access</item>
         <item>3.0.2.6:</item>
         <item>Saved user-image in apk</item>
         <item>3.0.2.5:</item>
