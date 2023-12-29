@@ -998,5 +998,9 @@
 	<item class="com.aws.android.app.ui.HomeActivity" name="weatherbug"/>
 	<item class="com.wunderground.android.weather.ui.splash.WeatherHomeActivity" name="wunderground"/>
 	<item class="com.dah.screenrecorder.activity.SplashActivity" name="grabador_de_pantalla"/>
+	<item class="com.innersloth.spacemafia.EosUnityPlayerActivity" name="among_us"/>
+	<item class="com.netflix.NGP.CountryFriends.MainActivity" name="country_friends"/>
+	<item class="com.makingfun.mageandminions.Main" name="eternium"/>
+	<item class="com.diotek.sec.lookup.dictionary.AppActivity" name="worterbuch"/>
 
 </appmap>

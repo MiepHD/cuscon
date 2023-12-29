@@ -945,5 +945,9 @@
 	<item drawable="weatherbug" />
 	<item drawable="wunderground" />
     <item drawable="grabador_de_pantalla" />
+	<item drawable="among_us" />
+	<item drawable="country_friends" />
+	<item drawable="eternium" />
+	<item drawable="worterbuch" />
 
 </resources>

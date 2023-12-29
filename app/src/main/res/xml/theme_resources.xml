@@ -1011,5 +1011,9 @@
 	<AppIcon name="com.aws.android/com.aws.android.app.ui.HomeActivity" image="weatherbug"/>
 	<AppIcon name="com.wunderground.android.weather/com.wunderground.android.weather.ui.splash.WeatherHomeActivity" image="wunderground"/>
 	<AppIcon name="com.dah.videoeditor.screenrecorder/com.dah.screenrecorder.activity.SplashActivity" image="grabador_de_pantalla"/>
+	<AppIcon name="com.innersloth.spacemafia/com.innersloth.spacemafia.EosUnityPlayerActivity" image="among_us"/>
+	<AppIcon name="com.netflix.NGP.CountryFriends/com.netflix.NGP.CountryFriends.MainActivity" image="country_friends"/>
+	<AppIcon name="com.makingfun.mageandminions/com.makingfun.mageandminions.Main" image="eternium"/>
+	<AppIcon name="com.diotek.sec.lookup.dictionary/com.diotek.sec.lookup.dictionary.AppActivity" image="worterbuch"/>
 
 </Theme>

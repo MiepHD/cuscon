@@ -1034,5 +1034,9 @@
 	<item component="ComponentInfo{com.aws.android/com.aws.android.app.ui.HomeActivity}" drawable="weatherbug" />
 	<item component="ComponentInfo{com.wunderground.android.weather/com.wunderground.android.weather.ui.splash.WeatherHomeActivity}" drawable="wunderground" />
 	<item component="ComponentInfo{com.dah.videoeditor.screenrecorder/com.dah.screenrecorder.activity.SplashActivity}" drawable="grabador_de_pantalla" />
+	<item component="ComponentInfo{com.innersloth.spacemafia/com.innersloth.spacemafia.EosUnityPlayerActivity}" drawable="among_us" />
+	<item component="ComponentInfo{com.netflix.NGP.CountryFriends/com.netflix.NGP.CountryFriends.MainActivity}" drawable="country_friends" />
+	<item component="ComponentInfo{com.makingfun.mageandminions/com.makingfun.mageandminions.Main}" drawable="eternium" />
+	<item component="ComponentInfo{com.diotek.sec.lookup.dictionary/com.diotek.sec.lookup.dictionary.AppActivity}" drawable="worterbuch" />
 
 </resources>
