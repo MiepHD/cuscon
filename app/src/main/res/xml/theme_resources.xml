@@ -1018,5 +1018,9 @@
 	<AppIcon name="com.sec.android.app.myfiles/com.sec.android.app.myfiles.ui.MainActivity" image="samsung_files"/>
 	<AppIcon name="in.mfile/com.nmmedit.files.ui.FileManagerActivity" image="nmm"/>
 	<AppIcon name="ai.replika.app/ai.replika.app.home.ui.MainActivity" image="replika"/>
+	<AppIcon name="com.mydito/com.mydito.ui.login.GuidePageActivity" image="dito"/>
+	<AppIcon name="apcports.dolbyatmos98/ru.g000sha256.bass_booster.MainActivity" image="dolby_atmos_lite"/>
+	<AppIcon name="ph.com.globe.globeonesuperapp/ph.com.globe.globeonesuperapp.BaseActivity" image="globeone"/>
+	<AppIcon name="com.htetznaing.zfont2/com.htetznaing.zfont2.ui.StartingActivity" image="zfont_3"/>
 
 </Theme>

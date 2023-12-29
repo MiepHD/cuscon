@@ -1005,5 +1005,9 @@
 	<item class="com.sec.android.app.myfiles.ui.MainActivity" name="samsung_files"/>
 	<item class="com.nmmedit.files.ui.FileManagerActivity" name="nmm"/>
 	<item class="ai.replika.app.home.ui.MainActivity" name="replika"/>
+	<item class="com.mydito.ui.login.GuidePageActivity" name="dito"/>
+	<item class="ru.g000sha256.bass_booster.MainActivity" name="dolby_atmos_lite"/>
+	<item class="ph.com.globe.globeonesuperapp.BaseActivity" name="globeone"/>
+	<item class="com.htetznaing.zfont2.ui.StartingActivity" name="zfont_3"/>
 
 </appmap>

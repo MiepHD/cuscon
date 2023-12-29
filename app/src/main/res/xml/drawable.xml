@@ -951,5 +951,9 @@
 	<item drawable="worterbuch" />
 	<item drawable="nmm" />
 	<item drawable="replika" />
+	<item drawable="dito" />
+	<item drawable="dolby_atmos_lite" />
+	<item drawable="globeone" />
+	<item drawable="zfont_3" />
 
 </resources>

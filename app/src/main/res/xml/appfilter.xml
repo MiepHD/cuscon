@@ -1041,5 +1041,9 @@
 	<item component="ComponentInfo{com.sec.android.app.myfiles/com.sec.android.app.myfiles.ui.MainActivity}" drawable="samsung_files" />
 	<item component="ComponentInfo{in.mfile/com.nmmedit.files.ui.FileManagerActivity}" drawable="nmm" />
 	<item component="ComponentInfo{ai.replika.app/ai.replika.app.home.ui.MainActivity}" drawable="replika" />
+	<item component="ComponentInfo{com.mydito/com.mydito.ui.login.GuidePageActivity}" drawable="dito" />
+	<item component="ComponentInfo{apcports.dolbyatmos98/ru.g000sha256.bass_booster.MainActivity}" drawable="dolby_atmos_lite" />
+	<item component="ComponentInfo{ph.com.globe.globeonesuperapp/ph.com.globe.globeonesuperapp.BaseActivity}" drawable="globeone" />
+	<item component="ComponentInfo{com.htetznaing.zfont2/com.htetznaing.zfont2.ui.StartingActivity}" drawable="zfont_3" />
 
 </resources>
