@@ -997,5 +997,6 @@
 	<item class="com.helloweatherapp.feature.home.HomeActivity" name="hello_weather"/>
 	<item class="com.aws.android.app.ui.HomeActivity" name="weatherbug"/>
 	<item class="com.wunderground.android.weather.ui.splash.WeatherHomeActivity" name="wunderground"/>
+	<item class="com.dah.screenrecorder.activity.SplashActivity" name="grabador_de_pantalla"/>
 
 </appmap>

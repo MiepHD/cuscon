@@ -944,5 +944,6 @@
 	<item drawable="hello_weather" />
 	<item drawable="weatherbug" />
 	<item drawable="wunderground" />
+    <item drawable="grabador_de_pantalla" />
 
 </resources>
