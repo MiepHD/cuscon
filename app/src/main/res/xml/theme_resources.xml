@@ -1060,5 +1060,7 @@
 	<AppIcon name="com.bnyro.wallpaper/com.bnyro.wallpaper.ui.activities.MainActivity" image="wall_you"/>
 	<AppIcon name="org.wikipedia.beta/org.wikipedia.main.MainActivity" image="wikipedia_beta"/>
 	<AppIcon name="joshuatee.wx/joshuatee.wx.StartupActivity" image="wx"/>
+	<AppIcon name="cu.etecsa.cubacel.tr.tm/cu.etecsa.cubacel.tr.tm.SyVnUVixci" image="transfermovil"/>
+	<AppIcon name="cu.lestebang.utiletecsa/cu.lestebang.utiletecsa.Splash" image="utiles"/>
 
 </Theme>

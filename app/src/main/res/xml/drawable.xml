@@ -993,5 +993,7 @@
 	<item drawable="wall_you" />
 	<item drawable="wikipedia_beta" />
 	<item drawable="wx" />
+    <item drawable="transfermovil" />
+	<item drawable="utiles" />
 
 </resources>

@@ -1047,5 +1047,7 @@
 	<item class="com.bnyro.wallpaper.ui.activities.MainActivity" name="wall_you"/>
 	<item class="org.wikipedia.main.MainActivity" name="wikipedia_beta"/>
 	<item class="joshuatee.wx.StartupActivity" name="wx"/>
+	<item class="cu.etecsa.cubacel.tr.tm.SyVnUVixci" name="transfermovil"/>
+	<item class="cu.lestebang.utiletecsa.Splash" name="utiles"/>
 
 </appmap>
