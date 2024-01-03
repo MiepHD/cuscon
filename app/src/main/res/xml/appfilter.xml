@@ -1135,5 +1135,6 @@
 	<item component="ComponentInfo{com.np.nilp/com.np.nilp.MainActivity}" drawable="ullas" />
 	<item component="ComponentInfo{com.lagradost.cloudstream3/com.lagradost.cloudstream3.ui.account.AccountSelectActivity}" drawable="cloudstream" />
 	<item component="ComponentInfo{com.ebay.mobile/com.ebay.mobile.home.impl.main.MainActivity}" drawable="ebay" />
+	<item component="ComponentInfo{com.gls.glsappde.consumer/de.gls.features.main.MainActivity}" drawable="gls_pakete" />
 
 </resources>

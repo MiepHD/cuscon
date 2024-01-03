@@ -1124,5 +1124,6 @@
 	<AppIcon name="com.np.nilp/com.np.nilp.MainActivity" image="ullas"/>
 	<AppIcon name="com.lagradost.cloudstream3/com.lagradost.cloudstream3.ui.account.AccountSelectActivity" image="cloudstream"/>
 	<AppIcon name="com.ebay.mobile/com.ebay.mobile.home.impl.main.MainActivity" image="ebay"/>
+	<AppIcon name="com.gls.glsappde.consumer/de.gls.features.main.MainActivity" image="gls_pakete"/>
 
 </Theme>

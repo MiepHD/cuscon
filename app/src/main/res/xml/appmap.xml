@@ -1113,5 +1113,6 @@
 	<item class="com.np.nilp.MainActivity" name="ullas"/>
 	<item class="com.lagradost.cloudstream3.ui.account.AccountSelectActivity" name="cloudstream"/>
 	<item class="com.ebay.mobile.home.impl.main.MainActivity" name="ebay"/>
+	<item class="de.gls.features.main.MainActivity" name="gls_pakete"/>
 
 </appmap>
