@@ -1099,5 +1099,17 @@
 	<item class="md.obsidian.MainActivity" name="obsidian"/>
 	<item class="com.shifthackz.aisdv1.presentation.activity.AiStableDiffusionActivity" name="sdai"/>
 	<item class="com.aranoah.healthkart.plus.startup.splash.SplashActivity" name="tata_1mg"/>
+	<item class="com.oneplus.calculator.Calculator" name="oneplus_calculator"/>
+	<item class="com.oneplus.contacts.activities.OPPeopleActivity" name="contacts"/>
+	<item class="org.sunbird.app.MainActivity" name="diksha"/>
+	<item class="com.android.documentsui.LauncherActivity" name="files"/>
+	<item class="com.kutumb.android.ui.splash.RouteActivity" name="kutumb"/>
+	<item class="com.google.android.apps.meetings.splash.SplashActivity" name="meet_original_"/>
+	<item class="com.android.mms.ui.ConversationList" name="messaging"/>
+	<item class="ncert.ciet.nishtha.ui.SplashActivity" name="nishtha"/>
+	<item class="com.intellicus.ecomm.ui.splash_screen.views.SplashActivity" name="order_me"/>
+	<item class="com.oneplus.contacts.activities.OPDialtactsActivity" name="oneplus_phone"/>
+	<item class="com.oneplus.soundrecorder.SoundRecorder" name="recorder"/>
+	<item class="com.np.nilp.MainActivity" name="ullas"/>
 
 </appmap>

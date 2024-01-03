@@ -1043,5 +1043,17 @@
 	<item drawable="obsidian" />
 	<item drawable="sdai" />
 	<item drawable="tata_1mg" />
+	<item drawable="oneplus_calculator" />
+	<item drawable="contacts" />
+	<item drawable="diksha" />
+	<item drawable="files" />
+	<item drawable="kutumb" />
+	<item drawable="meet_original_" />
+	<item drawable="messaging" />
+	<item drawable="nishtha" />
+	<item drawable="order_me" />
+	<item drawable="oneplus_phone" />
+	<item drawable="recorder" />
+	<item drawable="ullas" />
 
 </resources>

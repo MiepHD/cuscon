@@ -1121,5 +1121,17 @@
 	<item component="ComponentInfo{md.obsidian/md.obsidian.MainActivity}" drawable="obsidian" />
 	<item component="ComponentInfo{com.shifthackz.aisdv1.app.foss/com.shifthackz.aisdv1.presentation.activity.AiStableDiffusionActivity}" drawable="sdai" />
 	<item component="ComponentInfo{com.aranoah.healthkart.plus/com.aranoah.healthkart.plus.startup.splash.SplashActivity}" drawable="tata_1mg" />
+	<item component="ComponentInfo{com.oneplus.calculator/com.oneplus.calculator.Calculator}" drawable="oneplus_calculator" />
+	<item component="ComponentInfo{com.oneplus.contacts/com.oneplus.contacts.activities.OPPeopleActivity}" drawable="contacts" />
+	<item component="ComponentInfo{in.gov.diksha.app/org.sunbird.app.MainActivity}" drawable="diksha" />
+	<item component="ComponentInfo{com.google.android.documentsui/com.android.documentsui.LauncherActivity}" drawable="files" />
+	<item component="ComponentInfo{com.kutumb.android/com.kutumb.android.ui.splash.RouteActivity}" drawable="kutumb" />
+	<item component="ComponentInfo{com.google.android.apps.meetings/com.google.android.apps.meetings.splash.SplashActivity}" drawable="meet_original_" />
+	<item component="ComponentInfo{com.oneplus.mms/com.android.mms.ui.ConversationList}" drawable="messaging" />
+	<item component="ComponentInfo{ncert.ciet.nishtha/ncert.ciet.nishtha.ui.SplashActivity}" drawable="nishtha" />
+	<item component="ComponentInfo{com.bharuwa.orderme/com.intellicus.ecomm.ui.splash_screen.views.SplashActivity}" drawable="order_me" />
+	<item component="ComponentInfo{com.android.dialer/com.oneplus.contacts.activities.OPDialtactsActivity}" drawable="oneplus_phone" />
+	<item component="ComponentInfo{com.oneplus.soundrecorder/com.oneplus.soundrecorder.SoundRecorder}" drawable="recorder" />
+	<item component="ComponentInfo{com.np.nilp/com.np.nilp.MainActivity}" drawable="ullas" />
 
 </resources>

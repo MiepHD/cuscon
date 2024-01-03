@@ -1110,5 +1110,17 @@
 	<AppIcon name="md.obsidian/md.obsidian.MainActivity" image="obsidian"/>
 	<AppIcon name="com.shifthackz.aisdv1.app.foss/com.shifthackz.aisdv1.presentation.activity.AiStableDiffusionActivity" image="sdai"/>
 	<AppIcon name="com.aranoah.healthkart.plus/com.aranoah.healthkart.plus.startup.splash.SplashActivity" image="tata_1mg"/>
+	<AppIcon name="com.oneplus.calculator/com.oneplus.calculator.Calculator" image="oneplus_calculator"/>
+	<AppIcon name="com.oneplus.contacts/com.oneplus.contacts.activities.OPPeopleActivity" image="contacts"/>
+	<AppIcon name="in.gov.diksha.app/org.sunbird.app.MainActivity" image="diksha"/>
+	<AppIcon name="com.google.android.documentsui/com.android.documentsui.LauncherActivity" image="files"/>
+	<AppIcon name="com.kutumb.android/com.kutumb.android.ui.splash.RouteActivity" image="kutumb"/>
+	<AppIcon name="com.google.android.apps.meetings/com.google.android.apps.meetings.splash.SplashActivity" image="meet_original_"/>
+	<AppIcon name="com.oneplus.mms/com.android.mms.ui.ConversationList" image="messaging"/>
+	<AppIcon name="ncert.ciet.nishtha/ncert.ciet.nishtha.ui.SplashActivity" image="nishtha"/>
+	<AppIcon name="com.bharuwa.orderme/com.intellicus.ecomm.ui.splash_screen.views.SplashActivity" image="order_me"/>
+	<AppIcon name="com.android.dialer/com.oneplus.contacts.activities.OPDialtactsActivity" image="oneplus_phone"/>
+	<AppIcon name="com.oneplus.soundrecorder/com.oneplus.soundrecorder.SoundRecorder" image="recorder"/>
+	<AppIcon name="com.np.nilp/com.np.nilp.MainActivity" image="ullas"/>
 
 </Theme>
