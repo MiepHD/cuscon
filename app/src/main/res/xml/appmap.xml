@@ -1015,5 +1015,37 @@
 	<item class="com.rarlab.rar.MainActivity" name="rar"/>
 	<item class="com.edili.filemanager.module.activity.FirstActivity" name="rs_gestor_de_archivos"/>
 	<item class="com.amaze.fileutilities.home_page.MainActivity" name="utilidades_amaze"/>
+	<item class="com.menny.android.anysoftkeyboard.LauncherSettingsActivity" name="anysoftkeyboard_canary"/>
+	<item class="deckers.thibault.aves.MainActivity" name="aves_libre"/>
+	<item class="com.vicolo.chrono.MainActivity" name="chrono"/>
+	<item class="com.looker.droidify.MainActivity" name="droid_ify"/>
+	<item class="org.petero.droidfish.DroidFish" name="droidfish"/>
+	<item class="com.droidmjt.droidsounde.PlayerActivity" name="droidsound_e"/>
+	<item class="com.cliambrown.easynoise.MainActivity" name="easy_noise"/>
+	<item class="app.familygem.LauncherActivity" name="family_gem"/>
+	<item class="peterfajdiga.fastdraw.activities.MainActivity" name="fast_draw"/>
+	<item class="peterfajdiga.fastdraw.activities.SettingsActivity" name="fast_draw_preferences"/>
+	<item class="dev.patrickgold.florisboard.SettingsLauncherAlias" name="florisboard_beta"/>
+	<item class="app.crossword.yourealwaysbe.forkyz.BrowseActivity" name="forkyz"/>
+	<item class="io.github.pastthepixels.freepaint.MainActivity" name="freepaint"/>
+	<item class="com.roguetemple.hyperroidgold.HyperRogue" name="hyperrogue_gold"/>
+	<item class="org.kde.kdeconnect.UserInterface.MainActivity" name="kde_connect"/>
+	<item class="com.gitlab.mudlej.MjPdfReader.LauncherAlias" name="mj_pdf"/>
+	<item class="net.osmand.plus.activities.MapActivity" name="osmand_"/>
+	<item class="name.boyle.chris.sgtpuzzles.SGTPuzzles" name="puzzles"/>
+	<item class="org.kivy.android.PythonActivity" name="pysolfc"/>
+	<item class="dev.octoshrimpy.quik.feature.main.MainActivity" name="quik"/>
+	<item class="net.programmierecke.radiodroid2.ActivityMain" name="radiodroid"/>
+	<item class="org.quantumbadger.redreader.activities.MainActivity" name="redreader"/>
+	<item class="com.github.olga_yakovleva.rhvoice.android.MainActivity" name="rhvoice"/>
+	<item class="org.ca.squawker.MainActivity" name="squawker"/>
+	<item class="com.zacharee1.systemuituner.MainActivity" name="systemui_tuner"/>
+	<item class="com.dessalines.thumbkey.MainActivity" name="thumb_key"/>
+	<item class="wtf.technodisaster.tldr.MainActivity" name="tldr"/>
+	<item class="com.danefinlay.ttsutil.ui.MainActivity" name="tts_util"/>
+	<item class="com.dozingcatsoftware.bouncy.BouncyActivity" name="vector_pinball"/>
+	<item class="com.bnyro.wallpaper.ui.activities.MainActivity" name="wall_you"/>
+	<item class="org.wikipedia.main.MainActivity" name="wikipedia_beta"/>
+	<item class="joshuatee.wx.StartupActivity" name="wx"/>
 
 </appmap>

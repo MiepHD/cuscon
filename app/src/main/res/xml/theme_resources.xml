@@ -1028,5 +1028,37 @@
 	<AppIcon name="com.rarlab.rar/com.rarlab.rar.MainActivity" image="rar"/>
 	<AppIcon name="com.rs.explorer.filemanager/com.edili.filemanager.module.activity.FirstActivity" image="rs_gestor_de_archivos"/>
 	<AppIcon name="com.amaze.fileutilities/com.amaze.fileutilities.home_page.MainActivity" image="utilidades_amaze"/>
+	<AppIcon name="com.menny.android.anysoftkeyboard/com.menny.android.anysoftkeyboard.LauncherSettingsActivity" image="anysoftkeyboard_canary"/>
+	<AppIcon name="deckers.thibault.aves.libre/deckers.thibault.aves.MainActivity" image="aves_libre"/>
+	<AppIcon name="com.vicolo.chrono/com.vicolo.chrono.MainActivity" image="chrono"/>
+	<AppIcon name="com.looker.droidify/com.looker.droidify.MainActivity" image="droid_ify"/>
+	<AppIcon name="org.petero.droidfish/org.petero.droidfish.DroidFish" image="droidfish"/>
+	<AppIcon name="com.droidmjt.droidsounde/com.droidmjt.droidsounde.PlayerActivity" image="droidsound_e"/>
+	<AppIcon name="com.cliambrown.easynoise/com.cliambrown.easynoise.MainActivity" image="easy_noise"/>
+	<AppIcon name="app.familygem/app.familygem.LauncherActivity" image="family_gem"/>
+	<AppIcon name="peterfajdiga.fastdraw/peterfajdiga.fastdraw.activities.MainActivity" image="fast_draw"/>
+	<AppIcon name="peterfajdiga.fastdraw/peterfajdiga.fastdraw.activities.SettingsActivity" image="fast_draw_preferences"/>
+	<AppIcon name="dev.patrickgold.florisboard.beta/dev.patrickgold.florisboard.SettingsLauncherAlias" image="florisboard_beta"/>
+	<AppIcon name="app.crossword.yourealwaysbe.forkyz/app.crossword.yourealwaysbe.forkyz.BrowseActivity" image="forkyz"/>
+	<AppIcon name="io.github.pastthepixels.freepaint/io.github.pastthepixels.freepaint.MainActivity" image="freepaint"/>
+	<AppIcon name="com.roguetemple.hyperroidgold/com.roguetemple.hyperroidgold.HyperRogue" image="hyperrogue_gold"/>
+	<AppIcon name="org.kde.kdeconnect_tp/org.kde.kdeconnect.UserInterface.MainActivity" image="kde_connect"/>
+	<AppIcon name="com.gitlab.mudlej.MjPdfReader/com.gitlab.mudlej.MjPdfReader.LauncherAlias" image="mj_pdf"/>
+	<AppIcon name="net.osmand.plus/net.osmand.plus.activities.MapActivity" image="osmand_"/>
+	<AppIcon name="name.boyle.chris.sgtpuzzles/name.boyle.chris.sgtpuzzles.SGTPuzzles" image="puzzles"/>
+	<AppIcon name="org.lufebe16.pysolfc/org.kivy.android.PythonActivity" image="pysolfc"/>
+	<AppIcon name="dev.octoshrimpy.quik/dev.octoshrimpy.quik.feature.main.MainActivity" image="quik"/>
+	<AppIcon name="net.programmierecke.radiodroid2/net.programmierecke.radiodroid2.ActivityMain" image="radiodroid"/>
+	<AppIcon name="org.quantumbadger.redreader/org.quantumbadger.redreader.activities.MainActivity" image="redreader"/>
+	<AppIcon name="com.github.olga_yakovleva.rhvoice.android/com.github.olga_yakovleva.rhvoice.android.MainActivity" image="rhvoice"/>
+	<AppIcon name="org.ca.squawker/org.ca.squawker.MainActivity" image="squawker"/>
+	<AppIcon name="com.zacharee1.systemuituner/com.zacharee1.systemuituner.MainActivity" image="systemui_tuner"/>
+	<AppIcon name="com.dessalines.thumbkey/com.dessalines.thumbkey.MainActivity" image="thumb_key"/>
+	<AppIcon name="wtf.technodisaster.tldr/wtf.technodisaster.tldr.MainActivity" image="tldr"/>
+	<AppIcon name="com.danefinlay.ttsutil/com.danefinlay.ttsutil.ui.MainActivity" image="tts_util"/>
+	<AppIcon name="com.dozingcatsoftware.bouncy/com.dozingcatsoftware.bouncy.BouncyActivity" image="vector_pinball"/>
+	<AppIcon name="com.bnyro.wallpaper/com.bnyro.wallpaper.ui.activities.MainActivity" image="wall_you"/>
+	<AppIcon name="org.wikipedia.beta/org.wikipedia.main.MainActivity" image="wikipedia_beta"/>
+	<AppIcon name="joshuatee.wx/joshuatee.wx.StartupActivity" image="wx"/>
 
 </Theme>

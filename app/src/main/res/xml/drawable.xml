@@ -961,5 +961,37 @@
 	<item drawable="rar" />
 	<item drawable="rs_gestor_de_archivos" />
 	<item drawable="utilidades_amaze" />
+	<item drawable="anysoftkeyboard_canary" />
+	<item drawable="aves_libre" />
+	<item drawable="chrono" />
+	<item drawable="droid_ify" />
+	<item drawable="droidfish" />
+	<item drawable="droidsound_e" />
+	<item drawable="easy_noise" />
+	<item drawable="family_gem" />
+	<item drawable="fast_draw" />
+	<item drawable="fast_draw_preferences" />
+	<item drawable="florisboard_beta" />
+	<item drawable="forkyz" />
+	<item drawable="freepaint" />
+	<item drawable="hyperrogue_gold" />
+	<item drawable="kde_connect" />
+	<item drawable="mj_pdf" />
+	<item drawable="osmand_" />
+	<item drawable="puzzles" />
+	<item drawable="pysolfc" />
+	<item drawable="quik" />
+	<item drawable="radiodroid" />
+	<item drawable="redreader" />
+	<item drawable="rhvoice" />
+	<item drawable="squawker" />
+	<item drawable="systemui_tuner" />
+	<item drawable="thumb_key" />
+	<item drawable="tldr" />
+	<item drawable="tts_util" />
+	<item drawable="vector_pinball" />
+	<item drawable="wall_you" />
+	<item drawable="wikipedia_beta" />
+	<item drawable="wx" />
 
 </resources>
