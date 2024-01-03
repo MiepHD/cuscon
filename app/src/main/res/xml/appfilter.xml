@@ -1133,5 +1133,6 @@
 	<item component="ComponentInfo{com.android.dialer/com.oneplus.contacts.activities.OPDialtactsActivity}" drawable="oneplus_phone" />
 	<item component="ComponentInfo{com.oneplus.soundrecorder/com.oneplus.soundrecorder.SoundRecorder}" drawable="recorder" />
 	<item component="ComponentInfo{com.np.nilp/com.np.nilp.MainActivity}" drawable="ullas" />
+	<item component="ComponentInfo{com.lagradost.cloudstream3/com.lagradost.cloudstream3.ui.account.AccountSelectActivity}" drawable="cloudstream" />
 
 </resources>

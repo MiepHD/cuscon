@@ -1122,5 +1122,6 @@
 	<AppIcon name="com.android.dialer/com.oneplus.contacts.activities.OPDialtactsActivity" image="oneplus_phone"/>
 	<AppIcon name="com.oneplus.soundrecorder/com.oneplus.soundrecorder.SoundRecorder" image="recorder"/>
 	<AppIcon name="com.np.nilp/com.np.nilp.MainActivity" image="ullas"/>
+	<AppIcon name="com.lagradost.cloudstream3/com.lagradost.cloudstream3.ui.account.AccountSelectActivity" image="cloudstream"/>
 
 </Theme>

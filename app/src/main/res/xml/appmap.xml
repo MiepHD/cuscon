@@ -1111,5 +1111,6 @@
 	<item class="com.oneplus.contacts.activities.OPDialtactsActivity" name="oneplus_phone"/>
 	<item class="com.oneplus.soundrecorder.SoundRecorder" name="recorder"/>
 	<item class="com.np.nilp.MainActivity" name="ullas"/>
+	<item class="com.lagradost.cloudstream3.ui.account.AccountSelectActivity" name="cloudstream"/>
 
 </appmap>
