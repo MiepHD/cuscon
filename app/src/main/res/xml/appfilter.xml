@@ -1147,5 +1147,19 @@
 	<item component="ComponentInfo{com.junkfood.seal/com.junkfood.seal.MainActivity}" drawable="seal" />
 	<item component="ComponentInfo{com.saltpp.simplebatterygraph2/com.saltpp.simplebatterygraph2.SimpleBatteryGraphActivity}" drawable="simple_battery_graph" />
 	<item component="ComponentInfo{com.ss.launcher2/com.ss.launcher2.MainActivity}" drawable="total_launcher" />
+	<item component="ComponentInfo{dev.sebaubuntu.athena.dev/dev.sebaubuntu.athena.MainActivity}" drawable="athena" />
+	<item component="ComponentInfo{com.alexmercerind.audire/com.alexmercerind.audire.ui.MainActivity}" drawable="audire" />
+	<item component="ComponentInfo{me.jmh.authenticatorpro/crc643c2a2b888a14ec9a.MainActivity}" drawable="authenticator" />
+	<item component="ComponentInfo{de.simon.dankelmann.bluetoothlespam/de.simon.dankelmann.bluetoothlespam.MainActivity}" drawable="bluetooth_le_spam" />
+	<item component="ComponentInfo{app.grapheneos.camera/app.grapheneos.camera.ui.activities.MainActivity}" drawable="grapheneos_camera" />
+	<item component="ComponentInfo{me.hackerchick.catima/protect.card_locker.MainActivity}" drawable="catima" />
+	<item component="ComponentInfo{com.simplemobiletools.calendar.pro/com.simplemobiletools.calendar.pro.activities.SplashActivity.Orange}" drawable="orange_calendar" />
+	<item component="ComponentInfo{com.drnoob.datamonitor/com.drnoob.datamonitor.ui.activities.SetupActivity}" drawable="data_monitor" />
+	<item component="ComponentInfo{ru.evgeniy.dpitunnelcli/ru.evgeniy.dpitunnelcli.ui.activity.MainActivity}" drawable="dpi_tunnel" />
+	<item component="ComponentInfo{com.simplemobiletools.draw.pro/com.simplemobiletools.draw.pro.activities.SplashActivity.Orange}" drawable="draw" />
+	<item component="ComponentInfo{com.softwarebakery.drivedroid/com.softwarebakery.drivedroid.MainActivity}" drawable="drivedroid" />
+	<item component="ComponentInfo{org.appsroid.fxpro/org.appsroid.fxpro.SplashActivity}" drawable="effects_pro" />
+	<item component="ComponentInfo{de.marmaro.krt.ffupdater/de.marmaro.krt.ffupdater.activity.main.MainActivity}" drawable="ffupdater" />
+	<item component="ComponentInfo{com.graphhopper.maps/com.graphhopper.maps.MainActivity}" drawable="graphhopper_maps" />
 
 </resources>

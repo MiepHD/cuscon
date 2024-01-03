@@ -1136,5 +1136,19 @@
 	<AppIcon name="com.junkfood.seal/com.junkfood.seal.MainActivity" image="seal"/>
 	<AppIcon name="com.saltpp.simplebatterygraph2/com.saltpp.simplebatterygraph2.SimpleBatteryGraphActivity" image="simple_battery_graph"/>
 	<AppIcon name="com.ss.launcher2/com.ss.launcher2.MainActivity" image="total_launcher"/>
+	<AppIcon name="dev.sebaubuntu.athena.dev/dev.sebaubuntu.athena.MainActivity" image="athena"/>
+	<AppIcon name="com.alexmercerind.audire/com.alexmercerind.audire.ui.MainActivity" image="audire"/>
+	<AppIcon name="me.jmh.authenticatorpro/crc643c2a2b888a14ec9a.MainActivity" image="authenticator"/>
+	<AppIcon name="de.simon.dankelmann.bluetoothlespam/de.simon.dankelmann.bluetoothlespam.MainActivity" image="bluetooth_le_spam"/>
+	<AppIcon name="com.simplemobiletools.calendar.pro/com.simplemobiletools.calendar.pro.activities.SplashActivity.Orange" image="orange_calendar"/>
+	<AppIcon name="app.grapheneos.camera/app.grapheneos.camera.ui.activities.MainActivity" image="grapheneos_camera"/>
+	<AppIcon name="me.hackerchick.catima/protect.card_locker.MainActivity" image="catima"/>
+	<AppIcon name="com.drnoob.datamonitor/com.drnoob.datamonitor.ui.activities.SetupActivity" image="data_monitor"/>
+	<AppIcon name="ru.evgeniy.dpitunnelcli/ru.evgeniy.dpitunnelcli.ui.activity.MainActivity" image="dpi_tunnel"/>
+	<AppIcon name="com.simplemobiletools.draw.pro/com.simplemobiletools.draw.pro.activities.SplashActivity.Orange" image="draw"/>
+	<AppIcon name="com.softwarebakery.drivedroid/com.softwarebakery.drivedroid.MainActivity" image="drivedroid"/>
+	<AppIcon name="org.appsroid.fxpro/org.appsroid.fxpro.SplashActivity" image="effects_pro"/>
+	<AppIcon name="de.marmaro.krt.ffupdater/de.marmaro.krt.ffupdater.activity.main.MainActivity" image="ffupdater"/>
+	<AppIcon name="com.graphhopper.maps/com.graphhopper.maps.MainActivity" image="graphhopper_maps"/>
 
 </Theme>

@@ -1125,5 +1125,19 @@
 	<item class="com.junkfood.seal.MainActivity" name="seal"/>
 	<item class="com.saltpp.simplebatterygraph2.SimpleBatteryGraphActivity" name="simple_battery_graph"/>
 	<item class="com.ss.launcher2.MainActivity" name="total_launcher"/>
+	<item class="dev.sebaubuntu.athena.MainActivity" name="athena"/>
+	<item class="com.alexmercerind.audire.ui.MainActivity" name="audire"/>
+	<item class="crc643c2a2b888a14ec9a.MainActivity" name="authenticator"/>
+	<item class="de.simon.dankelmann.bluetoothlespam.MainActivity" name="bluetooth_le_spam"/>
+	<item class="com.simplemobiletools.calendar.pro.activities.SplashActivity.Orange" name="orange_calendar"/>
+	<item class="app.grapheneos.camera.ui.activities.MainActivity" name="grapheneos_camera"/>
+	<item class="protect.card_locker.MainActivity" name="catima"/>
+	<item class="com.drnoob.datamonitor.ui.activities.SetupActivity" name="data_monitor"/>
+	<item class="ru.evgeniy.dpitunnelcli.ui.activity.MainActivity" name="dpi_tunnel"/>
+	<item class="com.simplemobiletools.draw.pro.activities.SplashActivity.Orange" name="draw"/>
+	<item class="com.softwarebakery.drivedroid.MainActivity" name="drivedroid"/>
+	<item class="org.appsroid.fxpro.SplashActivity" name="effects_pro"/>
+	<item class="de.marmaro.krt.ffupdater.activity.main.MainActivity" name="ffupdater"/>
+	<item class="com.graphhopper.maps.MainActivity" name="graphhopper_maps"/>
 
 </appmap>

@@ -1066,5 +1066,19 @@
 	<item drawable="seal" />
 	<item drawable="simple_battery_graph" />
 	<item drawable="total_launcher" />
+	<item drawable="athena" />
+	<item drawable="audire" />
+	<item drawable="authenticator" />
+	<item drawable="bluetooth_le_spam" />
+	<item drawable="grapheneos_camera" />
+	<item drawable="catima" />
+	<item drawable="orange_calendar" />
+	<item drawable="data_monitor" />
+	<item drawable="dpi_tunnel" />
+	<item drawable="draw" />
+	<item drawable="drivedroid" />
+	<item drawable="effects_pro" />
+	<item drawable="ffupdater" />
+	<item drawable="graphhopper_maps" />
 
 </resources>
