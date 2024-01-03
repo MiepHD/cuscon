@@ -1056,7 +1056,7 @@
 	<item class="com.github.axet.binauralbeats.activities.MainActivity" name="binaural_beats"/>
 	<item class="com.ferrarid.converterpro.MainActivity" name="converter_now"/>
 	<item class="de.salomax.currencies.view.main.MainActivity" name="currencies"/>
-	<item class="at.bitfire.davdroid.ui.AccountsActivity" name="davx⁵"/>
+	<item class="at.bitfire.davdroid.ui.AccountsActivity" name="davx5"/>
 	<item class="im.vector.application.features.Alias" name="element"/>
 	<item class="eu.faircode.email.ActivityMain" name="fairemail"/>
 	<item class="com.gemini.android.MainActivity" name="gemini"/>

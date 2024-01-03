@@ -1067,7 +1067,7 @@
 	<AppIcon name="com.github.axet.binauralbeats/com.github.axet.binauralbeats.activities.MainActivity" image="binaural_beats"/>
 	<AppIcon name="com.ferrarid.converterpro/com.ferrarid.converterpro.MainActivity" image="converter_now"/>
 	<AppIcon name="de.salomax.currencies/de.salomax.currencies.view.main.MainActivity" image="currencies"/>
-	<AppIcon name="at.bitfire.davdroid/at.bitfire.davdroid.ui.AccountsActivity" image="davx⁵"/>
+	<AppIcon name="at.bitfire.davdroid/at.bitfire.davdroid.ui.AccountsActivity" image="davx5"/>
 	<AppIcon name="im.vector.app/im.vector.application.features.Alias" image="element"/>
 	<AppIcon name="eu.faircode.email/eu.faircode.email.ActivityMain" image="fairemail"/>
 	<AppIcon name="com.gemini.android.app/com.gemini.android.MainActivity" image="gemini"/>
