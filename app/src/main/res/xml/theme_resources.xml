@@ -1125,5 +1125,16 @@
 	<AppIcon name="com.lagradost.cloudstream3/com.lagradost.cloudstream3.ui.account.AccountSelectActivity" image="cloudstream"/>
 	<AppIcon name="com.ebay.mobile/com.ebay.mobile.home.impl.main.MainActivity" image="ebay"/>
 	<AppIcon name="com.gls.glsappde.consumer/de.gls.features.main.MainActivity" image="gls_pakete"/>
+	<AppIcon name="app.myzel394.alibi/app.myzel394.alibi.MainActivity" image="alibi"/>
+	<AppIcon name="com.uptodown.installer/com.uptodown.installer.activity.SplashActivity" image="apk_installer"/>
+	<AppIcon name="com.apkupdater/com.apkupdater.ui.activity.MainActivity" image="apkupdater"/>
+	<AppIcon name="it.ipzs.cieid/it.ipzs.cieid.splash.SplashActivity" image="cieid"/>
+	<AppIcon name="com.mixplorer.silver/com.mixplorer.activities.BrowseActivity" image="mix"/>
+	<AppIcon name="com.machiav3lli.fdroid/com.machiav3lli.fdroid.ui.activities.MainActivityX" image="neo_store"/>
+	<AppIcon name="eu.faircode.netguard/eu.faircode.netguard.ActivityMain" image="netguard"/>
+	<AppIcon name="io.github.quillpad/org.qosp.notes.ui.MainActivity" image="quillpad"/>
+	<AppIcon name="com.junkfood.seal/com.junkfood.seal.MainActivity" image="seal"/>
+	<AppIcon name="com.saltpp.simplebatterygraph2/com.saltpp.simplebatterygraph2.SimpleBatteryGraphActivity" image="simple_battery_graph"/>
+	<AppIcon name="com.ss.launcher2/com.ss.launcher2.MainActivity" image="total_launcher"/>
 
 </Theme>

@@ -1055,5 +1055,16 @@
 	<item drawable="oneplus_phone" />
 	<item drawable="recorder" />
 	<item drawable="ullas" />
+	<item drawable="alibi" />
+	<item drawable="apk_installer" />
+	<item drawable="apkupdater" />
+	<item drawable="cieid" />
+	<item drawable="mix" />
+	<item drawable="neo_store" />
+	<item drawable="netguard" />
+	<item drawable="quillpad" />
+	<item drawable="seal" />
+	<item drawable="simple_battery_graph" />
+	<item drawable="total_launcher" />
 
 </resources>
