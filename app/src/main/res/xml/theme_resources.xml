@@ -985,7 +985,7 @@
 	<AppIcon name="com.freebasics/com.facebook.iorg.app.activity.IorgLauncherActivity" image="free_basics"/>
 	<AppIcon name="com.google.android.apps.searchlite/com.google.android.apps.searchlite.ui.SearchActivity" image="google_go"/>
 	<AppIcon name="com.zionhuang.music/com.zionhuang.music.MainActivity" image="innertune"/>
-	<AppIcon name="com.internet.speed.meter.lite/com.internet.speed.meter.lite.MainActivity" image="internet_speed_meter_lite"/>
+	<AppIcon name="com.internet.speed.meter.lite/com.internet.speed.meter.lite.MainActivity" image="internet_speed_meter"/>
 	<AppIcon name="com.simplemobiletools.launcher/com.simplemobiletools.launcher.activities.SplashActivity.Orange" image="launcher"/>
 	<AppIcon name="com.google.audio.hearing.visualization.accessibility.scribe/com.google.audio.hearing.visualization.accessibility.scribe.MainActivity" image="live_transcribe"/>
 	<AppIcon name="com.google.android.apps.mapslite/com.google.maps.lite.twa.MapsLiteTwaLauncherActivity" image="maps_go"/>
@@ -1091,5 +1091,6 @@
 	<AppIcon name="com.fresnel.vitruvi/com.fresnel.vitruvi.MainActivity" image="vitruvi"/>
 	<AppIcon name="com.youhodler.youhodler/com.youhodler.youhodler.MainActivity" image="youhodler"/>
 	<AppIcon name="com.deniscerri.ytdl/com.deniscerri.ytdlnis.Default" image="ytdlnis"/>
+	<AppIcon name="com.internet.speed.meter/com.internet.speed.meter.lite.MainActivity" image="internet_speed_meter"/>
 
 </Theme>
