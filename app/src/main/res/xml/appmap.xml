@@ -1051,5 +1051,6 @@
 	<item class="cu.lestebang.utiletecsa.Splash" name="utiles"/>
 	<item class="com.fenchtose.reflog.MainActivity" name="taskito"/>
 	<item class="org.wikipedia.main.MainActivity" name="wikipedia"/>
+	<item class="it.niedermann.owncloud.notes.main.MainActivity" name="niedermann_notes"/>
 
 </appmap>

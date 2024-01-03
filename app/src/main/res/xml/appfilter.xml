@@ -1087,5 +1087,6 @@
 	<item component="ComponentInfo{cu.lestebang.utiletecsa/cu.lestebang.utiletecsa.Splash}" drawable="utiles" />
 	<item component="ComponentInfo{com.fenchtose.reflog/com.fenchtose.reflog.MainActivity}" drawable="taskito" />
 	<item component="ComponentInfo{org.wikipedia/org.wikipedia.main.MainActivity}" drawable="wikipedia" />
+	<item component="ComponentInfo{it.niedermann.owncloud.notes/it.niedermann.owncloud.notes.main.MainActivity}" drawable="niedermann_notes" />
 
 </resources>

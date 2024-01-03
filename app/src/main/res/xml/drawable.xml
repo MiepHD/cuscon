@@ -997,5 +997,6 @@
 	<item drawable="utiles" />
 	<item drawable="taskito" />
 	<item drawable="wikipedia" />
+    <item drawable="niedermann_notes" />
 
 </resources>
