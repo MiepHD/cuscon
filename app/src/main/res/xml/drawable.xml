@@ -1025,5 +1025,23 @@
 	<item drawable="vitruvi" />
 	<item drawable="youhodler" />
 	<item drawable="ytdlnis" />
+	<item drawable="apps_packages_info" />
+	<item drawable="arcticons" />
+	<item drawable="audio_recorder" />
+	<item drawable="bixby_vision" />
+	<item drawable="opencalculator" />
+	<item drawable="digilocker" />
+	<item drawable="florisboard" />
+	<item drawable="hdfc_bank" />
+	<item drawable="imagepipe" />
+	<item drawable="libreoffice_viewer" />
+	<item drawable="maadhaar" />
+	<item drawable="marrow" />
+	<item drawable="mx_player_pro" />
+	<item drawable="next_player" />
+	<item drawable="notally" />
+	<item drawable="obsidian" />
+	<item drawable="sdai" />
+	<item drawable="tata_1mg" />
 
 </resources>

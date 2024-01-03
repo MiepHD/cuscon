@@ -1103,5 +1103,23 @@
 	<item component="ComponentInfo{com.youhodler.youhodler/com.youhodler.youhodler.MainActivity}" drawable="youhodler" />
 	<item component="ComponentInfo{com.deniscerri.ytdl/com.deniscerri.ytdlnis.Default}" drawable="ytdlnis" />
 	<item component="ComponentInfo{com.internet.speed.meter/com.internet.speed.meter.lite.MainActivity}" drawable="internet_speed_meter" />
+	<item component="ComponentInfo{com.oF2pks.applicationsinfo/com.oF2pks.applicationsinfo.MainActivity}" drawable="apps_packages_info" />
+	<item component="ComponentInfo{com.donnnno.arcticons/com.donnnno.arcticons.activities.SplashActivity}" drawable="arcticons" />
+	<item component="ComponentInfo{com.dimowner.audiorecorder/com.dimowner.audiorecorder.app.main.MainActivity}" drawable="audio_recorder" />
+	<item component="ComponentInfo{com.samsung.android.visionintelligence/com.samsung.android.visionintelligence.main.DummyActivity}" drawable="bixby_vision" />
+	<item component="ComponentInfo{com.darkempire78.opencalculator/com.darkempire78.opencalculator.MainActivity}" drawable="opencalculator" />
+	<item component="ComponentInfo{com.digilocker.android/in.gov.digilocker.views.mainactivity.SplashScreenActivity}" drawable="digilocker" />
+	<item component="ComponentInfo{dev.patrickgold.florisboard/dev.patrickgold.florisboard.SettingsLauncherAlias}" drawable="florisboard" />
+	<item component="ComponentInfo{com.snapwork.hdfc/com.snapwork.hdfc.launcher_d88b5c5194763f71a0b9000b2167d32df77bd19df2fb186232ee9b3ce115458a}" drawable="hdfc_bank" />
+	<item component="ComponentInfo{de.kaffeemitkoffein.imagepipe/de.kaffeemitkoffein.imagepipe.ImageReceiver}" drawable="imagepipe" />
+	<item component="ComponentInfo{org.documentfoundation.libreoffice/org.libreoffice.ui.LibreOfficeUIActivity}" drawable="libreoffice_viewer" />
+	<item component="ComponentInfo{in.gov.uidai.mAadhaarPlus/in.gov.uidai.mAadhaarPlus.MainActivity}" drawable="maadhaar" />
+	<item component="ComponentInfo{com.marrow/com.marrow.ui.activities.onboarding.splash.SplashActivity}" drawable="marrow" />
+	<item component="ComponentInfo{com.mxtech.videoplayer.pro/com.mxtech.videoplayer.pro.ActivityWelcomeMX}" drawable="mx_player_pro" />
+	<item component="ComponentInfo{dev.anilbeesetti.nextplayer/dev.anilbeesetti.nextplayer.MainActivity}" drawable="next_player" />
+	<item component="ComponentInfo{com.omgodse.notally/com.omgodse.notally.activities.MainActivity}" drawable="notally" />
+	<item component="ComponentInfo{md.obsidian/md.obsidian.MainActivity}" drawable="obsidian" />
+	<item component="ComponentInfo{com.shifthackz.aisdv1.app.foss/com.shifthackz.aisdv1.presentation.activity.AiStableDiffusionActivity}" drawable="sdai" />
+	<item component="ComponentInfo{com.aranoah.healthkart.plus/com.aranoah.healthkart.plus.startup.splash.SplashActivity}" drawable="tata_1mg" />
 
 </resources>

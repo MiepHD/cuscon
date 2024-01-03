@@ -1092,5 +1092,23 @@
 	<AppIcon name="com.youhodler.youhodler/com.youhodler.youhodler.MainActivity" image="youhodler"/>
 	<AppIcon name="com.deniscerri.ytdl/com.deniscerri.ytdlnis.Default" image="ytdlnis"/>
 	<AppIcon name="com.internet.speed.meter/com.internet.speed.meter.lite.MainActivity" image="internet_speed_meter"/>
+	<AppIcon name="com.oF2pks.applicationsinfo/com.oF2pks.applicationsinfo.MainActivity" image="apps_packages_info"/>
+	<AppIcon name="com.donnnno.arcticons/com.donnnno.arcticons.activities.SplashActivity" image="arcticons"/>
+	<AppIcon name="com.dimowner.audiorecorder/com.dimowner.audiorecorder.app.main.MainActivity" image="audio_recorder"/>
+	<AppIcon name="com.samsung.android.visionintelligence/com.samsung.android.visionintelligence.main.DummyActivity" image="bixby_vision"/>
+	<AppIcon name="com.darkempire78.opencalculator/com.darkempire78.opencalculator.MainActivity" image="opencalculator"/>
+	<AppIcon name="com.digilocker.android/in.gov.digilocker.views.mainactivity.SplashScreenActivity" image="digilocker"/>
+	<AppIcon name="dev.patrickgold.florisboard/dev.patrickgold.florisboard.SettingsLauncherAlias" image="florisboard"/>
+	<AppIcon name="com.snapwork.hdfc/com.snapwork.hdfc.launcher_d88b5c5194763f71a0b9000b2167d32df77bd19df2fb186232ee9b3ce115458a" image="hdfc_bank"/>
+	<AppIcon name="de.kaffeemitkoffein.imagepipe/de.kaffeemitkoffein.imagepipe.ImageReceiver" image="imagepipe"/>
+	<AppIcon name="org.documentfoundation.libreoffice/org.libreoffice.ui.LibreOfficeUIActivity" image="libreoffice_viewer"/>
+	<AppIcon name="in.gov.uidai.mAadhaarPlus/in.gov.uidai.mAadhaarPlus.MainActivity" image="maadhaar"/>
+	<AppIcon name="com.marrow/com.marrow.ui.activities.onboarding.splash.SplashActivity" image="marrow"/>
+	<AppIcon name="com.mxtech.videoplayer.pro/com.mxtech.videoplayer.pro.ActivityWelcomeMX" image="mx_player_pro"/>
+	<AppIcon name="dev.anilbeesetti.nextplayer/dev.anilbeesetti.nextplayer.MainActivity" image="next_player"/>
+	<AppIcon name="com.omgodse.notally/com.omgodse.notally.activities.MainActivity" image="notally"/>
+	<AppIcon name="md.obsidian/md.obsidian.MainActivity" image="obsidian"/>
+	<AppIcon name="com.shifthackz.aisdv1.app.foss/com.shifthackz.aisdv1.presentation.activity.AiStableDiffusionActivity" image="sdai"/>
+	<AppIcon name="com.aranoah.healthkart.plus/com.aranoah.healthkart.plus.startup.splash.SplashActivity" image="tata_1mg"/>
 
 </Theme>
