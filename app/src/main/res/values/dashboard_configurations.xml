@@ -72,7 +72,7 @@
             If you don't want to show any description, just leave this empty
             ex: <string name="home_description"></string>
             -->
-    <string name="home_description"></string>
+    <string name="home_description">Can be used with Themepark (from Sansung Store)</string>
 
     <!-- Link to your app's Rate and Review page.
         Leave this empty to disable the "Rate and Review" button.
