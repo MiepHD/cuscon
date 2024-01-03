@@ -1052,5 +1052,33 @@
 	<item class="com.fenchtose.reflog.MainActivity" name="taskito"/>
 	<item class="org.wikipedia.main.MainActivity" name="wikipedia"/>
 	<item class="it.niedermann.owncloud.notes.main.MainActivity" name="niedermann_notes"/>
+	<item class="im.vector.application.features.Alias" name="beeper"/>
+	<item class="com.github.axet.binauralbeats.activities.MainActivity" name="binaural_beats"/>
+	<item class="com.ferrarid.converterpro.MainActivity" name="converter_now"/>
+	<item class="de.salomax.currencies.view.main.MainActivity" name="currencies"/>
+	<item class="at.bitfire.davdroid.ui.AccountsActivity" name="davx⁵"/>
+	<item class="im.vector.application.features.Alias" name="element"/>
+	<item class="eu.faircode.email.ActivityMain" name="fairemail"/>
+	<item class="com.gemini.android.MainActivity" name="gemini"/>
+	<item class="uk.gov.hmrc.ptcalc.presentation.splash.SplashActivity" name="hmrc"/>
+	<item class="at.techbee.jtx.MainActivity2" name="jtx_board"/>
+	<item class="com.kunzisoft.keepass.activities.FileDatabaseSelectActivity" name="keepassdx"/>
+	<item class="com.halifax.halifax.GrappleActivity" name="lloyds_bank"/>
+	<item class="de.moekadu.metronome.MainActivity" name="metronome"/>
+	<item class="com.myfitnesspal.android.splash.SplashActivity" name="myfitnesspal"/>
+	<item class="com.nmc.android.ui.LauncherActivity" name="nextcloud"/>
+	<item class="com.doubleangels.nextdnsmanagement.MainActivity" name="nextdns_manager"/>
+	<item class="org.gateshipone.odyssey.activities.OdysseyMainActivity" name="odyssey"/>
+	<item class="io.github.devhyper.openvideoeditor.main.MainActivity" name="open_video_editor"/>
+	<item class="org.openfoodfacts.app.MainActivity" name="openfoodfacts"/>
+	<item class="software.mdev.bookstracker.MainActivity" name="openreads"/>
+	<item class="net.snapdrop.MainActivity" name="pairdrop_snapdrop"/>
+	<item class="com.revolut.ui.login.pin.LoginActivity" name="revolut"/>
+	<item class="com.nutomic.syncthingandroid.activities.FirstStartActivity" name="syncthing_fork"/>
+	<item class="com.todoroo.astrid.activity.TaskListActivity" name="tasks"/>
+	<item class="com.jamal2367.urlradio.MainActivity" name="url_radio"/>
+	<item class="com.fresnel.vitruvi.MainActivity" name="vitruvi"/>
+	<item class="com.youhodler.youhodler.MainActivity" name="youhodler"/>
+	<item class="com.deniscerri.ytdlnis.Default" name="ytdlnis"/>
 
 </appmap>

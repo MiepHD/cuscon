@@ -270,9 +270,7 @@
     <AppIcon name="com.motorola.camera3/com.motorola.camera.Camera" image="moto_camera_3"/>
 	<AppIcon name="com.netflix.Speedtest/com.netflix.Speedtest.MainActivity" image="fast_speed_test"/>
 	<AppIcon name="com.evbadroid.iwscan/com.evbadroid.iwscan.ScanActivity" image="iwscan"/>
-	<AppIcon name="com.kiwibrowser.browser/com.google.android.apps.chrome.Main" image="kiwi_browser"/>
-	<!-- Mi O2 -->
-		<AppIcon name="es.o2.mio2/com.movistar.android.mimovistar.es.presentation.MainActivity" image="my_o2"/>
+	<AppIcon name="com.kiwibrowser.browser/com.google.android.apps.chrome.Main" image="kiwi_browser"/>		<AppIcon name="es.o2.mio2/com.movistar.android.mimovistar.es.presentation.MainActivity" image="my_o2"/>
 		<AppIcon name="es.o2.mio2/es.o2.mio2.views.MainActivity" image="my_o2"/>
 	<AppIcon name="canvasm.myo2/canvasm.myo2.SplashActivity" image="my_o2"/>
 	<AppIcon name="cz.o2.moje/cz.o2.moje.RouterActivity" image="my_o2"/>
@@ -1065,5 +1063,33 @@
 	<AppIcon name="com.fenchtose.reflog/com.fenchtose.reflog.MainActivity" image="taskito"/>
 	<AppIcon name="org.wikipedia/org.wikipedia.main.MainActivity" image="wikipedia"/>
 	<AppIcon name="it.niedermann.owncloud.notes/it.niedermann.owncloud.notes.main.MainActivity" image="niedermann_notes"/>
+	<AppIcon name="com.beeper.chat/im.vector.application.features.Alias" image="beeper"/>
+	<AppIcon name="com.github.axet.binauralbeats/com.github.axet.binauralbeats.activities.MainActivity" image="binaural_beats"/>
+	<AppIcon name="com.ferrarid.converterpro/com.ferrarid.converterpro.MainActivity" image="converter_now"/>
+	<AppIcon name="de.salomax.currencies/de.salomax.currencies.view.main.MainActivity" image="currencies"/>
+	<AppIcon name="at.bitfire.davdroid/at.bitfire.davdroid.ui.AccountsActivity" image="davx⁵"/>
+	<AppIcon name="im.vector.app/im.vector.application.features.Alias" image="element"/>
+	<AppIcon name="eu.faircode.email/eu.faircode.email.ActivityMain" image="fairemail"/>
+	<AppIcon name="com.gemini.android.app/com.gemini.android.MainActivity" image="gemini"/>
+	<AppIcon name="uk.gov.hmrc.ptcalc/uk.gov.hmrc.ptcalc.presentation.splash.SplashActivity" image="hmrc"/>
+	<AppIcon name="at.techbee.jtx/at.techbee.jtx.MainActivity2" image="jtx_board"/>
+	<AppIcon name="com.kunzisoft.keepass.libre/com.kunzisoft.keepass.activities.FileDatabaseSelectActivity" image="keepassdx"/>
+	<AppIcon name="com.grppl.android.shell.CMBlloydsTSB73/com.halifax.halifax.GrappleActivity" image="lloyds_bank"/>
+	<AppIcon name="de.moekadu.metronome/de.moekadu.metronome.MainActivity" image="metronome"/>
+	<AppIcon name="com.myfitnesspal.android/com.myfitnesspal.android.splash.SplashActivity" image="myfitnesspal"/>
+	<AppIcon name="com.nextcloud.client/com.nmc.android.ui.LauncherActivity" image="nextcloud"/>
+	<AppIcon name="com.doubleangels.nextdnsmanagement/com.doubleangels.nextdnsmanagement.MainActivity" image="nextdns_manager"/>
+	<AppIcon name="org.gateshipone.odyssey/org.gateshipone.odyssey.activities.OdysseyMainActivity" image="odyssey"/>
+	<AppIcon name="io.github.devhyper.openvideoeditor/io.github.devhyper.openvideoeditor.main.MainActivity" image="open_video_editor"/>
+	<AppIcon name="openfoodfacts.github.scrachx.openfood/org.openfoodfacts.app.MainActivity" image="openfoodfacts"/>
+	<AppIcon name="software.mdev.bookstracker/software.mdev.bookstracker.MainActivity" image="openreads"/>
+	<AppIcon name="net.snapdrop/net.snapdrop.MainActivity" image="pairdrop_snapdrop"/>
+	<AppIcon name="com.revolut.revolut/com.revolut.ui.login.pin.LoginActivity" image="revolut"/>
+	<AppIcon name="com.github.catfriend1.syncthingandroid/com.nutomic.syncthingandroid.activities.FirstStartActivity" image="syncthing_fork"/>
+	<AppIcon name="org.tasks/com.todoroo.astrid.activity.TaskListActivity" image="tasks"/>
+	<AppIcon name="com.jamal2367.urlradio/com.jamal2367.urlradio.MainActivity" image="url_radio"/>
+	<AppIcon name="com.fresnel.vitruvi/com.fresnel.vitruvi.MainActivity" image="vitruvi"/>
+	<AppIcon name="com.youhodler.youhodler/com.youhodler.youhodler.MainActivity" image="youhodler"/>
+	<AppIcon name="com.deniscerri.ytdl/com.deniscerri.ytdlnis.Default" image="ytdlnis"/>
 
 </Theme>

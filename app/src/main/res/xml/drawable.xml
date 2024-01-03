@@ -998,5 +998,32 @@
 	<item drawable="taskito" />
 	<item drawable="wikipedia" />
     <item drawable="niedermann_notes" />
+	<item drawable="beeper" />
+	<item drawable="binaural_beats" />
+	<item drawable="converter_now" />
+	<item drawable="currencies" />
+	<item drawable="davx⁵" />
+	<item drawable="element" />
+	<item drawable="fairemail" />
+	<item drawable="gemini" />
+	<item drawable="hmrc" />
+	<item drawable="jtx_board" />
+	<item drawable="keepassdx" />
+	<item drawable="lloyds_bank" />
+	<item drawable="metronome" />
+	<item drawable="myfitnesspal" />
+	<item drawable="nextcloud" />
+	<item drawable="nextdns_manager" />
+	<item drawable="odyssey" />
+	<item drawable="open_video_editor" />
+	<item drawable="openfoodfacts" />
+	<item drawable="openreads" />
+	<item drawable="pairdrop_snapdrop" />
+	<item drawable="revolut" />
+	<item drawable="tasks" />
+	<item drawable="url_radio" />
+	<item drawable="vitruvi" />
+	<item drawable="youhodler" />
+	<item drawable="ytdlnis" />
 
 </resources>
