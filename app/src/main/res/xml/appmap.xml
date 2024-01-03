@@ -1139,5 +1139,15 @@
 	<item class="org.appsroid.fxpro.SplashActivity" name="effects_pro"/>
 	<item class="de.marmaro.krt.ffupdater.activity.main.MainActivity" name="ffupdater"/>
 	<item class="com.graphhopper.maps.MainActivity" name="graphhopper_maps"/>
+	<item class="com.amaze.filemanager.ui.activities.MainActivity" name="amaze"/>
+	<item class="com.google.android.apps.chrome.Main" name="carbon_super_fast_browser"/>
+	<item class="com.sharpened.androidfileviewer.afv4.StartActivity" name="file_viewer"/>
+	<item class="dhq.filemanagerforandroid.Splash" name="filemanager"/>
+	<item class="com.zipoapps.premiumhelper.ui.splash.PHSplashActivity" name="grabadora_de_pantalla"/>
+	<item class="com.prolific.marineaquarium.app.MarineAquariumActivity" name="marine_aquarium_pro"/>
+	<item class="com.opera.android.startup.NewsStartActivity" name="opera_news"/>
+	<item class="com.recorder.screenrecorder.home.splash.pre.PreSplashActivity" name="screen_recorder"/>
+	<item class="com.google.android.apps.chrome.Main" name="whale"/>
+	<item class="com.fulldive.evry.activities.FlatActivity" name="wize_browser"/>
 
 </appmap>

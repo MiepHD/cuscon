@@ -1161,5 +1161,15 @@
 	<item component="ComponentInfo{org.appsroid.fxpro/org.appsroid.fxpro.SplashActivity}" drawable="effects_pro" />
 	<item component="ComponentInfo{de.marmaro.krt.ffupdater/de.marmaro.krt.ffupdater.activity.main.MainActivity}" drawable="ffupdater" />
 	<item component="ComponentInfo{com.graphhopper.maps/com.graphhopper.maps.MainActivity}" drawable="graphhopper_maps" />
+	<item component="ComponentInfo{com.amaze.filemanager/com.amaze.filemanager.ui.activities.MainActivity}" drawable="amaze" />
+	<item component="ComponentInfo{com.browser.tssomas/com.google.android.apps.chrome.Main}" drawable="carbon_super_fast_browser" />
+	<item component="ComponentInfo{com.sharpened.androidfileviewer/com.sharpened.androidfileviewer.afv4.StartActivity}" drawable="file_viewer" />
+	<item component="ComponentInfo{DHQ.FileManagerForAndroid/dhq.filemanagerforandroid.Splash}" drawable="filemanager" />
+	<item component="ComponentInfo{com.rec.screen/com.zipoapps.premiumhelper.ui.splash.PHSplashActivity}" drawable="grabadora_de_pantalla" />
+	<item component="ComponentInfo{com.acrodea.fish/com.prolific.marineaquarium.app.MarineAquariumActivity}" drawable="marine_aquarium_pro" />
+	<item component="ComponentInfo{com.opera.app.news/com.opera.android.startup.NewsStartActivity}" drawable="opera_news" />
+	<item component="ComponentInfo{recorder.screenrecorder.videoeditor/com.recorder.screenrecorder.home.splash.pre.PreSplashActivity}" drawable="screen_recorder" />
+	<item component="ComponentInfo{com.naver.whale/com.google.android.apps.chrome.Main}" drawable="whale" />
+	<item component="ComponentInfo{com.fulldive.mobile/com.fulldive.evry.activities.FlatActivity}" drawable="wize_browser" />
 
 </resources>

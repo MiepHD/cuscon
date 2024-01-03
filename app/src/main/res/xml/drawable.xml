@@ -1080,5 +1080,15 @@
 	<item drawable="effects_pro" />
 	<item drawable="ffupdater" />
 	<item drawable="graphhopper_maps" />
+	<item drawable="amaze" />
+	<item drawable="carbon_super_fast_browser" />
+	<item drawable="file_viewer" />
+	<item drawable="filemanager" />
+	<item drawable="grabadora_de_pantalla" />
+	<item drawable="marine_aquarium_pro" />
+	<item drawable="opera_news" />
+	<item drawable="screen_recorder" />
+	<item drawable="whale" />
+	<item drawable="wize_browser" />
 
 </resources>

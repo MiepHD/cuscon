@@ -1150,5 +1150,15 @@
 	<AppIcon name="org.appsroid.fxpro/org.appsroid.fxpro.SplashActivity" image="effects_pro"/>
 	<AppIcon name="de.marmaro.krt.ffupdater/de.marmaro.krt.ffupdater.activity.main.MainActivity" image="ffupdater"/>
 	<AppIcon name="com.graphhopper.maps/com.graphhopper.maps.MainActivity" image="graphhopper_maps"/>
+	<AppIcon name="com.amaze.filemanager/com.amaze.filemanager.ui.activities.MainActivity" image="amaze"/>
+	<AppIcon name="com.browser.tssomas/com.google.android.apps.chrome.Main" image="carbon_super_fast_browser"/>
+	<AppIcon name="com.sharpened.androidfileviewer/com.sharpened.androidfileviewer.afv4.StartActivity" image="file_viewer"/>
+	<AppIcon name="DHQ.FileManagerForAndroid/dhq.filemanagerforandroid.Splash" image="filemanager"/>
+	<AppIcon name="com.rec.screen/com.zipoapps.premiumhelper.ui.splash.PHSplashActivity" image="grabadora_de_pantalla"/>
+	<AppIcon name="com.acrodea.fish/com.prolific.marineaquarium.app.MarineAquariumActivity" image="marine_aquarium_pro"/>
+	<AppIcon name="com.opera.app.news/com.opera.android.startup.NewsStartActivity" image="opera_news"/>
+	<AppIcon name="recorder.screenrecorder.videoeditor/com.recorder.screenrecorder.home.splash.pre.PreSplashActivity" image="screen_recorder"/>
+	<AppIcon name="com.naver.whale/com.google.android.apps.chrome.Main" image="whale"/>
+	<AppIcon name="com.fulldive.mobile/com.fulldive.evry.activities.FlatActivity" image="wize_browser"/>
 
 </Theme>
