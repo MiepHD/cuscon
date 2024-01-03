@@ -1049,5 +1049,7 @@
 	<item class="joshuatee.wx.StartupActivity" name="wx"/>
 	<item class="cu.etecsa.cubacel.tr.tm.SyVnUVixci" name="transfermovil"/>
 	<item class="cu.lestebang.utiletecsa.Splash" name="utiles"/>
+	<item class="com.fenchtose.reflog.MainActivity" name="taskito"/>
+	<item class="org.wikipedia.main.MainActivity" name="wikipedia"/>
 
 </appmap>

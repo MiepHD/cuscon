@@ -995,5 +995,7 @@
 	<item drawable="wx" />
     <item drawable="transfermovil" />
 	<item drawable="utiles" />
+	<item drawable="taskito" />
+	<item drawable="wikipedia" />
 
 </resources>

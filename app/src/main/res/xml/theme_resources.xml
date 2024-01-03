@@ -1062,5 +1062,7 @@
 	<AppIcon name="joshuatee.wx/joshuatee.wx.StartupActivity" image="wx"/>
 	<AppIcon name="cu.etecsa.cubacel.tr.tm/cu.etecsa.cubacel.tr.tm.SyVnUVixci" image="transfermovil"/>
 	<AppIcon name="cu.lestebang.utiletecsa/cu.lestebang.utiletecsa.Splash" image="utiles"/>
+	<AppIcon name="com.fenchtose.reflog/com.fenchtose.reflog.MainActivity" image="taskito"/>
+	<AppIcon name="org.wikipedia/org.wikipedia.main.MainActivity" image="wikipedia"/>
 
 </Theme>

@@ -1085,5 +1085,7 @@
 	<item component="ComponentInfo{joshuatee.wx/joshuatee.wx.StartupActivity}" drawable="wx" />
 	<item component="ComponentInfo{cu.etecsa.cubacel.tr.tm/cu.etecsa.cubacel.tr.tm.SyVnUVixci}" drawable="transfermovil" />
 	<item component="ComponentInfo{cu.lestebang.utiletecsa/cu.lestebang.utiletecsa.Splash}" drawable="utiles" />
+	<item component="ComponentInfo{com.fenchtose.reflog/com.fenchtose.reflog.MainActivity}" drawable="taskito" />
+	<item component="ComponentInfo{org.wikipedia/org.wikipedia.main.MainActivity}" drawable="wikipedia" />
 
 </resources>
