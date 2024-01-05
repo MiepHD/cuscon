@@ -1171,5 +1171,32 @@
 	<item component="ComponentInfo{recorder.screenrecorder.videoeditor/com.recorder.screenrecorder.home.splash.pre.PreSplashActivity}" drawable="screen_recorder" />
 	<item component="ComponentInfo{com.naver.whale/com.google.android.apps.chrome.Main}" drawable="whale" />
 	<item component="ComponentInfo{com.fulldive.mobile/com.fulldive.evry.activities.FlatActivity}" drawable="wize_browser" />
+	<item component="ComponentInfo{cf.theonewiththebraid.guerrilla_mail/cf.theonewiththebraid.guerrilla_mail.MainActivity}" drawable="guerrilla_mail" />
+	<item component="ComponentInfo{com.oasisfeng.island.fdroid/com.oasisfeng.island.MainActivity}" drawable="insular" />
+	<item component="ComponentInfo{threads.server/threads.server.MainActivity}" drawable="ipfs_lite" />
+	<item component="ComponentInfo{us.spotco.ir_remote/org.twinone.irremote.ui.MainActivity}" drawable="ir_remote" />
+	<item component="ComponentInfo{com.iakmds.librecamera/com.iakmds.librecamera.MainActivity}" drawable="libre_camera" />
+	<item component="ComponentInfo{io.github.gsantner.memetastic/net.gsantner.memetastic.activity.MainActivity}" drawable="memetastic" />
+	<item component="ComponentInfo{de.suma_ev.dominik.metagermaps/de.suma_ev.dominik.metagermaps.MainActivity}" drawable="metager_maps" />
+	<item component="ComponentInfo{com.limelight/com.limelight.PcView}" drawable="moonlight" />
+	<item component="ComponentInfo{com.coboltforge.dontmind.multivnc/com.coboltforge.dontmind.multivnc.ui.MainMenuActivity}" drawable="multivnc" />
+	<item component="ComponentInfo{io.github.subhamtyagi.ocr/io.github.subhamtyagi.ocr.MainActivity}" drawable="ocr" />
+	<item component="ComponentInfo{de.tu_chemnitz.etit.sse.openstop/de.tu_chemnitz.etit.sse.openstop.MainActivity}" drawable="openstop" />
+	<item component="ComponentInfo{org.nitri.opentopo/org.nitri.opentopo.MainActivity}" drawable="opentopomap" />
+	<item component="ComponentInfo{com.junjunguo.pocketmaps/com.junjunguo.pocketmaps.activities.MainActivity}" drawable="pocketmaps" />
+	<item component="ComponentInfo{ua.privatbank.ap24/ua.privatbank.ap24v6.MainActivity}" drawable="privat24" />
+	<item component="ComponentInfo{com.yoshi.rain/com.yoshi.rain.MainActivity}" drawable="rain" />
+	<item component="ComponentInfo{it.fast4x.rimusic/it.vfsfitvnm.vimusic.MainActivity}" drawable="rimusic" />
+	<item component="ComponentInfo{me.timschneeberger.rootlessjamesdsp/me.timschneeberger.rootlessjamesdsp.activity.MainActivity}" drawable="rootlessjamesdsp" />
+	<item component="ComponentInfo{com.klee.sapio/com.klee.sapio.ui.view.SplashActivity}" drawable="sapio" />
+	<item component="ComponentInfo{chat.simplex.app/chat.simplex.app.MainActivity_default}" drawable="simplex" />
+	<item component="ComponentInfo{de.srlabs.snoopsnitch/de.srlabs.snoopsnitch.StartupActivity}" drawable="snoopsnitch" />
+	<item component="ComponentInfo{com.cosmos.unreddit/com.cosmos.unreddit.MainActivity}" drawable="stealth" />
+	<item component="ComponentInfo{com.pyamsoft.tetherfi/com.pyamsoft.tetherfi.main.MainActivity}" drawable="tetherfi" />
+	<item component="ComponentInfo{threads.thor/threads.thor.MainActivity}" drawable="thor" />
+	<item component="ComponentInfo{com.demomiru.tokeiv2/com.demomiru.tokeiv2.MainActivity}" drawable="tokei" />
+	<item component="ComponentInfo{com.kakathic.shells/com.kakathic.shells.SplashActivity}" drawable="tool_shells" />
+	<item component="ComponentInfo{de.grobox.liberario/de.grobox.transportr.map.MapActivity}" drawable="transportr" />
+	<item component="ComponentInfo{org.tuxpaint/org.tuxpaint.ConfigActivity}" drawable="tux_paint_config" />
 
 </resources>

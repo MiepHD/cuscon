@@ -1090,5 +1090,32 @@
 	<item drawable="screen_recorder" />
 	<item drawable="whale" />
 	<item drawable="wize_browser" />
+	<item drawable="guerrilla_mail" />
+	<item drawable="insular" />
+	<item drawable="ipfs_lite" />
+	<item drawable="ir_remote" />
+	<item drawable="libre_camera" />
+	<item drawable="memetastic" />
+	<item drawable="metager_maps" />
+	<item drawable="moonlight" />
+	<item drawable="multivnc" />
+	<item drawable="ocr" />
+	<item drawable="openstop" />
+	<item drawable="opentopomap" />
+	<item drawable="pocketmaps" />
+	<item drawable="privat24" />
+	<item drawable="rain" />
+	<item drawable="rimusic" />
+	<item drawable="rootlessjamesdsp" />
+	<item drawable="sapio" />
+	<item drawable="simplex" />
+	<item drawable="snoopsnitch" />
+	<item drawable="stealth" />
+	<item drawable="tetherfi" />
+	<item drawable="thor" />
+	<item drawable="tokei" />
+	<item drawable="tool_shells" />
+	<item drawable="transportr" />
+	<item drawable="tux_paint_config" />
 
 </resources>

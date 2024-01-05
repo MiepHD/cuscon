@@ -1149,5 +1149,32 @@
 	<item class="com.recorder.screenrecorder.home.splash.pre.PreSplashActivity" name="screen_recorder"/>
 	<item class="com.google.android.apps.chrome.Main" name="whale"/>
 	<item class="com.fulldive.evry.activities.FlatActivity" name="wize_browser"/>
+	<item class="cf.theonewiththebraid.guerrilla_mail.MainActivity" name="guerrilla_mail"/>
+	<item class="com.oasisfeng.island.MainActivity" name="insular"/>
+	<item class="threads.server.MainActivity" name="ipfs_lite"/>
+	<item class="org.twinone.irremote.ui.MainActivity" name="ir_remote"/>
+	<item class="com.iakmds.librecamera.MainActivity" name="libre_camera"/>
+	<item class="net.gsantner.memetastic.activity.MainActivity" name="memetastic"/>
+	<item class="de.suma_ev.dominik.metagermaps.MainActivity" name="metager_maps"/>
+	<item class="com.limelight.PcView" name="moonlight"/>
+	<item class="com.coboltforge.dontmind.multivnc.ui.MainMenuActivity" name="multivnc"/>
+	<item class="io.github.subhamtyagi.ocr.MainActivity" name="ocr"/>
+	<item class="de.tu_chemnitz.etit.sse.openstop.MainActivity" name="openstop"/>
+	<item class="org.nitri.opentopo.MainActivity" name="opentopomap"/>
+	<item class="com.junjunguo.pocketmaps.activities.MainActivity" name="pocketmaps"/>
+	<item class="ua.privatbank.ap24v6.MainActivity" name="privat24"/>
+	<item class="com.yoshi.rain.MainActivity" name="rain"/>
+	<item class="it.vfsfitvnm.vimusic.MainActivity" name="rimusic"/>
+	<item class="me.timschneeberger.rootlessjamesdsp.activity.MainActivity" name="rootlessjamesdsp"/>
+	<item class="com.klee.sapio.ui.view.SplashActivity" name="sapio"/>
+	<item class="chat.simplex.app.MainActivity_default" name="simplex"/>
+	<item class="de.srlabs.snoopsnitch.StartupActivity" name="snoopsnitch"/>
+	<item class="com.cosmos.unreddit.MainActivity" name="stealth"/>
+	<item class="com.pyamsoft.tetherfi.main.MainActivity" name="tetherfi"/>
+	<item class="threads.thor.MainActivity" name="thor"/>
+	<item class="com.demomiru.tokeiv2.MainActivity" name="tokei"/>
+	<item class="com.kakathic.shells.SplashActivity" name="tool_shells"/>
+	<item class="de.grobox.transportr.map.MapActivity" name="transportr"/>
+	<item class="org.tuxpaint.ConfigActivity" name="tux_paint_config"/>
 
 </appmap>

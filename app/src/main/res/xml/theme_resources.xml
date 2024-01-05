@@ -1160,5 +1160,32 @@
 	<AppIcon name="recorder.screenrecorder.videoeditor/com.recorder.screenrecorder.home.splash.pre.PreSplashActivity" image="screen_recorder"/>
 	<AppIcon name="com.naver.whale/com.google.android.apps.chrome.Main" image="whale"/>
 	<AppIcon name="com.fulldive.mobile/com.fulldive.evry.activities.FlatActivity" image="wize_browser"/>
+	<AppIcon name="cf.theonewiththebraid.guerrilla_mail/cf.theonewiththebraid.guerrilla_mail.MainActivity" image="guerrilla_mail"/>
+	<AppIcon name="com.oasisfeng.island.fdroid/com.oasisfeng.island.MainActivity" image="insular"/>
+	<AppIcon name="threads.server/threads.server.MainActivity" image="ipfs_lite"/>
+	<AppIcon name="us.spotco.ir_remote/org.twinone.irremote.ui.MainActivity" image="ir_remote"/>
+	<AppIcon name="com.iakmds.librecamera/com.iakmds.librecamera.MainActivity" image="libre_camera"/>
+	<AppIcon name="io.github.gsantner.memetastic/net.gsantner.memetastic.activity.MainActivity" image="memetastic"/>
+	<AppIcon name="de.suma_ev.dominik.metagermaps/de.suma_ev.dominik.metagermaps.MainActivity" image="metager_maps"/>
+	<AppIcon name="com.limelight/com.limelight.PcView" image="moonlight"/>
+	<AppIcon name="com.coboltforge.dontmind.multivnc/com.coboltforge.dontmind.multivnc.ui.MainMenuActivity" image="multivnc"/>
+	<AppIcon name="io.github.subhamtyagi.ocr/io.github.subhamtyagi.ocr.MainActivity" image="ocr"/>
+	<AppIcon name="de.tu_chemnitz.etit.sse.openstop/de.tu_chemnitz.etit.sse.openstop.MainActivity" image="openstop"/>
+	<AppIcon name="org.nitri.opentopo/org.nitri.opentopo.MainActivity" image="opentopomap"/>
+	<AppIcon name="com.junjunguo.pocketmaps/com.junjunguo.pocketmaps.activities.MainActivity" image="pocketmaps"/>
+	<AppIcon name="ua.privatbank.ap24/ua.privatbank.ap24v6.MainActivity" image="privat24"/>
+	<AppIcon name="com.yoshi.rain/com.yoshi.rain.MainActivity" image="rain"/>
+	<AppIcon name="it.fast4x.rimusic/it.vfsfitvnm.vimusic.MainActivity" image="rimusic"/>
+	<AppIcon name="me.timschneeberger.rootlessjamesdsp/me.timschneeberger.rootlessjamesdsp.activity.MainActivity" image="rootlessjamesdsp"/>
+	<AppIcon name="com.klee.sapio/com.klee.sapio.ui.view.SplashActivity" image="sapio"/>
+	<AppIcon name="chat.simplex.app/chat.simplex.app.MainActivity_default" image="simplex"/>
+	<AppIcon name="de.srlabs.snoopsnitch/de.srlabs.snoopsnitch.StartupActivity" image="snoopsnitch"/>
+	<AppIcon name="com.cosmos.unreddit/com.cosmos.unreddit.MainActivity" image="stealth"/>
+	<AppIcon name="com.pyamsoft.tetherfi/com.pyamsoft.tetherfi.main.MainActivity" image="tetherfi"/>
+	<AppIcon name="threads.thor/threads.thor.MainActivity" image="thor"/>
+	<AppIcon name="com.demomiru.tokeiv2/com.demomiru.tokeiv2.MainActivity" image="tokei"/>
+	<AppIcon name="com.kakathic.shells/com.kakathic.shells.SplashActivity" image="tool_shells"/>
+	<AppIcon name="de.grobox.liberario/de.grobox.transportr.map.MapActivity" image="transportr"/>
+	<AppIcon name="org.tuxpaint/org.tuxpaint.ConfigActivity" image="tux_paint_config"/>
 
 </Theme>
