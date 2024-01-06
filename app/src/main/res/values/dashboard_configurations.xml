@@ -176,7 +176,7 @@
         In premium request, your users will purchase a premium request product (which you specify in the "License.java" file)
         Later they can use the premium request product to do premium icon request.
         It's something like, paying a sum of money for getting requested icons faster. -->
-    <bool name="enable_premium_request">true</bool>
+    <bool name="enable_premium_request">false</bool>
 
     <!-- Take a look inside "License.java" for premium request product -->
 
@@ -313,7 +313,7 @@
     -->
     <!-- Enable/disable donation
         Show support development option in the home page. -->
-    <bool name="enable_donation">true</bool>
+    <bool name="enable_donation">false</bool>
 
     <!-- Take a look inside License.java for donation product -->
 
