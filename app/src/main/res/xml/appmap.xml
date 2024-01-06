@@ -1289,5 +1289,12 @@
 	<item class="com.miui.weather2.ActivityWeatherMain}" name="miui_weather" />
 	<item class="com.twitter.android.StartActivity}" name="x" />
 	<item class="com.t4w.ostora516.start_act}" name="legend_tv" />
+	<item class="com.youversion.ui.MainActivity" name="biblia"/>
+	<item class="com.google.android.apps.classroom.application.launcher.LauncherActivity" name="classroom"/>
+	<item class="com.android.wallpaper.picker.CategoryPickerActivity" name="fondos_de_pantalla"/>
+	<item class="com.android.soundrecorder.SoundRecorder" name="grabadora_de_sonidos"/>
+	<item class="com.google.android.youtube.videos.EntryPoint" name="play_peliculas"/>
+	<item class="com.farmerbb.taskbar.MainActivity" name="taskbar"/>
+	<item class="com.softwinner.fireplayer.ui.FourKMainActivity" name="fireplayer"/>
 
 </appmap>

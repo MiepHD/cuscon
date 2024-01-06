@@ -1311,5 +1311,12 @@
 	<item component="ComponentInfo{com.miui.weather2/com.miui.weather2.ActivityWeatherMain}" drawable="miui_weather" />
 	<item component="ComponentInfo{com.twitter.android/com.twitter.android.StartActivity}" drawable="x" />
 	<item component="ComponentInfo{com.t4w.ostora516/com.t4w.ostora516.start_act}" drawable="legend_tv" />
+	<item component="ComponentInfo{com.sirma.mobile.bible.android/com.youversion.ui.MainActivity}" drawable="biblia" />
+	<item component="ComponentInfo{com.google.android.apps.classroom/com.google.android.apps.classroom.application.launcher.LauncherActivity}" drawable="classroom" />
+	<item component="ComponentInfo{com.android.wallpaper/com.android.wallpaper.picker.CategoryPickerActivity}" drawable="fondos_de_pantalla" />
+	<item component="ComponentInfo{com.android.soundrecorder/com.android.soundrecorder.SoundRecorder}" drawable="grabadora_de_sonidos" />
+	<item component="ComponentInfo{com.google.android.videos/com.google.android.youtube.videos.EntryPoint}" drawable="play_peliculas" />
+	<item component="ComponentInfo{com.farmerbb.taskbar/com.farmerbb.taskbar.MainActivity}" drawable="taskbar" />
+	<item component="ComponentInfo{com.softwinner.fireplayer/com.softwinner.fireplayer.ui.FourKMainActivity}" drawable="fireplayer" />
 
 </resources>

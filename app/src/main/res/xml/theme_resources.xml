@@ -1300,5 +1300,12 @@
 	<AppIcon name="com.miui.weather2/com.miui.weather2.ActivityWeatherMain}" image="miui_weather" />
 	<AppIcon name="com.twitter.android/com.twitter.android.StartActivity}" image="x" />
 	<AppIcon name="com.t4w.ostora516/com.t4w.ostora516.start_act}" image="legend_tv" />
+	<AppIcon name="com.sirma.mobile.bible.android/com.youversion.ui.MainActivity" image="biblia"/>
+	<AppIcon name="com.google.android.apps.classroom/com.google.android.apps.classroom.application.launcher.LauncherActivity" image="classroom"/>
+	<AppIcon name="com.android.wallpaper/com.android.wallpaper.picker.CategoryPickerActivity" image="fondos_de_pantalla"/>
+	<AppIcon name="com.android.soundrecorder/com.android.soundrecorder.SoundRecorder" image="grabadora_de_sonidos"/>
+	<AppIcon name="com.google.android.videos/com.google.android.youtube.videos.EntryPoint" image="play_peliculas"/>
+	<AppIcon name="com.farmerbb.taskbar/com.farmerbb.taskbar.MainActivity" image="taskbar"/>
+	<AppIcon name="com.softwinner.fireplayer/com.softwinner.fireplayer.ui.FourKMainActivity" image="fireplayer"/>
 
 </Theme>

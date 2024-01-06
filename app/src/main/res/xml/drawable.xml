@@ -1228,4 +1228,12 @@
 	<item drawable="miui_weather" />
 	<item drawable="x" />
 	<item drawable="legend_tv" />
+	<item drawable="biblia" />
+	<item drawable="classroom" />
+	<item drawable="fondos_de_pantalla" />
+	<item drawable="grabadora_de_sonidos" />
+	<item drawable="play_peliculas" />
+	<item drawable="taskbar" />
+	<item drawable="fireplayer" />
+
 </resources>
