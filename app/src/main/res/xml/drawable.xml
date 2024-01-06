@@ -1257,5 +1257,7 @@
 	<item drawable="vinted"/>
     <item drawable="inshot" />
 	<item drawable="coloros_weather" />
+    <item drawable="feedme" />
+	<item drawable="moshidon" />
 
 </resources>
