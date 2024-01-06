@@ -1263,5 +1263,6 @@
 	<AppIcon name="com.ominous.quickweather/com.ominous.quickweather.activity.MainActivity" image="quickweather"/>
 	<AppIcon name="com.v2ray.ang/com.v2ray.ang.ui.MainActivity" image="v2rayng"/>
 	<AppIcon name="ir.valasr.android/ir.valasr.android.MainActivity" image="and_the_afternoon"/>
+	<AppIcon name="com.emeint.android.myservices/vodafone.vis.engezly.ui.screens.splash.SplashRevampActivity" image="ana_vodafone"/>
 
 </Theme>
