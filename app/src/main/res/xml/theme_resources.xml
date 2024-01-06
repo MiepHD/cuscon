@@ -1187,5 +1187,6 @@
 	<AppIcon name="com.kakathic.shells/com.kakathic.shells.SplashActivity" image="tool_shells"/>
 	<AppIcon name="de.grobox.liberario/de.grobox.transportr.map.MapActivity" image="transportr"/>
 	<AppIcon name="org.tuxpaint/org.tuxpaint.ConfigActivity" image="tux_paint_config"/>
+	<AppIcon name="net.one97.paytm/net.one97.paytm.landingpage.activity.AJRMainActivity" image="paytm"/>
 
 </Theme>

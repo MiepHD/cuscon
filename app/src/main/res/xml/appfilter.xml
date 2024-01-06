@@ -1198,5 +1198,6 @@
 	<item component="ComponentInfo{com.kakathic.shells/com.kakathic.shells.SplashActivity}" drawable="tool_shells" />
 	<item component="ComponentInfo{de.grobox.liberario/de.grobox.transportr.map.MapActivity}" drawable="transportr" />
 	<item component="ComponentInfo{org.tuxpaint/org.tuxpaint.ConfigActivity}" drawable="tux_paint_config" />
+	<item component="ComponentInfo{net.one97.paytm/net.one97.paytm.landingpage.activity.AJRMainActivity}" drawable="paytm" />
 
 </resources>

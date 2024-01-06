@@ -1176,5 +1176,6 @@
 	<item class="com.kakathic.shells.SplashActivity" name="tool_shells"/>
 	<item class="de.grobox.transportr.map.MapActivity" name="transportr"/>
 	<item class="org.tuxpaint.ConfigActivity" name="tux_paint_config"/>
+	<item class="net.one97.paytm.landingpage.activity.AJRMainActivity" name="paytm"/>
 
 </appmap>
