@@ -1274,6 +1274,6 @@
 	<item component="ComponentInfo{com.ominous.quickweather/com.ominous.quickweather.activity.MainActivity}" drawable="quickweather" />
 	<item component="ComponentInfo{com.v2ray.ang/com.v2ray.ang.ui.MainActivity}" drawable="v2rayng" />
 	<item component="ComponentInfo{ir.valasr.android/ir.valasr.android.MainActivity}" drawable="and_the_afternoon" />
-	<item component="ComponentInfo{com.emeint.android.myservices/vodafone.vis.engezly.ui.screens.splash.SplashRevampActivity}" drawable="ana_vodafone" />
+	<item component="ComponentInfo{com.emeint.android.myservices/vodafone.vis.engezly.ui.screens.splash.SplashRevampActivity}" drawable="vodafone" />
 
 </resources>
