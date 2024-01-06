@@ -1177,5 +1177,21 @@
 	<item class="de.grobox.transportr.map.MapActivity" name="transportr"/>
 	<item class="org.tuxpaint.ConfigActivity" name="tux_paint_config"/>
 	<item class="net.one97.paytm.landingpage.activity.AJRMainActivity" name="paytm"/>
+	<item class="com.aimp.player.ui.activities.main.MainActivity" name="aimp"/>
+	<item class="project.vivid.hex.bodhi.activities.HexLauncherActivity" name="_hex_"/>
+	<item class="com.myairtelapp.home.views.activities.SplashScreenActivity" name="airtel"/>
+	<item class="com.bfl.superapp.onboarding.SplashActivity" name="bajaj_finserv"/>
+	<item class="com.ryanheise.audioservice.AudioServiceActivity" name="blackhole"/>
+	<item class="com.dreamplug.androidapp.SplashActivity" name="cred"/>
+	<item class="com.epifi.paisa.ui.splash.SplashActivity" name="fi"/>
+	<item class="com.freecharge.activities.main.MainActivity" name="freecharge"/>
+	<item class="com.nextbillion.groww.genesys.loginsignup.activities.LoginActivity" name="groww"/>
+	<item class="fr.neamar.kiss.MainActivity" name="kiss_launcher"/>
+	<item class="com.mobikwik_new.MobikwikMain" name="mobikwik"/>
+	<item class="bitpit.launcher.ui.HomeActivity" name="niagara_launcher"/>
+	<item class="io.github.subhamtyagi.openinwhatsapp.MainActivity" name="open_in_whatsapp"/>
+	<item class="swati4star.createpdf.activity.SplashActivity" name="orange_pdf_converter"/>
+	<item class="com.mventus.selfcare.activity.MainActivityic_launcher" name="vi_app"/>
+	<item class="viewer.CompleteReaderMainActivity" name="xodo"/>
 
 </appmap>

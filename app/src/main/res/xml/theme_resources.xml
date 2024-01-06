@@ -1188,5 +1188,21 @@
 	<AppIcon name="de.grobox.liberario/de.grobox.transportr.map.MapActivity" image="transportr"/>
 	<AppIcon name="org.tuxpaint/org.tuxpaint.ConfigActivity" image="tux_paint_config"/>
 	<AppIcon name="net.one97.paytm/net.one97.paytm.landingpage.activity.AJRMainActivity" image="paytm"/>
+	<AppIcon name="project.vivid.hex.bodhi/project.vivid.hex.bodhi.activities.HexLauncherActivity" image="_hex_"/>
+	<AppIcon name="com.aimp.player/com.aimp.player.ui.activities.main.MainActivity" image="aimp"/>
+	<AppIcon name="com.myairtelapp/com.myairtelapp.home.views.activities.SplashScreenActivity" image="airtel"/>
+	<AppIcon name="org.altruist.BajajExperia/com.bfl.superapp.onboarding.SplashActivity" image="bajaj_finserv"/>
+	<AppIcon name="com.shadow.blackhole/com.ryanheise.audioservice.AudioServiceActivity" image="blackhole"/>
+	<AppIcon name="com.dreamplug.androidapp/com.dreamplug.androidapp.SplashActivity" image="cred"/>
+	<AppIcon name="com.epifi.paisa/com.epifi.paisa.ui.splash.SplashActivity" image="fi"/>
+	<AppIcon name="com.freecharge.android/com.freecharge.activities.main.MainActivity" image="freecharge"/>
+	<AppIcon name="com.nextbillion.groww/com.nextbillion.groww.genesys.loginsignup.activities.LoginActivity" image="groww"/>
+	<AppIcon name="fr.neamar.kiss/fr.neamar.kiss.MainActivity" image="kiss_launcher"/>
+	<AppIcon name="com.mobikwik_new/com.mobikwik_new.MobikwikMain" image="mobikwik"/>
+	<AppIcon name="bitpit.launcher/bitpit.launcher.ui.HomeActivity" image="niagara_launcher"/>
+	<AppIcon name="io.github.subhamtyagi.openinwhatsapp/io.github.subhamtyagi.openinwhatsapp.MainActivity" image="open_in_whatsapp"/>
+	<AppIcon name="swati4star.createpdf/swati4star.createpdf.activity.SplashActivity" image="orange_pdf_converter"/>
+	<AppIcon name="com.mventus.selfcare.activity/com.mventus.selfcare.activity.MainActivityic_launcher" image="vi_app"/>
+	<AppIcon name="com.xodo.pdf.reader/viewer.CompleteReaderMainActivity" image="xodo"/>
 
 </Theme>
