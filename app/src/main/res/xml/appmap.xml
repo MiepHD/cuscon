@@ -1317,5 +1317,7 @@
 	<item class="com.ubercab.presidio.app.core.root.RootActivity" name="uber"/>
 	<item class="com.ubercab.eats.core.activity.LauncherActivity" name="uber_eats"/>
 	<item class="com.vinted.activities.MDActivity" name="vinted"/>
+	<item class="com.camerasideas.instashot.MainActivity" name="inshot"/>
+	<item class="com.coloros.weather.OppoMainActivity" name="coloros_weather"/>
 
 </appmap>

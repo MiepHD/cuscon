@@ -1255,5 +1255,7 @@
 	<item drawable="uber"/>
 	<item drawable="uber_eats"/>
 	<item drawable="vinted"/>
+    <item drawable="inshot" />
+	<item drawable="coloros_weather" />
 
 </resources>

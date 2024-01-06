@@ -1328,5 +1328,7 @@
 	<AppIcon name="com.ubercab/com.ubercab.presidio.app.core.root.RootActivity" image="uber"/>
 	<AppIcon name="com.ubercab.eats/com.ubercab.eats.core.activity.LauncherActivity" image="uber_eats"/>
 	<AppIcon name="fr.vinted/com.vinted.activities.MDActivity" image="vinted"/>
+	<AppIcon name="com.camerasideas.instashot/com.camerasideas.instashot.MainActivity" image="inshot"/>
+	<AppIcon name="com.coloros.weather2/com.coloros.weather.OppoMainActivity" image="coloros_weather"/>
 
 </Theme>
