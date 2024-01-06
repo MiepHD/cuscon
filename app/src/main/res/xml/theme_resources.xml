@@ -1212,5 +1212,38 @@
 	<AppIcon name="com.transsion.phoenix/com.proj.sun.activity.LaunchActivity" image="phoenix"/>
 	<AppIcon name="reactivephone.msearch/reactivephone.msearch.ui.activity.MainActivity" image="search"/>
 	<AppIcon name="com.winzip.android/com.winzip.android.LoadingActivity" image="winzip"/>
+	<AppIcon name="com.tomtom.speedcams.android.map/com.tomtom.amigo.MainActivity" image="amigo"/>
+	<AppIcon name="de.kbv.bas/de.kbv.bas.MainActivityV2_" image="arztsuche"/>
+	<AppIcon name="com.audible.application/com.audible.application.SplashScreen" image="audible"/>
+	<AppIcon name="com.ovz.carscanner/carScannerXamarinForms.Droid.MainActivity" image="car_scanner"/>
+	<AppIcon name="com.decathlon.app/com.decathlon.app.BLUE" image="decathlon"/>
+	<AppIcon name="de.docmorris.pharmacyapp/de.comventure.commerce.MainActivity" image="docmorris"/>
+	<AppIcon name="fr.doctolib.www/fr.doctolib.www.MainActivity" image="doctolib"/>
+	<AppIcon name="de.dpd.mobile/com.dpd.navigator.ui.splashscreen.SplashScreenActivity" image="dpd"/>
+	<AppIcon name="net.easypark.android/net.easypark.android.mvp.splash.SplashActivity" image="easypark"/>
+	<AppIcon name="org.familysearch.mobile/org.familysearch.mobile.ui.activity.LauncherActivity" image="familienstammbaum"/>
+	<AppIcon name="de.myhermes.app/de.myhermes.app.MainActivity" image="hermes"/>
+	<AppIcon name="com.hp.android.printservice/com.hp.android.printservice.launcher.SplashActivity" image="hp_druckdienst_plugin"/>
+	<AppIcon name="com.hp.printercontrol/com.hp.printercontrol.hpx.PrinterControlWrapperActivity" image="hp_smart"/>
+	<AppIcon name="com.sophos.smsec/com.sophos.smsec.ui.DroidGuardMainActivity" image="intercept_x"/>
+	<AppIcon name="de.jameda/com.app.MainActivity" image="jameda"/>
+	<AppIcon name="com.ebay.kleinanzeigen/ebk.ui.splash.SplashActivity" image="kleinanzeigen"/>
+	<AppIcon name="com.ravenfeld.maps/com.ravenfeld.maps.ui.MainActivity" image="maps_viewer"/>
+	<AppIcon name="com.feioou.deliprint.yxq/com.feioou.deliprint.yxq.SplashActivity" image="marklife"/>
+	<AppIcon name="com.appseleration.android.selfcare/com.vis.meinvodafone.view.activity.load.VfLoadPhoneActivity" image="meinvodafone"/>
+	<AppIcon name="com.heytap.music/com.allsaints.music.ui.splash.SplashActivity" image="music"/>
+	<AppIcon name="com.rerware.android.MyBackupPro/com.rerware.android.MyBackupPro.MyBackup" image="mybackup_pro"/>
+	<AppIcon name="com.wakdev.nfctasks/com.wakdev.nfctasks.views.MainActivity" image="nfc_tasks"/>
+	<AppIcon name="de.chargecloud.b2c.ovag/de.chargecloud.b2c.ovag.MainActivity" image="ovag_e_mobil"/>
+	<AppIcon name="com.paybyphone/com.paybyphone.paybyphoneparking.app.ui.activities.SplashActivity" image="paybyphone"/>
+	<AppIcon name="com.secuso.privacyFriendlyCodeScanner/com.secuso.privacyfriendlycodescanner.qrscanner.ui.activities.SplashActivity" image="qr_scanner"/>
+	<AppIcon name="net.cupla.sendmylocation/com.zipoapps.premiumhelper.ui.splash.PHSplashActivity" image="send_my_location"/>
+	<AppIcon name="com.mautilus.servus/com.nousguide.android.rbtv.applib.SplashActivity" image="servustv_on"/>
+	<AppIcon name="rk.android.app.shortcutmaker/rk.android.app.shortcutmaker.CommonMethods.SplashScreenActivity" image="shortcut_maker"/>
+	<AppIcon name="de.stocard.stocard/de.stocard.ui.main.InitActivity" image="stocard"/>
+	<AppIcon name="app.tellows/app.tellows.activities.Anrufliste" image="tellows"/>
+	<AppIcon name="net.ise.telefonbuch0180/net.ise.telefonbuch0180.MainActivity" image="teltarifde"/>
+	<AppIcon name="com.einnovation.temu/com.baogong.splash.activity.MainFrameActivity" image="temu"/>
+	<AppIcon name="com.microsoft.translator/com.microsoft.translator.activity.SplashActivity" image="translator"/>
 
 </Theme>

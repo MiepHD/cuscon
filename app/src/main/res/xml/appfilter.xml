@@ -1223,5 +1223,38 @@
 	<item component="ComponentInfo{com.transsion.phoenix/com.proj.sun.activity.LaunchActivity}" drawable="phoenix" />
 	<item component="ComponentInfo{reactivephone.msearch/reactivephone.msearch.ui.activity.MainActivity}" drawable="search" />
 	<item component="ComponentInfo{com.winzip.android/com.winzip.android.LoadingActivity}" drawable="winzip" />
+	<item component="ComponentInfo{com.tomtom.speedcams.android.map/com.tomtom.amigo.MainActivity}" drawable="amigo" />
+	<item component="ComponentInfo{de.kbv.bas/de.kbv.bas.MainActivityV2_}" drawable="arztsuche" />
+	<item component="ComponentInfo{com.audible.application/com.audible.application.SplashScreen}" drawable="audible" />
+	<item component="ComponentInfo{com.ovz.carscanner/carScannerXamarinForms.Droid.MainActivity}" drawable="car_scanner" />
+	<item component="ComponentInfo{com.decathlon.app/com.decathlon.app.BLUE}" drawable="decathlon" />
+	<item component="ComponentInfo{de.docmorris.pharmacyapp/de.comventure.commerce.MainActivity}" drawable="docmorris" />
+	<item component="ComponentInfo{fr.doctolib.www/fr.doctolib.www.MainActivity}" drawable="doctolib" />
+	<item component="ComponentInfo{de.dpd.mobile/com.dpd.navigator.ui.splashscreen.SplashScreenActivity}" drawable="dpd" />
+	<item component="ComponentInfo{net.easypark.android/net.easypark.android.mvp.splash.SplashActivity}" drawable="easypark" />
+	<item component="ComponentInfo{org.familysearch.mobile/org.familysearch.mobile.ui.activity.LauncherActivity}" drawable="familienstammbaum" />
+	<item component="ComponentInfo{de.myhermes.app/de.myhermes.app.MainActivity}" drawable="hermes" />
+	<item component="ComponentInfo{com.hp.android.printservice/com.hp.android.printservice.launcher.SplashActivity}" drawable="hp_druckdienst_plugin" />
+	<item component="ComponentInfo{com.hp.printercontrol/com.hp.printercontrol.hpx.PrinterControlWrapperActivity}" drawable="hp_smart" />
+	<item component="ComponentInfo{com.sophos.smsec/com.sophos.smsec.ui.DroidGuardMainActivity}" drawable="intercept_x" />
+	<item component="ComponentInfo{de.jameda/com.app.MainActivity}" drawable="jameda" />
+	<item component="ComponentInfo{com.ebay.kleinanzeigen/ebk.ui.splash.SplashActivity}" drawable="kleinanzeigen" />
+	<item component="ComponentInfo{com.ravenfeld.maps/com.ravenfeld.maps.ui.MainActivity}" drawable="maps_viewer" />
+	<item component="ComponentInfo{com.feioou.deliprint.yxq/com.feioou.deliprint.yxq.SplashActivity}" drawable="marklife" />
+	<item component="ComponentInfo{com.appseleration.android.selfcare/com.vis.meinvodafone.view.activity.load.VfLoadPhoneActivity}" drawable="meinvodafone" />
+	<item component="ComponentInfo{com.heytap.music/com.allsaints.music.ui.splash.SplashActivity}" drawable="music" />
+	<item component="ComponentInfo{com.rerware.android.MyBackupPro/com.rerware.android.MyBackupPro.MyBackup}" drawable="mybackup_pro" />
+	<item component="ComponentInfo{com.wakdev.nfctasks/com.wakdev.nfctasks.views.MainActivity}" drawable="nfc_tasks" />
+	<item component="ComponentInfo{de.chargecloud.b2c.ovag/de.chargecloud.b2c.ovag.MainActivity}" drawable="ovag_e_mobil" />
+	<item component="ComponentInfo{com.paybyphone/com.paybyphone.paybyphoneparking.app.ui.activities.SplashActivity}" drawable="paybyphone" />
+	<item component="ComponentInfo{com.secuso.privacyFriendlyCodeScanner/com.secuso.privacyfriendlycodescanner.qrscanner.ui.activities.SplashActivity}" drawable="qr_scanner" />
+	<item component="ComponentInfo{net.cupla.sendmylocation/com.zipoapps.premiumhelper.ui.splash.PHSplashActivity}" drawable="send_my_location" />
+	<item component="ComponentInfo{com.mautilus.servus/com.nousguide.android.rbtv.applib.SplashActivity}" drawable="servustv_on" />
+	<item component="ComponentInfo{rk.android.app.shortcutmaker/rk.android.app.shortcutmaker.CommonMethods.SplashScreenActivity}" drawable="shortcut_maker" />
+	<item component="ComponentInfo{de.stocard.stocard/de.stocard.ui.main.InitActivity}" drawable="stocard" />
+	<item component="ComponentInfo{app.tellows/app.tellows.activities.Anrufliste}" drawable="tellows" />
+	<item component="ComponentInfo{net.ise.telefonbuch0180/net.ise.telefonbuch0180.MainActivity}" drawable="teltarifde" />
+	<item component="ComponentInfo{com.einnovation.temu/com.baogong.splash.activity.MainFrameActivity}" drawable="temu" />
+	<item component="ComponentInfo{com.microsoft.translator/com.microsoft.translator.activity.SplashActivity}" drawable="translator" />
 
 </resources>

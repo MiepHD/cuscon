@@ -1201,5 +1201,38 @@
 	<item class="com.proj.sun.activity.LaunchActivity" name="phoenix"/>
 	<item class="reactivephone.msearch.ui.activity.MainActivity" name="search"/>
 	<item class="com.winzip.android.LoadingActivity" name="winzip"/>
+	<item class="com.tomtom.amigo.MainActivity" name="amigo"/>
+	<item class="de.kbv.bas.MainActivityV2_" name="arztsuche"/>
+	<item class="com.audible.application.SplashScreen" name="audible"/>
+	<item class="carScannerXamarinForms.Droid.MainActivity" name="car_scanner"/>
+	<item class="com.decathlon.app.BLUE" name="decathlon"/>
+	<item class="de.comventure.commerce.MainActivity" name="docmorris"/>
+	<item class="fr.doctolib.www.MainActivity" name="doctolib"/>
+	<item class="com.dpd.navigator.ui.splashscreen.SplashScreenActivity" name="dpd"/>
+	<item class="net.easypark.android.mvp.splash.SplashActivity" name="easypark"/>
+	<item class="org.familysearch.mobile.ui.activity.LauncherActivity" name="familienstammbaum"/>
+	<item class="de.myhermes.app.MainActivity" name="hermes"/>
+	<item class="com.hp.android.printservice.launcher.SplashActivity" name="hp_druckdienst_plugin"/>
+	<item class="com.hp.printercontrol.hpx.PrinterControlWrapperActivity" name="hp_smart"/>
+	<item class="com.sophos.smsec.ui.DroidGuardMainActivity" name="intercept_x"/>
+	<item class="com.app.MainActivity" name="jameda"/>
+	<item class="ebk.ui.splash.SplashActivity" name="kleinanzeigen"/>
+	<item class="com.ravenfeld.maps.ui.MainActivity" name="maps_viewer"/>
+	<item class="com.feioou.deliprint.yxq.SplashActivity" name="marklife"/>
+	<item class="com.vis.meinvodafone.view.activity.load.VfLoadPhoneActivity" name="meinvodafone"/>
+	<item class="com.allsaints.music.ui.splash.SplashActivity" name="music"/>
+	<item class="com.rerware.android.MyBackupPro.MyBackup" name="mybackup_pro"/>
+	<item class="com.wakdev.nfctasks.views.MainActivity" name="nfc_tasks"/>
+	<item class="de.chargecloud.b2c.ovag.MainActivity" name="ovag_e_mobil"/>
+	<item class="com.paybyphone.paybyphoneparking.app.ui.activities.SplashActivity" name="paybyphone"/>
+	<item class="com.secuso.privacyfriendlycodescanner.qrscanner.ui.activities.SplashActivity" name="qr_scanner"/>
+	<item class="com.zipoapps.premiumhelper.ui.splash.PHSplashActivity" name="send_my_location"/>
+	<item class="com.nousguide.android.rbtv.applib.SplashActivity" name="servustv_on"/>
+	<item class="rk.android.app.shortcutmaker.CommonMethods.SplashScreenActivity" name="shortcut_maker"/>
+	<item class="de.stocard.ui.main.InitActivity" name="stocard"/>
+	<item class="app.tellows.activities.Anrufliste" name="tellows"/>
+	<item class="net.ise.telefonbuch0180.MainActivity" name="teltarifde"/>
+	<item class="com.baogong.splash.activity.MainFrameActivity" name="temu"/>
+	<item class="com.microsoft.translator.activity.SplashActivity" name="translator"/>
 
 </appmap>
