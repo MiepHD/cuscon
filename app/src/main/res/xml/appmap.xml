@@ -1296,6 +1296,6 @@
 	<item class="com.google.android.youtube.videos.EntryPoint" name="play_peliculas"/>
 	<item class="com.farmerbb.taskbar.MainActivity" name="taskbar"/>
 	<item class="com.softwinner.fireplayer.ui.FourKMainActivity" name="fireplayer"/>
-	<item class="me.timschneeberger.rootlessjamesdsp.activity.MainActivity" name="jamesdsp"/>
+	<item class="me.timschneeberger.rootlessjamesdsp.activity.MainActivity" name="rootlessjamesdsp"/>
 
 </appmap>
