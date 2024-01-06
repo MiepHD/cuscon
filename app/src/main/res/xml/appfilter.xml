@@ -1256,5 +1256,23 @@
 	<item component="ComponentInfo{net.ise.telefonbuch0180/net.ise.telefonbuch0180.MainActivity}" drawable="teltarifde" />
 	<item component="ComponentInfo{com.einnovation.temu/com.baogong.splash.activity.MainFrameActivity}" drawable="temu" />
 	<item component="ComponentInfo{com.microsoft.translator/com.microsoft.translator.activity.SplashActivity}" drawable="translator" />
+	<item component="ComponentInfo{foundation.e.apps/foundation.e.apps.MainActivity}" drawable="app_lounge" />
+	<item component="ComponentInfo{ir.nasim/ir.nasim.features.MainActivity}" drawable="bale" />
+	<item component="ComponentInfo{foundation.e.browser/com.google.android.apps.chrome.Main}" drawable="e_browser" />
+	<item component="ComponentInfo{ie.equalit.ceno/ie.equalit.ceno.Launcher}" drawable="ceno" />
+	<item component="ComponentInfo{com.github.lamarios.clipious/com.github.lamarios.clipious.MainActivity}" drawable="clipious" />
+	<item component="ComponentInfo{me.gerdoo.browser_plus/com.google.android.apps.chrome.Main}" drawable="gerdoo_plus" />
+	<item component="ComponentInfo{foundation.e.mail/com.fsck.k9.activity.MessageList}" drawable="mail" />
+	<item component="ComponentInfo{foundation.e.message/com.moez.QKSMS.feature.main.MainActivity}" drawable="message" />
+	<item component="ComponentInfo{com.bki.mobilebanking.android/com.persianswitch.apmb.app.ui.activity.main.SplashScreenActivity}" drawable="mobile_banking" />
+	<item component="ComponentInfo{ir.mservices.market/ir.mservices.market.activity.LaunchContentActivity}" drawable="myket" />
+	<item component="ComponentInfo{nekox.messenger/org.telegram.messenger.DefaultIcon}" drawable="nekogram_x" />
+	<item component="ComponentInfo{com.machiav3lli.backup/com.machiav3lli.backup.activities.SplashActivity}" drawable="neo_backup" />
+	<item component="ComponentInfo{foundation.e.notes/it.niedermann.owncloud.notes.main.MainActivity}" drawable="e_notes" />
+	<item component="ComponentInfo{foundation.e.pdfviewer/com.gsnathan.pdfviewer.LauncherAlias}" drawable="pdf_viewer_plus" />
+	<item component="ComponentInfo{com.ismartcoding.plain/com.ismartcoding.plain.ui.MainActivity}" drawable="plainapp" />
+	<item component="ComponentInfo{com.ominous.quickweather/com.ominous.quickweather.activity.MainActivity}" drawable="quickweather" />
+	<item component="ComponentInfo{com.v2ray.ang/com.v2ray.ang.ui.MainActivity}" drawable="v2rayng" />
+	<item component="ComponentInfo{ir.valasr.android/ir.valasr.android.MainActivity}" drawable="and_the_afternoon" />
 
 </resources>

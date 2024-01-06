@@ -1245,5 +1245,23 @@
 	<AppIcon name="net.ise.telefonbuch0180/net.ise.telefonbuch0180.MainActivity" image="teltarifde"/>
 	<AppIcon name="com.einnovation.temu/com.baogong.splash.activity.MainFrameActivity" image="temu"/>
 	<AppIcon name="com.microsoft.translator/com.microsoft.translator.activity.SplashActivity" image="translator"/>
+	<AppIcon name="foundation.e.apps/foundation.e.apps.MainActivity" image="app_lounge"/>
+	<AppIcon name="ir.nasim/ir.nasim.features.MainActivity" image="bale"/>
+	<AppIcon name="foundation.e.browser/com.google.android.apps.chrome.Main" image="e_browser"/>
+	<AppIcon name="ie.equalit.ceno/ie.equalit.ceno.Launcher" image="ceno"/>
+	<AppIcon name="com.github.lamarios.clipious/com.github.lamarios.clipious.MainActivity" image="clipious"/>
+	<AppIcon name="me.gerdoo.browser_plus/com.google.android.apps.chrome.Main" image="gerdoo_plus"/>
+	<AppIcon name="foundation.e.mail/com.fsck.k9.activity.MessageList" image="mail"/>
+	<AppIcon name="foundation.e.message/com.moez.QKSMS.feature.main.MainActivity" image="message"/>
+	<AppIcon name="com.bki.mobilebanking.android/com.persianswitch.apmb.app.ui.activity.main.SplashScreenActivity" image="mobile_banking"/>
+	<AppIcon name="ir.mservices.market/ir.mservices.market.activity.LaunchContentActivity" image="myket"/>
+	<AppIcon name="nekox.messenger/org.telegram.messenger.DefaultIcon" image="nekogram_x"/>
+	<AppIcon name="com.machiav3lli.backup/com.machiav3lli.backup.activities.SplashActivity" image="neo_backup"/>
+	<AppIcon name="foundation.e.notes/it.niedermann.owncloud.notes.main.MainActivity" image="e_notes"/>
+	<AppIcon name="foundation.e.pdfviewer/com.gsnathan.pdfviewer.LauncherAlias" image="pdf_viewer_plus"/>
+	<AppIcon name="com.ismartcoding.plain/com.ismartcoding.plain.ui.MainActivity" image="plainapp"/>
+	<AppIcon name="com.ominous.quickweather/com.ominous.quickweather.activity.MainActivity" image="quickweather"/>
+	<AppIcon name="com.v2ray.ang/com.v2ray.ang.ui.MainActivity" image="v2rayng"/>
+	<AppIcon name="ir.valasr.android/ir.valasr.android.MainActivity" image="and_the_afternoon"/>
 
 </Theme>

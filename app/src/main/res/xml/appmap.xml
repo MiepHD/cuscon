@@ -1234,5 +1234,23 @@
 	<item class="net.ise.telefonbuch0180.MainActivity" name="teltarifde"/>
 	<item class="com.baogong.splash.activity.MainFrameActivity" name="temu"/>
 	<item class="com.microsoft.translator.activity.SplashActivity" name="translator"/>
+	<item class="foundation.e.apps.MainActivity" name="app_lounge"/>
+	<item class="ir.nasim.features.MainActivity" name="bale"/>
+	<item class="com.google.android.apps.chrome.Main" name="e_browser"/>
+	<item class="ie.equalit.ceno.Launcher" name="ceno"/>
+	<item class="com.github.lamarios.clipious.MainActivity" name="clipious"/>
+	<item class="com.google.android.apps.chrome.Main" name="gerdoo_plus"/>
+	<item class="com.fsck.k9.activity.MessageList" name="mail"/>
+	<item class="com.moez.QKSMS.feature.main.MainActivity" name="message"/>
+	<item class="com.persianswitch.apmb.app.ui.activity.main.SplashScreenActivity" name="mobile_banking"/>
+	<item class="ir.mservices.market.activity.LaunchContentActivity" name="myket"/>
+	<item class="org.telegram.messenger.DefaultIcon" name="nekogram_x"/>
+	<item class="com.machiav3lli.backup.activities.SplashActivity" name="neo_backup"/>
+	<item class="it.niedermann.owncloud.notes.main.MainActivity" name="e_notes"/>
+	<item class="com.gsnathan.pdfviewer.LauncherAlias" name="pdf_viewer_plus"/>
+	<item class="com.ismartcoding.plain.ui.MainActivity" name="plainapp"/>
+	<item class="com.ominous.quickweather.activity.MainActivity" name="quickweather"/>
+	<item class="com.v2ray.ang.ui.MainActivity" name="v2rayng"/>
+	<item class="ir.valasr.android.MainActivity" name="and_the_afternoon"/>
 
 </appmap>

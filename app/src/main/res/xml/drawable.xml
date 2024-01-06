@@ -1174,5 +1174,23 @@
 	<item drawable="teltarifde" />
 	<item drawable="temu" />
 	<item drawable="translator" />
+	<item drawable="app_lounge" />
+	<item drawable="bale" />
+	<item drawable="e_browser" />
+	<item drawable="ceno" />
+	<item drawable="clipious" />
+	<item drawable="gerdoo_plus" />
+	<item drawable="mail" />
+	<item drawable="message" />
+	<item drawable="mobile_banking" />
+	<item drawable="myket" />
+	<item drawable="nekogram_x" />
+	<item drawable="neo_backup" />
+	<item drawable="e_notes" />
+	<item drawable="pdf_viewer_plus" />
+	<item drawable="plainapp" />
+	<item drawable="quickweather" />
+	<item drawable="v2rayng" />
+	<item drawable="and_the_afternoon" />
 
 </resources>
