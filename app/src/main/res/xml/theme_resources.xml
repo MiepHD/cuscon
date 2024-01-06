@@ -188,7 +188,7 @@
     <AppIcon name="org.thunderdog.challegram/org.thunderdog.challegram.MainActivity" image="telegram_x"/>
     <AppIcon name="com.xojot.vrplayer/com.xojot.vrplayer.MainActivity" image="vr_media_player"/>
     <AppIcon name="ru.zdevs.zarchiver/ru.zdevs.zarchiver.ZArchiver" image="zarchiver"/>
-    <item class="org.calyxos.datura.MainActivity" name="firewall"/>
+    <AppIcon name="org.calyxos.datura.MainActivity" image="firewall"/>
     <AppIcon name="com.google.android.gms/org.microg.gms.ui.SettingsActivity" image="microg_einstellungen"/>
     <AppIcon name="com.stevesoltys.seedvault/com.stevesoltys.seedvault.settings.SettingsLink" image="sicherung"/>
     <AppIcon name="com.aliucord/com.discord.app.AppActivity$Main" image="aliucord"/>
@@ -1264,5 +1264,41 @@
 	<AppIcon name="com.v2ray.ang/com.v2ray.ang.ui.MainActivity" image="v2rayng"/>
 	<AppIcon name="ir.valasr.android/ir.valasr.android.MainActivity" image="and_the_afternoon"/>
 	<AppIcon name="com.emeint.android.myservices/vodafone.vis.engezly.ui.screens.splash.SplashRevampActivity" image="vodafone"/>
+	<AppIcon name="com.anghami/com.anghami.activities.SplashActivity_}" image="anghami" />
+	<AppIcon name="in.sunilpaulmathew.ashell/in.sunilpaulmathew.ashell.activities.StartActivity}" image="ashell" />
+	<AppIcon name="com.truedevelopersstudio.automatictap.autoclicker/com.truedevelopersstudio.autoclicker.activities.SplashActivity}" image="auto_clicker" />
+	<AppIcon name="com.miui.calculator/com.miui.calculator.cal.CalculatorActivity}" image="calculator_miui" />
+	<AppIcon name="org.samo_lego.canta/org.samo_lego.canta.MainActivity}" image="canta" />
+	<AppIcon name="com.smartwidgetlabs.chatgpt/com.smartwidgetlabs.chatgpt.ui.splash_screen.SplashActivity}" image="chat_smith" />
+	<AppIcon name="com.openai.chatgpt/com.openai.chatgpt.MainActivity}" image="chatgpt" />
+	<AppIcon name="com.miui.compass/com.miui.compass.CompassActivity}" image="compass" />
+	<AppIcon name="com.discord/com.discord.main.MainDefault}" image="discord_default" />
+	<AppIcon name="com.hoangnguyen.textsmileypro/com.hoangnguyen.textsmileypro.ui.Main.SplashFragment}" image="fancy_text_symbols" />
+	<AppIcon name="com.sofarsogood.incredibox/com.sofarsogood.incredibox.MainActivity}" image="incredibox" />
+	<AppIcon name="com.dywx.larkplayer/com.dywx.larkplayer.main.MainActivity}" image="lark_player" />
+	<AppIcon name="com.playdead.limbo.full/com.playdead.limbo.LimboActivity}" image="limbo" />
+	<AppIcon name="com.xiaomi.wearable/com.xiaomi.fitness.login.SplashActivity}" image="mi_fitness" />
+	<AppIcon name="com.miui.videoplayer/com.miui.video.global.app.LauncherActivity}" image="mi_video" />
+	<AppIcon name="com.ucare.we/com.ucare.we.SplashActivity}" image="my_we" />
+	<AppIcon name="app.nicegram/org.telegram.messenger.DefaultIcon}" image="nicegram" />
+	<AppIcon name="com.noon.buyerapp/com.noon.buyerapp.MainActivity}" image="noon" />
+	<AppIcon name="com.miui.notes/com.miui.notes.ui.NotesListActivity}" image="notes_miui" />
+	<AppIcon name="com.jonathanpuckey.radiogarden/com.jonathanpuckey.radiogarden.MainActivity}" image="radio_garden" />
+	<AppIcon name="com.softissimo.reverso.context/com.softissimo.reverso.context.activity.SplashActivity}" image="reverso_context" />
+	<AppIcon name="com.roblox.client/com.roblox.client.startup.ActivitySplash}" image="roblox" />
+	<AppIcon name="com.google.android.apps.safetyhub/com.google.android.apps.safetyhub.LauncherActivity}" image="safety" />
+	<AppIcon name="com.xiaomi.scanner/com.xiaomi.scanner.app.ScanActivity}" image="scanner" />
+	<AppIcon name="com.miui.securitycenter/com.miui.securityscan.MainActivity}" image="security" />
+	<AppIcon name="com.android.settings/com.android.settings.MainSettings}" image="android_settings" />
+	<AppIcon name="net.mbc.shahid/net.mbc.shahid.activities.SplashActivity}" image="shahid" />
+	<AppIcon name="com.xiaomi.midrop/com.xiaomi.midrop.SplashScreen}" image="shareme" />
+	<AppIcon name="com.talabat/com.talabat.LandingScreen}" image="talabat" />
+	<AppIcon name="io.telda.app/io.telda.app.ui.SplashActivity}" image="telda" />
+	<AppIcon name="tiktok.downloader.tiktokvideodownloader.nowatermark.savetiktokvideo/com.tiktokdownloader.TkSplashActivity}" image="tkmate" />
+	<AppIcon name="info.t4w.vp/info.t4w.vp.view.MainActivity}" image="url_video_player" />
+	<AppIcon name="com.free.vpn.super.hotspot.open/com.superunlimited.feature.splash.presentation.activity.SplashActivity}" image="vpn_super" />
+	<AppIcon name="com.miui.weather2/com.miui.weather2.ActivityWeatherMain}" image="miui_weather" />
+	<AppIcon name="com.twitter.android/com.twitter.android.StartActivity}" image="x" />
+	<AppIcon name="com.t4w.ostora516/com.t4w.ostora516.start_act}" image="legend_tv" />
 
 </Theme>

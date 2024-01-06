@@ -1275,5 +1275,41 @@
 	<item component="ComponentInfo{com.v2ray.ang/com.v2ray.ang.ui.MainActivity}" drawable="v2rayng" />
 	<item component="ComponentInfo{ir.valasr.android/ir.valasr.android.MainActivity}" drawable="and_the_afternoon" />
 	<item component="ComponentInfo{com.emeint.android.myservices/vodafone.vis.engezly.ui.screens.splash.SplashRevampActivity}" drawable="vodafone" />
+	<item component="ComponentInfo{com.anghami/com.anghami.activities.SplashActivity_}" drawable="anghami" />
+	<item component="ComponentInfo{in.sunilpaulmathew.ashell/in.sunilpaulmathew.ashell.activities.StartActivity}" drawable="ashell" />
+	<item component="ComponentInfo{com.truedevelopersstudio.automatictap.autoclicker/com.truedevelopersstudio.autoclicker.activities.SplashActivity}" drawable="auto_clicker" />
+	<item component="ComponentInfo{com.miui.calculator/com.miui.calculator.cal.CalculatorActivity}" drawable="calculator_miui" />
+	<item component="ComponentInfo{org.samo_lego.canta/org.samo_lego.canta.MainActivity}" drawable="canta" />
+	<item component="ComponentInfo{com.smartwidgetlabs.chatgpt/com.smartwidgetlabs.chatgpt.ui.splash_screen.SplashActivity}" drawable="chat_smith" />
+	<item component="ComponentInfo{com.openai.chatgpt/com.openai.chatgpt.MainActivity}" drawable="chatgpt" />
+	<item component="ComponentInfo{com.miui.compass/com.miui.compass.CompassActivity}" drawable="compass" />
+	<item component="ComponentInfo{com.discord/com.discord.main.MainDefault}" drawable="discord_default" />
+	<item component="ComponentInfo{com.hoangnguyen.textsmileypro/com.hoangnguyen.textsmileypro.ui.Main.SplashFragment}" drawable="fancy_text_symbols" />
+	<item component="ComponentInfo{com.sofarsogood.incredibox/com.sofarsogood.incredibox.MainActivity}" drawable="incredibox" />
+	<item component="ComponentInfo{com.dywx.larkplayer/com.dywx.larkplayer.main.MainActivity}" drawable="lark_player" />
+	<item component="ComponentInfo{com.playdead.limbo.full/com.playdead.limbo.LimboActivity}" drawable="limbo" />
+	<item component="ComponentInfo{com.xiaomi.wearable/com.xiaomi.fitness.login.SplashActivity}" drawable="mi_fitness" />
+	<item component="ComponentInfo{com.miui.videoplayer/com.miui.video.global.app.LauncherActivity}" drawable="mi_video" />
+	<item component="ComponentInfo{com.ucare.we/com.ucare.we.SplashActivity}" drawable="my_we" />
+	<item component="ComponentInfo{app.nicegram/org.telegram.messenger.DefaultIcon}" drawable="nicegram" />
+	<item component="ComponentInfo{com.noon.buyerapp/com.noon.buyerapp.MainActivity}" drawable="noon" />
+	<item component="ComponentInfo{com.miui.notes/com.miui.notes.ui.NotesListActivity}" drawable="notes_miui" />
+	<item component="ComponentInfo{com.jonathanpuckey.radiogarden/com.jonathanpuckey.radiogarden.MainActivity}" drawable="radio_garden" />
+	<item component="ComponentInfo{com.softissimo.reverso.context/com.softissimo.reverso.context.activity.SplashActivity}" drawable="reverso_context" />
+	<item component="ComponentInfo{com.roblox.client/com.roblox.client.startup.ActivitySplash}" drawable="roblox" />
+	<item component="ComponentInfo{com.google.android.apps.safetyhub/com.google.android.apps.safetyhub.LauncherActivity}" drawable="safety" />
+	<item component="ComponentInfo{com.xiaomi.scanner/com.xiaomi.scanner.app.ScanActivity}" drawable="scanner" />
+	<item component="ComponentInfo{com.miui.securitycenter/com.miui.securityscan.MainActivity}" drawable="security" />
+	<item component="ComponentInfo{com.android.settings/com.android.settings.MainSettings}" drawable="android_settings" />
+	<item component="ComponentInfo{net.mbc.shahid/net.mbc.shahid.activities.SplashActivity}" drawable="shahid" />
+	<item component="ComponentInfo{com.xiaomi.midrop/com.xiaomi.midrop.SplashScreen}" drawable="shareme" />
+	<item component="ComponentInfo{com.talabat/com.talabat.LandingScreen}" drawable="talabat" />
+	<item component="ComponentInfo{io.telda.app/io.telda.app.ui.SplashActivity}" drawable="telda" />
+	<item component="ComponentInfo{tiktok.downloader.tiktokvideodownloader.nowatermark.savetiktokvideo/com.tiktokdownloader.TkSplashActivity}" drawable="tkmate" />
+	<item component="ComponentInfo{info.t4w.vp/info.t4w.vp.view.MainActivity}" drawable="url_video_player" />
+	<item component="ComponentInfo{com.free.vpn.super.hotspot.open/com.superunlimited.feature.splash.presentation.activity.SplashActivity}" drawable="vpn_super" />
+	<item component="ComponentInfo{com.miui.weather2/com.miui.weather2.ActivityWeatherMain}" drawable="miui_weather" />
+	<item component="ComponentInfo{com.twitter.android/com.twitter.android.StartActivity}" drawable="x" />
+	<item component="ComponentInfo{com.t4w.ostora516/com.t4w.ostora516.start_act}" drawable="legend_tv" />
 
 </resources>

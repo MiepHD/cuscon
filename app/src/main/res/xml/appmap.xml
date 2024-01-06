@@ -1253,5 +1253,41 @@
 	<item class="com.v2ray.ang.ui.MainActivity" name="v2rayng"/>
 	<item class="ir.valasr.android.MainActivity" name="and_the_afternoon"/>
 	<item class="vodafone.vis.engezly.ui.screens.splash.SplashRevampActivity" name="vodafone"/>
+	<item class="com.anghami/com.anghami.activities.SplashActivity_}" name="anghami" />
+	<item class="in.sunilpaulmathew.ashell.activities.StartActivity}" name="ashell" />
+	<item class="com.truedevelopersstudio.autoclicker.activities.SplashActivity}" name="auto_clicker" />
+	<item class="com.miui.calculator.cal.CalculatorActivity}" name="calculator_miui" />
+	<item class="org.samo_lego.canta.MainActivity}" name="canta" />
+	<item class="com.smartwidgetlabs.chatgpt.ui.splash_screen.SplashActivity}" name="chat_smith" />
+	<item class="com.openai.chatgpt.MainActivity}" name="chatgpt" />
+	<item class="com.miui.compass.CompassActivity}" name="compass" />
+	<item class="com.discord.main.MainDefault}" name="discord_default" />
+	<item class="com.hoangnguyen.textsmileypro.ui.Main.SplashFragment}" name="fancy_text_symbols" />
+	<item class="com.sofarsogood.incredibox.MainActivity}" name="incredibox" />
+	<item class="com.dywx.larkplayer.main.MainActivity}" name="lark_player" />
+	<item class="com.playdead.limbo.LimboActivity}" name="limbo" />
+	<item class="com.xiaomi.fitness.login.SplashActivity}" name="mi_fitness" />
+	<item class="com.miui.video.global.app.LauncherActivity}" name="mi_video" />
+	<item class="com.ucare.we.SplashActivity}" name="my_we" />
+	<item class="org.telegram.messenger.DefaultIcon}" name="nicegram" />
+	<item class="com.noon.buyerapp.MainActivity}" name="noon" />
+	<item class="com.miui.notes.ui.NotesListActivity}" name="notes_miui" />
+	<item class="com.jonathanpuckey.radiogarden.MainActivity}" name="radio_garden" />
+	<item class="com.softissimo.reverso.context.activity.SplashActivity}" name="reverso_context" />
+	<item class="com.roblox.client.startup.ActivitySplash}" name="roblox" />
+	<item class="com.google.android.apps.safetyhub.LauncherActivity}" name="safety" />
+	<item class="com.xiaomi.scanner.app.ScanActivity}" name="scanner" />
+	<item class="com.miui.securityscan.MainActivity}" name="security" />
+	<item class="com.android.settings.MainSettings}" name="android_settings" />
+	<item class="net.mbc.shahid.activities.SplashActivity}" name="shahid" />
+	<item class="com.xiaomi.midrop.SplashScreen}" name="shareme" />
+	<item class="com.talabat.LandingScreen}" name="talabat" />
+	<item class="io.telda.app.ui.SplashActivity}" name="telda" />
+	<item class="com.tiktokdownloader.TkSplashActivity}" name="tkmate" />
+	<item class="info.t4w.vp.view.MainActivity}" name="url_video_player" />
+	<item class="com.superunlimited.feature.splash.presentation.activity.SplashActivity}" name="vpn_super" />
+	<item class="com.miui.weather2.ActivityWeatherMain}" name="miui_weather" />
+	<item class="com.twitter.android.StartActivity}" name="x" />
+	<item class="com.t4w.ostora516.start_act}" name="legend_tv" />
 
 </appmap>
