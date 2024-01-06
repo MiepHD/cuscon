@@ -1319,5 +1319,25 @@
 	<item component="ComponentInfo{com.farmerbb.taskbar/com.farmerbb.taskbar.MainActivity}" drawable="taskbar" />
 	<item component="ComponentInfo{com.softwinner.fireplayer/com.softwinner.fireplayer.ui.FourKMainActivity}" drawable="fireplayer" />
 	<item component="ComponentInfo{james.dsp/me.timschneeberger.rootlessjamesdsp.activity.MainActivity}" drawable="rootlessjamesdsp" />
+	<item component="ComponentInfo{com.atlasobscura.android/com.atlasobscura.app.ui.MainActivity" drawable="atlas_obscura"/>
+	<item component="ComponentInfo{com.authy.authy/com.authy.authy.activities.InitializationActivity" drawable="authy"/>
+	<item component="ComponentInfo{com.lucid_dreaming.awoken/com.andreasrudolph.settings.AwokenPagerActivity" drawable="awoken"/>
+	<item component="ComponentInfo{com.bumble.app/com.bumble.app.ui.launcher.BumbleLauncherActivity" drawable="bumble"/>
+	<item component="ComponentInfo{com.rhmsoft.code/com.rhmsoft.code.MainActivity" drawable="code_editor"/>
+	<item component="ComponentInfo{com.android.contacts/com.android.contacts.PeopleActivityAlias" drawable="android_contacts"/>
+	<item component="ComponentInfo{com.deliveroo.orderapp/com.deliveroo.orderapp.appicon.default" drawable="deliveroo"/>
+	<item component="ComponentInfo{com.ridedott.rider/com.ridedott.rider.MainActivity" drawable="dott"/>
+	<item component="ComponentInfo{com.genius.android/com.genius.android.flow.main.MainActivity" drawable="genius"/>
+	<item component="ComponentInfo{com.grindrapp.android/com.grindrapp.android.HomeActivityOriginal" drawable="grindr"/>
+	<item component="ComponentInfo{org.malwarebytes.antimalware/org.malwarebytes.antimalware.ui.RoutingActivity" drawable="malwarebytes"/>
+	<item component="ComponentInfo{com.oculus.twilight/com.oculus.twilight.crossapp.activity.XOCLoginActivity" drawable="meta_quest"/>
+	<item component="ComponentInfo{com.scee.psxandroid/com.scee.psxandroid.activity.TopActivity" drawable="ps_app"/>
+	<item component="ComponentInfo{ninja.sesame.app.edge/ninja.sesame.app.edge.activities.MainActivity" drawable="sesame"/>
+	<item component="ComponentInfo{in.shabinder.soundbound/in.shabinder.soundbound.MainActivity" drawable="soundbound"/>
+	<item component="ComponentInfo{com.surfshark.vpnclient.android/com.surfshark.vpnclient.android.StartActivity" drawable="surfshark"/>
+	<item component="ComponentInfo{com.thetrainline/com.thetrainline.activities.home_screen.SplashScreenActivity" drawable="trainline"/>
+	<item component="ComponentInfo{com.ubercab/com.ubercab.presidio.app.core.root.RootActivity" drawable="uber"/>
+	<item component="ComponentInfo{com.ubercab.eats/com.ubercab.eats.core.activity.LauncherActivity" drawable="uber_eats"/>
+	<item component="ComponentInfo{fr.vinted/com.vinted.activities.MDActivity" drawable="vinted"/>
 
 </resources>

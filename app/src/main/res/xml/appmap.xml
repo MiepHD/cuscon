@@ -1297,5 +1297,25 @@
 	<item class="com.farmerbb.taskbar.MainActivity" name="taskbar"/>
 	<item class="com.softwinner.fireplayer.ui.FourKMainActivity" name="fireplayer"/>
 	<item class="me.timschneeberger.rootlessjamesdsp.activity.MainActivity" name="rootlessjamesdsp"/>
+	<item class="com.atlasobscura.app.ui.MainActivity" name="atlas_obscura"/>
+	<item class="com.authy.authy.activities.InitializationActivity" name="authy"/>
+	<item class="com.andreasrudolph.settings.AwokenPagerActivity" name="awoken"/>
+	<item class="com.bumble.app.ui.launcher.BumbleLauncherActivity" name="bumble"/>
+	<item class="com.rhmsoft.code.MainActivity" name="code_editor"/>
+	<item class="com.android.contacts.PeopleActivityAlias" name="android_contacts"/>
+	<item class="com.deliveroo.orderapp.appicon.default" name="deliveroo"/>
+	<item class="com.ridedott.rider.MainActivity" name="dott"/>
+	<item class="com.genius.android.flow.main.MainActivity" name="genius"/>
+	<item class="com.grindrapp.android.HomeActivityOriginal" name="grindr"/>
+	<item class="org.malwarebytes.antimalware.ui.RoutingActivity" name="malwarebytes"/>
+	<item class="com.oculus.twilight.crossapp.activity.XOCLoginActivity" name="meta_quest"/>
+	<item class="com.scee.psxandroid.activity.TopActivity" name="ps_app"/>
+	<item class="ninja.sesame.app.edge.activities.MainActivity" name="sesame"/>
+	<item class="in.shabinder.soundbound.MainActivity" name="soundbound"/>
+	<item class="com.surfshark.vpnclient.android.StartActivity" name="surfshark"/>
+	<item class="com.thetrainline.activities.home_screen.SplashScreenActivity" name="trainline"/>
+	<item class="com.ubercab.presidio.app.core.root.RootActivity" name="uber"/>
+	<item class="com.ubercab.eats.core.activity.LauncherActivity" name="uber_eats"/>
+	<item class="com.vinted.activities.MDActivity" name="vinted"/>
 
 </appmap>

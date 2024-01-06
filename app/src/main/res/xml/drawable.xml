@@ -1235,5 +1235,25 @@
 	<item drawable="play_peliculas" />
 	<item drawable="taskbar" />
 	<item drawable="fireplayer" />
+	<item drawable="atlas_obscura"/>
+	<item drawable="authy"/>
+	<item drawable="awoken"/>
+	<item drawable="bumble"/>
+	<item drawable="code_editor"/>
+	<item drawable="android_contacts"/>
+	<item drawable="deliveroo"/>
+	<item drawable="dott"/>
+	<item drawable="genius"/>
+	<item drawable="grindr"/>
+	<item drawable="malwarebytes"/>
+	<item drawable="meta_quest"/>
+	<item drawable="ps_app"/>
+	<item drawable="sesame"/>
+	<item drawable="soundbound"/>
+	<item drawable="surfshark"/>
+	<item drawable="trainline"/>
+	<item drawable="uber"/>
+	<item drawable="uber_eats"/>
+	<item drawable="vinted"/>
 
 </resources>

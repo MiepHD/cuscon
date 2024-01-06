@@ -1308,5 +1308,25 @@
 	<AppIcon name="com.farmerbb.taskbar/com.farmerbb.taskbar.MainActivity" image="taskbar"/>
 	<AppIcon name="com.softwinner.fireplayer/com.softwinner.fireplayer.ui.FourKMainActivity" image="fireplayer"/>
 	<AppIcon name="james.dsp/me.timschneeberger.rootlessjamesdsp.activity.MainActivity" image="rootlessjamesdsp"/>
+	<AppIcon name="com.atlasobscura.android/com.atlasobscura.app.ui.MainActivity" image="atlas_obscura"/>
+	<AppIcon name="com.authy.authy/com.authy.authy.activities.InitializationActivity" image="authy"/>
+	<AppIcon name="com.lucid_dreaming.awoken/com.andreasrudolph.settings.AwokenPagerActivity" image="awoken"/>
+	<AppIcon name="com.bumble.app/com.bumble.app.ui.launcher.BumbleLauncherActivity" image="bumble"/>
+	<AppIcon name="com.rhmsoft.code/com.rhmsoft.code.MainActivity" image="code_editor"/>
+	<AppIcon name="com.android.contacts/com.android.contacts.PeopleActivityAlias" image="android_contacts"/>
+	<AppIcon name="com.deliveroo.orderapp/com.deliveroo.orderapp.appicon.default" image="deliveroo"/>
+	<AppIcon name="com.ridedott.rider/com.ridedott.rider.MainActivity" image="dott"/>
+	<AppIcon name="com.genius.android/com.genius.android.flow.main.MainActivity" image="genius"/>
+	<AppIcon name="com.grindrapp.android/com.grindrapp.android.HomeActivityOriginal" image="grindr"/>
+	<AppIcon name="org.malwarebytes.antimalware/org.malwarebytes.antimalware.ui.RoutingActivity" image="malwarebytes"/>
+	<AppIcon name="com.oculus.twilight/com.oculus.twilight.crossapp.activity.XOCLoginActivity" image="meta_quest"/>
+	<AppIcon name="com.scee.psxandroid/com.scee.psxandroid.activity.TopActivity" image="ps_app"/>
+	<AppIcon name="ninja.sesame.app.edge/ninja.sesame.app.edge.activities.MainActivity" image="sesame"/>
+	<AppIcon name="in.shabinder.soundbound/in.shabinder.soundbound.MainActivity" image="soundbound"/>
+	<AppIcon name="com.surfshark.vpnclient.android/com.surfshark.vpnclient.android.StartActivity" image="surfshark"/>
+	<AppIcon name="com.thetrainline/com.thetrainline.activities.home_screen.SplashScreenActivity" image="trainline"/>
+	<AppIcon name="com.ubercab/com.ubercab.presidio.app.core.root.RootActivity" image="uber"/>
+	<AppIcon name="com.ubercab.eats/com.ubercab.eats.core.activity.LauncherActivity" image="uber_eats"/>
+	<AppIcon name="fr.vinted/com.vinted.activities.MDActivity" image="vinted"/>
 
 </Theme>
