@@ -1343,5 +1343,7 @@
 	<item component="ComponentInfo{com.coloros.weather2/com.coloros.weather.OppoMainActivity}" drawable="coloros_weather" />
 	<item component="ComponentInfo{com.seazon.feedme/com.seazon.feedme.ui.MainActivity}" drawable="feedme" />
 	<item component="ComponentInfo{org.joinmastodon.android.moshinda/org.joinmastodon.android.MainActivity}" drawable="moshidon" />
+	<item component="ComponentInfo{com.tct.smart.notes/com.tct.smart.notes.noteList.NoteMainActivity}" drawable="tct_notes" />
+	<item component="ComponentInfo{com.tcl.tct.weather/com.tct.weather.MainActivity}" drawable="tct_weather" />
 
 </resources>

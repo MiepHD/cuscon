@@ -1321,5 +1321,7 @@
 	<item class="com.coloros.weather.OppoMainActivity" name="coloros_weather"/>
 	<item class="com.seazon.feedme.ui.MainActivity" name="feedme"/>
 	<item class="org.joinmastodon.android.MainActivity" name="moshidon"/>
+	<item class="com.tct.smart.notes.noteList.NoteMainActivity" name="tct_notes"/>
+	<item class="com.tct.weather.MainActivity" name="tct_weather"/>
 
 </appmap>

@@ -1259,5 +1259,7 @@
 	<item drawable="coloros_weather" />
     <item drawable="feedme" />
 	<item drawable="moshidon" />
+    <item drawable="tct_notes" />
+	<item drawable="tct_weather" />
 
 </resources>

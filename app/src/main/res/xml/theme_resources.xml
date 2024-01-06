@@ -1332,5 +1332,7 @@
 	<AppIcon name="com.coloros.weather2/com.coloros.weather.OppoMainActivity" image="coloros_weather"/>
 	<AppIcon name="com.seazon.feedme/com.seazon.feedme.ui.MainActivity" image="feedme"/>
 	<AppIcon name="org.joinmastodon.android.moshinda/org.joinmastodon.android.MainActivity" image="moshidon"/>
+	<AppIcon name="com.tct.smart.notes/com.tct.smart.notes.noteList.NoteMainActivity" image="tct_notes"/>
+	<AppIcon name="com.tcl.tct.weather/com.tct.weather.MainActivity" image="tct_weather"/>
 
 </Theme>
