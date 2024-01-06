@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="changelog_date">05.01.2024</string>
+    <string name="changelog_date">06.01.2024</string>
     <string-array name="changelog">
         <item>3.0.3.2:</item>
-        <item>Added #hex_, AIMP, Airtel, Bajaj Finserv, BlackHole, CRED, Fi, Freecharge, Groww, KISS launcher, MobiKwik, Niagara Launcher, Open In WhatsApp, Vi App, Xodo, PDF Converter</item>
+        <item>Added #hex_, AIMP, Airtel, Bajaj Finserv, BlackHole, CRED, Fi, Freecharge, Groww, KISS launcher, MobiKwik, Niagara Launcher, Open In WhatsApp, Vi App, Xodo, PDF Converter, BrowseHere, Carpeta en Carpeta, Drives, Droid Commander, File Manager, Phoenix, Search, WinZip</item>
         <item>Updated paytm</item>
         <item>3.0.2.9:</item>
         <item>Added Guerrilla Mail, Insular, IPFS Lite, IR Remote, Libre Camera, MemeTastic, Metager Maps, Moonlight, MultiVNC, OCR, OpenStop, OpenTopoMap, PocketMaps, Privat24, Rain, RiMusic, RootlessJamesDSP, Sapio, SimpleX, SnoopSnitch, Stealth, TetherFi, Thor, Tokei, Tool Shells, Transportr, Tux Paint Config</item>

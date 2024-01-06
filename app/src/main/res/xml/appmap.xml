@@ -1193,5 +1193,13 @@
 	<item class="swati4star.createpdf.activity.SplashActivity" name="orange_pdf_converter"/>
 	<item class="com.mventus.selfcare.activity.MainActivityic_launcher" name="vi_app"/>
 	<item class="viewer.CompleteReaderMainActivity" name="xodo"/>
+	<item class="com.tcl.browser.portal.home.activity.HomePageActivity" name="browsehere"/>
+	<item class="com.ss.folderinfolder.LaunchActivity" name="carpeta_en_carpeta"/>
+	<item class="com.mobile_infographics_tools.mydrive.activities.IntroActivity" name="drives"/>
+	<item class="com.ashampoo.droid.commander.main.activity.MainActivity" name="droid_commander"/>
+	<item class="com.niki.nikifile.SplashActivity" name="file_manager"/>
+	<item class="com.proj.sun.activity.LaunchActivity" name="phoenix"/>
+	<item class="reactivephone.msearch.ui.activity.MainActivity" name="search"/>
+	<item class="com.winzip.android.LoadingActivity" name="winzip"/>
 
 </appmap>

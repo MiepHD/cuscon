@@ -1204,5 +1204,13 @@
 	<AppIcon name="swati4star.createpdf/swati4star.createpdf.activity.SplashActivity" image="orange_pdf_converter"/>
 	<AppIcon name="com.mventus.selfcare.activity/com.mventus.selfcare.activity.MainActivityic_launcher" image="vi_app"/>
 	<AppIcon name="com.xodo.pdf.reader/viewer.CompleteReaderMainActivity" image="xodo"/>
+	<AppIcon name="com.tcl.browser/com.tcl.browser.portal.home.activity.HomePageActivity" image="browsehere"/>
+	<AppIcon name="com.ss.folderinfolder/com.ss.folderinfolder.LaunchActivity" image="carpeta_en_carpeta"/>
+	<AppIcon name="com.mobile_infographics_tools.mydrive/com.mobile_infographics_tools.mydrive.activities.IntroActivity" image="drives"/>
+	<AppIcon name="com.ashampoo.droid.commander/com.ashampoo.droid.commander.main.activity.MainActivity" image="droid_commander"/>
+	<AppIcon name="com.niki.filemanager/com.niki.nikifile.SplashActivity" image="file_manager"/>
+	<AppIcon name="com.transsion.phoenix/com.proj.sun.activity.LaunchActivity" image="phoenix"/>
+	<AppIcon name="reactivephone.msearch/reactivephone.msearch.ui.activity.MainActivity" image="search"/>
+	<AppIcon name="com.winzip.android/com.winzip.android.LoadingActivity" image="winzip"/>
 
 </Theme>

@@ -1133,5 +1133,13 @@
 	<item drawable="vi_app" />
 	<item drawable="xodo" />
 	<item drawable="orange_pdf_converter" />
+	<item drawable="browsehere" />
+	<item drawable="carpeta_en_carpeta" />
+	<item drawable="drives" />
+	<item drawable="droid_commander" />
+	<item drawable="file_manager" />
+	<item drawable="phoenix" />
+	<item drawable="search" />
+	<item drawable="winzip" />
 
 </resources>
