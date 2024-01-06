@@ -1307,5 +1307,6 @@
 	<AppIcon name="com.google.android.videos/com.google.android.youtube.videos.EntryPoint" image="play_peliculas"/>
 	<AppIcon name="com.farmerbb.taskbar/com.farmerbb.taskbar.MainActivity" image="taskbar"/>
 	<AppIcon name="com.softwinner.fireplayer/com.softwinner.fireplayer.ui.FourKMainActivity" image="fireplayer"/>
+	<AppIcon name="james.dsp/me.timschneeberger.rootlessjamesdsp.activity.MainActivity" image="jamesdsp"/>
 
 </Theme>

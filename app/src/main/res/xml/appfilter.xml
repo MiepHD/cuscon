@@ -1318,5 +1318,6 @@
 	<item component="ComponentInfo{com.google.android.videos/com.google.android.youtube.videos.EntryPoint}" drawable="play_peliculas" />
 	<item component="ComponentInfo{com.farmerbb.taskbar/com.farmerbb.taskbar.MainActivity}" drawable="taskbar" />
 	<item component="ComponentInfo{com.softwinner.fireplayer/com.softwinner.fireplayer.ui.FourKMainActivity}" drawable="fireplayer" />
+	<item component="ComponentInfo{james.dsp/me.timschneeberger.rootlessjamesdsp.activity.MainActivity}" drawable="jamesdsp" />
 
 </resources>
