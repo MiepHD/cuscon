@@ -8,35 +8,6 @@
         <item>3.0.3.2:</item>
         <item>Added #hex_, AIMP, Airtel, Bajaj Finserv, BlackHole, CRED, Fi, Freecharge, Groww, KISS launcher, MobiKwik, Niagara Launcher, Open In WhatsApp, Vi App, Xodo, PDF Converter, BrowseHere, Carpeta en Carpeta, Drives, Droid Commander, File Manager, Phoenix, Search, WinZip</item>
         <item>Updated paytm</item>
-        <item>3.0.2.9:</item>
-        <item>Added Guerrilla Mail, Insular, IPFS Lite, IR Remote, Libre Camera, MemeTastic, Metager Maps, Moonlight, MultiVNC, OCR, OpenStop, OpenTopoMap, PocketMaps, Privat24, Rain, RiMusic, RootlessJamesDSP, Sapio, SimpleX, SnoopSnitch, Stealth, TetherFi, Thor, Tokei, Tool Shells, Transportr, Tux Paint Config</item>
-        <item>3.0.2.8:</item>
-        <item>Added AnySoftKeyboard Canary, Aves Libre, Chrono, Droid-ify, DroidFish, Droidsound-E, Easy Noise, Family Gem, Fast Draw, Fast Draw Preferences, FlorisBoard Beta, Forkyz, FreePaint, HyperRogue Gold, KDE Connect, MJ PDF, OsmAnd, Puzzles, PySolFC, QUIK, RadioDroid, RedReader, RHVoice, Squawker, SystemUI Tuner, Thumb-Key, tldr, TTS Util, Vector Pinball, Wall You, Wikipedia Beta, wX, Transfermovil, UtilEs, Taskito, Wikipedia, Niedermann Notes, Beeper, Binaural Beats, Converter NOW, Currencies, DAVx5, Element, FairEmail, Gemini, HMRC, jtx Board, KeePassDX, Lloyds Bank, Metronome, MyFitnessPal, Nextcloud, NextDNS Manager, Odyssey, Open Video Editor, OpenFoodFacts, Openreads, Pairdrop Snapdrop, Revolut, Tasks, URL Radio, Vitruvi, YouHodler, YTDLnis, apps_Packages Info, Arcticons, Audio Recorder, Bixby Vision, Open Calculator, Digilocker, FlorisBoard, HDFC Bank, Imagepipe, LibreOffice Viewer, mAadhaar, Marrow, MX Player Pro, Next Player, Notally, Obsidian, SDAI, Tata 1mg, Calculator, Contacts, DIKSHA, Files, Kutumb, Meet original, Messaging, NISHTHA, Order Me, Phone, Recorder, ULLAS, Alibi, APK Installer, APKUpdater, CieID, MiX, Neo Store, NetGuard, Quillpad, Seal, Simple Battery Graph, Total Launcher, Athena, Audire, Authenticator, Bluetooth LE Spam, Calendar, Camera, Catima, Data Monitor, DPI Tunnel, Draw, DriveDroid, Effects Pro, FFUpdater, GraphHopper Maps, Amaze, Carbon Super Fast Browser, File Viewer, FileManager, Grabadora de Pantalla, Marine Aquarium PRO, Opera News, Screen Recorder, Whale, Wize Browser</item>
-        <item>Updated Internet Speed Meter, Cloudstream, ebay, GLS Pakete</item>
-        <item>3.0.2.7:</item>
-        <item>Removed internet access</item>
-        <item>3.0.2.6:</item>
-        <item>Saved user-image in apk</item>
-        <item>3.0.2.5:</item>
-        <item>Added Grabador de pantalla, Among Us, Country Friends, Eternium, Woerterbuch, NMM, Replika, DITO, Dolby Atmos Lite, GlobeOne, zFont 3, Admin. de archivos, Copilot, Explorer, RAR, RS Gestor de Archivos, Utilidades Amaze</item>
-        <item>Updated Eigene Dateien</item>
-        <item>Removed old changelogs</item>
-        <item>3.0.2.4:</item>
-        <item>Compressed images</item>
-        <item>Added Radar Meteocat, 1Weather, App Manager, Calculator, Calendar, Clock You, HERE WeGo, Image Toolbox (Resizer), K-9 Mail, MoneyWallet, Notes, Obtainium, Record You, Sefaria, SMS Messenger, Vibe You, ViMusic, Weather, WPS Office, kolel, clalit, leumiwallet, Battery Guru, Brainly, CalcES, Canva, Collage Maker - GridArt, Devices Tycoon, Easter Eggs, FlorisBoard Debug, Free Basics, Google Go, InnerTune, Internet Speed Meter Lite, Launcher, Live Transcribe, Maps Go, Math, Night Owl, OneUI Sample, Photo Editor, Polyfield, Samsung Max, Touch Lock, Ultra apps, WaveEditor, Samsung Weather, Amber Weather, Flowx, Grabadora de Pantalla - AX Recorder, Grabadora de voz, Hello Weather, WeatherBug, Wunderground</item>
-        <item>Updated Aurora Store, Contacts, cuscon, Delta, Dolby Atmos, Gallery, grabadora_de_audio, weather_live0</item>
-        <item>3.0.2.3:</item>
-        <item>Added Berry Browser, Dolphin, DuckDuckGo, Ecosia, Firefox Focus, Navegador de incognito, Navegador Mi, Puffin, Puffin, SPIN</item>
-        <item>3.0.2.2:</item>
-        <item>Fixed click and study, GBoard</item>
-        <item>Added EX Explorador de Archivos, RTVE Audio, Solid Explorer, DrawExpress, Proton Mail, Rotation Control Pro, AEAT, Diarios de Catalunya, DINA, Foreca, Mi carpeta ciudadana, OpenWeather, Weatherzone, Camera, FM Radio, Instagram Lite, Lean Settings, Office Reader, One Hand Operation+, Opera, PC Simulator, Privacy dots, SetEdit, Translate You, Xender</item>
-        <item>3.0.2.1:</item>
-        <item>Added 3Cat, Adif, Ghost Commander, Mi Prepago, Mossos d\'Esquadra, Total Commander</item>
-        <item>Removed home_description</item>
-        <item>3.0.2.0:</item>
-        <item>Compressed images</item>
-        <item>Added Le Dictionnaire, Eltern Portal, Pons, JustSketchMe, online-ide, Schueler Portal, FX, Gestión archivos, Screen Recording, Sound Recorder Plus, V Recorder, Miro, click and study, Klett Lernen</item>
-        <item>Fixed in-app-purchases</item>
         <item>See older changelogs on https://github.com/MiepHD/cuscon/releases</item>
     </string-array>
 </resources>
