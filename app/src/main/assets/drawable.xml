@@ -1117,5 +1117,29 @@
 	<item drawable="tool_shells" />
 	<item drawable="transportr" />
 	<item drawable="tux_paint_config" />
+	<item drawable="_hex_" />
+	<item drawable="aimp" />
+	<item drawable="airtel" />
+	<item drawable="bajaj_finserv" />
+	<item drawable="blackhole" />
+	<item drawable="cred" />
+	<item drawable="fi" />
+	<item drawable="freecharge" />
+	<item drawable="groww" />
+	<item drawable="kiss_launcher" />
+	<item drawable="mobikwik" />
+	<item drawable="niagara_launcher" />
+	<item drawable="open_in_whatsapp" />
+	<item drawable="vi_app" />
+	<item drawable="xodo" />
+	<item drawable="orange_pdf_converter" />
+	<item drawable="browsehere" />
+	<item drawable="carpeta_en_carpeta" />
+	<item drawable="drives" />
+	<item drawable="droid_commander" />
+	<item drawable="file_manager" />
+	<item drawable="phoenix" />
+	<item drawable="search" />
+	<item drawable="winzip" />
 
 </resources>

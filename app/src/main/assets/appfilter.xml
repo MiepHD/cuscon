@@ -1198,5 +1198,30 @@
 	<item component="ComponentInfo{com.kakathic.shells/com.kakathic.shells.SplashActivity}" drawable="tool_shells" />
 	<item component="ComponentInfo{de.grobox.liberario/de.grobox.transportr.map.MapActivity}" drawable="transportr" />
 	<item component="ComponentInfo{org.tuxpaint/org.tuxpaint.ConfigActivity}" drawable="tux_paint_config" />
+	<item component="ComponentInfo{net.one97.paytm/net.one97.paytm.landingpage.activity.AJRMainActivity}" drawable="paytm" />
+	<item component="ComponentInfo{project.vivid.hex.bodhi/project.vivid.hex.bodhi.activities.HexLauncherActivity}" drawable="_hex_" />
+	<item component="ComponentInfo{com.aimp.player/com.aimp.player.ui.activities.main.MainActivity}" drawable="aimp" />
+	<item component="ComponentInfo{com.myairtelapp/com.myairtelapp.home.views.activities.SplashScreenActivity}" drawable="airtel" />
+	<item component="ComponentInfo{org.altruist.BajajExperia/com.bfl.superapp.onboarding.SplashActivity}" drawable="bajaj_finserv" />
+	<item component="ComponentInfo{com.shadow.blackhole/com.ryanheise.audioservice.AudioServiceActivity}" drawable="blackhole" />
+	<item component="ComponentInfo{com.dreamplug.androidapp/com.dreamplug.androidapp.SplashActivity}" drawable="cred" />
+	<item component="ComponentInfo{com.epifi.paisa/com.epifi.paisa.ui.splash.SplashActivity}" drawable="fi" />
+	<item component="ComponentInfo{com.freecharge.android/com.freecharge.activities.main.MainActivity}" drawable="freecharge" />
+	<item component="ComponentInfo{com.nextbillion.groww/com.nextbillion.groww.genesys.loginsignup.activities.LoginActivity}" drawable="groww" />
+	<item component="ComponentInfo{fr.neamar.kiss/fr.neamar.kiss.MainActivity}" drawable="kiss_launcher" />
+	<item component="ComponentInfo{com.mobikwik_new/com.mobikwik_new.MobikwikMain}" drawable="mobikwik" />
+	<item component="ComponentInfo{bitpit.launcher/bitpit.launcher.ui.HomeActivity}" drawable="niagara_launcher" />
+	<item component="ComponentInfo{io.github.subhamtyagi.openinwhatsapp/io.github.subhamtyagi.openinwhatsapp.MainActivity}" drawable="open_in_whatsapp" />
+	<item component="ComponentInfo{com.mventus.selfcare.activity/com.mventus.selfcare.activity.MainActivityic_launcher}" drawable="vi_app" />
+	<item component="ComponentInfo{com.xodo.pdf.reader/viewer.CompleteReaderMainActivity}" drawable="xodo" />
+	<item component="ComponentInfo{swati4star.createpdf/swati4star.createpdf.activity.SplashActivity}" drawable="orange_pdf_converter" />
+	<item component="ComponentInfo{com.tcl.browser/com.tcl.browser.portal.home.activity.HomePageActivity}" drawable="browsehere" />
+	<item component="ComponentInfo{com.ss.folderinfolder/com.ss.folderinfolder.LaunchActivity}" drawable="carpeta_en_carpeta" />
+	<item component="ComponentInfo{com.mobile_infographics_tools.mydrive/com.mobile_infographics_tools.mydrive.activities.IntroActivity}" drawable="drives" />
+	<item component="ComponentInfo{com.ashampoo.droid.commander/com.ashampoo.droid.commander.main.activity.MainActivity}" drawable="droid_commander" />
+	<item component="ComponentInfo{com.niki.filemanager/com.niki.nikifile.SplashActivity}" drawable="file_manager" />
+	<item component="ComponentInfo{com.transsion.phoenix/com.proj.sun.activity.LaunchActivity}" drawable="phoenix" />
+	<item component="ComponentInfo{reactivephone.msearch/reactivephone.msearch.ui.activity.MainActivity}" drawable="search" />
+	<item component="ComponentInfo{com.winzip.android/com.winzip.android.LoadingActivity}" drawable="winzip" />
 
 </resources>
