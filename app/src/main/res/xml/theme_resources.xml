@@ -1334,5 +1334,39 @@
 	<AppIcon name="org.joinmastodon.android.moshinda/org.joinmastodon.android.MainActivity" image="moshidon"/>
 	<AppIcon name="com.tct.smart.notes/com.tct.smart.notes.noteList.NoteMainActivity" image="tct_notes"/>
 	<AppIcon name="com.tcl.tct.weather/com.tct.weather.MainActivity" image="tct_weather"/>
+	<AppIcon name="com.airbnb.android/com.airbnb.android.feat.splashscreen.SplashScreenActivity" image="airbnb"/>
+	<AppIcon name="enterprises.dating.boo/dating.boo.MainActivity" image="boo"/>
+	<AppIcon name="com.xiaomi.calendar/com.android.calendar.homepage.AllInOneActivity" image="xiaomi_calendar"/>
+	<AppIcon name="es.aeat.pin24h/es.aeat.pin24h.presentation.activities.splash.SplashActivity" image="clatve"/>
+	<AppIcon name="com.cronometer.android.gold/com.cronometer.cronometer.MainActivity" image="cronometer"/>
+	<AppIcon name="com.android.providers.downloads.ui/com.android.providers.downloads.ui.DownloadList" image="downloads"/>
+	<AppIcon name="com.etsy.android/com.etsy.android.ui.homescreen.HomescreenTabsActivity" image="etsy"/>
+	<AppIcon name="com.findpenguins.app/com.findpenguins.app.HomeActivity" image="findpenguins"/>
+	<AppIcon name="org.mozilla.firefox_beta/org.mozilla.firefox_beta.App" image="firefox_beta"/>
+	<AppIcon name="cat.naval.florae/cat.naval.florae.MainActivity" image="florae"/>
+	<AppIcon name="com.miui.fm/com.miui.fmradio.FmRadioActivity" image="miui_fm_radio"/>
+	<AppIcon name="nya.kitsunyan.foxydroid/nya.kitsunyan.foxydroid.MainActivity" image="foxy_droid"/>
+	<AppIcon name="com.miui.gallery/com.miui.gallery.activity.HomePageActivity" image="miui_gallery"/>
+	<AppIcon name="com.xiaomi.glgm/com.xiaomi.glgm.home.ui.SplashActivity" image="game_centre"/>
+	<AppIcon name="com.thegrizzlylabs.geniusscan.free/com.thegrizzlylabs.geniusscan.ui.welcome.WelcomeActivity" image="genius_scan"/>
+	<AppIcon name="com.github.libretube/com.github.libretube.Default" image="libretube"/>
+	<AppIcon name="com.mi.global.bbs/com.mi.global.bbs.ui.SplashActivity" image="mi_community"/>
+	<AppIcon name="com.mi.global.shop/com.mi.global.home.ui.LaunchActivity" image="mi_store"/>
+	<AppIcon name="com.miui.player/com.miui.player.ui.MusicBrowserActivity" image="miui_music"/>
+	<AppIcon name="com.redrazors.pathbuilder2e/com.redrazors.pathbuilder2e.MainActivity" image="pathbuilder2e"/>
+	<AppIcon name="org.plantnet/org.plantnet.MainActivity" image="plantnet"/>
+	<AppIcon name="com.pleco.chinesesystem/com.pleco.chinesesystem.PlecoDroidMainActivity" image="pleco"/>
+	<AppIcon name="com.neuralprisma/com.prisma.starter.StarterActivity" image="prisma"/>
+	<AppIcon name="com.apps.adrcotfas.goodtime/com.apps.adrcotfas.goodtime.main.TimerActivity" image="productivity"/>
+	<AppIcon name="com.example.barcodescanner/com.example.barcodescanner.feature.tabs.BottomTabsActivity" image="qr_and_barcode_scanner"/>
+	<AppIcon name="com.android.soundrecorder/com.android.soundrecorder.StartActivity" image="soundrecorder2"/>
+	<AppIcon name="es.gob.interior.maec/es.gob.interior.maec.ui.login.LoginActivity" image="registro_de_viajeros"/>
+	<AppIcon name="es.riojasalud.riojasalud2/es.riojasalud.riojasalud.InicioActivity" image="riojasalud"/>
+	<AppIcon name="com.carriez.flutter_hbb/com.carriez.flutter_hbb.MainActivity" image="rustdesk"/>
+	<AppIcon name="com.iesa.tuComunidadVecinos/com.iesa.tuComunidadVecinos.MainActivity" image="tucomunidapp"/>
+	<AppIcon name="com.keylesspalace.tusky/com.keylesspalace.tusky.SplashActivity" image="tusky"/>
+	<AppIcon name="com.upwork.android.apps.main/com.upwork.android.apps.main.activity.MainActivity" image="upwork_talent"/>
+	<AppIcon name="com.wanderlog.android/com.wanderlog.android.MainActivity" image="wanderlog"/>
+	<AppIcon name="santi.wodbuster/wodbuster.box.LauncherActivity" image="wodbuster"/>
 
 </Theme>

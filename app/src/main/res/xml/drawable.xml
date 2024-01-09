@@ -1261,5 +1261,37 @@
 	<item drawable="moshidon" />
     <item drawable="tct_notes" />
 	<item drawable="tct_weather" />
+	<item drawable="airbnb" />
+	<item drawable="boo" />
+	<item drawable="xiaomi_calendar" />
+	<item drawable="clatve" />
+	<item drawable="cronometer" />
+	<item drawable="downloads" />
+	<item drawable="etsy" />
+	<item drawable="findpenguins" />
+	<item drawable="firefox_beta" />
+	<item drawable="florae" />
+	<item drawable="foxy_droid" />
+	<item drawable="game_centre" />
+	<item drawable="genius_scan" />
+	<item drawable="libretube" />
+	<item drawable="mi_community" />
+	<item drawable="mi_store" />
+	<item drawable="miui_music" />
+	<item drawable="pathbuilder2e" />
+	<item drawable="plantnet" />
+	<item drawable="pleco" />
+	<item drawable="prisma" />
+	<item drawable="productivity" />
+	<item drawable="qr_and_barcode_scanner" />
+	<item drawable="soundrecorder2" />
+	<item drawable="registro_de_viajeros" />
+	<item drawable="riojasalud" />
+	<item drawable="rustdesk" />
+	<item drawable="tucomunidapp" />
+	<item drawable="tusky" />
+	<item drawable="upwork_talent" />
+	<item drawable="wanderlog" />
+	<item drawable="wodbuster" />
 
 </resources>

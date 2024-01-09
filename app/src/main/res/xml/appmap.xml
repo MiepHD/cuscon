@@ -1323,5 +1323,39 @@
 	<item class="org.joinmastodon.android.MainActivity" name="moshidon"/>
 	<item class="com.tct.smart.notes.noteList.NoteMainActivity" name="tct_notes"/>
 	<item class="com.tct.weather.MainActivity" name="tct_weather"/>
+	<item class="com.airbnb.android.feat.splashscreen.SplashScreenActivity" name="airbnb"/>
+	<item class="dating.boo.MainActivity" name="boo"/>
+	<item class="com.android.calendar.homepage.AllInOneActivity" name="xiaomi_calendar"/>
+	<item class="es.aeat.pin24h.presentation.activities.splash.SplashActivity" name="clatve"/>
+	<item class="com.cronometer.cronometer.MainActivity" name="cronometer"/>
+	<item class="com.android.providers.downloads.ui.DownloadList" name="downloads"/>
+	<item class="com.etsy.android.ui.homescreen.HomescreenTabsActivity" name="etsy"/>
+	<item class="com.findpenguins.app.HomeActivity" name="findpenguins"/>
+	<item class="org.mozilla.firefox_beta.App" name="firefox_beta"/>
+	<item class="cat.naval.florae.MainActivity" name="florae"/>
+	<item class="com.miui.fmradio.FmRadioActivity" name="miui_fm_radio"/>
+	<item class="nya.kitsunyan.foxydroid.MainActivity" name="foxy_droid"/>
+	<item class="com.miui.gallery.activity.HomePageActivity" name="miui_gallery"/>
+	<item class="com.xiaomi.glgm.home.ui.SplashActivity" name="game_centre"/>
+	<item class="com.thegrizzlylabs.geniusscan.ui.welcome.WelcomeActivity" name="genius_scan"/>
+	<item class="com.github.libretube.Default" name="libretube"/>
+	<item class="com.mi.global.bbs.ui.SplashActivity" name="mi_community"/>
+	<item class="com.mi.global.home.ui.LaunchActivity" name="mi_store"/>
+	<item class="com.miui.player.ui.MusicBrowserActivity" name="miui_music"/>
+	<item class="com.redrazors.pathbuilder2e.MainActivity" name="pathbuilder2e"/>
+	<item class="org.plantnet.MainActivity" name="plantnet"/>
+	<item class="com.pleco.chinesesystem.PlecoDroidMainActivity" name="pleco"/>
+	<item class="com.prisma.starter.StarterActivity" name="prisma"/>
+	<item class="com.apps.adrcotfas.goodtime.main.TimerActivity" name="productivity"/>
+	<item class="com.example.barcodescanner.feature.tabs.BottomTabsActivity" name="qr_and_barcode_scanner"/>
+	<item class="com.android.soundrecorder.StartActivity" name="soundrecorder2"/>
+	<item class="es.gob.interior.maec.ui.login.LoginActivity" name="registro_de_viajeros"/>
+	<item class="es.riojasalud.riojasalud.InicioActivity" name="riojasalud"/>
+	<item class="com.carriez.flutter_hbb.MainActivity" name="rustdesk"/>
+	<item class="com.iesa.tuComunidadVecinos.MainActivity" name="tucomunidapp"/>
+	<item class="com.keylesspalace.tusky.SplashActivity" name="tusky"/>
+	<item class="com.upwork.android.apps.main.activity.MainActivity" name="upwork_talent"/>
+	<item class="com.wanderlog.android.MainActivity" name="wanderlog"/>
+	<item class="wodbuster.box.LauncherActivity" name="wodbuster"/>
 
 </appmap>

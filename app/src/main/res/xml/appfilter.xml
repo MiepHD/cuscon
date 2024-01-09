@@ -1345,5 +1345,37 @@
 	<item component="ComponentInfo{org.joinmastodon.android.moshinda/org.joinmastodon.android.MainActivity}" drawable="moshidon" />
 	<item component="ComponentInfo{com.tct.smart.notes/com.tct.smart.notes.noteList.NoteMainActivity}" drawable="tct_notes" />
 	<item component="ComponentInfo{com.tcl.tct.weather/com.tct.weather.MainActivity}" drawable="tct_weather" />
+	<item component="ComponentInfo{com.airbnb.android/com.airbnb.android.feat.splashscreen.SplashScreenActivity}" drawable="airbnb" />
+	<item component="ComponentInfo{enterprises.dating.boo/dating.boo.MainActivity}" drawable="boo" />
+	<item component="ComponentInfo{com.xiaomi.calendar/com.android.calendar.homepage.AllInOneActivity}" drawable="xiaomi_calendar" />
+	<item component="ComponentInfo{es.aeat.pin24h/es.aeat.pin24h.presentation.activities.splash.SplashActivity}" drawable="clatve" />
+	<item component="ComponentInfo{com.cronometer.android.gold/com.cronometer.cronometer.MainActivity}" drawable="cronometer" />
+	<item component="ComponentInfo{com.android.providers.downloads.ui/com.android.providers.downloads.ui.DownloadList}" drawable="downloads" />
+	<item component="ComponentInfo{com.etsy.android/com.etsy.android.ui.homescreen.HomescreenTabsActivity}" drawable="etsy" />
+	<item component="ComponentInfo{com.findpenguins.app/com.findpenguins.app.HomeActivity}" drawable="findpenguins" />
+	<item component="ComponentInfo{org.mozilla.firefox_beta/org.mozilla.firefox_beta.App}" drawable="firefox_beta" />
+	<item component="ComponentInfo{cat.naval.florae/cat.naval.florae.MainActivity}" drawable="florae" />
+	<item component="ComponentInfo{nya.kitsunyan.foxydroid/nya.kitsunyan.foxydroid.MainActivity}" drawable="foxy_droid" />
+	<item component="ComponentInfo{com.xiaomi.glgm/com.xiaomi.glgm.home.ui.SplashActivity}" drawable="game_centre" />
+	<item component="ComponentInfo{com.thegrizzlylabs.geniusscan.free/com.thegrizzlylabs.geniusscan.ui.welcome.WelcomeActivity}" drawable="genius_scan" />
+	<item component="ComponentInfo{com.github.libretube/com.github.libretube.Default}" drawable="libretube" />
+	<item component="ComponentInfo{com.mi.global.bbs/com.mi.global.bbs.ui.SplashActivity}" drawable="mi_community" />
+	<item component="ComponentInfo{com.mi.global.shop/com.mi.global.home.ui.LaunchActivity}" drawable="mi_store" />
+	<item component="ComponentInfo{com.miui.player/com.miui.player.ui.MusicBrowserActivity}" drawable="miui_music" />
+	<item component="ComponentInfo{com.redrazors.pathbuilder2e/com.redrazors.pathbuilder2e.MainActivity}" drawable="pathbuilder2e" />
+	<item component="ComponentInfo{org.plantnet/org.plantnet.MainActivity}" drawable="plantnet" />
+	<item component="ComponentInfo{com.pleco.chinesesystem/com.pleco.chinesesystem.PlecoDroidMainActivity}" drawable="pleco" />
+	<item component="ComponentInfo{com.neuralprisma/com.prisma.starter.StarterActivity}" drawable="prisma" />
+	<item component="ComponentInfo{com.apps.adrcotfas.goodtime/com.apps.adrcotfas.goodtime.main.TimerActivity}" drawable="productivity" />
+	<item component="ComponentInfo{com.example.barcodescanner/com.example.barcodescanner.feature.tabs.BottomTabsActivity}" drawable="qr_and_barcode_scanner" />
+	<item component="ComponentInfo{com.android.soundrecorder/com.android.soundrecorder.StartActivity}" drawable="soundrecorder2" />
+	<item component="ComponentInfo{es.gob.interior.maec/es.gob.interior.maec.ui.login.LoginActivity}" drawable="registro_de_viajeros" />
+	<item component="ComponentInfo{es.riojasalud.riojasalud2/es.riojasalud.riojasalud.InicioActivity}" drawable="riojasalud" />
+	<item component="ComponentInfo{com.carriez.flutter_hbb/com.carriez.flutter_hbb.MainActivity}" drawable="rustdesk" />
+	<item component="ComponentInfo{com.iesa.tuComunidadVecinos/com.iesa.tuComunidadVecinos.MainActivity}" drawable="tucomunidapp" />
+	<item component="ComponentInfo{com.keylesspalace.tusky/com.keylesspalace.tusky.SplashActivity}" drawable="tusky" />
+	<item component="ComponentInfo{com.upwork.android.apps.main/com.upwork.android.apps.main.activity.MainActivity}" drawable="upwork_talent" />
+	<item component="ComponentInfo{com.wanderlog.android/com.wanderlog.android.MainActivity}" drawable="wanderlog" />
+	<item component="ComponentInfo{santi.wodbuster/wodbuster.box.LauncherActivity}" drawable="wodbuster" />
 
 </resources>
