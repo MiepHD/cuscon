@@ -1,0 +1,141 @@
+<resources>
+
+	<!-- Airtel -->
+	<item component="ComponentInfo{com.myairtelapp/com.myairtelapp.home.views.activities.SplashScreenActivity}" drawable="airtel" />
+
+	<!-- AJIO -->
+	<item component="ComponentInfo{com.ril.ajio/com.ril.ajio.launch.activity.SplashScreenActivity}" drawable="ajio" />
+
+	<!-- Background Eraser -->
+	<item component="ComponentInfo{com.handycloset.android.eraser/com.handycloset.android.eraser.MainActivity}" drawable="background_eraser" />
+
+	<!-- BandLab -->
+	<item component="ComponentInfo{com.bandlab.bandlab/com.bandlab.navigation.entry.NavigationActivity}" drawable="bandlab" />
+
+	<!-- Cache Cleaner -->
+	<item component="ComponentInfo{com.github.bmx666.appcachecleaner/com.github.bmx666.appcachecleaner.ui.activity.LauncherActivity}" drawable="cache_cleaner" />
+
+	<!-- Calculator -->
+	<item component="ComponentInfo{com.coloros.calculator/com.android.calculator2.Calculator}" drawable="calculator" />
+
+	<!-- Camera -->
+	<item component="ComponentInfo{com.oplus.camera/com.oplus.camera.Camera}" drawable="camera" />
+
+	<!-- Chess -->
+	<item component="ComponentInfo{com.chess/com.chess.splash.SplashActivity}" drawable="chess" />
+
+	<!-- Clock -->
+	<item component="ComponentInfo{com.coloros.alarmclock/com.coloros.alarmclock.AlarmClock}" drawable="clock" />
+
+	<!-- Clubhouse -->
+	<item component="ComponentInfo{com.clubhouse.app/com.clubhouse.android.ui.ClubhouseActivity}" drawable="clubhouse" />
+
+	<!-- Compass -->
+	<item component="ComponentInfo{com.coloros.compass2/com.coloros.compass.flat.FlatCompass}" drawable="compass" />
+
+	<!-- Confirmtkt -->
+	<item component="ComponentInfo{com.confirmtkt.lite/com.confirmtkt.lite.LaunchActivity}" drawable="confirmtkt" />
+
+	<!-- Digital Marketing -->
+	<item component="ComponentInfo{digitalmarketing.digital.marketing.dm.ads.learn.socialmedia.onlinemarketing/com.freeit.java.modules.onboarding.SplashScreenActivity}" drawable="digital_marketing" />
+
+	<!-- Evernote -->
+	<item component="ComponentInfo{com.evernote/com.evernote.SplashActivity}" drawable="evernote" />
+
+	<!-- Flo -->
+	<item component="ComponentInfo{org.iggymedia.periodtracker/org.iggymedia.periodtracker.activities.InitialActivity}" drawable="flo" />
+
+	<!-- Games -->
+	<item component="ComponentInfo{com.oplus.games/com.oplus.games.ui.main.MainGameActivity}" drawable="games" />
+
+	<!-- HeyTap Cloud -->
+	<item component="ComponentInfo{com.heytap.cloud/com.heytap.cloud.home.ui.CloudLauncherActivity}" drawable="heytap_cloud" />
+
+	<!-- Internet -->
+	<item component="ComponentInfo{com.heytap.browser/com.android.browser.BrowserActivity}" drawable="internet" />
+
+	<!-- Invoices -->
+	<item component="ComponentInfo{com.aadhk.woinvoice/com.aadhk.woinvoice.MainActivity}" drawable="invoices" />
+
+	<!-- JioMart -->
+	<item component="ComponentInfo{com.jpl.jiomart/com.jpl.jiomartsdk.dashboard.activities.SplashActivityAlias1}" drawable="jiomart" />
+
+	<!-- Justdial -->
+	<item component="ComponentInfo{com.justdial.search/com.justdial.search.SplashScreenNewActivity}" drawable="justdial" />
+
+	<!-- Kegel -->
+	<item component="ComponentInfo{com.appercut.kegel/com.appercut.kegel.activities.SplashScreenActivity}" drawable="kegel" />
+
+	<!-- LibreTube -->
+	<item component="ComponentInfo{com.github.libretube/com.github.libretube.Default}" drawable="libretube" />
+
+	<!-- Music -->
+	<item component="ComponentInfo{com.heytap.music/com.allsaints.music.ui.splash.SplashActivity}" drawable="music" />
+
+	<!-- My Files -->
+	<item component="ComponentInfo{com.coloros.filemanager/com.oplus.filemanager.main.ui.MainActivity}" drawable="my_files" />
+
+	<!-- NoiseFit -->
+	<item component="ComponentInfo{com.noisefit/com.noisefit.ui.SplashActivity}" drawable="noisefit" />
+
+	<!-- OLX India -->
+	<item component="ComponentInfo{com.olx.southasia/com.olxgroup.panamera.app.users.onboarding.activities.SplashActivity}" drawable="olx_india" />
+
+	<!-- OnStream -->
+	<item component="ComponentInfo{com.maertsno.m/com.maertsno.m.ui.main.MainActivity}" drawable="onstream" />
+
+	<!-- Pagan Music Sequencer -->
+	<item component="ComponentInfo{com.qfs.pagan/com.qfs.pagan.MainActivity}" drawable="pagan_music_sequencer" />
+
+	<!-- Phone Manager -->
+	<item component="ComponentInfo{com.coloros.phonemanager/com.coloros.phonemanager.FakeActivity}" drawable="phone_manager" />
+
+	<!-- Photos -->
+	<item component="ComponentInfo{com.coloros.gallery3d/com.coloros.gallery3d.app.MainActivity}" drawable="photos" />
+
+	<!-- PicSay Pro -->
+	<item component="ComponentInfo{com.shinycore.picsaypro/com.shinycore.picsaypro.main}" drawable="picsay_pro" />
+
+	<!-- PrivadoVPN -->
+	<item component="ComponentInfo{io.privado.android/io.privado.android.ui.splash.SplashActivity}" drawable="privadovpn" />
+
+	<!-- QR/Barcode Scanner Pro -->
+	<item component="ComponentInfo{com.barcode.qrcode.scanner.reader.pro/com.barcode.qrcode.scanner.reader.pro.activity.MainActivity}" drawable="qr_barcode_scanner_pro" />
+
+	<!-- Recorder -->
+	<item component="ComponentInfo{com.coloros.soundrecorder/oplus.multimedia.soundrecorder.filebrowser.BrowseFile}" drawable="recorder" />
+
+	<!-- Rewards -->
+	<item component="ComponentInfo{com.google.android.apps.paidtasks/com.google.android.apps.paidtasks.activity.LaunchActivity}" drawable="rewards" />
+
+	<!-- Shazam Lite -->
+	<item component="ComponentInfo{com.shazam.android.lite/com.shazam.android.lite.ui.SplashActivity}" drawable="shazam_lite" />
+
+	<!-- SIM 2 Toolkit -->
+	<item component="ComponentInfo{com.android.stk/com.android.stk.OplusStkLauncherActivity2}" drawable="sim_2_toolkit" />
+
+	<!-- Solitaire -->
+	<item component="ComponentInfo{com.microsoft.microsoftsolitairecollection/com.smokingguninc.engine.framework.SgiLauncherActivity}" drawable="solitaire" />
+
+	<!-- Theme Store -->
+	<item component="ComponentInfo{com.heytap.themestore/com.nearme.themespace.activities.ThemeActivity}" drawable="theme_store" />
+
+	<!-- Up Tempo -->
+	<item component="ComponentInfo{com.stonekick.tempo/com.stonekick.speedadjuster.MainActivity}" drawable="up_tempo" />
+
+	<!-- Videos -->
+	<item component="ComponentInfo{com.coloros.video/com.oplus.video.SplashActivity}" drawable="videos" />
+
+	<!-- Vocabulary Builder -->
+	<item component="ComponentInfo{com.magoosh.gre.quiz.vocabulary/com.magoosh.gre.quiz.vocabulary.MainActivity}" drawable="vocabulary_builder" />
+
+	<!-- Weather -->
+	<item component="ComponentInfo{com.coloros.weather2/com.oplus.weather.main.view.WeatherMainActivity}" drawable="weather" />
+
+	<!-- YONO SBI -->
+	<item component="ComponentInfo{com.sbi.lotusintouch/com.sbi.lotusintouch.MainActivity}" drawable="yono_sbi" />
+
+	<!-- µTorrent Pro -->
+	<item component="ComponentInfo{com.utorrent.client.pro/com.bittorrent.app.Main}" drawable="µtorrent_pro" />
+
+</resources>

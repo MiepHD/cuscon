@@ -1,0 +1,12 @@
+<appmap>
+
+	<!-- TachiyomiSY -->
+	<item class="eu.kanade.tachiyomi.ui.main.MainActivity" name="tachiyomisy"/>
+
+	<!-- Waze -->
+	<item class="com.waze.FreeMapAppActivity" name="waze"/>
+
+	<!-- WeChat -->
+	<item class="com.tencent.mm.ui.LauncherUI" name="wechat"/>
+
+</appmap>

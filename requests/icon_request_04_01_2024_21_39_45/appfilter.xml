@@ -1,0 +1,9 @@
+<resources>
+
+	<!-- MoinMoin -->
+	<item component="ComponentInfo{io.moinmoin/com.megalol.app.Launcher}" drawable="moinmoin" />
+
+	<!-- Play Console -->
+	<item component="ComponentInfo{com.google.android.apps.playconsole/com.google.android.apps.play.console.mobile.MainActivity}" drawable="play_console" />
+
+</resources>

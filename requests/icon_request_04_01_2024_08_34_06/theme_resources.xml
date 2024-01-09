@@ -1,0 +1,60 @@
+<Theme version="1">
+
+	<!-- aCalendar -->
+	<AppIcon name="org.withouthat.acalendar/org.withouthat.acalendar.ACalendar" image="acalendar"/>
+
+	<!-- aCalTasks -->
+	<AppIcon name="org.withouthat.acalendar/org.withouthat.acalendar.tasks.TasksActivity" image="acaltasks"/>
+
+	<!-- Catima -->
+	<AppIcon name="me.hackerchick.catima/protect.card_locker.MainActivity" image="catima"/>
+
+	<!-- DAVx⁵ -->
+	<AppIcon name="at.bitfire.davdroid/at.bitfire.davdroid.ui.AccountsActivity" image="davx⁵"/>
+
+	<!-- DKB -->
+	<AppIcon name="com.dkbcodefactory.banking/com.dkbcodefactory.banking.splash.SplashActivity" image="dkb"/>
+
+	<!-- Drinkable -->
+	<AppIcon name="com.moimob.drinkable/com.moimob.drinkable.MainActivity" image="drinkable"/>
+
+	<!-- Droid-ify -->
+	<AppIcon name="com.looker.droidify/com.looker.droidify.MainActivity" image="droid_ify"/>
+
+	<!-- FairEmail -->
+	<AppIcon name="eu.faircode.email/eu.faircode.email.ActivityMain" image="fairemail"/>
+
+	<!-- Gallery -->
+	<AppIcon name="org.fossify.gallery/org.fossify.gallery.activities.SplashActivity.Red" image="gallery"/>
+
+	<!-- Home Assistant -->
+	<AppIcon name="io.homeassistant.companion.android/io.homeassistant.companion.android.launch.LaunchActivity" image="home_assistant"/>
+
+	<!-- Immich -->
+	<AppIcon name="app.alextran.immich/app.alextran.immich.MainActivity" image="immich"/>
+
+	<!-- KeePassDX -->
+	<AppIcon name="com.kunzisoft.keepass.libre/com.kunzisoft.keepass.activities.FileDatabaseSelectActivity" image="keepassdx"/>
+
+	<!-- NetGuard -->
+	<AppIcon name="eu.faircode.netguard/eu.faircode.netguard.ActivityMain" image="netguard"/>
+
+	<!-- Nextcloud -->
+	<AppIcon name="com.nextcloud.client/com.nmc.android.ui.LauncherActivity" image="nextcloud"/>
+
+	<!-- Obsidian -->
+	<AppIcon name="md.obsidian/md.obsidian.MainActivity" image="obsidian"/>
+
+	<!-- Paperless Mobile -->
+	<AppIcon name="de.astubenbord.paperless_mobile/de.astubenbord.paperless_mobile.MainActivity" image="paperless_mobile"/>
+
+	<!-- Plex -->
+	<AppIcon name="com.plexapp.android/com.plexapp.plex.activities.SplashActivity" image="plex"/>
+
+	<!-- Readrops -->
+	<AppIcon name="com.readrops.app/com.readrops.app.SplashActivity" image="readrops"/>
+
+	<!-- URL Radio -->
+	<AppIcon name="com.jamal2367.urlradio/com.jamal2367.urlradio.MainActivity" image="url_radio"/>
+
+</Theme>

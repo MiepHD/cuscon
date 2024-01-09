@@ -1,0 +1,9 @@
+<appmap>
+
+	<!-- MoinMoin -->
+	<item class="com.megalol.app.Launcher" name="moinmoin"/>
+
+	<!-- Play Console -->
+	<item class="com.google.android.apps.play.console.mobile.MainActivity" name="play_console"/>
+
+</appmap>

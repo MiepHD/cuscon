@@ -1,0 +1,42 @@
+<resources>
+
+	<!-- 1942 -->
+	<item component="ComponentInfo{com.os.wars.squadron/com.google.firebase.MessagingUnityPlayerActivity}" drawable="_1942" />
+
+	<!-- AirAttack 2 -->
+	<item component="ComponentInfo{com.ArtInGames.AirAttack2f/com.unity3d.player.UnityPlayerActivity}" drawable="airattack_2" />
+
+	<!-- Apk Extractor -->
+	<item component="ComponentInfo{braveheart.apps.apkextract/braveheart.apps.apkextract.MainActivity}" drawable="apk_extractor" />
+
+	<!-- App2SD -->
+	<item component="ComponentInfo{braveheart.apps.app2sd/braveheart.apps.app2sd.MainActivity}" drawable="app2sd" />
+
+	<!-- DuckDuckGo -->
+	<item component="ComponentInfo{com.duckduckgo.mobile.android/com.duckduckgo.app.launch.LauncherBlue}" drawable="duckduckgo" />
+
+	<!-- eBay -->
+	<item component="ComponentInfo{com.ebay.mobile/com.ebay.mobile.home.impl.main.MainActivity}" drawable="ebay" />
+
+	<!-- Evil Insult Generator -->
+	<item component="ComponentInfo{com.evilinsult/com.evilinsult.activities.MainActivity}" drawable="evil_insult_generator" />
+
+	<!-- Floor Plan Creator -->
+	<item component="ComponentInfo{pl.planmieszkania.android/com.ml.planik.android.StartActivity}" drawable="floor_plan_creator" />
+
+	<!-- Galleryit -->
+	<item component="ComponentInfo{gallery.photogallery.pictures.vault.album/gallery.photogallery.pictures.vault.album.activity.splash.SplashActivity}" drawable="galleryit" />
+
+	<!-- Home Depot -->
+	<item component="ComponentInfo{com.thehomedepot/com.thehomedepot.startup.activities.StartupActivity}" drawable="home_depot" />
+
+	<!-- Inventory -->
+	<item component="ComponentInfo{net.twisterrob.inventory/net.twisterrob.inventory.android.activity.MainActivity}" drawable="inventory" />
+
+	<!-- Lock Box -->
+	<item component="ComponentInfo{com.photobox.nbexppll/com.iotool.cutehider.aliasMain}" drawable="lock_box" />
+
+	<!-- My Home Inventory -->
+	<item component="ComponentInfo{com.tomkos.myinventory/com.tomkos.myinventory.Activity_Main}" drawable="my_home_inventory" />
+
+</resources>

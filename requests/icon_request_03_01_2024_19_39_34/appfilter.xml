@@ -1,0 +1,12 @@
+<resources>
+
+	<!-- TachiyomiSY -->
+	<item component="ComponentInfo{eu.kanade.tachiyomi.sy/eu.kanade.tachiyomi.ui.main.MainActivity}" drawable="tachiyomisy" />
+
+	<!-- Waze -->
+	<item component="ComponentInfo{com.waze/com.waze.FreeMapAppActivity}" drawable="waze" />
+
+	<!-- WeChat -->
+	<item component="ComponentInfo{com.tencent.mm/com.tencent.mm.ui.LauncherUI}" drawable="wechat" />
+
+</resources>

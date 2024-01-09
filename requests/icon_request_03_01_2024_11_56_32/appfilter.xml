@@ -1,0 +1,255 @@
+<resources>
+
+	<!-- Диктофон -->
+	<item component="ComponentInfo{com.github.axet.audiorecorder/com.github.axet.audiorecorder.activities.MainActivity}" drawable="диктофон" />
+
+	<!-- Карта SD -->
+	<item component="ComponentInfo{com.google.android.diskusage/com.google.android.diskusage.ui.SelectActivity}" drawable="карта_sd" />
+
+	<!-- Привычки -->
+	<item component="ComponentInfo{org.isoron.uhabits/org.isoron.uhabits.MainActivity}" drawable="привычки" />
+
+	<!-- Сканер штрих-кодов -->
+	<item component="ComponentInfo{com.google.zxing.client.android/com.google.zxing.client.android.CaptureActivity}" drawable="сканер_штрих_кодов" />
+
+	<!-- Суперпользователь -->
+	<item component="ComponentInfo{me.phh.superuser/com.koushikdutta.superuser.MainActivity}" drawable="суперпользователь" />
+
+	<!-- Уведомления голосом -->
+	<item component="ComponentInfo{com.pilot51.voicenotify/com.pilot51.voicenotify.MainActivity}" drawable="уведомления_голосом" />
+
+	<!-- Удобное Чтение -->
+	<item component="ComponentInfo{ru.yanus171.feedexfork/ru.yanus171.feedexfork.activity.HomeActivity}" drawable="удобное_чтение" />
+
+	<!-- Шахматы -->
+	<item component="ComponentInfo{jwtc.android.chess/jwtc.android.chess.start}" drawable="шахматы" />
+
+	<!-- Aard 2 -->
+	<item component="ComponentInfo{itkach.aard2/itkach.aard2.MainActivity}" drawable="aard_2" />
+
+	<!-- Activity Manager -->
+	<item component="ComponentInfo{com.activitymanager/com.sdex.activityrunner.MainActivity}" drawable="activity_manager" />
+
+	<!-- AdAway -->
+	<item component="ComponentInfo{org.adaway/org.adaway.ui.home.HomeActivity}" drawable="adaway" />
+
+	<!-- AirGuard -->
+	<item component="ComponentInfo{de.seemoo.at_tracking_detection/de.seemoo.at_tracking_detection.ui.MainActivity}" drawable="airguard" />
+
+	<!-- Amaze -->
+	<item component="ComponentInfo{com.amaze.filemanager/com.amaze.filemanager.ui.activities.MainActivity}" drawable="amaze" />
+
+	<!-- AnkiDroid -->
+	<item component="ComponentInfo{com.ichi2.anki/com.ichi2.anki.IntentHandler}" drawable="ankidroid" />
+
+	<!-- Audile -->
+	<item component="ComponentInfo{com.mrsep.musicrecognizer/com.mrsep.musicrecognizer.presentation.MainActivity}" drawable="audile" />
+
+	<!-- Aurora Droid -->
+	<item component="ComponentInfo{com.aurora.adroid/com.aurora.adroid.ui.generic.activity.SplashActivity}" drawable="aurora_droid" />
+
+	<!-- Auxio -->
+	<item component="ComponentInfo{org.oxycblt.auxio/org.oxycblt.auxio.MainActivity}" drawable="auxio" />
+
+	<!-- BatteryBot Pro -->
+	<item component="ComponentInfo{com.darshancomputing.BatteryIndicatorPro/com.darshancomputing.BatteryIndicatorPro.BatteryInfoActivity}" drawable="batterybot_pro" />
+
+	<!-- Bible Notify -->
+	<item component="ComponentInfo{com.correctsyntax.biblenotify/com.correctsyntax.biblenotify.MainActivity}" drawable="bible_notify" />
+
+	<!-- blabber.im -->
+	<item component="ComponentInfo{de.pixart.messenger/de.pixart.messenger.ui.StartUI}" drawable="blabberim" />
+
+	<!-- BLE-Monitor -->
+	<item component="ComponentInfo{com.huc.android_ble_monitor/com.huc.android_ble_monitor.activities.MainActivity}" drawable="ble_monitor" />
+
+	<!-- BLExplorer -->
+	<item component="ComponentInfo{org.ligi.blexplorer/org.ligi.blexplorer.ui.DeviceListActivity}" drawable="blexplorer" />
+
+	<!-- Bluetooth terminal -->
+	<item component="ComponentInfo{ru.sash0k.bluetooth_terminal/ru.sash0k.bluetooth_terminal.activity.DeviceControlActivity}" drawable="bluetooth_terminal" />
+
+	<!-- Box Stacker -->
+	<item component="ComponentInfo{net.artificialworlds.boxstacker/net.artificialworlds.boxstacker.MainActivity}" drawable="box_stacker" />
+
+	<!-- Cards With Cats -->
+	<item component="ComponentInfo{com.dozingcatsoftware.cardswithcats/com.dozingcatsoftware.cardswithcats.MainActivity}" drawable="cards_with_cats" />
+
+	<!-- Catima -->
+	<item component="ComponentInfo{me.hackerchick.catima/protect.card_locker.MainActivity}" drawable="catima" />
+
+	<!-- Circles -->
+	<item component="ComponentInfo{org.futo.circles/org.futo.circles.MainActivity}" drawable="circles" />
+
+	<!-- ControlDLNA -->
+	<item component="ComponentInfo{com.github.nutomic.controldlna/com.github.nutomic.controldlna.gui.MainActivity}" drawable="controldlna" />
+
+	<!-- Cool Reader -->
+	<item component="ComponentInfo{org.coolreader/org.coolreader.CoolReader}" drawable="cool_reader" />
+
+	<!-- Dicio -->
+	<item component="ComponentInfo{org.stypox.dicio/org.stypox.dicio.MainActivity}" drawable="dicio" />
+
+	<!-- DroidFish -->
+	<item component="ComponentInfo{org.petero.droidfish/org.petero.droidfish.DroidFish}" drawable="droidfish" />
+
+	<!-- Easer (beta) -->
+	<item component="ComponentInfo{ryey.easer.beta/ryey.easer.core.ui.MainActivity}" drawable="easer_beta_" />
+
+	<!-- Element X -->
+	<item component="ComponentInfo{io.element.android.x/io.element.android.x.MainActivity}" drawable="element_x" />
+
+	<!-- Equate -->
+	<item component="ComponentInfo{com.llamacorp.equate/com.llamacorp.equate.view.CalcActivity}" drawable="equate" />
+
+	<!-- Every Door -->
+	<item component="ComponentInfo{info.zverev.ilya.every_door/info.zverev.ilya.every_door.MainActivity}" drawable="every_door" />
+
+	<!-- FairEmail -->
+	<item component="ComponentInfo{eu.faircode.email/eu.faircode.email.ActivityMain}" drawable="fairemail" />
+
+	<!-- FastLyrics -->
+	<item component="ComponentInfo{io.github.teccheck.fastlyrics/io.github.teccheck.fastlyrics.MainActivity}" drawable="fastlyrics" />
+
+	<!-- FBReader -->
+	<item component="ComponentInfo{org.geometerplus.zlibrary.ui.android/org.geometerplus.android.fbreader.FBReader}" drawable="fbreader" />
+
+	<!-- Fedilab -->
+	<item component="ComponentInfo{fr.gouv.etalab.mastodon/app.fedilab.android.activities.MainActivity.Bubbles}" drawable="fedilab" />
+
+	<!-- Flowit! -->
+	<item component="ComponentInfo{com.bytehamster.flowitgame/com.bytehamster.flowitgame.Main}" drawable="flowit_" />
+
+	<!-- FluffyChat -->
+	<item component="ComponentInfo{chat.fluffy.fluffychat/chat.fluffy.fluffychat.MainActivity}" drawable="fluffychat" />
+
+	<!-- Flym -->
+	<item component="ComponentInfo{net.frju.flym/net.frju.flym.ui.main.MainActivity}" drawable="flym" />
+
+	<!-- ForkHub -->
+	<item component="ComponentInfo{jp.forkhub/com.github.mobile.ui.user.HomeActivity}" drawable="forkhub" />
+
+	<!-- ForPDA -->
+	<item component="ComponentInfo{org.softeg.slartus.forpdaplus/org.softeg.slartus.forpdaplus.MainActivity}" drawable="forpda" />
+
+	<!-- Freebloks -->
+	<item component="ComponentInfo{de.saschahlusiak.freebloks/de.saschahlusiak.freebloks.game.FreebloksActivity}" drawable="freebloks" />
+
+	<!-- Funkwhale -->
+	<item component="ComponentInfo{audio.funkwhale.ffa/audio.funkwhale.ffa.activities.SplashActivity}" drawable="funkwhale" />
+
+	<!-- Gobandroid -->
+	<item component="ComponentInfo{org.ligi.gobandroid_hd/org.ligi.gobandroid_hd.ui.game_setup.GoSetupActivity}" drawable="gobandroid" />
+
+	<!-- gptAssist -->
+	<item component="ComponentInfo{org.woheller69.gptassist/org.woheller69.gptassist.MainActivity}" drawable="gptassist" />
+
+	<!-- ImgurViewer -->
+	<item component="ComponentInfo{com.ensoft.imgurviewer/com.ensoft.imgurviewer.view.activity.ImageViewer}" drawable="imgurviewer" />
+
+	<!-- IPFS Lite -->
+	<item component="ComponentInfo{threads.server/threads.server.MainActivity}" drawable="ipfs_lite" />
+
+	<!-- Key Mapper -->
+	<item component="ComponentInfo{io.github.sds100.keymapper/io.github.sds100.keymapper.SplashActivity}" drawable="key_mapper" />
+
+	<!-- KOReader -->
+	<item component="ComponentInfo{org.koreader.launcher.fdroid/org.koreader.launcher.MainActivity}" drawable="koreader" />
+
+	<!-- LabCoat -->
+	<item component="ComponentInfo{com.commit451.gitlab/com.commit451.gitlab.activity.LaunchActivity}" drawable="labcoat" />
+
+	<!-- Lexica -->
+	<item component="ComponentInfo{com.serwylo.lexica/com.serwylo.lexica.MainMenuActivity}" drawable="lexica" />
+
+	<!-- LibreOffice Viewer -->
+	<item component="ComponentInfo{org.documentfoundation.libreoffice/org.libreoffice.ui.LibreOfficeUIActivity}" drawable="libreoffice_viewer" />
+
+	<!-- LibreTube -->
+	<item component="ComponentInfo{com.github.libretube/com.github.libretube.Default}" drawable="libretube" />
+
+	<!-- Markor -->
+	<item component="ComponentInfo{net.gsantner.markor/net.gsantner.markor.activity.MainActivity}" drawable="markor" />
+
+	<!-- Mines3D -->
+	<item component="ComponentInfo{cos.premy.mines/cos.premy.mines.MainActivity}" drawable="mines3d" />
+
+	<!-- Missed Notifications Reminder -->
+	<item component="ComponentInfo{com.app.missednotificationsreminder/com.app.missednotificationsreminder.settings.MainActivity}" drawable="missed_notifications_reminder" />
+
+	<!-- mucke -->
+	<item component="ComponentInfo{rocks.mucke/com.ryanheise.audioservice.AudioServiceActivity}" drawable="mucke" />
+
+	<!-- MuPDF -->
+	<item component="ComponentInfo{com.artifex.mupdfdemo/com.artifex.mupdfdemo.ChoosePDFActivity}" drawable="mupdf" />
+
+	<!-- My App List -->
+	<item component="ComponentInfo{com.projectsexception.myapplist.open/com.projectsexception.myapplist.MainActivity}" drawable="my_app_list" />
+
+	<!-- Neo Backup -->
+	<item component="ComponentInfo{com.machiav3lli.backup/com.machiav3lli.backup.activities.SplashActivity}" drawable="neo_backup" />
+
+	<!-- Nextcloud -->
+	<item component="ComponentInfo{com.nextcloud.android.beta/com.owncloud.android.ui.activity.FileDisplayActivity}" drawable="nextcloud" />
+
+	<!-- OctoDroid -->
+	<item component="ComponentInfo{com.gh4a/com.gh4a.activities.Github4AndroidActivity}" drawable="octodroid" />
+
+	<!-- Odyssey -->
+	<item component="ComponentInfo{org.gateshipone.odyssey/org.gateshipone.odyssey.activities.OdysseyMainActivity}" drawable="odyssey" />
+
+	<!-- OpenBoard -->
+	<item component="ComponentInfo{org.dslul.openboard.inputmethod.latin/org.dslul.openboard.inputmethod.latin.setup.SetupActivity}" drawable="openboard" />
+
+	<!-- Phonograph Plus -->
+	<item component="ComponentInfo{player.phonograph.plus/player.phonograph.ui.activities.LauncherActivity}" drawable="phonograph_plus" />
+
+	<!-- PlainUPnP -->
+	<item component="ComponentInfo{com.m3sv.plainupnp/com.m3sv.plainupnp.presentation.splash.SplashActivity}" drawable="plainupnp" />
+
+	<!-- Puzzles -->
+	<item component="ComponentInfo{name.boyle.chris.sgtpuzzles/name.boyle.chris.sgtpuzzles.SGTPuzzles}" drawable="puzzles" />
+
+	<!-- Quillpad -->
+	<item component="ComponentInfo{io.github.quillpad/org.qosp.notes.ui.MainActivity}" drawable="quillpad" />
+
+	<!-- RHVoice -->
+	<item component="ComponentInfo{com.github.olga_yakovleva.rhvoice.android/com.github.olga_yakovleva.rhvoice.android.MainActivity}" drawable="rhvoice" />
+
+	<!-- SCEE -->
+	<item component="ComponentInfo{de.westnordost.streetcomplete.expert/de.westnordost.streetcomplete.screens.MainActivity}" drawable="scee" />
+
+	<!-- SkyTube -->
+	<item component="ComponentInfo{free.rm.skytube.oss/free.rm.skytube.gui.activities.MainActivity}" drawable="skytube" />
+
+	<!-- SMS Backup+ -->
+	<item component="ComponentInfo{com.zegoggles.smssync/com.zegoggles.smssync.activity.MainActivity}" drawable="sms_backup_" />
+
+	<!-- Spotube -->
+	<item component="ComponentInfo{oss.krtirtho.spotube/com.ryanheise.audioservice.AudioServiceActivity}" drawable="spotube" />
+
+	<!-- Symphony -->
+	<item component="ComponentInfo{io.github.zyrouge.symphony/io.github.zyrouge.symphony.MainActivity}" drawable="symphony" />
+
+	<!-- TIC-80 -->
+	<item component="ComponentInfo{com.nesbox.tic/com.nesbox.tic.TIC}" drawable="tic_80" />
+
+	<!-- Todo Agenda -->
+	<item component="ComponentInfo{org.andstatus.todoagenda/org.andstatus.todoagenda.MainActivity}" drawable="todo_agenda" />
+
+	<!-- Ultrasonic -->
+	<item component="ComponentInfo{org.moire.ultrasonic/org.moire.ultrasonic.activity.NavigationActivity}" drawable="ultrasonic" />
+
+	<!-- Vanilla Music -->
+	<item component="ComponentInfo{ch.blinkenlights.android.vanilla/ch.blinkenlights.android.vanilla.LibraryActivity}" drawable="vanilla_music" />
+
+	<!-- Vinyl -->
+	<item component="ComponentInfo{com.poupa.vinylmusicplayer/com.poupa.vinylmusicplayer.ui.activities.MainActivity}" drawable="vinyl" />
+
+	<!-- Wi-Fi напоминания -->
+	<item component="ComponentInfo{ru.glesik.wifireminders/ru.glesik.wifireminders.RemindersListActivity}" drawable="wi_fi_напоминания" />
+
+	<!-- YAACC -->
+	<item component="ComponentInfo{de.yaacc/de.yaacc.browser.TabBrowserActivity}" drawable="yaacc" />
+
+</resources>

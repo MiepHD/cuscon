@@ -1,0 +1,6 @@
+<appmap>
+
+	<!-- Hidden Folks -->
+	<item class="com.unity3d.player.UnityPlayerActivity" name="hidden_folks"/>
+
+</appmap>

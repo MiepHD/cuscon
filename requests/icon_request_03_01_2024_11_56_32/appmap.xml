@@ -1,0 +1,255 @@
+<appmap>
+
+	<!-- Диктофон -->
+	<item class="com.github.axet.audiorecorder.activities.MainActivity" name="диктофон"/>
+
+	<!-- Карта SD -->
+	<item class="com.google.android.diskusage.ui.SelectActivity" name="карта_sd"/>
+
+	<!-- Привычки -->
+	<item class="org.isoron.uhabits.MainActivity" name="привычки"/>
+
+	<!-- Сканер штрих-кодов -->
+	<item class="com.google.zxing.client.android.CaptureActivity" name="сканер_штрих_кодов"/>
+
+	<!-- Суперпользователь -->
+	<item class="com.koushikdutta.superuser.MainActivity" name="суперпользователь"/>
+
+	<!-- Уведомления голосом -->
+	<item class="com.pilot51.voicenotify.MainActivity" name="уведомления_голосом"/>
+
+	<!-- Удобное Чтение -->
+	<item class="ru.yanus171.feedexfork.activity.HomeActivity" name="удобное_чтение"/>
+
+	<!-- Шахматы -->
+	<item class="jwtc.android.chess.start" name="шахматы"/>
+
+	<!-- Aard 2 -->
+	<item class="itkach.aard2.MainActivity" name="aard_2"/>
+
+	<!-- Activity Manager -->
+	<item class="com.sdex.activityrunner.MainActivity" name="activity_manager"/>
+
+	<!-- AdAway -->
+	<item class="org.adaway.ui.home.HomeActivity" name="adaway"/>
+
+	<!-- AirGuard -->
+	<item class="de.seemoo.at_tracking_detection.ui.MainActivity" name="airguard"/>
+
+	<!-- Amaze -->
+	<item class="com.amaze.filemanager.ui.activities.MainActivity" name="amaze"/>
+
+	<!-- AnkiDroid -->
+	<item class="com.ichi2.anki.IntentHandler" name="ankidroid"/>
+
+	<!-- Audile -->
+	<item class="com.mrsep.musicrecognizer.presentation.MainActivity" name="audile"/>
+
+	<!-- Aurora Droid -->
+	<item class="com.aurora.adroid.ui.generic.activity.SplashActivity" name="aurora_droid"/>
+
+	<!-- Auxio -->
+	<item class="org.oxycblt.auxio.MainActivity" name="auxio"/>
+
+	<!-- BatteryBot Pro -->
+	<item class="com.darshancomputing.BatteryIndicatorPro.BatteryInfoActivity" name="batterybot_pro"/>
+
+	<!-- Bible Notify -->
+	<item class="com.correctsyntax.biblenotify.MainActivity" name="bible_notify"/>
+
+	<!-- blabber.im -->
+	<item class="de.pixart.messenger.ui.StartUI" name="blabberim"/>
+
+	<!-- BLE-Monitor -->
+	<item class="com.huc.android_ble_monitor.activities.MainActivity" name="ble_monitor"/>
+
+	<!-- BLExplorer -->
+	<item class="org.ligi.blexplorer.ui.DeviceListActivity" name="blexplorer"/>
+
+	<!-- Bluetooth terminal -->
+	<item class="ru.sash0k.bluetooth_terminal.activity.DeviceControlActivity" name="bluetooth_terminal"/>
+
+	<!-- Box Stacker -->
+	<item class="net.artificialworlds.boxstacker.MainActivity" name="box_stacker"/>
+
+	<!-- Cards With Cats -->
+	<item class="com.dozingcatsoftware.cardswithcats.MainActivity" name="cards_with_cats"/>
+
+	<!-- Catima -->
+	<item class="protect.card_locker.MainActivity" name="catima"/>
+
+	<!-- Circles -->
+	<item class="org.futo.circles.MainActivity" name="circles"/>
+
+	<!-- ControlDLNA -->
+	<item class="com.github.nutomic.controldlna.gui.MainActivity" name="controldlna"/>
+
+	<!-- Cool Reader -->
+	<item class="org.coolreader.CoolReader" name="cool_reader"/>
+
+	<!-- Dicio -->
+	<item class="org.stypox.dicio.MainActivity" name="dicio"/>
+
+	<!-- DroidFish -->
+	<item class="org.petero.droidfish.DroidFish" name="droidfish"/>
+
+	<!-- Easer (beta) -->
+	<item class="ryey.easer.core.ui.MainActivity" name="easer_beta_"/>
+
+	<!-- Element X -->
+	<item class="io.element.android.x.MainActivity" name="element_x"/>
+
+	<!-- Equate -->
+	<item class="com.llamacorp.equate.view.CalcActivity" name="equate"/>
+
+	<!-- Every Door -->
+	<item class="info.zverev.ilya.every_door.MainActivity" name="every_door"/>
+
+	<!-- FairEmail -->
+	<item class="eu.faircode.email.ActivityMain" name="fairemail"/>
+
+	<!-- FastLyrics -->
+	<item class="io.github.teccheck.fastlyrics.MainActivity" name="fastlyrics"/>
+
+	<!-- FBReader -->
+	<item class="org.geometerplus.android.fbreader.FBReader" name="fbreader"/>
+
+	<!-- Fedilab -->
+	<item class="app.fedilab.android.activities.MainActivity.Bubbles" name="fedilab"/>
+
+	<!-- Flowit! -->
+	<item class="com.bytehamster.flowitgame.Main" name="flowit_"/>
+
+	<!-- FluffyChat -->
+	<item class="chat.fluffy.fluffychat.MainActivity" name="fluffychat"/>
+
+	<!-- Flym -->
+	<item class="net.frju.flym.ui.main.MainActivity" name="flym"/>
+
+	<!-- ForkHub -->
+	<item class="com.github.mobile.ui.user.HomeActivity" name="forkhub"/>
+
+	<!-- ForPDA -->
+	<item class="org.softeg.slartus.forpdaplus.MainActivity" name="forpda"/>
+
+	<!-- Freebloks -->
+	<item class="de.saschahlusiak.freebloks.game.FreebloksActivity" name="freebloks"/>
+
+	<!-- Funkwhale -->
+	<item class="audio.funkwhale.ffa.activities.SplashActivity" name="funkwhale"/>
+
+	<!-- Gobandroid -->
+	<item class="org.ligi.gobandroid_hd.ui.game_setup.GoSetupActivity" name="gobandroid"/>
+
+	<!-- gptAssist -->
+	<item class="org.woheller69.gptassist.MainActivity" name="gptassist"/>
+
+	<!-- ImgurViewer -->
+	<item class="com.ensoft.imgurviewer.view.activity.ImageViewer" name="imgurviewer"/>
+
+	<!-- IPFS Lite -->
+	<item class="threads.server.MainActivity" name="ipfs_lite"/>
+
+	<!-- Key Mapper -->
+	<item class="io.github.sds100.keymapper.SplashActivity" name="key_mapper"/>
+
+	<!-- KOReader -->
+	<item class="org.koreader.launcher.MainActivity" name="koreader"/>
+
+	<!-- LabCoat -->
+	<item class="com.commit451.gitlab.activity.LaunchActivity" name="labcoat"/>
+
+	<!-- Lexica -->
+	<item class="com.serwylo.lexica.MainMenuActivity" name="lexica"/>
+
+	<!-- LibreOffice Viewer -->
+	<item class="org.libreoffice.ui.LibreOfficeUIActivity" name="libreoffice_viewer"/>
+
+	<!-- LibreTube -->
+	<item class="com.github.libretube.Default" name="libretube"/>
+
+	<!-- Markor -->
+	<item class="net.gsantner.markor.activity.MainActivity" name="markor"/>
+
+	<!-- Mines3D -->
+	<item class="cos.premy.mines.MainActivity" name="mines3d"/>
+
+	<!-- Missed Notifications Reminder -->
+	<item class="com.app.missednotificationsreminder.settings.MainActivity" name="missed_notifications_reminder"/>
+
+	<!-- mucke -->
+	<item class="com.ryanheise.audioservice.AudioServiceActivity" name="mucke"/>
+
+	<!-- MuPDF -->
+	<item class="com.artifex.mupdfdemo.ChoosePDFActivity" name="mupdf"/>
+
+	<!-- My App List -->
+	<item class="com.projectsexception.myapplist.MainActivity" name="my_app_list"/>
+
+	<!-- Neo Backup -->
+	<item class="com.machiav3lli.backup.activities.SplashActivity" name="neo_backup"/>
+
+	<!-- Nextcloud -->
+	<item class="com.owncloud.android.ui.activity.FileDisplayActivity" name="nextcloud"/>
+
+	<!-- OctoDroid -->
+	<item class="com.gh4a.activities.Github4AndroidActivity" name="octodroid"/>
+
+	<!-- Odyssey -->
+	<item class="org.gateshipone.odyssey.activities.OdysseyMainActivity" name="odyssey"/>
+
+	<!-- OpenBoard -->
+	<item class="org.dslul.openboard.inputmethod.latin.setup.SetupActivity" name="openboard"/>
+
+	<!-- Phonograph Plus -->
+	<item class="player.phonograph.ui.activities.LauncherActivity" name="phonograph_plus"/>
+
+	<!-- PlainUPnP -->
+	<item class="com.m3sv.plainupnp.presentation.splash.SplashActivity" name="plainupnp"/>
+
+	<!-- Puzzles -->
+	<item class="name.boyle.chris.sgtpuzzles.SGTPuzzles" name="puzzles"/>
+
+	<!-- Quillpad -->
+	<item class="org.qosp.notes.ui.MainActivity" name="quillpad"/>
+
+	<!-- RHVoice -->
+	<item class="com.github.olga_yakovleva.rhvoice.android.MainActivity" name="rhvoice"/>
+
+	<!-- SCEE -->
+	<item class="de.westnordost.streetcomplete.screens.MainActivity" name="scee"/>
+
+	<!-- SkyTube -->
+	<item class="free.rm.skytube.gui.activities.MainActivity" name="skytube"/>
+
+	<!-- SMS Backup+ -->
+	<item class="com.zegoggles.smssync.activity.MainActivity" name="sms_backup_"/>
+
+	<!-- Spotube -->
+	<item class="com.ryanheise.audioservice.AudioServiceActivity" name="spotube"/>
+
+	<!-- Symphony -->
+	<item class="io.github.zyrouge.symphony.MainActivity" name="symphony"/>
+
+	<!-- TIC-80 -->
+	<item class="com.nesbox.tic.TIC" name="tic_80"/>
+
+	<!-- Todo Agenda -->
+	<item class="org.andstatus.todoagenda.MainActivity" name="todo_agenda"/>
+
+	<!-- Ultrasonic -->
+	<item class="org.moire.ultrasonic.activity.NavigationActivity" name="ultrasonic"/>
+
+	<!-- Vanilla Music -->
+	<item class="ch.blinkenlights.android.vanilla.LibraryActivity" name="vanilla_music"/>
+
+	<!-- Vinyl -->
+	<item class="com.poupa.vinylmusicplayer.ui.activities.MainActivity" name="vinyl"/>
+
+	<!-- Wi-Fi напоминания -->
+	<item class="ru.glesik.wifireminders.RemindersListActivity" name="wi_fi_напоминания"/>
+
+	<!-- YAACC -->
+	<item class="de.yaacc.browser.TabBrowserActivity" name="yaacc"/>
+
+</appmap>

@@ -1,0 +1,126 @@
+<resources>
+
+	<!-- 365Cam -->
+	<item component="ComponentInfo{shix.cam365.camera/com.shix.shixipc.activity.SplashActivity}" drawable="_365cam" />
+
+	<!-- Account Access -->
+	<item component="ComponentInfo{com.adobe.ims.accountaccess/com.zoontek.rnbootsplash.RNBootSplashActivity}" drawable="account_access" />
+
+	<!-- AFH Downloader -->
+	<item component="ComponentInfo{org.afhdownloader/org.afhdownloader.MainActivity}" drawable="afh_downloader" />
+
+	<!-- AliExpress -->
+	<item component="ComponentInfo{com.alibaba.aliexpresshd/com.aliexpress.app.FirstActivity}" drawable="aliexpress" />
+
+	<!-- Ambient Care -->
+	<item component="ComponentInfo{com.snap.connectedcare.ambientcare/md.connectedcare.android.MainActivity}" drawable="ambient_care" />
+
+	<!-- AMM -->
+	<item component="ComponentInfo{com.fox2code.mmm.fdroid/com.fox2code.mmm.MainActivity}" drawable="amm" />
+
+	<!-- Android Exploits -->
+	<item component="ComponentInfo{org.chickenhook.androidexploits/org.chickenhook.androidexploits.ui_2.MainFrameActivity}" drawable="android_exploits" />
+
+	<!-- Android LUKS -->
+	<item component="ComponentInfo{eu.fulldisclosure.android.luks/eu.fulldisclosure.android.luks.MainActivity}" drawable="android_luks" />
+
+	<!-- Androoster -->
+	<item component="ComponentInfo{com.andreacioccarelli.androoster/com.andreacioccarelli.androoster.ui.boot.UIBoot}" drawable="androoster" />
+
+	<!-- BusyBox Pro -->
+	<item component="ComponentInfo{stericson.busybox.donate/stericson.busybox.donate.activities.MainActivity}" drawable="busybox_pro" />
+
+	<!-- CarBit -->
+	<item component="ComponentInfo{com.mda.carbit/com.mda.carbit.c.d}" drawable="carbit" />
+
+	<!-- Chronus -->
+	<item component="ComponentInfo{com.dvtonder.chronus/com.dvtonder.chronus.preference.PreferencesMain}" drawable="chronus" />
+
+	<!-- cred.ai -->
+	<item component="ComponentInfo{io.cred.roboapp.android/io.cred.roboapp.application.welcome.ui.WelcomeSplashActivity}" drawable="credai" />
+
+	<!-- Droid-ify -->
+	<item component="ComponentInfo{com.looker.droidify/com.looker.droidify.MainActivity}" drawable="droid_ify" />
+
+	<!-- eBay -->
+	<item component="ComponentInfo{com.ebay.mobile/com.ebay.mobile.home.impl.main.MainActivity}" drawable="ebay" />
+
+	<!-- GSMArena -->
+	<item component="ComponentInfo{com.gsmarena.android/com.gsmarena.android.activity.SplashActivity}" drawable="gsmarena" />
+
+	<!-- Hovatek Mobile -->
+	<item component="ComponentInfo{com.hovatek.mobile/com.appyet.activity.MainActivity}" drawable="hovatek_mobile" />
+
+	<!-- IMDb -->
+	<item component="ComponentInfo{com.imdb.mobile/com.imdb.mobile.HomeActivity}" drawable="imdb" />
+
+	<!-- JLab Store and Burn-in Tool -->
+	<item component="ComponentInfo{co.tapcart.app.VMWtwhI4Hm/co.tapcart.app.MainActivity}" drawable="jlab_store_and_burn_in_tool" />
+
+	<!-- Kernel Flasher -->
+	<item component="ComponentInfo{com.github.capntrips.kernelflasher/com.github.capntrips.kernelflasher.MainActivity}" drawable="kernel_flasher" />
+
+	<!-- Link to Windows -->
+	<item component="ComponentInfo{com.microsoft.appmanager/com.microsoft.appmanager.StartUpCoreActivity}" drawable="link_to_windows" />
+
+	<!-- MediaMonkey -->
+	<item component="ComponentInfo{com.ventismedia.android.mediamonkey/com.ventismedia.android.mediamonkey.StartActivity}" drawable="mediamonkey" />
+
+	<!-- Messages -->
+	<item component="ComponentInfo{com.motorola.messaging/com.android.messaging.ui.conversationlist.ConversationListActivity}" drawable="messages" />
+
+	<!-- OTG View2 -->
+	<item component="ComponentInfo{com.dingtai.snakecamera/com.dingtai.snakecamera.ui.MainActivity}" drawable="otg_view2" />
+
+	<!-- Rewards -->
+	<item component="ComponentInfo{com.google.android.apps.paidtasks/com.google.android.apps.paidtasks.activity.LaunchActivity}" drawable="rewards" />
+
+	<!-- Roku -->
+	<item component="ComponentInfo{com.roku.remote/com.roku.remote.ui.activities.splash.SplashActivity}" drawable="roku" />
+
+	<!-- Root Booster -->
+	<item component="ComponentInfo{com.ram.memory.booster.cpu.saver/com.ram.memory.booster.cpu.saver.MainActivity}" drawable="root_booster" />
+
+	<!-- Root Browser -->
+	<item component="ComponentInfo{com.jrummy.root.browserfree/com.jrummy.apps.root.browser.activities.RootBrowserActivity}" drawable="root_browser" />
+
+	<!-- SD Maid -->
+	<item component="ComponentInfo{eu.thedarken.sdm/eu.thedarken.sdm.main.ui.SDMMainActivity}" drawable="sd_maid" />
+
+	<!-- Shop -->
+	<item component="ComponentInfo{com.shopify.arrive/com.shopify.arrive.MainActivity}" drawable="shop" />
+
+	<!-- SmartPack -->
+	<item component="ComponentInfo{com.smartpack.kernelmanager.pro/com.smartpack.kernelmanager.activities.StartActivityMaterial}" drawable="smartpack" />
+
+	<!-- Temu -->
+	<item component="ComponentInfo{com.einnovation.temu/com.baogong.splash.activity.MainFrameActivity}" drawable="temu" />
+
+	<!-- Terminal Emulator -->
+	<item component="ComponentInfo{jackpal.androidterm/jackpal.androidterm.Term}" drawable="terminal_emulator" />
+
+	<!-- Ultra OBD -->
+	<item component="ComponentInfo{com.applications.xas.obdultra/com.applications.xas.obdultra.ui.views.onboarding.OnboardingActivity}" drawable="ultra_obd" />
+
+	<!-- USPS Mobile -->
+	<item component="ComponentInfo{com.usps/com.usps.mobile.SplashScreenActivity}" drawable="usps_mobile" />
+
+	<!-- VINELink -->
+	<item component="ComponentInfo{com.appriss.vinemobile/com.appriss.vinemobile.SplashScreenActivity}" drawable="vinelink" />
+
+	<!-- Waze -->
+	<item component="ComponentInfo{com.waze/com.waze.FreeMapAppActivity}" drawable="waze" />
+
+	<!-- XDA Developers -->
+	<item component="ComponentInfo{com.xda.labs.play/host.exp.exponent.MainActivity}" drawable="xda_developers" />
+
+	<!-- XMEye -->
+	<item component="ComponentInfo{com.mobile.myeye/com.mobile.myeye.activity.welcome.view.WelcomeActivity}" drawable="xmeye" />
+
+	<!-- Xposed edge -->
+	<item component="ComponentInfo{com.jozein.xedge/com.jozein.xedge.ui.ActivityMain}" drawable="xposed_edge" />
+
+	<!-- YouTube AdAway -->
+	<item component="ComponentInfo{ma.wanam.youtubeadaway/ma.wanam.youtubeadaway.SettingsActivity}" drawable="youtube_adaway" />
+
+</resources>

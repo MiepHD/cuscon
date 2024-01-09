@@ -1,0 +1,141 @@
+<Theme version="1">
+
+	<!-- Airtel -->
+	<AppIcon name="com.myairtelapp/com.myairtelapp.home.views.activities.SplashScreenActivity" image="airtel"/>
+
+	<!-- AJIO -->
+	<AppIcon name="com.ril.ajio/com.ril.ajio.launch.activity.SplashScreenActivity" image="ajio"/>
+
+	<!-- Background Eraser -->
+	<AppIcon name="com.handycloset.android.eraser/com.handycloset.android.eraser.MainActivity" image="background_eraser"/>
+
+	<!-- BandLab -->
+	<AppIcon name="com.bandlab.bandlab/com.bandlab.navigation.entry.NavigationActivity" image="bandlab"/>
+
+	<!-- Cache Cleaner -->
+	<AppIcon name="com.github.bmx666.appcachecleaner/com.github.bmx666.appcachecleaner.ui.activity.LauncherActivity" image="cache_cleaner"/>
+
+	<!-- Calculator -->
+	<AppIcon name="com.coloros.calculator/com.android.calculator2.Calculator" image="calculator"/>
+
+	<!-- Camera -->
+	<AppIcon name="com.oplus.camera/com.oplus.camera.Camera" image="camera"/>
+
+	<!-- Chess -->
+	<AppIcon name="com.chess/com.chess.splash.SplashActivity" image="chess"/>
+
+	<!-- Clock -->
+	<AppIcon name="com.coloros.alarmclock/com.coloros.alarmclock.AlarmClock" image="clock"/>
+
+	<!-- Clubhouse -->
+	<AppIcon name="com.clubhouse.app/com.clubhouse.android.ui.ClubhouseActivity" image="clubhouse"/>
+
+	<!-- Compass -->
+	<AppIcon name="com.coloros.compass2/com.coloros.compass.flat.FlatCompass" image="compass"/>
+
+	<!-- Confirmtkt -->
+	<AppIcon name="com.confirmtkt.lite/com.confirmtkt.lite.LaunchActivity" image="confirmtkt"/>
+
+	<!-- Digital Marketing -->
+	<AppIcon name="digitalmarketing.digital.marketing.dm.ads.learn.socialmedia.onlinemarketing/com.freeit.java.modules.onboarding.SplashScreenActivity" image="digital_marketing"/>
+
+	<!-- Evernote -->
+	<AppIcon name="com.evernote/com.evernote.SplashActivity" image="evernote"/>
+
+	<!-- Flo -->
+	<AppIcon name="org.iggymedia.periodtracker/org.iggymedia.periodtracker.activities.InitialActivity" image="flo"/>
+
+	<!-- Games -->
+	<AppIcon name="com.oplus.games/com.oplus.games.ui.main.MainGameActivity" image="games"/>
+
+	<!-- HeyTap Cloud -->
+	<AppIcon name="com.heytap.cloud/com.heytap.cloud.home.ui.CloudLauncherActivity" image="heytap_cloud"/>
+
+	<!-- Internet -->
+	<AppIcon name="com.heytap.browser/com.android.browser.BrowserActivity" image="internet"/>
+
+	<!-- Invoices -->
+	<AppIcon name="com.aadhk.woinvoice/com.aadhk.woinvoice.MainActivity" image="invoices"/>
+
+	<!-- JioMart -->
+	<AppIcon name="com.jpl.jiomart/com.jpl.jiomartsdk.dashboard.activities.SplashActivityAlias1" image="jiomart"/>
+
+	<!-- Justdial -->
+	<AppIcon name="com.justdial.search/com.justdial.search.SplashScreenNewActivity" image="justdial"/>
+
+	<!-- Kegel -->
+	<AppIcon name="com.appercut.kegel/com.appercut.kegel.activities.SplashScreenActivity" image="kegel"/>
+
+	<!-- LibreTube -->
+	<AppIcon name="com.github.libretube/com.github.libretube.Default" image="libretube"/>
+
+	<!-- Music -->
+	<AppIcon name="com.heytap.music/com.allsaints.music.ui.splash.SplashActivity" image="music"/>
+
+	<!-- My Files -->
+	<AppIcon name="com.coloros.filemanager/com.oplus.filemanager.main.ui.MainActivity" image="my_files"/>
+
+	<!-- NoiseFit -->
+	<AppIcon name="com.noisefit/com.noisefit.ui.SplashActivity" image="noisefit"/>
+
+	<!-- OLX India -->
+	<AppIcon name="com.olx.southasia/com.olxgroup.panamera.app.users.onboarding.activities.SplashActivity" image="olx_india"/>
+
+	<!-- OnStream -->
+	<AppIcon name="com.maertsno.m/com.maertsno.m.ui.main.MainActivity" image="onstream"/>
+
+	<!-- Pagan Music Sequencer -->
+	<AppIcon name="com.qfs.pagan/com.qfs.pagan.MainActivity" image="pagan_music_sequencer"/>
+
+	<!-- Phone Manager -->
+	<AppIcon name="com.coloros.phonemanager/com.coloros.phonemanager.FakeActivity" image="phone_manager"/>
+
+	<!-- Photos -->
+	<AppIcon name="com.coloros.gallery3d/com.coloros.gallery3d.app.MainActivity" image="photos"/>
+
+	<!-- PicSay Pro -->
+	<AppIcon name="com.shinycore.picsaypro/com.shinycore.picsaypro.main" image="picsay_pro"/>
+
+	<!-- PrivadoVPN -->
+	<AppIcon name="io.privado.android/io.privado.android.ui.splash.SplashActivity" image="privadovpn"/>
+
+	<!-- QR/Barcode Scanner Pro -->
+	<AppIcon name="com.barcode.qrcode.scanner.reader.pro/com.barcode.qrcode.scanner.reader.pro.activity.MainActivity" image="qr_barcode_scanner_pro"/>
+
+	<!-- Recorder -->
+	<AppIcon name="com.coloros.soundrecorder/oplus.multimedia.soundrecorder.filebrowser.BrowseFile" image="recorder"/>
+
+	<!-- Rewards -->
+	<AppIcon name="com.google.android.apps.paidtasks/com.google.android.apps.paidtasks.activity.LaunchActivity" image="rewards"/>
+
+	<!-- Shazam Lite -->
+	<AppIcon name="com.shazam.android.lite/com.shazam.android.lite.ui.SplashActivity" image="shazam_lite"/>
+
+	<!-- SIM 2 Toolkit -->
+	<AppIcon name="com.android.stk/com.android.stk.OplusStkLauncherActivity2" image="sim_2_toolkit"/>
+
+	<!-- Solitaire -->
+	<AppIcon name="com.microsoft.microsoftsolitairecollection/com.smokingguninc.engine.framework.SgiLauncherActivity" image="solitaire"/>
+
+	<!-- Theme Store -->
+	<AppIcon name="com.heytap.themestore/com.nearme.themespace.activities.ThemeActivity" image="theme_store"/>
+
+	<!-- Up Tempo -->
+	<AppIcon name="com.stonekick.tempo/com.stonekick.speedadjuster.MainActivity" image="up_tempo"/>
+
+	<!-- Videos -->
+	<AppIcon name="com.coloros.video/com.oplus.video.SplashActivity" image="videos"/>
+
+	<!-- Vocabulary Builder -->
+	<AppIcon name="com.magoosh.gre.quiz.vocabulary/com.magoosh.gre.quiz.vocabulary.MainActivity" image="vocabulary_builder"/>
+
+	<!-- Weather -->
+	<AppIcon name="com.coloros.weather2/com.oplus.weather.main.view.WeatherMainActivity" image="weather"/>
+
+	<!-- YONO SBI -->
+	<AppIcon name="com.sbi.lotusintouch/com.sbi.lotusintouch.MainActivity" image="yono_sbi"/>
+
+	<!-- µTorrent Pro -->
+	<AppIcon name="com.utorrent.client.pro/com.bittorrent.app.Main" image="µtorrent_pro"/>
+
+</Theme>

@@ -1,0 +1,6 @@
+<resources>
+
+	<!-- Biedronka -->
+	<item component="ComponentInfo{pl.jmpolska.clos0.mojabiedronka/pl.jmpolska.clos0.mojabiedronka.MainActivity}" drawable="biedronka" />
+
+</resources>

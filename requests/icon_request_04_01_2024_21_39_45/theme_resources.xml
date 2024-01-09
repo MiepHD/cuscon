@@ -1,0 +1,9 @@
+<Theme version="1">
+
+	<!-- MoinMoin -->
+	<AppIcon name="io.moinmoin/com.megalol.app.Launcher" image="moinmoin"/>
+
+	<!-- Play Console -->
+	<AppIcon name="com.google.android.apps.playconsole/com.google.android.apps.play.console.mobile.MainActivity" image="play_console"/>
+
+</Theme>
