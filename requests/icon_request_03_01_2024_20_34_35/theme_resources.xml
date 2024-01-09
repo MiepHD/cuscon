@@ -1,8 +1,5 @@
 <Theme version="1">
 
-	<!-- Alibi -->
-	<AppIcon name="app.myzel394.alibi/app.myzel394.alibi.MainActivity" image="alibi"/>
-
 	<!-- Amazon -->
 	<AppIcon name="in.amazon.mShop.android.shopping/com.amazon.mShop.home.HomeActivity" image="amazon"/>
 
@@ -14,9 +11,6 @@
 
 	<!-- Bromite -->
 	<AppIcon name="org.bromite.bromite/com.google.android.apps.chrome.Main" image="bromite"/>
-
-	<!-- Calendar -->
-	<AppIcon name="com.simplemobiletools.calendar.pro/com.simplemobiletools.calendar.pro.activities.SplashActivity.Orange" image="calendar"/>
 
 	<!-- Camera -->
 	<AppIcon name="org.derpfest.flash/org.derpfest.flash.CameraLauncher" image="camera"/>
@@ -42,9 +36,6 @@
 	<!-- EtchDroid -->
 	<AppIcon name="eu.depau.etchdroid/eu.depau.etchdroid.ui.MainActivity" image="etchdroid"/>
 
-	<!-- Fi -->
-	<AppIcon name="com.epifi.paisa/com.epifi.paisa.ui.splash.SplashActivity" image="fi"/>
-
 	<!-- Fishing Points -->
 	<AppIcon name="com.gregacucnik.fishingpoints/com.gregacucnik.fishingpoints.WelcomeActivity" image="fishing_points"/>
 
@@ -57,20 +48,11 @@
 	<!-- Intelligent CV -->
 	<AppIcon name="icv.resume.curriculumvitae/com.icv.resume.StartupActivity" image="intelligent_cv"/>
 
-	<!-- KeePassDX -->
-	<AppIcon name="com.kunzisoft.keepass.libre/com.kunzisoft.keepass.activities.FileDatabaseSelectActivity" image="keepassdx"/>
-
 	<!-- MR -->
 	<AppIcon name="h.vjkf/xn.o4A.Ppy.YgN" image="mr"/>
 
 	<!-- Oinkoin -->
 	<AppIcon name="com.github.emavgl.piggybankpro/com.example.piggybank.MainActivity" image="oinkoin"/>
-
-	<!-- OsmAnd~ -->
-	<AppIcon name="net.osmand.plus/net.osmand.plus.activities.MapActivity" image="osmand_"/>
-
-	<!-- Paytm -->
-	<AppIcon name="net.one97.paytm/net.one97.paytm.landingpage.activity.AJRMainActivity" image="paytm"/>
 
 	<!-- Telegram -->
 	<AppIcon name="org.telegram.messenger/org.telegram.messenger.AquaIcon" image="telegram"/>
@@ -80,9 +62,6 @@
 
 	<!-- ViperFX -->
 	<AppIcon name="com.wstxda.viper4android/com.wstxda.viper4android.MainActivity" image="viperfx"/>
-
-	<!-- Voice Search -->
-	<AppIcon name="com.google.android.googlequicksearchbox/com.google.android.googlequicksearchbox.VoiceSearchActivity" image="voice_search"/>
 
 	<!-- Voter Helpline -->
 	<AppIcon name="com.eci.citizen/com.eci.citizen.features.splash.Splash" image="voter_helpline"/>

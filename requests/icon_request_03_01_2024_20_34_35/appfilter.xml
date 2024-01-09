@@ -1,8 +1,5 @@
 <resources>
 
-	<!-- Alibi -->
-	<item component="ComponentInfo{app.myzel394.alibi/app.myzel394.alibi.MainActivity}" drawable="alibi" />
-
 	<!-- Amazon -->
 	<item component="ComponentInfo{in.amazon.mShop.android.shopping/com.amazon.mShop.home.HomeActivity}" drawable="amazon" />
 
@@ -14,9 +11,6 @@
 
 	<!-- Bromite -->
 	<item component="ComponentInfo{org.bromite.bromite/com.google.android.apps.chrome.Main}" drawable="bromite" />
-
-	<!-- Calendar -->
-	<item component="ComponentInfo{com.simplemobiletools.calendar.pro/com.simplemobiletools.calendar.pro.activities.SplashActivity.Orange}" drawable="calendar" />
 
 	<!-- Camera -->
 	<item component="ComponentInfo{org.derpfest.flash/org.derpfest.flash.CameraLauncher}" drawable="camera" />
@@ -42,9 +36,6 @@
 	<!-- EtchDroid -->
 	<item component="ComponentInfo{eu.depau.etchdroid/eu.depau.etchdroid.ui.MainActivity}" drawable="etchdroid" />
 
-	<!-- Fi -->
-	<item component="ComponentInfo{com.epifi.paisa/com.epifi.paisa.ui.splash.SplashActivity}" drawable="fi" />
-
 	<!-- Fishing Points -->
 	<item component="ComponentInfo{com.gregacucnik.fishingpoints/com.gregacucnik.fishingpoints.WelcomeActivity}" drawable="fishing_points" />
 
@@ -57,20 +48,11 @@
 	<!-- Intelligent CV -->
 	<item component="ComponentInfo{icv.resume.curriculumvitae/com.icv.resume.StartupActivity}" drawable="intelligent_cv" />
 
-	<!-- KeePassDX -->
-	<item component="ComponentInfo{com.kunzisoft.keepass.libre/com.kunzisoft.keepass.activities.FileDatabaseSelectActivity}" drawable="keepassdx" />
-
 	<!-- MR -->
 	<item component="ComponentInfo{h.vjkf/xn.o4A.Ppy.YgN}" drawable="mr" />
 
 	<!-- Oinkoin -->
 	<item component="ComponentInfo{com.github.emavgl.piggybankpro/com.example.piggybank.MainActivity}" drawable="oinkoin" />
-
-	<!-- OsmAnd~ -->
-	<item component="ComponentInfo{net.osmand.plus/net.osmand.plus.activities.MapActivity}" drawable="osmand_" />
-
-	<!-- Paytm -->
-	<item component="ComponentInfo{net.one97.paytm/net.one97.paytm.landingpage.activity.AJRMainActivity}" drawable="paytm" />
 
 	<!-- Telegram -->
 	<item component="ComponentInfo{org.telegram.messenger/org.telegram.messenger.AquaIcon}" drawable="telegram" />
@@ -80,9 +62,6 @@
 
 	<!-- ViperFX -->
 	<item component="ComponentInfo{com.wstxda.viper4android/com.wstxda.viper4android.MainActivity}" drawable="viperfx" />
-
-	<!-- Voice Search -->
-	<item component="ComponentInfo{com.google.android.googlequicksearchbox/com.google.android.googlequicksearchbox.VoiceSearchActivity}" drawable="voice_search" />
 
 	<!-- Voter Helpline -->
 	<item component="ComponentInfo{com.eci.citizen/com.eci.citizen.features.splash.Splash}" drawable="voter_helpline" />

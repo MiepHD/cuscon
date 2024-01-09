@@ -1,8 +1,5 @@
 <appmap>
 
-	<!-- Alibi -->
-	<item class="app.myzel394.alibi.MainActivity" name="alibi"/>
-
 	<!-- Amazon -->
 	<item class="com.amazon.mShop.home.HomeActivity" name="amazon"/>
 
@@ -14,9 +11,6 @@
 
 	<!-- Bromite -->
 	<item class="com.google.android.apps.chrome.Main" name="bromite"/>
-
-	<!-- Calendar -->
-	<item class="com.simplemobiletools.calendar.pro.activities.SplashActivity.Orange" name="calendar"/>
 
 	<!-- Camera -->
 	<item class="org.derpfest.flash.CameraLauncher" name="camera"/>
@@ -42,9 +36,6 @@
 	<!-- EtchDroid -->
 	<item class="eu.depau.etchdroid.ui.MainActivity" name="etchdroid"/>
 
-	<!-- Fi -->
-	<item class="com.epifi.paisa.ui.splash.SplashActivity" name="fi"/>
-
 	<!-- Fishing Points -->
 	<item class="com.gregacucnik.fishingpoints.WelcomeActivity" name="fishing_points"/>
 
@@ -57,20 +48,11 @@
 	<!-- Intelligent CV -->
 	<item class="com.icv.resume.StartupActivity" name="intelligent_cv"/>
 
-	<!-- KeePassDX -->
-	<item class="com.kunzisoft.keepass.activities.FileDatabaseSelectActivity" name="keepassdx"/>
-
 	<!-- MR -->
 	<item class="xn.o4A.Ppy.YgN" name="mr"/>
 
 	<!-- Oinkoin -->
 	<item class="com.example.piggybank.MainActivity" name="oinkoin"/>
-
-	<!-- OsmAnd~ -->
-	<item class="net.osmand.plus.activities.MapActivity" name="osmand_"/>
-
-	<!-- Paytm -->
-	<item class="net.one97.paytm.landingpage.activity.AJRMainActivity" name="paytm"/>
 
 	<!-- Telegram -->
 	<item class="org.telegram.messenger.AquaIcon" name="telegram"/>
@@ -80,9 +62,6 @@
 
 	<!-- ViperFX -->
 	<item class="com.wstxda.viper4android.MainActivity" name="viperfx"/>
-
-	<!-- Voice Search -->
-	<item class="com.google.android.googlequicksearchbox.VoiceSearchActivity" name="voice_search"/>
 
 	<!-- Voter Helpline -->
 	<item class="com.eci.citizen.features.splash.Splash" name="voter_helpline"/>

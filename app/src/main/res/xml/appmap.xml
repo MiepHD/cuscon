@@ -1369,5 +1369,6 @@
 	<item class="com.taxsee.taxsee.ui.activities.SplashScreen" name="maxim"/>
 	<item class="ru.nspk.mirpay.b34rqwEd1vSkvA" name="mir_pay"/>
 	<item class="com.transsion.tempo.ui.SplashActivity" name="soplay"/>
+	<item class="com.google.android.googlequicksearchbox.VoiceSearchActivity" name="google"/>
 
 </appmap>
