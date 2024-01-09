@@ -1,0 +1,48 @@
+<appmap>
+
+	<!-- 1DM -->
+	<item class="idm.internet.download.manager.MainActivity" name="_1dm"/>
+
+	<!-- Amazon -->
+	<item class="com.amazon.mShop.home.HomeActivity" name="amazon"/>
+
+	<!-- BSNL Selfcare -->
+	<item class="com.selfcare.mybsnl.activities.SplashActivity" name="bsnl_selfcare"/>
+
+	<!-- Canara e-Passbook -->
+	<item class="com.mobile.canaraepassbook.EbookSplashActivity" name="canara_e_passbook"/>
+
+	<!-- Cent m-Passbook -->
+	<item class="com.mobile.cbiepassbook.EbookSplashActivity" name="cent_m_passbook"/>
+
+	<!-- IndianOil ONE -->
+	<item class="cx.indianoil.in.lpg.view.login.WelcomeActivity" name="indianoil_one"/>
+
+	<!-- JioPOS Lite -->
+	<item class="com.jio.poslite.activities.SplashScreenActivity" name="jiopos_lite"/>
+
+	<!-- Kotak Bank -->
+	<item class="com.msf.kbank.mobile.launcher_d5e15a74df3d33e17b26d16a879646bfef34a86881463b2b8442d76af1f6f1f4" name="kotak_bank"/>
+
+	<!-- NTES -->
+	<item class="cris.icms.ntes.LaunchApp" name="ntes"/>
+
+	<!-- Paytm for Business -->
+	<item class="com.paytm.business.splash.SplashActivity" name="paytm_for_business"/>
+
+	<!-- PayZapp -->
+	<item class="com.apollorncontainer.activities.SplashActivity" name="payzapp"/>
+
+	<!-- Pix-Pie Icon Pack -->
+	<item class="com.pashapuma.pixp.iconpack.activities.SplashActivity" name="pix_pie_icon_pack"/>
+
+	<!-- Pulsar -->
+	<item class="com.rhmsoft.play.MainActivity" name="pulsar"/>
+
+	<!-- Simple Keyboard -->
+	<item class="rkr.simplekeyboard.inputmethod.latin.settings.SettingsActivity" name="simple_keyboard"/>
+
+	<!-- Transparent Widget -->
+	<item class="com.easwareapps.transparentwidget.MainActivity" name="transparent_widget"/>
+
+</appmap>

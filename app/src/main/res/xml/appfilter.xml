@@ -1377,5 +1377,6 @@
 	<item component="ComponentInfo{com.upwork.android.apps.main/com.upwork.android.apps.main.activity.MainActivity}" drawable="upwork_talent" />
 	<item component="ComponentInfo{com.wanderlog.android/com.wanderlog.android.MainActivity}" drawable="wanderlog" />
 	<item component="ComponentInfo{santi.wodbuster/wodbuster.box.LauncherActivity}" drawable="wodbuster" />
+	<item component="ComponentInfo{io.element.android.x/io.element.android.x.MainActivity}" drawable="element" />
 
 </resources>

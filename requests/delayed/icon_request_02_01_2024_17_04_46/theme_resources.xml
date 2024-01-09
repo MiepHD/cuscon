@@ -1,0 +1,42 @@
+<Theme version="1">
+
+	<!-- Avsar -->
+	<AppIcon name="com.avsar.app/com.avsar.app.MainActivity" image="avsar"/>
+
+	<!-- Camera -->
+	<AppIcon name="com.oneplus.camera/com.oneplus.camera.OPCameraActivity" image="camera"/>
+
+	<!-- Clock -->
+	<AppIcon name="com.oneplus.deskclock/com.oneplus.deskclock.DeskClock" image="clock"/>
+
+	<!-- DMSS -->
+	<AppIcon name="com.mm.android.DMSS/com.mm.android.base.devicemain.SplashActivity" image="dmss"/>
+
+	<!-- File manager -->
+	<AppIcon name="com.oneplus.filemanager/com.oneplus.filemanager.HomePageActivity" image="file_manager"/>
+
+	<!-- Gallery -->
+	<AppIcon name="com.oneplus.gallery/com.oneplus.gallery.OPGalleryActivity" image="gallery"/>
+
+	<!-- IDFC FIRST Bank -->
+	<AppIcon name="com.idfcfirstbank.optimus/com.idfcfirstbank.optimus.MainActivity" image="idfc_first_bank"/>
+
+	<!-- MDM -->
+	<AppIcon name="nic.hp.mdm/nic.hp.mdm.SplashActivity" image="mdm"/>
+
+	<!-- Music -->
+	<AppIcon name="com.android.music/com.android.music.MusicBrowserActivity" image="music"/>
+
+	<!-- Saksham Samiksha -->
+	<AppIcon name="com.samagra.sakshamSamiksha/com.samagra.parent.ui.splash.SplashActivity" image="saksham_samiksha"/>
+
+	<!-- SBI Quick -->
+	<AppIcon name="com.sbi.sbiquick/com.sbi.sbiquick.MainActivity" image="sbi_quick"/>
+
+	<!-- Sony LIV -->
+	<AppIcon name="com.sonyliv/com.sonyliv.ui.splash.SplashActivity" image="sony_liv"/>
+
+	<!-- YONO SBI -->
+	<AppIcon name="com.sbi.lotusintouch/com.sbi.lotusintouch.MainActivity" image="yono_sbi"/>
+
+</Theme>

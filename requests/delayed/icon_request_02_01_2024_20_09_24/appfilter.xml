@@ -1,0 +1,48 @@
+<resources>
+
+	<!-- 1DM -->
+	<item component="ComponentInfo{idm.internet.download.manager/idm.internet.download.manager.MainActivity}" drawable="_1dm" />
+
+	<!-- Amazon -->
+	<item component="ComponentInfo{in.amazon.mShop.android.shopping/com.amazon.mShop.home.HomeActivity}" drawable="amazon" />
+
+	<!-- BSNL Selfcare -->
+	<item component="ComponentInfo{com.digital.bsnl.selfcare/com.selfcare.mybsnl.activities.SplashActivity}" drawable="bsnl_selfcare" />
+
+	<!-- Canara e-Passbook -->
+	<item component="ComponentInfo{com.mobile.canaraepassbook/com.mobile.canaraepassbook.EbookSplashActivity}" drawable="canara_e_passbook" />
+
+	<!-- Cent m-Passbook -->
+	<item component="ComponentInfo{com.mobile.cbiepassbook/com.mobile.cbiepassbook.EbookSplashActivity}" drawable="cent_m_passbook" />
+
+	<!-- IndianOil ONE -->
+	<item component="ComponentInfo{cx.indianoil.in/cx.indianoil.in.lpg.view.login.WelcomeActivity}" drawable="indianoil_one" />
+
+	<!-- JioPOS Lite -->
+	<item component="ComponentInfo{com.jio.poslite/com.jio.poslite.activities.SplashScreenActivity}" drawable="jiopos_lite" />
+
+	<!-- Kotak Bank -->
+	<item component="ComponentInfo{com.msf.kbank.mobile/com.msf.kbank.mobile.launcher_d5e15a74df3d33e17b26d16a879646bfef34a86881463b2b8442d76af1f6f1f4}" drawable="kotak_bank" />
+
+	<!-- NTES -->
+	<item component="ComponentInfo{cris.icms.ntes/cris.icms.ntes.LaunchApp}" drawable="ntes" />
+
+	<!-- Paytm for Business -->
+	<item component="ComponentInfo{com.paytm.business/com.paytm.business.splash.SplashActivity}" drawable="paytm_for_business" />
+
+	<!-- PayZapp -->
+	<item component="ComponentInfo{com.hdfcbank.payzapp/com.apollorncontainer.activities.SplashActivity}" drawable="payzapp" />
+
+	<!-- Pix-Pie Icon Pack -->
+	<item component="ComponentInfo{com.pashapuma.pixp.iconpack/com.pashapuma.pixp.iconpack.activities.SplashActivity}" drawable="pix_pie_icon_pack" />
+
+	<!-- Pulsar -->
+	<item component="ComponentInfo{com.rhmsoft.pulsar/com.rhmsoft.play.MainActivity}" drawable="pulsar" />
+
+	<!-- Simple Keyboard -->
+	<item component="ComponentInfo{rkr.simplekeyboard.inputmethod/rkr.simplekeyboard.inputmethod.latin.settings.SettingsActivity}" drawable="simple_keyboard" />
+
+	<!-- Transparent Widget -->
+	<item component="ComponentInfo{com.easwareapps.transparentwidget/com.easwareapps.transparentwidget.MainActivity}" drawable="transparent_widget" />
+
+</resources>

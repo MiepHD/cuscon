@@ -1,0 +1,78 @@
+<Theme version="1">
+
+	<!-- AliExpress -->
+	<AppIcon name="com.alibaba.aliexpresshd/com.aliexpress.app.FirstActivity" image="aliexpress"/>
+
+	<!-- Antimine -->
+	<AppIcon name="dev.lucanlm.antimine/dev.lucasnlm.antimine.main.MainActivity" image="antimine"/>
+
+	<!-- App vault -->
+	<AppIcon name="com.mi.globalminusscreen/com.mi.globalminusscreen.MainActivity" image="app_vault"/>
+
+	<!-- Clock -->
+	<AppIcon name="com.android.deskclock/com.android.deskclock.DeskClockTabActivity" image="clock"/>
+
+	<!-- Compass -->
+	<AppIcon name="com.miui.compass/com.miui.compass.CompassActivity" image="compass"/>
+
+	<!-- Dreamfora -->
+	<AppIcon name="com.dreamfora.dreamfora/com.dreamfora.dreamfora.SplashActivity" image="dreamfora"/>
+
+	<!-- Habitica -->
+	<AppIcon name="com.habitrpg.android.habitica/com.habitrpg.android.habitica.ui.activities.MainActivity" image="habitica"/>
+
+	<!-- Merlin -->
+	<AppIcon name="com.labs.merlinbirdid.app/com.labs.merlinbirdid.app.SplashScreenActivity" image="merlin"/>
+
+	<!-- Metropolitano Logroño -->
+	<AppIcon name="com.geoactio.logrono/com.geoactio.logrono.Principal" image="metropolitano_logrono"/>
+
+	<!-- Mi Picks -->
+	<AppIcon name="com.xiaomi.mipicks/com.xiaomi.mipicks.MiPicksAlias" image="mi_picks"/>
+
+	<!-- Mi Remote -->
+	<AppIcon name="com.duokan.phone.remotecontroller/com.xiaomi.mitv.phone.remotecontroller.HoriWidgetMainActivityV2" image="mi_remote"/>
+
+	<!-- MoneyBuster -->
+	<AppIcon name="net.eneiluj.moneybuster/net.eneiluj.moneybuster.android.activity.BillsListViewActivity" image="moneybuster"/>
+
+	<!-- Notes -->
+	<AppIcon name="com.miui.notes/com.miui.notes.ui.NotesListActivity" image="notes"/>
+
+	<!-- OpenHIIT -->
+	<AppIcon name="com.codepup.workout_timer/com.codepup.workout_timer.MainActivity" image="openhiit"/>
+
+	<!-- Riseup VPN -->
+	<AppIcon name="se.leap.riseupvpn/se.leap.bitmaskclient.base.StartActivity" image="riseup_vpn"/>
+
+	<!-- Rock Identifier -->
+	<AppIcon name="com.picturerock.rock/com.glority.android.picturexx.splash.SplashActivity" image="rock_identifier"/>
+
+	<!-- Scanner -->
+	<AppIcon name="com.xiaomi.scanner/com.xiaomi.scanner.app.ScanActivity" image="scanner"/>
+
+	<!-- Screen Recorder -->
+	<AppIcon name="com.miui.screenrecorder/com.miui.screenrecorder.activity.ScreenRecorderHomeActivity" image="screen_recorder"/>
+
+	<!-- Services & feedback -->
+	<AppIcon name="com.miui.miservice/com.miui.miservice.main.MainActivity" image="services_and_feedback"/>
+
+	<!-- Settings -->
+	<AppIcon name="com.android.settings/com.android.settings.MainSettings" image="settings"/>
+
+	<!-- Sky Map -->
+	<AppIcon name="com.google.android.stardroid/com.google.android.stardroid.activities.SplashScreenActivity" image="sky_map"/>
+
+	<!-- Themes -->
+	<AppIcon name="com.android.thememanager/com.android.thememanager.ThemeResourceTabActivity" image="themes"/>
+
+	<!-- TravelSpend -->
+	<AppIcon name="tech.jonas.travelbudget/tech.jonas.travelbudget.MainActivity" image="travelspend"/>
+
+	<!-- Trip.com -->
+	<AppIcon name="ctrip.english/com.ctrip.ibu.myctrip.main.module.home.IBUHomeActivity" image="tripcom"/>
+
+	<!-- Weather -->
+	<AppIcon name="com.miui.weather2/com.miui.weather2.ActivityWeatherMain" image="weather"/>
+
+</Theme>

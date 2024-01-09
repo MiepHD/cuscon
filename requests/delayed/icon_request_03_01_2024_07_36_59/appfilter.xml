@@ -1,0 +1,108 @@
+<resources>
+
+	<!-- Action -->
+	<item component="ComponentInfo{com.action.consumerapp/com.action.consumerapp.MainActivity}" drawable="action" />
+
+	<!-- ALDI SÜD -->
+	<item component="ComponentInfo{de.apptiv.business.android.aldi_de/de.apptiv.business.android.aldi_at_ahead.presentation.screens.splash.SplashActivity}" drawable="aldi_sud" />
+
+	<!-- AliExpress -->
+	<item component="ComponentInfo{com.alibaba.aliexpresshd/com.aliexpress.app.FirstActivity}" drawable="aliexpress" />
+
+	<!-- apo-discounter -->
+	<item component="ComponentInfo{de.apodiscounter.androidphone/de.apodiscounter.androidphone.ApoDiscounterActivity}" drawable="apo_discounter" />
+
+	<!-- Apotheke vor Ort -->
+	<item component="ComponentInfo{de.wortundbildverlag.mobil.apotheke/elixier.mobile.wub.de.apothekeelixier.ui.start.StartActivity}" drawable="apotheke_vor_ort" />
+
+	<!-- AR Compass PRO -->
+	<item component="ComponentInfo{com.kettler.argpscm3dpro/com.kettler.argpsc3d.ActivityMain}" drawable="ar_compass_pro" />
+
+	<!-- canua -->
+	<item component="ComponentInfo{com.touchingcode.canua/com.touchingcode.canua.activity.LaunchActivity}" drawable="canua" />
+
+	<!-- Companion -->
+	<item component="ComponentInfo{com.oticon.app/crc64ac8767b3f7206236.MainActivity}" drawable="companion" />
+
+	<!-- Fon -->
+	<item component="ComponentInfo{de.avm.android.fritzapp/de.avm.android.fritzapp.StartActivity}" drawable="fon" />
+
+	<!-- Hilfe im Wald -->
+	<item component="ComponentInfo{de.intend.android.hilfeimwald/crc64ada6b20a05072215.SplashActivity}" drawable="hilfe_im_wald" />
+
+	<!-- HÖRZU -->
+	<item component="ComponentInfo{de.funke.hoerzu/de.proofit.hoerzu.app.SplashActivity}" drawable="horzu" />
+
+	<!-- IKKgesundplus -->
+	<item component="ComponentInfo{de.ikkgesundplus.kundenapp/de.bitmarck.bitone.baseapp.ui.splashscreen.RoutingActivity}" drawable="ikkgesundplus" />
+
+	<!-- Kindle -->
+	<item component="ComponentInfo{com.amazon.kindle/com.amazon.kindle.UpgradePage}" drawable="kindle" />
+
+	<!-- Mein dm -->
+	<item component="ComponentInfo{de.dm.meindm.android/de.dm.meindm.android.StartActivity}" drawable="mein_dm" />
+
+	<!-- MeinMagenta -->
+	<item component="ComponentInfo{de.telekom.android.customercenter/com.telekom.oneapp.launcher.components.launcher.LauncherActivity}" drawable="meinmagenta" />
+
+	<!-- MyFRITZ! -->
+	<item component="ComponentInfo{de.avm.android.myfritz2/de.avm.android.one.activities.StartActivity}" drawable="myfritz_" />
+
+	<!-- Navigator -->
+	<item component="ComponentInfo{com.mapfactor.navigator/com.mapfactor.navigator.map.MapActivity}" drawable="navigator" />
+
+	<!-- News -->
+	<item component="ComponentInfo{com.google.android.apps.magazines/com.google.apps.dots.android.app.activity.CurrentsStartActivity}" drawable="news" />
+
+	<!-- NIIMBOT -->
+	<item component="ComponentInfo{com.gengcon.android.jccloudprinter/com.gengcon.android.jccloudprinter.LaunchActivity}" drawable="niimbot" />
+
+	<!-- Norton Clean -->
+	<item component="ComponentInfo{com.symantec.cleansweep/com.symantec.cleansweep.app.SplashScreenActivity}" drawable="norton_clean" />
+
+	<!-- O₂ TV -->
+	<item component="ComponentInfo{de.exaring.waipu.o2/de.exaring.waipu.ui.start.StartUpActivity}" drawable="o₂_tv" />
+
+	<!-- Pannenhilfe -->
+	<item component="ComponentInfo{de.adac.mobile.pannenhilfe/de.adac.mobile.pannenhilfe.ui.splash.SplashActivity}" drawable="pannenhilfe" />
+
+	<!-- PAYBACK -->
+	<item component="ComponentInfo{de.payback.client.android/de.payback.app.ui.main.MainActivity}" drawable="payback" />
+
+	<!-- Polizeibericht -->
+	<item component="ComponentInfo{com.tuxfusion.polizeibericht/com.tuxfusion.polizeibericht.StartActivity}" drawable="polizeibericht" />
+
+	<!-- Post & DHL -->
+	<item component="ComponentInfo{de.dhl.paket/de.its_berlin.dhlpaket.base.main.MainActivity}" drawable="post_and_dhl" />
+
+	<!-- Postident -->
+	<item component="ComponentInfo{de.deutschepost.postident/de.post.ident.ui.WelcomeActivity}" drawable="postident" />
+
+	<!-- RDFit -->
+	<item component="ComponentInfo{com.rd.tengfei.bdnotification/com.rd.tengfei.ui.start.StartActivity}" drawable="rdfit" />
+
+	<!-- Rossmann -->
+	<item component="ComponentInfo{de.rossmann.app.android/de.rossmann.app.android.splash.SplashScreen}" drawable="rossmann" />
+
+	<!-- SIM-Toolkit -->
+	<item component="ComponentInfo{com.android.stk/com.android.stk.StkLauncherListActivity}" drawable="sim_toolkit" />
+
+	<!-- SpardaApp -->
+	<item component="ComponentInfo{de.sdvrz.ihb.mobile.app/de.sdvrz.ihb.bankingapp.feature.start.StartActivity}" drawable="spardaapp" />
+
+	<!-- Statusschoner -->
+	<item component="ComponentInfo{statussaver.saveit.videodownloader.downloadwhatsappstatus/statussaver.saveit.videodownloader.downloadwhatsappstatus.activities.WelcomeScreenActivity}" drawable="statusschoner" />
+
+	<!-- Thermer -->
+	<item component="ComponentInfo{mate.bluetoothprint/mate.bluetoothprint.SplashScreenActivity}" drawable="thermer" />
+
+	<!-- TV -->
+	<item component="ComponentInfo{de.avm.android.fritzapptv/de.avm.android.fritzapptv.main.MainActivity}" drawable="tv" />
+
+	<!-- VIDAA -->
+	<item component="ComponentInfo{com.universal.remote.multi/com.universal.remote.multi.U6MainActivity}" drawable="vidaa" />
+
+	<!-- Zedge -->
+	<item component="ComponentInfo{net.zedge.android/net.zedge.android.MainNewyear}" drawable="zedge" />
+
+</resources>

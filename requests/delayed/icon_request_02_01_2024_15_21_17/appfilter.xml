@@ -1,0 +1,18 @@
+<resources>
+
+	<!-- AudioFX -->
+	<item component="ComponentInfo{org.lineageos.audiofx/org.lineageos.audiofx.activity.ActivityMusic}" drawable="audiofx" />
+	
+	<!-- Breathly -->
+	<item component="ComponentInfo{com.mmazzarolo.breathly/com.mmazzarolo.breathly.MainActivity}" drawable="breathly" />
+
+	<!-- Connect -->
+	<item component="ComponentInfo{com.garmin.android.apps.connectmobile/com.garmin.android.apps.connectmobile.GCMActivityStartup}" drawable="connect" />
+	
+	<!-- Magic Earth -->
+	<item component="ComponentInfo{com.generalmagic.magicearth/com.magiclane.androidsphere.map.MapActivity}" drawable="magic_earth" />
+
+	<!-- OSS Document Scanner -->
+	<item component="ComponentInfo{com.akylas.documentscanner/com.akylas.documentscanner.MainActivity}" drawable="oss_document_scanner" />
+
+</resources>

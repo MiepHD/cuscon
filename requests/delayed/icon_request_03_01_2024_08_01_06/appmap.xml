@@ -1,0 +1,144 @@
+<appmap>
+
+	<!-- 365Scores -->
+	<item class="com.scores365.ui.Splash" name="_365scores"/>
+
+	<!-- Applaydu -->
+	<item class="com.unity3d.player.UnityPlayerActivity" name="applaydu"/>
+
+	<!-- Bowmasters -->
+	<item class="com.miniclip.bowmasters.BowmastersActivity" name="bowmasters"/>
+
+	<!-- Calendar -->
+	<item class="com.android.calendar.homepage.AllInOneActivity" name="calendar"/>
+
+	<!-- Call of Duty -->
+	<item class="com.tencent.tmgp.cod.CODMPrivatePermissionActivity" name="call_of_duty"/>
+
+	<!-- CarX Street -->
+	<item class="com.unity3d.player.UnityPlayerActivity" name="carx_street"/>
+
+	<!-- Chess -->
+	<item class="com.chess.splash.SplashActivity" name="chess"/>
+
+	<!-- Clock -->
+	<item class="com.android.deskclock.DeskClockTabActivity" name="clock"/>
+
+	<!-- Dictionary -->
+	<item class="com.mobisystems.oxford_dictionary.MainActivity" name="dictionary"/>
+
+	<!-- Downloads -->
+	<item class="com.android.providers.downloads.ui.DownloadList" name="downloads"/>
+
+	<!-- Duel Links -->
+	<item class="jp.konami.duellinks.plugins.YgomMainActivity" name="duel_links"/>
+
+	<!-- Duo Mobile -->
+	<item class="com.duosecurity.duomobile.account_list.AccountListActivity" name="duo_mobile"/>
+
+	<!-- Free Fire -->
+	<item class="com.dts.freefireth.FFMainActivity" name="free_fire"/>
+
+	<!-- Gallery -->
+	<item class="com.miui.gallery.activity.HomePageActivity" name="gallery"/>
+
+	<!-- GetApps -->
+	<item class="com.xiaomi.mipicks.DefaultAlias" name="getapps"/>
+
+	<!-- Geto -->
+	<item class="com.android.geto.MainActivity" name="geto"/>
+
+	<!-- HDO Box -->
+	<item class="com.hdobox.MainActivity" name="hdo_box"/>
+
+	<!-- Hungry Shark -->
+	<item class="com.unity3d.player.UnityPlayerActivity" name="hungry_shark"/>
+
+	<!-- Hungry Shark -->
+	<item class="com.unity3d.player.UnityPlayerActivity" name="hungry_shark"/>
+
+	<!-- Johnny Trigger -->
+	<item class="by.saygames.SayKitActivity" name="johnny_trigger"/>
+
+	<!-- MediaOn -->
+	<item class="com.mediaon.apt.MainActivity" name="mediaon"/>
+
+	<!-- Mi Band 6 Watch Faces -->
+	<item class="asn.ark.miband6.activites.SplashScreen" name="mi_band_6_watch_faces"/>
+
+	<!-- Mi Remote -->
+	<item class="com.xiaomi.mitv.phone.remotecontroller.HoriWidgetMainActivityV2" name="mi_remote"/>
+
+	<!-- MiBand6 -->
+	<item class="dev.rokitskiy.miband6_watchface.MainActivity" name="miband6"/>
+
+	<!-- My Orange -->
+	<item class="com.linkdev.mobinilandme.ui.SplashScreen" name="my_orange"/>
+
+	<!-- Null’s Brawl -->
+	<item class="com.supercell.brawlstars.GameApp" name="null’s_brawl"/>
+
+	<!-- PandaVPN -->
+	<item class="com.pandavpn.androidproxy.ui.main.MainActivity" name="pandavpn"/>
+
+	<!-- PandaVPN -->
+	<item class="com.pandavpn.androidproxy.ui.splash.activity.SplashActivity" name="pandavpn"/>
+
+	<!-- Picsart -->
+	<item class="com.socialin.android.photo.picsinphoto.MainPagerActivity" name="picsart"/>
+
+	<!-- Poco Community -->
+	<item class="com.mi.global.pocobbs.ui.SplashActivity" name="poco_community"/>
+
+	<!-- PUBG MOBILE -->
+	<item class="com.epicgames.ue4.SplashActivity" name="pubg_mobile"/>
+
+	<!-- Rewards -->
+	<item class="com.google.android.apps.paidtasks.activity.LaunchActivity" name="rewards"/>
+
+	<!-- Ring Sizer -->
+	<item class="ru.cherrydesign.ringsizer.SplashActivity" name="ring_sizer"/>
+
+	<!-- Router Chef -->
+	<item class="com.raouf.routerchef.SplashScreen" name="router_chef"/>
+
+	<!-- SD Maid -->
+	<item class="eu.thedarken.sdm.main.ui.SDMMainActivity" name="sd_maid"/>
+
+	<!-- SD Maid Pro -->
+	<item class="eu.thedarken.sdm.unlocker.MainActivity" name="sd_maid_pro"/>
+
+	<!-- Shizuku -->
+	<item class="moe.shizuku.manager.MainActivity" name="shizuku"/>
+
+	<!-- Sling Drift -->
+	<item class="com.rubygames.slingdrift.UnityPlayerActivity" name="sling_drift"/>
+
+	<!-- slither.io -->
+	<item class="air.com.hypah.io.slither.AppEntry" name="slitherio"/>
+
+	<!-- Subway Surf -->
+	<item class="com.sybogames.chili.multidex.ChiliMultidexSupportActivity" name="subway_surf"/>
+
+	<!-- TeraBox -->
+	<item class="com.dubox.drive.ui.Logo0LauncherActivity" name="terabox"/>
+
+	<!-- Themes -->
+	<item class="com.android.thememanager.ThemeResourceTabActivity" name="themes"/>
+
+	<!-- Twitch -->
+	<item class="tv.twitch.android.app.core.LandingActivity" name="twitch"/>
+
+	<!-- VK -->
+	<item class="com.vk.android.launcher.icons.IconAlias.DefaultIcon" name="vk"/>
+
+	<!-- Wallcraft -->
+	<item class="com.wallpaperscraft.wallpaper.feature.main.MainActivity" name="wallcraft"/>
+
+	<!-- ZArchiver Pro -->
+	<item class="ru.zdevs.zarchiver.pro.ZArchiver" name="zarchiver_pro"/>
+
+	<!-- مصحف الحرمين -->
+	<item class="com.arabia_it.moshaf.ui.splash.SplashActivity" name="مصحف_الحرمين"/>
+
+</appmap>

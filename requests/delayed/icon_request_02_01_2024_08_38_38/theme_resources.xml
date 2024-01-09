@@ -1,0 +1,27 @@
+<Theme version="1">
+
+	<!-- Boorusama -->
+	<AppIcon name="com.degenk.boorusama/com.degenk.boorusama.MainActivity" image="boorusama"/>
+
+	<!-- Discord -->
+	<AppIcon name="com.discord/com.discord.main.MainCircuit" image="discord"/>
+
+	<!-- Fcitx5 for Android -->
+	<AppIcon name="org.fcitx.fcitx5.android/org.fcitx.fcitx5.android.ui.main.MainActivity" image="fcitx5_for_android"/>
+
+	<!-- Living Worlds -->
+	<AppIcon name="com.pixfabrik.livingworlds/com.pixfabrik.livingworlds.MainActivity" image="living_worlds"/>
+
+	<!-- Markor -->
+	<AppIcon name="net.gsantner.markor/net.gsantner.markor.activity.MainActivity" image="markor"/>
+	
+	<!-- Randomix -->
+	<AppIcon name="com.minar.randomix/com.minar.randomix.activities.MainActivity" image="randomix"/>
+
+	<!-- Sayboard -->
+	<AppIcon name="com.elishaazaria.sayboard/com.elishaazaria.sayboard.SettingsActivity" image="sayboard"/>
+
+	<!-- XScreenSaver -->
+	<AppIcon name="org.jwz.android.xscreensaver/org.jwz.xscreensaver.Activity" image="xscreensaver"/>
+
+</Theme>

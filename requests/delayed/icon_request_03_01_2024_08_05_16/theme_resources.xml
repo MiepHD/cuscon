@@ -1,0 +1,42 @@
+<Theme version="1">
+
+	<!-- bol -->
+	<AppIcon name="com.bol.shop/com.bol.shop.launch.ui.LaunchActivity" image="bol"/>
+
+	<!-- Bullet Echo -->
+	<AppIcon name="com.zeptolab.bulletecho.google/com.zf3.GameActivity" image="bullet_echo"/>
+
+	<!-- Calculator -->
+	<AppIcon name="com.oneplus.calculator/com.oneplus.calculator.Calculator" image="calculator"/>
+
+	<!-- Camera -->
+	<AppIcon name="com.oneplus.camera/com.oneplus.camera.OPCameraActivity" image="camera"/>
+
+	<!-- Chess -->
+	<AppIcon name="com.chess/com.chess.splash.SplashActivity" image="chess"/>
+
+	<!-- CIFI -->
+	<AppIcon name="com.OctocubeGamesCompany.CIFI/com.unity3d.player.UnityPlayerActivity" image="cifi"/>
+
+	<!-- Games -->
+	<AppIcon name="com.oplus.games/com.oplus.games.ui.main.MainGameActivity" image="games"/>
+
+	<!-- Hearthstone -->
+	<AppIcon name="com.blizzard.wtcg.hearthstone/com.blizzard.wtcg.hearthstone.HearthstoneActivity" image="hearthstone"/>
+
+	<!-- ISEPS -->
+	<AppIcon name="com.AppSociety.ISEPS/com.unity3d.player.UnityPlayerActivity" image="iseps"/>
+
+	<!-- Nyx -->
+	<AppIcon name="com.awedea.nyx/com.awedea.nyx.activities.SplashScreenActivity" image="nyx"/>
+
+	<!-- Rewards -->
+	<AppIcon name="com.google.android.apps.paidtasks/com.google.android.apps.paidtasks.activity.LaunchActivity" image="rewards"/>
+
+	<!-- Sleep -->
+	<AppIcon name="com.urbandroid.sleep/com.urbandroid.sleep.alarmclock.AlarmClock" image="sleep"/>
+
+	<!-- Tachiyomi -->
+	<AppIcon name="eu.kanade.tachiyomi/eu.kanade.tachiyomi.ui.main.MainActivity" image="tachiyomi"/>
+
+</Theme>

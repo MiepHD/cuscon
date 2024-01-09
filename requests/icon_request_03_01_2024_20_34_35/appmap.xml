@@ -1,0 +1,93 @@
+<appmap>
+
+	<!-- Alibi -->
+	<item class="app.myzel394.alibi.MainActivity" name="alibi"/>
+
+	<!-- Amazon -->
+	<item class="com.amazon.mShop.home.HomeActivity" name="amazon"/>
+
+	<!-- AU 0101 -->
+	<item class="com.ausmallfinancebank.amb.MainActivity" name="au_0101"/>
+
+	<!-- Bluemoon -->
+	<item class="com.ngrob.android.bluemoon.MainActivity" name="bluemoon"/>
+
+	<!-- Bromite -->
+	<item class="com.google.android.apps.chrome.Main" name="bromite"/>
+
+	<!-- Calendar -->
+	<item class="com.simplemobiletools.calendar.pro.activities.SplashActivity.Orange" name="calendar"/>
+
+	<!-- Camera -->
+	<item class="org.derpfest.flash.CameraLauncher" name="camera"/>
+
+	<!-- Camera -->
+	<item class="com.android.camera.CameraLauncher" name="camera"/>
+
+	<!-- Candy Crush Soda -->
+	<item class="com.king.candycrushsodasaga.StritzActivity" name="candy_crush_soda"/>
+
+	<!-- CoinTrend -->
+	<item class="com.cointrend.presentation.MainActivity" name="cointrend"/>
+
+	<!-- Da Fit -->
+	<item class="com.crrepa.band.my.SplashActivity" name="da_fit"/>
+
+	<!-- DataBackup -->
+	<item class="com.xayah.databackup.SplashActivity" name="databackup"/>
+
+	<!-- Diusagar -->
+	<item class="com.fisheriesowner.activity.SplashActivity" name="diusagar"/>
+
+	<!-- EtchDroid -->
+	<item class="eu.depau.etchdroid.ui.MainActivity" name="etchdroid"/>
+
+	<!-- Fi -->
+	<item class="com.epifi.paisa.ui.splash.SplashActivity" name="fi"/>
+
+	<!-- Fishing Points -->
+	<item class="com.gregacucnik.fishingpoints.WelcomeActivity" name="fishing_points"/>
+
+	<!-- FM Radio -->
+	<item class="com.caf.fmradio.FMRadio" name="fm_radio"/>
+
+	<!-- Gramophone -->
+	<item class="org.akanework.gramophone.ui.MainActivity" name="gramophone"/>
+
+	<!-- Intelligent CV -->
+	<item class="com.icv.resume.StartupActivity" name="intelligent_cv"/>
+
+	<!-- KeePassDX -->
+	<item class="com.kunzisoft.keepass.activities.FileDatabaseSelectActivity" name="keepassdx"/>
+
+	<!-- MR -->
+	<item class="xn.o4A.Ppy.YgN" name="mr"/>
+
+	<!-- Oinkoin -->
+	<item class="com.example.piggybank.MainActivity" name="oinkoin"/>
+
+	<!-- OsmAnd~ -->
+	<item class="net.osmand.plus.activities.MapActivity" name="osmand_"/>
+
+	<!-- Paytm -->
+	<item class="net.one97.paytm.landingpage.activity.AJRMainActivity" name="paytm"/>
+
+	<!-- Telegram -->
+	<item class="org.telegram.messenger.AquaIcon" name="telegram"/>
+
+	<!-- Torrents-csv -->
+	<item class="com.torrents_csv_android.MainActivity" name="torrents_csv"/>
+
+	<!-- ViperFX -->
+	<item class="com.wstxda.viper4android.MainActivity" name="viperfx"/>
+
+	<!-- Voice Search -->
+	<item class="com.google.android.googlequicksearchbox.VoiceSearchActivity" name="voice_search"/>
+
+	<!-- Voter Helpline -->
+	<item class="com.eci.citizen.features.splash.Splash" name="voter_helpline"/>
+
+	<!-- YONO SBI -->
+	<item class="com.sbi.lotusintouch.MainActivity" name="yono_sbi"/>
+
+</appmap>

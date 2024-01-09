@@ -1,0 +1,45 @@
+<resources>
+
+	<!-- bol -->
+	<item component="ComponentInfo{com.bol.shop/com.bol.shop.launch.ui.LaunchActivity}" drawable="bol" />
+
+	<!-- Bullet Echo -->
+	<item component="ComponentInfo{com.zeptolab.bulletecho.google/com.zf3.GameActivity}" drawable="bullet_echo" />
+
+	<!-- Bumble -->
+	<item component="ComponentInfo{com.bumble.app/com.bumble.app.ui.launcher.BumbleLauncherActivity}" drawable="bumble" />
+
+	<!-- Calculator -->
+	<item component="ComponentInfo{com.oneplus.calculator/com.oneplus.calculator.Calculator}" drawable="calculator" />
+
+	<!-- Camera -->
+	<item component="ComponentInfo{com.oneplus.camera/com.oneplus.camera.OPCameraActivity}" drawable="camera" />
+
+	<!-- Chess -->
+	<item component="ComponentInfo{com.chess/com.chess.splash.SplashActivity}" drawable="chess" />
+
+	<!-- CIFI -->
+	<item component="ComponentInfo{com.OctocubeGamesCompany.CIFI/com.unity3d.player.UnityPlayerActivity}" drawable="cifi" />
+
+	<!-- Games -->
+	<item component="ComponentInfo{com.oplus.games/com.oplus.games.ui.main.MainGameActivity}" drawable="games" />
+
+	<!-- Hearthstone -->
+	<item component="ComponentInfo{com.blizzard.wtcg.hearthstone/com.blizzard.wtcg.hearthstone.HearthstoneActivity}" drawable="hearthstone" />
+
+	<!-- ISEPS -->
+	<item component="ComponentInfo{com.AppSociety.ISEPS/com.unity3d.player.UnityPlayerActivity}" drawable="iseps" />
+
+	<!-- Nyx -->
+	<item component="ComponentInfo{com.awedea.nyx/com.awedea.nyx.activities.SplashScreenActivity}" drawable="nyx" />
+
+	<!-- Rewards -->
+	<item component="ComponentInfo{com.google.android.apps.paidtasks/com.google.android.apps.paidtasks.activity.LaunchActivity}" drawable="rewards" />
+
+	<!-- Sleep -->
+	<item component="ComponentInfo{com.urbandroid.sleep/com.urbandroid.sleep.alarmclock.AlarmClock}" drawable="sleep" />
+
+	<!-- Tachiyomi -->
+	<item component="ComponentInfo{eu.kanade.tachiyomi/eu.kanade.tachiyomi.ui.main.MainActivity}" drawable="tachiyomi" />
+
+</resources>

@@ -1,0 +1,42 @@
+<resources>
+
+	<!-- Avsar -->
+	<item component="ComponentInfo{com.avsar.app/com.avsar.app.MainActivity}" drawable="avsar" />
+
+	<!-- Camera -->
+	<item component="ComponentInfo{com.oneplus.camera/com.oneplus.camera.OPCameraActivity}" drawable="camera" />
+
+	<!-- Clock -->
+	<item component="ComponentInfo{com.oneplus.deskclock/com.oneplus.deskclock.DeskClock}" drawable="clock" />
+
+	<!-- DMSS -->
+	<item component="ComponentInfo{com.mm.android.DMSS/com.mm.android.base.devicemain.SplashActivity}" drawable="dmss" />
+
+	<!-- File manager -->
+	<item component="ComponentInfo{com.oneplus.filemanager/com.oneplus.filemanager.HomePageActivity}" drawable="file_manager" />
+
+	<!-- Gallery -->
+	<item component="ComponentInfo{com.oneplus.gallery/com.oneplus.gallery.OPGalleryActivity}" drawable="gallery" />
+
+	<!-- IDFC FIRST Bank -->
+	<item component="ComponentInfo{com.idfcfirstbank.optimus/com.idfcfirstbank.optimus.MainActivity}" drawable="idfc_first_bank" />
+
+	<!-- MDM -->
+	<item component="ComponentInfo{nic.hp.mdm/nic.hp.mdm.SplashActivity}" drawable="mdm" />
+
+	<!-- Music -->
+	<item component="ComponentInfo{com.android.music/com.android.music.MusicBrowserActivity}" drawable="music" />
+
+	<!-- Saksham Samiksha -->
+	<item component="ComponentInfo{com.samagra.sakshamSamiksha/com.samagra.parent.ui.splash.SplashActivity}" drawable="saksham_samiksha" />
+
+	<!-- SBI Quick -->
+	<item component="ComponentInfo{com.sbi.sbiquick/com.sbi.sbiquick.MainActivity}" drawable="sbi_quick" />
+
+	<!-- Sony LIV -->
+	<item component="ComponentInfo{com.sonyliv/com.sonyliv.ui.splash.SplashActivity}" drawable="sony_liv" />
+
+	<!-- YONO SBI -->
+	<item component="ComponentInfo{com.sbi.lotusintouch/com.sbi.lotusintouch.MainActivity}" drawable="yono_sbi" />
+
+</resources>

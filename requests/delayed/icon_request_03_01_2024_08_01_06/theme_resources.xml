@@ -1,0 +1,144 @@
+<Theme version="1">
+
+	<!-- 365Scores -->
+	<AppIcon name="com.scores365/com.scores365.ui.Splash" image="_365scores"/>
+
+	<!-- Applaydu -->
+	<AppIcon name="com.ferrero.applayduGP/com.unity3d.player.UnityPlayerActivity" image="applaydu"/>
+
+	<!-- Bowmasters -->
+	<AppIcon name="com.miniclip.bowmasters/com.miniclip.bowmasters.BowmastersActivity" image="bowmasters"/>
+
+	<!-- Calendar -->
+	<AppIcon name="com.xiaomi.calendar/com.android.calendar.homepage.AllInOneActivity" image="calendar"/>
+
+	<!-- Call of Duty -->
+	<AppIcon name="com.activision.callofduty.shooter/com.tencent.tmgp.cod.CODMPrivatePermissionActivity" image="call_of_duty"/>
+
+	<!-- CarX Street -->
+	<AppIcon name="com.carxtech.sr/com.unity3d.player.UnityPlayerActivity" image="carx_street"/>
+
+	<!-- Chess -->
+	<AppIcon name="com.chess/com.chess.splash.SplashActivity" image="chess"/>
+
+	<!-- Clock -->
+	<AppIcon name="com.android.deskclock/com.android.deskclock.DeskClockTabActivity" image="clock"/>
+
+	<!-- Dictionary -->
+	<AppIcon name="com.mobisystems.msdict.embedded.wireless.oxford.dictionaryofenglish/com.mobisystems.oxford_dictionary.MainActivity" image="dictionary"/>
+
+	<!-- Downloads -->
+	<AppIcon name="com.android.providers.downloads.ui/com.android.providers.downloads.ui.DownloadList" image="downloads"/>
+
+	<!-- Duel Links -->
+	<AppIcon name="jp.konami.duellinks/jp.konami.duellinks.plugins.YgomMainActivity" image="duel_links"/>
+
+	<!-- Duo Mobile -->
+	<AppIcon name="com.duosecurity.duomobile/com.duosecurity.duomobile.account_list.AccountListActivity" image="duo_mobile"/>
+
+	<!-- Free Fire -->
+	<AppIcon name="com.dts.freefireth/com.dts.freefireth.FFMainActivity" image="free_fire"/>
+
+	<!-- Gallery -->
+	<AppIcon name="com.miui.gallery/com.miui.gallery.activity.HomePageActivity" image="gallery"/>
+
+	<!-- GetApps -->
+	<AppIcon name="com.xiaomi.mipicks/com.xiaomi.mipicks.DefaultAlias" image="getapps"/>
+
+	<!-- Geto -->
+	<AppIcon name="com.android.geto/com.android.geto.MainActivity" image="geto"/>
+
+	<!-- HDO Box -->
+	<AppIcon name="com.hdobox/com.hdobox.MainActivity" image="hdo_box"/>
+
+	<!-- Hungry Shark -->
+	<AppIcon name="com.fgol.HungrySharkEvolution/com.unity3d.player.UnityPlayerActivity" image="hungry_shark"/>
+
+	<!-- Hungry Shark -->
+	<AppIcon name="com.ubisoft.hungrysharkworld/com.unity3d.player.UnityPlayerActivity" image="hungry_shark"/>
+
+	<!-- Johnny Trigger -->
+	<AppIcon name="com.time.trigger/by.saygames.SayKitActivity" image="johnny_trigger"/>
+
+	<!-- MediaOn -->
+	<AppIcon name="com.mediaon.apt/com.mediaon.apt.MainActivity" image="mediaon"/>
+
+	<!-- Mi Band 6 Watch Faces -->
+	<AppIcon name="asn.ark.miband6/asn.ark.miband6.activites.SplashScreen" image="mi_band_6_watch_faces"/>
+
+	<!-- Mi Remote -->
+	<AppIcon name="com.duokan.phone.remotecontroller/com.xiaomi.mitv.phone.remotecontroller.HoriWidgetMainActivityV2" image="mi_remote"/>
+
+	<!-- MiBand6 -->
+	<AppIcon name="dev.rokitskiy.miband6_watchface/dev.rokitskiy.miband6_watchface.MainActivity" image="miband6"/>
+
+	<!-- My Orange -->
+	<AppIcon name="com.orange.mobinilandme/com.linkdev.mobinilandme.ui.SplashScreen" image="my_orange"/>
+
+	<!-- Null’s Brawl -->
+	<AppIcon name="daniillnull.nulls.brawlstars/com.supercell.brawlstars.GameApp" image="null’s_brawl"/>
+
+	<!-- PandaVPN -->
+	<AppIcon name="com.pandavpn.androidproxy/com.pandavpn.androidproxy.ui.main.MainActivity" image="pandavpn"/>
+
+	<!-- PandaVPN -->
+	<AppIcon name="com.pandavpnfree.androidproxy/com.pandavpn.androidproxy.ui.splash.activity.SplashActivity" image="pandavpn"/>
+
+	<!-- Picsart -->
+	<AppIcon name="com.picsart.studio/com.socialin.android.photo.picsinphoto.MainPagerActivity" image="picsart"/>
+
+	<!-- Poco Community -->
+	<AppIcon name="com.mi.global.pocobbs/com.mi.global.pocobbs.ui.SplashActivity" image="poco_community"/>
+
+	<!-- PUBG MOBILE -->
+	<AppIcon name="com.pubg.krmobile/com.epicgames.ue4.SplashActivity" image="pubg_mobile"/>
+
+	<!-- Rewards -->
+	<AppIcon name="com.google.android.apps.paidtasks/com.google.android.apps.paidtasks.activity.LaunchActivity" image="rewards"/>
+
+	<!-- Ring Sizer -->
+	<AppIcon name="ru.cherrydesign.ringsizer/ru.cherrydesign.ringsizer.SplashActivity" image="ring_sizer"/>
+
+	<!-- Router Chef -->
+	<AppIcon name="com.raouf.routerchef/com.raouf.routerchef.SplashScreen" image="router_chef"/>
+
+	<!-- SD Maid -->
+	<AppIcon name="eu.thedarken.sdm/eu.thedarken.sdm.main.ui.SDMMainActivity" image="sd_maid"/>
+
+	<!-- SD Maid Pro -->
+	<AppIcon name="eu.thedarken.sdm.unlocker/eu.thedarken.sdm.unlocker.MainActivity" image="sd_maid_pro"/>
+
+	<!-- Shizuku -->
+	<AppIcon name="moe.shizuku.privileged.api/moe.shizuku.manager.MainActivity" image="shizuku"/>
+
+	<!-- Sling Drift -->
+	<AppIcon name="com.rubygames.slingdrift/com.rubygames.slingdrift.UnityPlayerActivity" image="sling_drift"/>
+
+	<!-- slither.io -->
+	<AppIcon name="air.com.hypah.io.slither.TopXNewWorm/air.com.hypah.io.slither.AppEntry" image="slitherio"/>
+
+	<!-- Subway Surf -->
+	<AppIcon name="com.kiloo.subwaysurf/com.sybogames.chili.multidex.ChiliMultidexSupportActivity" image="subway_surf"/>
+
+	<!-- TeraBox -->
+	<AppIcon name="com.dubox.drive/com.dubox.drive.ui.Logo0LauncherActivity" image="terabox"/>
+
+	<!-- Themes -->
+	<AppIcon name="com.android.thememanager/com.android.thememanager.ThemeResourceTabActivity" image="themes"/>
+
+	<!-- Twitch -->
+	<AppIcon name="tv.twitch.android.app/tv.twitch.android.app.core.LandingActivity" image="twitch"/>
+
+	<!-- VK -->
+	<AppIcon name="com.vkontakte.android/com.vk.android.launcher.icons.IconAlias.DefaultIcon" image="vk"/>
+
+	<!-- Wallcraft -->
+	<AppIcon name="com.wallpaperscraft.wallpaper/com.wallpaperscraft.wallpaper.feature.main.MainActivity" image="wallcraft"/>
+
+	<!-- ZArchiver Pro -->
+	<AppIcon name="ru.zdevs.zarchiver.pro/ru.zdevs.zarchiver.pro.ZArchiver" image="zarchiver_pro"/>
+
+	<!-- مصحف الحرمين -->
+	<AppIcon name="com.arabia_it.moshaf/com.arabia_it.moshaf.ui.splash.SplashActivity" image="مصحف_الحرمين"/>
+
+</Theme>

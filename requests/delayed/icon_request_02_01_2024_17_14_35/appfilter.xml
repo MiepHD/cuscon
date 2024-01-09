@@ -1,0 +1,27 @@
+<resources>
+
+	<!-- Cruciverba 10 Pro -->
+	<item component="ComponentInfo{com.blog.deschamps.crosswords.pro/com.blog.deschamps.crosswords.activities.MainMenuActivity}" drawable="cruciverba_10_pro" />
+
+	<!-- Inspector -->
+	<item component="ComponentInfo{ussr.razar.inspector/ussr.razar.inspector.StartAc}" drawable="inspector" />
+
+	<!-- Neutron Player -->
+	<item component="ComponentInfo{com.neutroncode.mp/com.neutroncode.mp.NeutronMPCore}" drawable="neutron_player" />
+
+	<!-- RE Equalizer -->
+	<item component="ComponentInfo{com.wiseschematics.reeq01/com.wiseschematics.reeq01.EQ}" drawable="re_equalizer" />
+
+	<!-- Runner -->
+	<item component="ComponentInfo{ir.lydia.runner/ir.lydia.runner.SplashScreen}" drawable="runner" />
+
+	<!-- SD Maid SE -->
+	<item component="ComponentInfo{eu.darken.sdmse/eu.darken.sdmse.main.ui.MainActivity}" drawable="sd_maid_se" />
+
+	<!-- STARS -->
+	<item component="ComponentInfo{com.maxelus.livewallpaper.stars/com.justzht.unity.lwp.activity.LiveWallpaperLauncherRedirectActivity}" drawable="stars" />
+
+	<!-- SuperFreezZ -->
+	<item component="ComponentInfo{superfreeze.tool.android/superfreeze.tool.android.userInterface.mainActivity.MainActivity}" drawable="superfreezz" />
+
+</resources>

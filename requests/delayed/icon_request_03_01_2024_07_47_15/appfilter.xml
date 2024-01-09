@@ -1,0 +1,51 @@
+<resources>
+
+	<!-- Cache Cleaner -->
+	<item component="ComponentInfo{com.github.bmx666.appcachecleaner/com.github.bmx666.appcachecleaner.ui.activity.LauncherActivity}" drawable="cache_cleaner" />
+
+	<!-- Calendar -->
+	<item component="ComponentInfo{foundation.e.calendar/com.android.calendar.AllInOneActivity}" drawable="calendar" />
+
+	<!-- Camera -->
+	<item component="ComponentInfo{foundation.e.camera/net.sourceforge.opencamera.MainActivity}" drawable="camera" />
+
+	<!-- FM Radio -->
+	<item component="ComponentInfo{com.caf.fmradio/com.caf.fmradio.FMRadio}" drawable="fm_radio" />
+
+	<!-- Gap Messenger -->
+	<item component="ComponentInfo{com.gapafzar.messenger/com.gapafzar.messenger.activity.MainActivity}" drawable="gap_messenger" />
+
+	<!-- Magic Earth -->
+	<item component="ComponentInfo{com.generalmagic.magicearth/com.magiclane.androidsphere.map.MapActivity}" drawable="magic_earth" />
+
+	<!-- My Angela 2 -->
+	<item component="ComponentInfo{com.outfit7.mytalkingangela2/com.outfit7.sabretooth.MainActivity}" drawable="my_angela_2" />
+
+	<!-- OpenKeychain -->
+	<item component="ComponentInfo{org.sufficientlysecure.keychain/org.sufficientlysecure.keychain.ui.MainActivity}" drawable="openkeychain" />
+
+	<!-- PipePipe -->
+	<item component="ComponentInfo{InfinityLoop1309.NewPipeEnhanced/org.schabi.newpipe.MainActivity}" drawable="pipepipe" />
+
+	<!-- Power Girls - Fantastic Heroes -->
+	<item component="ComponentInfo{com.tutotoons.app.powergirlsfantasticheroes/com.unity3d.player.UnityPlayerActivity}" drawable="power_girls_fantastic_heroes" />
+
+	<!-- PsTube -->
+	<item component="ComponentInfo{com.prateekmedia.pstube/com.prateekmedia.pstube.MainActivity}" drawable="pstube" />
+
+	<!-- Rescue Lover -->
+	<item component="ComponentInfo{com.MegaJoy.Rescue/com.unity3d.player.UnityPlayerActivity}" drawable="rescue_lover" />
+
+	<!-- Tasks -->
+	<item component="ComponentInfo{foundation.e.tasks/org.dmfs.tasks.TaskListActivity}" drawable="tasks" />
+
+	<!-- Virasty -->
+	<item component="ComponentInfo{com.virasty.app/com.microblog.app.MainActivity}" drawable="virasty" />
+
+	<!-- ایران صدا -->
+	<item component="ComponentInfo{ir.iribradio.iranseda3/ir.iranseda.ChannelPage}" drawable="ایران_صدا" />
+
+	<!-- پازل شاهزاده یخی -->
+	<item component="ComponentInfo{app.puzzle.frozen/app.puzzle.frozen.HomeActivity}" drawable="پازل_شاهزاده_یخی" />
+
+</resources>

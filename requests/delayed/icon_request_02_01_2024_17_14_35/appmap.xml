@@ -1,0 +1,27 @@
+<appmap>
+
+	<!-- Cruciverba 10 Pro -->
+	<item class="com.blog.deschamps.crosswords.activities.MainMenuActivity" name="cruciverba_10_pro"/>
+
+	<!-- Inspector -->
+	<item class="ussr.razar.inspector.StartAc" name="inspector"/>
+
+	<!-- Neutron Player -->
+	<item class="com.neutroncode.mp.NeutronMPCore" name="neutron_player"/>
+
+	<!-- RE Equalizer -->
+	<item class="com.wiseschematics.reeq01.EQ" name="re_equalizer"/>
+
+	<!-- Runner -->
+	<item class="ir.lydia.runner.SplashScreen" name="runner"/>
+
+	<!-- SD Maid SE -->
+	<item class="eu.darken.sdmse.main.ui.MainActivity" name="sd_maid_se"/>
+
+	<!-- STARS -->
+	<item class="com.justzht.unity.lwp.activity.LiveWallpaperLauncherRedirectActivity" name="stars"/>
+
+	<!-- SuperFreezZ -->
+	<item class="superfreeze.tool.android.userInterface.mainActivity.MainActivity" name="superfreezz"/>
+
+</appmap>

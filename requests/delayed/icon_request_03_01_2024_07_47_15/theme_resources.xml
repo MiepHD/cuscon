@@ -1,0 +1,51 @@
+<Theme version="1">
+
+	<!-- Cache Cleaner -->
+	<AppIcon name="com.github.bmx666.appcachecleaner/com.github.bmx666.appcachecleaner.ui.activity.LauncherActivity" image="cache_cleaner"/>
+
+	<!-- Calendar -->
+	<AppIcon name="foundation.e.calendar/com.android.calendar.AllInOneActivity" image="calendar"/>
+
+	<!-- Camera -->
+	<AppIcon name="foundation.e.camera/net.sourceforge.opencamera.MainActivity" image="camera"/>
+
+	<!-- FM Radio -->
+	<AppIcon name="com.caf.fmradio/com.caf.fmradio.FMRadio" image="fm_radio"/>
+
+	<!-- Gap Messenger -->
+	<AppIcon name="com.gapafzar.messenger/com.gapafzar.messenger.activity.MainActivity" image="gap_messenger"/>
+
+	<!-- Magic Earth -->
+	<AppIcon name="com.generalmagic.magicearth/com.magiclane.androidsphere.map.MapActivity" image="magic_earth"/>
+
+	<!-- My Angela 2 -->
+	<AppIcon name="com.outfit7.mytalkingangela2/com.outfit7.sabretooth.MainActivity" image="my_angela_2"/>
+
+	<!-- OpenKeychain -->
+	<AppIcon name="org.sufficientlysecure.keychain/org.sufficientlysecure.keychain.ui.MainActivity" image="openkeychain"/>
+	
+	<!-- PipePipe -->
+	<AppIcon name="InfinityLoop1309.NewPipeEnhanced/org.schabi.newpipe.MainActivity" image="pipepipe"/>
+
+	<!-- Power Girls - Fantastic Heroes -->
+	<AppIcon name="com.tutotoons.app.powergirlsfantasticheroes/com.unity3d.player.UnityPlayerActivity" image="power_girls_fantastic_heroes"/>
+
+	<!-- PsTube -->
+	<AppIcon name="com.prateekmedia.pstube/com.prateekmedia.pstube.MainActivity" image="pstube"/>
+
+	<!-- Rescue Lover -->
+	<AppIcon name="com.MegaJoy.Rescue/com.unity3d.player.UnityPlayerActivity" image="rescue_lover"/>
+
+	<!-- Tasks -->
+	<AppIcon name="foundation.e.tasks/org.dmfs.tasks.TaskListActivity" image="tasks"/>
+
+	<!-- Virasty -->
+	<AppIcon name="com.virasty.app/com.microblog.app.MainActivity" image="virasty"/>
+
+	<!-- ایران صدا -->
+	<AppIcon name="ir.iribradio.iranseda3/ir.iranseda.ChannelPage" image="ایران_صدا"/>
+
+	<!-- پازل شاهزاده یخی -->
+	<AppIcon name="app.puzzle.frozen/app.puzzle.frozen.HomeActivity" image="پازل_شاهزاده_یخی"/>
+
+</Theme>

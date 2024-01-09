@@ -1,0 +1,330 @@
+<resources>
+
+	<!-- AnkiDroid -->
+	<item component="ComponentInfo{com.ichi2.anki/com.ichi2.anki.IntentHandler}" drawable="ankidroid" />
+
+	<!-- Atomas -->
+	<item component="ComponentInfo{com.sirnic.atomas/org.cocos2dx.cpp.AppActivity}" drawable="atomas" />
+
+	<!-- Beatstar -->
+	<item component="ComponentInfo{com.spaceapegames.beatstar/com.unity3d.player.UnityPlayerActivity}" drawable="beatstar" />
+
+	<!-- Best Fiends -->
+	<item component="ComponentInfo{com.Seriously.BestFiends/com.appboy.unity.AppboyUnityPlayerActivity}" drawable="best_fiends" />
+
+	<!-- Bloons TD 6 NETFLIX -->
+	<item component="ComponentInfo{com.netflix.NGP.BloonsTDSix/com.unity3d.player.UnityPlayerActivity}" drawable="bloons_td_6_netflix" />
+
+	<!-- C.A.T.S. -->
+	<item component="ComponentInfo{com.zeptolab.cats.google/com.zeptolab.cats.CATSActivity}" drawable="cats" />
+
+	<!-- Card Shop Tycoon 2 -->
+	<item component="ComponentInfo{com.OPNeonGame.TCGShopGame/com.unity3d.player.UnityPlayerActivity}" drawable="card_shop_tycoon_2" />
+
+	<!-- Case Hunter -->
+	<item component="ComponentInfo{com.eyewind.case.master/com.eyewind.mcase.master.MainActivity}" drawable="case_hunter" />
+
+	<!-- Castle Crush -->
+	<item component="ComponentInfo{com.tfgco.games.strategy.free.castlecrush/com.tfgco.games.strategy.free.castlecrush.AppActivity}" drawable="castle_crush" />
+
+	<!-- Cats are Cute -->
+	<item component="ComponentInfo{com.game.kkiruk.myadorablecats/com.unity3d.player.UnityPlayerActivity}" drawable="cats_are_cute" />
+
+	<!-- Cineplex -->
+	<item component="ComponentInfo{de.cineplex.androidapp/com.cinuru.app.MainActivity}" drawable="cineplex" />
+
+	<!-- Construction Set -->
+	<item component="ComponentInfo{com.constructor.games/by.saygames.SayKitActivity}" drawable="construction_set" />
+
+	<!-- Country Star -->
+	<item component="ComponentInfo{com.spaceapegames.country.music.game/com.unity3d.player.UnityPlayerActivity}" drawable="country_star" />
+
+	<!-- Cryptogram -->
+	<item component="ComponentInfo{com.jmsc.cryptogram/com.jmsc.cryptogram.SplashActivity}" drawable="cryptogram" />
+
+	<!-- Cube Escape -->
+	<item component="ComponentInfo{air.com.RustyLake.CubeEscapeCollection/air.com.RustyLake.CubeEscapeCollection.AppEntry}" drawable="cube_escape" />
+
+	<!-- Cube Escape Paradox -->
+	<item component="ComponentInfo{air.com.RustyLake.CubeEscapeParadox/air.com.RustyLake.CubeEscapeParadox.AppEntry}" drawable="cube_escape_paradox" />
+
+	<!-- Cube Solver -->
+	<item component="ComponentInfo{com.jeffprod.cubesolver/com.jeffprod.cubesolver.MainActivity}" drawable="cube_solver" />
+
+	<!-- DAK App -->
+	<item component="ComponentInfo{de.dak.dak_app/de.dak.startup.StartUpActivity}" drawable="dak_app" />
+
+	<!-- DAK ePA -->
+	<item component="ComponentInfo{com.rise_world.epa.dakGesundheit.qu/com.rise_world.epa.ui.splash.SplashActivity}" drawable="dak_epa" />
+
+	<!-- dataDex -->
+	<item component="ComponentInfo{com.talzz.datadex/com.talzz.datadex.activities.main.MainActivity}" drawable="datadex" />
+
+	<!-- Discord -->
+	<item component="ComponentInfo{com.discord/com.discord.main.MainDefault}" drawable="discord" />
+
+	<!-- Don't get fired! -->
+	<item component="ComponentInfo{com.quickturtle.EmployeeSurvival_en/com.unity3d.player.UnityPlayerActivity}" drawable="dont_get_fired_" />
+
+	<!-- Doodle Me -->
+	<item component="ComponentInfo{com.highxp.doodle/com.highxp.doodle.MainActivity}" drawable="doodle_me" />
+
+	<!-- DragonCity -->
+	<item component="ComponentInfo{es.socialpoint.DragonCity/es.socialpoint.hydra.permissions.PermissionsActivity}" drawable="dragoncity" />
+
+	<!-- eBay -->
+	<item component="ComponentInfo{com.ebay.mobile/com.ebay.mobile.home.impl.main.MainActivity}" drawable="ebay" />
+
+	<!-- Einstein Island -->
+	<item component="ComponentInfo{com.blackpumalabs.treasureisland/com.blackpumalabs.treasureisland.StartActivity}" drawable="einstein_island" />
+
+	<!-- Endlos Quiz -->
+	<item component="ComponentInfo{com.timleg.quiz/com.timleg.quiz.Game}" drawable="endlos_quiz" />
+
+	<!-- Evertale -->
+	<item component="ComponentInfo{com.zigzagame.evertale/com.google.firebase.MessagingUnityPlayerActivity}" drawable="evertale" />
+
+	<!-- EvoCreo -->
+	<item component="ComponentInfo{ilmfinity.evocreo.main.android/ilmfinity.evocreo.main.android.AndroidLauncher}" drawable="evocreo" />
+
+	<!-- Flo -->
+	<item component="ComponentInfo{org.iggymedia.periodtracker/org.iggymedia.periodtracker.activities.InitialActivity}" drawable="flo" />
+
+	<!-- Fortelling -->
+	<item component="ComponentInfo{app.fortelling/app.fortelling.MainActivity}" drawable="fortelling" />
+
+	<!-- FreeOTP -->
+	<item component="ComponentInfo{org.fedorahosted.freeotp/org.fedorahosted.freeotp.PasswordActivity}" drawable="freeotp" />
+
+	<!-- Fun Run 3 -->
+	<item component="ComponentInfo{com.dirtybit.fra/com.unity3d.player.UnityPlayerActivity}" drawable="fun_run_3" />
+
+	<!-- Gacha Life -->
+	<item component="ComponentInfo{air.com.lunime.gachalife/air.com.lunime.gachalife.AppEntry}" drawable="gacha_life" />
+
+	<!-- Gardenscapes -->
+	<item component="ComponentInfo{com.playrix.gardenscapes/com.playrix.gardenscapes.LoadActivityStore}" drawable="gardenscapes" />
+
+	<!-- Geometry Dash Lite -->
+	<item component="ComponentInfo{com.robtopx.geometryjumplite/com.robtopx.geometryjumplite.GeometryDashLite}" drawable="geometry_dash_lite" />
+
+	<!-- Geometry Dash Meltdown -->
+	<item component="ComponentInfo{com.robtopx.geometrydashmeltdown/com.robtopx.geometryjumplite.GeometryDashLite}" drawable="geometry_dash_meltdown" />
+
+	<!-- Geometry Dash SubZero -->
+	<item component="ComponentInfo{com.robtopx.geometrydashsubzero/com.robtopx.geometryjumplite.GeometryDashLite}" drawable="geometry_dash_subzero" />
+
+	<!-- Geometry Dash World -->
+	<item component="ComponentInfo{com.robtopx.geometrydashworld/com.robtopx.geometryjumplite.GeometryDashLite}" drawable="geometry_dash_world" />
+
+	<!-- geteduroam -->
+	<item component="ComponentInfo{app.eduroam.geteduroam/app.eduroam.geteduroam.MainActivity}" drawable="geteduroam" />
+
+	<!-- Getwardrobe -->
+	<item component="ComponentInfo{com.ThreeBoots/com.ThreeBoots.MainActivity}" drawable="getwardrobe" />
+
+	<!-- Goldex -->
+	<item component="ComponentInfo{com.goldex/com.goldex.view.activity.MainActivity}" drawable="goldex" />
+
+	<!-- Happy Color -->
+	<item component="ComponentInfo{com.pixel.art.coloring.color.number/com.unity3d.player.HappyColorActivity}" drawable="happy_color" />
+
+	<!-- Hay Day -->
+	<item component="ComponentInfo{com.supercell.hayday/com.supercell.hayday.GameApp}" drawable="hay_day" />
+
+	<!-- Hi Color -->
+	<item component="ComponentInfo{happy.color.paint.by.number.coloring.art.book/com.unity3d.player.UnityPlayerActivity}" drawable="hi_color" />
+
+	<!-- Hybrid Warrior -->
+	<item component="ComponentInfo{com.catlab.hybridglobal/org.cocos2dx.cpp.AppActivity}" drawable="hybrid_warrior" />
+
+	<!-- Hyper Cards -->
+	<item component="ComponentInfo{com.adc.HyperCards/com.boombit.MainActivity}" drawable="hyper_cards" />
+
+	<!-- Jurassic World -->
+	<item component="ComponentInfo{com.ludia.jurassicworld/com.ludia.engine.application.GameActivity}" drawable="jurassic_world" />
+
+	<!-- Karpador -->
+	<item component="ComponentInfo{jp.pokemon.koiking/org.cocos2dx.cpp.AppActivity}" drawable="karpador" />
+
+	<!-- Kennzeichensammler -->
+	<item component="ComponentInfo{email.com.gmail.at.tornadoredapps.kennzeichensammler/email.com.gmail.at.tornadoredapps.kennzeichensammler.MainActivity}" drawable="kennzeichensammler" />
+
+	<!-- King of Thieves -->
+	<item component="ComponentInfo{com.zeptolab.thieves.google/com.zeptolab.thieves.ThievesActivity}" drawable="king_of_thieves" />
+
+	<!-- Klotski -->
+	<item component="ComponentInfo{com.alcamasoft.juegos.klotski.android/com.alcamasoft.juegos.klotski.android.activities.MainActivity}" drawable="klotski" />
+
+	<!-- Lass uns spielen -->
+	<item component="ComponentInfo{com.haegin.playtogether/com.google.firebase.MessagingUnityPlayerActivity}" drawable="lass_uns_spielen" />
+
+	<!-- Sticker.style -->
+	<item component="ComponentInfo{com.style.sticker/com.zlb.sticker.moudle.flash.FlashActivity}" drawable="stickerstyle" />
+
+	<!-- Legend Slime -->
+	<item component="ComponentInfo{com.loadcomplete.slimeidle/com.loadcomplete.UnityPlayerActivityExtension}" drawable="legend_slime" />
+
+	<!-- LEGO® Builder -->
+	<item component="ComponentInfo{com.lego.legobuildinginstructions/com.unity3d.player.UnityPlayerActivity}" drawable="lego®_builder" />
+
+	<!-- Lifesum -->
+	<item component="ComponentInfo{com.sillens.shapeupclub/com.lifesum.android.main.MainActivity}" drawable="lifesum" />
+
+	<!-- LogoTest World -->
+	<item component="ComponentInfo{com.oyeapps.logotestworld2/com.oyeapps.logotest.activities.SplashActivity}" drawable="logotest_world" />
+
+	<!-- MealSwipe -->
+	<item component="ComponentInfo{de.mealswipe.android/de.linova.mealswipe.application.MainActivity}" drawable="mealswipe" />
+
+	<!-- Mensa -->
+	<item component="ComponentInfo{de.imensa.app.android/de.mensas.app.Mensas}" drawable="mensa" />
+
+	<!-- Meow Tower -->
+	<item component="ComponentInfo{com.grapetree.meowtower/com.unity3d.player.UnityPlayerActivity}" drawable="meow_tower" />
+
+	<!-- Mind Tracker -->
+	<item component="ComponentInfo{com.fedosov.mindtracker/com.fedosov.mindtracker.MainActivity}" drawable="mind_tracker" />
+
+	<!-- MineTap -->
+	<item component="ComponentInfo{com.mvgamesteam.minetap/com.google.firebase.MessagingUnityPlayerActivity}" drawable="minetap" />
+
+	<!-- MONOPOLY GO -->
+	<item component="ComponentInfo{com.scopely.monopolygo/com.scopely.unity.ScopelyUnityActivity}" drawable="monopoly_go" />
+
+	<!-- Morse Chat -->
+	<item component="ComponentInfo{digital.dong.morsechat/digital.dong.morsechat.MainActivity}" drawable="morse_chat" />
+
+	<!-- Morse code -->
+	<item component="ComponentInfo{holecek.pavel.MorseCode/crc648bbdc909d4b41b63.MainActivity}" drawable="morse_code" />
+
+	<!-- Music AI -->
+	<item component="ComponentInfo{com.feraset.tune/com.feraset.tune.MainActivity}" drawable="music_ai" />
+
+	<!-- MyWTC -->
+	<item component="ComponentInfo{com.hellotoon.mylittlecharacter/com.hellotoon.mylittlecharacter.MainActivity}" drawable="mywtc" />
+
+	<!-- Nimble Quest -->
+	<item component="ComponentInfo{com.nimblebit.nimblequest/com.unity3d.player.UnityPlayerNativeActivity}" drawable="nimble_quest" />
+
+	<!-- Nobodies: MurderCleaner -->
+	<item component="ComponentInfo{com.blyts.nobodies/com.unity3d.player.UnityPlayerActivity}" drawable="nobodies_murdercleaner" />
+
+	<!-- Old Friends -->
+	<item component="ComponentInfo{com.runawayplay.OldFriends/com.unity3d.player.UnityPlayerActivity}" drawable="old_friends" />
+
+	<!-- Plant Nanny -->
+	<item component="ComponentInfo{com.fourdesire.plantnanny2/com.fourdesire.plantnanny2.PNTMainActivityGooglePlay}" drawable="plant_nanny" />
+
+	<!-- Pokecardex -->
+	<item component="ComponentInfo{com.application.pokecardex/com.application.pokecardex.ui.MainActivity}" drawable="pokecardex" />
+
+	<!-- Pokémon GO -->
+	<item component="ComponentInfo{com.nianticlabs.pokemongo/com.nianticproject.holoholo.libholoholo.unity.UnityMainActivity}" drawable="pokemon_go" />
+
+	<!-- Pokémon HOME -->
+	<item component="ComponentInfo{jp.pokemon.pokemonhome/com.unity3d.player.UnityPlayerActivity}" drawable="pokemon_home" />
+
+	<!-- Pokémon UNITE -->
+	<item component="ComponentInfo{jp.pokemon.pokemonunite/com.nishiki.pgame.n.PGameLauncherActivity}" drawable="pokemon_unite" />
+
+	<!-- PokémonCaféReMix -->
+	<item component="ComponentInfo{jp.pokemon.pokemoncafemix/com.geniussonority.app.TartNativeActivity}" drawable="pokemoncaferemix" />
+
+	<!-- Pokeverse World -->
+	<item component="ComponentInfo{com.pbwtys.eb/com.molesdk.pro.SplashActivity}" drawable="pokeverse_world" />
+
+	<!-- Public Transport Simulator -->
+	<item component="ComponentInfo{com.skisosoft.pts/com.unity3d.player.UnityPlayerActivity}" drawable="public_transport_simulator" />
+
+	<!-- QuizzLand -->
+	<item component="ComponentInfo{com.xmonetize.quizzland/com.unity3d.player.UnityPlayerActivity}" drawable="quizzland" />
+
+	<!-- Regex Crossword -->
+	<item component="ComponentInfo{org.chromium.webapk.ab2faf19a81f51afb_v2/org.chromium.webapk.shell_apk.h2o.H2OOpaqueMainActivity}" drawable="regex_crossword" />
+
+	<!-- Rider -->
+	<item component="ComponentInfo{com.ketchapp.rider/com.unity3d.player.UnityPlayerActivity}" drawable="rider" />
+
+	<!-- Rider Worlds -->
+	<item component="ComponentInfo{com.ketchapp.rider.evolution.world.race.car.bike.flip/com.unity3d.player.UnityPlayerActivity}" drawable="rider_worlds" />
+
+	<!-- Rush Royale -->
+	<item component="ComponentInfo{com.my.defense/games.my.heart.commonpreloaderlib.PreloadActivity}" drawable="rush_royale" />
+
+	<!-- Samsara Room -->
+	<item component="ComponentInfo{air.com.RustyLake.SamsaraRoom/air.com.RustyLake.SamsaraRoom.AppEntry}" drawable="samsara_room" />
+
+	<!-- Samsung Global Goals -->
+	<item component="ComponentInfo{com.samsung.sree/com.samsung.sree.ui.MainActivity}" drawable="samsung_global_goals" />
+
+	<!-- Samsung Health -->
+	<item component="ComponentInfo{com.sec.android.app.shealth/com.samsung.android.app.shealth.home.HomeMainActivity}" drawable="samsung_health" />
+
+	<!-- Shootero -->
+	<item component="ComponentInfo{com.galaxyattack.invadershootero/com.unity3d.player.UnityPlayerActivity}" drawable="shootero" />
+
+	<!-- Simple Pokédex -->
+	<item component="ComponentInfo{com.opirep.simplepokedex/com.example.simple_pokedex.MainActivity}" drawable="simple_pokedex" />
+
+	<!-- Slime Quest -->
+	<item component="ComponentInfo{com.loadcomplete.slimequest/com.loadcomplete.UnityPlayerActivityExtension}" drawable="slime_quest" />
+
+	<!-- Stirnraten -->
+	<item component="ComponentInfo{com.roth.scharade_andiestirnundlos_raten/stirnraten.roth.com.stirnratenandroid.start.MainActivity}" drawable="stirnraten" />
+
+	<!-- Story Plotter -->
+	<item component="ComponentInfo{com.hhatamanga.storyplotter/com.hhatamanga.storyplotter.MainActivity}" drawable="story_plotter" />
+
+	<!-- Stundenplan -->
+	<item component="ComponentInfo{de.thefrogger.timetable/de.thefrogger.timetable.MainActivity}" drawable="stundenplan" />
+
+	<!-- Subway Surf -->
+	<item component="ComponentInfo{com.kiloo.subwaysurf/com.sybogames.chili.multidex.ChiliMultidexSupportActivity}" drawable="subway_surf" />
+
+	<!-- Sudoku -->
+	<item component="ComponentInfo{easy.sudoku.puzzle.solver.free/com.meevii.ui.activity.SplashActivity}" drawable="sudoku" />
+
+	<!-- Taste -->
+	<item component="ComponentInfo{com.tasteio/com.tasteio.MainActivity}" drawable="taste" />
+
+	<!-- TCGCardTycoon -->
+	<item component="ComponentInfo{com.OPNeon.TCGCardTycoon/com.unity3d.player.UnityPlayerActivity}" drawable="tcgcardtycoon" />
+
+	<!-- The Baby In Yellow -->
+	<item component="ComponentInfo{com.TeamTerrible.BabyInYellow/com.epicgames.ue4.SplashActivity}" drawable="the_baby_in_yellow" />
+
+	<!-- The Past Within Lite -->
+	<item component="ComponentInfo{air.com.RustyLake.ThePastWithinLite/air.com.RustyLake.ThePastWithinLite.AIRAppEntry}" drawable="the_past_within_lite" />
+
+	<!-- To-do List -->
+	<item component="ComponentInfo{todolist.scheduleplanner.dailyplanner.todo.reminders/app.todolist.activity.SplashActivity}" drawable="to_do_list" />
+
+	<!-- Tricky Castle -->
+	<item component="ComponentInfo{com.teamtricky.tc/com.teamtricky.tc.MainActivity}" drawable="tricky_castle" />
+
+	<!-- UniNow -->
+	<item component="ComponentInfo{de.mocama.UniNow/com.zoontek.rnbootsplash.RNBootSplashActivity}" drawable="uninow" />
+
+	<!-- Untis Mobile -->
+	<item component="ComponentInfo{com.grupet.web.app/com.untis.mobile.ui.activities.launcher.LauncherActivity}" drawable="untis_mobile" />
+
+	<!-- Voidpet Garden -->
+	<item component="ComponentInfo{com.voidpet/com.voidpet.MainActivity}" drawable="voidpet_garden" />
+
+	<!-- WEBTOON -->
+	<item component="ComponentInfo{com.naver.linewebtoon/com.naver.linewebtoon.splash.SplashActivity}" drawable="webtoon" />
+
+	<!-- X -->
+	<item component="ComponentInfo{com.twitter.android/com.twitter.android.StartActivity}" drawable="x" />
+
+	<!-- Zookemon -->
+	<item component="ComponentInfo{com.yorfstudio.zookemon/com.unity3d.player.UnityPlayerActivity}" drawable="zookemon" />
+
+	<!-- 究極トレーナー -->
+	<item component="ComponentInfo{com.sorig.inaloz/com.gumptech.sdk.ksbniIyoKaXfoOQe}" drawable="究極トレナ" />
+
+	<!-- 艾彼(Abi) -->
+	<item component="ComponentInfo{com.Lilith.Abi/com.lilithgame.abi.UnityPlayerActivity}" drawable="艾彼_abi_" />
+
+</resources>

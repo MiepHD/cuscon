@@ -1,0 +1,9 @@
+<resources>
+
+	<!-- Bubble Pop -->
+	<item component="ComponentInfo{ball.blast.bubble.pop.shooter.permainan.bola.buble/ball.blast.bubble.pop.shooter.permainan.bola.buble.StartAct}" drawable="bubble_pop" />
+
+	<!-- Free Fire MAX -->
+	<item component="ComponentInfo{com.dts.freefiremax/com.dts.freefireth.FFMainActivity}" drawable="free_fire_max" />
+
+</resources>

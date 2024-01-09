@@ -1,0 +1,33 @@
+<appmap>
+
+	<!-- Adif -->
+	<item class="com.adif.elcanomovil.main.MainActivity" name="adif"/>
+
+	<!-- AI Browser -->
+	<item class="com.joyer.tv.aibrowser.ui.MainActivity" name="ai_browser"/>
+
+	<!-- Dns Test -->
+	<item class="com.catinthebox.dnsspeedtest.Activities.MainActivity" name="dns_test"/>
+
+	<!-- Dolphin Zero -->
+	<item class="com.dolphin.browser.zero.main.MainActivity" name="dolphin_zero"/>
+
+	<!-- Google Earth -->
+	<item class="com.google.android.apps.earth.flutter.EarthFlutterActivity" name="google_earth"/>
+
+	<!-- Iron -->
+	<item class="com.google.android.apps.chrome.Main" name="iron"/>
+
+	<!-- Max Browser -->
+	<item class="com.max.browser.App" name="max_browser"/>
+
+	<!-- Maxthon -->
+	<item class="com.mx.browser.MxSplashActivity" name="maxthon"/>
+
+	<!-- Navegador APUS -->
+	<item class="com.superapps.browser.main.AppEnterActivity" name="navegador_apus"/>
+
+	<!-- Navegador web básico -->
+	<item class="com.apgsolutionsllc.APGSOLUTIONSLLC0007.MainActivityPhone" name="navegador_web_basico"/>
+
+</appmap>

@@ -1,0 +1,42 @@
+<appmap>
+
+	<!-- Avsar -->
+	<item class="com.avsar.app.MainActivity" name="avsar"/>
+
+	<!-- Camera -->
+	<item class="com.oneplus.camera.OPCameraActivity" name="camera"/>
+
+	<!-- Clock -->
+	<item class="com.oneplus.deskclock.DeskClock" name="clock"/>
+
+	<!-- DMSS -->
+	<item class="com.mm.android.base.devicemain.SplashActivity" name="dmss"/>
+
+	<!-- File manager -->
+	<item class="com.oneplus.filemanager.HomePageActivity" name="file_manager"/>
+
+	<!-- Gallery -->
+	<item class="com.oneplus.gallery.OPGalleryActivity" name="gallery"/>
+
+	<!-- IDFC FIRST Bank -->
+	<item class="com.idfcfirstbank.optimus.MainActivity" name="idfc_first_bank"/>
+
+	<!-- MDM -->
+	<item class="nic.hp.mdm.SplashActivity" name="mdm"/>
+
+	<!-- Music -->
+	<item class="com.android.music.MusicBrowserActivity" name="music"/>
+
+	<!-- Saksham Samiksha -->
+	<item class="com.samagra.parent.ui.splash.SplashActivity" name="saksham_samiksha"/>
+
+	<!-- SBI Quick -->
+	<item class="com.sbi.sbiquick.MainActivity" name="sbi_quick"/>
+
+	<!-- Sony LIV -->
+	<item class="com.sonyliv.ui.splash.SplashActivity" name="sony_liv"/>
+
+	<!-- YONO SBI -->
+	<item class="com.sbi.lotusintouch.MainActivity" name="yono_sbi"/>
+
+</appmap>

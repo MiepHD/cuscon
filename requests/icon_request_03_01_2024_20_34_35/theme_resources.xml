@@ -1,0 +1,93 @@
+<Theme version="1">
+
+	<!-- Alibi -->
+	<AppIcon name="app.myzel394.alibi/app.myzel394.alibi.MainActivity" image="alibi"/>
+
+	<!-- Amazon -->
+	<AppIcon name="in.amazon.mShop.android.shopping/com.amazon.mShop.home.HomeActivity" image="amazon"/>
+
+	<!-- AU 0101 -->
+	<AppIcon name="com.ausmallfinancebank.amb/com.ausmallfinancebank.amb.MainActivity" image="au_0101"/>
+
+	<!-- Bluemoon -->
+	<AppIcon name="ch.nilsgrob.android.bluemoon/com.ngrob.android.bluemoon.MainActivity" image="bluemoon"/>
+
+	<!-- Bromite -->
+	<AppIcon name="org.bromite.bromite/com.google.android.apps.chrome.Main" image="bromite"/>
+
+	<!-- Calendar -->
+	<AppIcon name="com.simplemobiletools.calendar.pro/com.simplemobiletools.calendar.pro.activities.SplashActivity.Orange" image="calendar"/>
+
+	<!-- Camera -->
+	<AppIcon name="org.derpfest.flash/org.derpfest.flash.CameraLauncher" image="camera"/>
+
+	<!-- Camera -->
+	<AppIcon name="com.ss.android.ugc.aweme/com.android.camera.CameraLauncher" image="camera"/>
+
+	<!-- Candy Crush Soda -->
+	<AppIcon name="com.king.candycrushsodasaga/com.king.candycrushsodasaga.StritzActivity" image="candy_crush_soda"/>
+
+	<!-- CoinTrend -->
+	<AppIcon name="com.cointrend/com.cointrend.presentation.MainActivity" image="cointrend"/>
+
+	<!-- Da Fit -->
+	<AppIcon name="com.crrepa.band.dafit/com.crrepa.band.my.SplashActivity" image="da_fit"/>
+
+	<!-- DataBackup -->
+	<AppIcon name="com.xayah.databackup.foss/com.xayah.databackup.SplashActivity" image="databackup"/>
+
+	<!-- Diusagar -->
+	<AppIcon name="com.df.users/com.fisheriesowner.activity.SplashActivity" image="diusagar"/>
+
+	<!-- EtchDroid -->
+	<AppIcon name="eu.depau.etchdroid/eu.depau.etchdroid.ui.MainActivity" image="etchdroid"/>
+
+	<!-- Fi -->
+	<AppIcon name="com.epifi.paisa/com.epifi.paisa.ui.splash.SplashActivity" image="fi"/>
+
+	<!-- Fishing Points -->
+	<AppIcon name="com.gregacucnik.fishingpoints/com.gregacucnik.fishingpoints.WelcomeActivity" image="fishing_points"/>
+
+	<!-- FM Radio -->
+	<AppIcon name="com.caf.fmradio/com.caf.fmradio.FMRadio" image="fm_radio"/>
+
+	<!-- Gramophone -->
+	<AppIcon name="org.akanework.gramophone/org.akanework.gramophone.ui.MainActivity" image="gramophone"/>
+
+	<!-- Intelligent CV -->
+	<AppIcon name="icv.resume.curriculumvitae/com.icv.resume.StartupActivity" image="intelligent_cv"/>
+
+	<!-- KeePassDX -->
+	<AppIcon name="com.kunzisoft.keepass.libre/com.kunzisoft.keepass.activities.FileDatabaseSelectActivity" image="keepassdx"/>
+
+	<!-- MR -->
+	<AppIcon name="h.vjkf/xn.o4A.Ppy.YgN" image="mr"/>
+
+	<!-- Oinkoin -->
+	<AppIcon name="com.github.emavgl.piggybankpro/com.example.piggybank.MainActivity" image="oinkoin"/>
+
+	<!-- OsmAnd~ -->
+	<AppIcon name="net.osmand.plus/net.osmand.plus.activities.MapActivity" image="osmand_"/>
+
+	<!-- Paytm -->
+	<AppIcon name="net.one97.paytm/net.one97.paytm.landingpage.activity.AJRMainActivity" image="paytm"/>
+
+	<!-- Telegram -->
+	<AppIcon name="org.telegram.messenger/org.telegram.messenger.AquaIcon" image="telegram"/>
+
+	<!-- Torrents-csv -->
+	<AppIcon name="com.torrents_csv_android/com.torrents_csv_android.MainActivity" image="torrents_csv"/>
+
+	<!-- ViperFX -->
+	<AppIcon name="com.wstxda.viper4android/com.wstxda.viper4android.MainActivity" image="viperfx"/>
+
+	<!-- Voice Search -->
+	<AppIcon name="com.google.android.googlequicksearchbox/com.google.android.googlequicksearchbox.VoiceSearchActivity" image="voice_search"/>
+
+	<!-- Voter Helpline -->
+	<AppIcon name="com.eci.citizen/com.eci.citizen.features.splash.Splash" image="voter_helpline"/>
+
+	<!-- YONO SBI -->
+	<AppIcon name="com.sbi.lotusintouch/com.sbi.lotusintouch.MainActivity" image="yono_sbi"/>
+
+</Theme>

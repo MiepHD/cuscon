@@ -1,0 +1,18 @@
+<appmap>
+
+	<!-- AudioFX -->
+	<item class="org.lineageos.audiofx.activity.ActivityMusic" name="audiofx"/>
+
+	<!-- Breathly -->
+	<item class="com.mmazzarolo.breathly.MainActivity" name="breathly"/>
+
+	<!-- Connect -->
+	<item class="com.garmin.android.apps.connectmobile.GCMActivityStartup" name="connect"/>
+	
+	<!-- Magic Earth -->
+	<item class="com.magiclane.androidsphere.map.MapActivity" name="magic_earth"/>
+
+	<!-- OSS Document Scanner -->
+	<item class="com.akylas.documentscanner.MainActivity" name="oss_document_scanner"/>
+
+</appmap>

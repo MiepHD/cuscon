@@ -1,0 +1,144 @@
+<resources>
+
+	<!-- 365Scores -->
+	<item component="ComponentInfo{com.scores365/com.scores365.ui.Splash}" drawable="_365scores" />
+
+	<!-- Applaydu -->
+	<item component="ComponentInfo{com.ferrero.applayduGP/com.unity3d.player.UnityPlayerActivity}" drawable="applaydu" />
+
+	<!-- Bowmasters -->
+	<item component="ComponentInfo{com.miniclip.bowmasters/com.miniclip.bowmasters.BowmastersActivity}" drawable="bowmasters" />
+
+	<!-- Calendar -->
+	<item component="ComponentInfo{com.xiaomi.calendar/com.android.calendar.homepage.AllInOneActivity}" drawable="calendar" />
+
+	<!-- Call of Duty -->
+	<item component="ComponentInfo{com.activision.callofduty.shooter/com.tencent.tmgp.cod.CODMPrivatePermissionActivity}" drawable="call_of_duty" />
+
+	<!-- CarX Street -->
+	<item component="ComponentInfo{com.carxtech.sr/com.unity3d.player.UnityPlayerActivity}" drawable="carx_street" />
+
+	<!-- Chess -->
+	<item component="ComponentInfo{com.chess/com.chess.splash.SplashActivity}" drawable="chess" />
+
+	<!-- Clock -->
+	<item component="ComponentInfo{com.android.deskclock/com.android.deskclock.DeskClockTabActivity}" drawable="clock" />
+
+	<!-- Dictionary -->
+	<item component="ComponentInfo{com.mobisystems.msdict.embedded.wireless.oxford.dictionaryofenglish/com.mobisystems.oxford_dictionary.MainActivity}" drawable="dictionary" />
+
+	<!-- Downloads -->
+	<item component="ComponentInfo{com.android.providers.downloads.ui/com.android.providers.downloads.ui.DownloadList}" drawable="downloads" />
+
+	<!-- Duel Links -->
+	<item component="ComponentInfo{jp.konami.duellinks/jp.konami.duellinks.plugins.YgomMainActivity}" drawable="duel_links" />
+
+	<!-- Duo Mobile -->
+	<item component="ComponentInfo{com.duosecurity.duomobile/com.duosecurity.duomobile.account_list.AccountListActivity}" drawable="duo_mobile" />
+
+	<!-- Free Fire -->
+	<item component="ComponentInfo{com.dts.freefireth/com.dts.freefireth.FFMainActivity}" drawable="free_fire" />
+
+	<!-- Gallery -->
+	<item component="ComponentInfo{com.miui.gallery/com.miui.gallery.activity.HomePageActivity}" drawable="gallery" />
+
+	<!-- GetApps -->
+	<item component="ComponentInfo{com.xiaomi.mipicks/com.xiaomi.mipicks.DefaultAlias}" drawable="getapps" />
+
+	<!-- Geto -->
+	<item component="ComponentInfo{com.android.geto/com.android.geto.MainActivity}" drawable="geto" />
+
+	<!-- HDO Box -->
+	<item component="ComponentInfo{com.hdobox/com.hdobox.MainActivity}" drawable="hdo_box" />
+
+	<!-- Hungry Shark -->
+	<item component="ComponentInfo{com.fgol.HungrySharkEvolution/com.unity3d.player.UnityPlayerActivity}" drawable="hungry_shark" />
+
+	<!-- Hungry Shark -->
+	<item component="ComponentInfo{com.ubisoft.hungrysharkworld/com.unity3d.player.UnityPlayerActivity}" drawable="hungry_shark" />
+
+	<!-- Johnny Trigger -->
+	<item component="ComponentInfo{com.time.trigger/by.saygames.SayKitActivity}" drawable="johnny_trigger" />
+
+	<!-- MediaOn -->
+	<item component="ComponentInfo{com.mediaon.apt/com.mediaon.apt.MainActivity}" drawable="mediaon" />
+
+	<!-- Mi Band 6 Watch Faces -->
+	<item component="ComponentInfo{asn.ark.miband6/asn.ark.miband6.activites.SplashScreen}" drawable="mi_band_6_watch_faces" />
+
+	<!-- Mi Remote -->
+	<item component="ComponentInfo{com.duokan.phone.remotecontroller/com.xiaomi.mitv.phone.remotecontroller.HoriWidgetMainActivityV2}" drawable="mi_remote" />
+
+	<!-- MiBand6 -->
+	<item component="ComponentInfo{dev.rokitskiy.miband6_watchface/dev.rokitskiy.miband6_watchface.MainActivity}" drawable="miband6" />
+
+	<!-- My Orange -->
+	<item component="ComponentInfo{com.orange.mobinilandme/com.linkdev.mobinilandme.ui.SplashScreen}" drawable="my_orange" />
+
+	<!-- Null’s Brawl -->
+	<item component="ComponentInfo{daniillnull.nulls.brawlstars/com.supercell.brawlstars.GameApp}" drawable="null’s_brawl" />
+
+	<!-- PandaVPN -->
+	<item component="ComponentInfo{com.pandavpn.androidproxy/com.pandavpn.androidproxy.ui.main.MainActivity}" drawable="pandavpn" />
+
+	<!-- PandaVPN -->
+	<item component="ComponentInfo{com.pandavpnfree.androidproxy/com.pandavpn.androidproxy.ui.splash.activity.SplashActivity}" drawable="pandavpn" />
+
+	<!-- Picsart -->
+	<item component="ComponentInfo{com.picsart.studio/com.socialin.android.photo.picsinphoto.MainPagerActivity}" drawable="picsart" />
+
+	<!-- Poco Community -->
+	<item component="ComponentInfo{com.mi.global.pocobbs/com.mi.global.pocobbs.ui.SplashActivity}" drawable="poco_community" />
+
+	<!-- PUBG MOBILE -->
+	<item component="ComponentInfo{com.pubg.krmobile/com.epicgames.ue4.SplashActivity}" drawable="pubg_mobile" />
+
+	<!-- Rewards -->
+	<item component="ComponentInfo{com.google.android.apps.paidtasks/com.google.android.apps.paidtasks.activity.LaunchActivity}" drawable="rewards" />
+
+	<!-- Ring Sizer -->
+	<item component="ComponentInfo{ru.cherrydesign.ringsizer/ru.cherrydesign.ringsizer.SplashActivity}" drawable="ring_sizer" />
+
+	<!-- Router Chef -->
+	<item component="ComponentInfo{com.raouf.routerchef/com.raouf.routerchef.SplashScreen}" drawable="router_chef" />
+
+	<!-- SD Maid -->
+	<item component="ComponentInfo{eu.thedarken.sdm/eu.thedarken.sdm.main.ui.SDMMainActivity}" drawable="sd_maid" />
+
+	<!-- SD Maid Pro -->
+	<item component="ComponentInfo{eu.thedarken.sdm.unlocker/eu.thedarken.sdm.unlocker.MainActivity}" drawable="sd_maid_pro" />
+
+	<!-- Shizuku -->
+	<item component="ComponentInfo{moe.shizuku.privileged.api/moe.shizuku.manager.MainActivity}" drawable="shizuku" />
+
+	<!-- Sling Drift -->
+	<item component="ComponentInfo{com.rubygames.slingdrift/com.rubygames.slingdrift.UnityPlayerActivity}" drawable="sling_drift" />
+
+	<!-- slither.io -->
+	<item component="ComponentInfo{air.com.hypah.io.slither.TopXNewWorm/air.com.hypah.io.slither.AppEntry}" drawable="slitherio" />
+
+	<!-- Subway Surf -->
+	<item component="ComponentInfo{com.kiloo.subwaysurf/com.sybogames.chili.multidex.ChiliMultidexSupportActivity}" drawable="subway_surf" />
+
+	<!-- TeraBox -->
+	<item component="ComponentInfo{com.dubox.drive/com.dubox.drive.ui.Logo0LauncherActivity}" drawable="terabox" />
+
+	<!-- Themes -->
+	<item component="ComponentInfo{com.android.thememanager/com.android.thememanager.ThemeResourceTabActivity}" drawable="themes" />
+
+	<!-- Twitch -->
+	<item component="ComponentInfo{tv.twitch.android.app/tv.twitch.android.app.core.LandingActivity}" drawable="twitch" />
+
+	<!-- VK -->
+	<item component="ComponentInfo{com.vkontakte.android/com.vk.android.launcher.icons.IconAlias.DefaultIcon}" drawable="vk" />
+
+	<!-- Wallcraft -->
+	<item component="ComponentInfo{com.wallpaperscraft.wallpaper/com.wallpaperscraft.wallpaper.feature.main.MainActivity}" drawable="wallcraft" />
+
+	<!-- ZArchiver Pro -->
+	<item component="ComponentInfo{ru.zdevs.zarchiver.pro/ru.zdevs.zarchiver.pro.ZArchiver}" drawable="zarchiver_pro" />
+
+	<!-- مصحف الحرمين -->
+	<item component="ComponentInfo{com.arabia_it.moshaf/com.arabia_it.moshaf.ui.splash.SplashActivity}" drawable="مصحف_الحرمين" />
+
+</resources>

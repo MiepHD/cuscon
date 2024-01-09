@@ -1,0 +1,81 @@
+<appmap>
+
+	<!-- Ambient Music Mod -->
+	<item class="com.kieronquinn.app.ambientmusicmod.ui.activities.MainActivity" name="ambient_music_mod"/>
+
+	<!-- BTC Map -->
+	<item class="activity.Activity" name="btc_map"/>
+
+	<!-- Buran -->
+	<item class="corewala.buran.ui.GemActivity" name="buran"/>
+
+	<!-- Calyx VPN -->
+	<item class="se.leap.bitmaskclient.base.StartActivity" name="calyx_vpn"/>
+
+	<!-- Camera -->
+	<item class="org.lineageos.aperture.CameraLauncher" name="lineageos_camera"/>
+
+	<!-- chat -->
+	<item class="de.monocles.chat.ui.StartUI" name="chat"/>
+
+	<!-- Cromite -->
+	<item class="com.google.android.apps.chrome.Main" name="cromite"/>
+
+	<!-- DetoxDroid -->
+	<item class="com.flx_apps.digitaldetox.MainActivity" name="detoxdroid"/>
+
+	<!-- DNS Manager -->
+	<item class="com.f0x1d.dnsmanager.ui.activity.MainActivity" name="dns_manager"/>
+
+	<!-- DSU Sideloader -->
+	<item class="vegabobo.dsusideloader.MainActivity" name="dsu_sideloader"/>
+
+	<!-- EasyWay -->
+	<item class="com.eway.android.activity.MainActivity" name="easyway"/>
+
+	<!-- FM Radio -->
+	<item class="com.caf.fmradio.FMRadio" name="fm_radio"/>
+
+	<!-- FREE Browser -->
+	<item class="de.baumann.browser.activity.BrowserActivity" name="free_browser"/>
+
+	<!-- FreeDCam -->
+	<item class="freed.cam.ActivityFreeDcamMain" name="freedcam"/>
+
+	<!-- FreeDCam Viewer -->
+	<item class="freed.viewer.ActivityFreeDviewer" name="freedcam_viewer"/>
+
+	<!-- FUTO Voice Input -->
+	<item class="org.futo.voiceinput.settings.SettingsActivity" name="futo_voice_input"/>
+
+	<!-- gptAssist -->
+	<item class="org.woheller69.gptassist.MainActivity" name="gptassist"/>
+
+	<!-- Grayjay -->
+	<item class="com.futo.platformplayer.activities.MainActivity" name="grayjay"/>
+
+	<!-- InviZible Pro -->
+	<item class="pan.alexander.tordnscrypt.MainActivity" name="invizible_pro"/>
+
+	<!-- Kitsune Mask -->
+	<item class="com.topjohnwu.magisk.ui.MainActivity" name="kitsune_mask"/>
+
+	<!-- LMC8.4 -->
+	<item class="com.android.camera.CameraLauncher" name="lmc84"/>
+
+	<!-- Mercurygram -->
+	<item class="org.telegram.messenger.NoxIcon" name="mercurygram"/>
+
+	<!-- Shizuku -->
+	<item class="moe.shizuku.manager.MainActivity" name="shizuku"/>
+
+	<!-- Terminal Emulator -->
+	<item class="com.termoneplus.TermActivity" name="terminal_emulator"/>
+
+	<!-- Trekarta -->
+	<item class="mobi.maptrek.MainActivity" name="trekarta"/>
+
+	<!-- Tux Paint -->
+	<item class="org.tuxpaint.tuxpaintActivity" name="tux_paint"/>
+
+</appmap>

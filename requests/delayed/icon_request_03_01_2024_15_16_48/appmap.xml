@@ -1,0 +1,12 @@
+<appmap>
+
+	<!-- Music -->
+	<item class="com.tct.music.activity.TctMusicBrowserActivity" name="music"/>
+
+	<!-- Sound Recorder -->
+	<item class="com.tct.soundrecorder.SoundRecorder" name="sound_recorder"/>
+
+	<!-- Video -->
+	<item class="com.tct.video.View.activities.VideoMainActivity" name="video"/>
+
+</appmap>

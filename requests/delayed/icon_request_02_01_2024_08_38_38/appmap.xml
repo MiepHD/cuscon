@@ -1,0 +1,27 @@
+<appmap>
+
+	<!-- Boorusama -->
+	<item class="com.degenk.boorusama.MainActivity" name="boorusama"/>
+	
+	<!-- Discord -->
+	<item class="com.discord.main.MainCircuit" name="discord"/>
+
+	<!-- Fcitx5 for Android -->
+	<item class="org.fcitx.fcitx5.android.ui.main.MainActivity" name="fcitx5_for_android"/>
+	
+	<!-- Living Worlds -->
+	<item class="com.pixfabrik.livingworlds.MainActivity" name="living_worlds"/>
+	
+	<!-- Markor -->
+	<item class="net.gsantner.markor.activity.MainActivity" name="markor"/>
+	
+	<!-- Randomix -->
+	<item class="com.minar.randomix.activities.MainActivity" name="randomix"/>
+	
+	<!-- Sayboard -->
+	<item class="com.elishaazaria.sayboard.SettingsActivity" name="sayboard"/>
+	
+	<!-- XScreenSaver -->
+	<item class="org.jwz.xscreensaver.Activity" name="xscreensaver"/>
+
+</appmap>

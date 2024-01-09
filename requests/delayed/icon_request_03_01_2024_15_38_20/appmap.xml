@@ -1,0 +1,6 @@
+<appmap>
+
+	<!-- Traffic Rider -->
+	<item class="com.unity3d.player.UnityPlayerActivity" name="traffic_rider"/>
+
+</appmap>

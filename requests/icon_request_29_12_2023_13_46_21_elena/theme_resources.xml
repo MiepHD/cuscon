@@ -1,0 +1,330 @@
+<Theme version="1">
+
+	<!-- AnkiDroid -->
+	<AppIcon name="com.ichi2.anki/com.ichi2.anki.IntentHandler" image="ankidroid"/>
+
+	<!-- Atomas -->
+	<AppIcon name="com.sirnic.atomas/org.cocos2dx.cpp.AppActivity" image="atomas"/>
+
+	<!-- Beatstar -->
+	<AppIcon name="com.spaceapegames.beatstar/com.unity3d.player.UnityPlayerActivity" image="beatstar"/>
+
+	<!-- Best Fiends -->
+	<AppIcon name="com.Seriously.BestFiends/com.appboy.unity.AppboyUnityPlayerActivity" image="best_fiends"/>
+
+	<!-- Bloons TD 6 NETFLIX -->
+	<AppIcon name="com.netflix.NGP.BloonsTDSix/com.unity3d.player.UnityPlayerActivity" image="bloons_td_6_netflix"/>
+
+	<!-- C.A.T.S. -->
+	<AppIcon name="com.zeptolab.cats.google/com.zeptolab.cats.CATSActivity" image="cats"/>
+
+	<!-- Card Shop Tycoon 2 -->
+	<AppIcon name="com.OPNeonGame.TCGShopGame/com.unity3d.player.UnityPlayerActivity" image="card_shop_tycoon_2"/>
+
+	<!-- Case Hunter -->
+	<AppIcon name="com.eyewind.case.master/com.eyewind.mcase.master.MainActivity" image="case_hunter"/>
+
+	<!-- Castle Crush -->
+	<AppIcon name="com.tfgco.games.strategy.free.castlecrush/com.tfgco.games.strategy.free.castlecrush.AppActivity" image="castle_crush"/>
+
+	<!-- Cats are Cute -->
+	<AppIcon name="com.game.kkiruk.myadorablecats/com.unity3d.player.UnityPlayerActivity" image="cats_are_cute"/>
+
+	<!-- Cineplex -->
+	<AppIcon name="de.cineplex.androidapp/com.cinuru.app.MainActivity" image="cineplex"/>
+
+	<!-- Construction Set -->
+	<AppIcon name="com.constructor.games/by.saygames.SayKitActivity" image="construction_set"/>
+
+	<!-- Country Star -->
+	<AppIcon name="com.spaceapegames.country.music.game/com.unity3d.player.UnityPlayerActivity" image="country_star"/>
+
+	<!-- Cryptogram -->
+	<AppIcon name="com.jmsc.cryptogram/com.jmsc.cryptogram.SplashActivity" image="cryptogram"/>
+
+	<!-- Cube Escape -->
+	<AppIcon name="air.com.RustyLake.CubeEscapeCollection/air.com.RustyLake.CubeEscapeCollection.AppEntry" image="cube_escape"/>
+
+	<!-- Cube Escape Paradox -->
+	<AppIcon name="air.com.RustyLake.CubeEscapeParadox/air.com.RustyLake.CubeEscapeParadox.AppEntry" image="cube_escape_paradox"/>
+
+	<!-- Cube Solver -->
+	<AppIcon name="com.jeffprod.cubesolver/com.jeffprod.cubesolver.MainActivity" image="cube_solver"/>
+
+	<!-- DAK App -->
+	<AppIcon name="de.dak.dak_app/de.dak.startup.StartUpActivity" image="dak_app"/>
+
+	<!-- DAK ePA -->
+	<AppIcon name="com.rise_world.epa.dakGesundheit.qu/com.rise_world.epa.ui.splash.SplashActivity" image="dak_epa"/>
+
+	<!-- dataDex -->
+	<AppIcon name="com.talzz.datadex/com.talzz.datadex.activities.main.MainActivity" image="datadex"/>
+
+	<!-- Discord -->
+	<AppIcon name="com.discord/com.discord.main.MainDefault" image="discord"/>
+
+	<!-- Don't get fired! -->
+	<AppIcon name="com.quickturtle.EmployeeSurvival_en/com.unity3d.player.UnityPlayerActivity" image="dont_get_fired_"/>
+
+	<!-- Doodle Me -->
+	<AppIcon name="com.highxp.doodle/com.highxp.doodle.MainActivity" image="doodle_me"/>
+
+	<!-- DragonCity -->
+	<AppIcon name="es.socialpoint.DragonCity/es.socialpoint.hydra.permissions.PermissionsActivity" image="dragoncity"/>
+
+	<!-- eBay -->
+	<AppIcon name="com.ebay.mobile/com.ebay.mobile.home.impl.main.MainActivity" image="ebay"/>
+
+	<!-- Einstein Island -->
+	<AppIcon name="com.blackpumalabs.treasureisland/com.blackpumalabs.treasureisland.StartActivity" image="einstein_island"/>
+
+	<!-- Endlos Quiz -->
+	<AppIcon name="com.timleg.quiz/com.timleg.quiz.Game" image="endlos_quiz"/>
+
+	<!-- Evertale -->
+	<AppIcon name="com.zigzagame.evertale/com.google.firebase.MessagingUnityPlayerActivity" image="evertale"/>
+
+	<!-- EvoCreo -->
+	<AppIcon name="ilmfinity.evocreo.main.android/ilmfinity.evocreo.main.android.AndroidLauncher" image="evocreo"/>
+
+	<!-- Flo -->
+	<AppIcon name="org.iggymedia.periodtracker/org.iggymedia.periodtracker.activities.InitialActivity" image="flo"/>
+
+	<!-- Fortelling -->
+	<AppIcon name="app.fortelling/app.fortelling.MainActivity" image="fortelling"/>
+
+	<!-- FreeOTP -->
+	<AppIcon name="org.fedorahosted.freeotp/org.fedorahosted.freeotp.PasswordActivity" image="freeotp"/>
+
+	<!-- Fun Run 3 -->
+	<AppIcon name="com.dirtybit.fra/com.unity3d.player.UnityPlayerActivity" image="fun_run_3"/>
+
+	<!-- Gacha Life -->
+	<AppIcon name="air.com.lunime.gachalife/air.com.lunime.gachalife.AppEntry" image="gacha_life"/>
+
+	<!-- Gardenscapes -->
+	<AppIcon name="com.playrix.gardenscapes/com.playrix.gardenscapes.LoadActivityStore" image="gardenscapes"/>
+
+	<!-- Geometry Dash Lite -->
+	<AppIcon name="com.robtopx.geometryjumplite/com.robtopx.geometryjumplite.GeometryDashLite" image="geometry_dash_lite"/>
+
+	<!-- Geometry Dash Meltdown -->
+	<AppIcon name="com.robtopx.geometrydashmeltdown/com.robtopx.geometryjumplite.GeometryDashLite" image="geometry_dash_meltdown"/>
+
+	<!-- Geometry Dash SubZero -->
+	<AppIcon name="com.robtopx.geometrydashsubzero/com.robtopx.geometryjumplite.GeometryDashLite" image="geometry_dash_subzero"/>
+
+	<!-- Geometry Dash World -->
+	<AppIcon name="com.robtopx.geometrydashworld/com.robtopx.geometryjumplite.GeometryDashLite" image="geometry_dash_world"/>
+
+	<!-- geteduroam -->
+	<AppIcon name="app.eduroam.geteduroam/app.eduroam.geteduroam.MainActivity" image="geteduroam"/>
+
+	<!-- Getwardrobe -->
+	<AppIcon name="com.ThreeBoots/com.ThreeBoots.MainActivity" image="getwardrobe"/>
+
+	<!-- Goldex -->
+	<AppIcon name="com.goldex/com.goldex.view.activity.MainActivity" image="goldex"/>
+
+	<!-- Happy Color -->
+	<AppIcon name="com.pixel.art.coloring.color.number/com.unity3d.player.HappyColorActivity" image="happy_color"/>
+
+	<!-- Hay Day -->
+	<AppIcon name="com.supercell.hayday/com.supercell.hayday.GameApp" image="hay_day"/>
+
+	<!-- Hi Color -->
+	<AppIcon name="happy.color.paint.by.number.coloring.art.book/com.unity3d.player.UnityPlayerActivity" image="hi_color"/>
+
+	<!-- Hybrid Warrior -->
+	<AppIcon name="com.catlab.hybridglobal/org.cocos2dx.cpp.AppActivity" image="hybrid_warrior"/>
+
+	<!-- Hyper Cards -->
+	<AppIcon name="com.adc.HyperCards/com.boombit.MainActivity" image="hyper_cards"/>
+
+	<!-- Jurassic World -->
+	<AppIcon name="com.ludia.jurassicworld/com.ludia.engine.application.GameActivity" image="jurassic_world"/>
+
+	<!-- Karpador -->
+	<AppIcon name="jp.pokemon.koiking/org.cocos2dx.cpp.AppActivity" image="karpador"/>
+
+	<!-- Kennzeichensammler -->
+	<AppIcon name="email.com.gmail.at.tornadoredapps.kennzeichensammler/email.com.gmail.at.tornadoredapps.kennzeichensammler.MainActivity" image="kennzeichensammler"/>
+
+	<!-- King of Thieves -->
+	<AppIcon name="com.zeptolab.thieves.google/com.zeptolab.thieves.ThievesActivity" image="king_of_thieves"/>
+
+	<!-- Klotski -->
+	<AppIcon name="com.alcamasoft.juegos.klotski.android/com.alcamasoft.juegos.klotski.android.activities.MainActivity" image="klotski"/>
+
+	<!-- Lass uns spielen -->
+	<AppIcon name="com.haegin.playtogether/com.google.firebase.MessagingUnityPlayerActivity" image="lass_uns_spielen"/>
+
+	<!-- Sticker.style -->
+	<AppIcon name="com.style.sticker/com.zlb.sticker.moudle.flash.FlashActivity" image="stickerstyle"/>
+
+	<!-- Legend Slime -->
+	<AppIcon name="com.loadcomplete.slimeidle/com.loadcomplete.UnityPlayerActivityExtension" image="legend_slime"/>
+
+	<!-- LEGO® Builder -->
+	<AppIcon name="com.lego.legobuildinginstructions/com.unity3d.player.UnityPlayerActivity" image="lego®_builder"/>
+
+	<!-- Lifesum -->
+	<AppIcon name="com.sillens.shapeupclub/com.lifesum.android.main.MainActivity" image="lifesum"/>
+
+	<!-- LogoTest World -->
+	<AppIcon name="com.oyeapps.logotestworld2/com.oyeapps.logotest.activities.SplashActivity" image="logotest_world"/>
+
+	<!-- MealSwipe -->
+	<AppIcon name="de.mealswipe.android/de.linova.mealswipe.application.MainActivity" image="mealswipe"/>
+
+	<!-- Mensa -->
+	<AppIcon name="de.imensa.app.android/de.mensas.app.Mensas" image="mensa"/>
+
+	<!-- Meow Tower -->
+	<AppIcon name="com.grapetree.meowtower/com.unity3d.player.UnityPlayerActivity" image="meow_tower"/>
+
+	<!-- Mind Tracker -->
+	<AppIcon name="com.fedosov.mindtracker/com.fedosov.mindtracker.MainActivity" image="mind_tracker"/>
+
+	<!-- MineTap -->
+	<AppIcon name="com.mvgamesteam.minetap/com.google.firebase.MessagingUnityPlayerActivity" image="minetap"/>
+
+	<!-- MONOPOLY GO -->
+	<AppIcon name="com.scopely.monopolygo/com.scopely.unity.ScopelyUnityActivity" image="monopoly_go"/>
+
+	<!-- Morse Chat -->
+	<AppIcon name="digital.dong.morsechat/digital.dong.morsechat.MainActivity" image="morse_chat"/>
+
+	<!-- Morse code -->
+	<AppIcon name="holecek.pavel.MorseCode/crc648bbdc909d4b41b63.MainActivity" image="morse_code"/>
+
+	<!-- Music AI -->
+	<AppIcon name="com.feraset.tune/com.feraset.tune.MainActivity" image="music_ai"/>
+
+	<!-- MyWTC -->
+	<AppIcon name="com.hellotoon.mylittlecharacter/com.hellotoon.mylittlecharacter.MainActivity" image="mywtc"/>
+
+	<!-- Nimble Quest -->
+	<AppIcon name="com.nimblebit.nimblequest/com.unity3d.player.UnityPlayerNativeActivity" image="nimble_quest"/>
+
+	<!-- Nobodies: MurderCleaner -->
+	<AppIcon name="com.blyts.nobodies/com.unity3d.player.UnityPlayerActivity" image="nobodies_murdercleaner"/>
+
+	<!-- Old Friends -->
+	<AppIcon name="com.runawayplay.OldFriends/com.unity3d.player.UnityPlayerActivity" image="old_friends"/>
+
+	<!-- Plant Nanny -->
+	<AppIcon name="com.fourdesire.plantnanny2/com.fourdesire.plantnanny2.PNTMainActivityGooglePlay" image="plant_nanny"/>
+
+	<!-- Pokecardex -->
+	<AppIcon name="com.application.pokecardex/com.application.pokecardex.ui.MainActivity" image="pokecardex"/>
+
+	<!-- Pokémon GO -->
+	<AppIcon name="com.nianticlabs.pokemongo/com.nianticproject.holoholo.libholoholo.unity.UnityMainActivity" image="pokemon_go"/>
+
+	<!-- Pokémon HOME -->
+	<AppIcon name="jp.pokemon.pokemonhome/com.unity3d.player.UnityPlayerActivity" image="pokemon_home"/>
+
+	<!-- Pokémon UNITE -->
+	<AppIcon name="jp.pokemon.pokemonunite/com.nishiki.pgame.n.PGameLauncherActivity" image="pokemon_unite"/>
+
+	<!-- PokémonCaféReMix -->
+	<AppIcon name="jp.pokemon.pokemoncafemix/com.geniussonority.app.TartNativeActivity" image="pokemoncaferemix"/>
+
+	<!-- Pokeverse World -->
+	<AppIcon name="com.pbwtys.eb/com.molesdk.pro.SplashActivity" image="pokeverse_world"/>
+
+	<!-- Public Transport Simulator -->
+	<AppIcon name="com.skisosoft.pts/com.unity3d.player.UnityPlayerActivity" image="public_transport_simulator"/>
+
+	<!-- QuizzLand -->
+	<AppIcon name="com.xmonetize.quizzland/com.unity3d.player.UnityPlayerActivity" image="quizzland"/>
+
+	<!-- Regex Crossword -->
+	<AppIcon name="org.chromium.webapk.ab2faf19a81f51afb_v2/org.chromium.webapk.shell_apk.h2o.H2OOpaqueMainActivity" image="regex_crossword"/>
+
+	<!-- Rider -->
+	<AppIcon name="com.ketchapp.rider/com.unity3d.player.UnityPlayerActivity" image="rider"/>
+
+	<!-- Rider Worlds -->
+	<AppIcon name="com.ketchapp.rider.evolution.world.race.car.bike.flip/com.unity3d.player.UnityPlayerActivity" image="rider_worlds"/>
+
+	<!-- Rush Royale -->
+	<AppIcon name="com.my.defense/games.my.heart.commonpreloaderlib.PreloadActivity" image="rush_royale"/>
+
+	<!-- Samsara Room -->
+	<AppIcon name="air.com.RustyLake.SamsaraRoom/air.com.RustyLake.SamsaraRoom.AppEntry" image="samsara_room"/>
+
+	<!-- Samsung Global Goals -->
+	<AppIcon name="com.samsung.sree/com.samsung.sree.ui.MainActivity" image="samsung_global_goals"/>
+
+	<!-- Samsung Health -->
+	<AppIcon name="com.sec.android.app.shealth/com.samsung.android.app.shealth.home.HomeMainActivity" image="samsung_health"/>
+
+	<!-- Shootero -->
+	<AppIcon name="com.galaxyattack.invadershootero/com.unity3d.player.UnityPlayerActivity" image="shootero"/>
+
+	<!-- Simple Pokédex -->
+	<AppIcon name="com.opirep.simplepokedex/com.example.simple_pokedex.MainActivity" image="simple_pokedex"/>
+
+	<!-- Slime Quest -->
+	<AppIcon name="com.loadcomplete.slimequest/com.loadcomplete.UnityPlayerActivityExtension" image="slime_quest"/>
+
+	<!-- Stirnraten -->
+	<AppIcon name="com.roth.scharade_andiestirnundlos_raten/stirnraten.roth.com.stirnratenandroid.start.MainActivity" image="stirnraten"/>
+
+	<!-- Story Plotter -->
+	<AppIcon name="com.hhatamanga.storyplotter/com.hhatamanga.storyplotter.MainActivity" image="story_plotter"/>
+
+	<!-- Stundenplan -->
+	<AppIcon name="de.thefrogger.timetable/de.thefrogger.timetable.MainActivity" image="stundenplan"/>
+
+	<!-- Subway Surf -->
+	<AppIcon name="com.kiloo.subwaysurf/com.sybogames.chili.multidex.ChiliMultidexSupportActivity" image="subway_surf"/>
+
+	<!-- Sudoku -->
+	<AppIcon name="easy.sudoku.puzzle.solver.free/com.meevii.ui.activity.SplashActivity" image="sudoku"/>
+
+	<!-- Taste -->
+	<AppIcon name="com.tasteio/com.tasteio.MainActivity" image="taste"/>
+
+	<!-- TCGCardTycoon -->
+	<AppIcon name="com.OPNeon.TCGCardTycoon/com.unity3d.player.UnityPlayerActivity" image="tcgcardtycoon"/>
+
+	<!-- The Baby In Yellow -->
+	<AppIcon name="com.TeamTerrible.BabyInYellow/com.epicgames.ue4.SplashActivity" image="the_baby_in_yellow"/>
+
+	<!-- The Past Within Lite -->
+	<AppIcon name="air.com.RustyLake.ThePastWithinLite/air.com.RustyLake.ThePastWithinLite.AIRAppEntry" image="the_past_within_lite"/>
+
+	<!-- To-do List -->
+	<AppIcon name="todolist.scheduleplanner.dailyplanner.todo.reminders/app.todolist.activity.SplashActivity" image="to_do_list"/>
+
+	<!-- Tricky Castle -->
+	<AppIcon name="com.teamtricky.tc/com.teamtricky.tc.MainActivity" image="tricky_castle"/>
+
+	<!-- UniNow -->
+	<AppIcon name="de.mocama.UniNow/com.zoontek.rnbootsplash.RNBootSplashActivity" image="uninow"/>
+
+	<!-- Untis Mobile -->
+	<AppIcon name="com.grupet.web.app/com.untis.mobile.ui.activities.launcher.LauncherActivity" image="untis_mobile"/>
+
+	<!-- Voidpet Garden -->
+	<AppIcon name="com.voidpet/com.voidpet.MainActivity" image="voidpet_garden"/>
+
+	<!-- WEBTOON -->
+	<AppIcon name="com.naver.linewebtoon/com.naver.linewebtoon.splash.SplashActivity" image="webtoon"/>
+
+	<!-- X -->
+	<AppIcon name="com.twitter.android/com.twitter.android.StartActivity" image="x"/>
+
+	<!-- Zookemon -->
+	<AppIcon name="com.yorfstudio.zookemon/com.unity3d.player.UnityPlayerActivity" image="zookemon"/>
+
+	<!-- 究極トレーナー -->
+	<AppIcon name="com.sorig.inaloz/com.gumptech.sdk.ksbniIyoKaXfoOQe" image="究極トレナ"/>
+
+	<!-- 艾彼(Abi) -->
+	<AppIcon name="com.Lilith.Abi/com.lilithgame.abi.UnityPlayerActivity" image="艾彼_abi_"/>
+
+</Theme>

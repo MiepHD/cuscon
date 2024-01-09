@@ -1,0 +1,78 @@
+<Theme version="1">
+
+	<!-- Галерея -->
+	<AppIcon name="com.gallery20/com.gallery20.activities.GalleryActivity" image="gallery20"/>
+
+	<!-- Диктофон -->
+	<AppIcon name="com.transsion.soundrecorder/com.transsion.soundrecorder.SoundRecorder" image="transsion_soundrecorder"/>
+
+	<!-- Календарь -->
+	<AppIcon name="com.transsion.calendar/com.android.calendar.AllInOneActivity" image="transsion_calendar"/>
+
+	<!-- Калькулятор -->
+	<AppIcon name="com.transsion.calculator/com.transsion.calculator.Calculator" image="калькулятор"/>
+
+	<!-- Камера -->
+	<AppIcon name="com.transsion.camera/com.android.camera.CameraLauncher" image="камера"/>
+
+	<!-- Карты -->
+	<AppIcon name="ru.yandex.yandexmaps/ru.yandex.yandexmaps.SplashScreen" image="yandexmaps"/>
+
+	<!-- Клонирование телефона -->
+	<AppIcon name="com.transsion.letswitch/com.transsion.letswitch.MainActivity" image="клонирование_телефона"/>
+
+	<!-- ОК -->
+	<AppIcon name="ru.ok.android/ru.ok.android.ui.activity.main.OdklActivity" image="ок"/>
+
+	<!-- Плеер Visha -->
+	<AppIcon name="com.transsion.magicshow/com.transsion.magicmovie.activity.TRSplashActivity" image="плеер_visha"/>
+
+	<!-- Погода -->
+	<AppIcon name="com.rlk.weathers/com.rlk.weathers.ui.main.MainActivity" image="погода"/>
+
+	<!-- Ренессанс -->
+	<AppIcon name="cz.bsc.rc/ru.rencredit.authorization.splash.presentation.SplashActivity" image="rencredit"/>
+
+	<!-- Телефон -->
+	<AppIcon name="com.sh.smart.caller/com.android.dialer.main.impl.MainActivity" image="телефон"/>
+
+	<!-- Умное сканирование -->
+	<AppIcon name="com.transsion.scanningrecharger/com.transsion.scanningrecharger.view.activity.SplashActivity" image="умное_сканирование"/>
+
+	<!-- Часы -->
+	<AppIcon name="com.transsion.deskclock/com.transsion.deskclock.DeskClock" image="часы"/>
+
+	<!-- ЯндексGo -->
+	<AppIcon name="ru.yandex.taxi/ru.yandex.taxi.activity.StartActivity" image="яндексgo"/>
+
+	<!-- Carlcare -->
+	<AppIcon name="com.transsion.carlcare/com.transsion.carlcare.MainActivity" image="carlcare"/>
+
+	<!-- Farlight 84 -->
+	<AppIcon name="com.miraclegames.farlight84/com.epicgames.ue4.SplashActivity" image="farlight_84"/>
+
+	<!-- Free Fire -->
+	<AppIcon name="com.dts.freefireth/com.dts.freefireth.FFMainActivity" image="free_fire"/>
+
+	<!-- HiParty -->
+	<AppIcon name="com.transsion.hiparty/com.transsion.hiparty.WelcomeActivity" image="hiparty"/>
+
+	<!-- maxim 🚕 -->
+	<AppIcon name="com.taxsee.taxsee/com.taxsee.taxsee.ui.activities.SplashScreen" image="maxim_🚕"/>
+
+	<!-- Mir Pay -->
+	<AppIcon name="ru.nspk.mirpay/ru.nspk.mirpay.b34rqwEd1vSkvA" image="mir_pay"/>
+
+	<!-- My Health -->
+	<AppIcon name="com.transsion.healthlife/com.transsion.healthlife.view.WelcomeActivity" image="my_health"/>
+
+	<!-- Race Max Pro -->
+	<AppIcon name="game.revani.racemaxpro/com.unity3d.player.UnityPlayerActivity" image="race_max_pro"/>
+
+	<!-- Soplay -->
+	<AppIcon name="com.transsion.beez/com.transsion.tempo.ui.SplashActivity" image="soplay"/>
+
+	<!-- VK -->
+	<AppIcon name="com.vkontakte.android/com.vk.android.launcher.icons.IconAlias.DefaultIcon" image="vk"/>
+
+</Theme>

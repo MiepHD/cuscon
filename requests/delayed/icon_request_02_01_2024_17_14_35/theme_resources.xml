@@ -1,0 +1,27 @@
+<Theme version="1">
+
+	<!-- Cruciverba 10 Pro -->
+	<AppIcon name="com.blog.deschamps.crosswords.pro/com.blog.deschamps.crosswords.activities.MainMenuActivity" image="cruciverba_10_pro"/>
+
+	<!-- Inspector -->
+	<AppIcon name="ussr.razar.inspector/ussr.razar.inspector.StartAc" image="inspector"/>
+
+	<!-- Neutron Player -->
+	<AppIcon name="com.neutroncode.mp/com.neutroncode.mp.NeutronMPCore" image="neutron_player"/>
+
+	<!-- RE Equalizer -->
+	<AppIcon name="com.wiseschematics.reeq01/com.wiseschematics.reeq01.EQ" image="re_equalizer"/>
+
+	<!-- Runner -->
+	<AppIcon name="ir.lydia.runner/ir.lydia.runner.SplashScreen" image="runner"/>
+
+	<!-- SD Maid SE -->
+	<AppIcon name="eu.darken.sdmse/eu.darken.sdmse.main.ui.MainActivity" image="sd_maid_se"/>
+
+	<!-- STARS -->
+	<AppIcon name="com.maxelus.livewallpaper.stars/com.justzht.unity.lwp.activity.LiveWallpaperLauncherRedirectActivity" image="stars"/>
+
+	<!-- SuperFreezZ -->
+	<AppIcon name="superfreeze.tool.android/superfreeze.tool.android.userInterface.mainActivity.MainActivity" image="superfreezz"/>
+
+</Theme>

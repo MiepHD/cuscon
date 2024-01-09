@@ -1,0 +1,330 @@
+<appmap>
+
+	<!-- AnkiDroid -->
+	<item class="com.ichi2.anki.IntentHandler" name="ankidroid"/>
+
+	<!-- Atomas -->
+	<item class="org.cocos2dx.cpp.AppActivity" name="atomas"/>
+
+	<!-- Beatstar -->
+	<item class="com.unity3d.player.UnityPlayerActivity" name="beatstar"/>
+
+	<!-- Best Fiends -->
+	<item class="com.appboy.unity.AppboyUnityPlayerActivity" name="best_fiends"/>
+
+	<!-- Bloons TD 6 NETFLIX -->
+	<item class="com.unity3d.player.UnityPlayerActivity" name="bloons_td_6_netflix"/>
+
+	<!-- C.A.T.S. -->
+	<item class="com.zeptolab.cats.CATSActivity" name="cats"/>
+
+	<!-- Card Shop Tycoon 2 -->
+	<item class="com.unity3d.player.UnityPlayerActivity" name="card_shop_tycoon_2"/>
+
+	<!-- Case Hunter -->
+	<item class="com.eyewind.mcase.master.MainActivity" name="case_hunter"/>
+
+	<!-- Castle Crush -->
+	<item class="com.tfgco.games.strategy.free.castlecrush.AppActivity" name="castle_crush"/>
+
+	<!-- Cats are Cute -->
+	<item class="com.unity3d.player.UnityPlayerActivity" name="cats_are_cute"/>
+
+	<!-- Cineplex -->
+	<item class="com.cinuru.app.MainActivity" name="cineplex"/>
+
+	<!-- Construction Set -->
+	<item class="by.saygames.SayKitActivity" name="construction_set"/>
+
+	<!-- Country Star -->
+	<item class="com.unity3d.player.UnityPlayerActivity" name="country_star"/>
+
+	<!-- Cryptogram -->
+	<item class="com.jmsc.cryptogram.SplashActivity" name="cryptogram"/>
+
+	<!-- Cube Escape -->
+	<item class="air.com.RustyLake.CubeEscapeCollection.AppEntry" name="cube_escape"/>
+
+	<!-- Cube Escape Paradox -->
+	<item class="air.com.RustyLake.CubeEscapeParadox.AppEntry" name="cube_escape_paradox"/>
+
+	<!-- Cube Solver -->
+	<item class="com.jeffprod.cubesolver.MainActivity" name="cube_solver"/>
+
+	<!-- DAK App -->
+	<item class="de.dak.startup.StartUpActivity" name="dak_app"/>
+
+	<!-- DAK ePA -->
+	<item class="com.rise_world.epa.ui.splash.SplashActivity" name="dak_epa"/>
+
+	<!-- dataDex -->
+	<item class="com.talzz.datadex.activities.main.MainActivity" name="datadex"/>
+
+	<!-- Discord -->
+	<item class="com.discord.main.MainDefault" name="discord"/>
+
+	<!-- Don't get fired! -->
+	<item class="com.unity3d.player.UnityPlayerActivity" name="dont_get_fired_"/>
+
+	<!-- Doodle Me -->
+	<item class="com.highxp.doodle.MainActivity" name="doodle_me"/>
+
+	<!-- DragonCity -->
+	<item class="es.socialpoint.hydra.permissions.PermissionsActivity" name="dragoncity"/>
+
+	<!-- eBay -->
+	<item class="com.ebay.mobile.home.impl.main.MainActivity" name="ebay"/>
+
+	<!-- Einstein Island -->
+	<item class="com.blackpumalabs.treasureisland.StartActivity" name="einstein_island"/>
+
+	<!-- Endlos Quiz -->
+	<item class="com.timleg.quiz.Game" name="endlos_quiz"/>
+
+	<!-- Evertale -->
+	<item class="com.google.firebase.MessagingUnityPlayerActivity" name="evertale"/>
+
+	<!-- EvoCreo -->
+	<item class="ilmfinity.evocreo.main.android.AndroidLauncher" name="evocreo"/>
+
+	<!-- Flo -->
+	<item class="org.iggymedia.periodtracker.activities.InitialActivity" name="flo"/>
+
+	<!-- Fortelling -->
+	<item class="app.fortelling.MainActivity" name="fortelling"/>
+
+	<!-- FreeOTP -->
+	<item class="org.fedorahosted.freeotp.PasswordActivity" name="freeotp"/>
+
+	<!-- Fun Run 3 -->
+	<item class="com.unity3d.player.UnityPlayerActivity" name="fun_run_3"/>
+
+	<!-- Gacha Life -->
+	<item class="air.com.lunime.gachalife.AppEntry" name="gacha_life"/>
+
+	<!-- Gardenscapes -->
+	<item class="com.playrix.gardenscapes.LoadActivityStore" name="gardenscapes"/>
+
+	<!-- Geometry Dash Lite -->
+	<item class="com.robtopx.geometryjumplite.GeometryDashLite" name="geometry_dash_lite"/>
+
+	<!-- Geometry Dash Meltdown -->
+	<item class="com.robtopx.geometryjumplite.GeometryDashLite" name="geometry_dash_meltdown"/>
+
+	<!-- Geometry Dash SubZero -->
+	<item class="com.robtopx.geometryjumplite.GeometryDashLite" name="geometry_dash_subzero"/>
+
+	<!-- Geometry Dash World -->
+	<item class="com.robtopx.geometryjumplite.GeometryDashLite" name="geometry_dash_world"/>
+
+	<!-- geteduroam -->
+	<item class="app.eduroam.geteduroam.MainActivity" name="geteduroam"/>
+
+	<!-- Getwardrobe -->
+	<item class="com.ThreeBoots.MainActivity" name="getwardrobe"/>
+
+	<!-- Goldex -->
+	<item class="com.goldex.view.activity.MainActivity" name="goldex"/>
+
+	<!-- Happy Color -->
+	<item class="com.unity3d.player.HappyColorActivity" name="happy_color"/>
+
+	<!-- Hay Day -->
+	<item class="com.supercell.hayday.GameApp" name="hay_day"/>
+
+	<!-- Hi Color -->
+	<item class="com.unity3d.player.UnityPlayerActivity" name="hi_color"/>
+
+	<!-- Hybrid Warrior -->
+	<item class="org.cocos2dx.cpp.AppActivity" name="hybrid_warrior"/>
+
+	<!-- Hyper Cards -->
+	<item class="com.boombit.MainActivity" name="hyper_cards"/>
+
+	<!-- Jurassic World -->
+	<item class="com.ludia.engine.application.GameActivity" name="jurassic_world"/>
+
+	<!-- Karpador -->
+	<item class="org.cocos2dx.cpp.AppActivity" name="karpador"/>
+
+	<!-- Kennzeichensammler -->
+	<item class="email.com.gmail.at.tornadoredapps.kennzeichensammler.MainActivity" name="kennzeichensammler"/>
+
+	<!-- King of Thieves -->
+	<item class="com.zeptolab.thieves.ThievesActivity" name="king_of_thieves"/>
+
+	<!-- Klotski -->
+	<item class="com.alcamasoft.juegos.klotski.android.activities.MainActivity" name="klotski"/>
+
+	<!-- Lass uns spielen -->
+	<item class="com.google.firebase.MessagingUnityPlayerActivity" name="lass_uns_spielen"/>
+
+	<!-- Sticker.style -->
+	<item class="com.zlb.sticker.moudle.flash.FlashActivity" name="stickerstyle"/>
+
+	<!-- Legend Slime -->
+	<item class="com.loadcomplete.UnityPlayerActivityExtension" name="legend_slime"/>
+
+	<!-- LEGO® Builder -->
+	<item class="com.unity3d.player.UnityPlayerActivity" name="lego®_builder"/>
+
+	<!-- Lifesum -->
+	<item class="com.lifesum.android.main.MainActivity" name="lifesum"/>
+
+	<!-- LogoTest World -->
+	<item class="com.oyeapps.logotest.activities.SplashActivity" name="logotest_world"/>
+
+	<!-- MealSwipe -->
+	<item class="de.linova.mealswipe.application.MainActivity" name="mealswipe"/>
+
+	<!-- Mensa -->
+	<item class="de.mensas.app.Mensas" name="mensa"/>
+
+	<!-- Meow Tower -->
+	<item class="com.unity3d.player.UnityPlayerActivity" name="meow_tower"/>
+
+	<!-- Mind Tracker -->
+	<item class="com.fedosov.mindtracker.MainActivity" name="mind_tracker"/>
+
+	<!-- MineTap -->
+	<item class="com.google.firebase.MessagingUnityPlayerActivity" name="minetap"/>
+
+	<!-- MONOPOLY GO -->
+	<item class="com.scopely.unity.ScopelyUnityActivity" name="monopoly_go"/>
+
+	<!-- Morse Chat -->
+	<item class="digital.dong.morsechat.MainActivity" name="morse_chat"/>
+
+	<!-- Morse code -->
+	<item class="crc648bbdc909d4b41b63.MainActivity" name="morse_code"/>
+
+	<!-- Music AI -->
+	<item class="com.feraset.tune.MainActivity" name="music_ai"/>
+
+	<!-- MyWTC -->
+	<item class="com.hellotoon.mylittlecharacter.MainActivity" name="mywtc"/>
+
+	<!-- Nimble Quest -->
+	<item class="com.unity3d.player.UnityPlayerNativeActivity" name="nimble_quest"/>
+
+	<!-- Nobodies: MurderCleaner -->
+	<item class="com.unity3d.player.UnityPlayerActivity" name="nobodies_murdercleaner"/>
+
+	<!-- Old Friends -->
+	<item class="com.unity3d.player.UnityPlayerActivity" name="old_friends"/>
+
+	<!-- Plant Nanny -->
+	<item class="com.fourdesire.plantnanny2.PNTMainActivityGooglePlay" name="plant_nanny"/>
+
+	<!-- Pokecardex -->
+	<item class="com.application.pokecardex.ui.MainActivity" name="pokecardex"/>
+
+	<!-- Pokémon GO -->
+	<item class="com.nianticproject.holoholo.libholoholo.unity.UnityMainActivity" name="pokemon_go"/>
+
+	<!-- Pokémon HOME -->
+	<item class="com.unity3d.player.UnityPlayerActivity" name="pokemon_home"/>
+
+	<!-- Pokémon UNITE -->
+	<item class="com.nishiki.pgame.n.PGameLauncherActivity" name="pokemon_unite"/>
+
+	<!-- PokémonCaféReMix -->
+	<item class="com.geniussonority.app.TartNativeActivity" name="pokemoncaferemix"/>
+
+	<!-- Pokeverse World -->
+	<item class="com.molesdk.pro.SplashActivity" name="pokeverse_world"/>
+
+	<!-- Public Transport Simulator -->
+	<item class="com.unity3d.player.UnityPlayerActivity" name="public_transport_simulator"/>
+
+	<!-- QuizzLand -->
+	<item class="com.unity3d.player.UnityPlayerActivity" name="quizzland"/>
+
+	<!-- Regex Crossword -->
+	<item class="org.chromium.webapk.shell_apk.h2o.H2OOpaqueMainActivity" name="regex_crossword"/>
+
+	<!-- Rider -->
+	<item class="com.unity3d.player.UnityPlayerActivity" name="rider"/>
+
+	<!-- Rider Worlds -->
+	<item class="com.unity3d.player.UnityPlayerActivity" name="rider_worlds"/>
+
+	<!-- Rush Royale -->
+	<item class="games.my.heart.commonpreloaderlib.PreloadActivity" name="rush_royale"/>
+
+	<!-- Samsara Room -->
+	<item class="air.com.RustyLake.SamsaraRoom.AppEntry" name="samsara_room"/>
+
+	<!-- Samsung Global Goals -->
+	<item class="com.samsung.sree.ui.MainActivity" name="samsung_global_goals"/>
+
+	<!-- Samsung Health -->
+	<item class="com.samsung.android.app.shealth.home.HomeMainActivity" name="samsung_health"/>
+
+	<!-- Shootero -->
+	<item class="com.unity3d.player.UnityPlayerActivity" name="shootero"/>
+
+	<!-- Simple Pokédex -->
+	<item class="com.example.simple_pokedex.MainActivity" name="simple_pokedex"/>
+
+	<!-- Slime Quest -->
+	<item class="com.loadcomplete.UnityPlayerActivityExtension" name="slime_quest"/>
+
+	<!-- Stirnraten -->
+	<item class="stirnraten.roth.com.stirnratenandroid.start.MainActivity" name="stirnraten"/>
+
+	<!-- Story Plotter -->
+	<item class="com.hhatamanga.storyplotter.MainActivity" name="story_plotter"/>
+
+	<!-- Stundenplan -->
+	<item class="de.thefrogger.timetable.MainActivity" name="stundenplan"/>
+
+	<!-- Subway Surf -->
+	<item class="com.sybogames.chili.multidex.ChiliMultidexSupportActivity" name="subway_surf"/>
+
+	<!-- Sudoku -->
+	<item class="com.meevii.ui.activity.SplashActivity" name="sudoku"/>
+
+	<!-- Taste -->
+	<item class="com.tasteio.MainActivity" name="taste"/>
+
+	<!-- TCGCardTycoon -->
+	<item class="com.unity3d.player.UnityPlayerActivity" name="tcgcardtycoon"/>
+
+	<!-- The Baby In Yellow -->
+	<item class="com.epicgames.ue4.SplashActivity" name="the_baby_in_yellow"/>
+
+	<!-- The Past Within Lite -->
+	<item class="air.com.RustyLake.ThePastWithinLite.AIRAppEntry" name="the_past_within_lite"/>
+
+	<!-- To-do List -->
+	<item class="app.todolist.activity.SplashActivity" name="to_do_list"/>
+
+	<!-- Tricky Castle -->
+	<item class="com.teamtricky.tc.MainActivity" name="tricky_castle"/>
+
+	<!-- UniNow -->
+	<item class="com.zoontek.rnbootsplash.RNBootSplashActivity" name="uninow"/>
+
+	<!-- Untis Mobile -->
+	<item class="com.untis.mobile.ui.activities.launcher.LauncherActivity" name="untis_mobile"/>
+
+	<!-- Voidpet Garden -->
+	<item class="com.voidpet.MainActivity" name="voidpet_garden"/>
+
+	<!-- WEBTOON -->
+	<item class="com.naver.linewebtoon.splash.SplashActivity" name="webtoon"/>
+
+	<!-- X -->
+	<item class="com.twitter.android.StartActivity" name="x"/>
+
+	<!-- Zookemon -->
+	<item class="com.unity3d.player.UnityPlayerActivity" name="zookemon"/>
+
+	<!-- 究極トレーナー -->
+	<item class="com.gumptech.sdk.ksbniIyoKaXfoOQe" name="究極トレナ"/>
+
+	<!-- 艾彼(Abi) -->
+	<item class="com.lilithgame.abi.UnityPlayerActivity" name="艾彼_abi_"/>
+
+</appmap>

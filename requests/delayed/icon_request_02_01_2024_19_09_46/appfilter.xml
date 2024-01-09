@@ -1,0 +1,81 @@
+<resources>
+
+	<!-- Ambient Music Mod -->
+	<item component="ComponentInfo{com.kieronquinn.app.ambientmusicmod/com.kieronquinn.app.ambientmusicmod.ui.activities.MainActivity}" drawable="ambient_music_mod" />
+
+	<!-- BTC Map -->
+	<item component="ComponentInfo{org.btcmap/activity.Activity}" drawable="btc_map" />
+
+	<!-- Buran -->
+	<item component="ComponentInfo{corewala.gemini.buran/corewala.buran.ui.GemActivity}" drawable="buran" />
+
+	<!-- Calyx VPN -->
+	<item component="ComponentInfo{org.calyxinstitute.vpn/se.leap.bitmaskclient.base.StartActivity}" drawable="calyx_vpn" />
+
+	<!-- Camera -->
+	<item component="ComponentInfo{org.lineageos.aperture.dev/org.lineageos.aperture.CameraLauncher}" drawable="lineageos_camera" />
+
+	<!-- chat -->
+	<item component="ComponentInfo{de.monocles.chat/de.monocles.chat.ui.StartUI}" drawable="chat" />
+
+	<!-- Cromite -->
+	<item component="ComponentInfo{org.cromite.cromite/com.google.android.apps.chrome.Main}" drawable="cromite" />
+
+	<!-- DetoxDroid -->
+	<item component="ComponentInfo{com.flx_apps.digitaldetox/com.flx_apps.digitaldetox.MainActivity}" drawable="detoxdroid" />
+
+	<!-- DNS Manager -->
+	<item component="ComponentInfo{com.f0x1d.dnsmanager/com.f0x1d.dnsmanager.ui.activity.MainActivity}" drawable="dns_manager" />
+
+	<!-- DSU Sideloader -->
+	<item component="ComponentInfo{vegabobo.dsusideloader/vegabobo.dsusideloader.MainActivity}" drawable="dsu_sideloader" />
+
+	<!-- EasyWay -->
+	<item component="ComponentInfo{com.eway/com.eway.android.activity.MainActivity}" drawable="easyway" />
+
+	<!-- FM Radio -->
+	<item component="ComponentInfo{com.caf.fmradio/com.caf.fmradio.FMRadio}" drawable="fm_radio" />
+
+	<!-- FREE Browser -->
+	<item component="ComponentInfo{org.woheller69.browser/de.baumann.browser.activity.BrowserActivity}" drawable="free_browser" />
+
+	<!-- FreeDCam -->
+	<item component="ComponentInfo{troop.com.freedcam/freed.cam.ActivityFreeDcamMain}" drawable="freedcam" />
+
+	<!-- FreeDCam Viewer -->
+	<item component="ComponentInfo{troop.com.freedcam/freed.viewer.ActivityFreeDviewer}" drawable="freedcam_viewer" />
+
+	<!-- FUTO Voice Input -->
+	<item component="ComponentInfo{org.futo.voiceinput/org.futo.voiceinput.settings.SettingsActivity}" drawable="futo_voice_input" />
+
+	<!-- gptAssist -->
+	<item component="ComponentInfo{org.woheller69.gptassist/org.woheller69.gptassist.MainActivity}" drawable="gptassist" />
+
+	<!-- Grayjay -->
+	<item component="ComponentInfo{com.futo.platformplayer/com.futo.platformplayer.activities.MainActivity}" drawable="grayjay" />
+
+	<!-- InviZible Pro -->
+	<item component="ComponentInfo{pan.alexander.tordnscrypt/pan.alexander.tordnscrypt.MainActivity}" drawable="invizible_pro" />
+
+	<!-- Kitsune Mask -->
+	<item component="ComponentInfo{io.github.huskydg.magisk/com.topjohnwu.magisk.ui.MainActivity}" drawable="kitsune_mask" />
+
+	<!-- LMC8.4 -->
+	<item component="ComponentInfo{org.codeaurora.qcamera3/com.android.camera.CameraLauncher}" drawable="lmc84" />
+
+	<!-- Mercurygram -->
+	<item component="ComponentInfo{it.belloworld.mercurygram/org.telegram.messenger.NoxIcon}" drawable="mercurygram" />
+
+	<!-- Shizuku -->
+	<item component="ComponentInfo{moe.shizuku.privileged.api/moe.shizuku.manager.MainActivity}" drawable="shizuku" />
+
+	<!-- Terminal Emulator -->
+	<item component="ComponentInfo{com.termoneplus/com.termoneplus.TermActivity}" drawable="terminal_emulator" />
+
+	<!-- Trekarta -->
+	<item component="ComponentInfo{mobi.maptrek/mobi.maptrek.MainActivity}" drawable="trekarta" />
+
+	<!-- Tux Paint -->
+	<item component="ComponentInfo{org.tuxpaint/org.tuxpaint.tuxpaintActivity}" drawable="tux_paint" />
+
+</resources>

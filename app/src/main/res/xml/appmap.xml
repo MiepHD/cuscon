@@ -1357,5 +1357,6 @@
 	<item class="com.upwork.android.apps.main.activity.MainActivity" name="upwork_talent"/>
 	<item class="com.wanderlog.android.MainActivity" name="wanderlog"/>
 	<item class="wodbuster.box.LauncherActivity" name="wodbuster"/>
+	<item class="io.element.android.x.MainActivity" name="element"/>
 
 </appmap>

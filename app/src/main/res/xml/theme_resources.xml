@@ -1368,5 +1368,6 @@
 	<AppIcon name="com.upwork.android.apps.main/com.upwork.android.apps.main.activity.MainActivity" image="upwork_talent"/>
 	<AppIcon name="com.wanderlog.android/com.wanderlog.android.MainActivity" image="wanderlog"/>
 	<AppIcon name="santi.wodbuster/wodbuster.box.LauncherActivity" image="wodbuster"/>
+	<AppIcon name="io.element.android.x/io.element.android.x.MainActivity" image="element"/>
 
 </Theme>

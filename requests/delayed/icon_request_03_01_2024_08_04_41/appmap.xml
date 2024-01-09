@@ -1,0 +1,6 @@
+<appmap>
+
+	<!-- Office: TextMaker -->
+	<item class="softmaker.applications.textmaker.TextMaker" name="office_textmaker"/>
+
+</appmap>
