@@ -1371,5 +1371,16 @@
 	<item class="com.transsion.tempo.ui.SplashActivity" name="soplay"/>
 	<item class="com.google.android.googlequicksearchbox.VoiceSearchActivity" name="google"/>
 	<item class="com.android.camera.CameraLauncher" name="android_camera"/>
+	<item class="com.ausmallfinancebank.amb.MainActivity" name="au_0101"/>
+	<item class="com.ngrob.android.bluemoon.MainActivity" name="bluemoon"/>
+	<item class="com.crrepa.band.my.SplashActivity" name="da_fit"/>
+	<item class="eu.depau.etchdroid.ui.MainActivity" name="etchdroid"/>
+	<item class="com.gregacucnik.fishingpoints.WelcomeActivity" name="fishing_points"/>
+	<item class="com.example.piggybank.MainActivity" name="oinkoin"/>
+	<item class="org.telegram.messenger.AquaIcon" name="telegram_aqua"/>
+	<item class="com.torrents_csv_android.MainActivity" name="torrents_csv"/>
+	<item class="com.wstxda.viper4android.MainActivity" name="viperfx"/>
+	<item class="com.eci.citizen.features.splash.Splash" name="voter_helpline"/>
+	<item class="com.sbi.lotusintouch.MainActivity" name="yono_sbi"/>
 
 </appmap>

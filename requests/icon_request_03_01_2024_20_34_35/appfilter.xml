@@ -3,12 +3,6 @@
 	<!-- Amazon -->
 	<item component="ComponentInfo{in.amazon.mShop.android.shopping/com.amazon.mShop.home.HomeActivity}" drawable="amazon" />
 
-	<!-- AU 0101 -->
-	<item component="ComponentInfo{com.ausmallfinancebank.amb/com.ausmallfinancebank.amb.MainActivity}" drawable="au_0101" />
-
-	<!-- Bluemoon -->
-	<item component="ComponentInfo{ch.nilsgrob.android.bluemoon/com.ngrob.android.bluemoon.MainActivity}" drawable="bluemoon" />
-
 	<!-- Bromite -->
 	<item component="ComponentInfo{org.bromite.bromite/com.google.android.apps.chrome.Main}" drawable="bromite" />
 
@@ -21,20 +15,11 @@
 	<!-- CoinTrend -->
 	<item component="ComponentInfo{com.cointrend/com.cointrend.presentation.MainActivity}" drawable="cointrend" />
 
-	<!-- Da Fit -->
-	<item component="ComponentInfo{com.crrepa.band.dafit/com.crrepa.band.my.SplashActivity}" drawable="da_fit" />
-
 	<!-- DataBackup -->
 	<item component="ComponentInfo{com.xayah.databackup.foss/com.xayah.databackup.SplashActivity}" drawable="databackup" />
 
 	<!-- Diusagar -->
 	<item component="ComponentInfo{com.df.users/com.fisheriesowner.activity.SplashActivity}" drawable="diusagar" />
-
-	<!-- EtchDroid -->
-	<item component="ComponentInfo{eu.depau.etchdroid/eu.depau.etchdroid.ui.MainActivity}" drawable="etchdroid" />
-
-	<!-- Fishing Points -->
-	<item component="ComponentInfo{com.gregacucnik.fishingpoints/com.gregacucnik.fishingpoints.WelcomeActivity}" drawable="fishing_points" />
 
 	<!-- FM Radio -->
 	<item component="ComponentInfo{com.caf.fmradio/com.caf.fmradio.FMRadio}" drawable="fm_radio" />
@@ -47,23 +32,5 @@
 
 	<!-- MR -->
 	<item component="ComponentInfo{h.vjkf/xn.o4A.Ppy.YgN}" drawable="mr" />
-
-	<!-- Oinkoin -->
-	<item component="ComponentInfo{com.github.emavgl.piggybankpro/com.example.piggybank.MainActivity}" drawable="oinkoin" />
-
-	<!-- Telegram -->
-	<item component="ComponentInfo{org.telegram.messenger/org.telegram.messenger.AquaIcon}" drawable="telegram" />
-
-	<!-- Torrents-csv -->
-	<item component="ComponentInfo{com.torrents_csv_android/com.torrents_csv_android.MainActivity}" drawable="torrents_csv" />
-
-	<!-- ViperFX -->
-	<item component="ComponentInfo{com.wstxda.viper4android/com.wstxda.viper4android.MainActivity}" drawable="viperfx" />
-
-	<!-- Voter Helpline -->
-	<item component="ComponentInfo{com.eci.citizen/com.eci.citizen.features.splash.Splash}" drawable="voter_helpline" />
-
-	<!-- YONO SBI -->
-	<item component="ComponentInfo{com.sbi.lotusintouch/com.sbi.lotusintouch.MainActivity}" drawable="yono_sbi" />
 
 </resources>

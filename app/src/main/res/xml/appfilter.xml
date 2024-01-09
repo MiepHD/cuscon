@@ -1391,5 +1391,16 @@
 	<item component="ComponentInfo{com.transsion.beez/com.transsion.tempo.ui.SplashActivity}" drawable="soplay" />
 	<item component="ComponentInfo{com.google.android.googlequicksearchbox/com.google.android.googlequicksearchbox.VoiceSearchActivity}" drawable="google" />
 	<item component="ComponentInfo{com.ss.android.ugc.aweme/com.android.camera.CameraLauncher}" drawable="android_camera" />
+	<item component="ComponentInfo{com.ausmallfinancebank.amb/com.ausmallfinancebank.amb.MainActivity}" drawable="au_0101" />
+	<item component="ComponentInfo{ch.nilsgrob.android.bluemoon/com.ngrob.android.bluemoon.MainActivity}" drawable="bluemoon" />
+	<item component="ComponentInfo{com.crrepa.band.dafit/com.crrepa.band.my.SplashActivity}" drawable="da_fit" />
+	<item component="ComponentInfo{eu.depau.etchdroid/eu.depau.etchdroid.ui.MainActivity}" drawable="etchdroid" />
+	<item component="ComponentInfo{com.gregacucnik.fishingpoints/com.gregacucnik.fishingpoints.WelcomeActivity}" drawable="fishing_points" />
+	<item component="ComponentInfo{com.github.emavgl.piggybankpro/com.example.piggybank.MainActivity}" drawable="oinkoin" />
+	<item component="ComponentInfo{org.telegram.messenger/org.telegram.messenger.AquaIcon}" drawable="telegram_aqua" />
+	<item component="ComponentInfo{com.torrents_csv_android/com.torrents_csv_android.MainActivity}" drawable="torrents_csv" />
+	<item component="ComponentInfo{com.wstxda.viper4android/com.wstxda.viper4android.MainActivity}" drawable="viperfx" />
+	<item component="ComponentInfo{com.eci.citizen/com.eci.citizen.features.splash.Splash}" drawable="voter_helpline" />
+	<item component="ComponentInfo{com.sbi.lotusintouch/com.sbi.lotusintouch.MainActivity}" drawable="yono_sbi" />
 
 </resources>

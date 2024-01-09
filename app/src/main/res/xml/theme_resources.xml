@@ -1382,5 +1382,16 @@
 	<AppIcon name="com.transsion.beez/com.transsion.tempo.ui.SplashActivity" image="soplay"/>
 	<AppIcon name="com.google.android.googlequicksearchbox/com.google.android.googlequicksearchbox.VoiceSearchActivity" image="google"/>
 	<AppIcon name="com.ss.android.ugc.aweme/com.android.camera.CameraLauncher" image="android_camera"/>
+	<AppIcon name="com.ausmallfinancebank.amb/com.ausmallfinancebank.amb.MainActivity" image="au_0101"/>
+	<AppIcon name="ch.nilsgrob.android.bluemoon/com.ngrob.android.bluemoon.MainActivity" image="bluemoon"/>
+	<AppIcon name="com.crrepa.band.dafit/com.crrepa.band.my.SplashActivity" image="da_fit"/>
+	<AppIcon name="eu.depau.etchdroid/eu.depau.etchdroid.ui.MainActivity" image="etchdroid"/>
+	<AppIcon name="com.gregacucnik.fishingpoints/com.gregacucnik.fishingpoints.WelcomeActivity" image="fishing_points"/>
+	<AppIcon name="com.github.emavgl.piggybankpro/com.example.piggybank.MainActivity" image="oinkoin"/>
+	<AppIcon name="org.telegram.messenger/org.telegram.messenger.AquaIcon" image="telegram_aqua"/>
+	<AppIcon name="com.torrents_csv_android/com.torrents_csv_android.MainActivity" image="torrents_csv"/>
+	<AppIcon name="com.wstxda.viper4android/com.wstxda.viper4android.MainActivity" image="viperfx"/>
+	<AppIcon name="com.eci.citizen/com.eci.citizen.features.splash.Splash" image="voter_helpline"/>
+	<AppIcon name="com.sbi.lotusintouch/com.sbi.lotusintouch.MainActivity" image="yono_sbi"/>
 
 </Theme>

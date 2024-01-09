@@ -3,12 +3,6 @@
 	<!-- Amazon -->
 	<item class="com.amazon.mShop.home.HomeActivity" name="amazon"/>
 
-	<!-- AU 0101 -->
-	<item class="com.ausmallfinancebank.amb.MainActivity" name="au_0101"/>
-
-	<!-- Bluemoon -->
-	<item class="com.ngrob.android.bluemoon.MainActivity" name="bluemoon"/>
-
 	<!-- Bromite -->
 	<item class="com.google.android.apps.chrome.Main" name="bromite"/>
 
@@ -21,20 +15,11 @@
 	<!-- CoinTrend -->
 	<item class="com.cointrend.presentation.MainActivity" name="cointrend"/>
 
-	<!-- Da Fit -->
-	<item class="com.crrepa.band.my.SplashActivity" name="da_fit"/>
-
 	<!-- DataBackup -->
 	<item class="com.xayah.databackup.SplashActivity" name="databackup"/>
 
 	<!-- Diusagar -->
 	<item class="com.fisheriesowner.activity.SplashActivity" name="diusagar"/>
-
-	<!-- EtchDroid -->
-	<item class="eu.depau.etchdroid.ui.MainActivity" name="etchdroid"/>
-
-	<!-- Fishing Points -->
-	<item class="com.gregacucnik.fishingpoints.WelcomeActivity" name="fishing_points"/>
 
 	<!-- FM Radio -->
 	<item class="com.caf.fmradio.FMRadio" name="fm_radio"/>
@@ -47,23 +32,5 @@
 
 	<!-- MR -->
 	<item class="xn.o4A.Ppy.YgN" name="mr"/>
-
-	<!-- Oinkoin -->
-	<item class="com.example.piggybank.MainActivity" name="oinkoin"/>
-
-	<!-- Telegram -->
-	<item class="org.telegram.messenger.AquaIcon" name="telegram"/>
-
-	<!-- Torrents-csv -->
-	<item class="com.torrents_csv_android.MainActivity" name="torrents_csv"/>
-
-	<!-- ViperFX -->
-	<item class="com.wstxda.viper4android.MainActivity" name="viperfx"/>
-
-	<!-- Voter Helpline -->
-	<item class="com.eci.citizen.features.splash.Splash" name="voter_helpline"/>
-
-	<!-- YONO SBI -->
-	<item class="com.sbi.lotusintouch.MainActivity" name="yono_sbi"/>
 
 </appmap>
