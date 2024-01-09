@@ -15,9 +15,6 @@
 	<!-- Camera -->
 	<item class="org.derpfest.flash.CameraLauncher" name="camera"/>
 
-	<!-- Camera -->
-	<item class="com.android.camera.CameraLauncher" name="camera"/>
-
 	<!-- Candy Crush Soda -->
 	<item class="com.king.candycrushsodasaga.StritzActivity" name="candy_crush_soda"/>
 

@@ -15,9 +15,6 @@
 	<!-- Camera -->
 	<AppIcon name="org.derpfest.flash/org.derpfest.flash.CameraLauncher" image="camera"/>
 
-	<!-- Camera -->
-	<AppIcon name="com.ss.android.ugc.aweme/com.android.camera.CameraLauncher" image="camera"/>
-
 	<!-- Candy Crush Soda -->
 	<AppIcon name="com.king.candycrushsodasaga/com.king.candycrushsodasaga.StritzActivity" image="candy_crush_soda"/>
 

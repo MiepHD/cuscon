@@ -15,9 +15,6 @@
 	<!-- Camera -->
 	<item component="ComponentInfo{org.derpfest.flash/org.derpfest.flash.CameraLauncher}" drawable="camera" />
 
-	<!-- Camera -->
-	<item component="ComponentInfo{com.ss.android.ugc.aweme/com.android.camera.CameraLauncher}" drawable="camera" />
-
 	<!-- Candy Crush Soda -->
 	<item component="ComponentInfo{com.king.candycrushsodasaga/com.king.candycrushsodasaga.StritzActivity}" drawable="candy_crush_soda" />
 

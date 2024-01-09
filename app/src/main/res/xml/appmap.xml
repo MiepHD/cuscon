@@ -1370,5 +1370,6 @@
 	<item class="ru.nspk.mirpay.b34rqwEd1vSkvA" name="mir_pay"/>
 	<item class="com.transsion.tempo.ui.SplashActivity" name="soplay"/>
 	<item class="com.google.android.googlequicksearchbox.VoiceSearchActivity" name="google"/>
+	<item class="com.android.camera.CameraLauncher" name="android_camera"/>
 
 </appmap>
