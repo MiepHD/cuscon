@@ -1369,5 +1369,16 @@
 	<AppIcon name="com.wanderlog.android/com.wanderlog.android.MainActivity" image="wanderlog"/>
 	<AppIcon name="santi.wodbuster/wodbuster.box.LauncherActivity" image="wodbuster"/>
 	<AppIcon name="io.element.android.x/io.element.android.x.MainActivity" image="element"/>
+	<AppIcon name="com.gallery20/com.gallery20.activities.GalleryActivity" image="gallery20"/>
+	<AppIcon name="com.transsion.soundrecorder/com.transsion.soundrecorder.SoundRecorder" image="transsion_soundrecorder"/>
+	<AppIcon name="com.transsion.calendar/com.android.calendar.AllInOneActivity" image="transsion_calendar"/>
+	<AppIcon name="com.transsion.calculator/com.transsion.calculator.Calculator" image="transsion_calculator"/>
+	<AppIcon name="ru.yandex.yandexmaps/ru.yandex.yandexmaps.SplashScreen" image="yandexmaps"/>
+	<AppIcon name="com.transsion.letswitch/com.transsion.letswitch.MainActivity" image="transsion_letswitch"/>
+	<AppIcon name="cz.bsc.rc/ru.rencredit.authorization.splash.presentation.SplashActivity" image="rencredit"/>
+	<AppIcon name="com.transsion.hiparty/com.transsion.hiparty.WelcomeActivity" image="hiparty"/>
+	<AppIcon name="com.taxsee.taxsee/com.taxsee.taxsee.ui.activities.SplashScreen" image="maxim"/>
+	<AppIcon name="ru.nspk.mirpay/ru.nspk.mirpay.b34rqwEd1vSkvA" image="mir_pay"/>
+	<AppIcon name="com.transsion.beez/com.transsion.tempo.ui.SplashActivity" image="soplay"/>
 
 </Theme>

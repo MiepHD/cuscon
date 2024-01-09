@@ -1293,5 +1293,16 @@
 	<item drawable="upwork_talent" />
 	<item drawable="wanderlog" />
 	<item drawable="wodbuster" />
+	<item drawable="gallery20" />
+	<item drawable="transsion_soundrecorder" />
+	<item drawable="transsion_calendar" />
+	<item drawable="transsion_calculator" />
+	<item drawable="yandexmaps" />
+	<item drawable="transsion_letswitch" />
+	<item drawable="rencredit" />
+	<item drawable="hiparty" />
+	<item drawable="maxim" />
+	<item drawable="mir_pay" />
+	<item drawable="soplay" />
 
 </resources>

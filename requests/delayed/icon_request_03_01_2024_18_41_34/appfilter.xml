@@ -1,25 +1,7 @@
 <resources>
 
-	<!-- Галерея -->
-	<item component="ComponentInfo{com.gallery20/com.gallery20.activities.GalleryActivity}" drawable="gallery20" />
-
-	<!-- Диктофон -->
-	<item component="ComponentInfo{com.transsion.soundrecorder/com.transsion.soundrecorder.SoundRecorder}" drawable="transsion_soundrecorder" />
-
-	<!-- Календарь -->
-	<item component="ComponentInfo{com.transsion.calendar/com.android.calendar.AllInOneActivity}" drawable="transsion_calendar" />
-
-	<!-- Калькулятор -->
-	<item component="ComponentInfo{com.transsion.calculator/com.transsion.calculator.Calculator}" drawable="калькулятор" />
-
 	<!-- Камера -->
 	<item component="ComponentInfo{com.transsion.camera/com.android.camera.CameraLauncher}" drawable="камера" />
-
-	<!-- Карты -->
-	<item component="ComponentInfo{ru.yandex.yandexmaps/ru.yandex.yandexmaps.SplashScreen}" drawable="yandexmaps" />
-
-	<!-- Клонирование телефона -->
-	<item component="ComponentInfo{com.transsion.letswitch/com.transsion.letswitch.MainActivity}" drawable="клонирование_телефона" />
 
 	<!-- ОК -->
 	<item component="ComponentInfo{ru.ok.android/ru.ok.android.ui.activity.main.OdklActivity}" drawable="ок" />
@@ -29,9 +11,6 @@
 
 	<!-- Погода -->
 	<item component="ComponentInfo{com.rlk.weathers/com.rlk.weathers.ui.main.MainActivity}" drawable="погода" />
-
-	<!-- Ренессанс -->
-	<item component="ComponentInfo{cz.bsc.rc/ru.rencredit.authorization.splash.presentation.SplashActivity}" drawable="rencredit" />
 
 	<!-- Телефон -->
 	<item component="ComponentInfo{com.sh.smart.caller/com.android.dialer.main.impl.MainActivity}" drawable="телефон" />
@@ -54,23 +33,11 @@
 	<!-- Free Fire -->
 	<item component="ComponentInfo{com.dts.freefireth/com.dts.freefireth.FFMainActivity}" drawable="free_fire" />
 
-	<!-- HiParty -->
-	<item component="ComponentInfo{com.transsion.hiparty/com.transsion.hiparty.WelcomeActivity}" drawable="hiparty" />
-
-	<!-- maxim 🚕 -->
-	<item component="ComponentInfo{com.taxsee.taxsee/com.taxsee.taxsee.ui.activities.SplashScreen}" drawable="maxim_🚕" />
-
-	<!-- Mir Pay -->
-	<item component="ComponentInfo{ru.nspk.mirpay/ru.nspk.mirpay.b34rqwEd1vSkvA}" drawable="mir_pay" />
-
 	<!-- My Health -->
 	<item component="ComponentInfo{com.transsion.healthlife/com.transsion.healthlife.view.WelcomeActivity}" drawable="my_health" />
 
 	<!-- Race Max Pro -->
 	<item component="ComponentInfo{game.revani.racemaxpro/com.unity3d.player.UnityPlayerActivity}" drawable="race_max_pro" />
-
-	<!-- Soplay -->
-	<item component="ComponentInfo{com.transsion.beez/com.transsion.tempo.ui.SplashActivity}" drawable="soplay" />
 
 	<!-- VK -->
 	<item component="ComponentInfo{com.vkontakte.android/com.vk.android.launcher.icons.IconAlias.DefaultIcon}" drawable="vk" />

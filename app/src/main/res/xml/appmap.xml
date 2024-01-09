@@ -1358,5 +1358,16 @@
 	<item class="com.wanderlog.android.MainActivity" name="wanderlog"/>
 	<item class="wodbuster.box.LauncherActivity" name="wodbuster"/>
 	<item class="io.element.android.x.MainActivity" name="element"/>
+	<item class="com.gallery20.activities.GalleryActivity" name="gallery20"/>
+	<item class="com.transsion.soundrecorder.SoundRecorder" name="transsion_soundrecorder"/>
+	<item class="com.android.calendar.AllInOneActivity" name="transsion_calendar"/>
+	<item class="com.transsion.calculator.Calculator" name="transsion_calculator"/>
+	<item class="ru.yandex.yandexmaps.SplashScreen" name="yandexmaps"/>
+	<item class="com.transsion.letswitch.MainActivity" name="transsion_letswitch"/>
+	<item class="ru.rencredit.authorization.splash.presentation.SplashActivity" name="rencredit"/>
+	<item class="com.transsion.hiparty.WelcomeActivity" name="hiparty"/>
+	<item class="com.taxsee.taxsee.ui.activities.SplashScreen" name="maxim"/>
+	<item class="ru.nspk.mirpay.b34rqwEd1vSkvA" name="mir_pay"/>
+	<item class="com.transsion.tempo.ui.SplashActivity" name="soplay"/>
 
 </appmap>

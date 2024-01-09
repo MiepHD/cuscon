@@ -1378,5 +1378,16 @@
 	<item component="ComponentInfo{com.wanderlog.android/com.wanderlog.android.MainActivity}" drawable="wanderlog" />
 	<item component="ComponentInfo{santi.wodbuster/wodbuster.box.LauncherActivity}" drawable="wodbuster" />
 	<item component="ComponentInfo{io.element.android.x/io.element.android.x.MainActivity}" drawable="element" />
+	<item component="ComponentInfo{com.gallery20/com.gallery20.activities.GalleryActivity}" drawable="gallery20" />
+	<item component="ComponentInfo{com.transsion.soundrecorder/com.transsion.soundrecorder.SoundRecorder}" drawable="transsion_soundrecorder" />
+	<item component="ComponentInfo{com.transsion.calendar/com.android.calendar.AllInOneActivity}" drawable="transsion_calendar" />
+	<item component="ComponentInfo{com.transsion.calculator/com.transsion.calculator.Calculator}" drawable="transsion_calculator" />
+	<item component="ComponentInfo{ru.yandex.yandexmaps/ru.yandex.yandexmaps.SplashScreen}" drawable="yandexmaps" />
+	<item component="ComponentInfo{com.transsion.letswitch/com.transsion.letswitch.MainActivity}" drawable="transsion_letswitch" />
+	<item component="ComponentInfo{cz.bsc.rc/ru.rencredit.authorization.splash.presentation.SplashActivity}" drawable="rencredit" />
+	<item component="ComponentInfo{com.transsion.hiparty/com.transsion.hiparty.WelcomeActivity}" drawable="hiparty" />
+	<item component="ComponentInfo{com.taxsee.taxsee/com.taxsee.taxsee.ui.activities.SplashScreen}" drawable="maxim" />
+	<item component="ComponentInfo{ru.nspk.mirpay/ru.nspk.mirpay.b34rqwEd1vSkvA}" drawable="mir_pay" />
+	<item component="ComponentInfo{com.transsion.beez/com.transsion.tempo.ui.SplashActivity}" drawable="soplay" />
 
 </resources>

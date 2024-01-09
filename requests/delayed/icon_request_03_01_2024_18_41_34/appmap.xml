@@ -1,25 +1,7 @@
 <appmap>
 
-	<!-- Галерея -->
-	<item class="com.gallery20.activities.GalleryActivity" name="gallery20"/>
-
-	<!-- Диктофон -->
-	<item class="com.transsion.soundrecorder.SoundRecorder" name="transsion_soundrecorder"/>
-
-	<!-- Календарь -->
-	<item class="com.android.calendar.AllInOneActivity" name="transsion_calendar"/>
-
-	<!-- Калькулятор -->
-	<item class="com.transsion.calculator.Calculator" name="калькулятор"/>
-
 	<!-- Камера -->
 	<item class="com.android.camera.CameraLauncher" name="камера"/>
-
-	<!-- Карты -->
-	<item class="ru.yandex.yandexmaps.SplashScreen" name="yandexmaps"/>
-
-	<!-- Клонирование телефона -->
-	<item class="com.transsion.letswitch.MainActivity" name="клонирование_телефона"/>
 
 	<!-- ОК -->
 	<item class="ru.ok.android.ui.activity.main.OdklActivity" name="ок"/>
@@ -29,9 +11,6 @@
 
 	<!-- Погода -->
 	<item class="com.rlk.weathers.ui.main.MainActivity" name="погода"/>
-
-	<!-- Ренессанс -->
-	<item class="ru.rencredit.authorization.splash.presentation.SplashActivity" name="rencredit"/>
 
 	<!-- Телефон -->
 	<item class="com.android.dialer.main.impl.MainActivity" name="телефон"/>
@@ -54,23 +33,11 @@
 	<!-- Free Fire -->
 	<item class="com.dts.freefireth.FFMainActivity" name="free_fire"/>
 
-	<!-- HiParty -->
-	<item class="com.transsion.hiparty.WelcomeActivity" name="hiparty"/>
-
-	<!-- maxim 🚕 -->
-	<item class="com.taxsee.taxsee.ui.activities.SplashScreen" name="maxim_🚕"/>
-
-	<!-- Mir Pay -->
-	<item class="ru.nspk.mirpay.b34rqwEd1vSkvA" name="mir_pay"/>
-
 	<!-- My Health -->
 	<item class="com.transsion.healthlife.view.WelcomeActivity" name="my_health"/>
 
 	<!-- Race Max Pro -->
 	<item class="com.unity3d.player.UnityPlayerActivity" name="race_max_pro"/>
-
-	<!-- Soplay -->
-	<item class="com.transsion.tempo.ui.SplashActivity" name="soplay"/>
 
 	<!-- VK -->
 	<item class="com.vk.android.launcher.icons.IconAlias.DefaultIcon" name="vk"/>
