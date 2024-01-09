@@ -1393,5 +1393,15 @@
 	<AppIcon name="com.wstxda.viper4android/com.wstxda.viper4android.MainActivity" image="viperfx"/>
 	<AppIcon name="com.eci.citizen/com.eci.citizen.features.splash.Splash" image="voter_helpline"/>
 	<AppIcon name="com.sbi.lotusintouch/com.sbi.lotusintouch.MainActivity" image="yono_sbi"/>
+	<AppIcon name="com.google.earth/com.google.android.apps.earth.flutter.EarthFlutterActivity" image="google_earth"/>
+	<AppIcon name="com.adif.elcanomovil/com.adif.elcanomovil.main.MainActivity" image="adif_elcanomovil"/>
+	<AppIcon name="com.joyer.tv.aibrowser/com.joyer.tv.aibrowser.ui.MainActivity" image="ai_browser"/>
+	<AppIcon name="com.catinthebox.dnsspeedtest/com.catinthebox.dnsspeedtest.Activities.MainActivity" image="dns_test"/>
+	<AppIcon name="com.dolphin.browser.zero/com.dolphin.browser.zero.main.MainActivity" image="dolphin_zero"/>
+	<AppIcon name="org.iron.srware/com.google.android.apps.chrome.Main" image="iron"/>
+	<AppIcon name="com.max.browser/com.max.browser.App" image="max_browser"/>
+	<AppIcon name="com.mx.browser/com.mx.browser.MxSplashActivity" image="maxthon"/>
+	<AppIcon name="com.apusapps.browser/com.superapps.browser.main.AppEnterActivity" image="navegador_apus"/>
+	<AppIcon name="com.apgsolutionsllc.APGSOLUTIONSLLC0007/com.apgsolutionsllc.APGSOLUTIONSLLC0007.MainActivityPhone" image="navegador_web_basico"/>
 
 </Theme>

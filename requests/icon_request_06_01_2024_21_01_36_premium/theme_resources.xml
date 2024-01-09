@@ -1,33 +1,6 @@
 <Theme version="1">
 
 	<!-- Adif -->
-	<AppIcon name="com.adif.elcanomovil/com.adif.elcanomovil.main.MainActivity" image="adif"/>
-
-	<!-- AI Browser -->
-	<AppIcon name="com.joyer.tv.aibrowser/com.joyer.tv.aibrowser.ui.MainActivity" image="ai_browser"/>
-
-	<!-- Dns Test -->
-	<AppIcon name="com.catinthebox.dnsspeedtest/com.catinthebox.dnsspeedtest.Activities.MainActivity" image="dns_test"/>
-
-	<!-- Dolphin Zero -->
-	<AppIcon name="com.dolphin.browser.zero/com.dolphin.browser.zero.main.MainActivity" image="dolphin_zero"/>
-
-	<!-- Google Earth -->
-	<AppIcon name="com.google.earth/com.google.android.apps.earth.flutter.EarthFlutterActivity" image="google_earth"/>
-
-	<!-- Iron -->
-	<AppIcon name="org.iron.srware/com.google.android.apps.chrome.Main" image="iron"/>
-
-	<!-- Max Browser -->
-	<AppIcon name="com.max.browser/com.max.browser.App" image="max_browser"/>
-
-	<!-- Maxthon -->
-	<AppIcon name="com.mx.browser/com.mx.browser.MxSplashActivity" image="maxthon"/>
-
-	<!-- Navegador APUS -->
-	<AppIcon name="com.apusapps.browser/com.superapps.browser.main.AppEnterActivity" image="navegador_apus"/>
-
-	<!-- Navegador web básico -->
-	<AppIcon name="com.apgsolutionsllc.APGSOLUTIONSLLC0007/com.apgsolutionsllc.APGSOLUTIONSLLC0007.MainActivityPhone" image="navegador_web_basico"/>
+	
 
 </Theme>

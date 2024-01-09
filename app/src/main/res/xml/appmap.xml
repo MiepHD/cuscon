@@ -1382,5 +1382,15 @@
 	<item class="com.wstxda.viper4android.MainActivity" name="viperfx"/>
 	<item class="com.eci.citizen.features.splash.Splash" name="voter_helpline"/>
 	<item class="com.sbi.lotusintouch.MainActivity" name="yono_sbi"/>
+	<item class="com.google.android.apps.earth.flutter.EarthFlutterActivity" name="google_earth"/>
+	<item class="com.adif.elcanomovil.main.MainActivity" name="adif_elcanomovil"/>
+	<item class="com.joyer.tv.aibrowser.ui.MainActivity" name="ai_browser"/>
+	<item class="com.catinthebox.dnsspeedtest.Activities.MainActivity" name="dns_test"/>
+	<item class="com.dolphin.browser.zero.main.MainActivity" name="dolphin_zero"/>
+	<item class="com.google.android.apps.chrome.Main" name="iron"/>
+	<item class="com.max.browser.App" name="max_browser"/>
+	<item class="com.mx.browser.MxSplashActivity" name="maxthon"/>
+	<item class="com.superapps.browser.main.AppEnterActivity" name="navegador_apus"/>
+	<item class="com.apgsolutionsllc.APGSOLUTIONSLLC0007.MainActivityPhone" name="navegador_web_basico"/>
 
 </appmap>

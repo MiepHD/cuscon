@@ -1,33 +1,13 @@
 <resources>
 
-	<!-- Adif -->
-	<item component="ComponentInfo{com.adif.elcanomovil/com.adif.elcanomovil.main.MainActivity}" drawable="adif" />
-
-	<!-- AI Browser -->
+	<item component="ComponentInfo{com.adif.elcanomovil/com.adif.elcanomovil.main.MainActivity}" drawable="adif_elcanomovil" />
 	<item component="ComponentInfo{com.joyer.tv.aibrowser/com.joyer.tv.aibrowser.ui.MainActivity}" drawable="ai_browser" />
-
-	<!-- Dns Test -->
 	<item component="ComponentInfo{com.catinthebox.dnsspeedtest/com.catinthebox.dnsspeedtest.Activities.MainActivity}" drawable="dns_test" />
-
-	<!-- Dolphin Zero -->
 	<item component="ComponentInfo{com.dolphin.browser.zero/com.dolphin.browser.zero.main.MainActivity}" drawable="dolphin_zero" />
-
-	<!-- Google Earth -->
-	<item component="ComponentInfo{com.google.earth/com.google.android.apps.earth.flutter.EarthFlutterActivity}" drawable="google_earth" />
-
-	<!-- Iron -->
 	<item component="ComponentInfo{org.iron.srware/com.google.android.apps.chrome.Main}" drawable="iron" />
-
-	<!-- Max Browser -->
 	<item component="ComponentInfo{com.max.browser/com.max.browser.App}" drawable="max_browser" />
-
-	<!-- Maxthon -->
 	<item component="ComponentInfo{com.mx.browser/com.mx.browser.MxSplashActivity}" drawable="maxthon" />
-
-	<!-- Navegador APUS -->
 	<item component="ComponentInfo{com.apusapps.browser/com.superapps.browser.main.AppEnterActivity}" drawable="navegador_apus" />
-
-	<!-- Navegador web básico -->
 	<item component="ComponentInfo{com.apgsolutionsllc.APGSOLUTIONSLLC0007/com.apgsolutionsllc.APGSOLUTIONSLLC0007.MainActivityPhone}" drawable="navegador_web_basico" />
 
 </resources>
