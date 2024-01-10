@@ -72,9 +72,6 @@
 	<!-- Cards With Cats -->
 	<item component="ComponentInfo{com.dozingcatsoftware.cardswithcats/com.dozingcatsoftware.cardswithcats.MainActivity}" drawable="cards_with_cats" />
 
-	<!-- Catima -->
-	<item component="ComponentInfo{me.hackerchick.catima/protect.card_locker.MainActivity}" drawable="catima" />
-
 	<!-- Circles -->
 	<item component="ComponentInfo{org.futo.circles/org.futo.circles.MainActivity}" drawable="circles" />
 
@@ -167,9 +164,6 @@
 
 	<!-- OctoDroid -->
 	<item component="ComponentInfo{com.gh4a/com.gh4a.activities.Github4AndroidActivity}" drawable="octodroid" />
-
-	<!-- Odyssey -->
-	<item component="ComponentInfo{org.gateshipone.odyssey/org.gateshipone.odyssey.activities.OdysseyMainActivity}" drawable="odyssey" />
 
 	<!-- OpenBoard -->
 	<item component="ComponentInfo{org.dslul.openboard.inputmethod.latin/org.dslul.openboard.inputmethod.latin.setup.SetupActivity}" drawable="openboard" />

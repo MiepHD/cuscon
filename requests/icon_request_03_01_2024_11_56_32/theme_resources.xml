@@ -72,9 +72,6 @@
 	<!-- Cards With Cats -->
 	<AppIcon name="com.dozingcatsoftware.cardswithcats/com.dozingcatsoftware.cardswithcats.MainActivity" image="cards_with_cats"/>
 
-	<!-- Catima -->
-	<AppIcon name="me.hackerchick.catima/protect.card_locker.MainActivity" image="catima"/>
-
 	<!-- Circles -->
 	<AppIcon name="org.futo.circles/org.futo.circles.MainActivity" image="circles"/>
 
@@ -170,9 +167,6 @@
 
 	<!-- OctoDroid -->
 	<AppIcon name="com.gh4a/com.gh4a.activities.Github4AndroidActivity" image="octodroid"/>
-
-	<!-- Odyssey -->
-	<AppIcon name="org.gateshipone.odyssey/org.gateshipone.odyssey.activities.OdysseyMainActivity" image="odyssey"/>
 
 	<!-- OpenBoard -->
 	<AppIcon name="org.dslul.openboard.inputmethod.latin/org.dslul.openboard.inputmethod.latin.setup.SetupActivity" image="openboard"/>

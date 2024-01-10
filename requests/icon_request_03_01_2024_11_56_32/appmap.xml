@@ -72,9 +72,6 @@
 	<!-- Cards With Cats -->
 	<item class="com.dozingcatsoftware.cardswithcats.MainActivity" name="cards_with_cats"/>
 
-	<!-- Catima -->
-	<item class="protect.card_locker.MainActivity" name="catima"/>
-
 	<!-- Circles -->
 	<item class="org.futo.circles.MainActivity" name="circles"/>
 
@@ -167,9 +164,6 @@
 
 	<!-- OctoDroid -->
 	<item class="com.gh4a.activities.Github4AndroidActivity" name="octodroid"/>
-
-	<!-- Odyssey -->
-	<item class="org.gateshipone.odyssey.activities.OdysseyMainActivity" name="odyssey"/>
 
 	<!-- OpenBoard -->
 	<item class="org.dslul.openboard.inputmethod.latin.setup.SetupActivity" name="openboard"/>
