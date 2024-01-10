@@ -1403,5 +1403,9 @@
 	<AppIcon name="com.mx.browser/com.mx.browser.MxSplashActivity" image="maxthon"/>
 	<AppIcon name="com.apusapps.browser/com.superapps.browser.main.AppEnterActivity" image="navegador_apus"/>
 	<AppIcon name="com.apgsolutionsllc.APGSOLUTIONSLLC0007/com.apgsolutionsllc.APGSOLUTIONSLLC0007.MainActivityPhone" image="navegador_web_basico"/>
+	<AppIcon name="com.heytap.browser/com.android.browser.BrowserActivity" image="internet"/>
+	<AppIcon name="all.documentreader.filereader.office.viewer/all.documentreader.filereader.office.viewer.pages.BlankActivity" image="lector_de_documentos"/>
+	<AppIcon name="com.myprog.netutils/com.myprog.netutils.MainActivity" image="network_utilities"/>
+	<AppIcon name="alldocumentreader.office.viewer.filereader/alldocumentreader.office.viewer.filereader.splash.BlankActivity" image="one_read"/>
 
 </Theme>

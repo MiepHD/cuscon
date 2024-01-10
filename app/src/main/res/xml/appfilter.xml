@@ -1412,5 +1412,9 @@
 	<item component="ComponentInfo{com.mx.browser/com.mx.browser.MxSplashActivity}" drawable="maxthon" />
 	<item component="ComponentInfo{com.apusapps.browser/com.superapps.browser.main.AppEnterActivity}" drawable="navegador_apus" />
 	<item component="ComponentInfo{com.apgsolutionsllc.APGSOLUTIONSLLC0007/com.apgsolutionsllc.APGSOLUTIONSLLC0007.MainActivityPhone}" drawable="navegador_web_basico" />
+	<item component="ComponentInfo{com.heytap.browser/com.android.browser.BrowserActivity}" drawable="internet" />
+	<item component="ComponentInfo{all.documentreader.filereader.office.viewer/all.documentreader.filereader.office.viewer.pages.BlankActivity}" drawable="lector_de_documentos" />
+	<item component="ComponentInfo{com.myprog.netutils/com.myprog.netutils.MainActivity}" drawable="network_utilities" />
+	<item component="ComponentInfo{alldocumentreader.office.viewer.filereader/alldocumentreader.office.viewer.filereader.splash.BlankActivity}" drawable="one_read" />
 
 </resources>
