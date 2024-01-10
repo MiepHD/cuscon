@@ -1,0 +1,15 @@
+<Theme version="1">
+
+	<!-- Internet -->
+	<AppIcon name="com.heytap.browser/com.android.browser.BrowserActivity" image="internet"/>
+
+	<!-- Lector de documentos -->
+	<AppIcon name="all.documentreader.filereader.office.viewer/all.documentreader.filereader.office.viewer.pages.BlankActivity" image="lector_de_documentos"/>
+
+	<!-- Network utilities -->
+	<AppIcon name="com.myprog.netutils/com.myprog.netutils.MainActivity" image="network_utilities"/>
+
+	<!-- One Read -->
+	<AppIcon name="alldocumentreader.office.viewer.filereader/alldocumentreader.office.viewer.filereader.splash.BlankActivity" image="one_read"/>
+
+</Theme>
