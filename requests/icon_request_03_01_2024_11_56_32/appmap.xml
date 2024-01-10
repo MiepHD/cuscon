@@ -3,9 +3,6 @@
 	<!-- Диктофон -->
 	<item class="com.github.axet.audiorecorder.activities.MainActivity" name="диктофон"/>
 
-	<!-- Карта SD -->
-	<item class="com.google.android.diskusage.ui.SelectActivity" name="карта_sd"/>
-
 	<!-- Привычки -->
 	<item class="org.isoron.uhabits.MainActivity" name="привычки"/>
 
@@ -90,23 +87,14 @@
 	<!-- Dicio -->
 	<item class="org.stypox.dicio.MainActivity" name="dicio"/>
 
-	<!-- DroidFish -->
-	<item class="org.petero.droidfish.DroidFish" name="droidfish"/>
-
 	<!-- Easer (beta) -->
 	<item class="ryey.easer.core.ui.MainActivity" name="easer_beta_"/>
-
-	<!-- Element X -->
-	<item class="io.element.android.x.MainActivity" name="element_x"/>
 
 	<!-- Equate -->
 	<item class="com.llamacorp.equate.view.CalcActivity" name="equate"/>
 
 	<!-- Every Door -->
 	<item class="info.zverev.ilya.every_door.MainActivity" name="every_door"/>
-
-	<!-- FairEmail -->
-	<item class="eu.faircode.email.ActivityMain" name="fairemail"/>
 
 	<!-- FastLyrics -->
 	<item class="io.github.teccheck.fastlyrics.MainActivity" name="fastlyrics"/>
@@ -147,9 +135,6 @@
 	<!-- ImgurViewer -->
 	<item class="com.ensoft.imgurviewer.view.activity.ImageViewer" name="imgurviewer"/>
 
-	<!-- IPFS Lite -->
-	<item class="threads.server.MainActivity" name="ipfs_lite"/>
-
 	<!-- Key Mapper -->
 	<item class="io.github.sds100.keymapper.SplashActivity" name="key_mapper"/>
 
@@ -161,12 +146,6 @@
 
 	<!-- Lexica -->
 	<item class="com.serwylo.lexica.MainMenuActivity" name="lexica"/>
-
-	<!-- LibreOffice Viewer -->
-	<item class="org.libreoffice.ui.LibreOfficeUIActivity" name="libreoffice_viewer"/>
-
-	<!-- LibreTube -->
-	<item class="com.github.libretube.Default" name="libretube"/>
 
 	<!-- Markor -->
 	<item class="net.gsantner.markor.activity.MainActivity" name="markor"/>
@@ -186,12 +165,6 @@
 	<!-- My App List -->
 	<item class="com.projectsexception.myapplist.MainActivity" name="my_app_list"/>
 
-	<!-- Neo Backup -->
-	<item class="com.machiav3lli.backup.activities.SplashActivity" name="neo_backup"/>
-
-	<!-- Nextcloud -->
-	<item class="com.owncloud.android.ui.activity.FileDisplayActivity" name="nextcloud"/>
-
 	<!-- OctoDroid -->
 	<item class="com.gh4a.activities.Github4AndroidActivity" name="octodroid"/>
 
@@ -209,12 +182,6 @@
 
 	<!-- Puzzles -->
 	<item class="name.boyle.chris.sgtpuzzles.SGTPuzzles" name="puzzles"/>
-
-	<!-- Quillpad -->
-	<item class="org.qosp.notes.ui.MainActivity" name="quillpad"/>
-
-	<!-- RHVoice -->
-	<item class="com.github.olga_yakovleva.rhvoice.android.MainActivity" name="rhvoice"/>
 
 	<!-- SCEE -->
 	<item class="de.westnordost.streetcomplete.screens.MainActivity" name="scee"/>

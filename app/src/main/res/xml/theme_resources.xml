@@ -1407,5 +1407,7 @@
 	<AppIcon name="all.documentreader.filereader.office.viewer/all.documentreader.filereader.office.viewer.pages.BlankActivity" image="lector_de_documentos"/>
 	<AppIcon name="com.myprog.netutils/com.myprog.netutils.MainActivity" image="network_utilities"/>
 	<AppIcon name="alldocumentreader.office.viewer.filereader/alldocumentreader.office.viewer.filereader.splash.BlankActivity" image="one_read"/>
+	<AppIcon name="com.nextcloud.android.beta/com.owncloud.android.ui.activity.FileDisplayActivity" image="nextcloud"/>
+	<AppIcon name="com.google.android.diskusage/com.google.android.diskusage.ui.SelectActivity" image="diskusage"/>
 
 </Theme>

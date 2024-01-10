@@ -3,9 +3,6 @@
 	<!-- Диктофон -->
 	<AppIcon name="com.github.axet.audiorecorder/com.github.axet.audiorecorder.activities.MainActivity" image="диктофон"/>
 
-	<!-- Карта SD -->
-	<AppIcon name="com.google.android.diskusage/com.google.android.diskusage.ui.SelectActivity" image="карта_sd"/>
-
 	<!-- Привычки -->
 	<AppIcon name="org.isoron.uhabits/org.isoron.uhabits.MainActivity" image="привычки"/>
 
@@ -90,23 +87,14 @@
 	<!-- Dicio -->
 	<AppIcon name="org.stypox.dicio/org.stypox.dicio.MainActivity" image="dicio"/>
 
-	<!-- DroidFish -->
-	<AppIcon name="org.petero.droidfish/org.petero.droidfish.DroidFish" image="droidfish"/>
-
 	<!-- Easer (beta) -->
 	<AppIcon name="ryey.easer.beta/ryey.easer.core.ui.MainActivity" image="easer_beta_"/>
-
-	<!-- Element X -->
-	<AppIcon name="io.element.android.x/io.element.android.x.MainActivity" image="element_x"/>
 
 	<!-- Equate -->
 	<AppIcon name="com.llamacorp.equate/com.llamacorp.equate.view.CalcActivity" image="equate"/>
 
 	<!-- Every Door -->
 	<AppIcon name="info.zverev.ilya.every_door/info.zverev.ilya.every_door.MainActivity" image="every_door"/>
-
-	<!-- FairEmail -->
-	<AppIcon name="eu.faircode.email/eu.faircode.email.ActivityMain" image="fairemail"/>
 
 	<!-- FastLyrics -->
 	<AppIcon name="io.github.teccheck.fastlyrics/io.github.teccheck.fastlyrics.MainActivity" image="fastlyrics"/>
@@ -147,9 +135,6 @@
 	<!-- ImgurViewer -->
 	<AppIcon name="com.ensoft.imgurviewer/com.ensoft.imgurviewer.view.activity.ImageViewer" image="imgurviewer"/>
 
-	<!-- IPFS Lite -->
-	<AppIcon name="threads.server/threads.server.MainActivity" image="ipfs_lite"/>
-
 	<!-- Key Mapper -->
 	<AppIcon name="io.github.sds100.keymapper/io.github.sds100.keymapper.SplashActivity" image="key_mapper"/>
 
@@ -161,12 +146,6 @@
 
 	<!-- Lexica -->
 	<AppIcon name="com.serwylo.lexica/com.serwylo.lexica.MainMenuActivity" image="lexica"/>
-
-	<!-- LibreOffice Viewer -->
-	<AppIcon name="org.documentfoundation.libreoffice/org.libreoffice.ui.LibreOfficeUIActivity" image="libreoffice_viewer"/>
-
-	<!-- LibreTube -->
-	<AppIcon name="com.github.libretube/com.github.libretube.Default" image="libretube"/>
 
 	<!-- Markor -->
 	<AppIcon name="net.gsantner.markor/net.gsantner.markor.activity.MainActivity" image="markor"/>
@@ -189,9 +168,6 @@
 	<!-- Neo Backup -->
 	<AppIcon name="com.machiav3lli.backup/com.machiav3lli.backup.activities.SplashActivity" image="neo_backup"/>
 
-	<!-- Nextcloud -->
-	<AppIcon name="com.nextcloud.android.beta/com.owncloud.android.ui.activity.FileDisplayActivity" image="nextcloud"/>
-
 	<!-- OctoDroid -->
 	<AppIcon name="com.gh4a/com.gh4a.activities.Github4AndroidActivity" image="octodroid"/>
 
@@ -209,12 +185,6 @@
 
 	<!-- Puzzles -->
 	<AppIcon name="name.boyle.chris.sgtpuzzles/name.boyle.chris.sgtpuzzles.SGTPuzzles" image="puzzles"/>
-
-	<!-- Quillpad -->
-	<AppIcon name="io.github.quillpad/org.qosp.notes.ui.MainActivity" image="quillpad"/>
-
-	<!-- RHVoice -->
-	<AppIcon name="com.github.olga_yakovleva.rhvoice.android/com.github.olga_yakovleva.rhvoice.android.MainActivity" image="rhvoice"/>
 
 	<!-- SCEE -->
 	<AppIcon name="de.westnordost.streetcomplete.expert/de.westnordost.streetcomplete.screens.MainActivity" image="scee"/>

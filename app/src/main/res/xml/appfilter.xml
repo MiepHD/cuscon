@@ -1416,5 +1416,7 @@
 	<item component="ComponentInfo{all.documentreader.filereader.office.viewer/all.documentreader.filereader.office.viewer.pages.BlankActivity}" drawable="lector_de_documentos" />
 	<item component="ComponentInfo{com.myprog.netutils/com.myprog.netutils.MainActivity}" drawable="network_utilities" />
 	<item component="ComponentInfo{alldocumentreader.office.viewer.filereader/alldocumentreader.office.viewer.filereader.splash.BlankActivity}" drawable="one_read" />
+	<item component="ComponentInfo{com.nextcloud.android.beta/com.owncloud.android.ui.activity.FileDisplayActivity}" drawable="nextcloud" />
+	<item component="ComponentInfo{com.google.android.diskusage/com.google.android.diskusage.ui.SelectActivity}" drawable="diskusage" />
 
 </resources>

@@ -3,9 +3,6 @@
 	<!-- Диктофон -->
 	<item component="ComponentInfo{com.github.axet.audiorecorder/com.github.axet.audiorecorder.activities.MainActivity}" drawable="диктофон" />
 
-	<!-- Карта SD -->
-	<item component="ComponentInfo{com.google.android.diskusage/com.google.android.diskusage.ui.SelectActivity}" drawable="карта_sd" />
-
 	<!-- Привычки -->
 	<item component="ComponentInfo{org.isoron.uhabits/org.isoron.uhabits.MainActivity}" drawable="привычки" />
 
@@ -90,23 +87,14 @@
 	<!-- Dicio -->
 	<item component="ComponentInfo{org.stypox.dicio/org.stypox.dicio.MainActivity}" drawable="dicio" />
 
-	<!-- DroidFish -->
-	<item component="ComponentInfo{org.petero.droidfish/org.petero.droidfish.DroidFish}" drawable="droidfish" />
-
 	<!-- Easer (beta) -->
 	<item component="ComponentInfo{ryey.easer.beta/ryey.easer.core.ui.MainActivity}" drawable="easer_beta_" />
-
-	<!-- Element X -->
-	<item component="ComponentInfo{io.element.android.x/io.element.android.x.MainActivity}" drawable="element_x" />
 
 	<!-- Equate -->
 	<item component="ComponentInfo{com.llamacorp.equate/com.llamacorp.equate.view.CalcActivity}" drawable="equate" />
 
 	<!-- Every Door -->
 	<item component="ComponentInfo{info.zverev.ilya.every_door/info.zverev.ilya.every_door.MainActivity}" drawable="every_door" />
-
-	<!-- FairEmail -->
-	<item component="ComponentInfo{eu.faircode.email/eu.faircode.email.ActivityMain}" drawable="fairemail" />
 
 	<!-- FastLyrics -->
 	<item component="ComponentInfo{io.github.teccheck.fastlyrics/io.github.teccheck.fastlyrics.MainActivity}" drawable="fastlyrics" />
@@ -147,9 +135,6 @@
 	<!-- ImgurViewer -->
 	<item component="ComponentInfo{com.ensoft.imgurviewer/com.ensoft.imgurviewer.view.activity.ImageViewer}" drawable="imgurviewer" />
 
-	<!-- IPFS Lite -->
-	<item component="ComponentInfo{threads.server/threads.server.MainActivity}" drawable="ipfs_lite" />
-
 	<!-- Key Mapper -->
 	<item component="ComponentInfo{io.github.sds100.keymapper/io.github.sds100.keymapper.SplashActivity}" drawable="key_mapper" />
 
@@ -161,12 +146,6 @@
 
 	<!-- Lexica -->
 	<item component="ComponentInfo{com.serwylo.lexica/com.serwylo.lexica.MainMenuActivity}" drawable="lexica" />
-
-	<!-- LibreOffice Viewer -->
-	<item component="ComponentInfo{org.documentfoundation.libreoffice/org.libreoffice.ui.LibreOfficeUIActivity}" drawable="libreoffice_viewer" />
-
-	<!-- LibreTube -->
-	<item component="ComponentInfo{com.github.libretube/com.github.libretube.Default}" drawable="libretube" />
 
 	<!-- Markor -->
 	<item component="ComponentInfo{net.gsantner.markor/net.gsantner.markor.activity.MainActivity}" drawable="markor" />
@@ -186,12 +165,6 @@
 	<!-- My App List -->
 	<item component="ComponentInfo{com.projectsexception.myapplist.open/com.projectsexception.myapplist.MainActivity}" drawable="my_app_list" />
 
-	<!-- Neo Backup -->
-	<item component="ComponentInfo{com.machiav3lli.backup/com.machiav3lli.backup.activities.SplashActivity}" drawable="neo_backup" />
-
-	<!-- Nextcloud -->
-	<item component="ComponentInfo{com.nextcloud.android.beta/com.owncloud.android.ui.activity.FileDisplayActivity}" drawable="nextcloud" />
-
 	<!-- OctoDroid -->
 	<item component="ComponentInfo{com.gh4a/com.gh4a.activities.Github4AndroidActivity}" drawable="octodroid" />
 
@@ -209,12 +182,6 @@
 
 	<!-- Puzzles -->
 	<item component="ComponentInfo{name.boyle.chris.sgtpuzzles/name.boyle.chris.sgtpuzzles.SGTPuzzles}" drawable="puzzles" />
-
-	<!-- Quillpad -->
-	<item component="ComponentInfo{io.github.quillpad/org.qosp.notes.ui.MainActivity}" drawable="quillpad" />
-
-	<!-- RHVoice -->
-	<item component="ComponentInfo{com.github.olga_yakovleva.rhvoice.android/com.github.olga_yakovleva.rhvoice.android.MainActivity}" drawable="rhvoice" />
 
 	<!-- SCEE -->
 	<item component="ComponentInfo{de.westnordost.streetcomplete.expert/de.westnordost.streetcomplete.screens.MainActivity}" drawable="scee" />

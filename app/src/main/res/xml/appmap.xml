@@ -1396,5 +1396,7 @@
 	<item class="all.documentreader.filereader.office.viewer.pages.BlankActivity" name="lector_de_documentos"/>
 	<item class="com.myprog.netutils.MainActivity" name="network_utilities"/>
 	<item class="alldocumentreader.office.viewer.filereader.splash.BlankActivity" name="one_read"/>
+	<item class="com.owncloud.android.ui.activity.FileDisplayActivity" name="nextcloud"/>
+	<item class="com.google.android.diskusage.ui.SelectActivity" name="diskusage"/>
 
 </appmap>
