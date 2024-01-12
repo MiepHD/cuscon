@@ -1,19 +1,19 @@
 <Theme version="1">
 
 	<!-- Диктофон -->
-	<AppIcon name="com.github.axet.audiorecorder/com.github.axet.audiorecorder.activities.MainActivity" image="диктофон"/>
+	<AppIcon name="com.github.axet.audiorecorder/com.github.axet.audiorecorder.activities.MainActivity" image="audiorecorder"/>
 
 	<!-- Привычки -->
-	<AppIcon name="org.isoron.uhabits/org.isoron.uhabits.MainActivity" image="привычки"/>
+	<AppIcon name="org.isoron.uhabits/org.isoron.uhabits.MainActivity" image="uhabits"/>
 
 	<!-- Сканер штрих-кодов -->
 	<AppIcon name="com.google.zxing.client.android/com.google.zxing.client.android.CaptureActivity" image="сканер_штрих_кодов"/>
 
 	<!-- Суперпользователь -->
-	<AppIcon name="me.phh.superuser/com.koushikdutta.superuser.MainActivity" image="суперпользователь"/>
+	<AppIcon name="me.phh.superuser/com.koushikdutta.superuser.MainActivity" image="superuser"/>
 
 	<!-- Уведомления голосом -->
-	<AppIcon name="com.pilot51.voicenotify/com.pilot51.voicenotify.MainActivity" image="уведомления_голосом"/>
+	<AppIcon name="com.pilot51.voicenotify/com.pilot51.voicenotify.MainActivity" image="voicenotify"/>
 
 	<!-- Удобное Чтение -->
 	<AppIcon name="ru.yanus171.feedexfork/ru.yanus171.feedexfork.activity.HomeActivity" image="удобное_чтение"/>

@@ -1324,5 +1324,9 @@
 	<item drawable="maxthon" />
 	<item drawable="navegador_apus" />
 	<item drawable="navegador_web_basico" />
+	<item drawable="internet" />
+	<item drawable="lector_de_documentos" />
+	<item drawable="network_utilities" />
+	<item drawable="one_read" />
 
 </resources>

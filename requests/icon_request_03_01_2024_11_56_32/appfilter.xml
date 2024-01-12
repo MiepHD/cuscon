@@ -1,19 +1,19 @@
 <resources>
 
 	<!-- Диктофон -->
-	<item component="ComponentInfo{com.github.axet.audiorecorder/com.github.axet.audiorecorder.activities.MainActivity}" drawable="диктофон" />
+	<item component="ComponentInfo{com.github.axet.audiorecorder/com.github.axet.audiorecorder.activities.MainActivity}" drawable="audiorecorder" />
 
 	<!-- Привычки -->
-	<item component="ComponentInfo{org.isoron.uhabits/org.isoron.uhabits.MainActivity}" drawable="привычки" />
+	<item component="ComponentInfo{org.isoron.uhabits/org.isoron.uhabits.MainActivity}" drawable="uhabits" />
 
 	<!-- Сканер штрих-кодов -->
 	<item component="ComponentInfo{com.google.zxing.client.android/com.google.zxing.client.android.CaptureActivity}" drawable="сканер_штрих_кодов" />
 
 	<!-- Суперпользователь -->
-	<item component="ComponentInfo{me.phh.superuser/com.koushikdutta.superuser.MainActivity}" drawable="суперпользователь" />
+	<item component="ComponentInfo{me.phh.superuser/com.koushikdutta.superuser.MainActivity}" drawable="superuser" />
 
 	<!-- Уведомления голосом -->
-	<item component="ComponentInfo{com.pilot51.voicenotify/com.pilot51.voicenotify.MainActivity}" drawable="уведомления_голосом" />
+	<item component="ComponentInfo{com.pilot51.voicenotify/com.pilot51.voicenotify.MainActivity}" drawable="voicenotify" />
 
 	<!-- Удобное Чтение -->
 	<item component="ComponentInfo{ru.yanus171.feedexfork/ru.yanus171.feedexfork.activity.HomeActivity}" drawable="удобное_чтение" />

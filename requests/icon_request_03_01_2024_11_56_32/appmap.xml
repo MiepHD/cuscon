@@ -1,19 +1,19 @@
 <appmap>
 
 	<!-- Диктофон -->
-	<item class="com.github.axet.audiorecorder.activities.MainActivity" name="диктофон"/>
+	<item class="com.github.axet.audiorecorder.activities.MainActivity" name="audiorecorder"/>
 
 	<!-- Привычки -->
-	<item class="org.isoron.uhabits.MainActivity" name="привычки"/>
+	<item class="org.isoron.uhabits.MainActivity" name="uhabits"/>
 
 	<!-- Сканер штрих-кодов -->
 	<item class="com.google.zxing.client.android.CaptureActivity" name="сканер_штрих_кодов"/>
 
 	<!-- Суперпользователь -->
-	<item class="com.koushikdutta.superuser.MainActivity" name="суперпользователь"/>
+	<item class="com.koushikdutta.superuser.MainActivity" name="superuser"/>
 
 	<!-- Уведомления голосом -->
-	<item class="com.pilot51.voicenotify.MainActivity" name="уведомления_голосом"/>
+	<item class="com.pilot51.voicenotify.MainActivity" name="voicenotify"/>
 
 	<!-- Удобное Чтение -->
 	<item class="ru.yanus171.feedexfork.activity.HomeActivity" name="удобное_чтение"/>
