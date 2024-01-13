@@ -2,6 +2,17 @@
 
 This icon pack makes your home screen varied and dynamic. As there is no background, each icon looks unique and the constant pattern of the grid is broken up.
 
+# Download
+
+[<img src="https://fdroid.gitlab.io/artwork/badge/get-it-on.png"
+     alt="Get it on F-Droid"
+     height="80">](https://f-droid.org/packages/com.froxot.cuscon.foss/)
+[<img src="https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png"
+     alt="Get it on Google Play"
+     height="80">](https://play.google.com/store/apps/details?id=com.froxot.cuscon)
+
+Or download the latest APK from the [Releases Section](https://github.com/MiepHD/cuscon/releases/latest).
+
 # Requests
 
 Please send requests to <a href="mailto:cuscon-requests@froxot.de">cuscon-requests@froxot.de</a>
