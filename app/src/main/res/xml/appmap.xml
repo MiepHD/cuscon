@@ -1422,5 +1422,7 @@
 	<item class="com.ryanheise.audioservice.AudioServiceActivity" name="mucke" />
 	<item class="com.m3sv.plainupnp.presentation.splash.SplashActivity" name="plainupnp" />
 	<item class="free.rm.skytube.gui.activities.MainActivity" name="skytube" />
+	<item class="eu.kanade.tachiyomi.ui.main.MainActivity" name="tachiyomisy"/>
+	<item class="com.tencent.mm.ui.LauncherUI" name="wechat"/>
 
 </appmap>

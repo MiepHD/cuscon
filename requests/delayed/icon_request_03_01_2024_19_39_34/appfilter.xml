@@ -1,0 +1,6 @@
+<resources>
+
+	<!-- Waze -->
+	<item component="ComponentInfo{com.waze/com.waze.FreeMapAppActivity}" drawable="waze" />
+
+</resources>

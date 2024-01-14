@@ -1352,5 +1352,7 @@
 	<item drawable="mucke" />
 	<item drawable="plainupnp" />
 	<item drawable="skytube" />
+	<item drawable="tachiyomisy" />
+	<item drawable="wechat" />
 
 </resources>

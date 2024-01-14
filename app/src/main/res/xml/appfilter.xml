@@ -1442,5 +1442,7 @@
 	<item component="ComponentInfo{rocks.mucke/com.ryanheise.audioservice.AudioServiceActivity}" drawable="mucke" />
 	<item component="ComponentInfo{com.m3sv.plainupnp/com.m3sv.plainupnp.presentation.splash.SplashActivity}" drawable="plainupnp" />
 	<item component="ComponentInfo{free.rm.skytube.oss/free.rm.skytube.gui.activities.MainActivity}" drawable="skytube" />
+	<item component="ComponentInfo{eu.kanade.tachiyomi.sy/eu.kanade.tachiyomi.ui.main.MainActivity}" drawable="tachiyomisy" />
+	<item component="ComponentInfo{com.tencent.mm/com.tencent.mm.ui.LauncherUI}" drawable="wechat" />
 
 </resources>

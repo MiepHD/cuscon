@@ -1433,5 +1433,7 @@
 	<AppIcon name="rocks.mucke/com.ryanheise.audioservice.AudioServiceActivity" image="mucke" />
 	<AppIcon name="com.m3sv.plainupnp/com.m3sv.plainupnp.presentation.splash.SplashActivity" image="plainupnp" />
 	<AppIcon name="free.rm.skytube.oss/free.rm.skytube.gui.activities.MainActivity" image="skytube" />
+	<AppIcon name="eu.kanade.tachiyomi.sy/eu.kanade.tachiyomi.ui.main.MainActivity" image="tachiyomisy"/>
+	<AppIcon name="com.tencent.mm/com.tencent.mm.ui.LauncherUI" image="wechat"/>
 
 </Theme>
