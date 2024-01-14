@@ -1,11 +1,5 @@
 <Theme version="1">
 
-	<!-- 365Cam -->
-	<AppIcon name="shix.cam365.camera/com.shix.shixipc.activity.SplashActivity" image="_365cam"/>
-
-	<!-- Account Access -->
-	<AppIcon name="com.adobe.ims.accountaccess/com.zoontek.rnbootsplash.RNBootSplashActivity" image="account_access"/>
-
 	<!-- AFH Downloader -->
 	<AppIcon name="org.afhdownloader/org.afhdownloader.MainActivity" image="afh_downloader"/>
 
@@ -24,9 +18,6 @@
 	<!-- Android LUKS -->
 	<AppIcon name="eu.fulldisclosure.android.luks/eu.fulldisclosure.android.luks.MainActivity" image="android_luks"/>
 
-	<!-- Androoster -->
-	<AppIcon name="com.andreacioccarelli.androoster/com.andreacioccarelli.androoster.ui.boot.UIBoot" image="androoster"/>
-
 	<!-- BusyBox Pro -->
 	<AppIcon name="stericson.busybox.donate/stericson.busybox.donate.activities.MainActivity" image="busybox_pro"/>
 
@@ -35,30 +26,6 @@
 
 	<!-- Chronus -->
 	<AppIcon name="com.dvtonder.chronus/com.dvtonder.chronus.preference.PreferencesMain" image="chronus"/>
-
-	<!-- cred.ai -->
-	<AppIcon name="io.cred.roboapp.android/io.cred.roboapp.application.welcome.ui.WelcomeSplashActivity" image="credai"/>
-
-	<!-- Droid-ify -->
-	<AppIcon name="com.looker.droidify/com.looker.droidify.MainActivity" image="droid_ify"/>
-
-	<!-- eBay -->
-	<AppIcon name="com.ebay.mobile/com.ebay.mobile.home.impl.main.MainActivity" image="ebay"/>
-
-	<!-- GSMArena -->
-	<AppIcon name="com.gsmarena.android/com.gsmarena.android.activity.SplashActivity" image="gsmarena"/>
-
-	<!-- Hovatek Mobile -->
-	<AppIcon name="com.hovatek.mobile/com.appyet.activity.MainActivity" image="hovatek_mobile"/>
-
-	<!-- IMDb -->
-	<AppIcon name="com.imdb.mobile/com.imdb.mobile.HomeActivity" image="imdb"/>
-
-	<!-- JLab Store and Burn-in Tool -->
-	<AppIcon name="co.tapcart.app.VMWtwhI4Hm/co.tapcart.app.MainActivity" image="jlab_store_and_burn_in_tool"/>
-
-	<!-- Kernel Flasher -->
-	<AppIcon name="com.github.capntrips.kernelflasher/com.github.capntrips.kernelflasher.MainActivity" image="kernel_flasher"/>
 
 	<!-- Link to Windows -->
 	<AppIcon name="com.microsoft.appmanager/com.microsoft.appmanager.StartUpCoreActivity" image="link_to_windows"/>
@@ -78,23 +45,14 @@
 	<!-- Roku -->
 	<AppIcon name="com.roku.remote/com.roku.remote.ui.activities.splash.SplashActivity" image="roku"/>
 
-	<!-- Root Booster -->
-	<AppIcon name="com.ram.memory.booster.cpu.saver/com.ram.memory.booster.cpu.saver.MainActivity" image="root_booster"/>
-
 	<!-- Root Browser -->
 	<AppIcon name="com.jrummy.root.browserfree/com.jrummy.apps.root.browser.activities.RootBrowserActivity" image="root_browser"/>
 
 	<!-- SD Maid -->
 	<AppIcon name="eu.thedarken.sdm/eu.thedarken.sdm.main.ui.SDMMainActivity" image="sd_maid"/>
 
-	<!-- Shop -->
-	<AppIcon name="com.shopify.arrive/com.shopify.arrive.MainActivity" image="shop"/>
-
 	<!-- SmartPack -->
 	<AppIcon name="com.smartpack.kernelmanager.pro/com.smartpack.kernelmanager.activities.StartActivityMaterial" image="smartpack"/>
-
-	<!-- Temu -->
-	<AppIcon name="com.einnovation.temu/com.baogong.splash.activity.MainFrameActivity" image="temu"/>
 
 	<!-- Terminal Emulator -->
 	<AppIcon name="jackpal.androidterm/jackpal.androidterm.Term" image="terminal_emulator"/>
@@ -105,20 +63,11 @@
 	<!-- USPS Mobile -->
 	<AppIcon name="com.usps/com.usps.mobile.SplashScreenActivity" image="usps_mobile"/>
 
-	<!-- VINELink -->
-	<AppIcon name="com.appriss.vinemobile/com.appriss.vinemobile.SplashScreenActivity" image="vinelink"/>
-
 	<!-- Waze -->
 	<AppIcon name="com.waze/com.waze.FreeMapAppActivity" image="waze"/>
 
 	<!-- XDA Developers -->
 	<AppIcon name="com.xda.labs.play/host.exp.exponent.MainActivity" image="xda_developers"/>
-
-	<!-- XMEye -->
-	<AppIcon name="com.mobile.myeye/com.mobile.myeye.activity.welcome.view.WelcomeActivity" image="xmeye"/>
-
-	<!-- Xposed edge -->
-	<AppIcon name="com.jozein.xedge/com.jozein.xedge.ui.ActivityMain" image="xposed_edge"/>
 
 	<!-- YouTube AdAway -->
 	<AppIcon name="ma.wanam.youtubeadaway/ma.wanam.youtubeadaway.SettingsActivity" image="youtube_adaway"/>

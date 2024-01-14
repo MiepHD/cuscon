@@ -1444,5 +1444,19 @@
 	<item component="ComponentInfo{free.rm.skytube.oss/free.rm.skytube.gui.activities.MainActivity}" drawable="skytube" />
 	<item component="ComponentInfo{eu.kanade.tachiyomi.sy/eu.kanade.tachiyomi.ui.main.MainActivity}" drawable="tachiyomisy" />
 	<item component="ComponentInfo{com.tencent.mm/com.tencent.mm.ui.LauncherUI}" drawable="wechat" />
+	<item component="ComponentInfo{shix.cam365.camera/com.shix.shixipc.activity.SplashActivity}" drawable="_365cam" />
+	<item component="ComponentInfo{com.adobe.ims.accountaccess/com.zoontek.rnbootsplash.RNBootSplashActivity}" drawable="account_access" />
+	<item component="ComponentInfo{com.andreacioccarelli.androoster/com.andreacioccarelli.androoster.ui.boot.UIBoot}" drawable="androoster" />
+	<item component="ComponentInfo{io.cred.roboapp.android/io.cred.roboapp.application.welcome.ui.WelcomeSplashActivity}" drawable="credai" />
+	<item component="ComponentInfo{com.gsmarena.android/com.gsmarena.android.activity.SplashActivity}" drawable="gsmarena" />
+	<item component="ComponentInfo{com.hovatek.mobile/com.appyet.activity.MainActivity}" drawable="hovatek_mobile" />
+	<item component="ComponentInfo{com.imdb.mobile/com.imdb.mobile.HomeActivity}" drawable="imdb" />
+	<item component="ComponentInfo{co.tapcart.app.VMWtwhI4Hm/co.tapcart.app.MainActivity}" drawable="jlab_store_and_burn_in_tool" />
+	<item component="ComponentInfo{com.github.capntrips.kernelflasher/com.github.capntrips.kernelflasher.MainActivity}" drawable="kernel_flasher" />
+	<item component="ComponentInfo{com.ram.memory.booster.cpu.saver/com.ram.memory.booster.cpu.saver.MainActivity}" drawable="root_booster" />
+	<item component="ComponentInfo{com.shopify.arrive/com.shopify.arrive.MainActivity}" drawable="shop" />
+	<item component="ComponentInfo{com.appriss.vinemobile/com.appriss.vinemobile.SplashScreenActivity}" drawable="vinelink" />
+	<item component="ComponentInfo{com.mobile.myeye/com.mobile.myeye.activity.welcome.view.WelcomeActivity}" drawable="xmeye" />
+	<item component="ComponentInfo{com.jozein.xedge/com.jozein.xedge.ui.ActivityMain}" drawable="xposed_edge" />
 
 </resources>

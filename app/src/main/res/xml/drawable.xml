@@ -1354,5 +1354,19 @@
 	<item drawable="skytube" />
 	<item drawable="tachiyomisy" />
 	<item drawable="wechat" />
+	<item drawable="_365cam" />
+	<item drawable="account_access" />
+	<item drawable="androoster" />
+	<item drawable="credai" />
+	<item drawable="gsmarena" />
+	<item drawable="hovatek_mobile" />
+	<item drawable="imdb" />
+	<item drawable="jlab_store_and_burn_in_tool" />
+	<item drawable="kernel_flasher" />
+	<item drawable="root_booster" />
+	<item drawable="shop" />
+	<item drawable="vinelink" />
+	<item drawable="xmeye" />
+	<item drawable="xposed_edge" />
 
 </resources>

@@ -1424,5 +1424,19 @@
 	<item class="free.rm.skytube.gui.activities.MainActivity" name="skytube" />
 	<item class="eu.kanade.tachiyomi.ui.main.MainActivity" name="tachiyomisy"/>
 	<item class="com.tencent.mm.ui.LauncherUI" name="wechat"/>
+	<item class="com.shix.shixipc.activity.SplashActivity" name="_365cam" />
+	<item class="com.zoontek.rnbootsplash.RNBootSplashActivity" name="account_access" />
+	<item class="com.andreacioccarelli.androoster.ui.boot.UIBoot" name="androoster" />
+	<item class="io.cred.roboapp.application.welcome.ui.WelcomeSplashActivity" name="credai" />
+	<item class="com.gsmarena.android.activity.SplashActivity" name="gsmarena" />
+	<item class="com.appyet.activity.MainActivity" name="hovatek_mobile" />
+	<item class="com.imdb.mobile.HomeActivity" name="imdb" />
+	<item class="co.tapcart.app.MainActivity" name="jlab_store_and_burn_in_tool" />
+	<item class="com.github.capntrips.kernelflasher.MainActivity" name="kernel_flasher" />
+	<item class="com.ram.memory.booster.cpu.saver.MainActivity" name="root_booster" />
+	<item class="com.shopify.arrive.MainActivity" name="shop" />
+	<item class="com.appriss.vinemobile.SplashScreenActivity" name="vinelink" />
+	<item class="com.mobile.myeye.activity.welcome.view.WelcomeActivity" name="xmeye" />
+	<item class="com.jozein.xedge.ui.ActivityMain" name="xposed_edge" />
 
 </appmap>

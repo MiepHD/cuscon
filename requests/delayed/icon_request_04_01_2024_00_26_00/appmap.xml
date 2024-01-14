@@ -1,11 +1,5 @@
 <appmap>
 
-	<!-- 365Cam -->
-	<item class="com.shix.shixipc.activity.SplashActivity" name="_365cam"/>
-
-	<!-- Account Access -->
-	<item class="com.zoontek.rnbootsplash.RNBootSplashActivity" name="account_access"/>
-
 	<!-- AFH Downloader -->
 	<item class="org.afhdownloader.MainActivity" name="afh_downloader"/>
 
@@ -24,9 +18,6 @@
 	<!-- Android LUKS -->
 	<item class="eu.fulldisclosure.android.luks.MainActivity" name="android_luks"/>
 
-	<!-- Androoster -->
-	<item class="com.andreacioccarelli.androoster.ui.boot.UIBoot" name="androoster"/>
-
 	<!-- BusyBox Pro -->
 	<item class="stericson.busybox.donate.activities.MainActivity" name="busybox_pro"/>
 
@@ -35,30 +26,6 @@
 
 	<!-- Chronus -->
 	<item class="com.dvtonder.chronus.preference.PreferencesMain" name="chronus"/>
-
-	<!-- cred.ai -->
-	<item class="io.cred.roboapp.application.welcome.ui.WelcomeSplashActivity" name="credai"/>
-
-	<!-- Droid-ify -->
-	<item class="com.looker.droidify.MainActivity" name="droid_ify"/>
-
-	<!-- eBay -->
-	<item class="com.ebay.mobile.home.impl.main.MainActivity" name="ebay"/>
-
-	<!-- GSMArena -->
-	<item class="com.gsmarena.android.activity.SplashActivity" name="gsmarena"/>
-
-	<!-- Hovatek Mobile -->
-	<item class="com.appyet.activity.MainActivity" name="hovatek_mobile"/>
-
-	<!-- IMDb -->
-	<item class="com.imdb.mobile.HomeActivity" name="imdb"/>
-
-	<!-- JLab Store and Burn-in Tool -->
-	<item class="co.tapcart.app.MainActivity" name="jlab_store_and_burn_in_tool"/>
-
-	<!-- Kernel Flasher -->
-	<item class="com.github.capntrips.kernelflasher.MainActivity" name="kernel_flasher"/>
 
 	<!-- Link to Windows -->
 	<item class="com.microsoft.appmanager.StartUpCoreActivity" name="link_to_windows"/>
@@ -78,23 +45,14 @@
 	<!-- Roku -->
 	<item class="com.roku.remote.ui.activities.splash.SplashActivity" name="roku"/>
 
-	<!-- Root Booster -->
-	<item class="com.ram.memory.booster.cpu.saver.MainActivity" name="root_booster"/>
-
 	<!-- Root Browser -->
 	<item class="com.jrummy.apps.root.browser.activities.RootBrowserActivity" name="root_browser"/>
 
 	<!-- SD Maid -->
 	<item class="eu.thedarken.sdm.main.ui.SDMMainActivity" name="sd_maid"/>
 
-	<!-- Shop -->
-	<item class="com.shopify.arrive.MainActivity" name="shop"/>
-
 	<!-- SmartPack -->
 	<item class="com.smartpack.kernelmanager.activities.StartActivityMaterial" name="smartpack"/>
-
-	<!-- Temu -->
-	<item class="com.baogong.splash.activity.MainFrameActivity" name="temu"/>
 
 	<!-- Terminal Emulator -->
 	<item class="jackpal.androidterm.Term" name="terminal_emulator"/>
@@ -105,20 +63,11 @@
 	<!-- USPS Mobile -->
 	<item class="com.usps.mobile.SplashScreenActivity" name="usps_mobile"/>
 
-	<!-- VINELink -->
-	<item class="com.appriss.vinemobile.SplashScreenActivity" name="vinelink"/>
-
 	<!-- Waze -->
 	<item class="com.waze.FreeMapAppActivity" name="waze"/>
 
 	<!-- XDA Developers -->
 	<item class="host.exp.exponent.MainActivity" name="xda_developers"/>
-
-	<!-- XMEye -->
-	<item class="com.mobile.myeye.activity.welcome.view.WelcomeActivity" name="xmeye"/>
-
-	<!-- Xposed edge -->
-	<item class="com.jozein.xedge.ui.ActivityMain" name="xposed_edge"/>
 
 	<!-- YouTube AdAway -->
 	<item class="ma.wanam.youtubeadaway.SettingsActivity" name="youtube_adaway"/>

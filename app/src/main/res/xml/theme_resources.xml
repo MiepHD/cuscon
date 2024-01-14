@@ -1435,5 +1435,19 @@
 	<AppIcon name="free.rm.skytube.oss/free.rm.skytube.gui.activities.MainActivity" image="skytube" />
 	<AppIcon name="eu.kanade.tachiyomi.sy/eu.kanade.tachiyomi.ui.main.MainActivity" image="tachiyomisy"/>
 	<AppIcon name="com.tencent.mm/com.tencent.mm.ui.LauncherUI" image="wechat"/>
+	<AppIcon name="shix.cam365.camera/com.shix.shixipc.activity.SplashActivity" image="_365cam" />
+	<AppIcon name="com.adobe.ims.accountaccess/com.zoontek.rnbootsplash.RNBootSplashActivity" image="account_access" />
+	<AppIcon name="com.andreacioccarelli.androoster/com.andreacioccarelli.androoster.ui.boot.UIBoot" image="androoster" />
+	<AppIcon name="io.cred.roboapp.android/io.cred.roboapp.application.welcome.ui.WelcomeSplashActivity" image="credai" />
+	<AppIcon name="com.gsmarena.android/com.gsmarena.android.activity.SplashActivity" image="gsmarena" />
+	<AppIcon name="com.hovatek.mobile/com.appyet.activity.MainActivity" image="hovatek_mobile" />
+	<AppIcon name="com.imdb.mobile/com.imdb.mobile.HomeActivity" image="imdb" />
+	<AppIcon name="co.tapcart.app.VMWtwhI4Hm/co.tapcart.app.MainActivity" image="jlab_store_and_burn_in_tool" />
+	<AppIcon name="com.github.capntrips.kernelflasher/com.github.capntrips.kernelflasher.MainActivity" image="kernel_flasher" />
+	<AppIcon name="com.ram.memory.booster.cpu.saver/com.ram.memory.booster.cpu.saver.MainActivity" image="root_booster" />
+	<AppIcon name="com.shopify.arrive/com.shopify.arrive.MainActivity" image="shop" />
+	<AppIcon name="com.appriss.vinemobile/com.appriss.vinemobile.SplashScreenActivity" image="vinelink" />
+	<AppIcon name="com.mobile.myeye/com.mobile.myeye.activity.welcome.view.WelcomeActivity" image="xmeye" />
+	<AppIcon name="com.jozein.xedge/com.jozein.xedge.ui.ActivityMain" image="xposed_edge" />
 
 </Theme>
