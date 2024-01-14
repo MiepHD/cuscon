@@ -1456,5 +1456,17 @@
 	<AppIcon name="app.alextran.immich/app.alextran.immich.MainActivity" image="immich"/>
 	<AppIcon name="de.astubenbord.paperless_mobile/de.astubenbord.paperless_mobile.MainActivity" image="paperless_mobile"/>
 	<AppIcon name="com.plexapp.android/com.plexapp.plex.activities.SplashActivity" image="plex"/>
+	<AppIcon name="com.google.android.apps.wellbeing/com.google.android.apps.wellbeing.settings.LauncherActivity" image="digital_wellbeing"/>
+	<AppIcon name="org.fossify.gallery/org.fossify.gallery.activities.SplashActivity.Grey_black" image="gallery_grey_black"/>
+	<AppIcon name="org.lichess.mobileapp.free/org.lichess.mobileapp.MainActivity" image="lichess"/>
+	<AppIcon name="io.github.muntashirakon.Music/code.name.monkey.retromusic.activities.MainActivity" image="metro"/>
+	<AppIcon name="com.scaleforce.mobile.myexcitel/com.scaleforce.mobile.myexcitel.MainActivity" image="myexcitel"/>
+	<AppIcon name="com.pixelfed/com.pixelfed.MainActivity" image="pixelfed"/>
+	<AppIcon name="org.telegram.plus/org.telegram.messenger.TurboIcon" image="plus"/>
+	<AppIcon name="com.michaldrabik.showly_oss/com.michaldrabik.showly_oss.ui.main.MainActivity" image="showly_oss"/>
+	<AppIcon name="com.Slack/slack.features.home.HomeActivity" image="slack"/>
+	<AppIcon name="com.simplemobiletools.smsmessenger/com.simplemobiletools.smsmessenger.activities.SplashActivity.Orange" image="sms_messenger_orange"/>
+	<AppIcon name="com.twitter.android/com.twitter.android.StartActivity" image="x_new"/>
+	<AppIcon name="com.application.zomato/com.application.zomato.activities.Splash" image="zomato"/>
 
 </Theme>

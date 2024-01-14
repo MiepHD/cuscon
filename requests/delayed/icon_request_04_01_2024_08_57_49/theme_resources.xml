@@ -1,0 +1,27 @@
+<Theme version="1">
+
+	<!-- Amazon -->
+	<AppIcon name="in.amazon.mShop.android.shopping/com.amazon.mShop.home.HomeActivity" image="amazon"/>
+
+	<!-- Camera -->
+	<AppIcon name="com.nothing.camera/com.nothing.camera.activity.CameraActivity" image="camera"/>
+
+	<!-- Camera -->
+	<AppIcon name="org.codeaurora.snapcam/com.android.camera.CameraLauncher" image="camera"/>
+
+	<!-- Eternity -->
+	<AppIcon name="eu.toldi.infinityforlemmy/eu.toldi.infinityforlemmy.DefaultIcon" image="eternity"/>
+
+	<!-- Megalodon -->
+	<AppIcon name="org.joinmastodon.android.sk/org.joinmastodon.android.MainActivity" image="megalodon"/>
+
+	<!-- Recorder -->
+	<AppIcon name="com.nothing.soundrecorder/com.nothing.soundrecorder.ui.NewMainActivity" image="recorder"/>
+
+	<!-- Unstoppable -->
+	<AppIcon name="io.horizontalsystems.bankwallet/io.horizontalsystems.bankwallet.DarkLauncherAlias" image="unstoppable"/>
+
+	<!-- Weather -->
+	<AppIcon name="com.nothing.weather/com.nothing.weather.ui.main.MainActivity" image="weather"/>
+
+</Theme>

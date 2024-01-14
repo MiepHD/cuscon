@@ -1,0 +1,27 @@
+<resources>
+
+	<!-- Amazon -->
+	<item component="ComponentInfo{in.amazon.mShop.android.shopping/com.amazon.mShop.home.HomeActivity}" drawable="amazon" />
+
+	<!-- Camera -->
+	<item component="ComponentInfo{com.nothing.camera/com.nothing.camera.activity.CameraActivity}" drawable="camera" />
+
+	<!-- Camera -->
+	<item component="ComponentInfo{org.codeaurora.snapcam/com.android.camera.CameraLauncher}" drawable="camera" />
+
+	<!-- Eternity -->
+	<item component="ComponentInfo{eu.toldi.infinityforlemmy/eu.toldi.infinityforlemmy.DefaultIcon}" drawable="eternity" />
+
+	<!-- Megalodon -->
+	<item component="ComponentInfo{org.joinmastodon.android.sk/org.joinmastodon.android.MainActivity}" drawable="megalodon" />
+
+	<!-- Recorder -->
+	<item component="ComponentInfo{com.nothing.soundrecorder/com.nothing.soundrecorder.ui.NewMainActivity}" drawable="recorder" />
+
+	<!-- Unstoppable -->
+	<item component="ComponentInfo{io.horizontalsystems.bankwallet/io.horizontalsystems.bankwallet.DarkLauncherAlias}" drawable="unstoppable" />
+
+	<!-- Weather -->
+	<item component="ComponentInfo{com.nothing.weather/com.nothing.weather.ui.main.MainActivity}" drawable="weather" />
+
+</resources>

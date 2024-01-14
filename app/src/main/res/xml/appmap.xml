@@ -1445,5 +1445,17 @@
 	<item class="app.alextran.immich.MainActivity" name="immich"/>
 	<item class="de.astubenbord.paperless_mobile.MainActivity" name="paperless_mobile"/>
 	<item class="com.plexapp.plex.activities.SplashActivity" name="plex"/>
+	<item class="com.google.android.apps.wellbeing.settings.LauncherActivity" name="digital_wellbeing"/>
+	<item class="org.fossify.gallery.activities.SplashActivity.Grey_black" name="gallery_grey_black"/>
+	<item class="org.lichess.mobileapp.MainActivity" name="lichess"/>
+	<item class="code.name.monkey.retromusic.activities.MainActivity" name="metro"/>
+	<item class="com.scaleforce.mobile.myexcitel.MainActivity" name="myexcitel"/>
+	<item class="com.pixelfed.MainActivity" name="pixelfed"/>
+	<item class="org.telegram.messenger.TurboIcon" name="plus"/>
+	<item class="com.michaldrabik.showly_oss.ui.main.MainActivity" name="showly_oss"/>
+	<item class="slack.features.home.HomeActivity" name="slack"/>
+	<item class="com.simplemobiletools.smsmessenger.activities.SplashActivity.Orange" name="sms_messenger_orange"/>
+	<item class="com.twitter.android.StartActivity" name="x_new"/>
+	<item class="com.application.zomato.activities.Splash" name="zomato"/>
 
 </appmap>

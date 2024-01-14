@@ -1375,5 +1375,17 @@
 	<item drawable="immich" />
 	<item drawable="paperless_mobile" />
 	<item drawable="plex" />
+	<item drawable="digital_wellbeing" />
+	<item drawable="gallery_grey_black" />
+	<item drawable="lichess" />
+	<item drawable="metro" />
+	<item drawable="myexcitel" />
+	<item drawable="pixelfed" />
+	<item drawable="plus" />
+	<item drawable="showly_oss" />
+	<item drawable="slack" />
+	<item drawable="sms_messenger_orange" />
+	<item drawable="x_new" />
+	<item drawable="zomato" />
 
 </resources>

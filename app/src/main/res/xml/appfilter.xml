@@ -1465,5 +1465,17 @@
 	<item component="ComponentInfo{app.alextran.immich/app.alextran.immich.MainActivity}" drawable="immich" />
 	<item component="ComponentInfo{de.astubenbord.paperless_mobile/de.astubenbord.paperless_mobile.MainActivity}" drawable="paperless_mobile" />
 	<item component="ComponentInfo{com.plexapp.android/com.plexapp.plex.activities.SplashActivity}" drawable="plex" />
+	<item component="ComponentInfo{com.google.android.apps.wellbeing/com.google.android.apps.wellbeing.settings.LauncherActivity}" drawable="digital_wellbeing" />
+	<item component="ComponentInfo{org.fossify.gallery/org.fossify.gallery.activities.SplashActivity.Grey_black}" drawable="gallery_grey_black" />
+	<item component="ComponentInfo{org.lichess.mobileapp.free/org.lichess.mobileapp.MainActivity}" drawable="lichess" />
+	<item component="ComponentInfo{io.github.muntashirakon.Music/code.name.monkey.retromusic.activities.MainActivity}" drawable="metro" />
+	<item component="ComponentInfo{com.scaleforce.mobile.myexcitel/com.scaleforce.mobile.myexcitel.MainActivity}" drawable="myexcitel" />
+	<item component="ComponentInfo{com.pixelfed/com.pixelfed.MainActivity}" drawable="pixelfed" />
+	<item component="ComponentInfo{org.telegram.plus/org.telegram.messenger.TurboIcon}" drawable="plus" />
+	<item component="ComponentInfo{com.michaldrabik.showly_oss/com.michaldrabik.showly_oss.ui.main.MainActivity}" drawable="showly_oss" />
+	<item component="ComponentInfo{com.Slack/slack.features.home.HomeActivity}" drawable="slack" />
+	<item component="ComponentInfo{com.simplemobiletools.smsmessenger/com.simplemobiletools.smsmessenger.activities.SplashActivity.Orange}" drawable="sms_messenger_orange" />
+	<item component="ComponentInfo{com.twitter.android/com.twitter.android.StartActivity}" drawable="x_new" />
+	<item component="ComponentInfo{com.application.zomato/com.application.zomato.activities.Splash}" drawable="zomato" />
 
 </resources>
