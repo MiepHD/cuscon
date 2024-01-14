@@ -1,34 +1,13 @@
 <resources>
 
-	<!-- Диктофон -->
-	<item component="ComponentInfo{com.github.axet.audiorecorder/com.github.axet.audiorecorder.activities.MainActivity}" drawable="audiorecorder" />
-
-	<!-- Привычки -->
-	<item component="ComponentInfo{org.isoron.uhabits/org.isoron.uhabits.MainActivity}" drawable="uhabits" />
-
 	<!-- Сканер штрих-кодов -->
 	<item component="ComponentInfo{com.google.zxing.client.android/com.google.zxing.client.android.CaptureActivity}" drawable="сканер_штрих_кодов" />
-
-	<!-- Суперпользователь -->
-	<item component="ComponentInfo{me.phh.superuser/com.koushikdutta.superuser.MainActivity}" drawable="superuser" />
-
-	<!-- Уведомления голосом -->
-	<item component="ComponentInfo{com.pilot51.voicenotify/com.pilot51.voicenotify.MainActivity}" drawable="voicenotify" />
 
 	<!-- Удобное Чтение -->
 	<item component="ComponentInfo{ru.yanus171.feedexfork/ru.yanus171.feedexfork.activity.HomeActivity}" drawable="удобное_чтение" />
 
 	<!-- Шахматы -->
 	<item component="ComponentInfo{jwtc.android.chess/jwtc.android.chess.start}" drawable="шахматы" />
-
-	<!-- Aard 2 -->
-	<item component="ComponentInfo{itkach.aard2/itkach.aard2.MainActivity}" drawable="aard_2" />
-
-	<!-- Activity Manager -->
-	<item component="ComponentInfo{com.activitymanager/com.sdex.activityrunner.MainActivity}" drawable="activity_manager" />
-
-	<!-- AdAway -->
-	<item component="ComponentInfo{org.adaway/org.adaway.ui.home.HomeActivity}" drawable="adaway" />
 
 	<!-- AirGuard -->
 	<item component="ComponentInfo{de.seemoo.at_tracking_detection/de.seemoo.at_tracking_detection.ui.MainActivity}" drawable="airguard" />
@@ -45,17 +24,11 @@
 	<!-- Aurora Droid -->
 	<item component="ComponentInfo{com.aurora.adroid/com.aurora.adroid.ui.generic.activity.SplashActivity}" drawable="aurora_droid" />
 
-	<!-- Auxio -->
-	<item component="ComponentInfo{org.oxycblt.auxio/org.oxycblt.auxio.MainActivity}" drawable="auxio" />
-
 	<!-- BatteryBot Pro -->
 	<item component="ComponentInfo{com.darshancomputing.BatteryIndicatorPro/com.darshancomputing.BatteryIndicatorPro.BatteryInfoActivity}" drawable="batterybot_pro" />
 
 	<!-- Bible Notify -->
 	<item component="ComponentInfo{com.correctsyntax.biblenotify/com.correctsyntax.biblenotify.MainActivity}" drawable="bible_notify" />
-
-	<!-- blabber.im -->
-	<item component="ComponentInfo{de.pixart.messenger/de.pixart.messenger.ui.StartUI}" drawable="blabberim" />
 
 	<!-- BLE-Monitor -->
 	<item component="ComponentInfo{com.huc.android_ble_monitor/com.huc.android_ble_monitor.activities.MainActivity}" drawable="ble_monitor" />
@@ -65,9 +38,6 @@
 
 	<!-- Bluetooth terminal -->
 	<item component="ComponentInfo{ru.sash0k.bluetooth_terminal/ru.sash0k.bluetooth_terminal.activity.DeviceControlActivity}" drawable="bluetooth_terminal" />
-
-	<!-- Box Stacker -->
-	<item component="ComponentInfo{net.artificialworlds.boxstacker/net.artificialworlds.boxstacker.MainActivity}" drawable="box_stacker" />
 
 	<!-- Cards With Cats -->
 	<item component="ComponentInfo{com.dozingcatsoftware.cardswithcats/com.dozingcatsoftware.cardswithcats.MainActivity}" drawable="cards_with_cats" />
@@ -90,32 +60,11 @@
 	<!-- Equate -->
 	<item component="ComponentInfo{com.llamacorp.equate/com.llamacorp.equate.view.CalcActivity}" drawable="equate" />
 
-	<!-- Every Door -->
-	<item component="ComponentInfo{info.zverev.ilya.every_door/info.zverev.ilya.every_door.MainActivity}" drawable="every_door" />
-
-	<!-- FastLyrics -->
-	<item component="ComponentInfo{io.github.teccheck.fastlyrics/io.github.teccheck.fastlyrics.MainActivity}" drawable="fastlyrics" />
-
 	<!-- FBReader -->
 	<item component="ComponentInfo{org.geometerplus.zlibrary.ui.android/org.geometerplus.android.fbreader.FBReader}" drawable="fbreader" />
 
-	<!-- Fedilab -->
-	<item component="ComponentInfo{fr.gouv.etalab.mastodon/app.fedilab.android.activities.MainActivity.Bubbles}" drawable="fedilab" />
-
 	<!-- Flowit! -->
 	<item component="ComponentInfo{com.bytehamster.flowitgame/com.bytehamster.flowitgame.Main}" drawable="flowit_" />
-
-	<!-- FluffyChat -->
-	<item component="ComponentInfo{chat.fluffy.fluffychat/chat.fluffy.fluffychat.MainActivity}" drawable="fluffychat" />
-
-	<!-- Flym -->
-	<item component="ComponentInfo{net.frju.flym/net.frju.flym.ui.main.MainActivity}" drawable="flym" />
-
-	<!-- ForkHub -->
-	<item component="ComponentInfo{jp.forkhub/com.github.mobile.ui.user.HomeActivity}" drawable="forkhub" />
-
-	<!-- ForPDA -->
-	<item component="ComponentInfo{org.softeg.slartus.forpdaplus/org.softeg.slartus.forpdaplus.MainActivity}" drawable="forpda" />
 
 	<!-- Freebloks -->
 	<item component="ComponentInfo{de.saschahlusiak.freebloks/de.saschahlusiak.freebloks.game.FreebloksActivity}" drawable="freebloks" />
@@ -129,14 +78,8 @@
 	<!-- gptAssist -->
 	<item component="ComponentInfo{org.woheller69.gptassist/org.woheller69.gptassist.MainActivity}" drawable="gptassist" />
 
-	<!-- ImgurViewer -->
-	<item component="ComponentInfo{com.ensoft.imgurviewer/com.ensoft.imgurviewer.view.activity.ImageViewer}" drawable="imgurviewer" />
-
 	<!-- Key Mapper -->
 	<item component="ComponentInfo{io.github.sds100.keymapper/io.github.sds100.keymapper.SplashActivity}" drawable="key_mapper" />
-
-	<!-- KOReader -->
-	<item component="ComponentInfo{org.koreader.launcher.fdroid/org.koreader.launcher.MainActivity}" drawable="koreader" />
 
 	<!-- LabCoat -->
 	<item component="ComponentInfo{com.commit451.gitlab/com.commit451.gitlab.activity.LaunchActivity}" drawable="labcoat" />
@@ -146,15 +89,6 @@
 
 	<!-- Markor -->
 	<item component="ComponentInfo{net.gsantner.markor/net.gsantner.markor.activity.MainActivity}" drawable="markor" />
-
-	<!-- Mines3D -->
-	<item component="ComponentInfo{cos.premy.mines/cos.premy.mines.MainActivity}" drawable="mines3d" />
-
-	<!-- Missed Notifications Reminder -->
-	<item component="ComponentInfo{com.app.missednotificationsreminder/com.app.missednotificationsreminder.settings.MainActivity}" drawable="missed_notifications_reminder" />
-
-	<!-- mucke -->
-	<item component="ComponentInfo{rocks.mucke/com.ryanheise.audioservice.AudioServiceActivity}" drawable="mucke" />
 
 	<!-- MuPDF -->
 	<item component="ComponentInfo{com.artifex.mupdfdemo/com.artifex.mupdfdemo.ChoosePDFActivity}" drawable="mupdf" />
@@ -171,26 +105,17 @@
 	<!-- Phonograph Plus -->
 	<item component="ComponentInfo{player.phonograph.plus/player.phonograph.ui.activities.LauncherActivity}" drawable="phonograph_plus" />
 
-	<!-- PlainUPnP -->
-	<item component="ComponentInfo{com.m3sv.plainupnp/com.m3sv.plainupnp.presentation.splash.SplashActivity}" drawable="plainupnp" />
-
 	<!-- Puzzles -->
 	<item component="ComponentInfo{name.boyle.chris.sgtpuzzles/name.boyle.chris.sgtpuzzles.SGTPuzzles}" drawable="puzzles" />
 
 	<!-- SCEE -->
 	<item component="ComponentInfo{de.westnordost.streetcomplete.expert/de.westnordost.streetcomplete.screens.MainActivity}" drawable="scee" />
 
-	<!-- SkyTube -->
-	<item component="ComponentInfo{free.rm.skytube.oss/free.rm.skytube.gui.activities.MainActivity}" drawable="skytube" />
-
 	<!-- SMS Backup+ -->
 	<item component="ComponentInfo{com.zegoggles.smssync/com.zegoggles.smssync.activity.MainActivity}" drawable="sms_backup_" />
 
 	<!-- Spotube -->
 	<item component="ComponentInfo{oss.krtirtho.spotube/com.ryanheise.audioservice.AudioServiceActivity}" drawable="spotube" />
-
-	<!-- Symphony -->
-	<item component="ComponentInfo{io.github.zyrouge.symphony/io.github.zyrouge.symphony.MainActivity}" drawable="symphony" />
 
 	<!-- TIC-80 -->
 	<item component="ComponentInfo{com.nesbox.tic/com.nesbox.tic.TIC}" drawable="tic_80" />

@@ -1418,5 +1418,29 @@
 	<item component="ComponentInfo{alldocumentreader.office.viewer.filereader/alldocumentreader.office.viewer.filereader.splash.BlankActivity}" drawable="one_read" />
 	<item component="ComponentInfo{com.nextcloud.android.beta/com.owncloud.android.ui.activity.FileDisplayActivity}" drawable="nextcloud" />
 	<item component="ComponentInfo{com.google.android.diskusage/com.google.android.diskusage.ui.SelectActivity}" drawable="diskusage" />
+	<item component="ComponentInfo{com.github.axet.audiorecorder/com.github.axet.audiorecorder.activities.MainActivity}" drawable="audiorecorder" />
+	<item component="ComponentInfo{org.isoron.uhabits/org.isoron.uhabits.MainActivity}" drawable="uhabits" />
+	<item component="ComponentInfo{me.phh.superuser/com.koushikdutta.superuser.MainActivity}" drawable="superuser" />
+	<item component="ComponentInfo{com.pilot51.voicenotify/com.pilot51.voicenotify.MainActivity}" drawable="voicenotify" />
+	<item component="ComponentInfo{itkach.aard2/itkach.aard2.MainActivity}" drawable="aard_2" />
+	<item component="ComponentInfo{com.activitymanager/com.sdex.activityrunner.MainActivity}" drawable="activity_manager" />
+	<item component="ComponentInfo{org.adaway/org.adaway.ui.home.HomeActivity}" drawable="adaway" />
+	<item component="ComponentInfo{org.oxycblt.auxio/org.oxycblt.auxio.MainActivity}" drawable="auxio" />
+	<item component="ComponentInfo{de.pixart.messenger/de.pixart.messenger.ui.StartUI}" drawable="blabberim" />
+	<item component="ComponentInfo{net.artificialworlds.boxstacker/net.artificialworlds.boxstacker.MainActivity}" drawable="box_stacker" />
+	<item component="ComponentInfo{info.zverev.ilya.every_door/info.zverev.ilya.every_door.MainActivity}" drawable="every_door" />
+	<item component="ComponentInfo{io.github.teccheck.fastlyrics/io.github.teccheck.fastlyrics.MainActivity}" drawable="fastlyrics" />
+	<item component="ComponentInfo{fr.gouv.etalab.mastodon/app.fedilab.android.activities.MainActivity.Bubbles}" drawable="fedilab" />
+	<item component="ComponentInfo{chat.fluffy.fluffychat/chat.fluffy.fluffychat.MainActivity}" drawable="fluffychat" />
+	<item component="ComponentInfo{net.frju.flym/net.frju.flym.ui.main.MainActivity}" drawable="flym" />
+	<item component="ComponentInfo{jp.forkhub/com.github.mobile.ui.user.HomeActivity}" drawable="forkhub" />
+	<item component="ComponentInfo{org.softeg.slartus.forpdaplus/org.softeg.slartus.forpdaplus.MainActivity}" drawable="forpda" />
+	<item component="ComponentInfo{com.ensoft.imgurviewer/com.ensoft.imgurviewer.view.activity.ImageViewer}" drawable="imgurviewer" />
+	<item component="ComponentInfo{org.koreader.launcher.fdroid/org.koreader.launcher.MainActivity}" drawable="koreader" />
+	<item component="ComponentInfo{cos.premy.mines/cos.premy.mines.MainActivity}" drawable="mines3d" />
+	<item component="ComponentInfo{com.app.missednotificationsreminder/com.app.missednotificationsreminder.settings.MainActivity}" drawable="missed_notifications_reminder" />
+	<item component="ComponentInfo{rocks.mucke/com.ryanheise.audioservice.AudioServiceActivity}" drawable="mucke" />
+	<item component="ComponentInfo{com.m3sv.plainupnp/com.m3sv.plainupnp.presentation.splash.SplashActivity}" drawable="plainupnp" />
+	<item component="ComponentInfo{free.rm.skytube.oss/free.rm.skytube.gui.activities.MainActivity}" drawable="skytube" />
 
 </resources>

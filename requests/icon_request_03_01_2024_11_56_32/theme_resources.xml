@@ -1,34 +1,13 @@
 <Theme version="1">
 
-	<!-- Диктофон -->
-	<AppIcon name="com.github.axet.audiorecorder/com.github.axet.audiorecorder.activities.MainActivity" image="audiorecorder"/>
-
-	<!-- Привычки -->
-	<AppIcon name="org.isoron.uhabits/org.isoron.uhabits.MainActivity" image="uhabits"/>
-
 	<!-- Сканер штрих-кодов -->
 	<AppIcon name="com.google.zxing.client.android/com.google.zxing.client.android.CaptureActivity" image="сканер_штрих_кодов"/>
-
-	<!-- Суперпользователь -->
-	<AppIcon name="me.phh.superuser/com.koushikdutta.superuser.MainActivity" image="superuser"/>
-
-	<!-- Уведомления голосом -->
-	<AppIcon name="com.pilot51.voicenotify/com.pilot51.voicenotify.MainActivity" image="voicenotify"/>
 
 	<!-- Удобное Чтение -->
 	<AppIcon name="ru.yanus171.feedexfork/ru.yanus171.feedexfork.activity.HomeActivity" image="удобное_чтение"/>
 
 	<!-- Шахматы -->
 	<AppIcon name="jwtc.android.chess/jwtc.android.chess.start" image="шахматы"/>
-
-	<!-- Aard 2 -->
-	<AppIcon name="itkach.aard2/itkach.aard2.MainActivity" image="aard_2"/>
-
-	<!-- Activity Manager -->
-	<AppIcon name="com.activitymanager/com.sdex.activityrunner.MainActivity" image="activity_manager"/>
-
-	<!-- AdAway -->
-	<AppIcon name="org.adaway/org.adaway.ui.home.HomeActivity" image="adaway"/>
 
 	<!-- AirGuard -->
 	<AppIcon name="de.seemoo.at_tracking_detection/de.seemoo.at_tracking_detection.ui.MainActivity" image="airguard"/>
@@ -45,17 +24,11 @@
 	<!-- Aurora Droid -->
 	<AppIcon name="com.aurora.adroid/com.aurora.adroid.ui.generic.activity.SplashActivity" image="aurora_droid"/>
 
-	<!-- Auxio -->
-	<AppIcon name="org.oxycblt.auxio/org.oxycblt.auxio.MainActivity" image="auxio"/>
-
 	<!-- BatteryBot Pro -->
 	<AppIcon name="com.darshancomputing.BatteryIndicatorPro/com.darshancomputing.BatteryIndicatorPro.BatteryInfoActivity" image="batterybot_pro"/>
 
 	<!-- Bible Notify -->
 	<AppIcon name="com.correctsyntax.biblenotify/com.correctsyntax.biblenotify.MainActivity" image="bible_notify"/>
-
-	<!-- blabber.im -->
-	<AppIcon name="de.pixart.messenger/de.pixart.messenger.ui.StartUI" image="blabberim"/>
 
 	<!-- BLE-Monitor -->
 	<AppIcon name="com.huc.android_ble_monitor/com.huc.android_ble_monitor.activities.MainActivity" image="ble_monitor"/>
@@ -65,9 +38,6 @@
 
 	<!-- Bluetooth terminal -->
 	<AppIcon name="ru.sash0k.bluetooth_terminal/ru.sash0k.bluetooth_terminal.activity.DeviceControlActivity" image="bluetooth_terminal"/>
-
-	<!-- Box Stacker -->
-	<AppIcon name="net.artificialworlds.boxstacker/net.artificialworlds.boxstacker.MainActivity" image="box_stacker"/>
 
 	<!-- Cards With Cats -->
 	<AppIcon name="com.dozingcatsoftware.cardswithcats/com.dozingcatsoftware.cardswithcats.MainActivity" image="cards_with_cats"/>
@@ -90,32 +60,11 @@
 	<!-- Equate -->
 	<AppIcon name="com.llamacorp.equate/com.llamacorp.equate.view.CalcActivity" image="equate"/>
 
-	<!-- Every Door -->
-	<AppIcon name="info.zverev.ilya.every_door/info.zverev.ilya.every_door.MainActivity" image="every_door"/>
-
-	<!-- FastLyrics -->
-	<AppIcon name="io.github.teccheck.fastlyrics/io.github.teccheck.fastlyrics.MainActivity" image="fastlyrics"/>
-
 	<!-- FBReader -->
 	<AppIcon name="org.geometerplus.zlibrary.ui.android/org.geometerplus.android.fbreader.FBReader" image="fbreader"/>
 
-	<!-- Fedilab -->
-	<AppIcon name="fr.gouv.etalab.mastodon/app.fedilab.android.activities.MainActivity.Bubbles" image="fedilab"/>
-
 	<!-- Flowit! -->
 	<AppIcon name="com.bytehamster.flowitgame/com.bytehamster.flowitgame.Main" image="flowit_"/>
-
-	<!-- FluffyChat -->
-	<AppIcon name="chat.fluffy.fluffychat/chat.fluffy.fluffychat.MainActivity" image="fluffychat"/>
-
-	<!-- Flym -->
-	<AppIcon name="net.frju.flym/net.frju.flym.ui.main.MainActivity" image="flym"/>
-
-	<!-- ForkHub -->
-	<AppIcon name="jp.forkhub/com.github.mobile.ui.user.HomeActivity" image="forkhub"/>
-
-	<!-- ForPDA -->
-	<AppIcon name="org.softeg.slartus.forpdaplus/org.softeg.slartus.forpdaplus.MainActivity" image="forpda"/>
 
 	<!-- Freebloks -->
 	<AppIcon name="de.saschahlusiak.freebloks/de.saschahlusiak.freebloks.game.FreebloksActivity" image="freebloks"/>
@@ -129,14 +78,8 @@
 	<!-- gptAssist -->
 	<AppIcon name="org.woheller69.gptassist/org.woheller69.gptassist.MainActivity" image="gptassist"/>
 
-	<!-- ImgurViewer -->
-	<AppIcon name="com.ensoft.imgurviewer/com.ensoft.imgurviewer.view.activity.ImageViewer" image="imgurviewer"/>
-
 	<!-- Key Mapper -->
 	<AppIcon name="io.github.sds100.keymapper/io.github.sds100.keymapper.SplashActivity" image="key_mapper"/>
-
-	<!-- KOReader -->
-	<AppIcon name="org.koreader.launcher.fdroid/org.koreader.launcher.MainActivity" image="koreader"/>
 
 	<!-- LabCoat -->
 	<AppIcon name="com.commit451.gitlab/com.commit451.gitlab.activity.LaunchActivity" image="labcoat"/>
@@ -147,23 +90,11 @@
 	<!-- Markor -->
 	<AppIcon name="net.gsantner.markor/net.gsantner.markor.activity.MainActivity" image="markor"/>
 
-	<!-- Mines3D -->
-	<AppIcon name="cos.premy.mines/cos.premy.mines.MainActivity" image="mines3d"/>
-
-	<!-- Missed Notifications Reminder -->
-	<AppIcon name="com.app.missednotificationsreminder/com.app.missednotificationsreminder.settings.MainActivity" image="missed_notifications_reminder"/>
-
-	<!-- mucke -->
-	<AppIcon name="rocks.mucke/com.ryanheise.audioservice.AudioServiceActivity" image="mucke"/>
-
 	<!-- MuPDF -->
 	<AppIcon name="com.artifex.mupdfdemo/com.artifex.mupdfdemo.ChoosePDFActivity" image="mupdf"/>
 
 	<!-- My App List -->
 	<AppIcon name="com.projectsexception.myapplist.open/com.projectsexception.myapplist.MainActivity" image="my_app_list"/>
-
-	<!-- Neo Backup -->
-	<AppIcon name="com.machiav3lli.backup/com.machiav3lli.backup.activities.SplashActivity" image="neo_backup"/>
 
 	<!-- OctoDroid -->
 	<AppIcon name="com.gh4a/com.gh4a.activities.Github4AndroidActivity" image="octodroid"/>
@@ -174,26 +105,17 @@
 	<!-- Phonograph Plus -->
 	<AppIcon name="player.phonograph.plus/player.phonograph.ui.activities.LauncherActivity" image="phonograph_plus"/>
 
-	<!-- PlainUPnP -->
-	<AppIcon name="com.m3sv.plainupnp/com.m3sv.plainupnp.presentation.splash.SplashActivity" image="plainupnp"/>
-
 	<!-- Puzzles -->
 	<AppIcon name="name.boyle.chris.sgtpuzzles/name.boyle.chris.sgtpuzzles.SGTPuzzles" image="puzzles"/>
 
 	<!-- SCEE -->
 	<AppIcon name="de.westnordost.streetcomplete.expert/de.westnordost.streetcomplete.screens.MainActivity" image="scee"/>
 
-	<!-- SkyTube -->
-	<AppIcon name="free.rm.skytube.oss/free.rm.skytube.gui.activities.MainActivity" image="skytube"/>
-
 	<!-- SMS Backup+ -->
 	<AppIcon name="com.zegoggles.smssync/com.zegoggles.smssync.activity.MainActivity" image="sms_backup_"/>
 
 	<!-- Spotube -->
 	<AppIcon name="oss.krtirtho.spotube/com.ryanheise.audioservice.AudioServiceActivity" image="spotube"/>
-
-	<!-- Symphony -->
-	<AppIcon name="io.github.zyrouge.symphony/io.github.zyrouge.symphony.MainActivity" image="symphony"/>
 
 	<!-- TIC-80 -->
 	<AppIcon name="com.nesbox.tic/com.nesbox.tic.TIC" image="tic_80"/>

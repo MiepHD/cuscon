@@ -1328,5 +1328,29 @@
 	<item drawable="lector_de_documentos" />
 	<item drawable="network_utilities" />
 	<item drawable="one_read" />
+	<item drawable="audiorecorder" />
+	<item drawable="uhabits" />
+	<item drawable="superuser" />
+	<item drawable="voicenotify" />
+	<item drawable="aard_2" />
+	<item drawable="activity_manager" />
+	<item drawable="adaway" />
+	<item drawable="auxio" />
+	<item drawable="blabberim" />
+	<item drawable="box_stacker" />
+	<item drawable="every_door" />
+	<item drawable="fastlyrics" />
+	<item drawable="fedilab" />
+	<item drawable="fluffychat" />
+	<item drawable="flym" />
+	<item drawable="forkhub" />
+	<item drawable="forpda" />
+	<item drawable="imgurviewer" />
+	<item drawable="koreader" />
+	<item drawable="mines3d" />
+	<item drawable="missed_notifications_reminder" />
+	<item drawable="mucke" />
+	<item drawable="plainupnp" />
+	<item drawable="skytube" />
 
 </resources>
