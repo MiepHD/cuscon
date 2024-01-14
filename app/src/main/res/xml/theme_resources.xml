@@ -1449,5 +1449,12 @@
 	<AppIcon name="com.appriss.vinemobile/com.appriss.vinemobile.SplashScreenActivity" image="vinelink" />
 	<AppIcon name="com.mobile.myeye/com.mobile.myeye.activity.welcome.view.WelcomeActivity" image="xmeye" />
 	<AppIcon name="com.jozein.xedge/com.jozein.xedge.ui.ActivityMain" image="xposed_edge" />
+	<AppIcon name="com.dkbcodefactory.banking/com.dkbcodefactory.banking.splash.SplashActivity" image="dkb"/>
+	<AppIcon name="com.moimob.drinkable/com.moimob.drinkable.MainActivity" image="drinkable"/>
+	<AppIcon name="org.fossify.gallery/org.fossify.gallery.activities.SplashActivity.Red" image="gallery_red"/>
+	<AppIcon name="io.homeassistant.companion.android/io.homeassistant.companion.android.launch.LaunchActivity" image="home_assistant"/>
+	<AppIcon name="app.alextran.immich/app.alextran.immich.MainActivity" image="immich"/>
+	<AppIcon name="de.astubenbord.paperless_mobile/de.astubenbord.paperless_mobile.MainActivity" image="paperless_mobile"/>
+	<AppIcon name="com.plexapp.android/com.plexapp.plex.activities.SplashActivity" image="plex"/>
 
 </Theme>

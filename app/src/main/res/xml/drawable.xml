@@ -1368,5 +1368,12 @@
 	<item drawable="vinelink" />
 	<item drawable="xmeye" />
 	<item drawable="xposed_edge" />
+	<item drawable="dkb" />
+	<item drawable="drinkable" />
+	<item drawable="gallery_red" />
+	<item drawable="home_assistant" />
+	<item drawable="immich" />
+	<item drawable="paperless_mobile" />
+	<item drawable="plex" />
 
 </resources>

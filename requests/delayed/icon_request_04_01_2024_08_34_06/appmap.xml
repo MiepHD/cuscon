@@ -1,0 +1,12 @@
+<appmap>
+
+	<!-- aCalendar -->
+	<item class="org.withouthat.acalendar.ACalendar" name="acalendar"/>
+
+	<!-- aCalTasks -->
+	<item class="org.withouthat.acalendar.tasks.TasksActivity" name="acaltasks"/>
+
+	<!-- Readrops -->
+	<item class="com.readrops.app.SplashActivity" name="readrops"/>
+
+</appmap>

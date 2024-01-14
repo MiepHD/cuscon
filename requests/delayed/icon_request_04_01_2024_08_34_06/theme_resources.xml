@@ -1,0 +1,12 @@
+<Theme version="1">
+
+	<!-- aCalendar -->
+	<AppIcon name="org.withouthat.acalendar/org.withouthat.acalendar.ACalendar" image="acalendar"/>
+
+	<!-- aCalTasks -->
+	<AppIcon name="org.withouthat.acalendar/org.withouthat.acalendar.tasks.TasksActivity" image="acaltasks"/>
+
+	<!-- Readrops -->
+	<AppIcon name="com.readrops.app/com.readrops.app.SplashActivity" image="readrops"/>
+
+</Theme>

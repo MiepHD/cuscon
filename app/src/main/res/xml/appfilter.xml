@@ -1458,5 +1458,12 @@
 	<item component="ComponentInfo{com.appriss.vinemobile/com.appriss.vinemobile.SplashScreenActivity}" drawable="vinelink" />
 	<item component="ComponentInfo{com.mobile.myeye/com.mobile.myeye.activity.welcome.view.WelcomeActivity}" drawable="xmeye" />
 	<item component="ComponentInfo{com.jozein.xedge/com.jozein.xedge.ui.ActivityMain}" drawable="xposed_edge" />
+	<item component="ComponentInfo{com.dkbcodefactory.banking/com.dkbcodefactory.banking.splash.SplashActivity}" drawable="dkb" />
+	<item component="ComponentInfo{com.moimob.drinkable/com.moimob.drinkable.MainActivity}" drawable="drinkable" />
+	<item component="ComponentInfo{org.fossify.gallery/org.fossify.gallery.activities.SplashActivity.Red}" drawable="gallery_red" />
+	<item component="ComponentInfo{io.homeassistant.companion.android/io.homeassistant.companion.android.launch.LaunchActivity}" drawable="home_assistant" />
+	<item component="ComponentInfo{app.alextran.immich/app.alextran.immich.MainActivity}" drawable="immich" />
+	<item component="ComponentInfo{de.astubenbord.paperless_mobile/de.astubenbord.paperless_mobile.MainActivity}" drawable="paperless_mobile" />
+	<item component="ComponentInfo{com.plexapp.android/com.plexapp.plex.activities.SplashActivity}" drawable="plex" />
 
 </resources>
