@@ -1418,5 +1418,52 @@
 	<item component="ComponentInfo{alldocumentreader.office.viewer.filereader/alldocumentreader.office.viewer.filereader.splash.BlankActivity}" drawable="one_read" />
 	<item component="ComponentInfo{com.nextcloud.android.beta/com.owncloud.android.ui.activity.FileDisplayActivity}" drawable="nextcloud" />
 	<item component="ComponentInfo{com.google.android.diskusage/com.google.android.diskusage.ui.SelectActivity}" drawable="diskusage" />
+	<item component="ComponentInfo{com.github.axet.audiorecorder/com.github.axet.audiorecorder.activities.MainActivity}" drawable="audiorecorder" />
+	<item component="ComponentInfo{org.isoron.uhabits/org.isoron.uhabits.MainActivity}" drawable="uhabits" />
+	<item component="ComponentInfo{me.phh.superuser/com.koushikdutta.superuser.MainActivity}" drawable="superuser" />
+	<item component="ComponentInfo{com.pilot51.voicenotify/com.pilot51.voicenotify.MainActivity}" drawable="voicenotify" />
+	<item component="ComponentInfo{itkach.aard2/itkach.aard2.MainActivity}" drawable="aard_2" />
+	<item component="ComponentInfo{com.activitymanager/com.sdex.activityrunner.MainActivity}" drawable="activity_manager" />
+	<item component="ComponentInfo{org.adaway/org.adaway.ui.home.HomeActivity}" drawable="adaway" />
+	<item component="ComponentInfo{org.oxycblt.auxio/org.oxycblt.auxio.MainActivity}" drawable="auxio" />
+	<item component="ComponentInfo{de.pixart.messenger/de.pixart.messenger.ui.StartUI}" drawable="blabberim" />
+	<item component="ComponentInfo{net.artificialworlds.boxstacker/net.artificialworlds.boxstacker.MainActivity}" drawable="box_stacker" />
+	<item component="ComponentInfo{info.zverev.ilya.every_door/info.zverev.ilya.every_door.MainActivity}" drawable="every_door" />
+	<item component="ComponentInfo{io.github.teccheck.fastlyrics/io.github.teccheck.fastlyrics.MainActivity}" drawable="fastlyrics" />
+	<item component="ComponentInfo{fr.gouv.etalab.mastodon/app.fedilab.android.activities.MainActivity.Bubbles}" drawable="fedilab" />
+	<item component="ComponentInfo{chat.fluffy.fluffychat/chat.fluffy.fluffychat.MainActivity}" drawable="fluffychat" />
+	<item component="ComponentInfo{net.frju.flym/net.frju.flym.ui.main.MainActivity}" drawable="flym" />
+	<item component="ComponentInfo{jp.forkhub/com.github.mobile.ui.user.HomeActivity}" drawable="forkhub" />
+	<item component="ComponentInfo{org.softeg.slartus.forpdaplus/org.softeg.slartus.forpdaplus.MainActivity}" drawable="forpda" />
+	<item component="ComponentInfo{com.ensoft.imgurviewer/com.ensoft.imgurviewer.view.activity.ImageViewer}" drawable="imgurviewer" />
+	<item component="ComponentInfo{org.koreader.launcher.fdroid/org.koreader.launcher.MainActivity}" drawable="koreader" />
+	<item component="ComponentInfo{cos.premy.mines/cos.premy.mines.MainActivity}" drawable="mines3d" />
+	<item component="ComponentInfo{com.app.missednotificationsreminder/com.app.missednotificationsreminder.settings.MainActivity}" drawable="missed_notifications_reminder" />
+	<item component="ComponentInfo{rocks.mucke/com.ryanheise.audioservice.AudioServiceActivity}" drawable="mucke" />
+	<item component="ComponentInfo{com.m3sv.plainupnp/com.m3sv.plainupnp.presentation.splash.SplashActivity}" drawable="plainupnp" />
+	<item component="ComponentInfo{free.rm.skytube.oss/free.rm.skytube.gui.activities.MainActivity}" drawable="skytube" />
+	<item component="ComponentInfo{eu.kanade.tachiyomi.sy/eu.kanade.tachiyomi.ui.main.MainActivity}" drawable="tachiyomisy" />
+	<item component="ComponentInfo{com.tencent.mm/com.tencent.mm.ui.LauncherUI}" drawable="wechat" />
+	<item component="ComponentInfo{shix.cam365.camera/com.shix.shixipc.activity.SplashActivity}" drawable="_365cam" />
+	<item component="ComponentInfo{com.adobe.ims.accountaccess/com.zoontek.rnbootsplash.RNBootSplashActivity}" drawable="account_access" />
+	<item component="ComponentInfo{com.andreacioccarelli.androoster/com.andreacioccarelli.androoster.ui.boot.UIBoot}" drawable="androoster" />
+	<item component="ComponentInfo{io.cred.roboapp.android/io.cred.roboapp.application.welcome.ui.WelcomeSplashActivity}" drawable="credai" />
+	<item component="ComponentInfo{com.gsmarena.android/com.gsmarena.android.activity.SplashActivity}" drawable="gsmarena" />
+	<item component="ComponentInfo{com.hovatek.mobile/com.appyet.activity.MainActivity}" drawable="hovatek_mobile" />
+	<item component="ComponentInfo{com.imdb.mobile/com.imdb.mobile.HomeActivity}" drawable="imdb" />
+	<item component="ComponentInfo{co.tapcart.app.VMWtwhI4Hm/co.tapcart.app.MainActivity}" drawable="jlab_store_and_burn_in_tool" />
+	<item component="ComponentInfo{com.github.capntrips.kernelflasher/com.github.capntrips.kernelflasher.MainActivity}" drawable="kernel_flasher" />
+	<item component="ComponentInfo{com.ram.memory.booster.cpu.saver/com.ram.memory.booster.cpu.saver.MainActivity}" drawable="root_booster" />
+	<item component="ComponentInfo{com.shopify.arrive/com.shopify.arrive.MainActivity}" drawable="shop" />
+	<item component="ComponentInfo{com.appriss.vinemobile/com.appriss.vinemobile.SplashScreenActivity}" drawable="vinelink" />
+	<item component="ComponentInfo{com.mobile.myeye/com.mobile.myeye.activity.welcome.view.WelcomeActivity}" drawable="xmeye" />
+	<item component="ComponentInfo{com.jozein.xedge/com.jozein.xedge.ui.ActivityMain}" drawable="xposed_edge" />
+	<item component="ComponentInfo{com.dkbcodefactory.banking/com.dkbcodefactory.banking.splash.SplashActivity}" drawable="dkb" />
+	<item component="ComponentInfo{com.moimob.drinkable/com.moimob.drinkable.MainActivity}" drawable="drinkable" />
+	<item component="ComponentInfo{org.fossify.gallery/org.fossify.gallery.activities.SplashActivity.Red}" drawable="gallery_red" />
+	<item component="ComponentInfo{io.homeassistant.companion.android/io.homeassistant.companion.android.launch.LaunchActivity}" drawable="home_assistant" />
+	<item component="ComponentInfo{app.alextran.immich/app.alextran.immich.MainActivity}" drawable="immich" />
+	<item component="ComponentInfo{de.astubenbord.paperless_mobile/de.astubenbord.paperless_mobile.MainActivity}" drawable="paperless_mobile" />
+	<item component="ComponentInfo{com.plexapp.android/com.plexapp.plex.activities.SplashActivity}" drawable="plex" />
 
 </resources>
