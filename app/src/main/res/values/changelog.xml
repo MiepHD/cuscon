@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="changelog_date">09.01.2024</string>
+    <string name="changelog_date">14.01.2024</string>
     <string-array name="changelog">
         <item>3.0.3.5:</item>
         <item>Added Internet, Lector de documentos, Network utilities, One Read, Aard 2, Activity Manager, AdAway, Auxio, blabber.im, Box Stacker, Every Door, FastLyrics, Fedilab, FluffyChat, Flym, ForkHub, ForPDA, ImgurViewer, KOReader, Mines3D, Missed Notifications Reminder, mucke, PlainUPnP, SkyTube, superuser, audiorecorder, voicenotify, uhabits, TachiyomiSY, WeChat</item>
