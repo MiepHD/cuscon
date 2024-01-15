@@ -1,8 +1,5 @@
 <Theme version="1">
 
-	<!-- Airtel -->
-	<AppIcon name="com.myairtelapp/com.myairtelapp.home.views.activities.SplashScreenActivity" image="airtel"/>
-
 	<!-- AJIO -->
 	<AppIcon name="com.ril.ajio/com.ril.ajio.launch.activity.SplashScreenActivity" image="ajio"/>
 
@@ -51,9 +48,6 @@
 	<!-- HeyTap Cloud -->
 	<AppIcon name="com.heytap.cloud/com.heytap.cloud.home.ui.CloudLauncherActivity" image="heytap_cloud"/>
 
-	<!-- Internet -->
-	<AppIcon name="com.heytap.browser/com.android.browser.BrowserActivity" image="internet"/>
-
 	<!-- Invoices -->
 	<AppIcon name="com.aadhk.woinvoice/com.aadhk.woinvoice.MainActivity" image="invoices"/>
 
@@ -65,12 +59,6 @@
 
 	<!-- Kegel -->
 	<AppIcon name="com.appercut.kegel/com.appercut.kegel.activities.SplashScreenActivity" image="kegel"/>
-
-	<!-- LibreTube -->
-	<AppIcon name="com.github.libretube/com.github.libretube.Default" image="libretube"/>
-
-	<!-- Music -->
-	<AppIcon name="com.heytap.music/com.allsaints.music.ui.splash.SplashActivity" image="music"/>
 
 	<!-- My Files -->
 	<AppIcon name="com.coloros.filemanager/com.oplus.filemanager.main.ui.MainActivity" image="my_files"/>
@@ -131,9 +119,6 @@
 
 	<!-- Weather -->
 	<AppIcon name="com.coloros.weather2/com.oplus.weather.main.view.WeatherMainActivity" image="weather"/>
-
-	<!-- YONO SBI -->
-	<AppIcon name="com.sbi.lotusintouch/com.sbi.lotusintouch.MainActivity" image="yono_sbi"/>
 
 	<!-- µTorrent Pro -->
 	<AppIcon name="com.utorrent.client.pro/com.bittorrent.app.Main" image="µtorrent_pro"/>

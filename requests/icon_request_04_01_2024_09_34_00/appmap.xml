@@ -1,8 +1,5 @@
 <appmap>
 
-	<!-- Airtel -->
-	<item class="com.myairtelapp.home.views.activities.SplashScreenActivity" name="airtel"/>
-
 	<!-- AJIO -->
 	<item class="com.ril.ajio.launch.activity.SplashScreenActivity" name="ajio"/>
 
@@ -51,9 +48,6 @@
 	<!-- HeyTap Cloud -->
 	<item class="com.heytap.cloud.home.ui.CloudLauncherActivity" name="heytap_cloud"/>
 
-	<!-- Internet -->
-	<item class="com.android.browser.BrowserActivity" name="internet"/>
-
 	<!-- Invoices -->
 	<item class="com.aadhk.woinvoice.MainActivity" name="invoices"/>
 
@@ -65,12 +59,6 @@
 
 	<!-- Kegel -->
 	<item class="com.appercut.kegel.activities.SplashScreenActivity" name="kegel"/>
-
-	<!-- LibreTube -->
-	<item class="com.github.libretube.Default" name="libretube"/>
-
-	<!-- Music -->
-	<item class="com.allsaints.music.ui.splash.SplashActivity" name="music"/>
 
 	<!-- My Files -->
 	<item class="com.oplus.filemanager.main.ui.MainActivity" name="my_files"/>
@@ -131,9 +119,6 @@
 
 	<!-- Weather -->
 	<item class="com.oplus.weather.main.view.WeatherMainActivity" name="weather"/>
-
-	<!-- YONO SBI -->
-	<item class="com.sbi.lotusintouch.MainActivity" name="yono_sbi"/>
 
 	<!-- µTorrent Pro -->
 	<item class="com.bittorrent.app.Main" name="µtorrent_pro"/>

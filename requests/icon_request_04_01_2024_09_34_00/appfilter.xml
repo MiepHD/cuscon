@@ -1,8 +1,5 @@
 <resources>
 
-	<!-- Airtel -->
-	<item component="ComponentInfo{com.myairtelapp/com.myairtelapp.home.views.activities.SplashScreenActivity}" drawable="airtel" />
-
 	<!-- AJIO -->
 	<item component="ComponentInfo{com.ril.ajio/com.ril.ajio.launch.activity.SplashScreenActivity}" drawable="ajio" />
 
@@ -51,9 +48,6 @@
 	<!-- HeyTap Cloud -->
 	<item component="ComponentInfo{com.heytap.cloud/com.heytap.cloud.home.ui.CloudLauncherActivity}" drawable="heytap_cloud" />
 
-	<!-- Internet -->
-	<item component="ComponentInfo{com.heytap.browser/com.android.browser.BrowserActivity}" drawable="internet" />
-
 	<!-- Invoices -->
 	<item component="ComponentInfo{com.aadhk.woinvoice/com.aadhk.woinvoice.MainActivity}" drawable="invoices" />
 
@@ -65,12 +59,6 @@
 
 	<!-- Kegel -->
 	<item component="ComponentInfo{com.appercut.kegel/com.appercut.kegel.activities.SplashScreenActivity}" drawable="kegel" />
-
-	<!-- LibreTube -->
-	<item component="ComponentInfo{com.github.libretube/com.github.libretube.Default}" drawable="libretube" />
-
-	<!-- Music -->
-	<item component="ComponentInfo{com.heytap.music/com.allsaints.music.ui.splash.SplashActivity}" drawable="music" />
 
 	<!-- My Files -->
 	<item component="ComponentInfo{com.coloros.filemanager/com.oplus.filemanager.main.ui.MainActivity}" drawable="my_files" />
@@ -131,9 +119,6 @@
 
 	<!-- Weather -->
 	<item component="ComponentInfo{com.coloros.weather2/com.oplus.weather.main.view.WeatherMainActivity}" drawable="weather" />
-
-	<!-- YONO SBI -->
-	<item component="ComponentInfo{com.sbi.lotusintouch/com.sbi.lotusintouch.MainActivity}" drawable="yono_sbi" />
 
 	<!-- µTorrent Pro -->
 	<item component="ComponentInfo{com.utorrent.client.pro/com.bittorrent.app.Main}" drawable="µtorrent_pro" />
