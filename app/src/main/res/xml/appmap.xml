@@ -1493,5 +1493,7 @@
 	<item class="com.thehomedepot.startup.activities.StartupActivity" name="home_depot"/>
 	<item class="net.twisterrob.inventory.android.activity.MainActivity" name="inventory"/>
 	<item class="com.tomkos.myinventory.Activity_Main" name="my_home_inventory"/>
+	<item class="com.megalol.app.Launcher" name="moinmoin"/>
+	<item class="com.google.android.apps.play.console.mobile.MainActivity" name="play_console"/>
 
 </appmap>

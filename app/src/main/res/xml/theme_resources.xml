@@ -1504,5 +1504,7 @@
 	<AppIcon name="com.thehomedepot/com.thehomedepot.startup.activities.StartupActivity" image="home_depot"/>
 	<AppIcon name="net.twisterrob.inventory/net.twisterrob.inventory.android.activity.MainActivity" image="inventory"/>
 	<AppIcon name="com.tomkos.myinventory/com.tomkos.myinventory.Activity_Main" image="my_home_inventory"/>
+	<AppIcon name="io.moinmoin/com.megalol.app.Launcher" image="moinmoin"/>
+	<AppIcon name="com.google.android.apps.playconsole/com.google.android.apps.play.console.mobile.MainActivity" image="play_console"/>
 
 </Theme>
