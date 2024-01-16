@@ -1463,5 +1463,29 @@
 	<item class="filemanager.tools.coocent.net.filemanager.activity.LaunchActivity" name="coocent_file_manager"/>
 	<item class="com.skyjos.fileexplorer.ui.MainActivity" name="owlfiles"/>
 	<item class="com.teamviewer.remotecontrollib.activity.MainActivity" name="teamviewer"/>
+	<item class="com.ril.ajio.launch.activity.SplashScreenActivity" name="ajio"/>
+	<item class="com.bandlab.navigation.entry.NavigationActivity" name="bandlab"/>
+	<item class="com.chess.splash.SplashActivity" name="chess"/>
+	<item class="com.coloros.alarmclock.AlarmClock" name="coloros_clock"/>
+	<item class="com.confirmtkt.lite.LaunchActivity" name="confirmtkt"/>
+	<item class="com.freeit.java.modules.onboarding.SplashScreenActivity" name="digital_marketing"/>
+	<item class="com.evernote.SplashActivity" name="evernote"/>
+	<item class="org.iggymedia.periodtracker.activities.InitialActivity" name="flo"/>
+	<item class="com.heytap.cloud.home.ui.CloudLauncherActivity" name="heytap_cloud"/>
+	<item class="com.aadhk.woinvoice.MainActivity" name="invoices"/>
+	<item class="com.jpl.jiomartsdk.dashboard.activities.SplashActivityAlias1" name="jiomart"/>
+	<item class="com.justdial.search.SplashScreenNewActivity" name="justdial"/>
+	<item class="com.appercut.kegel.activities.SplashScreenActivity" name="kegel"/>
+	<item class="com.oplus.filemanager.main.ui.MainActivity" name="my_files"/>
+	<item class="com.olxgroup.panamera.app.users.onboarding.activities.SplashActivity" name="olx_india"/>
+	<item class="com.maertsno.m.ui.main.MainActivity" name="onstream"/>
+	<item class="com.qfs.pagan.MainActivity" name="pagan_music_sequencer"/>
+	<item class="com.coloros.phonemanager.FakeActivity" name="phone_manager"/>
+	<item class="com.shazam.android.lite.ui.SplashActivity" name="shazam_lite"/>
+	<item class="com.android.stk.OplusStkLauncherActivity2" name="sim_2_toolkit"/>
+	<item class="com.stonekick.speedadjuster.MainActivity" name="up_tempo"/>
+	<item class="com.oplus.video.SplashActivity" name="videos"/>
+	<item class="com.magoosh.gre.quiz.vocabulary.MainActivity" name="vocabulary_builder"/>
+	<item class="com.oplus.weather.main.view.WeatherMainActivity" name="oplus_weather"/>
 
 </appmap>

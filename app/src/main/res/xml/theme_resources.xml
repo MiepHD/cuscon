@@ -1474,5 +1474,29 @@
 	<AppIcon name="file.manager.classification.dir.tree.structure.ftp/filemanager.tools.coocent.net.filemanager.activity.LaunchActivity" image="coocent_file_manager"/>
 	<AppIcon name="com.skyjos.apps.fileexplorerfree/com.skyjos.fileexplorer.ui.MainActivity" image="owlfiles"/>
 	<AppIcon name="com.teamviewer.teamviewer.market.mobile/com.teamviewer.remotecontrollib.activity.MainActivity" image="teamviewer"/>
+	<AppIcon name="com.ril.ajio/com.ril.ajio.launch.activity.SplashScreenActivity" image="ajio"/>
+	<AppIcon name="com.bandlab.bandlab/com.bandlab.navigation.entry.NavigationActivity" image="bandlab"/>
+	<AppIcon name="com.chess/com.chess.splash.SplashActivity" image="chess"/>
+	<AppIcon name="com.coloros.alarmclock/com.coloros.alarmclock.AlarmClock" image="coloros_clock"/>
+	<AppIcon name="com.confirmtkt.lite/com.confirmtkt.lite.LaunchActivity" image="confirmtkt"/>
+	<AppIcon name="digitalmarketing.digital.marketing.dm.ads.learn.socialmedia.onlinemarketing/com.freeit.java.modules.onboarding.SplashScreenActivity" image="digital_marketing"/>
+	<AppIcon name="com.evernote/com.evernote.SplashActivity" image="evernote"/>
+	<AppIcon name="org.iggymedia.periodtracker/org.iggymedia.periodtracker.activities.InitialActivity" image="flo"/>
+	<AppIcon name="com.heytap.cloud/com.heytap.cloud.home.ui.CloudLauncherActivity" image="heytap_cloud"/>
+	<AppIcon name="com.aadhk.woinvoice/com.aadhk.woinvoice.MainActivity" image="invoices"/>
+	<AppIcon name="com.jpl.jiomart/com.jpl.jiomartsdk.dashboard.activities.SplashActivityAlias1" image="jiomart"/>
+	<AppIcon name="com.justdial.search/com.justdial.search.SplashScreenNewActivity" image="justdial"/>
+	<AppIcon name="com.appercut.kegel/com.appercut.kegel.activities.SplashScreenActivity" image="kegel"/>
+	<AppIcon name="com.coloros.filemanager/com.oplus.filemanager.main.ui.MainActivity" image="my_files"/>
+	<AppIcon name="com.olx.southasia/com.olxgroup.panamera.app.users.onboarding.activities.SplashActivity" image="olx_india"/>
+	<AppIcon name="com.maertsno.m/com.maertsno.m.ui.main.MainActivity" image="onstream"/>
+	<AppIcon name="com.qfs.pagan/com.qfs.pagan.MainActivity" image="pagan_music_sequencer"/>
+	<AppIcon name="com.coloros.phonemanager/com.coloros.phonemanager.FakeActivity" image="phone_manager"/>
+	<AppIcon name="com.shazam.android.lite/com.shazam.android.lite.ui.SplashActivity" image="shazam_lite"/>
+	<AppIcon name="com.android.stk/com.android.stk.OplusStkLauncherActivity2" image="sim_2_toolkit"/>
+	<AppIcon name="com.stonekick.tempo/com.stonekick.speedadjuster.MainActivity" image="up_tempo"/>
+	<AppIcon name="com.coloros.video/com.oplus.video.SplashActivity" image="videos"/>
+	<AppIcon name="com.magoosh.gre.quiz.vocabulary/com.magoosh.gre.quiz.vocabulary.MainActivity" image="vocabulary_builder"/>
+	<AppIcon name="com.coloros.weather2/com.oplus.weather.main.view.WeatherMainActivity" image="oplus_weather"/>
 
 </Theme>

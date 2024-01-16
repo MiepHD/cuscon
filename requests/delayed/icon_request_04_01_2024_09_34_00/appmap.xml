@@ -1,0 +1,54 @@
+<appmap>
+
+	<!-- Background Eraser -->
+	<item class="com.handycloset.android.eraser.MainActivity" name="background_eraser"/>
+
+	<!-- Cache Cleaner -->
+	<item class="com.github.bmx666.appcachecleaner.ui.activity.LauncherActivity" name="cache_cleaner"/>
+
+	<!-- Calculator -->
+	<item class="com.android.calculator2.Calculator" name="calculator"/>
+
+	<!-- Camera -->
+	<item class="com.oplus.camera.Camera" name="camera"/>
+
+	<!-- Clubhouse -->
+	<item class="com.clubhouse.android.ui.ClubhouseActivity" name="clubhouse"/>
+
+	<!-- Compass -->
+	<item class="com.coloros.compass.flat.FlatCompass" name="compass"/>
+
+	<!-- Games -->
+	<item class="com.oplus.games.ui.main.MainGameActivity" name="games"/>
+
+	<!-- NoiseFit -->
+	<item class="com.noisefit.ui.SplashActivity" name="noisefit"/>
+
+	<!-- Photos -->
+	<item class="com.coloros.gallery3d.app.MainActivity" name="photos"/>
+
+	<!-- PicSay Pro -->
+	<item class="com.shinycore.picsaypro.main" name="picsay_pro"/>
+
+	<!-- PrivadoVPN -->
+	<item class="io.privado.android.ui.splash.SplashActivity" name="privadovpn"/>
+
+	<!-- QR/Barcode Scanner Pro -->
+	<item class="com.barcode.qrcode.scanner.reader.pro.activity.MainActivity" name="qr_barcode_scanner_pro"/>
+
+	<!-- Recorder -->
+	<item class="oplus.multimedia.soundrecorder.filebrowser.BrowseFile" name="recorder"/>
+
+	<!-- Rewards -->
+	<item class="com.google.android.apps.paidtasks.activity.LaunchActivity" name="rewards"/>
+
+	<!-- Solitaire -->
+	<item class="com.smokingguninc.engine.framework.SgiLauncherActivity" name="solitaire"/>
+
+	<!-- Theme Store -->
+	<item class="com.nearme.themespace.activities.ThemeActivity" name="theme_store"/>
+
+	<!-- µTorrent Pro -->
+	<item class="com.bittorrent.app.Main" name="µtorrent_pro"/>
+
+</appmap>
