@@ -1477,5 +1477,44 @@
 	<item component="ComponentInfo{com.simplemobiletools.smsmessenger/com.simplemobiletools.smsmessenger.activities.SplashActivity.Orange}" drawable="sms_messenger_orange" />
 	<item component="ComponentInfo{com.twitter.android/com.twitter.android.StartActivity}" drawable="x_new" />
 	<item component="ComponentInfo{com.application.zomato/com.application.zomato.activities.Splash}" drawable="zomato" />
+	<item component="ComponentInfo{cat.gencat.mobi.mossos/cat.gencat.mobi.mossos.MainActivity}" drawable="mossos_desquadra" />
+	<item component="ComponentInfo{filemanager.files.fileexplorer/com.example.hazelfilemanager.ui.splash.SplashActivity}" drawable="hazelfilemanager" />
+	<item component="ComponentInfo{com.fenneky.fennecfilemanager/com.fenneky.fennecfilemanager.SplashActivity}" drawable="fennec_file_manager" />
+	<item component="ComponentInfo{file.manager.classification.dir.tree.structure.ftp/filemanager.tools.coocent.net.filemanager.activity.LaunchActivity}" drawable="coocent_file_manager" />
+	<item component="ComponentInfo{com.skyjos.apps.fileexplorerfree/com.skyjos.fileexplorer.ui.MainActivity}" drawable="owlfiles" />
+	<item component="ComponentInfo{com.teamviewer.teamviewer.market.mobile/com.teamviewer.remotecontrollib.activity.MainActivity}" drawable="teamviewer" />
+	<item component="ComponentInfo{com.ril.ajio/com.ril.ajio.launch.activity.SplashScreenActivity}" drawable="ajio" />
+	<item component="ComponentInfo{com.bandlab.bandlab/com.bandlab.navigation.entry.NavigationActivity}" drawable="bandlab" />
+	<item component="ComponentInfo{com.chess/com.chess.splash.SplashActivity}" drawable="chess" />
+	<item component="ComponentInfo{com.coloros.alarmclock/com.coloros.alarmclock.AlarmClock}" drawable="coloros_clock" />
+	<item component="ComponentInfo{com.confirmtkt.lite/com.confirmtkt.lite.LaunchActivity}" drawable="confirmtkt" />
+	<item component="ComponentInfo{digitalmarketing.digital.marketing.dm.ads.learn.socialmedia.onlinemarketing/com.freeit.java.modules.onboarding.SplashScreenActivity}" drawable="digital_marketing" />
+	<item component="ComponentInfo{com.evernote/com.evernote.SplashActivity}" drawable="evernote" />
+	<item component="ComponentInfo{org.iggymedia.periodtracker/org.iggymedia.periodtracker.activities.InitialActivity}" drawable="flo" />
+	<item component="ComponentInfo{com.heytap.cloud/com.heytap.cloud.home.ui.CloudLauncherActivity}" drawable="heytap_cloud" />
+	<item component="ComponentInfo{com.aadhk.woinvoice/com.aadhk.woinvoice.MainActivity}" drawable="invoices" />
+	<item component="ComponentInfo{com.jpl.jiomart/com.jpl.jiomartsdk.dashboard.activities.SplashActivityAlias1}" drawable="jiomart" />
+	<item component="ComponentInfo{com.justdial.search/com.justdial.search.SplashScreenNewActivity}" drawable="justdial" />
+	<item component="ComponentInfo{com.appercut.kegel/com.appercut.kegel.activities.SplashScreenActivity}" drawable="kegel" />
+	<item component="ComponentInfo{com.coloros.filemanager/com.oplus.filemanager.main.ui.MainActivity}" drawable="my_files" />
+	<item component="ComponentInfo{com.olx.southasia/com.olxgroup.panamera.app.users.onboarding.activities.SplashActivity}" drawable="olx_india" />
+	<item component="ComponentInfo{com.maertsno.m/com.maertsno.m.ui.main.MainActivity}" drawable="onstream" />
+	<item component="ComponentInfo{com.qfs.pagan/com.qfs.pagan.MainActivity}" drawable="pagan_music_sequencer" />
+	<item component="ComponentInfo{com.coloros.phonemanager/com.coloros.phonemanager.FakeActivity}" drawable="phone_manager" />
+	<item component="ComponentInfo{com.shazam.android.lite/com.shazam.android.lite.ui.SplashActivity}" drawable="shazam_lite" />
+	<item component="ComponentInfo{com.android.stk/com.android.stk.OplusStkLauncherActivity2}" drawable="sim_2_toolkit" />
+	<item component="ComponentInfo{com.stonekick.tempo/com.stonekick.speedadjuster.MainActivity}" drawable="up_tempo" />
+	<item component="ComponentInfo{com.coloros.video/com.oplus.video.SplashActivity}" drawable="videos" />
+	<item component="ComponentInfo{com.magoosh.gre.quiz.vocabulary/com.magoosh.gre.quiz.vocabulary.MainActivity}" drawable="vocabulary_builder" />
+	<item component="ComponentInfo{com.coloros.weather2/com.oplus.weather.main.view.WeatherMainActivity}" drawable="oplus_weather" />
+	<item component="ComponentInfo{braveheart.apps.apkextract/braveheart.apps.apkextract.MainActivity}" drawable="apk_extractor" />
+	<item component="ComponentInfo{braveheart.apps.app2sd/braveheart.apps.app2sd.MainActivity}" drawable="app2sd" />
+	<item component="ComponentInfo{com.duckduckgo.mobile.android/com.duckduckgo.app.launch.LauncherBlue}" drawable="duckduckgo_blue" />
+	<item component="ComponentInfo{com.thehomedepot/com.thehomedepot.startup.activities.StartupActivity}" drawable="home_depot" />
+	<item component="ComponentInfo{net.twisterrob.inventory/net.twisterrob.inventory.android.activity.MainActivity}" drawable="inventory" />
+	<item component="ComponentInfo{com.tomkos.myinventory/com.tomkos.myinventory.Activity_Main}" drawable="my_home_inventory" />
+	<item component="ComponentInfo{io.moinmoin/com.megalol.app.Launcher}" drawable="moinmoin" />
+	<item component="ComponentInfo{com.google.android.apps.playconsole/com.google.android.apps.play.console.mobile.MainActivity}" drawable="play_console_new" />
+	<item component="ComponentInfo{com.adriaandejongh.hiddenfolks/com.unity3d.player.UnityPlayerActivity}" drawable="hidden_folks" />
 
 </resources>
