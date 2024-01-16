@@ -1,2 +1,2 @@
-- Added Digital Wellbeing, Gallery, lichess, Metro, myExcitel, Pixelfed, Plus, Showly OSS, Slack, SMS Messenger, X, Zomato
+- Added Digital Wellbeing, Gallery, lichess, Metro, myExcitel, Pixelfed, Plus, Showly OSS, Slack, SMS Messenger, X, Zomato, Administrador de archivos, Fennec File Manager, File Manager, Owlfiles, TeamViewer
 - Updated Mossos d'Esquadra

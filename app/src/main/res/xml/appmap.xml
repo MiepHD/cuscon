@@ -1458,5 +1458,10 @@
 	<item class="com.twitter.android.StartActivity" name="x_new"/>
 	<item class="com.application.zomato.activities.Splash" name="zomato"/>
 	<item class="cat.gencat.mobi.mossos.MainActivity" name="mossos_desquadra"/>
+	<item class="com.example.hazelfilemanager.ui.splash.SplashActivity" name="hazelfilemanager"/>
+	<item class="com.fenneky.fennecfilemanager.SplashActivity" name="fennec_file_manager"/>
+	<item class="filemanager.tools.coocent.net.filemanager.activity.LaunchActivity" name="coocent_file_manager"/>
+	<item class="com.skyjos.fileexplorer.ui.MainActivity" name="owlfiles"/>
+	<item class="com.teamviewer.remotecontrollib.activity.MainActivity" name="teamviewer"/>
 
 </appmap>

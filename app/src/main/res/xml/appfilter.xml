@@ -1478,5 +1478,10 @@
 	<item component="ComponentInfo{com.twitter.android/com.twitter.android.StartActivity}" drawable="x_new" />
 	<item component="ComponentInfo{com.application.zomato/com.application.zomato.activities.Splash}" drawable="zomato" />
 	<item component="ComponentInfo{cat.gencat.mobi.mossos/cat.gencat.mobi.mossos.MainActivity}" drawable="mossos_desquadra" />
+	<item component="ComponentInfo{filemanager.files.fileexplorer/com.example.hazelfilemanager.ui.splash.SplashActivity}" drawable="hazelfilemanager" />
+	<item component="ComponentInfo{com.fenneky.fennecfilemanager/com.fenneky.fennecfilemanager.SplashActivity}" drawable="fennec_file_manager" />
+	<item component="ComponentInfo{file.manager.classification.dir.tree.structure.ftp/filemanager.tools.coocent.net.filemanager.activity.LaunchActivity}" drawable="coocent_file_manager" />
+	<item component="ComponentInfo{com.skyjos.apps.fileexplorerfree/com.skyjos.fileexplorer.ui.MainActivity}" drawable="owlfiles" />
+	<item component="ComponentInfo{com.teamviewer.teamviewer.market.mobile/com.teamviewer.remotecontrollib.activity.MainActivity}" drawable="teamviewer" />
 
 </resources>

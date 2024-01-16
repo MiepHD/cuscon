@@ -1469,5 +1469,10 @@
 	<AppIcon name="com.twitter.android/com.twitter.android.StartActivity" image="x_new"/>
 	<AppIcon name="com.application.zomato/com.application.zomato.activities.Splash" image="zomato"/>
 	<AppIcon name="cat.gencat.mobi.mossos/cat.gencat.mobi.mossos.MainActivity" image="mossos_desquadra"/>
+	<AppIcon name="filemanager.files.fileexplorer/com.example.hazelfilemanager.ui.splash.SplashActivity" image="hazelfilemanager"/>
+	<AppIcon name="com.fenneky.fennecfilemanager/com.fenneky.fennecfilemanager.SplashActivity" image="fennec_file_manager"/>
+	<AppIcon name="file.manager.classification.dir.tree.structure.ftp/filemanager.tools.coocent.net.filemanager.activity.LaunchActivity" image="coocent_file_manager"/>
+	<AppIcon name="com.skyjos.apps.fileexplorerfree/com.skyjos.fileexplorer.ui.MainActivity" image="owlfiles"/>
+	<AppIcon name="com.teamviewer.teamviewer.market.mobile/com.teamviewer.remotecontrollib.activity.MainActivity" image="teamviewer"/>
 
 </Theme>

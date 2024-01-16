@@ -1387,5 +1387,10 @@
 	<item drawable="sms_messenger_orange" />
 	<item drawable="x_new" />
 	<item drawable="zomato" />
+	<item drawable="hazelfilemanager" />
+	<item drawable="fennec_file_manager" />
+	<item drawable="coocent_file_manager" />
+	<item drawable="owlfiles" />
+	<item drawable="teamviewer" />
 
 </resources>
