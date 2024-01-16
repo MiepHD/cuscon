@@ -1477,5 +1477,6 @@
 	<item component="ComponentInfo{com.simplemobiletools.smsmessenger/com.simplemobiletools.smsmessenger.activities.SplashActivity.Orange}" drawable="sms_messenger_orange" />
 	<item component="ComponentInfo{com.twitter.android/com.twitter.android.StartActivity}" drawable="x_new" />
 	<item component="ComponentInfo{com.application.zomato/com.application.zomato.activities.Splash}" drawable="zomato" />
+	<item component="ComponentInfo{cat.gencat.mobi.mossos/cat.gencat.mobi.mossos.MainActivity}" drawable="mossos_desquadra" />
 
 </resources>

@@ -1457,5 +1457,6 @@
 	<item class="com.simplemobiletools.smsmessenger.activities.SplashActivity.Orange" name="sms_messenger_orange"/>
 	<item class="com.twitter.android.StartActivity" name="x_new"/>
 	<item class="com.application.zomato.activities.Splash" name="zomato"/>
+	<item class="cat.gencat.mobi.mossos.MainActivity" name="mossos_desquadra"/>
 
 </appmap>

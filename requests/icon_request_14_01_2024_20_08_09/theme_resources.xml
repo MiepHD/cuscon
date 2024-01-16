@@ -1,0 +1,18 @@
+<Theme version="1">
+
+	<!-- Administrador de archivos -->
+	<AppIcon name="filemanager.files.fileexplorer/com.example.hazelfilemanager.ui.splash.SplashActivity" image="administrador_de_archivos"/>
+
+	<!-- Fennec File Manager -->
+	<AppIcon name="com.fenneky.fennecfilemanager/com.fenneky.fennecfilemanager.SplashActivity" image="fennec_file_manager"/>
+
+	<!-- File Manager -->
+	<AppIcon name="file.manager.classification.dir.tree.structure.ftp/filemanager.tools.coocent.net.filemanager.activity.LaunchActivity" image="file_manager"/>
+
+	<!-- Owlfiles -->
+	<AppIcon name="com.skyjos.apps.fileexplorerfree/com.skyjos.fileexplorer.ui.MainActivity" image="owlfiles"/>
+
+	<!-- TeamViewer -->
+	<AppIcon name="com.teamviewer.teamviewer.market.mobile/com.teamviewer.remotecontrollib.activity.MainActivity" image="teamviewer"/>
+
+</Theme>

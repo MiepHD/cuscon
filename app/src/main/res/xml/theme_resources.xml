@@ -1468,5 +1468,6 @@
 	<AppIcon name="com.simplemobiletools.smsmessenger/com.simplemobiletools.smsmessenger.activities.SplashActivity.Orange" image="sms_messenger_orange"/>
 	<AppIcon name="com.twitter.android/com.twitter.android.StartActivity" image="x_new"/>
 	<AppIcon name="com.application.zomato/com.application.zomato.activities.Splash" image="zomato"/>
+	<AppIcon name="cat.gencat.mobi.mossos/cat.gencat.mobi.mossos.MainActivity" image="mossos_desquadra"/>
 
 </Theme>
