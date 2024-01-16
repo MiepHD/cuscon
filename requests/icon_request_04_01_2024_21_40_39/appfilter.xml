@@ -1,6 +1,0 @@
-<resources>
-
-	<!-- Hidden Folks -->
-	<item component="ComponentInfo{com.adriaandejongh.hiddenfolks/com.unity3d.player.UnityPlayerActivity}" drawable="hidden_folks" />
-
-</resources>

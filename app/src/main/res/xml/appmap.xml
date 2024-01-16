@@ -1495,5 +1495,6 @@
 	<item class="com.tomkos.myinventory.Activity_Main" name="my_home_inventory"/>
 	<item class="com.megalol.app.Launcher" name="moinmoin"/>
 	<item class="com.google.android.apps.play.console.mobile.MainActivity" name="play_console_new"/>
+	<item class="com.unity3d.player.UnityPlayerActivity" name="hidden_folks"/>
 
 </appmap>
