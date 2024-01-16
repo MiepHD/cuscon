@@ -15,20 +15,11 @@
 	<!-- Antimo -->
 	<item component="ComponentInfo{com.sikebo.antimo.material.icons/com.sikebo.antimo.material.icons.activities.SplashActivity}" drawable="antimo" />
 
-	<!-- Audio Recorder -->
-	<item component="ComponentInfo{com.github.axet.audiorecorder/com.github.axet.audiorecorder.activities.MainActivity}" drawable="audio_recorder" />
-
 	<!-- Authenticator -->
 	<item component="ComponentInfo{com.blizzard.bma/com.blizzard.bma.ui.welcome.SplashActivity}" drawable="authenticator" />
 
-	<!-- Aves -->
-	<item component="ComponentInfo{deckers.thibault.aves/deckers.thibault.aves.MainActivity}" drawable="aves" />
-
 	<!-- Battle.net -->
 	<item component="ComponentInfo{com.blizzard.messenger/com.blizzard.messenger.ui.splash.SplashActivity}" drawable="battlenet" />
-
-	<!-- Binaural Beats -->
-	<item component="ComponentInfo{com.github.axet.binauralbeats/com.github.axet.binauralbeats.activities.MainActivity}" drawable="binaural_beats" />
 
 	<!-- BirdNET -->
 	<item component="ComponentInfo{de.tu_chemnitz.mi.kahst.birdnet/de.tu_chemnitz.mi.kahst.birdnet.Activity_SplashScreen}" drawable="birdnet" />
@@ -42,14 +33,8 @@
 	<!-- Cat phones -->
 	<item component="ComponentInfo{com.bullitt.support/com.bullitt.support.MainActivity}" drawable="cat_phones" />
 
-	<!-- Catima -->
-	<item component="ComponentInfo{me.hackerchick.catima/protect.card_locker.MainActivity}" drawable="catima" />
-
 	<!-- CCleaner -->
 	<item component="ComponentInfo{com.piriform.ccleaner/com.avast.android.cleaner.activity.StartActivity}" drawable="ccleaner" />
-
-	<!-- ChatGPT -->
-	<item component="ComponentInfo{com.openai.chatgpt/com.openai.chatgpt.MainActivity}" drawable="chatgpt" />
 
 	<!-- Clefs -->
 	<item component="ComponentInfo{com.crazyootka.clefs/com.crazyootka.clefs.MainActivity}" drawable="clefs" />
@@ -60,12 +45,6 @@
 	<!-- DataCamp -->
 	<item component="ComponentInfo{com.datacamp/com.datacamp.MainActivity}" drawable="datacamp" />
 
-	<!-- Dateien -->
-	<item component="ComponentInfo{com.google.android.documentsui/com.android.documentsui.LauncherActivity}" drawable="dateien" />
-
-	<!-- DAVx⁵ -->
-	<item component="ComponentInfo{at.bitfire.davdroid/at.bitfire.davdroid.ui.AccountsActivity}" drawable="davx⁵" />
-
 	<!-- Days Counter -->
 	<item component="ComponentInfo{com.starikov.datecalc/com.starikov.datecalc.MainActivity}" drawable="days_counter" />
 
@@ -74,12 +53,6 @@
 
 	<!-- DEGIRO -->
 	<item component="ComponentInfo{nl.degiro.trader/nl.degiro.trader.MainActivity}" drawable="degiro" />
-
-	<!-- Digital Wellbeing -->
-	<item component="ComponentInfo{com.google.android.apps.wellbeing/com.google.android.apps.wellbeing.settings.LauncherActivity}" drawable="digital_wellbeing" />
-
-	<!-- Discord -->
-	<item component="ComponentInfo{com.discord/com.discord.main.MainDefault}" drawable="discord" />
 
 	<!-- Dormi -->
 	<item component="ComponentInfo{com.sleekbit.dormi/com.sleekbit.dormi.ui.BmActivity}" drawable="dormi" />
@@ -99,9 +72,6 @@
 	<!-- E-Banking -->
 	<item component="ComponentInfo{ch.lukb.app/ch.lukb.app.activities.main.MainActivity}" drawable="e_banking" />
 
-	<!-- Element -->
-	<item component="ComponentInfo{im.vector.app/im.vector.application.features.Alias}" drawable="element" />
-
 	<!-- Everest -->
 	<item component="ComponentInfo{io.github.mwageringel.everest/io.github.mwageringel.everest.MainActivity}" drawable="everest" />
 
@@ -111,17 +81,11 @@
 	<!-- Explorers -->
 	<item component="ComponentInfo{com.abstrrkt.explorers/com.unity3d.player.UnityPlayerActivity}" drawable="explorers" />
 
-	<!-- FairEmail -->
-	<item component="ComponentInfo{eu.faircode.email/eu.faircode.email.ActivityMain}" drawable="fairemail" />
-
 	<!-- Feeder -->
 	<item component="ComponentInfo{com.nononsenseapps.feeder.play/com.nononsenseapps.feeder.ui.MainActivity}" drawable="feeder" />
 
 	<!-- FFShare -->
 	<item component="ComponentInfo{com.caydey.ffshare/com.caydey.ffshare.MainActivity}" drawable="ffshare" />
-
-	<!-- FlorisBoard -->
-	<item component="ComponentInfo{dev.patrickgold.florisboard/dev.patrickgold.florisboard.SettingsLauncherAlias}" drawable="florisboard" />
 
 	<!-- FolderSync -->
 	<item component="ComponentInfo{dk.tacit.android.foldersync.lite/dk.tacit.android.foldersync.activity.MainActivity}" drawable="foldersync" />
@@ -137,9 +101,6 @@
 
 	<!-- Joplin -->
 	<item component="ComponentInfo{net.cozic.joplin/net.cozic.joplin.MainActivity}" drawable="joplin" />
-
-	<!-- jtx Board -->
-	<item component="ComponentInfo{at.techbee.jtx/at.techbee.jtx.MainActivity2}" drawable="jtx_board" />
 
 	<!-- Kamera -->
 	<item component="ComponentInfo{com.cei.snapcam/com.android.camera.CameraLauncher}" drawable="kamera" />
@@ -183,9 +144,6 @@
 	<!-- Mini Piano Lite -->
 	<item component="ComponentInfo{umito.android.minipiano/umito.android.shared.minipiano.SplashScreenActivity}" drawable="mini_piano_lite" />
 
-	<!-- MJ PDF -->
-	<item component="ComponentInfo{com.gitlab.mudlej.MjPdfReader/com.gitlab.mudlej.MjPdfReader.LauncherAlias}" drawable="mj_pdf" />
-
 	<!-- Mobility Carsharing -->
 	<item component="ComponentInfo{ch.mobility.carsharing/ch.mobility.carsharing.ui.MainActivity}" drawable="mobility_carsharing" />
 
@@ -200,9 +158,6 @@
 
 	<!-- NeverTooManyBooks -->
 	<item component="ComponentInfo{com.hardbacknutter.nevertoomanybooks/com.hardbacknutter.nevertoomanybooks.StartupActivity}" drawable="nevertoomanybooks" />
-
-	<!-- Nextcloud -->
-	<item component="ComponentInfo{com.nextcloud.client/com.nmc.android.ui.LauncherActivity}" drawable="nextcloud" />
 
 	<!-- Nextcloud Cookbook -->
 	<item component="ComponentInfo{com.nextcloud_cookbook_flutter/com.nextcloud_cookbook_flutter.MainActivity}" drawable="nextcloud_cookbook" />
@@ -243,9 +198,6 @@
 	<!-- Play SRF -->
 	<item component="ComponentInfo{ch.srf.mobile.srfplayer/ch.srg.srgplayer.view.MainActivity}" drawable="play_srf" />
 
-	<!-- Pleco -->
-	<item component="ComponentInfo{com.pleco.chinesesystem/com.pleco.chinesesystem.PlecoDroidMainActivity}" drawable="pleco" />
-
 	<!-- Plees Tracker -->
 	<item component="ComponentInfo{hu.vmiklos.plees_tracker/hu.vmiklos.plees_tracker.MainActivity}" drawable="plees_tracker" />
 
@@ -285,9 +237,6 @@
 	<!-- Republik -->
 	<item component="ComponentInfo{app.republik/app.republik.MainActivity}" drawable="republik" />
 
-	<!-- Revolut -->
-	<item component="ComponentInfo{com.revolut.revolut/com.revolut.ui.login.pin.LoginActivity}" drawable="revolut" />
-
 	<!-- Saisonale Früchte und Gemüse -->
 	<item component="ComponentInfo{ch.zh.rh.seasonalfruitsandvegetables/ch.zh.rh.seasonalfruitsandvegetables.MainActivity}" drawable="saisonale_fruchte_und_gemuse" />
 
@@ -302,9 +251,6 @@
 
 	<!-- ScreenCam -->
 	<item component="ComponentInfo{com.orpheusdroid.screenrecorder/com.orpheusdroid.screenrecorder.ui.MainActivity}" drawable="screencam" />
-
-	<!-- SMS-Messenger -->
-	<item component="ComponentInfo{com.simplemobiletools.smsmessenger/com.simplemobiletools.smsmessenger.activities.SplashActivity.Orange}" drawable="sms_messenger" />
 
 	<!-- SoundCloud -->
 	<item component="ComponentInfo{com.soundcloud.android/com.soundcloud.android.launcher.LauncherActivity}" drawable="soundcloud" />
@@ -335,12 +281,6 @@
 
 	<!-- Tapet -->
 	<item component="ComponentInfo{com.sharpregion.tapet/com.sharpregion.tapet.root.RootActivity}" drawable="tapet" />
-
-	<!-- Tasks -->
-	<item component="ComponentInfo{org.tasks/com.todoroo.astrid.activity.TaskListActivity}" drawable="tasks" />
-
-	<!-- Telegram -->
-	<item component="ComponentInfo{org.telegram.messenger/org.telegram.messenger.AquaIcon}" drawable="telegram" />
 
 	<!-- Tonkeeper -->
 	<item component="ComponentInfo{com.ton_keeper/com.ton_keeper.MainActivity}" drawable="tonkeeper" />

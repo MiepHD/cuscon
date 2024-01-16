@@ -15,20 +15,11 @@
 	<!-- Antimo -->
 	<AppIcon name="com.sikebo.antimo.material.icons/com.sikebo.antimo.material.icons.activities.SplashActivity" image="antimo"/>
 
-	<!-- Audio Recorder -->
-	<AppIcon name="com.github.axet.audiorecorder/com.github.axet.audiorecorder.activities.MainActivity" image="audio_recorder"/>
-
 	<!-- Authenticator -->
 	<AppIcon name="com.blizzard.bma/com.blizzard.bma.ui.welcome.SplashActivity" image="authenticator"/>
 
-	<!-- Aves -->
-	<AppIcon name="deckers.thibault.aves/deckers.thibault.aves.MainActivity" image="aves"/>
-
 	<!-- Battle.net -->
 	<AppIcon name="com.blizzard.messenger/com.blizzard.messenger.ui.splash.SplashActivity" image="battlenet"/>
-
-	<!-- Binaural Beats -->
-	<AppIcon name="com.github.axet.binauralbeats/com.github.axet.binauralbeats.activities.MainActivity" image="binaural_beats"/>
 
 	<!-- BirdNET -->
 	<AppIcon name="de.tu_chemnitz.mi.kahst.birdnet/de.tu_chemnitz.mi.kahst.birdnet.Activity_SplashScreen" image="birdnet"/>
@@ -42,14 +33,8 @@
 	<!-- Cat phones -->
 	<AppIcon name="com.bullitt.support/com.bullitt.support.MainActivity" image="cat_phones"/>
 
-	<!-- Catima -->
-	<AppIcon name="me.hackerchick.catima/protect.card_locker.MainActivity" image="catima"/>
-
 	<!-- CCleaner -->
 	<AppIcon name="com.piriform.ccleaner/com.avast.android.cleaner.activity.StartActivity" image="ccleaner"/>
-
-	<!-- ChatGPT -->
-	<AppIcon name="com.openai.chatgpt/com.openai.chatgpt.MainActivity" image="chatgpt"/>
 
 	<!-- Clefs -->
 	<AppIcon name="com.crazyootka.clefs/com.crazyootka.clefs.MainActivity" image="clefs"/>
@@ -60,12 +45,6 @@
 	<!-- DataCamp -->
 	<AppIcon name="com.datacamp/com.datacamp.MainActivity" image="datacamp"/>
 
-	<!-- Dateien -->
-	<AppIcon name="com.google.android.documentsui/com.android.documentsui.LauncherActivity" image="dateien"/>
-
-	<!-- DAVx⁵ -->
-	<AppIcon name="at.bitfire.davdroid/at.bitfire.davdroid.ui.AccountsActivity" image="davx⁵"/>
-
 	<!-- Days Counter -->
 	<AppIcon name="com.starikov.datecalc/com.starikov.datecalc.MainActivity" image="days_counter"/>
 
@@ -74,12 +53,6 @@
 
 	<!-- DEGIRO -->
 	<AppIcon name="nl.degiro.trader/nl.degiro.trader.MainActivity" image="degiro"/>
-
-	<!-- Digital Wellbeing -->
-	<AppIcon name="com.google.android.apps.wellbeing/com.google.android.apps.wellbeing.settings.LauncherActivity" image="digital_wellbeing"/>
-
-	<!-- Discord -->
-	<AppIcon name="com.discord/com.discord.main.MainDefault" image="discord"/>
 
 	<!-- Dormi -->
 	<AppIcon name="com.sleekbit.dormi/com.sleekbit.dormi.ui.BmActivity" image="dormi"/>
@@ -99,9 +72,6 @@
 	<!-- E-Banking -->
 	<AppIcon name="ch.lukb.app/ch.lukb.app.activities.main.MainActivity" image="e_banking"/>
 
-	<!-- Element -->
-	<AppIcon name="im.vector.app/im.vector.application.features.Alias" image="element"/>
-
 	<!-- Everest -->
 	<AppIcon name="io.github.mwageringel.everest/io.github.mwageringel.everest.MainActivity" image="everest"/>
 
@@ -111,17 +81,11 @@
 	<!-- Explorers -->
 	<AppIcon name="com.abstrrkt.explorers/com.unity3d.player.UnityPlayerActivity" image="explorers"/>
 
-	<!-- FairEmail -->
-	<AppIcon name="eu.faircode.email/eu.faircode.email.ActivityMain" image="fairemail"/>
-
 	<!-- Feeder -->
 	<AppIcon name="com.nononsenseapps.feeder.play/com.nononsenseapps.feeder.ui.MainActivity" image="feeder"/>
 
 	<!-- FFShare -->
 	<AppIcon name="com.caydey.ffshare/com.caydey.ffshare.MainActivity" image="ffshare"/>
-
-	<!-- FlorisBoard -->
-	<AppIcon name="dev.patrickgold.florisboard/dev.patrickgold.florisboard.SettingsLauncherAlias" image="florisboard"/>
 
 	<!-- FolderSync -->
 	<AppIcon name="dk.tacit.android.foldersync.lite/dk.tacit.android.foldersync.activity.MainActivity" image="foldersync"/>
@@ -137,9 +101,6 @@
 
 	<!-- Joplin -->
 	<AppIcon name="net.cozic.joplin/net.cozic.joplin.MainActivity" image="joplin"/>
-
-	<!-- jtx Board -->
-	<AppIcon name="at.techbee.jtx/at.techbee.jtx.MainActivity2" image="jtx_board"/>
 
 	<!-- Kamera -->
 	<AppIcon name="com.cei.snapcam/com.android.camera.CameraLauncher" image="kamera"/>
@@ -183,9 +144,6 @@
 	<!-- Mini Piano Lite -->
 	<AppIcon name="umito.android.minipiano/umito.android.shared.minipiano.SplashScreenActivity" image="mini_piano_lite"/>
 
-	<!-- MJ PDF -->
-	<AppIcon name="com.gitlab.mudlej.MjPdfReader/com.gitlab.mudlej.MjPdfReader.LauncherAlias" image="mj_pdf"/>
-
 	<!-- Mobility Carsharing -->
 	<AppIcon name="ch.mobility.carsharing/ch.mobility.carsharing.ui.MainActivity" image="mobility_carsharing"/>
 
@@ -200,9 +158,6 @@
 
 	<!-- NeverTooManyBooks -->
 	<AppIcon name="com.hardbacknutter.nevertoomanybooks/com.hardbacknutter.nevertoomanybooks.StartupActivity" image="nevertoomanybooks"/>
-
-	<!-- Nextcloud -->
-	<AppIcon name="com.nextcloud.client/com.nmc.android.ui.LauncherActivity" image="nextcloud"/>
 
 	<!-- Nextcloud Cookbook -->
 	<AppIcon name="com.nextcloud_cookbook_flutter/com.nextcloud_cookbook_flutter.MainActivity" image="nextcloud_cookbook"/>
@@ -243,9 +198,6 @@
 	<!-- Play SRF -->
 	<AppIcon name="ch.srf.mobile.srfplayer/ch.srg.srgplayer.view.MainActivity" image="play_srf"/>
 
-	<!-- Pleco -->
-	<AppIcon name="com.pleco.chinesesystem/com.pleco.chinesesystem.PlecoDroidMainActivity" image="pleco"/>
-
 	<!-- Plees Tracker -->
 	<AppIcon name="hu.vmiklos.plees_tracker/hu.vmiklos.plees_tracker.MainActivity" image="plees_tracker"/>
 
@@ -285,9 +237,6 @@
 	<!-- Republik -->
 	<AppIcon name="app.republik/app.republik.MainActivity" image="republik"/>
 
-	<!-- Revolut -->
-	<AppIcon name="com.revolut.revolut/com.revolut.ui.login.pin.LoginActivity" image="revolut"/>
-
 	<!-- Saisonale Früchte und Gemüse -->
 	<AppIcon name="ch.zh.rh.seasonalfruitsandvegetables/ch.zh.rh.seasonalfruitsandvegetables.MainActivity" image="saisonale_fruchte_und_gemuse"/>
 
@@ -302,9 +251,6 @@
 
 	<!-- ScreenCam -->
 	<AppIcon name="com.orpheusdroid.screenrecorder/com.orpheusdroid.screenrecorder.ui.MainActivity" image="screencam"/>
-
-	<!-- SMS-Messenger -->
-	<AppIcon name="com.simplemobiletools.smsmessenger/com.simplemobiletools.smsmessenger.activities.SplashActivity.Orange" image="sms_messenger"/>
 
 	<!-- SoundCloud -->
 	<AppIcon name="com.soundcloud.android/com.soundcloud.android.launcher.LauncherActivity" image="soundcloud"/>
@@ -335,12 +281,6 @@
 
 	<!-- Tapet -->
 	<AppIcon name="com.sharpregion.tapet/com.sharpregion.tapet.root.RootActivity" image="tapet"/>
-
-	<!-- Tasks -->
-	<AppIcon name="org.tasks/com.todoroo.astrid.activity.TaskListActivity" image="tasks"/>
-
-	<!-- Telegram -->
-	<AppIcon name="org.telegram.messenger/org.telegram.messenger.AquaIcon" image="telegram"/>
 
 	<!-- Tonkeeper -->
 	<AppIcon name="com.ton_keeper/com.ton_keeper.MainActivity" image="tonkeeper"/>

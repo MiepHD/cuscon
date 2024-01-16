@@ -15,20 +15,11 @@
 	<!-- Antimo -->
 	<item class="com.sikebo.antimo.material.icons.activities.SplashActivity" name="antimo"/>
 
-	<!-- Audio Recorder -->
-	<item class="com.github.axet.audiorecorder.activities.MainActivity" name="audio_recorder"/>
-
 	<!-- Authenticator -->
 	<item class="com.blizzard.bma.ui.welcome.SplashActivity" name="authenticator"/>
 
-	<!-- Aves -->
-	<item class="deckers.thibault.aves.MainActivity" name="aves"/>
-
 	<!-- Battle.net -->
 	<item class="com.blizzard.messenger.ui.splash.SplashActivity" name="battlenet"/>
-
-	<!-- Binaural Beats -->
-	<item class="com.github.axet.binauralbeats.activities.MainActivity" name="binaural_beats"/>
 
 	<!-- BirdNET -->
 	<item class="de.tu_chemnitz.mi.kahst.birdnet.Activity_SplashScreen" name="birdnet"/>
@@ -42,14 +33,8 @@
 	<!-- Cat phones -->
 	<item class="com.bullitt.support.MainActivity" name="cat_phones"/>
 
-	<!-- Catima -->
-	<item class="protect.card_locker.MainActivity" name="catima"/>
-
 	<!-- CCleaner -->
 	<item class="com.avast.android.cleaner.activity.StartActivity" name="ccleaner"/>
-
-	<!-- ChatGPT -->
-	<item class="com.openai.chatgpt.MainActivity" name="chatgpt"/>
 
 	<!-- Clefs -->
 	<item class="com.crazyootka.clefs.MainActivity" name="clefs"/>
@@ -60,12 +45,6 @@
 	<!-- DataCamp -->
 	<item class="com.datacamp.MainActivity" name="datacamp"/>
 
-	<!-- Dateien -->
-	<item class="com.android.documentsui.LauncherActivity" name="dateien"/>
-
-	<!-- DAVx⁵ -->
-	<item class="at.bitfire.davdroid.ui.AccountsActivity" name="davx⁵"/>
-
 	<!-- Days Counter -->
 	<item class="com.starikov.datecalc.MainActivity" name="days_counter"/>
 
@@ -74,12 +53,6 @@
 
 	<!-- DEGIRO -->
 	<item class="nl.degiro.trader.MainActivity" name="degiro"/>
-
-	<!-- Digital Wellbeing -->
-	<item class="com.google.android.apps.wellbeing.settings.LauncherActivity" name="digital_wellbeing"/>
-
-	<!-- Discord -->
-	<item class="com.discord.main.MainDefault" name="discord"/>
 
 	<!-- Dormi -->
 	<item class="com.sleekbit.dormi.ui.BmActivity" name="dormi"/>
@@ -99,9 +72,6 @@
 	<!-- E-Banking -->
 	<item class="ch.lukb.app.activities.main.MainActivity" name="e_banking"/>
 
-	<!-- Element -->
-	<item class="im.vector.application.features.Alias" name="element"/>
-
 	<!-- Everest -->
 	<item class="io.github.mwageringel.everest.MainActivity" name="everest"/>
 
@@ -111,17 +81,11 @@
 	<!-- Explorers -->
 	<item class="com.unity3d.player.UnityPlayerActivity" name="explorers"/>
 
-	<!-- FairEmail -->
-	<item class="eu.faircode.email.ActivityMain" name="fairemail"/>
-
 	<!-- Feeder -->
 	<item class="com.nononsenseapps.feeder.ui.MainActivity" name="feeder"/>
 
 	<!-- FFShare -->
 	<item class="com.caydey.ffshare.MainActivity" name="ffshare"/>
-
-	<!-- FlorisBoard -->
-	<item class="dev.patrickgold.florisboard.SettingsLauncherAlias" name="florisboard"/>
 
 	<!-- FolderSync -->
 	<item class="dk.tacit.android.foldersync.activity.MainActivity" name="foldersync"/>
@@ -137,9 +101,6 @@
 
 	<!-- Joplin -->
 	<item class="net.cozic.joplin.MainActivity" name="joplin"/>
-
-	<!-- jtx Board -->
-	<item class="at.techbee.jtx.MainActivity2" name="jtx_board"/>
 
 	<!-- Kamera -->
 	<item class="com.android.camera.CameraLauncher" name="kamera"/>
@@ -183,9 +144,6 @@
 	<!-- Mini Piano Lite -->
 	<item class="umito.android.shared.minipiano.SplashScreenActivity" name="mini_piano_lite"/>
 
-	<!-- MJ PDF -->
-	<item class="com.gitlab.mudlej.MjPdfReader.LauncherAlias" name="mj_pdf"/>
-
 	<!-- Mobility Carsharing -->
 	<item class="ch.mobility.carsharing.ui.MainActivity" name="mobility_carsharing"/>
 
@@ -200,9 +158,6 @@
 
 	<!-- NeverTooManyBooks -->
 	<item class="com.hardbacknutter.nevertoomanybooks.StartupActivity" name="nevertoomanybooks"/>
-
-	<!-- Nextcloud -->
-	<item class="com.nmc.android.ui.LauncherActivity" name="nextcloud"/>
 
 	<!-- Nextcloud Cookbook -->
 	<item class="com.nextcloud_cookbook_flutter.MainActivity" name="nextcloud_cookbook"/>
@@ -243,9 +198,6 @@
 	<!-- Play SRF -->
 	<item class="ch.srg.srgplayer.view.MainActivity" name="play_srf"/>
 
-	<!-- Pleco -->
-	<item class="com.pleco.chinesesystem.PlecoDroidMainActivity" name="pleco"/>
-
 	<!-- Plees Tracker -->
 	<item class="hu.vmiklos.plees_tracker.MainActivity" name="plees_tracker"/>
 
@@ -285,9 +237,6 @@
 	<!-- Republik -->
 	<item class="app.republik.MainActivity" name="republik"/>
 
-	<!-- Revolut -->
-	<item class="com.revolut.ui.login.pin.LoginActivity" name="revolut"/>
-
 	<!-- Saisonale Früchte und Gemüse -->
 	<item class="ch.zh.rh.seasonalfruitsandvegetables.MainActivity" name="saisonale_fruchte_und_gemuse"/>
 
@@ -302,9 +251,6 @@
 
 	<!-- ScreenCam -->
 	<item class="com.orpheusdroid.screenrecorder.ui.MainActivity" name="screencam"/>
-
-	<!-- SMS-Messenger -->
-	<item class="com.simplemobiletools.smsmessenger.activities.SplashActivity.Orange" name="sms_messenger"/>
 
 	<!-- SoundCloud -->
 	<item class="com.soundcloud.android.launcher.LauncherActivity" name="soundcloud"/>
@@ -335,12 +281,6 @@
 
 	<!-- Tapet -->
 	<item class="com.sharpregion.tapet.root.RootActivity" name="tapet"/>
-
-	<!-- Tasks -->
-	<item class="com.todoroo.astrid.activity.TaskListActivity" name="tasks"/>
-
-	<!-- Telegram -->
-	<item class="org.telegram.messenger.AquaIcon" name="telegram"/>
 
 	<!-- Tonkeeper -->
 	<item class="com.ton_keeper.MainActivity" name="tonkeeper"/>

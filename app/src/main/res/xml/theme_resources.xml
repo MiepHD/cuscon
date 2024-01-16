@@ -1507,5 +1507,6 @@
 	<AppIcon name="io.moinmoin/com.megalol.app.Launcher" image="moinmoin"/>
 	<AppIcon name="com.google.android.apps.playconsole/com.google.android.apps.play.console.mobile.MainActivity" image="play_console_new"/>
 	<AppIcon name="com.adriaandejongh.hiddenfolks/com.unity3d.player.UnityPlayerActivity" image="hidden_folks"/>
+	<AppIcon name="deckers.thibault.aves/deckers.thibault.aves.MainActivity" image="aves_libre"/>
 
 </Theme>
