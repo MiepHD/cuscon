@@ -1514,6 +1514,6 @@
 	<item component="ComponentInfo{net.twisterrob.inventory/net.twisterrob.inventory.android.activity.MainActivity}" drawable="inventory" />
 	<item component="ComponentInfo{com.tomkos.myinventory/com.tomkos.myinventory.Activity_Main}" drawable="my_home_inventory" />
 	<item component="ComponentInfo{io.moinmoin/com.megalol.app.Launcher}" drawable="moinmoin" />
-	<item component="ComponentInfo{com.google.android.apps.playconsole/com.google.android.apps.play.console.mobile.MainActivity}" drawable="play_console" />
+	<item component="ComponentInfo{com.google.android.apps.playconsole/com.google.android.apps.play.console.mobile.MainActivity}" drawable="play_console_new" />
 
 </resources>

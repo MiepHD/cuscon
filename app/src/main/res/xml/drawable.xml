@@ -1423,6 +1423,6 @@
 	<item drawable="inventory" />
 	<item drawable="my_home_inventory" />
 	<item drawable="moinmoin" />
-	<item drawable="play_console" />
+	<item drawable="play_console_new" />
 
 </resources>
