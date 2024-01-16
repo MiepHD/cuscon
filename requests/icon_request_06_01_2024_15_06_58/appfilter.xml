@@ -1,0 +1,6 @@
+<resources>
+
+	<!-- Anima -->
+	<item component="ComponentInfo{anima.virtual.ai.robot.friend/anima.virtual.ai.robot.friend.MainActivitybubbles}" drawable="anima" />
+
+</resources>

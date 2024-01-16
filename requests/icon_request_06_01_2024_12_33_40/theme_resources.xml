@@ -1,0 +1,210 @@
+<Theme version="1">
+
+	<!-- aCalendar+ -->
+	<AppIcon name="org.withouthat.acalendarplus/org.withouthat.acalendar.ACalendar" image="acalendar_"/>
+
+	<!-- aCalTasks+ -->
+	<AppIcon name="org.withouthat.acalendarplus/org.withouthat.acalendar.tasks.TasksActivity" image="acaltasks_"/>
+
+	<!-- Alovoa -->
+	<AppIcon name="com.alovoa.expo/com.alovoa.expo.MainActivity" image="alovoa"/>
+
+	<!-- AppGallery -->
+	<AppIcon name="com.huawei.appmarket/com.huawei.appmarket.MainActivity" image="appgallery"/>
+
+	<!-- ARD Quiz -->
+	<AppIcon name="de.ppa.ard.quiz.app/de.appsfactory.quizplattform.ui.activities.SplashActivity" image="ard_quiz"/>
+
+	<!-- aTimeLogger -->
+	<AppIcon name="com.aloggers.atimeloggerapp/com.aloggers.atimeloggerapp.ui.MainActivity" image="atimelogger"/>
+
+	<!-- Avast Mobile Security -->
+	<AppIcon name="com.avast.android.mobilesecurity/com.avast.android.one.base.ui.main.MainActivity" image="avast_mobile_security"/>
+
+	<!-- BoxToGo Pro -->
+	<AppIcon name="de.almisoft.boxtogofull/de.almisoft.boxtogo.main.Main" image="boxtogo_pro"/>
+
+	<!-- Cloud -->
+	<AppIcon name="com.huawei.hidisk/com.huawei.android.hicloud.ui.activity.NewHiSyncSettingAliasActivity" image="cloud"/>
+
+	<!-- Control-Center -->
+	<AppIcon name="com.oneandone.controlcenter/com.oneandone.controlcenter.ControlCenter" image="control_center"/>
+
+	<!-- Dateien -->
+	<AppIcon name="com.huawei.filemanager/com.huawei.hidisk.filemanager.FileManager" image="dateien"/>
+
+	<!-- DB Navigator -->
+	<AppIcon name="de.hafas.android.db.huawei/db.vendo.android.vendigator.view.main.MainActivity" image="db_navigator"/>
+
+	<!-- Designs -->
+	<AppIcon name="com.huawei.android.thememanager/com.huawei.android.thememanager.mvp.view.activity.onlinebase.PageActivity" image="designs"/>
+
+	<!-- Document Reader Pro -->
+	<AppIcon name="com.techpulsestudio.documentReader.Pdfreader/com.documentreader.docxreader.ui.activities.onboarding.SplashScreenActivity" image="document_reader_pro"/>
+
+	<!-- E-Mail -->
+	<AppIcon name="com.android.email/com.android.email.activity.Welcome" image="e_mail"/>
+
+	<!-- Ein​stellungen -->
+	<AppIcon name="com.android.settings/com.android.settings.HWSettings" image="ein​stellungen"/>
+
+	<!-- eshopCollection -->
+	<AppIcon name="com.evillf.eshopcollection/com.evillf.view.ui.main.MainActivity" image="eshopcollection"/>
+
+	<!-- Finanzguru -->
+	<AppIcon name="de.dwins.financeguru/de.dwins.financeguru.SplashActivity" image="finanzguru"/>
+
+	<!-- FOSS Warn -->
+	<AppIcon name="de.nucleus.foss_warn/de.nucleus.foss_warn.MainActivity" image="foss_warn"/>
+
+	<!-- FREE Browser -->
+	<AppIcon name="org.woheller69.browser/de.baumann.browser.activity.BrowserActivity" image="free_browser"/>
+
+	<!-- Galerie -->
+	<AppIcon name="com.android.gallery3d/com.huawei.gallery.app.GalleryMain" image="galerie"/>
+
+	<!-- HEB Hagen -->
+	<AppIcon name="de.k4systems.hebhagen/de.k4systems.hebhagen.activity.APLaunchActivity" image="heb_hagen"/>
+
+	<!-- HUAWEI Music -->
+	<AppIcon name="com.android.mediacenter/com.android.mediacenter.PageActivity" image="huawei_music"/>
+
+	<!-- HUAWEI Video -->
+	<AppIcon name="com.huawei.himovie.overseas/com.huawei.himovie.ui.login.SplashScreenActivity" image="huawei_video"/>
+
+	<!-- Intercept X -->
+	<AppIcon name="com.sophos.smsec/com.sophos.smsec.ui.DroidGuardMainActivity" image="intercept_x"/>
+
+	<!-- jameda -->
+	<AppIcon name="de.jameda/com.app.MainActivity" image="jameda"/>
+
+	<!-- Kalender -->
+	<AppIcon name="com.android.calendar/com.android.calendar.AllInOneActivity" image="kalender"/>
+
+	<!-- Kamera -->
+	<AppIcon name="com.huawei.camera/com.huawei.camera" image="kamera"/>
+
+	<!-- kaufDA -->
+	<AppIcon name="com.bonial.kaufda/com.bonial.kaufda.SplashActivity" image="kaufda"/>
+
+	<!-- Kleinanzeigen -->
+	<AppIcon name="com.ebay.kleinanzeigen/ebk.ui.splash.SplashActivity" image="kleinanzeigen"/>
+
+	<!-- Launcher-Einstellungen -->
+	<AppIcon name="com.ss.squarehome2/com.ss.squarehome2.MyPreferencesActivity" image="launcher_einstellungen"/>
+
+	<!-- Lieferungen -->
+	<AppIcon name="de.orrs.deliveries/de.orrs.deliveries.LaunchActivity" image="lieferungen"/>
+
+	<!-- LIVE TV Pro -->
+	<AppIcon name="live.tv.app.pro/live.tv.app.pro.activities.MainActivity" image="live_tv_pro"/>
+
+	<!-- Magic Earth -->
+	<AppIcon name="com.generalmagic.magicearth/com.magiclane.androidsphere.map.MapActivity" image="magic_earth"/>
+
+	<!-- MARIO RUN -->
+	<AppIcon name="com.nintendo.zara/com.snslinkage.dena.snslinkageunityplugin.SnsLinkageSafeUnityPlayerNativeActivity" image="mario_run"/>
+
+	<!-- medizinfuchs - Preisvergleich -->
+	<AppIcon name="com.medizinfuchs/com.medizinfuchs.MainActivity" image="medizinfuchs_preisvergleich"/>
+
+	<!-- Memo -->
+	<AppIcon name="com.example.android.notepad/com.example.android.notepad.NotePadActivity" image="memo"/>
+
+	<!-- My HUAWEI -->
+	<AppIcon name="com.huawei.phoneservice/com.huawei.myhuawei.ui.HwSplashActivity" image="my_huawei"/>
+
+	<!-- mydealz -->
+	<AppIcon name="com.tippingcanoe.mydealz/com.pepper.apps.android.presentation.MainActivityDarkIcon" image="mydealz"/>
+
+	<!-- MyFRITZ! -->
+	<AppIcon name="de.avm.android.myfritz2/de.avm.android.one.activities.StartActivity" image="myfritz_"/>
+
+	<!-- Nintendo Switch Online -->
+	<AppIcon name="com.nintendo.znca/com.nintendo.coral.ui.boot.BootActivity" image="nintendo_switch_online"/>
+
+	<!-- Optimizer -->
+	<AppIcon name="com.huawei.systemmanager/com.huawei.systemmanager.mainscreen.MainScreenActivity" image="optimizer"/>
+
+	<!-- PipePipe -->
+	<AppIcon name="InfinityLoop1309.NewPipeEnhanced/org.schabi.newpipe.MainActivity" image="pipepipe"/>
+
+	<!-- PM PRO -->
+	<AppIcon name="com.codingtrickshub.passwordsmanager/com.codingtrickshub.passwordsmanager.MainActivity" image="pm_pro"/>
+
+	<!-- Poe -->
+	<AppIcon name="com.poe.android/com.poe.MainActivity" image="poe"/>
+
+	<!-- Post & DHL -->
+	<AppIcon name="de.dhl.paket/de.its_berlin.dhlpaket.base.main.MainActivity" image="post_and_dhl"/>
+
+	<!-- Prokedex -->
+	<AppIcon name="com.locuthor.prodex/com.locuthor.prodex.SplashActivity" image="prokedex"/>
+
+	<!-- QR & Barcode Scanner -->
+	<AppIcon name="com.gamma.scan/com.gamma.scan.SplashActivity" image="qr_and_barcode_scanner"/>
+
+	<!-- Rain -->
+	<AppIcon name="com.yoshi.rain/com.yoshi.rain.MainActivity" image="rain"/>
+
+	<!-- Rechner -->
+	<AppIcon name="com.huawei.calculator/com.huawei.calculator.Calculator" image="rechner"/>
+
+	<!-- Resume Builder -->
+	<AppIcon name="com.tapuniverse.resumebuilder/com.tapuniverse.resumebuilder.MainActivity" image="resume_builder"/>
+
+	<!-- Screenshot Pro -->
+	<AppIcon name="jp.snowlife01.android.screenshot/jp.snowlife01.android.screenshot.MainActivityNew" image="screenshot_pro"/>
+
+	<!-- SD Maid SE -->
+	<AppIcon name="eu.darken.sdmse/eu.darken.sdmse.main.ui.MainActivity" image="sd_maid_se"/>
+
+	<!-- Shop Apotheke -->
+	<AppIcon name="shop.shop_apotheke.com.shopapotheke/com.shopapotheke.activities.splash.AliasSplashActivityDE" image="shop_apotheke"/>
+
+	<!-- SIM-Toolkit -->
+	<AppIcon name="com.android.stk/com.android.stk.StkLauncherActivity2" image="sim_toolkit"/>
+
+	<!-- Sofascore -->
+	<AppIcon name="com.sofascore.results/com.sofascore.results.main.start.StartActivity" image="sofascore"/>
+
+	<!-- Softwareaktualisierung -->
+	<AppIcon name="com.huawei.android.hwouc/com.huawei.android.hwouc.ui.activities.MainEntranceActivity" image="softwareaktualisierung"/>
+
+	<!-- Sparkasse -->
+	<AppIcon name="com.starfinanz.smob.android.sfinanzstatus/com.starfinanz.smob.android.sfinanzstatus.LauncherActivity" image="sparkasse"/>
+
+	<!-- Square Home -->
+	<AppIcon name="com.ss.squarehome2/com.ss.squarehome2.MainActivity" image="square_home"/>
+
+	<!-- Table Notes -->
+	<AppIcon name="vivekagarwal.playwithdb/vivekagarwal.playwithdb.MainActivity" image="table_notes"/>
+
+	<!-- TARGOBANK -->
+	<AppIcon name="com.targo_prod.bad/com.e_i.bad.controls.activities.StartActivity" image="targobank"/>
+
+	<!-- Taschenlampe -->
+	<AppIcon name="com.huawei.HwMultiScreenShot/com.android.systemui.flashlight.FlashlightActivity" image="taschenlampe"/>
+
+	<!-- TAXI -->
+	<AppIcon name="net.gefos.deintaxideutschland/activity.MainActivity" image="taxi"/>
+
+	<!-- Telefon -->
+	<AppIcon name="com.android.contacts/com.android.contacts.activities.DialtactsActivity" image="telefon"/>
+
+	<!-- Twilight -->
+	<AppIcon name="com.urbandroid.lux/com.urbandroid.lux.MainActivity" image="twilight"/>
+
+	<!-- Uhr -->
+	<AppIcon name="com.android.deskclock/com.android.deskclock.AlarmsMainActivity" image="uhr"/>
+
+	<!-- WPS Office -->
+	<AppIcon name="cn.wps.moffice_i18n/cn.wps.moffice.documentmanager.PreStartActivity" image="wps_office"/>
+
+	<!-- Xtra -->
+	<AppIcon name="com.github.andreyasadchy.xtra/com.github.andreyasadchy.xtra.ui.main.MainActivity" image="xtra"/>
+
+	<!-- Zedge -->
+	<AppIcon name="net.zedge.android/net.zedge.android.MainNewyear" image="zedge"/>
+
+</Theme>

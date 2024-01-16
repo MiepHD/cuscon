@@ -1,0 +1,9 @@
+<resources>
+
+	<!-- Battlegrounds India -->
+	<item component="ComponentInfo{com.pubg.imobile/com.epicgames.ue4.SplashActivity}" drawable="battlegrounds_india" />
+
+	<!-- Resso -->
+	<item component="ComponentInfo{com.moonvideo.android.resso/com.anote.android.bach.app.SplashActivity}" drawable="resso" />
+
+</resources>

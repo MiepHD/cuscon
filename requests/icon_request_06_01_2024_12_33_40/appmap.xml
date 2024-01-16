@@ -1,0 +1,210 @@
+<appmap>
+
+	<!-- aCalendar+ -->
+	<item class="org.withouthat.acalendar.ACalendar" name="acalendar_"/>
+
+	<!-- aCalTasks+ -->
+	<item class="org.withouthat.acalendar.tasks.TasksActivity" name="acaltasks_"/>
+
+	<!-- Alovoa -->
+	<item class="com.alovoa.expo.MainActivity" name="alovoa"/>
+
+	<!-- AppGallery -->
+	<item class="com.huawei.appmarket.MainActivity" name="appgallery"/>
+
+	<!-- ARD Quiz -->
+	<item class="de.appsfactory.quizplattform.ui.activities.SplashActivity" name="ard_quiz"/>
+
+	<!-- aTimeLogger -->
+	<item class="com.aloggers.atimeloggerapp.ui.MainActivity" name="atimelogger"/>
+
+	<!-- Avast Mobile Security -->
+	<item class="com.avast.android.one.base.ui.main.MainActivity" name="avast_mobile_security"/>
+
+	<!-- BoxToGo Pro -->
+	<item class="de.almisoft.boxtogo.main.Main" name="boxtogo_pro"/>
+
+	<!-- Cloud -->
+	<item class="com.huawei.android.hicloud.ui.activity.NewHiSyncSettingAliasActivity" name="cloud"/>
+
+	<!-- Control-Center -->
+	<item class="com.oneandone.controlcenter.ControlCenter" name="control_center"/>
+
+	<!-- Dateien -->
+	<item class="com.huawei.hidisk.filemanager.FileManager" name="dateien"/>
+
+	<!-- DB Navigator -->
+	<item class="db.vendo.android.vendigator.view.main.MainActivity" name="db_navigator"/>
+
+	<!-- Designs -->
+	<item class="com.huawei.android.thememanager.mvp.view.activity.onlinebase.PageActivity" name="designs"/>
+
+	<!-- Document Reader Pro -->
+	<item class="com.documentreader.docxreader.ui.activities.onboarding.SplashScreenActivity" name="document_reader_pro"/>
+
+	<!-- E-Mail -->
+	<item class="com.android.email.activity.Welcome" name="e_mail"/>
+
+	<!-- Ein​stellungen -->
+	<item class="com.android.settings.HWSettings" name="ein​stellungen"/>
+
+	<!-- eshopCollection -->
+	<item class="com.evillf.view.ui.main.MainActivity" name="eshopcollection"/>
+
+	<!-- Finanzguru -->
+	<item class="de.dwins.financeguru.SplashActivity" name="finanzguru"/>
+
+	<!-- FOSS Warn -->
+	<item class="de.nucleus.foss_warn.MainActivity" name="foss_warn"/>
+
+	<!-- FREE Browser -->
+	<item class="de.baumann.browser.activity.BrowserActivity" name="free_browser"/>
+
+	<!-- Galerie -->
+	<item class="com.huawei.gallery.app.GalleryMain" name="galerie"/>
+
+	<!-- HEB Hagen -->
+	<item class="de.k4systems.hebhagen.activity.APLaunchActivity" name="heb_hagen"/>
+
+	<!-- HUAWEI Music -->
+	<item class="com.android.mediacenter.PageActivity" name="huawei_music"/>
+
+	<!-- HUAWEI Video -->
+	<item class="com.huawei.himovie.ui.login.SplashScreenActivity" name="huawei_video"/>
+
+	<!-- Intercept X -->
+	<item class="com.sophos.smsec.ui.DroidGuardMainActivity" name="intercept_x"/>
+
+	<!-- jameda -->
+	<item class="com.app.MainActivity" name="jameda"/>
+
+	<!-- Kalender -->
+	<item class="com.android.calendar.AllInOneActivity" name="kalender"/>
+
+	<!-- Kamera -->
+	<item class="com.huawei.camera" name="kamera"/>
+
+	<!-- kaufDA -->
+	<item class="com.bonial.kaufda.SplashActivity" name="kaufda"/>
+
+	<!-- Kleinanzeigen -->
+	<item class="ebk.ui.splash.SplashActivity" name="kleinanzeigen"/>
+
+	<!-- Launcher-Einstellungen -->
+	<item class="com.ss.squarehome2.MyPreferencesActivity" name="launcher_einstellungen"/>
+
+	<!-- Lieferungen -->
+	<item class="de.orrs.deliveries.LaunchActivity" name="lieferungen"/>
+
+	<!-- LIVE TV Pro -->
+	<item class="live.tv.app.pro.activities.MainActivity" name="live_tv_pro"/>
+
+	<!-- Magic Earth -->
+	<item class="com.magiclane.androidsphere.map.MapActivity" name="magic_earth"/>
+
+	<!-- MARIO RUN -->
+	<item class="com.snslinkage.dena.snslinkageunityplugin.SnsLinkageSafeUnityPlayerNativeActivity" name="mario_run"/>
+
+	<!-- medizinfuchs - Preisvergleich -->
+	<item class="com.medizinfuchs.MainActivity" name="medizinfuchs_preisvergleich"/>
+
+	<!-- Memo -->
+	<item class="com.example.android.notepad.NotePadActivity" name="memo"/>
+
+	<!-- My HUAWEI -->
+	<item class="com.huawei.myhuawei.ui.HwSplashActivity" name="my_huawei"/>
+
+	<!-- mydealz -->
+	<item class="com.pepper.apps.android.presentation.MainActivityDarkIcon" name="mydealz"/>
+
+	<!-- MyFRITZ! -->
+	<item class="de.avm.android.one.activities.StartActivity" name="myfritz_"/>
+
+	<!-- Nintendo Switch Online -->
+	<item class="com.nintendo.coral.ui.boot.BootActivity" name="nintendo_switch_online"/>
+
+	<!-- Optimizer -->
+	<item class="com.huawei.systemmanager.mainscreen.MainScreenActivity" name="optimizer"/>
+
+	<!-- PipePipe -->
+	<item class="org.schabi.newpipe.MainActivity" name="pipepipe"/>
+
+	<!-- PM PRO -->
+	<item class="com.codingtrickshub.passwordsmanager.MainActivity" name="pm_pro"/>
+
+	<!-- Poe -->
+	<item class="com.poe.MainActivity" name="poe"/>
+
+	<!-- Post & DHL -->
+	<item class="de.its_berlin.dhlpaket.base.main.MainActivity" name="post_and_dhl"/>
+
+	<!-- Prokedex -->
+	<item class="com.locuthor.prodex.SplashActivity" name="prokedex"/>
+
+	<!-- QR & Barcode Scanner -->
+	<item class="com.gamma.scan.SplashActivity" name="qr_and_barcode_scanner"/>
+
+	<!-- Rain -->
+	<item class="com.yoshi.rain.MainActivity" name="rain"/>
+
+	<!-- Rechner -->
+	<item class="com.huawei.calculator.Calculator" name="rechner"/>
+
+	<!-- Resume Builder -->
+	<item class="com.tapuniverse.resumebuilder.MainActivity" name="resume_builder"/>
+
+	<!-- Screenshot Pro -->
+	<item class="jp.snowlife01.android.screenshot.MainActivityNew" name="screenshot_pro"/>
+
+	<!-- SD Maid SE -->
+	<item class="eu.darken.sdmse.main.ui.MainActivity" name="sd_maid_se"/>
+
+	<!-- Shop Apotheke -->
+	<item class="com.shopapotheke.activities.splash.AliasSplashActivityDE" name="shop_apotheke"/>
+
+	<!-- SIM-Toolkit -->
+	<item class="com.android.stk.StkLauncherActivity2" name="sim_toolkit"/>
+
+	<!-- Sofascore -->
+	<item class="com.sofascore.results.main.start.StartActivity" name="sofascore"/>
+
+	<!-- Softwareaktualisierung -->
+	<item class="com.huawei.android.hwouc.ui.activities.MainEntranceActivity" name="softwareaktualisierung"/>
+
+	<!-- Sparkasse -->
+	<item class="com.starfinanz.smob.android.sfinanzstatus.LauncherActivity" name="sparkasse"/>
+
+	<!-- Square Home -->
+	<item class="com.ss.squarehome2.MainActivity" name="square_home"/>
+
+	<!-- Table Notes -->
+	<item class="vivekagarwal.playwithdb.MainActivity" name="table_notes"/>
+
+	<!-- TARGOBANK -->
+	<item class="com.e_i.bad.controls.activities.StartActivity" name="targobank"/>
+
+	<!-- Taschenlampe -->
+	<item class="com.android.systemui.flashlight.FlashlightActivity" name="taschenlampe"/>
+
+	<!-- TAXI -->
+	<item class="activity.MainActivity" name="taxi"/>
+
+	<!-- Telefon -->
+	<item class="com.android.contacts.activities.DialtactsActivity" name="telefon"/>
+
+	<!-- Twilight -->
+	<item class="com.urbandroid.lux.MainActivity" name="twilight"/>
+
+	<!-- Uhr -->
+	<item class="com.android.deskclock.AlarmsMainActivity" name="uhr"/>
+
+	<!-- WPS Office -->
+	<item class="cn.wps.moffice.documentmanager.PreStartActivity" name="wps_office"/>
+
+	<!-- Xtra -->
+	<item class="com.github.andreyasadchy.xtra.ui.main.MainActivity" name="xtra"/>
+
+	<!-- Zedge -->
+	<item class="net.zedge.android.MainNewyear" name="zedge"/>
+
+</appmap>

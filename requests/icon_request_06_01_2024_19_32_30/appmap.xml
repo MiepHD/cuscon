@@ -1,0 +1,138 @@
+<appmap>
+
+	<!-- 2ГИС -->
+	<item class="ru.dublgis.dgismobile.GrymMobileActivity" name="_2гис"/>
+
+	<!-- Авито -->
+	<item class="com.avito.android.Launcher" name="авито"/>
+
+	<!-- Английский -->
+	<item class="ru.poas.englishwords.splash.SplashActivity" name="английский"/>
+
+	<!-- Безопасность -->
+	<item class="com.miui.securityscan.MainActivity" name="безопасность"/>
+
+	<!-- Галерея -->
+	<item class="com.miui.gallery.activity.HomePageActivity" name="галерея"/>
+
+	<!-- Диктофон -->
+	<item class="com.android.soundrecorder.SoundRecorder" name="диктофон"/>
+
+	<!-- Загрузки -->
+	<item class="com.android.providers.downloads.ui.DownloadList" name="загрузки"/>
+
+	<!-- Заметки -->
+	<item class="com.miui.notes.ui.NotesListActivity" name="заметки"/>
+
+	<!-- Запись экрана -->
+	<item class="com.miui.screenrecorder.activity.ScreenRecorderHomeActivity" name="запись_экрана"/>
+
+	<!-- Календарь -->
+	<item class="com.android.calendar.homepage.AllInOneActivity" name="календарь"/>
+
+	<!-- Калькулятор -->
+	<item class="com.miui.calculator.cal.CalculatorActivity" name="калькулятор"/>
+
+	<!-- Компас -->
+	<item class="com.miui.compass.CompassActivity" name="компас"/>
+
+	<!-- Мой Tele2 -->
+	<item class="ru.tele2.mytele2.ui.splash.SplashActivity" name="мой_tele2"/>
+
+	<!-- Музыка -->
+	<item class="com.miui.player.ui.MusicBrowserActivity" name="музыка"/>
+
+	<!-- Настройки -->
+	<item class="com.android.settings.MainSettings" name="настройки"/>
+
+	<!-- Погода -->
+	<item class="com.miui.weather2.ActivityWeatherMain" name="погода"/>
+
+	<!-- Потрачено -->
+	<item class="me.lucky.wasted.MainActivity" name="потрачено"/>
+
+	<!-- Сервисы и обратная связь -->
+	<item class="com.miui.miservice.main.MainActivity" name="сервисы_и_обратная_связь"/>
+
+	<!-- Сканер -->
+	<item class="com.xiaomi.scanner.app.ScanActivity" name="сканер"/>
+
+	<!-- Сообщения -->
+	<item class="com.android.mms.ui.MmsTabActivity" name="сообщения"/>
+
+	<!-- Телефон -->
+	<item class="com.android.contacts.activities.TwelveKeyDialer" name="телефон"/>
+
+	<!-- Темы -->
+	<item class="com.android.thememanager.ThemeResourceTabActivity" name="темы"/>
+
+	<!-- Тинькофф -->
+	<item class="ru.tinkoff.mb.feature.splash.bank.ui.presentation.BankSplashActivity" name="тинькофф"/>
+
+	<!-- Часы -->
+	<item class="com.android.deskclock.DeskClockTabActivity" name="часы"/>
+
+	<!-- AdAway -->
+	<item class="org.adaway.ui.home.HomeActivity" name="adaway"/>
+
+	<!-- BatteryCalibrate -->
+	<item class="eu.roggstar.batterycalibrator.MainActivity" name="batterycalibrate"/>
+
+	<!-- Bitmask -->
+	<item class="se.leap.bitmaskclient.base.StartActivity" name="bitmask"/>
+
+	<!-- Cheogram -->
+	<item class="eu.siacs.conversations.ui.ConversationActivity" name="cheogram"/>
+
+	<!-- Cromite -->
+	<item class="com.google.android.apps.chrome.Main" name="cromite"/>
+
+	<!-- DNS Hero -->
+	<item class="com.gianlu.dnshero.LoadingActivity" name="dns_hero"/>
+
+	<!-- FM-радио -->
+	<item class="com.miui.fmradio.FmRadioActivity" name="fm_радио"/>
+
+	<!-- Hidden Settings -->
+	<item class="com.netvor.hiddensettings.LaunchActivity" name="hidden_settings"/>
+
+	<!-- Hosts Editor -->
+	<item class="com.nilhcem.hostseditor.ui.list.ListHostsActivity" name="hosts_editor"/>
+
+	<!-- IR Remote -->
+	<item class="org.twinone.irremote.ui.MainActivity" name="ir_remote"/>
+
+	<!-- KeePassDX -->
+	<item class="com.kunzisoft.keepass.activities.FileDatabaseSelectActivity" name="keepassdx"/>
+
+	<!-- Mi Видео -->
+	<item class="com.miui.video.global.app.LauncherActivity" name="mi_видео"/>
+
+	<!-- OneKeePass -->
+	<item class="com.onekeepassmobile.MainActivity" name="onekeepass"/>
+
+	<!-- PCAPdroid -->
+	<item class="com.emanuelef.remote_capture.activities.MainActivity" name="pcapdroid"/>
+
+	<!-- Pix Wallpapers -->
+	<item class="com.pashapuma.pix.wallpapers.MainActivity" name="pix_wallpapers"/>
+
+	<!-- Pixel icon pack -->
+	<item class="ru.pt.iconpack.pixel.activities.Check_GDPR" name="pixel_icon_pack"/>
+
+	<!-- Proton Drive -->
+	<item class="me.proton.android.drive.ui.MainActivity" name="proton_drive"/>
+
+	<!-- RethinkDNS -->
+	<item class="com.celzero.bravedns.ui.HomeScreenActivity" name="rethinkdns"/>
+
+	<!-- VK mp3 mod -->
+	<item class="com.vkmp3mod.android.3" name="vk_mp3_mod"/>
+
+	<!-- Windscribe -->
+	<item class="com.windscribe.mobile.splash.SplashActivity" name="windscribe"/>
+
+	<!-- Zona -->
+	<item class="mobi.zona.ui.MainActivity" name="zona"/>
+
+</appmap>
