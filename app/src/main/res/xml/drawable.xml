@@ -1416,5 +1416,11 @@
 	<item drawable="videos" />
 	<item drawable="vocabulary_builder" />
 	<item drawable="oplus_weather" />
+	<item drawable="apk_extractor" />
+	<item drawable="app2sd" />
+	<item drawable="duckduckgo_blue" />
+	<item drawable="home_depot" />
+	<item drawable="inventory" />
+	<item drawable="my_home_inventory" />
 
 </resources>

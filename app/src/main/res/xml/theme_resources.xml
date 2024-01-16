@@ -1498,5 +1498,11 @@
 	<AppIcon name="com.coloros.video/com.oplus.video.SplashActivity" image="videos"/>
 	<AppIcon name="com.magoosh.gre.quiz.vocabulary/com.magoosh.gre.quiz.vocabulary.MainActivity" image="vocabulary_builder"/>
 	<AppIcon name="com.coloros.weather2/com.oplus.weather.main.view.WeatherMainActivity" image="oplus_weather"/>
+	<AppIcon name="braveheart.apps.apkextract/braveheart.apps.apkextract.MainActivity" image="apk_extractor"/>
+	<AppIcon name="braveheart.apps.app2sd/braveheart.apps.app2sd.MainActivity" image="app2sd"/>
+	<AppIcon name="com.duckduckgo.mobile.android/com.duckduckgo.app.launch.LauncherBlue" image="duckduckgo_blue"/>
+	<AppIcon name="com.thehomedepot/com.thehomedepot.startup.activities.StartupActivity" image="home_depot"/>
+	<AppIcon name="net.twisterrob.inventory/net.twisterrob.inventory.android.activity.MainActivity" image="inventory"/>
+	<AppIcon name="com.tomkos.myinventory/com.tomkos.myinventory.Activity_Main" image="my_home_inventory"/>
 
 </Theme>

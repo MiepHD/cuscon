@@ -1487,5 +1487,11 @@
 	<item class="com.oplus.video.SplashActivity" name="videos"/>
 	<item class="com.magoosh.gre.quiz.vocabulary.MainActivity" name="vocabulary_builder"/>
 	<item class="com.oplus.weather.main.view.WeatherMainActivity" name="oplus_weather"/>
+	<item class="braveheart.apps.apkextract.MainActivity" name="apk_extractor"/>
+	<item class="braveheart.apps.app2sd.MainActivity" name="app2sd"/>
+	<item class="com.duckduckgo.app.launch.LauncherBlue" name="duckduckgo_blue"/>
+	<item class="com.thehomedepot.startup.activities.StartupActivity" name="home_depot"/>
+	<item class="net.twisterrob.inventory.android.activity.MainActivity" name="inventory"/>
+	<item class="com.tomkos.myinventory.Activity_Main" name="my_home_inventory"/>
 
 </appmap>

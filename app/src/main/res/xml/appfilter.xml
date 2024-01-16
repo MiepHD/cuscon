@@ -1507,5 +1507,11 @@
 	<item component="ComponentInfo{com.coloros.video/com.oplus.video.SplashActivity}" drawable="videos" />
 	<item component="ComponentInfo{com.magoosh.gre.quiz.vocabulary/com.magoosh.gre.quiz.vocabulary.MainActivity}" drawable="vocabulary_builder" />
 	<item component="ComponentInfo{com.coloros.weather2/com.oplus.weather.main.view.WeatherMainActivity}" drawable="oplus_weather" />
+	<item component="ComponentInfo{braveheart.apps.apkextract/braveheart.apps.apkextract.MainActivity}" drawable="apk_extractor" />
+	<item component="ComponentInfo{braveheart.apps.app2sd/braveheart.apps.app2sd.MainActivity}" drawable="app2sd" />
+	<item component="ComponentInfo{com.duckduckgo.mobile.android/com.duckduckgo.app.launch.LauncherBlue}" drawable="duckduckgo_blue" />
+	<item component="ComponentInfo{com.thehomedepot/com.thehomedepot.startup.activities.StartupActivity}" drawable="home_depot" />
+	<item component="ComponentInfo{net.twisterrob.inventory/net.twisterrob.inventory.android.activity.MainActivity}" drawable="inventory" />
+	<item component="ComponentInfo{com.tomkos.myinventory/com.tomkos.myinventory.Activity_Main}" drawable="my_home_inventory" />
 
 </resources>
