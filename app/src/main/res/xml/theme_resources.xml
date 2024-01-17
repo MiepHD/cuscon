@@ -1565,5 +1565,6 @@
 	<AppIcon name="com.tommasoberlose.anotherwidget/com.tommasoberlose.anotherwidget.ui.activities.MainActivity" image="another_widget"/>
 	<AppIcon name="com.imo.android.imoimhd/com.imo.android.imoim.activities.Home" image="imo_hd"/>
 	<AppIcon name="com.pearlauncher.pearlauncher/com.pearlauncher.pearlauncher.PearLauncher" image="pear_launcher"/>
+	<AppIcon name="com.melodis.midomiMusicIdentifier/com.soundhound.android.appcommon.activity.SplashScreenActivity" image="soundhound"/>
 
 </Theme>

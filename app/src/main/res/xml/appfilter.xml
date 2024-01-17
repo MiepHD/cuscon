@@ -1574,5 +1574,6 @@
 	<item component="ComponentInfo{com.tommasoberlose.anotherwidget/com.tommasoberlose.anotherwidget.ui.activities.MainActivity}" drawable="another_widget" />
 	<item component="ComponentInfo{com.imo.android.imoimhd/com.imo.android.imoim.activities.Home}" drawable="imo_hd" />
 	<item component="ComponentInfo{com.pearlauncher.pearlauncher/com.pearlauncher.pearlauncher.PearLauncher}" drawable="pear_launcher" />
+	<item component="ComponentInfo{com.melodis.midomiMusicIdentifier/com.soundhound.android.appcommon.activity.SplashScreenActivity}" drawable="soundhound" />
 
 </resources>

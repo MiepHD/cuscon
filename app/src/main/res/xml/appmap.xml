@@ -1554,5 +1554,6 @@
 	<item class="com.tommasoberlose.anotherwidget.ui.activities.MainActivity" name="another_widget"/>
 	<item class="com.imo.android.imoim.activities.Home" name="imo_hd"/>
 	<item class="com.pearlauncher.pearlauncher.PearLauncher" name="pear_launcher"/>
+	<item class="com.soundhound.android.appcommon.activity.SplashScreenActivity" name="soundhound"/>
 
 </appmap>
