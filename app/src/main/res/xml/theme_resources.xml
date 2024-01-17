@@ -1559,5 +1559,11 @@
 	<AppIcon name="com.tribab.tricount.android/com.tribab.tricount.android.view.activity.SplashActivity" image="tricount"/>
 	<AppIcon name="vivino.web.app/com.sphinx_solution.Launcher" image="vivino"/>
 	<AppIcon name="io.yuka.android/io.yuka.android.main.RootActivity" image="yuka"/>
+	<AppIcon name="com.actionlauncher.playstore/com.actionlauncher.ActionLauncherActivity" image="action_launcher"/>
+	<AppIcon name="ru.execbit.aiolauncher/ru.execbit.aiolauncher.ui.MainActivity" image="aio_launcher"/>
+	<AppIcon name="droom.sleepIfUCan/droom.sleepIfUCan.activity.MainActivity" image="alarmy"/>
+	<AppIcon name="com.tommasoberlose.anotherwidget/com.tommasoberlose.anotherwidget.ui.activities.MainActivity" image="another_widget"/>
+	<AppIcon name="com.imo.android.imoimhd/com.imo.android.imoim.activities.Home" image="imo_hd"/>
+	<AppIcon name="com.pearlauncher.pearlauncher/com.pearlauncher.pearlauncher.PearLauncher" image="pear_launcher"/>
 
 </Theme>

@@ -1548,5 +1548,11 @@
 	<item class="com.tribab.tricount.android.view.activity.SplashActivity" name="tricount"/>
 	<item class="com.sphinx_solution.Launcher" name="vivino"/>
 	<item class="io.yuka.android.main.RootActivity" name="yuka"/>
+	<item class="com.actionlauncher.ActionLauncherActivity" name="action_launcher"/>
+	<item class="ru.execbit.aiolauncher.ui.MainActivity" name="aio_launcher"/>
+	<item class="droom.sleepIfUCan.activity.MainActivity" name="alarmy"/>
+	<item class="com.tommasoberlose.anotherwidget.ui.activities.MainActivity" name="another_widget"/>
+	<item class="com.imo.android.imoim.activities.Home" name="imo_hd"/>
+	<item class="com.pearlauncher.pearlauncher.PearLauncher" name="pear_launcher"/>
 
 </appmap>

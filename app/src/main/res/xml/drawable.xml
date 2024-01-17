@@ -1476,5 +1476,11 @@
 	<item drawable="tricount" />
 	<item drawable="vivino" />
 	<item drawable="yuka" />
+	<item drawable="action_launcher" />
+	<item drawable="aio_launcher" />
+	<item drawable="alarmy" />
+	<item drawable="another_widget" />
+	<item drawable="imo_hd" />
+	<item drawable="pear_launcher" />
 
 </resources>

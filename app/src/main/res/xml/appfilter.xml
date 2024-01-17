@@ -1568,5 +1568,11 @@
 	<item component="ComponentInfo{com.tribab.tricount.android/com.tribab.tricount.android.view.activity.SplashActivity}" drawable="tricount" />
 	<item component="ComponentInfo{vivino.web.app/com.sphinx_solution.Launcher}" drawable="vivino" />
 	<item component="ComponentInfo{io.yuka.android/io.yuka.android.main.RootActivity}" drawable="yuka" />
+	<item component="ComponentInfo{com.actionlauncher.playstore/com.actionlauncher.ActionLauncherActivity}" drawable="action_launcher" />
+	<item component="ComponentInfo{ru.execbit.aiolauncher/ru.execbit.aiolauncher.ui.MainActivity}" drawable="aio_launcher" />
+	<item component="ComponentInfo{droom.sleepIfUCan/droom.sleepIfUCan.activity.MainActivity}" drawable="alarmy" />
+	<item component="ComponentInfo{com.tommasoberlose.anotherwidget/com.tommasoberlose.anotherwidget.ui.activities.MainActivity}" drawable="another_widget" />
+	<item component="ComponentInfo{com.imo.android.imoimhd/com.imo.android.imoim.activities.Home}" drawable="imo_hd" />
+	<item component="ComponentInfo{com.pearlauncher.pearlauncher/com.pearlauncher.pearlauncher.PearLauncher}" drawable="pear_launcher" />
 
 </resources>
