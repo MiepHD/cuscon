@@ -1482,5 +1482,6 @@
 	<item drawable="another_widget" />
 	<item drawable="imo_hd" />
 	<item drawable="pear_launcher" />
+	<item drawable="soundhound" />
 
 </resources>
