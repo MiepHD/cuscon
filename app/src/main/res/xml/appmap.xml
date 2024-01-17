@@ -1497,5 +1497,56 @@
 	<item class="com.google.android.apps.play.console.mobile.MainActivity" name="play_console_new"/>
 	<item class="com.unity3d.player.UnityPlayerActivity" name="hidden_folks"/>
 	<item class="deckers.thibault.aves.MainActivity" name="aves_libre"/>
+	<item class="com.ilixa.ebp.ui.MainActivity" name="_8bit_photo_lab"/>
+	<item class="com.blizzard.messenger.ui.splash.SplashActivity" name="battlenet"/>
+	<item class="com.blizzard.bma.ui.welcome.SplashActivity" name="blizzard_authenticator"/>
+	<item class="com.datacamp.MainActivity" name="datacamp"/>
+	<item class="com.starikov.datecalc.MainActivity" name="days_counter"/>
+	<item class="it.niedermann.nextcloud.deck.ui.main.MainActivity" name="deck"/>
+	<item class="com.synology.dsdrive.activity.SplashActivity" name="drive"/>
+	<item class="com.synology.dsnote.activities.SplashActivity" name="ds_note"/>
+	<item class="org.develz.crawl.DCSSLauncher" name="dungeon_crawl_stone_soup"/>
+	<item class="io.dynalist.MainActivity" name="dynalist"/>
+	<item class="io.github.mwageringel.everest.MainActivity" name="everest"/>
+	<item class="org.eu.exodus_privacy.exodusprivacy.MainActivity" name="exodus"/>
+	<item class="com.nononsenseapps.feeder.ui.MainActivity" name="feeder"/>
+	<item class="com.caydey.ffshare.MainActivity" name="ffshare"/>
+	<item class="dk.tacit.android.foldersync.activity.MainActivity" name="foldersync"/>
+	<item class="com.harman.jbl.portable.WelcomeActivity" name="jbl_portable"/>
+	<item class="net.cozic.joplin.MainActivity" name="joplin"/>
+	<item class="com.vgm.mylibrary.activity.MainActivity" name="meine_bibliothek"/>
+	<item class="ch.migros.app.misc.MasterActivity" name="migros"/>
+	<item class="ch.mobility.carsharing.ui.MainActivity" name="mobility_carsharing"/>
+	<item class="com.hardbacknutter.nevertoomanybooks.StartupActivity" name="nevertoomanybooks"/>
+	<item class="com.nextcloud_cookbook_flutter.MainActivity" name="nextcloud_cookbook"/>
+	<item class="com.picross.nonocross.MainActivity" name="nonocross"/>
+	<item class="net.osmand.plus.activities.MapActivity" name="osmand"/>
+	<item class="cordproject.lol.papercraft.MainActivity" name="papercraft"/>
+	<item class="com.parentu.app.ui.start.StartActivity" name="parentu"/>
+	<item class="com.pcloud.screens.Main" name="pcloud"/>
+	<item class="org.peakfinder.area.alps.activity.MainScreenEarth" name="peakfinder"/>
+	<item class="com.synology.projectkailash.ui.splash.SplashActivity" name="photos"/>
+	<item class="ch.srg.srgplayer.view.MainActivity" name="play_srf"/>
+	<item class="hu.vmiklos.plees_tracker.MainActivity" name="plees_tracker"/>
+	<item class="com.bambuna.podcastaddict.activity.PodcastListActivity" name="podcast_addict"/>
+	<item class="com.polarsteps.activities.SplashActivity" name="polarsteps"/>
+	<item class="ch.postfinance.android.splashscreen.presentation.SplashScreenActivity" name="postfinance"/>
+	<item class="com.bullitt.userexpprog.MainActivity" name="programm_zur_verbesserung_der_benutzerfreundlichkeit"/>
+	<item class="com.bullitt.catphones.register.app.MainActivity" name="registrieren"/>
+	<item class="app.republik.MainActivity" name="republik"/>
+	<item class="flunzmas.seasoncalendar.MainActivity" name="saisonkalender"/>
+	<item class="ch.sbb.mobile.android.vnext.splashscreen.SplashScreenActivity" name="sbb_mobile"/>
+	<item class="com.orpheusdroid.screenrecorder.ui.MainActivity" name="screencam"/>
+	<item class="com.soundcloud.android.launcher.LauncherActivity" name="soundcloud"/>
+	<item class="com.ryanheise.audioservice.AudioServiceActivity" name="spotube"/>
+	<item class="com.github.premnirmal.ticker.home.MainActivity" name="stocks_widget"/>
+	<item class="crc64949597a28fd8c3d8.MainActivity" name="swiss_post"/>
+	<item class="com.nextcloud.talk.activities.MainActivity" name="talk"/>
+	<item class="com.sharpregion.tapet.root.RootActivity" name="tapet"/>
+	<item class="com.ton_keeper.MainActivity" name="tonkeeper"/>
+	<item class="com.app.tgtg.activities.login.SplashActivity" name="too_good_to_go"/>
+	<item class="com.tribab.tricount.android.view.activity.SplashActivity" name="tricount"/>
+	<item class="com.sphinx_solution.Launcher" name="vivino"/>
+	<item class="io.yuka.android.main.RootActivity" name="yuka"/>
 
 </appmap>

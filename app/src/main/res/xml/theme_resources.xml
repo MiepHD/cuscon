@@ -1508,5 +1508,56 @@
 	<AppIcon name="com.google.android.apps.playconsole/com.google.android.apps.play.console.mobile.MainActivity" image="play_console_new"/>
 	<AppIcon name="com.adriaandejongh.hiddenfolks/com.unity3d.player.UnityPlayerActivity" image="hidden_folks"/>
 	<AppIcon name="deckers.thibault.aves/deckers.thibault.aves.MainActivity" image="aves_libre"/>
+	<AppIcon name="com.ilixa.ebp/com.ilixa.ebp.ui.MainActivity" image="_8bit_photo_lab"/>
+	<AppIcon name="com.blizzard.messenger/com.blizzard.messenger.ui.splash.SplashActivity" image="battlenet"/>
+	<AppIcon name="com.blizzard.bma/com.blizzard.bma.ui.welcome.SplashActivity" image="blizzard_authenticator"/>
+	<AppIcon name="com.datacamp/com.datacamp.MainActivity" image="datacamp"/>
+	<AppIcon name="com.starikov.datecalc/com.starikov.datecalc.MainActivity" image="days_counter"/>
+	<AppIcon name="it.niedermann.nextcloud.deck/it.niedermann.nextcloud.deck.ui.main.MainActivity" image="deck"/>
+	<AppIcon name="com.synology.dsdrive/com.synology.dsdrive.activity.SplashActivity" image="drive"/>
+	<AppIcon name="com.synology.dsnote/com.synology.dsnote.activities.SplashActivity" image="ds_note"/>
+	<AppIcon name="org.develz.crawl/org.develz.crawl.DCSSLauncher" image="dungeon_crawl_stone_soup"/>
+	<AppIcon name="io.dynalist/io.dynalist.MainActivity" image="dynalist"/>
+	<AppIcon name="io.github.mwageringel.everest/io.github.mwageringel.everest.MainActivity" image="everest"/>
+	<AppIcon name="org.eu.exodus_privacy.exodusprivacy/org.eu.exodus_privacy.exodusprivacy.MainActivity" image="exodus"/>
+	<AppIcon name="com.nononsenseapps.feeder.play/com.nononsenseapps.feeder.ui.MainActivity" image="feeder"/>
+	<AppIcon name="com.caydey.ffshare/com.caydey.ffshare.MainActivity" image="ffshare"/>
+	<AppIcon name="dk.tacit.android.foldersync.lite/dk.tacit.android.foldersync.activity.MainActivity" image="foldersync"/>
+	<AppIcon name="com.harman.ble.jbllink/com.harman.jbl.portable.WelcomeActivity" image="jbl_portable"/>
+	<AppIcon name="net.cozic.joplin/net.cozic.joplin.MainActivity" image="joplin"/>
+	<AppIcon name="com.vgm.mylibrary/com.vgm.mylibrary.activity.MainActivity" image="meine_bibliothek"/>
+	<AppIcon name="ch.migros.app/ch.migros.app.misc.MasterActivity" image="migros"/>
+	<AppIcon name="ch.mobility.carsharing/ch.mobility.carsharing.ui.MainActivity" image="mobility_carsharing"/>
+	<AppIcon name="com.hardbacknutter.nevertoomanybooks/com.hardbacknutter.nevertoomanybooks.StartupActivity" image="nevertoomanybooks"/>
+	<AppIcon name="com.nextcloud_cookbook_flutter/com.nextcloud_cookbook_flutter.MainActivity" image="nextcloud_cookbook"/>
+	<AppIcon name="com.picross.nonocross/com.picross.nonocross.MainActivity" image="nonocross"/>
+	<AppIcon name="net.osmand/net.osmand.plus.activities.MapActivity" image="osmand"/>
+	<AppIcon name="pro.rudloff.papercraft/cordproject.lol.papercraft.MainActivity" image="papercraft"/>
+	<AppIcon name="com.parentu.app/com.parentu.app.ui.start.StartActivity" image="parentu"/>
+	<AppIcon name="com.pcloud.pcloud/com.pcloud.screens.Main" image="pcloud"/>
+	<AppIcon name="org.peakfinder.area.alps/org.peakfinder.area.alps.activity.MainScreenEarth" image="peakfinder"/>
+	<AppIcon name="com.synology.projectkailash/com.synology.projectkailash.ui.splash.SplashActivity" image="photos"/>
+	<AppIcon name="ch.srf.mobile.srfplayer/ch.srg.srgplayer.view.MainActivity" image="play_srf"/>
+	<AppIcon name="hu.vmiklos.plees_tracker/hu.vmiklos.plees_tracker.MainActivity" image="plees_tracker"/>
+	<AppIcon name="com.bambuna.podcastaddict/com.bambuna.podcastaddict.activity.PodcastListActivity" image="podcast_addict"/>
+	<AppIcon name="com.polarsteps/com.polarsteps.activities.SplashActivity" image="polarsteps"/>
+	<AppIcon name="ch.postfinance.android/ch.postfinance.android.splashscreen.presentation.SplashScreenActivity" image="postfinance"/>
+	<AppIcon name="com.device.performance/com.bullitt.userexpprog.MainActivity" image="programm_zur_verbesserung_der_benutzerfreundlichkeit"/>
+	<AppIcon name="com.bullitt.catphones.register.app/com.bullitt.catphones.register.app.MainActivity" image="registrieren"/>
+	<AppIcon name="app.republik/app.republik.MainActivity" image="republik"/>
+	<AppIcon name="flunzmas.seasoncalendar/flunzmas.seasoncalendar.MainActivity" image="saisonkalender"/>
+	<AppIcon name="ch.sbb.mobile.android.b2c/ch.sbb.mobile.android.vnext.splashscreen.SplashScreenActivity" image="sbb_mobile"/>
+	<AppIcon name="com.orpheusdroid.screenrecorder/com.orpheusdroid.screenrecorder.ui.MainActivity" image="screencam"/>
+	<AppIcon name="com.soundcloud.android/com.soundcloud.android.launcher.LauncherActivity" image="soundcloud"/>
+	<AppIcon name="oss.krtirtho.spotube/com.ryanheise.audioservice.AudioServiceActivity" image="spotube"/>
+	<AppIcon name="com.github.premnirmal.tickerwidget/com.github.premnirmal.ticker.home.MainActivity" image="stocks_widget"/>
+	<AppIcon name="com.nth.swisspost/crc64949597a28fd8c3d8.MainActivity" image="swiss_post"/>
+	<AppIcon name="com.nextcloud.talk2/com.nextcloud.talk.activities.MainActivity" image="talk"/>
+	<AppIcon name="com.sharpregion.tapet/com.sharpregion.tapet.root.RootActivity" image="tapet"/>
+	<AppIcon name="com.ton_keeper/com.ton_keeper.MainActivity" image="tonkeeper"/>
+	<AppIcon name="com.app.tgtg/com.app.tgtg.activities.login.SplashActivity" image="too_good_to_go"/>
+	<AppIcon name="com.tribab.tricount.android/com.tribab.tricount.android.view.activity.SplashActivity" image="tricount"/>
+	<AppIcon name="vivino.web.app/com.sphinx_solution.Launcher" image="vivino"/>
+	<AppIcon name="io.yuka.android/io.yuka.android.main.RootActivity" image="yuka"/>
 
 </Theme>

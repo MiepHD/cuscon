@@ -1517,5 +1517,56 @@
 	<item component="ComponentInfo{com.google.android.apps.playconsole/com.google.android.apps.play.console.mobile.MainActivity}" drawable="play_console_new" />
 	<item component="ComponentInfo{com.adriaandejongh.hiddenfolks/com.unity3d.player.UnityPlayerActivity}" drawable="hidden_folks" />
 	<item component="ComponentInfo{deckers.thibault.aves/deckers.thibault.aves.MainActivity}" drawable="aves_libre" />
+	<item component="ComponentInfo{com.ilixa.ebp/com.ilixa.ebp.ui.MainActivity}" drawable="_8bit_photo_lab" />
+	<item component="ComponentInfo{com.blizzard.messenger/com.blizzard.messenger.ui.splash.SplashActivity}" drawable="battlenet" />
+	<item component="ComponentInfo{com.blizzard.bma/com.blizzard.bma.ui.welcome.SplashActivity}" drawable="blizzard_authenticator" />
+	<item component="ComponentInfo{com.datacamp/com.datacamp.MainActivity}" drawable="datacamp" />
+	<item component="ComponentInfo{com.starikov.datecalc/com.starikov.datecalc.MainActivity}" drawable="days_counter" />
+	<item component="ComponentInfo{it.niedermann.nextcloud.deck/it.niedermann.nextcloud.deck.ui.main.MainActivity}" drawable="deck" />
+	<item component="ComponentInfo{com.synology.dsdrive/com.synology.dsdrive.activity.SplashActivity}" drawable="drive" />
+	<item component="ComponentInfo{com.synology.dsnote/com.synology.dsnote.activities.SplashActivity}" drawable="ds_note" />
+	<item component="ComponentInfo{org.develz.crawl/org.develz.crawl.DCSSLauncher}" drawable="dungeon_crawl_stone_soup" />
+	<item component="ComponentInfo{io.dynalist/io.dynalist.MainActivity}" drawable="dynalist" />
+	<item component="ComponentInfo{io.github.mwageringel.everest/io.github.mwageringel.everest.MainActivity}" drawable="everest" />
+	<item component="ComponentInfo{org.eu.exodus_privacy.exodusprivacy/org.eu.exodus_privacy.exodusprivacy.MainActivity}" drawable="exodus" />
+	<item component="ComponentInfo{com.nononsenseapps.feeder.play/com.nononsenseapps.feeder.ui.MainActivity}" drawable="feeder" />
+	<item component="ComponentInfo{com.caydey.ffshare/com.caydey.ffshare.MainActivity}" drawable="ffshare" />
+	<item component="ComponentInfo{dk.tacit.android.foldersync.lite/dk.tacit.android.foldersync.activity.MainActivity}" drawable="foldersync" />
+	<item component="ComponentInfo{com.harman.ble.jbllink/com.harman.jbl.portable.WelcomeActivity}" drawable="jbl_portable" />
+	<item component="ComponentInfo{net.cozic.joplin/net.cozic.joplin.MainActivity}" drawable="joplin" />
+	<item component="ComponentInfo{com.vgm.mylibrary/com.vgm.mylibrary.activity.MainActivity}" drawable="meine_bibliothek" />
+	<item component="ComponentInfo{ch.migros.app/ch.migros.app.misc.MasterActivity}" drawable="migros" />
+	<item component="ComponentInfo{ch.mobility.carsharing/ch.mobility.carsharing.ui.MainActivity}" drawable="mobility_carsharing" />
+	<item component="ComponentInfo{com.hardbacknutter.nevertoomanybooks/com.hardbacknutter.nevertoomanybooks.StartupActivity}" drawable="nevertoomanybooks" />
+	<item component="ComponentInfo{com.nextcloud_cookbook_flutter/com.nextcloud_cookbook_flutter.MainActivity}" drawable="nextcloud_cookbook" />
+	<item component="ComponentInfo{com.picross.nonocross/com.picross.nonocross.MainActivity}" drawable="nonocross" />
+	<item component="ComponentInfo{net.osmand/net.osmand.plus.activities.MapActivity}" drawable="osmand" />
+	<item component="ComponentInfo{pro.rudloff.papercraft/cordproject.lol.papercraft.MainActivity}" drawable="papercraft" />
+	<item component="ComponentInfo{com.parentu.app/com.parentu.app.ui.start.StartActivity}" drawable="parentu" />
+	<item component="ComponentInfo{com.pcloud.pcloud/com.pcloud.screens.Main}" drawable="pcloud" />
+	<item component="ComponentInfo{org.peakfinder.area.alps/org.peakfinder.area.alps.activity.MainScreenEarth}" drawable="peakfinder" />
+	<item component="ComponentInfo{com.synology.projectkailash/com.synology.projectkailash.ui.splash.SplashActivity}" drawable="photos" />
+	<item component="ComponentInfo{ch.srf.mobile.srfplayer/ch.srg.srgplayer.view.MainActivity}" drawable="play_srf" />
+	<item component="ComponentInfo{hu.vmiklos.plees_tracker/hu.vmiklos.plees_tracker.MainActivity}" drawable="plees_tracker" />
+	<item component="ComponentInfo{com.bambuna.podcastaddict/com.bambuna.podcastaddict.activity.PodcastListActivity}" drawable="podcast_addict" />
+	<item component="ComponentInfo{com.polarsteps/com.polarsteps.activities.SplashActivity}" drawable="polarsteps" />
+	<item component="ComponentInfo{ch.postfinance.android/ch.postfinance.android.splashscreen.presentation.SplashScreenActivity}" drawable="postfinance" />
+	<item component="ComponentInfo{com.device.performance/com.bullitt.userexpprog.MainActivity}" drawable="programm_zur_verbesserung_der_benutzerfreundlichkeit" />
+	<item component="ComponentInfo{com.bullitt.catphones.register.app/com.bullitt.catphones.register.app.MainActivity}" drawable="registrieren" />
+	<item component="ComponentInfo{app.republik/app.republik.MainActivity}" drawable="republik" />
+	<item component="ComponentInfo{flunzmas.seasoncalendar/flunzmas.seasoncalendar.MainActivity}" drawable="saisonkalender" />
+	<item component="ComponentInfo{ch.sbb.mobile.android.b2c/ch.sbb.mobile.android.vnext.splashscreen.SplashScreenActivity}" drawable="sbb_mobile" />
+	<item component="ComponentInfo{com.orpheusdroid.screenrecorder/com.orpheusdroid.screenrecorder.ui.MainActivity}" drawable="screencam" />
+	<item component="ComponentInfo{com.soundcloud.android/com.soundcloud.android.launcher.LauncherActivity}" drawable="soundcloud" />
+	<item component="ComponentInfo{oss.krtirtho.spotube/com.ryanheise.audioservice.AudioServiceActivity}" drawable="spotube" />
+	<item component="ComponentInfo{com.github.premnirmal.tickerwidget/com.github.premnirmal.ticker.home.MainActivity}" drawable="stocks_widget" />
+	<item component="ComponentInfo{com.nth.swisspost/crc64949597a28fd8c3d8.MainActivity}" drawable="swiss_post" />
+	<item component="ComponentInfo{com.nextcloud.talk2/com.nextcloud.talk.activities.MainActivity}" drawable="talk" />
+	<item component="ComponentInfo{com.sharpregion.tapet/com.sharpregion.tapet.root.RootActivity}" drawable="tapet" />
+	<item component="ComponentInfo{com.ton_keeper/com.ton_keeper.MainActivity}" drawable="tonkeeper" />
+	<item component="ComponentInfo{com.app.tgtg/com.app.tgtg.activities.login.SplashActivity}" drawable="too_good_to_go" />
+	<item component="ComponentInfo{com.tribab.tricount.android/com.tribab.tricount.android.view.activity.SplashActivity}" drawable="tricount" />
+	<item component="ComponentInfo{vivino.web.app/com.sphinx_solution.Launcher}" drawable="vivino" />
+	<item component="ComponentInfo{io.yuka.android/io.yuka.android.main.RootActivity}" drawable="yuka" />
 
 </resources>

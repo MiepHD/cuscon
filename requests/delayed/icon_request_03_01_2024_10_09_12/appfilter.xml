@@ -1,0 +1,324 @@
+<resources>
+
+	<!-- 8Bit Photo Lab -->
+	<item component="ComponentInfo{com.ilixa.ebp/com.ilixa.ebp.ui.MainActivity}" drawable="_8bit_photo_lab" />
+
+	<!-- Airlock 2FA -->
+	<item component="ComponentInfo{com.airlock.iam.a2fa/com.futurae.mobileapp.ui.home.HomeActivity}" drawable="airlock_2fa" />
+
+	<!-- Alarm Clock Xtreme -->
+	<item component="ComponentInfo{com.alarmclock.xtreme.free/com.alarmclock.xtreme.free.AlarmClock}" drawable="alarm_clock_xtreme" />
+
+	<!-- AnkiDroid -->
+	<item component="ComponentInfo{com.ichi2.anki/com.ichi2.anki.IntentHandler}" drawable="ankidroid" />
+
+	<!-- Antimo -->
+	<item component="ComponentInfo{com.sikebo.antimo.material.icons/com.sikebo.antimo.material.icons.activities.SplashActivity}" drawable="antimo" />
+
+	<!-- Authenticator -->
+	<item component="ComponentInfo{com.blizzard.bma/com.blizzard.bma.ui.welcome.SplashActivity}" drawable="blizzard_authenticator" />
+
+	<!-- Battle.net -->
+	<item component="ComponentInfo{com.blizzard.messenger/com.blizzard.messenger.ui.splash.SplashActivity}" drawable="battlenet" />
+
+	<!-- BirdNET -->
+	<item component="ComponentInfo{de.tu_chemnitz.mi.kahst.birdnet/de.tu_chemnitz.mi.kahst.birdnet.Activity_SplashScreen}" drawable="birdnet" />
+
+	<!-- BRouter -->
+	<item component="ComponentInfo{btools.routingapp/btools.routingapp.BRouterActivity}" drawable="brouter" />
+
+	<!-- Cache Cleaner -->
+	<item component="ComponentInfo{com.github.bmx666.appcachecleaner/com.github.bmx666.appcachecleaner.ui.activity.LauncherActivity}" drawable="cache_cleaner" />
+
+	<!-- Cat phones -->
+	<item component="ComponentInfo{com.bullitt.support/com.bullitt.support.MainActivity}" drawable="cat_phones" />
+
+	<!-- CCleaner -->
+	<item component="ComponentInfo{com.piriform.ccleaner/com.avast.android.cleaner.activity.StartActivity}" drawable="ccleaner" />
+
+	<!-- Clefs -->
+	<item component="ComponentInfo{com.crazyootka.clefs/com.crazyootka.clefs.MainActivity}" drawable="clefs" />
+
+	<!-- CrontoSign Swiss -->
+	<item component="ComponentInfo{com.cronto.crontosign.swiss/com.onespan.jemmic.crontosignswiss.feature.splash.SplashNotificationActivity}" drawable="crontosign_swiss" />
+
+	<!-- DataCamp -->
+	<item component="ComponentInfo{com.datacamp/com.datacamp.MainActivity}" drawable="datacamp" />
+
+	<!-- Days Counter -->
+	<item component="ComponentInfo{com.starikov.datecalc/com.starikov.datecalc.MainActivity}" drawable="days_counter" />
+
+	<!-- Deck -->
+	<item component="ComponentInfo{it.niedermann.nextcloud.deck/it.niedermann.nextcloud.deck.ui.main.MainActivity}" drawable="deck" />
+
+	<!-- DEGIRO -->
+	<item component="ComponentInfo{nl.degiro.trader/nl.degiro.trader.MainActivity}" drawable="degiro" />
+
+	<!-- Dormi -->
+	<item component="ComponentInfo{com.sleekbit.dormi/com.sleekbit.dormi.ui.BmActivity}" drawable="dormi" />
+
+	<!-- Drive -->
+	<item component="ComponentInfo{com.synology.dsdrive/com.synology.dsdrive.activity.SplashActivity}" drawable="drive" />
+
+	<!-- DS note -->
+	<item component="ComponentInfo{com.synology.dsnote/com.synology.dsnote.activities.SplashActivity}" drawable="ds_note" />
+
+	<!-- Dungeon Crawl Stone Soup -->
+	<item component="ComponentInfo{org.develz.crawl/org.develz.crawl.DCSSLauncher}" drawable="dungeon_crawl_stone_soup" />
+
+	<!-- Dynalist -->
+	<item component="ComponentInfo{io.dynalist/io.dynalist.MainActivity}" drawable="dynalist" />
+
+	<!-- E-Banking -->
+	<item component="ComponentInfo{ch.lukb.app/ch.lukb.app.activities.main.MainActivity}" drawable="e_banking" />
+
+	<!-- Everest -->
+	<item component="ComponentInfo{io.github.mwageringel.everest/io.github.mwageringel.everest.MainActivity}" drawable="everest" />
+
+	<!-- Exodus -->
+	<item component="ComponentInfo{org.eu.exodus_privacy.exodusprivacy/org.eu.exodus_privacy.exodusprivacy.MainActivity}" drawable="exodus" />
+
+	<!-- Explorers -->
+	<item component="ComponentInfo{com.abstrrkt.explorers/com.unity3d.player.UnityPlayerActivity}" drawable="explorers" />
+
+	<!-- Feeder -->
+	<item component="ComponentInfo{com.nononsenseapps.feeder.play/com.nononsenseapps.feeder.ui.MainActivity}" drawable="feeder" />
+
+	<!-- FFShare -->
+	<item component="ComponentInfo{com.caydey.ffshare/com.caydey.ffshare.MainActivity}" drawable="ffshare" />
+
+	<!-- FolderSync -->
+	<item component="ComponentInfo{dk.tacit.android.foldersync.lite/dk.tacit.android.foldersync.activity.MainActivity}" drawable="foldersync" />
+
+	<!-- Galerie -->
+	<item component="ComponentInfo{com.flir.myflir.s62/com.flir.monarch.ui.library.LibraryActivity}" drawable="galerie" />
+
+	<!-- Gleeo Time Tracker -->
+	<item component="ComponentInfo{ch.gridvision.pbtm.androidtimerecorder/ch.gridvision.tm.androidtimerecorder.MainActivity}" drawable="gleeo_time_tracker" />
+
+	<!-- JBL Portable -->
+	<item component="ComponentInfo{com.harman.ble.jbllink/com.harman.jbl.portable.WelcomeActivity}" drawable="jbl_portable" />
+
+	<!-- Joplin -->
+	<item component="ComponentInfo{net.cozic.joplin/net.cozic.joplin.MainActivity}" drawable="joplin" />
+
+	<!-- Kamera -->
+	<item component="ComponentInfo{com.cei.snapcam/com.android.camera.CameraLauncher}" drawable="kamera" />
+
+	<!-- Key -->
+	<item component="ComponentInfo{ch.lukb.key/ch.lukb.auth.ui.MainActivity}" drawable="key" />
+
+	<!-- kidesia Eltern -->
+	<item component="ComponentInfo{ch.kidesia.ionic.app/ch.kidesia.ionic.app.MainActivity}" drawable="kidesia_eltern" />
+
+	<!-- Lager und Inventar Online -->
+	<item component="ComponentInfo{com.stockmanagment.online.app/com.stockmanagment.app.Launcher}" drawable="lager_und_inventar_online" />
+
+	<!-- LowPoly -->
+	<item component="ComponentInfo{com.playpix.lowpolycamera/com.playpix.lowpolycamera.MainActivity}" drawable="lowpoly" />
+
+	<!-- Maestro -->
+	<item component="ComponentInfo{com.futuresculptor.maestro/com.futuresculptor.maestro.MainActivity}" drawable="maestro" />
+
+	<!-- Markor -->
+	<item component="ComponentInfo{net.gsantner.markor/net.gsantner.markor.activity.MainActivity}" drawable="markor" />
+
+	<!-- MediaMonkey -->
+	<item component="ComponentInfo{com.ventismedia.android.mediamonkey/com.ventismedia.android.mediamonkey.StartActivity}" drawable="mediamonkey" />
+
+	<!-- Meine Bibliothek -->
+	<item component="ComponentInfo{com.vgm.mylibrary/com.vgm.mylibrary.activity.MainActivity}" drawable="meine_bibliothek" />
+
+	<!-- Meritous -->
+	<item component="ComponentInfo{net.asceai.meritous/net.asceai.meritous.MainActivity}" drawable="meritous" />
+
+	<!-- MeteoSwiss -->
+	<item component="ComponentInfo{ch.admin.meteoswiss/ch.admin.meteoswiss.MainActivity}" drawable="meteoswiss" />
+
+	<!-- Migros -->
+	<item component="ComponentInfo{ch.migros.app/ch.migros.app.misc.MasterActivity}" drawable="migros" />
+
+	<!-- Mindustry -->
+	<item component="ComponentInfo{io.anuke.mindustry/mindustry.android.AndroidLauncher}" drawable="mindustry" />
+
+	<!-- Mini Piano Lite -->
+	<item component="ComponentInfo{umito.android.minipiano/umito.android.shared.minipiano.SplashScreenActivity}" drawable="mini_piano_lite" />
+
+	<!-- Mobility Carsharing -->
+	<item component="ComponentInfo{ch.mobility.carsharing/ch.mobility.carsharing.ui.MainActivity}" drawable="mobility_carsharing" />
+
+	<!-- Moshidon -->
+	<item component="ComponentInfo{org.joinmastodon.android.moshinda/org.joinmastodon.android.MainActivity}" drawable="moshidon" />
+
+	<!-- MyFLIR -->
+	<item component="ComponentInfo{com.flir.myflir.s62/com.flir.monarch.ui.MainActivity}" drawable="myflir" />
+
+	<!-- Myne -->
+	<item component="ComponentInfo{com.starry.myne/com.starry.myne.MainActivity}" drawable="myne" />
+
+	<!-- NeverTooManyBooks -->
+	<item component="ComponentInfo{com.hardbacknutter.nevertoomanybooks/com.hardbacknutter.nevertoomanybooks.StartupActivity}" drawable="nevertoomanybooks" />
+
+	<!-- Nextcloud Cookbook -->
+	<item component="ComponentInfo{com.nextcloud_cookbook_flutter/com.nextcloud_cookbook_flutter.MainActivity}" drawable="nextcloud_cookbook" />
+
+	<!-- Nonocross -->
+	<item component="ComponentInfo{com.picross.nonocross/com.picross.nonocross.MainActivity}" drawable="nonocross" />
+
+	<!-- opsu! -->
+	<item component="ComponentInfo{fluddokt.opsu.android/fluddokt.opsu.android.AndroidLauncher}" drawable="opsu_" />
+
+	<!-- OsmAnd -->
+	<item component="ComponentInfo{net.osmand/net.osmand.plus.activities.MapActivity}" drawable="osmand" />
+
+	<!-- PaperCraft -->
+	<item component="ComponentInfo{pro.rudloff.papercraft/cordproject.lol.papercraft.MainActivity}" drawable="papercraft" />
+
+	<!-- parentu -->
+	<item component="ComponentInfo{com.parentu.app/com.parentu.app.ui.start.StartActivity}" drawable="parentu" />
+
+	<!-- Paseo -->
+	<item component="ComponentInfo{ca.chancehorizon.paseo/ca.chancehorizon.paseo.MainActivity}" drawable="paseo" />
+
+	<!-- pCloud -->
+	<item component="ComponentInfo{com.pcloud.pcloud/com.pcloud.screens.Main}" drawable="pcloud" />
+
+	<!-- PeakFinder -->
+	<item component="ComponentInfo{org.peakfinder.area.alps/org.peakfinder.area.alps.activity.MainScreenEarth}" drawable="peakfinder" />
+
+	<!-- Photos -->
+	<item component="ComponentInfo{com.synology.projectkailash/com.synology.projectkailash.ui.splash.SplashActivity}" drawable="photos" />
+
+	<!-- PhotoTAN -->
+	<item component="ComponentInfo{ch.raiffeisen.phototan/ch.raiffeisen.phototan.launcher_d90f20b5c6deefc23e8f5b77920bb46e9037d859a1a4acee852652fc8083c238}" drawable="phototan" />
+
+	<!-- PlantNet -->
+	<item component="ComponentInfo{org.plantnet/org.plantnet.MainActivity}" drawable="plantnet" />
+
+	<!-- Play SRF -->
+	<item component="ComponentInfo{ch.srf.mobile.srfplayer/ch.srg.srgplayer.view.MainActivity}" drawable="play_srf" />
+
+	<!-- Plees Tracker -->
+	<item component="ComponentInfo{hu.vmiklos.plees_tracker/hu.vmiklos.plees_tracker.MainActivity}" drawable="plees_tracker" />
+
+	<!-- Podcast Addict -->
+	<item component="ComponentInfo{com.bambuna.podcastaddict/com.bambuna.podcastaddict.activity.PodcastListActivity}" drawable="podcast_addict" />
+
+	<!-- Polarsteps -->
+	<item component="ComponentInfo{com.polarsteps/com.polarsteps.activities.SplashActivity}" drawable="polarsteps" />
+
+	<!-- PostCard Creator -->
+	<item component="ComponentInfo{ch.post.it.pcc/com.tns.NativeScriptActivity}" drawable="postcard_creator" />
+
+	<!-- PostFinance -->
+	<item component="ComponentInfo{ch.postfinance.android/ch.postfinance.android.splashscreen.presentation.SplashScreenActivity}" drawable="postfinance" />
+
+	<!-- Print -->
+	<item component="ComponentInfo{org.billthefarmer.print/org.billthefarmer.print.Print}" drawable="print" />
+
+	<!-- Programm zur Verbesserung der Benutzerfreundlichkeit -->
+	<item component="ComponentInfo{com.device.performance/com.bullitt.userexpprog.MainActivity}" drawable="programm_zur_verbesserung_der_benutzerfreundlichkeit" />
+
+	<!-- QField Dev -->
+	<item component="ComponentInfo{ch.opengis.qfield_dev/ch.opengis.qfield_dev.QFieldActivity}" drawable="qfield_dev" />
+
+	<!-- Quad9 Connect -->
+	<item component="ComponentInfo{com.quad9.aegis/com.quad9.aegis.MainActivity}" drawable="quad9_connect" />
+
+	<!-- Quinb -->
+	<item component="ComponentInfo{xyz.deepdaikon.quinb/xyz.deepdaikon.quinb.MainActivity}" drawable="quinb" />
+
+	<!-- RealCalc -->
+	<item component="ComponentInfo{uk.co.nickfines.RealCalcPlus/uk.co.nickfines.RealCalcPlus.Calculator}" drawable="realcalc" />
+
+	<!-- Registrieren -->
+	<item component="ComponentInfo{com.bullitt.catphones.register.app/com.bullitt.catphones.register.app.MainActivity}" drawable="registrieren" />
+
+	<!-- Republik -->
+	<item component="ComponentInfo{app.republik/app.republik.MainActivity}" drawable="republik" />
+
+	<!-- Saisonale Früchte und Gemüse -->
+	<item component="ComponentInfo{ch.zh.rh.seasonalfruitsandvegetables/ch.zh.rh.seasonalfruitsandvegetables.MainActivity}" drawable="saisonale_fruchte_und_gemuse" />
+
+	<!-- Saisonkalender -->
+	<item component="ComponentInfo{flunzmas.seasoncalendar/flunzmas.seasoncalendar.MainActivity}" drawable="saisonkalender" />
+
+	<!-- Sammelkalender -->
+	<item component="ComponentInfo{ch.sammelkalender.app2020/ch.sammelkalender.app2020.MainActivity}" drawable="sammelkalender" />
+
+	<!-- SBB Mobile -->
+	<item component="ComponentInfo{ch.sbb.mobile.android.b2c/ch.sbb.mobile.android.vnext.splashscreen.SplashScreenActivity}" drawable="sbb_mobile" />
+
+	<!-- ScreenCam -->
+	<item component="ComponentInfo{com.orpheusdroid.screenrecorder/com.orpheusdroid.screenrecorder.ui.MainActivity}" drawable="screencam" />
+
+	<!-- SoundCloud -->
+	<item component="ComponentInfo{com.soundcloud.android/com.soundcloud.android.launcher.LauncherActivity}" drawable="soundcloud" />
+
+	<!-- SoundHound ∞ -->
+	<item component="ComponentInfo{com.melodis.midomiMusicIdentifier/com.soundhound.android.appcommon.activity.SplashScreenActivity}" drawable="soundhound_∞" />
+
+	<!-- Spotube -->
+	<item component="ComponentInfo{oss.krtirtho.spotube/com.ryanheise.audioservice.AudioServiceActivity}" drawable="spotube" />
+
+	<!-- Stocks Widget -->
+	<item component="ComponentInfo{com.github.premnirmal.tickerwidget/com.github.premnirmal.ticker.home.MainActivity}" drawable="stocks_widget" />
+
+	<!-- Street­Complete -->
+	<item component="ComponentInfo{de.westnordost.streetcomplete/de.westnordost.streetcomplete.screens.MainActivity}" drawable="street­complete" />
+
+	<!-- Swiss Post -->
+	<item component="ComponentInfo{com.nth.swisspost/crc64949597a28fd8c3d8.MainActivity}" drawable="swiss_post" />
+
+	<!-- swisstopo -->
+	<item component="ComponentInfo{ch.admin.swisstopo/ch.admin.swisstopo.MainActivity}" drawable="swisstopo" />
+
+	<!-- Syncthing -->
+	<item component="ComponentInfo{com.nutomic.syncthingandroid/com.nutomic.syncthingandroid.activities.FirstStartActivity}" drawable="syncthing" />
+
+	<!-- Talk -->
+	<item component="ComponentInfo{com.nextcloud.talk2/com.nextcloud.talk.activities.MainActivity}" drawable="talk" />
+
+	<!-- Tapet -->
+	<item component="ComponentInfo{com.sharpregion.tapet/com.sharpregion.tapet.root.RootActivity}" drawable="tapet" />
+
+	<!-- Tonkeeper -->
+	<item component="ComponentInfo{com.ton_keeper/com.ton_keeper.MainActivity}" drawable="tonkeeper" />
+
+	<!-- Too Good To Go -->
+	<item component="ComponentInfo{com.app.tgtg/com.app.tgtg.activities.login.SplashActivity}" drawable="too_good_to_go" />
+
+	<!-- Toolbox -->
+	<item component="ComponentInfo{com.toolbox.app/com.toolbox.app.TrustedMainActivity}" drawable="toolbox" />
+
+	<!-- Tricount -->
+	<item component="ComponentInfo{com.tribab.tricount.android/com.tribab.tricount.android.view.activity.SplashActivity}" drawable="tricount" />
+
+	<!-- TWINT -->
+	<item component="ComponentInfo{ch.postfinance.twint.android/ch.twint.payment.ui.activities.start.StartActivity}" drawable="twint" />
+
+	<!-- Typewise Offline -->
+	<item component="ComponentInfo{ch.icoaching.wrio/ch.icoaching.ionic.MainActivity}" drawable="typewise_offline" />
+
+	<!-- Vibrance HDR -->
+	<item component="ComponentInfo{uk.org.opencamera.vibrancehdr/uk.org.opencamera.vibrancehdr.MainActivity}" drawable="vibrance_hdr" />
+
+	<!-- Vivino -->
+	<item component="ComponentInfo{vivino.web.app/com.sphinx_solution.Launcher}" drawable="vivino" />
+
+	<!-- VoteInfo -->
+	<item component="ComponentInfo{ch.bk.voteinfo/ch.bk.voteinfo.MainActivity}" drawable="voteinfo" />
+
+	<!-- Voyager -->
+	<item component="ComponentInfo{app.vger.voyager/app.vger.voyager.psych}" drawable="voyager" />
+
+	<!-- Welt Geographie -->
+	<item component="ComponentInfo{com.age.wgg.appspot/com.age.wgg.appspot.Main}" drawable="welt_geographie" />
+
+	<!-- Xeonjia -->
+	<item component="ComponentInfo{xyz.deepdaikon.xeonjia/xyz.deepdaikon.xeonjia.MainActivity}" drawable="xeonjia" />
+
+	<!-- Yuka -->
+	<item component="ComponentInfo{io.yuka.android/io.yuka.android.main.RootActivity}" drawable="yuka" />
+
+</resources>
