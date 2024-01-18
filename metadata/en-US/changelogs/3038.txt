@@ -1,2 +1,2 @@
-- Added Viber, Wear OS
+- Added Viber, Wear OS, Battery Log, Fire TV, imo Lite, LogFox, PCAPdroid, Play Deals, Simple Play Integrity Checker, Stremio, Swift Backup
 - Updated KeePassDX

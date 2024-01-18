@@ -1569,5 +1569,14 @@
 	<AppIcon name="com.kunzisoft.keepass.free/com.kunzisoft.keepass.activities.FileDatabaseSelectActivity" image="keepassdx"/>
 	<AppIcon name="com.viber.voip/com.viber.voip.WelcomeActivity" image="viber"/>
 	<AppIcon name="com.google.android.wearable.app/com.google.android.clockwork.companion.launcher.LauncherActivity" image="wear_os"/>
+	<AppIcon name="kr.hwangti.batterylog/kr.hwangti.batterylog.MainActivity" image="battery_log"/>
+	<AppIcon name="com.amazon.storm.lightning.client.aosp/com.amazon.bison.SplashScreen" image="fire_tv"/>
+	<AppIcon name="com.imo.android.imoimlite/com.imo.android.imoim.activities.Home" image="imo_lite"/>
+	<AppIcon name="com.f0x1d.logfox/com.f0x1d.logfox.ui.activity.MainActivity" image="logfox"/>
+	<AppIcon name="com.emanuelef.remote_capture/com.emanuelef.remote_capture.activities.MainActivity" image="pcapdroid"/>
+	<AppIcon name="me.sujanpoudel.playdeals/me.sujanpoudel.playdeals.MainActivity" image="play_deals"/>
+	<AppIcon name="com.henrikherzig.playintegritychecker/com.henrikherzig.playintegritychecker.MainActivity" image="simple_play_integrity_checker"/>
+	<AppIcon name="com.stremio.one/com.stremio.MainActivity" image="stremio"/>
+	<AppIcon name="org.swiftapps.swiftbackup/org.swiftapps.swiftbackup.intro.IntroActivity" image="swift_backup"/>
 
 </Theme>

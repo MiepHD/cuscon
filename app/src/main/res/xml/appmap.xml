@@ -1558,5 +1558,14 @@
 	<item class="com.kunzisoft.keepass.activities.FileDatabaseSelectActivity" name="keepassdx"/>
 	<item class="com.viber.voip.WelcomeActivity" name="viber"/>
 	<item class="com.google.android.clockwork.companion.launcher.LauncherActivity" name="wear_os"/>
+	<item class="kr.hwangti.batterylog.MainActivity" name="battery_log"/>
+	<item class="com.amazon.bison.SplashScreen" name="fire_tv"/>
+	<item class="com.imo.android.imoim.activities.Home" name="imo_lite"/>
+	<item class="com.f0x1d.logfox.ui.activity.MainActivity" name="logfox"/>
+	<item class="com.emanuelef.remote_capture.activities.MainActivity" name="pcapdroid"/>
+	<item class="me.sujanpoudel.playdeals.MainActivity" name="play_deals"/>
+	<item class="com.henrikherzig.playintegritychecker.MainActivity" name="simple_play_integrity_checker"/>
+	<item class="com.stremio.MainActivity" name="stremio"/>
+	<item class="org.swiftapps.swiftbackup.intro.IntroActivity" name="swift_backup"/>
 
 </appmap>

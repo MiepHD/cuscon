@@ -1485,5 +1485,14 @@
 	<item drawable="soundhound" />
 	<item drawable="viber" />
 	<item drawable="wear_os" />
+	<item drawable="battery_log" />
+	<item drawable="fire_tv" />
+	<item drawable="imo_lite" />
+	<item drawable="logfox" />
+	<item drawable="pcapdroid" />
+	<item drawable="play_deals" />
+	<item drawable="simple_play_integrity_checker" />
+	<item drawable="stremio" />
+	<item drawable="swift_backup" />
 
 </resources>
