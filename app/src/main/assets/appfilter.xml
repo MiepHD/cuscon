@@ -1576,5 +1576,16 @@
 	<item component="ComponentInfo{com.pearlauncher.pearlauncher/com.pearlauncher.pearlauncher.PearLauncher}" drawable="pear_launcher" />
 	<item component="ComponentInfo{com.melodis.midomiMusicIdentifier/com.soundhound.android.appcommon.activity.SplashScreenActivity}" drawable="soundhound" />
 	<item component="ComponentInfo{com.kunzisoft.keepass.free/com.kunzisoft.keepass.activities.FileDatabaseSelectActivity}" drawable="keepassdx" />
+	<item component="ComponentInfo{com.viber.voip/com.viber.voip.WelcomeActivity}" drawable="viber" />
+	<item component="ComponentInfo{com.google.android.wearable.app/com.google.android.clockwork.companion.launcher.LauncherActivity}" drawable="wear_os" />
+	<item component="ComponentInfo{kr.hwangti.batterylog/kr.hwangti.batterylog.MainActivity}" drawable="battery_log" />
+	<item component="ComponentInfo{com.amazon.storm.lightning.client.aosp/com.amazon.bison.SplashScreen}" drawable="fire_tv" />
+	<item component="ComponentInfo{com.imo.android.imoimlite/com.imo.android.imoim.activities.Home}" drawable="imo_lite" />
+	<item component="ComponentInfo{com.f0x1d.logfox/com.f0x1d.logfox.ui.activity.MainActivity}" drawable="logfox" />
+	<item component="ComponentInfo{com.emanuelef.remote_capture/com.emanuelef.remote_capture.activities.MainActivity}" drawable="pcapdroid" />
+	<item component="ComponentInfo{me.sujanpoudel.playdeals/me.sujanpoudel.playdeals.MainActivity}" drawable="play_deals" />
+	<item component="ComponentInfo{com.henrikherzig.playintegritychecker/com.henrikherzig.playintegritychecker.MainActivity}" drawable="simple_play_integrity_checker" />
+	<item component="ComponentInfo{com.stremio.one/com.stremio.MainActivity}" drawable="stremio" />
+	<item component="ComponentInfo{org.swiftapps.swiftbackup/org.swiftapps.swiftbackup.intro.IntroActivity}" drawable="swift_backup" />
 
 </resources>
