@@ -1576,5 +1576,7 @@
 	<item component="ComponentInfo{com.pearlauncher.pearlauncher/com.pearlauncher.pearlauncher.PearLauncher}" drawable="pear_launcher" />
 	<item component="ComponentInfo{com.melodis.midomiMusicIdentifier/com.soundhound.android.appcommon.activity.SplashScreenActivity}" drawable="soundhound" />
 	<item component="ComponentInfo{com.kunzisoft.keepass.free/com.kunzisoft.keepass.activities.FileDatabaseSelectActivity}" drawable="keepassdx" />
+	<item component="ComponentInfo{com.viber.voip/com.viber.voip.WelcomeActivity}" drawable="viber" />
+	<item component="ComponentInfo{com.google.android.wearable.app/com.google.android.clockwork.companion.launcher.LauncherActivity}" drawable="wear_os" />
 
 </resources>

@@ -1483,5 +1483,7 @@
 	<item drawable="imo_hd" />
 	<item drawable="pear_launcher" />
 	<item drawable="soundhound" />
+	<item drawable="viber" />
+	<item drawable="wear_os" />
 
 </resources>

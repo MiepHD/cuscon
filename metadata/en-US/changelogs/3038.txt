@@ -1,1 +1,2 @@
-Updated KeePassDX
+- Added Viber, Wear OS
+- Updated KeePassDX
