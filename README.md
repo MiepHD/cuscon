@@ -13,6 +13,9 @@ This icon pack makes your home screen varied and dynamic. As there is no backgro
 
 Or download the latest APK from the [Releases Section](https://github.com/MiepHD/cuscon/releases/latest).
 
+# Donate
+https://www.patreon.com/Cuscon
+
 # Requests
 
 Please send requests to <a href="mailto:cuscon-requests@froxot.de">cuscon-requests@froxot.de</a>
