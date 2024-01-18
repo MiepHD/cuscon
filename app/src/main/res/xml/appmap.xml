@@ -1555,5 +1555,6 @@
 	<item class="com.imo.android.imoim.activities.Home" name="imo_hd"/>
 	<item class="com.pearlauncher.pearlauncher.PearLauncher" name="pear_launcher"/>
 	<item class="com.soundhound.android.appcommon.activity.SplashScreenActivity" name="soundhound"/>
+	<item class="com.kunzisoft.keepass.activities.FileDatabaseSelectActivity" name="keepassdx"/>
 
 </appmap>

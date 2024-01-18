@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="changelog_date">16.01.2024</string>
+    <string name="changelog_date">18.01.2024</string>
     <string-array name="changelog">
+        <item>3.0.3.8:</item>
+        <item>Updated KeePassDX</item>
         <item>3.0.3.7:</item>
         <item>Added 8Bit Photo Lab, Battle.net, Authenticator, DataCamp, Days Counter, Deck, Drive, DS note, Dungeon Crawl Stone Soup, Dynalist, Everest, Exodus, Feeder, FFShare, FolderSync, JBL Portable, Joplin, Meine Bibliothek, Migros, Mobility Carsharing, NeverTooManyBooks, Nextcloud Cookbook, Nonocross, OsmAnd, PaperCraft, parentu, pCloud, PeakFinder, Photos, Play SRF, Plees Tracker, Podcast Addict, Polarsteps, PostFinance, Programm zur Verbesserung der Benutzerfreundlichkeit, Registrieren, Republik, Saisonkalender, SBB Mobile, ScreenCam, SoundCloud, Spotube, Stocks Widget, Swiss Post, Talk, Tapet, Tonkeeper, Too Good To Go, Tricount, Vivino, Yuka, Action Launcher, AIO Launcher, Alarmy, Another Widget, imo HD, Pear Launcher</item>
         <item>Updated Aves</item>
