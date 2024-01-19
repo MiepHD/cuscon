@@ -244,7 +244,7 @@
 	<item component="ComponentInfo{org.schabi.newpipelegacy/org.schabi.newpipelegacy.MainActivity}" drawable="newpipe_legacy" />
 
 	<!-- NewPipe preunified -->
-	<item component="ComponentInfo{org.schabi.newpipe.preunified/org.schabi.newpipe.MainActivity}" drawable="newpipe_preunified" />
+	<item component="ComponentInfo{org.schabi.newpipe.preunified/org.schabi.newpipe.MainActivity}" drawable="newpipe_legacy" />
 
 	<!-- NoFasel -->
 	<item component="ComponentInfo{com.n00nedev.nofasel/com.n00nedev.nofasel.MainActivity}" drawable="nofasel" />

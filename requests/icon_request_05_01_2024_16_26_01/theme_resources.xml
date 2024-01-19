@@ -244,7 +244,7 @@
 	<AppIcon name="org.schabi.newpipelegacy/org.schabi.newpipelegacy.MainActivity" image="newpipe_legacy"/>
 
 	<!-- NewPipe preunified -->
-	<AppIcon name="org.schabi.newpipe.preunified/org.schabi.newpipe.MainActivity" image="newpipe_preunified"/>
+	<AppIcon name="org.schabi.newpipe.preunified/org.schabi.newpipe.MainActivity" image="newpipe_legacy"/>
 
 	<!-- NoFasel -->
 	<AppIcon name="com.n00nedev.nofasel/com.n00nedev.nofasel.MainActivity" image="nofasel"/>

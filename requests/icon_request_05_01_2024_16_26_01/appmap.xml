@@ -244,7 +244,7 @@
 	<item class="org.schabi.newpipelegacy.MainActivity" name="newpipe_legacy"/>
 
 	<!-- NewPipe preunified -->
-	<item class="org.schabi.newpipe.MainActivity" name="newpipe_preunified"/>
+	<item class="org.schabi.newpipe.MainActivity" name="newpipe_legacy"/>
 
 	<!-- NoFasel -->
 	<item class="com.n00nedev.nofasel.MainActivity" name="nofasel"/>
