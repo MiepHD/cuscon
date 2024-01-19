@@ -1540,5 +1540,22 @@
 	<item drawable="usertesting" />
 	<item drawable="write_on_pdf" />
 	<item drawable="yet_another_call_blocker" />
+	<item drawable="resso" />
+	<item drawable="anytype" />
+	<item drawable="apple_music" />
+	<item drawable="classical" />
+	<item drawable="composer" />
+	<item drawable="hypatia" />
+	<item drawable="lesspass" />
+	<item drawable="network_speed" />
+	<item drawable="pdf_viewer" />
+	<item drawable="pixel_buds" />
+	<item drawable="rethink" />
+	<item drawable="round_sync" />
+	<item drawable="savertuner" />
+	<item drawable="session" />
+	<item drawable="wallflow_plus" />
+	<item drawable="wallman" />
+	<item drawable="back_market" />
 
 </resources>

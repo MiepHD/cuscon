@@ -1635,5 +1635,23 @@
 	<item component="ComponentInfo{com.usertesting.recorder.krsna/com.usertesting.recorder.startup.splash.SplashActivity}" drawable="usertesting" />
 	<item component="ComponentInfo{com.samsung.android.spdfnote/spdfnote.control.ui.filemanager.MainHomeActivity}" drawable="write_on_pdf" />
 	<item component="ComponentInfo{dummydomain.yetanothercallblocker/dummydomain.yetanothercallblocker.MainActivity}" drawable="yet_another_call_blocker" />
+	<item component="ComponentInfo{com.moonvideo.android.resso/com.anote.android.bach.app.SplashActivity}" drawable="resso" />
+	<item component="ComponentInfo{chat.simplex.app/chat.simplex.app.MainActivity_dark_blue}" drawable="simplex" />
+	<item component="ComponentInfo{io.anytype.app/com.anytypeio.anytype.ui.main.MainActivity}" drawable="anytype" />
+	<item component="ComponentInfo{com.apple.android.music/com.apple.android.music.onboarding.activities.SplashActivity}" drawable="apple_music" />
+	<item component="ComponentInfo{com.apple.android.music.classical/com.apple.android.music.classical.app.features.launcherscreen.ui.LauncherActivity}" drawable="classical" />
+	<item component="ComponentInfo{com.nothing.glyph.composer/com.nothing.glyph.composer.ui.MainActivity}" drawable="composer" />
+	<item component="ComponentInfo{us.spotco.malwarescanner/us.spotco.malwarescanner.MainActivity}" drawable="hypatia" />
+	<item component="ComponentInfo{com.lesspass.android/com.lesspass.android.MainActivity}" drawable="lesspass" />
+	<item component="ComponentInfo{com.evozi.network/com.evozi.network.view.MainActivity}" drawable="network_speed" />
+	<item component="ComponentInfo{app.grapheneos.pdfviewer/app.grapheneos.pdfviewer.PdfViewer}" drawable="pdf_viewer" />
+	<item component="ComponentInfo{com.google.android.apps.wearables.maestro.companion/com.google.android.apps.wearables.maestro.companion.ui.ShortCutActivity}" drawable="pixel_buds" />
+	<item component="ComponentInfo{com.celzero.bravedns/com.celzero.bravedns.ui.HomeScreenActivity}" drawable="rethink" />
+	<item component="ComponentInfo{de.felixnuesse.extract/ca.pkay.rcloneexplorer.Activities.MainActivity}" drawable="round_sync" />
+	<item component="ComponentInfo{s1m.savertuner/com.draco.buoy.views.MainActivity}" drawable="savertuner" />
+	<item component="ComponentInfo{network.loki.messenger/network.loki.messenger.RoutingActivity}" drawable="session" />
+	<item component="ComponentInfo{com.ammar.wallflow.plus/com.ammar.wallflow.activities.main.MainActivity}" drawable="wallflow_plus" />
+	<item component="ComponentInfo{com.colorata.wallman/com.colorata.wallman.shared.MainActivity}" drawable="wallman" />
+	<item component="ComponentInfo{com.backmarket/com.backmarket.Launcher}" drawable="back_market" />
 
 </resources>
