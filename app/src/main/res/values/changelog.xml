@@ -2,6 +2,8 @@
 <resources>
     <string name="changelog_date">18.01.2024</string>
     <string-array name="changelog">
+        <item>3.0.3.9:</item>
+        <item>Updated Feeder, Signal</item>
         <item>3.0.3.8:</item>
         <item>Added Viber, Wear OS, Battery Log, Fire TV, imo Lite, LogFox, PCAPdroid, Play Deals, Simple Play Integrity Checker, Stremio, Swift Backup</item>
         <item>Updated KeePassDX</item>

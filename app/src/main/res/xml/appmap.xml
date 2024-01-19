@@ -1567,5 +1567,7 @@
 	<item class="com.henrikherzig.playintegritychecker.MainActivity" name="simple_play_integrity_checker"/>
 	<item class="com.stremio.MainActivity" name="stremio"/>
 	<item class="org.swiftapps.swiftbackup.intro.IntroActivity" name="swift_backup"/>
+	<item class="com.nononsenseapps.feeder.ui.MainActivity" name="feeder"/>
+	<item class="org.thoughtcrime.securesms.RoutingActivityAltDark" name="signal"/>
 
 </appmap>

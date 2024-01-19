@@ -1578,5 +1578,7 @@
 	<AppIcon name="com.henrikherzig.playintegritychecker/com.henrikherzig.playintegritychecker.MainActivity" image="simple_play_integrity_checker"/>
 	<AppIcon name="com.stremio.one/com.stremio.MainActivity" image="stremio"/>
 	<AppIcon name="org.swiftapps.swiftbackup/org.swiftapps.swiftbackup.intro.IntroActivity" image="swift_backup"/>
+	<AppIcon name="com.nononsenseapps.feeder/com.nononsenseapps.feeder.ui.MainActivity" image="feeder"/>
+	<AppIcon name="org.thoughtcrime.securesms/org.thoughtcrime.securesms.RoutingActivityAltDark" image="signal"/>
 
 </Theme>
