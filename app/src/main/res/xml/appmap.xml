@@ -1615,5 +1615,6 @@
 	<item class="com.usertesting.recorder.startup.splash.SplashActivity" name="usertesting"/>
 	<item class="spdfnote.control.ui.filemanager.MainHomeActivity" name="write_on_pdf"/>
 	<item class="dummydomain.yetanothercallblocker.MainActivity" name="yet_another_call_blocker"/>
+	<item class="com.anote.android.bach.app.SplashActivity" name="resso"/>
 
 </appmap>

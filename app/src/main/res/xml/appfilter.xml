@@ -1635,5 +1635,6 @@
 	<item component="ComponentInfo{com.usertesting.recorder.krsna/com.usertesting.recorder.startup.splash.SplashActivity}" drawable="usertesting" />
 	<item component="ComponentInfo{com.samsung.android.spdfnote/spdfnote.control.ui.filemanager.MainHomeActivity}" drawable="write_on_pdf" />
 	<item component="ComponentInfo{dummydomain.yetanothercallblocker/dummydomain.yetanothercallblocker.MainActivity}" drawable="yet_another_call_blocker" />
+	<item component="ComponentInfo{com.moonvideo.android.resso/com.anote.android.bach.app.SplashActivity}" drawable="resso" />
 
 </resources>
