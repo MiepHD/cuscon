@@ -14,6 +14,7 @@ This icon pack makes your home screen varied and dynamic. As there is no backgro
 Or download the latest APK from the [Releases Section](https://github.com/MiepHD/cuscon/releases/latest).
 
 # Donate
+
 https://www.patreon.com/Cuscon
 
 # Requests
@@ -22,7 +23,7 @@ Please send requests to <a href="mailto:cuscon-requests@froxot.de">cuscon-reques
 
 # Pull Requests
 
-If you want to contribute icons, you can use the icons under `requests` or send a icon request to yourself to get the things you need. Then edit the icons so they match the criteria (Requirements for contributing icons). These go to `app\src\main\res\drawable-nodpi`. After that, extract the parts for your icons from the xml files and paste these in the corresponding files in `app\src\main\res\xml`. Finally, create a pull request with these changes.<br>
+If you want to contribute icons, you can use the icons under `requests` or send a icon request to yourself to get the things you need. Then edit the icons so they match the criteria (Requirements for contributing icons). These go to `app\src\main\res\drawable-nodpi`. After that, extract the parts for your icons from the xml files and paste these in the corresponding files in `app\src\main\res\xml`. To do this easier especially when you only want a part of a request you can use the extractor.py. Install python if you don't have it then run `python ..\extractor.py ` as arguments use the filenames of the icons without fileextension. This will first output the names, then appfilter, appmap and theme_resources. Finally, create a pull request with these changes.<br>
 
 <b>If you just want to create the image, please upload it with the corresponding data in the xml files as an issue.</b>
 
