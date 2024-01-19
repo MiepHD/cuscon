@@ -1627,5 +1627,21 @@
 	<AppIcon name="com.samsung.android.spdfnote/spdfnote.control.ui.filemanager.MainHomeActivity" image="write_on_pdf"/>
 	<AppIcon name="dummydomain.yetanothercallblocker/dummydomain.yetanothercallblocker.MainActivity" image="yet_another_call_blocker"/>
 	<AppIcon name="com.moonvideo.android.resso/com.anote.android.bach.app.SplashActivity" image="resso"/>
+	<AppIcon name="chat.simplex.app/chat.simplex.app.MainActivity_dark_blue" image="simplex"/>
+	<AppIcon name="io.anytype.app/com.anytypeio.anytype.ui.main.MainActivity" image="anytype"/>
+	<AppIcon name="com.apple.android.music/com.apple.android.music.onboarding.activities.SplashActivity" image="apple_music"/>
+	<AppIcon name="com.apple.android.music.classical/com.apple.android.music.classical.app.features.launcherscreen.ui.LauncherActivity" image="classical"/>
+	<AppIcon name="com.nothing.glyph.composer/com.nothing.glyph.composer.ui.MainActivity" image="composer"/>
+	<AppIcon name="us.spotco.malwarescanner/us.spotco.malwarescanner.MainActivity" image="hypatia"/>
+	<AppIcon name="com.lesspass.android/com.lesspass.android.MainActivity" image="lesspass"/>
+	<AppIcon name="com.evozi.network/com.evozi.network.view.MainActivity" image="network_speed"/>
+	<AppIcon name="app.grapheneos.pdfviewer/app.grapheneos.pdfviewer.PdfViewer" image="pdf_viewer"/>
+	<AppIcon name="com.google.android.apps.wearables.maestro.companion/com.google.android.apps.wearables.maestro.companion.ui.ShortCutActivity" image="pixel_buds"/>
+	<AppIcon name="com.celzero.bravedns/com.celzero.bravedns.ui.HomeScreenActivity" image="rethink"/>
+	<AppIcon name="de.felixnuesse.extract/ca.pkay.rcloneexplorer.Activities.MainActivity" image="round_sync"/>
+	<AppIcon name="s1m.savertuner/com.draco.buoy.views.MainActivity" image="savertuner"/>
+	<AppIcon name="network.loki.messenger/network.loki.messenger.RoutingActivity" image="session"/>
+	<AppIcon name="com.ammar.wallflow.plus/com.ammar.wallflow.activities.main.MainActivity" image="wallflow_plus"/>
+	<AppIcon name="com.colorata.wallman/com.colorata.wallman.shared.MainActivity" image="wallman"/>
 
 </Theme>

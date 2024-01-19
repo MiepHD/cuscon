@@ -3,8 +3,8 @@
     <string name="changelog_date">18.01.2024</string>
     <string-array name="changelog">
         <item>3.0.3.9:</item>
-        <item>Added ACR Phone, Adblock Fast, AdBlock for Samsung Internet, Alpi Maps, Audile, Apk Extractor, BlockBuster, Weather, Chd Bus Routes, Discreet Launcher, dvd, Frost, G-Droid, Gallery, GameSir, GApps Browser, HouseSigma, Jugnoo, JustChess, lemmur, Linebit, Magic Earth, Musify, Neo Launcher, NewPipe Legacy, NewPipe preunified, NoFasel, Nozzle, OpenVPN for Android, Organic Maps (Beta), Package Viewer, Popup Widget, Pulse Music, QKSMS, Rocks n Diamonds, Scotiabank, Shosetsu, SongTube, sudoku, Tangerine, TC, TC, TradingView, UserTesting, Write on PDF, Yet Another Call Blocker, Resso</item>
-        <item>Updated Feeder, Signal</item>
+        <item>Added ACR Phone, Adblock Fast, AdBlock for Samsung Internet, Alpi Maps, Audile, Apk Extractor, BlockBuster, Weather, Chd Bus Routes, Discreet Launcher, dvd, Frost, G-Droid, Gallery, GameSir, GApps Browser, HouseSigma, Jugnoo, JustChess, lemmur, Linebit, Magic Earth, Musify, Neo Launcher, NewPipe Legacy, NewPipe preunified, NoFasel, Nozzle, OpenVPN for Android, Organic Maps (Beta), Package Viewer, Popup Widget, Pulse Music, QKSMS, Rocks n Diamonds, Scotiabank, Shosetsu, SongTube, sudoku, Tangerine, TC, TC, TradingView, UserTesting, Write on PDF, Yet Another Call Blocker, Resso, Anytype, Apple Music, Classical, Composer, Hypatia, LessPass, Network Speed, PDF Viewer, Pixel Buds, Rethink, Round Sync, SaverTuner, Session, WallFlow Plus, WallMan</item>
+        <item>Updated Feeder, Signal, SimpleX</item>
         <item>3.0.3.8:</item>
         <item>Added Viber, Wear OS, Battery Log, Fire TV, imo Lite, LogFox, PCAPdroid, Play Deals, Simple Play Integrity Checker, Stremio, Swift Backup</item>
         <item>Updated KeePassDX</item>

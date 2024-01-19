@@ -1616,5 +1616,21 @@
 	<item class="spdfnote.control.ui.filemanager.MainHomeActivity" name="write_on_pdf"/>
 	<item class="dummydomain.yetanothercallblocker.MainActivity" name="yet_another_call_blocker"/>
 	<item class="com.anote.android.bach.app.SplashActivity" name="resso"/>
+	<item class="chat.simplex.app.MainActivity_dark_blue" name="simplex"/>
+	<item class="com.anytypeio.anytype.ui.main.MainActivity" name="anytype"/>
+	<item class="com.apple.android.music.onboarding.activities.SplashActivity" name="apple_music"/>
+	<item class="com.apple.android.music.classical.app.features.launcherscreen.ui.LauncherActivity" name="classical"/>
+	<item class="com.nothing.glyph.composer.ui.MainActivity" name="composer"/>
+	<item class="us.spotco.malwarescanner.MainActivity" name="hypatia"/>
+	<item class="com.lesspass.android.MainActivity" name="lesspass"/>
+	<item class="com.evozi.network.view.MainActivity" name="network_speed"/>
+	<item class="app.grapheneos.pdfviewer.PdfViewer" name="pdf_viewer"/>
+	<item class="com.google.android.apps.wearables.maestro.companion.ui.ShortCutActivity" name="pixel_buds"/>
+	<item class="com.celzero.bravedns.ui.HomeScreenActivity" name="rethink"/>
+	<item class="ca.pkay.rcloneexplorer.Activities.MainActivity" name="round_sync"/>
+	<item class="com.draco.buoy.views.MainActivity" name="savertuner"/>
+	<item class="network.loki.messenger.RoutingActivity" name="session"/>
+	<item class="com.ammar.wallflow.activities.main.MainActivity" name="wallflow_plus"/>
+	<item class="com.colorata.wallman.shared.MainActivity" name="wallman"/>
 
 </appmap>
