@@ -1589,5 +1589,51 @@
 	<item component="ComponentInfo{org.swiftapps.swiftbackup/org.swiftapps.swiftbackup.intro.IntroActivity}" drawable="swift_backup" />
 	<item component="ComponentInfo{com.nononsenseapps.feeder/com.nononsenseapps.feeder.ui.MainActivity}" drawable="feeder" />
 	<item component="ComponentInfo{org.thoughtcrime.securesms/org.thoughtcrime.securesms.RoutingActivityAltDark}" drawable="signal" />
+	<item component="ComponentInfo{com.nll.cb/com.nll.cb.DefaultAlias}" drawable="acr_phone" />
+	<item component="ComponentInfo{com.rocketshipapps.adblockfast/com.rocketshipapps.adblockfast.MainActivity}" drawable="adblock_fast" />
+	<item component="ComponentInfo{com.betafish.adblocksbrowser/org.adblockplus.adblockplussbrowser.app.ui.LauncherActivity}" drawable="adblock_for_samsung_internet" />
+	<item component="ComponentInfo{akylas.alpi.maps/com.tns.NativeScriptActivity}" drawable="alpi_maps" />
+	<item component="ComponentInfo{com.mrsep.musicrecognizer/com.mrsep.musicrecognizer.presentation.MainActivity}" drawable="audile" />
+	<item component="ComponentInfo{axp.tool.apkextractor/axp.tool.apkextractor.MainActivity}" drawable="axp_apk_extractor" />
+	<item component="ComponentInfo{org.asafonov.blockbuster/org.asafonov.arkanoid.MainActivity}" drawable="blockbuster" />
+	<item component="ComponentInfo{org.breezyweather/org.breezyweather.main.MainActivity}" drawable="breezyweather" />
+	<item component="ComponentInfo{com.uwemo.chdbusroutes/com.uwemo.chdbusroutes.activities.main.MainActivity}" drawable="chd_bus_routes" />
+	<item component="ComponentInfo{com.vincent_falzon.discreetlauncher/com.vincent_falzon.discreetlauncher.ActivityMain}" drawable="discreet_launcher" />
+	<item component="ComponentInfo{org.yausername.dvd/org.yausername.dvd.ui.MainActivity}" drawable="dvd" />
+	<item component="ComponentInfo{com.pitchedapps.frost/com.pitchedapps.frost.StartActivity}" drawable="frost" />
+	<item component="ComponentInfo{org.gdroid.gdroid/org.gdroid.gdroid.MainActivity}" drawable="g_droid" />
+	<item component="ComponentInfo{org.fossify.gallery/org.fossify.gallery.activities.SplashActivity.Green}" drawable="gallery_green" />
+	<item component="ComponentInfo{com.xiaoji.xtouch.google/com.xiaoji.gameworld.activity.EntryActivity}" drawable="gamesir" />
+	<item component="ComponentInfo{com.tobykurien.google_news/com.tobykurien.google_news.GoogleNewsActivity}" drawable="gapps_browser" />
+	<item component="ComponentInfo{com.housesigma.android/com.housesigma.android.ui.splash.SplashActivity}" drawable="housesigma" />
+	<item component="ComponentInfo{product.clicklabs.jugnoo/product.clicklabs.jugnoo.SplashNewActivity}" drawable="jugnoo" />
+	<item component="ComponentInfo{com.alaskalinuxuser.justchess/com.alaskalinuxuser.justchess.IntroActivity}" drawable="justchess" />
+	<item component="ComponentInfo{com.krawieck.lemmur/com.krawieck.lemmur.MainActivity}" drawable="lemmur" />
+	<item component="ComponentInfo{com.edzondm.linebit/com.edzondm.linebit.MainActivity}" drawable="linebit" />
+	<item component="ComponentInfo{com.generalmagic.magicearth/com.magiclane.androidsphere.map.MapActivity}" drawable="magic_earth" />
+	<item component="ComponentInfo{com.gokadzev.musify/com.ryanheise.audioservice.AudioServiceActivity}" drawable="musify" />
+	<item component="ComponentInfo{com.saggitt.omega/com.saggitt.omega.OmegaLauncher}" drawable="neo_launcher" />
+	<item component="ComponentInfo{org.schabi.newpipelegacy/org.schabi.newpipelegacy.MainActivity}" drawable="newpipe_legacy" />
+	<item component="ComponentInfo{org.schabi.newpipe.preunified/org.schabi.newpipe.MainActivity}" drawable="newpipe_legacy" />
+	<item component="ComponentInfo{com.n00nedev.nofasel/com.n00nedev.nofasel.MainActivity}" drawable="nofasel" />
+	<item component="ComponentInfo{com.kaiwolfram.nozzle/com.kaiwolfram.nozzle.MainActivity}" drawable="nozzle" />
+	<item component="ComponentInfo{de.blinkt.openvpn/de.blinkt.openvpn.activities.MainActivity}" drawable="openvpn_for_android" />
+	<item component="ComponentInfo{app.organicmaps.beta/app.organicmaps.DownloadResourcesActivity}" drawable="organic_maps_beta_" />
+	<item component="ComponentInfo{cz.seeq.prog.android.packageviewer/cz.seeq.prog.android.packageviewer.PackagesActivity}" drawable="package_viewer" />
+	<item component="ComponentInfo{com.ss.popupWidget/com.ss.popupWidget.MainActivity}" drawable="popup_widget" />
+	<item component="ComponentInfo{com.hardcodecoder.pulsemusic/com.hardcodecoder.pulsemusic.activities.main.SplashActivity}" drawable="pulse_music" />
+	<item component="ComponentInfo{com.moez.QKSMS/com.moez.QKSMS.feature.main.MainActivity}" drawable="qksms" />
+	<item component="ComponentInfo{org.artsoft.rocksndiamonds/org.artsoft.rocksndiamonds.RocksNDiamonds}" drawable="rocks_n_diamonds" />
+	<item component="ComponentInfo{com.scotiabank.banking/com.scotiabank.nova.startup.StartupAlias}" drawable="scotiabank" />
+	<item component="ComponentInfo{app.shosetsu.android.fdroid/app.shosetsu.android.activity.MainActivity}" drawable="shosetsu" />
+	<item component="ComponentInfo{com.artxdev.songtube/com.ryanheise.audioservice.AudioServiceActivity}" drawable="songtube" />
+	<item component="ComponentInfo{org.benoitharrault.sudoku/org.benoitharrault.sudoku.MainActivity}" drawable="sudoku" />
+	<item component="ComponentInfo{ca.tangerine.clients.banking.app/ca.tangerine.MainActivity}" drawable="tangerine" />
+	<item component="ComponentInfo{net.kollnig.missioncontrol/eu.faircode.netguard.ActivityMain}" drawable="tc" />
+	<item component="ComponentInfo{net.kollnig.missioncontrol.fdroid/eu.faircode.netguard.ActivityMain}" drawable="tc" />
+	<item component="ComponentInfo{com.tradingview.tradingviewapp/com.tradingview.tradingviewapp.root.view.RootActivity}" drawable="tradingview" />
+	<item component="ComponentInfo{com.usertesting.recorder.krsna/com.usertesting.recorder.startup.splash.SplashActivity}" drawable="usertesting" />
+	<item component="ComponentInfo{com.samsung.android.spdfnote/spdfnote.control.ui.filemanager.MainHomeActivity}" drawable="write_on_pdf" />
+	<item component="ComponentInfo{dummydomain.yetanothercallblocker/dummydomain.yetanothercallblocker.MainActivity}" drawable="yet_another_call_blocker" />
 
 </resources>

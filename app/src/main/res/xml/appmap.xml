@@ -1569,5 +1569,51 @@
 	<item class="org.swiftapps.swiftbackup.intro.IntroActivity" name="swift_backup"/>
 	<item class="com.nononsenseapps.feeder.ui.MainActivity" name="feeder"/>
 	<item class="org.thoughtcrime.securesms.RoutingActivityAltDark" name="signal"/>
+	<item class="com.nll.cb.DefaultAlias" name="acr_phone"/>
+	<item class="com.rocketshipapps.adblockfast.MainActivity" name="adblock_fast"/>
+	<item class="org.adblockplus.adblockplussbrowser.app.ui.LauncherActivity" name="adblock_for_samsung_internet"/>
+	<item class="com.tns.NativeScriptActivity" name="alpi_maps"/>
+	<item class="com.mrsep.musicrecognizer.presentation.MainActivity" name="audile"/>
+	<item class="axp.tool.apkextractor.MainActivity" name="axp_apk_extractor"/>
+	<item class="org.asafonov.arkanoid.MainActivity" name="blockbuster"/>
+	<item class="org.breezyweather.main.MainActivity" name="breezyweather"/>
+	<item class="com.uwemo.chdbusroutes.activities.main.MainActivity" name="chd_bus_routes"/>
+	<item class="com.vincent_falzon.discreetlauncher.ActivityMain" name="discreet_launcher"/>
+	<item class="org.yausername.dvd.ui.MainActivity" name="dvd"/>
+	<item class="com.pitchedapps.frost.StartActivity" name="frost"/>
+	<item class="org.gdroid.gdroid.MainActivity" name="g_droid"/>
+	<item class="org.fossify.gallery.activities.SplashActivity.Green" name="gallery_green"/>
+	<item class="com.xiaoji.gameworld.activity.EntryActivity" name="gamesir"/>
+	<item class="com.tobykurien.google_news.GoogleNewsActivity" name="gapps_browser"/>
+	<item class="com.housesigma.android.ui.splash.SplashActivity" name="housesigma"/>
+	<item class="product.clicklabs.jugnoo.SplashNewActivity" name="jugnoo"/>
+	<item class="com.alaskalinuxuser.justchess.IntroActivity" name="justchess"/>
+	<item class="com.krawieck.lemmur.MainActivity" name="lemmur"/>
+	<item class="com.edzondm.linebit.MainActivity" name="linebit"/>
+	<item class="com.magiclane.androidsphere.map.MapActivity" name="magic_earth"/>
+	<item class="com.ryanheise.audioservice.AudioServiceActivity" name="musify"/>
+	<item class="com.saggitt.omega.OmegaLauncher" name="neo_launcher"/>
+	<item class="org.schabi.newpipelegacy.MainActivity" name="newpipe_legacy"/>
+	<item class="org.schabi.newpipe.MainActivity" name="newpipe_legacy"/>
+	<item class="com.n00nedev.nofasel.MainActivity" name="nofasel"/>
+	<item class="com.kaiwolfram.nozzle.MainActivity" name="nozzle"/>
+	<item class="de.blinkt.openvpn.activities.MainActivity" name="openvpn_for_android"/>
+	<item class="app.organicmaps.DownloadResourcesActivity" name="organic_maps_beta_"/>
+	<item class="cz.seeq.prog.android.packageviewer.PackagesActivity" name="package_viewer"/>
+	<item class="com.ss.popupWidget.MainActivity" name="popup_widget"/>
+	<item class="com.hardcodecoder.pulsemusic.activities.main.SplashActivity" name="pulse_music"/>
+	<item class="com.moez.QKSMS.feature.main.MainActivity" name="qksms"/>
+	<item class="org.artsoft.rocksndiamonds.RocksNDiamonds" name="rocks_n_diamonds"/>
+	<item class="com.scotiabank.nova.startup.StartupAlias" name="scotiabank"/>
+	<item class="app.shosetsu.android.activity.MainActivity" name="shosetsu"/>
+	<item class="com.ryanheise.audioservice.AudioServiceActivity" name="songtube"/>
+	<item class="org.benoitharrault.sudoku.MainActivity" name="sudoku"/>
+	<item class="ca.tangerine.MainActivity" name="tangerine"/>
+	<item class="eu.faircode.netguard.ActivityMain" name="tc"/>
+	<item class="eu.faircode.netguard.ActivityMain" name="tc"/>
+	<item class="com.tradingview.tradingviewapp.root.view.RootActivity" name="tradingview"/>
+	<item class="com.usertesting.recorder.startup.splash.SplashActivity" name="usertesting"/>
+	<item class="spdfnote.control.ui.filemanager.MainHomeActivity" name="write_on_pdf"/>
+	<item class="dummydomain.yetanothercallblocker.MainActivity" name="yet_another_call_blocker"/>
 
 </appmap>

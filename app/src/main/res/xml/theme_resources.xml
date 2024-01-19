@@ -1580,5 +1580,51 @@
 	<AppIcon name="org.swiftapps.swiftbackup/org.swiftapps.swiftbackup.intro.IntroActivity" image="swift_backup"/>
 	<AppIcon name="com.nononsenseapps.feeder/com.nononsenseapps.feeder.ui.MainActivity" image="feeder"/>
 	<AppIcon name="org.thoughtcrime.securesms/org.thoughtcrime.securesms.RoutingActivityAltDark" image="signal"/>
+	<AppIcon name="com.nll.cb/com.nll.cb.DefaultAlias" image="acr_phone"/>
+	<AppIcon name="com.rocketshipapps.adblockfast/com.rocketshipapps.adblockfast.MainActivity" image="adblock_fast"/>
+	<AppIcon name="com.betafish.adblocksbrowser/org.adblockplus.adblockplussbrowser.app.ui.LauncherActivity" image="adblock_for_samsung_internet"/>
+	<AppIcon name="akylas.alpi.maps/com.tns.NativeScriptActivity" image="alpi_maps"/>
+	<AppIcon name="com.mrsep.musicrecognizer/com.mrsep.musicrecognizer.presentation.MainActivity" image="audile"/>
+	<AppIcon name="axp.tool.apkextractor/axp.tool.apkextractor.MainActivity" image="axp_apk_extractor"/>
+	<AppIcon name="org.asafonov.blockbuster/org.asafonov.arkanoid.MainActivity" image="blockbuster"/>
+	<AppIcon name="org.breezyweather/org.breezyweather.main.MainActivity" image="breezyweather"/>
+	<AppIcon name="com.uwemo.chdbusroutes/com.uwemo.chdbusroutes.activities.main.MainActivity" image="chd_bus_routes"/>
+	<AppIcon name="com.vincent_falzon.discreetlauncher/com.vincent_falzon.discreetlauncher.ActivityMain" image="discreet_launcher"/>
+	<AppIcon name="org.yausername.dvd/org.yausername.dvd.ui.MainActivity" image="dvd"/>
+	<AppIcon name="com.pitchedapps.frost/com.pitchedapps.frost.StartActivity" image="frost"/>
+	<AppIcon name="org.gdroid.gdroid/org.gdroid.gdroid.MainActivity" image="g_droid"/>
+	<AppIcon name="org.fossify.gallery/org.fossify.gallery.activities.SplashActivity.Green" image="gallery_green"/>
+	<AppIcon name="com.xiaoji.xtouch.google/com.xiaoji.gameworld.activity.EntryActivity" image="gamesir"/>
+	<AppIcon name="com.tobykurien.google_news/com.tobykurien.google_news.GoogleNewsActivity" image="gapps_browser"/>
+	<AppIcon name="com.housesigma.android/com.housesigma.android.ui.splash.SplashActivity" image="housesigma"/>
+	<AppIcon name="product.clicklabs.jugnoo/product.clicklabs.jugnoo.SplashNewActivity" image="jugnoo"/>
+	<AppIcon name="com.alaskalinuxuser.justchess/com.alaskalinuxuser.justchess.IntroActivity" image="justchess"/>
+	<AppIcon name="com.krawieck.lemmur/com.krawieck.lemmur.MainActivity" image="lemmur"/>
+	<AppIcon name="com.edzondm.linebit/com.edzondm.linebit.MainActivity" image="linebit"/>
+	<AppIcon name="com.generalmagic.magicearth/com.magiclane.androidsphere.map.MapActivity" image="magic_earth"/>
+	<AppIcon name="com.gokadzev.musify/com.ryanheise.audioservice.AudioServiceActivity" image="musify"/>
+	<AppIcon name="com.saggitt.omega/com.saggitt.omega.OmegaLauncher" image="neo_launcher"/>
+	<AppIcon name="org.schabi.newpipelegacy/org.schabi.newpipelegacy.MainActivity" image="newpipe_legacy"/>
+	<AppIcon name="org.schabi.newpipe.preunified/org.schabi.newpipe.MainActivity" image="newpipe_legacy"/>
+	<AppIcon name="com.n00nedev.nofasel/com.n00nedev.nofasel.MainActivity" image="nofasel"/>
+	<AppIcon name="com.kaiwolfram.nozzle/com.kaiwolfram.nozzle.MainActivity" image="nozzle"/>
+	<AppIcon name="de.blinkt.openvpn/de.blinkt.openvpn.activities.MainActivity" image="openvpn_for_android"/>
+	<AppIcon name="app.organicmaps.beta/app.organicmaps.DownloadResourcesActivity" image="organic_maps_beta_"/>
+	<AppIcon name="cz.seeq.prog.android.packageviewer/cz.seeq.prog.android.packageviewer.PackagesActivity" image="package_viewer"/>
+	<AppIcon name="com.ss.popupWidget/com.ss.popupWidget.MainActivity" image="popup_widget"/>
+	<AppIcon name="com.hardcodecoder.pulsemusic/com.hardcodecoder.pulsemusic.activities.main.SplashActivity" image="pulse_music"/>
+	<AppIcon name="com.moez.QKSMS/com.moez.QKSMS.feature.main.MainActivity" image="qksms"/>
+	<AppIcon name="org.artsoft.rocksndiamonds/org.artsoft.rocksndiamonds.RocksNDiamonds" image="rocks_n_diamonds"/>
+	<AppIcon name="com.scotiabank.banking/com.scotiabank.nova.startup.StartupAlias" image="scotiabank"/>
+	<AppIcon name="app.shosetsu.android.fdroid/app.shosetsu.android.activity.MainActivity" image="shosetsu"/>
+	<AppIcon name="com.artxdev.songtube/com.ryanheise.audioservice.AudioServiceActivity" image="songtube"/>
+	<AppIcon name="org.benoitharrault.sudoku/org.benoitharrault.sudoku.MainActivity" image="sudoku"/>
+	<AppIcon name="ca.tangerine.clients.banking.app/ca.tangerine.MainActivity" image="tangerine"/>
+	<AppIcon name="net.kollnig.missioncontrol/eu.faircode.netguard.ActivityMain" image="tc"/>
+	<AppIcon name="net.kollnig.missioncontrol.fdroid/eu.faircode.netguard.ActivityMain" image="tc"/>
+	<AppIcon name="com.tradingview.tradingviewapp/com.tradingview.tradingviewapp.root.view.RootActivity" image="tradingview"/>
+	<AppIcon name="com.usertesting.recorder.krsna/com.usertesting.recorder.startup.splash.SplashActivity" image="usertesting"/>
+	<AppIcon name="com.samsung.android.spdfnote/spdfnote.control.ui.filemanager.MainHomeActivity" image="write_on_pdf"/>
+	<AppIcon name="dummydomain.yetanothercallblocker/dummydomain.yetanothercallblocker.MainActivity" image="yet_another_call_blocker"/>
 
 </Theme>
