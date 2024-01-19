@@ -1632,5 +1632,6 @@
 	<item class="network.loki.messenger.RoutingActivity" name="session"/>
 	<item class="com.ammar.wallflow.activities.main.MainActivity" name="wallflow_plus"/>
 	<item class="com.colorata.wallman.shared.MainActivity" name="wallman"/>
+	<item class="com.backmarket.Launcher" name="back_market"/>
 
 </appmap>

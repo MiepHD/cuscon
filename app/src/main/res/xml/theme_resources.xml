@@ -1643,5 +1643,6 @@
 	<AppIcon name="network.loki.messenger/network.loki.messenger.RoutingActivity" image="session"/>
 	<AppIcon name="com.ammar.wallflow.plus/com.ammar.wallflow.activities.main.MainActivity" image="wallflow_plus"/>
 	<AppIcon name="com.colorata.wallman/com.colorata.wallman.shared.MainActivity" image="wallman"/>
+	<AppIcon name="com.backmarket/com.backmarket.Launcher" image="back_market"/>
 
 </Theme>

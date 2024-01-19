@@ -1556,5 +1556,6 @@
 	<item drawable="session" />
 	<item drawable="wallflow_plus" />
 	<item drawable="wallman" />
+	<item drawable="back_market" />
 
 </resources>

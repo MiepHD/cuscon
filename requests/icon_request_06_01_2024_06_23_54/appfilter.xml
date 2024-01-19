@@ -1,6 +1,0 @@
-<resources>
-
-	<!-- Back Market -->
-	<item component="ComponentInfo{com.backmarket/com.backmarket.Launcher}" drawable="back_market" />
-
-</resources>

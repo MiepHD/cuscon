@@ -1652,5 +1652,6 @@
 	<item component="ComponentInfo{network.loki.messenger/network.loki.messenger.RoutingActivity}" drawable="session" />
 	<item component="ComponentInfo{com.ammar.wallflow.plus/com.ammar.wallflow.activities.main.MainActivity}" drawable="wallflow_plus" />
 	<item component="ComponentInfo{com.colorata.wallman/com.colorata.wallman.shared.MainActivity}" drawable="wallman" />
+	<item component="ComponentInfo{com.backmarket/com.backmarket.Launcher}" drawable="back_market" />
 
 </resources>
