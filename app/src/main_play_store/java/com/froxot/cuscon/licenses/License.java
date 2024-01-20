@@ -9,11 +9,11 @@ public class License {
     private static final String LICENSE_KEY = "YOUR LICENSE KEY";
 
     private static final InAppBilling[] PREMIUM_REQUEST_PRODUCTS = new InAppBilling[]{
-            new InAppBilling("cuscon.prequest.two", 2),
-            new InAppBilling("cuscon.prequest.4", 4),
-            new InAppBilling("cuscon.prequest.6", 6),
-            new InAppBilling("cuscon.prequest.8", 8),
-            new InAppBilling("cuscon.prequest.10", 10)
+            new InAppBilling("cuscon.request.2", 2),
+            new InAppBilling("cuscon.request.4", 4),
+            new InAppBilling("cuscon.request.6", 6),
+            new InAppBilling("cuscon.request.8", 8),
+            new InAppBilling("cuscon.request.10", 10)
     };
 
     private static final InAppBilling[] DONATION_PRODUCT = new InAppBilling[]{
