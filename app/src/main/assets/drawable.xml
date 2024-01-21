@@ -1567,8 +1567,10 @@
 	<item drawable="softwareaktualisierung" />
 	<item drawable="sparkasse" />
 	<item drawable="taschenlampe" />
-	<item drawable="mi_lowi" />
-	<item drawable="meinvodafone" />
-	<item drawable="simyo" />
+	<item drawable="jazztel_tv" />
+	<item drawable="mi_yoigo" />
+	<item drawable="movistar_plus_" />
+	<item drawable="o2_cloud" />
+	<item drawable="whatweather" />
 
 </resources>
