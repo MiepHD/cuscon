@@ -1666,5 +1666,12 @@
 	<item component="ComponentInfo{com.huawei.android.hwouc/com.huawei.android.hwouc.ui.activities.MainEntranceActivity}" drawable="softwareaktualisierung" />
 	<item component="ComponentInfo{com.starfinanz.smob.android.sfinanzstatus/com.starfinanz.smob.android.sfinanzstatus.LauncherActivity}" drawable="sparkasse" />
 	<item component="ComponentInfo{com.huawei.HwMultiScreenShot/com.android.systemui.flashlight.FlashlightActivity}" drawable="taschenlampe" />
+	<item component="ComponentInfo{com.jazztel.es.jazzteltv/com.orange.es.orangetv.presentation.view.feature.splash.activity.SplashActivity}" drawable="jazztel_tv" />
+	<item component="ComponentInfo{com.milowi.app/app.presentation.features.splash.SplashActivity}" drawable="mi_lowi" />
+	<item component="ComponentInfo{es.vodafone.mobile.mivodafone/com.tsse.spain.myvodafone.splash.view.VfSplashActivity}" drawable="meinvodafone" />
+	<item component="ComponentInfo{com.yoigo.miyoigo/com.ragnarok.apps.ui.base.MainActivity}" drawable="mi_yoigo" />        <item component="ComponentInfo{es.plus.yomvi/com.movistar.android.views.HomeActivity}" drawable="movistar_plus_" />
+	<item component="ComponentInfo{es.o2online.cloud/com.funambol.android.activities.AndroidHomeScreen}" drawable="o2_cloud" />
+	<item component="ComponentInfo{com.simyo/simyo.presentation.features.MainActivity}" drawable="simyo" />
+	<item component="ComponentInfo{com.kolov.weatherstation/com.kolov.weatherstation.SplashScreenActivity}" drawable="whatweather" />
 
 </resources>

@@ -1,0 +1,27 @@
+<appmap>
+
+	<!-- Jazztel TV -->
+	<item class="com.orange.es.orangetv.presentation.view.feature.splash.activity.SplashActivity" name="jazztel_tv"/>
+
+	<!-- Mi Lowi -->
+	<item class="app.presentation.features.splash.SplashActivity" name="mi_lowi"/>
+
+	<!-- Mi Vodafone -->
+	<item class="com.tsse.spain.myvodafone.splash.view.VfSplashActivity" name="meinvodafone"/>
+
+	<!-- Mi Yoigo -->
+	<item class="com.ragnarok.apps.ui.base.MainActivity" name="mi_yoigo"/>
+
+	<!-- Movistar Plus+ -->
+	<item class="com.movistar.android.views.HomeActivity" name="movistar_plus_"/>
+
+	<!-- O2 Cloud -->
+	<item class="com.funambol.android.activities.AndroidHomeScreen" name="o2_cloud"/>
+
+	<!-- simyo -->
+	<item class="simyo.presentation.features.MainActivity" name="simyo"/>
+
+	<!-- WhatWeather -->
+	<item class="com.kolov.weatherstation.SplashScreenActivity" name="whatweather"/>
+
+</appmap>

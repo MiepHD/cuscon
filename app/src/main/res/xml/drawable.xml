@@ -1567,5 +1567,8 @@
 	<item drawable="softwareaktualisierung" />
 	<item drawable="sparkasse" />
 	<item drawable="taschenlampe" />
+	<item drawable="mi_lowi" />
+	<item drawable="meinvodafone" />
+	<item drawable="simyo" />
 
 </resources>

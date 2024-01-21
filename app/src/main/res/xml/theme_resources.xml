@@ -1657,5 +1657,13 @@
 	<AppIcon name="com.huawei.android.hwouc/com.huawei.android.hwouc.ui.activities.MainEntranceActivity" image="softwareaktualisierung"/>
 	<AppIcon name="com.starfinanz.smob.android.sfinanzstatus/com.starfinanz.smob.android.sfinanzstatus.LauncherActivity" image="sparkasse"/>
 	<AppIcon name="com.huawei.HwMultiScreenShot/com.android.systemui.flashlight.FlashlightActivity" image="taschenlampe"/>
+	<AppIcon name="com.jazztel.es.jazzteltv/com.orange.es.orangetv.presentation.view.feature.splash.activity.SplashActivity" image="jazztel_tv"/>
+	<AppIcon name="com.milowi.app/app.presentation.features.splash.SplashActivity" image="mi_lowi"/>
+	<AppIcon name="es.vodafone.mobile.mivodafone/com.tsse.spain.myvodafone.splash.view.VfSplashActivity" image="meinvodafone"/>
+	<AppIcon name="com.yoigo.miyoigo/com.ragnarok.apps.ui.base.MainActivity" image="mi_yoigo"/>
+	<AppIcon name="es.plus.yomvi/com.movistar.android.views.HomeActivity" image="movistar_plus_"/>
+	<AppIcon name="es.o2online.cloud/com.funambol.android.activities.AndroidHomeScreen" image="o2_cloud"/>
+	<AppIcon name="com.simyo/simyo.presentation.features.MainActivity" image="simyo"/>
+	<AppIcon name="com.kolov.weatherstation/com.kolov.weatherstation.SplashScreenActivity" image="whatweather"/>
 
 </Theme>

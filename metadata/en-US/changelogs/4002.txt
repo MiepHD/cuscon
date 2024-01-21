@@ -1,2 +1,2 @@
-- Added My HUAWEI, Nintendo Switch Online, Poe, Screenshot Pro, Shop Apotheke, SIM-Toolkit, Sofascore, Softwareaktualisierung, Sparkasse, Taschenlampe
-- Updated DB Navigator, WPS Office, Zedge
+- Added My HUAWEI, Nintendo Switch Online, Poe, Screenshot Pro, Shop Apotheke, SIM-Toolkit, Sofascore, Softwareaktualisierung, Sparkasse, Taschenlampe, Jazztel TV, Mi Yoigo, Movistar Plus+, O2 Cloud, WhatWeather
+- Updated DB Navigator, WPS Office, Zedge, Mi Lowi, Mi Vodafone, simyo

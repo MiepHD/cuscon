@@ -1646,5 +1646,13 @@
 	<item class="com.huawei.android.hwouc.ui.activities.MainEntranceActivity" name="softwareaktualisierung"/>
 	<item class="com.starfinanz.smob.android.sfinanzstatus.LauncherActivity" name="sparkasse"/>
 	<item class="com.android.systemui.flashlight.FlashlightActivity" name="taschenlampe"/>
+	<item class="com.orange.es.orangetv.presentation.view.feature.splash.activity.SplashActivity" name="jazztel_tv"/>
+	<item class="app.presentation.features.splash.SplashActivity" name="mi_lowi"/>
+	<item class="com.tsse.spain.myvodafone.splash.view.VfSplashActivity" name="meinvodafone"/>
+	<item class="com.ragnarok.apps.ui.base.MainActivity" name="mi_yoigo"/>
+	<item class="com.movistar.android.views.HomeActivity" name="movistar_plus_"/>
+	<item class="com.funambol.android.activities.AndroidHomeScreen" name="o2_cloud"/>
+	<item class="simyo.presentation.features.MainActivity" name="simyo"/>
+	<item class="com.kolov.weatherstation.SplashScreenActivity" name="whatweather"/>
 
 </appmap>
