@@ -1557,5 +1557,18 @@
 	<item drawable="wallflow_plus" />
 	<item drawable="wallman" />
 	<item drawable="back_market" />
+	<item drawable="my_huawei" />
+	<item drawable="nintendo_switch_online" />
+	<item drawable="poe" />
+	<item drawable="screenshot_pro" />
+	<item drawable="shop_apotheke" />
+	<item drawable="sim_toolkit" />
+	<item drawable="sofascore" />
+	<item drawable="softwareaktualisierung" />
+	<item drawable="sparkasse" />
+	<item drawable="taschenlampe" />
+	<item drawable="mi_lowi" />
+	<item drawable="meinvodafone" />
+	<item drawable="simyo" />
 
 </resources>
