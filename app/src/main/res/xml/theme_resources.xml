@@ -1647,5 +1647,15 @@
 	<AppIcon name="de.hafas.android.db.huawei/db.vendo.android.vendigator.view.main.MainActivity" image="db_navigator"/>
 	<AppIcon name="cn.wps.moffice_i18n/cn.wps.moffice.documentmanager.PreStartActivity" image="wps_office"/>
 	<AppIcon name="net.zedge.android/net.zedge.android.MainNewyear" image="zedge"/>
+	<AppIcon name="com.huawei.phoneservice/com.huawei.myhuawei.ui.HwSplashActivity" image="my_huawei"/>
+	<AppIcon name="com.nintendo.znca/com.nintendo.coral.ui.boot.BootActivity" image="nintendo_switch_online"/>
+	<AppIcon name="com.poe.android/com.poe.MainActivity" image="poe"/>
+	<AppIcon name="jp.snowlife01.android.screenshot/jp.snowlife01.android.screenshot.MainActivityNew" image="screenshot_pro"/>
+	<AppIcon name="shop.shop_apotheke.com.shopapotheke/com.shopapotheke.activities.splash.AliasSplashActivityDE" image="shop_apotheke"/>
+	<AppIcon name="com.android.stk/com.android.stk.StkLauncherActivity2" image="sim_toolkit"/>
+	<AppIcon name="com.sofascore.results/com.sofascore.results.main.start.StartActivity" image="sofascore"/>
+	<AppIcon name="com.huawei.android.hwouc/com.huawei.android.hwouc.ui.activities.MainEntranceActivity" image="softwareaktualisierung"/>
+	<AppIcon name="com.starfinanz.smob.android.sfinanzstatus/com.starfinanz.smob.android.sfinanzstatus.LauncherActivity" image="sparkasse"/>
+	<AppIcon name="com.huawei.HwMultiScreenShot/com.android.systemui.flashlight.FlashlightActivity" image="taschenlampe"/>
 
 </Theme>

@@ -1636,5 +1636,15 @@
 	<item class="db.vendo.android.vendigator.view.main.MainActivity" name="db_navigator"/>
 	<item class="cn.wps.moffice.documentmanager.PreStartActivity" name="wps_office"/>
 	<item class="net.zedge.android.MainNewyear" name="zedge"/>
+	<item class="com.huawei.myhuawei.ui.HwSplashActivity" name="my_huawei"/>
+	<item class="com.nintendo.coral.ui.boot.BootActivity" name="nintendo_switch_online"/>
+	<item class="com.poe.MainActivity" name="poe"/>
+	<item class="jp.snowlife01.android.screenshot.MainActivityNew" name="screenshot_pro"/>
+	<item class="com.shopapotheke.activities.splash.AliasSplashActivityDE" name="shop_apotheke"/>
+	<item class="com.android.stk.StkLauncherActivity2" name="sim_toolkit"/>
+	<item class="com.sofascore.results.main.start.StartActivity" name="sofascore"/>
+	<item class="com.huawei.android.hwouc.ui.activities.MainEntranceActivity" name="softwareaktualisierung"/>
+	<item class="com.starfinanz.smob.android.sfinanzstatus.LauncherActivity" name="sparkasse"/>
+	<item class="com.android.systemui.flashlight.FlashlightActivity" name="taschenlampe"/>
 
 </appmap>
