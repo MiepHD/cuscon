@@ -1633,5 +1633,8 @@
 	<item class="com.ammar.wallflow.activities.main.MainActivity" name="wallflow_plus"/>
 	<item class="com.colorata.wallman.shared.MainActivity" name="wallman"/>
 	<item class="com.backmarket.Launcher" name="back_market"/>
+	<item class="db.vendo.android.vendigator.view.main.MainActivity" name="db_navigator"/>
+	<item class="cn.wps.moffice.documentmanager.PreStartActivity" name="wps_office"/>
+	<item class="net.zedge.android.MainNewyear" name="zedge"/>
 
 </appmap>

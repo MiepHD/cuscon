@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="changelog_date">19.01.2024</string>
+    <string name="changelog_date">21.01.2024</string>
     <string-array name="changelog">
+        <item>4.0.0.2:</item>
+        <item>Updated DB Navigator, WPS Office, Zedge</item>
         <item>3.0.3.9:</item>
         <item>Added ACR Phone, Adblock Fast, AdBlock for Samsung Internet, Alpi Maps, Audile, Apk Extractor, BlockBuster, Weather, Chd Bus Routes, Discreet Launcher, dvd, Frost, G-Droid, Gallery, GameSir, GApps Browser, HouseSigma, Jugnoo, JustChess, lemmur, Linebit, Magic Earth, Musify, Neo Launcher, NewPipe Legacy, NewPipe preunified, NoFasel, Nozzle, OpenVPN for Android, Organic Maps (Beta), Package Viewer, Popup Widget, Pulse Music, QKSMS, Rocks n Diamonds, Scotiabank, Shosetsu, SongTube, sudoku, Tangerine, TC, TC, TradingView, UserTesting, Write on PDF, Yet Another Call Blocker, Resso, Anytype, Apple Music, Classical, Composer, Hypatia, LessPass, Network Speed, PDF Viewer, Pixel Buds, Rethink, Round Sync, SaverTuner, Session, WallFlow Plus, WallMan, Back Market</item>
         <item>Updated Feeder, Signal, SimpleX</item>

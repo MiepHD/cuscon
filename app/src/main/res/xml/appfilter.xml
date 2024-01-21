@@ -1653,5 +1653,8 @@
 	<item component="ComponentInfo{com.ammar.wallflow.plus/com.ammar.wallflow.activities.main.MainActivity}" drawable="wallflow_plus" />
 	<item component="ComponentInfo{com.colorata.wallman/com.colorata.wallman.shared.MainActivity}" drawable="wallman" />
 	<item component="ComponentInfo{com.backmarket/com.backmarket.Launcher}" drawable="back_market" />
+	<item component="ComponentInfo{de.hafas.android.db.huawei/db.vendo.android.vendigator.view.main.MainActivity}" drawable="db_navigator" />
+	<item component="ComponentInfo{cn.wps.moffice_i18n/cn.wps.moffice.documentmanager.PreStartActivity}" drawable="wps_office" />
+	<item component="ComponentInfo{net.zedge.android/net.zedge.android.MainNewyear}" drawable="zedge" />
 
 </resources>

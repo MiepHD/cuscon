@@ -1644,5 +1644,8 @@
 	<AppIcon name="com.ammar.wallflow.plus/com.ammar.wallflow.activities.main.MainActivity" image="wallflow_plus"/>
 	<AppIcon name="com.colorata.wallman/com.colorata.wallman.shared.MainActivity" image="wallman"/>
 	<AppIcon name="com.backmarket/com.backmarket.Launcher" image="back_market"/>
+	<AppIcon name="de.hafas.android.db.huawei/db.vendo.android.vendigator.view.main.MainActivity" image="db_navigator"/>
+	<AppIcon name="cn.wps.moffice_i18n/cn.wps.moffice.documentmanager.PreStartActivity" image="wps_office"/>
+	<AppIcon name="net.zedge.android/net.zedge.android.MainNewyear" image="zedge"/>
 
 </Theme>
