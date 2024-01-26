@@ -1654,5 +1654,13 @@
 	<item class="com.funambol.android.activities.AndroidHomeScreen" name="o2_cloud"/>
 	<item class="simyo.presentation.features.MainActivity" name="simyo"/>
 	<item class="com.kolov.weatherstation.SplashScreenActivity" name="whatweather"/>
+	<item class="com.drnapps.cercanias.ui.splash.SplashActivity" name="cercanias_renfe_trenes"/>
+	<item class="com.microsoft.sapphire.app.main.SapphireMainActivity" name="el_tiempo"/>
+	<item class="com.wekele.feve.Main" name="horarios_feve"/>
+	<item class="com.microsoft.launcher.EntryActivity" name="managed_home_screen"/>
+	<item class="com.mediamarkt.mms_oscapps_flutter.MainActivity" name="mediamarkt"/>
+	<item class="com.teamviewer.quicksupport.ui.QSActivity" name="quicksupport"/>
+	<item class="com.microsoft.sapphire.app.main.SapphireMainActivity" name="start"/>
+	<item class="com.microsoft.stream.MainActivity" name="stream"/>
 
 </appmap>

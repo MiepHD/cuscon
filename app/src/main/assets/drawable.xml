@@ -1572,5 +1572,13 @@
 	<item drawable="movistar_plus_" />
 	<item drawable="o2_cloud" />
 	<item drawable="whatweather" />
+	<item drawable="cercanias_renfe_trenes" />
+	<item drawable="el_tiempo" />
+	<item drawable="horarios_feve" />
+	<item drawable="managed_home_screen" />
+	<item drawable="mediamarkt" />
+	<item drawable="quicksupport" />
+	<item drawable="start" />
+	<item drawable="stream" />
 
 </resources>

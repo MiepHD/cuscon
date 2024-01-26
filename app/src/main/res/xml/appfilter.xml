@@ -1673,5 +1673,13 @@
 	<item component="ComponentInfo{es.o2online.cloud/com.funambol.android.activities.AndroidHomeScreen}" drawable="o2_cloud" />
 	<item component="ComponentInfo{com.simyo/simyo.presentation.features.MainActivity}" drawable="simyo" />
 	<item component="ComponentInfo{com.kolov.weatherstation/com.kolov.weatherstation.SplashScreenActivity}" drawable="whatweather" />
+	<item component="ComponentInfo{com.drnapps.cercanias/com.drnapps.cercanias.ui.splash.SplashActivity}" drawable="cercanias_renfe_trenes" />
+	<item component="ComponentInfo{com.microsoft.amp.apps.bingweather/com.microsoft.sapphire.app.main.SapphireMainActivity}" drawable="el_tiempo" />
+	<item component="ComponentInfo{com.wekele.feve/com.wekele.feve.Main}" drawable="horarios_feve" />
+	<item component="ComponentInfo{com.microsoft.launcher.enterprise/com.microsoft.launcher.EntryActivity}" drawable="managed_home_screen" />
+	<item component="ComponentInfo{es.mediamarkt.app/com.mediamarkt.mms_oscapps_flutter.MainActivity}" drawable="mediamarkt" />
+	<item component="ComponentInfo{com.teamviewer.quicksupport.market/com.teamviewer.quicksupport.ui.QSActivity}" drawable="quicksupport" />
+	<item component="ComponentInfo{com.microsoft.amp.apps.bingnews/com.microsoft.sapphire.app.main.SapphireMainActivity}" drawable="start" />
+	<item component="ComponentInfo{com.microsoft.stream/com.microsoft.stream.MainActivity}" drawable="stream" />
 
 </resources>

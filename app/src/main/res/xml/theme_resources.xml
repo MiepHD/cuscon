@@ -1665,5 +1665,13 @@
 	<AppIcon name="es.o2online.cloud/com.funambol.android.activities.AndroidHomeScreen" image="o2_cloud"/>
 	<AppIcon name="com.simyo/simyo.presentation.features.MainActivity" image="simyo"/>
 	<AppIcon name="com.kolov.weatherstation/com.kolov.weatherstation.SplashScreenActivity" image="whatweather"/>
+	<AppIcon name="com.drnapps.cercanias/com.drnapps.cercanias.ui.splash.SplashActivity" image="cercanias_renfe_trenes"/>
+	<AppIcon name="com.microsoft.amp.apps.bingweather/com.microsoft.sapphire.app.main.SapphireMainActivity" image="el_tiempo"/>
+	<AppIcon name="com.wekele.feve/com.wekele.feve.Main" image="horarios_feve"/>
+	<AppIcon name="com.microsoft.launcher.enterprise/com.microsoft.launcher.EntryActivity" image="managed_home_screen"/>
+	<AppIcon name="es.mediamarkt.app/com.mediamarkt.mms_oscapps_flutter.MainActivity" image="mediamarkt"/>
+	<AppIcon name="com.teamviewer.quicksupport.market/com.teamviewer.quicksupport.ui.QSActivity" image="quicksupport"/>
+	<AppIcon name="com.microsoft.amp.apps.bingnews/com.microsoft.sapphire.app.main.SapphireMainActivity" image="start"/>
+	<AppIcon name="com.microsoft.stream/com.microsoft.stream.MainActivity" image="stream"/>
 
 </Theme>
