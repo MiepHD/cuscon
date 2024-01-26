@@ -1679,5 +1679,6 @@
 	<item class="mobi.zona.ui.MainActivity" name="zona"/>
 	<item class="advanced.scientific.calculator.calc991.plus.main.ytivitcArotaluclaCecneicS_kLCneODahnPWsyfdoUSygLOxHQLt_e" name="calces"/>
 	<item class="com.dede.android_eggs.views.main.EasterEggsActivity" name="easter_eggs"/>
+	<item class="com.aaronjwood.portauthority.activity.MainActivity" name="port_authority"/>
 
 </appmap>

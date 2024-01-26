@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="changelog_date">21.01.2024</string>
+    <string name="changelog_date">26.01.2024</string>
     <string-array name="changelog">
         <item>4.0.0.3:</item>
         <item>Added Cercanias Renfe Trenes, El Tiempo, Horarios FEVE, Managed Home Screen, MediaMarkt, QuickSupport, Start, Stream, Anima, Сообщения, avito, Cromite, DNS Hero, Английский, Hidden Settings, Потрачено, Запись экрана, Мой Tele2, OneKeePass, Proton Drive, Темы, Телефон, Zona</item>
-        <item>Updated CalcES, Easter Eggs</item>
+        <item>Updated CalcES, Easter Eggs, Port Authority</item>
         <item>4.0.0.2:</item>
         <item>Added My HUAWEI, Nintendo Switch Online, Poe, Screenshot Pro, Shop Apotheke, SIM-Toolkit, Sofascore, Softwareaktualisierung, Sparkasse, Taschenlampe, Jazztel TV, Mi Yoigo, Movistar Plus+, O2 Cloud, WhatWeather</item>
         <item>Updated DB Navigator, WPS Office, Zedge, Mi Lowi, Mi Vodafone, simyo</item>

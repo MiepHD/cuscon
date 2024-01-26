@@ -1690,5 +1690,6 @@
 	<AppIcon name="mobi.zona/mobi.zona.ui.MainActivity" image="zona"/>
 	<AppIcon name="advanced.scientific.calculator.calc991.plus/advanced.scientific.calculator.calc991.plus.main.ytivitcArotaluclaCecneicS_kLCneODahnPWsyfdoUSygLOxHQLt_e" image="calces"/>
 	<AppIcon name="com.dede.android_eggs/com.dede.android_eggs.views.main.EasterEggsActivity" image="easter_eggs"/>
+	<AppIcon name="com.aaronjwood.portauthority/com.aaronjwood.portauthority.activity.MainActivity" image="port_authority"/>
 
 </Theme>

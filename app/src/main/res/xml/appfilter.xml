@@ -1698,5 +1698,6 @@
 	<item component="ComponentInfo{mobi.zona/mobi.zona.ui.MainActivity}" drawable="zona" />
 	<item component="ComponentInfo{advanced.scientific.calculator.calc991.plus/advanced.scientific.calculator.calc991.plus.main.ytivitcArotaluclaCecneicS_kLCneODahnPWsyfdoUSygLOxHQLt_e}" drawable="calces" />
 	<item component="ComponentInfo{com.dede.android_eggs/com.dede.android_eggs.views.main.EasterEggsActivity}" drawable="easter_eggs" />
+	<item component="ComponentInfo{com.aaronjwood.portauthority/com.aaronjwood.portauthority.activity.MainActivity}" drawable="port_authority" />
 
 </resources>
