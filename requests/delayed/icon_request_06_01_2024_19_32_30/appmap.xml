@@ -1,13 +1,13 @@
 <appmap>
 
-	<!-- 2ГИС -->
-	<item class="ru.dublgis.dgismobile.GrymMobileActivity" name="_2гис"/>
+	<!-- dgismobile -->
+	<item class="ru.dublgis.dgismobile.GrymMobileActivity" name="dgismobile"/>
 
-	<!-- Авито -->
-	<item class="com.avito.android.Launcher" name="авито"/>
+	<!-- avito -->
+	<item class="com.avito.android.Launcher" name="avito"/>
 
 	<!-- Английский -->
-	<item class="ru.poas.englishwords.splash.SplashActivity" name="английский"/>
+	<item class="ru.poas.englishwords.splash.SplashActivity" name="englishwords"/>
 
 	<!-- Безопасность -->
 	<item class="com.miui.securityscan.MainActivity" name="безопасность"/>
@@ -25,7 +25,7 @@
 	<item class="com.miui.notes.ui.NotesListActivity" name="заметки"/>
 
 	<!-- Запись экрана -->
-	<item class="com.miui.screenrecorder.activity.ScreenRecorderHomeActivity" name="запись_экрана"/>
+	<item class="com.miui.screenrecorder.activity.ScreenRecorderHomeActivity" name="miui_screenrecorder"/>
 
 	<!-- Календарь -->
 	<item class="com.android.calendar.homepage.AllInOneActivity" name="календарь"/>
@@ -37,7 +37,7 @@
 	<item class="com.miui.compass.CompassActivity" name="компас"/>
 
 	<!-- Мой Tele2 -->
-	<item class="ru.tele2.mytele2.ui.splash.SplashActivity" name="мой_tele2"/>
+	<item class="ru.tele2.mytele2.ui.splash.SplashActivity" name="mytele2"/>
 
 	<!-- Музыка -->
 	<item class="com.miui.player.ui.MusicBrowserActivity" name="музыка"/>
@@ -49,7 +49,7 @@
 	<item class="com.miui.weather2.ActivityWeatherMain" name="погода"/>
 
 	<!-- Потрачено -->
-	<item class="me.lucky.wasted.MainActivity" name="потрачено"/>
+	<item class="me.lucky.wasted.MainActivity" name="lucky_wasted"/>
 
 	<!-- Сервисы и обратная связь -->
 	<item class="com.miui.miservice.main.MainActivity" name="сервисы_и_обратная_связь"/>
@@ -58,13 +58,13 @@
 	<item class="com.xiaomi.scanner.app.ScanActivity" name="сканер"/>
 
 	<!-- Сообщения -->
-	<item class="com.android.mms.ui.MmsTabActivity" name="сообщения"/>
+	<item class="com.android.mms.ui.MmsTabActivity" name="android_mms"/>
 
 	<!-- Телефон -->
-	<item class="com.android.contacts.activities.TwelveKeyDialer" name="телефон"/>
+	<item class="com.android.contacts.activities.TwelveKeyDialer" name="twelve_key_dialer"/>
 
 	<!-- Темы -->
-	<item class="com.android.thememanager.ThemeResourceTabActivity" name="темы"/>
+	<item class="com.android.thememanager.ThemeResourceTabActivity" name="thememanager"/>
 
 	<!-- Тинькофф -->
 	<item class="ru.tinkoff.mb.feature.splash.bank.ui.presentation.BankSplashActivity" name="тинькофф"/>

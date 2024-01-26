@@ -8,7 +8,7 @@ theme_resources = ""
 
 for elem in sys.argv:
     elem = "\"" + elem + "\""
-    with open("appfilter.xml") as f:
+    with open("appfilter.xml", encoding="utf-8") as f:
         title = ""
         for line in f.readlines():
             if (elem in line):
@@ -21,11 +21,11 @@ for elem in sys.argv:
                     changelog = changelog + ", " + title
                 appfilter = appfilter + line
             title = line
-    with open("appmap.xml") as f:
+    with open("appmap.xml", encoding="utf-8") as f:
         for line in f.readlines():
             if (elem in line):
                 appmap = appmap + line
-    with open("theme_resources.xml") as f:
+    with open("theme_resources.xml", encoding="utf-8") as f:
         for line in f.readlines():
             if (elem in line):
                     theme_resources = theme_resources + line

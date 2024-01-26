@@ -1663,5 +1663,19 @@
 	<item class="com.microsoft.sapphire.app.main.SapphireMainActivity" name="start"/>
 	<item class="com.microsoft.stream.MainActivity" name="stream"/>
 	<item class="anima.virtual.ai.robot.friend.MainActivitybubbles" name="anima"/>
+	<item class="com.android.mms.ui.MmsTabActivity" name="android_mms"/>
+	<item class="com.avito.android.Launcher" name="avito"/>
+	<item class="com.google.android.apps.chrome.Main" name="cromite"/>
+	<item class="com.gianlu.dnshero.LoadingActivity" name="dns_hero"/>
+	<item class="ru.poas.englishwords.splash.SplashActivity" name="englishwords"/>
+	<item class="com.netvor.hiddensettings.LaunchActivity" name="hidden_settings"/>
+	<item class="me.lucky.wasted.MainActivity" name="lucky_wasted"/>
+	<item class="com.miui.screenrecorder.activity.ScreenRecorderHomeActivity" name="miui_screenrecorder"/>
+	<item class="ru.tele2.mytele2.ui.splash.SplashActivity" name="mytele2"/>
+	<item class="com.onekeepassmobile.MainActivity" name="onekeepass"/>
+	<item class="me.proton.android.drive.ui.MainActivity" name="proton_drive"/>
+	<item class="com.android.thememanager.ThemeResourceTabActivity" name="thememanager"/>
+	<item class="com.android.contacts.activities.TwelveKeyDialer" name="twelve_key_dialer"/>
+	<item class="mobi.zona.ui.MainActivity" name="zona"/>
 
 </appmap>

@@ -1,13 +1,13 @@
 <resources>
 
-	<!-- 2ГИС -->
-	<item component="ComponentInfo{ru.dublgis.dgismobile/ru.dublgis.dgismobile.GrymMobileActivity}" drawable="_2гис" />
+	<!-- dgismobile -->
+	<item component="ComponentInfo{ru.dublgis.dgismobile/ru.dublgis.dgismobile.GrymMobileActivity}" drawable="dgismobile" />
 
-	<!-- Авито -->
-	<item component="ComponentInfo{com.avito.android/com.avito.android.Launcher}" drawable="авито" />
+	<!-- avito -->
+	<item component="ComponentInfo{com.avito.android/com.avito.android.Launcher}" drawable="avito" />
 
 	<!-- Английский -->
-	<item component="ComponentInfo{ru.poas.englishwords/ru.poas.englishwords.splash.SplashActivity}" drawable="английский" />
+	<item component="ComponentInfo{ru.poas.englishwords/ru.poas.englishwords.splash.SplashActivity}" drawable="englishwords" />
 
 	<!-- Безопасность -->
 	<item component="ComponentInfo{com.miui.securitycenter/com.miui.securityscan.MainActivity}" drawable="безопасность" />
@@ -25,7 +25,7 @@
 	<item component="ComponentInfo{com.miui.notes/com.miui.notes.ui.NotesListActivity}" drawable="заметки" />
 
 	<!-- Запись экрана -->
-	<item component="ComponentInfo{com.miui.screenrecorder/com.miui.screenrecorder.activity.ScreenRecorderHomeActivity}" drawable="запись_экрана" />
+	<item component="ComponentInfo{com.miui.screenrecorder/com.miui.screenrecorder.activity.ScreenRecorderHomeActivity}" drawable="miui_screenrecorder" />
 
 	<!-- Календарь -->
 	<item component="ComponentInfo{com.xiaomi.calendar/com.android.calendar.homepage.AllInOneActivity}" drawable="календарь" />
@@ -37,7 +37,7 @@
 	<item component="ComponentInfo{com.miui.compass/com.miui.compass.CompassActivity}" drawable="компас" />
 
 	<!-- Мой Tele2 -->
-	<item component="ComponentInfo{ru.tele2.mytele2/ru.tele2.mytele2.ui.splash.SplashActivity}" drawable="мой_tele2" />
+	<item component="ComponentInfo{ru.tele2.mytele2/ru.tele2.mytele2.ui.splash.SplashActivity}" drawable="mytele2" />
 
 	<!-- Музыка -->
 	<item component="ComponentInfo{com.miui.player/com.miui.player.ui.MusicBrowserActivity}" drawable="музыка" />
@@ -49,7 +49,7 @@
 	<item component="ComponentInfo{com.miui.weather2/com.miui.weather2.ActivityWeatherMain}" drawable="погода" />
 
 	<!-- Потрачено -->
-	<item component="ComponentInfo{me.lucky.wasted/me.lucky.wasted.MainActivity}" drawable="потрачено" />
+	<item component="ComponentInfo{me.lucky.wasted/me.lucky.wasted.MainActivity}" drawable="lucky_wasted" />
 
 	<!-- Сервисы и обратная связь -->
 	<item component="ComponentInfo{com.miui.miservice/com.miui.miservice.main.MainActivity}" drawable="сервисы_и_обратная_связь" />
@@ -58,13 +58,13 @@
 	<item component="ComponentInfo{com.xiaomi.scanner/com.xiaomi.scanner.app.ScanActivity}" drawable="сканер" />
 
 	<!-- Сообщения -->
-	<item component="ComponentInfo{com.android.mms/com.android.mms.ui.MmsTabActivity}" drawable="сообщения" />
+	<item component="ComponentInfo{com.android.mms/com.android.mms.ui.MmsTabActivity}" drawable="android_mms" />
 
 	<!-- Телефон -->
-	<item component="ComponentInfo{com.android.contacts/com.android.contacts.activities.TwelveKeyDialer}" drawable="телефон" />
+	<item component="ComponentInfo{com.android.contacts/com.android.contacts.activities.TwelveKeyDialer}" drawable="twelve_key_dialer" />
 
 	<!-- Темы -->
-	<item component="ComponentInfo{com.android.thememanager/com.android.thememanager.ThemeResourceTabActivity}" drawable="темы" />
+	<item component="ComponentInfo{com.android.thememanager/com.android.thememanager.ThemeResourceTabActivity}" drawable="thememanager" />
 
 	<!-- Тинькофф -->
 	<item component="ComponentInfo{com.idamob.tinkoff.android/ru.tinkoff.mb.feature.splash.bank.ui.presentation.BankSplashActivity}" drawable="тинькофф" />

@@ -1674,5 +1674,19 @@
 	<AppIcon name="com.microsoft.amp.apps.bingnews/com.microsoft.sapphire.app.main.SapphireMainActivity" image="start"/>
 	<AppIcon name="com.microsoft.stream/com.microsoft.stream.MainActivity" image="stream"/>
 	<AppIcon name="anima.virtual.ai.robot.friend/anima.virtual.ai.robot.friend.MainActivitybubbles" image="anima"/>
+	<AppIcon name="com.android.mms/com.android.mms.ui.MmsTabActivity" image="android_mms"/>
+	<AppIcon name="com.avito.android/com.avito.android.Launcher" image="avito"/>
+	<AppIcon name="org.cromite.cromite/com.google.android.apps.chrome.Main" image="cromite"/>
+	<AppIcon name="com.gianlu.dnshero/com.gianlu.dnshero.LoadingActivity" image="dns_hero"/>
+	<AppIcon name="ru.poas.englishwords/ru.poas.englishwords.splash.SplashActivity" image="englishwords"/>
+	<AppIcon name="com.netvor.hiddensettings/com.netvor.hiddensettings.LaunchActivity" image="hidden_settings"/>
+	<AppIcon name="me.lucky.wasted/me.lucky.wasted.MainActivity" image="lucky_wasted"/>
+	<AppIcon name="com.miui.screenrecorder/com.miui.screenrecorder.activity.ScreenRecorderHomeActivity" image="miui_screenrecorder"/>
+	<AppIcon name="ru.tele2.mytele2/ru.tele2.mytele2.ui.splash.SplashActivity" image="mytele2"/>
+	<AppIcon name="com.onekeepassmobile/com.onekeepassmobile.MainActivity" image="onekeepass"/>
+	<AppIcon name="me.proton.android.drive/me.proton.android.drive.ui.MainActivity" image="proton_drive"/>
+	<AppIcon name="com.android.thememanager/com.android.thememanager.ThemeResourceTabActivity" image="thememanager"/>
+	<AppIcon name="com.android.contacts/com.android.contacts.activities.TwelveKeyDialer" image="twelve_key_dialer"/>
+	<AppIcon name="mobi.zona/mobi.zona.ui.MainActivity" image="zona"/>
 
 </Theme>

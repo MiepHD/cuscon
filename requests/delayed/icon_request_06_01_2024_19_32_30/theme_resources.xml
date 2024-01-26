@@ -1,13 +1,13 @@
 <Theme version="1">
 
-	<!-- 2ГИС -->
-	<AppIcon name="ru.dublgis.dgismobile/ru.dublgis.dgismobile.GrymMobileActivity" image="_2гис"/>
+	<!-- dgismobile -->
+	<AppIcon name="ru.dublgis.dgismobile/ru.dublgis.dgismobile.GrymMobileActivity" image="dgismobile"/>
 
-	<!-- Авито -->
-	<AppIcon name="com.avito.android/com.avito.android.Launcher" image="авито"/>
+	<!-- avito -->
+	<AppIcon name="com.avito.android/com.avito.android.Launcher" image="avito"/>
 
 	<!-- Английский -->
-	<AppIcon name="ru.poas.englishwords/ru.poas.englishwords.splash.SplashActivity" image="английский"/>
+	<AppIcon name="ru.poas.englishwords/ru.poas.englishwords.splash.SplashActivity" image="englishwords"/>
 
 	<!-- Безопасность -->
 	<AppIcon name="com.miui.securitycenter/com.miui.securityscan.MainActivity" image="безопасность"/>
@@ -25,7 +25,7 @@
 	<AppIcon name="com.miui.notes/com.miui.notes.ui.NotesListActivity" image="заметки"/>
 
 	<!-- Запись экрана -->
-	<AppIcon name="com.miui.screenrecorder/com.miui.screenrecorder.activity.ScreenRecorderHomeActivity" image="запись_экрана"/>
+	<AppIcon name="com.miui.screenrecorder/com.miui.screenrecorder.activity.ScreenRecorderHomeActivity" image="miui_screenrecorder"/>
 
 	<!-- Календарь -->
 	<AppIcon name="com.xiaomi.calendar/com.android.calendar.homepage.AllInOneActivity" image="календарь"/>
@@ -37,7 +37,7 @@
 	<AppIcon name="com.miui.compass/com.miui.compass.CompassActivity" image="компас"/>
 
 	<!-- Мой Tele2 -->
-	<AppIcon name="ru.tele2.mytele2/ru.tele2.mytele2.ui.splash.SplashActivity" image="мой_tele2"/>
+	<AppIcon name="ru.tele2.mytele2/ru.tele2.mytele2.ui.splash.SplashActivity" image="mytele2"/>
 
 	<!-- Музыка -->
 	<AppIcon name="com.miui.player/com.miui.player.ui.MusicBrowserActivity" image="музыка"/>
@@ -49,7 +49,7 @@
 	<AppIcon name="com.miui.weather2/com.miui.weather2.ActivityWeatherMain" image="погода"/>
 
 	<!-- Потрачено -->
-	<AppIcon name="me.lucky.wasted/me.lucky.wasted.MainActivity" image="потрачено"/>
+	<AppIcon name="me.lucky.wasted/me.lucky.wasted.MainActivity" image="lucky_wasted"/>
 
 	<!-- Сервисы и обратная связь -->
 	<AppIcon name="com.miui.miservice/com.miui.miservice.main.MainActivity" image="сервисы_и_обратная_связь"/>
@@ -58,13 +58,13 @@
 	<AppIcon name="com.xiaomi.scanner/com.xiaomi.scanner.app.ScanActivity" image="сканер"/>
 
 	<!-- Сообщения -->
-	<AppIcon name="com.android.mms/com.android.mms.ui.MmsTabActivity" image="сообщения"/>
+	<AppIcon name="com.android.mms/com.android.mms.ui.MmsTabActivity" image="android_mms"/>
 
 	<!-- Телефон -->
-	<AppIcon name="com.android.contacts/com.android.contacts.activities.TwelveKeyDialer" image="телефон"/>
+	<AppIcon name="com.android.contacts/com.android.contacts.activities.TwelveKeyDialer" image="twelve_key_dialer"/>
 
 	<!-- Темы -->
-	<AppIcon name="com.android.thememanager/com.android.thememanager.ThemeResourceTabActivity" image="темы"/>
+	<AppIcon name="com.android.thememanager/com.android.thememanager.ThemeResourceTabActivity" image="thememanager"/>
 
 	<!-- Тинькофф -->
 	<AppIcon name="com.idamob.tinkoff.android/ru.tinkoff.mb.feature.splash.bank.ui.presentation.BankSplashActivity" image="тинькофф"/>

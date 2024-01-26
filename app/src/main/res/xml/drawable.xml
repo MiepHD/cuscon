@@ -1581,5 +1581,19 @@
 	<item drawable="start" />
 	<item drawable="stream" />
 	<item drawable="anima" />
+	<item drawable="android_mms" />
+	<item drawable="avito" />
+	<item drawable="cromite" />
+	<item drawable="dns_hero" />
+	<item drawable="englishwords" />
+	<item drawable="hidden_settings" />
+	<item drawable="lucky_wasted" />
+	<item drawable="miui_screenrecorder" />
+	<item drawable="mytele2" />
+	<item drawable="onekeepass" />
+	<item drawable="proton_drive" />
+	<item drawable="thememanager" />
+	<item drawable="twelve_key_dialer" />
+	<item drawable="zona" />
 
 </resources>

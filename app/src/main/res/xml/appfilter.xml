@@ -1682,5 +1682,19 @@
 	<item component="ComponentInfo{com.microsoft.amp.apps.bingnews/com.microsoft.sapphire.app.main.SapphireMainActivity}" drawable="start" />
 	<item component="ComponentInfo{com.microsoft.stream/com.microsoft.stream.MainActivity}" drawable="stream" />
 	<item component="ComponentInfo{anima.virtual.ai.robot.friend/anima.virtual.ai.robot.friend.MainActivitybubbles}" drawable="anima" />
+	<item component="ComponentInfo{com.android.mms/com.android.mms.ui.MmsTabActivity}" drawable="android_mms" />
+	<item component="ComponentInfo{com.avito.android/com.avito.android.Launcher}" drawable="avito" />
+	<item component="ComponentInfo{org.cromite.cromite/com.google.android.apps.chrome.Main}" drawable="cromite" />
+	<item component="ComponentInfo{com.gianlu.dnshero/com.gianlu.dnshero.LoadingActivity}" drawable="dns_hero" />
+	<item component="ComponentInfo{ru.poas.englishwords/ru.poas.englishwords.splash.SplashActivity}" drawable="englishwords" />
+	<item component="ComponentInfo{com.netvor.hiddensettings/com.netvor.hiddensettings.LaunchActivity}" drawable="hidden_settings" />
+	<item component="ComponentInfo{me.lucky.wasted/me.lucky.wasted.MainActivity}" drawable="lucky_wasted" />
+	<item component="ComponentInfo{com.miui.screenrecorder/com.miui.screenrecorder.activity.ScreenRecorderHomeActivity}" drawable="miui_screenrecorder" />
+	<item component="ComponentInfo{ru.tele2.mytele2/ru.tele2.mytele2.ui.splash.SplashActivity}" drawable="mytele2" />
+	<item component="ComponentInfo{com.onekeepassmobile/com.onekeepassmobile.MainActivity}" drawable="onekeepass" />
+	<item component="ComponentInfo{me.proton.android.drive/me.proton.android.drive.ui.MainActivity}" drawable="proton_drive" />
+	<item component="ComponentInfo{com.android.thememanager/com.android.thememanager.ThemeResourceTabActivity}" drawable="thememanager" />
+	<item component="ComponentInfo{com.android.contacts/com.android.contacts.activities.TwelveKeyDialer}" drawable="twelve_key_dialer" />
+	<item component="ComponentInfo{mobi.zona/mobi.zona.ui.MainActivity}" drawable="zona" />
 
 </resources>
