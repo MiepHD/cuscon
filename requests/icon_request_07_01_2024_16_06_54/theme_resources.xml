@@ -1,0 +1,12 @@
+<Theme version="1">
+
+	<!-- Auxio -->
+	<AppIcon name="org.oxycblt.auxio/org.oxycblt.auxio.MainActivity" image="auxio"/>
+
+	<!-- FL Studio Mobile -->
+	<AppIcon name="com.imageline.FLM/com.imageline.FLM.FLMActivity" image="fl_studio_mobile"/>
+
+	<!-- Vanadium -->
+	<AppIcon name="app.vanadium.browser/com.google.android.apps.chrome.Main" image="vanadium"/>
+
+</Theme>

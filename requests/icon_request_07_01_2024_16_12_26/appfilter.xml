@@ -1,0 +1,168 @@
+<resources>
+
+	<!-- Anytype -->
+	<item component="ComponentInfo{io.anytype.app/com.anytypeio.anytype.ui.main.MainActivity}" drawable="anytype" />
+
+	<!-- ASTRON -->
+	<item component="ComponentInfo{cc.astron.player/cc.astron.player.MainActivity}" drawable="astron" />
+
+	<!-- Biomind -->
+	<item component="ComponentInfo{com.TheBioneer.Biomind/com.unity3d.player.UnityPlayerActivity}" drawable="biomind" />
+
+	<!-- Blue Line Console -->
+	<item component="ComponentInfo{net.nhiroki.bluelineconsole/net.nhiroki.bluelineconsole.applicationMain.MainActivity}" drawable="blue_line_console" />
+
+	<!-- Calendar -->
+	<item component="ComponentInfo{org.fossify.calendar/org.fossify.calendar.activities.SplashActivity.Green}" drawable="calendar" />
+
+	<!-- ChatGPT -->
+	<item component="ComponentInfo{com.openai.chatgpt/com.openai.chatgpt.MainActivity}" drawable="chatgpt" />
+
+	<!-- crabhands -->
+	<item component="ComponentInfo{crabhands.android/crc64e490453898eea56d.SplashActivity}" drawable="crabhands" />
+
+	<!-- Dantotsu -->
+	<item component="ComponentInfo{ani.dantotsu/ani.dantotsu.MainActivity}" drawable="dantotsu" />
+
+	<!-- Discord -->
+	<item component="ComponentInfo{com.discord/com.discord.main.MainDefault}" drawable="discord" />
+
+	<!-- exteraGram -->
+	<item component="ComponentInfo{com.exteragram.messenger/com.exteragram.messenger.DefaultIcon}" drawable="exteragram" />
+
+	<!-- Feeder -->
+	<item component="ComponentInfo{com.nononsenseapps.feeder/com.nononsenseapps.feeder.ui.MainActivity}" drawable="feeder" />
+
+	<!-- Flixclusive -->
+	<item component="ComponentInfo{com.flixclusive/com.flixclusive.presentation.mobile.main.MainActivity}" drawable="flixclusive" />
+
+	<!-- FUTO Voice Input -->
+	<item component="ComponentInfo{org.futo.voiceinput/org.futo.voiceinput.settings.SettingsActivity}" drawable="futo_voice_input" />
+
+	<!-- Google Earth -->
+	<item component="ComponentInfo{com.google.earth/com.google.android.apps.earth.flutter.EarthFlutterActivity}" drawable="google_earth" />
+
+	<!-- HoYoLAB -->
+	<item component="ComponentInfo{com.mihoyo.hoyolab/com.mihoyo.hoyolab.splash.splash.HoYoSplashActivity}" drawable="hoyolab" />
+
+	<!-- Hypatia -->
+	<item component="ComponentInfo{us.spotco.malwarescanner/us.spotco.malwarescanner.MainActivity}" drawable="hypatia" />
+
+	<!-- Iceraven -->
+	<item component="ComponentInfo{io.github.forkmaintainers.iceraven/io.github.forkmaintainers.iceraven.App}" drawable="iceraven" />
+
+	<!-- Kvaesitso -->
+	<item component="ComponentInfo{de.mm20.launcher2.release/de.mm20.launcher2.ui.launcher.LauncherActivity}" drawable="kvaesitso" />
+
+	<!-- Logseq -->
+	<item component="ComponentInfo{com.logseq.app/com.logseq.app.MainActivity}" drawable="logseq" />
+
+	<!-- Mobilism -->
+	<item component="ComponentInfo{demigos.com.mobilism/demigos.com.mobilism.UI.SplashActivity}" drawable="mobilism" />
+
+	<!-- Moto Connect -->
+	<item component="ComponentInfo{com.motorola.mobiledesktop/com.motorola.readyfor.NearbyDisplaysLauncherIconAlias}" drawable="moto_connect" />
+
+	<!-- Namida -->
+	<item component="ComponentInfo{com.msob7y.namida/com.msob7y.namida.NamidaMainActivity}" drawable="namida" />
+
+	<!-- Notes -->
+	<item component="ComponentInfo{com.simplemobiletools.notes.pro/com.simplemobiletools.notes.pro.activities.SplashActivity.Orange}" drawable="notes" />
+
+	<!-- Omnivore -->
+	<item component="ComponentInfo{app.omnivore.omnivore/app.omnivore.omnivore.MainActivity}" drawable="omnivore" />
+
+	<!-- Pano Scrobbler -->
+	<item component="ComponentInfo{com.arn.scrobble/com.arn.scrobble.MainActivity}" drawable="pano_scrobbler" />
+
+	<!-- Paytm -->
+	<item component="ComponentInfo{net.one97.paytm/net.one97.paytm.landingpage.activity.AJRMainActivity}" drawable="paytm" />
+
+	<!-- Perplexity -->
+	<item component="ComponentInfo{ai.perplexity.app.android/ai.perplexity.app.android.ui.main.MainActivity}" drawable="perplexity" />
+
+	<!-- Phone Battery Complication -->
+	<item component="ComponentInfo{com.weartools.phonebattcomp/com.weartools.phonebattcomp.MainActivity}" drawable="phone_battery_complication" />
+
+	<!-- PixAI.Art -->
+	<item component="ComponentInfo{art.pixai.pixai/art.pixai.pixai.ui.splash.SplashActivity}" drawable="pixaiart" />
+
+	<!-- Play Deals -->
+	<item component="ComponentInfo{me.sujanpoudel.playdeals/me.sujanpoudel.playdeals.MainActivity}" drawable="play_deals" />
+
+	<!-- PojavLauncher -->
+	<item component="ComponentInfo{net.kdt.pojavlaunch/net.kdt.pojavlaunch.TestStorageActivity}" drawable="pojavlauncher" />
+
+	<!-- QKSMS -->
+	<item component="ComponentInfo{com.moez.QKSMS/com.moez.QKSMS.feature.main.MainActivity}" drawable="qksms" />
+
+	<!-- Ready For -->
+	<item component="ComponentInfo{com.motorola.mobiledesktop/com.motorola.readyfor.MainActivityLauncherIconAlias}" drawable="ready_for" />
+
+	<!-- Rewards -->
+	<item component="ComponentInfo{com.google.android.apps.paidtasks/com.google.android.apps.paidtasks.activity.LaunchActivity}" drawable="rewards" />
+
+	<!-- Rewind -->
+	<item component="ComponentInfo{com.zh.musictimetravel/com.zh.musictimetravel.MainActivity}" drawable="rewind" />
+
+	<!-- RSSAid -->
+	<item component="ComponentInfo{com.gmail.cn.leetao94.rssaid/com.example.rssbud.MainActivity}" drawable="rssaid" />
+
+	<!-- Samsung Health -->
+	<item component="ComponentInfo{com.sec.android.app.shealth/com.samsung.android.app.shealth.home.HomeMainActivity}" drawable="samsung_health" />
+
+	<!-- Showly OSS -->
+	<item component="ComponentInfo{com.michaldrabik.showly_oss/com.michaldrabik.showly_oss.ui.main.MainActivity}" drawable="showly_oss" />
+
+	<!-- Skiff Calendar -->
+	<item component="ComponentInfo{com.skiffcalendarmobileapp/com.skiffcalendarmobileapp.MainActivity}" drawable="skiff_calendar" />
+
+	<!-- Skiff Drive -->
+	<item component="ComponentInfo{com.skiffDriveMobileApp/com.skiffDriveMobileApp.MainActivity}" drawable="skiff_drive" />
+
+	<!-- Skiff Mail -->
+	<item component="ComponentInfo{com.skemailmobileapp/com.skemailmobileapp.MainActivity}" drawable="skiff_mail" />
+
+	<!-- Skiff Pages -->
+	<item component="ComponentInfo{com.skiffmobileapp/com.skiffmobileapp.MainActivity}" drawable="skiff_pages" />
+
+	<!-- Stremio -->
+	<item component="ComponentInfo{com.stremio.one/com.stremio.MainActivity}" drawable="stremio" />
+
+	<!-- Substack -->
+	<item component="ComponentInfo{com.substack.app/com.substack.app.ui.AppActivity}" drawable="substack" />
+
+	<!-- SuperImage -->
+	<item component="ComponentInfo{com.zhenxiang.superimage/com.zhenxiang.superimage.MainActivity}" drawable="superimage" />
+
+	<!-- Swiggy -->
+	<item component="ComponentInfo{in.swiggy.android/in.swiggy.android.activities.HomeActivity}" drawable="swiggy" />
+
+	<!-- Syncthing-Fork -->
+	<item component="ComponentInfo{com.github.catfriend1.syncthingandroid/com.nutomic.syncthingandroid.activities.FirstStartActivity}" drawable="syncthing_fork" />
+
+	<!-- TachiJ2K -->
+	<item component="ComponentInfo{eu.kanade.tachiyomi.j2k/eu.kanade.tachiyomi.ui.main.MainActivity}" drawable="tachij2k" />
+
+	<!-- trCamera -->
+	<item component="ComponentInfo{com.google.android.GoogleCameraTigr/com.android.camera.CameraLauncher}" drawable="trcamera" />
+
+	<!-- URLCheck -->
+	<item component="ComponentInfo{com.trianguloy.urlchecker/com.trianguloy.urlchecker.activities.MainActivity}" drawable="urlcheck" />
+
+	<!-- Vampire Survivors -->
+	<item component="ComponentInfo{com.poncle.vampiresurvivors/com.unity3d.player.UnityPlayerActivity}" drawable="vampire_survivors" />
+
+	<!-- Weather -->
+	<item component="ComponentInfo{org.breezyweather/org.breezyweather.main.MainActivity}" drawable="weather" />
+
+	<!-- Whatsticker -->
+	<item component="ComponentInfo{com.aereus.whatsticker/com.aereus.whatsticker.MainActivity}" drawable="whatsticker" />
+
+	<!-- ZigWheels -->
+	<item component="ComponentInfo{com.til.zigwheels/com.girnarsoft.zigwheels.SplashActivity}" drawable="zigwheels" />
+
+	<!-- Zomato -->
+	<item component="ComponentInfo{com.application.zomato/com.application.zomato.activities.Splash}" drawable="zomato" />
+
+</resources>

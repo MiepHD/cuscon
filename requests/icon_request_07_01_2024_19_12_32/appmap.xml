@@ -1,0 +1,45 @@
+<appmap>
+
+	<!-- 1Tap Cleaner -->
+	<item class="com.a0soft.gphone.acc.free.MainWnd" name="_1tap_cleaner"/>
+
+	<!-- ChatGPT -->
+	<item class="com.openai.chatgpt.MainActivity" name="chatgpt"/>
+
+	<!-- Device care -->
+	<item class="com.samsung.android.sm.ui.DefaultActivity" name="device_care"/>
+
+	<!-- Device Info -->
+	<item class="com.ytheekshana.deviceinfo.SplashActivity" name="device_info"/>
+
+	<!-- Geometry Dash -->
+	<item class="com.robtopx.geometryjump.GeometryJump" name="geometry_dash"/>
+
+	<!-- Live Transcribe -->
+	<item class="com.google.audio.hearing.visualization.accessibility.scribe.LauncherActivity" name="live_transcribe"/>
+
+	<!-- Muslim Pro -->
+	<item class="com.bitsmedia.android.muslimpro.core.activities.SplashActivity" name="muslim_pro"/>
+
+	<!-- Nerd AI -->
+	<item class="com.codeway.homework.MainActivity" name="nerd_ai"/>
+
+	<!-- Parental controls -->
+	<item class="com.google.android.apps.kids.familylinkhelper.trampoline.TrampolineActivity" name="parental_controls"/>
+
+	<!-- Pokémon GO -->
+	<item class="com.nianticproject.holoholo.libholoholo.unity.UnityMainActivity" name="pokemon_go"/>
+
+	<!-- Runmefit -->
+	<item class="com.starmax.runmefit.MainActivity" name="runmefit"/>
+
+	<!-- Shizuku -->
+	<item class="moe.shizuku.manager.MainActivity" name="shizuku"/>
+
+	<!-- Sound notifications -->
+	<item class="com.google.audio.hearing.visualization.accessibility.dolphin.DolphinLauncherActivity" name="sound_notifications"/>
+
+	<!-- Space Intern -->
+	<item class="com.unity3d.player.UnityPlayerActivity" name="space_intern"/>
+
+</appmap>

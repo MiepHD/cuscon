@@ -1,0 +1,9 @@
+<resources>
+
+	<!-- Ella -->
+	<item component="ComponentInfo{rocks.poopjournal.Ella/com.unity3d.player.UnityPlayerActivity}" drawable="ella" />
+
+	<!-- Flashy -->
+	<item component="ComponentInfo{rocks.poopjournal.flashy/rocks.poopjournal.flashy.activities.MainActivity}" drawable="flashy" />
+
+</resources>

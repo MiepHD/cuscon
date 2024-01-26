@@ -1,0 +1,144 @@
+<Theme version="1">
+
+	<!-- Amazon -->
+	<AppIcon name="in.amazon.mShop.android.shopping/com.amazon.mShop.home.HomeActivity" image="amazon"/>
+
+	<!-- Apple Music -->
+	<AppIcon name="com.apple.android.music/com.apple.android.music.onboarding.activities.SplashActivity" image="apple_music"/>
+
+	<!-- Bandcamp -->
+	<AppIcon name="com.bandcamp.android/com.bandcamp.android.view.SplashActivity" image="bandcamp"/>
+
+	<!-- BookMyShow -->
+	<AppIcon name="com.bt.bms/com.movie.bms.splashscreen.SplashScreenActivity" image="bookmyshow"/>
+
+	<!-- Brain Waves Pro -->
+	<AppIcon name="com.myniotech.brainwavespro/net.luizmello.brainwaves.app.features.MainActivity" image="brain_waves_pro"/>
+
+	<!-- Brilliant -->
+	<AppIcon name="org.brilliant.android/org.brilliant.android.ui.common.MainActivity" image="brilliant"/>
+
+	<!-- Calculator -->
+	<AppIcon name="com.coloros.calculator/com.android.calculator2.Calculator" image="calculator"/>
+
+	<!-- Camera -->
+	<AppIcon name="com.oplus.camera/com.oplus.camera.Camera" image="camera"/>
+
+	<!-- Chess Tactics Pro -->
+	<AppIcon name="net.lrstudios.android.chess_problems/net.lrstudios.problemappslib.ui.MainActivity" image="chess_tactics_pro"/>
+
+	<!-- Citibank IN -->
+	<AppIcon name="com.citiuat/com.citiuat.mobeix.MainActivity" image="citibank_in"/>
+
+	<!-- Clock -->
+	<AppIcon name="com.coloros.alarmclock/com.oplus.alarmclock.AlarmClock" image="clock"/>
+
+	<!-- CoinDCX -->
+	<AppIcon name="com.coindcx.btc/com.coindcx.MainActivity" image="coindcx"/>
+
+	<!-- Dunzo -->
+	<AppIcon name="com.dunzo.user/in.dunzo.splashScreen.ui.LauncherActivity" image="dunzo"/>
+
+	<!-- Evernote -->
+	<AppIcon name="com.evernote/com.evernote.SplashActivity" image="evernote"/>
+
+	<!-- Flud+ -->
+	<AppIcon name="com.delphicoder.flud.paid/com.delphicoder.flud.MainActivity" image="flud_"/>
+
+	<!-- Ground News -->
+	<AppIcon name="com.checkitt/vc.ucic.SplashActivity" image="ground_news"/>
+
+	<!-- H&M -->
+	<AppIcon name="com.hm.goe/com.hm.goe.app.home.HomeActivity" image="h_and_m"/>
+
+	<!-- IKEA -->
+	<AppIcon name="com.ingka.ikea.app/com.ingka.ikea.app.splash.FirstEntryActivity" image="ikea"/>
+
+	<!-- JUGO -->
+	<AppIcon name="bubustudio.jugo.pack/bubustudio.jugo.pack.activities.SplashActivity" image="jugo"/>
+
+	<!-- Jupiter -->
+	<AppIcon name="money.jupiter/com.zoontek.rnbootsplash.RNBootSplashActivity" image="jupiter"/>
+
+	<!-- Keepa -->
+	<AppIcon name="com.keepa.mobile/com.tns.NativeScriptActivity" image="keepa"/>
+
+	<!-- Laundry Timer -->
+	<AppIcon name="com.solarr.drytimer/com.solarr.drytimer.MainActivity" image="laundry_timer"/>
+
+	<!-- m4marry -->
+	<AppIcon name="com.manoramaonline.m4marry/com.manoramaonline.m4marry.ui.main.splash.SplashActivity" image="m4marry"/>
+
+	<!-- Math Tricks Workout -->
+	<AppIcon name="com.sankhyantra.mathstricks/com.sankhyantra.mathstricks.SplashScreensActivity" image="math_tricks_workout"/>
+
+	<!-- MuPDF mini -->
+	<AppIcon name="com.artifex.mupdf.mini.app/com.artifex.mupdf.mini.app.LibraryActivity" image="mupdf_mini"/>
+
+	<!-- Nexo -->
+	<AppIcon name="com.nexowallet/com.nexowallet.MainActivity" image="nexo"/>
+
+	<!-- NYTimes -->
+	<AppIcon name="com.nytimes.android/com.nytimes.android.MainActivity" image="nytimes"/>
+
+	<!-- Ola -->
+	<AppIcon name="com.olacabs.customer/com.olacabs.customer.ui.SplashActivity" image="ola"/>
+
+	<!-- OneFootball -->
+	<AppIcon name="de.motain.iliga/com.onefootball.android.activity.FastLaunchSplashScreenActivity" image="onefootball"/>
+
+	<!-- OpenBoard -->
+	<AppIcon name="org.dslul.openboard.inputmethod.latin/org.dslul.openboard.inputmethod.latin.setup.SetupActivity" image="openboard"/>
+
+	<!-- Patreon -->
+	<AppIcon name="com.patreon.android/com.patreon.android.ui.shared.LauncherActivity" image="patreon"/>
+
+	<!-- Photos -->
+	<AppIcon name="com.coloros.gallery3d/com.coloros.gallery3d.app.MainActivity" image="photos"/>
+
+	<!-- Plex -->
+	<AppIcon name="com.plexapp.android/com.plexapp.plex.activities.SplashActivity" image="plex"/>
+
+	<!-- Pocket Casts -->
+	<AppIcon name="au.com.shiftyjelly.pocketcasts/au.com.shiftyjelly.pocketcasts.ui.MainActivity" image="pocket_casts"/>
+
+	<!-- Recorder -->
+	<AppIcon name="com.coloros.soundrecorder/com.soundrecorder.browsefile.BrowseFile" image="recorder"/>
+
+	<!-- SD Maid SE -->
+	<AppIcon name="eu.darken.sdmse/eu.darken.sdmse.main.ui.MainActivity" image="sd_maid_se"/>
+
+	<!-- Specie -->
+	<AppIcon name="org.billthefarmer.specie/org.billthefarmer.specie.Main" image="specie"/>
+
+	<!-- Swiggy -->
+	<AppIcon name="in.swiggy.android/in.swiggy.android.activities.HomeActivity" image="swiggy"/>
+
+	<!-- TC -->
+	<AppIcon name="net.kollnig.missioncontrol.fdroid/eu.faircode.netguard.ActivityMain" image="tc"/>
+
+	<!-- Tether -->
+	<AppIcon name="com.tplink.tether/com.tplink.tether.WelcomeActivity" image="tether"/>
+
+	<!-- TradingView -->
+	<AppIcon name="com.tradingview.tradingviewapp/com.tradingview.tradingviewapp.root.view.RootActivity" image="tradingview"/>
+
+	<!-- UFC -->
+	<AppIcon name="com.neulion.smartphone.ufc.android/com.imggaming.dicemobile.MainActivity" image="ufc"/>
+
+	<!-- UNIQLO -->
+	<AppIcon name="com.uniqlo.in.catalogue/com.uniqlo.ja.catalogue.view.mobile.startup.StartupActivity" image="uniqlo"/>
+
+	<!-- Untracker -->
+	<AppIcon name="me.zhanghai.android.untracker/me.zhanghai.android.untracker.MainActivity" image="untracker"/>
+
+	<!-- Voronoi -->
+	<AppIcon name="com.voronoi.organization.app/com.voronoi.app.voronoiapp.MainActivity" image="voronoi"/>
+
+	<!-- Wynk Music -->
+	<AppIcon name="com.bsbportal.music/com.bsbportal.music.v2.features.main.ui.HomeActivity" image="wynk_music"/>
+
+	<!-- ZARA -->
+	<AppIcon name="com.inditex.zara/com.inditex.zara.MainActivityDefaultIcon" image="zara"/>
+
+</Theme>

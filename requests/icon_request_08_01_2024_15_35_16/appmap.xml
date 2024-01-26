@@ -1,0 +1,120 @@
+<appmap>
+
+	<!-- Absolute Drift -->
+	<item class="com.noodlecake.absolutedrift.UnityPlayerActivity" name="absolute_drift"/>
+
+	<!-- ADM -->
+	<item class="com.dv.get.Main" name="adm"/>
+
+	<!-- BHIM -->
+	<item class="in.org.npci.upiapp.HomeActivity" name="bhim"/>
+
+	<!-- BOI Mobile -->
+	<item class="com.boi.ua.MainActivity" name="boi_mobile"/>
+
+	<!-- Calculator -->
+	<item class="com.android.calculator2.Calculator" name="calculator"/>
+
+	<!-- Camera -->
+	<item class="com.oplus.camera.Camera" name="camera"/>
+
+	<!-- Canara ai1 -->
+	<item class="com.canarabank.mobility.MainActivity" name="canara_ai1"/>
+
+	<!-- Chalo -->
+	<item class="app.zophop.ui.activities.SplashScreen" name="chalo"/>
+
+	<!-- Clock -->
+	<item class="com.oplus.alarmclock.AlarmClock" name="clock"/>
+
+	<!-- Clone Phone -->
+	<item class="com.oplus.phoneclone.PhoneCloneMainActivity" name="clone_phone"/>
+
+	<!-- Compass -->
+	<item class="com.coloros.compass.flat.FlatCompass" name="compass"/>
+
+	<!-- Coursera -->
+	<item class="org.coursera.android.MainActivity" name="coursera"/>
+
+	<!-- DATA WING -->
+	<item class="com.unity3d.player.UnityPlayerActivity" name="data_wing"/>
+
+	<!-- Discord -->
+	<item class="com.discord.main.MainDefault" name="discord"/>
+
+	<!-- DocVault -->
+	<item class="com.coloros.oppodocvault.views.ftu.ui.FTUWelcomeActivity" name="docvault"/>
+
+	<!-- edX -->
+	<item class="org.edx.mobile.view.SplashActivity" name="edx"/>
+
+	<!-- FM Radio -->
+	<item class="com.caf.fmradio.FMRadio" name="fm_radio"/>
+
+	<!-- HeyTap Cloud -->
+	<item class="com.heytap.cloud.home.ui.CloudLauncherActivity" name="heytap_cloud"/>
+
+	<!-- Music -->
+	<item class="com.allsaints.music.ui.splash.SplashActivity" name="music"/>
+
+	<!-- My Files -->
+	<item class="com.oplus.filemanager.main.ui.MainActivity" name="my_files"/>
+
+	<!-- My OPPO -->
+	<item class="com.platform.usercenter.vip.UCVIPMainActivity" name="my_oppo"/>
+
+	<!-- NFS Most Wanted -->
+	<item class="com.ea.ironmonkey.GameActivity" name="nfs_most_wanted"/>
+
+	<!-- OpenBooksDownloader -->
+	<item class="com.nima.openbooksdownloader.MainActivity" name="openbooksdownloader"/>
+
+	<!-- Paytm -->
+	<item class="net.one97.paytm.landingpage.activity.AJRMainActivity" name="paytm"/>
+
+	<!-- Phone Manager -->
+	<item class="com.coloros.phonemanager.FakeActivity" name="phone_manager"/>
+
+	<!-- Photos -->
+	<item class="com.coloros.gallery3d.app.MainActivity" name="photos"/>
+
+	<!-- Rapido -->
+	<item class="com.rapido.passenger.DefaultAlias" name="rapido"/>
+
+	<!-- ReadEra -->
+	<item class="com.readera.MainActivity" name="readera"/>
+
+	<!-- Recorder -->
+	<item class="com.soundrecorder.browsefile.BrowseFile" name="recorder"/>
+
+	<!-- Rewards -->
+	<item class="com.google.android.apps.paidtasks.activity.LaunchActivity" name="rewards"/>
+
+	<!-- SIM 2 Toolkit -->
+	<item class="com.android.stk.OplusStkLauncherActivity2" name="sim_2_toolkit"/>
+
+	<!-- Spotube -->
+	<item class="com.ryanheise.audioservice.AudioServiceActivity" name="spotube"/>
+
+	<!-- Swayam -->
+	<item class="in.gov.swayam.app.MainActivity" name="swayam"/>
+
+	<!-- Theme Store -->
+	<item class="com.nearme.themespace.activities.ThemeActivity" name="theme_store"/>
+
+	<!-- Unsplash -->
+	<item class="com.aqteam.photofree.MainActivity" name="unsplash"/>
+
+	<!-- Vi App -->
+	<item class="com.mventus.selfcare.activity.MainActivityic_launcher" name="vi_app"/>
+
+	<!-- Video Compressor -->
+	<item class="com.idea.videocompress.MainActivity" name="video_compressor"/>
+
+	<!-- Videos -->
+	<item class="com.oplus.video.ui.VideoListActivity" name="videos"/>
+
+	<!-- Z-Lib -->
+	<item class="com.positron_it.zlib.ui.splash.SplashActivity" name="z_lib"/>
+
+</appmap>
