@@ -667,7 +667,7 @@
 	<item component="ComponentInfo{com.starfinanz.mobile.android.dkbpushtan/com.starfinanz.mobile.android.dkbpushtan.DKBPushTan}" drawable="tan2go" />
 
 	<!-- Telegram -->
-	<item component="ComponentInfo{org.telegram.messenger.web/org.telegram.messenger.AquaIcon}" drawable="telegram" />
+	<item component="ComponentInfo{org.telegram.messenger.web/org.telegram.messenger.AquaIcon}" drawable="telegram_aqua2" />
 
 	<!-- TermBot -->
 	<item component="ComponentInfo{org.sufficientlysecure.termbot/org.connectbot.HostListActivity}" drawable="termbot" />
@@ -775,7 +775,7 @@
 	<item component="ComponentInfo{com.simplemobiletools.draw.pro/com.simplemobiletools.draw.pro.activities.SplashActivity.Orange}" drawable="zeichnen" />
 
 	<!-- zsTgriZxoUTLGtQ -->
-	<item component="ComponentInfo{ru.ejtclqof.wbpztuets/ru.ejtclqof.wbpztuets.MainActivity1}" drawable="zstgrizxoutlgtq" />
+	<item component="ComponentInfo{ru.ejtclqof.wbpztuets/ru.ejtclqof.wbpztuets.MainActivity1}" drawable="lucky_patcher" />
 
 	<!-- Zu gut für die Tonne! – App -->
 	<item component="ComponentInfo{app.zugutfuerdietonne/app.zugutfuerdietonne.MainActivity}" drawable="zu_gut_fur_die_tonne_–_app" />

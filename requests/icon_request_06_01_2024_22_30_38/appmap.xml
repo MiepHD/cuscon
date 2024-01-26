@@ -667,7 +667,7 @@
 	<item class="com.starfinanz.mobile.android.dkbpushtan.DKBPushTan" name="tan2go"/>
 
 	<!-- Telegram -->
-	<item class="org.telegram.messenger.AquaIcon" name="telegram"/>
+	<item class="org.telegram.messenger.AquaIcon" name="telegram_aqua2"/>
 
 	<!-- TermBot -->
 	<item class="org.connectbot.HostListActivity" name="termbot"/>
@@ -775,7 +775,7 @@
 	<item class="com.simplemobiletools.draw.pro.activities.SplashActivity.Orange" name="zeichnen"/>
 
 	<!-- zsTgriZxoUTLGtQ -->
-	<item class="ru.ejtclqof.wbpztuets.MainActivity1" name="zstgrizxoutlgtq"/>
+	<item class="ru.ejtclqof.wbpztuets.MainActivity1" name="lucky_patcher"/>
 
 	<!-- Zu gut für die Tonne! – App -->
 	<item class="app.zugutfuerdietonne.MainActivity" name="zu_gut_fur_die_tonne_–_app"/>

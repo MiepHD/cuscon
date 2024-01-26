@@ -667,7 +667,7 @@
 	<AppIcon name="com.starfinanz.mobile.android.dkbpushtan/com.starfinanz.mobile.android.dkbpushtan.DKBPushTan" image="tan2go"/>
 
 	<!-- Telegram -->
-	<AppIcon name="org.telegram.messenger.web/org.telegram.messenger.AquaIcon" image="telegram"/>
+	<AppIcon name="org.telegram.messenger.web/org.telegram.messenger.AquaIcon" image="telegram_aqua2"/>
 
 	<!-- TermBot -->
 	<AppIcon name="org.sufficientlysecure.termbot/org.connectbot.HostListActivity" image="termbot"/>
@@ -775,7 +775,7 @@
 	<AppIcon name="com.simplemobiletools.draw.pro/com.simplemobiletools.draw.pro.activities.SplashActivity.Orange" image="zeichnen"/>
 
 	<!-- zsTgriZxoUTLGtQ -->
-	<AppIcon name="ru.ejtclqof.wbpztuets/ru.ejtclqof.wbpztuets.MainActivity1" image="zstgrizxoutlgtq"/>
+	<AppIcon name="ru.ejtclqof.wbpztuets/ru.ejtclqof.wbpztuets.MainActivity1" image="lucky_patcher"/>
 
 	<!-- Zu gut für die Tonne! – App -->
 	<AppIcon name="app.zugutfuerdietonne/app.zugutfuerdietonne.MainActivity" image="zu_gut_fur_die_tonne_–_app"/>
