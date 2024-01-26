@@ -1787,11 +1787,11 @@
 	<item component="ComponentInfo{com.mobvoi.mwf.magicfaces/com.mobvoi.mwf.splash.SplashActivity}" drawable="timeshow" />
 	<item component="ComponentInfo{com.tobykurien.webmediashare/com.tobykurien.webmediashare.activity.MainActivity}" drawable="web_media_share" />
 	<item component="ComponentInfo{com.what3words.android/com.what3words.android.ui.splash.SplashActivity}" drawable="what3words" />
-	<item component="ComponentInfo{de.dbregio.wohinduwillst/de.dbregio.wohinduwillst.feature.splashscreen.SplashscreenActivity}" drawable="wohin·du·willst" />
+	<item component="ComponentInfo{de.dbregio.wohinduwillst/de.dbregio.wohinduwillst.feature.splashscreen.SplashscreenActivity}" drawable="wohin_du_willst" />
 	<item component="ComponentInfo{org.secuso.privacyfriendlyyahtzeedicer/org.secuso.privacyfriendlydicegame.SplashActivity}" drawable="wurfelspiel" />
 	<item component="ComponentInfo{com.yougov.mobile.online/com.yougov.init.InitActivity}" drawable="yougov" />
 	<item component="ComponentInfo{it.zave.app/it.zave.app.MainActivity}" drawable="zaveit" />
-	<item component="ComponentInfo{app.zugutfuerdietonne/app.zugutfuerdietonne.MainActivity}" drawable="zu_gut_fur_die_tonne_–_app" />
+	<item component="ComponentInfo{app.zugutfuerdietonne/app.zugutfuerdietonne.MainActivity}" drawable="zu_gut_fur_die_tonne_app" />
 	<item component="ComponentInfo{com.github.k1rakishou.chan/com.github.k1rakishou.chan.activity.StartActivity}" drawable="kurobaex" />
 	<item component="ComponentInfo{com.luk.saucenao/com.luk.saucenao.MainActivity}" drawable="saucenao" />
 

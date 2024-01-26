@@ -1768,11 +1768,11 @@
 	<item class="com.mobvoi.mwf.splash.SplashActivity" name="timeshow"/>
 	<item class="com.tobykurien.webmediashare.activity.MainActivity" name="web_media_share"/>
 	<item class="com.what3words.android.ui.splash.SplashActivity" name="what3words"/>
-	<item class="de.dbregio.wohinduwillst.feature.splashscreen.SplashscreenActivity" name="wohin·du·willst"/>
+	<item class="de.dbregio.wohinduwillst.feature.splashscreen.SplashscreenActivity" name="wohin_du_willst"/>
 	<item class="org.secuso.privacyfriendlydicegame.SplashActivity" name="wurfelspiel"/>
 	<item class="com.yougov.init.InitActivity" name="yougov"/>
 	<item class="it.zave.app.MainActivity" name="zaveit"/>
-	<item class="app.zugutfuerdietonne.MainActivity" name="zu_gut_fur_die_tonne_–_app"/>
+	<item class="app.zugutfuerdietonne.MainActivity" name="zu_gut_fur_die_tonne_app"/>
 	<item class="com.github.k1rakishou.chan.activity.StartActivity" name="kurobaex"/>
 	<item class="com.luk.saucenao.MainActivity" name="saucenao"/>
 

@@ -741,8 +741,8 @@
 	<!-- what3words -->
 	<item component="ComponentInfo{com.what3words.android/com.what3words.android.ui.splash.SplashActivity}" drawable="what3words" />
 
-	<!-- Wohin·Du·Willst -->
-	<item component="ComponentInfo{de.dbregio.wohinduwillst/de.dbregio.wohinduwillst.feature.splashscreen.SplashscreenActivity}" drawable="wohin·du·willst" />
+	<!-- Wohin_Du_Willst -->
+	<item component="ComponentInfo{de.dbregio.wohinduwillst/de.dbregio.wohinduwillst.feature.splashscreen.SplashscreenActivity}" drawable="wohin_du_willst" />
 
 	<!-- Workout Pro -->
 	<item component="ComponentInfo{fitness.workouts.home.workoutspro/fitness.workouts.home.workoutspro.activity.SplashActivity}" drawable="workout_pro" />
@@ -777,7 +777,7 @@
 	<!-- zsTgriZxoUTLGtQ -->
 	<item component="ComponentInfo{ru.ejtclqof.wbpztuets/ru.ejtclqof.wbpztuets.MainActivity1}" drawable="lucky_patcher" />
 
-	<!-- Zu gut für die Tonne! – App -->
-	<item component="ComponentInfo{app.zugutfuerdietonne/app.zugutfuerdietonne.MainActivity}" drawable="zu_gut_fur_die_tonne_–_app" />
+	<!-- Zu gut für die Tonne! - App -->
+	<item component="ComponentInfo{app.zugutfuerdietonne/app.zugutfuerdietonne.MainActivity}" drawable="zu_gut_fur_die_tonne_app" />
 
 </resources>

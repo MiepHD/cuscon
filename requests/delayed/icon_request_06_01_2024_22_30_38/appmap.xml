@@ -741,8 +741,8 @@
 	<!-- what3words -->
 	<item class="com.what3words.android.ui.splash.SplashActivity" name="what3words"/>
 
-	<!-- Wohin·Du·Willst -->
-	<item class="de.dbregio.wohinduwillst.feature.splashscreen.SplashscreenActivity" name="wohin·du·willst"/>
+	<!-- Wohin_Du_Willst -->
+	<item class="de.dbregio.wohinduwillst.feature.splashscreen.SplashscreenActivity" name="wohin_du_willst"/>
 
 	<!-- Workout Pro -->
 	<item class="fitness.workouts.home.workoutspro.activity.SplashActivity" name="workout_pro"/>
@@ -777,7 +777,7 @@
 	<!-- zsTgriZxoUTLGtQ -->
 	<item class="ru.ejtclqof.wbpztuets.MainActivity1" name="lucky_patcher"/>
 
-	<!-- Zu gut für die Tonne! – App -->
-	<item class="app.zugutfuerdietonne.MainActivity" name="zu_gut_fur_die_tonne_–_app"/>
+	<!-- Zu gut für die Tonne! - App -->
+	<item class="app.zugutfuerdietonne.MainActivity" name="zu_gut_fur_die_tonne_app"/>
 
 </appmap>

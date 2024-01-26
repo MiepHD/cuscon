@@ -741,8 +741,8 @@
 	<!-- what3words -->
 	<AppIcon name="com.what3words.android/com.what3words.android.ui.splash.SplashActivity" image="what3words"/>
 
-	<!-- Wohin·Du·Willst -->
-	<AppIcon name="de.dbregio.wohinduwillst/de.dbregio.wohinduwillst.feature.splashscreen.SplashscreenActivity" image="wohin·du·willst"/>
+	<!-- Wohin_Du_Willst -->
+	<AppIcon name="de.dbregio.wohinduwillst/de.dbregio.wohinduwillst.feature.splashscreen.SplashscreenActivity" image="wohin_du_willst"/>
 
 	<!-- Workout Pro -->
 	<AppIcon name="fitness.workouts.home.workoutspro/fitness.workouts.home.workoutspro.activity.SplashActivity" image="workout_pro"/>
@@ -777,7 +777,7 @@
 	<!-- zsTgriZxoUTLGtQ -->
 	<AppIcon name="ru.ejtclqof.wbpztuets/ru.ejtclqof.wbpztuets.MainActivity1" image="lucky_patcher"/>
 
-	<!-- Zu gut für die Tonne! – App -->
-	<AppIcon name="app.zugutfuerdietonne/app.zugutfuerdietonne.MainActivity" image="zu_gut_fur_die_tonne_–_app"/>
+	<!-- Zu gut für die Tonne! - App -->
+	<AppIcon name="app.zugutfuerdietonne/app.zugutfuerdietonne.MainActivity" image="zu_gut_fur_die_tonne_app"/>
 
 </Theme>
