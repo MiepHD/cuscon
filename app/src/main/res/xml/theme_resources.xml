@@ -1784,5 +1784,7 @@
 	<AppIcon name="com.yougov.mobile.online/com.yougov.init.InitActivity" image="yougov"/>
 	<AppIcon name="it.zave.app/it.zave.app.MainActivity" image="zaveit"/>
 	<AppIcon name="app.zugutfuerdietonne/app.zugutfuerdietonne.MainActivity" image="zu_gut_fur_die_tonne_–_app"/>
+	<AppIcon name="com.github.k1rakishou.chan/com.github.k1rakishou.chan.activity.StartActivity" image="kurobaex"/>
+	<AppIcon name="com.luk.saucenao/com.luk.saucenao.MainActivity" image="saucenao"/>
 
 </Theme>
