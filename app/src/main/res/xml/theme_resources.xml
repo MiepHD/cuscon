@@ -1673,5 +1673,6 @@
 	<AppIcon name="com.teamviewer.quicksupport.market/com.teamviewer.quicksupport.ui.QSActivity" image="quicksupport"/>
 	<AppIcon name="com.microsoft.amp.apps.bingnews/com.microsoft.sapphire.app.main.SapphireMainActivity" image="start"/>
 	<AppIcon name="com.microsoft.stream/com.microsoft.stream.MainActivity" image="stream"/>
+	<AppIcon name="anima.virtual.ai.robot.friend/anima.virtual.ai.robot.friend.MainActivitybubbles" image="anima"/>
 
 </Theme>

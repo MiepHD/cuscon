@@ -1681,5 +1681,6 @@
 	<item component="ComponentInfo{com.teamviewer.quicksupport.market/com.teamviewer.quicksupport.ui.QSActivity}" drawable="quicksupport" />
 	<item component="ComponentInfo{com.microsoft.amp.apps.bingnews/com.microsoft.sapphire.app.main.SapphireMainActivity}" drawable="start" />
 	<item component="ComponentInfo{com.microsoft.stream/com.microsoft.stream.MainActivity}" drawable="stream" />
+	<item component="ComponentInfo{anima.virtual.ai.robot.friend/anima.virtual.ai.robot.friend.MainActivitybubbles}" drawable="anima" />
 
 </resources>

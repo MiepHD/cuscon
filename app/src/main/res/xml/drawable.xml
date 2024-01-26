@@ -1580,5 +1580,6 @@
 	<item drawable="quicksupport" />
 	<item drawable="start" />
 	<item drawable="stream" />
+	<item drawable="anima" />
 
 </resources>
