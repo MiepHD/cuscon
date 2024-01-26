@@ -106,7 +106,7 @@
 	<AppIcon name="org.solovyev.android.calculator/org.solovyev.android.calculator.CalculatorActivity" image="calculator_"/>
 
 	<!-- Calculator++ (Fenstermodus) -->
-	<AppIcon name="org.solovyev.android.calculator/org.solovyev.android.calculator.floating.FloatingCalculatorActivity" image="calculator_fenstermodus_"/>
+	<AppIcon name="org.solovyev.android.calculator/org.solovyev.android.calculator.floating.FloatingCalculatorActivity" image="calculator_"/>
 
 	<!-- Canon Print Service -->
 	<AppIcon name="jp.co.canon.android.printservice.plugin/jp.co.canon.android.printservice.plugin.WalkThroughActivity" image="canon_print_service"/>

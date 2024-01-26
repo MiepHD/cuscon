@@ -106,7 +106,7 @@
 	<item class="org.solovyev.android.calculator.CalculatorActivity" name="calculator_"/>
 
 	<!-- Calculator++ (Fenstermodus) -->
-	<item class="org.solovyev.android.calculator.floating.FloatingCalculatorActivity" name="calculator_fenstermodus_"/>
+	<item class="org.solovyev.android.calculator.floating.FloatingCalculatorActivity" name="calculator_"/>
 
 	<!-- Canon Print Service -->
 	<item class="jp.co.canon.android.printservice.plugin.WalkThroughActivity" name="canon_print_service"/>

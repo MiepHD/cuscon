@@ -1,2 +1,2 @@
 - Added Cercanias Renfe Trenes, El Tiempo, Horarios FEVE, Managed Home Screen, MediaMarkt, QuickSupport, Start, Stream, Anima, Сообщения, avito, Cromite, DNS Hero, Английский, Hidden Settings, Потрачено, Запись экрана, Мой Tele2, OneKeePass, Proton Drive, Темы, Телефон, Zona
-- Updated CalcES
+- Updated CalcES, Easter Eggs

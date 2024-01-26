@@ -1689,5 +1689,6 @@
 	<AppIcon name="com.android.contacts/com.android.contacts.activities.TwelveKeyDialer" image="twelve_key_dialer"/>
 	<AppIcon name="mobi.zona/mobi.zona.ui.MainActivity" image="zona"/>
 	<AppIcon name="advanced.scientific.calculator.calc991.plus/advanced.scientific.calculator.calc991.plus.main.ytivitcArotaluclaCecneicS_kLCneODahnPWsyfdoUSygLOxHQLt_e" image="calces"/>
+	<AppIcon name="com.dede.android_eggs/com.dede.android_eggs.views.main.EasterEggsActivity" image="easter_eggs"/>
 
 </Theme>
