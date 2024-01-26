@@ -1,0 +1,27 @@
+<resources>
+
+	<!-- Cercanías Renfe Trenes -->
+	<item component="ComponentInfo{com.drnapps.cercanias/com.drnapps.cercanias.ui.splash.SplashActivity}" drawable="cercanias_renfe_trenes" />
+
+	<!-- El Tiempo -->
+	<item component="ComponentInfo{com.microsoft.amp.apps.bingweather/com.microsoft.sapphire.app.main.SapphireMainActivity}" drawable="el_tiempo" />
+
+	<!-- Horarios FEVE -->
+	<item component="ComponentInfo{com.wekele.feve/com.wekele.feve.Main}" drawable="horarios_feve" />
+
+	<!-- Managed Home Screen -->
+	<item component="ComponentInfo{com.microsoft.launcher.enterprise/com.microsoft.launcher.EntryActivity}" drawable="managed_home_screen" />
+
+	<!-- MediaMarkt -->
+	<item component="ComponentInfo{es.mediamarkt.app/com.mediamarkt.mms_oscapps_flutter.MainActivity}" drawable="mediamarkt" />
+
+	<!-- QuickSupport -->
+	<item component="ComponentInfo{com.teamviewer.quicksupport.market/com.teamviewer.quicksupport.ui.QSActivity}" drawable="quicksupport" />
+
+	<!-- Start -->
+	<item component="ComponentInfo{com.microsoft.amp.apps.bingnews/com.microsoft.sapphire.app.main.SapphireMainActivity}" drawable="start" />
+
+	<!-- Stream -->
+	<item component="ComponentInfo{com.microsoft.stream/com.microsoft.stream.MainActivity}" drawable="stream" />
+
+</resources>
