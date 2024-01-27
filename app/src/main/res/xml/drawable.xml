@@ -1805,5 +1805,7 @@
 	<item drawable="telegram_plus" />
 	<item drawable="urlcheck" />
 	<item drawable="yasnac" />
+	<item drawable="fl_studio_mobile" />
+	<item drawable="vanadium" />
 
 </resources>

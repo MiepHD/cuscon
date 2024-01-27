@@ -1901,5 +1901,7 @@
 	<item class="org.telegram.messenger.DarkIcon" name="telegram_plus"/>
 	<item class="com.trianguloy.urlchecker.activities.MainActivity" name="urlcheck"/>
 	<item class="rikka.safetynetchecker.main.MainActivity" name="yasnac"/>
+	<item class="com.imageline.FLM.FLMActivity" name="fl_studio_mobile"/>
+	<item class="com.google.android.apps.chrome.Main" name="vanadium"/>
 
 </appmap>

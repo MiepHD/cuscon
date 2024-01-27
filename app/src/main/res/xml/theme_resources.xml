@@ -1911,5 +1911,7 @@
 	<AppIcon name="org.telegram.plus/org.telegram.messenger.DarkIcon" image="telegram_plus"/>
 	<AppIcon name="com.trianguloy.urlchecker/com.trianguloy.urlchecker.activities.MainActivity" image="urlcheck"/>
 	<AppIcon name="rikka.safetynetchecker/rikka.safetynetchecker.main.MainActivity" image="yasnac"/>
+	<AppIcon name="com.imageline.FLM/com.imageline.FLM.FLMActivity" image="fl_studio_mobile"/>
+	<AppIcon name="app.vanadium.browser/com.google.android.apps.chrome.Main" image="vanadium"/>
 
 </Theme>

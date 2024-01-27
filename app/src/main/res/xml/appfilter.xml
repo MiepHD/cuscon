@@ -1920,5 +1920,7 @@
 	<item component="ComponentInfo{org.telegram.plus/org.telegram.messenger.DarkIcon}" drawable="telegram_plus" />
 	<item component="ComponentInfo{com.trianguloy.urlchecker/com.trianguloy.urlchecker.activities.MainActivity}" drawable="urlcheck" />
 	<item component="ComponentInfo{rikka.safetynetchecker/rikka.safetynetchecker.main.MainActivity}" drawable="yasnac" />
+	<item component="ComponentInfo{com.imageline.FLM/com.imageline.FLM.FLMActivity}" drawable="fl_studio_mobile" />
+	<item component="ComponentInfo{app.vanadium.browser/com.google.android.apps.chrome.Main}" drawable="vanadium" />
 
 </resources>
