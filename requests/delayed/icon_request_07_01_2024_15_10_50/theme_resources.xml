@@ -34,10 +34,10 @@
 	<AppIcon name="com.ansangha.drdriving/com.ansangha.drdriving.DrDrivingActivity" image="dr_driving"/>
 
 	<!-- Files -->
-	<AppIcon name="com.marc.files/nl.marc_apps.files.MainActivity" image="files"/>
+	<AppIcon name="com.marc.files/nl.marc_apps.files.MainActivity" image="marc_files"/>
 
 	<!-- FM Radio -->
-	<AppIcon name="com.caf.fmradio/com.caf.fmradio.FMRadio" image="fm_radio"/>
+	<AppIcon name="com.caf.fmradio/com.caf.fmradio.FMRadio" image="caf_fm_radio"/>
 
 	<!-- Iconeration -->
 	<AppIcon name="com.kaanelloed.iconeration/com.kaanelloed.iconeration.MainActivity" image="iconeration"/>
@@ -61,10 +61,10 @@
 	<AppIcon name="net.one97.paytm/net.one97.paytm.landingpage.activity.AJRMainActivity" image="paytm"/>
 
 	<!-- Plus -->
-	<AppIcon name="org.telegram.plus/org.telegram.messenger.DarkIcon" image="plus"/>
+	<AppIcon name="org.telegram.plus/org.telegram.messenger.DarkIcon" image="telegram_plus"/>
 
 	<!-- Recorder -->
-	<AppIcon name="com.google.android.apps.recorder/com.google.android.apps.recorder.ui.recordings.MainActivity" image="recorder"/>
+	<AppIcon name="com.google.android.apps.recorder/com.google.android.apps.recorder.ui.recordings.MainActivity" image="google_recorder"/>
 
 	<!-- Rewards -->
 	<AppIcon name="com.google.android.apps.paidtasks/com.google.android.apps.paidtasks.activity.LaunchActivity" image="rewards"/>
@@ -82,7 +82,7 @@
 	<AppIcon name="com.kieronquinn.app.smartspacer/com.kieronquinn.app.smartspacer.ui.activities.MainActivity" image="smartspacer"/>
 
 	<!-- Snapchat -->
-	<AppIcon name="com.snapchat.android/com.snapchat.android.Icon22Alias" image="snapchat"/>
+	<AppIcon name="com.snapchat.android/com.snapchat.android.Icon22Alias" image="snapchat22"/>
 
 	<!-- SnapEnhance -->
 	<AppIcon name="me.rhunk.snapenhance/me.rhunk.snapenhance.ui.download.DownloadManagerActivity" image="snapenhance"/>

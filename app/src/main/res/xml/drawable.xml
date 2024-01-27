@@ -1787,5 +1787,23 @@
 	<item drawable="voronoi" />
 	<item drawable="wynk_music" />
 	<item drawable="zara" />
+	<item drawable="adidas" />
+	<item drawable="bcr" />
+	<item drawable="cache_cleaner" />
+	<item drawable="caf_fm_radio" />
+	<item drawable="dr_driving" />
+	<item drawable="google_recorder" />
+	<item drawable="iconeration" />
+	<item drawable="imobile_pay" />
+	<item drawable="marc_files" />
+	<item drawable="mydramalist" />
+	<item drawable="rewards" />
+	<item drawable="root_checker_basic" />
+	<item drawable="smartspacer" />
+	<item drawable="snapchat22" />
+	<item drawable="snapenhance" />
+	<item drawable="telegram_plus" />
+	<item drawable="urlcheck" />
+	<item drawable="yasnac" />
 
 </resources>

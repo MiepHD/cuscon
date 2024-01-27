@@ -1883,5 +1883,23 @@
 	<item class="com.inditex.zara.MainActivityDefaultIcon" name="zara"/>
 	<item class="com.android.camera.CameraLauncher" name="camera"/>
 	<item class="com.motorola.dolby.dolbyui.ui.welcome.WelcomeActivity" name="dolby_atmos"/>
+	<item class="com.adidas.intro.IntroActivity" name="adidas"/>
+	<item class="com.chiller3.bcr.settings.SettingsActivity" name="bcr"/>
+	<item class="com.github.bmx666.appcachecleaner.ui.activity.LauncherActivity" name="cache_cleaner"/>
+	<item class="com.caf.fmradio.FMRadio" name="caf_fm_radio"/>
+	<item class="com.ansangha.drdriving.DrDrivingActivity" name="dr_driving"/>
+	<item class="com.google.android.apps.recorder.ui.recordings.MainActivity" name="google_recorder"/>
+	<item class="com.kaanelloed.iconeration.MainActivity" name="iconeration"/>
+	<item class="com.csam.icici.bank.imobile.launcher_be5fee416d17a4d4bdcf67199a9cbb9893a784e44dbdba19087c3db5e1e61f81" name="imobile_pay"/>
+	<item class="nl.marc_apps.files.MainActivity" name="marc_files"/>
+	<item class="com.mydramalist.app.MainActivity" name="mydramalist"/>
+	<item class="com.google.android.apps.paidtasks.activity.LaunchActivity" name="rewards"/>
+	<item class="com.joeykrim.rootcheck.MainActivity" name="root_checker_basic"/>
+	<item class="com.kieronquinn.app.smartspacer.ui.activities.MainActivity" name="smartspacer"/>
+	<item class="com.snapchat.android.Icon22Alias" name="snapchat22"/>
+	<item class="me.rhunk.snapenhance.ui.download.DownloadManagerActivity" name="snapenhance"/>
+	<item class="org.telegram.messenger.DarkIcon" name="telegram_plus"/>
+	<item class="com.trianguloy.urlchecker.activities.MainActivity" name="urlcheck"/>
+	<item class="rikka.safetynetchecker.main.MainActivity" name="yasnac"/>
 
 </appmap>

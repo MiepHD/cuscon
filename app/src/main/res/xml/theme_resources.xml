@@ -1893,5 +1893,23 @@
 	<AppIcon name="com.inditex.zara/com.inditex.zara.MainActivityDefaultIcon" image="zara"/>
 	<AppIcon name="com.android.MGC_8_7_250/com.android.camera.CameraLauncher" image="camera"/>
 	<AppIcon name="com.motorola.dolby.dolbyui/com.motorola.dolby.dolbyui.ui.welcome.WelcomeActivity" image="dolby_atmos"/>
+	<AppIcon name="com.adidas.app/com.adidas.intro.IntroActivity" image="adidas"/>
+	<AppIcon name="com.chiller3.bcr/com.chiller3.bcr.settings.SettingsActivity" image="bcr"/>
+	<AppIcon name="com.github.bmx666.appcachecleaner/com.github.bmx666.appcachecleaner.ui.activity.LauncherActivity" image="cache_cleaner"/>
+	<AppIcon name="com.caf.fmradio/com.caf.fmradio.FMRadio" image="caf_fm_radio"/>
+	<AppIcon name="com.ansangha.drdriving/com.ansangha.drdriving.DrDrivingActivity" image="dr_driving"/>
+	<AppIcon name="com.google.android.apps.recorder/com.google.android.apps.recorder.ui.recordings.MainActivity" image="google_recorder"/>
+	<AppIcon name="com.kaanelloed.iconeration/com.kaanelloed.iconeration.MainActivity" image="iconeration"/>
+	<AppIcon name="com.csam.icici.bank.imobile/com.csam.icici.bank.imobile.launcher_be5fee416d17a4d4bdcf67199a9cbb9893a784e44dbdba19087c3db5e1e61f81" image="imobile_pay"/>
+	<AppIcon name="com.marc.files/nl.marc_apps.files.MainActivity" image="marc_files"/>
+	<AppIcon name="com.mydramalist.app/com.mydramalist.app.MainActivity" image="mydramalist"/>
+	<AppIcon name="com.google.android.apps.paidtasks/com.google.android.apps.paidtasks.activity.LaunchActivity" image="rewards"/>
+	<AppIcon name="com.joeykrim.rootcheck/com.joeykrim.rootcheck.MainActivity" image="root_checker_basic"/>
+	<AppIcon name="com.kieronquinn.app.smartspacer/com.kieronquinn.app.smartspacer.ui.activities.MainActivity" image="smartspacer"/>
+	<AppIcon name="com.snapchat.android/com.snapchat.android.Icon22Alias" image="snapchat22"/>
+	<AppIcon name="me.rhunk.snapenhance/me.rhunk.snapenhance.ui.download.DownloadManagerActivity" image="snapenhance"/>
+	<AppIcon name="org.telegram.plus/org.telegram.messenger.DarkIcon" image="telegram_plus"/>
+	<AppIcon name="com.trianguloy.urlchecker/com.trianguloy.urlchecker.activities.MainActivity" image="urlcheck"/>
+	<AppIcon name="rikka.safetynetchecker/rikka.safetynetchecker.main.MainActivity" image="yasnac"/>
 
 </Theme>

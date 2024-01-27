@@ -34,10 +34,10 @@
 	<item component="ComponentInfo{com.ansangha.drdriving/com.ansangha.drdriving.DrDrivingActivity}" drawable="dr_driving" />
 
 	<!-- Files -->
-	<item component="ComponentInfo{com.marc.files/nl.marc_apps.files.MainActivity}" drawable="files" />
+	<item component="ComponentInfo{com.marc.files/nl.marc_apps.files.MainActivity}" drawable="marc_files" />
 
 	<!-- FM Radio -->
-	<item component="ComponentInfo{com.caf.fmradio/com.caf.fmradio.FMRadio}" drawable="fm_radio" />
+	<item component="ComponentInfo{com.caf.fmradio/com.caf.fmradio.FMRadio}" drawable="caf_fm_radio" />
 
 	<!-- Iconeration -->
 	<item component="ComponentInfo{com.kaanelloed.iconeration/com.kaanelloed.iconeration.MainActivity}" drawable="iconeration" />
@@ -61,10 +61,10 @@
 	<item component="ComponentInfo{net.one97.paytm/net.one97.paytm.landingpage.activity.AJRMainActivity}" drawable="paytm" />
 
 	<!-- Plus -->
-	<item component="ComponentInfo{org.telegram.plus/org.telegram.messenger.DarkIcon}" drawable="plus" />
+	<item component="ComponentInfo{org.telegram.plus/org.telegram.messenger.DarkIcon}" drawable="telegram_plus" />
 
 	<!-- Recorder -->
-	<item component="ComponentInfo{com.google.android.apps.recorder/com.google.android.apps.recorder.ui.recordings.MainActivity}" drawable="recorder" />
+	<item component="ComponentInfo{com.google.android.apps.recorder/com.google.android.apps.recorder.ui.recordings.MainActivity}" drawable="google_recorder" />
 
 	<!-- Rewards -->
 	<item component="ComponentInfo{com.google.android.apps.paidtasks/com.google.android.apps.paidtasks.activity.LaunchActivity}" drawable="rewards" />
@@ -82,7 +82,7 @@
 	<item component="ComponentInfo{com.kieronquinn.app.smartspacer/com.kieronquinn.app.smartspacer.ui.activities.MainActivity}" drawable="smartspacer" />
 
 	<!-- Snapchat -->
-	<item component="ComponentInfo{com.snapchat.android/com.snapchat.android.Icon22Alias}" drawable="snapchat" />
+	<item component="ComponentInfo{com.snapchat.android/com.snapchat.android.Icon22Alias}" drawable="snapchat22" />
 
 	<!-- SnapEnhance -->
 	<item component="ComponentInfo{me.rhunk.snapenhance/me.rhunk.snapenhance.ui.download.DownloadManagerActivity}" drawable="snapenhance" />

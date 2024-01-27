@@ -34,10 +34,10 @@
 	<item class="com.ansangha.drdriving.DrDrivingActivity" name="dr_driving"/>
 
 	<!-- Files -->
-	<item class="nl.marc_apps.files.MainActivity" name="files"/>
+	<item class="nl.marc_apps.files.MainActivity" name="marc_files"/>
 
 	<!-- FM Radio -->
-	<item class="com.caf.fmradio.FMRadio" name="fm_radio"/>
+	<item class="com.caf.fmradio.FMRadio" name="caf_fm_radio"/>
 
 	<!-- Iconeration -->
 	<item class="com.kaanelloed.iconeration.MainActivity" name="iconeration"/>
@@ -61,10 +61,10 @@
 	<item class="net.one97.paytm.landingpage.activity.AJRMainActivity" name="paytm"/>
 
 	<!-- Plus -->
-	<item class="org.telegram.messenger.DarkIcon" name="plus"/>
+	<item class="org.telegram.messenger.DarkIcon" name="telegram_plus"/>
 
 	<!-- Recorder -->
-	<item class="com.google.android.apps.recorder.ui.recordings.MainActivity" name="recorder"/>
+	<item class="com.google.android.apps.recorder.ui.recordings.MainActivity" name="google_recorder"/>
 
 	<!-- Rewards -->
 	<item class="com.google.android.apps.paidtasks.activity.LaunchActivity" name="rewards"/>
@@ -82,7 +82,7 @@
 	<item class="com.kieronquinn.app.smartspacer.ui.activities.MainActivity" name="smartspacer"/>
 
 	<!-- Snapchat -->
-	<item class="com.snapchat.android.Icon22Alias" name="snapchat"/>
+	<item class="com.snapchat.android.Icon22Alias" name="snapchat22"/>
 
 	<!-- SnapEnhance -->
 	<item class="me.rhunk.snapenhance.ui.download.DownloadManagerActivity" name="snapenhance"/>
