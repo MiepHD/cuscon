@@ -1758,5 +1758,7 @@
 	<item drawable="weather_hi_def_radar" />
 	<item drawable="memeteo" />
 	<item drawable="meteoblue" />
+	<item drawable="ella" />
+    <item drawable="flashy" />
 
 </resources>

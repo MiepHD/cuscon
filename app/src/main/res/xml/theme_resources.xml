@@ -1862,5 +1862,7 @@
 	<AppIcon name="com.noaa_hidef_radar/com.noaa_hidef_radar.presentation.MainActivity" image="weather_hi_def_radar"/>
 	<AppIcon name="com.memeteo.weather/co.windyapp.windylite.ui.MainActivity" image="memeteo"/>
 	<AppIcon name="com.meteoblue.droid/com.meteoblue.droid.view.MainActivity" image="meteoblue"/>
+	<AppIcon name="rocks.poopjournal.Ella/com.unity3d.player.UnityPlayerActivity" image="ella"/>
+	<AppIcon name="rocks.poopjournal.flashy/rocks.poopjournal.flashy.activities.MainActivity" image="flashy"/>
 
 </Theme>

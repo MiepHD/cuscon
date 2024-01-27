@@ -1,9 +1,0 @@
-<Theme version="1">
-
-	<!-- Ella -->
-	<AppIcon name="rocks.poopjournal.Ella/com.unity3d.player.UnityPlayerActivity" image="ella"/>
-
-	<!-- Flashy -->
-	<AppIcon name="rocks.poopjournal.flashy/rocks.poopjournal.flashy.activities.MainActivity" image="flashy"/>
-
-</Theme>

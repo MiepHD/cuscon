@@ -1871,5 +1871,7 @@
 	<item component="ComponentInfo{com.noaa_hidef_radar/com.noaa_hidef_radar.presentation.MainActivity}" drawable="weather_hi_def_radar" />
 	<item component="ComponentInfo{com.memeteo.weather/co.windyapp.windylite.ui.MainActivity}" drawable="memeteo" />
 	<item component="ComponentInfo{com.meteoblue.droid/com.meteoblue.droid.view.MainActivity}" drawable="meteoblue" />
+	<item component="ComponentInfo{rocks.poopjournal.Ella/com.unity3d.player.UnityPlayerActivity}" drawable="ella" />
+	<item component="ComponentInfo{rocks.poopjournal.flashy/rocks.poopjournal.flashy.activities.MainActivity}" drawable="flashy" />
 
 </resources>

@@ -1852,5 +1852,7 @@
 	<item class="com.noaa_hidef_radar.presentation.MainActivity" name="weather_hi_def_radar"/>
 	<item class="co.windyapp.windylite.ui.MainActivity" name="memeteo"/>
 	<item class="com.meteoblue.droid.view.MainActivity" name="meteoblue"/>
+	<item class="com.unity3d.player.UnityPlayerActivity" name="ella"/>
+	<item class="rocks.poopjournal.flashy.activities.MainActivity" name="flashy"/>
 
 </appmap>
