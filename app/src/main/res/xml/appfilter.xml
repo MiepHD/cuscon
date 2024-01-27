@@ -1796,5 +1796,6 @@
 	<item component="ComponentInfo{com.luk.saucenao/com.luk.saucenao.MainActivity}" drawable="saucenao" />
 	<item component="ComponentInfo{com.simplemobiletools.gallery.pro/com.simplemobiletools.gallery.pro.activities.SplashActivity.Red}" drawable="gallery" />
 	<item component="ComponentInfo{com.apkmody.netflix/com.teamseries.lotus.MainActivityVer2}" drawable="netflix" />
+	<item component="ComponentInfo{com.htetznaing.zfont2/com.htetznaing.zfont4.MainActivity}" drawable="zfont_3" />
 
 </resources>

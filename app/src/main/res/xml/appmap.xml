@@ -1777,5 +1777,6 @@
 	<item class="com.luk.saucenao.MainActivity" name="saucenao"/>
 	<item class="com.simplemobiletools.gallery.pro.activities.SplashActivity.Red" name="gallery"/>
 	<item class="com.teamseries.lotus.MainActivityVer2" name="netflix"/>
+	<item class="com.htetznaing.zfont4.MainActivity" name="zfont_3"/>
 
 </appmap>

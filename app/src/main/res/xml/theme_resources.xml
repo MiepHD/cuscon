@@ -1788,5 +1788,6 @@
 	<AppIcon name="com.luk.saucenao/com.luk.saucenao.MainActivity" image="saucenao"/>
 	<AppIcon name="com.simplemobiletools.gallery.pro/com.simplemobiletools.gallery.pro.activities.SplashActivity.Red" image="gallery"/>
 	<AppIcon name="com.apkmody.netflix/com.teamseries.lotus.MainActivityVer2" image="netflix"/>
+	<AppIcon name="com.htetznaing.zfont2/com.htetznaing.zfont4.MainActivity" image="zfont_3"/>
 
 </Theme>
