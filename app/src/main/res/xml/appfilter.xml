@@ -1861,5 +1861,15 @@
 	<item component="ComponentInfo{cn.wps.pdf/cn.wps.pdf.bootpage.splash.SplashActivity}" drawable="wps_pdf" />
 	<item component="ComponentInfo{org.chromium.webapk.af423c7c13b0d46c5_v2/org.chromium.webapk.shell_apk.h2o.H2OOpaqueMainActivity}" drawable="xhamster" />
 	<item component="ComponentInfo{com.xingin.xhs/com.xingin.xhs.index.v2.IndexActivityV2}" drawable="xhs" />
+	<item component="ComponentInfo{com.Meteosolutions.Meteo3b/com.Meteosolutions.Meteo3b.activity.SplashActivity}" drawable="_3bmeteo" />
+	<item component="ComponentInfo{com.livingearth.pro/app.RootActivity}" drawable="_3d_earth_pro" />
+	<item component="ComponentInfo{com.all.document.reader.doc.pdf.reader/com.all.document.reader.doc.pdf.reader.SplashActivity}" drawable="all_document_reader" />
+	<item component="ComponentInfo{com.documentreader.documentapp.filereader/com.documentreader.ui.splash.SplashActivity}" drawable="all_documents_reader" />
+	<item component="ComponentInfo{com.meltingsource.DocsViewer/com.meltingsource.docsviewer.MainActivity}" drawable="docs_viewer" />
+	<item component="ComponentInfo{com.wetter.androidclient/com.wetter.androidclient.EntryActivity}" drawable="tiempoes" />
+	<item component="ComponentInfo{com.united.office.reader/com.united.office.reader.SplashActivity}" drawable="united_office_reader" />
+	<item component="ComponentInfo{com.noaa_hidef_radar/com.noaa_hidef_radar.presentation.MainActivity}" drawable="weather_hi_def_radar" />
+	<item component="ComponentInfo{com.memeteo.weather/co.windyapp.windylite.ui.MainActivity}" drawable="memeteo" />
+	<item component="ComponentInfo{com.meteoblue.droid/com.meteoblue.droid.view.MainActivity}" drawable="meteoblue" />
 
 </resources>

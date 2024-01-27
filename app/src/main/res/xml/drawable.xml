@@ -1748,5 +1748,15 @@
 	<item drawable="wps_pdf" />
 	<item drawable="xhamster" />
 	<item drawable="xhs" />
+	<item drawable="_3bmeteo" />
+	<item drawable="_3d_earth_pro" />
+	<item drawable="all_document_reader" />
+	<item drawable="all_documents_reader" />
+	<item drawable="docs_viewer" />
+	<item drawable="tiempoes" />
+	<item drawable="united_office_reader" />
+	<item drawable="weather_hi_def_radar" />
+	<item drawable="memeteo" />
+	<item drawable="meteoblue" />
 
 </resources>

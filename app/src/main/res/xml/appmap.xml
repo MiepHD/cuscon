@@ -1842,5 +1842,15 @@
 	<item class="cn.wps.pdf.bootpage.splash.SplashActivity" name="wps_pdf"/>
 	<item class="org.chromium.webapk.shell_apk.h2o.H2OOpaqueMainActivity" name="xhamster"/>
 	<item class="com.xingin.xhs.index.v2.IndexActivityV2" name="xhs"/>
+	<item class="com.Meteosolutions.Meteo3b.activity.SplashActivity" name="_3bmeteo"/>
+	<item class="app.RootActivity" name="_3d_earth_pro"/>
+	<item class="com.all.document.reader.doc.pdf.reader.SplashActivity" name="all_document_reader"/>
+	<item class="com.documentreader.ui.splash.SplashActivity" name="all_documents_reader"/>
+	<item class="com.meltingsource.docsviewer.MainActivity" name="docs_viewer"/>
+	<item class="com.wetter.androidclient.EntryActivity" name="tiempoes"/>
+	<item class="com.united.office.reader.SplashActivity" name="united_office_reader"/>
+	<item class="com.noaa_hidef_radar.presentation.MainActivity" name="weather_hi_def_radar"/>
+	<item class="co.windyapp.windylite.ui.MainActivity" name="memeteo"/>
+	<item class="com.meteoblue.droid.view.MainActivity" name="meteoblue"/>
 
 </appmap>

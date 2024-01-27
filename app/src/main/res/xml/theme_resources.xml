@@ -1853,5 +1853,14 @@
 	<AppIcon name="cn.wps.pdf/cn.wps.pdf.bootpage.splash.SplashActivity" image="wps_pdf"/>
 	<AppIcon name="org.chromium.webapk.af423c7c13b0d46c5_v2/org.chromium.webapk.shell_apk.h2o.H2OOpaqueMainActivity" image="xhamster"/>
 	<AppIcon name="com.xingin.xhs/com.xingin.xhs.index.v2.IndexActivityV2" image="xhs"/>
+	<AppIcon name="com.Meteosolutions.Meteo3b/com.Meteosolutions.Meteo3b.activity.SplashActivity" image="_3bmeteo"/>        <AppIcon name="com.livingearth.pro/app.RootActivity" image="_3d_earth_pro"/>
+	<AppIcon name="com.all.document.reader.doc.pdf.reader/com.all.document.reader.doc.pdf.reader.SplashActivity" image="all_document_reader"/>
+	<AppIcon name="com.documentreader.documentapp.filereader/com.documentreader.ui.splash.SplashActivity" image="all_documents_reader"/>
+	<AppIcon name="com.meltingsource.DocsViewer/com.meltingsource.docsviewer.MainActivity" image="docs_viewer"/>
+	<AppIcon name="com.wetter.androidclient/com.wetter.androidclient.EntryActivity" image="tiempoes"/>
+	<AppIcon name="com.united.office.reader/com.united.office.reader.SplashActivity" image="united_office_reader"/>
+	<AppIcon name="com.noaa_hidef_radar/com.noaa_hidef_radar.presentation.MainActivity" image="weather_hi_def_radar"/>
+	<AppIcon name="com.memeteo.weather/co.windyapp.windylite.ui.MainActivity" image="memeteo"/>
+	<AppIcon name="com.meteoblue.droid/com.meteoblue.droid.view.MainActivity" image="meteoblue"/>
 
 </Theme>
