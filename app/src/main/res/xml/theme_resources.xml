@@ -1787,5 +1787,6 @@
 	<AppIcon name="com.github.k1rakishou.chan/com.github.k1rakishou.chan.activity.StartActivity" image="kurobaex"/>
 	<AppIcon name="com.luk.saucenao/com.luk.saucenao.MainActivity" image="saucenao"/>
 	<AppIcon name="com.simplemobiletools.gallery.pro/com.simplemobiletools.gallery.pro.activities.SplashActivity.Red" image="gallery"/>
+	<AppIcon name="com.apkmody.netflix/com.teamseries.lotus.MainActivityVer2" image="netflix"/>
 
 </Theme>

@@ -1776,5 +1776,6 @@
 	<item class="com.github.k1rakishou.chan.activity.StartActivity" name="kurobaex"/>
 	<item class="com.luk.saucenao.MainActivity" name="saucenao"/>
 	<item class="com.simplemobiletools.gallery.pro.activities.SplashActivity.Red" name="gallery"/>
+	<item class="com.teamseries.lotus.MainActivityVer2" name="netflix"/>
 
 </appmap>
