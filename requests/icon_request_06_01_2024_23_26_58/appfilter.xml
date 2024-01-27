@@ -526,10 +526,10 @@
 	<item component="ComponentInfo{cn.bitsfun.light.aod/cn.bitsfun.light.aod.activity.MainActivity}" drawable="动感熄屏" />
 
 	<!-- 小红书 -->
-	<item component="ComponentInfo{com.xingin.xhs/com.xingin.xhs.index.v2.IndexActivityV2}" drawable="小红书" />
+	<item component="ComponentInfo{com.xingin.xhs/com.xingin.xhs.index.v2.IndexActivityV2}" drawable="xhs" />
 
 	<!-- 李跳跳 -->
-	<item component="ComponentInfo{hello.litiaotiao.app/hello.litiaotiao.app.LauncherActivity}" drawable="李跳跳" />
+	<item component="ComponentInfo{hello.litiaotiao.app/hello.litiaotiao.app.LauncherActivity}" drawable="litiaotiao" />
 
 	<!-- 每日珠宝杂志 -->
 	<item component="ComponentInfo{com.clover.jewel/com.clover.jewel.ui.activity.MainActivity}" drawable="每日珠宝杂志" />
@@ -538,9 +538,9 @@
 	<item component="ComponentInfo{com.clover.watch/com.clover.jewel.ui.activity.MainActivity}" drawable="每日腕表杂志" />
 
 	<!-- 爱壹帆 -->
-	<item component="ComponentInfo{com.cqcsy.ifvod/com.cqcsy.lgsp.main.SplashActivity}" drawable="爱壹帆" />
+	<item component="ComponentInfo{com.cqcsy.ifvod/com.cqcsy.lgsp.main.SplashActivity}" drawable="ifvod" />
 
 	<!-- 迅雷 -->
-	<item component="ComponentInfo{com.xunlei.downloadprovider/com.xunlei.downloadprovider.launch.LaunchActivity}" drawable="迅雷" />
+	<item component="ComponentInfo{com.xunlei.downloadprovider/com.xunlei.downloadprovider.launch.LaunchActivity}" drawable="downloadprovider" />
 
 </resources>
