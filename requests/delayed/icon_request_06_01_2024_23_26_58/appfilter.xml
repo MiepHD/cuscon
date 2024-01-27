@@ -1,0 +1,546 @@
+<resources>
+
+	<!-- 1DM+ -->
+	<item component="ComponentInfo{idm.internet.download.manager.plus/idm.internet.download.manager.MainActivity}" drawable="_1dm_" />
+
+	<!-- 1DM+ Browser -->
+	<item component="ComponentInfo{idm.internet.download.manager.plus/acr.browser.lightning.activity.MainActivityLauncher}" drawable="_1dm_" />
+
+	<!-- AGC ToolKit -->
+	<item component="ComponentInfo{com.agc.gcam_tools/com.agc.gcam_tools.MainActivity}" drawable="agc_toolkit" />
+
+	<!-- AIA+ -->
+	<item component="ComponentInfo{com.aia.myaia/com.aia.myaia.MainActivity}" drawable="aia_" />
+
+	<!-- AliExpress -->
+	<item component="ComponentInfo{com.alibaba.aliexpresshd/com.aliexpress.app.FirstActivity}" drawable="aliexpress" />
+
+	<!-- Android Developers -->
+	<item component="ComponentInfo{org.chromium.webapk.ac1f09dc204c9fdb6_v2/org.chromium.webapk.shell_apk.h2o.H2OOpaqueMainActivity}" drawable="android_developers" />
+
+	<!-- AppGallery -->
+	<item component="ComponentInfo{com.huawei.appmarket/com.huawei.appmarket.MainActivity}" drawable="appgallery" />
+
+	<!-- AR Measure -->
+	<item component="ComponentInfo{com.huawei.ar.measure/com.huawei.ar.measure.LauncherActivity}" drawable="ar_measure" />
+
+	<!-- Background Video Recorder -->
+	<item component="ComponentInfo{com.helge.backgroundvideorecorder/com.helge.backgroundvideorecorder.ui.rec.RecActivity}" drawable="background_video_recorder" />
+
+	<!-- BETA -->
+	<item component="ComponentInfo{com.huawei.fut/com.huawei.betaclub.launch.LauncherActivity}" drawable="beta" />
+
+	<!-- bilibili -->
+	<item component="ComponentInfo{com.bilibili.app.in/tv.danmaku.bili.MainActivityV2}" drawable="bilibili" />
+
+	<!-- Boom -->
+	<item component="ComponentInfo{com.globaldelight.boom/com.globaldelight.boom.app.activities.SplashScreenActivity}" drawable="boom" />
+
+	<!-- Boom System FX -->
+	<item component="ComponentInfo{com.globaldelight.boom/com.globaldelight.systemfx.ui.SysFxMainActivity}" drawable="boom" />
+
+	<!-- Browser -->
+	<item component="ComponentInfo{com.huawei.browser/com.huawei.browser.Main2}" drawable="browser" />
+
+	<!-- Bubble Translate -->
+	<item component="ComponentInfo{com.niven.translator/com.niven.translate.MainActivity}" drawable="bubble_translate" />
+
+	<!-- Calculator -->
+	<item component="ComponentInfo{com.miui.calculator/com.miui.calculator.cal.CalculatorActivity}" drawable="miui_calculator" />
+
+	<!-- Calculator -->
+	<item component="ComponentInfo{com.huawei.calculator/com.huawei.calculator.Calculator}" drawable="huawei_calculator" />
+
+	<!-- Calendar -->
+	<item component="ComponentInfo{com.android.calendar/com.android.calendar.AllInOneActivity}" drawable="android_calendar" />
+
+	<!-- Camera -->
+	<item component="ComponentInfo{com.huawei.camera/com.huawei.camera}" drawable="camera" />
+
+	<!-- Camera -->
+	<item component="ComponentInfo{com.agc.gcam84/com.android.camera.CameraLauncher}" drawable="camera" />
+
+	<!-- Celia Keyboard -->
+	<item component="ComponentInfo{com.huawei.ohos.inputmethod/com.appstore.view.activity.PrimaryActivity}" drawable="celia_keyboard" />
+
+	<!-- Clock -->
+	<item component="ComponentInfo{com.android.deskclock/com.android.deskclock.AlarmsMainActivity}" drawable="clock" />
+
+	<!-- Cloud -->
+	<item component="ComponentInfo{com.huawei.hidisk/com.huawei.android.hicloud.ui.activity.NewHiSyncSettingAliasActivity}" drawable="cloud" />
+
+	<!-- Color OS 3D -->
+	<item component="ComponentInfo{com.cris87.color_os_3d/com.candybar.dev.activities.SplashActivity}" drawable="color_os_3d" />
+
+	<!-- Colorful Widget -->
+	<item component="ComponentInfo{com.colorful.widget.theme/com.colorful.widget.activity.splash.SplashActivity}" drawable="colorful_widget" />
+
+	<!-- ColorOS Icons -->
+	<item component="ComponentInfo{com.akbon.coloros/com.akbon.coloros.MainActivity}" drawable="coloros_icons" />
+
+	<!-- Compass -->
+	<item component="ComponentInfo{com.huawei.compass/com.huawei.compass.MainActivity}" drawable="compass" />
+
+	<!-- CoolApk -->
+	<item component="ComponentInfo{com.coolapk.market/com.coolapk.market.view.main.MainActivity}" drawable="coolapk" />
+
+	<!-- CRiOS Carbon -->
+	<item component="ComponentInfo{com.cris87.crios_carbon/com.candybar.dev.activities.SplashActivity}" drawable="crios_carbon" />
+
+	<!-- CRiOS X -->
+	<item component="ComponentInfo{com.cris87.crios/com.candybar.dev.activities.SplashActivity}" drawable="crios_x" />
+
+	<!-- Crispy HD -->
+	<item component="ComponentInfo{com.cris87.crispyhd/com.material.dashboard.candybar.sample.activities.SplashActivity}" drawable="crispy_hd" />
+
+	<!-- CTOS -->
+	<item component="ComponentInfo{my.com.ctos.android/my.com.ctos.android.SplashScreenActivity}" drawable="ctos" />
+
+	<!-- Cubic Icon Pack -->
+	<item component="ComponentInfo{com.panotogomo.cubic/com.panotogomo.cubic.activities.SplashActivity}" drawable="cubic_icon_pack" />
+
+	<!-- Dark Evo -->
+	<item component="ComponentInfo{com.darkevo.iconpack/com.darkevo.iconpack.activities.SplashActivity}" drawable="dark_evo" />
+
+	<!-- Dictionary -->
+	<item component="ComponentInfo{com.bravolol.bravolang.englishchinesecdictionary/com.bravolol.bravolang.englishchinesecdictionary.BravoDict}" drawable="dictionary" />
+
+	<!-- Discord -->
+	<item component="ComponentInfo{com.discord/com.discord.main.MainDefault}" drawable="discord" />
+
+	<!-- DJ Mixer -->
+	<item component="ComponentInfo{dj.music.mixer.sound.effects/com.ijoysoft.mix.activity.WelcomeActivity}" drawable="dj_mixer" />
+
+	<!-- Dock Circle 3D Icon Pack -->
+	<item component="ComponentInfo{com.panotogomo.dockcircle/com.panotogomo.dockcircle.activities.SplashActivity}" drawable="dock_circle_3d_icon_pack" />
+
+	<!-- Docs -->
+	<item component="ComponentInfo{com.huawei.docs/cn.wps.moffice.documentmanager.PreStartActivity}" drawable="docs" />
+
+	<!-- Download Twitter Videos -->
+	<item component="ComponentInfo{tweeter.gif.twittervideodownloader/tweeter.gif.twittervideodownloader.ui.home.MainActivity}" drawable="download_twitter_videos" />
+
+	<!-- Duel Links -->
+	<item component="ComponentInfo{jp.konami.duellinks/jp.konami.duellinks.plugins.YgomMainActivity}" drawable="duel_links" />
+
+	<!-- Duel Links Meta -->
+	<item component="ComponentInfo{org.chromium.webapk.ad25eda84fd189c88_v2/org.chromium.webapk.shell_apk.h2o.H2OOpaqueMainActivity}" drawable="duel_links_meta" />
+
+	<!-- Email -->
+	<item component="ComponentInfo{com.android.email/com.android.email.activity.Welcome}" drawable="email" />
+
+	<!-- Emui -->
+	<item component="ComponentInfo{com.cris87.emui/com.candybar.dev.activities.SplashActivity}" drawable="emui" />
+
+	<!-- EMUI CARBON -->
+	<item component="ComponentInfo{com.cris87.emui_carbon/com.material.dashboard.candybar.sample.activities.SplashActivity}" drawable="emui_carbon" />
+
+	<!-- Exported Icon Pack -->
+	<item component="ComponentInfo{ginlemon.iconpackstudio.exported/ginlemon.iconpackstudio.exported.MainActivity}" drawable="exported_icon_pack" />
+
+	<!-- Files -->
+	<item component="ComponentInfo{com.huawei.filemanager/com.huawei.hidisk.filemanager.FileManager}" drawable="files" />
+
+	<!-- Find Device -->
+	<item component="ComponentInfo{com.huawei.android.findmyphone/com.huawei.android.findmyphone.ui.findphone.FindMyPhoneActivity}" drawable="find_device" />
+
+	<!-- Font Manager -->
+	<item component="ComponentInfo{com.deishelon.emuifontmanager/com.deishelon.emuifontmanager.ui.activities.HomeActivity}" drawable="font_manager" />
+
+	<!-- Font Picker -->
+	<item component="ComponentInfo{com.khoben.fontpicker/com.khoben.fontpicker.ui.screen.MainActivity}" drawable="font_picker" />
+
+	<!-- FV File Explorer -->
+	<item component="ComponentInfo{com.fooview.android.fooview.fvfile/com.fooview.android.fooview.FVFileActivity}" drawable="fv_file_explorer" />
+
+	<!-- G-CPU -->
+	<item component="ComponentInfo{com.insideinc.gcpu/com.example.g_cpu.MainActivity}" drawable="g_cpu" />
+
+	<!-- Galaxy X -->
+	<item component="ComponentInfo{com.cris87.s8original/com.candybar.dev.activities.SplashActivity}" drawable="galaxy_x" />
+
+	<!-- Gallery -->
+	<item component="ComponentInfo{com.android.gallery3d/com.huawei.gallery.app.GalleryMain}" drawable="gallery3d" />
+
+	<!-- Gallery -->
+	<item component="ComponentInfo{com.simplemobiletools.gallery.pro/com.simplemobiletools.gallery.pro.activities.SplashActivity.Red}" drawable="gallery" />
+
+	<!-- Gallery -->
+	<item component="ComponentInfo{gallery.photomanager.picturegalleryapp.imagegallery/gallery.photomanager.picturegalleryapp.imagegallery.activity.GalleryActivity}" drawable="photomanager" />
+
+	<!-- Gay For Fans -->
+	<item component="ComponentInfo{org.chromium.webapk.a84bf11352b308b4e_v2/org.chromium.webapk.shell_apk.h2o.H2OOpaqueMainActivity}" drawable="gay_for_fans" />
+
+	<!-- GCamloader+ -->
+	<item component="ComponentInfo{net.metareverse.gcamloader/net.metareverse.gcamloader.MainActivity}" drawable="gcamloader_" />
+
+	<!-- Google Pay -->
+	<item component="ComponentInfo{com.google.android.apps.walletnfcrel/com.google.android.apps.wallet.GooglePayActivity}" drawable="google_pay" />
+
+	<!-- Grab -->
+	<item component="ComponentInfo{com.grabtaxi.passenger/com.grab.pax.newface.presentation.newface.NewFace}" drawable="grab" />
+
+	<!-- Grindr -->
+	<item component="ComponentInfo{com.grindrapp.android/com.grindrapp.android.HomeActivityOriginal}" drawable="grindr" />
+
+	<!-- GSMArena -->
+	<item component="ComponentInfo{com.gsmarena.android/com.gsmarena.android.activity.SplashActivity}" drawable="gsmarena" />
+
+	<!-- Gspace -->
+	<item component="ComponentInfo{com.gspace.android/com.gspace.android.ui.activity.SplashActivity}" drawable="gspace" />
+
+	<!-- G漫 -->
+	<item component="ComponentInfo{com.rhbbzsfw.lkanxtewa/com.rhbbzsfw.lkanxtewa.default}" drawable="g漫" />
+
+	<!-- Hexanet -->
+	<item component="ComponentInfo{com.panotogomo.hexanet/com.panotogomo.hexanet.activities.SplashActivity}" drawable="hexanet" />
+
+	<!-- Huawei Health -->
+	<item component="ComponentInfo{com.huawei.health/com.huawei.health.MainActivity}" drawable="huawei_health" />
+
+	<!-- HUAWEI Music -->
+	<item component="ComponentInfo{com.android.mediacenter/com.android.mediacenter.PageActivity}" drawable="huawei_music" />
+
+	<!-- HUAWEI Video -->
+	<item component="ComponentInfo{com.huawei.himovie.overseas/com.huawei.himovie.ui.login.SplashScreenActivity}" drawable="huawei_video" />
+
+	<!-- Human body (male) educational VR 3D -->
+	<item component="ComponentInfo{com.rendernet.humanmale/com.rendernet.intenturlgetterplugin.IntentUrlGetterActivity}" drawable="human_body_male_educational_vr_3d" />
+
+	<!-- Hypic -->
+	<item component="ComponentInfo{com.xt.retouchoversea/com.xt.retouch.uilauncher.LaunchActivity}" drawable="hypic" />
+
+	<!-- Icon Pack Studio -->
+	<item component="ComponentInfo{ginlemon.iconpackstudio/ginlemon.iconpackstudio.editor.homeActivity.HomeActivity}" drawable="icon_pack_studio" />
+
+	<!-- iMuseum -->
+	<item component="ComponentInfo{com.clover.imuseum/com.clover.imuseum.ui.activity.MainActivity}" drawable="imuseum" />
+
+	<!-- inDrive -->
+	<item component="ComponentInfo{sinet.startup.inDriver/sinet.startup.inDriver.ui.splash.SplashActivity}" drawable="indrive" />
+
+	<!-- iOS 16 - icon pack -->
+	<item component="ComponentInfo{com.debojyoti.ios16_icpack/com.debojyoti.ios16_icpack.activities.SplashActivity}" drawable="ios_16_icon_pack" />
+
+	<!-- iOS Widgets - iWidgets -->
+	<item component="ComponentInfo{colorwidgets.ios.widget.topwidgets/colorwidgets.ios.widget.topwidgets.ui.activity.loading.LoadingActivity}" drawable="ios_widgets_iwidgets" />
+
+	<!-- Kamasutra Gay -->
+	<item component="ComponentInfo{appshaver.kamasutragay/appshaver.kamasutragay.MainActivity}" drawable="kamasutra_gay" />
+
+	<!-- Keep -->
+	<item component="ComponentInfo{com.gotokeep.keep/com.gotokeep.keep.splash.SplashActivity}" drawable="keep" />
+
+	<!-- KWSP i-Akaun -->
+	<item component="ComponentInfo{com.epf.mip/com.epf.mip.MainActivity}" drawable="kwsp_i_akaun" />
+
+	<!-- Lazada -->
+	<item component="ComponentInfo{com.lazada.android/com.lazada.activities.EnterActivity}" drawable="lazada" />
+
+	<!-- Learning -->
+	<item component="ComponentInfo{com.linkedin.android.learning/com.linkedin.android.learning.launchscreen.LaunchScreenActivity}" drawable="learning" />
+
+	<!-- Libre Memory Game -->
+	<item component="ComponentInfo{org.quentin_bettoum.librememorygame/com.godot.game.GodotApp}" drawable="libre_memory_game" />
+
+	<!-- LINE -->
+	<item component="ComponentInfo{jp.naver.line.android/jp.naver.line.android.activity.SplashActivity}" drawable="line" />
+
+	<!-- Linedock 3D -->
+	<item component="ComponentInfo{com.panotogomo.linedock/com.panotogomo.linedock.activities.SplashActivity}" drawable="linedock_3d" />
+
+	<!-- LineS 3D -->
+	<item component="ComponentInfo{com.panotogomo.linebula3d/com.panotogomo.linebula3d.activities.SplashActivity}" drawable="lines_3d" />
+
+	<!-- LPSG.com -->
+	<item component="ComponentInfo{org.chromium.webapk.a04804b9c4d7af926_v2/org.chromium.webapk.shell_apk.h2o.H2OOpaqueMainActivity}" drawable="lpsgcom" />
+
+	<!-- LuX Free -->
+	<item component="ComponentInfo{com.jndapp.lux.free.iconpack/com.jndapp.lux.free.iconpack.MainActivity}" drawable="lux_free" />
+
+	<!-- MAE -->
+	<item component="ComponentInfo{com.maybank2u.life/com.zoontek.rnbootsplash.RNBootSplashActivity}" drawable="mae" />
+
+	<!-- Malaysia Calendar -->
+	<item component="ComponentInfo{com.leonw.mycalendar/com.yunosolutions.yunocalendar.revamp.ui.splash.SplashActivity}" drawable="malaysia_calendar" />
+
+	<!-- Material Square 3D -->
+	<item component="ComponentInfo{com.cris87.material_square_3d/com.candybar.dev.activities.SplashActivity}" drawable="material_square_3d" />
+
+	<!-- MeeTime -->
+	<item component="ComponentInfo{com.huawei.meetime/com.huawei.meetime.MainMenuActivity}" drawable="meetime" />
+
+	<!-- Member Centre -->
+	<item component="ComponentInfo{com.huawei.mycenter/com.huawei.mycenter.module.main.view.MainActivity}" drawable="member_centre" />
+
+	<!-- Mirror -->
+	<item component="ComponentInfo{com.huawei.mirror/com.huawei.mirror.protocol.ProtocolConfirmActivity}" drawable="mirror" />
+
+	<!-- Miru -->
+	<item component="ComponentInfo{miru.miaomint/miru.miaomint.MainActivity}" drawable="miru" />
+
+	<!-- Miui Carbon -->
+	<item component="ComponentInfo{com.cris87.miui_11_carbon/com.candybar.dev.activities.SplashActivity}" drawable="miui_carbon" />
+
+	<!-- Miui Circle -->
+	<item component="ComponentInfo{com.cris87.micolor/com.candybar.dev.activities.SplashActivity}" drawable="miui_circle" />
+
+	<!-- Miui Circle Fluo -->
+	<item component="ComponentInfo{com.cris87.miui_circle_fluo/com.candybar.dev.activities.SplashActivity}" drawable="miui_circle_fluo" />
+
+	<!-- MiUX -->
+	<item component="ComponentInfo{com.cris87.miux/com.candybar.dev.activities.SplashActivity}" drawable="miux" />
+
+	<!-- Mixed -->
+	<item component="ComponentInfo{com.cris87.mixed/com.candybar.dev.activities.SplashActivity}" drawable="mixed" />
+
+	<!-- MT Manager -->
+	<item component="ComponentInfo{bin.mt.plus/bin.mt.plus.MainDarkIcon}" drawable="mt_manager" />
+
+	<!-- My Drawer -->
+	<item component="ComponentInfo{com.ofirmiron.appdrawer/com.ofirmiron.appdrawer.activities.MainActivity.Gray}" drawable="my_drawer" />
+
+	<!-- My HUAWEI -->
+	<item component="ComponentInfo{com.huawei.phoneservice/com.huawei.myhuawei.ui.HwSplashActivity}" drawable="my_huawei" />
+
+	<!-- MyICON -->
+	<item component="ComponentInfo{com.myicon.themeiconchanger/com.myicon.themeiconchanger.splash.SplashActivity}" drawable="myicon" />
+
+	<!-- MyUMobile -->
+	<item component="ComponentInfo{com.omesti.myumobile/com.omesti.myumobile.MainActivity}" drawable="myumobile" />
+
+	<!-- MyUnifi -->
+	<item component="ComponentInfo{my.myunifi/my.myunifi.MainActivity}" drawable="myunifi" />
+
+	<!-- Netflix -->
+	<item component="ComponentInfo{com.apkmody.netflix/com.teamseries.lotus.MainActivityVer2}" drawable="netflix" />
+
+	<!-- Newswav -->
+	<item component="ComponentInfo{com.newswav.android/com.example.base.MainActivity}" drawable="newswav" />
+
+	<!-- Nonton Anime -->
+	<item component="ComponentInfo{com.stream.neoanimex/com.stream.neoanimex.activities.ActivitySplash}" drawable="nonton_anime" />
+
+	<!-- Notepad -->
+	<item component="ComponentInfo{com.example.android.notepad/com.example.android.notepad.NotePadActivity}" drawable="notepad" />
+
+	<!-- Notes -->
+	<item component="ComponentInfo{com.huawei.hinote/com.huawei.hinote.HomeLauncherActivity}" drawable="notes" />
+
+	<!-- One UI 6 -->
+	<item component="ComponentInfo{ru.pt.iconpack.oneui6/ru.pt.iconpack.oneui6.activities.Check_GDPR}" drawable="one_ui_6" />
+
+	<!-- One UI HD -->
+	<item component="ComponentInfo{com.cris87.one_ui/com.candybar.dev.activities.SplashActivity}" drawable="one_ui_hd" />
+
+	<!-- One UI Long Shadow -->
+	<item component="ComponentInfo{com.panotogomo.iconpack.oneui/com.panotogomo.iconpack.oneui.activities.SplashActivity}" drawable="one_ui_long_shadow" />
+
+	<!-- Onlyfans -->
+	<item component="ComponentInfo{luby.only.fans/flc.ast.SplashActivity}" drawable="onlyfans" />
+
+	<!-- OPPO Store -->
+	<item component="ComponentInfo{com.heytap.mall/com.heytap.store.view.SplashActivity}" drawable="oppo_store" />
+
+	<!-- Optimiser -->
+	<item component="ComponentInfo{com.huawei.systemmanager/com.huawei.systemmanager.mainscreen.MainScreenActivity}" drawable="optimiser" />
+
+	<!-- Oxigen 3D -->
+	<item component="ComponentInfo{com.cris87.oxygen3d/com.candybar.dev.activities.SplashActivity}" drawable="oxigen_3d" />
+
+	<!-- Oxigen HD -->
+	<item component="ComponentInfo{com.cris87.oxygen/com.candybar.dev.activities.SplashActivity}" drawable="oxigen_hd" />
+
+	<!-- Palette -->
+	<item component="ComponentInfo{h7.hamzio.palette/h7.hamzio.palette.commons.Activity_Gallery}" drawable="palette" />
+
+	<!-- Pdf Viewer -->
+	<item component="ComponentInfo{com.turtleslab.pdfviewer/com.turtleslab.pdfviewer.MainActivity_}" drawable="pdf_viewer" />
+
+	<!-- Peafowl -->
+	<item component="ComponentInfo{h7.hamzio.emuithemeotg/h7.hamzio7.peafowl.activities.GalleryActivity}" drawable="peafowl" />
+
+	<!-- Peafowl -->
+	<item component="ComponentInfo{h7.hamzio7.emuithemeotg.huawei/h7.hamzio7.peafowl.activities.GalleryActivity}" drawable="peafowl_huawei" />
+
+	<!-- Petal Maps -->
+	<item component="ComponentInfo{com.huawei.maps.app/com.huawei.maps.app.petalmaps.splash.SplashActivity}" drawable="petal_maps" />
+
+	<!-- Petal Search -->
+	<item component="ComponentInfo{com.huawei.hwsearch/com.huawei.hwsearch.homescreen.HomeScreenActivity}" drawable="petal_search" />
+
+	<!-- Petal Speed -->
+	<item component="ComponentInfo{com.huawei.genexcloud.speedtest/com.huawei.genexcloud.speedtest.ui.SplashActivity}" drawable="petal_speed" />
+
+	<!-- Phone -->
+	<item component="ComponentInfo{com.android.contacts/com.android.contacts.activities.DialtactsActivity}" drawable="dialtacts" />
+
+	<!-- Phone Clone -->
+	<item component="ComponentInfo{com.hicloud.android.clone/com.huawei.android.clone.activity.sender.ChooseReceiveSendActivity}" drawable="phone_clone" />
+
+	<!-- PIXEL SQUARE -->
+	<item component="ComponentInfo{com.cris87.pixelsquare/com.material.dashboard.candybar.sample.activities.SplashActivity}" drawable="pixel_square" />
+
+	<!-- Pizza Hut Malaysia -->
+	<item component="ComponentInfo{com.pizzahut.malaysia/com.pizzahut.malaysia.views.MLSplashActivity}" drawable="pizza_hut_malaysia" />
+
+	<!-- ReadEra -->
+	<item component="ComponentInfo{org.readera/com.readera.MainActivity}" drawable="readera" />
+
+	<!-- Recorder -->
+	<item component="ComponentInfo{com.android.soundrecorder/com.android.soundrecorder.RecordListActivity}" drawable="recorder" />
+
+	<!-- Reddit -->
+	<item component="ComponentInfo{com.reddit.frontpage/launcher.wallstreet}" drawable="reddit" />
+
+	<!-- Settings -->
+	<item component="ComponentInfo{com.android.settings/com.android.settings.HWSettings}" drawable="settings" />
+
+	<!-- Shopee -->
+	<item component="ComponentInfo{com.shopee.my/com.shopee.app.ui.home.HomeActivity_}" drawable="shopee" />
+
+	<!-- Shortcut Maker -->
+	<item component="ComponentInfo{rk.android.app.shortcutmaker/rk.android.app.shortcutmaker.CommonMethods.SplashScreenActivity}" drawable="shortcut_maker" />
+
+	<!-- SIM Toolkit -->
+	<item component="ComponentInfo{com.android.stk/com.android.stk.StkLauncherActivity2}" drawable="sim_toolkit" />
+
+	<!-- Software update -->
+	<item component="ComponentInfo{com.huawei.android.hwouc/com.huawei.android.hwouc.ui.activities.MainEntranceActivity}" drawable="software_update" />
+
+	<!-- Software Update -->
+	<item component="ComponentInfo{com.software.update.phoneupdate/com.software.update.phoneupdate.activities.Splash_Activity}" drawable="software_update" />
+
+	<!-- Sololearn -->
+	<item component="ComponentInfo{com.sololearn/com.sololearn.app.ui.launcher.LauncherActivity}" drawable="sololearn" />
+
+	<!-- Stealth -->
+	<item component="ComponentInfo{stealthychief.icon.pack.stealth/com.afollestad.polar.ui.SplashScreen}" drawable="stealth" />
+
+	<!-- Table Notes -->
+	<item component="ComponentInfo{vivekagarwal.playwithdb/vivekagarwal.playwithdb.MainActivity}" drawable="table_notes" />
+
+	<!-- TachiJ2K -->
+	<item component="ComponentInfo{eu.kanade.tachiyomi.j2k/eu.kanade.tachiyomi.ui.main.MainActivity}" drawable="tachij2k" />
+
+	<!-- TechNave -->
+	<item component="ComponentInfo{com.technave.technave/com.example.technaveuserapp.MainActivity}" drawable="technave" />
+
+	<!-- TeraBox -->
+	<item component="ComponentInfo{com.dubox.drive/com.dubox.drive.ui.Navigate}" drawable="terabox" />
+
+	<!-- Themes -->
+	<item component="ComponentInfo{com.huawei.android.thememanager/com.huawei.android.thememanager.mvp.view.activity.onlinebase.PageActivity}" drawable="themes" />
+
+	<!-- Themes for Huawei & Honor -->
+	<item component="ComponentInfo{com.teammt.gmanrainy.themestore/com.teammt.gmanrainy.emuithemestore.activity.mainactivity.MainActivity}" drawable="themes_for_huawei_and_honor" />
+
+	<!-- Themes Manager -->
+	<item component="ComponentInfo{com.deishelon.lab.huaweithememanager/com.deishelon.lab.huaweithememanager.ui.activities.ThemesActivity}" drawable="themes_manager" />
+
+	<!-- Tips -->
+	<item component="ComponentInfo{com.huawei.tipsove/com.huawei.android.tips.launch.ui.SplashActivity}" drawable="tips" />
+
+	<!-- TNG eWallet -->
+	<item component="ComponentInfo{my.com.tngdigital.ewallet/my.com.tngdigital.ewallet.ui.SplashActivity}" drawable="tng_ewallet" />
+
+	<!-- Top Widgets -->
+	<item component="ComponentInfo{com.growing.topwidgets/com.growing.topwidgets.home.splash.TWSplashActivity}" drawable="top_widgets" />
+
+	<!-- Torch -->
+	<item component="ComponentInfo{com.huawei.HwMultiScreenShot/com.android.systemui.flashlight.FlashlightActivity}" drawable="torch" />
+
+	<!-- Translator -->
+	<item component="ComponentInfo{com.microsoft.translator/com.microsoft.translator.activity.SplashActivity}" drawable="microsoft_translator" />
+
+	<!-- UC Browser -->
+	<item component="ComponentInfo{com.UCMobile.intl/com.UCMobile.main.UCMobile}" drawable="uc_browser" />
+
+	<!-- Unifi Mobile -->
+	<item component="ComponentInfo{com.iwhalecloud.clp.tm/com.iwhalecloud.login.ui.activity.WelcomeActivity}" drawable="unifi_mobile" />
+
+	<!-- UNO -->
+	<item component="ComponentInfo{com.matteljv.uno/com.netease.uno.CustomOverrideActivity}" drawable="uno" />
+
+	<!-- UNO King -->
+	<item component="ComponentInfo{com.bigcodegames.uno.king/com.unity3d.player.UnityPlayerActivity}" drawable="uno_king" />
+
+	<!-- Uptodown App Store -->
+	<item component="ComponentInfo{com.uptodown/com.uptodown.activities.MainActivityScrollable}" drawable="uptodown_app_store" />
+
+	<!-- URL to PDF Converter -->
+	<item component="ComponentInfo{com.prostudio.urltopdfconverter/com.prostudio.urltopdfconverter.MainActivity}" drawable="url_to_pdf_converter" />
+
+	<!-- Vanced -->
+	<item component="ComponentInfo{com.biomes.vanced/com.biomes.vanced.main.MainActivity}" drawable="vanced" />
+
+	<!-- VideoApp VK -->
+	<item component="ComponentInfo{org.xjiop.vkvideoapp/org.xjiop.vkvideoapp.AuthActivity}" drawable="videoapp_vk" />
+
+	<!-- VK -->
+	<item component="ComponentInfo{com.vkontakte.android/com.vk.android.launcher.icons.IconAlias.DefaultIcon}" drawable="vk" />
+
+	<!-- VK Mail -->
+	<item component="ComponentInfo{com.vk.mail/ru.mail.mailapp.SplashScreenActivity}" drawable="vk_mail" />
+
+	<!-- VK Video -->
+	<item component="ComponentInfo{com.vk.vkvideo/com.vk.video.screens.main.MainActivity}" drawable="vk_video" />
+
+	<!-- VK Video Feed -->
+	<item component="ComponentInfo{mm.vkvideofeeddownload/mm.vkvideofeeddownload.SplashActivity}" drawable="vk_video_feed" />
+
+	<!-- Weather -->
+	<item component="ComponentInfo{com.huawei.android.totemweather/com.huawei.android.totemweather.WeatherHome}" drawable="totemweather" />
+
+	<!-- Weibo -->
+	<item component="ComponentInfo{com.sina.weibo/com.sina.weibo.SplashActivity}" drawable="weibo" />
+
+	<!-- WidgetClub -->
+	<item component="ComponentInfo{com.widgetclub/com.widgetclub.ui.login.SplashActivity}" drawable="widgetclub" />
+
+	<!-- WPS PDF -->
+	<item component="ComponentInfo{cn.wps.pdf/cn.wps.pdf.bootpage.splash.SplashActivity}" drawable="wps_pdf" />
+
+	<!-- X -->
+	<item component="ComponentInfo{com.twitter.android/com.twitter.android.StartActivity}" drawable="x" />
+
+	<!-- xHamster -->
+	<item component="ComponentInfo{org.chromium.webapk.af423c7c13b0d46c5_v2/org.chromium.webapk.shell_apk.h2o.H2OOpaqueMainActivity}" drawable="xhamster" />
+
+	<!-- Xiaomi Community -->
+	<item component="ComponentInfo{com.mi.global.bbs/com.mi.global.bbslib.headlines.ui.SplashActivity}" drawable="xiaomi_community" />
+
+	<!-- XPlayer - Video Player -->
+	<item component="ComponentInfo{video.player.videoplayer/com.inshot.xplayer.activities.SplashActivity}" drawable="xplayer_video_player" />
+
+	<!-- xvii -->
+	<item component="ComponentInfo{com.twoeightnine.root.xvii/com.twoeightnine.root.xvii.login.LoginActivity}" drawable="xvii" />
+
+	<!-- zFont 3 -->
+	<item component="ComponentInfo{com.htetznaing.zfont2/com.htetznaing.zfont4.MainActivity}" drawable="zfont_3" />
+
+	<!-- zFont Tool -->
+	<item component="ComponentInfo{com.htetznaing.fonttools/com.htetznaing.fonttools.MainActivity}" drawable="zfont_tool" />
+
+	<!-- 动感熄屏 -->
+	<item component="ComponentInfo{cn.bitsfun.light.aod/cn.bitsfun.light.aod.activity.MainActivity}" drawable="动感熄屏" />
+
+	<!-- 小红书 -->
+	<item component="ComponentInfo{com.xingin.xhs/com.xingin.xhs.index.v2.IndexActivityV2}" drawable="xhs" />
+
+	<!-- 李跳跳 -->
+	<item component="ComponentInfo{hello.litiaotiao.app/hello.litiaotiao.app.LauncherActivity}" drawable="litiaotiao" />
+
+	<!-- 每日珠宝杂志 -->
+	<item component="ComponentInfo{com.clover.jewel/com.clover.jewel.ui.activity.MainActivity}" drawable="每日珠宝杂志" />
+
+	<!-- 每日腕表杂志 -->
+	<item component="ComponentInfo{com.clover.watch/com.clover.jewel.ui.activity.MainActivity}" drawable="每日腕表杂志" />
+
+	<!-- 爱壹帆 -->
+	<item component="ComponentInfo{com.cqcsy.ifvod/com.cqcsy.lgsp.main.SplashActivity}" drawable="ifvod" />
+
+	<!-- 迅雷 -->
+	<item component="ComponentInfo{com.xunlei.downloadprovider/com.xunlei.downloadprovider.launch.LaunchActivity}" drawable="downloadprovider" />
+
+</resources>
