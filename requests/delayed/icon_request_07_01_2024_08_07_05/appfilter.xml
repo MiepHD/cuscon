@@ -1,0 +1,144 @@
+<resources>
+
+	<!-- Amazon -->
+	<item component="ComponentInfo{in.amazon.mShop.android.shopping/com.amazon.mShop.home.HomeActivity}" drawable="amazon" />
+
+	<!-- Apple Music -->
+	<item component="ComponentInfo{com.apple.android.music/com.apple.android.music.onboarding.activities.SplashActivity}" drawable="apple_music" />
+
+	<!-- Bandcamp -->
+	<item component="ComponentInfo{com.bandcamp.android/com.bandcamp.android.view.SplashActivity}" drawable="bandcamp" />
+
+	<!-- BookMyShow -->
+	<item component="ComponentInfo{com.bt.bms/com.movie.bms.splashscreen.SplashScreenActivity}" drawable="bookmyshow" />
+
+	<!-- Brain Waves Pro -->
+	<item component="ComponentInfo{com.myniotech.brainwavespro/net.luizmello.brainwaves.app.features.MainActivity}" drawable="brain_waves_pro" />
+
+	<!-- Brilliant -->
+	<item component="ComponentInfo{org.brilliant.android/org.brilliant.android.ui.common.MainActivity}" drawable="brilliant" />
+
+	<!-- Calculator -->
+	<item component="ComponentInfo{com.coloros.calculator/com.android.calculator2.Calculator}" drawable="calculator" />
+
+	<!-- Camera -->
+	<item component="ComponentInfo{com.oplus.camera/com.oplus.camera.Camera}" drawable="camera" />
+
+	<!-- Chess Tactics Pro -->
+	<item component="ComponentInfo{net.lrstudios.android.chess_problems/net.lrstudios.problemappslib.ui.MainActivity}" drawable="chess_tactics_pro" />
+
+	<!-- Citibank IN -->
+	<item component="ComponentInfo{com.citiuat/com.citiuat.mobeix.MainActivity}" drawable="citibank_in" />
+
+	<!-- Clock -->
+	<item component="ComponentInfo{com.coloros.alarmclock/com.oplus.alarmclock.AlarmClock}" drawable="clock" />
+
+	<!-- CoinDCX -->
+	<item component="ComponentInfo{com.coindcx.btc/com.coindcx.MainActivity}" drawable="coindcx" />
+
+	<!-- Dunzo -->
+	<item component="ComponentInfo{com.dunzo.user/in.dunzo.splashScreen.ui.LauncherActivity}" drawable="dunzo" />
+
+	<!-- Evernote -->
+	<item component="ComponentInfo{com.evernote/com.evernote.SplashActivity}" drawable="evernote" />
+
+	<!-- Flud+ -->
+	<item component="ComponentInfo{com.delphicoder.flud.paid/com.delphicoder.flud.MainActivity}" drawable="flud_" />
+
+	<!-- Ground News -->
+	<item component="ComponentInfo{com.checkitt/vc.ucic.SplashActivity}" drawable="ground_news" />
+
+	<!-- H&M -->
+	<item component="ComponentInfo{com.hm.goe/com.hm.goe.app.home.HomeActivity}" drawable="h_and_m" />
+
+	<!-- IKEA -->
+	<item component="ComponentInfo{com.ingka.ikea.app/com.ingka.ikea.app.splash.FirstEntryActivity}" drawable="ikea" />
+
+	<!-- JUGO -->
+	<item component="ComponentInfo{bubustudio.jugo.pack/bubustudio.jugo.pack.activities.SplashActivity}" drawable="jugo" />
+
+	<!-- Jupiter -->
+	<item component="ComponentInfo{money.jupiter/com.zoontek.rnbootsplash.RNBootSplashActivity}" drawable="jupiter" />
+
+	<!-- Keepa -->
+	<item component="ComponentInfo{com.keepa.mobile/com.tns.NativeScriptActivity}" drawable="keepa" />
+
+	<!-- Laundry Timer -->
+	<item component="ComponentInfo{com.solarr.drytimer/com.solarr.drytimer.MainActivity}" drawable="laundry_timer" />
+
+	<!-- m4marry -->
+	<item component="ComponentInfo{com.manoramaonline.m4marry/com.manoramaonline.m4marry.ui.main.splash.SplashActivity}" drawable="m4marry" />
+
+	<!-- Math Tricks Workout -->
+	<item component="ComponentInfo{com.sankhyantra.mathstricks/com.sankhyantra.mathstricks.SplashScreensActivity}" drawable="math_tricks_workout" />
+
+	<!-- MuPDF mini -->
+	<item component="ComponentInfo{com.artifex.mupdf.mini.app/com.artifex.mupdf.mini.app.LibraryActivity}" drawable="mupdf_mini" />
+
+	<!-- Nexo -->
+	<item component="ComponentInfo{com.nexowallet/com.nexowallet.MainActivity}" drawable="nexo" />
+
+	<!-- NYTimes -->
+	<item component="ComponentInfo{com.nytimes.android/com.nytimes.android.MainActivity}" drawable="nytimes" />
+
+	<!-- Ola -->
+	<item component="ComponentInfo{com.olacabs.customer/com.olacabs.customer.ui.SplashActivity}" drawable="ola" />
+
+	<!-- OneFootball -->
+	<item component="ComponentInfo{de.motain.iliga/com.onefootball.android.activity.FastLaunchSplashScreenActivity}" drawable="onefootball" />
+
+	<!-- OpenBoard -->
+	<item component="ComponentInfo{org.dslul.openboard.inputmethod.latin/org.dslul.openboard.inputmethod.latin.setup.SetupActivity}" drawable="openboard" />
+
+	<!-- Patreon -->
+	<item component="ComponentInfo{com.patreon.android/com.patreon.android.ui.shared.LauncherActivity}" drawable="patreon" />
+
+	<!-- Photos -->
+	<item component="ComponentInfo{com.coloros.gallery3d/com.coloros.gallery3d.app.MainActivity}" drawable="photos" />
+
+	<!-- Plex -->
+	<item component="ComponentInfo{com.plexapp.android/com.plexapp.plex.activities.SplashActivity}" drawable="plex" />
+
+	<!-- Pocket Casts -->
+	<item component="ComponentInfo{au.com.shiftyjelly.pocketcasts/au.com.shiftyjelly.pocketcasts.ui.MainActivity}" drawable="pocket_casts" />
+
+	<!-- Recorder -->
+	<item component="ComponentInfo{com.coloros.soundrecorder/com.soundrecorder.browsefile.BrowseFile}" drawable="coloros_recorder" />
+
+	<!-- SD Maid SE -->
+	<item component="ComponentInfo{eu.darken.sdmse/eu.darken.sdmse.main.ui.MainActivity}" drawable="sd_maid_se" />
+
+	<!-- Specie -->
+	<item component="ComponentInfo{org.billthefarmer.specie/org.billthefarmer.specie.Main}" drawable="specie" />
+
+	<!-- Swiggy -->
+	<item component="ComponentInfo{in.swiggy.android/in.swiggy.android.activities.HomeActivity}" drawable="swiggy" />
+
+	<!-- TC -->
+	<item component="ComponentInfo{net.kollnig.missioncontrol.fdroid/eu.faircode.netguard.ActivityMain}" drawable="tc" />
+
+	<!-- Tether -->
+	<item component="ComponentInfo{com.tplink.tether/com.tplink.tether.WelcomeActivity}" drawable="tether" />
+
+	<!-- TradingView -->
+	<item component="ComponentInfo{com.tradingview.tradingviewapp/com.tradingview.tradingviewapp.root.view.RootActivity}" drawable="tradingview" />
+
+	<!-- UFC -->
+	<item component="ComponentInfo{com.neulion.smartphone.ufc.android/com.imggaming.dicemobile.MainActivity}" drawable="ufc" />
+
+	<!-- UNIQLO -->
+	<item component="ComponentInfo{com.uniqlo.in.catalogue/com.uniqlo.ja.catalogue.view.mobile.startup.StartupActivity}" drawable="uniqlo" />
+
+	<!-- Untracker -->
+	<item component="ComponentInfo{me.zhanghai.android.untracker/me.zhanghai.android.untracker.MainActivity}" drawable="untracker" />
+
+	<!-- Voronoi -->
+	<item component="ComponentInfo{com.voronoi.organization.app/com.voronoi.app.voronoiapp.MainActivity}" drawable="voronoi" />
+
+	<!-- Wynk Music -->
+	<item component="ComponentInfo{com.bsbportal.music/com.bsbportal.music.v2.features.main.ui.HomeActivity}" drawable="wynk_music" />
+
+	<!-- ZARA -->
+	<item component="ComponentInfo{com.inditex.zara/com.inditex.zara.MainActivityDefaultIcon}" drawable="zara" />
+
+</resources>

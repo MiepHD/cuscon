@@ -1854,5 +1854,32 @@
 	<item class="com.meteoblue.droid.view.MainActivity" name="meteoblue"/>
 	<item class="com.unity3d.player.UnityPlayerActivity" name="ella"/>
 	<item class="rocks.poopjournal.flashy.activities.MainActivity" name="flashy"/>
+	<item class="com.bandcamp.android.view.SplashActivity" name="bandcamp"/>
+	<item class="com.movie.bms.splashscreen.SplashScreenActivity" name="bookmyshow"/>
+	<item class="net.luizmello.brainwaves.app.features.MainActivity" name="brain_waves_pro"/>
+	<item class="org.brilliant.android.ui.common.MainActivity" name="brilliant"/>
+	<item class="com.coindcx.MainActivity" name="coindcx"/>
+	<item class="com.soundrecorder.browsefile.BrowseFile" name="coloros_recorder"/>
+	<item class="in.dunzo.splashScreen.ui.LauncherActivity" name="dunzo"/>
+	<item class="com.delphicoder.flud.MainActivity" name="flud_"/>
+	<item class="vc.ucic.SplashActivity" name="ground_news"/>
+	<item class="com.hm.goe.app.home.HomeActivity" name="h_and_m"/>
+	<item class="bubustudio.jugo.pack.activities.SplashActivity" name="jugo"/>
+	<item class="com.zoontek.rnbootsplash.RNBootSplashActivity" name="jupiter"/>
+	<item class="com.tns.NativeScriptActivity" name="keepa"/>
+	<item class="com.manoramaonline.m4marry.ui.main.splash.SplashActivity" name="m4marry"/>
+	<item class="com.nexowallet.MainActivity" name="nexo"/>
+	<item class="com.nytimes.android.MainActivity" name="nytimes"/>
+	<item class="com.onefootball.android.activity.FastLaunchSplashScreenActivity" name="onefootball"/>
+	<item class="com.patreon.android.ui.shared.LauncherActivity" name="patreon"/>
+	<item class="au.com.shiftyjelly.pocketcasts.ui.MainActivity" name="pocket_casts"/>
+	<item class="in.swiggy.android.activities.HomeActivity" name="swiggy"/>
+	<item class="com.tplink.tether.WelcomeActivity" name="tether"/>
+	<item class="com.imggaming.dicemobile.MainActivity" name="ufc"/>
+	<item class="com.uniqlo.ja.catalogue.view.mobile.startup.StartupActivity" name="uniqlo"/>
+	<item class="me.zhanghai.android.untracker.MainActivity" name="untracker"/>
+	<item class="com.voronoi.app.voronoiapp.MainActivity" name="voronoi"/>
+	<item class="com.bsbportal.music.v2.features.main.ui.HomeActivity" name="wynk_music"/>
+	<item class="com.inditex.zara.MainActivityDefaultIcon" name="zara"/>
 
 </appmap>

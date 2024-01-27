@@ -1873,5 +1873,32 @@
 	<item component="ComponentInfo{com.meteoblue.droid/com.meteoblue.droid.view.MainActivity}" drawable="meteoblue" />
 	<item component="ComponentInfo{rocks.poopjournal.Ella/com.unity3d.player.UnityPlayerActivity}" drawable="ella" />
 	<item component="ComponentInfo{rocks.poopjournal.flashy/rocks.poopjournal.flashy.activities.MainActivity}" drawable="flashy" />
+	<item component="ComponentInfo{com.bandcamp.android/com.bandcamp.android.view.SplashActivity}" drawable="bandcamp" />
+	<item component="ComponentInfo{com.bt.bms/com.movie.bms.splashscreen.SplashScreenActivity}" drawable="bookmyshow" />
+	<item component="ComponentInfo{com.myniotech.brainwavespro/net.luizmello.brainwaves.app.features.MainActivity}" drawable="brain_waves_pro" />
+	<item component="ComponentInfo{org.brilliant.android/org.brilliant.android.ui.common.MainActivity}" drawable="brilliant" />
+	<item component="ComponentInfo{com.coindcx.btc/com.coindcx.MainActivity}" drawable="coindcx" />
+	<item component="ComponentInfo{com.coloros.soundrecorder/com.soundrecorder.browsefile.BrowseFile}" drawable="coloros_recorder" />
+	<item component="ComponentInfo{com.dunzo.user/in.dunzo.splashScreen.ui.LauncherActivity}" drawable="dunzo" />
+	<item component="ComponentInfo{com.delphicoder.flud.paid/com.delphicoder.flud.MainActivity}" drawable="flud_" />
+	<item component="ComponentInfo{com.checkitt/vc.ucic.SplashActivity}" drawable="ground_news" />
+	<item component="ComponentInfo{com.hm.goe/com.hm.goe.app.home.HomeActivity}" drawable="h_and_m" />
+	<item component="ComponentInfo{bubustudio.jugo.pack/bubustudio.jugo.pack.activities.SplashActivity}" drawable="jugo" />
+	<item component="ComponentInfo{money.jupiter/com.zoontek.rnbootsplash.RNBootSplashActivity}" drawable="jupiter" />
+	<item component="ComponentInfo{com.keepa.mobile/com.tns.NativeScriptActivity}" drawable="keepa" />
+	<item component="ComponentInfo{com.manoramaonline.m4marry/com.manoramaonline.m4marry.ui.main.splash.SplashActivity}" drawable="m4marry" />
+	<item component="ComponentInfo{com.nexowallet/com.nexowallet.MainActivity}" drawable="nexo" />
+	<item component="ComponentInfo{com.nytimes.android/com.nytimes.android.MainActivity}" drawable="nytimes" />
+	<item component="ComponentInfo{de.motain.iliga/com.onefootball.android.activity.FastLaunchSplashScreenActivity}" drawable="onefootball" />
+	<item component="ComponentInfo{com.patreon.android/com.patreon.android.ui.shared.LauncherActivity}" drawable="patreon" />
+	<item component="ComponentInfo{au.com.shiftyjelly.pocketcasts/au.com.shiftyjelly.pocketcasts.ui.MainActivity}" drawable="pocket_casts" />
+	<item component="ComponentInfo{in.swiggy.android/in.swiggy.android.activities.HomeActivity}" drawable="swiggy" />
+	<item component="ComponentInfo{com.tplink.tether/com.tplink.tether.WelcomeActivity}" drawable="tether" />
+	<item component="ComponentInfo{com.neulion.smartphone.ufc.android/com.imggaming.dicemobile.MainActivity}" drawable="ufc" />
+	<item component="ComponentInfo{com.uniqlo.in.catalogue/com.uniqlo.ja.catalogue.view.mobile.startup.StartupActivity}" drawable="uniqlo" />
+	<item component="ComponentInfo{me.zhanghai.android.untracker/me.zhanghai.android.untracker.MainActivity}" drawable="untracker" />
+	<item component="ComponentInfo{com.voronoi.organization.app/com.voronoi.app.voronoiapp.MainActivity}" drawable="voronoi" />
+	<item component="ComponentInfo{com.bsbportal.music/com.bsbportal.music.v2.features.main.ui.HomeActivity}" drawable="wynk_music" />
+	<item component="ComponentInfo{com.inditex.zara/com.inditex.zara.MainActivityDefaultIcon}" drawable="zara" />
 
 </resources>

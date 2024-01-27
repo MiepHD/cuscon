@@ -1864,5 +1864,32 @@
 	<AppIcon name="com.meteoblue.droid/com.meteoblue.droid.view.MainActivity" image="meteoblue"/>
 	<AppIcon name="rocks.poopjournal.Ella/com.unity3d.player.UnityPlayerActivity" image="ella"/>
 	<AppIcon name="rocks.poopjournal.flashy/rocks.poopjournal.flashy.activities.MainActivity" image="flashy"/>
+	<AppIcon name="com.bandcamp.android/com.bandcamp.android.view.SplashActivity" image="bandcamp"/>
+	<AppIcon name="com.bt.bms/com.movie.bms.splashscreen.SplashScreenActivity" image="bookmyshow"/>
+	<AppIcon name="com.myniotech.brainwavespro/net.luizmello.brainwaves.app.features.MainActivity" image="brain_waves_pro"/>
+	<AppIcon name="org.brilliant.android/org.brilliant.android.ui.common.MainActivity" image="brilliant"/>
+	<AppIcon name="com.coindcx.btc/com.coindcx.MainActivity" image="coindcx"/>
+	<AppIcon name="com.coloros.soundrecorder/com.soundrecorder.browsefile.BrowseFile" image="coloros_recorder"/>
+	<AppIcon name="com.dunzo.user/in.dunzo.splashScreen.ui.LauncherActivity" image="dunzo"/>
+	<AppIcon name="com.delphicoder.flud.paid/com.delphicoder.flud.MainActivity" image="flud_"/>
+	<AppIcon name="com.checkitt/vc.ucic.SplashActivity" image="ground_news"/>
+	<AppIcon name="com.hm.goe/com.hm.goe.app.home.HomeActivity" image="h_and_m"/>
+	<AppIcon name="bubustudio.jugo.pack/bubustudio.jugo.pack.activities.SplashActivity" image="jugo"/>
+	<AppIcon name="money.jupiter/com.zoontek.rnbootsplash.RNBootSplashActivity" image="jupiter"/>
+	<AppIcon name="com.keepa.mobile/com.tns.NativeScriptActivity" image="keepa"/>
+	<AppIcon name="com.manoramaonline.m4marry/com.manoramaonline.m4marry.ui.main.splash.SplashActivity" image="m4marry"/>
+	<AppIcon name="com.nexowallet/com.nexowallet.MainActivity" image="nexo"/>
+	<AppIcon name="com.nytimes.android/com.nytimes.android.MainActivity" image="nytimes"/>
+	<AppIcon name="de.motain.iliga/com.onefootball.android.activity.FastLaunchSplashScreenActivity" image="onefootball"/>
+	<AppIcon name="com.patreon.android/com.patreon.android.ui.shared.LauncherActivity" image="patreon"/>
+	<AppIcon name="au.com.shiftyjelly.pocketcasts/au.com.shiftyjelly.pocketcasts.ui.MainActivity" image="pocket_casts"/>
+	<AppIcon name="in.swiggy.android/in.swiggy.android.activities.HomeActivity" image="swiggy"/>
+	<AppIcon name="com.tplink.tether/com.tplink.tether.WelcomeActivity" image="tether"/>
+	<AppIcon name="com.neulion.smartphone.ufc.android/com.imggaming.dicemobile.MainActivity" image="ufc"/>
+	<AppIcon name="com.uniqlo.in.catalogue/com.uniqlo.ja.catalogue.view.mobile.startup.StartupActivity" image="uniqlo"/>
+	<AppIcon name="me.zhanghai.android.untracker/me.zhanghai.android.untracker.MainActivity" image="untracker"/>
+	<AppIcon name="com.voronoi.organization.app/com.voronoi.app.voronoiapp.MainActivity" image="voronoi"/>
+	<AppIcon name="com.bsbportal.music/com.bsbportal.music.v2.features.main.ui.HomeActivity" image="wynk_music"/>
+	<AppIcon name="com.inditex.zara/com.inditex.zara.MainActivityDefaultIcon" image="zara"/>
 
 </Theme>

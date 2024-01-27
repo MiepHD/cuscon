@@ -1760,5 +1760,32 @@
 	<item drawable="meteoblue" />
 	<item drawable="ella" />
     <item drawable="flashy" />
+	<item drawable="bandcamp" />
+	<item drawable="bookmyshow" />
+	<item drawable="brain_waves_pro" />
+	<item drawable="brilliant" />
+	<item drawable="coindcx" />
+	<item drawable="coloros_recorder" />
+	<item drawable="dunzo" />
+	<item drawable="flud_" />
+	<item drawable="ground_news" />
+	<item drawable="h_and_m" />
+	<item drawable="jugo" />
+	<item drawable="jupiter" />
+	<item drawable="keepa" />
+	<item drawable="m4marry" />
+	<item drawable="nexo" />
+	<item drawable="nytimes" />
+	<item drawable="onefootball" />
+	<item drawable="patreon" />
+	<item drawable="pocket_casts" />
+	<item drawable="swiggy" />
+	<item drawable="tether" />
+	<item drawable="ufc" />
+	<item drawable="uniqlo" />
+	<item drawable="untracker" />
+	<item drawable="voronoi" />
+	<item drawable="wynk_music" />
+	<item drawable="zara" />
 
 </resources>
