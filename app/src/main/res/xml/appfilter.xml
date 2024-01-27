@@ -1901,5 +1901,6 @@
 	<item component="ComponentInfo{com.bsbportal.music/com.bsbportal.music.v2.features.main.ui.HomeActivity}" drawable="wynk_music" />
 	<item component="ComponentInfo{com.inditex.zara/com.inditex.zara.MainActivityDefaultIcon}" drawable="zara" />
 	<item component="ComponentInfo{com.android.MGC_8_7_250/com.android.camera.CameraLauncher}" drawable="camera" />
+	<item component="ComponentInfo{com.motorola.dolby.dolbyui/com.motorola.dolby.dolbyui.ui.welcome.WelcomeActivity}" drawable="dolby_atmos" />
 
 </resources>

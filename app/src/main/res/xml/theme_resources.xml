@@ -1892,5 +1892,6 @@
 	<AppIcon name="com.bsbportal.music/com.bsbportal.music.v2.features.main.ui.HomeActivity" image="wynk_music"/>
 	<AppIcon name="com.inditex.zara/com.inditex.zara.MainActivityDefaultIcon" image="zara"/>
 	<AppIcon name="com.android.MGC_8_7_250/com.android.camera.CameraLauncher" image="camera"/>
+	<AppIcon name="com.motorola.dolby.dolbyui/com.motorola.dolby.dolbyui.ui.welcome.WelcomeActivity" image="dolby_atmos"/>
 
 </Theme>

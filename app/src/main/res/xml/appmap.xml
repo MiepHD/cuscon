@@ -1882,5 +1882,6 @@
 	<item class="com.bsbportal.music.v2.features.main.ui.HomeActivity" name="wynk_music"/>
 	<item class="com.inditex.zara.MainActivityDefaultIcon" name="zara"/>
 	<item class="com.android.camera.CameraLauncher" name="camera"/>
+	<item class="com.motorola.dolby.dolbyui.ui.welcome.WelcomeActivity" name="dolby_atmos"/>
 
 </appmap>
