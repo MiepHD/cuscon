@@ -4,7 +4,7 @@
 	<item component="ComponentInfo{idm.internet.download.manager.plus/idm.internet.download.manager.MainActivity}" drawable="_1dm_" />
 
 	<!-- 1DM+ Browser -->
-	<item component="ComponentInfo{idm.internet.download.manager.plus/acr.browser.lightning.activity.MainActivityLauncher}" drawable="_1dm_browser" />
+	<item component="ComponentInfo{idm.internet.download.manager.plus/acr.browser.lightning.activity.MainActivityLauncher}" drawable="_1dm_" />
 
 	<!-- AGC ToolKit -->
 	<item component="ComponentInfo{com.agc.gcam_tools/com.agc.gcam_tools.MainActivity}" drawable="agc_toolkit" />
@@ -37,7 +37,7 @@
 	<item component="ComponentInfo{com.globaldelight.boom/com.globaldelight.boom.app.activities.SplashScreenActivity}" drawable="boom" />
 
 	<!-- Boom System FX -->
-	<item component="ComponentInfo{com.globaldelight.boom/com.globaldelight.systemfx.ui.SysFxMainActivity}" drawable="boom_system_fx" />
+	<item component="ComponentInfo{com.globaldelight.boom/com.globaldelight.systemfx.ui.SysFxMainActivity}" drawable="boom" />
 
 	<!-- Browser -->
 	<item component="ComponentInfo{com.huawei.browser/com.huawei.browser.Main2}" drawable="browser" />

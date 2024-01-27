@@ -4,7 +4,7 @@
 	<AppIcon name="idm.internet.download.manager.plus/idm.internet.download.manager.MainActivity" image="_1dm_"/>
 
 	<!-- 1DM+ Browser -->
-	<AppIcon name="idm.internet.download.manager.plus/acr.browser.lightning.activity.MainActivityLauncher" image="_1dm_browser"/>
+	<AppIcon name="idm.internet.download.manager.plus/acr.browser.lightning.activity.MainActivityLauncher" image="_1dm_"/>
 
 	<!-- AGC ToolKit -->
 	<AppIcon name="com.agc.gcam_tools/com.agc.gcam_tools.MainActivity" image="agc_toolkit"/>
@@ -37,7 +37,7 @@
 	<AppIcon name="com.globaldelight.boom/com.globaldelight.boom.app.activities.SplashScreenActivity" image="boom"/>
 
 	<!-- Boom System FX -->
-	<AppIcon name="com.globaldelight.boom/com.globaldelight.systemfx.ui.SysFxMainActivity" image="boom_system_fx"/>
+	<AppIcon name="com.globaldelight.boom/com.globaldelight.systemfx.ui.SysFxMainActivity" image="boom"/>
 
 	<!-- Browser -->
 	<AppIcon name="com.huawei.browser/com.huawei.browser.Main2" image="browser"/>

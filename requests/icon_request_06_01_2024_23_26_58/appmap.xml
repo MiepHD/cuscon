@@ -4,7 +4,7 @@
 	<item class="idm.internet.download.manager.MainActivity" name="_1dm_"/>
 
 	<!-- 1DM+ Browser -->
-	<item class="acr.browser.lightning.activity.MainActivityLauncher" name="_1dm_browser"/>
+	<item class="acr.browser.lightning.activity.MainActivityLauncher" name="_1dm_"/>
 
 	<!-- AGC ToolKit -->
 	<item class="com.agc.gcam_tools.MainActivity" name="agc_toolkit"/>
@@ -37,7 +37,7 @@
 	<item class="com.globaldelight.boom.app.activities.SplashScreenActivity" name="boom"/>
 
 	<!-- Boom System FX -->
-	<item class="com.globaldelight.systemfx.ui.SysFxMainActivity" name="boom_system_fx"/>
+	<item class="com.globaldelight.systemfx.ui.SysFxMainActivity" name="boom"/>
 
 	<!-- Browser -->
 	<item class="com.huawei.browser.Main2" name="browser"/>

@@ -1775,5 +1775,6 @@
 	<item class="app.zugutfuerdietonne.MainActivity" name="zu_gut_fur_die_tonne_app"/>
 	<item class="com.github.k1rakishou.chan.activity.StartActivity" name="kurobaex"/>
 	<item class="com.luk.saucenao.MainActivity" name="saucenao"/>
+	<item class="com.simplemobiletools.gallery.pro.activities.SplashActivity.Red" name="gallery"/>
 
 </appmap>
