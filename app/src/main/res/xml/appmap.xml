@@ -1881,5 +1881,6 @@
 	<item class="com.voronoi.app.voronoiapp.MainActivity" name="voronoi"/>
 	<item class="com.bsbportal.music.v2.features.main.ui.HomeActivity" name="wynk_music"/>
 	<item class="com.inditex.zara.MainActivityDefaultIcon" name="zara"/>
+	<item class="com.android.camera.CameraLauncher" name="camera"/>
 
 </appmap>
