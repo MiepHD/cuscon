@@ -1807,5 +1807,22 @@
 	<item drawable="yasnac" />
 	<item drawable="fl_studio_mobile" />
 	<item drawable="vanadium" />
+	<item drawable="astron" />
+	<item drawable="dantotsu" />
+	<item drawable="exteragram" />
+	<item drawable="fossify_calendar_green" />
+	<item drawable="futo_voice_input" />
+	<item drawable="logseq" />
+	<item drawable="mobilism" />
+	<item drawable="omnivore" />
+	<item drawable="pano_scrobbler" />
+	<item drawable="pojavlauncher" />
+	<item drawable="ready_for" />
+	<item drawable="rewind" />
+	<item drawable="substack" />
+	<item drawable="superimage" />
+	<item drawable="tachij2k" />
+	<item drawable="trcamera" />
+	<item drawable="zigwheels" />
 
 </resources>

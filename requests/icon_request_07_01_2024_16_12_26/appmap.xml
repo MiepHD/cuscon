@@ -13,7 +13,7 @@
 	<item class="net.nhiroki.bluelineconsole.applicationMain.MainActivity" name="blue_line_console"/>
 
 	<!-- Calendar -->
-	<item class="org.fossify.calendar.activities.SplashActivity.Green" name="calendar"/>
+	<item class="org.fossify.calendar.activities.SplashActivity.Green" name="fossify_calendar_green"/>
 
 	<!-- ChatGPT -->
 	<item class="com.openai.chatgpt.MainActivity" name="chatgpt"/>

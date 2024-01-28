@@ -1903,5 +1903,22 @@
 	<item class="rikka.safetynetchecker.main.MainActivity" name="yasnac"/>
 	<item class="com.imageline.FLM.FLMActivity" name="fl_studio_mobile"/>
 	<item class="com.google.android.apps.chrome.Main" name="vanadium"/>
+	<item class="cc.astron.player.MainActivity" name="astron"/>
+	<item class="ani.dantotsu.MainActivity" name="dantotsu"/>
+	<item class="com.exteragram.messenger.DefaultIcon" name="exteragram"/>
+	<item class="org.fossify.calendar.activities.SplashActivity.Green" name="fossify_calendar_green"/>
+	<item class="org.futo.voiceinput.settings.SettingsActivity" name="futo_voice_input"/>
+	<item class="com.logseq.app.MainActivity" name="logseq"/>
+	<item class="demigos.com.mobilism.UI.SplashActivity" name="mobilism"/>
+	<item class="app.omnivore.omnivore.MainActivity" name="omnivore"/>
+	<item class="com.arn.scrobble.MainActivity" name="pano_scrobbler"/>
+	<item class="net.kdt.pojavlaunch.TestStorageActivity" name="pojavlauncher"/>
+	<item class="com.motorola.readyfor.MainActivityLauncherIconAlias" name="ready_for"/>
+	<item class="com.zh.musictimetravel.MainActivity" name="rewind"/>
+	<item class="com.substack.app.ui.AppActivity" name="substack"/>
+	<item class="com.zhenxiang.superimage.MainActivity" name="superimage"/>
+	<item class="eu.kanade.tachiyomi.ui.main.MainActivity" name="tachij2k"/>
+	<item class="com.android.camera.CameraLauncher" name="trcamera"/>
+	<item class="com.girnarsoft.zigwheels.SplashActivity" name="zigwheels"/>
 
 </appmap>

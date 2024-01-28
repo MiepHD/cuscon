@@ -1922,5 +1922,22 @@
 	<item component="ComponentInfo{rikka.safetynetchecker/rikka.safetynetchecker.main.MainActivity}" drawable="yasnac" />
 	<item component="ComponentInfo{com.imageline.FLM/com.imageline.FLM.FLMActivity}" drawable="fl_studio_mobile" />
 	<item component="ComponentInfo{app.vanadium.browser/com.google.android.apps.chrome.Main}" drawable="vanadium" />
+	<item component="ComponentInfo{cc.astron.player/cc.astron.player.MainActivity}" drawable="astron" />
+	<item component="ComponentInfo{ani.dantotsu/ani.dantotsu.MainActivity}" drawable="dantotsu" />
+	<item component="ComponentInfo{com.exteragram.messenger/com.exteragram.messenger.DefaultIcon}" drawable="exteragram" />
+	<item component="ComponentInfo{org.fossify.calendar/org.fossify.calendar.activities.SplashActivity.Green}" drawable="fossify_calendar_green" />
+	<item component="ComponentInfo{org.futo.voiceinput/org.futo.voiceinput.settings.SettingsActivity}" drawable="futo_voice_input" />
+	<item component="ComponentInfo{com.logseq.app/com.logseq.app.MainActivity}" drawable="logseq" />
+	<item component="ComponentInfo{demigos.com.mobilism/demigos.com.mobilism.UI.SplashActivity}" drawable="mobilism" />
+	<item component="ComponentInfo{app.omnivore.omnivore/app.omnivore.omnivore.MainActivity}" drawable="omnivore" />
+	<item component="ComponentInfo{com.arn.scrobble/com.arn.scrobble.MainActivity}" drawable="pano_scrobbler" />
+	<item component="ComponentInfo{net.kdt.pojavlaunch/net.kdt.pojavlaunch.TestStorageActivity}" drawable="pojavlauncher" />
+	<item component="ComponentInfo{com.motorola.mobiledesktop/com.motorola.readyfor.MainActivityLauncherIconAlias}" drawable="ready_for" />
+	<item component="ComponentInfo{com.zh.musictimetravel/com.zh.musictimetravel.MainActivity}" drawable="rewind" />
+	<item component="ComponentInfo{com.substack.app/com.substack.app.ui.AppActivity}" drawable="substack" />
+	<item component="ComponentInfo{com.zhenxiang.superimage/com.zhenxiang.superimage.MainActivity}" drawable="superimage" />
+	<item component="ComponentInfo{eu.kanade.tachiyomi.j2k/eu.kanade.tachiyomi.ui.main.MainActivity}" drawable="tachij2k" />
+	<item component="ComponentInfo{com.google.android.GoogleCameraTigr/com.android.camera.CameraLauncher}" drawable="trcamera" />
+	<item component="ComponentInfo{com.til.zigwheels/com.girnarsoft.zigwheels.SplashActivity}" drawable="zigwheels" />
 
 </resources>

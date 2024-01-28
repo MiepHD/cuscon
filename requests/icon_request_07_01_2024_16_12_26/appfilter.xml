@@ -13,7 +13,7 @@
 	<item component="ComponentInfo{net.nhiroki.bluelineconsole/net.nhiroki.bluelineconsole.applicationMain.MainActivity}" drawable="blue_line_console" />
 
 	<!-- Calendar -->
-	<item component="ComponentInfo{org.fossify.calendar/org.fossify.calendar.activities.SplashActivity.Green}" drawable="calendar" />
+	<item component="ComponentInfo{org.fossify.calendar/org.fossify.calendar.activities.SplashActivity.Green}" drawable="fossify_calendar_green" />
 
 	<!-- ChatGPT -->
 	<item component="ComponentInfo{com.openai.chatgpt/com.openai.chatgpt.MainActivity}" drawable="chatgpt" />

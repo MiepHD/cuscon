@@ -13,7 +13,7 @@
 	<AppIcon name="net.nhiroki.bluelineconsole/net.nhiroki.bluelineconsole.applicationMain.MainActivity" image="blue_line_console"/>
 
 	<!-- Calendar -->
-	<AppIcon name="org.fossify.calendar/org.fossify.calendar.activities.SplashActivity.Green" image="calendar"/>
+	<AppIcon name="org.fossify.calendar/org.fossify.calendar.activities.SplashActivity.Green" image="fossify_calendar_green"/>
 
 	<!-- ChatGPT -->
 	<AppIcon name="com.openai.chatgpt/com.openai.chatgpt.MainActivity" image="chatgpt"/>

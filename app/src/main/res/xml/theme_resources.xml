@@ -1913,5 +1913,22 @@
 	<AppIcon name="rikka.safetynetchecker/rikka.safetynetchecker.main.MainActivity" image="yasnac"/>
 	<AppIcon name="com.imageline.FLM/com.imageline.FLM.FLMActivity" image="fl_studio_mobile"/>
 	<AppIcon name="app.vanadium.browser/com.google.android.apps.chrome.Main" image="vanadium"/>
+	<AppIcon name="cc.astron.player/cc.astron.player.MainActivity" image="astron"/>
+	<AppIcon name="ani.dantotsu/ani.dantotsu.MainActivity" image="dantotsu"/>
+	<AppIcon name="com.exteragram.messenger/com.exteragram.messenger.DefaultIcon" image="exteragram"/>
+	<AppIcon name="org.fossify.calendar/org.fossify.calendar.activities.SplashActivity.Green" image="fossify_calendar_green"/>
+	<AppIcon name="org.futo.voiceinput/org.futo.voiceinput.settings.SettingsActivity" image="futo_voice_input"/>
+	<AppIcon name="com.logseq.app/com.logseq.app.MainActivity" image="logseq"/>
+	<AppIcon name="demigos.com.mobilism/demigos.com.mobilism.UI.SplashActivity" image="mobilism"/>
+	<AppIcon name="app.omnivore.omnivore/app.omnivore.omnivore.MainActivity" image="omnivore"/>
+	<AppIcon name="com.arn.scrobble/com.arn.scrobble.MainActivity" image="pano_scrobbler"/>
+	<AppIcon name="net.kdt.pojavlaunch/net.kdt.pojavlaunch.TestStorageActivity" image="pojavlauncher"/>
+	<AppIcon name="com.motorola.mobiledesktop/com.motorola.readyfor.MainActivityLauncherIconAlias" image="ready_for"/>
+	<AppIcon name="com.zh.musictimetravel/com.zh.musictimetravel.MainActivity" image="rewind"/>
+	<AppIcon name="com.substack.app/com.substack.app.ui.AppActivity" image="substack"/>
+	<AppIcon name="com.zhenxiang.superimage/com.zhenxiang.superimage.MainActivity" image="superimage"/>
+	<AppIcon name="eu.kanade.tachiyomi.j2k/eu.kanade.tachiyomi.ui.main.MainActivity" image="tachij2k"/>
+	<AppIcon name="com.google.android.GoogleCameraTigr/com.android.camera.CameraLauncher" image="trcamera"/>
+	<AppIcon name="com.til.zigwheels/com.girnarsoft.zigwheels.SplashActivity" image="zigwheels"/>
 
 </Theme>
