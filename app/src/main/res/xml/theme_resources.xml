@@ -1951,5 +1951,6 @@
     <AppIcon name="com.idea.videocompress/com.idea.videocompress.MainActivity" image="video_compressor"/>
 	<AppIcon name="com.coloros.video/com.oplus.video.ui.VideoListActivity" image="videos"/>
 	<AppIcon name="idm.internet.download.manager/idm.internet.download.manager.MainActivity" image="_1dm"/>
+	<AppIcon name="com.javulticat.newpipe/org.schabi.newpipe.MainActivity" image="newpipe_legacy"/>
 
 </Theme>
