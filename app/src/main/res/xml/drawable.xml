@@ -1831,5 +1831,15 @@
 	<item drawable="sound_notifications" />
 	<item drawable="space_intern" />
 	<item drawable="geometry_dash" />
+	<item drawable="adm" />
+    <item drawable="bhim" />
+    <item drawable="chalo" />
+    <item drawable="coursera" />
+    <item drawable="my_oppo" />
+    <item drawable="openbooksdownloader" />
+    <item drawable="rapido" />
+    <item drawable="swayam" />
+    <item drawable="unsplash" />
+    <item drawable="video_compressor" />
 
 </resources>

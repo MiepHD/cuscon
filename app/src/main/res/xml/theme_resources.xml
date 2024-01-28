@@ -1939,5 +1939,16 @@
 	<AppIcon name="com.google.audio.hearing.visualization.accessibility.scribe/com.google.audio.hearing.visualization.accessibility.dolphin.DolphinLauncherActivity" image="sound_notifications"/>
 	<AppIcon name="com.OakyGames.SpaceIntern/com.unity3d.player.UnityPlayerActivity" image="space_intern"/>
 	<AppIcon name="com.robtopx.geometryjump/com.robtopx.geometryjump.GeometryJump" image="geometry_dash"/>
+	<AppIcon name="com.dv.adm/com.dv.get.Main" image="adm"/>
+    <AppIcon name="in.org.npci.upiapp/in.org.npci.upiapp.HomeActivity" image="bhim"/>
+    <AppIcon name="app.zophop/app.zophop.ui.activities.SplashScreen" image="chalo"/>
+    <AppIcon name="org.coursera.android/org.coursera.android.MainActivity" image="coursera"/>
+    <AppIcon name="com.oplus.vip/com.platform.usercenter.vip.UCVIPMainActivity" image="my_oppo"/>
+    <AppIcon name="com.nima.openbooksdownloader/com.nima.openbooksdownloader.MainActivity" image="openbooksdownloader"/>
+	<AppIcon name="com.rapido.passenger/com.rapido.passenger.DefaultAlias" image="rapido"/>
+    <AppIcon name="in.gov.swayam.app/in.gov.swayam.app.MainActivity" image="swayam"/>
+    <AppIcon name="com.aqteam.photofree/com.aqteam.photofree.MainActivity" image="unsplash"/>
+    <AppIcon name="com.idea.videocompress/com.idea.videocompress.MainActivity" image="video_compressor"/>
+	<AppIcon name="com.coloros.video/com.oplus.video.ui.VideoListActivity" image="videos"/>
 
 </Theme>

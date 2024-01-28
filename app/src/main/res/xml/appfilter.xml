@@ -1948,5 +1948,16 @@
 	<item component="ComponentInfo{com.google.audio.hearing.visualization.accessibility.scribe/com.google.audio.hearing.visualization.accessibility.dolphin.DolphinLauncherActivity}" drawable="sound_notifications" />
 	<item component="ComponentInfo{com.OakyGames.SpaceIntern/com.unity3d.player.UnityPlayerActivity}" drawable="space_intern" />
 	<item component="ComponentInfo{com.robtopx.geometryjump/com.robtopx.geometryjump.GeometryJump}" drawable="geometry_dash" />
+	<item component="ComponentInfo{com.dv.adm/com.dv.get.Main}" drawable="adm" />
+    <item component="ComponentInfo{in.org.npci.upiapp/in.org.npci.upiapp.HomeActivity}" drawable="bhim" />
+    <item component="ComponentInfo{app.zophop/app.zophop.ui.activities.SplashScreen}" drawable="chalo" />
+    <item component="ComponentInfo{org.coursera.android/org.coursera.android.MainActivity}" drawable="coursera" />
+    <item component="ComponentInfo{com.oplus.vip/com.platform.usercenter.vip.UCVIPMainActivity}" drawable="my_oppo" />
+    <item component="ComponentInfo{com.nima.openbooksdownloader/com.nima.openbooksdownloader.MainActivity}" drawable="openbooksdownloader" />
+    <item component="ComponentInfo{com.rapido.passenger/com.rapido.passenger.DefaultAlias}" drawable="rapido" />
+    <item component="ComponentInfo{in.gov.swayam.app/in.gov.swayam.app.MainActivity}" drawable="swayam" />
+    <item component="ComponentInfo{com.aqteam.photofree/com.aqteam.photofree.MainActivity}" drawable="unsplash" />
+    <item component="ComponentInfo{com.idea.videocompress/com.idea.videocompress.MainActivity}" drawable="video_compressor" />
+	<item component="ComponentInfo{com.coloros.video/com.oplus.video.ui.VideoListActivity}" drawable="videos" />
 
 </resources>

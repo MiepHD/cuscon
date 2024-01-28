@@ -1929,5 +1929,16 @@
 	<item class="com.google.audio.hearing.visualization.accessibility.dolphin.DolphinLauncherActivity" name="sound_notifications"/>
 	<item class="com.unity3d.player.UnityPlayerActivity" name="space_intern"/>
 	<item class="com.robtopx.geometryjump.GeometryJump" name="geometry_dash"/>
+	<item class="com.dv.get.Main" name="adm"/>
+    <item class="in.org.npci.upiapp.HomeActivity" name="bhim"/>
+    <item class="app.zophop.ui.activities.SplashScreen" name="chalo"/>
+    <item class="org.coursera.android.MainActivity" name="coursera"/>
+    <item class="com.platform.usercenter.vip.UCVIPMainActivity" name="my_oppo"/>
+    <item class="com.nima.openbooksdownloader.MainActivity" name="openbooksdownloader"/>
+    <item class="com.rapido.passenger.DefaultAlias" name="rapido"/>
+    <item class="in.gov.swayam.app.MainActivity" name="swayam"/>
+    <item class="com.aqteam.photofree.MainActivity" name="unsplash"/>
+    <item class="com.idea.videocompress.MainActivity" name="video_compressor"/>
+	<item class="com.oplus.video.ui.VideoListActivity" name="videos"/>
 
 </appmap>
