@@ -1,7 +1,7 @@
 <Theme version="1">
 
 	<!-- 1Tap Cleaner -->
-	<AppIcon name="com.a0soft.gphone.acc.free/com.a0soft.gphone.acc.free.MainWnd" image="_1tap_cleaner"/>
+	<AppIcon name="com.a0soft.gphone.acc.free/com.a0soft.gphone.acc.free.MainWnd" image="_1tap_cleaner_pro"/>
 
 	<!-- ChatGPT -->
 	<AppIcon name="com.openai.chatgpt/com.openai.chatgpt.MainActivity" image="chatgpt"/>

@@ -1,7 +1,7 @@
 <resources>
 
 	<!-- 1Tap Cleaner -->
-	<item component="ComponentInfo{com.a0soft.gphone.acc.free/com.a0soft.gphone.acc.free.MainWnd}" drawable="_1tap_cleaner" />
+	<item component="ComponentInfo{com.a0soft.gphone.acc.free/com.a0soft.gphone.acc.free.MainWnd}" drawable="_1tap_cleaner_pro" />
 
 	<!-- ChatGPT -->
 	<item component="ComponentInfo{com.openai.chatgpt/com.openai.chatgpt.MainActivity}" drawable="chatgpt" />

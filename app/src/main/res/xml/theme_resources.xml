@@ -1930,5 +1930,6 @@
 	<AppIcon name="eu.kanade.tachiyomi.j2k/eu.kanade.tachiyomi.ui.main.MainActivity" image="tachij2k"/>
 	<AppIcon name="com.google.android.GoogleCameraTigr/com.android.camera.CameraLauncher" image="trcamera"/>
 	<AppIcon name="com.til.zigwheels/com.girnarsoft.zigwheels.SplashActivity" image="zigwheels"/>
+	<AppIcon name="com.a0soft.gphone.acc.free/com.a0soft.gphone.acc.free.MainWnd" image="_1tap_cleaner_pro"/>
 
 </Theme>

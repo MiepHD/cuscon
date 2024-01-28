@@ -1939,5 +1939,6 @@
 	<item component="ComponentInfo{eu.kanade.tachiyomi.j2k/eu.kanade.tachiyomi.ui.main.MainActivity}" drawable="tachij2k" />
 	<item component="ComponentInfo{com.google.android.GoogleCameraTigr/com.android.camera.CameraLauncher}" drawable="trcamera" />
 	<item component="ComponentInfo{com.til.zigwheels/com.girnarsoft.zigwheels.SplashActivity}" drawable="zigwheels" />
+	<item component="ComponentInfo{com.a0soft.gphone.acc.free/com.a0soft.gphone.acc.free.MainWnd}" drawable="_1tap_cleaner_pro" />
 
 </resources>
