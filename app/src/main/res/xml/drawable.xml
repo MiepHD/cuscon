@@ -1824,5 +1824,12 @@
 	<item drawable="tachij2k" />
 	<item drawable="trcamera" />
 	<item drawable="zigwheels" />
+	<item drawable="device_info" />
+	<item drawable="muslim_pro" />
+	<item drawable="parental_controls" />
+	<item drawable="runmefit" />
+	<item drawable="sound_notifications" />
+	<item drawable="space_intern" />
+	<item drawable="geometry_dash" />
 
 </resources>

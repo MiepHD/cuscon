@@ -1932,5 +1932,12 @@
 	<AppIcon name="com.til.zigwheels/com.girnarsoft.zigwheels.SplashActivity" image="zigwheels"/>
 	<AppIcon name="com.a0soft.gphone.acc.free/com.a0soft.gphone.acc.free.MainWnd" image="_1tap_cleaner_pro"/>
 	<AppIcon name="com.google.audio.hearing.visualization.accessibility.scribe/com.google.audio.hearing.visualization.accessibility.scribe.LauncherActivity" image="live_transcribe"/>
+	<AppIcon name="com.ytheekshana.deviceinfo/com.ytheekshana.deviceinfo.SplashActivity" image="device_info"/>
+	<AppIcon name="com.bitsmedia.android.muslimpro/com.bitsmedia.android.muslimpro.core.activities.SplashActivity" image="muslim_pro"/>
+	<AppIcon name="com.google.android.apps.kids.familylinkhelper/com.google.android.apps.kids.familylinkhelper.trampoline.TrampolineActivity" image="parental_controls"/>
+	<AppIcon name="com.starmax.runmefit/com.starmax.runmefit.MainActivity" image="runmefit"/>
+	<AppIcon name="com.google.audio.hearing.visualization.accessibility.scribe/com.google.audio.hearing.visualization.accessibility.dolphin.DolphinLauncherActivity" image="sound_notifications"/>
+	<AppIcon name="com.OakyGames.SpaceIntern/com.unity3d.player.UnityPlayerActivity" image="space_intern"/>
+	<AppIcon name="com.robtopx.geometryjump/com.robtopx.geometryjump.GeometryJump" image="geometry_dash"/>
 
 </Theme>

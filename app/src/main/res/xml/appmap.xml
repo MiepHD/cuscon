@@ -1922,5 +1922,12 @@
 	<item class="com.girnarsoft.zigwheels.SplashActivity" name="zigwheels"/>
 	<item class="com.a0soft.gphone.acc.free.MainWnd" name="_1tap_cleaner_pro"/>
 	<item class="com.google.audio.hearing.visualization.accessibility.scribe.LauncherActivity" name="live_transcribe"/>
+	<item class="com.ytheekshana.deviceinfo.SplashActivity" name="device_info"/>
+	<item class="com.bitsmedia.android.muslimpro.core.activities.SplashActivity" name="muslim_pro"/>
+	<item class="com.google.android.apps.kids.familylinkhelper.trampoline.TrampolineActivity" name="parental_controls"/>
+	<item class="com.starmax.runmefit.MainActivity" name="runmefit"/>
+	<item class="com.google.audio.hearing.visualization.accessibility.dolphin.DolphinLauncherActivity" name="sound_notifications"/>
+	<item class="com.unity3d.player.UnityPlayerActivity" name="space_intern"/>
+	<item class="com.robtopx.geometryjump.GeometryJump" name="geometry_dash"/>
 
 </appmap>
