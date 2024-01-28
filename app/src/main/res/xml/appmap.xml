@@ -1940,5 +1940,6 @@
     <item class="com.aqteam.photofree.MainActivity" name="unsplash"/>
     <item class="com.idea.videocompress.MainActivity" name="video_compressor"/>
 	<item class="com.oplus.video.ui.VideoListActivity" name="videos"/>
+	<item class="idm.internet.download.manager.MainActivity" name="_1dm"/>
 
 </appmap>

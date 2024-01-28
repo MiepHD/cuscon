@@ -1,0 +1,33 @@
+<resources>
+
+	<!-- 1DM -->
+	<item component="ComponentInfo{idm.internet.download.manager/idm.internet.download.manager.MainActivity}" drawable="_1dm" />
+
+	<!-- Amazon -->
+	<item component="ComponentInfo{in.amazon.mShop.android.shopping/com.amazon.mShop.home.HomeActivity}" drawable="amazon" />
+
+	<!-- BSNL Selfcare -->
+	<item component="ComponentInfo{com.digital.bsnl.selfcare/com.selfcare.mybsnl.activities.SplashActivity}" drawable="bsnl_selfcare" />
+
+	<!-- IndianOil ONE -->
+	<item component="ComponentInfo{cx.indianoil.in/cx.indianoil.in.lpg.view.login.WelcomeActivity}" drawable="indianoil_one" />
+
+	<!-- JioPOS Lite -->
+	<item component="ComponentInfo{com.jio.poslite/com.jio.poslite.activities.SplashScreenActivity}" drawable="jiopos_lite" />
+
+	<!-- NTES -->
+	<item component="ComponentInfo{cris.icms.ntes/cris.icms.ntes.LaunchApp}" drawable="ntes" />
+
+	<!-- Paytm for Business -->
+	<item component="ComponentInfo{com.paytm.business/com.paytm.business.splash.SplashActivity}" drawable="paytm_for_business" />
+
+	<!-- PayZapp -->
+	<item component="ComponentInfo{com.hdfcbank.payzapp/com.apollorncontainer.activities.SplashActivity}" drawable="payzapp" />
+
+	<!-- Pulsar -->
+	<item component="ComponentInfo{com.rhmsoft.pulsar/com.rhmsoft.play.MainActivity}" drawable="pulsar" />
+
+	<!-- Telegram -->
+	<item component="ComponentInfo{org.telegram.messenger/org.telegram.messenger.AquaIcon}" drawable="telegram" />
+
+</resources>

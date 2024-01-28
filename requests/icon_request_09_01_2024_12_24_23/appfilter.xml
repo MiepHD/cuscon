@@ -1,0 +1,66 @@
+<resources>
+
+	<!-- Amazon -->
+	<item component="ComponentInfo{in.amazon.mShop.android.shopping/com.amazon.mShop.home.HomeActivity}" drawable="amazon" />
+
+	<!-- Camera -->
+	<item component="ComponentInfo{com.nothing.camera/com.nothing.camera.activity.CameraActivity}" drawable="camera" />
+
+	<!-- Camera -->
+	<item component="ComponentInfo{org.codeaurora.snapcam/com.android.camera.CameraLauncher}" drawable="camera" />
+
+	<!-- Digital Wellbeing -->
+	<item component="ComponentInfo{com.google.android.apps.wellbeing/com.google.android.apps.wellbeing.settings.LauncherActivity}" drawable="digital_wellbeing" />
+
+	<!-- Eternity -->
+	<item component="ComponentInfo{eu.toldi.infinityforlemmy/eu.toldi.infinityforlemmy.DefaultIcon}" drawable="eternity" />
+
+	<!-- Gallery -->
+	<item component="ComponentInfo{org.fossify.gallery/org.fossify.gallery.activities.SplashActivity.Grey_black}" drawable="gallery" />
+
+	<!-- lichess -->
+	<item component="ComponentInfo{org.lichess.mobileapp.free/org.lichess.mobileapp.MainActivity}" drawable="lichess" />
+
+	<!-- Metro -->
+	<item component="ComponentInfo{io.github.muntashirakon.Music/code.name.monkey.retromusic.activities.MainActivity}" drawable="metro" />
+
+	<!-- Moshidon -->
+	<item component="ComponentInfo{org.joinmastodon.android.moshinda/org.joinmastodon.android.MainActivity}" drawable="moshidon" />
+
+	<!-- myExcitel -->
+	<item component="ComponentInfo{com.scaleforce.mobile.myexcitel/com.scaleforce.mobile.myexcitel.MainActivity}" drawable="myexcitel" />
+
+	<!-- NewPipe SponsorBlock -->
+	<item component="ComponentInfo{com.javulticat.newpipe/org.schabi.newpipe.MainActivity}" drawable="newpipe_sponsorblock" />
+
+	<!-- Paytm -->
+	<item component="ComponentInfo{net.one97.paytm/net.one97.paytm.landingpage.activity.AJRMainActivity}" drawable="paytm" />
+
+	<!-- Pixelfed -->
+	<item component="ComponentInfo{com.pixelfed/com.pixelfed.MainActivity}" drawable="pixelfed" />
+
+	<!-- Plus -->
+	<item component="ComponentInfo{org.telegram.plus/org.telegram.messenger.TurboIcon}" drawable="plus" />
+
+	<!-- Recorder -->
+	<item component="ComponentInfo{com.nothing.soundrecorder/com.nothing.soundrecorder.ui.NewMainActivity}" drawable="recorder" />
+
+	<!-- Showly OSS -->
+	<item component="ComponentInfo{com.michaldrabik.showly_oss/com.michaldrabik.showly_oss.ui.main.MainActivity}" drawable="showly_oss" />
+
+	<!-- Slack -->
+	<item component="ComponentInfo{com.Slack/slack.features.home.HomeActivity}" drawable="slack" />
+
+	<!-- SMS Messenger -->
+	<item component="ComponentInfo{com.simplemobiletools.smsmessenger/com.simplemobiletools.smsmessenger.activities.SplashActivity.Orange}" drawable="sms_messenger" />
+
+	<!-- Weather -->
+	<item component="ComponentInfo{com.nothing.weather/com.nothing.weather.ui.main.MainActivity}" drawable="weather" />
+
+	<!-- X -->
+	<item component="ComponentInfo{com.twitter.android/com.twitter.android.StartActivity}" drawable="x" />
+
+	<!-- Zomato -->
+	<item component="ComponentInfo{com.application.zomato/com.application.zomato.activities.Splash}" drawable="zomato" />
+
+</resources>

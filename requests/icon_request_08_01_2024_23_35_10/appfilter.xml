@@ -1,0 +1,81 @@
+<resources>
+
+	<!-- 1DM+ -->
+	<item component="ComponentInfo{idm.internet.download.manager.plus/idm.internet.download.manager.MainActivity}" drawable="_1dm_" />
+
+	<!-- Amazon -->
+	<item component="ComponentInfo{in.amazon.mShop.android.shopping/com.amazon.mShop.home.HomeActivity}" drawable="amazon" />
+
+	<!-- Audio Recorder -->
+	<item component="ComponentInfo{com.github.axet.audiorecorder/com.github.axet.audiorecorder.activities.MainActivity}" drawable="audio_recorder" />
+
+	<!-- Battery Log -->
+	<item component="ComponentInfo{kr.hwangti.batterylog/kr.hwangti.batterylog.MainActivity}" drawable="battery_log" />
+
+	<!-- ChatGPT -->
+	<item component="ComponentInfo{com.openai.chatgpt/com.openai.chatgpt.MainActivity}" drawable="chatgpt" />
+
+	<!-- Cherrygram -->
+	<item component="ComponentInfo{uz.unnarsx.cherrygram/uz.unnarsx.cherrygram.CG_Icon_Cherry}" drawable="cherrygram" />
+
+	<!-- Fire TV -->
+	<item component="ComponentInfo{com.amazon.storm.lightning.client.aosp/com.amazon.bison.SplashScreen}" drawable="fire_tv" />
+
+	<!-- FKM -->
+	<item component="ComponentInfo{com.franco.kernel/com.franco.kernel.activities.SplashActivity}" drawable="fkm" />
+
+	<!-- Fruity Game -->
+	<item component="ComponentInfo{page.codeberg.marshreaper.fruitygame/com.godot.game.GodotApp}" drawable="fruity_game" />
+
+	<!-- Gallery -->
+	<item component="ComponentInfo{com.alensw.PicFolder/com.alensw.PicFolder.GalleryActivity}" drawable="gallery" />
+
+	<!-- imo Lite -->
+	<item component="ComponentInfo{com.imo.android.imoimlite/com.imo.android.imoim.activities.Home}" drawable="imo_lite" />
+
+	<!-- KeePassDX -->
+	<item component="ComponentInfo{com.kunzisoft.keepass.free/com.kunzisoft.keepass.activities.FileDatabaseSelectActivity}" drawable="keepassdx" />
+
+	<!-- LogFox -->
+	<item component="ComponentInfo{com.f0x1d.logfox/com.f0x1d.logfox.ui.activity.MainActivity}" drawable="logfox" />
+
+	<!-- PCAPdroid -->
+	<item component="ComponentInfo{com.emanuelef.remote_capture/com.emanuelef.remote_capture.activities.MainActivity}" drawable="pcapdroid" />
+
+	<!-- Photo Compare -->
+	<item component="ComponentInfo{ch.want.imagecompare/ch.want.imagecompare.ui.listfolders.SelectImagePoolActivity}" drawable="photo_compare" />
+
+	<!-- pixWalls -->
+	<item component="ComponentInfo{com.sreeragag.pixwalls/com.sreeragag.pixwalls.MainActivity}" drawable="pixwalls" />
+
+	<!-- Play Deals -->
+	<item component="ComponentInfo{me.sujanpoudel.playdeals/me.sujanpoudel.playdeals.MainActivity}" drawable="play_deals" />
+
+	<!-- Proton Drive -->
+	<item component="ComponentInfo{me.proton.android.drive/me.proton.android.drive.ui.MainActivity}" drawable="proton_drive" />
+
+	<!-- Reddit -->
+	<item component="ComponentInfo{com.reddit.frontpage.rvx/launcher.doge}" drawable="reddit" />
+
+	<!-- Scanner -->
+	<item component="ComponentInfo{com.xiaomi.scanner/com.xiaomi.scanner.app.ScanActivity}" drawable="scanner" />
+
+	<!-- Simple Play Integrity Checker -->
+	<item component="ComponentInfo{com.henrikherzig.playintegritychecker/com.henrikherzig.playintegritychecker.MainActivity}" drawable="simple_play_integrity_checker" />
+
+	<!-- Stremio -->
+	<item component="ComponentInfo{com.stremio.one/com.stremio.MainActivity}" drawable="stremio" />
+
+	<!-- Swift Backup -->
+	<item component="ComponentInfo{org.swiftapps.swiftbackup/org.swiftapps.swiftbackup.intro.IntroActivity}" drawable="swift_backup" />
+
+	<!-- UCO mBanking Plus -->
+	<item component="ComponentInfo{com.lcode.ucomobilebanking/com.lcode.ucomobilebanking.UserSplashActivity}" drawable="uco_mbanking_plus" />
+
+	<!-- Voice Search -->
+	<item component="ComponentInfo{com.google.android.googlequicksearchbox/com.google.android.googlequicksearchbox.VoiceSearchActivity}" drawable="voice_search" />
+
+	<!-- X -->
+	<item component="ComponentInfo{com.twitter.android/com.twitter.android.StartActivity}" drawable="x" />
+
+</resources>

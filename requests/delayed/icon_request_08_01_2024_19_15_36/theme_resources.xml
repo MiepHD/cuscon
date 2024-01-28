@@ -1,0 +1,33 @@
+<Theme version="1">
+
+	<!-- 1DM -->
+	<AppIcon name="idm.internet.download.manager/idm.internet.download.manager.MainActivity" image="_1dm"/>
+
+	<!-- Amazon -->
+	<AppIcon name="in.amazon.mShop.android.shopping/com.amazon.mShop.home.HomeActivity" image="amazon"/>
+
+	<!-- BSNL Selfcare -->
+	<AppIcon name="com.digital.bsnl.selfcare/com.selfcare.mybsnl.activities.SplashActivity" image="bsnl_selfcare"/>
+
+	<!-- IndianOil ONE -->
+	<AppIcon name="cx.indianoil.in/cx.indianoil.in.lpg.view.login.WelcomeActivity" image="indianoil_one"/>
+
+	<!-- JioPOS Lite -->
+	<AppIcon name="com.jio.poslite/com.jio.poslite.activities.SplashScreenActivity" image="jiopos_lite"/>
+
+	<!-- NTES -->
+	<AppIcon name="cris.icms.ntes/cris.icms.ntes.LaunchApp" image="ntes"/>
+
+	<!-- Paytm for Business -->
+	<AppIcon name="com.paytm.business/com.paytm.business.splash.SplashActivity" image="paytm_for_business"/>
+
+	<!-- PayZapp -->
+	<AppIcon name="com.hdfcbank.payzapp/com.apollorncontainer.activities.SplashActivity" image="payzapp"/>
+
+	<!-- Pulsar -->
+	<AppIcon name="com.rhmsoft.pulsar/com.rhmsoft.play.MainActivity" image="pulsar"/>
+
+	<!-- Telegram -->
+	<AppIcon name="org.telegram.messenger/org.telegram.messenger.AquaIcon" image="telegram"/>
+
+</Theme>

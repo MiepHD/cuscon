@@ -1,0 +1,81 @@
+<Theme version="1">
+
+	<!-- 1DM+ -->
+	<AppIcon name="idm.internet.download.manager.plus/idm.internet.download.manager.MainActivity" image="_1dm_"/>
+
+	<!-- Amazon -->
+	<AppIcon name="in.amazon.mShop.android.shopping/com.amazon.mShop.home.HomeActivity" image="amazon"/>
+
+	<!-- Audio Recorder -->
+	<AppIcon name="com.github.axet.audiorecorder/com.github.axet.audiorecorder.activities.MainActivity" image="audio_recorder"/>
+
+	<!-- Battery Log -->
+	<AppIcon name="kr.hwangti.batterylog/kr.hwangti.batterylog.MainActivity" image="battery_log"/>
+
+	<!-- ChatGPT -->
+	<AppIcon name="com.openai.chatgpt/com.openai.chatgpt.MainActivity" image="chatgpt"/>
+
+	<!-- Cherrygram -->
+	<AppIcon name="uz.unnarsx.cherrygram/uz.unnarsx.cherrygram.CG_Icon_Cherry" image="cherrygram"/>
+
+	<!-- Fire TV -->
+	<AppIcon name="com.amazon.storm.lightning.client.aosp/com.amazon.bison.SplashScreen" image="fire_tv"/>
+
+	<!-- FKM -->
+	<AppIcon name="com.franco.kernel/com.franco.kernel.activities.SplashActivity" image="fkm"/>
+
+	<!-- Fruity Game -->
+	<AppIcon name="page.codeberg.marshreaper.fruitygame/com.godot.game.GodotApp" image="fruity_game"/>
+
+	<!-- Gallery -->
+	<AppIcon name="com.alensw.PicFolder/com.alensw.PicFolder.GalleryActivity" image="gallery"/>
+
+	<!-- imo Lite -->
+	<AppIcon name="com.imo.android.imoimlite/com.imo.android.imoim.activities.Home" image="imo_lite"/>
+
+	<!-- KeePassDX -->
+	<AppIcon name="com.kunzisoft.keepass.free/com.kunzisoft.keepass.activities.FileDatabaseSelectActivity" image="keepassdx"/>
+
+	<!-- LogFox -->
+	<AppIcon name="com.f0x1d.logfox/com.f0x1d.logfox.ui.activity.MainActivity" image="logfox"/>
+
+	<!-- PCAPdroid -->
+	<AppIcon name="com.emanuelef.remote_capture/com.emanuelef.remote_capture.activities.MainActivity" image="pcapdroid"/>
+
+	<!-- Photo Compare -->
+	<AppIcon name="ch.want.imagecompare/ch.want.imagecompare.ui.listfolders.SelectImagePoolActivity" image="photo_compare"/>
+
+	<!-- pixWalls -->
+	<AppIcon name="com.sreeragag.pixwalls/com.sreeragag.pixwalls.MainActivity" image="pixwalls"/>
+
+	<!-- Play Deals -->
+	<AppIcon name="me.sujanpoudel.playdeals/me.sujanpoudel.playdeals.MainActivity" image="play_deals"/>
+
+	<!-- Proton Drive -->
+	<AppIcon name="me.proton.android.drive/me.proton.android.drive.ui.MainActivity" image="proton_drive"/>
+
+	<!-- Reddit -->
+	<AppIcon name="com.reddit.frontpage.rvx/launcher.doge" image="reddit"/>
+
+	<!-- Scanner -->
+	<AppIcon name="com.xiaomi.scanner/com.xiaomi.scanner.app.ScanActivity" image="scanner"/>
+
+	<!-- Simple Play Integrity Checker -->
+	<AppIcon name="com.henrikherzig.playintegritychecker/com.henrikherzig.playintegritychecker.MainActivity" image="simple_play_integrity_checker"/>
+
+	<!-- Stremio -->
+	<AppIcon name="com.stremio.one/com.stremio.MainActivity" image="stremio"/>
+
+	<!-- Swift Backup -->
+	<AppIcon name="org.swiftapps.swiftbackup/org.swiftapps.swiftbackup.intro.IntroActivity" image="swift_backup"/>
+
+	<!-- UCO mBanking Plus -->
+	<AppIcon name="com.lcode.ucomobilebanking/com.lcode.ucomobilebanking.UserSplashActivity" image="uco_mbanking_plus"/>
+
+	<!-- Voice Search -->
+	<AppIcon name="com.google.android.googlequicksearchbox/com.google.android.googlequicksearchbox.VoiceSearchActivity" image="voice_search"/>
+
+	<!-- X -->
+	<AppIcon name="com.twitter.android/com.twitter.android.StartActivity" image="x"/>
+
+</Theme>
