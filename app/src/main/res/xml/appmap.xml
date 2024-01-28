@@ -1921,5 +1921,6 @@
 	<item class="com.android.camera.CameraLauncher" name="trcamera"/>
 	<item class="com.girnarsoft.zigwheels.SplashActivity" name="zigwheels"/>
 	<item class="com.a0soft.gphone.acc.free.MainWnd" name="_1tap_cleaner_pro"/>
+	<item class="com.google.audio.hearing.visualization.accessibility.scribe.LauncherActivity" name="live_transcribe"/>
 
 </appmap>
