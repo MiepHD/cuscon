@@ -1,6 +1,0 @@
-<appmap>
-
-	<!-- Segway-Ninebot -->
-	<item class="cn.ninebot.ninebot.mainshell.SplashActivity" name="segway_ninebot"/>
-
-</appmap>

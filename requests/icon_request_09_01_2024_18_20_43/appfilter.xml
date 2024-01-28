@@ -1,6 +1,0 @@
-<resources>
-
-	<!-- Segway-Ninebot -->
-	<item component="ComponentInfo{com.ninebot.segway/cn.ninebot.ninebot.mainshell.SplashActivity}" drawable="segway_ninebot" />
-
-</resources>
