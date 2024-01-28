@@ -1842,5 +1842,6 @@
     <item drawable="unsplash" />
     <item drawable="video_compressor" />
 	<item drawable="_1dm" />
+	<item drawable="segway_ninebot" />
 
 </resources>

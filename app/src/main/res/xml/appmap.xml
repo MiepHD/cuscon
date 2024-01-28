@@ -1942,5 +1942,6 @@
 	<item class="com.oplus.video.ui.VideoListActivity" name="videos"/>
 	<item class="idm.internet.download.manager.MainActivity" name="_1dm"/>
 	<item class="org.schabi.newpipe.MainActivity" name="newpipe_legacy"/>
+	<item class="cn.ninebot.ninebot.mainshell.SplashActivity" name="segway_ninebot"/>
 
 </appmap>

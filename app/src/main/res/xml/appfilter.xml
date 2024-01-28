@@ -1961,5 +1961,6 @@
 	<item component="ComponentInfo{com.coloros.video/com.oplus.video.ui.VideoListActivity}" drawable="videos" />
 	<item component="ComponentInfo{idm.internet.download.manager/idm.internet.download.manager.MainActivity}" drawable="_1dm" />
 	<item component="ComponentInfo{com.javulticat.newpipe/org.schabi.newpipe.MainActivity}" drawable="newpipe_legacy" />
+	<item component="ComponentInfo{com.ninebot.segway/cn.ninebot.ninebot.mainshell.SplashActivity}" drawable="segway_ninebot" />
 
 </resources>
