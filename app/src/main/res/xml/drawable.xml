@@ -1844,5 +1844,34 @@
 	<item drawable="_1dm" />
 	<item drawable="segway_ninebot" />
 	<item drawable="acalendar_" />
+	<item drawable="all_document_reader" />
+	<item drawable="android_developers2" />
+    <item drawable="android12updater" />
+    <item drawable="androidide" />
+    <item drawable="binance" />
+    <item drawable="cash_prank_app" />
+    <item drawable="cifs_documents_provider" />
+    <item drawable="copy_sms_code" />
+    <item drawable="digital_secure" />
+    <item drawable="f_droid_basic" />
+    <item drawable="f_droid_build_status" />
+    <item drawable="geto" />
+    <item drawable="kuda" />
+    <item drawable="livewallpaperit" />
+    <item drawable="my_verizon" />
+    <item drawable="nextdoor" />
+    <item drawable="nix" />
+    <item drawable="nordvpn" />
+    <item drawable="okcagent" />
+    <item drawable="oui_lookup" />
+    <item drawable="performance_control" />
+    <item drawable="sdk_monitor" />
+    <item drawable="smart_edge" />
+    <item drawable="soundid" />
+    <item drawable="supersu" />
+    <item drawable="temp_mail" />
+    <item drawable="textnow" />
+    <item drawable="treble_info" />
+    <item drawable="tumblr" />
 
 </resources>

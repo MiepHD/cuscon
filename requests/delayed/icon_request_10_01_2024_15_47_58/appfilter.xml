@@ -1,0 +1,150 @@
+<resources>
+
+	<!-- All PDF Reader -->
+	<item component="ComponentInfo{com.ezt.pdfreader.pdfviewer/com.ezt.pdfreader.pdfviewer.SplashScreen}" drawable="all_document_reader" />
+
+	<!-- Android Developers -->
+	<item component="ComponentInfo{org.chromium.webapk.a808b3429ed9f4fa2_v2/org.chromium.webapk.shell_apk.h2o.H2OOpaqueMainActivity}" drawable="android_developers2" />
+
+	<!-- android12updater -->
+	<item component="ComponentInfo{com.unisoift.android12checklist/com.unisoift.android12checklist.MainActivity}" drawable="android12updater" />
+
+	<!-- AndroidIDE -->
+	<item component="ComponentInfo{com.itsaky.androidide/com.itsaky.androidide.activities.SplashActivity}" drawable="androidide" />
+
+	<!-- aShell -->
+	<item component="ComponentInfo{in.sunilpaulmathew.ashell/in.sunilpaulmathew.ashell.activities.StartActivity}" drawable="ashell" />
+
+	<!-- Binance -->
+	<item component="ComponentInfo{com.binance.dev/com.eaas.launcher.activities.main.MainActivity}" drawable="binance" />
+
+	<!-- Cash Prank App -->
+	<item component="ComponentInfo{com.fakecompany.cashapppayment/com.fakecompany.cashapppayment.MainActivity}" drawable="cash_prank_app" />
+
+	<!-- CIFS Documents Provider -->
+	<item component="ComponentInfo{com.wa2c.android.cifsdocumentsprovider/com.wa2c.android.cifsdocumentsprovider.presentation.ui.MainActivity}" drawable="cifs_documents_provider" />
+
+	<!-- Copy SMS Code -->
+	<item component="ComponentInfo{io.github.jd1378.otphelper/io.github.jd1378.otphelper.MainActivity}" drawable="copy_sms_code" />
+
+	<!-- Crypto ID -->
+	<item component="ComponentInfo{io.gitlab.cryptographic_id/io.gitlab.cryptographic_id.MainActivity}" drawable="crypto_id" />
+
+	<!-- Digital Secure -->
+	<item component="ComponentInfo{com.securityandprivacy.android.verizon.vms/com.mcafee.vzwmms.activity.VZWBaseActivity}" drawable="digital_secure" />
+
+	<!-- DSU Sideloader -->
+	<item component="ComponentInfo{vegabobo.dsusideloader/vegabobo.dsusideloader.MainActivity}" drawable="dsu_sideloader" />
+
+	<!-- F-Droid Basic -->
+	<item component="ComponentInfo{org.fdroid.basic/org.fdroid.fdroid.views.main.MainActivity}" drawable="f_droid_basic" />
+
+	<!-- F-Droid Build Status -->
+	<item component="ComponentInfo{de.storchp.fdroidbuildstatus/de.storchp.fdroidbuildstatus.MainActivity}" drawable="f_droid_build_status" />
+
+	<!-- Geto -->
+	<item component="ComponentInfo{com.android.geto/com.android.geto.MainActivity}" drawable="geto" />
+
+	<!-- GPS Emulator -->
+	<item component="ComponentInfo{com.rosteam.gpsemulator/com.rosteam.gpsemulator.MainActivity}" drawable="gps_emulator" />
+
+	<!-- Hypatia -->
+	<item component="ComponentInfo{us.spotco.malwarescanner/us.spotco.malwarescanner.MainActivity}" drawable="hypatia" />
+
+	<!-- Invoices -->
+	<item component="ComponentInfo{com.aadhk.woinvoice/com.aadhk.woinvoice.MainActivity}" drawable="invoices" />
+
+	<!-- Karma FW -->
+	<item component="ComponentInfo{net.stargw.fok/net.stargw.karma.ActivityMain}" drawable="karma_fw" />
+
+	<!-- Kernel Adiutor -->
+	<item component="ComponentInfo{com.nhellfire.kerneladiutor/com.grarak.kerneladiutor.activities.StartActivity}" drawable="kernel_adiutor" />
+
+	<!-- Kuda -->
+	<item component="ComponentInfo{com.kudabank.app/com.kuda.app.ui.app_entry.AppEntryActivity}" drawable="kuda" />
+
+	<!-- LiveWallpaperIt -->
+	<item component="ComponentInfo{rocks.tbog.livewallpaperit/rocks.tbog.livewallpaperit.LWIActivity}" drawable="livewallpaperit" />
+
+	<!-- Love Messages -->
+	<item component="ComponentInfo{com.gvapps.truelove/com.gvapps.truelove.activities.IntroActivity}" drawable="love_messages" />
+
+	<!-- Love Messages & Quotes -->
+	<item component="ComponentInfo{com.ZaranDev.love_messages/com.ZaranDev.love_messages.Activity.SplashActivity}" drawable="love_messages_and_quotes" />
+
+	<!-- My Verizon -->
+	<item component="ComponentInfo{com.vzw.hss.myverizon/com.vzw.hss.myverizon.ui.activities.LauncherActivity}" drawable="my_verizon" />
+
+	<!-- Nextdoor -->
+	<item component="ComponentInfo{com.nextdoor/com.nextdoor.registrationUi.nux.LoadAppConfigurationActivity}" drawable="nextdoor" />
+
+	<!-- Nix -->
+	<item component="ComponentInfo{com.termux.nix/com.termux.app.TermuxActivity}" drawable="nix" />
+
+	<!-- NordVPN -->
+	<item component="ComponentInfo{com.nordvpn.android/com.nordvpn.android.mobile.MainActivity}" drawable="nordvpn" />
+
+	<!-- Numero -->
+	<item component="ComponentInfo{com.esim.numero/org.linphone.LinphoneLauncherActivity}" drawable="numero" />
+
+	<!-- OkcAgent -->
+	<item component="ComponentInfo{org.ddosolitary.okcagent/org.ddosolitary.okcagent.MainActivity}" drawable="okcagent" />
+
+	<!-- OpenKeychain -->
+	<item component="ComponentInfo{org.sufficientlysecure.keychain/org.sufficientlysecure.keychain.ui.MainActivity}" drawable="openkeychain" />
+
+	<!-- Oui Lookup -->
+	<item component="ComponentInfo{org.alberto97.ouilookup/org.alberto97.ouilookup.ui.MainActivity}" drawable="oui_lookup" />
+
+	<!-- Performance Control -->
+	<item component="ComponentInfo{com.brewcrewfoo.performance/com.brewcrewfoo.performance.activities.MainActivity}" drawable="performance_control" />
+
+	<!-- Rewards -->
+	<item component="ComponentInfo{com.google.android.apps.paidtasks/com.google.android.apps.paidtasks.activity.LaunchActivity}" drawable="rewards" />
+
+	<!-- Samsung Cloud -->
+	<item component="ComponentInfo{com.samsung.android.scloud/com.samsung.android.scloud.app.ui.splash.launcher}" drawable="samsung_cloud" />
+
+	<!-- Samsung Health -->
+	<item component="ComponentInfo{com.sec.android.app.shealth/com.samsung.android.app.shealth.home.HomeMainActivity}" drawable="samsung_health" />
+
+	<!-- SDK Monitor -->
+	<item component="ComponentInfo{com.bernaferrari.sdkmonitor/com.bernaferrari.sdkmonitor.MainActivity}" drawable="sdk_monitor" />
+
+	<!-- Shizuku -->
+	<item component="ComponentInfo{moe.shizuku.privileged.api/moe.shizuku.manager.MainActivity}" drawable="shizuku" />
+
+	<!-- Smart Edge -->
+	<item component="ComponentInfo{com.abh80.smartedge/com.abh80.smartedge.activities.MainActivity}" drawable="smart_edge" />
+
+	<!-- SoundID -->
+	<item component="ComponentInfo{com.sonarworks.soundid.mobile/com.sonarworks.soundid.mobile.SoundIdActivity}" drawable="soundid" />
+
+	<!-- SuperSU -->
+	<item component="ComponentInfo{eu.chainfire.supersu/eu.chainfire.supersu.MainActivity-Material}" drawable="supersu" />
+
+	<!-- Telegram -->
+	<item component="ComponentInfo{org.telegram.messenger/org.telegram.messenger.AquaIcon}" drawable="telegram" />
+
+	<!-- Temp Mail -->
+	<item component="ComponentInfo{io.tempmail.android/io.tempmail.mvp.root.RootActivity}" drawable="temp_mail" />
+
+	<!-- Termux:Boot -->
+	<item component="ComponentInfo{com.termux.boot/com.termux.boot.BootActivity}" drawable="termux" />
+
+	<!-- Termux:Float -->
+	<item component="ComponentInfo{com.termux.window/com.termux.window.TermuxFloatActivity}" drawable="termux" />
+
+	<!-- TextNow -->
+	<item component="ComponentInfo{com.enflick.android.TextNow/authorization.ui.AuthorizationActivity}" drawable="textnow" />
+
+	<!-- Treble Info -->
+	<item component="ComponentInfo{tk.hack5.treblecheck/tk.hack5.treblecheck.ui.MainActivity}" drawable="treble_info" />
+
+	<!-- Tumblr -->
+	<item component="ComponentInfo{com.tumblr/com.tumblr.ui.activity.JumpoffActivity}" drawable="tumblr" />
+
+	<!-- X Server -->
+	<item component="ComponentInfo{au.com.darkside.xdemo/au.com.darkside.xdemo.XServerActivity}" drawable="x_server" />
+
+</resources>

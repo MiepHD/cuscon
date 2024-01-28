@@ -1944,5 +1944,36 @@
 	<item class="org.schabi.newpipe.MainActivity" name="newpipe_legacy"/>
 	<item class="cn.ninebot.ninebot.mainshell.SplashActivity" name="segway_ninebot"/>
 	<item class="org.withouthat.acalendar.ACalendar" name="acalendar_"/>
+	<item class="com.ezt.pdfreader.pdfviewer.SplashScreen" name="all_document_reader"/>
+	<item class="org.chromium.webapk.shell_apk.h2o.H2OOpaqueMainActivity" name="android_developers2"/>
+    <item class="com.unisoift.android12checklist.MainActivity" name="android12updater"/>
+    <item class="com.itsaky.androidide.activities.SplashActivity" name="androidide"/>
+    <item class="com.eaas.launcher.activities.main.MainActivity" name="binance"/>
+    <item class="com.fakecompany.cashapppayment.MainActivity" name="cash_prank_app"/>
+    <item class="com.wa2c.android.cifsdocumentsprovider.presentation.ui.MainActivity" name="cifs_documents_provider"/>
+    <item class="io.github.jd1378.otphelper.MainActivity" name="copy_sms_code"/>
+    <item class="com.mcafee.vzwmms.activity.VZWBaseActivity" name="digital_secure"/>
+    <item class="org.fdroid.fdroid.views.main.MainActivity" name="f_droid_basic"/>
+    <item class="de.storchp.fdroidbuildstatus.MainActivity" name="f_droid_build_status"/>
+    <item class="com.android.geto.MainActivity" name="geto"/>
+    <item class="com.kuda.app.ui.app_entry.AppEntryActivity" name="kuda"/>
+    <item class="rocks.tbog.livewallpaperit.LWIActivity" name="livewallpaperit"/>
+    <item class="com.vzw.hss.myverizon.ui.activities.LauncherActivity" name="my_verizon"/>
+    <item class="com.nextdoor.registrationUi.nux.LoadAppConfigurationActivity" name="nextdoor"/>
+    <item class="com.termux.app.TermuxActivity" name="nix"/>
+    <item class="com.nordvpn.android.mobile.MainActivity" name="nordvpn"/>
+    <item class="org.ddosolitary.okcagent.MainActivity" name="okcagent"/>
+    <item class="org.alberto97.ouilookup.ui.MainActivity" name="oui_lookup"/>
+    <item class="com.brewcrewfoo.performance.activities.MainActivity" name="performance_control"/>
+    <item class="com.bernaferrari.sdkmonitor.MainActivity" name="sdk_monitor"/>
+    <item class="com.abh80.smartedge.activities.MainActivity" name="smart_edge"/>
+    <item class="com.sonarworks.soundid.mobile.SoundIdActivity" name="soundid"/>
+    <item class="eu.chainfire.supersu.MainActivity-Material" name="supersu"/>
+    <item class="io.tempmail.mvp.root.RootActivity" name="temp_mail"/>
+    <item class="authorization.ui.AuthorizationActivity" name="textnow"/>
+    <item class="tk.hack5.treblecheck.ui.MainActivity" name="treble_info"/>
+    <item class="com.tumblr.ui.activity.JumpoffActivity" name="tumblr"/>
+    <item class="com.termux.boot.BootActivity" name="termux"/>
+    <item class="com.termux.window.TermuxFloatActivity" name="termux"/>
 
 </appmap>

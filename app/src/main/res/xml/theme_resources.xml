@@ -1954,5 +1954,36 @@
 	<AppIcon name="com.javulticat.newpipe/org.schabi.newpipe.MainActivity" image="newpipe_legacy"/>
 	<AppIcon name="com.ninebot.segway/cn.ninebot.ninebot.mainshell.SplashActivity" image="segway_ninebot"/>
 	<AppIcon name="org.withouthat.acalendarplus/org.withouthat.acalendar.ACalendar" image="acalendar_"/>
+	<AppIcon name="com.ezt.pdfreader.pdfviewer/com.ezt.pdfreader.pdfviewer.SplashScreen" image="all_document_reader"/>
+	<AppIcon name="org.chromium.webapk.a808b3429ed9f4fa2_v2/org.chromium.webapk.shell_apk.h2o.H2OOpaqueMainActivity" image="android_developers2"/>
+    <AppIcon name="com.unisoift.android12checklist/com.unisoift.android12checklist.MainActivity" image="android12updater"/>
+    <AppIcon name="com.itsaky.androidide/com.itsaky.androidide.activities.SplashActivity" image="androidide"/>
+    <AppIcon name="com.binance.dev/com.eaas.launcher.activities.main.MainActivity" image="binance"/>
+    <AppIcon name="com.fakecompany.cashapppayment/com.fakecompany.cashapppayment.MainActivity" image="cash_prank_app"/>
+    <AppIcon name="com.wa2c.android.cifsdocumentsprovider/com.wa2c.android.cifsdocumentsprovider.presentation.ui.MainActivity" image="cifs_documents_provider"/>
+    <AppIcon name="io.github.jd1378.otphelper/io.github.jd1378.otphelper.MainActivity" image="copy_sms_code"/>
+    <AppIcon name="com.securityandprivacy.android.verizon.vms/com.mcafee.vzwmms.activity.VZWBaseActivity" image="digital_secure"/>
+    <AppIcon name="org.fdroid.basic/org.fdroid.fdroid.views.main.MainActivity" image="f_droid_basic"/>
+    <AppIcon name="de.storchp.fdroidbuildstatus/de.storchp.fdroidbuildstatus.MainActivity" image="f_droid_build_status"/>
+    <AppIcon name="com.android.geto/com.android.geto.MainActivity" image="geto"/>
+    <AppIcon name="com.kudabank.app/com.kuda.app.ui.app_entry.AppEntryActivity" image="kuda"/>
+    <AppIcon name="rocks.tbog.livewallpaperit/rocks.tbog.livewallpaperit.LWIActivity" image="livewallpaperit"/>
+    <AppIcon name="com.vzw.hss.myverizon/com.vzw.hss.myverizon.ui.activities.LauncherActivity" image="my_verizon"/>
+    <AppIcon name="com.nextdoor/com.nextdoor.registrationUi.nux.LoadAppConfigurationActivity" image="nextdoor"/>
+    <AppIcon name="com.termux.nix/com.termux.app.TermuxActivity" image="nix"/>
+    <AppIcon name="com.nordvpn.android/com.nordvpn.android.mobile.MainActivity" image="nordvpn"/>
+    <AppIcon name="org.ddosolitary.okcagent/org.ddosolitary.okcagent.MainActivity" image="okcagent"/>
+    <AppIcon name="org.alberto97.ouilookup/org.alberto97.ouilookup.ui.MainActivity" image="oui_lookup"/>
+    <AppIcon name="com.brewcrewfoo.performance/com.brewcrewfoo.performance.activities.MainActivity" image="performance_control"/>
+    <AppIcon name="com.bernaferrari.sdkmonitor/com.bernaferrari.sdkmonitor.MainActivity" image="sdk_monitor"/>
+    <AppIcon name="com.abh80.smartedge/com.abh80.smartedge.activities.MainActivity" image="smart_edge"/>
+    <AppIcon name="com.sonarworks.soundid.mobile/com.sonarworks.soundid.mobile.SoundIdActivity" image="soundid"/>
+    <AppIcon name="eu.chainfire.supersu/eu.chainfire.supersu.MainActivity-Material" image="supersu"/>
+    <AppIcon name="io.tempmail.android/io.tempmail.mvp.root.RootActivity" image="temp_mail"/>
+    <AppIcon name="com.enflick.android.TextNow/authorization.ui.AuthorizationActivity" image="textnow"/>
+    <AppIcon name="tk.hack5.treblecheck/tk.hack5.treblecheck.ui.MainActivity" image="treble_info"/>
+    <AppIcon name="com.tumblr/com.tumblr.ui.activity.JumpoffActivity" image="tumblr"/>
+    <AppIcon name="com.termux.boot/com.termux.boot.BootActivity" image="termux"/>
+    <AppIcon name="com.termux.window/com.termux.window.TermuxFloatActivity" image="termux"/>
 
 </Theme>
