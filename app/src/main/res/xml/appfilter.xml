@@ -2020,5 +2020,6 @@
     <item component="ComponentInfo{es.mercadona.tienda/es.mercadona.tienda.modules.splash.activity.SplashActivity}" drawable="mercadona" />
     <item component="ComponentInfo{com.privalia.privalia/com.venteprivee.features.launcher.VPInitScreen}" drawable="privalia" />
     <item component="ComponentInfo{com.feci.apps/com.iecisa.obfeci.paradigma.presentation.activities.SplashActivity}" drawable="tarjeta_eci" />
+	<item component="ComponentInfo{com.munrodev.crfmobile/com.munrodev.crfmobile.feature.launch.LaunchActivity}" drawable="mi_carrefour_30" />
 
 </resources>

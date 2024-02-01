@@ -1900,5 +1900,6 @@
     <item drawable="mercadona" />
     <item drawable="privalia" />
     <item drawable="tarjeta_eci" />
+	<item drawable="mi_carrefour_30" />
 
 </resources>
