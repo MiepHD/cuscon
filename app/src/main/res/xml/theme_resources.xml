@@ -2048,5 +2048,30 @@
     <AppIcon name="org.chromium.webapk.a4cbbd8d3892fc597_v2/org.chromium.webapk.shell_apk.h2o.H2OOpaqueMainActivity" image="webapk_thredup"/>
     <AppIcon name="com.contextlogic.wish/com.contextlogic.wish.activity.browse.BrowseActivity" image="wish"/>
 	<AppIcon name="com.spotify.musix/com.spotify.musix.MainActivity" image="spotify"/>
+	<AppIcon name="com.adguard.android.contentblocker/com.adguard.android.contentblocker.ui.MainActivity" image="adguard_content_blocker"/>
+    <AppIcon name="com.b2w.americanas/com.b2w.main.activity.MainActivity" image="americanas"/>
+    <AppIcon name="com.keerby.formatfactory/com.keerby.formatfactory.launchScreenActivity" image="audio_video_factory"/>    <AppIcon name="com.samsung.android.app.galaxyfinder/com.samsung.android.app.galaxyfinder.GalaxyFinderMainLauncher" image="buscador"/>
+    <AppIcon name="com.samsung.android.app.find/com.samsung.android.app.find.SplashActivity" image="buscador"/>
+    <AppIcon name="com.novapontocom.casasbahia/br.concrete.base.ui.SplashActivity" image="casas_bahia"/>
+    <AppIcon name="chatgpt.ai.chatbot.open.chat.gpt.bot.writer.assistant/chatgpt.ai.chatbot.open.chat.gpt.bot.writer.assistant.MainActivity" image="chatbox_ia"/>
+    <AppIcon name="com.nvt.cs/com.claroapp.MainActivity" image="claro_movel"/>
+    <AppIcon name="br.com.correios.preatendimento/br.com.correios.preatendimento.MainActivity" image="correios"/>
+    <AppIcon name="br.com.cortecloud.app/br.com.cortecloud.app.MainActivity" image="cortecloud"/>
+    <AppIcon name="com.cutlistoptimizer/com.cutlistoptimizer.MainActivity" image="cutlist_optimizer"/>
+    <AppIcon name="com.deonibus/com.deonibus.SplashActivity" image="deonibus"/>
+    <AppIcon name="flar2.devcheck/flar2.devcheck.MainActivity" image="devcheck"/>
+    <AppIcon name="com.pharmacysa.farmaciasapp/com.pharmacysa.farmaciasapp.view.SplashScreenActivity" image="farmacias_app"/>
+    <AppIcon name="com.pcmehanik.smarttoolbox/com.pcmehanik.smarttoolsutilities.MainActivity" image="herramientas_inteligentes"/>
+    <AppIcon name="br.gov.dataprev.meuinss/br.gov.dataprev.meuinss.MainActivity" image="meuinss"/>
+    <AppIcon name="com.nu.production/br.com.nubank.app.SplashScreenActivity" image="nu"/>
+    <AppIcon name="com.playit.videoplayer/com.quantum.player.ui.activities.MainActivity" image="playit"/>
+    <AppIcon name="com.shopee.br/com.shopee.app.ui.home.HomeActivity_" image="shopee"/>
+    <AppIcon name="com.streema.simpleradio/com.streema.simpleradio.MainActivity" image="simple_radio"/>
+    <AppIcon name="com.sec.android.app.sbrowser.webapk.wda09c2f6c693886100304ec7640a56ba1/org.chromium.webapk.shell_apk.h2o.H2OOpaqueMainActivity" image="site_confiavel"/>
+    <AppIcon name="com.snaptube.premium/com.snaptube.premium.activity.ExploreActivity" image="snaptube"/>
+    <AppIcon name="com.sec.android.app.sbrowser.webapk.w3696fec7031dfe2275ad3439c9e8dc971/org.chromium.webapk.shell_apk.h2o.H2OOpaqueMainActivity" image="virustotal"/>
+    <AppIcon name="com.whatsapp/com.whatsapp.Icon44" image="whatsapp_44"/>
+    <AppIcon name="com.samsung.android.fast/com.samsung.android.fast.DefaultActivity" image="wi_fi_segura"/>
+    <AppIcon name="com.transferwise.android/com.transferwise.android.activity.SplashActivity" image="wise"/>
 
 </Theme>

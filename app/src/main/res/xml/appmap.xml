@@ -2038,5 +2038,31 @@
     <item class="org.chromium.webapk.shell_apk.h2o.H2OOpaqueMainActivity" name="webapk_thredup"/>
     <item class="com.contextlogic.wish.activity.browse.BrowseActivity" name="wish"/>
 	<item class="com.spotify.musix.MainActivity" name="spotify"/>
+	<item class="com.adguard.android.contentblocker.ui.MainActivity" name="adguard_content_blocker"/>
+    <item class="com.b2w.main.activity.MainActivity" name="americanas"/>
+    <item class="com.keerby.formatfactory.launchScreenActivity" name="audio_video_factory"/>
+    <item class="com.samsung.android.app.galaxyfinder.GalaxyFinderMainLauncher" name="buscador"/>
+    <item class="com.samsung.android.app.find.SplashActivity" name="buscador"/>
+    <item class="br.concrete.base.ui.SplashActivity" name="casas_bahia"/>
+    <item class="chatgpt.ai.chatbot.open.chat.gpt.bot.writer.assistant.MainActivity" name="chatbox_ia"/>
+    <item class="com.claroapp.MainActivity" name="claro_movel"/>
+    <item class="br.com.correios.preatendimento.MainActivity" name="correios"/>
+    <item class="br.com.cortecloud.app.MainActivity" name="cortecloud"/>
+    <item class="com.cutlistoptimizer.MainActivity" name="cutlist_optimizer"/>
+    <item class="com.deonibus.SplashActivity" name="deonibus"/>
+    <item class="flar2.devcheck.MainActivity" name="devcheck"/>
+    <item class="com.pharmacysa.farmaciasapp.view.SplashScreenActivity" name="farmacias_app"/>
+    <item class="com.pcmehanik.smarttoolsutilities.MainActivity" name="herramientas_inteligentes"/>
+    <item class="br.gov.dataprev.meuinss.MainActivity" name="meuinss"/>
+    <item class="br.com.nubank.app.SplashScreenActivity" name="nu"/>
+    <item class="com.quantum.player.ui.activities.MainActivity" name="playit"/>
+    <item class="com.shopee.app.ui.home.HomeActivity_" name="shopee"/>
+    <item class="com.streema.simpleradio.MainActivity" name="simple_radio"/>
+    <item class="org.chromium.webapk.shell_apk.h2o.H2OOpaqueMainActivity" name="site_confiavel"/>
+    <item class="com.snaptube.premium.activity.ExploreActivity" name="snaptube"/>
+    <item class="org.chromium.webapk.shell_apk.h2o.H2OOpaqueMainActivity" name="virustotal"/>
+    <item class="com.whatsapp.Icon44" name="whatsapp_44"/>
+    <item class="com.samsung.android.fast.DefaultActivity" name="wi_fi_segura"/>
+    <item class="com.transferwise.android.activity.SplashActivity" name="wise"/>
 
 </appmap>

@@ -2056,5 +2056,31 @@
     <item component="ComponentInfo{org.chromium.webapk.a4cbbd8d3892fc597_v2/org.chromium.webapk.shell_apk.h2o.H2OOpaqueMainActivity}" drawable="webapk_thredup" />
     <item component="ComponentInfo{com.contextlogic.wish/com.contextlogic.wish.activity.browse.BrowseActivity}" drawable="wish" />
 	<item component="ComponentInfo{com.spotify.musix/com.spotify.musix.MainActivity}" drawable="spotify" />
+	<item component="ComponentInfo{com.adguard.android.contentblocker/com.adguard.android.contentblocker.ui.MainActivity}" drawable="adguard_content_blocker" />
+    <item component="ComponentInfo{com.b2w.americanas/com.b2w.main.activity.MainActivity}" drawable="americanas" />
+    <item component="ComponentInfo{com.keerby.formatfactory/com.keerby.formatfactory.launchScreenActivity}" drawable="audio_video_factory" />
+    <item component="ComponentInfo{com.samsung.android.app.galaxyfinder/com.samsung.android.app.galaxyfinder.GalaxyFinderMainLauncher}" drawable="buscador" />
+    <item component="ComponentInfo{com.samsung.android.app.find/com.samsung.android.app.find.SplashActivity}" drawable="buscador" />
+    <item component="ComponentInfo{com.novapontocom.casasbahia/br.concrete.base.ui.SplashActivity}" drawable="casas_bahia" />
+    <item component="ComponentInfo{chatgpt.ai.chatbot.open.chat.gpt.bot.writer.assistant/chatgpt.ai.chatbot.open.chat.gpt.bot.writer.assistant.MainActivity}" drawable="chatbox_ia" />
+    <item component="ComponentInfo{com.nvt.cs/com.claroapp.MainActivity}" drawable="claro_movel" />
+    <item component="ComponentInfo{br.com.correios.preatendimento/br.com.correios.preatendimento.MainActivity}" drawable="correios" />
+    <item component="ComponentInfo{br.com.cortecloud.app/br.com.cortecloud.app.MainActivity}" drawable="cortecloud" />
+    <item component="ComponentInfo{com.cutlistoptimizer/com.cutlistoptimizer.MainActivity}" drawable="cutlist_optimizer" />
+    <item component="ComponentInfo{com.deonibus/com.deonibus.SplashActivity}" drawable="deonibus" />
+    <item component="ComponentInfo{flar2.devcheck/flar2.devcheck.MainActivity}" drawable="devcheck" />
+    <item component="ComponentInfo{com.pharmacysa.farmaciasapp/com.pharmacysa.farmaciasapp.view.SplashScreenActivity}" drawable="farmacias_app" />
+    <item component="ComponentInfo{com.pcmehanik.smarttoolbox/com.pcmehanik.smarttoolsutilities.MainActivity}" drawable="herramientas_inteligentes" />
+    <item component="ComponentInfo{br.gov.dataprev.meuinss/br.gov.dataprev.meuinss.MainActivity}" drawable="meuinss" />
+    <item component="ComponentInfo{com.nu.production/br.com.nubank.app.SplashScreenActivity}" drawable="nu" />
+    <item component="ComponentInfo{com.playit.videoplayer/com.quantum.player.ui.activities.MainActivity}" drawable="playit" />
+    <item component="ComponentInfo{com.shopee.br/com.shopee.app.ui.home.HomeActivity_}" drawable="shopee" />
+    <item component="ComponentInfo{com.streema.simpleradio/com.streema.simpleradio.MainActivity}" drawable="simple_radio" />
+    <item component="ComponentInfo{com.sec.android.app.sbrowser.webapk.wda09c2f6c693886100304ec7640a56ba1/org.chromium.webapk.shell_apk.h2o.H2OOpaqueMainActivity}" drawable="site_confiavel" />
+    <item component="ComponentInfo{com.snaptube.premium/com.snaptube.premium.activity.ExploreActivity}" drawable="snaptube" />
+    <item component="ComponentInfo{com.sec.android.app.sbrowser.webapk.w3696fec7031dfe2275ad3439c9e8dc971/org.chromium.webapk.shell_apk.h2o.H2OOpaqueMainActivity}" drawable="virustotal" />
+    <item component="ComponentInfo{com.whatsapp/com.whatsapp.Icon44}" drawable="whatsapp_44" />
+    <item component="ComponentInfo{com.samsung.android.fast/com.samsung.android.fast.DefaultActivity}" drawable="wi_fi_segura" />
+    <item component="ComponentInfo{com.transferwise.android/com.transferwise.android.activity.SplashActivity}" drawable="wise" />
 
 </resources>

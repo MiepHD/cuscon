@@ -1844,7 +1844,6 @@
 	<item drawable="_1dm" />
 	<item drawable="segway_ninebot" />
 	<item drawable="acalendar_" />
-	<item drawable="all_document_reader" />
 	<item drawable="android_developers2" />
     <item drawable="android12updater" />
     <item drawable="androidide" />
@@ -1900,7 +1899,6 @@
     <item drawable="mercadona" />
     <item drawable="privalia" />
     <item drawable="tarjeta_eci" />
-	<item drawable="mi_carrefour_30" />
 	<item drawable="all_document_reader_assistant" />
     <item drawable="all_document_viewer" />
     <item drawable="all_reader" />
@@ -1935,6 +1933,30 @@
     <item drawable="walmart" />
     <item drawable="webapk_thredup" />
     <item drawable="wish" />
-	<item drawable="spotify" />
+	<item drawable="adguard_content_blocker" />
+    <item drawable="americanas" />
+    <item drawable="audio_video_factory" />
+    <item drawable="buscador" />
+    <item drawable="casas_bahia" />
+    <item drawable="chatbox_ia" />
+    <item drawable="claro_movel" />
+    <item drawable="correios" />
+    <item drawable="cortecloud" />
+    <item drawable="cutlist_optimizer" />
+    <item drawable="deonibus" />
+    <item drawable="devcheck" />
+    <item drawable="farmacias_app" />
+    <item drawable="herramientas_inteligentes" />
+    <item drawable="meuinss" />
+    <item drawable="nu" />
+    <item drawable="playit" />
+    <item drawable="shopee" />
+    <item drawable="simple_radio" />
+    <item drawable="site_confiavel" />
+    <item drawable="snaptube" />
+    <item drawable="virustotal" />
+    <item drawable="whatsapp_44" />
+    <item drawable="wi_fi_segura" />
+    <item drawable="wise" />
 
 </resources>
