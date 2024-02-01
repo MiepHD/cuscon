@@ -2003,5 +2003,11 @@
     <item class="com.venteprivee.features.launcher.VPInitScreen" name="privalia"/>
     <item class="com.iecisa.obfeci.paradigma.presentation.activities.SplashActivity" name="tarjeta_eci"/>
 	<item class="com.munrodev.crfmobile.feature.launch.LaunchActivity" name="mi_carrefour_30"/>
+	<item class="com.docx.docxreaderdocviewerassistantwordpdfexcelalldocumentreaderoffice.activity.SplashActivity" name="all_document_reader_assistant"/>
+    <item class="com.documents.viewer.ui.SplashScreen" name="all_document_viewer"/>
+    <item class="alldocumentreader.office.viewer.filereader.pdfviewer.ui.activites.SplashScreenActivity" name="all_reader"/>
+    <item class="com.girls.games.office.filereader.activity.SplashActivity" name="girls_all_document_reader"/>
+    <item class="com.android.ilovepdf.ui.activity.SplashScreenActivity" name="ilovepdf"/>
+    <item class="com.rookiestudio.perfectviewer.TStartup" name="perfect_viewer"/>
 
 </appmap>

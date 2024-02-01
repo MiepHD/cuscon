@@ -2013,5 +2013,11 @@
     <AppIcon name="com.privalia.privalia/com.venteprivee.features.launcher.VPInitScreen" image="privalia"/>
     <AppIcon name="com.feci.apps/com.iecisa.obfeci.paradigma.presentation.activities.SplashActivity" image="tarjeta_eci"/>
 	<AppIcon name="com.munrodev.crfmobile/com.munrodev.crfmobile.feature.launch.LaunchActivity" image="mi_carrefour_30"/>
+	<AppIcon name="com.docx.docxreaderdocviewerassistantwordpdfexcelalldocumentreaderoffice/com.docx.docxreaderdocviewerassistantwordpdfexcelalldocumentreaderoffice.activity.SplashActivity" image="all_document_reader_assistant"/>
+    <AppIcon name="com.alldocumentreader.pdfreader.document.viewer/com.documents.viewer.ui.SplashScreen" image="all_document_viewer"/>
+    <AppIcon name="alldocumentreader.office.viewer.filereader.pdfviewer/alldocumentreader.office.viewer.filereader.pdfviewer.ui.activites.SplashScreenActivity" image="all_reader"/>
+    <AppIcon name="com.girls.games.office.filereader/com.girls.games.office.filereader.activity.SplashActivity" image="girls_all_document_reader"/>
+    <AppIcon name="com.ilovepdf.www/com.android.ilovepdf.ui.activity.SplashScreenActivity" image="ilovepdf"/>
+    <AppIcon name="com.rookiestudio.perfectviewer/com.rookiestudio.perfectviewer.TStartup" image="perfect_viewer"/>
 
 </Theme>

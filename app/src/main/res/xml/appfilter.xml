@@ -2021,5 +2021,11 @@
     <item component="ComponentInfo{com.privalia.privalia/com.venteprivee.features.launcher.VPInitScreen}" drawable="privalia" />
     <item component="ComponentInfo{com.feci.apps/com.iecisa.obfeci.paradigma.presentation.activities.SplashActivity}" drawable="tarjeta_eci" />
 	<item component="ComponentInfo{com.munrodev.crfmobile/com.munrodev.crfmobile.feature.launch.LaunchActivity}" drawable="mi_carrefour_30" />
+	<item component="ComponentInfo{com.docx.docxreaderdocviewerassistantwordpdfexcelalldocumentreaderoffice/com.docx.docxreaderdocviewerassistantwordpdfexcelalldocumentreaderoffice.activity.SplashActivity}" drawable="all_document_reader_assistant" />
+    <item component="ComponentInfo{com.alldocumentreader.pdfreader.document.viewer/com.documents.viewer.ui.SplashScreen}" drawable="all_document_viewer" />
+    <item component="ComponentInfo{alldocumentreader.office.viewer.filereader.pdfviewer/alldocumentreader.office.viewer.filereader.pdfviewer.ui.activites.SplashScreenActivity}" drawable="all_reader" />
+    <item component="ComponentInfo{com.girls.games.office.filereader/com.girls.games.office.filereader.activity.SplashActivity}" drawable="girls_all_document_reader" />
+    <item component="ComponentInfo{com.ilovepdf.www/com.android.ilovepdf.ui.activity.SplashScreenActivity}" drawable="ilovepdf" />
+    <item component="ComponentInfo{com.rookiestudio.perfectviewer/com.rookiestudio.perfectviewer.TStartup}" drawable="perfect_viewer" />
 
 </resources>

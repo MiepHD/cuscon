@@ -1901,5 +1901,11 @@
     <item drawable="privalia" />
     <item drawable="tarjeta_eci" />
 	<item drawable="mi_carrefour_30" />
+	<item drawable="all_document_reader_assistant" />
+    <item drawable="all_document_viewer" />
+    <item drawable="all_reader" />
+    <item drawable="girls_all_document_reader" />
+    <item drawable="ilovepdf" />
+    <item drawable="perfect_viewer" />
 
 </resources>
