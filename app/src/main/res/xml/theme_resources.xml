@@ -1985,5 +1985,28 @@
     <AppIcon name="com.tumblr/com.tumblr.ui.activity.JumpoffActivity" image="tumblr"/>
     <AppIcon name="com.termux.boot/com.termux.boot.BootActivity" image="termux"/>
     <AppIcon name="com.termux.window/com.termux.window.TermuxFloatActivity" image="termux"/>
+	<AppIcon name="org.shadowice.flocke.andotp/org.shadowice.flocke.andotp.Activities.MainActivity" image="andotp"/>
+    <AppIcon name="me.mycake/me.mycake.MainActivity" image="cake"/>
+    <AppIcon name="com.simplemobiletools.calendar.pro/com.simplemobiletools.calendar.pro.activities.SplashActivity.Blue" image="simplemobiletools_calendar_blue"/>
+    <AppIcon name="com.bobek.compass/com.bobek.compass.MainActivity" image="bobek_compass"/>
+    <AppIcon name="com.devhd.feedly/com.devhd.feedly.MainActivity" image="feedly"/>
+    <AppIcon name="eu.livesport.FlashScore_com/eu.livesport.LiveSport_cz.config.core.DefaultLauncher" image="flashscore"/>
+    <AppIcon name="com.simplemobiletools.gallery.pro/com.simplemobiletools.gallery.pro.activities.SplashActivity.Green" image="simplemobiletools_gallery_green"/>
+    <AppIcon name="it.homobile.ho/it.nttdata.vodafonelean.splash.SplashActivity" image="ho"/>
+    <AppIcon name="keepass2android.keepass2android/crc64dd09b2a2e58bb27d.KeePass" image="keepass2android"/>
+    <AppIcon name="it.docplanner/com.app.MainActivity" image="miodottoreit"/>
+    <AppIcon name="com.simplemobiletools.notes.pro/com.simplemobiletools.notes.pro.activities.SplashActivity.Yellow" image="simplemobiletools_notes_yellow"/>
+    <AppIcon name="com.perryoncrack.rez/com.perryoncrack.rez.MainActivity" image="rez_launcher"/>
+    <AppIcon name="org.nixgame.ruler/org.nixgame.ruler.ActivityRuler" image="ruler"/>
+    <AppIcon name="com.shelf.app/com.shelf.app.main.ShelfActivity" image="shelf"/>
+    <AppIcon name="it.subito/it.subito.v2.search.ListingActivity" image="subito"/>
+    <AppIcon name="com.thatsmanmeet.taskyapp/com.thatsmanmeet.taskyapp.MainActivity" image="tasky"/>
+    <AppIcon name="com.simplemobiletools.thankyou/com.simplemobiletools.thankyou.activities.SplashActivity.Orange" image="thank_you"/>
+    <AppIcon name="com.tinder/com.tinder.launch.internal.activities.LoginActivity" image="tinder"/>
+    <AppIcon name="de.hp.volume/de.hp.volume.Main" image="volume"/>
+    <AppIcon name="com.wallapop/com.wallapop.activities.HomeActivity" image="wallapop"/>
+    <AppIcon name="it.Beta80Group.whereareu/it.Beta80Group.whereareu.SplashActivity" image="where_are_u"/>
+    <AppIcon name="co.wordupapp.app/crc646f45dd7a1b6aab56.SplashScreen" image="wordup"/>
+	<AppIcon name="me.weishu.kernelsu/me.weishu.kernelsu.ui.MainActivity" image="kernelsu"/>
 
 </Theme>

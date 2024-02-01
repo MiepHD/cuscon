@@ -22,7 +22,7 @@
 	<item component="ComponentInfo{me.mycake/me.mycake.MainActivity}" drawable="cake" />
 
 	<!-- Calendar -->
-	<item component="ComponentInfo{com.simplemobiletools.calendar.pro/com.simplemobiletools.calendar.pro.activities.SplashActivity.Blue}" drawable="calendar" />
+	<item component="ComponentInfo{com.simplemobiletools.calendar.pro/com.simplemobiletools.calendar.pro.activities.SplashActivity.Blue}" drawable="simplemobiletools_calendar_blue" />
 
 	<!-- Cards With Cats -->
 	<item component="ComponentInfo{com.dozingcatsoftware.cardswithcats/com.dozingcatsoftware.cardswithcats.MainActivity}" drawable="cards_with_cats" />
@@ -49,7 +49,7 @@
 	<item component="ComponentInfo{eu.livesport.FlashScore_com/eu.livesport.LiveSport_cz.config.core.DefaultLauncher}" drawable="flashscore" />
 
 	<!-- Gallery -->
-	<item component="ComponentInfo{com.simplemobiletools.gallery.pro/com.simplemobiletools.gallery.pro.activities.SplashActivity.Green}" drawable="gallery" />
+	<item component="ComponentInfo{com.simplemobiletools.gallery.pro/com.simplemobiletools.gallery.pro.activities.SplashActivity.Green}" drawable="simplemobiletools_gallery_green" />
 
 	<!-- ho. -->
 	<item component="ComponentInfo{it.homobile.ho/it.nttdata.vodafonelean.splash.SplashActivity}" drawable="ho" />
@@ -76,7 +76,7 @@
 	<item component="ComponentInfo{com.wangdaye.mysplash/com.wangdaye.mysplash.main.MainActivity}" drawable="mysplash" />
 
 	<!-- Notes -->
-	<item component="ComponentInfo{com.simplemobiletools.notes.pro/com.simplemobiletools.notes.pro.activities.SplashActivity.Yellow}" drawable="notes" />
+	<item component="ComponentInfo{com.simplemobiletools.notes.pro/com.simplemobiletools.notes.pro.activities.SplashActivity.Yellow}" drawable="simplemobiletools_notes_yellow" />
 
 	<!-- PacedBreathing -->
 	<item component="ComponentInfo{com.apps.paced.breathing/com.mihaibulic.apps.pacedbreathing.MainActivity}" drawable="pacedbreathing" />

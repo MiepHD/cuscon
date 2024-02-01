@@ -22,7 +22,7 @@
 	<AppIcon name="me.mycake/me.mycake.MainActivity" image="cake"/>
 
 	<!-- Calendar -->
-	<AppIcon name="com.simplemobiletools.calendar.pro/com.simplemobiletools.calendar.pro.activities.SplashActivity.Blue" image="calendar"/>
+	<AppIcon name="com.simplemobiletools.calendar.pro/com.simplemobiletools.calendar.pro.activities.SplashActivity.Blue" image="simplemobiletools_calendar_blue"/>
 
 	<!-- Cards With Cats -->
 	<AppIcon name="com.dozingcatsoftware.cardswithcats/com.dozingcatsoftware.cardswithcats.MainActivity" image="cards_with_cats"/>
@@ -49,7 +49,7 @@
 	<AppIcon name="eu.livesport.FlashScore_com/eu.livesport.LiveSport_cz.config.core.DefaultLauncher" image="flashscore"/>
 
 	<!-- Gallery -->
-	<AppIcon name="com.simplemobiletools.gallery.pro/com.simplemobiletools.gallery.pro.activities.SplashActivity.Green" image="gallery"/>
+	<AppIcon name="com.simplemobiletools.gallery.pro/com.simplemobiletools.gallery.pro.activities.SplashActivity.Green" image="simplemobiletools_gallery_green"/>
 
 	<!-- ho. -->
 	<AppIcon name="it.homobile.ho/it.nttdata.vodafonelean.splash.SplashActivity" image="ho"/>
@@ -76,7 +76,7 @@
 	<AppIcon name="com.wangdaye.mysplash/com.wangdaye.mysplash.main.MainActivity" image="mysplash"/>
 
 	<!-- Notes -->
-	<AppIcon name="com.simplemobiletools.notes.pro/com.simplemobiletools.notes.pro.activities.SplashActivity.Yellow" image="notes"/>
+	<AppIcon name="com.simplemobiletools.notes.pro/com.simplemobiletools.notes.pro.activities.SplashActivity.Yellow" image="simplemobiletools_notes_yellow"/>
 
 	<!-- PacedBreathing -->
 	<AppIcon name="com.apps.paced.breathing/com.mihaibulic.apps.pacedbreathing.MainActivity" image="pacedbreathing"/>

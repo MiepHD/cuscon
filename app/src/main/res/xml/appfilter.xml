@@ -1994,5 +1994,27 @@
 	<item component="ComponentInfo{com.tumblr/com.tumblr.ui.activity.JumpoffActivity}" drawable="tumblr" />
     <item component="ComponentInfo{com.termux.boot/com.termux.boot.BootActivity}" drawable="termux" />
     <item component="ComponentInfo{com.termux.window/com.termux.window.TermuxFloatActivity}" drawable="termux" />
+	<item component="ComponentInfo{org.shadowice.flocke.andotp/org.shadowice.flocke.andotp.Activities.MainActivity}" drawable="andotp" />
+    <item component="ComponentInfo{me.mycake/me.mycake.MainActivity}" drawable="cake" />
+    <item component="ComponentInfo{com.simplemobiletools.calendar.pro/com.simplemobiletools.calendar.pro.activities.SplashActivity.Blue}" drawable="simplemobiletools_calendar_blue" />
+    <item component="ComponentInfo{com.bobek.compass/com.bobek.compass.MainActivity}" drawable="bobek_compass" />
+    <item component="ComponentInfo{com.devhd.feedly/com.devhd.feedly.MainActivity}" drawable="feedly" />
+    <item component="ComponentInfo{eu.livesport.FlashScore_com/eu.livesport.LiveSport_cz.config.core.DefaultLauncher}" drawable="flashscore" />
+    <item component="ComponentInfo{com.simplemobiletools.gallery.pro/com.simplemobiletools.gallery.pro.activities.SplashActivity.Green}" drawable="simplemobiletools_gallery_green" />
+    <item component="ComponentInfo{it.homobile.ho/it.nttdata.vodafonelean.splash.SplashActivity}" drawable="ho" />
+    <item component="ComponentInfo{keepass2android.keepass2android/crc64dd09b2a2e58bb27d.KeePass}" drawable="keepass2android" />
+    <item component="ComponentInfo{it.docplanner/com.app.MainActivity}" drawable="miodottoreit" />
+    <item component="ComponentInfo{com.simplemobiletools.notes.pro/com.simplemobiletools.notes.pro.activities.SplashActivity.Yellow}" drawable="simplemobiletools_notes_yellow" />
+    <item component="ComponentInfo{com.perryoncrack.rez/com.perryoncrack.rez.MainActivity}" drawable="rez_launcher" />
+    <item component="ComponentInfo{org.nixgame.ruler/org.nixgame.ruler.ActivityRuler}" drawable="ruler" />
+    <item component="ComponentInfo{com.shelf.app/com.shelf.app.main.ShelfActivity}" drawable="shelf" />
+    <item component="ComponentInfo{it.subito/it.subito.v2.search.ListingActivity}" drawable="subito" />
+    <item component="ComponentInfo{com.thatsmanmeet.taskyapp/com.thatsmanmeet.taskyapp.MainActivity}" drawable="tasky" />
+    <item component="ComponentInfo{com.simplemobiletools.thankyou/com.simplemobiletools.thankyou.activities.SplashActivity.Orange}" drawable="thank_you" />
+    <item component="ComponentInfo{com.tinder/com.tinder.launch.internal.activities.LoginActivity}" drawable="tinder" />    <item component="ComponentInfo{de.hp.volume/de.hp.volume.Main}" drawable="volume" />
+    <item component="ComponentInfo{com.wallapop/com.wallapop.activities.HomeActivity}" drawable="wallapop" />
+    <item component="ComponentInfo{it.Beta80Group.whereareu/it.Beta80Group.whereareu.SplashActivity}" drawable="where_are_u" />
+    <item component="ComponentInfo{co.wordupapp.app/crc646f45dd7a1b6aab56.SplashScreen}" drawable="wordup" />
+	<item component="ComponentInfo{me.weishu.kernelsu/me.weishu.kernelsu.ui.MainActivity}" drawable="kernelsu" />
 
 </resources>

@@ -1873,5 +1873,27 @@
     <item drawable="textnow" />
     <item drawable="treble_info" />
     <item drawable="tumblr" />
+	<item drawable="andotp" />
+    <item drawable="cake" />
+    <item drawable="simplemobiletools_calendar_blue" />
+    <item drawable="bobek_compass" />
+    <item drawable="feedly" />
+    <item drawable="flashscore" />
+    <item drawable="simplemobiletools_gallery_green" />
+    <item drawable="ho" />
+    <item drawable="keepass2android" />
+    <item drawable="miodottoreit" />
+    <item drawable="simplemobiletools_notes_yellow" />
+    <item drawable="rez_launcher" />
+    <item drawable="ruler" />
+    <item drawable="shelf" />
+    <item drawable="subito" />
+    <item drawable="tasky" />
+    <item drawable="thank_you" />
+    <item drawable="tinder" />
+    <item drawable="volume" />
+    <item drawable="wallapop" />
+    <item drawable="where_are_u" />
+    <item drawable="wordup" />
 
 </resources>

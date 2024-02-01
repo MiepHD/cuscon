@@ -22,7 +22,7 @@
 	<item class="me.mycake.MainActivity" name="cake"/>
 
 	<!-- Calendar -->
-	<item class="com.simplemobiletools.calendar.pro.activities.SplashActivity.Blue" name="calendar"/>
+	<item class="com.simplemobiletools.calendar.pro.activities.SplashActivity.Blue" name="simplemobiletools_calendar_blue"/>
 
 	<!-- Cards With Cats -->
 	<item class="com.dozingcatsoftware.cardswithcats.MainActivity" name="cards_with_cats"/>
@@ -49,7 +49,7 @@
 	<item class="eu.livesport.LiveSport_cz.config.core.DefaultLauncher" name="flashscore"/>
 
 	<!-- Gallery -->
-	<item class="com.simplemobiletools.gallery.pro.activities.SplashActivity.Green" name="gallery"/>
+	<item class="com.simplemobiletools.gallery.pro.activities.SplashActivity.Green" name="simplemobiletools_gallery_green"/>
 
 	<!-- ho. -->
 	<item class="it.nttdata.vodafonelean.splash.SplashActivity" name="ho"/>
@@ -76,7 +76,7 @@
 	<item class="com.wangdaye.mysplash.main.MainActivity" name="mysplash"/>
 
 	<!-- Notes -->
-	<item class="com.simplemobiletools.notes.pro.activities.SplashActivity.Yellow" name="notes"/>
+	<item class="com.simplemobiletools.notes.pro.activities.SplashActivity.Yellow" name="simplemobiletools_notes_yellow"/>
 
 	<!-- PacedBreathing -->
 	<item class="com.mihaibulic.apps.pacedbreathing.MainActivity" name="pacedbreathing"/>

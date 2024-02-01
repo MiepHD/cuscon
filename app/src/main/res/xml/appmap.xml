@@ -1975,5 +1975,28 @@
     <item class="com.tumblr.ui.activity.JumpoffActivity" name="tumblr"/>
     <item class="com.termux.boot.BootActivity" name="termux"/>
     <item class="com.termux.window.TermuxFloatActivity" name="termux"/>
+	<item class="org.shadowice.flocke.andotp.Activities.MainActivity" name="andotp"/>
+    <item class="me.mycake.MainActivity" name="cake"/>
+    <item class="com.simplemobiletools.calendar.pro.activities.SplashActivity.Blue" name="simplemobiletools_calendar_blue"/>
+    <item class="com.bobek.compass.MainActivity" name="bobek_compass"/>
+    <item class="com.devhd.feedly.MainActivity" name="feedly"/>
+    <item class="eu.livesport.LiveSport_cz.config.core.DefaultLauncher" name="flashscore"/>
+    <item class="com.simplemobiletools.gallery.pro.activities.SplashActivity.Green" name="simplemobiletools_gallery_green"/>
+    <item class="it.nttdata.vodafonelean.splash.SplashActivity" name="ho"/>
+    <item class="crc64dd09b2a2e58bb27d.KeePass" name="keepass2android"/>
+    <item class="com.app.MainActivity" name="miodottoreit"/>
+    <item class="com.simplemobiletools.notes.pro.activities.SplashActivity.Yellow" name="simplemobiletools_notes_yellow"/>
+    <item class="com.perryoncrack.rez.MainActivity" name="rez_launcher"/>
+    <item class="org.nixgame.ruler.ActivityRuler" name="ruler"/>
+    <item class="com.shelf.app.main.ShelfActivity" name="shelf"/>
+    <item class="it.subito.v2.search.ListingActivity" name="subito"/>
+    <item class="com.thatsmanmeet.taskyapp.MainActivity" name="tasky"/>
+    <item class="com.simplemobiletools.thankyou.activities.SplashActivity.Orange" name="thank_you"/>
+    <item class="com.tinder.launch.internal.activities.LoginActivity" name="tinder"/>
+    <item class="de.hp.volume.Main" name="volume"/>
+    <item class="com.wallapop.activities.HomeActivity" name="wallapop"/>
+    <item class="it.Beta80Group.whereareu.SplashActivity" name="where_are_u"/>
+    <item class="crc646f45dd7a1b6aab56.SplashScreen" name="wordup"/>
+	<item class="me.weishu.kernelsu.ui.MainActivity" name="kernelsu"/>
 
 </appmap>
