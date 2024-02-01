@@ -1,0 +1,21 @@
+<appmap>
+
+	<!-- Certificado digital FNMT -->
+	<item class="es.fnmtrcm.ceres.certificadoDigitalFNMT.MainActivity" name="certificado_digital_fnmt"/>
+
+	<!-- KFC España -->
+	<item class="com.kfces.orderserv.SplashImageActivity" name="kfc_espana"/>
+
+	<!-- Mercadona -->
+	<item class="es.mercadona.tienda.modules.splash.activity.SplashActivity" name="mercadona"/>
+
+	<!-- Mi Carrefour 3.0 -->
+	<item class="com.munrodev.crfmobile.feature.launch.LaunchActivity" name="mi_carrefour_30"/>
+
+	<!-- Privalia -->
+	<item class="com.venteprivee.features.launcher.VPInitScreen" name="privalia"/>
+
+	<!-- Tarjeta ECI -->
+	<item class="com.iecisa.obfeci.paradigma.presentation.activities.SplashActivity" name="tarjeta_eci"/>
+
+</appmap>

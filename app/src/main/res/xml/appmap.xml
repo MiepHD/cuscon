@@ -1998,5 +1998,9 @@
     <item class="it.Beta80Group.whereareu.SplashActivity" name="where_are_u"/>
     <item class="crc646f45dd7a1b6aab56.SplashScreen" name="wordup"/>
 	<item class="me.weishu.kernelsu.ui.MainActivity" name="kernelsu"/>
+	<item class="es.fnmtrcm.ceres.certificadoDigitalFNMT.MainActivity" name="certificado_digital_fnmt"/>
+    <item class="es.mercadona.tienda.modules.splash.activity.SplashActivity" name="mercadona"/>
+    <item class="com.venteprivee.features.launcher.VPInitScreen" name="privalia"/>
+    <item class="com.iecisa.obfeci.paradigma.presentation.activities.SplashActivity" name="tarjeta_eci"/>
 
 </appmap>

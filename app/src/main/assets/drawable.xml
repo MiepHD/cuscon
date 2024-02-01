@@ -1895,5 +1895,10 @@
     <item drawable="wallapop" />
     <item drawable="where_are_u" />
     <item drawable="wordup" />
+	<item drawable="kernelsu" />
+	<item drawable="certificado_digital_fnmt" />
+    <item drawable="mercadona" />
+    <item drawable="privalia" />
+    <item drawable="tarjeta_eci" />
 
 </resources>

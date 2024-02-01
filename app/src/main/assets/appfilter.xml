@@ -2015,5 +2015,10 @@
     <item component="ComponentInfo{com.wallapop/com.wallapop.activities.HomeActivity}" drawable="wallapop" />
     <item component="ComponentInfo{it.Beta80Group.whereareu/it.Beta80Group.whereareu.SplashActivity}" drawable="where_are_u" />
     <item component="ComponentInfo{co.wordupapp.app/crc646f45dd7a1b6aab56.SplashScreen}" drawable="wordup" />
+	<item component="ComponentInfo{me.weishu.kernelsu/me.weishu.kernelsu.ui.MainActivity}" drawable="kernelsu" />
+	<item component="ComponentInfo{es.fnmtrcm.ceres.certificadoDigitalFNMT/es.fnmtrcm.ceres.certificadoDigitalFNMT.MainActivity}" drawable="certificado_digital_fnmt" />
+    <item component="ComponentInfo{es.mercadona.tienda/es.mercadona.tienda.modules.splash.activity.SplashActivity}" drawable="mercadona" />
+    <item component="ComponentInfo{com.privalia.privalia/com.venteprivee.features.launcher.VPInitScreen}" drawable="privalia" />
+    <item component="ComponentInfo{com.feci.apps/com.iecisa.obfeci.paradigma.presentation.activities.SplashActivity}" drawable="tarjeta_eci" />
 
 </resources>
