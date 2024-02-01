@@ -1907,5 +1907,33 @@
     <item drawable="girls_all_document_reader" />
     <item drawable="ilovepdf" />
     <item drawable="perfect_viewer" />
+	<item drawable="astrology_master" />
+    <item drawable="booksy" />
+    <item drawable="chime" />
+    <item drawable="dominos" />
+    <item drawable="doordash" />
+    <item drawable="expedia" />
+    <item drawable="fire_kirin" />
+    <item drawable="grubhub" />
+    <item drawable="ignition_casino" />
+    <item drawable="jpay" />
+    <item drawable="lyft" />
+    <item drawable="mcdonalds" />
+    <item drawable="mercari" />
+    <item drawable="orion_browser" />
+    <item drawable="pizza_hut" />
+    <item drawable="poshmark" />
+    <item drawable="priceline" />
+    <item drawable="securus_mobile" />
+    <item drawable="telegram_premium" />
+    <item drawable="thredup" />
+    <item drawable="tuesdays" />
+    <item drawable="turbo_vpn" />
+    <item drawable="upastro" />
+    <item drawable="varo_bank" />
+    <item drawable="venmo" />
+    <item drawable="walmart" />
+    <item drawable="webapk_thredup" />
+    <item drawable="wish" />
 
 </resources>

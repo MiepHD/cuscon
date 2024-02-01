@@ -1,0 +1,6 @@
+<Theme version="1">
+
+	<!-- 電話 -->
+	<AppIcon name="com.android.dialer/com.android.dialer.app.DialtactsActivity" image="電話"/>
+
+</Theme>

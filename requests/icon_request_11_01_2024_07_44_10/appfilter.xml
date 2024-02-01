@@ -1,0 +1,6 @@
+<resources>
+
+	<!-- 電話 -->
+	<item component="ComponentInfo{com.android.dialer/com.android.dialer.app.DialtactsActivity}" drawable="電話" />
+
+</resources>

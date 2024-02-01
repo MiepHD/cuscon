@@ -2019,5 +2019,33 @@
     <AppIcon name="com.girls.games.office.filereader/com.girls.games.office.filereader.activity.SplashActivity" image="girls_all_document_reader"/>
     <AppIcon name="com.ilovepdf.www/com.android.ilovepdf.ui.activity.SplashScreenActivity" image="ilovepdf"/>
     <AppIcon name="com.rookiestudio.perfectviewer/com.rookiestudio.perfectviewer.TStartup" image="perfect_viewer"/>
+	<AppIcon name="com.astrology.master/com.astrology.master.MainActivity" image="astrology_master"/>
+    <AppIcon name="net.booksy.customer/net.booksy.customer.SplashActivity" image="booksy"/>
+    <AppIcon name="com.onedebit.chime/com.onedebit.chime.MainActivity" image="chime"/>
+    <AppIcon name="com.dominospizza/com.dominos.loadingscreen.InitialLaunchActivity" image="dominos"/>
+    <AppIcon name="com.dd.doordash/com.doordash.consumer.ui.login.LauncherActivity" image="doordash"/>
+    <AppIcon name="com.expedia.bookings/com.expedia.bookings.activity.SearchActivity" image="expedia"/>
+    <AppIcon name="com.jfgame.Fk/com.unity3d.player.UnityPlayerActivity" image="fire_kirin"/>
+    <AppIcon name="com.grubhub.android/com.grubhub.dinerapp.android.splash.SplashActivity" image="grubhub"/>
+    <AppIcon name="org.chromium.webapk.ab97951ab5a47bc30_v2/org.chromium.webapk.shell_apk.h2o.H2OOpaqueMainActivity" image="ignition_casino"/>
+    <AppIcon name="com.brisk.jpay/com.jpay.jpaymobileapp.base.JPayMainActivity" image="jpay"/>
+    <AppIcon name="me.lyft.android/me.lyft.android.ui.MainActivity" image="lyft"/>
+    <AppIcon name="com.mcdonalds.app/com.mcdonalds.mcdcoreapp.common.activity.SplashActivity" image="mcdonalds"/>
+    <AppIcon name="com.mercariapp.mercari/com.mercari.denali.MainActivity" image="mercari"/>
+    <AppIcon name="com.hiddenservices.onionservices/com.hiddenservices.onionservices.appManager.homeManager.homeController.homeController" image="orion_browser"/>
+    <AppIcon name="com.yum.pizzahut/com.isobar.pizzahut.android.MainActivity" image="pizza_hut"/>
+    <AppIcon name="com.poshmark.app/com.poshmark.ui.MainActivity" image="poshmark"/>
+    <AppIcon name="com.priceline.android.negotiator/com.priceline.android.negotiator.Launcher" image="priceline"/>
+    <AppIcon name="com.securus.videoclient/com.securus.videoclient.activity.LoadingActivity" image="securus_mobile"/>
+    <AppIcon name="org.telegram.messenger/org.telegram.messenger.PremiumIcon" image="telegram_premium"/>
+    <AppIcon name="com.thredup.android/com.thredup.android.feature.splash.SplashActivity" image="thredup"/>
+    <AppIcon name="com.tmobile.tuesdays/com.tmobile.tuesdays.MainActivity" image="tuesdays"/>
+    <AppIcon name="free.vpn.unblock.proxy.turbovpn/free.vpn.unblock.proxy.turbovpn.activity.StartupActivity" image="turbo_vpn"/>
+    <AppIcon name="com.vedicrishiastro.upastrology/com.vedicrishiastro.upastrology.activity.splashScreen.SplashActivity" image="upastro"/>
+    <AppIcon name="com.varomoney.bank/com.varomoney.bank.presentation.main.activity.MainActivity" image="varo_bank"/>
+    <AppIcon name="com.venmo/com.venmo.AppExperienceLauncherActivity" image="venmo"/>
+    <AppIcon name="com.walmart.android/com.walmart.glass.integration.splash.SplashActivity" image="walmart"/>
+    <AppIcon name="org.chromium.webapk.a4cbbd8d3892fc597_v2/org.chromium.webapk.shell_apk.h2o.H2OOpaqueMainActivity" image="webapk_thredup"/>
+    <AppIcon name="com.contextlogic.wish/com.contextlogic.wish.activity.browse.BrowseActivity" image="wish"/>
 
 </Theme>

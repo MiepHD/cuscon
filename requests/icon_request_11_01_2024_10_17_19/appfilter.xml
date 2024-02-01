@@ -1,0 +1,57 @@
+<resources>
+
+	<!-- Adobe Photoshop Express -->
+	<item component="ComponentInfo{com.adobe.psmobile/com.adobe.psmobile.SplashScreen}" drawable="adobe_photoshop_express" />
+
+	<!-- Calculator -->
+	<item component="ComponentInfo{com.coloros.calculator/com.android.calculator2.Calculator}" drawable="calculator" />
+
+	<!-- Camera -->
+	<item component="ComponentInfo{com.oplus.camera/com.oplus.camera.Camera}" drawable="camera" />
+
+	<!-- Clock -->
+	<item component="ComponentInfo{com.coloros.alarmclock/com.oplus.alarmclock.AlarmClock}" drawable="clock" />
+
+	<!-- Community -->
+	<item component="ComponentInfo{com.realmecomm.app/com.android.realme2.start.view.AdvertiseActivity}" drawable="community" />
+
+	<!-- Compass -->
+	<item component="ComponentInfo{com.coloros.compass2/com.coloros.compass.flat.FlatCompass}" drawable="compass" />
+
+	<!-- DooFlix -->
+	<item component="ComponentInfo{com.chatbot.robochatai/com.dooflixapkv2.in.SplashScreenActivity}" drawable="dooflix" />
+
+	<!-- Games -->
+	<item component="ComponentInfo{com.oplus.games/com.oplus.games.ui.main.MainGameActivity}" drawable="games" />
+
+	<!-- Jupiter -->
+	<item component="ComponentInfo{money.jupiter/com.zoontek.rnbootsplash.RNBootSplashActivity}" drawable="jupiter" />
+
+	<!-- Music -->
+	<item component="ComponentInfo{com.heytap.music/com.nearme.music.splash.SplashActivity}" drawable="music" />
+
+	<!-- My Files -->
+	<item component="ComponentInfo{com.coloros.filemanager/com.oplus.filemanager.main.ui.MainActivity}" drawable="my_files" />
+
+	<!-- Phone Manager -->
+	<item component="ComponentInfo{com.coloros.phonemanager/com.coloros.phonemanager.FakeActivity}" drawable="phone_manager" />
+
+	<!-- Photos -->
+	<item component="ComponentInfo{com.coloros.gallery3d/com.coloros.gallery3d.app.MainActivity}" drawable="photos" />
+
+	<!-- Recorder -->
+	<item component="ComponentInfo{com.coloros.soundrecorder/com.soundrecorder.browsefile.BrowseFile}" drawable="recorder" />
+
+	<!-- Theme Store -->
+	<item component="ComponentInfo{com.oplus.themestore/com.nearme.themespace.activities.ThemeActivity}" drawable="theme_store" />
+
+	<!-- UNO -->
+	<item component="ComponentInfo{com.matteljv.uno/com.netease.uno.CustomOverrideActivity}" drawable="uno" />
+
+	<!-- Videos -->
+	<item component="ComponentInfo{com.coloros.video/com.oplus.video.ui.VideoListActivity}" drawable="videos" />
+
+	<!-- Weather -->
+	<item component="ComponentInfo{com.coloros.weather2/com.oplus.weather.main.view.WeatherMainActivity}" drawable="weather" />
+
+</resources>

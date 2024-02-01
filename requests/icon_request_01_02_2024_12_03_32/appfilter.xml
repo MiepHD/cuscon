@@ -1,0 +1,182 @@
+<resources>
+
+	<!-- 0h h1 -->
+	<item component="ComponentInfo{com.q42.ohhi/com.q42.ohhi.MainActivity}" drawable="_0h_h1" />
+
+	<!-- Super Resolution Scaler(waifu2x) -->
+	<item component="ComponentInfo{com.kaede_software.superresolutionwaifu2x/com.kaede_software.superresolutionwaifu2x.SdFileListActivity}" drawable="super_resolution_scaler_waifu2x_" />
+
+	<!-- 7Zipper -->
+	<item component="ComponentInfo{org.joa.zipperplus7/org.joa.zipperplus7.StartPageActivity}" drawable="_7zipper" />
+
+	<!-- 8Vim -->
+	<item component="ComponentInfo{inc.flide.vi8/inc.flide.vim8.SettingsLauncherAlias}" drawable="_8vim" />
+
+	<!-- カメラ -->
+	<item component="ComponentInfo{com.oppo.camera/com.oppo.camera.Camera}" drawable="カメラ" />
+
+	<!-- ギャラリー -->
+	<item component="ComponentInfo{com.simplemobiletools.gallery.pro/com.simplemobiletools.gallery.pro.activities.SplashActivity.Teal}" drawable="ギャラリ" />
+
+	<!-- コンパス -->
+	<item component="ComponentInfo{com.coloros.compass2/com.coloros.compass.flat.FlatCompass}" drawable="コンパス" />
+
+	<!-- テーマストア -->
+	<item component="ComponentInfo{com.heytap.themestore/com.nearme.themespace.activities.ThemeActivity}" drawable="テマストア" />
+
+	<!-- File Manager -->
+	<item component="ComponentInfo{com.coloros.filemanager/com.coloros.filemanager.filerefactor.ui.main.MainActivity}" drawable="file_manager" />
+
+	<!-- メッセージ -->
+	<item component="ComponentInfo{com.android.mms/com.android.mms.ui.ConversationList}" drawable="メッセジ" />
+
+	<!-- Calculator -->
+	<item component="ComponentInfo{com.coloros.calculator/com.android.calculator2.Calculator}" drawable="calculator" />
+
+	<!-- 電話 -->
+	<item component="ComponentInfo{com.android.contacts/com.android.contacts.DialtactsActivityAlias}" drawable="電話" />
+
+	<!-- I Can't Wake Up! Alarm Clock -->
+	<item component="ComponentInfo{com.kog.alarmclock/com.n7mobile.icantwakeup.ui.MainActivity}" drawable="i_cant_wake_up_alarm_clock" />
+
+	<!-- AndFTP -->
+	<item component="ComponentInfo{lysesoft.andftp/lysesoft.andftp.SplashActivity}" drawable="andftp" />
+
+	<!-- Avast Mobile Security -->
+	<item component="ComponentInfo{com.avast.android.mobilesecurity/com.avast.android.one.base.ui.main.MainActivity}" drawable="avast_mobile_security" />
+
+	<!-- Bejeweled3 -->
+	<item component="ComponentInfo{com.trans.bejeweled3/com.trans.bejeweled3.Bejeweled3}" drawable="bejeweled3" />
+
+	<!-- CommBank -->
+	<item component="ComponentInfo{com.commbank.netbank/com.commbank.netbank.application.MainActivity}" drawable="commbank" />
+
+	<!-- Desmos -->
+	<item component="ComponentInfo{com.desmos.calculator/com.desmos.calculator.MainActivity}" drawable="desmos" />
+
+	<!-- dotpict -->
+	<item component="ComponentInfo{net.dotpicko.dotpict/net.dotpicko.dotpict.RoutingActivity}" drawable="dotpict" />
+
+	<!-- DualWallpaper -->
+	<item component="ComponentInfo{de.dlyt.yanndroid.dualwallpaper/de.dlyt.yanndroid.dualwallpaper.ui.activity.MainActivity}" drawable="dualwallpaper" />
+
+	<!-- DuckStation -->
+	<item component="ComponentInfo{com.github.stenzek.duckstation/com.github.stenzek.duckstation.MainActivity}" drawable="duckstation" />
+
+	<!-- Easy xkcd -->
+	<item component="ComponentInfo{de.tap.easy_xkcd/de.tap.easy_xkcd.mainActivity.MainActivity}" drawable="easy_xkcd" />
+
+	<!-- easypose -->
+	<item component="ComponentInfo{com.madcat.easyposer/com.unity3d.player.UnityPlayerActivity}" drawable="easypose" />
+
+	<!-- FamiStudio -->
+	<item component="ComponentInfo{org.famistudio/crc64a10958aa5b7794e0.FamiStudioWindow}" drawable="famistudio" />
+
+	<!-- FreeOTP+ -->
+	<item component="ComponentInfo{org.liberty.android.freeotpplus/org.fedorahosted.freeotp.ui.MainActivity}" drawable="freeotp_" />
+
+	<!-- Gacha Life -->
+	<item component="ComponentInfo{air.com.lunime.gachalife/air.com.lunime.gachalife.AIRAppEntry}" drawable="gacha_life" />
+
+	<!-- GIFShop -->
+	<item component="ComponentInfo{com.gif.gifmaker/com.gif.gifmaker.ui.splash.SplashScreen}" drawable="gifshop" />
+
+	<!-- Hacker's Keyboard -->
+	<item component="ComponentInfo{org.pocketworkstation.pckeyboard/org.pocketworkstation.pckeyboard.Main}" drawable="hackers_keyboard" />
+
+	<!-- Keyman -->
+	<item component="ComponentInfo{com.tavultesoft.kmapro/com.tavultesoft.kmapro.SplashScreenActivity}" drawable="keyman" />
+
+	<!-- LINE -->
+	<item component="ComponentInfo{jp.naver.line.android/jp.naver.line.android.activity.SplashActivity}" drawable="line" />
+
+	<!-- Lovense Remote -->
+	<item component="ComponentInfo{com.lovense.wear/com.wear.main.FlashActivity}" drawable="lovense_remote" />
+
+	<!-- MediaFire -->
+	<item component="ComponentInfo{com.mediafire.android/com.mediafire.android.MainActivity}" drawable="mediafire" />
+
+	<!-- melonDS -->
+	<item component="ComponentInfo{me.magnum.melonds/me.magnum.melonds.ui.romlist.RomListActivity}" drawable="melonds" />
+
+	<!-- Metronome -->
+	<item component="ComponentInfo{com.eumlab.android.prometronome/com.eumlab.prometronome.MainActivity}" drawable="metronome" />
+
+	<!-- Minesweeper -->
+	<item component="ComponentInfo{ee.dustland.android.minesweeper/ee.dustland.android.minesweeper.MinesweeperHostActivity}" drawable="minesweeper" />
+
+	<!-- Mitch -->
+	<item component="ComponentInfo{ua.gardenapple.itchupdater/garden.appl.mitch.ui.MainActivity}" drawable="mitch" />
+
+	<!-- Multiling O Keyboard -->
+	<item component="ComponentInfo{kl.ime.oh/kl.ime.oh.M}" drawable="multiling_o_keyboard" />
+
+	<!-- Night Filter -->
+	<item component="ComponentInfo{com.digipom.nightfilter/com.digipom.nightfilter.activity.StartActivity}" drawable="night_filter" />
+
+	<!-- Opera GX -->
+	<item component="ComponentInfo{com.opera.gx/com.opera.gx.MainActivity}" drawable="opera_gx" />
+
+	<!-- Barcode Scanner -->
+	<item component="ComponentInfo{com.google.zxing.client.android/com.google.zxing.client.android.CaptureActivity}" drawable="barcode_scanner" />
+
+	<!-- QuickEdit -->
+	<item component="ComponentInfo{com.rhmsoft.edit/com.rhmsoft.edit.activity.MainActivity}" drawable="quickedit" />
+
+	<!-- Replit -->
+	<item component="ComponentInfo{com.replit.app/com.replit.app.MainActivity}" drawable="replit" />
+
+	<!-- Revolt -->
+	<item component="ComponentInfo{chat.revolt.app.twa/chat.revolt.app.twa.LauncherActivity}" drawable="revolt" />
+
+	<!-- Screen Master -->
+	<item component="ComponentInfo{pro.capture.screenshot/pro.capture.screenshot.activity.SplashActivity}" drawable="screen_master" />
+
+	<!-- Senreta Vortaro -->
+	<item component="ComponentInfo{org.mcxa.vortaro/org.mcxa.vortaro.MainActivity}" drawable="senreta_vortaro" />
+
+	<!-- Simple Weight Tracker -->
+	<item component="ComponentInfo{com.gmail.makasewicz.maciej/com.gmail.makasewicz.maciej.ui.activity.MainActivity}" drawable="simple_weight_tracker" />
+
+	<!-- spacedesk -->
+	<item component="ComponentInfo{ph.spacedesk.beta/ph.spacedesk.httpwww.spacedesk.SAActivityConnect}" drawable="spacedesk" />
+
+	<!-- Spell4Wiki -->
+	<item component="ComponentInfo{com.manimarank.spell4wiki/com.manimarank.spell4wiki.ui.splash.SplashActivity}" drawable="spell4wiki" />
+
+	<!-- Square Pic -->
+	<item component="ComponentInfo{nocrop.photoeditor.squarepic/com.shamble.instafit.SplashActivity}" drawable="square_pic" />
+
+	<!-- tenki.jp -->
+	<item component="ComponentInfo{jwa.or.jp.tenkijp3/jwa.or.jp.tenkijp3.SplashActivity}" drawable="tenkijp" />
+
+	<!-- Tinder -->
+	<item component="ComponentInfo{com.tinder/com.tinder.launch.internal.activities.LoginActivity}" drawable="tinder" />
+
+	<!-- translator
+ -->
+	<item component="ComponentInfo{de.monocles.translator/de.monocles.translator.ui.MainActivity}" drawable="translator
+" />
+
+	<!-- Tumblr -->
+	<item component="ComponentInfo{com.tumblr/com.tumblr.ui.activity.JumpoffActivity}" drawable="tumblr" />
+
+	<!-- TunnelBear -->
+	<item component="ComponentInfo{com.tunnelbear.android/com.tunnelbear.android.mvvmReDesign.NavGraphActivity}" drawable="tunnelbear" />
+
+	<!-- Twitch -->
+	<item component="ComponentInfo{tv.twitch.android.app/tv.twitch.android.app.core.LandingActivity}" drawable="twitch" />
+
+	<!-- UnicodePad -->
+	<item component="ComponentInfo{jp.ddo.hotmist.unicodepad/jp.ddo.hotmist.unicodepad.UnicodeActivity}" drawable="unicodepad" />
+
+	<!-- Vendetta -->
+	<item component="ComponentInfo{dev.beefers.vendetta/com.discord.main.MainDefault}" drawable="vendetta" />
+
+	<!-- Vendetta Manager -->
+	<item component="ComponentInfo{dev.beefers.vendetta.manager/dev.beefers.vendetta.manager.ui.activity.MainActivity}" drawable="vendetta_manager" />
+
+	<!-- Wordfeud -->
+	<item component="ComponentInfo{com.hbwares.wordfeud.free/com.hbwares.wordfeud.ui.WordFeudActivity}" drawable="wordfeud" />
+
+</resources>

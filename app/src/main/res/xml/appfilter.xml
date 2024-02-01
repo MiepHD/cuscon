@@ -2027,5 +2027,33 @@
     <item component="ComponentInfo{com.girls.games.office.filereader/com.girls.games.office.filereader.activity.SplashActivity}" drawable="girls_all_document_reader" />
     <item component="ComponentInfo{com.ilovepdf.www/com.android.ilovepdf.ui.activity.SplashScreenActivity}" drawable="ilovepdf" />
     <item component="ComponentInfo{com.rookiestudio.perfectviewer/com.rookiestudio.perfectviewer.TStartup}" drawable="perfect_viewer" />
+	<item component="ComponentInfo{com.astrology.master/com.astrology.master.MainActivity}" drawable="astrology_master" />
+    <item component="ComponentInfo{net.booksy.customer/net.booksy.customer.SplashActivity}" drawable="booksy" />
+    <item component="ComponentInfo{com.onedebit.chime/com.onedebit.chime.MainActivity}" drawable="chime" />
+    <item component="ComponentInfo{com.dominospizza/com.dominos.loadingscreen.InitialLaunchActivity}" drawable="dominos" />
+    <item component="ComponentInfo{com.dd.doordash/com.doordash.consumer.ui.login.LauncherActivity}" drawable="doordash" />
+    <item component="ComponentInfo{com.expedia.bookings/com.expedia.bookings.activity.SearchActivity}" drawable="expedia" />
+    <item component="ComponentInfo{com.jfgame.Fk/com.unity3d.player.UnityPlayerActivity}" drawable="fire_kirin" />
+    <item component="ComponentInfo{com.grubhub.android/com.grubhub.dinerapp.android.splash.SplashActivity}" drawable="grubhub" />
+    <item component="ComponentInfo{org.chromium.webapk.ab97951ab5a47bc30_v2/org.chromium.webapk.shell_apk.h2o.H2OOpaqueMainActivity}" drawable="ignition_casino" />
+    <item component="ComponentInfo{com.brisk.jpay/com.jpay.jpaymobileapp.base.JPayMainActivity}" drawable="jpay" />
+    <item component="ComponentInfo{me.lyft.android/me.lyft.android.ui.MainActivity}" drawable="lyft" />
+    <item component="ComponentInfo{com.mcdonalds.app/com.mcdonalds.mcdcoreapp.common.activity.SplashActivity}" drawable="mcdonalds" />
+    <item component="ComponentInfo{com.mercariapp.mercari/com.mercari.denali.MainActivity}" drawable="mercari" />
+    <item component="ComponentInfo{com.hiddenservices.onionservices/com.hiddenservices.onionservices.appManager.homeManager.homeController.homeController}" drawable="orion_browser" />
+    <item component="ComponentInfo{com.yum.pizzahut/com.isobar.pizzahut.android.MainActivity}" drawable="pizza_hut" />
+    <item component="ComponentInfo{com.poshmark.app/com.poshmark.ui.MainActivity}" drawable="poshmark" />
+    <item component="ComponentInfo{com.priceline.android.negotiator/com.priceline.android.negotiator.Launcher}" drawable="priceline" />
+    <item component="ComponentInfo{com.securus.videoclient/com.securus.videoclient.activity.LoadingActivity}" drawable="securus_mobile" />
+    <item component="ComponentInfo{org.telegram.messenger/org.telegram.messenger.PremiumIcon}" drawable="telegram_premium" />
+    <item component="ComponentInfo{com.thredup.android/com.thredup.android.feature.splash.SplashActivity}" drawable="thredup" />
+    <item component="ComponentInfo{com.tmobile.tuesdays/com.tmobile.tuesdays.MainActivity}" drawable="tuesdays" />
+    <item component="ComponentInfo{free.vpn.unblock.proxy.turbovpn/free.vpn.unblock.proxy.turbovpn.activity.StartupActivity}" drawable="turbo_vpn" />
+    <item component="ComponentInfo{com.vedicrishiastro.upastrology/com.vedicrishiastro.upastrology.activity.splashScreen.SplashActivity}" drawable="upastro" />
+    <item component="ComponentInfo{com.varomoney.bank/com.varomoney.bank.presentation.main.activity.MainActivity}" drawable="varo_bank" />
+    <item component="ComponentInfo{com.venmo/com.venmo.AppExperienceLauncherActivity}" drawable="venmo" />
+    <item component="ComponentInfo{com.walmart.android/com.walmart.glass.integration.splash.SplashActivity}" drawable="walmart" />
+    <item component="ComponentInfo{org.chromium.webapk.a4cbbd8d3892fc597_v2/org.chromium.webapk.shell_apk.h2o.H2OOpaqueMainActivity}" drawable="webapk_thredup" />
+    <item component="ComponentInfo{com.contextlogic.wish/com.contextlogic.wish.activity.browse.BrowseActivity}" drawable="wish" />
 
 </resources>

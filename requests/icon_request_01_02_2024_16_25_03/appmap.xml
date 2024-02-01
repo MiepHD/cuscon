@@ -1,0 +1,24 @@
+<appmap>
+
+	<!-- BIO COMPANY -->
+	<item class="com.biocompany.bcapp.MainActivity" name="bio_company"/>
+
+	<!-- Caffeinate -->
+	<item class="xyz.omnicron.caffeinate.MainActivity" name="caffeinate"/>
+
+	<!-- DAZN -->
+	<item class="com.dazn.splash.view.SplashScreenActivity" name="dazn"/>
+
+	<!-- ImmoScout24 -->
+	<item class="de.is24.mobile.splash.SplashScreenActivity" name="immoscout24"/>
+
+	<!-- Sportschau -->
+	<item class="com.sportschaunext.SplashActivity" name="sportschau"/>
+
+	<!-- Tile -->
+	<item class="com.thetileapp.tile.activities.MainActivity" name="tile"/>
+
+	<!-- WOW -->
+	<item class="com.nowtv.startup.StartupActivity" name="wow"/>
+
+</appmap>

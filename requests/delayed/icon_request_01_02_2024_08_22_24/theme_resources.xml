@@ -1,0 +1,177 @@
+<Theme version="1">
+
+	<!-- °SOUND° -->
+	<AppIcon name="sound.beautifier.bluetooth.music.more.bass.low.volume/sound.beautifier.bluetooth.music.more.bass.low.volume.MiserableUseless" image="_sound_"/>
+
+	<!-- Astrology Master -->
+	<AppIcon name="com.astrology.master/com.astrology.master.MainActivity" image="astrology_master"/>
+
+	<!-- AstroMatrix -->
+	<AppIcon name="io.cordova.astromatrix/io.cordova.astromatrix.MainActivity" image="astromatrix"/>
+
+	<!-- Booksy -->
+	<AppIcon name="net.booksy.customer/net.booksy.customer.SplashActivity" image="booksy"/>
+
+	<!-- CashFrenzy -->
+	<AppIcon name="com.noble777.test/org.cocos2dx.javascript.AppActivity" image="cashfrenzy"/>
+
+	<!-- Chime -->
+	<AppIcon name="com.onedebit.chime/com.onedebit.chime.MainActivity" image="chime"/>
+
+	<!-- Domino's -->
+	<AppIcon name="com.dominospizza/com.dominos.loadingscreen.InitialLaunchActivity" image="dominos"/>
+
+	<!-- DoorDash -->
+	<AppIcon name="com.dd.doordash/com.doordash.consumer.ui.login.LauncherActivity" image="doordash"/>
+
+	<!-- Expedia -->
+	<AppIcon name="com.expedia.bookings/com.expedia.bookings.activity.SearchActivity" image="expedia"/>
+
+	<!-- Family Link -->
+	<AppIcon name="com.google.android.apps.kids.familylink/com.google.android.apps.kids.familylink.flutter.standalone.HomeActivity" image="family_link"/>
+
+	<!-- FIRE KIRIN -->
+	<AppIcon name="com.jfgame.Fk/com.unity3d.player.UnityPlayerActivity" image="fire_kirin"/>
+
+	<!-- Game Room -->
+	<AppIcon name="org.cocos2d.demo/org.cocos2dx.javascript.AppActivity" image="game_room"/>
+
+	<!-- Game Vault -->
+	<AppIcon name="com.game.GameVault/com.game.GameVault.hall.MainActivity" image="game_vault"/>
+
+	<!-- Grubhub -->
+	<AppIcon name="com.grubhub.android/com.grubhub.dinerapp.android.splash.SplashActivity" image="grubhub"/>
+
+	<!-- HIGH ROLLER -->
+	<AppIcon name="com.jfgame.HighRoller/com.unity3d.player.UnityPlayerActivity" image="high_roller"/>
+
+	<!-- Human Design -->
+	<AppIcon name="com.upriselabs.stella/com.upriselabs.stella.MainActivity" image="human_design"/>
+
+	<!-- Ignition casino -->
+	<AppIcon name="org.chromium.webapk.ab97951ab5a47bc30_v2/org.chromium.webapk.shell_apk.h2o.H2OOpaqueMainActivity" image="ignition_casino"/>
+
+	<!-- JPay -->
+	<AppIcon name="com.brisk.jpay/com.jpay.jpaymobileapp.base.JPayMainActivity" image="jpay"/>
+
+	<!-- JUWA -->
+	<AppIcon name="com.juwa.dianwan/com.juwa.dianwan.hall.MainActivity" image="juwa"/>
+
+	<!-- LandGlide -->
+	<AppIcon name="com.reportallusa.landglide/com.reportallusa.landglide.MainActivity" image="landglide"/>
+
+	<!-- Link to Windows -->
+	<AppIcon name="com.microsoft.appmanager/com.microsoft.appmanager.StartUpCoreActivity" image="link_to_windows"/>
+
+	<!-- Lyft -->
+	<AppIcon name="me.lyft.android/me.lyft.android.ui.MainActivity" image="lyft"/>
+
+	<!-- Mafia -->
+	<AppIcon name="com.mafia77777.www/org.cocos2dx.javascript.AppActivity" image="mafia"/>
+
+	<!-- McDonald's -->
+	<AppIcon name="com.mcdonalds.app/com.mcdonalds.mcdcoreapp.common.activity.SplashActivity" image="mcdonalds"/>
+
+	<!-- Mercari -->
+	<AppIcon name="com.mercariapp.mercari/com.mercari.denali.MainActivity" image="mercari"/>
+
+	<!-- MILKY WAY -->
+	<AppIcon name="com.jfgame.MilkyWay/com.unity3d.player.UnityPlayerActivity" image="milky_way"/>
+
+	<!-- MobilePatrol -->
+	<AppIcon name="com.appriss.mobilepatrol/com.appriss.mobilepatrol.MainActivity" image="mobilepatrol"/>
+
+	<!-- My​Metro -->
+	<AppIcon name="com.nuance.nmc.sihome.metropcs/com.nuance.nmc.sihome.metropcs.myMetro" image="my​metro"/>
+
+	<!-- Nebula -->
+	<AppIcon name="genesis.nebula/genesis.nebula.module.activity.MainActivity" image="nebula"/>
+
+	<!-- Noble -->
+	<AppIcon name="com.gameroom.www/org.cocos2dx.javascript.AppActivity" image="noble"/>
+
+	<!-- OfferUp -->
+	<AppIcon name="com.offerup/com.offerup.MainActivity" image="offerup"/>
+
+	<!-- Orion Browser -->
+	<AppIcon name="com.hiddenservices.onionservices/com.hiddenservices.onionservices.appManager.homeManager.homeController.homeController" image="orion_browser"/>
+
+	<!-- OrionStars -->
+	<AppIcon name="com.jfgame.OrionStars/com.unity3d.player.UnityPlayerActivity" image="orionstars"/>
+
+	<!-- PandaMaster -->
+	<AppIcon name="com.jfgame.PandaMaster/com.unity3d.player.UnityPlayerActivity" image="pandamaster"/>
+
+	<!-- Pixel Tips -->
+	<AppIcon name="com.google.android.apps.tips/com.google.android.apps.tips.TipsMain" image="pixel_tips"/>
+
+	<!-- Pizza Hut -->
+	<AppIcon name="com.yum.pizzahut/com.isobar.pizzahut.android.MainActivity" image="pizza_hut"/>
+
+	<!-- Poshmark -->
+	<AppIcon name="com.poshmark.app/com.poshmark.ui.MainActivity" image="poshmark"/>
+
+	<!-- PREQUEL -->
+	<AppIcon name="com.prequel.app/com.prequel.app.ui.SplashActivity" image="prequel"/>
+
+	<!-- Priceline -->
+	<AppIcon name="com.priceline.android.negotiator/com.priceline.android.negotiator.Launcher" image="priceline"/>
+
+	<!-- RiverDragon -->
+	<AppIcon name="com.daz.riverdragon/com.daz.riverdragon.LoginActivity" image="riverdragon"/>
+
+	<!-- Rude Karma -->
+	<AppIcon name="com.rudekarma.com.rudekarma/com.rudekarma.com.rudekarma.MainActivity" image="rude_karma"/>
+
+	<!-- Scanner Radio -->
+	<AppIcon name="com.scannerradio/com.scannerradio.ui.main.MainActivity" image="scanner_radio"/>
+
+	<!-- Securus Mobile -->
+	<AppIcon name="com.securus.videoclient/com.securus.videoclient.activity.LoadingActivity" image="securus_mobile"/>
+
+	<!-- SIRIUS -->
+	<AppIcon name="com.ghwyugdhjsghjd.hgfgdfsgf/com.ghwyugdhjsghjd.hgfgdfsgf.hall.MainActivity" image="sirius"/>
+
+	<!-- Telegram -->
+	<AppIcon name="org.telegram.messenger/org.telegram.messenger.PremiumIcon" image="telegram_premium"/>
+
+	<!-- Texas Lottery -->
+	<AppIcon name="com.texas.lottery/com.texas.lottery.MainActivity" image="texas_lottery"/>
+
+	<!-- Themify -->
+	<AppIcon name="themify.aesthetic.themes.widget.wallpaper.app.icon.changer.pack/com.aiby.themify.ui.MainActivity" image="themify"/>
+
+	<!-- thredUP -->
+	<AppIcon name="com.thredup.android/com.thredup.android.feature.splash.SplashActivity" image="thredup"/>
+
+	<!-- thredUP -->
+	<AppIcon name="org.chromium.webapk.a4cbbd8d3892fc597_v2/org.chromium.webapk.shell_apk.h2o.H2OOpaqueMainActivity" image="webapk_thredup"/>
+
+	<!-- Tuesdays -->
+	<AppIcon name="com.tmobile.tuesdays/com.tmobile.tuesdays.MainActivity" image="tuesdays"/>
+
+	<!-- Turbo VPN -->
+	<AppIcon name="free.vpn.unblock.proxy.turbovpn/free.vpn.unblock.proxy.turbovpn.activity.StartupActivity" image="turbo_vpn"/>
+
+	<!-- Upastro -->
+	<AppIcon name="com.vedicrishiastro.upastrology/com.vedicrishiastro.upastrology.activity.splashScreen.SplashActivity" image="upastro"/>
+
+	<!-- Varo Bank -->
+	<AppIcon name="com.varomoney.bank/com.varomoney.bank.presentation.main.activity.MainActivity" image="varo_bank"/>
+
+	<!-- VEGAS SWEEPS -->
+	<AppIcon name="com.lasvegassweeps.Game/com.lasvegassweeps.Game.hall.MainActivity" image="vegas_sweeps"/>
+
+	<!-- Venmo -->
+	<AppIcon name="com.venmo/com.venmo.AppExperienceLauncherActivity" image="venmo"/>
+
+	<!-- Walmart -->
+	<AppIcon name="com.walmart.android/com.walmart.glass.integration.splash.SplashActivity" image="walmart"/>
+
+	<!-- Wish -->
+	<AppIcon name="com.contextlogic.wish/com.contextlogic.wish.activity.browse.BrowseActivity" image="wish"/>
+
+	<!-- Z-Lib -->
+	<AppIcon name="com.positron_it.zlib/com.positron_it.zlib.ui.splash.SplashActivity" image="z_lib"/>
+
+</Theme>

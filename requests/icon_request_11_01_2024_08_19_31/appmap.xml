@@ -1,0 +1,12 @@
+<appmap>
+
+	<!-- CPU Info -->
+	<item class="com.kgurgul.cpuinfo.features.HostActivity" name="cpu_info"/>
+
+	<!-- LibreTube -->
+	<item class="com.github.libretube.IconLegacy" name="libretube"/>
+
+	<!-- OpenKeychain -->
+	<item class="org.sufficientlysecure.keychain.ui.MainActivity" name="openkeychain"/>
+
+</appmap>

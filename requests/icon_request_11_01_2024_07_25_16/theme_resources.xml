@@ -1,0 +1,42 @@
+<Theme version="1">
+
+	<!-- ギャラリー -->
+	<AppIcon name="com.simplemobiletools.gallery.pro/com.simplemobiletools.gallery.pro.activities.SplashActivity.Purple" image="ギャラリー"/>
+
+	<!-- メール -->
+	<AppIcon name="jp.co.yahoo.android.ymobile.mail/jp.co.yahoo.android.ymobile.mail.ui.SplashActivity" image="メール"/>
+
+	<!-- 四駆伝説 -->
+	<AppIcon name="com.twitchyfinger.google.minilegend/com.unity3d.player.UnityPlayerActivity" image="四駆伝説"/>
+
+	<!-- Acode -->
+	<AppIcon name="com.foxdebug.acode/com.foxdebug.acode.MainActivity" image="acode"/>
+
+	<!-- Clipious -->
+	<AppIcon name="com.github.lamarios.clipious/com.github.lamarios.clipious.MainActivity" image="clipious"/>
+
+	<!-- Fake Traveler -->
+	<AppIcon name="cl.coders.faketraveler/cl.coders.faketraveler.MainActivity" image="fake_traveler"/>
+
+	<!-- HexViewer -->
+	<AppIcon name="fr.ralala.hexviewer/fr.ralala.hexviewer.ui.activities.MainActivity" image="hexviewer"/>
+
+	<!-- KOReader -->
+	<AppIcon name="org.koreader.launcher.fdroid/org.koreader.launcher.MainActivity" image="koreader"/>
+
+	<!-- LibreTube -->
+	<AppIcon name="com.github.libretube/com.github.libretube.IconTorch" image="libretube"/>
+
+	<!-- Pluma -->
+	<AppIcon name="com.qflair.browserq/com.qflair.browserq.tabs.view.BrowserActivity" image="pluma"/>
+
+	<!-- Twitter -->
+	<AppIcon name="com.twitter.android/com.twitter.android.StartActivity" image="twitter"/>
+
+	<!-- Urban VPN -->
+	<AppIcon name="com.urbanvpn.android/com.urbanvpn.android.ui.payment.PaymentActivity" image="urban_vpn"/>
+
+	<!-- WinZip -->
+	<AppIcon name="com.winzip.android/com.winzip.android.LoadingActivity" image="winzip"/>
+
+</Theme>

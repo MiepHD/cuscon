@@ -1,0 +1,57 @@
+<Theme version="1">
+
+	<!-- Adobe Photoshop Express -->
+	<AppIcon name="com.adobe.psmobile/com.adobe.psmobile.SplashScreen" image="adobe_photoshop_express"/>
+
+	<!-- Calculator -->
+	<AppIcon name="com.coloros.calculator/com.android.calculator2.Calculator" image="calculator"/>
+
+	<!-- Camera -->
+	<AppIcon name="com.oplus.camera/com.oplus.camera.Camera" image="camera"/>
+
+	<!-- Clock -->
+	<AppIcon name="com.coloros.alarmclock/com.oplus.alarmclock.AlarmClock" image="clock"/>
+
+	<!-- Community -->
+	<AppIcon name="com.realmecomm.app/com.android.realme2.start.view.AdvertiseActivity" image="community"/>
+
+	<!-- Compass -->
+	<AppIcon name="com.coloros.compass2/com.coloros.compass.flat.FlatCompass" image="compass"/>
+
+	<!-- DooFlix -->
+	<AppIcon name="com.chatbot.robochatai/com.dooflixapkv2.in.SplashScreenActivity" image="dooflix"/>
+
+	<!-- Games -->
+	<AppIcon name="com.oplus.games/com.oplus.games.ui.main.MainGameActivity" image="games"/>
+
+	<!-- Jupiter -->
+	<AppIcon name="money.jupiter/com.zoontek.rnbootsplash.RNBootSplashActivity" image="jupiter"/>
+
+	<!-- Music -->
+	<AppIcon name="com.heytap.music/com.nearme.music.splash.SplashActivity" image="music"/>
+
+	<!-- My Files -->
+	<AppIcon name="com.coloros.filemanager/com.oplus.filemanager.main.ui.MainActivity" image="my_files"/>
+
+	<!-- Phone Manager -->
+	<AppIcon name="com.coloros.phonemanager/com.coloros.phonemanager.FakeActivity" image="phone_manager"/>
+
+	<!-- Photos -->
+	<AppIcon name="com.coloros.gallery3d/com.coloros.gallery3d.app.MainActivity" image="photos"/>
+
+	<!-- Recorder -->
+	<AppIcon name="com.coloros.soundrecorder/com.soundrecorder.browsefile.BrowseFile" image="recorder"/>
+
+	<!-- Theme Store -->
+	<AppIcon name="com.oplus.themestore/com.nearme.themespace.activities.ThemeActivity" image="theme_store"/>
+
+	<!-- UNO -->
+	<AppIcon name="com.matteljv.uno/com.netease.uno.CustomOverrideActivity" image="uno"/>
+
+	<!-- Videos -->
+	<AppIcon name="com.coloros.video/com.oplus.video.ui.VideoListActivity" image="videos"/>
+
+	<!-- Weather -->
+	<AppIcon name="com.coloros.weather2/com.oplus.weather.main.view.WeatherMainActivity" image="weather"/>
+
+</Theme>

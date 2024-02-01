@@ -1,0 +1,12 @@
+<Theme version="1">
+
+	<!-- CPU Info -->
+	<AppIcon name="com.kgurgul.cpuinfo/com.kgurgul.cpuinfo.features.HostActivity" image="cpu_info"/>
+
+	<!-- LibreTube -->
+	<AppIcon name="com.github.libretube/com.github.libretube.IconLegacy" image="libretube"/>
+
+	<!-- OpenKeychain -->
+	<AppIcon name="org.sufficientlysecure.keychain/org.sufficientlysecure.keychain.ui.MainActivity" image="openkeychain"/>
+
+</Theme>

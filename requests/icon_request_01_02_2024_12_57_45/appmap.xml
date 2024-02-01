@@ -1,0 +1,45 @@
+<appmap>
+
+	<!-- @Voice -->
+	<item class="com.hyperionics.avar.SpeakReferenceActivity" name="@voice"/>
+
+	<!-- Air Bank -->
+	<item class="cz.airbank.mb.android.activity.unsecured.LandingActivity" name="air_bank"/>
+
+	<!-- Another Term -->
+	<item class="green_green_avk.anotherterm.SessionsActivity" name="another_term"/>
+
+	<!-- Barcode Scanner -->
+	<item class="com.google.zxing.client.android.CaptureActivity" name="barcode_scanner"/>
+
+	<!-- Copy SMS Code -->
+	<item class="io.github.jd1378.otphelper.MainActivity" name="copy_sms_code"/>
+
+	<!-- Hail -->
+	<item class="com.aistra.hail.ui.main.MainActivity" name="hail"/>
+
+	<!-- IDOS -->
+	<item class="cz.mafra.jizdnirady.activity.SplashActivity" name="idos"/>
+
+	<!-- Kaomoji -->
+	<item class="ru.kaomoji.kaomojiapp.SplashActivity" name="kaomoji"/>
+
+	<!-- LibreSudoku -->
+	<item class="com.kaajjo.libresudoku.MainActivity" name="libresudoku"/>
+
+	<!-- Můj vlak -->
+	<item class="com.circlegate.cd.app.activity.MainActivity" name="muj_vlak"/>
+
+	<!-- Patreon -->
+	<item class="com.patreon.android.ui.shared.LauncherActivity" name="patreon"/>
+
+	<!-- PipePipe -->
+	<item class="org.schabi.newpipe.MainActivity" name="pipepipe"/>
+
+	<!-- Save Locally -->
+	<item class="com.mateusrodcosta.apps.share2storage.MainActivity" name="save_locally"/>
+
+	<!-- SMS Backup & Restore -->
+	<item class="com.riteshsahu.SMSBackupRestore.activities.IntroActivity" name="sms_backup_and_restore"/>
+
+</appmap>

@@ -1,0 +1,6 @@
+<appmap>
+
+	<!-- 電話 -->
+	<item class="com.android.dialer.app.DialtactsActivity" name="電話"/>
+
+</appmap>

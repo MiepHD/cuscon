@@ -2009,5 +2009,33 @@
     <item class="com.girls.games.office.filereader.activity.SplashActivity" name="girls_all_document_reader"/>
     <item class="com.android.ilovepdf.ui.activity.SplashScreenActivity" name="ilovepdf"/>
     <item class="com.rookiestudio.perfectviewer.TStartup" name="perfect_viewer"/>
+	<item class="com.astrology.master.MainActivity" name="astrology_master"/>
+    <item class="net.booksy.customer.SplashActivity" name="booksy"/>
+    <item class="com.onedebit.chime.MainActivity" name="chime"/>
+    <item class="com.dominos.loadingscreen.InitialLaunchActivity" name="dominos"/>
+    <item class="com.doordash.consumer.ui.login.LauncherActivity" name="doordash"/>
+    <item class="com.expedia.bookings.activity.SearchActivity" name="expedia"/>
+    <item class="com.unity3d.player.UnityPlayerActivity" name="fire_kirin"/>
+    <item class="com.grubhub.dinerapp.android.splash.SplashActivity" name="grubhub"/>
+    <item class="org.chromium.webapk.shell_apk.h2o.H2OOpaqueMainActivity" name="ignition_casino"/>
+    <item class="com.jpay.jpaymobileapp.base.JPayMainActivity" name="jpay"/>
+    <item class="me.lyft.android.ui.MainActivity" name="lyft"/>
+    <item class="com.mcdonalds.mcdcoreapp.common.activity.SplashActivity" name="mcdonalds"/>
+    <item class="com.mercari.denali.MainActivity" name="mercari"/>
+    <item class="com.hiddenservices.onionservices.appManager.homeManager.homeController.homeController" name="orion_browser"/>
+    <item class="com.isobar.pizzahut.android.MainActivity" name="pizza_hut"/>
+    <item class="com.poshmark.ui.MainActivity" name="poshmark"/>
+    <item class="com.priceline.android.negotiator.Launcher" name="priceline"/>
+    <item class="com.securus.videoclient.activity.LoadingActivity" name="securus_mobile"/>
+    <item class="org.telegram.messenger.PremiumIcon" name="telegram_premium"/>
+    <item class="com.thredup.android.feature.splash.SplashActivity" name="thredup"/>
+    <item class="com.tmobile.tuesdays.MainActivity" name="tuesdays"/>
+    <item class="free.vpn.unblock.proxy.turbovpn.activity.StartupActivity" name="turbo_vpn"/>
+    <item class="com.vedicrishiastro.upastrology.activity.splashScreen.SplashActivity" name="upastro"/>
+    <item class="com.varomoney.bank.presentation.main.activity.MainActivity" name="varo_bank"/>
+    <item class="com.venmo.AppExperienceLauncherActivity" name="venmo"/>
+    <item class="com.walmart.glass.integration.splash.SplashActivity" name="walmart"/>
+    <item class="org.chromium.webapk.shell_apk.h2o.H2OOpaqueMainActivity" name="webapk_thredup"/>
+    <item class="com.contextlogic.wish.activity.browse.BrowseActivity" name="wish"/>
 
 </appmap>

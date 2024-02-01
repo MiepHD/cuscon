@@ -1,0 +1,57 @@
+<appmap>
+
+	<!-- Adobe Photoshop Express -->
+	<item class="com.adobe.psmobile.SplashScreen" name="adobe_photoshop_express"/>
+
+	<!-- Calculator -->
+	<item class="com.android.calculator2.Calculator" name="calculator"/>
+
+	<!-- Camera -->
+	<item class="com.oplus.camera.Camera" name="camera"/>
+
+	<!-- Clock -->
+	<item class="com.oplus.alarmclock.AlarmClock" name="clock"/>
+
+	<!-- Community -->
+	<item class="com.android.realme2.start.view.AdvertiseActivity" name="community"/>
+
+	<!-- Compass -->
+	<item class="com.coloros.compass.flat.FlatCompass" name="compass"/>
+
+	<!-- DooFlix -->
+	<item class="com.dooflixapkv2.in.SplashScreenActivity" name="dooflix"/>
+
+	<!-- Games -->
+	<item class="com.oplus.games.ui.main.MainGameActivity" name="games"/>
+
+	<!-- Jupiter -->
+	<item class="com.zoontek.rnbootsplash.RNBootSplashActivity" name="jupiter"/>
+
+	<!-- Music -->
+	<item class="com.nearme.music.splash.SplashActivity" name="music"/>
+
+	<!-- My Files -->
+	<item class="com.oplus.filemanager.main.ui.MainActivity" name="my_files"/>
+
+	<!-- Phone Manager -->
+	<item class="com.coloros.phonemanager.FakeActivity" name="phone_manager"/>
+
+	<!-- Photos -->
+	<item class="com.coloros.gallery3d.app.MainActivity" name="photos"/>
+
+	<!-- Recorder -->
+	<item class="com.soundrecorder.browsefile.BrowseFile" name="recorder"/>
+
+	<!-- Theme Store -->
+	<item class="com.nearme.themespace.activities.ThemeActivity" name="theme_store"/>
+
+	<!-- UNO -->
+	<item class="com.netease.uno.CustomOverrideActivity" name="uno"/>
+
+	<!-- Videos -->
+	<item class="com.oplus.video.ui.VideoListActivity" name="videos"/>
+
+	<!-- Weather -->
+	<item class="com.oplus.weather.main.view.WeatherMainActivity" name="weather"/>
+
+</appmap>
