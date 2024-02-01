@@ -1,0 +1,174 @@
+<appmap>
+
+	<!-- 1DM+ -->
+	<item class="idm.internet.download.manager.MainActivity" name="_1dm_"/>
+
+	<!-- AccuBattery -->
+	<item class="com.digibites.abatterysaver.BatterySaverActivity" name="accubattery"/>
+
+	<!-- Amazon Web -->
+	<item class="org.chromium.webapk.shell_apk.h2o.H2OOpaqueMainActivity" name="amazon_web"/>
+
+	<!-- AmoledBackgrounds -->
+	<item class="com.droidheat.amoledbackgrounds.MainActivity" name="amoledbackgrounds"/>
+
+	<!-- Apktool M -->
+	<item class="ru.maximoff.apktool.SplashActivity" name="apktool_m"/>
+
+	<!-- Audio HeadQuarter -->
+	<item class="io.alcatraz.audiohq.activities.SetupActivity" name="audio_headquarter"/>
+
+	<!-- Bluesky -->
+	<item class="xyz.blueskyweb.app.MainActivity" name="bluesky"/>
+
+	<!-- Cache Cleaner -->
+	<item class="com.github.bmx666.appcachecleaner.ui.activity.LauncherActivity" name="cache_cleaner"/>
+
+	<!-- Call Recorder -->
+	<item class="com.github.axet.callrecorder.activities.MainActivity" name="call_recorder"/>
+
+	<!-- Camera -->
+	<item class="com.android.camera.CameraLauncher" name="camera"/>
+
+	<!-- Camera -->
+	<item class="com.android.camera.CameraLauncher" name="camera"/>
+
+	<!-- Canara e-Passbook -->
+	<item class="com.mobile.canaraepassbook.EbookSplashActivity" name="canara_e_passbook"/>
+
+	<!-- Clickworker -->
+	<item class="com.clickworker.clickworkerapp.activities.InitialActivity" name="clickworker"/>
+
+	<!-- Colt Papers -->
+	<item class="com.colt.coltpapers.MainActivity" name="colt_papers"/>
+
+	<!-- Deepstash -->
+	<item class="com.deepstash.MainActivity" name="deepstash"/>
+
+	<!-- exteraGram -->
+	<item class="com.exteragram.messenger.AmethystIcon" name="exteragram"/>
+
+	<!-- FM Radio -->
+	<item class="com.caf.fmradio.FMRadio" name="fm_radio"/>
+
+	<!-- FNG -->
+	<item class="com.fb.fluid.ui.ActivitySettings" name="fng"/>
+
+	<!-- Gallery -->
+	<item class="com.alensw.PicFolder.GalleryActivity" name="gallery"/>
+
+	<!-- Headway -->
+	<item class="app.Launcher" name="headway"/>
+
+	<!-- ibisPaint -->
+	<item class="jp.ne.ibis.ibispaintx.app.market.MarketAuthenticationActivity" name="ibispaint"/>
+
+	<!-- irplus -->
+	<item class="net.binarymode.android.irplus.MainTabbedActivity" name="irplus"/>
+
+	<!-- Ivy Wallet -->
+	<item class="com.ivy.wallet.RootActivity" name="ivy_wallet"/>
+
+	<!-- Jaadu -->
+	<item class="h.S0q" name="jaadu"/>
+
+	<!-- Joey -->
+	<item class="o.o.joey.Activities.HomeActivity" name="joey"/>
+
+	<!-- Knots 3D -->
+	<item class="com.nynix.knots3d.MainActivity" name="knots_3d"/>
+
+	<!-- Lock Me Out -->
+	<item class="com.teqtic.lockmeout.ui.SettingsActivity" name="lock_me_out"/>
+
+	<!-- Markor -->
+	<item class="net.gsantner.markor.activity.MainActivity" name="markor"/>
+
+	<!-- Melon VPN -->
+	<item class="com.melon.vpn.tool.SplashActivity" name="melon_vpn"/>
+
+	<!-- Mi Remote -->
+	<item class="com.xiaomi.mitv.phone.remotecontroller.HoriWidgetMainActivityV2" name="mi_remote"/>
+
+	<!-- Microsoft SwiftKey Beta Keyboard -->
+	<item class="com.touchtype.LauncherActivityIcon" name="microsoft_swiftkey_beta_keyboard"/>
+
+	<!-- Mimo -->
+	<item class="com.getmimo.ui.SplashActivity_ninja" name="mimo"/>
+
+	<!-- MiX -->
+	<item class="com.mixplorer.activities.BrowseActivity" name="mix"/>
+
+	<!-- moreDays -->
+	<item class="de.wuapps.moredays.SplashActivity" name="moredays"/>
+
+	<!-- MRepo -->
+	<item class="com.sanmer.mrepo.ui.activity.MainActivity" name="mrepo"/>
+
+	<!-- OLEDBuddy -->
+	<item class="me.mikecroall.oledbuddy.HomeActivity" name="oledbuddy"/>
+
+	<!-- OmniSwitch -->
+	<item class="org.omnirom.omniswitch.SettingsActivity" name="omniswitch"/>
+
+	<!-- Open Link With -->
+	<item class="com.tasomaniac.openwith.settings.SettingsActivity" name="open_link_with"/>
+
+	<!-- Poweramp -->
+	<item class="com.maxmpz.audioplayer.zap_plain_adaptive" name="poweramp"/>
+
+	<!-- Poweramp Equalizer -->
+	<item class="com.maxmpz.audioplayer.round" name="poweramp_equalizer"/>
+
+	<!-- Poweramp Unlocker -->
+	<item class="com.maxmpz.audioplayer.unlock.LauncherRedirectorActivity" name="poweramp_unlocker"/>
+
+	<!-- Programming Hub -->
+	<item class="com.freeit.java.modules.onboarding.SplashScreenActivity" name="programming_hub"/>
+
+	<!-- QuickDic -->
+	<item class="com.hughes.android.dictionary.DictionaryManagerActivity" name="quickdic"/>
+
+	<!-- QuickNote -->
+	<item class="net.gsantner.markor.activity.openeditor.OpenEditorQuickNoteActivity" name="quicknote"/>
+
+	<!-- Rewards -->
+	<item class="com.google.android.apps.paidtasks.activity.LaunchActivity" name="rewards"/>
+
+	<!-- Share into -->
+	<item class="net.gsantner.markor.activity.openeditor.OpenShareIntoActivity" name="share_into"/>
+
+	<!-- Showly -->
+	<item class="com.michaldrabik.showly2.ui.main.MainActivity" name="showly"/>
+
+	<!-- SmartPack -->
+	<item class="com.smartpack.kernelmanager.activities.StartActivity" name="smartpack"/>
+
+	<!-- SongSync -->
+	<item class="pl.lambada.songsync.MainActivity" name="songsync"/>
+
+	<!-- Swift Backup -->
+	<item class="org.swiftapps.swiftbackup.intro.IntroActivity" name="swift_backup"/>
+
+	<!-- Tasks -->
+	<item class="com.todoroo.astrid.activity.TaskListActivity.BlueGrey" name="tasks"/>
+
+	<!-- To-Do -->
+	<item class="net.gsantner.markor.activity.openeditor.OpenEditorTodoActivity" name="to_do"/>
+
+	<!-- TrebleShot -->
+	<item class="org.monora.uprotocol.client.android.activity.HomeActivity" name="trebleshot"/>
+
+	<!-- Unit Lab -->
+	<item class="com.samruston.converter.ui.MainActivity" name="unit_lab"/>
+
+	<!-- Wallpaper Changer -->
+	<item class="de.j4velin.wallpaperChanger.settings.Settings" name="wallpaper_changer"/>
+
+	<!-- Weather -->
+	<item class="org.breezyweather.main.MainActivity" name="weather"/>
+
+	<!-- YouGov -->
+	<item class="com.yougov.init.InitActivity" name="yougov"/>
+
+</appmap>

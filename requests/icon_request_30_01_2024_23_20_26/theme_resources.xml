@@ -1,0 +1,174 @@
+<Theme version="1">
+
+	<!-- 1DM+ -->
+	<AppIcon name="idm.internet.download.manager.plus/idm.internet.download.manager.MainActivity" image="_1dm_"/>
+
+	<!-- AccuBattery -->
+	<AppIcon name="com.digibites.accubattery/com.digibites.abatterysaver.BatterySaverActivity" image="accubattery"/>
+
+	<!-- Amazon Web -->
+	<AppIcon name="org.chromium.webapk.a056c1f7f07b4752b_v2/org.chromium.webapk.shell_apk.h2o.H2OOpaqueMainActivity" image="amazon_web"/>
+
+	<!-- AmoledBackgrounds -->
+	<AppIcon name="com.droidheat.amoledbackgrounds/com.droidheat.amoledbackgrounds.MainActivity" image="amoledbackgrounds"/>
+
+	<!-- Apktool M -->
+	<AppIcon name="ru.maximoff.apktool/ru.maximoff.apktool.SplashActivity" image="apktool_m"/>
+
+	<!-- Audio HeadQuarter -->
+	<AppIcon name="io.alcatraz.audiohq/io.alcatraz.audiohq.activities.SetupActivity" image="audio_headquarter"/>
+
+	<!-- Bluesky -->
+	<AppIcon name="xyz.blueskyweb.app/xyz.blueskyweb.app.MainActivity" image="bluesky"/>
+
+	<!-- Cache Cleaner -->
+	<AppIcon name="com.github.bmx666.appcachecleaner/com.github.bmx666.appcachecleaner.ui.activity.LauncherActivity" image="cache_cleaner"/>
+
+	<!-- Call Recorder -->
+	<AppIcon name="com.github.axet.callrecorder/com.github.axet.callrecorder.activities.MainActivity" image="call_recorder"/>
+
+	<!-- Camera -->
+	<AppIcon name="org.lineageos.snap/com.android.camera.CameraLauncher" image="camera"/>
+
+	<!-- Camera -->
+	<AppIcon name="org.codeaurora.snapcam/com.android.camera.CameraLauncher" image="camera"/>
+
+	<!-- Canara e-Passbook -->
+	<AppIcon name="com.mobile.canaraepassbook/com.mobile.canaraepassbook.EbookSplashActivity" image="canara_e_passbook"/>
+
+	<!-- Clickworker -->
+	<AppIcon name="com.clickworker.clickworkerapp/com.clickworker.clickworkerapp.activities.InitialActivity" image="clickworker"/>
+
+	<!-- Colt Papers -->
+	<AppIcon name="com.colt.coltpapers/com.colt.coltpapers.MainActivity" image="colt_papers"/>
+
+	<!-- Deepstash -->
+	<AppIcon name="com.deepstash/com.deepstash.MainActivity" image="deepstash"/>
+
+	<!-- exteraGram -->
+	<AppIcon name="com.exteragram.messenger/com.exteragram.messenger.AmethystIcon" image="exteragram"/>
+
+	<!-- FM Radio -->
+	<AppIcon name="com.caf.fmradio/com.caf.fmradio.FMRadio" image="fm_radio"/>
+
+	<!-- FNG -->
+	<AppIcon name="com.fb.fluid/com.fb.fluid.ui.ActivitySettings" image="fng"/>
+
+	<!-- Gallery -->
+	<AppIcon name="com.alensw.PicFolder/com.alensw.PicFolder.GalleryActivity" image="gallery"/>
+
+	<!-- Headway -->
+	<AppIcon name="com.headway.books/app.Launcher" image="headway"/>
+
+	<!-- ibisPaint -->
+	<AppIcon name="jp.ne.ibis.ibispaint.app/jp.ne.ibis.ibispaintx.app.market.MarketAuthenticationActivity" image="ibispaint"/>
+
+	<!-- irplus -->
+	<AppIcon name="net.binarymode.android.irplus/net.binarymode.android.irplus.MainTabbedActivity" image="irplus"/>
+
+	<!-- Ivy Wallet -->
+	<AppIcon name="com.ivy.wallet/com.ivy.wallet.RootActivity" image="ivy_wallet"/>
+
+	<!-- Jaadu -->
+	<AppIcon name="ali.mqpybyv/h.S0q" image="jaadu"/>
+
+	<!-- Joey -->
+	<AppIcon name="o.o.joey/o.o.joey.Activities.HomeActivity" image="joey"/>
+
+	<!-- Knots 3D -->
+	<AppIcon name="com.nynix.knots3d/com.nynix.knots3d.MainActivity" image="knots_3d"/>
+
+	<!-- Lock Me Out -->
+	<AppIcon name="com.teqtic.lockmeout/com.teqtic.lockmeout.ui.SettingsActivity" image="lock_me_out"/>
+
+	<!-- Markor -->
+	<AppIcon name="net.gsantner.markor/net.gsantner.markor.activity.MainActivity" image="markor"/>
+
+	<!-- Melon VPN -->
+	<AppIcon name="com.vpnbottle.melon.free.unblock.fast.vpn/com.melon.vpn.tool.SplashActivity" image="melon_vpn"/>
+
+	<!-- Mi Remote -->
+	<AppIcon name="com.duokan.phone.remotecontroller/com.xiaomi.mitv.phone.remotecontroller.HoriWidgetMainActivityV2" image="mi_remote"/>
+
+	<!-- Microsoft SwiftKey Beta Keyboard -->
+	<AppIcon name="com.touchtype.swiftkey.beta/com.touchtype.LauncherActivityIcon" image="microsoft_swiftkey_beta_keyboard"/>
+
+	<!-- Mimo -->
+	<AppIcon name="com.getmimo/com.getmimo.ui.SplashActivity_ninja" image="mimo"/>
+
+	<!-- MiX -->
+	<AppIcon name="com.mixplorer/com.mixplorer.activities.BrowseActivity" image="mix"/>
+
+	<!-- moreDays -->
+	<AppIcon name="de.wuapps.moredays/de.wuapps.moredays.SplashActivity" image="moredays"/>
+
+	<!-- MRepo -->
+	<AppIcon name="com.sanmer.mrepo/com.sanmer.mrepo.ui.activity.MainActivity" image="mrepo"/>
+
+	<!-- OLEDBuddy -->
+	<AppIcon name="me.mikecroall.oledbuddy/me.mikecroall.oledbuddy.HomeActivity" image="oledbuddy"/>
+
+	<!-- OmniSwitch -->
+	<AppIcon name="org.omnirom.omniswitch/org.omnirom.omniswitch.SettingsActivity" image="omniswitch"/>
+
+	<!-- Open Link With -->
+	<AppIcon name="com.tasomaniac.openwith/com.tasomaniac.openwith.settings.SettingsActivity" image="open_link_with"/>
+
+	<!-- Poweramp -->
+	<AppIcon name="com.maxmpz.audioplayer/com.maxmpz.audioplayer.zap_plain_adaptive" image="poweramp"/>
+
+	<!-- Poweramp Equalizer -->
+	<AppIcon name="com.maxmpz.equalizer/com.maxmpz.audioplayer.round" image="poweramp_equalizer"/>
+
+	<!-- Poweramp Unlocker -->
+	<AppIcon name="com.maxmpz.audioplayer.unlock/com.maxmpz.audioplayer.unlock.LauncherRedirectorActivity" image="poweramp_unlocker"/>
+
+	<!-- Programming Hub -->
+	<AppIcon name="com.freeit.java/com.freeit.java.modules.onboarding.SplashScreenActivity" image="programming_hub"/>
+
+	<!-- QuickDic -->
+	<AppIcon name="de.reimardoeffinger.quickdic/com.hughes.android.dictionary.DictionaryManagerActivity" image="quickdic"/>
+
+	<!-- QuickNote -->
+	<AppIcon name="net.gsantner.markor/net.gsantner.markor.activity.openeditor.OpenEditorQuickNoteActivity" image="quicknote"/>
+
+	<!-- Rewards -->
+	<AppIcon name="com.google.android.apps.paidtasks/com.google.android.apps.paidtasks.activity.LaunchActivity" image="rewards"/>
+
+	<!-- Share into -->
+	<AppIcon name="net.gsantner.markor/net.gsantner.markor.activity.openeditor.OpenShareIntoActivity" image="share_into"/>
+
+	<!-- Showly -->
+	<AppIcon name="com.michaldrabik.showly2/com.michaldrabik.showly2.ui.main.MainActivity" image="showly"/>
+
+	<!-- SmartPack -->
+	<AppIcon name="com.smartpack.kernelmanager/com.smartpack.kernelmanager.activities.StartActivity" image="smartpack"/>
+
+	<!-- SongSync -->
+	<AppIcon name="pl.lambada.songsync/pl.lambada.songsync.MainActivity" image="songsync"/>
+
+	<!-- Swift Backup -->
+	<AppIcon name="org.swiftapps.swiftbackup/org.swiftapps.swiftbackup.intro.IntroActivity" image="swift_backup"/>
+
+	<!-- Tasks -->
+	<AppIcon name="org.tasks/com.todoroo.astrid.activity.TaskListActivity.BlueGrey" image="tasks"/>
+
+	<!-- To-Do -->
+	<AppIcon name="net.gsantner.markor/net.gsantner.markor.activity.openeditor.OpenEditorTodoActivity" image="to_do"/>
+
+	<!-- TrebleShot -->
+	<AppIcon name="com.genonbeta.TrebleShot/org.monora.uprotocol.client.android.activity.HomeActivity" image="trebleshot"/>
+
+	<!-- Unit Lab -->
+	<AppIcon name="com.samruston.converter/com.samruston.converter.ui.MainActivity" image="unit_lab"/>
+
+	<!-- Wallpaper Changer -->
+	<AppIcon name="de.j4velin.wallpaperChanger/de.j4velin.wallpaperChanger.settings.Settings" image="wallpaper_changer"/>
+
+	<!-- Weather -->
+	<AppIcon name="org.breezyweather/org.breezyweather.main.MainActivity" image="weather"/>
+
+	<!-- YouGov -->
+	<AppIcon name="com.yougov.mobile.online/com.yougov.init.InitActivity" image="yougov"/>
+
+</Theme>
