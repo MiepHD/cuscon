@@ -2073,5 +2073,17 @@
     <AppIcon name="com.whatsapp/com.whatsapp.Icon44" image="whatsapp_44"/>
     <AppIcon name="com.samsung.android.fast/com.samsung.android.fast.DefaultActivity" image="wi_fi_segura"/>
     <AppIcon name="com.transferwise.android/com.transferwise.android.activity.SplashActivity" image="wise"/>
+	<AppIcon name="org.withouthat.acalendarplus/org.withouthat.acalendar.tasks.TasksActivity" image="acalendar_"/>
+	<AppIcon name="com.sirnic.atomas/org.cocos2dx.cpp.AppActivity" image="atomas"/>
+    <AppIcon name="com.netflix.NGP.BloonsTDSix/com.unity3d.player.UnityPlayerActivity" image="bloons_td_6_netflix"/>
+    <AppIcon name="com.zeptolab.cats.google/com.zeptolab.cats.CATSActivity" image="cats"/>
+    <AppIcon name="com.game.kkiruk.myadorablecats/com.unity3d.player.UnityPlayerActivity" image="cats_are_cute"/>
+    <AppIcon name="de.cineplex.androidapp/com.cinuru.app.MainActivity" image="cineplex"/>
+    <AppIcon name="com.constructor.games/by.saygames.SayKitActivity" image="construction_set"/>
+    <AppIcon name="air.com.RustyLake.CubeEscapeCollection/air.com.RustyLake.CubeEscapeCollection.AppEntry" image="cube_escape"/>
+    <AppIcon name="air.com.RustyLake.CubeEscapeParadox/air.com.RustyLake.CubeEscapeParadox.AppEntry" image="cube_escape_paradox"/>
+    <AppIcon name="com.jeffprod.cubesolver/com.jeffprod.cubesolver.MainActivity" image="cube_solver"/>
+    <AppIcon name="com.highxp.doodle/com.highxp.doodle.MainActivity" image="doodle_me"/>
+    <AppIcon name="com.timleg.quiz/com.timleg.quiz.Game" image="endlos_quiz"/>
 
 </Theme>

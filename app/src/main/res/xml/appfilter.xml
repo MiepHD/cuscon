@@ -2082,5 +2082,17 @@
     <item component="ComponentInfo{com.whatsapp/com.whatsapp.Icon44}" drawable="whatsapp_44" />
     <item component="ComponentInfo{com.samsung.android.fast/com.samsung.android.fast.DefaultActivity}" drawable="wi_fi_segura" />
     <item component="ComponentInfo{com.transferwise.android/com.transferwise.android.activity.SplashActivity}" drawable="wise" />
+	<item component="ComponentInfo{org.withouthat.acalendarplus/org.withouthat.acalendar.tasks.TasksActivity}" drawable="acalendar_" />
+	<item component="ComponentInfo{com.sirnic.atomas/org.cocos2dx.cpp.AppActivity}" drawable="atomas" />
+    <item component="ComponentInfo{com.netflix.NGP.BloonsTDSix/com.unity3d.player.UnityPlayerActivity}" drawable="bloons_td_6_netflix" />
+    <item component="ComponentInfo{com.zeptolab.cats.google/com.zeptolab.cats.CATSActivity}" drawable="cats" />
+    <item component="ComponentInfo{com.game.kkiruk.myadorablecats/com.unity3d.player.UnityPlayerActivity}" drawable="cats_are_cute" />
+    <item component="ComponentInfo{de.cineplex.androidapp/com.cinuru.app.MainActivity}" drawable="cineplex" />
+    <item component="ComponentInfo{com.constructor.games/by.saygames.SayKitActivity}" drawable="construction_set" />
+    <item component="ComponentInfo{air.com.RustyLake.CubeEscapeCollection/air.com.RustyLake.CubeEscapeCollection.AppEntry}" drawable="cube_escape" />
+    <item component="ComponentInfo{air.com.RustyLake.CubeEscapeParadox/air.com.RustyLake.CubeEscapeParadox.AppEntry}" drawable="cube_escape_paradox" />
+    <item component="ComponentInfo{com.jeffprod.cubesolver/com.jeffprod.cubesolver.MainActivity}" drawable="cube_solver" />
+    <item component="ComponentInfo{com.highxp.doodle/com.highxp.doodle.MainActivity}" drawable="doodle_me" />
+    <item component="ComponentInfo{com.timleg.quiz/com.timleg.quiz.Game}" drawable="endlos_quiz" />
 
 </resources>

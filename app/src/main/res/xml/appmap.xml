@@ -2064,5 +2064,17 @@
     <item class="com.whatsapp.Icon44" name="whatsapp_44"/>
     <item class="com.samsung.android.fast.DefaultActivity" name="wi_fi_segura"/>
     <item class="com.transferwise.android.activity.SplashActivity" name="wise"/>
+	<item class="org.withouthat.acalendar.tasks.TasksActivity" name="acalendar_"/>
+	<item class="org.cocos2dx.cpp.AppActivity" name="atomas"/>
+    <item class="com.unity3d.player.UnityPlayerActivity" name="bloons_td_6_netflix"/>
+    <item class="com.zeptolab.cats.CATSActivity" name="cats"/>
+    <item class="com.unity3d.player.UnityPlayerActivity" name="cats_are_cute"/>
+    <item class="com.cinuru.app.MainActivity" name="cineplex"/>
+    <item class="by.saygames.SayKitActivity" name="construction_set"/>
+    <item class="air.com.RustyLake.CubeEscapeCollection.AppEntry" name="cube_escape"/>
+    <item class="air.com.RustyLake.CubeEscapeParadox.AppEntry" name="cube_escape_paradox"/>
+    <item class="com.jeffprod.cubesolver.MainActivity" name="cube_solver"/>
+    <item class="com.highxp.doodle.MainActivity" name="doodle_me"/>
+    <item class="com.timleg.quiz.Game" name="endlos_quiz"/>
 
 </appmap>

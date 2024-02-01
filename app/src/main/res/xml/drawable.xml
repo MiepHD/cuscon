@@ -1958,5 +1958,16 @@
     <item drawable="whatsapp_44" />
     <item drawable="wi_fi_segura" />
     <item drawable="wise" />
+	<item drawable="atomas" />
+    <item drawable="bloons_td_6_netflix" />
+    <item drawable="cats" />
+    <item drawable="cats_are_cute" />
+    <item drawable="cineplex" />
+    <item drawable="construction_set" />
+    <item drawable="cube_escape" />
+    <item drawable="cube_escape_paradox" />
+    <item drawable="cube_solver" />
+    <item drawable="doodle_me" />
+    <item drawable="endlos_quiz" />
 
 </resources>
