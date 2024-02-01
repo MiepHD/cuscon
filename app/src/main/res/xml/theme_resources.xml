@@ -2047,5 +2047,6 @@
     <AppIcon name="com.walmart.android/com.walmart.glass.integration.splash.SplashActivity" image="walmart"/>
     <AppIcon name="org.chromium.webapk.a4cbbd8d3892fc597_v2/org.chromium.webapk.shell_apk.h2o.H2OOpaqueMainActivity" image="webapk_thredup"/>
     <AppIcon name="com.contextlogic.wish/com.contextlogic.wish.activity.browse.BrowseActivity" image="wish"/>
+	<AppIcon name="com.spotify.musix/com.spotify.musix.MainActivity" image="spotify"/>
 
 </Theme>

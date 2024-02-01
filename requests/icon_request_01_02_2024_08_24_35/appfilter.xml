@@ -175,7 +175,7 @@
 	<item component="ComponentInfo{com.westernunion.moneytransferr3app.acs3/com.westernunion.moneytransferr3app.MainActivity}" drawable="westernunion" />
 
 	<!-- WhatsApp -->
-	<item component="ComponentInfo{com.whatsapp/com.whatsapp.Icon44}" drawable="whatsapp" />
+	<item component="ComponentInfo{com.whatsapp/com.whatsapp.Icon44}" drawable="whatsapp_44" />
 
 	<!-- Wi-Fi segura -->
 	<item component="ComponentInfo{com.samsung.android.fast/com.samsung.android.fast.DefaultActivity}" drawable="wi_fi_segura" />

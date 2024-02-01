@@ -175,7 +175,7 @@
 	<item class="com.westernunion.moneytransferr3app.MainActivity" name="westernunion"/>
 
 	<!-- WhatsApp -->
-	<item class="com.whatsapp.Icon44" name="whatsapp"/>
+	<item class="com.whatsapp.Icon44" name="whatsapp_44"/>
 
 	<!-- Wi-Fi segura -->
 	<item class="com.samsung.android.fast.DefaultActivity" name="wi_fi_segura"/>

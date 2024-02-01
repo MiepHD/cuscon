@@ -2037,5 +2037,6 @@
     <item class="com.walmart.glass.integration.splash.SplashActivity" name="walmart"/>
     <item class="org.chromium.webapk.shell_apk.h2o.H2OOpaqueMainActivity" name="webapk_thredup"/>
     <item class="com.contextlogic.wish.activity.browse.BrowseActivity" name="wish"/>
+	<item class="com.spotify.musix.MainActivity" name="spotify"/>
 
 </appmap>

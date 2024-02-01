@@ -1,2 +1,2 @@
 - Added andOTP, Cake, Calendar, Compass, Feedly, Flashscore, Gallery, ho., Keepass2Android, MioDottore.it, Notes, ReZ Launcher, Ruler, Shelf, Subito, Tasky, Thank You, Tinder, Volume, Wallapop, Where Are U, WordUp, KernelSU, Certificado digital FNMT, Mercadona, Privalia, Tarjeta ECI, All Document Reader Assistant, All Document Viewer, All Reader, All Document Reader, iLovePDF, Perfect Viewer, Astrology Master, Booksy, Chime, Domino's, DoorDash, Expedia, FIRE KIRIN, Grubhub, Ignition casino, JPay, Lyft, McDonald's, Mercari, Orion Browser, Pizza Hut, Poshmark, Priceline, Securus Mobile, Telegram, thredUP, Tuesdays, Turbo VPN, Upastro, Varo Bank, Venmo, Walmart, thredUP, Wish
-- Updated Mi Carrefour 3.0
+- Updated Mi Carrefour 3.0, Spotify

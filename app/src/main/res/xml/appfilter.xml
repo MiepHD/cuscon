@@ -2055,5 +2055,6 @@
     <item component="ComponentInfo{com.walmart.android/com.walmart.glass.integration.splash.SplashActivity}" drawable="walmart" />
     <item component="ComponentInfo{org.chromium.webapk.a4cbbd8d3892fc597_v2/org.chromium.webapk.shell_apk.h2o.H2OOpaqueMainActivity}" drawable="webapk_thredup" />
     <item component="ComponentInfo{com.contextlogic.wish/com.contextlogic.wish.activity.browse.BrowseActivity}" drawable="wish" />
+	<item component="ComponentInfo{com.spotify.musix/com.spotify.musix.MainActivity}" drawable="spotify" />
 
 </resources>

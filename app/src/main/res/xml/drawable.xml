@@ -1935,5 +1935,6 @@
     <item drawable="walmart" />
     <item drawable="webapk_thredup" />
     <item drawable="wish" />
+	<item drawable="spotify" />
 
 </resources>
