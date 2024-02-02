@@ -2006,5 +2006,11 @@
     <item drawable="caffeinate" />
     <item drawable="dazn" />
     <item drawable="tile" />
+	<item drawable="acode" />
+    <item drawable="fake_traveler" />
+    <item drawable="hexviewer" />
+    <item drawable="libretube_torch" />
+    <item drawable="simplemobiletools_gallery_purple" />
+    <item drawable="urban_vpn" />
 
 </resources>

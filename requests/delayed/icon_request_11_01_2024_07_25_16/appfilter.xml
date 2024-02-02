@@ -25,7 +25,7 @@
 	<item component="ComponentInfo{org.koreader.launcher.fdroid/org.koreader.launcher.MainActivity}" drawable="koreader" />
 
 	<!-- LibreTube -->
-	<item component="ComponentInfo{com.github.libretube/com.github.libretube.IconTorch}" drawable="libretube" />
+	<item component="ComponentInfo{com.github.libretube/com.github.libretube.IconTorch}" drawable="libretube_torch" />
 
 	<!-- Pluma -->
 	<item component="ComponentInfo{com.qflair.browserq/com.qflair.browserq.tabs.view.BrowserActivity}" drawable="pluma" />

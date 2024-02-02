@@ -25,7 +25,7 @@
 	<item class="org.koreader.launcher.MainActivity" name="koreader"/>
 
 	<!-- LibreTube -->
-	<item class="com.github.libretube.IconTorch" name="libretube"/>
+	<item class="com.github.libretube.IconTorch" name="libretube_torch"/>
 
 	<!-- Pluma -->
 	<item class="com.qflair.browserq.tabs.view.BrowserActivity" name="pluma"/>

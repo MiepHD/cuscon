@@ -25,7 +25,7 @@
 	<AppIcon name="org.koreader.launcher.fdroid/org.koreader.launcher.MainActivity" image="koreader"/>
 
 	<!-- LibreTube -->
-	<AppIcon name="com.github.libretube/com.github.libretube.IconTorch" image="libretube"/>
+	<AppIcon name="com.github.libretube/com.github.libretube.IconTorch" image="libretube_torch"/>
 
 	<!-- Pluma -->
 	<AppIcon name="com.qflair.browserq/com.qflair.browserq.tabs.view.BrowserActivity" image="pluma"/>

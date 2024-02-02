@@ -2115,5 +2115,11 @@
     <item class="xyz.omnicron.caffeinate.MainActivity" name="caffeinate"/>
     <item class="com.dazn.splash.view.SplashScreenActivity" name="dazn"/>
     <item class="com.thetileapp.tile.activities.MainActivity" name="tile"/>
+	<item class="com.foxdebug.acode.MainActivity" name="acode"/>
+    <item class="cl.coders.faketraveler.MainActivity" name="fake_traveler"/>
+    <item class="fr.ralala.hexviewer.ui.activities.MainActivity" name="hexviewer"/>
+    <item class="com.github.libretube.IconTorch" name="libretube_torch"/>
+    <item class="com.simplemobiletools.gallery.pro.activities.SplashActivity.Purple" name="simplemobiletools_gallery_purple"/>
+    <item class="com.urbanvpn.android.ui.payment.PaymentActivity" name="urban_vpn"/>
 
 </appmap>

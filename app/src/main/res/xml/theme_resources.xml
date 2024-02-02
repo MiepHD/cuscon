@@ -2124,5 +2124,11 @@
     <AppIcon name="xyz.omnicron.caffeinate/xyz.omnicron.caffeinate.MainActivity" image="caffeinate"/>
     <AppIcon name="com.dazn/com.dazn.splash.view.SplashScreenActivity" image="dazn"/>
     <AppIcon name="com.thetileapp.tile/com.thetileapp.tile.activities.MainActivity" image="tile"/>
+	<AppIcon name="com.foxdebug.acode/com.foxdebug.acode.MainActivity" image="acode"/>
+    <AppIcon name="cl.coders.faketraveler/cl.coders.faketraveler.MainActivity" image="fake_traveler"/>
+    <AppIcon name="fr.ralala.hexviewer/fr.ralala.hexviewer.ui.activities.MainActivity" image="hexviewer"/>
+    <AppIcon name="com.github.libretube/com.github.libretube.IconTorch" image="libretube_torch"/>
+    <AppIcon name="com.simplemobiletools.gallery.pro/com.simplemobiletools.gallery.pro.activities.SplashActivity.Purple" image="simplemobiletools_gallery_purple"/>
+    <AppIcon name="com.urbanvpn.android/com.urbanvpn.android.ui.payment.PaymentActivity" image="urban_vpn"/>
 
 </Theme>
