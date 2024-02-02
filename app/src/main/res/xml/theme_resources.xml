@@ -2085,5 +2085,40 @@
     <AppIcon name="com.jeffprod.cubesolver/com.jeffprod.cubesolver.MainActivity" image="cube_solver"/>
     <AppIcon name="com.highxp.doodle/com.highxp.doodle.MainActivity" image="doodle_me"/>
     <AppIcon name="com.timleg.quiz/com.timleg.quiz.Game" image="endlos_quiz"/>
+	<AppIcon name="com.android.dialer/com.android.dialer.app.DialtactsActivity" image="oneplus_phone"/>
+	<AppIcon name="com.heytap.music/com.nearme.music.splash.SplashActivity" image="music"/>
+	<AppIcon name="com.q42.ohhi/com.q42.ohhi.MainActivity" image="_0h_h1"/>
+    <AppIcon name="inc.flide.vi8/inc.flide.vim8.SettingsLauncherAlias" image="_8vim"/>
+    <AppIcon name="lysesoft.andftp/lysesoft.andftp.SplashActivity" image="andftp"/>
+    <AppIcon name="com.android.contacts/com.android.contacts.DialtactsActivityAlias" image="android_contacts_dial"/>
+    <AppIcon name="com.android.mms/com.android.mms.ui.ConversationList" image="android_mms_list"/>
+    <AppIcon name="com.commbank.netbank/com.commbank.netbank.application.MainActivity" image="commbank"/>
+    <AppIcon name="com.desmos.calculator/com.desmos.calculator.MainActivity" image="desmos"/>
+    <AppIcon name="de.tap.easy_xkcd/de.tap.easy_xkcd.mainActivity.MainActivity" image="easy_xkcd"/>
+    <AppIcon name="com.coloros.filemanager/com.coloros.filemanager.filerefactor.ui.main.MainActivity" image="file_manager"/>
+    <AppIcon name="com.tavultesoft.kmapro/com.tavultesoft.kmapro.SplashScreenActivity" image="keyman"/>
+    <AppIcon name="com.lovense.wear/com.wear.main.FlashActivity" image="lovense_remote"/>
+    <AppIcon name="com.mediafire.android/com.mediafire.android.MainActivity" image="mediafire"/>
+    <AppIcon name="ee.dustland.android.minesweeper/ee.dustland.android.minesweeper.MinesweeperHostActivity" image="minesweeper"/>
+    <AppIcon name="ua.gardenapple.itchupdater/garden.appl.mitch.ui.MainActivity" image="mitch"/>
+    <AppIcon name="com.opera.gx/com.opera.gx.MainActivity" image="opera_gx"/>
+    <AppIcon name="com.rhmsoft.edit/com.rhmsoft.edit.activity.MainActivity" image="quickedit"/>
+    <AppIcon name="com.replit.app/com.replit.app.MainActivity" image="replit"/>
+    <AppIcon name="chat.revolt.app.twa/chat.revolt.app.twa.LauncherActivity" image="revolt"/>
+    <AppIcon name="pro.capture.screenshot/pro.capture.screenshot.activity.SplashActivity" image="screen_master"/>
+    <AppIcon name="org.mcxa.vortaro/org.mcxa.vortaro.MainActivity" image="senreta_vortaro"/>
+    <AppIcon name="com.gmail.makasewicz.maciej/com.gmail.makasewicz.maciej.ui.activity.MainActivity" image="simple_weight_tracker"/>
+    <AppIcon name="com.simplemobiletools.gallery.pro/com.simplemobiletools.gallery.pro.activities.SplashActivity.Teal" image="simplemobiletools_gallery_teal"/>
+    <AppIcon name="ph.spacedesk.beta/ph.spacedesk.httpwww.spacedesk.SAActivityConnect" image="spacedesk"/>
+    <AppIcon name="nocrop.photoeditor.squarepic/com.shamble.instafit.SplashActivity" image="square_pic"/>
+    <AppIcon name="jp.ddo.hotmist.unicodepad/jp.ddo.hotmist.unicodepad.UnicodeActivity" image="unicodepad"/>
+    <AppIcon name="dev.beefers.vendetta/com.discord.main.MainDefault" image="vendetta"/>
+    <AppIcon name="dev.beefers.vendetta.manager/dev.beefers.vendetta.manager.ui.activity.MainActivity" image="vendetta_manager"/>
+	<AppIcon name="cz.airbank.android/cz.airbank.mb.android.activity.unsecured.LandingActivity" image="air_bank"/>
+    <AppIcon name="ru.kaomoji.kaomojiapp/ru.kaomoji.kaomojiapp.SplashActivity" image="kaomoji"/>
+    <AppIcon name="com.kaajjo.libresudoku/com.kaajjo.libresudoku.MainActivity" image="libresudoku"/>
+    <AppIcon name="cz.cd.mujvlak.an/com.circlegate.cd.app.activity.MainActivity" image="muj_vlak"/>
+    <AppIcon name="InfinityLoop1309.NewPipeEnhanced/org.schabi.newpipe.MainActivity" image="pipepipe"/>
+    <AppIcon name="com.riteshsahu.SMSBackupRestore/com.riteshsahu.SMSBackupRestore.activities.IntroActivity" image="sms_backup_and_restore"/>
 
 </Theme>

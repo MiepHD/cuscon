@@ -10,7 +10,7 @@
 	<AppIcon name="com.oplus.camera/com.oplus.camera.Camera" image="camera"/>
 
 	<!-- Clock -->
-	<AppIcon name="com.coloros.alarmclock/com.oplus.alarmclock.AlarmClock" image="clock"/>
+	<AppIcon name="com.coloros.alarmclock/com.oplus.alarmclock.AlarmClock" image="coloros_clock"/>
 
 	<!-- Community -->
 	<AppIcon name="com.realmecomm.app/com.android.realme2.start.view.AdvertiseActivity" image="community"/>

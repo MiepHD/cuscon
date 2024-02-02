@@ -1,0 +1,182 @@
+<appmap>
+
+	<!-- 0h h1 -->
+	<item class="com.q42.ohhi.MainActivity" name="_0h_h1"/>
+
+	<!-- Super Resolution Scaler(waifu2x) -->
+	<item class="com.kaede_software.superresolutionwaifu2x.SdFileListActivity" name="super_resolution_scaler_waifu2x_"/>
+
+	<!-- 7Zipper -->
+	<item class="org.joa.zipperplus7.StartPageActivity" name="_7zipper"/>
+
+	<!-- 8Vim -->
+	<item class="inc.flide.vim8.SettingsLauncherAlias" name="_8vim"/>
+
+	<!-- カメラ -->
+	<item class="com.oppo.camera.Camera" name="カメラ"/>
+
+	<!-- ギャラリー -->
+	<item class="com.simplemobiletools.gallery.pro.activities.SplashActivity.Teal" name="simplemobiletools_gallery_teal"/>
+
+	<!-- コンパス -->
+	<item class="com.coloros.compass.flat.FlatCompass" name="コンパス"/>
+
+	<!-- テーマストア -->
+	<item class="com.nearme.themespace.activities.ThemeActivity" name="テマストア"/>
+
+	<!-- File Manager -->
+	<item class="com.coloros.filemanager.filerefactor.ui.main.MainActivity" name="file_manager"/>
+
+	<!-- メッセージ -->
+	<item class="com.android.mms.ui.ConversationList" name="android_mms_list"/>
+
+	<!-- Calculator -->
+	<item class="com.android.calculator2.Calculator" name="calculator"/>
+
+	<!-- 電話 -->
+	<item class="com.android.contacts.DialtactsActivityAlias" name="android_contacts_dial"/>
+
+	<!-- I Can't Wake Up! Alarm Clock -->
+	<item class="com.n7mobile.icantwakeup.ui.MainActivity" name="i_cant_wake_up_alarm_clock"/>
+
+	<!-- AndFTP -->
+	<item class="lysesoft.andftp.SplashActivity" name="andftp"/>
+
+	<!-- Avast Mobile Security -->
+	<item class="com.avast.android.one.base.ui.main.MainActivity" name="avast_mobile_security"/>
+
+	<!-- Bejeweled3 -->
+	<item class="com.trans.bejeweled3.Bejeweled3" name="bejeweled3"/>
+
+	<!-- CommBank -->
+	<item class="com.commbank.netbank.application.MainActivity" name="commbank"/>
+
+	<!-- Desmos -->
+	<item class="com.desmos.calculator.MainActivity" name="desmos"/>
+
+	<!-- dotpict -->
+	<item class="net.dotpicko.dotpict.RoutingActivity" name="dotpict"/>
+
+	<!-- DualWallpaper -->
+	<item class="de.dlyt.yanndroid.dualwallpaper.ui.activity.MainActivity" name="dualwallpaper"/>
+
+	<!-- DuckStation -->
+	<item class="com.github.stenzek.duckstation.MainActivity" name="duckstation"/>
+
+	<!-- Easy xkcd -->
+	<item class="de.tap.easy_xkcd.mainActivity.MainActivity" name="easy_xkcd"/>
+
+	<!-- easypose -->
+	<item class="com.unity3d.player.UnityPlayerActivity" name="easypose"/>
+
+	<!-- FamiStudio -->
+	<item class="crc64a10958aa5b7794e0.FamiStudioWindow" name="famistudio"/>
+
+	<!-- FreeOTP+ -->
+	<item class="org.fedorahosted.freeotp.ui.MainActivity" name="freeotp_"/>
+
+	<!-- Gacha Life -->
+	<item class="air.com.lunime.gachalife.AIRAppEntry" name="gacha_life"/>
+
+	<!-- GIFShop -->
+	<item class="com.gif.gifmaker.ui.splash.SplashScreen" name="gifshop"/>
+
+	<!-- Hacker's Keyboard -->
+	<item class="org.pocketworkstation.pckeyboard.Main" name="hackers_keyboard"/>
+
+	<!-- Keyman -->
+	<item class="com.tavultesoft.kmapro.SplashScreenActivity" name="keyman"/>
+
+	<!-- LINE -->
+	<item class="jp.naver.line.android.activity.SplashActivity" name="line"/>
+
+	<!-- Lovense Remote -->
+	<item class="com.wear.main.FlashActivity" name="lovense_remote"/>
+
+	<!-- MediaFire -->
+	<item class="com.mediafire.android.MainActivity" name="mediafire"/>
+
+	<!-- melonDS -->
+	<item class="me.magnum.melonds.ui.romlist.RomListActivity" name="melonds"/>
+
+	<!-- Metronome -->
+	<item class="com.eumlab.prometronome.MainActivity" name="metronome"/>
+
+	<!-- Minesweeper -->
+	<item class="ee.dustland.android.minesweeper.MinesweeperHostActivity" name="minesweeper"/>
+
+	<!-- Mitch -->
+	<item class="garden.appl.mitch.ui.MainActivity" name="mitch"/>
+
+	<!-- Multiling O Keyboard -->
+	<item class="kl.ime.oh.M" name="multiling_o_keyboard"/>
+
+	<!-- Night Filter -->
+	<item class="com.digipom.nightfilter.activity.StartActivity" name="night_filter"/>
+
+	<!-- Opera GX -->
+	<item class="com.opera.gx.MainActivity" name="opera_gx"/>
+
+	<!-- Barcode Scanner -->
+	<item class="com.google.zxing.client.android.CaptureActivity" name="barcode_scanner"/>
+
+	<!-- QuickEdit -->
+	<item class="com.rhmsoft.edit.activity.MainActivity" name="quickedit"/>
+
+	<!-- Replit -->
+	<item class="com.replit.app.MainActivity" name="replit"/>
+
+	<!-- Revolt -->
+	<item class="chat.revolt.app.twa.LauncherActivity" name="revolt"/>
+
+	<!-- Screen Master -->
+	<item class="pro.capture.screenshot.activity.SplashActivity" name="screen_master"/>
+
+	<!-- Senreta Vortaro -->
+	<item class="org.mcxa.vortaro.MainActivity" name="senreta_vortaro"/>
+
+	<!-- Simple Weight Tracker -->
+	<item class="com.gmail.makasewicz.maciej.ui.activity.MainActivity" name="simple_weight_tracker"/>
+
+	<!-- spacedesk -->
+	<item class="ph.spacedesk.httpwww.spacedesk.SAActivityConnect" name="spacedesk"/>
+
+	<!-- Spell4Wiki -->
+	<item class="com.manimarank.spell4wiki.ui.splash.SplashActivity" name="spell4wiki"/>
+
+	<!-- Square Pic -->
+	<item class="com.shamble.instafit.SplashActivity" name="square_pic"/>
+
+	<!-- tenki.jp -->
+	<item class="jwa.or.jp.tenkijp3.SplashActivity" name="tenkijp"/>
+
+	<!-- Tinder -->
+	<item class="com.tinder.launch.internal.activities.LoginActivity" name="tinder"/>
+
+	<!-- translator
+ -->
+	<item class="de.monocles.translator.ui.MainActivity" name="translator
+"/>
+
+	<!-- Tumblr -->
+	<item class="com.tumblr.ui.activity.JumpoffActivity" name="tumblr"/>
+
+	<!-- TunnelBear -->
+	<item class="com.tunnelbear.android.mvvmReDesign.NavGraphActivity" name="tunnelbear"/>
+
+	<!-- Twitch -->
+	<item class="tv.twitch.android.app.core.LandingActivity" name="twitch"/>
+
+	<!-- UnicodePad -->
+	<item class="jp.ddo.hotmist.unicodepad.UnicodeActivity" name="unicodepad"/>
+
+	<!-- Vendetta -->
+	<item class="com.discord.main.MainDefault" name="vendetta"/>
+
+	<!-- Vendetta Manager -->
+	<item class="dev.beefers.vendetta.manager.ui.activity.MainActivity" name="vendetta_manager"/>
+
+	<!-- Wordfeud -->
+	<item class="com.hbwares.wordfeud.ui.WordFeudActivity" name="wordfeud"/>
+
+</appmap>

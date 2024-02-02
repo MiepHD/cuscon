@@ -2094,5 +2094,7 @@
     <item component="ComponentInfo{com.jeffprod.cubesolver/com.jeffprod.cubesolver.MainActivity}" drawable="cube_solver" />
     <item component="ComponentInfo{com.highxp.doodle/com.highxp.doodle.MainActivity}" drawable="doodle_me" />
     <item component="ComponentInfo{com.timleg.quiz/com.timleg.quiz.Game}" drawable="endlos_quiz" />
+	<item component="ComponentInfo{com.android.dialer/com.android.dialer.app.DialtactsActivity}" drawable="oneplus_phone" />
+	<item component="ComponentInfo{com.heytap.music/com.nearme.music.splash.SplashActivity}" drawable="music" />
 
 </resources>

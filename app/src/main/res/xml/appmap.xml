@@ -2076,5 +2076,40 @@
     <item class="com.jeffprod.cubesolver.MainActivity" name="cube_solver"/>
     <item class="com.highxp.doodle.MainActivity" name="doodle_me"/>
     <item class="com.timleg.quiz.Game" name="endlos_quiz"/>
+	<item class="com.android.dialer.app.DialtactsActivity" name="oneplus_phone"/>
+	<item class="com.nearme.music.splash.SplashActivity" name="music"/>
+	<item class="com.q42.ohhi.MainActivity" name="_0h_h1"/>
+    <item class="inc.flide.vim8.SettingsLauncherAlias" name="_8vim"/>
+    <item class="lysesoft.andftp.SplashActivity" name="andftp"/>
+    <item class="com.android.contacts.DialtactsActivityAlias" name="android_contacts_dial"/>
+    <item class="com.android.mms.ui.ConversationList" name="android_mms_list"/>
+    <item class="com.commbank.netbank.application.MainActivity" name="commbank"/>
+    <item class="com.desmos.calculator.MainActivity" name="desmos"/>
+    <item class="de.tap.easy_xkcd.mainActivity.MainActivity" name="easy_xkcd"/>
+    <item class="com.coloros.filemanager.filerefactor.ui.main.MainActivity" name="file_manager"/>
+    <item class="com.tavultesoft.kmapro.SplashScreenActivity" name="keyman"/>
+    <item class="com.wear.main.FlashActivity" name="lovense_remote"/>
+    <item class="com.mediafire.android.MainActivity" name="mediafire"/>
+    <item class="ee.dustland.android.minesweeper.MinesweeperHostActivity" name="minesweeper"/>
+    <item class="garden.appl.mitch.ui.MainActivity" name="mitch"/>
+    <item class="com.opera.gx.MainActivity" name="opera_gx"/>
+    <item class="com.rhmsoft.edit.activity.MainActivity" name="quickedit"/>
+    <item class="com.replit.app.MainActivity" name="replit"/>
+    <item class="chat.revolt.app.twa.LauncherActivity" name="revolt"/>
+    <item class="pro.capture.screenshot.activity.SplashActivity" name="screen_master"/>
+    <item class="org.mcxa.vortaro.MainActivity" name="senreta_vortaro"/>
+    <item class="com.gmail.makasewicz.maciej.ui.activity.MainActivity" name="simple_weight_tracker"/>
+    <item class="com.simplemobiletools.gallery.pro.activities.SplashActivity.Teal" name="simplemobiletools_gallery_teal"/>
+    <item class="ph.spacedesk.httpwww.spacedesk.SAActivityConnect" name="spacedesk"/>
+    <item class="com.shamble.instafit.SplashActivity" name="square_pic"/>
+    <item class="jp.ddo.hotmist.unicodepad.UnicodeActivity" name="unicodepad"/>
+    <item class="com.discord.main.MainDefault" name="vendetta"/>
+    <item class="dev.beefers.vendetta.manager.ui.activity.MainActivity" name="vendetta_manager"/>
+	<item class="cz.airbank.mb.android.activity.unsecured.LandingActivity" name="air_bank"/>
+    <item class="ru.kaomoji.kaomojiapp.SplashActivity" name="kaomoji"/>
+    <item class="com.kaajjo.libresudoku.MainActivity" name="libresudoku"/>
+    <item class="com.circlegate.cd.app.activity.MainActivity" name="muj_vlak"/>
+    <item class="org.schabi.newpipe.MainActivity" name="pipepipe"/>
+    <item class="com.riteshsahu.SMSBackupRestore.activities.IntroActivity" name="sms_backup_and_restore"/>
 
 </appmap>

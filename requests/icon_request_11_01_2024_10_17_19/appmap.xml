@@ -10,7 +10,7 @@
 	<item class="com.oplus.camera.Camera" name="camera"/>
 
 	<!-- Clock -->
-	<item class="com.oplus.alarmclock.AlarmClock" name="clock"/>
+	<item class="com.oplus.alarmclock.AlarmClock" name="coloros_clock"/>
 
 	<!-- Community -->
 	<item class="com.android.realme2.start.view.AdvertiseActivity" name="community"/>

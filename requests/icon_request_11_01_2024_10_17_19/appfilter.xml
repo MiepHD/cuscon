@@ -10,7 +10,7 @@
 	<item component="ComponentInfo{com.oplus.camera/com.oplus.camera.Camera}" drawable="camera" />
 
 	<!-- Clock -->
-	<item component="ComponentInfo{com.coloros.alarmclock/com.oplus.alarmclock.AlarmClock}" drawable="clock" />
+	<item component="ComponentInfo{com.coloros.alarmclock/com.oplus.alarmclock.AlarmClock}" drawable="coloros_clock" />
 
 	<!-- Community -->
 	<item component="ComponentInfo{com.realmecomm.app/com.android.realme2.start.view.AdvertiseActivity}" drawable="community" />

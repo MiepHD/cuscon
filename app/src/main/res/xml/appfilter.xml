@@ -2094,5 +2094,40 @@
     <item component="ComponentInfo{com.jeffprod.cubesolver/com.jeffprod.cubesolver.MainActivity}" drawable="cube_solver" />
     <item component="ComponentInfo{com.highxp.doodle/com.highxp.doodle.MainActivity}" drawable="doodle_me" />
     <item component="ComponentInfo{com.timleg.quiz/com.timleg.quiz.Game}" drawable="endlos_quiz" />
+	<item component="ComponentInfo{com.android.dialer/com.android.dialer.app.DialtactsActivity}" drawable="oneplus_phone" />
+	<item component="ComponentInfo{com.heytap.music/com.nearme.music.splash.SplashActivity}" drawable="music" />
+	<item component="ComponentInfo{com.q42.ohhi/com.q42.ohhi.MainActivity}" drawable="_0h_h1" />
+    <item component="ComponentInfo{inc.flide.vi8/inc.flide.vim8.SettingsLauncherAlias}" drawable="_8vim" />
+    <item component="ComponentInfo{lysesoft.andftp/lysesoft.andftp.SplashActivity}" drawable="andftp" />
+    <item component="ComponentInfo{com.android.contacts/com.android.contacts.DialtactsActivityAlias}" drawable="android_contacts_dial" />
+    <item component="ComponentInfo{com.android.mms/com.android.mms.ui.ConversationList}" drawable="android_mms_list" />
+    <item component="ComponentInfo{com.commbank.netbank/com.commbank.netbank.application.MainActivity}" drawable="commbank" />
+    <item component="ComponentInfo{com.desmos.calculator/com.desmos.calculator.MainActivity}" drawable="desmos" />
+    <item component="ComponentInfo{de.tap.easy_xkcd/de.tap.easy_xkcd.mainActivity.MainActivity}" drawable="easy_xkcd" />
+    <item component="ComponentInfo{com.coloros.filemanager/com.coloros.filemanager.filerefactor.ui.main.MainActivity}" drawable="file_manager" />
+    <item component="ComponentInfo{com.tavultesoft.kmapro/com.tavultesoft.kmapro.SplashScreenActivity}" drawable="keyman" />
+    <item component="ComponentInfo{com.lovense.wear/com.wear.main.FlashActivity}" drawable="lovense_remote" />
+    <item component="ComponentInfo{com.mediafire.android/com.mediafire.android.MainActivity}" drawable="mediafire" />
+    <item component="ComponentInfo{ee.dustland.android.minesweeper/ee.dustland.android.minesweeper.MinesweeperHostActivity}" drawable="minesweeper" />
+    <item component="ComponentInfo{ua.gardenapple.itchupdater/garden.appl.mitch.ui.MainActivity}" drawable="mitch" />
+    <item component="ComponentInfo{com.opera.gx/com.opera.gx.MainActivity}" drawable="opera_gx" />
+    <item component="ComponentInfo{com.rhmsoft.edit/com.rhmsoft.edit.activity.MainActivity}" drawable="quickedit" />
+    <item component="ComponentInfo{com.replit.app/com.replit.app.MainActivity}" drawable="replit" />
+    <item component="ComponentInfo{chat.revolt.app.twa/chat.revolt.app.twa.LauncherActivity}" drawable="revolt" />
+    <item component="ComponentInfo{pro.capture.screenshot/pro.capture.screenshot.activity.SplashActivity}" drawable="screen_master" />
+    <item component="ComponentInfo{org.mcxa.vortaro/org.mcxa.vortaro.MainActivity}" drawable="senreta_vortaro" />
+    <item component="ComponentInfo{com.gmail.makasewicz.maciej/com.gmail.makasewicz.maciej.ui.activity.MainActivity}" drawable="simple_weight_tracker" />
+    <item component="ComponentInfo{com.simplemobiletools.gallery.pro/com.simplemobiletools.gallery.pro.activities.SplashActivity.Teal}" drawable="simplemobiletools_gallery_teal" />
+    <item component="ComponentInfo{ph.spacedesk.beta/ph.spacedesk.httpwww.spacedesk.SAActivityConnect}" drawable="spacedesk" />
+    <item component="ComponentInfo{nocrop.photoeditor.squarepic/com.shamble.instafit.SplashActivity}" drawable="square_pic" />
+    <item component="ComponentInfo{jp.ddo.hotmist.unicodepad/jp.ddo.hotmist.unicodepad.UnicodeActivity}" drawable="unicodepad" />
+    <item component="ComponentInfo{dev.beefers.vendetta/com.discord.main.MainDefault}" drawable="vendetta" />
+    <item component="ComponentInfo{dev.beefers.vendetta.manager/dev.beefers.vendetta.manager.ui.activity.MainActivity}" drawable="vendetta_manager" />
+	<item component="ComponentInfo{cz.airbank.android/cz.airbank.mb.android.activity.unsecured.LandingActivity}" drawable="air_bank" />
+    <item component="ComponentInfo{ru.kaomoji.kaomojiapp/ru.kaomoji.kaomojiapp.SplashActivity}" drawable="kaomoji" />
+    <item component="ComponentInfo{com.kaajjo.libresudoku/com.kaajjo.libresudoku.MainActivity}" drawable="libresudoku" />
+    <item component="ComponentInfo{cz.cd.mujvlak.an/com.circlegate.cd.app.activity.MainActivity}" drawable="muj_vlak" />
+	<item component="ComponentInfo{InfinityLoop1309.NewPipeEnhanced/org.schabi.newpipe.MainActivity}" drawable="pipepipe" />
+    <item component="ComponentInfo{com.riteshsahu.SMSBackupRestore/com.riteshsahu.SMSBackupRestore.activities.IntroActivity}" drawable="sms_backup_and_restore" />
 
 </resources>

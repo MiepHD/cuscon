@@ -1,7 +1,7 @@
 <appmap>
 
 	<!-- ギャラリー -->
-	<item class="com.simplemobiletools.gallery.pro.activities.SplashActivity.Purple" name="ギャラリー"/>
+	<item class="com.simplemobiletools.gallery.pro.activities.SplashActivity.Purple" name="simplemobiletools_gallery_purple"/>
 
 	<!-- メール -->
 	<item class="jp.co.yahoo.android.ymobile.mail.ui.SplashActivity" name="メール"/>

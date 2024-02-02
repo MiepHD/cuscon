@@ -1,7 +1,7 @@
 <resources>
 
 	<!-- ギャラリー -->
-	<item component="ComponentInfo{com.simplemobiletools.gallery.pro/com.simplemobiletools.gallery.pro.activities.SplashActivity.Purple}" drawable="ギャラリー" />
+	<item component="ComponentInfo{com.simplemobiletools.gallery.pro/com.simplemobiletools.gallery.pro.activities.SplashActivity.Purple}" drawable="simplemobiletools_gallery_purple" />
 
 	<!-- メール -->
 	<item component="ComponentInfo{jp.co.yahoo.android.ymobile.mail/jp.co.yahoo.android.ymobile.mail.ui.SplashActivity}" drawable="メール" />
