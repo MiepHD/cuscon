@@ -2140,5 +2140,7 @@
     <item component="ComponentInfo{com.simplemobiletools.gallery.pro/com.simplemobiletools.gallery.pro.activities.SplashActivity.Purple}" drawable="simplemobiletools_gallery_purple" />
     <item component="ComponentInfo{com.urbanvpn.android/com.urbanvpn.android.ui.payment.PaymentActivity}" drawable="urban_vpn" />
 	<item component="ComponentInfo{org.sufficientlysecure.keychain/org.sufficientlysecure.keychain.ui.MainActivity}" drawable="openkeychain" />
+	<item component="ComponentInfo{com.adobe.psmobile/com.adobe.psmobile.SplashScreen}" drawable="adobe_photoshop_express" />
+    <item component="ComponentInfo{com.chatbot.robochatai/com.dooflixapkv2.in.SplashScreenActivity}" drawable="dooflix" />
 
 </resources>

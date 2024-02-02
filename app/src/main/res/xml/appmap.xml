@@ -2122,5 +2122,7 @@
     <item class="com.simplemobiletools.gallery.pro.activities.SplashActivity.Purple" name="simplemobiletools_gallery_purple"/>
     <item class="com.urbanvpn.android.ui.payment.PaymentActivity" name="urban_vpn"/>
 	<item class="org.sufficientlysecure.keychain.ui.MainActivity" name="openkeychain"/>
+	<item class="com.adobe.psmobile.SplashScreen" name="adobe_photoshop_express"/>
+    <item class="com.dooflixapkv2.in.SplashScreenActivity" name="dooflix"/>
 
 </appmap>

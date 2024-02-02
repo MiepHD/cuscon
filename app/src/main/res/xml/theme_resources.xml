@@ -2131,5 +2131,7 @@
     <AppIcon name="com.simplemobiletools.gallery.pro/com.simplemobiletools.gallery.pro.activities.SplashActivity.Purple" image="simplemobiletools_gallery_purple"/>
     <AppIcon name="com.urbanvpn.android/com.urbanvpn.android.ui.payment.PaymentActivity" image="urban_vpn"/>
 	<AppIcon name="org.sufficientlysecure.keychain/org.sufficientlysecure.keychain.ui.MainActivity" image="openkeychain"/>
+	<AppIcon name="com.adobe.psmobile/com.adobe.psmobile.SplashScreen" image="adobe_photoshop_express"/>
+    <AppIcon name="com.chatbot.robochatai/com.dooflixapkv2.in.SplashScreenActivity" image="dooflix"/>
 
 </Theme>
