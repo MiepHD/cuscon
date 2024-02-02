@@ -2159,5 +2159,6 @@
     <item class="carScannerXamarinForms.Droid.MainActivity" name="car_scanner"/>
     <item class="com.zoontek.rnbootsplash.RNBootSplashActivity" name="dpd"/>
     <item class="com.mcdonalds.mcdcoreapp.common.activity.SplashActivity" name="mcdonalds"/>
+	<item class="com.miui.gallery.activity.HomePageActivity" name="miui_gallery"/>
 
 </appmap>

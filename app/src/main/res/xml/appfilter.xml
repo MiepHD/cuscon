@@ -2177,5 +2177,6 @@
     <item component="ComponentInfo{com.ovz.carscanner.huawei/carScannerXamarinForms.Droid.MainActivity}" drawable="car_scanner" />
     <item component="ComponentInfo{com.dpd.yourdpd/com.zoontek.rnbootsplash.RNBootSplashActivity}" drawable="dpd" />
     <item component="ComponentInfo{com.mcdonalds.app.uk/com.mcdonalds.mcdcoreapp.common.activity.SplashActivity}" drawable="mcdonalds" />
+	<item component="ComponentInfo{com.miui.gallery/com.miui.gallery.activity.HomePageActivity}" drawable="miui_gallery" />
 
 </resources>

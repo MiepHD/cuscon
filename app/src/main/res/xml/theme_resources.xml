@@ -2168,5 +2168,6 @@
     <AppIcon name="com.ovz.carscanner.huawei/carScannerXamarinForms.Droid.MainActivity" image="car_scanner"/>
     <AppIcon name="com.dpd.yourdpd/com.zoontek.rnbootsplash.RNBootSplashActivity" image="dpd"/>
     <AppIcon name="com.mcdonalds.app.uk/com.mcdonalds.mcdcoreapp.common.activity.SplashActivity" image="mcdonalds"/>
+	<AppIcon name="com.miui.gallery/com.miui.gallery.activity.HomePageActivity" image="miui_gallery"/>
 
 </Theme>

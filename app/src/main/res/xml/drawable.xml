@@ -2042,5 +2042,6 @@
 	<item drawable="capital_one" />
     <item drawable="cox_wifi" />
 	<item drawable="red_moon" />
+	<item drawable="miui_gallery" />
 
 </resources>
