@@ -2039,5 +2039,7 @@
     <item drawable="microsoft_365_office_" />
     <item drawable="mlite" />
     <item drawable="yes_seatel" />
+	<item drawable="capital_one" />
+    <item drawable="cox_wifi" />
 
 </resources>

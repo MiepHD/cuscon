@@ -2151,5 +2151,7 @@
     <item class="com.microsoft.office.officesuite.OfficeSuiteActivity" name="microsoft_365_office_"/>
     <item class="com.facebook.mlite.coreui.view.MainActivity" name="mlite"/>
     <item class="com.seatel.mobilehall.ui.splashscreen.SplashScreenActivity" name="yes_seatel"/>
+	<item class="com.konylabs.capitalone.EnterpriseMobileBanking.LaunchActivity" name="capital_one"/>
+    <item class="com.xfinity.digitalhome.features.launch.splash.SplashActivity" name="cox_wifi"/>
 
 </appmap>

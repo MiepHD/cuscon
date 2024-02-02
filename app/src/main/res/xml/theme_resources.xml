@@ -2160,5 +2160,7 @@
     <AppIcon name="com.microsoft.office.officehub/com.microsoft.office.officesuite.OfficeSuiteActivity" image="microsoft_365_office_"/>
     <AppIcon name="com.facebook.mlite/com.facebook.mlite.coreui.view.MainActivity" image="mlite"/>
     <AppIcon name="com.seatel.mobilehall/com.seatel.mobilehall.ui.splashscreen.SplashScreenActivity" image="yes_seatel"/>
+	<AppIcon name="com.konylabs.capitalone/com.konylabs.capitalone.EnterpriseMobileBanking.LaunchActivity" image="capital_one"/>
+    <AppIcon name="com.cox.panowifi/com.xfinity.digitalhome.features.launch.splash.SplashActivity" image="cox_wifi"/>
 
 </Theme>
