@@ -1,0 +1,9 @@
+<Theme version="1">
+
+	<!-- Feeder -->
+	<AppIcon name="com.nononsenseapps.feeder/com.nononsenseapps.feeder.ui.MainActivity" image="feeder"/>
+
+	<!-- Red Moon -->
+	<AppIcon name="com.jmstudios.redmoon/com.jmstudios.redmoon.activity.MainActivity" image="red_moon"/>
+
+</Theme>

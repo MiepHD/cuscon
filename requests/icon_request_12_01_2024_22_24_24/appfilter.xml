@@ -1,0 +1,9 @@
+<resources>
+
+	<!-- Feeder -->
+	<item component="ComponentInfo{com.nononsenseapps.feeder/com.nononsenseapps.feeder.ui.MainActivity}" drawable="feeder" />
+
+	<!-- Red Moon -->
+	<item component="ComponentInfo{com.jmstudios.redmoon/com.jmstudios.redmoon.activity.MainActivity}" drawable="red_moon" />
+
+</resources>

@@ -1,0 +1,18 @@
+<Theme version="1">
+
+	<!-- Capital One -->
+	<AppIcon name="com.konylabs.capitalone/com.konylabs.capitalone.EnterpriseMobileBanking.LaunchActivity" image="capital_one"/>
+
+	<!-- Cox Wifi -->
+	<AppIcon name="com.cox.panowifi/com.xfinity.digitalhome.features.launch.splash.SplashActivity" image="cox_wifi"/>
+
+	<!-- Moon+ Reader Pro -->
+	<AppIcon name="com.flyersoft.moonreaderp/com.flyersoft.moonreaderp.ActivityMain" image="moon_reader_pro"/>
+
+	<!-- Newegg -->
+	<AppIcon name="com.newegg.app/com.newegg.app.MainActivity" image="newegg"/>
+
+	<!-- Wells Fargo -->
+	<AppIcon name="com.wf.wellsfargomobile/com.wf.wellsfargomobile.LauncherActivity" image="wells_fargo"/>
+
+</Theme>

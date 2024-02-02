@@ -1,0 +1,324 @@
+<resources>
+
+	<!-- Air Hockey Challenge -->
+	<item component="ComponentInfo{com.mobirix.airhockey/com.mobirix.airhockey.airhockey}" drawable="air_hockey_challenge" />
+
+	<!-- Anime Slayer -->
+	<item component="ComponentInfo{com.anslayer/com.anslayer.ui.splash.SplashActivity}" drawable="anime_slayer" />
+
+	<!-- Apktool M -->
+	<item component="ComponentInfo{ru.maximoff.apktool/ru.maximoff.apktool.SplashActivity}" drawable="apktool_m" />
+
+	<!-- APNA SHIELD PRO -->
+	<item component="ComponentInfo{com.apnashield.pro/prince.open.vpn.activities.SplashActivity}" drawable="apna_shield_pro" />
+
+	<!-- App vault -->
+	<item component="ComponentInfo{com.mi.globalminusscreen/com.mi.globalminusscreen.MainActivity}" drawable="app_vault" />
+
+	<!-- Arabic English Dictionary -->
+	<item component="ComponentInfo{com.dictionary.ar/com.dictionary.ar.DictionaryActivity}" drawable="arabic_english_dictionary" />
+
+	<!-- Archery Battle -->
+	<item component="ComponentInfo{com.cg.archery/com.cg.archery.MainActivity}" drawable="archery_battle" />
+
+	<!-- ASD Player -->
+	<item component="ComponentInfo{com.app_mo.splayer/com.app_mo.splayer.ui.main.MainActivity}" drawable="asd_player" />
+
+	<!-- Ayah -->
+	<item component="ComponentInfo{com.ayah/com.ayah.ui.SplashScreen}" drawable="ayah" />
+
+	<!-- Base64 -->
+	<item component="ComponentInfo{com.github.base64toolbox/com.example.intro_screen.MainActivity}" drawable="base64" />
+
+	<!-- Beeper -->
+	<item component="ComponentInfo{com.beeper.ima/com.beeper.chat.booper.MainActivity}" drawable="beeper" />
+
+	<!-- Boardible -->
+	<item component="ComponentInfo{com.Boardible.Boardible/com.google.firebase.MessagingUnityPlayerActivity}" drawable="boardible" />
+
+	<!-- BOK -->
+	<item component="ComponentInfo{com.mode.bok.ui/com.mode.bok.ui.DefaultLanguageActivity}" drawable="bok" />
+
+	<!-- Bolt -->
+	<item component="ComponentInfo{ee.mtakso.client/ee.mtakso.client.activity.SplashHomeActivity}" drawable="bolt" />
+
+	<!-- Botim -->
+	<item component="ComponentInfo{im.thebot.messenger/im.thebot.messenger.BOTStartPage}" drawable="botim" />
+
+	<!-- Brick Game -->
+	<item component="ComponentInfo{com.perseusgames.brickgame/com.unity3d.player.UnityPlayerActivity}" drawable="brick_game" />
+
+	<!-- Calendar -->
+	<item component="ComponentInfo{com.xiaomi.calendar/com.android.calendar.homepage.AllInOneActivity}" drawable="calendar" />
+
+	<!-- Call of Duty -->
+	<item component="ComponentInfo{com.activision.callofduty.shooter/com.tencent.tmgp.cod.CODMPrivatePermissionActivity}" drawable="call_of_duty" />
+
+	<!-- Car Racing -->
+	<item component="ComponentInfo{com.perseusgames.racingcar/com.unity3d.player.UnityPlayerActivity}" drawable="car_racing" />
+
+	<!-- Careem -->
+	<item component="ComponentInfo{com.careem.acma/com.careem.superapp.OnboardingActivityOldIcon}" drawable="careem" />
+
+	<!-- Clock -->
+	<item component="ComponentInfo{com.android.deskclock/com.android.deskclock.DeskClockTabActivity}" drawable="clock" />
+
+	<!-- COD Warzone -->
+	<item component="ComponentInfo{com.activision.callofduty.warzone/com.activision.game.MainActivity}" drawable="cod_warzone" />
+
+	<!-- COUNTRY TUNNEL VIP -->
+	<item component="ComponentInfo{dev.rlb.studio.countrytunnelvip/renz.javacodez.vpn.activities.RCODEVPNSplash}" drawable="country_tunnel_vip" />
+
+	<!-- Cromite -->
+	<item component="ComponentInfo{org.cromite.cromite/com.google.android.apps.chrome.Main}" drawable="cromite" />
+
+	<!-- Currency Plus -->
+	<item component="ComponentInfo{com.digitalchemy.currencyconverter/sk.halmi.ccalc.main.MainActivity}" drawable="currency_plus" />
+
+	<!-- D4D -->
+	<item component="ComponentInfo{com.voixme.d4d/com.voixme.d4d.ui.activity.SplashScreen}" drawable="d4d" />
+
+	<!-- Devil May Cry: Peak of Combat -->
+	<item component="ComponentInfo{com.nebulajoy.act.dmcpoc/com.hutong.supersdk.MainActivity}" drawable="devil_may_cry_peak_of_combat" />
+
+	<!-- Downloads -->
+	<item component="ComponentInfo{com.android.providers.downloads.ui/com.android.providers.downloads.ui.DownloadList}" drawable="downloads" />
+
+	<!-- Early Bird Alarm Clock -->
+	<item component="ComponentInfo{com.funanduseful.earlybirdalarm/com.funanduseful.earlybirdalarm.ui.main.MainActivity}" drawable="early_bird_alarm_clock" />
+
+	<!-- Epic Games Store -->
+	<item component="ComponentInfo{com.epicgames.portal/com.epicgames.portal.MainActivity}" drawable="epic_games_store" />
+
+	<!-- Epub Reader -->
+	<item component="ComponentInfo{epub.reader/com.foobnix.ui2.MainTabs2}" drawable="epub_reader" />
+
+	<!-- Falling Blocks -->
+	<item component="ComponentInfo{org.sajeg.fallingblocks/com.godot.game.GodotApp}" drawable="falling_blocks" />
+
+	<!-- Fanta Pro Vpn -->
+	<item component="ComponentInfo{com.fantapro.free/renz.javacodez.vpn.activities.VPNSplash}" drawable="fanta_pro_vpn" />
+
+	<!-- File Manager -->
+	<item component="ComponentInfo{org.fossify.filemanager/org.fossify.filemanager.activities.SplashActivity.Green}" drawable="file_manager" />
+
+	<!-- FluffyChat -->
+	<item component="ComponentInfo{chat.fluffy.fluffychat/chat.fluffy.fluffychat.MainActivity}" drawable="fluffychat" />
+
+	<!-- FontFix -->
+	<item component="ComponentInfo{com.jrummy.font.installer.free/com.jrummyapps.fontfix.activities.FontListActivity}" drawable="fontfix" />
+
+	<!-- Fortnite -->
+	<item component="ComponentInfo{com.epicgames.fortnite/com.epicgames.unreal.SplashActivity}" drawable="fortnite" />
+
+	<!-- FV File Explorer Pro -->
+	<item component="ComponentInfo{com.folderv.filepro/com.folderv.file.SplashActivity}" drawable="fv_file_explorer_pro" />
+
+	<!-- Gallery -->
+	<item component="ComponentInfo{com.miui.gallery/com.miui.gallery.activity.HomePageActivity}" drawable="gallery" />
+
+	<!-- Game Center -->
+	<item component="ComponentInfo{com.xiaomi.glgm/com.xiaomi.glgm.home.ui.SplashActivity}" drawable="game_center" />
+
+	<!-- GameBox -->
+	<item component="ComponentInfo{com.turner.cartoonnetworkgames/com.turner.cartoonnetworkgames.MainActivity}" drawable="gamebox" />
+
+	<!-- GetApps -->
+	<item component="ComponentInfo{com.xiaomi.mipicks/com.xiaomi.mipicks.DefaultAlias}" drawable="getapps" />
+
+	<!-- GTA: SA -->
+	<item component="ComponentInfo{com.rockstargames.gtasa/com.rockstargames.gtasa.Downloader}" drawable="gta_sa" />
+
+	<!-- GuessIron -->
+	<item component="ComponentInfo{de.indie42.guessiron/de.indie42.guessiron.MainActivity}" drawable="guessiron" />
+
+	<!-- HackerBot -->
+	<item component="ComponentInfo{net.hackerbot.hbsiteapp/net.hackerbot.hbsiteapp.MainActivity}" drawable="hackerbot" />
+
+	<!-- HexX VPN -->
+	<item component="ComponentInfo{xyz.spkmoder.hexx.vpn/com.tekidoer.hexxvpn.activities.SplashActivity}" drawable="hexx_vpn" />
+
+	<!-- Honista -->
+	<item component="ComponentInfo{cc.honista.app/com.app.launcher_0}" drawable="honista" />
+
+	<!-- HTTP Request Tunnel -->
+	<item component="ComponentInfo{com.request.http/spkmods.build.austrovpn.LauncherActivity}" drawable="http_request_tunnel" />
+
+	<!-- HungerStation -->
+	<item component="ComponentInfo{com.hungerstation.android.web/com.hungerstation.android.web.v6.screens.splash.view.SplashActivity}" drawable="hungerstation" />
+
+	<!-- ICE VPN -->
+	<item component="ComponentInfo{app.icevpn.devusa.build/com.technore.tunnel.activities.SpashActivity}" drawable="ice_vpn" />
+
+	<!-- imo HD -->
+	<item component="ComponentInfo{com.imo.android.imoimhd/com.imo.android.imoim.activities.Home}" drawable="imo_hd" />
+
+	<!-- IR PRO VPN -->
+	<item component="ComponentInfo{app.irprovpn.ovpn3/com.technore.tunnel.activities.SplashActivity}" drawable="ir_pro_vpn" />
+
+	<!-- IzzyOnDroid -->
+	<item component="ComponentInfo{in.sunilpaulmathew.izzyondroid/in.sunilpaulmathew.izzyondroid.MainActivity}" drawable="izzyondroid" />
+
+	<!-- JACO -->
+	<item component="ComponentInfo{com.weo.projectz/com.weo.projectz.MainActivity}" drawable="jaco" />
+
+	<!-- Kiberu Data App -->
+	<item component="ComponentInfo{com.wKiberuDataApp_17143086/com.appsgeyser.multiTabApp.MainNavigationActivity}" drawable="kiberu_data_app" />
+
+	<!-- Langster -->
+	<item component="ComponentInfo{com.langster.languages/com.langster.languages.MainActivity}" drawable="langster" />
+
+	<!-- lCagjoshiq -->
+	<item component="ComponentInfo{ru.eipjmiuj.qtprjrusi/ru.eipjmiuj.qtprjrusi.MainActivity1}" drawable="lcagjoshiq" />
+
+	<!-- LOGO -->
+	<item component="ComponentInfo{com.bedrill.quiz.logo.world/com.unity3d.player.UnityPlayerActivity}" drawable="logo" />
+
+	<!-- MA NET VPN -->
+	<item component="ComponentInfo{com.manet.vpn/prince.open.vpn.activities.SpashActivity}" drawable="ma_net_vpn" />
+
+	<!-- Media Rewards -->
+	<item component="ComponentInfo{com.beatgridmedia.panelsync.mediarewards/com.beatgridmedia.panelsync.mediarewards.activity.OverviewActivity}" drawable="media_rewards" />
+
+	<!-- MHR Tunnel VIP -->
+	<item component="ComponentInfo{com.mhrtunnel.vip/renz.javacodez.vpn.activities.VPNSplash}" drawable="mhr_tunnel_vip" />
+
+	<!-- Mi Mover -->
+	<item component="ComponentInfo{com.miui.huanji/com.miui.huanji.MainActivity}" drawable="mi_mover" />
+
+	<!-- Mi Remote -->
+	<item component="ComponentInfo{com.duokan.phone.remotecontroller/com.xiaomi.mitv.phone.remotecontroller.HoriWidgetMainActivityV2}" drawable="mi_remote" />
+
+	<!-- Music -->
+	<item component="ComponentInfo{com.miui.player/com.miui.player.ui.MusicBrowserActivity}" drawable="music" />
+
+	<!-- MX Player -->
+	<item component="ComponentInfo{com.mxtech.videoplayer.pro/com.mxtech.videoplayer.pro.ActivityMediaList}" drawable="mx_player" />
+
+	<!-- MY TUNNEL MAX -->
+	<item component="ComponentInfo{dev.mytunnelmax.pro/com.supremedev.tunnel.activities.SpashActivity}" drawable="my_tunnel_max" />
+
+	<!-- NERD VPN 2024 -->
+	<item component="ComponentInfo{com.wNERDVPN2024_16998386/com.webihostapp.xprofreevpnapp.activities.SplashActivity}" drawable="nerd_vpn_2024" />
+
+	<!-- OpenComicVine -->
+	<item component="ComponentInfo{org.proninyaroslav.opencomicvine/org.proninyaroslav.opencomicvine.ui.MainActivity}" drawable="opencomicvine" />
+
+	<!-- OsmAnd -->
+	<item component="ComponentInfo{net.osmand/net.osmand.plus.activities.MapActivity}" drawable="osmand" />
+
+	<!-- PAC-MAN 256 -->
+	<item component="ComponentInfo{eu.bandainamcoent.pacman256/com.unity3d.player.UnityPlayerActivity}" drawable="pac_man_256" />
+
+	<!-- PDF Extra -->
+	<item component="ComponentInfo{com.mobisystems.mobiscanner/com.mobisystems.office.splashScreen.SplashScreenActivity}" drawable="pdf_extra" />
+
+	<!-- PLH TUNNEL -->
+	<item component="ComponentInfo{dev.rlb.studio.plhtunnel/renz.javacodez.vpn.activities.VPNSplash}" drawable="plh_tunnel" />
+
+	<!-- Poweramp -->
+	<item component="ComponentInfo{com.maxmpz.audioplayer/com.maxmpz.audioplayer.standard_adaptive}" drawable="poweramp" />
+
+	<!-- Puzzledom -->
+	<item component="ComponentInfo{com.puzzlegame.puzzledom/org.cocos2dx.cpp.AppActivity}" drawable="puzzledom" />
+
+	<!-- QR&T Scanner -->
+	<item component="ComponentInfo{com.netvor.qrtscanner/com.netvor.qrtscanner.MainActivity}" drawable="qr_and_t_scanner" />
+
+	<!-- Recorder -->
+	<item component="ComponentInfo{com.android.soundrecorder/com.android.soundrecorder.StartActivity}" drawable="recorder" />
+
+	<!-- Screen Recorder -->
+	<item component="ComponentInfo{com.miui.screenrecorder/com.miui.screenrecorder.activity.ScreenRecorderHomeActivity}" drawable="screen_recorder" />
+
+	<!-- Services & feedback -->
+	<item component="ComponentInfo{com.miui.miservice/com.miui.miservice.main.MainActivity}" drawable="services_and_feedback" />
+
+	<!-- SetEdit -->
+	<item component="ComponentInfo{by4a.setedit22/by4a.setedit.EditorActivity}" drawable="setedit" />
+
+	<!-- SF IV CE -->
+	<item component="ComponentInfo{jp.co.capcom.sf4ce/jp.gltest2.android.GlTest2Activity}" drawable="sf_iv_ce" />
+
+	<!-- Snake.io -->
+	<item component="ComponentInfo{com.amelosinteractive.snake/com.kooapps.unity.CustomUnityPlayerActivity}" drawable="snakeio" />
+
+	<!-- Spider -->
+	<item component="ComponentInfo{com.mobilityware.spider/com.mobilityware.spider.Spider}" drawable="spider" />
+
+	<!-- Stickman Party -->
+	<item component="ComponentInfo{com.PlayMax.playergames/com.unity3d.player.UnityPlayerActivity}" drawable="stickman_party" />
+
+	<!-- Subway Surf -->
+	<item component="ComponentInfo{com.kiloo.subwaysurf/com.sybogames.chili.multidex.ChiliMultidexSupportActivity}" drawable="subway_surf" />
+
+	<!-- Sync -->
+	<item component="ComponentInfo{com.resilio.sync/com.resilio.sync.ui.activity.StartActivity}" drawable="sync" />
+
+	<!-- Taqtaqah -->
+	<item component="ComponentInfo{com.daregame/com.daregame.MainActivity}" drawable="taqtaqah" />
+
+	<!-- The Amazing Spider-Man 2 -->
+	<item component="ComponentInfo{com.gameloft.android.ANMP.GloftASHM/com.gameloft.android.ANMP.GloftASHM.GameActivity}" drawable="the_amazing_spider_man_2" />
+
+	<!-- Themes -->
+	<item component="ComponentInfo{com.android.thememanager/com.android.thememanager.ThemeResourceTabActivity}" drawable="themes" />
+
+	<!-- TIDAL -->
+	<item component="ComponentInfo{com.aspiro.tidal/com.aspiro.wamp.LoginFragmentActivity}" drawable="tidal" />
+
+	<!-- TL FAST VPN -->
+	<item component="ComponentInfo{com.tlfast.vpn/prince.open.vpn.activities.SpashActivity}" drawable="tl_fast_vpn" />
+
+	<!-- Uninstaller -->
+	<item component="ComponentInfo{com.rhythm.hexise.uninst/com.rhythm.hexise.uninst.Uninstaller}" drawable="uninstaller" />
+
+	<!-- Viber -->
+	<item component="ComponentInfo{com.viber.voip/com.viber.voip.WelcomeActivity}" drawable="viber" />
+
+	<!-- VLN -->
+	<item component="ComponentInfo{eu.bandainamcoent.verylittlenightmares/com.unity3d.player.UnityPlayerActivity}" drawable="vln" />
+
+	<!-- Water Sort -->
+	<item component="ComponentInfo{com.no1ornothing.color.water.sort.woody.puzzle/com.unity3d.player.UnityPlayerActivity}" drawable="water_sort" />
+
+	<!-- WildHunt -->
+	<item component="ComponentInfo{com.tensquaregames.huntmobile/com.unity3d.player.UnityPlayerActivity}" drawable="wildhunt" />
+
+	<!-- XAPK Installer -->
+	<item component="ComponentInfo{com.apkpure.installer/com.apkpure.installer.MainActivity}" drawable="xapk_installer" />
+
+	<!-- Zalo -->
+	<item component="ComponentInfo{com.zing.zalo/com.zing.zalo.ui.SplashActivity}" drawable="zalo" />
+
+	<!-- التحدي السري -->
+	<item component="ComponentInfo{com.tableknightgames.secretchallenge/com.tableknightgames.secretchallenge.Main}" drawable="التحدي_السري" />
+
+	<!-- الجواب الشاطح -->
+	<item component="ComponentInfo{com.tableknightgames.aljawabalshatih/com.google.firebase.MessagingUnityPlayerActivity}" drawable="الجواب_الشاطح" />
+
+	<!-- برا السالفة -->
+	<item component="ComponentInfo{com.tableknightgames.barraalsalfah/com.tableknightgames.barraalsalfah.Main}" drawable="برا_السالفة" />
+
+	<!-- تحدي الخمس ثواني -->
+	<item component="ComponentInfo{com.threethings.challengefiveseconds/com.threethings.challengefiveseconds.MainActivity}" drawable="تحدي_الخمس_ثواني" />
+
+	<!-- جوابك جوابهم -->
+	<item component="ComponentInfo{com.tableknightgames.JawabakJawabahom/com.google.firebase.MessagingUnityPlayerActivity}" drawable="جوابك_جوابهم" />
+
+	<!-- حراج -->
+	<item component="ComponentInfo{com.haraj.app/com.haraj.app.main.MainActivity}" drawable="حراج" />
+
+	<!-- طقطقة -->
+	<item component="ComponentInfo{com.challenge_of_commands_and_confessions.taqtiqa/com.challenge_of_commands_and_confessions.taqtiqa.SplashScreen}" drawable="طقطقة" />
+
+	<!-- عوايدك -->
+	<item component="ComponentInfo{com.tableknightgames.awaydak/com.tableknightgames.awaydak.Main}" drawable="عوايدك" />
+
+	<!-- مصحف المدينة -->
+	<item component="ComponentInfo{sa.QuranComplex.QuranHafs/com.embarcadero.firemonkey.FMXNativeActivity}" drawable="مصحف_المدينة" />
+
+	<!-- هو هي هم -->
+	<item component="ComponentInfo{com.tableknightgames.heshethem/com.tableknightgames.heshethem.Main}" drawable="هو_هي_هم" />
+
+</resources>

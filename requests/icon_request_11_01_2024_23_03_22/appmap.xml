@@ -1,0 +1,18 @@
+<appmap>
+
+	<!-- PCAPdroid -->
+	<item class="com.emanuelef.remote_capture.activities.MainActivity" name="pcapdroid"/>
+
+	<!-- Rethink -->
+	<item class="com.celzero.bravedns.ui.HomeScreenActivity" name="rethink"/>
+
+	<!-- Untracker -->
+	<item class="me.zhanghai.android.untracker.MainActivity" name="untracker"/>
+
+	<!-- Voice -->
+	<item class="voice.app.features.MainActivity" name="voice"/>
+
+	<!-- WG Tunnel -->
+	<item class="com.zaneschepke.wireguardautotunnel.ui.MainActivity" name="wg_tunnel"/>
+
+</appmap>

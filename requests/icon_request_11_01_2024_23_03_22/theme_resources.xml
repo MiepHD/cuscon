@@ -1,0 +1,18 @@
+<Theme version="1">
+
+	<!-- PCAPdroid -->
+	<AppIcon name="com.emanuelef.remote_capture/com.emanuelef.remote_capture.activities.MainActivity" image="pcapdroid"/>
+
+	<!-- Rethink -->
+	<AppIcon name="com.celzero.bravedns/com.celzero.bravedns.ui.HomeScreenActivity" image="rethink"/>
+
+	<!-- Untracker -->
+	<AppIcon name="me.zhanghai.android.untracker/me.zhanghai.android.untracker.MainActivity" image="untracker"/>
+
+	<!-- Voice -->
+	<AppIcon name="de.ph1b.audiobook/voice.app.features.MainActivity" image="voice"/>
+
+	<!-- WG Tunnel -->
+	<AppIcon name="com.zaneschepke.wireguardautotunnel/com.zaneschepke.wireguardautotunnel.ui.MainActivity" image="wg_tunnel"/>
+
+</Theme>

@@ -1,0 +1,6 @@
+<appmap>
+
+	<!-- AppBlock -->
+	<item class="cz.mobilesoft.appblock.MainActivity" name="appblock"/>
+
+</appmap>

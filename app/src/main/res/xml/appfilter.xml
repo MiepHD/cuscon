@@ -2144,5 +2144,6 @@
     <item component="ComponentInfo{com.chatbot.robochatai/com.dooflixapkv2.in.SplashScreenActivity}" drawable="dooflix" />
 	<item component="ComponentInfo{com.coloros.alarmclock/com.oplus.alarmclock.AlarmClock}" drawable="coloros_clock" />
 	<item component="ComponentInfo{ch.zkb.frankly/ch.zkb.frankly.ui.onboarding.OnboardingActivity}" drawable="frankly" />
+	<item component="ComponentInfo{nl.degiro.trader/nl.degiro.trader.MainActivity}" drawable="degiro" />
 
 </resources>

@@ -1,0 +1,9 @@
+<resources>
+
+	<!-- Rossmann -->
+	<item component="ComponentInfo{de.rossmann.app.android/de.rossmann.app.android.ui.splash.SplashScreen}" drawable="rossmann" />
+
+	<!-- Skiff Pages -->
+	<item component="ComponentInfo{com.skiffmobileapp/com.skiffmobileapp.MainActivity}" drawable="skiff_pages" />
+
+</resources>

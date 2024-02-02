@@ -1,0 +1,30 @@
+<resources>
+
+	<!-- Camera -->
+	<item component="ComponentInfo{org.lineageos.snap/com.android.camera.CameraLauncher}" drawable="camera" />
+
+	<!-- Free Fire MAX -->
+	<item component="ComponentInfo{com.dts.freefiremax/com.dts.freefireth.FFMainActivity}" drawable="free_fire_max" />
+
+	<!-- Hypatia -->
+	<item component="ComponentInfo{us.spotco.malwarescanner/us.spotco.malwarescanner.MainActivity}" drawable="hypatia" />
+
+	<!-- ImageCraft -->
+	<item component="ComponentInfo{com.yangdai.imagecraft/com.yangdai.imagecraft.main.MainActivity}" drawable="imagecraft" />
+
+	<!-- KUBOOM -->
+	<item component="ComponentInfo{com.Nobodyshot.kuboom/com.unity3d.player.UnityPlayerActivity}" drawable="kuboom" />
+
+	<!-- Lena Adaptive -->
+	<item component="ComponentInfo{one4studio.iconpack.lenaadaptive/com.candybar.dev.activities.SplashActivity}" drawable="lena_adaptive" />
+
+	<!-- One Read -->
+	<item component="ComponentInfo{alldocumentreader.office.viewer.filereader/alldocumentreader.office.viewer.filereader.splash.BlankActivity}" drawable="one_read" />
+
+	<!-- Rewards -->
+	<item component="ComponentInfo{com.google.android.apps.paidtasks/com.google.android.apps.paidtasks.activity.LaunchActivity}" drawable="rewards" />
+
+	<!-- Sav PDF Viewer -->
+	<item component="ComponentInfo{com.saverio.pdfviewer/com.saverio.pdfviewer.MainActivity}" drawable="sav_pdf_viewer" />
+
+</resources>

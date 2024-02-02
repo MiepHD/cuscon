@@ -1,0 +1,30 @@
+<Theme version="1">
+
+	<!-- Camera -->
+	<AppIcon name="org.lineageos.snap/com.android.camera.CameraLauncher" image="camera"/>
+
+	<!-- Free Fire MAX -->
+	<AppIcon name="com.dts.freefiremax/com.dts.freefireth.FFMainActivity" image="free_fire_max"/>
+
+	<!-- Hypatia -->
+	<AppIcon name="us.spotco.malwarescanner/us.spotco.malwarescanner.MainActivity" image="hypatia"/>
+
+	<!-- ImageCraft -->
+	<AppIcon name="com.yangdai.imagecraft/com.yangdai.imagecraft.main.MainActivity" image="imagecraft"/>
+
+	<!-- KUBOOM -->
+	<AppIcon name="com.Nobodyshot.kuboom/com.unity3d.player.UnityPlayerActivity" image="kuboom"/>
+
+	<!-- Lena Adaptive -->
+	<AppIcon name="one4studio.iconpack.lenaadaptive/com.candybar.dev.activities.SplashActivity" image="lena_adaptive"/>
+
+	<!-- One Read -->
+	<AppIcon name="alldocumentreader.office.viewer.filereader/alldocumentreader.office.viewer.filereader.splash.BlankActivity" image="one_read"/>
+
+	<!-- Rewards -->
+	<AppIcon name="com.google.android.apps.paidtasks/com.google.android.apps.paidtasks.activity.LaunchActivity" image="rewards"/>
+
+	<!-- Sav PDF Viewer -->
+	<AppIcon name="com.saverio.pdfviewer/com.saverio.pdfviewer.MainActivity" image="sav_pdf_viewer"/>
+
+</Theme>

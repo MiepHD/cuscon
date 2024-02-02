@@ -2126,5 +2126,6 @@
     <item class="com.dooflixapkv2.in.SplashScreenActivity" name="dooflix"/>
 	<item class="com.oplus.alarmclock.AlarmClock" name="coloros_clock"/>
 	<item class="ch.zkb.frankly.ui.onboarding.OnboardingActivity" name="frankly"/>
+	<item class="nl.degiro.trader.MainActivity" name="degiro"/>
 
 </appmap>

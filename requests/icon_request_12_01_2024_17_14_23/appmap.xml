@@ -1,0 +1,18 @@
+<appmap>
+
+	<!-- Capital One -->
+	<item class="com.konylabs.capitalone.EnterpriseMobileBanking.LaunchActivity" name="capital_one"/>
+
+	<!-- Cox Wifi -->
+	<item class="com.xfinity.digitalhome.features.launch.splash.SplashActivity" name="cox_wifi"/>
+
+	<!-- Moon+ Reader Pro -->
+	<item class="com.flyersoft.moonreaderp.ActivityMain" name="moon_reader_pro"/>
+
+	<!-- Newegg -->
+	<item class="com.newegg.app.MainActivity" name="newegg"/>
+
+	<!-- Wells Fargo -->
+	<item class="com.wf.wellsfargomobile.LauncherActivity" name="wells_fargo"/>
+
+</appmap>

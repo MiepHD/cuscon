@@ -1,0 +1,18 @@
+<resources>
+
+	<!-- PCAPdroid -->
+	<item component="ComponentInfo{com.emanuelef.remote_capture/com.emanuelef.remote_capture.activities.MainActivity}" drawable="pcapdroid" />
+
+	<!-- Rethink -->
+	<item component="ComponentInfo{com.celzero.bravedns/com.celzero.bravedns.ui.HomeScreenActivity}" drawable="rethink" />
+
+	<!-- Untracker -->
+	<item component="ComponentInfo{me.zhanghai.android.untracker/me.zhanghai.android.untracker.MainActivity}" drawable="untracker" />
+
+	<!-- Voice -->
+	<item component="ComponentInfo{de.ph1b.audiobook/voice.app.features.MainActivity}" drawable="voice" />
+
+	<!-- WG Tunnel -->
+	<item component="ComponentInfo{com.zaneschepke.wireguardautotunnel/com.zaneschepke.wireguardautotunnel.ui.MainActivity}" drawable="wg_tunnel" />
+
+</resources>

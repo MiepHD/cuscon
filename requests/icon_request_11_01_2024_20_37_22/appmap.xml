@@ -1,0 +1,111 @@
+<appmap>
+
+	<!-- ABOUT YOU -->
+	<item class="de.aboutyou.mobile.app.MainActivity" name="about_you"/>
+
+	<!-- Aumio -->
+	<item class="com.aumio.app.MainActivity" name="aumio"/>
+
+	<!-- Deezer -->
+	<item class="com.deezer.android.ui.activity.LauncherActivity" name="deezer"/>
+
+	<!-- DEGIRO -->
+	<item class="nl.degiro.trader.MainActivity" name="degiro"/>
+
+	<!-- Discord -->
+	<item class="com.discord.main.MainDefault" name="discord"/>
+
+	<!-- DKB -->
+	<item class="com.dkbcodefactory.banking.splash.SplashActivity" name="dkb"/>
+
+	<!-- Firewall -->
+	<item class="org.calyxos.datura.main.MainActivity" name="firewall"/>
+
+	<!-- FreeTube -->
+	<item class="io.freetubeapp.freetube.MainActivity" name="freetube"/>
+
+	<!-- Gadgetbridge -->
+	<item class="nodomain.freeyourgadget.gadgetbridge.activities.ControlCenterv2" name="gadgetbridge"/>
+
+	<!-- hagebau -->
+	<item class="de.hagebau.shop.components.countryselection.ui.view.CountrySelectionActivity" name="hagebau"/>
+
+	<!-- idealo Shopping -->
+	<item class="de.idealo.android.MainActivity" name="idealo_shopping"/>
+
+	<!-- Inoreader -->
+	<item class="com.innologica.inoreader.activities.BootstrapActivity" name="inoreader"/>
+
+	<!-- KATWARN -->
+	<item class="de.combirisk.katwarn.MainActivity" name="katwarn"/>
+
+	<!-- LocationPrivacy -->
+	<item class="info.guardianproject.locationprivacy.MainActivity" name="locationprivacy"/>
+
+	<!-- MeinVodafone -->
+	<item class="com.vis.meinvodafone.view.activity.load.VfLoadPhoneActivity" name="meinvodafone"/>
+
+	<!-- Music Player -->
+	<item class="com.simplemobiletools.musicplayer.activities.SplashActivity.Orange" name="music_player"/>
+
+	<!-- mytonies -->
+	<item class="com.tonies.app.MainActivity" name="mytonies"/>
+
+	<!-- Neato -->
+	<item class="com.neatorobotics.android.app.splashscreen.SplashScreenActivity" name="neato"/>
+
+	<!-- OpenLauncher -->
+	<item class="com.benny.openlauncher.activity.OnBoardActivity" name="openlauncher"/>
+
+	<!-- PAYBACK -->
+	<item class="de.payback.app.ui.main.MainActivity" name="payback"/>
+
+	<!-- Personio -->
+	<item class="com.personio.MainActivity" name="personio"/>
+
+	<!-- Pocket -->
+	<item class="com.ideashower.readitlater.activity.AppCacheCheckActivity" name="pocket"/>
+
+	<!-- Post & DHL -->
+	<item class="de.its_berlin.dhlpaket.base.main.MainActivity" name="post_and_dhl"/>
+
+	<!-- Proton Calendar -->
+	<item class="me.proton.android.calendar.presentation.main.MainActivity" name="proton_calendar"/>
+
+	<!-- Proton Drive -->
+	<item class="me.proton.android.drive.ui.MainActivity" name="proton_drive"/>
+
+	<!-- Rossmann -->
+	<item class="de.rossmann.app.android.splash.SplashScreen" name="rossmann"/>
+
+	<!-- Skiff Mail -->
+	<item class="com.skemailmobileapp.MainActivity" name="skiff_mail"/>
+
+	<!-- Slack -->
+	<item class="slack.features.home.HomeActivity" name="slack"/>
+
+	<!-- soundcore -->
+	<item class="com.oceanwing.soundcore.activity.WelcomeActivity" name="soundcore"/>
+
+	<!-- TAN2go -->
+	<item class="com.starfinanz.mobile.android.dkbpushtan.DKBPushTan" name="tan2go"/>
+
+	<!-- Tapo -->
+	<item class="com.tplink.iot.view.welcome.StartupActivity" name="tapo"/>
+
+	<!-- TK -->
+	<item class="de.tk.tkapp.start.StartActivity" name="tk"/>
+
+	<!-- Todoist -->
+	<item class="com.todoist.alias.HomeActivityDefault" name="todoist"/>
+
+	<!-- Trello -->
+	<item class="com.trello.home.HomeActivity" name="trello"/>
+
+	<!-- use - Mobility App -->
+	<item class="com.azowo.azowo.ui.activities.splashscreen.SplashScreen" name="use_mobility_app"/>
+
+	<!-- YouTrack -->
+	<item class="com.jetbrains.youtrack.mobile.app.MainActivity" name="youtrack"/>
+
+</appmap>

@@ -1,0 +1,786 @@
+<appmap>
+
+	<!-- 1Password -->
+	<item class="com.onepassword.android.app.StartActivity" name="_1password"/>
+
+	<!-- Abel and Cole -->
+	<item class="com.abelandcole.acapple.MainActivity" name="abel_and_cole"/>
+
+	<!-- Adblock Browser Beta -->
+	<item class="com.google.android.apps.chrome.Main" name="adblock_browser_beta"/>
+
+	<!-- AdGuard -->
+	<item class="com.adguard.android.ui.activity.SplashActivity" name="adguard"/>
+
+	<!-- AdGuard Content Blocker -->
+	<item class="com.adguard.android.contentblocker.ui.MainActivity" name="adguard_content_blocker"/>
+
+	<!-- AdGuard VPN -->
+	<item class="com.adguard.vpn.ui.routing_activity.SplashActivity" name="adguard_vpn"/>
+
+	<!-- Adobe Fill & Sign -->
+	<item class="com.adobe.fas.Home.FillAndSign" name="adobe_fill_and_sign"/>
+
+	<!-- Adzuna -->
+	<item class="com.adzuna.splash.SplashActivity" name="adzuna"/>
+
+	<!-- Air Fryer Recipes -->
+	<item class="com.alphazstudio.airfryerrecipes.MainActivity" name="air_fryer_recipes"/>
+
+	<!-- Airtime Rewards -->
+	<item class="com.karrot.SplashActivity" name="airtime_rewards"/>
+
+	<!-- ALDI UK -->
+	<item class="de.apptiv.business.android.aldi_uk.ui.activity.SplashActivity" name="aldi_uk"/>
+
+	<!-- Android Hidden Settings -->
+	<item class="com.common.ad.cmp.CmpMainActivity" name="android_hidden_settings"/>
+
+	<!-- AO -->
+	<item class="com.ao.myao.activities.LaunchActivity" name="ao"/>
+
+	<!-- Apcoa Connect -->
+	<item class="com.apcoaconnect.MainActivity" name="apcoa_connect"/>
+
+	<!-- Apkdone Installer -->
+	<item class="com.apkdone.sai.ui.activities.MainActivity" name="apkdone_installer"/>
+
+	<!-- App Lock -->
+	<item class="applock.lockapps.fingerprint.password.lockit.activity.SplashActivity" name="app_lock"/>
+
+	<!-- App vault -->
+	<item class="com.mi.android.globalminusscreen.tab.MainActivity_icon_31" name="app_vault"/>
+
+	<!-- AppBlock -->
+	<item class="cz.mobilesoft.appblock.MainActivity" name="appblock"/>
+
+	<!-- AppGallery -->
+	<item class="com.huawei.appmarket.MainActivity" name="appgallery"/>
+
+	<!-- Aptoide -->
+	<item class="cm.aptoide.pt.view.MainActivity" name="aptoide"/>
+
+	<!-- Argos -->
+	<item class="com.homeretailgroup.argos.android.splash.SplashActivity_Default" name="argos"/>
+
+	<!-- Asda Rewards -->
+	<item class="com.asda.rewards.MainActivity" name="asda_rewards"/>
+
+	<!-- ASOS -->
+	<item class="com.asos.app.ui.activities.ConfigActivity" name="asos"/>
+
+	<!-- Audio Switch -->
+	<item class="com.ravitechno.audioswitch.disableheadphone.musicoutputchanger.Activity.SplashActivity" name="audio_switch"/>
+
+	<!-- Auto parts. Automotive technologies -->
+	<item class="com.medicalgroupsoft.medical.app.ui.splashscreen.FirstPrepare" name="auto_parts_automotive_technologies"/>
+
+	<!-- Auto Trader -->
+	<item class="uk.co.autotrader.androidconsumersearch.ui.activity.LauncherActivity" name="auto_trader"/>
+
+	<!-- AutoDoc -->
+	<item class="de.autodoc.gmbh.ui.activity.SplashActivity" name="autodoc"/>
+
+	<!-- Automobile Engineering Textbook -->
+	<item class="com.monolit.htmlbook.MainActivity" name="automobile_engineering_textbook"/>
+
+	<!-- B&M Stores -->
+	<item class="com.padoq.android.ui.splash.SplashActivity" name="b_and_m_stores"/>
+
+	<!-- B&Q -->
+	<item class="com.kingfisher.bbm.onboarding.ui.OnboardingActivity" name="b_and_q"/>
+
+	<!-- Back Market -->
+	<item class="com.backmarket.Launcher" name="back_market"/>
+
+	<!-- Battery 100% Alarm -->
+	<item class="com.mobizone.battery100alarm.SplashScreen" name="battery_100%_alarm"/>
+
+	<!-- Boom -->
+	<item class="com.globaldelight.boom.app.activities.SplashScreenActivity" name="boom"/>
+
+	<!-- Boom System FX -->
+	<item class="com.globaldelight.systemfx.ui.SysFxMainActivity" name="boom_system_fx"/>
+
+	<!-- Boots -->
+	<item class="com.boots.flagship.android.app.ui.AppStart" name="boots"/>
+
+	<!-- Boxing News -->
+	<item class="com.newsfusion.SplashActivity" name="boxing_news"/>
+
+	<!-- Brilliant -->
+	<item class="org.brilliant.android.ui.common.MainActivity" name="brilliant"/>
+
+	<!-- Burger King -->
+	<item class="rbi.android.app.MainActivity" name="burger_king"/>
+
+	<!-- Caffè Nero -->
+	<item class="com.yoyowallet.yoyowallet.ui.activities.EntryActivity" name="caffe_nero"/>
+
+	<!-- Call Recorder -->
+	<item class="com.appstar.callrecorder.MainActivity" name="call_recorder"/>
+
+	<!-- Calm -->
+	<item class="com.calm.android.ui.splash.SplashActivity" name="calm"/>
+
+	<!-- Canvas Student -->
+	<item class="com.instructure.student.activity.LoginActivity" name="canvas_student"/>
+
+	<!-- Capital FM -->
+	<item class="com.thisisglobal.guacamole.main.views.SplashActivity" name="capital_fm"/>
+
+	<!-- Car Engine Repair -->
+	<item class="com.somostudio.carenginerepair.MainActivity" name="car_engine_repair"/>
+
+	<!-- Car Guru -->
+	<item class="com.ultimatecarquiz.quiz.MainActivity" name="car_guru"/>
+
+	<!-- Car Scanner -->
+	<item class="carScannerXamarinForms.Droid.MainActivity" name="car_scanner"/>
+
+	<!-- CarGurus -->
+	<item class="com.cargurus.mobileApp.MainActivity" name="cargurus"/>
+
+	<!-- carVertical -->
+	<item class="com.cvmobileapp.MainActivity" name="carvertical"/>
+
+	<!-- Cazoo Wholesale -->
+	<item class="crc649f8c3c8518d2c794.MainActivity" name="cazoo_wholesale"/>
+
+	<!-- CeX -->
+	<item class="com.cex.android.view.activities.SplashActivity" name="cex"/>
+
+	<!-- ChargePoint -->
+	<item class="com.cp.ui.activity.launcher.LauncherActivity" name="chargepoint"/>
+
+	<!-- ClearScore -->
+	<item class="com.clearscore.mobile.splash.presentation.SplashActivity" name="clearscore"/>
+
+	<!-- Clipboard -->
+	<item class="com.mason.ship.clipboard.ui.activity.MainActivity" name="clipboard"/>
+
+	<!-- ClipDrop -->
+	<item class="app.arcopypaste.MainActivity" name="clipdrop"/>
+
+	<!-- Clock -->
+	<item class="com.android.deskclock.DeskClockTabActivity" name="clock"/>
+
+	<!-- Co-op -->
+	<item class="uk.co.coop.app.ui.screens.routing.RoutingActivity" name="co_op"/>
+
+	<!-- ColorNote -->
+	<item class="com.socialnmobile.colornote.activity.Main" name="colornote"/>
+
+	<!-- Cookie Theme -->
+	<item class="com.theme.launcher.SplashActivity" name="cookie_theme"/>
+
+	<!-- Cotton Traders -->
+	<item class="com.poqstudio.app.platform.presentation.splash.view.SplashActivity" name="cotton_traders"/>
+
+	<!-- Crocs -->
+	<item class="com.crocs.app.MainActivity" name="crocs"/>
+
+	<!-- Curiosity Stream -->
+	<item class="com.curiosity.curiositystream.MainActivity" name="curiosity_stream"/>
+
+	<!-- Curso de Mecánica -->
+	<item class="com.innovapps.cursodemecanica.MainActivity" name="curso_de_mecanica"/>
+
+	<!-- CV-Library -->
+	<item class="allthetopbananas.cvlibrary.MainActivity" name="cv_library"/>
+
+	<!-- Darkinator -->
+	<item class="com.tfuerholzer.darkmodewallpaper.activities.MainActivity" name="darkinator"/>
+
+	<!-- Debenhams -->
+	<item class="com.debenhams.app.MainActivity" name="debenhams"/>
+
+	<!-- Depop -->
+	<item class="com.depop._v2.splash.app.SplashActivity" name="depop"/>
+
+	<!-- Dictionary.com -->
+	<item class="com.dictionary.MainActivity" name="dictionarycom"/>
+
+	<!-- Digital Wellbeing -->
+	<item class="com.google.android.apps.wellbeing.settings.LauncherActivity" name="digital_wellbeing"/>
+
+	<!-- Downloads -->
+	<item class="com.android.providers.downloads.ui.DownloadList" name="downloads"/>
+
+	<!-- DPD -->
+	<item class="com.zoontek.rnbootsplash.RNBootSplashActivity" name="dpd"/>
+
+	<!-- DTox -->
+	<item class="io.funswitch.dtoxDigitalDetoxApp.features.mainActivityPage.MainActivity" name="dtox"/>
+
+	<!-- Dunelm Outlet Store -->
+	<item class="com.outletoffers.dunelmstoreapp.MainActivity" name="dunelm_outlet_store"/>
+
+	<!-- dynamic​Spot -->
+	<item class="com.jamworks.dynamicspot.SettingsHome" name="dynamic​spot"/>
+
+	<!-- Easy Voice Recorder -->
+	<item class="com.digipom.easyvoicerecorder.ui.activity.EasyVoiceRecorderActivity" name="easy_voice_recorder"/>
+
+	<!-- EE -->
+	<item class="com.example.myee_app.MainActivity" name="ee"/>
+
+	<!-- Electron -->
+	<item class="com.mahersafadi.electron.MainActivity" name="electron"/>
+
+	<!-- Electroverse -->
+	<item class="com.octopus.electricjuice.ElectricJuiceActivity" name="electroverse"/>
+
+	<!-- Elevate -->
+	<item class="com.pegasus.feature.main.MainActivity" name="elevate"/>
+
+	<!-- ESS 41 - Reflexis One -->
+	<item class="com.reflexis.android.rws.ess.activity.ESSSplashActivity" name="ess_41_reflexis_one"/>
+
+	<!-- ESS 42 - Reflexis One -->
+	<item class="com.reflexis.android.rws.ess.activity.ESSSplashActivity" name="ess_42_reflexis_one"/>
+
+	<!-- ESS 45 Zebra -->
+	<item class="com.reflexis.android.rws.ess.startup.ESSSplashScreenActivity" name="ess_45_zebra"/>
+
+	<!-- Etsy -->
+	<item class="com.etsy.android.ui.homescreen.HomescreenTabsActivity" name="etsy"/>
+
+	<!-- Euro Car Parts -->
+	<item class="com.eurocarparts.android.base.StartupActivity" name="euro_car_parts"/>
+
+	<!-- Everything5pounds.com -->
+	<item class="com.fiver.everything5pounds.MainActivity" name="everything5poundscom"/>
+
+	<!-- Evri -->
+	<item class="com.hermes.hercules.ui.startup.StartupActivity" name="evri"/>
+
+	<!-- Experian -->
+	<item class="uk.co.experian.androidapp.SplashActivity" name="experian"/>
+
+	<!-- EY Buses -->
+	<item class="com.discoverpassenger.LaunchActivity" name="ey_buses"/>
+
+	<!-- Family Link -->
+	<item class="com.google.android.apps.kids.familylink.flutter.standalone.HomeActivity" name="family_link"/>
+
+	<!-- FereFit -->
+	<item class="com.czw.freefit.LoadActivity" name="ferefit"/>
+
+	<!-- Findmykids -->
+	<item class="org.findmykids.app.activityes.LauncherActivity" name="findmykids"/>
+
+	<!-- First aid -->
+	<item class="com.cube.rca.activity.BootActivity" name="first_aid"/>
+
+	<!-- Flex Client -->
+	<item class="com.indeedflex.client.MainActivity" name="flex_client"/>
+
+	<!-- Floating Timer -->
+	<item class="xyz.tberghuis.floatingtimer.MainActivity" name="floating_timer"/>
+
+	<!-- Forest -->
+	<item class="cc.forestapp.applications.SplashActivity" name="forest"/>
+
+	<!-- Gallery -->
+	<item class="com.miui.gallery.activity.HomePageActivity" name="gallery"/>
+
+	<!-- GAME -->
+	<item class="co.uk.game.mobileapp.ui.splash.SplashScreen" name="game"/>
+
+	<!-- giffgaff -->
+	<item class="com.giffgaff.reapps.SplashActivity" name="giffgaff"/>
+
+	<!-- Giga Icon -->
+	<item class="it.mirko.gigaicon.MainActivity" name="giga_icon"/>
+
+	<!-- Glassdoor -->
+	<item class="com.glassdoor.app.launch.activities.LaunchActivity" name="glassdoor"/>
+
+	<!-- GlassWire -->
+	<item class="com.glasswire.android.presentation.activities.start.StartActivity" name="glasswire"/>
+
+	<!-- Good Food -->
+	<item class="com.immediatemedia.fabric.MainActivity" name="good_food"/>
+
+	<!-- Google Earth -->
+	<item class="com.google.android.apps.earth.flutter.EarthFlutterActivity" name="google_earth"/>
+
+	<!-- GoOutdoors Direct -->
+	<item class="com.andromo.MainActivity" name="gooutdoors_direct"/>
+
+	<!-- Gorillas -->
+	<item class="io.gorillas.customer.CustomerActivity" name="gorillas"/>
+
+	<!-- Grammarly -->
+	<item class="com.grammarly.launcher.LauncherActivity" name="grammarly"/>
+
+	<!-- Greggs -->
+	<item class="com.greggs.customerApp.MainActivity" name="greggs"/>
+
+	<!-- Guinea Pig Lovers -->
+	<item class="com.jazzdev.guineapiglovers.MainActivity" name="guinea_pig_lovers"/>
+
+	<!-- Gumtree -->
+	<item class="com.gumtree.android.splash.activity.SplashActivity" name="gumtree"/>
+
+	<!-- Gymshark -->
+	<item class="com.gymshark.store.app.presentation.view.MainActivity" name="gymshark"/>
+
+	<!-- H&B -->
+	<item class="com.nbty.hollandbarret.MainActivity" name="h_and_b"/>
+
+	<!-- H&M -->
+	<item class="com.hm.goe.app.home.HomeActivity" name="h_and_m"/>
+
+	<!-- HaffPrice -->
+	<item class="android.base.app.mvp.ui.activity.SplashActivity" name="haffprice"/>
+
+	<!-- HalfordsOutlet -->
+	<item class="com.andromo.MainActivity" name="halfordsoutlet"/>
+
+	<!-- Halifax -->
+	<item class="com.halifax.halifax.GrappleActivity" name="halifax"/>
+
+	<!-- Hastings Direct -->
+	<item class="com.digitaslbi.hastingsdirect.MainActivity" name="hastings_direct"/>
+
+	<!-- heycar -->
+	<item class="com.heycar.MainActivity" name="heycar"/>
+
+	<!-- Home Workout -->
+	<item class="homeworkout.homeworkouts.noequipment.SplashActivity" name="home_workout"/>
+
+	<!-- Huawei Health -->
+	<item class="com.huawei.health.MainActivity" name="huawei_health"/>
+
+	<!-- Iceland -->
+	<item class="com.iceland.android.StartUpActivity" name="iceland"/>
+
+	<!-- IKEA -->
+	<item class="com.ingka.ikea.app.splash.FirstEntryActivity" name="ikea"/>
+
+	<!-- Indeed Job Search -->
+	<item class="com.indeed.android.jobsearch.LaunchActivity" name="indeed_job_search"/>
+
+	<!-- InPost -->
+	<item class="pl.inpost.inmobile.splashScreen.presentation.SplashScreenActivity" name="inpost"/>
+
+	<!-- ITVX -->
+	<item class="com.candyspace.itvplayer.ui.launcher.LauncherActivity" name="itvx"/>
+
+	<!-- JD Gyms -->
+	<item class="com.zoontek.rnbootsplash.RNBootSplashActivity" name="jd_gyms"/>
+
+	<!-- Job Today -->
+	<item class="com.jobtoday.app.MainActivity" name="job_today"/>
+
+	<!-- John Lewis & Partners -->
+	<item class="com.johnlewis.android.splash.LightSplashActivityAlias" name="john_lewis_and_partners"/>
+
+	<!-- Kahoot! -->
+	<item class="no.mobitroll.kahoot.android.application.SplashActivity" name="kahoot_"/>
+
+	<!-- Keep Screen On -->
+	<item class="com.elasticrock.keepscreenon.MainActivity" name="keep_screen_on"/>
+
+	<!-- KFC -->
+	<item class="com.kfc.MainActivity" name="kfc"/>
+
+	<!-- Kindle -->
+	<item class="com.amazon.kindle.UpgradePage" name="kindle"/>
+
+	<!-- Krispy Kreme Rewards -->
+	<item class="com.loyalty3.krispykreme.MainActivity" name="krispy_kreme_rewards"/>
+
+	<!-- Learn Automobile Engineering -->
+	<item class="com.alphazstudio.automobileengineering.MainActivity" name="learn_automobile_engineering"/>
+
+	<!-- Learn Linux with examples -->
+	<item class="com.learn_linux_with_examples.splash_screen_activity" name="learn_linux_with_examples"/>
+
+	<!-- Learn Science -->
+	<item class="com.alphazstudio.learnscience.MainActivity" name="learn_science"/>
+
+	<!-- Life Hacks -->
+	<item class="com.alphazstudio.lifehacks.MainActivity" name="life_hacks"/>
+
+	<!-- Linguix -->
+	<item class="com.linguix.keyboard.inputmethod.latin.setup.SetupActivity" name="linguix"/>
+
+	<!-- Linux Command Library -->
+	<item class="com.inspiredandroid.linuxcommandbibliotheca.MainActivity" name="linux_command_library"/>
+
+	<!-- Listonic -->
+	<item class="com.l.ui.activity.MainActivity" name="listonic"/>
+
+	<!-- Liveforce -->
+	<item class="co.liveforce.crew.MainActivity" name="liveforce"/>
+
+	<!-- Lock My Phone -->
+	<item class="tomka.lockmyphone.activities.TermsAndConditionActivity" name="lock_my_phone"/>
+
+	<!-- Loop -->
+	<item class="com.terracycle.loop.ui.MainActivity" name="loop"/>
+
+	<!-- Lopay -->
+	<item class="com.checkfer.lopaymerchant.presentation.ui.intro.IntroActivity" name="lopay"/>
+
+	<!-- LxPersonal -->
+	<item class="com.goodbarber.v2.core.common.activities.SplashscreenActivity" name="lxpersonal"/>
+
+	<!-- M&S -->
+	<item class="com.marksandspencer.app.startup.SplashScreenActivity" name="m_and_s"/>
+
+	<!-- MacroDroid -->
+	<item class="com.arlosoft.macrodroid.intro.IntroActivity" name="macrodroid"/>
+
+	<!-- Matalan -->
+	<item class="com.thehutgroup.ecommerce.MainActivity" name="matalan"/>
+
+	<!-- McDonald's -->
+	<item class="com.mcdonalds.mcdcoreapp.common.activity.SplashActivity" name="mcdonalds"/>
+
+	<!-- Mechanic Dictionary -->
+	<item class="edictionary.app.dictionary2.Splash_Activity" name="mechanic_dictionary"/>
+
+	<!-- Mechanic quiz pro -->
+	<item class="appinventor.ai_mechsita.Mechanic_quiz_game_pro.MainActivity" name="mechanic_quiz_pro"/>
+
+	<!-- mechanicquiz -->
+	<item class="appinventor.ai_mechsita.Mechanic_quiz_game.MainActivity" name="mechanicquiz"/>
+
+	<!-- Mi Mover -->
+	<item class="com.miui.huanji.MainActivity" name="mi_mover"/>
+
+	<!-- Mi Remote -->
+	<item class="com.xiaomi.mitv.phone.remotecontroller.HoriWidgetMainActivityV2" name="mi_remote"/>
+
+	<!-- Mi Store -->
+	<item class="com.mi.global.home.ui.LaunchActivity" name="mi_store"/>
+
+	<!-- MiPermit -->
+	<item class="com.mipermit.android.activity.HomeActivity" name="mipermit"/>
+
+	<!-- MIUI 11 -->
+	<item class="ru.pt.iconpack.miui11.activities.Check_GDPR" name="miui_11"/>
+
+	<!-- MiUX -->
+	<item class="com.candybar.dev.activities.SplashActivity" name="miux"/>
+
+	<!-- MoneySavingExpert -->
+	<item class="com.mse.mseapp.launch.LaunchActivity" name="moneysavingexpert"/>
+
+	<!-- MoneySuperMarket -->
+	<item class="com.moneysupermarket.phoenix.SplashActivity" name="moneysupermarket"/>
+
+	<!-- Monster -->
+	<item class="com.monster.app.presentation.splash.SplashActivity" name="monster"/>
+
+	<!-- Morrisons More -->
+	<item class="com.morrisons.my.MainActivity" name="morrisons_more"/>
+
+	<!-- MuffinBreak -->
+	<item class="com.muffinbreak.MainActivity" name="muffinbreak"/>
+
+	<!-- Music -->
+	<item class="com.miui.player.ui.MusicBrowserActivity" name="music"/>
+
+	<!-- Muzia -->
+	<item class="com.newgen.muzia.activities.PreferencesActivity" name="muzia"/>
+
+	<!-- myODEON -->
+	<item class="nz.co.vista.android.movie.abc.feature.splash.SplashActivity" name="myodeon"/>
+
+	<!-- MyRecorder -->
+	<item class="com.myviocerecorder.voicerecorder.ui.activities.SplashActivity" name="myrecorder"/>
+
+	<!-- NCP -->
+	<item class="uk.co.ncp.flexipass.login.LoginActivity" name="ncp"/>
+
+	<!-- Nectar -->
+	<item class="com.newnectar.client.sainsburys.main.LaunchActivity" name="nectar"/>
+
+	<!-- Next -->
+	<item class="crc645233a78dffd851a1.CountrySelectActivity" name="next"/>
+
+	<!-- NHS App -->
+	<item class="crc64b7e535562fc6760f.SplashScreenActivity" name="nhs_app"/>
+
+	<!-- Notepad -->
+	<item class="com.android.launcher3.icon_disguise" name="notepad"/>
+
+	<!-- Ocado -->
+	<item class="com.ocado.mobile.android.activity.HomeActivity_" name="ocado"/>
+
+	<!-- Olio -->
+	<item class="com.olioex.android.MainActivity" name="olio"/>
+
+	<!-- OnTheMarket -->
+	<item class="com.onthemarket.mobile.home.SplashActivity" name="onthemarket"/>
+
+	<!-- Parkopedia -->
+	<item class="com.parkopedia.activities.SearchActivity" name="parkopedia"/>
+
+	<!-- PartnerChoice -->
+	<item class="com.spdapps.apppoc.MainActivity" name="partnerchoice"/>
+
+	<!-- pCloud -->
+	<item class="com.pcloud.screens.Main" name="pcloud"/>
+
+	<!-- Petal Maps -->
+	<item class="com.huawei.maps.app.petalmaps.splash.SplashActivity" name="petal_maps"/>
+
+	<!-- Petal Search -->
+	<item class="com.huawei.hwsearch.homescreen.HomeScreenActivity" name="petal_search"/>
+
+	<!-- PetrolPrices -->
+	<item class="com.petrolprices.MainActivity" name="petrolprices"/>
+
+	<!-- Pets at Home -->
+	<item class="petsathome.havas.com.petsathome_vipclub.ui.splash.SplashActivity" name="pets_at_home"/>
+
+	<!-- Phone Clone -->
+	<item class="com.huawei.android.clone.activity.sender.ChooseReceiveSendActivity" name="phone_clone"/>
+
+	<!-- Photo Lab -->
+	<item class="com.vicman.photolab.activities.MainActivity" name="photo_lab"/>
+
+	<!-- Picture Insect -->
+	<item class="com.glority.android.picturexx.splash.SplashActivity" name="picture_insect"/>
+
+	<!-- PictureThis -->
+	<item class="com.glority.picturethis.app.kt.view.home.SplashActivity" name="picturethis"/>
+
+	<!-- PingID -->
+	<item class="com.accells.access.AppMgr" name="pingid"/>
+
+	<!-- PizzaExpress -->
+	<item class="com.pizzaexpress.appv2.MainActivity" name="pizzaexpress"/>
+
+	<!-- POCO Store -->
+	<item class="com.mi.global.shopcomponents.activity.LaunchActivity" name="poco_store"/>
+
+	<!-- Porn Block App -->
+	<item class="com.dice.blocksite.siteblocker.pornblocker.ActivityUserConsent_dice" name="porn_block_app"/>
+
+	<!-- Prestige Driver -->
+	<item class="car.target.app.MainActivity" name="prestige_driver"/>
+
+	<!-- QuickTiles -->
+	<item class="com.asdoi.quicksettings.SettingsActivity" name="quicktiles"/>
+
+	<!-- Quidco -->
+	<item class="com.quidco.DefaultLauncherAlias" name="quidco"/>
+
+	<!-- Radio UK, Podcasts, Music, Songs, News -->
+	<item class="com.appmind.countryradios.screens.splash.SplashActivity" name="radio_uk_podcasts_music_songs_news"/>
+
+	<!-- Recorder -->
+	<item class="com.android.soundrecorder.StartActivity" name="recorder"/>
+
+	<!-- reed.co.uk Job Search -->
+	<item class="com.reedcouk.jobs.feature.main.MainActivity" name="reedcouk_job_search"/>
+
+	<!-- Rice Recipes -->
+	<item class="com.alphazstudio.ricerecipes.MainActivity" name="rice_recipes"/>
+
+	<!-- Rightmove -->
+	<item class="com.rightmove.android.modules.splash.SplashPageActivity" name="rightmove"/>
+
+	<!-- RingGo -->
+	<item class="co.uk.ringgo.android.SplashScreenActivity" name="ringgo"/>
+
+	<!-- Royal Mail -->
+	<item class="crc64f7852c3a8749d057.SplashActivity" name="royal_mail"/>
+
+	<!-- Ruppu -->
+	<item class="it.ruppu.ui.intro.LaunchActivity" name="ruppu"/>
+
+	<!-- Sainsbury's -->
+	<item class="com.sainsburys.gol.entry.EntryActivity" name="sainsburys"/>
+
+	<!-- Samsung Shop -->
+	<item class="com.samsung.ecomm.global.shop_app.MainActivity" name="samsung_shop"/>
+
+	<!-- Savers -->
+	<item class="superdrug.com.restyle.ui.activity.SplashScreenActivity" name="savers"/>
+
+	<!-- Screen Recorder -->
+	<item class="com.miui.screenrecorder.activity.ScreenRecorderHomeActivity" name="screen_recorder"/>
+
+	<!-- Screwfix -->
+	<item class="com.screwfixmobile.MainActivity" name="screwfix"/>
+
+	<!-- Self-Employed -->
+	<item class="com.intuit.qbse.stories.main.StartupActivity" name="self_employed"/>
+
+	<!-- Services & feedback -->
+	<item class="com.miui.miservice.main.MainActivity" name="services_and_feedback"/>
+
+	<!-- Shell -->
+	<item class="com.mobgen.fireblade.presentation.splash.SplashActivity" name="shell"/>
+
+	<!-- Showcaller -->
+	<item class="com.allinone.callerid.start.StartActivity" name="showcaller"/>
+
+	<!-- Shpock -->
+	<item class="com.shpock.android.ui.startup.ShpSplashScreen" name="shpock"/>
+
+	<!-- Skillshare -->
+	<item class="com.skillshare.Skillshare.client.onboarding.onboarding.view.SplashActivity" name="skillshare"/>
+
+	<!-- SMARTY -->
+	<item class="com.hutchison3g.sundae.MainActivity" name="smarty"/>
+
+	<!-- Snoop -->
+	<item class="app.snoop.ui.feature.launcher.LauncherActivity" name="snoop"/>
+
+	<!-- So Vegan -->
+	<item class="com.wearesovegan.app.MainActivity" name="so_vegan"/>
+
+	<!-- Socrative -->
+	<item class="com.socrative.student.MainActivity" name="socrative"/>
+
+	<!-- SonicJobs -->
+	<item class="com.prontoitlabs.hunted.activity.SplashActivity" name="sonicjobs"/>
+
+	<!-- SpareRoom -->
+	<item class="com.spareroom.ui.screen.MainActivity" name="spareroom"/>
+
+	<!-- Sports Direct -->
+	<item class="com.app.MainActivity" name="sports_direct"/>
+
+	<!-- Stagecoach -->
+	<item class="com.stagecoach.stagecoachbus.views.start.SplashScreenActivity" name="stagecoach"/>
+
+	<!-- Sticky Password -->
+	<item class="com.stickypassword.android.activity.frw.SplashActivity" name="sticky_password"/>
+
+	<!-- Student Beans -->
+	<item class="com.studentbeans.studentbeans.LoadingActivity" name="student_beans"/>
+
+	<!-- Superdrug -->
+	<item class="superdrug.com.beautycard.main.MainActivity" name="superdrug"/>
+
+	<!-- TapScroll -->
+	<item class="com.example.statusbar.activity.WelComeActivity" name="tapscroll"/>
+
+	<!-- Terminal Free -->
+	<item class="com.natewren.dashboard.SplashScreen" name="terminal_free"/>
+
+	<!-- Tesco -->
+	<item class="com.tesco.mobile.titan.splash.view.SplashActivity" name="tesco"/>
+
+	<!-- Tesco Mobile -->
+	<item class="co.uk.tescomobile.manage.presentation.welcome.WelcomeActivity" name="tesco_mobile"/>
+
+	<!-- The National Lottery -->
+	<item class="uk.co.theofficialnationallotteryapp.android.play.MainActivity" name="the_national_lottery"/>
+
+	<!-- Themes -->
+	<item class="com.android.thememanager.ThemeResourceTabActivity" name="themes"/>
+
+	<!-- Too Good To Go -->
+	<item class="com.app.tgtg.activities.login.SplashActivity" name="too_good_to_go"/>
+
+	<!-- Tool​station -->
+	<item class="com.toolstation.mobile_app.MainActivity" name="tool​station"/>
+
+	<!-- TopCashback -->
+	<item class="uk.co.topcashback.topcashback.core.splash.RoutingActivity" name="topcashback"/>
+
+	<!-- Totaljobs -->
+	<item class="com.stepstone.feature.splash.presentation.view.SCSplashActivity" name="totaljobs"/>
+
+	<!-- TOTUM -->
+	<item class="com.totum.student.ui.AppStartActivity" name="totum"/>
+
+	<!-- TPS -->
+	<item class="com.theperfumeshop.customer.MainActivity" name="tps"/>
+
+	<!-- Trading 212 -->
+	<item class="com.trading212.MainActivity" name="trading_212"/>
+
+	<!-- TrainPal -->
+	<item class="com.pal.common.business.home.activity.LaunchActivity" name="trainpal"/>
+
+	<!-- UNiDAYS -->
+	<item class="com.myunidays.home.MainActivity" name="unidays"/>
+
+	<!-- Vanced for Youtube -->
+	<item class="org.schabi.newpipe.MainActivity" name="vanced_for_youtube"/>
+
+	<!-- Vegan Maps -->
+	<item class="com.vegan.veganmaps.view.app.splash.SplashActivity" name="vegan_maps"/>
+
+	<!-- Vehicle Smart -->
+	<item class="com.getvehiclesmart.vehiclesmart" name="vehicle_smart"/>
+
+	<!-- Vimeo -->
+	<item class="com.vimeo.android.videoapp.launch.LaunchActivity" name="vimeo"/>
+
+	<!-- Visualizer -->
+	<item class="com.akzonobel.views.activities.MainActivity" name="visualizer"/>
+
+	<!-- vouchercloud -->
+	<item class="com.vouchercloud.android.ActSplash" name="vouchercloud"/>
+
+	<!-- Wagestream -->
+	<item class="com.getpaydays.paydays.MainActivity" name="wagestream"/>
+
+	<!-- Waitrose -->
+	<item class="com.waitrose.groceries.SplashActivity" name="waitrose"/>
+
+	<!-- Waze -->
+	<item class="com.waze.FreeMapAppActivity" name="waze"/>
+
+	<!-- wikiHow -->
+	<item class="com.wikihow.wikihowapp.MainTabActivity" name="wikihow"/>
+
+	<!-- William Hill -->
+	<item class="com.williamhill.sports.android.activities.SplashActivity" name="william_hill"/>
+
+	<!-- Wish -->
+	<item class="com.contextlogic.wish.activity.browse.BrowseActivity" name="wish"/>
+
+	<!-- Workday -->
+	<item class="com.workday.workdroidapp.server.login.LauncherActivity" name="workday"/>
+
+	<!-- Xbox -->
+	<item class="com.microsoft.xbox.MainActivity" name="xbox"/>
+
+	<!-- Xbox Family -->
+	<item class="com.xboxfamily.MainActivity" name="xbox_family"/>
+
+	<!-- Xiaomi Community -->
+	<item class="com.mi.global.bbslib.headlines.ui.SplashActivity" name="xiaomi_community"/>
+
+	<!-- Yoti ID -->
+	<item class="com.yoti.mobile.android.LauncherActivity" name="yoti_id"/>
+
+	<!-- YouCam Perfect -->
+	<item class="com.cyberlink.youperfect.activity.SplashActivity" name="youcam_perfect"/>
+
+	<!-- YourParkingSpace -->
+	<item class="com.netsells.yourparkingspace.app.presentation.MainActivity" name="yourparkingspace"/>
+
+	<!-- YouTube VR -->
+	<item class="com.google.android.apps.youtube.vr.activities.YouTubeVrActivity" name="youtube_vr"/>
+
+	<!-- Zapmap -->
+	<item class="com.zapmap.zapmap.activity.SplashActivity" name="zapmap"/>
+
+	<!-- ZARA -->
+	<item class="com.inditex.zara.MainActivityDefaultIcon" name="zara"/>
+
+	<!-- Zedge -->
+	<item class="net.zedge.android.MainNewyear" name="zedge"/>
+
+	<!-- Zego Delivery -->
+	<item class="com.tego.MainActivity" name="zego_delivery"/>
+
+	<!-- Zoopla -->
+	<item class="com.zoopla.activity.MainActivity" name="zoopla"/>
+
+</appmap>

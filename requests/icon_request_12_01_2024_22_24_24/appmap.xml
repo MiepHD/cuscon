@@ -1,0 +1,9 @@
+<appmap>
+
+	<!-- Feeder -->
+	<item class="com.nononsenseapps.feeder.ui.MainActivity" name="feeder"/>
+
+	<!-- Red Moon -->
+	<item class="com.jmstudios.redmoon.activity.MainActivity" name="red_moon"/>
+
+</appmap>

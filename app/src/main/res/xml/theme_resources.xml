@@ -2135,5 +2135,6 @@
     <AppIcon name="com.chatbot.robochatai/com.dooflixapkv2.in.SplashScreenActivity" image="dooflix"/>
 	<AppIcon name="com.coloros.alarmclock/com.oplus.alarmclock.AlarmClock" image="coloros_clock"/>
 	<AppIcon name="ch.zkb.frankly/ch.zkb.frankly.ui.onboarding.OnboardingActivity" image="frankly"/>
+	<AppIcon name="nl.degiro.trader/nl.degiro.trader.MainActivity" image="degiro"/>
 
 </Theme>
