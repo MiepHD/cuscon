@@ -2165,5 +2165,9 @@
     <item component="ComponentInfo{com.zaneschepke.wireguardautotunnel/com.zaneschepke.wireguardautotunnel.ui.MainActivity}" drawable="wg_tunnel" />
 	<item component="ComponentInfo{org.telegram.messenger/org.telegram.messenger.NoxIcon}" drawable="telegram" />
     <item component="ComponentInfo{org.telegram.messenger.web/org.telegram.messenger.TurboIcon}" drawable="telegram" />
+	<item component="ComponentInfo{com.paygo24.ibank/com.aba.ibank.ui.activities.SplashActivity}" drawable="aba_mobile" />
+    <item component="ComponentInfo{com.microsoft.office.officehub/com.microsoft.office.officesuite.OfficeSuiteActivity}" drawable="microsoft_365_office_" />
+    <item component="ComponentInfo{com.facebook.mlite/com.facebook.mlite.coreui.view.MainActivity}" drawable="mlite" />
+    <item component="ComponentInfo{com.seatel.mobilehall/com.seatel.mobilehall.ui.splashscreen.SplashScreenActivity}" drawable="yes_seatel" />
 
 </resources>

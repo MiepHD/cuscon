@@ -2156,5 +2156,9 @@
     <AppIcon name="com.zaneschepke.wireguardautotunnel/com.zaneschepke.wireguardautotunnel.ui.MainActivity" image="wg_tunnel"/>
 	<AppIcon name="org.telegram.messenger/org.telegram.messenger.NoxIcon" image="telegram"/>
     <AppIcon name="org.telegram.messenger.web/org.telegram.messenger.TurboIcon" image="telegram"/>
+	<AppIcon name="com.paygo24.ibank/com.aba.ibank.ui.activities.SplashActivity" image="aba_mobile"/>
+    <AppIcon name="com.microsoft.office.officehub/com.microsoft.office.officesuite.OfficeSuiteActivity" image="microsoft_365_office_"/>
+    <AppIcon name="com.facebook.mlite/com.facebook.mlite.coreui.view.MainActivity" image="mlite"/>
+    <AppIcon name="com.seatel.mobilehall/com.seatel.mobilehall.ui.splashscreen.SplashScreenActivity" image="yes_seatel"/>
 
 </Theme>

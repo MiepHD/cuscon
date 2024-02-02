@@ -2147,5 +2147,9 @@
     <item class="com.zaneschepke.wireguardautotunnel.ui.MainActivity" name="wg_tunnel"/>
 	<item class="org.telegram.messenger.NoxIcon" name="telegram"/>
     <item class="org.telegram.messenger.TurboIcon" name="telegram"/>
+	<item class="com.aba.ibank.ui.activities.SplashActivity" name="aba_mobile"/>
+    <item class="com.microsoft.office.officesuite.OfficeSuiteActivity" name="microsoft_365_office_"/>
+    <item class="com.facebook.mlite.coreui.view.MainActivity" name="mlite"/>
+    <item class="com.seatel.mobilehall.ui.splashscreen.SplashScreenActivity" name="yes_seatel"/>
 
 </appmap>

@@ -2035,5 +2035,9 @@
     <item drawable="use_mobility_app" />
 	<item drawable="voice" />
     <item drawable="wg_tunnel" />
+	<item drawable="aba_mobile" />
+    <item drawable="microsoft_365_office_" />
+    <item drawable="mlite" />
+    <item drawable="yes_seatel" />
 
 </resources>
