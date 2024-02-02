@@ -2172,5 +2172,10 @@
 	<item component="ComponentInfo{com.konylabs.capitalone/com.konylabs.capitalone.EnterpriseMobileBanking.LaunchActivity}" drawable="capital_one" />
     <item component="ComponentInfo{com.cox.panowifi/com.xfinity.digitalhome.features.launch.splash.SplashActivity}" drawable="cox_wifi" />
 	<item component="ComponentInfo{com.jmstudios.redmoon/com.jmstudios.redmoon.activity.MainActivity}" drawable="red_moon" />
+	<item component="ComponentInfo{com.adguard.android/com.adguard.android.ui.activity.SplashActivity}" drawable="adguard" />
+    <item component="ComponentInfo{com.adguard.vpn/com.adguard.vpn.ui.routing_activity.SplashActivity}" drawable="adguard_vpn" />
+    <item component="ComponentInfo{com.ovz.carscanner.huawei/carScannerXamarinForms.Droid.MainActivity}" drawable="car_scanner" />
+    <item component="ComponentInfo{com.dpd.yourdpd/com.zoontek.rnbootsplash.RNBootSplashActivity}" drawable="dpd" />
+    <item component="ComponentInfo{com.mcdonalds.app.uk/com.mcdonalds.mcdcoreapp.common.activity.SplashActivity}" drawable="mcdonalds" />
 
 </resources>

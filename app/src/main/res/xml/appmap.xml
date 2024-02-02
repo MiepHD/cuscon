@@ -2154,5 +2154,10 @@
 	<item class="com.konylabs.capitalone.EnterpriseMobileBanking.LaunchActivity" name="capital_one"/>
     <item class="com.xfinity.digitalhome.features.launch.splash.SplashActivity" name="cox_wifi"/>
 	<item class="com.jmstudios.redmoon.activity.MainActivity" name="red_moon"/>
+	<item class="com.adguard.android.ui.activity.SplashActivity" name="adguard"/>
+    <item class="com.adguard.vpn.ui.routing_activity.SplashActivity" name="adguard_vpn"/>
+    <item class="carScannerXamarinForms.Droid.MainActivity" name="car_scanner"/>
+    <item class="com.zoontek.rnbootsplash.RNBootSplashActivity" name="dpd"/>
+    <item class="com.mcdonalds.mcdcoreapp.common.activity.SplashActivity" name="mcdonalds"/>
 
 </appmap>

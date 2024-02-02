@@ -2163,5 +2163,10 @@
 	<AppIcon name="com.konylabs.capitalone/com.konylabs.capitalone.EnterpriseMobileBanking.LaunchActivity" image="capital_one"/>
     <AppIcon name="com.cox.panowifi/com.xfinity.digitalhome.features.launch.splash.SplashActivity" image="cox_wifi"/>
 	<AppIcon name="com.jmstudios.redmoon/com.jmstudios.redmoon.activity.MainActivity" image="red_moon"/>
+	<AppIcon name="com.adguard.android/com.adguard.android.ui.activity.SplashActivity" image="adguard"/>
+    <AppIcon name="com.adguard.vpn/com.adguard.vpn.ui.routing_activity.SplashActivity" image="adguard_vpn"/>
+    <AppIcon name="com.ovz.carscanner.huawei/carScannerXamarinForms.Droid.MainActivity" image="car_scanner"/>
+    <AppIcon name="com.dpd.yourdpd/com.zoontek.rnbootsplash.RNBootSplashActivity" image="dpd"/>
+    <AppIcon name="com.mcdonalds.app.uk/com.mcdonalds.mcdcoreapp.common.activity.SplashActivity" image="mcdonalds"/>
 
 </Theme>
