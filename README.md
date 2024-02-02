@@ -15,7 +15,7 @@ Or download the latest APK from the [Releases Section](https://github.com/MiepHD
 
 # Donate
 
-https://www.patreon.com/Cuscon
+https://www.buymeacoffee.com/yazazuyo
 
 # Requests
 
