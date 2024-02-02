@@ -3,6 +3,8 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:installLocation="auto">
 
+    <uses-permission android:name="android.permission.SET_WALLPAPER" tools:node="remove"/>
+
     <supports-screens
         android:smallScreens="true"
         android:normalScreens="true"
