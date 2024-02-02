@@ -2012,5 +2012,6 @@
     <item drawable="libretube_torch" />
     <item drawable="simplemobiletools_gallery_purple" />
     <item drawable="urban_vpn" />
+	<item drawable="openkeychain" />
 
 </resources>

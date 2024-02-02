@@ -2139,5 +2139,6 @@
     <item component="ComponentInfo{com.github.libretube/com.github.libretube.IconTorch}" drawable="libretube_torch" />
     <item component="ComponentInfo{com.simplemobiletools.gallery.pro/com.simplemobiletools.gallery.pro.activities.SplashActivity.Purple}" drawable="simplemobiletools_gallery_purple" />
     <item component="ComponentInfo{com.urbanvpn.android/com.urbanvpn.android.ui.payment.PaymentActivity}" drawable="urban_vpn" />
+	<item component="ComponentInfo{org.sufficientlysecure.keychain/org.sufficientlysecure.keychain.ui.MainActivity}" drawable="openkeychain" />
 
 </resources>

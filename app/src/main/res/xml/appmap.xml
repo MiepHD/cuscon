@@ -2121,5 +2121,6 @@
     <item class="com.github.libretube.IconTorch" name="libretube_torch"/>
     <item class="com.simplemobiletools.gallery.pro.activities.SplashActivity.Purple" name="simplemobiletools_gallery_purple"/>
     <item class="com.urbanvpn.android.ui.payment.PaymentActivity" name="urban_vpn"/>
+	<item class="org.sufficientlysecure.keychain.ui.MainActivity" name="openkeychain"/>
 
 </appmap>
