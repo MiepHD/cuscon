@@ -2002,5 +2002,9 @@
     <item drawable="muj_vlak" />
     <item drawable="pipepipe" />
     <item drawable="sms_backup_and_restore" />
+	<item drawable="bio_company" />
+    <item drawable="caffeinate" />
+    <item drawable="dazn" />
+    <item drawable="tile" />
 
 </resources>

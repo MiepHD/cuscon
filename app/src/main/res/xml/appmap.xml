@@ -2111,5 +2111,9 @@
     <item class="com.circlegate.cd.app.activity.MainActivity" name="muj_vlak"/>
     <item class="org.schabi.newpipe.MainActivity" name="pipepipe"/>
     <item class="com.riteshsahu.SMSBackupRestore.activities.IntroActivity" name="sms_backup_and_restore"/>
+	<item class="com.biocompany.bcapp.MainActivity" name="bio_company"/>
+    <item class="xyz.omnicron.caffeinate.MainActivity" name="caffeinate"/>
+    <item class="com.dazn.splash.view.SplashScreenActivity" name="dazn"/>
+    <item class="com.thetileapp.tile.activities.MainActivity" name="tile"/>
 
 </appmap>

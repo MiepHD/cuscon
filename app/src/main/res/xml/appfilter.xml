@@ -2129,5 +2129,9 @@
     <item component="ComponentInfo{cz.cd.mujvlak.an/com.circlegate.cd.app.activity.MainActivity}" drawable="muj_vlak" />
 	<item component="ComponentInfo{InfinityLoop1309.NewPipeEnhanced/org.schabi.newpipe.MainActivity}" drawable="pipepipe" />
     <item component="ComponentInfo{com.riteshsahu.SMSBackupRestore/com.riteshsahu.SMSBackupRestore.activities.IntroActivity}" drawable="sms_backup_and_restore" />
+	<item component="ComponentInfo{com.biocompany.bcapp/com.biocompany.bcapp.MainActivity}" drawable="bio_company" />
+    <item component="ComponentInfo{xyz.omnicron.caffeinate/xyz.omnicron.caffeinate.MainActivity}" drawable="caffeinate" />
+    <item component="ComponentInfo{com.dazn/com.dazn.splash.view.SplashScreenActivity}" drawable="dazn" />
+    <item component="ComponentInfo{com.thetileapp.tile/com.thetileapp.tile.activities.MainActivity}" drawable="tile" />
 
 </resources>

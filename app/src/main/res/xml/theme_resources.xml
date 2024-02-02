@@ -2120,5 +2120,9 @@
     <AppIcon name="cz.cd.mujvlak.an/com.circlegate.cd.app.activity.MainActivity" image="muj_vlak"/>
     <AppIcon name="InfinityLoop1309.NewPipeEnhanced/org.schabi.newpipe.MainActivity" image="pipepipe"/>
     <AppIcon name="com.riteshsahu.SMSBackupRestore/com.riteshsahu.SMSBackupRestore.activities.IntroActivity" image="sms_backup_and_restore"/>
+	<AppIcon name="com.biocompany.bcapp/com.biocompany.bcapp.MainActivity" image="bio_company"/>
+    <AppIcon name="xyz.omnicron.caffeinate/xyz.omnicron.caffeinate.MainActivity" image="caffeinate"/>
+    <AppIcon name="com.dazn/com.dazn.splash.view.SplashScreenActivity" image="dazn"/>
+    <AppIcon name="com.thetileapp.tile/com.thetileapp.tile.activities.MainActivity" image="tile"/>
 
 </Theme>
