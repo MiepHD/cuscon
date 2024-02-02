@@ -2160,5 +2160,6 @@
     <item class="com.zoontek.rnbootsplash.RNBootSplashActivity" name="dpd"/>
     <item class="com.mcdonalds.mcdcoreapp.common.activity.SplashActivity" name="mcdonalds"/>
 	<item class="com.miui.gallery.activity.HomePageActivity" name="miui_gallery"/>
+	<item class="com.kfc.MainActivity" name="kfc_espana"/>
 
 </appmap>
