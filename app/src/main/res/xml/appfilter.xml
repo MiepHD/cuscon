@@ -2171,5 +2171,6 @@
     <item component="ComponentInfo{com.seatel.mobilehall/com.seatel.mobilehall.ui.splashscreen.SplashScreenActivity}" drawable="yes_seatel" />
 	<item component="ComponentInfo{com.konylabs.capitalone/com.konylabs.capitalone.EnterpriseMobileBanking.LaunchActivity}" drawable="capital_one" />
     <item component="ComponentInfo{com.cox.panowifi/com.xfinity.digitalhome.features.launch.splash.SplashActivity}" drawable="cox_wifi" />
+	<item component="ComponentInfo{com.jmstudios.redmoon/com.jmstudios.redmoon.activity.MainActivity}" drawable="red_moon" />
 
 </resources>

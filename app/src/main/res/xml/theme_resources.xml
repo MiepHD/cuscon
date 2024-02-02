@@ -2162,5 +2162,6 @@
     <AppIcon name="com.seatel.mobilehall/com.seatel.mobilehall.ui.splashscreen.SplashScreenActivity" image="yes_seatel"/>
 	<AppIcon name="com.konylabs.capitalone/com.konylabs.capitalone.EnterpriseMobileBanking.LaunchActivity" image="capital_one"/>
     <AppIcon name="com.cox.panowifi/com.xfinity.digitalhome.features.launch.splash.SplashActivity" image="cox_wifi"/>
+	<AppIcon name="com.jmstudios.redmoon/com.jmstudios.redmoon.activity.MainActivity" image="red_moon"/>
 
 </Theme>
