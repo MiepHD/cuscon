@@ -2033,5 +2033,7 @@
     <item drawable="tk" />
     <item drawable="trello" />
     <item drawable="use_mobility_app" />
+	<item drawable="voice" />
+    <item drawable="wg_tunnel" />
 
 </resources>
