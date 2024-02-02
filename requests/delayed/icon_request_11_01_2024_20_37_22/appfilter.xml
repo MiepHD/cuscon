@@ -19,7 +19,7 @@
 	<item component="ComponentInfo{com.dkbcodefactory.banking/com.dkbcodefactory.banking.splash.SplashActivity}" drawable="dkb" />
 
 	<!-- Firewall -->
-	<item component="ComponentInfo{org.calyxos.datura/org.calyxos.datura.main.MainActivity}" drawable="firewall" />
+	<item component="ComponentInfo{org.calyxos.datura/org.calyxos.datura.main.MainActivity}" drawable="firewall_main" />
 
 	<!-- FreeTube -->
 	<item component="ComponentInfo{io.freetubeapp.freetube/io.freetubeapp.freetube.MainActivity}" drawable="freetube" />

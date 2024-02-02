@@ -2145,5 +2145,21 @@
 	<item component="ComponentInfo{com.coloros.alarmclock/com.oplus.alarmclock.AlarmClock}" drawable="coloros_clock" />
 	<item component="ComponentInfo{ch.zkb.frankly/ch.zkb.frankly.ui.onboarding.OnboardingActivity}" drawable="frankly" />
 	<item component="ComponentInfo{nl.degiro.trader/nl.degiro.trader.MainActivity}" drawable="degiro" />
+	<item component="ComponentInfo{deezer.android.app/com.deezer.android.ui.activity.LauncherActivity}" drawable="deezer" />
+    <item component="ComponentInfo{org.calyxos.datura/org.calyxos.datura.main.MainActivity}" drawable="firewall_main" />
+	<item component="ComponentInfo{io.freetubeapp.freetube/io.freetubeapp.freetube.MainActivity}" drawable="freetube" />
+	<item component="ComponentInfo{de.hagebau.shop/de.hagebau.shop.components.countryselection.ui.view.CountrySelectionActivity}" drawable="hagebau" />
+    <item component="ComponentInfo{com.innologica.inoreader/com.innologica.inoreader.activities.BootstrapActivity}" drawable="inoreader" />
+    <item component="ComponentInfo{com.simplemobiletools.musicplayer/com.simplemobiletools.musicplayer.activities.SplashActivity.Orange}" drawable="music_player" />
+    <item component="ComponentInfo{com.tonies.app/com.tonies.app.MainActivity}" drawable="mytonies" />
+    <item component="ComponentInfo{com.neatorobotics.android/com.neatorobotics.android.app.splashscreen.SplashScreenActivity}" drawable="neato" />
+    <item component="ComponentInfo{com.personio/com.personio.MainActivity}" drawable="personio" />
+    <item component="ComponentInfo{com.ideashower.readitlater.pro/com.ideashower.readitlater.activity.AppCacheCheckActivity}" drawable="pocket" />
+    <item component="ComponentInfo{de.rossmann.app.android/de.rossmann.app.android.splash.SplashScreen}" drawable="rossmann" />
+    <item component="ComponentInfo{com.oceanwing.soundcore/com.oceanwing.soundcore.activity.WelcomeActivity}" drawable="soundcore" />
+    <item component="ComponentInfo{com.tplink.iot/com.tplink.iot.view.welcome.StartupActivity}" drawable="tapo" />
+    <item component="ComponentInfo{de.tk.tkapp/de.tk.tkapp.start.StartActivity}" drawable="tk" />
+    <item component="ComponentInfo{com.trello/com.trello.home.HomeActivity}" drawable="trello" />
+    <item component="ComponentInfo{com.usegroup.usegroup/com.azowo.azowo.ui.activities.splashscreen.SplashScreen}" drawable="use_mobility_app" />
 
 </resources>

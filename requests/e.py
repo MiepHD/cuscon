@@ -3,6 +3,7 @@ import re
 from os.path import exists
 
 appfilter = ""
+conflict = ""
 with open("../../app/src/main/res/xml/appfilter.xml", encoding="utf-8") as f1:
     already = f1.read()
     with open("appfilter.xml", encoding="utf-8") as f:
@@ -10,8 +11,12 @@ with open("../../app/src/main/res/xml/appfilter.xml", encoding="utf-8") as f1:
             if ("item" in line):
                 line = re.sub(r"[\\\t]+", "", line)
                 find = re.sub(r'drawable=".*?\n', "", line)
-                if (find in already):
-                    name = re.search('(?<=e=").*?(?=")', line).group()
-                    if (exists(name + ".png")):
+                name = re.search('(?<=e=").*?(?=")', line).group()
+                if (exists(name + ".png")):
+                    if (find in already):
                         appfilter = appfilter + name + '\n'
+                    if (exists("../../app/src/main/res/drawable-nodpi/" + name + ".png")):
+                        conflict = conflict + name + '\n'
 print(appfilter)
+print("Conflicts:")
+print(conflict)

@@ -19,7 +19,7 @@
 	<AppIcon name="com.dkbcodefactory.banking/com.dkbcodefactory.banking.splash.SplashActivity" image="dkb"/>
 
 	<!-- Firewall -->
-	<AppIcon name="org.calyxos.datura/org.calyxos.datura.main.MainActivity" image="firewall"/>
+	<AppIcon name="org.calyxos.datura/org.calyxos.datura.main.MainActivity" image="firewall_main"/>
 
 	<!-- FreeTube -->
 	<AppIcon name="io.freetubeapp.freetube/io.freetubeapp.freetube.MainActivity" image="freetube"/>

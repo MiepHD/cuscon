@@ -19,7 +19,7 @@
 	<item class="com.dkbcodefactory.banking.splash.SplashActivity" name="dkb"/>
 
 	<!-- Firewall -->
-	<item class="org.calyxos.datura.main.MainActivity" name="firewall"/>
+	<item class="org.calyxos.datura.main.MainActivity" name="firewall_main"/>
 
 	<!-- FreeTube -->
 	<item class="io.freetubeapp.freetube.MainActivity" name="freetube"/>

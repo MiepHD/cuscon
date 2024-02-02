@@ -2017,5 +2017,21 @@
     <item drawable="dooflix" />
 	<item drawable="coloros_clock" />
 	<item drawable="frankly" />
+	<item drawable="deezer" />
+    <item drawable="firewall_main" />
+    <item drawable="freetube" />
+    <item drawable="hagebau" />
+    <item drawable="inoreader" />
+    <item drawable="music_player" />
+    <item drawable="mytonies" />
+    <item drawable="neato" />
+    <item drawable="personio" />
+    <item drawable="pocket" />
+    <item drawable="rossmann" />
+    <item drawable="soundcore" />
+    <item drawable="tapo" />
+    <item drawable="tk" />
+    <item drawable="trello" />
+    <item drawable="use_mobility_app" />
 
 </resources>

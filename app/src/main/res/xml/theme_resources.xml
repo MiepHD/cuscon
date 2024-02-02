@@ -2136,5 +2136,21 @@
 	<AppIcon name="com.coloros.alarmclock/com.oplus.alarmclock.AlarmClock" image="coloros_clock"/>
 	<AppIcon name="ch.zkb.frankly/ch.zkb.frankly.ui.onboarding.OnboardingActivity" image="frankly"/>
 	<AppIcon name="nl.degiro.trader/nl.degiro.trader.MainActivity" image="degiro"/>
+	<AppIcon name="deezer.android.app/com.deezer.android.ui.activity.LauncherActivity" image="deezer"/>
+    <AppIcon name="org.calyxos.datura/org.calyxos.datura.main.MainActivity" image="firewall_main"/>
+    <AppIcon name="io.freetubeapp.freetube/io.freetubeapp.freetube.MainActivity" image="freetube"/>
+    <AppIcon name="de.hagebau.shop/de.hagebau.shop.components.countryselection.ui.view.CountrySelectionActivity" image="hagebau"/>
+    <AppIcon name="com.innologica.inoreader/com.innologica.inoreader.activities.BootstrapActivity" image="inoreader"/>
+    <AppIcon name="com.simplemobiletools.musicplayer/com.simplemobiletools.musicplayer.activities.SplashActivity.Orange" image="music_player"/>
+    <AppIcon name="com.tonies.app/com.tonies.app.MainActivity" image="mytonies"/>
+    <AppIcon name="com.neatorobotics.android/com.neatorobotics.android.app.splashscreen.SplashScreenActivity" image="neato"/>
+    <AppIcon name="com.personio/com.personio.MainActivity" image="personio"/>
+    <AppIcon name="com.ideashower.readitlater.pro/com.ideashower.readitlater.activity.AppCacheCheckActivity" image="pocket"/>
+    <AppIcon name="de.rossmann.app.android/de.rossmann.app.android.splash.SplashScreen" image="rossmann"/>
+    <AppIcon name="com.oceanwing.soundcore/com.oceanwing.soundcore.activity.WelcomeActivity" image="soundcore"/>
+    <AppIcon name="com.tplink.iot/com.tplink.iot.view.welcome.StartupActivity" image="tapo"/>
+    <AppIcon name="de.tk.tkapp/de.tk.tkapp.start.StartActivity" image="tk"/>
+    <AppIcon name="com.trello/com.trello.home.HomeActivity" image="trello"/>
+    <AppIcon name="com.usegroup.usegroup/com.azowo.azowo.ui.activities.splashscreen.SplashScreen" image="use_mobility_app"/>
 
 </Theme>

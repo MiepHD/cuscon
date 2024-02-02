@@ -2127,5 +2127,21 @@
 	<item class="com.oplus.alarmclock.AlarmClock" name="coloros_clock"/>
 	<item class="ch.zkb.frankly.ui.onboarding.OnboardingActivity" name="frankly"/>
 	<item class="nl.degiro.trader.MainActivity" name="degiro"/>
+	<item class="com.deezer.android.ui.activity.LauncherActivity" name="deezer"/>
+    <item class="org.calyxos.datura.main.MainActivity" name="firewall_main"/>
+    <item class="io.freetubeapp.freetube.MainActivity" name="freetube"/>
+    <item class="de.hagebau.shop.components.countryselection.ui.view.CountrySelectionActivity" name="hagebau"/>
+    <item class="com.innologica.inoreader.activities.BootstrapActivity" name="inoreader"/>
+    <item class="com.simplemobiletools.musicplayer.activities.SplashActivity.Orange" name="music_player"/>
+    <item class="com.tonies.app.MainActivity" name="mytonies"/>
+    <item class="com.neatorobotics.android.app.splashscreen.SplashScreenActivity" name="neato"/>
+    <item class="com.personio.MainActivity" name="personio"/>
+    <item class="com.ideashower.readitlater.activity.AppCacheCheckActivity" name="pocket"/>
+    <item class="de.rossmann.app.android.splash.SplashScreen" name="rossmann"/>
+    <item class="com.oceanwing.soundcore.activity.WelcomeActivity" name="soundcore"/>
+    <item class="com.tplink.iot.view.welcome.StartupActivity" name="tapo"/>
+    <item class="de.tk.tkapp.start.StartActivity" name="tk"/>
+    <item class="com.trello.home.HomeActivity" name="trello"/>
+    <item class="com.azowo.azowo.ui.activities.splashscreen.SplashScreen" name="use_mobility_app"/>
 
 </appmap>
