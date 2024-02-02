@@ -1,6 +1,0 @@
-<resources>
-
-	<!-- frankly -->
-	<item component="ComponentInfo{ch.zkb.frankly/ch.zkb.frankly.ui.onboarding.OnboardingActivity}" drawable="frankly" />
-
-</resources>
