@@ -2142,5 +2142,6 @@
 	<item component="ComponentInfo{org.sufficientlysecure.keychain/org.sufficientlysecure.keychain.ui.MainActivity}" drawable="openkeychain" />
 	<item component="ComponentInfo{com.adobe.psmobile/com.adobe.psmobile.SplashScreen}" drawable="adobe_photoshop_express" />
     <item component="ComponentInfo{com.chatbot.robochatai/com.dooflixapkv2.in.SplashScreenActivity}" drawable="dooflix" />
+	<item component="ComponentInfo{com.coloros.alarmclock/com.oplus.alarmclock.AlarmClock}" drawable="coloros_clock" />
 
 </resources>

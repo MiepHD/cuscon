@@ -1,2 +1,2 @@
 - Added 0h h1, 8Vim, AndFTP, 電話, メッセージ, CommBank, Desmos, Easy xkcd, File Manager, Keyman, Lovense Remote, MediaFire, Minesweeper, Mitch, Opera GX, QuickEdit, Replit, Revolt, Screen Master, Senreta Vortaro, Simple Weight Tracker, ギャラリー, spacedesk, Square Pic, UnicodePad, Vendetta, Vendetta Manager, Air Bank, Kaomoji, LibreSudoku, Můj vlak, PipePipe, SMS Backup and Restore, BIO COMPANY, Caffeinate, DAZN, Tile, Acode, Fake Traveler, HexViewer, LibreTube, ギャラリー, Urban VPN, OpenKeychain, Adobe Photoshop Express, DooFlix
-- Updated Dialer, Music
+- Updated Dialer, Music, Clock

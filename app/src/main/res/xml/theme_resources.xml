@@ -2133,5 +2133,6 @@
 	<AppIcon name="org.sufficientlysecure.keychain/org.sufficientlysecure.keychain.ui.MainActivity" image="openkeychain"/>
 	<AppIcon name="com.adobe.psmobile/com.adobe.psmobile.SplashScreen" image="adobe_photoshop_express"/>
     <AppIcon name="com.chatbot.robochatai/com.dooflixapkv2.in.SplashScreenActivity" image="dooflix"/>
+	<AppIcon name="com.coloros.alarmclock/com.oplus.alarmclock.AlarmClock" image="coloros_clock"/>
 
 </Theme>
