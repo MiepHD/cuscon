@@ -2154,5 +2154,7 @@
     <AppIcon name="com.usegroup.usegroup/com.azowo.azowo.ui.activities.splashscreen.SplashScreen" image="use_mobility_app"/>
 	<AppIcon name="de.ph1b.audiobook/voice.app.features.MainActivity" image="voice"/>
     <AppIcon name="com.zaneschepke.wireguardautotunnel/com.zaneschepke.wireguardautotunnel.ui.MainActivity" image="wg_tunnel"/>
+	<AppIcon name="org.telegram.messenger/org.telegram.messenger.NoxIcon" image="telegram"/>
+    <AppIcon name="org.telegram.messenger.web/org.telegram.messenger.TurboIcon" image="telegram"/>
 
 </Theme>

@@ -127,7 +127,7 @@
 	<item class="com.duoduo.dj.MainActivity" name="dj多多"/>
 
 	<!-- Lite -->
-	<item class="com.facebook.mlite.coreui.view.MainActivity" name="lite"/>
+	<item class="com.facebook.mlite.coreui.view.MainActivity" name="mlite"/>
 
 	<!-- Microsoft 365 (Office) -->
 	<item class="com.microsoft.office.officesuite.OfficeSuiteActivity" name="microsoft_365_office_"/>

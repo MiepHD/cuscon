@@ -2145,5 +2145,7 @@
     <item class="com.azowo.azowo.ui.activities.splashscreen.SplashScreen" name="use_mobility_app"/>
 	<item class="voice.app.features.MainActivity" name="voice"/>
     <item class="com.zaneschepke.wireguardautotunnel.ui.MainActivity" name="wg_tunnel"/>
+	<item class="org.telegram.messenger.NoxIcon" name="telegram"/>
+    <item class="org.telegram.messenger.TurboIcon" name="telegram"/>
 
 </appmap>

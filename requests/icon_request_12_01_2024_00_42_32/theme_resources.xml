@@ -127,7 +127,7 @@
 	<AppIcon name="com.shoujiduoduo.dj/com.duoduo.dj.MainActivity" image="dj多多"/>
 
 	<!-- Lite -->
-	<AppIcon name="com.facebook.mlite/com.facebook.mlite.coreui.view.MainActivity" image="lite"/>
+	<AppIcon name="com.facebook.mlite/com.facebook.mlite.coreui.view.MainActivity" image="mlite"/>
 
 	<!-- Microsoft 365 (Office) -->
 	<AppIcon name="com.microsoft.office.officehub/com.microsoft.office.officesuite.OfficeSuiteActivity" image="microsoft_365_office_"/>
