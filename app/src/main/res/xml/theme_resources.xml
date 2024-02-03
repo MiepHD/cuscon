@@ -2246,4 +2246,5 @@
     <AppIcon name="no.mobitroll.kahoot.android/no.mobitroll.kahoot.android.application.SplashActivity" image="kahoot_"/>
 	<AppIcon name="com.elasticrock.keepscreenon/com.elasticrock.keepscreenon.MainActivity" image="keep_screen_on"/>
 	<AppIcon name="com.jamworks.dynamicspot/com.jamworks.dynamicspot.SettingsHome" image="dynamicspot"/>
+    <AppIcon name="im.molly.app.unifiedpush/org.thoughtcrime.securesms.RoutingActivity" image="molly"/>
 </Theme>
