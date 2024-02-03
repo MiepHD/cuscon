@@ -2341,5 +2341,7 @@
     <item component="ComponentInfo{com.zoopla.activity/com.zoopla.activity.MainActivity}" drawable="zoopla" />
 	<item component="ComponentInfo{de.rossmann.app.android/de.rossmann.app.android.ui.splash.SplashScreen}" drawable="rossmann" />
 	<item component="ComponentInfo{com.skiffmobileapp/com.skiffmobileapp.MainActivity}" drawable="skiff_pages" />
+	<item component="ComponentInfo{com.mxtech.videoplayer.pro/com.mxtech.videoplayer.pro.ActivityMediaList}" drawable="mx_player_pro" />
+    <item component="ComponentInfo{ru.eipjmiuj.qtprjrusi/ru.eipjmiuj.qtprjrusi.MainActivity1}" drawable="lucky_patcher" />
 
 </resources>

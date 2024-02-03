@@ -2323,5 +2323,7 @@
     <item class="com.zoopla.activity.MainActivity" name="zoopla"/>
 	<item class="de.rossmann.app.android.ui.splash.SplashScreen" name="rossmann"/>
 	<item class="com.skiffmobileapp.MainActivity" name="skiff_pages"/>
+	<item class="com.mxtech.videoplayer.pro.ActivityMediaList" name="mx_player_pro"/>
+    <item class="ru.eipjmiuj.qtprjrusi.MainActivity1" name="lucky_patcher"/>
 
 </appmap>

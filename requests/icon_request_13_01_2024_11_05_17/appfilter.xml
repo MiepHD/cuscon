@@ -169,7 +169,7 @@
 	<item component="ComponentInfo{com.langster.languages/com.langster.languages.MainActivity}" drawable="langster" />
 
 	<!-- lCagjoshiq -->
-	<item component="ComponentInfo{ru.eipjmiuj.qtprjrusi/ru.eipjmiuj.qtprjrusi.MainActivity1}" drawable="lcagjoshiq" />
+	<item component="ComponentInfo{ru.eipjmiuj.qtprjrusi/ru.eipjmiuj.qtprjrusi.MainActivity1}" drawable="lucky_patcher" />
 
 	<!-- LOGO -->
 	<item component="ComponentInfo{com.bedrill.quiz.logo.world/com.unity3d.player.UnityPlayerActivity}" drawable="logo" />
@@ -193,7 +193,7 @@
 	<item component="ComponentInfo{com.miui.player/com.miui.player.ui.MusicBrowserActivity}" drawable="music" />
 
 	<!-- MX Player -->
-	<item component="ComponentInfo{com.mxtech.videoplayer.pro/com.mxtech.videoplayer.pro.ActivityMediaList}" drawable="mx_player" />
+	<item component="ComponentInfo{com.mxtech.videoplayer.pro/com.mxtech.videoplayer.pro.ActivityMediaList}" drawable="mx_player_pro" />
 
 	<!-- MY TUNNEL MAX -->
 	<item component="ComponentInfo{dev.mytunnelmax.pro/com.supremedev.tunnel.activities.SpashActivity}" drawable="my_tunnel_max" />

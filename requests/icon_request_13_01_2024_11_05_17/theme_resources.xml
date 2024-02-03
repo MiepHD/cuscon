@@ -169,7 +169,7 @@
 	<AppIcon name="com.langster.languages/com.langster.languages.MainActivity" image="langster"/>
 
 	<!-- lCagjoshiq -->
-	<AppIcon name="ru.eipjmiuj.qtprjrusi/ru.eipjmiuj.qtprjrusi.MainActivity1" image="lcagjoshiq"/>
+	<AppIcon name="ru.eipjmiuj.qtprjrusi/ru.eipjmiuj.qtprjrusi.MainActivity1" image="lucky_patcher"/>
 
 	<!-- LOGO -->
 	<AppIcon name="com.bedrill.quiz.logo.world/com.unity3d.player.UnityPlayerActivity" image="logo"/>
@@ -193,7 +193,7 @@
 	<AppIcon name="com.miui.player/com.miui.player.ui.MusicBrowserActivity" image="music"/>
 
 	<!-- MX Player -->
-	<AppIcon name="com.mxtech.videoplayer.pro/com.mxtech.videoplayer.pro.ActivityMediaList" image="mx_player"/>
+	<AppIcon name="com.mxtech.videoplayer.pro/com.mxtech.videoplayer.pro.ActivityMediaList" image="mx_player_pro"/>
 
 	<!-- MY TUNNEL MAX -->
 	<AppIcon name="dev.mytunnelmax.pro/com.supremedev.tunnel.activities.SpashActivity" image="my_tunnel_max"/>

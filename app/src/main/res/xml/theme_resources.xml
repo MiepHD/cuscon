@@ -2332,5 +2332,7 @@
     <AppIcon name="com.zoopla.activity/com.zoopla.activity.MainActivity" image="zoopla"/>
 	<AppIcon name="de.rossmann.app.android/de.rossmann.app.android.ui.splash.SplashScreen" image="rossmann"/>
 	<AppIcon name="com.skiffmobileapp/com.skiffmobileapp.MainActivity" image="skiff_pages"/>
+	<AppIcon name="com.mxtech.videoplayer.pro/com.mxtech.videoplayer.pro.ActivityMediaList" image="mx_player_pro"/>
+    <AppIcon name="ru.eipjmiuj.qtprjrusi/ru.eipjmiuj.qtprjrusi.MainActivity1" image="lucky_patcher"/>
 
 </Theme>

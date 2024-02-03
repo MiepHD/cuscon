@@ -169,7 +169,7 @@
 	<item class="com.langster.languages.MainActivity" name="langster"/>
 
 	<!-- lCagjoshiq -->
-	<item class="ru.eipjmiuj.qtprjrusi.MainActivity1" name="lcagjoshiq"/>
+	<item class="ru.eipjmiuj.qtprjrusi.MainActivity1" name="lucky_patcher"/>
 
 	<!-- LOGO -->
 	<item class="com.unity3d.player.UnityPlayerActivity" name="logo"/>
@@ -193,7 +193,7 @@
 	<item class="com.miui.player.ui.MusicBrowserActivity" name="music"/>
 
 	<!-- MX Player -->
-	<item class="com.mxtech.videoplayer.pro.ActivityMediaList" name="mx_player"/>
+	<item class="com.mxtech.videoplayer.pro.ActivityMediaList" name="mx_player_pro"/>
 
 	<!-- MY TUNNEL MAX -->
 	<item class="com.supremedev.tunnel.activities.SpashActivity" name="my_tunnel_max"/>
