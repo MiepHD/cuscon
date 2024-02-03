@@ -2343,5 +2343,58 @@
 	<item component="ComponentInfo{com.skiffmobileapp/com.skiffmobileapp.MainActivity}" drawable="skiff_pages" />
 	<item component="ComponentInfo{com.mxtech.videoplayer.pro/com.mxtech.videoplayer.pro.ActivityMediaList}" drawable="mx_player_pro" />
     <item component="ComponentInfo{ru.eipjmiuj.qtprjrusi/ru.eipjmiuj.qtprjrusi.MainActivity1}" drawable="lucky_patcher" />
+	<item component="ComponentInfo{com.anslayer/com.anslayer.ui.splash.SplashActivity}" drawable="anime_slayer" />
+    <item component="ComponentInfo{ru.maximoff.apktool/ru.maximoff.apktool.SplashActivity}" drawable="apktool_m" />
+    <item component="ComponentInfo{com.apnashield.pro/prince.open.vpn.activities.SplashActivity}" drawable="apna_shield_pro" />
+    <item component="ComponentInfo{com.dictionary.ar/com.dictionary.ar.DictionaryActivity}" drawable="arabic_english_dictionary" />
+    <item component="ComponentInfo{com.app_mo.splayer/com.app_mo.splayer.ui.main.MainActivity}" drawable="asd_player" />
+	<item component="ComponentInfo{com.ayah/com.ayah.ui.SplashScreen}" drawable="ayah" />
+    <item component="ComponentInfo{com.beeper.ima/com.beeper.chat.booper.MainActivity}" drawable="beeper_booper" />
+    <item component="ComponentInfo{ee.mtakso.client/ee.mtakso.client.activity.SplashHomeActivity}" drawable="bolt" />
+    <item component="ComponentInfo{im.thebot.messenger/im.thebot.messenger.BOTStartPage}" drawable="botim" />
+    <item component="ComponentInfo{com.perseusgames.brickgame/com.unity3d.player.UnityPlayerActivity}" drawable="brick_game" />
+    <item component="ComponentInfo{com.careem.acma/com.careem.superapp.OnboardingActivityOldIcon}" drawable="careem" />
+    <item component="ComponentInfo{com.threethings.challengefiveseconds/com.threethings.challengefiveseconds.MainActivity}" drawable="challengefiveseconds" />
+    <item component="ComponentInfo{dev.rlb.studio.countrytunnelvip/renz.javacodez.vpn.activities.RCODEVPNSplash}" drawable="country_tunnel_vip" />
+    <item component="ComponentInfo{com.voixme.d4d/com.voixme.d4d.ui.activity.SplashScreen}" drawable="d4d" />
+    <item component="ComponentInfo{com.epicgames.portal/com.epicgames.portal.MainActivity}" drawable="epic_games_store" />
+    <item component="ComponentInfo{epub.reader/com.foobnix.ui2.MainTabs2}" drawable="epub_reader" />
+    <item component="ComponentInfo{org.fossify.filemanager/org.fossify.filemanager.activities.SplashActivity.Green}" drawable="file_manager_green" />
+    <item component="ComponentInfo{sa.QuranComplex.QuranHafs/com.embarcadero.firemonkey.FMXNativeActivity}" drawable="firemonkey" />
+    <item component="ComponentInfo{com.jrummy.font.installer.free/com.jrummyapps.fontfix.activities.FontListActivity}" drawable="fontfix" />
+    <item component="ComponentInfo{com.folderv.filepro/com.folderv.file.SplashActivity}" drawable="fv_file_explorer_pro" />
+    <item component="ComponentInfo{com.turner.cartoonnetworkgames/com.turner.cartoonnetworkgames.MainActivity}" drawable="gamebox" />
+    <item component="ComponentInfo{com.xiaomi.mipicks/com.xiaomi.mipicks.DefaultAlias}" drawable="getapps" />
+    <item component="ComponentInfo{com.rockstargames.gtasa/com.rockstargames.gtasa.Downloader}" drawable="gta_sa" />
+    <item component="ComponentInfo{net.hackerbot.hbsiteapp/net.hackerbot.hbsiteapp.MainActivity}" drawable="hackerbot" />
+    <item component="ComponentInfo{com.haraj.app/com.haraj.app.main.MainActivity}" drawable="haraj" />
+    <item component="ComponentInfo{xyz.spkmoder.hexx.vpn/com.tekidoer.hexxvpn.activities.SplashActivity}" drawable="hexx_vpn" />
+    <item component="ComponentInfo{com.request.http/spkmods.build.austrovpn.LauncherActivity}" drawable="http_request_tunnel" />
+    <item component="ComponentInfo{app.irprovpn.ovpn3/com.technore.tunnel.activities.SplashActivity}" drawable="ir_pro_vpn" />
+    <item component="ComponentInfo{in.sunilpaulmathew.izzyondroid/in.sunilpaulmathew.izzyondroid.MainActivity}" drawable="izzyondroid" />
+    <item component="ComponentInfo{com.weo.projectz/com.weo.projectz.MainActivity}" drawable="jaco" />
+    <item component="ComponentInfo{com.wKiberuDataApp_17143086/com.appsgeyser.multiTabApp.MainNavigationActivity}" drawable="kiberu_data_app" />
+    <item component="ComponentInfo{com.langster.languages/com.langster.languages.MainActivity}" drawable="langster" />
+    <item component="ComponentInfo{com.manet.vpn/prince.open.vpn.activities.SpashActivity}" drawable="ma_net_vpn" />
+    <item component="ComponentInfo{com.beatgridmedia.panelsync.mediarewards/com.beatgridmedia.panelsync.mediarewards.activity.OverviewActivity}" drawable="media_rewards" />
+    <item component="ComponentInfo{com.mhrtunnel.vip/renz.javacodez.vpn.activities.VPNSplash}" drawable="mhr_tunnel_vip" />
+    <item component="ComponentInfo{dev.mytunnelmax.pro/com.supremedev.tunnel.activities.SpashActivity}" drawable="my_tunnel_max" />
+    <item component="ComponentInfo{com.wNERDVPN2024_16998386/com.webihostapp.xprofreevpnapp.activities.SplashActivity}" drawable="nerd_vpn_2024" />
+    <item component="ComponentInfo{org.proninyaroslav.opencomicvine/org.proninyaroslav.opencomicvine.ui.MainActivity}" drawable="opencomicvine" />
+    <item component="ComponentInfo{eu.bandainamcoent.pacman256/com.unity3d.player.UnityPlayerActivity}" drawable="pac_man_256" />
+    <item component="ComponentInfo{com.mobisystems.mobiscanner/com.mobisystems.office.splashScreen.SplashScreenActivity}" drawable="pdf_extra" />
+    <item component="ComponentInfo{dev.rlb.studio.plhtunnel/renz.javacodez.vpn.activities.VPNSplash}" drawable="plh_tunnel" />
+    <item component="ComponentInfo{com.maxmpz.audioplayer/com.maxmpz.audioplayer.standard_adaptive}" drawable="poweramp" />
+    <item component="ComponentInfo{com.netvor.qrtscanner/com.netvor.qrtscanner.MainActivity}" drawable="qr_and_t_scanner" />
+    <item component="ComponentInfo{by4a.setedit22/by4a.setedit.EditorActivity}" drawable="setedit22" />
+    <item component="ComponentInfo{com.amelosinteractive.snake/com.kooapps.unity.CustomUnityPlayerActivity}" drawable="snakeio" />
+    <item component="ComponentInfo{com.resilio.sync/com.resilio.sync.ui.activity.StartActivity}" drawable="sync" />
+    <item component="ComponentInfo{com.daregame/com.daregame.MainActivity}" drawable="taqtaqah" />
+    <item component="ComponentInfo{com.challenge_of_commands_and_confessions.taqtiqa/com.challenge_of_commands_and_confessions.taqtiqa.SplashScreen}" drawable="taqtiqa" />
+    <item component="ComponentInfo{com.aspiro.tidal/com.aspiro.wamp.LoginFragmentActivity}" drawable="tidal" />
+    <item component="ComponentInfo{com.tlfast.vpn/prince.open.vpn.activities.SpashActivity}" drawable="tl_fast_vpn" />
+    <item component="ComponentInfo{com.rhythm.hexise.uninst/com.rhythm.hexise.uninst.Uninstaller}" drawable="uninstaller" />
+    <item component="ComponentInfo{eu.bandainamcoent.verylittlenightmares/com.unity3d.player.UnityPlayerActivity}" drawable="vln" />
+    <item component="ComponentInfo{com.apkpure.installer/com.apkpure.installer.MainActivity}" drawable="xapk_installer" />
 
 </resources>
