@@ -2330,5 +2330,6 @@
     <AppIcon name="com.zapmap.zapmap/com.zapmap.zapmap.activity.SplashActivity" image="zapmap"/>
     <AppIcon name="com.tego/com.tego.MainActivity" image="zego_delivery"/>
     <AppIcon name="com.zoopla.activity/com.zoopla.activity.MainActivity" image="zoopla"/>
+	<AppIcon name="de.rossmann.app.android/de.rossmann.app.android.ui.splash.SplashScreen" image="rossmann"/>
 
 </Theme>

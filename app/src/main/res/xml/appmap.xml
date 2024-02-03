@@ -2321,5 +2321,6 @@
     <item class="com.zapmap.zapmap.activity.SplashActivity" name="zapmap"/>
     <item class="com.tego.MainActivity" name="zego_delivery"/>
     <item class="com.zoopla.activity.MainActivity" name="zoopla"/>
+	<item class="de.rossmann.app.android.ui.splash.SplashScreen" name="rossmann"/>
 
 </appmap>

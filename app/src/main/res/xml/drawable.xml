@@ -2203,5 +2203,6 @@
     <item drawable="zapmap" />
     <item drawable="zego_delivery" />
     <item drawable="zoopla" />
+	<item drawable="rossmann" />
 
 </resources>
