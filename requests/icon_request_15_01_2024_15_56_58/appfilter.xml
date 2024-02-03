@@ -166,7 +166,7 @@
 	<item component="ComponentInfo{cz.kb.paatproduction/cz.kb.paat.ui.MainActivity}" drawable="kb klic" />
 
 	<!-- KFC CZ -->
-	<item component="ComponentInfo{com.kfc_cs/com.kfc_polska.ui.main.MainActivity}" drawable="kfc_cz" />
+	<item component="ComponentInfo{com.kfc_cs/com.kfc_polska.ui.main.MainActivity}" drawable="kfc_espana" />
 
 	<!-- Kindle -->
 	<item component="ComponentInfo{com.amazon.kindle/com.amazon.kindle.UpgradePage}" drawable="kindle" />

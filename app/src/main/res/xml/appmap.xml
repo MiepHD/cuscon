@@ -537,7 +537,7 @@
 	<item class="com.moodle.moodlemobile.MainActivity" name="moodle"/>
 	<item class="com.google.firebase.MessagingUnityPlayerActivity" name="happy_color"/>
 	<item class="cat.consellrepublica.portalapp.MainActivity" name="consell_republica"/>
-	<item class="com.kfces.orderserv.SplashActivity" name="kfc_espana"/>
+	<item class="com.kfces.orderserv.SplashActivity" name="kfc"/>
 	<item class="cat.epa.quiosc.activity.TriaActivity" name="la_republica"/>
 	<item class="aplicacion.InicialActivity" name="meteored"/>
 	<item class="com.prisa.ser.presentation.screens.fakeSplash.FakeSplashActivity" name="ser"/>
@@ -2160,7 +2160,7 @@
     <item class="com.zoontek.rnbootsplash.RNBootSplashActivity" name="dpd"/>
     <item class="com.mcdonalds.mcdcoreapp.common.activity.SplashActivity" name="mcdonalds"/>
 	<item class="com.miui.gallery.activity.HomePageActivity" name="miui_gallery"/>
-	<item class="com.kfc.MainActivity" name="kfc_espana"/>
+	<item class="com.kfc.MainActivity" name="kfc"/>
 	<item class="com.abelandcole.acapple.MainActivity" name="abel_and_cole"/>
     <item class="com.adzuna.splash.SplashActivity" name="adzuna"/>
     <item class="com.karrot.SplashActivity" name="airtime_rewards"/>
@@ -2397,5 +2397,6 @@
     <item class="com.simplemobiletools.dialer.activities.SplashActivity.Orange" name="telefon"/>
     <item class="com.agoldcomm.toolbox.MainActivity" name="werkzeugkasten"/>
 	<item class="com.miui.fmradio.FmRadioActivity" name="miui_fm_radio"/>
+	<item class="com.kfc_polska.ui.main.MainActivity" name="kfc"/>
 
 </appmap>

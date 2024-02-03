@@ -556,7 +556,7 @@
 	<item component="ComponentInfo{com.moodle.moodlemobile/com.moodle.moodlemobile.MainActivity}" drawable="moodle" />
 	<item component="ComponentInfo{com.pixel.art.coloring.color.number/com.google.firebase.MessagingUnityPlayerActivity}" drawable="happy_color" />
 	<item component="ComponentInfo{cat.consellrepublica.portalapp/cat.consellrepublica.portalapp.MainActivity}" drawable="consell_republica" />
-	<item component="ComponentInfo{es.kfc.spain/com.kfces.orderserv.SplashActivity}" drawable="kfc_espana" />
+	<item component="ComponentInfo{es.kfc.spain/com.kfces.orderserv.SplashActivity}" drawable="kfc" />
 	<item component="ComponentInfo{cat.epa.quiosc.rep/cat.epa.quiosc.activity.TriaActivity}" drawable="la_republica" />
 	<item component="ComponentInfo{aplicacion.tiempo/aplicacion.InicialActivity}" drawable="meteored" />
 	<item component="ComponentInfo{com.prisaradio.replicapp.cadenaser/com.prisa.ser.presentation.screens.fakeSplash.FakeSplashActivity}" drawable="ser" />
@@ -2178,7 +2178,7 @@
     <item component="ComponentInfo{com.dpd.yourdpd/com.zoontek.rnbootsplash.RNBootSplashActivity}" drawable="dpd" />
     <item component="ComponentInfo{com.mcdonalds.app.uk/com.mcdonalds.mcdcoreapp.common.activity.SplashActivity}" drawable="mcdonalds" />
 	<item component="ComponentInfo{com.miui.gallery/com.miui.gallery.activity.HomePageActivity}" drawable="miui_gallery" />
-	<item component="ComponentInfo{com.yum.colonelsclub/com.kfc.MainActivity}" drawable="kfc_espana" />
+	<item component="ComponentInfo{com.yum.colonelsclub/com.kfc.MainActivity}" drawable="kfc" />
 	<item component="ComponentInfo{com.abelandcole.ACApple/com.abelandcole.acapple.MainActivity}" drawable="abel_and_cole" />
     <item component="ComponentInfo{com.adzuna/com.adzuna.splash.SplashActivity}" drawable="adzuna" />
     <item component="ComponentInfo{com.karrot/com.karrot.SplashActivity}" drawable="airtime_rewards" />

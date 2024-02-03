@@ -166,7 +166,7 @@
 	<item class="cz.kb.paat.ui.MainActivity" name="kb klic"/>
 
 	<!-- KFC CZ -->
-	<item class="com.kfc_polska.ui.main.MainActivity" name="kfc_cz"/>
+	<item class="com.kfc_polska.ui.main.MainActivity" name="kfc_espana"/>
 
 	<!-- Kindle -->
 	<item class="com.amazon.kindle.UpgradePage" name="kindle"/>

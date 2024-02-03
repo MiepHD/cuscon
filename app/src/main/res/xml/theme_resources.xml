@@ -544,7 +544,7 @@
 	<AppIcon name="com.moodle.moodlemobile/com.moodle.moodlemobile.MainActivity" image="moodle"/>
 	<AppIcon name="com.pixel.art.coloring.color.number/com.google.firebase.MessagingUnityPlayerActivity" image="happy_color"/>
 	<AppIcon name="cat.consellrepublica.portalapp/cat.consellrepublica.portalapp.MainActivity" image="consell_republica"/>
-	<AppIcon name="es.kfc.spain/com.kfces.orderserv.SplashActivity" image="kfc_espana"/>
+	<AppIcon name="es.kfc.spain/com.kfces.orderserv.SplashActivity" image="kfc"/>
 	<AppIcon name="cat.epa.quiosc.rep/cat.epa.quiosc.activity.TriaActivity" image="la_republica"/>
 	<AppIcon name="aplicacion.tiempo/aplicacion.InicialActivity" image="meteored"/>
 	<AppIcon name="com.prisaradio.replicapp.cadenaser/com.prisa.ser.presentation.screens.fakeSplash.FakeSplashActivity" image="ser"/>
@@ -2169,7 +2169,7 @@
     <AppIcon name="com.dpd.yourdpd/com.zoontek.rnbootsplash.RNBootSplashActivity" image="dpd"/>
     <AppIcon name="com.mcdonalds.app.uk/com.mcdonalds.mcdcoreapp.common.activity.SplashActivity" image="mcdonalds"/>
 	<AppIcon name="com.miui.gallery/com.miui.gallery.activity.HomePageActivity" image="miui_gallery"/>
-	<AppIcon name="com.yum.colonelsclub/com.kfc.MainActivity" image="kfc_espana"/>
+	<AppIcon name="com.yum.colonelsclub/com.kfc.MainActivity" image="kfc"/>
 	<AppIcon name="com.abelandcole.ACApple/com.abelandcole.acapple.MainActivity" image="abel_and_cole"/>
     <AppIcon name="com.adzuna/com.adzuna.splash.SplashActivity" image="adzuna"/>
     <AppIcon name="com.karrot/com.karrot.SplashActivity" image="airtime_rewards"/>
@@ -2406,5 +2406,6 @@
     <AppIcon name="com.simplemobiletools.dialer/com.simplemobiletools.dialer.activities.SplashActivity.Orange" image="telefon"/>
     <AppIcon name="com.agoldcomm.toolbox/com.agoldcomm.toolbox.MainActivity" image="werkzeugkasten"/>
 	<AppIcon name="com.miui.fm/com.miui.fmradio.FmRadioActivity" image="miui_fm_radio"/>
+	<AppIcon name="com.kfc_cs/com.kfc_polska.ui.main.MainActivity" image="kfc"/>
 
 </Theme>

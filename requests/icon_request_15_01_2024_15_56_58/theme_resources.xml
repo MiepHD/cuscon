@@ -166,7 +166,7 @@
 	<AppIcon name="cz.kb.paatproduction/cz.kb.paat.ui.MainActivity" image="kb klic"/>
 
 	<!-- KFC CZ -->
-	<AppIcon name="com.kfc_cs/com.kfc_polska.ui.main.MainActivity" image="kfc_cz"/>
+	<AppIcon name="com.kfc_cs/com.kfc_polska.ui.main.MainActivity" image="kfc_espana"/>
 
 	<!-- Kindle -->
 	<AppIcon name="com.amazon.kindle/com.amazon.kindle.UpgradePage" image="kindle"/>
