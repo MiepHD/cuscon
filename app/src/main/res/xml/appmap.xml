@@ -2237,5 +2237,6 @@
     <item class="no.mobitroll.kahoot.android.application.SplashActivity" name="kahoot_"/>
     <item class="com.elasticrock.keepscreenon.MainActivity" name="keep_screen_on"/>
 	<item class="com.jamworks.dynamicspot.SettingsHome" name="dynamicspot"/>
+    <item class="org.thoughtcrime.securesms.RoutingActivity" name="molly"/>
 
 </appmap>
