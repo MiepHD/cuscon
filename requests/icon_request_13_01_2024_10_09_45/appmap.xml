@@ -1,9 +1,0 @@
-<appmap>
-
-	<!-- Rossmann -->
-	<item class="de.rossmann.app.android.ui.splash.SplashScreen" name="rossmann"/>
-
-	<!-- Skiff Pages -->
-	<item class="com.skiffmobileapp.MainActivity" name="skiff_pages"/>
-
-</appmap>

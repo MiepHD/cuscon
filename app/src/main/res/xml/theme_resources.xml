@@ -2331,5 +2331,6 @@
     <AppIcon name="com.tego/com.tego.MainActivity" image="zego_delivery"/>
     <AppIcon name="com.zoopla.activity/com.zoopla.activity.MainActivity" image="zoopla"/>
 	<AppIcon name="de.rossmann.app.android/de.rossmann.app.android.ui.splash.SplashScreen" image="rossmann"/>
+	<AppIcon name="com.skiffmobileapp/com.skiffmobileapp.MainActivity" image="skiff_pages"/>
 
 </Theme>

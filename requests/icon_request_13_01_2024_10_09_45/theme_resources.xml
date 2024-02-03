@@ -1,9 +1,0 @@
-<Theme version="1">
-
-	<!-- Rossmann -->
-	<AppIcon name="de.rossmann.app.android/de.rossmann.app.android.ui.splash.SplashScreen" image="rossmann"/>
-
-	<!-- Skiff Pages -->
-	<AppIcon name="com.skiffmobileapp/com.skiffmobileapp.MainActivity" image="skiff_pages"/>
-
-</Theme>
