@@ -1,8 +1,10 @@
 #!/bin/sh
 
 # 1st parameter: filename
-# 2nd optional parameter: fuzz percentage for background
-# 3rd optional parameter: fuzz percentage for trimming
+# 2nd parameter (optional): fuzz percentage for background
+# 3rd parameter (optional): fuzz percentage for trimming
+# 4th parameter (optional): x coordinate to get background color from
+# 5th parameter (optional): y coordinate to get background color from
 
 filename="$1"
 new_file="new_$filename"
@@ -28,10 +30,10 @@ print_background $filename
 
 echo
 echo "Remove background"
-magick $new_file -fill none -fuzz ${2:-25}% -draw 'color 0,0 floodfill' "no_bg_$new_file"
+magick $new_file -fill none -fuzz ${2:-25}% -draw "color ${4:-0},${5:-0} floodfill" "no_bg_$new_file"
 
 echo "Trim transparent border"
-magick "no_bg_$new_file" -fuzz ${3:-${2:-75}}% -trim "trimmed_$new_file"
+magick "no_bg_$new_file" -fuzz ${3:-75}% -trim "trimmed_$new_file"
 
 # resize preserves the aspect ratio, so the longest edge is now 450px
 # https://imagemagick.org/Usage/resize/
