@@ -2386,5 +2386,15 @@
 	<item class="com.android.camera.CameraLauncher" name="android_camera"/>
     <item class="com.google.android.apps.cameralite.capture.CaptureActivity" name="android_camera"/>
 	<item class="yilrfu.s" name="bhim"/>
+	<item class="de.jepfa.yapm.ui.credential.ListCredentialsActivity" name="anotherpass"/>
+    <item class="de.baumann.browser.activity.BrowserActivity" name="foss_browser_baumann"/>
+    <item class="com.simplemobiletools.contacts.pro.activities.SplashActivity.Green" name="kontakte"/>
+    <item class="com.agui.nfc.MainActivity" name="nfc_kartensimulation"/>
+    <item class="com.mediatek.cellbroadcastreceiver.CellBroadcastListActivity" name="notrufe"/>
+    <item class="org.tengel.planisphere.MainActivity" name="planisphare"/>
+    <item class="com.simplemobiletools.smsmessenger.activities.SplashActivity.Teal" name="simplemobiletools_sms_messenger"/>
+    <item class="com.agui.game.gamelist.MainActivity" name="spielemodus"/>
+    <item class="com.simplemobiletools.dialer.activities.SplashActivity.Orange" name="telefon"/>
+    <item class="com.agoldcomm.toolbox.MainActivity" name="werkzeugkasten"/>
 
 </appmap>

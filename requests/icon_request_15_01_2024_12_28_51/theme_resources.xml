@@ -10,7 +10,7 @@
 	<AppIcon name="com.nononsenseapps.feeder/com.nononsenseapps.feeder.ui.MainActivity" image="feeder"/>
 
 	<!-- FOSS Browser -->
-	<AppIcon name="de.baumann.browser/de.baumann.browser.activity.BrowserActivity" image="foss_browser"/>
+	<AppIcon name="de.baumann.browser/de.baumann.browser.activity.BrowserActivity" image="foss_browser_baumann"/>
 
 	<!-- Galerie -->
 	<AppIcon name="org.fossify.gallery/org.fossify.gallery.activities.SplashActivity.Green" image="galerie"/>
@@ -37,7 +37,7 @@
 	<AppIcon name="org.tengel.planisphere/org.tengel.planisphere.MainActivity" image="planisphare"/>
 
 	<!-- SMS-Messenger -->
-	<AppIcon name="com.simplemobiletools.smsmessenger/com.simplemobiletools.smsmessenger.activities.SplashActivity.Teal" image="sms_messenger"/>
+	<AppIcon name="com.simplemobiletools.smsmessenger/com.simplemobiletools.smsmessenger.activities.SplashActivity.Teal" image="simplemobiletools_sms_messenger"/>
 
 	<!-- Soundrekorder -->
 	<AppIcon name="com.android.soundrecorder/com.android.soundrecorder.SoundRecorder" image="soundrekorder"/>

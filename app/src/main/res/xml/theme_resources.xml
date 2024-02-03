@@ -2395,5 +2395,15 @@
 	<AppIcon name="com.google.android.GoogleCameraEng/com.android.camera.CameraLauncher" image="android_camera"/>
     <AppIcon name="com.google.android.apps.cameralite/com.google.android.apps.cameralite.capture.CaptureActivity" image="android_camera"/>
 	<AppIcon name="in.org.npci.upiapp/yilrfu.s" image="bhim"/>
+	<AppIcon name="de.jepfa.yapm/de.jepfa.yapm.ui.credential.ListCredentialsActivity" image="anotherpass"/>
+    <AppIcon name="de.baumann.browser/de.baumann.browser.activity.BrowserActivity" image="foss_browser_baumann"/>
+    <AppIcon name="de.ritscher.simplemobiletools.contacts.pro/com.simplemobiletools.contacts.pro.activities.SplashActivity.Green" image="kontakte"/>
+    <AppIcon name="com.agui.nfc/com.agui.nfc.MainActivity" image="nfc_kartensimulation"/>
+    <AppIcon name="com.mediatek.cellbroadcastreceiver/com.mediatek.cellbroadcastreceiver.CellBroadcastListActivity" image="notrufe"/>
+    <AppIcon name="org.tengel.planisphere/org.tengel.planisphere.MainActivity" image="planisphare"/>
+    <AppIcon name="com.simplemobiletools.smsmessenger/com.simplemobiletools.smsmessenger.activities.SplashActivity.Teal" image="simplemobiletools_sms_messenger"/>
+    <AppIcon name="com.agui.game/com.agui.game.gamelist.MainActivity" image="spielemodus"/>
+    <AppIcon name="com.simplemobiletools.dialer/com.simplemobiletools.dialer.activities.SplashActivity.Orange" image="telefon"/>
+    <AppIcon name="com.agoldcomm.toolbox/com.agoldcomm.toolbox.MainActivity" image="werkzeugkasten"/>
 
 </Theme>

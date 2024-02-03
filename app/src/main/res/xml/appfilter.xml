@@ -2404,5 +2404,15 @@
 	<item component="ComponentInfo{com.google.android.GoogleCameraEng/com.android.camera.CameraLauncher}" drawable="android_camera" />
     <item component="ComponentInfo{com.google.android.apps.cameralite/com.google.android.apps.cameralite.capture.CaptureActivity}" drawable="android_camera" />
 	<item component="ComponentInfo{in.org.npci.upiapp/yilrfu.s}" drawable="bhim" />
+	<item component="ComponentInfo{de.jepfa.yapm/de.jepfa.yapm.ui.credential.ListCredentialsActivity}" drawable="anotherpass" />
+    <item component="ComponentInfo{de.baumann.browser/de.baumann.browser.activity.BrowserActivity}" drawable="foss_browser_baumann" />
+    <item component="ComponentInfo{de.ritscher.simplemobiletools.contacts.pro/com.simplemobiletools.contacts.pro.activities.SplashActivity.Green}" drawable="kontakte" />
+    <item component="ComponentInfo{com.agui.nfc/com.agui.nfc.MainActivity}" drawable="nfc_kartensimulation" />
+    <item component="ComponentInfo{com.mediatek.cellbroadcastreceiver/com.mediatek.cellbroadcastreceiver.CellBroadcastListActivity}" drawable="notrufe" />
+    <item component="ComponentInfo{org.tengel.planisphere/org.tengel.planisphere.MainActivity}" drawable="planisphare" />
+    <item component="ComponentInfo{com.simplemobiletools.smsmessenger/com.simplemobiletools.smsmessenger.activities.SplashActivity.Teal}" drawable="simplemobiletools_sms_messenger" />
+    <item component="ComponentInfo{com.agui.game/com.agui.game.gamelist.MainActivity}" drawable="spielemodus" />
+    <item component="ComponentInfo{com.simplemobiletools.dialer/com.simplemobiletools.dialer.activities.SplashActivity.Orange}" drawable="telefon" />
+    <item component="ComponentInfo{com.agoldcomm.toolbox/com.agoldcomm.toolbox.MainActivity}" drawable="werkzeugkasten" />
 
 </resources>

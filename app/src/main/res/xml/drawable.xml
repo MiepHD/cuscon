@@ -2263,5 +2263,15 @@
     <item drawable="kuboom" />
     <item drawable="lena_adaptive" />
     <item drawable="sav_pdf_viewer" />
+	<item drawable="anotherpass" />
+    <item drawable="foss_browser_baumann" />
+    <item drawable="kontakte" />
+    <item drawable="nfc_kartensimulation" />
+    <item drawable="notrufe" />
+    <item drawable="planisphare" />
+    <item drawable="simplemobiletools_sms_messenger" />
+    <item drawable="spielemodus" />
+    <item drawable="telefon" />
+    <item drawable="werkzeugkasten" />
 
 </resources>

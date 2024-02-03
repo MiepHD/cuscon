@@ -10,7 +10,7 @@
 	<item component="ComponentInfo{com.nononsenseapps.feeder/com.nononsenseapps.feeder.ui.MainActivity}" drawable="feeder" />
 
 	<!-- FOSS Browser -->
-	<item component="ComponentInfo{de.baumann.browser/de.baumann.browser.activity.BrowserActivity}" drawable="foss_browser" />
+	<item component="ComponentInfo{de.baumann.browser/de.baumann.browser.activity.BrowserActivity}" drawable="foss_browser_baumann" />
 
 	<!-- Galerie -->
 	<item component="ComponentInfo{org.fossify.gallery/org.fossify.gallery.activities.SplashActivity.Green}" drawable="galerie" />
@@ -37,7 +37,7 @@
 	<item component="ComponentInfo{org.tengel.planisphere/org.tengel.planisphere.MainActivity}" drawable="planisphare" />
 
 	<!-- SMS-Messenger -->
-	<item component="ComponentInfo{com.simplemobiletools.smsmessenger/com.simplemobiletools.smsmessenger.activities.SplashActivity.Teal}" drawable="sms_messenger" />
+	<item component="ComponentInfo{com.simplemobiletools.smsmessenger/com.simplemobiletools.smsmessenger.activities.SplashActivity.Teal}" drawable="simplemobiletools_sms_messenger" />
 
 	<!-- Soundrekorder -->
 	<item component="ComponentInfo{com.android.soundrecorder/com.android.soundrecorder.SoundRecorder}" drawable="soundrekorder" />

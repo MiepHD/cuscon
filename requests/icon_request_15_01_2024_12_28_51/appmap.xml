@@ -10,7 +10,7 @@
 	<item class="com.nononsenseapps.feeder.ui.MainActivity" name="feeder"/>
 
 	<!-- FOSS Browser -->
-	<item class="de.baumann.browser.activity.BrowserActivity" name="foss_browser"/>
+	<item class="de.baumann.browser.activity.BrowserActivity" name="foss_browser_baumann"/>
 
 	<!-- Galerie -->
 	<item class="org.fossify.gallery.activities.SplashActivity.Green" name="galerie"/>
@@ -37,7 +37,7 @@
 	<item class="org.tengel.planisphere.MainActivity" name="planisphare"/>
 
 	<!-- SMS-Messenger -->
-	<item class="com.simplemobiletools.smsmessenger.activities.SplashActivity.Teal" name="sms_messenger"/>
+	<item class="com.simplemobiletools.smsmessenger.activities.SplashActivity.Teal" name="simplemobiletools_sms_messenger"/>
 
 	<!-- Soundrekorder -->
 	<item class="com.android.soundrecorder.SoundRecorder" name="soundrekorder"/>
