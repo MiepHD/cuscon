@@ -2454,5 +2454,12 @@
     <item class="com.xiaomi.hm.health.activity.StartUpActivity" name="zepp_life"/>
     <item class="com.zerotier.one.ui.NetworkListActivity" name="zerotier_one"/>
     <item class="com.zoner.android.photostudio.ui.ActOrganizer" name="zoner_photo_studio"/>
+	<item class="com.bergfex.mobile.activity.WelcomeActivityNew" name="bergfex_wetter"/>
+    <item class="com.chinahandys.MainActivity" name="chinahandys"/>
+    <item class="at.geizhals.android.MainActivity" name="geizhals"/>
+    <item class="de.westnordost.streetcomplete.screens.MainActivity" name="scee"/>
+    <item class="com.isarinteractive.GameActivity" name="skat"/>
+    <item class="de.hafas.main.HafasApp" name="smartride"/>
+    <item class="at.oebb.ts.SplashActivity" name="vvt_tickets"/>
 
 </appmap>

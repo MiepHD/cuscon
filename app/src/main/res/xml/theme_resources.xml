@@ -2463,5 +2463,12 @@
     <AppIcon name="com.xiaomi.hm.health/com.xiaomi.hm.health.activity.StartUpActivity" image="zepp_life"/>
     <AppIcon name="com.zerotier.one/com.zerotier.one.ui.NetworkListActivity" image="zerotier_one"/>
     <AppIcon name="com.zoner.android.photostudio/com.zoner.android.photostudio.ui.ActOrganizer" image="zoner_photo_studio"/>
+	<AppIcon name="com.bergfex.mobile.weather/com.bergfex.mobile.activity.WelcomeActivityNew" image="bergfex_wetter"/>
+    <AppIcon name="com.chinahandys.app/com.chinahandys.MainActivity" image="chinahandys"/>
+    <AppIcon name="at.geizhals.pv/at.geizhals.android.MainActivity" image="geizhals"/>
+    <AppIcon name="de.westnordost.streetcomplete.expert/de.westnordost.streetcomplete.screens.MainActivity" image="scee"/>
+    <AppIcon name="com.isarinteractive.skat.android.ad/com.isarinteractive.GameActivity" image="skat"/>
+    <AppIcon name="de.hafas.android.vvt/de.hafas.main.HafasApp" image="smartride"/>
+    <AppIcon name="at.vtg.tickets/at.oebb.ts.SplashActivity" image="vvt_tickets"/>
 
 </Theme>

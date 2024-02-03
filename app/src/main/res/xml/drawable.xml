@@ -2329,5 +2329,12 @@
     <item drawable="zepp_life" />
     <item drawable="zerotier_one" />
     <item drawable="zoner_photo_studio" />
+	<item drawable="bergfex_wetter" />
+    <item drawable="chinahandys" />
+    <item drawable="geizhals" />
+    <item drawable="scee" />
+    <item drawable="skat" />
+    <item drawable="smartride" />
+    <item drawable="vvt_tickets" />
 
 </resources>

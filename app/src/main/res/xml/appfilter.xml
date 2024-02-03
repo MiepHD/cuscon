@@ -2472,5 +2472,12 @@
     <item component="ComponentInfo{com.xiaomi.hm.health/com.xiaomi.hm.health.activity.StartUpActivity}" drawable="zepp_life" />
     <item component="ComponentInfo{com.zerotier.one/com.zerotier.one.ui.NetworkListActivity}" drawable="zerotier_one" />
 	<item component="ComponentInfo{com.zoner.android.photostudio/com.zoner.android.photostudio.ui.ActOrganizer}" drawable="zoner_photo_studio" />
+	<item component="ComponentInfo{com.bergfex.mobile.weather/com.bergfex.mobile.activity.WelcomeActivityNew}" drawable="bergfex_wetter" />
+    <item component="ComponentInfo{com.chinahandys.app/com.chinahandys.MainActivity}" drawable="chinahandys" />
+    <item component="ComponentInfo{at.geizhals.pv/at.geizhals.android.MainActivity}" drawable="geizhals" />
+    <item component="ComponentInfo{de.westnordost.streetcomplete.expert/de.westnordost.streetcomplete.screens.MainActivity}" drawable="scee" />
+    <item component="ComponentInfo{com.isarinteractive.skat.android.ad/com.isarinteractive.GameActivity}" drawable="skat" />
+    <item component="ComponentInfo{de.hafas.android.vvt/de.hafas.main.HafasApp}" drawable="smartride" />
+    <item component="ComponentInfo{at.vtg.tickets/at.oebb.ts.SplashActivity}" drawable="vvt_tickets" />
 
 </resources>
