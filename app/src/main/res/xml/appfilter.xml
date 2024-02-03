@@ -2414,5 +2414,6 @@
     <item component="ComponentInfo{com.agui.game/com.agui.game.gamelist.MainActivity}" drawable="spielemodus" />
     <item component="ComponentInfo{com.simplemobiletools.dialer/com.simplemobiletools.dialer.activities.SplashActivity.Orange}" drawable="telefon" />
     <item component="ComponentInfo{com.agoldcomm.toolbox/com.agoldcomm.toolbox.MainActivity}" drawable="werkzeugkasten" />
+	<item component="ComponentInfo{com.miui.fm/com.miui.fmradio.FmRadioActivity}" drawable="miui_fm_radio" />
 
 </resources>

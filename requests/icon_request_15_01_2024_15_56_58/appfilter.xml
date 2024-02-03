@@ -115,7 +115,7 @@
 	<item component="ComponentInfo{com.delphicoder.flud/com.delphicoder.flud.MainActivity}" drawable="flud" />
 
 	<!-- FM Radio -->
-	<item component="ComponentInfo{com.miui.fm/com.miui.fmradio.FmRadioActivity}" drawable="fm_radio" />
+	<item component="ComponentInfo{com.miui.fm/com.miui.fmradio.FmRadioActivity}" drawable="miui_fm_radio" />
 
 	<!-- foodora CZ -->
 	<item component="ComponentInfo{cz.ulikeit.damejidlo/de.foodora.android.ui.launcher.LauncherActivity}" drawable="foodora_cz" />

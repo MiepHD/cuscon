@@ -115,7 +115,7 @@
 	<item class="com.delphicoder.flud.MainActivity" name="flud"/>
 
 	<!-- FM Radio -->
-	<item class="com.miui.fmradio.FmRadioActivity" name="fm_radio"/>
+	<item class="com.miui.fmradio.FmRadioActivity" name="miui_fm_radio"/>
 
 	<!-- foodora CZ -->
 	<item class="de.foodora.android.ui.launcher.LauncherActivity" name="foodora_cz"/>

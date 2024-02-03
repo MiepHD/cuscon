@@ -2396,5 +2396,6 @@
     <item class="com.agui.game.gamelist.MainActivity" name="spielemodus"/>
     <item class="com.simplemobiletools.dialer.activities.SplashActivity.Orange" name="telefon"/>
     <item class="com.agoldcomm.toolbox.MainActivity" name="werkzeugkasten"/>
+	<item class="com.miui.fmradio.FmRadioActivity" name="miui_fm_radio"/>
 
 </appmap>

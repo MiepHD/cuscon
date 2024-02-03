@@ -2405,5 +2405,6 @@
     <AppIcon name="com.agui.game/com.agui.game.gamelist.MainActivity" image="spielemodus"/>
     <AppIcon name="com.simplemobiletools.dialer/com.simplemobiletools.dialer.activities.SplashActivity.Orange" image="telefon"/>
     <AppIcon name="com.agoldcomm.toolbox/com.agoldcomm.toolbox.MainActivity" image="werkzeugkasten"/>
+	<AppIcon name="com.miui.fm/com.miui.fmradio.FmRadioActivity" image="miui_fm_radio"/>
 
 </Theme>

@@ -115,7 +115,7 @@
 	<AppIcon name="com.delphicoder.flud/com.delphicoder.flud.MainActivity" image="flud"/>
 
 	<!-- FM Radio -->
-	<AppIcon name="com.miui.fm/com.miui.fmradio.FmRadioActivity" image="fm_radio"/>
+	<AppIcon name="com.miui.fm/com.miui.fmradio.FmRadioActivity" image="miui_fm_radio"/>
 
 	<!-- foodora CZ -->
 	<AppIcon name="cz.ulikeit.damejidlo/de.foodora.android.ui.launcher.LauncherActivity" image="foodora_cz"/>
