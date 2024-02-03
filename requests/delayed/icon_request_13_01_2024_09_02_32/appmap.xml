@@ -684,8 +684,8 @@
 	<!-- Too Good To Go -->
 	<item class="com.app.tgtg.activities.login.SplashActivity" name="too_good_to_go"/>
 
-	<!-- Tool​station -->
-	<item class="com.toolstation.mobile_app.MainActivity" name="tool​station"/>
+	<!-- toolstation -->
+	<item class="com.toolstation.mobile_app.MainActivity" name="toolstation"/>
 
 	<!-- TopCashback -->
 	<item class="uk.co.topcashback.topcashback.core.splash.RoutingActivity" name="topcashback"/>

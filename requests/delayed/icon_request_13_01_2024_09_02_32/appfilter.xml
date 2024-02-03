@@ -684,8 +684,8 @@
 	<!-- Too Good To Go -->
 	<item component="ComponentInfo{com.app.tgtg/com.app.tgtg.activities.login.SplashActivity}" drawable="too_good_to_go" />
 
-	<!-- Tool​station -->
-	<item component="ComponentInfo{com.toolstation.mobile_app/com.toolstation.mobile_app.MainActivity}" drawable="tool​station" />
+	<!-- toolstation -->
+	<item component="ComponentInfo{com.toolstation.mobile_app/com.toolstation.mobile_app.MainActivity}" drawable="toolstation" />
 
 	<!-- TopCashback -->
 	<item component="ComponentInfo{uk.co.topcashback.topcashback/uk.co.topcashback.topcashback.core.splash.RoutingActivity}" drawable="topcashback" />

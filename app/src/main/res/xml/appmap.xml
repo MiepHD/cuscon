@@ -2298,7 +2298,7 @@
     <item class="superdrug.com.beautycard.main.MainActivity" name="superdrug"/>
     <item class="com.example.statusbar.activity.WelComeActivity" name="tapscroll"/>
     <item class="com.natewren.dashboard.SplashScreen" name="terminal_free"/>
-    <item class="com.toolstation.mobile_app.MainActivity" name="tool​station"/>
+    <item class="com.toolstation.mobile_app.MainActivity" name="toolstation"/>
     <item class="com.stepstone.feature.splash.presentation.view.SCSplashActivity" name="totaljobs"/>
     <item class="com.totum.student.ui.AppStartActivity" name="totum"/>
     <item class="com.theperfumeshop.customer.MainActivity" name="tps"/>
