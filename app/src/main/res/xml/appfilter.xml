@@ -2479,5 +2479,25 @@
     <item component="ComponentInfo{com.isarinteractive.skat.android.ad/com.isarinteractive.GameActivity}" drawable="skat" />
     <item component="ComponentInfo{de.hafas.android.vvt/de.hafas.main.HafasApp}" drawable="smartride" />
     <item component="ComponentInfo{at.vtg.tickets/at.oebb.ts.SplashActivity}" drawable="vvt_tickets" />
+	<item component="ComponentInfo{org.withouthat.acalendar/org.withouthat.acalendar.ACalendar}" drawable="acalendar" />
+	<item component="ComponentInfo{org.withouthat.acalendar/org.withouthat.acalendar.tasks.TasksActivity}" drawable="acaltasks" />
+    <item component="ComponentInfo{com.alarmclock.xtreme.free/com.alarmclock.xtreme.free.AlarmClock}" drawable="alarm_clock_xtreme" />
+    <item component="ComponentInfo{deltazero.amarok.foss/deltazero.amarok.launcher.default}" drawable="amarok" />
+    <item component="ComponentInfo{org.handmadeideas.floccus/org.handmadeideas.floccus.MainActivity}" drawable="floccus" />
+    <item component="ComponentInfo{org.woheller69.spritpreise/org.woheller69.spritpreise.activities.SplashActivity}" drawable="gas_prices" />
+    <item component="ComponentInfo{com.aistra.hail/com.aistra.hail.ui.main.MainActivity}" drawable="hail" />
+    <item component="ComponentInfo{de.aoksystems.amg/de.aoksystems.amg.splash.SplashActivity}" drawable="meine_aok" />
+    <item component="ComponentInfo{com.tippingcanoe.mydealz/com.pepper.apps.android.presentation.MainActivityDarkIcon}" drawable="mydealz" />
+    <item component="ComponentInfo{com.health.openscale/com.health.openscale.gui.MainActivity}" drawable="openscale" />
+    <item component="ComponentInfo{com.akylas.documentscanner/com.akylas.documentscanner.MainActivity}" drawable="oss_document_scanner" />
+    <item component="ComponentInfo{ua.com.radiokot.photoprism/ua.com.radiokot.photoprism.features.gallery.view.GalleryActivity}" drawable="photoprism_gallery" />
+    <item component="ComponentInfo{com.proxmox.app.pve_flutter_frontend/com.proxmox.app.pve_flutter_frontend.MainActivity}" drawable="proxmox_virtual_environment" />
+    <item component="ComponentInfo{com.readrops.app/com.readrops.app.SplashActivity}" drawable="readrops" />
+    <item component="ComponentInfo{com.roborock.smart/com.roborock.smart.activity.SplashActivity}" drawable="roborock" />
+    <item component="ComponentInfo{capital.scalable.droid/capital.scalable.droid.redesign.screens.cockpit.CockpitActivity}" drawable="scalable_capital" />
+    <item component="ComponentInfo{com.jarsilio.android.scrambledeggsif/com.jarsilio.android.scrambledeggsif.MainActivity}" drawable="scrambled_exif" />
+    <item component="ComponentInfo{net.kismetwireless.android.smarterwifimanager/net.kismetwireless.android.smarterwifimanager.MainActivity}" drawable="smarter_wi_fi_manager" />
+    <item component="ComponentInfo{de.spritmonitor.smapp_mp/de.spritmonitor.smapp_android.ui.activities.VehiclesActivity}" drawable="spritmonitor" />
+    <item component="ComponentInfo{de.dwd.warnapp/de.dwd.warnapp.base.MainActivity}" drawable="warnwetter" />
 
 </resources>

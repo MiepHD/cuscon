@@ -2336,5 +2336,25 @@
     <item drawable="skat" />
     <item drawable="smartride" />
     <item drawable="vvt_tickets" />
+	<item drawable="acalendar" />
+    <item drawable="acaltasks" />
+    <item drawable="alarm_clock_xtreme" />
+    <item drawable="amarok" />
+    <item drawable="floccus" />
+    <item drawable="gas_prices" />
+    <item drawable="hail" />
+    <item drawable="meine_aok" />
+    <item drawable="mydealz" />
+    <item drawable="openscale" />
+    <item drawable="oss_document_scanner" />
+    <item drawable="photoprism_gallery" />
+    <item drawable="proxmox_virtual_environment" />
+    <item drawable="readrops" />
+    <item drawable="roborock" />
+    <item drawable="scalable_capital" />
+    <item drawable="scrambled_exif" />
+    <item drawable="smarter_wi_fi_manager" />
+    <item drawable="spritmonitor" />
+    <item drawable="warnwetter" />
 
 </resources>

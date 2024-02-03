@@ -2461,5 +2461,25 @@
     <item class="com.isarinteractive.GameActivity" name="skat"/>
     <item class="de.hafas.main.HafasApp" name="smartride"/>
     <item class="at.oebb.ts.SplashActivity" name="vvt_tickets"/>
+	<item class="org.withouthat.acalendar.ACalendar" name="acalendar"/>
+    <item class="org.withouthat.acalendar.tasks.TasksActivity" name="acaltasks"/>
+    <item class="com.alarmclock.xtreme.free.AlarmClock" name="alarm_clock_xtreme"/>
+    <item class="deltazero.amarok.launcher.default" name="amarok"/>
+    <item class="org.handmadeideas.floccus.MainActivity" name="floccus"/>
+    <item class="org.woheller69.spritpreise.activities.SplashActivity" name="gas_prices"/>
+    <item class="com.aistra.hail.ui.main.MainActivity" name="hail"/>
+    <item class="de.aoksystems.amg.splash.SplashActivity" name="meine_aok"/>
+    <item class="com.pepper.apps.android.presentation.MainActivityDarkIcon" name="mydealz"/>
+    <item class="com.health.openscale.gui.MainActivity" name="openscale"/>
+    <item class="com.akylas.documentscanner.MainActivity" name="oss_document_scanner"/>
+    <item class="ua.com.radiokot.photoprism.features.gallery.view.GalleryActivity" name="photoprism_gallery"/>
+    <item class="com.proxmox.app.pve_flutter_frontend.MainActivity" name="proxmox_virtual_environment"/>
+    <item class="com.readrops.app.SplashActivity" name="readrops"/>
+    <item class="com.roborock.smart.activity.SplashActivity" name="roborock"/>
+    <item class="capital.scalable.droid.redesign.screens.cockpit.CockpitActivity" name="scalable_capital"/>
+    <item class="com.jarsilio.android.scrambledeggsif.MainActivity" name="scrambled_exif"/>
+    <item class="net.kismetwireless.android.smarterwifimanager.MainActivity" name="smarter_wi_fi_manager"/>
+    <item class="de.spritmonitor.smapp_android.ui.activities.VehiclesActivity" name="spritmonitor"/>
+    <item class="de.dwd.warnapp.base.MainActivity" name="warnwetter"/>
 
 </appmap>

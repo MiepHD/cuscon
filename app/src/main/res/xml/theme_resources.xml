@@ -2470,5 +2470,25 @@
     <AppIcon name="com.isarinteractive.skat.android.ad/com.isarinteractive.GameActivity" image="skat"/>
     <AppIcon name="de.hafas.android.vvt/de.hafas.main.HafasApp" image="smartride"/>
     <AppIcon name="at.vtg.tickets/at.oebb.ts.SplashActivity" image="vvt_tickets"/>
+	<AppIcon name="org.withouthat.acalendar/org.withouthat.acalendar.ACalendar" image="acalendar"/>
+    <AppIcon name="org.withouthat.acalendar/org.withouthat.acalendar.tasks.TasksActivity" image="acaltasks"/>
+    <AppIcon name="com.alarmclock.xtreme.free/com.alarmclock.xtreme.free.AlarmClock" image="alarm_clock_xtreme"/>
+    <AppIcon name="deltazero.amarok.foss/deltazero.amarok.launcher.default" image="amarok"/>
+    <AppIcon name="org.handmadeideas.floccus/org.handmadeideas.floccus.MainActivity" image="floccus"/>
+    <AppIcon name="org.woheller69.spritpreise/org.woheller69.spritpreise.activities.SplashActivity" image="gas_prices"/>
+	<AppIcon name="com.aistra.hail/com.aistra.hail.ui.main.MainActivity" image="hail"/>
+    <AppIcon name="de.aoksystems.amg/de.aoksystems.amg.splash.SplashActivity" image="meine_aok"/>
+    <AppIcon name="com.tippingcanoe.mydealz/com.pepper.apps.android.presentation.MainActivityDarkIcon" image="mydealz"/>
+	<AppIcon name="com.health.openscale/com.health.openscale.gui.MainActivity" image="openscale"/>
+    <AppIcon name="com.akylas.documentscanner/com.akylas.documentscanner.MainActivity" image="oss_document_scanner"/>
+    <AppIcon name="ua.com.radiokot.photoprism/ua.com.radiokot.photoprism.features.gallery.view.GalleryActivity" image="photoprism_gallery"/>
+    <AppIcon name="com.proxmox.app.pve_flutter_frontend/com.proxmox.app.pve_flutter_frontend.MainActivity" image="proxmox_virtual_environment"/>
+    <AppIcon name="com.readrops.app/com.readrops.app.SplashActivity" image="readrops"/>
+    <AppIcon name="com.roborock.smart/com.roborock.smart.activity.SplashActivity" image="roborock"/>
+    <AppIcon name="capital.scalable.droid/capital.scalable.droid.redesign.screens.cockpit.CockpitActivity" image="scalable_capital"/>
+    <AppIcon name="com.jarsilio.android.scrambledeggsif/com.jarsilio.android.scrambledeggsif.MainActivity" image="scrambled_exif"/>
+    <AppIcon name="net.kismetwireless.android.smarterwifimanager/net.kismetwireless.android.smarterwifimanager.MainActivity" image="smarter_wi_fi_manager"/>
+    <AppIcon name="de.spritmonitor.smapp_mp/de.spritmonitor.smapp_android.ui.activities.VehiclesActivity" image="spritmonitor"/>
+    <AppIcon name="de.dwd.warnapp/de.dwd.warnapp.base.MainActivity" image="warnwetter"/>
 
 </Theme>
