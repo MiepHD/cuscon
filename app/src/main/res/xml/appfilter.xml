@@ -2416,5 +2416,61 @@
     <item component="ComponentInfo{com.agoldcomm.toolbox/com.agoldcomm.toolbox.MainActivity}" drawable="werkzeugkasten" />
 	<item component="ComponentInfo{com.miui.fm/com.miui.fmradio.FmRadioActivity}" drawable="miui_fm_radio" />
 	<item component="ComponentInfo{com.kfc_cs/com.kfc_polska.ui.main.MainActivity}" drawable="kfc" />
+	<item component="ComponentInfo{com.aurora.adroid/com.aurora.adroid.ui.generic.activity.SplashActivity}" drawable="aurora_droid" />
+    <item component="ComponentInfo{com.escooterapp/com.escooterapp.MainActivity}" drawable="beam" />
+    <item component="ComponentInfo{cz.betatv.mobile/cz.sledovanitv.android.activity.EntryActivity}" drawable="betatv" />
+	<item component="ComponentInfo{cz.midnightcode.bezholdingu/cz.midnightcode.bezholdingu.MainActivity}" drawable="bez_holdingu" />
+    <item component="ComponentInfo{com.bolt.deliveryclient/com.boltdeliveryclientapp.LaunchActivity}" drawable="bolt_food" />
+    <item component="ComponentInfo{com.booxy.app/com.booxy.activities.SplashActivity}" drawable="booxy" />
+    <item component="ComponentInfo{network.celsius.wallet/network.celsius.wallet.SplashActivity}" drawable="celsius" />
+    <item component="ComponentInfo{cz.oksystem.chmu.basic/cz.oksystem.chmu.basic.activity.DrawerActivity}" drawable="chmu" />
+    <item component="ComponentInfo{cz.oksystem.chmu.expert/cz.oksystem.chmu.expert.activity.DrawerActivity}" drawable="chmu_plus" />
+    <item component="ComponentInfo{com.omelan.cofi/com.omelan.cofi.MainActivity}" drawable="cofi" />
+    <item component="ComponentInfo{com.coinlist.trade/com.coinlist.trade.Launcher}" drawable="coinlist" />
+    <item component="ComponentInfo{com.atlassian.android.confluence.core/com.atlassian.android.confluence.core.ui.launcher.LauncherActivity}" drawable="confluence" />
+    <item component="ComponentInfo{ru.andr7e.deviceinfohw/ru.andr7e.deviceinfohw.MainActivity}" drawable="device_info_hw" />
+    <item component="ComponentInfo{com.delphicoder.flud/com.delphicoder.flud.MainActivity}" drawable="flud" />
+    <item component="ComponentInfo{cz.ulikeit.damejidlo/de.foodora.android.ui.launcher.LauncherActivity}" drawable="foodora_cz" />
+    <item component="ComponentInfo{org.freecodecamp/com.ryanheise.audioservice.AudioServiceActivity}" drawable="freecodecamp" />
+    <item component="ComponentInfo{com.google.android.apps.cloudconsole/com.google.android.apps.cloudconsole.common.MainContainerActivity}" drawable="google_cloud" />
+    <item component="ComponentInfo{com.gopro.smarty/com.gopro.smarty.activity.HomeActivity}" drawable="gopro_quik" />
+    <item component="ComponentInfo{org.pocketworkstation.pckeyboard/org.pocketworkstation.pckeyboard.Main}" drawable="hackers_keyboard" />
+    <item component="ComponentInfo{com.hiby.music/com.hiby.music.Activity.StartActivity}" drawable="hibymusic" />
+    <item component="ComponentInfo{cz.kle.hlasyptaku/cz.kle.hlasyptaku.HlasyPtaku}" drawable="hlasy_ptaku" />
+    <item component="ComponentInfo{com.atlassian.android.jira.core/com.atlassian.android.jira.core.app.LauncherActivity}" drawable="jira" />
+    <item component="ComponentInfo{com.kaufland.Kaufland/com.kaufland.kaufland.splash.SplashActivity}" drawable="kaufland" />
+    <item component="ComponentInfo{cz.simopt.get2knowlecivebyliny/com.google.firebase.MessagingUnityPlayerActivity}" drawable="lecive_byliny" />
+    <item component="ComponentInfo{org.androworks.meteor/org.androworks.meteor.Meteor}" drawable="meteor" />
+    <item component="ComponentInfo{de.syss.MifareClassicTool/de.syss.MifareClassicTool.Activities.MainMenu}" drawable="mifare_classic_tool" />
+    <item component="ComponentInfo{com.anticor.mingo/com.anticor.mingo.activities.SplashActivity}" drawable="mingo" />
+    <item component="ComponentInfo{com.mi.globalminusscreen/com.mi.globalminusscreen.MainActivity}" drawable="mi_app_vault" />
+    <item component="ComponentInfo{cz.mojedatovaschranka.mobilniklic/cz.mojedatovaschranka.mobilniklic.activities.SecurityVerificationActivity}" drawable="mobilni_klic_egovernmentu" />
+    <item component="ComponentInfo{net.routix.mqttdash/net.routix.mqttdash.BrokersListActivity}" drawable="mqtt_dash" />
+	<item component="ComponentInfo{cz.rozhlas.mujrozhlas/cz.rozhlas.mujrozhlas.MainActivity}" drawable="mujrozhlas" />
+    <item component="ComponentInfo{com.pragonauts.globus/com.pragonauts.globus.screens.splash.SplashActivity}" drawable="muj_globus" />
+    <item component="ComponentInfo{com.google.android.apps.magazines/com.google.apps.dots.android.app.activity.CurrentsStartActivity}" drawable="news" />
+    <item component="ComponentInfo{com.okinc.okex.gp/com.okinc.core.ok_app.homepage.ui.welcome.WelcomeActivity}" drawable="okx" />
+    <item component="ComponentInfo{net.openvpn.openvpn/net.openvpn.unified.MainActivity}" drawable="openvpn_connect" />
+    <item component="ComponentInfo{com.olimsoft.android.oplayer.pro/com.olimsoft.android.oplayer.StartActivity}" drawable="oplayer" />
+    <item component="ComponentInfo{com.maxmpz.audioplayer.unlock/com.maxmpz.audioplayer.unlock.LauncherRedirectorActivity}" drawable="poweramp_unlocker" />
+    <item component="ComponentInfo{com.intermedia.hd.camera.pro/com.antafunny.burstcamera.MainActivity}" drawable="procam_x" />
+    <item component="ComponentInfo{com.proto.circuitsimulator/com.proto.circuitsimulator.splash.SplashActivity}" drawable="p_r_o_t_o" />
+    <item component="ComponentInfo{com.itispaid/com.itispaid.MainActivity}" drawable="qerko" />
+    <item component="ComponentInfo{cz.rozhlas.audioknihy/cz.rozhlas.audioknihy.MainActivity}" drawable="radioteka" />
+    <item component="ComponentInfo{org.readera/com.readera.MainActivity}" drawable="readera" />
+    <item component="ComponentInfo{chat.rocket.android/chat.rocket.reactnative.MainActivity}" drawable="rocketchat" />
+    <item component="ComponentInfo{com.roku.remote/com.roku.remote.ui.activities.splash.SplashActivity}" drawable="roku" />
+    <item component="ComponentInfo{info.camposha.rustlibraries/info.camposha.rustlibraries.view.activities.IntroActivity}" drawable="rust_libraries" />
+    <item component="ComponentInfo{com.sec.android.app.shealth/com.samsung.android.app.shealth.home.HomeMainActivity}" drawable="samsung_health" />
+    <item component="ComponentInfo{com.thewizrd.simplewear/com.thewizrd.simplewear.MainActivity}" drawable="simplewear" />
+    <item component="ComponentInfo{cz.moneta.smartbanka/cz.moneta.smartbanka.mobile.views.activities.MainActivity}" drawable="smart_banka" />
+    <item component="ComponentInfo{hr.asseco.android.jimba.mUCI.cz/hr.asseco.android.muci.ae.prelogin.SplashScreenActivity}" drawable="smart_banking" />
+    <item component="ComponentInfo{com.soundcorset.client.android/com.soundcorset.client.android.MainActivity}" drawable="soundcorset_tuner_and_metronome" />
+    <item component="ComponentInfo{com.forrestguice.suntimeswidget/com.forrestguice.suntimeswidget.SuntimesActivity}" drawable="suntimes" />
+    <item component="ComponentInfo{cz.nakit.eocko.wallet/dgc.app.wallet.system.MainActivity}" drawable="tecka" />
+    <item component="ComponentInfo{com.wolt.android/com.wolt.android.activities.LauncherActivity}" drawable="wolt" />
+    <item component="ComponentInfo{com.xiaomi.hm.health/com.xiaomi.hm.health.activity.StartUpActivity}" drawable="zepp_life" />
+    <item component="ComponentInfo{com.zerotier.one/com.zerotier.one.ui.NetworkListActivity}" drawable="zerotier_one" />
+	<item component="ComponentInfo{com.zoner.android.photostudio/com.zoner.android.photostudio.ui.ActOrganizer}" drawable="zoner_photo_studio" />
 
 </resources>
