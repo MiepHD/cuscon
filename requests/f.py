@@ -1,12 +1,20 @@
 import sys
 import re
+import os
+from os.path import exists
 
 changelog = ""
 appfilter = ""
 appmap = ""
 theme_resources = ""
 
-for elem in sys.argv:
+if (exists("get/")):
+    params = os.listdir("get/")
+    params = [e.replace(".png", "") for e in params]
+else:
+    params = sys.argv
+
+for elem in params:
     elem = "\"" + elem + "\""
     with open("appfilter.xml", encoding="utf-8") as f:
         title = ""
