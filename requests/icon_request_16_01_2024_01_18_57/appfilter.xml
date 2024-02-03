@@ -1,0 +1,18 @@
+<resources>
+
+	<!-- mpv -->
+	<item component="ComponentInfo{is.xyz.mpv/is.xyz.mpv.MainActivity}" drawable="mpv" />
+
+	<!-- PPSSPP -->
+	<item component="ComponentInfo{org.ppsspp.ppsspp/org.ppsspp.ppsspp.PpssppActivity}" drawable="ppsspp" />
+
+	<!-- SauceNAO -->
+	<item component="ComponentInfo{com.luk.saucenao/com.luk.saucenao.MainActivity}" drawable="saucenao" />
+
+	<!-- TachiJ2K -->
+	<item component="ComponentInfo{eu.kanade.tachiyomi.j2k/eu.kanade.tachiyomi.ui.main.MainActivity}" drawable="tachij2k" />
+
+	<!-- Waistline -->
+	<item component="ComponentInfo{com.waist.line/com.waist.line.MainActivity}" drawable="waistline" />
+
+</resources>

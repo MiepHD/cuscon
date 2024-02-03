@@ -1,0 +1,36 @@
+<resources>
+
+	<!-- 1DM+ -->
+	<item component="ComponentInfo{idm.internet.download.manager.plus/idm.internet.download.manager.MainActivity}" drawable="_1dm_" />
+
+	<!-- ADM -->
+	<item component="ComponentInfo{com.dv.adm/com.dv.get.Main}" drawable="adm" />
+
+	<!-- BHIM -->
+	<item component="ComponentInfo{in.org.npci.upiapp/yilrfu.s}" drawable="bhim" />
+
+	<!-- Cool text and symbols -->
+	<item component="ComponentInfo{com.dricodes.simboloseletrasdiferentesfree/com.dricodes.simboloseletrasdiferentesfree.HomeActivity}" drawable="cool_text_and_symbols" />
+
+	<!-- DMSS -->
+	<item component="ComponentInfo{com.mm.android.DMSS/com.mm.android.base.devicemain.SplashActivity}" drawable="dmss" />
+
+	<!-- EDS Lite -->
+	<item component="ComponentInfo{com.sovworks.edslite/com.sovworks.eds.android.filemanager.activities.FileManagerActivity}" drawable="eds_lite" />
+
+	<!-- Inure -->
+	<item component="ComponentInfo{app.simple.inure/app.simple.inure.activities.app.MainActivity}" drawable="inure" />
+
+	<!-- Kotatsu -->
+	<item component="ComponentInfo{org.koitharu.kotatsu/org.koitharu.kotatsu.main.ui.MainActivity}" drawable="kotatsu" />
+
+	<!-- Mind Games Pro -->
+	<item component="ComponentInfo{mindware.mindgamespro/mindware.mindgamespro.main}" drawable="mind_games_pro" />
+
+	<!-- Open Stable Diffusion -->
+	<item component="ComponentInfo{com.openstablediffusion/com.openstablediffusion.MainActivity}" drawable="open_stable_diffusion" />
+
+	<!-- Reckoning Skills -->
+	<item component="ComponentInfo{org.secuso.privacyfriendlyrecknoningskills/org.secuso.privacyfriendlyreckoningskills.activities.SplashActivity}" drawable="reckoning_skills" />
+
+</resources>

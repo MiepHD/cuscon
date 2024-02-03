@@ -1,0 +1,360 @@
+<Theme version="1">
+
+	<!-- AliExpress -->
+	<AppIcon name="com.alibaba.aliexpresshd/com.aliexpress.app.FirstActivity" image="aliexpress"/>
+
+	<!-- AliPaczka -->
+	<AppIcon name="pl.alipaczka.app/pl.alipaczka.app.MainActivity" image="alipaczka"/>
+
+	<!-- Allegro -->
+	<AppIcon name="pl.allegro/pl.allegro.Allegro" image="allegro"/>
+
+	<!-- Antiyoy -->
+	<AppIcon name="yio.tro.antiyoy.android/yio.tro.antiyoy.android.AndroidLauncher" image="antiyoy"/>
+
+	<!-- Bad North -->
+	<AppIcon name="com.PlausibleConcept.BadNorthFull/com.amberstudio.mylibrary.UnityPlayerActivity_Fullscreen" image="bad_north"/>
+
+	<!-- Badanie Słuchu -->
+	<AppIcon name="mobile.eaudiologia/mobile.eaudiologia.BadanieSluchu" image="badanie_słuchu"/>
+
+	<!-- Blokada ekranu -->
+	<AppIcon name="com.coloros.onekeylockscreen/com.oplus.onekeylockscreen.OneKeyLockScreen" image="blokada_ekranu"/>
+
+	<!-- Booking.com -->
+	<AppIcon name="com.booking/com.booking.startup.HomeActivity" image="bookingcom"/>
+
+	<!-- Booksy -->
+	<AppIcon name="net.booksy.customer/net.booksy.customer.SplashActivity" image="booksy"/>
+
+	<!-- BusLive -->
+	<AppIcon name="com.pawelm.gdzieonjest/com.pawelm.gdzieonjest.activities.SplashActivity" image="buslive"/>
+
+	<!-- Casio G-Shock Smart Sync -->
+	<AppIcon name="org.avmedia.gshockGoogleSync/org.avmedia.gShockPhoneSync.MainActivity" image="casio_g_shock_smart_sync"/>
+
+	<!-- cda.pl -->
+	<AppIcon name="pl.cda/pl.cda.ui.welcome.WelcomeActivity" image="cdapl"/>
+
+	<!-- Connect -->
+	<AppIcon name="com.garmin.android.apps.connectmobile/com.garmin.android.apps.connectmobile.GCMActivityStartup" image="connect"/>
+
+	<!-- Cyfrowa równowaga -->
+	<AppIcon name="com.google.android.apps.wellbeing/com.google.android.apps.wellbeing.settings.LauncherActivity" image="cyfrowa_rownowaga"/>
+
+	<!-- Diki słownik angielskiego -->
+	<AppIcon name="pl.diki/pl.etutor.android.app.MainActivity" image="diki_słownik_angielskiego"/>
+
+	<!-- DR CONTROL -->
+	<AppIcon name="com.tascam.android.drcontrol/com.tascam.android.drcontrol.DisconnectedActivity" image="dr_control"/>
+
+	<!-- e-kartoteka -->
+	<AppIcon name="pl.ekartoteka.app/io.gonative.android.SplashActivity" image="e_kartoteka"/>
+
+	<!-- eDO App -->
+	<AppIcon name="pl.pwpw.edohub/crc6403febd5c1f6f5143._b5" image="edo_app"/>
+
+	<!-- Energia -->
+	<AppIcon name="com.netatmo.thermostat/com.netatmo.thermostat.dashboard.DashboardActivity" image="energia"/>
+
+	<!-- Etsy -->
+	<AppIcon name="com.etsy.android/com.etsy.android.ui.homescreen.HomescreenTabsActivity" image="etsy"/>
+
+	<!-- EufyLife -->
+	<AppIcon name="com.oceanwing.smarthome/com.oceanwing.eufylife.ui.activity.WelcomeActivity" image="eufylife"/>
+
+	<!-- F-Droid Basic -->
+	<AppIcon name="org.fdroid.basic/org.fdroid.fdroid.views.main.MainActivity" image="f_droid_basic"/>
+
+	<!-- Family Link -->
+	<AppIcon name="com.google.android.apps.kids.familylink/com.google.android.apps.kids.familylink.flutter.standalone.HomeActivity" image="family_link"/>
+
+	<!-- Filmy -->
+	<AppIcon name="com.coloros.video/com.oplus.video.ui.VideoListActivity" image="filmy"/>
+
+	<!-- Findroid -->
+	<AppIcon name="dev.jdtech.jellyfin/dev.jdtech.jellyfin.MainActivity" image="findroid"/>
+
+	<!-- Fractal Space HD -->
+	<AppIcon name="com.hazegames.fractalspacetv/com.unity3d.player.UnityPlayerActivity" image="fractal_space_hd"/>
+
+	<!-- FREE NOW -->
+	<AppIcon name="taxi.android.client/taxi.android.client.feature.startup.ui.StartupActivity" image="free_now"/>
+
+	<!-- Fun Print -->
+	<AppIcon name="com.fun.mxw/io.dcloud.PandoraEntry" image="fun_print"/>
+
+	<!-- Galcon 2 -->
+	<AppIcon name="com.galcon.galcon2/com.galcon.galcon2.MyActivity" image="galcon_2"/>
+
+	<!-- Glider -->
+	<AppIcon name="nl.viter.glider/nl.viter.glider.MainActivity" image="glider"/>
+
+	<!-- Gry -->
+	<AppIcon name="com.oplus.games/com.oplus.games.ui.main.MainGameActivity" image="gry"/>
+
+	<!-- Home Assistant -->
+	<AppIcon name="io.homeassistant.companion.android.minimal/io.homeassistant.companion.android.launch.LaunchActivity" image="home_assistant"/>
+
+	<!-- Home smart 1 -->
+	<AppIcon name="com.ikea.tradfri.lighting/com.ikea.tradfri.lighting.startup.activity.SplashActivity" image="home_smart_1"/>
+
+	<!-- IKEA -->
+	<AppIcon name="com.ingka.ikea.app/com.ingka.ikea.app.splash.FirstEntryActivity" image="ikea"/>
+
+	<!-- InPost Mobile -->
+	<AppIcon name="pl.inpost.inmobile/pl.inpost.inmobile.splashScreen.presentation.SplashScreenActivity" image="inpost_mobile"/>
+
+	<!-- iPlus -->
+	<AppIcon name="pl.plus.plusonline/pl.plus.plusonline.activity.SSO_WelcomeActivity" image="iplus"/>
+
+	<!-- iPrint&Scan -->
+	<AppIcon name="com.brother.mfc.brprint/com.brother.mfc.brprint.v2.ui.top.SplashActivity" image="iprint_and_scan"/>
+
+	<!-- Jakdojade -->
+	<AppIcon name="com.citynav.jakdojade.pl.android/com.citynav.jakdojade.pl.android.SplashScreenActivity" image="jakdojade"/>
+
+	<!-- Jellyfin -->
+	<AppIcon name="org.jellyfin.mobile/org.jellyfin.mobile.MainActivity" image="jellyfin"/>
+
+	<!-- Joplin -->
+	<AppIcon name="net.cozic.joplin/net.cozic.joplin.MainActivity" image="joplin"/>
+
+	<!-- JuiceSSH -->
+	<AppIcon name="com.sonelli.juicessh/com.sonelli.juicessh.activities.MainActivity" image="juicessh"/>
+
+	<!-- Kalkulator -->
+	<AppIcon name="com.coloros.calculator/com.android.calculator2.Calculator" image="kalkulator"/>
+
+	<!-- Kamera -->
+	<AppIcon name="com.oplus.camera/com.oplus.camera.Camera" image="kamera"/>
+
+	<!-- Keepass2Android -->
+	<AppIcon name="keepass2android.keepass2android/crc64dd09b2a2e58bb27d.KeePass" image="keepass2android"/>
+
+	<!-- Klient pulpitu zdalnego -->
+	<AppIcon name="com.microsoft.rdc.androidx/com.microsoft.rdc.ui.activities.HomeActivity" image="klient_pulpitu_zdalnego"/>
+
+	<!-- Klonowanie telefonu -->
+	<AppIcon name="com.coloros.backuprestore/com.oplus.phoneclone.PhoneCloneMainActivity" image="klonowanie_telefonu"/>
+
+	<!-- Kompas -->
+	<AppIcon name="com.coloros.compass2/com.coloros.compass.flat.FlatCompass" image="kompas"/>
+
+	<!-- Lidl Home -->
+	<AppIcon name="com.lidlhome.smart/com.smart.ThingSplashActivity" image="lidl_home"/>
+
+	<!-- Lists -->
+	<AppIcon name="com.microsoft.lists.public/com.microsoft.lists.MainActivity" image="lists"/>
+
+	<!-- LiveKid -->
+	<AppIcon name="com.livekidmobileadmin/com.livekidmobileadmin.MainActivity" image="livekid"/>
+
+	<!-- Łącze do Windows -->
+	<AppIcon name="com.microsoft.appmanager/com.microsoft.appmanager.StartUpCoreActivity" image="łacze_do_windows"/>
+
+	<!-- mBank -->
+	<AppIcon name="pl.mbank/pl.mbank.core.activity.StartActivity" image="mbank"/>
+
+	<!-- Menedżer telefonu -->
+	<AppIcon name="com.coloros.phonemanager/com.coloros.phonemanager.FakeActivity" image="menedzer_telefonu"/>
+
+	<!-- MikroTik -->
+	<AppIcon name="com.mikrotik.android.tikapp/com.mikrotik.android.tikapp.activities.MainActivity" image="mikrotik"/>
+
+	<!-- mobiWAWA -->
+	<AppIcon name="pl.xentivo.ummobiwawa/pl.xentivo.ummobiwawa.MainActivity" image="mobiwawa"/>
+
+	<!-- mObywatel -->
+	<AppIcon name="pl.nask.mobywatel/pl.gov.mc.fringers.mobywatel.MainActivity" image="mobywatel"/>
+
+	<!-- Moje pliki -->
+	<AppIcon name="com.coloros.filemanager/com.oplus.filemanager.main.ui.MainActivity" image="moje_pliki"/>
+
+	<!-- Mój Carrefour -->
+	<AppIcon name="pl.carrefour.carrefourmobile/pl.carrefour.carrefourmobile.core.ui.main.splash.SplashScreenActivity" image="moj_carrefour"/>
+
+	<!-- Mój T-Mobile -->
+	<AppIcon name="pl.tmobile.miboa/com.telekom.oneapp.launcher.components.launcher.LauncherActivity" image="moj_t_mobile"/>
+
+	<!-- Mullvad VPN -->
+	<AppIcon name="net.mullvad.mullvadvpn/net.mullvad.mullvadvpn.ui.MainActivity" image="mullvad_vpn"/>
+
+	<!-- Muzyka -->
+	<AppIcon name="com.heytap.music/com.nearme.music.splash.SplashActivity" image="muzyka"/>
+
+	<!-- mWeryfikator -->
+	<AppIcon name="pl.nask.mweryfikator/pl.nask.mweryfikator.MainActivity" image="mweryfikator"/>
+
+	<!-- MyMazda -->
+	<AppIcon name="com.interrait.mymazda/com.interrait.mymazda.activities.auth.SDMSplashActivity" image="mymazda"/>
+
+	<!-- Notatki -->
+	<AppIcon name="com.coloros.note/com.nearme.note.main.MainActivity" image="notatki"/>
+
+	<!-- nzb360 -->
+	<AppIcon name="com.kevinforeman.nzb360/com.kevinforeman.nzb360.StartupLauncher" image="nzb360"/>
+
+	<!-- omWeather -->
+	<AppIcon name="org.woheller69.omweather/org.woheller69.weather.activities.SplashActivity" image="omweather"/>
+
+	<!-- Opacha-mda -->
+	<AppIcon name="yio.tro.opacha/yio.tro.opacha.AndroidLauncher" image="opacha_mda"/>
+
+	<!-- PeoPay -->
+	<AppIcon name="softax.pekao.powerpay/com.pekao.peopay.presentation.MainActivity" image="peopay"/>
+
+	<!-- Pluralsight -->
+	<AppIcon name="com.pluralsight/com.pluralsight.android.learner.launch.LaunchActivity" image="pluralsight"/>
+
+	<!-- Pluxee -->
+	<AppIcon name="pl.sodexo.dlaciebie2.app/pl.sodexo.dlaciebie2.app.ui.login.LoginActivity" image="pluxee"/>
+
+	<!-- Podziękowanie -->
+	<AppIcon name="com.simplemobiletools.thankyou/com.simplemobiletools.thankyou.activities.SplashActivity.Orange" image="podziekowanie"/>
+
+	<!-- Pogoda -->
+	<AppIcon name="com.coloros.weather2/com.oplus.weather.main.view.WeatherMainActivity" image="pogoda"/>
+
+	<!-- Polytopia -->
+	<AppIcon name="air.com.midjiwan.polytopia/com.google.firebase.MessagingUnityPlayerActivity" image="polytopia"/>
+
+	<!-- Pomelody -->
+	<AppIcon name="com.pomelody/com.pomelody.MainActivity" image="pomelody"/>
+
+	<!-- Portal Pacjenta -->
+	<AppIcon name="pl.luxmed.pp/pl.luxmed.pp.ui.splash.SplashActivity" image="portal_pacjenta"/>
+
+	<!-- Proton Drive -->
+	<AppIcon name="me.proton.android.drive/me.proton.android.drive.ui.MainActivity" image="proton_drive"/>
+
+	<!-- Proxmox Virtual Environment -->
+	<AppIcon name="com.proxmox.app.pve_flutter_frontend/com.proxmox.app.pve_flutter_frontend.MainActivity" image="proxmox_virtual_environment"/>
+
+	<!-- Pushover -->
+	<AppIcon name="net.superblock.pushover/net.superblock.pushover.ui.MessageHistoryActivity" image="pushover"/>
+
+	<!-- Qfile Pro -->
+	<AppIcon name="com.qnap.qfile/com.qnap.qfile.ui.splash.SplashActivity" image="qfile_pro"/>
+
+	<!-- Qmanager -->
+	<AppIcon name="com.qnap.qmanager/com.qnap.qmanagerhd.login.Splash" image="qmanager"/>
+
+	<!-- Ref Tools -->
+	<AppIcon name="com.danfoss.koolapp/crc646cc10707b7d55a66.MainActivity" image="ref_tools"/>
+
+	<!-- Rejestrator -->
+	<AppIcon name="com.coloros.soundrecorder/com.soundrecorder.browsefile.BrowseFile" image="rejestrator"/>
+
+	<!-- reMarkable -->
+	<AppIcon name="com.remarkable.mobile/com.remarkable.mobile.MainActivity" image="remarkable"/>
+
+	<!-- Robot36 -->
+	<AppIcon name="xdsopl.robot36/xdsopl.robot36.MainActivity" image="robot36"/>
+
+	<!-- Rysiek -->
+	<AppIcon name="pl.naviexpert.rysiek/pl.naviexpert.roger.ui.activities.SplashScreen" image="rysiek"/>
+
+	<!-- Saper Pro -->
+	<AppIcon name="mindware.minegamespro/mindware.minegamespro.main" image="saper_pro"/>
+
+	<!-- Sectograph -->
+	<AppIcon name="prox.lab.calclock/laboratory27.sectograph.MainActivity" image="sectograph"/>
+
+	<!-- SHAREit -->
+	<AppIcon name="com.lenovo.anyshare.gps/com.lenovo.anyshare.ApMainActivity" image="shareit"/>
+
+	<!-- Shitter -->
+	<AppIcon name="org.nuclearfog.twidda/org.nuclearfog.twidda.ui.activities.MainActivity" image="shitter"/>
+
+	<!-- Signal -->
+	<AppIcon name="org.thoughtcrime.securesms/org.thoughtcrime.securesms.RoutingActivityAltDark" image="signal"/>
+
+	<!-- Signal -->
+	<AppIcon name="org.thoughtcrime.securesms/org.thoughtcrime.securesms.RoutingActivityAltWhite" image="signal"/>
+
+	<!-- SIMextra -->
+	<AppIcon name="com.android.stk/com.android.stk.OplusStkLauncherActivity1" image="simextra"/>
+
+	<!-- Simple Keyboard -->
+	<AppIcon name="rkr.simplekeyboard.inputmethod/rkr.simplekeyboard.inputmethod.latin.settings.SettingsActivity" image="simple_keyboard"/>
+
+	<!-- SJCAM Zone -->
+	<AppIcon name="org.jght.sjcam.zone/org.jght.sjcam.zone.ui.activity.BoredActivity" image="sjcam_zone"/>
+
+	<!-- SkyCash -->
+	<AppIcon name="com.skycash.beta/com.norbsoft.android.ease.activities.SplashScreenActivity" image="skycash"/>
+
+	<!-- Skywave Schedules -->
+	<AppIcon name="swbcdx.cap.shortwavelist/com.embarcadero.firemonkey.FMXNativeActivity" image="skywave_schedules"/>
+
+	<!-- Sonos -->
+	<AppIcon name="com.sonos.acr2/com.sonos.acr.SonosLaunchActivity" image="sonos"/>
+
+	<!-- soundcore -->
+	<AppIcon name="com.oceanwing.soundcore/com.oceanwing.soundcore.activity.WelcomeActivity" image="soundcore"/>
+
+	<!-- SSTV Encoder -->
+	<AppIcon name="om.sstvencoder/om.sstvencoder.MainActivity" image="sstv_encoder"/>
+
+	<!-- Street­Complete -->
+	<AppIcon name="de.westnordost.streetcomplete/de.westnordost.streetcomplete.screens.MainActivity" image="street­complete"/>
+
+	<!-- Sygic -->
+	<AppIcon name="com.sygic.aura/com.sygic.aura.activity.NaviNativeActivity" image="sygic"/>
+
+	<!-- Tapo -->
+	<AppIcon name="com.tplink.iot/com.tplink.iot.view.welcome.StartupActivity" image="tapo"/>
+
+	<!-- Telegram -->
+	<AppIcon name="org.telegram.messenger.web/org.telegram.messenger.DefaultIcon" image="telegram"/>
+
+	<!-- TIDAL -->
+	<AppIcon name="com.aspiro.tidal/com.aspiro.wamp.LoginFragmentActivity" image="tidal"/>
+
+	<!-- Top Box Poland -->
+	<AppIcon name="com.topboxpl.app/host.exp.exponent.MainActivity" image="top_box_poland"/>
+
+	<!-- Torn -->
+	<AppIcon name="com.ionicframework.tornv2301860/com.ionicframework.tornv2301860.ui.MainActivity" image="torn"/>
+
+	<!-- Udemy -->
+	<AppIcon name="com.udemy.android/com.udemy.android.SplashActivity" image="udemy"/>
+
+	<!-- Veturilo -->
+	<AppIcon name="com.nextbike.veturilo/pl.nextbike.app.NextbikeActivity" image="veturilo"/>
+
+	<!-- Warszawa 19115 -->
+	<AppIcon name="pl.xentivo.ummobile/pl.xentivo.ummobile.MainActivity" image="warszawa_19115"/>
+
+	<!-- Waze -->
+	<AppIcon name="com.waze/com.waze.FreeMapAppActivity" image="waze"/>
+
+	<!-- Wiadomości Google -->
+	<AppIcon name="com.google.android.apps.magazines/com.google.apps.dots.android.app.activity.CurrentsStartActivity" image="wiadomosci_google"/>
+
+	<!-- Xbox -->
+	<AppIcon name="com.microsoft.xboxone.smartglass/com.microsoft.xbox.MainActivity" image="xbox"/>
+
+	<!-- Xbox Game Pass -->
+	<AppIcon name="com.gamepass.beta/com.gamepass.MainActivity" image="xbox_game_pass"/>
+
+	<!-- Xiaomi Home -->
+	<AppIcon name="com.xiaomi.smarthome/com.xiaomi.smarthome.SmartHomeMainActivity" image="xiaomi_home"/>
+
+	<!-- Yubico Authenticator -->
+	<AppIcon name="com.yubico.yubioath/com.yubico.authenticator.MainActivity" image="yubico_authenticator"/>
+
+	<!-- Zdjęcia -->
+	<AppIcon name="com.coloros.gallery3d/com.coloros.gallery3d.app.MainActivity" image="zdjecia"/>
+
+	<!-- Zegar -->
+	<AppIcon name="com.coloros.alarmclock/com.oplus.alarmclock.AlarmClock" image="zegar"/>
+
+	<!-- ZEN.COM -->
+	<AppIcon name="com.zen.application/com.codequest.zen.presentation.features.entrypoint.EntryPointActivity" image="zencom"/>
+
+	<!-- Zoho Mail -->
+	<AppIcon name="com.zoho.mail/com.zoho.mail.android.activities.Login" image="zoho_mail"/>
+
+</Theme>

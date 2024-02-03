@@ -1,0 +1,36 @@
+<appmap>
+
+	<!-- 1DM+ -->
+	<item class="idm.internet.download.manager.MainActivity" name="_1dm_"/>
+
+	<!-- ADM -->
+	<item class="com.dv.get.Main" name="adm"/>
+
+	<!-- BHIM -->
+	<item class="yilrfu.s" name="bhim"/>
+
+	<!-- Cool text and symbols -->
+	<item class="com.dricodes.simboloseletrasdiferentesfree.HomeActivity" name="cool_text_and_symbols"/>
+
+	<!-- DMSS -->
+	<item class="com.mm.android.base.devicemain.SplashActivity" name="dmss"/>
+
+	<!-- EDS Lite -->
+	<item class="com.sovworks.eds.android.filemanager.activities.FileManagerActivity" name="eds_lite"/>
+
+	<!-- Inure -->
+	<item class="app.simple.inure.activities.app.MainActivity" name="inure"/>
+
+	<!-- Kotatsu -->
+	<item class="org.koitharu.kotatsu.main.ui.MainActivity" name="kotatsu"/>
+
+	<!-- Mind Games Pro -->
+	<item class="mindware.mindgamespro.main" name="mind_games_pro"/>
+
+	<!-- Open Stable Diffusion -->
+	<item class="com.openstablediffusion.MainActivity" name="open_stable_diffusion"/>
+
+	<!-- Reckoning Skills -->
+	<item class="org.secuso.privacyfriendlyreckoningskills.activities.SplashActivity" name="reckoning_skills"/>
+
+</appmap>

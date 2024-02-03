@@ -1,0 +1,57 @@
+<resources>
+
+	<!-- AIMP -->
+	<item component="ComponentInfo{com.aimp.player/com.aimp.player.ui.activities.main.MainActivity}" drawable="aimp" />
+
+	<!-- ANOTHERpass -->
+	<item component="ComponentInfo{de.jepfa.yapm/de.jepfa.yapm.ui.credential.ListCredentialsActivity}" drawable="anotherpass" />
+
+	<!-- Feeder -->
+	<item component="ComponentInfo{com.nononsenseapps.feeder/com.nononsenseapps.feeder.ui.MainActivity}" drawable="feeder" />
+
+	<!-- FOSS Browser -->
+	<item component="ComponentInfo{de.baumann.browser/de.baumann.browser.activity.BrowserActivity}" drawable="foss_browser" />
+
+	<!-- Galerie -->
+	<item component="ComponentInfo{org.fossify.gallery/org.fossify.gallery.activities.SplashActivity.Green}" drawable="galerie" />
+
+	<!-- Jugendmodus -->
+	<item component="ComponentInfo{com.agui.studentmodel/com.agui.studentmodel.StudentModelActivity}" drawable="jugendmodus" />
+
+	<!-- Kamera -->
+	<item component="ComponentInfo{com.mediatek.camera/com.mediatek.camera.CameraLauncher}" drawable="kamera" />
+
+	<!-- Kontakte -->
+	<item component="ComponentInfo{de.ritscher.simplemobiletools.contacts.pro/com.simplemobiletools.contacts.pro.activities.SplashActivity.Green}" drawable="kontakte" />
+
+	<!-- NFC-Kartensimulation -->
+	<item component="ComponentInfo{com.agui.nfc/com.agui.nfc.MainActivity}" drawable="nfc_kartensimulation" />
+
+	<!-- Notizbuch -->
+	<item component="ComponentInfo{com.mediatek.notebook/com.mediatek.notebook.NotesList}" drawable="notizbuch" />
+
+	<!-- Notrufe -->
+	<item component="ComponentInfo{com.mediatek.cellbroadcastreceiver/com.mediatek.cellbroadcastreceiver.CellBroadcastListActivity}" drawable="notrufe" />
+
+	<!-- Planisphäre -->
+	<item component="ComponentInfo{org.tengel.planisphere/org.tengel.planisphere.MainActivity}" drawable="planisphare" />
+
+	<!-- SMS-Messenger -->
+	<item component="ComponentInfo{com.simplemobiletools.smsmessenger/com.simplemobiletools.smsmessenger.activities.SplashActivity.Teal}" drawable="sms_messenger" />
+
+	<!-- Soundrekorder -->
+	<item component="ComponentInfo{com.android.soundrecorder/com.android.soundrecorder.SoundRecorder}" drawable="soundrekorder" />
+
+	<!-- Spielemodus -->
+	<item component="ComponentInfo{com.agui.game/com.agui.game.gamelist.MainActivity}" drawable="spielemodus" />
+
+	<!-- Telefon -->
+	<item component="ComponentInfo{com.simplemobiletools.dialer/com.simplemobiletools.dialer.activities.SplashActivity.Orange}" drawable="telefon" />
+
+	<!-- UKW-Radio -->
+	<item component="ComponentInfo{com.android.fmradio/com.android.fmradio.FmMainActivity}" drawable="ukw_radio" />
+
+	<!-- Werkzeugkasten -->
+	<item component="ComponentInfo{com.agoldcomm.toolbox/com.agoldcomm.toolbox.MainActivity}" drawable="werkzeugkasten" />
+
+</resources>

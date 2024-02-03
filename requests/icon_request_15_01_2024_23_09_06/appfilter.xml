@@ -1,0 +1,114 @@
+<resources>
+
+	<!-- aCalendar -->
+	<item component="ComponentInfo{org.withouthat.acalendar/org.withouthat.acalendar.ACalendar}" drawable="acalendar" />
+
+	<!-- aCalTasks -->
+	<item component="ComponentInfo{org.withouthat.acalendar/org.withouthat.acalendar.tasks.TasksActivity}" drawable="acaltasks" />
+
+	<!-- Alarm Clock Xtreme -->
+	<item component="ComponentInfo{com.alarmclock.xtreme.free/com.alarmclock.xtreme.free.AlarmClock}" drawable="alarm_clock_xtreme" />
+
+	<!-- Amarok -->
+	<item component="ComponentInfo{deltazero.amarok.foss/deltazero.amarok.launcher.default}" drawable="amarok" />
+
+	<!-- Copy SMS Code -->
+	<item component="ComponentInfo{io.github.jd1378.otphelper/io.github.jd1378.otphelper.MainActivity}" drawable="copy_sms_code" />
+
+	<!-- FindMyDevice -->
+	<item component="ComponentInfo{de.nulide.findmydevice/de.nulide.findmydevice.ui.MainActivity}" drawable="findmydevice" />
+
+	<!-- floccus -->
+	<item component="ComponentInfo{org.handmadeideas.floccus/org.handmadeideas.floccus.MainActivity}" drawable="floccus" />
+
+	<!-- Gas Prices -->
+	<item component="ComponentInfo{org.woheller69.spritpreise/org.woheller69.spritpreise.activities.SplashActivity}" drawable="gas_prices" />
+
+	<!-- Geizhals -->
+	<item component="ComponentInfo{at.geizhals.pv/at.geizhals.android.MainActivity}" drawable="geizhals" />
+
+	<!-- Gotify -->
+	<item component="ComponentInfo{com.github.gotify/com.github.gotify.init.InitializationActivity}" drawable="gotify" />
+
+	<!-- Hail -->
+	<item component="ComponentInfo{com.aistra.hail/com.aistra.hail.ui.main.MainActivity}" drawable="hail" />
+
+	<!-- Headphones -->
+	<item component="ComponentInfo{com.sony.songpal.mdr/com.sony.songpal.mdr.vim.activity.MdrMainActivity}" drawable="headphones" />
+
+	<!-- Meine AOK -->
+	<item component="ComponentInfo{de.aoksystems.amg/de.aoksystems.amg.splash.SplashActivity}" drawable="meine_aok" />
+
+	<!-- mpv -->
+	<item component="ComponentInfo{is.xyz.mpv/is.xyz.mpv.MainActivity}" drawable="mpv" />
+
+	<!-- mydealz -->
+	<item component="ComponentInfo{com.tippingcanoe.mydealz/com.pepper.apps.android.presentation.MainActivityDarkIcon}" drawable="mydealz" />
+
+	<!-- openScale -->
+	<item component="ComponentInfo{com.health.openscale/com.health.openscale.gui.MainActivity}" drawable="openscale" />
+
+	<!-- OSS Document Scanner -->
+	<item component="ComponentInfo{com.akylas.documentscanner/com.akylas.documentscanner.MainActivity}" drawable="oss_document_scanner" />
+
+	<!-- PhotoPrism Gallery -->
+	<item component="ComponentInfo{ua.com.radiokot.photoprism/ua.com.radiokot.photoprism.features.gallery.view.GalleryActivity}" drawable="photoprism_gallery" />
+
+	<!-- PhotoSync -->
+	<item component="ComponentInfo{com.touchbyte.photosync/com.touchbyte.photosync.activities.PhotoSyncMainActivity}" drawable="photosync" />
+
+	<!-- Post & DHL -->
+	<item component="ComponentInfo{de.dhl.paket/de.its_berlin.dhlpaket.base.main.MainActivity}" drawable="post_and_dhl" />
+
+	<!-- Proxmox Virtual Environment -->
+	<item component="ComponentInfo{com.proxmox.app.pve_flutter_frontend/com.proxmox.app.pve_flutter_frontend.MainActivity}" drawable="proxmox_virtual_environment" />
+
+	<!-- Readrops -->
+	<item component="ComponentInfo{com.readrops.app/com.readrops.app.SplashActivity}" drawable="readrops" />
+
+	<!-- Rethink -->
+	<item component="ComponentInfo{com.celzero.bravedns/com.celzero.bravedns.ui.HomeScreenActivity}" drawable="rethink" />
+
+	<!-- Roborock -->
+	<item component="ComponentInfo{com.roborock.smart/com.roborock.smart.activity.SplashActivity}" drawable="roborock" />
+
+	<!-- Scalable Capital -->
+	<item component="ComponentInfo{capital.scalable.droid/capital.scalable.droid.redesign.screens.cockpit.CockpitActivity}" drawable="scalable_capital" />
+
+	<!-- Scrambled Exif -->
+	<item component="ComponentInfo{com.jarsilio.android.scrambledeggsif/com.jarsilio.android.scrambledeggsif.MainActivity}" drawable="scrambled_exif" />
+
+	<!-- Settle Up -->
+	<item component="ComponentInfo{cz.destil.settleup/cz.destil.settleup.gui.MainActivity}" drawable="settle_up" />
+
+	<!-- Shizuku -->
+	<item component="ComponentInfo{moe.shizuku.privileged.api/moe.shizuku.manager.MainActivity}" drawable="shizuku" />
+
+	<!-- Showly OSS -->
+	<item component="ComponentInfo{com.michaldrabik.showly_oss/com.michaldrabik.showly_oss.ui.main.MainActivity}" drawable="showly_oss" />
+
+	<!-- Smarter Wi-Fi Manager -->
+	<item component="ComponentInfo{net.kismetwireless.android.smarterwifimanager/net.kismetwireless.android.smarterwifimanager.MainActivity}" drawable="smarter_wi_fi_manager" />
+
+	<!-- Sonos -->
+	<item component="ComponentInfo{com.sonos.acr2/com.sonos.acr.SonosLaunchActivity}" drawable="sonos" />
+
+	<!-- Splitwise -->
+	<item component="ComponentInfo{com.Splitwise.SplitwiseMobile/com.Splitwise.SplitwiseMobile.views.SplitwiseSplashScreen}" drawable="splitwise" />
+
+	<!-- Spritmonitor -->
+	<item component="ComponentInfo{de.spritmonitor.smapp_mp/de.spritmonitor.smapp_android.ui.activities.VehiclesActivity}" drawable="spritmonitor" />
+
+	<!-- Syncthing -->
+	<item component="ComponentInfo{com.nutomic.syncthingandroid/com.nutomic.syncthingandroid.activities.FirstStartActivity}" drawable="syncthing" />
+
+	<!-- TAN2go -->
+	<item component="ComponentInfo{com.starfinanz.mobile.android.dkbpushtan/com.starfinanz.mobile.android.dkbpushtan.DKBPushTan}" drawable="tan2go" />
+
+	<!-- Wake on Lan -->
+	<item component="ComponentInfo{de.florianisme.wakeonlan/de.florianisme.wakeonlan.ui.MainActivity}" drawable="wake_on_lan" />
+
+	<!-- WarnWetter -->
+	<item component="ComponentInfo{de.dwd.warnapp/de.dwd.warnapp.base.MainActivity}" drawable="warnwetter" />
+
+</resources>

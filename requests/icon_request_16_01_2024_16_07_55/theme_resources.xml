@@ -1,0 +1,36 @@
+<Theme version="1">
+
+	<!-- 1DM+ -->
+	<AppIcon name="idm.internet.download.manager.plus/idm.internet.download.manager.MainActivity" image="_1dm_"/>
+
+	<!-- ADM -->
+	<AppIcon name="com.dv.adm/com.dv.get.Main" image="adm"/>
+
+	<!-- BHIM -->
+	<AppIcon name="in.org.npci.upiapp/yilrfu.s" image="bhim"/>
+
+	<!-- Cool text and symbols -->
+	<AppIcon name="com.dricodes.simboloseletrasdiferentesfree/com.dricodes.simboloseletrasdiferentesfree.HomeActivity" image="cool_text_and_symbols"/>
+
+	<!-- DMSS -->
+	<AppIcon name="com.mm.android.DMSS/com.mm.android.base.devicemain.SplashActivity" image="dmss"/>
+
+	<!-- EDS Lite -->
+	<AppIcon name="com.sovworks.edslite/com.sovworks.eds.android.filemanager.activities.FileManagerActivity" image="eds_lite"/>
+
+	<!-- Inure -->
+	<AppIcon name="app.simple.inure/app.simple.inure.activities.app.MainActivity" image="inure"/>
+
+	<!-- Kotatsu -->
+	<AppIcon name="org.koitharu.kotatsu/org.koitharu.kotatsu.main.ui.MainActivity" image="kotatsu"/>
+
+	<!-- Mind Games Pro -->
+	<AppIcon name="mindware.mindgamespro/mindware.mindgamespro.main" image="mind_games_pro"/>
+
+	<!-- Open Stable Diffusion -->
+	<AppIcon name="com.openstablediffusion/com.openstablediffusion.MainActivity" image="open_stable_diffusion"/>
+
+	<!-- Reckoning Skills -->
+	<AppIcon name="org.secuso.privacyfriendlyrecknoningskills/org.secuso.privacyfriendlyreckoningskills.activities.SplashActivity" image="reckoning_skills"/>
+
+</Theme>

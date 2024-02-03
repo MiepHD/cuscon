@@ -1,0 +1,18 @@
+<appmap>
+
+	<!-- mpv -->
+	<item class="is.xyz.mpv.MainActivity" name="mpv"/>
+
+	<!-- PPSSPP -->
+	<item class="org.ppsspp.ppsspp.PpssppActivity" name="ppsspp"/>
+
+	<!-- SauceNAO -->
+	<item class="com.luk.saucenao.MainActivity" name="saucenao"/>
+
+	<!-- TachiJ2K -->
+	<item class="eu.kanade.tachiyomi.ui.main.MainActivity" name="tachij2k"/>
+
+	<!-- Waistline -->
+	<item class="com.waist.line.MainActivity" name="waistline"/>
+
+</appmap>

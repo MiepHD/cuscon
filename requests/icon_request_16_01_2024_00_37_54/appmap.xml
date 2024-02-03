@@ -1,0 +1,360 @@
+<appmap>
+
+	<!-- AliExpress -->
+	<item class="com.aliexpress.app.FirstActivity" name="aliexpress"/>
+
+	<!-- AliPaczka -->
+	<item class="pl.alipaczka.app.MainActivity" name="alipaczka"/>
+
+	<!-- Allegro -->
+	<item class="pl.allegro.Allegro" name="allegro"/>
+
+	<!-- Antiyoy -->
+	<item class="yio.tro.antiyoy.android.AndroidLauncher" name="antiyoy"/>
+
+	<!-- Bad North -->
+	<item class="com.amberstudio.mylibrary.UnityPlayerActivity_Fullscreen" name="bad_north"/>
+
+	<!-- Badanie Słuchu -->
+	<item class="mobile.eaudiologia.BadanieSluchu" name="badanie_słuchu"/>
+
+	<!-- Blokada ekranu -->
+	<item class="com.oplus.onekeylockscreen.OneKeyLockScreen" name="blokada_ekranu"/>
+
+	<!-- Booking.com -->
+	<item class="com.booking.startup.HomeActivity" name="bookingcom"/>
+
+	<!-- Booksy -->
+	<item class="net.booksy.customer.SplashActivity" name="booksy"/>
+
+	<!-- BusLive -->
+	<item class="com.pawelm.gdzieonjest.activities.SplashActivity" name="buslive"/>
+
+	<!-- Casio G-Shock Smart Sync -->
+	<item class="org.avmedia.gShockPhoneSync.MainActivity" name="casio_g_shock_smart_sync"/>
+
+	<!-- cda.pl -->
+	<item class="pl.cda.ui.welcome.WelcomeActivity" name="cdapl"/>
+
+	<!-- Connect -->
+	<item class="com.garmin.android.apps.connectmobile.GCMActivityStartup" name="connect"/>
+
+	<!-- Cyfrowa równowaga -->
+	<item class="com.google.android.apps.wellbeing.settings.LauncherActivity" name="cyfrowa_rownowaga"/>
+
+	<!-- Diki słownik angielskiego -->
+	<item class="pl.etutor.android.app.MainActivity" name="diki_słownik_angielskiego"/>
+
+	<!-- DR CONTROL -->
+	<item class="com.tascam.android.drcontrol.DisconnectedActivity" name="dr_control"/>
+
+	<!-- e-kartoteka -->
+	<item class="io.gonative.android.SplashActivity" name="e_kartoteka"/>
+
+	<!-- eDO App -->
+	<item class="crc6403febd5c1f6f5143._b5" name="edo_app"/>
+
+	<!-- Energia -->
+	<item class="com.netatmo.thermostat.dashboard.DashboardActivity" name="energia"/>
+
+	<!-- Etsy -->
+	<item class="com.etsy.android.ui.homescreen.HomescreenTabsActivity" name="etsy"/>
+
+	<!-- EufyLife -->
+	<item class="com.oceanwing.eufylife.ui.activity.WelcomeActivity" name="eufylife"/>
+
+	<!-- F-Droid Basic -->
+	<item class="org.fdroid.fdroid.views.main.MainActivity" name="f_droid_basic"/>
+
+	<!-- Family Link -->
+	<item class="com.google.android.apps.kids.familylink.flutter.standalone.HomeActivity" name="family_link"/>
+
+	<!-- Filmy -->
+	<item class="com.oplus.video.ui.VideoListActivity" name="filmy"/>
+
+	<!-- Findroid -->
+	<item class="dev.jdtech.jellyfin.MainActivity" name="findroid"/>
+
+	<!-- Fractal Space HD -->
+	<item class="com.unity3d.player.UnityPlayerActivity" name="fractal_space_hd"/>
+
+	<!-- FREE NOW -->
+	<item class="taxi.android.client.feature.startup.ui.StartupActivity" name="free_now"/>
+
+	<!-- Fun Print -->
+	<item class="io.dcloud.PandoraEntry" name="fun_print"/>
+
+	<!-- Galcon 2 -->
+	<item class="com.galcon.galcon2.MyActivity" name="galcon_2"/>
+
+	<!-- Glider -->
+	<item class="nl.viter.glider.MainActivity" name="glider"/>
+
+	<!-- Gry -->
+	<item class="com.oplus.games.ui.main.MainGameActivity" name="gry"/>
+
+	<!-- Home Assistant -->
+	<item class="io.homeassistant.companion.android.launch.LaunchActivity" name="home_assistant"/>
+
+	<!-- Home smart 1 -->
+	<item class="com.ikea.tradfri.lighting.startup.activity.SplashActivity" name="home_smart_1"/>
+
+	<!-- IKEA -->
+	<item class="com.ingka.ikea.app.splash.FirstEntryActivity" name="ikea"/>
+
+	<!-- InPost Mobile -->
+	<item class="pl.inpost.inmobile.splashScreen.presentation.SplashScreenActivity" name="inpost_mobile"/>
+
+	<!-- iPlus -->
+	<item class="pl.plus.plusonline.activity.SSO_WelcomeActivity" name="iplus"/>
+
+	<!-- iPrint&Scan -->
+	<item class="com.brother.mfc.brprint.v2.ui.top.SplashActivity" name="iprint_and_scan"/>
+
+	<!-- Jakdojade -->
+	<item class="com.citynav.jakdojade.pl.android.SplashScreenActivity" name="jakdojade"/>
+
+	<!-- Jellyfin -->
+	<item class="org.jellyfin.mobile.MainActivity" name="jellyfin"/>
+
+	<!-- Joplin -->
+	<item class="net.cozic.joplin.MainActivity" name="joplin"/>
+
+	<!-- JuiceSSH -->
+	<item class="com.sonelli.juicessh.activities.MainActivity" name="juicessh"/>
+
+	<!-- Kalkulator -->
+	<item class="com.android.calculator2.Calculator" name="kalkulator"/>
+
+	<!-- Kamera -->
+	<item class="com.oplus.camera.Camera" name="kamera"/>
+
+	<!-- Keepass2Android -->
+	<item class="crc64dd09b2a2e58bb27d.KeePass" name="keepass2android"/>
+
+	<!-- Klient pulpitu zdalnego -->
+	<item class="com.microsoft.rdc.ui.activities.HomeActivity" name="klient_pulpitu_zdalnego"/>
+
+	<!-- Klonowanie telefonu -->
+	<item class="com.oplus.phoneclone.PhoneCloneMainActivity" name="klonowanie_telefonu"/>
+
+	<!-- Kompas -->
+	<item class="com.coloros.compass.flat.FlatCompass" name="kompas"/>
+
+	<!-- Lidl Home -->
+	<item class="com.smart.ThingSplashActivity" name="lidl_home"/>
+
+	<!-- Lists -->
+	<item class="com.microsoft.lists.MainActivity" name="lists"/>
+
+	<!-- LiveKid -->
+	<item class="com.livekidmobileadmin.MainActivity" name="livekid"/>
+
+	<!-- Łącze do Windows -->
+	<item class="com.microsoft.appmanager.StartUpCoreActivity" name="łacze_do_windows"/>
+
+	<!-- mBank -->
+	<item class="pl.mbank.core.activity.StartActivity" name="mbank"/>
+
+	<!-- Menedżer telefonu -->
+	<item class="com.coloros.phonemanager.FakeActivity" name="menedzer_telefonu"/>
+
+	<!-- MikroTik -->
+	<item class="com.mikrotik.android.tikapp.activities.MainActivity" name="mikrotik"/>
+
+	<!-- mobiWAWA -->
+	<item class="pl.xentivo.ummobiwawa.MainActivity" name="mobiwawa"/>
+
+	<!-- mObywatel -->
+	<item class="pl.gov.mc.fringers.mobywatel.MainActivity" name="mobywatel"/>
+
+	<!-- Moje pliki -->
+	<item class="com.oplus.filemanager.main.ui.MainActivity" name="moje_pliki"/>
+
+	<!-- Mój Carrefour -->
+	<item class="pl.carrefour.carrefourmobile.core.ui.main.splash.SplashScreenActivity" name="moj_carrefour"/>
+
+	<!-- Mój T-Mobile -->
+	<item class="com.telekom.oneapp.launcher.components.launcher.LauncherActivity" name="moj_t_mobile"/>
+
+	<!-- Mullvad VPN -->
+	<item class="net.mullvad.mullvadvpn.ui.MainActivity" name="mullvad_vpn"/>
+
+	<!-- Muzyka -->
+	<item class="com.nearme.music.splash.SplashActivity" name="muzyka"/>
+
+	<!-- mWeryfikator -->
+	<item class="pl.nask.mweryfikator.MainActivity" name="mweryfikator"/>
+
+	<!-- MyMazda -->
+	<item class="com.interrait.mymazda.activities.auth.SDMSplashActivity" name="mymazda"/>
+
+	<!-- Notatki -->
+	<item class="com.nearme.note.main.MainActivity" name="notatki"/>
+
+	<!-- nzb360 -->
+	<item class="com.kevinforeman.nzb360.StartupLauncher" name="nzb360"/>
+
+	<!-- omWeather -->
+	<item class="org.woheller69.weather.activities.SplashActivity" name="omweather"/>
+
+	<!-- Opacha-mda -->
+	<item class="yio.tro.opacha.AndroidLauncher" name="opacha_mda"/>
+
+	<!-- PeoPay -->
+	<item class="com.pekao.peopay.presentation.MainActivity" name="peopay"/>
+
+	<!-- Pluralsight -->
+	<item class="com.pluralsight.android.learner.launch.LaunchActivity" name="pluralsight"/>
+
+	<!-- Pluxee -->
+	<item class="pl.sodexo.dlaciebie2.app.ui.login.LoginActivity" name="pluxee"/>
+
+	<!-- Podziękowanie -->
+	<item class="com.simplemobiletools.thankyou.activities.SplashActivity.Orange" name="podziekowanie"/>
+
+	<!-- Pogoda -->
+	<item class="com.oplus.weather.main.view.WeatherMainActivity" name="pogoda"/>
+
+	<!-- Polytopia -->
+	<item class="com.google.firebase.MessagingUnityPlayerActivity" name="polytopia"/>
+
+	<!-- Pomelody -->
+	<item class="com.pomelody.MainActivity" name="pomelody"/>
+
+	<!-- Portal Pacjenta -->
+	<item class="pl.luxmed.pp.ui.splash.SplashActivity" name="portal_pacjenta"/>
+
+	<!-- Proton Drive -->
+	<item class="me.proton.android.drive.ui.MainActivity" name="proton_drive"/>
+
+	<!-- Proxmox Virtual Environment -->
+	<item class="com.proxmox.app.pve_flutter_frontend.MainActivity" name="proxmox_virtual_environment"/>
+
+	<!-- Pushover -->
+	<item class="net.superblock.pushover.ui.MessageHistoryActivity" name="pushover"/>
+
+	<!-- Qfile Pro -->
+	<item class="com.qnap.qfile.ui.splash.SplashActivity" name="qfile_pro"/>
+
+	<!-- Qmanager -->
+	<item class="com.qnap.qmanagerhd.login.Splash" name="qmanager"/>
+
+	<!-- Ref Tools -->
+	<item class="crc646cc10707b7d55a66.MainActivity" name="ref_tools"/>
+
+	<!-- Rejestrator -->
+	<item class="com.soundrecorder.browsefile.BrowseFile" name="rejestrator"/>
+
+	<!-- reMarkable -->
+	<item class="com.remarkable.mobile.MainActivity" name="remarkable"/>
+
+	<!-- Robot36 -->
+	<item class="xdsopl.robot36.MainActivity" name="robot36"/>
+
+	<!-- Rysiek -->
+	<item class="pl.naviexpert.roger.ui.activities.SplashScreen" name="rysiek"/>
+
+	<!-- Saper Pro -->
+	<item class="mindware.minegamespro.main" name="saper_pro"/>
+
+	<!-- Sectograph -->
+	<item class="laboratory27.sectograph.MainActivity" name="sectograph"/>
+
+	<!-- SHAREit -->
+	<item class="com.lenovo.anyshare.ApMainActivity" name="shareit"/>
+
+	<!-- Shitter -->
+	<item class="org.nuclearfog.twidda.ui.activities.MainActivity" name="shitter"/>
+
+	<!-- Signal -->
+	<item class="org.thoughtcrime.securesms.RoutingActivityAltDark" name="signal"/>
+
+	<!-- Signal -->
+	<item class="org.thoughtcrime.securesms.RoutingActivityAltWhite" name="signal"/>
+
+	<!-- SIMextra -->
+	<item class="com.android.stk.OplusStkLauncherActivity1" name="simextra"/>
+
+	<!-- Simple Keyboard -->
+	<item class="rkr.simplekeyboard.inputmethod.latin.settings.SettingsActivity" name="simple_keyboard"/>
+
+	<!-- SJCAM Zone -->
+	<item class="org.jght.sjcam.zone.ui.activity.BoredActivity" name="sjcam_zone"/>
+
+	<!-- SkyCash -->
+	<item class="com.norbsoft.android.ease.activities.SplashScreenActivity" name="skycash"/>
+
+	<!-- Skywave Schedules -->
+	<item class="com.embarcadero.firemonkey.FMXNativeActivity" name="skywave_schedules"/>
+
+	<!-- Sonos -->
+	<item class="com.sonos.acr.SonosLaunchActivity" name="sonos"/>
+
+	<!-- soundcore -->
+	<item class="com.oceanwing.soundcore.activity.WelcomeActivity" name="soundcore"/>
+
+	<!-- SSTV Encoder -->
+	<item class="om.sstvencoder.MainActivity" name="sstv_encoder"/>
+
+	<!-- Street­Complete -->
+	<item class="de.westnordost.streetcomplete.screens.MainActivity" name="street­complete"/>
+
+	<!-- Sygic -->
+	<item class="com.sygic.aura.activity.NaviNativeActivity" name="sygic"/>
+
+	<!-- Tapo -->
+	<item class="com.tplink.iot.view.welcome.StartupActivity" name="tapo"/>
+
+	<!-- Telegram -->
+	<item class="org.telegram.messenger.DefaultIcon" name="telegram"/>
+
+	<!-- TIDAL -->
+	<item class="com.aspiro.wamp.LoginFragmentActivity" name="tidal"/>
+
+	<!-- Top Box Poland -->
+	<item class="host.exp.exponent.MainActivity" name="top_box_poland"/>
+
+	<!-- Torn -->
+	<item class="com.ionicframework.tornv2301860.ui.MainActivity" name="torn"/>
+
+	<!-- Udemy -->
+	<item class="com.udemy.android.SplashActivity" name="udemy"/>
+
+	<!-- Veturilo -->
+	<item class="pl.nextbike.app.NextbikeActivity" name="veturilo"/>
+
+	<!-- Warszawa 19115 -->
+	<item class="pl.xentivo.ummobile.MainActivity" name="warszawa_19115"/>
+
+	<!-- Waze -->
+	<item class="com.waze.FreeMapAppActivity" name="waze"/>
+
+	<!-- Wiadomości Google -->
+	<item class="com.google.apps.dots.android.app.activity.CurrentsStartActivity" name="wiadomosci_google"/>
+
+	<!-- Xbox -->
+	<item class="com.microsoft.xbox.MainActivity" name="xbox"/>
+
+	<!-- Xbox Game Pass -->
+	<item class="com.gamepass.MainActivity" name="xbox_game_pass"/>
+
+	<!-- Xiaomi Home -->
+	<item class="com.xiaomi.smarthome.SmartHomeMainActivity" name="xiaomi_home"/>
+
+	<!-- Yubico Authenticator -->
+	<item class="com.yubico.authenticator.MainActivity" name="yubico_authenticator"/>
+
+	<!-- Zdjęcia -->
+	<item class="com.coloros.gallery3d.app.MainActivity" name="zdjecia"/>
+
+	<!-- Zegar -->
+	<item class="com.oplus.alarmclock.AlarmClock" name="zegar"/>
+
+	<!-- ZEN.COM -->
+	<item class="com.codequest.zen.presentation.features.entrypoint.EntryPointActivity" name="zencom"/>
+
+	<!-- Zoho Mail -->
+	<item class="com.zoho.mail.android.activities.Login" name="zoho_mail"/>
+
+</appmap>

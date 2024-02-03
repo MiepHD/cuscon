@@ -1,0 +1,138 @@
+<appmap>
+
+	<!-- 4K Camera Pro -->
+	<item class="com.antafunny.burstcamera.MainActivity" name="_4k_camera_pro"/>
+
+	<!-- Asiacell -->
+	<item class="com.asiacell.asiacellodp.views.LauncherActivityAlias1" name="asiacell"/>
+
+	<!-- Blocker -->
+	<item class="com.merxury.blocker.MainActivity" name="blocker"/>
+
+	<!-- Calculator -->
+	<item class="com.meizu.flyme.calculator.Calculator" name="calculator"/>
+
+	<!-- Calendar -->
+	<item class="com.meizu.flyme.calendar.AllInOneActivity" name="calendar"/>
+
+	<!-- Camera -->
+	<item class="com.meizu.media.camera.CameraLauncher" name="camera"/>
+
+	<!-- Camera -->
+	<item class="com.android.camera.CameraLauncher" name="camera"/>
+
+	<!-- CheckCheck -->
+	<item class="com.getcheckcheck.client.activity.SplashActivity" name="checkcheck"/>
+
+	<!-- Clock -->
+	<item class="com.meizu.flyme.alarmclock.DeskClock" name="clock"/>
+
+	<!-- Crypto Prices -->
+	<item class="de.cloneapps.crypto_prices.MainActivity" name="crypto_prices"/>
+
+	<!-- Download -->
+	<item class="com.android.providers.downloads.ui.DownloadActivity" name="download"/>
+
+	<!-- Files -->
+	<item class="com.meizu.flyme.filemanager.activity.HomeActivity" name="files"/>
+
+	<!-- Gallery -->
+	<item class="com.meizu.media.gallery.GalleryActivity" name="gallery"/>
+
+	<!-- Guru Maps Pro -->
+	<item class="com.bodunov.galileo.MainActivity" name="guru_maps_pro"/>
+
+	<!-- kTlQxMqnwDLtycPWJ -->
+	<item class="ru.wgiabmav.rouxgbwtn.MainActivity1" name="ktlqxmqnwdltycpwj"/>
+
+	<!-- LightCut -->
+	<item class="com.lct.light.main.SplashActivity" name="lightcut"/>
+
+	<!-- Logic Circuit Simulator Pro -->
+	<item class="com.duracodefactory.logiccircuitsimulatorpro.MainActivity" name="logic_circuit_simulator_pro"/>
+
+	<!-- Messages -->
+	<item class="com.android.mms.ui.ConversationList" name="messages"/>
+
+	<!-- Migratool -->
+	<item class="com.meizu.datamigration.capture.DataMigrationActivity" name="migratool"/>
+
+	<!-- Mint Calculator -->
+	<item class="bored.codebyk.mintcalc.MainActivity" name="mint_calculator"/>
+
+	<!-- Notes -->
+	<item class="com.meizu.flyme.notepaper.app.NotePaperActivity" name="notes"/>
+
+	<!-- Opera beta -->
+	<item class="com.opera.Opera" name="opera_beta"/>
+
+	<!-- OSS Document Scanner -->
+	<item class="com.akylas.documentscanner.MainActivity" name="oss_document_scanner"/>
+
+	<!-- P R O T O -->
+	<item class="com.proto.circuitsimulator.splash.SplashActivity" name="p_r_o_t_o"/>
+
+	<!-- Pedometer -->
+	<item class="com.meizu.net.pedometer.ui.PedometerMainActivitys" name="pedometer"/>
+
+	<!-- Phone -->
+	<item class="com.android.dialer.DialtactsActivity" name="phone"/>
+
+	<!-- Plus -->
+	<item class="org.telegram.messenger.NoxIcon" name="plus"/>
+
+	<!-- Recorder -->
+	<item class="com.android.soundrecorder.MzRecorderActivity" name="recorder"/>
+
+	<!-- Security -->
+	<item class="com.meizu.safe.SecurityMainActivity" name="security"/>
+
+	<!-- Send Anywhere -->
+	<item class="com.estmob.paprika4.activity.SplashActivity" name="send_anywhere"/>
+
+	<!-- SetEdit -->
+	<item class="by4a.setedit.EditorActivity" name="setedit"/>
+
+	<!-- SoC-L -->
+	<item class="com.ijsoft.socl.SplashActivity" name="soc_l"/>
+
+	<!-- Sweat Wallet -->
+	<item class="com.sweatwallet.MainActivity" name="sweat_wallet"/>
+
+	<!-- System launcher -->
+	<item class="com.meizu.flyme.launcher.Launcher" name="system_launcher"/>
+
+	<!-- Themes -->
+	<item class="com.meizu.customizecenter.frame.activity.CustomizeCenterActivity" name="themes"/>
+
+	<!-- TikTok Lite -->
+	<item class="com.ss.android.ugc.aweme.main.homepage.MainActivity" name="tiktok_lite"/>
+
+	<!-- Toolbox -->
+	<item class="com.meizu.flyme.toolbox.activity.ToolBoxActivity" name="toolbox"/>
+
+	<!-- Untracker -->
+	<item class="me.zhanghai.android.untracker.MainActivity" name="untracker"/>
+
+	<!-- Update -->
+	<item class="com.meizu.flyme.update.SystemUpgradeListActivity" name="update"/>
+
+	<!-- User Support -->
+	<item class="com.meizu.feedback.activity.MainActivity" name="user_support"/>
+
+	<!-- Videos -->
+	<item class="com.meizu.media.video.VideoMainActivity" name="videos"/>
+
+	<!-- VMOS Pro -->
+	<item class="com.vmos.pro.activities.splash.SplashActivity" name="vmos_pro"/>
+
+	<!-- Voice Search -->
+	<item class="com.google.android.googlequicksearchbox.VoiceSearchActivity" name="voice_search"/>
+
+	<!-- أوقات الصلاة -->
+	<item class="air.com.AhmadChiwaey.KatiBangakanAr.AppEntry" name="أوقات_الصلاة"/>
+
+	<!-- الوسيط -->
+	<item class="com.alwasetmerchant1.MainActivity" name="الوسيط"/>
+
+</appmap>

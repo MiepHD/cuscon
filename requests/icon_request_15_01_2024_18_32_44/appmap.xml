@@ -1,0 +1,39 @@
+<appmap>
+
+	<!-- bergfex/Wetter -->
+	<item class="com.bergfex.mobile.activity.WelcomeActivityNew" name="bergfex_wetter"/>
+
+	<!-- Chinahandys -->
+	<item class="com.chinahandys.MainActivity" name="chinahandys"/>
+
+	<!-- Geizhals -->
+	<item class="at.geizhals.android.MainActivity" name="geizhals"/>
+
+	<!-- Itinerary -->
+	<item class="org.kde.itinerary.Activity" name="itinerary"/>
+
+	<!-- KTrip -->
+	<item class="org.kde.ktrip.Activity" name="ktrip"/>
+
+	<!-- LibreTube -->
+	<item class="com.github.libretube.Default" name="libretube"/>
+
+	<!-- SaverTuner -->
+	<item class="com.draco.buoy.views.MainActivity" name="savertuner"/>
+
+	<!-- SCEE -->
+	<item class="de.westnordost.streetcomplete.screens.MainActivity" name="scee"/>
+
+	<!-- Skat -->
+	<item class="com.isarinteractive.GameActivity" name="skat"/>
+
+	<!-- SmartRide -->
+	<item class="de.hafas.main.HafasApp" name="smartride"/>
+
+	<!-- VVT Tickets -->
+	<item class="at.oebb.ts.SplashActivity" name="vvt_tickets"/>
+
+	<!-- willhaben -->
+	<item class="at.willhaben.MainActivity" name="willhaben"/>
+
+</appmap>

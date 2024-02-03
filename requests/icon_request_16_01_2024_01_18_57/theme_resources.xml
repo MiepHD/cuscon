@@ -1,0 +1,18 @@
+<Theme version="1">
+
+	<!-- mpv -->
+	<AppIcon name="is.xyz.mpv/is.xyz.mpv.MainActivity" image="mpv"/>
+
+	<!-- PPSSPP -->
+	<AppIcon name="org.ppsspp.ppsspp/org.ppsspp.ppsspp.PpssppActivity" image="ppsspp"/>
+
+	<!-- SauceNAO -->
+	<AppIcon name="com.luk.saucenao/com.luk.saucenao.MainActivity" image="saucenao"/>
+
+	<!-- TachiJ2K -->
+	<AppIcon name="eu.kanade.tachiyomi.j2k/eu.kanade.tachiyomi.ui.main.MainActivity" image="tachij2k"/>
+
+	<!-- Waistline -->
+	<AppIcon name="com.waist.line/com.waist.line.MainActivity" image="waistline"/>
+
+</Theme>

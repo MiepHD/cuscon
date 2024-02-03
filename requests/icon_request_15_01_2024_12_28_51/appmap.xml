@@ -1,0 +1,57 @@
+<appmap>
+
+	<!-- AIMP -->
+	<item class="com.aimp.player.ui.activities.main.MainActivity" name="aimp"/>
+
+	<!-- ANOTHERpass -->
+	<item class="de.jepfa.yapm.ui.credential.ListCredentialsActivity" name="anotherpass"/>
+
+	<!-- Feeder -->
+	<item class="com.nononsenseapps.feeder.ui.MainActivity" name="feeder"/>
+
+	<!-- FOSS Browser -->
+	<item class="de.baumann.browser.activity.BrowserActivity" name="foss_browser"/>
+
+	<!-- Galerie -->
+	<item class="org.fossify.gallery.activities.SplashActivity.Green" name="galerie"/>
+
+	<!-- Jugendmodus -->
+	<item class="com.agui.studentmodel.StudentModelActivity" name="jugendmodus"/>
+
+	<!-- Kamera -->
+	<item class="com.mediatek.camera.CameraLauncher" name="kamera"/>
+
+	<!-- Kontakte -->
+	<item class="com.simplemobiletools.contacts.pro.activities.SplashActivity.Green" name="kontakte"/>
+
+	<!-- NFC-Kartensimulation -->
+	<item class="com.agui.nfc.MainActivity" name="nfc_kartensimulation"/>
+
+	<!-- Notizbuch -->
+	<item class="com.mediatek.notebook.NotesList" name="notizbuch"/>
+
+	<!-- Notrufe -->
+	<item class="com.mediatek.cellbroadcastreceiver.CellBroadcastListActivity" name="notrufe"/>
+
+	<!-- Planisphäre -->
+	<item class="org.tengel.planisphere.MainActivity" name="planisphare"/>
+
+	<!-- SMS-Messenger -->
+	<item class="com.simplemobiletools.smsmessenger.activities.SplashActivity.Teal" name="sms_messenger"/>
+
+	<!-- Soundrekorder -->
+	<item class="com.android.soundrecorder.SoundRecorder" name="soundrekorder"/>
+
+	<!-- Spielemodus -->
+	<item class="com.agui.game.gamelist.MainActivity" name="spielemodus"/>
+
+	<!-- Telefon -->
+	<item class="com.simplemobiletools.dialer.activities.SplashActivity.Orange" name="telefon"/>
+
+	<!-- UKW-Radio -->
+	<item class="com.android.fmradio.FmMainActivity" name="ukw_radio"/>
+
+	<!-- Werkzeugkasten -->
+	<item class="com.agoldcomm.toolbox.MainActivity" name="werkzeugkasten"/>
+
+</appmap>

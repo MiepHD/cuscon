@@ -1,0 +1,39 @@
+<Theme version="1">
+
+	<!-- bergfex/Wetter -->
+	<AppIcon name="com.bergfex.mobile.weather/com.bergfex.mobile.activity.WelcomeActivityNew" image="bergfex_wetter"/>
+
+	<!-- Chinahandys -->
+	<AppIcon name="com.chinahandys.app/com.chinahandys.MainActivity" image="chinahandys"/>
+
+	<!-- Geizhals -->
+	<AppIcon name="at.geizhals.pv/at.geizhals.android.MainActivity" image="geizhals"/>
+
+	<!-- Itinerary -->
+	<AppIcon name="org.kde.itinerary/org.kde.itinerary.Activity" image="itinerary"/>
+
+	<!-- KTrip -->
+	<AppIcon name="org.kde.ktrip/org.kde.ktrip.Activity" image="ktrip"/>
+
+	<!-- LibreTube -->
+	<AppIcon name="com.github.libretube/com.github.libretube.Default" image="libretube"/>
+
+	<!-- SaverTuner -->
+	<AppIcon name="s1m.savertuner/com.draco.buoy.views.MainActivity" image="savertuner"/>
+
+	<!-- SCEE -->
+	<AppIcon name="de.westnordost.streetcomplete.expert/de.westnordost.streetcomplete.screens.MainActivity" image="scee"/>
+
+	<!-- Skat -->
+	<AppIcon name="com.isarinteractive.skat.android.ad/com.isarinteractive.GameActivity" image="skat"/>
+
+	<!-- SmartRide -->
+	<AppIcon name="de.hafas.android.vvt/de.hafas.main.HafasApp" image="smartride"/>
+
+	<!-- VVT Tickets -->
+	<AppIcon name="at.vtg.tickets/at.oebb.ts.SplashActivity" image="vvt_tickets"/>
+
+	<!-- willhaben -->
+	<AppIcon name="at.willhaben/at.willhaben.MainActivity" image="willhaben"/>
+
+</Theme>

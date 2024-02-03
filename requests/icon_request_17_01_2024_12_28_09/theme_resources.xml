@@ -1,0 +1,501 @@
+<Theme version="1">
+
+	<!-- 8 Ball Pool -->
+	<AppIcon name="com.miniclip.eightballpool/com.miniclip.eightballpool.EightBallPoolActivity" image="_8_ball_pool"/>
+
+	<!-- Accrescent -->
+	<AppIcon name="app.accrescent.client/app.accrescent.client.ui.MainActivity" image="accrescent"/>
+
+	<!-- Acode -->
+	<AppIcon name="com.foxdebug.acode/com.foxdebug.acode.MainActivity" image="acode"/>
+
+	<!-- AJIO -->
+	<AppIcon name="com.ril.ajio/com.ril.ajio.launch.activity.SplashScreenActivity" image="ajio"/>
+
+	<!-- Amazon -->
+	<AppIcon name="in.amazon.mShop.android.shopping/com.amazon.mShop.home.HomeActivity" image="amazon"/>
+
+	<!-- Antimine -->
+	<AppIcon name="dev.lucanlm.antimine/dev.lucasnlm.antimine.main.MainActivity" image="antimine"/>
+
+	<!-- App vault -->
+	<AppIcon name="com.mi.android.globalminusscreen/com.mi.android.globalminusscreen.tab.MainActivity" image="app_vault"/>
+
+	<!-- Ara Note -->
+	<AppIcon name="ara.note/ara.note.ui.main.MainActivity" image="ara_note"/>
+
+	<!-- Arcticons Black -->
+	<AppIcon name="com.donnnno.arcticons.light/com.donnnno.arcticons.activities.SplashActivity" image="arcticons_black"/>
+
+	<!-- Arcticons Material You -->
+	<AppIcon name="com.donnnno.arcticons.you/com.donnnno.arcticons.activities.SplashActivity" image="arcticons_material_you"/>
+
+	<!-- Audile -->
+	<AppIcon name="com.mrsep.musicrecognizer/com.mrsep.musicrecognizer.presentation.MainActivity" image="audile"/>
+
+	<!-- Auxio -->
+	<AppIcon name="org.oxycblt.auxio/org.oxycblt.auxio.MainActivity" image="auxio"/>
+
+	<!-- Aves -->
+	<AppIcon name="deckers.thibault.aves/deckers.thibault.aves.MainActivity" image="aves"/>
+
+	<!-- Battlegrounds India -->
+	<AppIcon name="com.pubg.imobile/com.epicgames.ue4.SplashActivity" image="battlegrounds_india"/>
+
+	<!-- BookMyShow -->
+	<AppIcon name="com.bt.bms/com.movie.bms.splashscreen.SplashScreenActivity" image="bookmyshow"/>
+
+	<!-- Calendar -->
+	<AppIcon name="deltazero.amarok.foss/deltazero.amarok.launcher.calendar" image="calendar"/>
+
+	<!-- Calendar -->
+	<AppIcon name="org.fossify.calendar/org.fossify.calendar.activities.SplashActivity.Green" image="calendar"/>
+
+	<!-- Call of Duty -->
+	<AppIcon name="com.activision.callofduty.shooter/com.tencent.tmgp.cod.CODMPrivatePermissionActivity" image="call_of_duty"/>
+
+	<!-- Carrom Disc Pool -->
+	<AppIcon name="com.miniclip.carrom/com.miniclip.carrom.CarromActivity" image="carrom_disc_pool"/>
+
+	<!-- Chalo -->
+	<AppIcon name="app.zophop/app.zophop.ui.activities.SplashScreen" image="chalo"/>
+
+	<!-- Cherrygram -->
+	<AppIcon name="uz.unnarsx.cherrygram/uz.unnarsx.cherrygram.CG_Icon_Cherry_NY" image="cherrygram"/>
+
+	<!-- Circuit Trainer -->
+	<AppIcon name="org.secuso.privacyfriendlycircuittraining/org.secuso.privacyfriendlycircuittraining.activities.SplashActivity" image="circuit_trainer"/>
+
+	<!-- Classroom -->
+	<AppIcon name="com.google.android.apps.classroom/com.google.android.apps.classroom.classroomflutter.MainActivity" image="classroom"/>
+
+	<!-- Clima -->
+	<AppIcon name="co.prestosole.clima/io.flutter.embedding.android.FlutterActivity" image="clima"/>
+
+	<!-- Clock -->
+	<AppIcon name="com.android.deskclock/com.android.deskclock.DeskClockTabActivity" image="clock"/>
+
+	<!-- Coffee -->
+	<AppIcon name="com.github.muellerma.coffee/com.github.muellerma.coffee.activities.MainActivity" image="coffee"/>
+
+	<!-- Connect You -->
+	<AppIcon name="com.bnyro.contacts/com.bnyro.contacts.ui.activities.MainActivity" image="connect_you"/>
+
+	<!-- Cromite -->
+	<AppIcon name="org.cromite.cromite/com.google.android.apps.chrome.Main" image="cromite"/>
+
+	<!-- CuteCalc -->
+	<AppIcon name="com.sosauce.cutecalc/com.sosauce.cutecalc.MainActivity" image="cutecalc"/>
+
+	<!-- Deku SMS -->
+	<AppIcon name="com.afkanerd.deku/com.afkanerd.deku.DefaultSMS.DefaultCheckActivity" image="deku_sms"/>
+
+	<!-- DetoxDroid -->
+	<AppIcon name="com.flx_apps.digitaldetox/com.flx_apps.digitaldetox.MainActivity" image="detoxdroid"/>
+
+	<!-- Device Info HW -->
+	<AppIcon name="ru.andr7e.deviceinfohw/ru.andr7e.deviceinfohw.MainActivity" image="device_info_hw"/>
+
+	<!-- Dicio -->
+	<AppIcon name="org.stypox.dicio/org.stypox.dicio.MainActivity" image="dicio"/>
+
+	<!-- Digital Wellbeing -->
+	<AppIcon name="com.google.android.apps.wellbeing/com.google.android.apps.wellbeing.settings.LauncherActivity" image="digital_wellbeing"/>
+
+	<!-- Doable -->
+	<AppIcon name="at.flobii.doable/at.flobii.doable.MainActivity" image="doable"/>
+
+	<!-- ECWolf -->
+	<AppIcon name="com.beloko.wolf3d/com.beloko.wolf3d.EntryActivity" image="ecwolf"/>
+
+	<!-- eFootball™ -->
+	<AppIcon name="jp.konami.pesam/com.epicgames.ue4.SplashActivity" image="efootball™"/>
+
+	<!-- Energize -->
+	<AppIcon name="com.flasskamp.energize/com.flasskamp.energize.MainActivity" image="energize"/>
+
+	<!-- exteraGram -->
+	<AppIcon name="com.exteragram.messenger/com.exteragram.messenger.DefaultIcon" image="exteragram"/>
+
+	<!-- Feeder -->
+	<AppIcon name="com.nononsenseapps.feeder/com.nononsenseapps.feeder.ui.MainActivity" image="feeder"/>
+
+	<!-- FFShare -->
+	<AppIcon name="com.caydey.ffshare/com.caydey.ffshare.MainActivity" image="ffshare"/>
+
+	<!-- File Manager -->
+	<AppIcon name="org.fossify.filemanager/org.fossify.filemanager.activities.SplashActivity.Green" image="file_manager"/>
+
+	<!-- Five Prayers -->
+	<AppIcon name="com.hbouzidi.fiveprayers/com.hbouzidi.fiveprayers.ui.DefaultActivity" image="five_prayers"/>
+
+	<!-- Fiverr -->
+	<AppIcon name="com.fiverr.fiverr/com.fiverr.fiverr.activityandfragments.entrypoints.FVREntryPoint" image="fiverr"/>
+
+	<!-- Flixclusive -->
+	<AppIcon name="com.flixclusive/com.flixclusive.presentation.mobile.main.MainActivity" image="flixclusive"/>
+
+	<!-- Floating Timer -->
+	<AppIcon name="xyz.tberghuis.floatingtimer/xyz.tberghuis.floatingtimer.MainActivity" image="floating_timer"/>
+
+	<!-- FluffyChat -->
+	<AppIcon name="chat.fluffy.fluffychat/chat.fluffy.fluffychat.MainActivity" image="fluffychat"/>
+
+	<!-- FM Radio -->
+	<AppIcon name="com.miui.fm/com.miui.fmradio.FmRadioActivity" image="fm_radio"/>
+
+	<!-- Font Gallery -->
+	<AppIcon name="com.adeeteya.font_gallery/com.adeeteya.font_gallery.MainActivity" image="font_gallery"/>
+
+	<!-- Free TV -->
+	<AppIcon name="com.phstudio.freetv/com.phstudio.freetv.MainActivity" image="free_tv"/>
+
+	<!-- Fruity Game -->
+	<AppIcon name="page.codeberg.marshreaper.fruitygame/com.godot.game.GodotApp" image="fruity_game"/>
+
+	<!-- Gallery -->
+	<AppIcon name="com.miui.gallery/com.miui.gallery.activity.HomePageActivity" image="gallery"/>
+
+	<!-- Gallery -->
+	<AppIcon name="com.alensw.PicFolder/com.alensw.PicFolder.GalleryActivity" image="gallery"/>
+
+	<!-- Gallery -->
+	<AppIcon name="com.dot.gallery/com.dot.gallery.feature_node.presentation.main.MainActivity" image="gallery"/>
+
+	<!-- Gallery -->
+	<AppIcon name="org.fossify.gallery/org.fossify.gallery.activities.SplashActivity.Green" image="gallery"/>
+
+	<!-- Git+ Coach -->
+	<AppIcon name="com.vishal2376.gitcoach/com.vishal2376.gitcoach.SplashScreen" image="git_coach"/>
+
+	<!-- Grayjay -->
+	<AppIcon name="com.futo.platformplayer/com.futo.platformplayer.activities.MainActivity" image="grayjay"/>
+
+	<!-- Green Pass -->
+	<AppIcon name="com.michaeltroger.gruenerpass/com.michaeltroger.gruenerpass.MainActivity" image="green_pass"/>
+
+	<!-- GuessIron -->
+	<AppIcon name="de.indie42.guessiron/de.indie42.guessiron.MainActivity" image="guessiron"/>
+
+	<!-- GymRoutines -->
+	<AppIcon name="com.noahjutz.gymroutines/com.noahjutz.gymroutines.ui.MainActivity" image="gymroutines"/>
+
+	<!-- Hail -->
+	<AppIcon name="com.aistra.hail/com.aistra.hail.ui.main.MainActivity" image="hail"/>
+
+	<!-- Harmony Music -->
+	<AppIcon name="com.anandnet.harmonymusic/com.ryanheise.audioservice.AudioServiceActivity" image="harmony_music"/>
+
+	<!-- Iconeration -->
+	<AppIcon name="com.kaanelloed.iconeration/com.kaanelloed.iconeration.MainActivity" image="iconeration"/>
+
+	<!-- inDrive -->
+	<AppIcon name="sinet.startup.inDriver/sinet.startup.inDriver.ui.splash.SplashActivity" image="indrive"/>
+
+	<!-- InnerTune Debug -->
+	<AppIcon name="com.zionhuang.music.debug/com.zionhuang.music.MainActivity" image="innertune_debug"/>
+
+	<!-- InstallerX -->
+	<AppIcon name="com.rosan.installer.x/com.rosan.installer.ui.activity.SettingsActivity" image="installerx"/>
+
+	<!-- Jerboa -->
+	<AppIcon name="com.jerboa/com.jerboa.MainActivity" image="jerboa"/>
+
+	<!-- JustChess -->
+	<AppIcon name="com.alaskalinuxuser.justchess/com.alaskalinuxuser.justchess.IntroActivity" image="justchess"/>
+
+	<!-- JustNotes -->
+	<AppIcon name="com.jjewuz.justnotes/com.jjewuz.justnotes.MainActivity" image="justnotes"/>
+
+	<!-- JustWeather -->
+	<AppIcon name="com.jjewuz.justweather/com.jjewuz.justweather.MainActivity" image="justweather"/>
+
+	<!-- KeyPass -->
+	<AppIcon name="com.yogeshpaliyal.keypass/com.yogeshpaliyal.keypass.ui.nav.DashboardComposeActivity" image="keypass"/>
+
+	<!-- Koler -->
+	<AppIcon name="com.chooloo.www.koler/com.chooloo.www.koler.ui.main.MainActivity" image="koler"/>
+
+	<!-- Kotak Bank -->
+	<AppIcon name="com.msf.kbank.mobile/com.msf.kbank.mobile.launcher_d5e15a74df3d33e17b26d16a879646bfef34a86881463b2b8442d76af1f6f1f4" image="kotak_bank"/>
+
+	<!-- Kvaesitso -->
+	<AppIcon name="de.mm20.launcher2.release/de.mm20.launcher2.ui.launcher.LauncherActivity" image="kvaesitso"/>
+
+	<!-- Lato -->
+	<AppIcon name="ardash.lato/ardash.lato.AndroidLauncher" image="lato"/>
+
+	<!-- Lawnicons -->
+	<AppIcon name="app.lawnchair.lawnicons/app.lawnchair.lawnicons.MainActivity" image="lawnicons"/>
+
+	<!-- Lemmy Redirect -->
+	<AppIcon name="dev.zwander.lemmyredirect/dev.zwander.lemmyredirect.MainActivity" image="lemmy_redirect"/>
+
+	<!-- LibrePass -->
+	<AppIcon name="dev.medzik.librepass.android/dev.medzik.librepass.android.MainActivity" image="librepass"/>
+
+	<!-- LinkSheet -->
+	<AppIcon name="fe.linksheet/fe.linksheet.activity.MainActivity" image="linksheet"/>
+
+	<!-- Linux Command Library -->
+	<AppIcon name="com.inspiredandroid.linuxcommandbibliotheca/com.inspiredandroid.linuxcommandbibliotheca.MainActivity" image="linux_command_library"/>
+
+	<!-- LSPatch -->
+	<AppIcon name="org.lsposed.lspatch/org.lsposed.lspatch.ui.activity.MainActivity" image="lspatch"/>
+
+	<!-- Lunar Launcher -->
+	<AppIcon name="rasel.lunar.launcher/rasel.lunar.launcher.LauncherActivity" image="lunar_launcher"/>
+
+	<!-- Mars: Mars -->
+	<AppIcon name="com.pomelogames.MarsGame/com.unity3d.player.UnityPlayerActivity" image="mars_mars"/>
+
+	<!-- Massive -->
+	<AppIcon name="com.massive/com.massive.MainActivity" image="massive"/>
+
+	<!-- Mastodon -->
+	<AppIcon name="org.joinmastodon.android/org.joinmastodon.android.MainActivity" image="mastodon"/>
+
+	<!-- Mastodon Redirect -->
+	<AppIcon name="dev.zwander.mastodonredirect/dev.zwander.mastodonredirect.MainActivity" image="mastodon_redirect"/>
+
+	<!-- Meesho -->
+	<AppIcon name="com.meesho.supply/com.meesho.supply.main.MainActivity" image="meesho"/>
+
+	<!-- Messaging -->
+	<AppIcon name="com.android.mms/com.android.mms.ui.MmsTabActivity" image="messaging"/>
+
+	<!-- MetaMask -->
+	<AppIcon name="io.metamask/io.metamask.MainActivity" image="metamask"/>
+
+	<!-- Meteor -->
+	<AppIcon name="meteor.test.and.grade.internet.connection.speed/meteor.test.and.grade.internet.connection.speed.activities.WelcomeActivity" image="meteor"/>
+
+	<!-- Mi Remote -->
+	<AppIcon name="com.duokan.phone.remotecontroller/com.xiaomi.mitv.phone.remotecontroller.HoriWidgetMainActivityV2" image="mi_remote"/>
+
+	<!-- MicroG -->
+	<AppIcon name="com.mgoogle.android.gms/org.microg.gms.ui.MainSettingsActivity" image="microg"/>
+
+	<!-- MinCal Widget -->
+	<AppIcon name="cat.mvmike.minimalcalendarwidget/cat.mvmike.minimalcalendarwidget.infrastructure.activity.ConfigurationActivity" image="mincal_widget"/>
+
+	<!-- mIndicator -->
+	<AppIcon name="com.mobond.mindicator/com.mobond.mindicator.SplashUI" image="mindicator"/>
+
+	<!-- MiX -->
+	<AppIcon name="com.mixplorer/com.mixplorer.activities.BrowseActivity" image="mix"/>
+
+	<!-- Mixplorer Theme Creator -->
+	<AppIcon name="de.dertyp7214.mixplorerthemecreator/de.dertyp7214.mixplorerthemecreator.MainActivity" image="mixplorer_theme_creator"/>
+
+	<!-- Mobilism -->
+	<AppIcon name="demigos.com.mobilism/demigos.com.mobilism.UI.SplashActivity" image="mobilism"/>
+
+	<!-- Moshidon Nightly -->
+	<AppIcon name="org.joinmastodon.android.moshinda.nightly/org.joinmastodon.android.MainActivity" image="moshidon_nightly"/>
+
+	<!-- mucke -->
+	<AppIcon name="rocks.mucke.github/com.ryanheise.audioservice.AudioServiceActivity" image="mucke"/>
+
+	<!-- Musify -->
+	<AppIcon name="com.gokadzev.musify/com.ryanheise.audioservice.AudioServiceActivity" image="musify"/>
+
+	<!-- My Brain -->
+	<AppIcon name="com.mhss.app.mybrain/com.mhss.app.mybrain.presentation.main.MainActivity" image="my_brain"/>
+
+	<!-- Myntra -->
+	<AppIcon name="com.myntra.android/com.myntra.android.activities.react.ReactActivity" image="myntra"/>
+
+	<!-- Namida -->
+	<AppIcon name="com.msob7y.namida/com.msob7y.namida.NamidaMainActivity" image="namida"/>
+
+	<!-- Neo Launcher -->
+	<AppIcon name="com.saggitt.omega.alpha/com.saggitt.omega.NeoLauncher" image="neo_launcher"/>
+
+	<!-- Neo Store -->
+	<AppIcon name="com.machiav3lli.fdroid/com.machiav3lli.fdroid.NeoActivity" image="neo_store"/>
+
+	<!-- Neo Store-beta -->
+	<AppIcon name="com.machiav3lli.fdroid.neo/com.machiav3lli.fdroid.NeoActivity" image="neo_store_beta"/>
+
+	<!-- Night screen -->
+	<AppIcon name="com.arrowsapp.nightscreen/com.arrowsapp.nightscreen.ui.main.MainActivity" image="night_screen"/>
+
+	<!-- NoFasel -->
+	<AppIcon name="com.n00nedev.nofasel/com.n00nedev.nofasel.MainActivity" image="nofasel"/>
+
+	<!-- Nothing X -->
+	<AppIcon name="com.nothing.smartcenter/com.nothing.home.activity.WelcomeActivity" image="nothing_x"/>
+
+	<!-- Noto -->
+	<AppIcon name="com.noto/com.noto.app.AppActivity" image="noto"/>
+
+	<!-- OnionShare (beta) -->
+	<AppIcon name="org.onionshare.android/org.onionshare.android.ui.MainActivity" image="onionshare_beta_"/>
+
+	<!-- Open Stable Diffusion -->
+	<AppIcon name="com.openstablediffusion/com.openstablediffusion.MainActivity" image="open_stable_diffusion"/>
+
+	<!-- OpenBoard -->
+	<AppIcon name="org.dslul.openboard.inputmethod.latin/org.dslul.openboard.inputmethod.latin.setup.SetupActivity" image="openboard"/>
+
+	<!-- OpenSea -->
+	<AppIcon name="io.opensea/io.opensea.context.MainActivity" image="opensea"/>
+
+	<!-- Orgzly Revived -->
+	<AppIcon name="com.orgzlyrevived/com.orgzly.android.ui.LauncherActivity" image="orgzly_revived"/>
+
+	<!-- osmin -->
+	<AppIcon name="io.github.janbar.osmin/org.qtproject.qt5.android.bindings.QtActivity" image="osmin"/>
+
+	<!-- OSS Document Scanner -->
+	<AppIcon name="com.akylas.documentscanner/com.akylas.documentscanner.MainActivity" image="oss_document_scanner"/>
+
+	<!-- Peristyle -->
+	<AppIcon name="app.simple.peri/app.simple.peri.activities.MainActivity" image="peristyle"/>
+
+	<!-- Perplexity -->
+	<AppIcon name="ai.perplexity.app.android/ai.perplexity.app.android.ui.main.MainActivity" image="perplexity"/>
+
+	<!-- Photon -->
+	<AppIcon name="dev.abhi.photon/dev.abhi.photon.MainActivity" image="photon"/>
+
+	<!-- pikatorrent -->
+	<AppIcon name="com.gray.pikatorrent/com.gray.pikatorrent.MainActivity" image="pikatorrent"/>
+
+	<!-- PocketPlan -->
+	<AppIcon name="com.pocket_plan.j7_003/com.pocket_plan.j7_003.MainActivity" image="pocketplan"/>
+
+	<!-- Pulse Music -->
+	<AppIcon name="com.hardcodecoder.pulse/com.hardcodecoder.pulse.activities.ui.SplashActivity" image="pulse_music"/>
+
+	<!-- Quacker -->
+	<AppIcon name="com.thehcj.quacker/com.jonjomckay.fritter.MainActivity" image="quacker"/>
+
+	<!-- Quote Unquote -->
+	<AppIcon name="com.github.jameshnsears.quoteunquote/com.github.jameshnsears.quoteunquote.QuoteUnquoteInstructions" image="quote_unquote"/>
+
+	<!-- Quran -->
+	<AppIcon name="com.quran.labs.androidquran/com.quran.labs.androidquran.QuranDataActivity" image="quran"/>
+
+	<!-- QuranApp -->
+	<AppIcon name="com.quranapp.android/com.quranapp.android.activities.MainActivity" image="quranapp"/>
+
+	<!-- QWeather -->
+	<AppIcon name="com.henryhiles.qweather.debug/com.henryhiles.qweather.presentation.QWeatherActivity" image="qweather"/>
+
+	<!-- Read You -->
+	<AppIcon name="me.ash.reader/me.ash.reader.infrastructure.android.MainActivity" image="read_you"/>
+
+	<!-- Repainter -->
+	<AppIcon name="dev.kdrag0n.dyntheme/dev.kdrag0n.dyntheme.ui.main.MainActivity" image="repainter"/>
+
+	<!-- ReVanced Manager Debug -->
+	<AppIcon name="app.revanced.manager.debug/app.revanced.manager.MainActivity" image="revanced_manager_debug"/>
+
+	<!-- Rewards -->
+	<AppIcon name="com.google.android.apps.paidtasks/com.google.android.apps.paidtasks.activity.LaunchActivity" image="rewards"/>
+
+	<!-- Ricochlime -->
+	<AppIcon name="com.adilhanney.ricochlime/com.adilhanney.ricochlime.MainActivity" image="ricochlime"/>
+
+	<!-- Ringpod -->
+	<AppIcon name="com.herman.ringpod/com.herman.ringpod.MusicPicker" image="ringpod"/>
+
+	<!-- Safe Space -->
+	<AppIcon name="org.privacymatters.safespace/org.privacymatters.safespace.AuthActivity" image="safe_space"/>
+
+	<!-- Save Locally -->
+	<AppIcon name="com.mateusrodcosta.apps.share2storage/com.mateusrodcosta.apps.share2storage.MainActivity" image="save_locally"/>
+
+	<!-- Sayboard -->
+	<AppIcon name="com.elishaazaria.sayboard/com.elishaazaria.sayboard.SettingsActivity" image="sayboard"/>
+
+	<!-- SD Maid SE -->
+	<AppIcon name="eu.darken.sdmse/eu.darken.sdmse.main.ui.MainActivity" image="sd_maid_se"/>
+
+	<!-- Send Files To TV -->
+	<AppIcon name="com.yablio.sendfilestotv/com.yablio.sendfilestotv.ui.MainActivity" image="send_files_to_tv"/>
+
+	<!-- Services & feedback -->
+	<AppIcon name="com.miui.miservice/com.miui.miservice.main.MainActivity" image="services_and_feedback"/>
+
+	<!-- SF IV CE -->
+	<AppIcon name="jp.co.capcom.sf4ce/com.fiveplay.mod.RMS.Recovery" image="sf_iv_ce"/>
+
+	<!-- Shizuku -->
+	<AppIcon name="moe.shizuku.privileged.api/moe.shizuku.manager.MainActivity" image="shizuku"/>
+
+	<!-- Silicone Calculator -->
+	<AppIcon name="ir.erfansn.siliconecalculator/ir.erfansn.siliconecalculator.SiliconeCalculatorActivity" image="silicone_calculator"/>
+
+	<!-- Simple Keyboard -->
+	<AppIcon name="rkr.simplekeyboard.inputmethod/rkr.simplekeyboard.inputmethod.latin.settings.SettingsActivity" image="simple_keyboard"/>
+
+	<!-- SongTube -->
+	<AppIcon name="com.artxdev.songtube/com.ryanheise.audioservice.AudioServiceActivity" image="songtube"/>
+
+	<!-- SpMp -->
+	<AppIcon name="com.toasterofbread.spmp/com.toasterofbread.spmp.MainActivity" image="spmp"/>
+
+	<!-- Stremio -->
+	<AppIcon name="com.stremio.one/com.stremio.MainActivity" image="stremio"/>
+
+	<!-- Swiggy -->
+	<AppIcon name="in.swiggy.android/in.swiggy.android.activities.HomeActivity" image="swiggy"/>
+
+	<!-- Symphony -->
+	<AppIcon name="io.github.zyrouge.symphony/io.github.zyrouge.symphony.MainActivity" image="symphony"/>
+
+	<!-- Syncthing -->
+	<AppIcon name="com.nutomic.syncthingandroid/com.nutomic.syncthingandroid.activities.FirstStartActivity" image="syncthing"/>
+
+	<!-- Themes -->
+	<AppIcon name="com.android.thememanager/com.android.thememanager.ThemeResourceTabActivity" image="themes"/>
+
+	<!-- Thorium -->
+	<AppIcon name="org.chromium.thorium/com.google.android.apps.chrome.Main" image="thorium"/>
+
+	<!-- Thunder -->
+	<AppIcon name="com.hjiangsu.thunder/com.hjiangsu.thunder.MainActivity" image="thunder"/>
+
+	<!-- TimePlanner -->
+	<AppIcon name="ru.aleshin.timeplanner/ru.aleshin.timeplanner.presentation.ui.main.MainActivity" image="timeplanner"/>
+
+	<!-- Todopad -->
+	<AppIcon name="com.example.flutter_riverpod_todo_app/com.example.flutter_riverpod_todo_app.MainActivity" image="todopad"/>
+
+	<!-- Torrent Client -->
+	<AppIcon name="com.github.axet.torrentclient/com.github.axet.torrentclient.activities.MainActivity" image="torrent_client"/>
+
+	<!-- Voyager -->
+	<AppIcon name="app.vger.voyager/app.vger.voyager.planetary" image="voyager"/>
+
+	<!-- WallFlow Plus -->
+	<AppIcon name="com.ammar.wallflow.plus/com.ammar.wallflow.activities.main.MainActivity" image="wallflow_plus"/>
+
+	<!-- WallMan -->
+	<AppIcon name="com.colorata.wallman/com.colorata.wallman.shared.MainActivity" image="wallman"/>
+
+	<!-- Walltastik -->
+	<AppIcon name="air.enter.walltastik/air.enter.walltastik.MainActivity" image="walltastik"/>
+
+	<!-- Weather -->
+	<AppIcon name="org.breezyweather/org.breezyweather.main.MainActivity" image="weather"/>
+
+	<!-- Winlator -->
+	<AppIcon name="com.winlator/com.winlator.MainActivity" image="winlator"/>
+
+	<!-- yetCalc -->
+	<AppIcon name="yetzio.yetcalc/yetzio.yetcalc.MainActivity" image="yetcalc"/>
+
+	<!-- Yulu -->
+	<AppIcon name="app.yulu.bike/app.yulu.bike.ui.launcherIcon.SplashActivityDefault" image="yulu"/>
+
+	<!-- Zomato -->
+	<AppIcon name="com.application.zomato/com.application.zomato.activities.Splash" image="zomato"/>
+
+	<!-- نور الهدى -->
+	<AppIcon name="com.mirfatif.noorulhuda/com.mirfatif.noorulhuda.quran.MainActivity" image="نور_الهدى"/>
+
+</Theme>

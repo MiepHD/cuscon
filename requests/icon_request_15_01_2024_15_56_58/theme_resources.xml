@@ -1,0 +1,393 @@
+<Theme version="1">
+
+	<!-- AliExpress -->
+	<AppIcon name="com.alibaba.aliexpresshd/com.aliexpress.app.FirstActivity" image="aliexpress"/>
+
+	<!-- Altimeter -->
+	<AppIcon name="fr.avianey.altimeter/fr.avianey.altimeter.AltimeterActivity" image="altimeter"/>
+
+	<!-- App vault -->
+	<AppIcon name="com.mi.globalminusscreen/com.mi.globalminusscreen.MainActivity" image="app_vault"/>
+
+	<!-- Archmage -->
+	<AppIcon name="ru.freecode.lite/ru.freecode.archmage.android.activity.menu.MainMenuActivity" image="archmage"/>
+
+	<!-- Aurora Droid -->
+	<AppIcon name="com.aurora.adroid/com.aurora.adroid.ui.generic.activity.SplashActivity" image="aurora_droid"/>
+
+	<!-- Beam -->
+	<AppIcon name="com.escooterapp/com.escooterapp.MainActivity" image="beam"/>
+
+	<!-- BetaTV -->
+	<AppIcon name="cz.betatv.mobile/cz.sledovanitv.android.activity.EntryActivity" image="betatv"/>
+
+	<!-- Bez Holdingu -->
+	<AppIcon name="cz.midnightcode.bezholdingu/cz.midnightcode.bezholdingu.MainActivity" image="bez_holdingu"/>
+
+	<!-- Binance -->
+	<AppIcon name="com.binance.dev/com.eaas.launcher.activities.main.MainActivity" image="binance"/>
+
+	<!-- BirdNET -->
+	<AppIcon name="de.tu_chemnitz.mi.kahst.birdnet/de.tu_chemnitz.mi.kahst.birdnet.Activity_SplashScreen" image="birdnet"/>
+
+	<!-- Bolt -->
+	<AppIcon name="ee.mtakso.client/ee.mtakso.client.activity.SplashHomeActivity" image="bolt"/>
+
+	<!-- Bolt Food -->
+	<AppIcon name="com.bolt.deliveryclient/com.boltdeliveryclientapp.LaunchActivity" image="bolt_food"/>
+
+	<!-- Booxy -->
+	<AppIcon name="com.booxy.app/com.booxy.activities.SplashActivity" image="booxy"/>
+
+	<!-- BTC.com Pool -->
+	<AppIcon name="com.btcpool.app.android/com.btcpool.app.feature.SplashActivity" image="btccom_pool"/>
+
+	<!-- Calculator -->
+	<AppIcon name="com.miui.calculator/com.miui.calculator.cal.CalculatorActivity" image="calculator"/>
+
+	<!-- Camera -->
+	<AppIcon name="com.agc.gcam90/com.android.camera.CameraLauncher" image="camera"/>
+
+	<!-- Camera -->
+	<AppIcon name="com.agc.gcam91/com.android.camera.CameraLauncher" image="camera"/>
+
+	<!-- Camera -->
+	<AppIcon name="com.agc.gcam92/com.android.camera.CameraLauncher" image="camera"/>
+
+	<!-- Camera -->
+	<AppIcon name="com.google.android.GoogleCameraEng/com.android.camera.CameraLauncher" image="android_camera"/>
+
+	<!-- camera -->
+	<AppIcon name="com.google.android.apps.cameralite/com.google.android.apps.cameralite.capture.CaptureActivity" image="android_camera"/>
+
+	<!-- Celsius -->
+	<AppIcon name="network.celsius.wallet/network.celsius.wallet.SplashActivity" image="celsius"/>
+
+	<!-- ChatGPT -->
+	<AppIcon name="com.openai.chatgpt/com.openai.chatgpt.MainActivity" image="chatgpt"/>
+
+	<!-- ČHMÚ -->
+	<AppIcon name="cz.oksystem.chmu.basic/cz.oksystem.chmu.basic.activity.DrawerActivity" image="chmu"/>
+
+	<!-- ČHMÚ Plus -->
+	<AppIcon name="cz.oksystem.chmu.expert/cz.oksystem.chmu.expert.activity.DrawerActivity" image="chmu_plus"/>
+
+	<!-- Clock -->
+	<AppIcon name="com.android.deskclock/com.android.deskclock.DeskClockTabActivity" image="clock"/>
+
+	<!-- Cofi -->
+	<AppIcon name="com.omelan.cofi/com.omelan.cofi.MainActivity" image="cofi"/>
+
+	<!-- Coinlist -->
+	<AppIcon name="com.coinlist.trade/com.coinlist.trade.Launcher" image="coinlist"/>
+
+	<!-- Compass -->
+	<AppIcon name="com.miui.compass/com.miui.compass.CompassActivity" image="compass"/>
+
+	<!-- Confluence -->
+	<AppIcon name="com.atlassian.android.confluence.core/com.atlassian.android.confluence.core.ui.launcher.LauncherActivity" image="confluence"/>
+
+	<!-- Crypto Helper -->
+	<AppIcon name="com.dalton.cryptohelper/com.dalton.cryptohelper.MainActivity" image="crypto_helper"/>
+
+	<!-- Device Info HW -->
+	<AppIcon name="ru.andr7e.deviceinfohw/ru.andr7e.deviceinfohw.MainActivity" image="device_info_hw"/>
+
+	<!-- Discord -->
+	<AppIcon name="com.discord/com.discord.main.MainDefault" image="discord"/>
+
+	<!-- Downloads -->
+	<AppIcon name="com.android.providers.downloads.ui/com.android.providers.downloads.ui.DownloadList" image="downloads"/>
+
+	<!-- Drinkable -->
+	<AppIcon name="com.moimob.drinkable/com.moimob.drinkable.MainActivity" image="drinkable"/>
+
+	<!-- ECG Tile Link -->
+	<AppIcon name="com.samsung.android.shealthmonitor/com.samsung.android.shealthmonitor.MainActivity" image="ecg_tile_link"/>
+
+	<!-- Electric Circuit Studio -->
+	<AppIcon name="com.ecstudiosystems.electriccircuitstudio/com.ecstudiosystems.electriccircuitstudio.MainActivity" image="electric_circuit_studio"/>
+
+	<!-- FKM -->
+	<AppIcon name="com.franco.kernel/com.franco.kernel.activities.SplashActivity" image="fkm"/>
+
+	<!-- Flud -->
+	<AppIcon name="com.delphicoder.flud/com.delphicoder.flud.MainActivity" image="flud"/>
+
+	<!-- FM Radio -->
+	<AppIcon name="com.miui.fm/com.miui.fmradio.FmRadioActivity" image="fm_radio"/>
+
+	<!-- foodora CZ -->
+	<AppIcon name="cz.ulikeit.damejidlo/de.foodora.android.ui.launcher.LauncherActivity" image="foodora_cz"/>
+
+	<!-- freeCodeCamp -->
+	<AppIcon name="org.freecodecamp/com.ryanheise.audioservice.AudioServiceActivity" image="freecodecamp"/>
+
+	<!-- Gallery -->
+	<AppIcon name="com.miui.gallery/com.miui.gallery.activity.HomePageActivity" image="gallery"/>
+
+	<!-- Game Center -->
+	<AppIcon name="com.xiaomi.glgm/com.xiaomi.glgm.home.ui.SplashActivity" image="game_center"/>
+
+	<!-- Google Cloud -->
+	<AppIcon name="com.google.android.apps.cloudconsole/com.google.android.apps.cloudconsole.common.MainContainerActivity" image="google_cloud"/>
+
+	<!-- GoPro Quik -->
+	<AppIcon name="com.gopro.smarty/com.gopro.smarty.activity.HomeActivity" image="gopro_quik"/>
+
+	<!-- Grasshopper -->
+	<AppIcon name="com.area120.grasshopper/com.google.engedu.grasshopper.flutter.MainActivity" image="grasshopper"/>
+
+	<!-- Hacker's Keyboard -->
+	<AppIcon name="org.pocketworkstation.pckeyboard/org.pocketworkstation.pckeyboard.Main" image="hackers_keyboard"/>
+
+	<!-- HBO MAX -->
+	<AppIcon name="com.hbo.hbonow/com.hbo.hbonow.LaunchActivity" image="hbo_max"/>
+
+	<!-- HiByMusic -->
+	<AppIcon name="com.hiby.music/com.hiby.music.Activity.StartActivity" image="hibymusic"/>
+
+	<!-- Hlasy ptáků -->
+	<AppIcon name="cz.kle.hlasyptaku/cz.kle.hlasyptaku.HlasyPtaku" image="hlasy_ptaku"/>
+
+	<!-- Home Assistant -->
+	<AppIcon name="io.homeassistant.companion.android/io.homeassistant.companion.android.launch.LaunchActivity" image="home_assistant"/>
+
+	<!-- IDOS -->
+	<AppIcon name="cz.mafra.jizdnirady/cz.mafra.jizdnirady.activity.SplashActivity" image="idos"/>
+
+	<!-- Jira -->
+	<AppIcon name="com.atlassian.android.jira.core/com.atlassian.android.jira.core.app.LauncherActivity" image="jira"/>
+
+	<!-- Kaufland -->
+	<AppIcon name="com.kaufland.Kaufland/com.kaufland.kaufland.splash.SplashActivity" image="kaufland"/>
+
+	<!-- KB Klíč -->
+	<AppIcon name="cz.kb.paatproduction/cz.kb.paat.ui.MainActivity" image="kb klic"/>
+
+	<!-- KFC CZ -->
+	<AppIcon name="com.kfc_cs/com.kfc_polska.ui.main.MainActivity" image="kfc_cz"/>
+
+	<!-- Kindle -->
+	<AppIcon name="com.amazon.kindle/com.amazon.kindle.UpgradePage" image="kindle"/>
+
+	<!-- Landfall -->
+	<AppIcon name="com.alexanderwinn.landfall/com.tiltingpoint.android.TiltingPointUnityActivity" image="landfall"/>
+
+	<!-- Learn Rust Offline -->
+	<AppIcon name="info.camposha.learnrust/info.camposha.learnrust.view.activities.IntroActivity" image="learn_rust_offline"/>
+
+	<!-- Léčivé byliny -->
+	<AppIcon name="cz.simopt.get2knowlecivebyliny/com.google.firebase.MessagingUnityPlayerActivity" image="lecive_byliny"/>
+
+	<!-- Linux Command Library -->
+	<AppIcon name="com.inspiredandroid.linuxcommandbibliotheca/com.inspiredandroid.linuxcommandbibliotheca.MainActivity" image="linux_command_library"/>
+
+	<!-- Mein dm -->
+	<AppIcon name="de.dm.meindm.android/de.dm.meindm.android.StartActivity" image="mein_dm"/>
+
+	<!-- Meteor -->
+	<AppIcon name="org.androworks.meteor/org.androworks.meteor.Meteor" image="meteor"/>
+
+	<!-- Mi Remote -->
+	<AppIcon name="com.duokan.phone.remotecontroller/com.xiaomi.mitv.phone.remotecontroller.HoriWidgetMainActivityV2" image="mi_remote"/>
+
+	<!-- Mi Video -->
+	<AppIcon name="com.miui.videoplayer/com.miui.video.global.app.LauncherActivity" image="mi_video"/>
+
+	<!-- MIFARE Classic Tool -->
+	<AppIcon name="de.syss.MifareClassicTool/de.syss.MifareClassicTool.Activities.MainMenu" image="mifare_classic_tool"/>
+
+	<!-- Minesweeper Pro -->
+	<AppIcon name="mindware.minegamespro/mindware.minegamespro.main" image="minesweeper_pro"/>
+
+	<!-- Mingo -->
+	<AppIcon name="com.anticor.mingo/com.anticor.mingo.activities.SplashActivity" image="mingo"/>
+
+	<!-- Minty Pro -->
+	<AppIcon name="pl.patrykgoworowski.mintypro/pl.patrykgoworowski.mintypro.MainActivity" image="minty_pro"/>
+
+	<!-- Mobilní banka -->
+	<AppIcon name="eu.inmite.prj.kb.mobilbank/cz.kb.mba.individual.IndividualMainActivity" image="mobilni_banka"/>
+
+	<!-- Mobilní klíč eGovernmentu -->
+	<AppIcon name="cz.mojedatovaschranka.mobilniklic/cz.mojedatovaschranka.mobilniklic.activities.SecurityVerificationActivity" image="mobilni_klic_egovernmentu"/>
+
+	<!-- MQTT Dash -->
+	<AppIcon name="net.routix.mqttdash/net.routix.mqttdash.BrokersListActivity" image="mqtt_dash"/>
+
+	<!-- Můj Globus -->
+	<AppIcon name="com.pragonauts.globus/com.pragonauts.globus.screens.splash.SplashActivity" image="muj_globus"/>
+
+	<!-- mujRozhlas -->
+	<AppIcon name="cz.rozhlas.mujrozhlas/cz.rozhlas.mujrozhlas.MainActivity" image="mujrozhlas"/>
+
+	<!-- Music -->
+	<AppIcon name="com.miui.player/com.miui.player.ui.MusicBrowserActivity" image="music"/>
+
+	<!-- News -->
+	<AppIcon name="com.google.android.apps.magazines/com.google.apps.dots.android.app.activity.CurrentsStartActivity" image="news"/>
+
+	<!-- Notes -->
+	<AppIcon name="com.miui.notes/com.miui.notes.ui.NotesListActivity" image="notes"/>
+
+	<!-- OKX -->
+	<AppIcon name="com.okinc.okex.gp/com.okinc.core.ok_app.homepage.ui.welcome.WelcomeActivity" image="okx"/>
+
+	<!-- Open Stable Diffusion -->
+	<AppIcon name="com.openstablediffusion/com.openstablediffusion.MainActivity" image="open_stable_diffusion"/>
+
+	<!-- OpenVPN Connect -->
+	<AppIcon name="net.openvpn.openvpn/net.openvpn.unified.MainActivity" image="openvpn_connect"/>
+
+	<!-- OPlayer -->
+	<AppIcon name="com.olimsoft.android.oplayer.pro/com.olimsoft.android.oplayer.StartActivity" image="oplayer"/>
+
+	<!-- P R O T O -->
+	<AppIcon name="com.proto.circuitsimulator/com.proto.circuitsimulator.splash.SplashActivity" image="p_r_o_t_o"/>
+
+	<!-- Packeta -->
+	<AppIcon name="cz.zasilkovna.app/cz.zasilkovna.app.dashboard.view.MainActivity" image="packeta"/>
+
+	<!-- ParkSimply Brno -->
+	<AppIcon name="cz.globdata.parksimply.brno/cz.globdata.parksimply.brno.MainActivity" image="parksimply_brno"/>
+
+	<!-- Petals -->
+	<AppIcon name="br.com.colman.petals/br.com.colman.petals.MainActivity" image="petals"/>
+
+	<!-- PlantNet -->
+	<AppIcon name="org.plantnet/org.plantnet.MainActivity" image="plantnet"/>
+
+	<!-- Polaris -->
+	<AppIcon name="agersant.polaris/com.ryanheise.audioservice.AudioServiceActivity" image="polaris"/>
+
+	<!-- Poweramp -->
+	<AppIcon name="com.maxmpz.audioplayer/com.maxmpz.audioplayer.standard_adaptive" image="poweramp"/>
+
+	<!-- Poweramp Unlocker -->
+	<AppIcon name="com.maxmpz.audioplayer.unlock/com.maxmpz.audioplayer.unlock.LauncherRedirectorActivity" image="poweramp_unlocker"/>
+
+	<!-- ProCam X -->
+	<AppIcon name="com.intermedia.hd.camera.pro/com.antafunny.burstcamera.MainActivity" image="procam_x"/>
+
+	<!-- Qerko -->
+	<AppIcon name="com.itispaid/com.itispaid.MainActivity" image="qerko"/>
+
+	<!-- Radiotéka -->
+	<AppIcon name="cz.rozhlas.audioknihy/cz.rozhlas.audioknihy.MainActivity" image="radioteka"/>
+
+	<!-- ReadEra -->
+	<AppIcon name="org.readera/com.readera.MainActivity" image="readera"/>
+
+	<!-- Recorder -->
+	<AppIcon name="com.android.soundrecorder/com.android.soundrecorder.StartActivity" image="recorder"/>
+
+	<!-- Rewards -->
+	<AppIcon name="com.google.android.apps.paidtasks/com.google.android.apps.paidtasks.activity.LaunchActivity" image="rewards"/>
+
+	<!-- RiMusic -->
+	<AppIcon name="it.fast4x.rimusic/it.vfsfitvnm.vimusic.MainActivity" image="rimusic"/>
+
+	<!-- Rocket.Chat -->
+	<AppIcon name="chat.rocket.android/chat.rocket.reactnative.MainActivity" image="rocketchat"/>
+
+	<!-- Roku -->
+	<AppIcon name="com.roku.remote/com.roku.remote.ui.activities.splash.SplashActivity" image="roku"/>
+
+	<!-- Rust Libraries -->
+	<AppIcon name="info.camposha.rustlibraries/info.camposha.rustlibraries.view.activities.IntroActivity" image="rust_libraries"/>
+
+	<!-- Safety -->
+	<AppIcon name="com.google.android.apps.safetyhub/com.google.android.apps.safetyhub.LauncherActivity" image="safety"/>
+
+	<!-- Samsung Health -->
+	<AppIcon name="com.sec.android.app.shealth/com.samsung.android.app.shealth.home.HomeMainActivity" image="samsung_health"/>
+
+	<!-- Samsung Health Monitor -->
+	<AppIcon name="com.samsung.android.shealthmonitors/com.samsung.android.shealthmonitor.ui.activity.MainActivity" image="samsung_health_monitor"/>
+
+	<!-- Scanner -->
+	<AppIcon name="com.xiaomi.scanner/com.xiaomi.scanner.app.ScanActivity" image="scanner"/>
+
+	<!-- Security -->
+	<AppIcon name="com.miui.securitycenter/com.miui.securityscan.MainActivity" image="security"/>
+
+	<!-- Services & feedback -->
+	<AppIcon name="com.miui.miservice/com.miui.miservice.main.MainActivity" image="services_and_feedback"/>
+
+	<!-- Settings -->
+	<AppIcon name="com.android.settings/com.android.settings.MainSettings" image="settings"/>
+
+	<!-- ShareMe -->
+	<AppIcon name="com.xiaomi.midrop/com.xiaomi.midrop.SplashScreen" image="shareme"/>
+
+	<!-- SHM MOD Companion -->
+	<AppIcon name="xda.dante.shm.mod.companion/xda.dante.shm.mod.companion.MainActivity" image="shm_mod_companion"/>
+
+	<!-- Simple Pixel -->
+	<AppIcon name="fr.thema.wear.watch.minimalistpixel/fr.thema.wear.watch.minimalistpixel.WatchFaceCompanionConfigActivity" image="simple_pixel"/>
+
+	<!-- SimpleWear -->
+	<AppIcon name="com.thewizrd.simplewear/com.thewizrd.simplewear.MainActivity" image="simplewear"/>
+
+	<!-- Slack -->
+	<AppIcon name="com.Slack/slack.features.home.HomeActivity" image="slack"/>
+
+	<!-- SledovaniTV -->
+	<AppIcon name="cz.sledovanitv.android/cz.sledovanitv.android.activity.EntryActivity" image="sledovanitv"/>
+
+	<!-- Smart Banka -->
+	<AppIcon name="cz.moneta.smartbanka/cz.moneta.smartbanka.mobile.views.activities.MainActivity" image="smart_banka"/>
+
+	<!-- Smart Banking -->
+	<AppIcon name="hr.asseco.android.jimba.mUCI.cz/hr.asseco.android.muci.ae.prelogin.SplashScreenActivity" image="smart_banking"/>
+
+	<!-- Sound Meter -->
+	<AppIcon name="app.tools.soundmeter.decibel.noisedetector/cn.coocent.tools.soundmeter.app.LaunchActivity" image="sound_meter"/>
+
+	<!-- Soundcorset tuner & metronome -->
+	<AppIcon name="com.soundcorset.client.android/com.soundcorset.client.android.MainActivity" image="soundcorset_tuner_and_metronome"/>
+
+	<!-- Splitwise -->
+	<AppIcon name="com.Splitwise.SplitwiseMobile/com.Splitwise.SplitwiseMobile.views.SplitwiseSplashScreen" image="splitwise"/>
+
+	<!-- Spotube -->
+	<AppIcon name="oss.krtirtho.spotube/com.ryanheise.audioservice.AudioServiceActivity" image="spotube"/>
+
+	<!-- Star Walk 2 -->
+	<AppIcon name="com.vitotechnology.StarWalk2/com.google.firebase.MessagingUnityPlayerActivity" image="star_walk_2"/>
+
+	<!-- Stocard -->
+	<AppIcon name="de.stocard.stocard/de.stocard.ui.main.InitActivity" image="stocard"/>
+
+	<!-- Suntimes -->
+	<AppIcon name="com.forrestguice.suntimeswidget/com.forrestguice.suntimeswidget.SuntimesActivity" image="suntimes"/>
+
+	<!-- Tečka -->
+	<AppIcon name="cz.nakit.eocko.wallet/dgc.app.wallet.system.MainActivity" image="tecka"/>
+
+	<!-- Themes -->
+	<AppIcon name="com.android.thememanager/com.android.thememanager.ThemeResourceTabActivity" image="themes"/>
+
+	<!-- Tuya Smart -->
+	<AppIcon name="com.tuya.smart/com.smart.ThingSplashActivity" image="tuya_smart"/>
+
+	<!-- Waze -->
+	<AppIcon name="com.waze/com.waze.FreeMapAppActivity" image="waze"/>
+
+	<!-- Weather -->
+	<AppIcon name="com.miui.weather2/com.miui.weather2.ActivityWeatherMain" image="weather"/>
+
+	<!-- Wolt -->
+	<AppIcon name="com.wolt.android/com.wolt.android.activities.LauncherActivity" image="wolt"/>
+
+	<!-- Zepp Life -->
+	<AppIcon name="com.xiaomi.hm.health/com.xiaomi.hm.health.activity.StartUpActivity" image="zepp_life"/>
+
+	<!-- ZeroTier One -->
+	<AppIcon name="com.zerotier.one/com.zerotier.one.ui.NetworkListActivity" image="zerotier_one"/>
+
+	<!-- Zoner Photo Studio -->
+	<AppIcon name="com.zoner.android.photostudio/com.zoner.android.photostudio.ui.ActOrganizer" image="zoner_photo_studio"/>
+
+</Theme>

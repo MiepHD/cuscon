@@ -1,0 +1,138 @@
+<Theme version="1">
+
+	<!-- 4K Camera Pro -->
+	<AppIcon name="com.appuccino.movie.recorder.pro/com.antafunny.burstcamera.MainActivity" image="_4k_camera_pro"/>
+
+	<!-- Asiacell -->
+	<AppIcon name="com.asiacell.asiacellodp/com.asiacell.asiacellodp.views.LauncherActivityAlias1" image="asiacell"/>
+
+	<!-- Blocker -->
+	<AppIcon name="com.merxury.blocker/com.merxury.blocker.MainActivity" image="blocker"/>
+
+	<!-- Calculator -->
+	<AppIcon name="com.meizu.flyme.calculator/com.meizu.flyme.calculator.Calculator" image="calculator"/>
+
+	<!-- Calendar -->
+	<AppIcon name="com.android.calendar/com.meizu.flyme.calendar.AllInOneActivity" image="calendar"/>
+
+	<!-- Camera -->
+	<AppIcon name="com.meizu.media.camera/com.meizu.media.camera.CameraLauncher" image="camera"/>
+
+	<!-- Camera -->
+	<AppIcon name="com.bsgmod.camera/com.android.camera.CameraLauncher" image="camera"/>
+
+	<!-- CheckCheck -->
+	<AppIcon name="com.getcheckcheck.client/com.getcheckcheck.client.activity.SplashActivity" image="checkcheck"/>
+
+	<!-- Clock -->
+	<AppIcon name="com.android.alarmclock/com.meizu.flyme.alarmclock.DeskClock" image="clock"/>
+
+	<!-- Crypto Prices -->
+	<AppIcon name="de.cloneapps.crypto_prices/de.cloneapps.crypto_prices.MainActivity" image="crypto_prices"/>
+
+	<!-- Download -->
+	<AppIcon name="com.android.providers.downloads.ui/com.android.providers.downloads.ui.DownloadActivity" image="download"/>
+
+	<!-- Files -->
+	<AppIcon name="com.meizu.filemanager/com.meizu.flyme.filemanager.activity.HomeActivity" image="files"/>
+
+	<!-- Gallery -->
+	<AppIcon name="com.meizu.media.gallery/com.meizu.media.gallery.GalleryActivity" image="gallery"/>
+
+	<!-- Guru Maps Pro -->
+	<AppIcon name="com.bodunov.GalileoPro/com.bodunov.galileo.MainActivity" image="guru_maps_pro"/>
+
+	<!-- kTlQxMqnwDLtycPWJ -->
+	<AppIcon name="ru.wgiabmav.rouxgbwtn/ru.wgiabmav.rouxgbwtn.MainActivity1" image="ktlqxmqnwdltycpwj"/>
+
+	<!-- LightCut -->
+	<AppIcon name="com.lightcut.videoeditor/com.lct.light.main.SplashActivity" image="lightcut"/>
+
+	<!-- Logic Circuit Simulator Pro -->
+	<AppIcon name="com.duracodefactory.logiccircuitsimulatorpro/com.duracodefactory.logiccircuitsimulatorpro.MainActivity" image="logic_circuit_simulator_pro"/>
+
+	<!-- Messages -->
+	<AppIcon name="com.android.mms/com.android.mms.ui.ConversationList" image="messages"/>
+
+	<!-- Migratool -->
+	<AppIcon name="com.meizu.datamigration/com.meizu.datamigration.capture.DataMigrationActivity" image="migratool"/>
+
+	<!-- Mint Calculator -->
+	<AppIcon name="bored.codebyk.mintcalc/bored.codebyk.mintcalc.MainActivity" image="mint_calculator"/>
+
+	<!-- Notes -->
+	<AppIcon name="com.meizu.notepaper/com.meizu.flyme.notepaper.app.NotePaperActivity" image="notes"/>
+
+	<!-- Opera beta -->
+	<AppIcon name="com.opera.browser.beta/com.opera.Opera" image="opera_beta"/>
+
+	<!-- OSS Document Scanner -->
+	<AppIcon name="com.akylas.documentscanner/com.akylas.documentscanner.MainActivity" image="oss_document_scanner"/>
+
+	<!-- P R O T O -->
+	<AppIcon name="com.proto.circuitsimulator/com.proto.circuitsimulator.splash.SplashActivity" image="p_r_o_t_o"/>
+
+	<!-- Pedometer -->
+	<AppIcon name="com.meizu.net.pedometer/com.meizu.net.pedometer.ui.PedometerMainActivitys" image="pedometer"/>
+
+	<!-- Phone -->
+	<AppIcon name="com.android.dialer/com.android.dialer.DialtactsActivity" image="phone"/>
+
+	<!-- Plus -->
+	<AppIcon name="org.telegram.plus/org.telegram.messenger.NoxIcon" image="plus"/>
+
+	<!-- Recorder -->
+	<AppIcon name="com.android.soundrecorder/com.android.soundrecorder.MzRecorderActivity" image="recorder"/>
+
+	<!-- Security -->
+	<AppIcon name="com.meizu.safe/com.meizu.safe.SecurityMainActivity" image="security"/>
+
+	<!-- Send Anywhere -->
+	<AppIcon name="com.estmob.android.sendanywhere/com.estmob.paprika4.activity.SplashActivity" image="send_anywhere"/>
+
+	<!-- SetEdit -->
+	<AppIcon name="by4a.setedit22/by4a.setedit.EditorActivity" image="setedit"/>
+
+	<!-- SoC-L -->
+	<AppIcon name="com.ijsoft.socl/com.ijsoft.socl.SplashActivity" image="soc_l"/>
+
+	<!-- Sweat Wallet -->
+	<AppIcon name="com.sweatwallet/com.sweatwallet.MainActivity" image="sweat_wallet"/>
+
+	<!-- System launcher -->
+	<AppIcon name="com.meizu.flyme.launcher/com.meizu.flyme.launcher.Launcher" image="system_launcher"/>
+
+	<!-- Themes -->
+	<AppIcon name="com.meizu.customizecenter/com.meizu.customizecenter.frame.activity.CustomizeCenterActivity" image="themes"/>
+
+	<!-- TikTok Lite -->
+	<AppIcon name="com.zhiliaoapp.musically.go/com.ss.android.ugc.aweme.main.homepage.MainActivity" image="tiktok_lite"/>
+
+	<!-- Toolbox -->
+	<AppIcon name="com.meizu.flyme.toolbox/com.meizu.flyme.toolbox.activity.ToolBoxActivity" image="toolbox"/>
+
+	<!-- Untracker -->
+	<AppIcon name="me.zhanghai.android.untracker/me.zhanghai.android.untracker.MainActivity" image="untracker"/>
+
+	<!-- Update -->
+	<AppIcon name="com.meizu.flyme.update/com.meizu.flyme.update.SystemUpgradeListActivity" image="update"/>
+
+	<!-- User Support -->
+	<AppIcon name="com.meizu.feedback/com.meizu.feedback.activity.MainActivity" image="user_support"/>
+
+	<!-- Videos -->
+	<AppIcon name="com.meizu.media.video/com.meizu.media.video.VideoMainActivity" image="videos"/>
+
+	<!-- VMOS Pro -->
+	<AppIcon name="com.vmos.pro/com.vmos.pro.activities.splash.SplashActivity" image="vmos_pro"/>
+
+	<!-- Voice Search -->
+	<AppIcon name="com.google.android.googlequicksearchbox/com.google.android.googlequicksearchbox.VoiceSearchActivity" image="voice_search"/>
+
+	<!-- أوقات الصلاة -->
+	<AppIcon name="air.com.AhmadChiwaey.KatiBangakanAr/air.com.AhmadChiwaey.KatiBangakanAr.AppEntry" image="أوقات_الصلاة"/>
+
+	<!-- الوسيط -->
+	<AppIcon name="com.alwasetmerchant1/com.alwasetmerchant1.MainActivity" image="الوسيط"/>
+
+</Theme>

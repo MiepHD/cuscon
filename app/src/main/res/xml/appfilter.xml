@@ -2401,5 +2401,7 @@
     <item component="ComponentInfo{com.Nobodyshot.kuboom/com.unity3d.player.UnityPlayerActivity}" drawable="kuboom" />
     <item component="ComponentInfo{one4studio.iconpack.lenaadaptive/com.candybar.dev.activities.SplashActivity}" drawable="lena_adaptive" />
     <item component="ComponentInfo{com.saverio.pdfviewer/com.saverio.pdfviewer.MainActivity}" drawable="sav_pdf_viewer" />
+	<item component="ComponentInfo{com.google.android.GoogleCameraEng/com.android.camera.CameraLauncher}" drawable="android_camera" />
+    <item component="ComponentInfo{com.google.android.apps.cameralite/com.google.android.apps.cameralite.capture.CaptureActivity}" drawable="android_camera" />
 
 </resources>

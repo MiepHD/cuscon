@@ -1,0 +1,114 @@
+<Theme version="1">
+
+	<!-- aCalendar -->
+	<AppIcon name="org.withouthat.acalendar/org.withouthat.acalendar.ACalendar" image="acalendar"/>
+
+	<!-- aCalTasks -->
+	<AppIcon name="org.withouthat.acalendar/org.withouthat.acalendar.tasks.TasksActivity" image="acaltasks"/>
+
+	<!-- Alarm Clock Xtreme -->
+	<AppIcon name="com.alarmclock.xtreme.free/com.alarmclock.xtreme.free.AlarmClock" image="alarm_clock_xtreme"/>
+
+	<!-- Amarok -->
+	<AppIcon name="deltazero.amarok.foss/deltazero.amarok.launcher.default" image="amarok"/>
+
+	<!-- Copy SMS Code -->
+	<AppIcon name="io.github.jd1378.otphelper/io.github.jd1378.otphelper.MainActivity" image="copy_sms_code"/>
+
+	<!-- FindMyDevice -->
+	<AppIcon name="de.nulide.findmydevice/de.nulide.findmydevice.ui.MainActivity" image="findmydevice"/>
+
+	<!-- floccus -->
+	<AppIcon name="org.handmadeideas.floccus/org.handmadeideas.floccus.MainActivity" image="floccus"/>
+
+	<!-- Gas Prices -->
+	<AppIcon name="org.woheller69.spritpreise/org.woheller69.spritpreise.activities.SplashActivity" image="gas_prices"/>
+
+	<!-- Geizhals -->
+	<AppIcon name="at.geizhals.pv/at.geizhals.android.MainActivity" image="geizhals"/>
+
+	<!-- Gotify -->
+	<AppIcon name="com.github.gotify/com.github.gotify.init.InitializationActivity" image="gotify"/>
+
+	<!-- Hail -->
+	<AppIcon name="com.aistra.hail/com.aistra.hail.ui.main.MainActivity" image="hail"/>
+
+	<!-- Headphones -->
+	<AppIcon name="com.sony.songpal.mdr/com.sony.songpal.mdr.vim.activity.MdrMainActivity" image="headphones"/>
+
+	<!-- Meine AOK -->
+	<AppIcon name="de.aoksystems.amg/de.aoksystems.amg.splash.SplashActivity" image="meine_aok"/>
+
+	<!-- mpv -->
+	<AppIcon name="is.xyz.mpv/is.xyz.mpv.MainActivity" image="mpv"/>
+
+	<!-- mydealz -->
+	<AppIcon name="com.tippingcanoe.mydealz/com.pepper.apps.android.presentation.MainActivityDarkIcon" image="mydealz"/>
+
+	<!-- openScale -->
+	<AppIcon name="com.health.openscale/com.health.openscale.gui.MainActivity" image="openscale"/>
+
+	<!-- OSS Document Scanner -->
+	<AppIcon name="com.akylas.documentscanner/com.akylas.documentscanner.MainActivity" image="oss_document_scanner"/>
+
+	<!-- PhotoPrism Gallery -->
+	<AppIcon name="ua.com.radiokot.photoprism/ua.com.radiokot.photoprism.features.gallery.view.GalleryActivity" image="photoprism_gallery"/>
+
+	<!-- PhotoSync -->
+	<AppIcon name="com.touchbyte.photosync/com.touchbyte.photosync.activities.PhotoSyncMainActivity" image="photosync"/>
+
+	<!-- Post & DHL -->
+	<AppIcon name="de.dhl.paket/de.its_berlin.dhlpaket.base.main.MainActivity" image="post_and_dhl"/>
+
+	<!-- Proxmox Virtual Environment -->
+	<AppIcon name="com.proxmox.app.pve_flutter_frontend/com.proxmox.app.pve_flutter_frontend.MainActivity" image="proxmox_virtual_environment"/>
+
+	<!-- Readrops -->
+	<AppIcon name="com.readrops.app/com.readrops.app.SplashActivity" image="readrops"/>
+
+	<!-- Rethink -->
+	<AppIcon name="com.celzero.bravedns/com.celzero.bravedns.ui.HomeScreenActivity" image="rethink"/>
+
+	<!-- Roborock -->
+	<AppIcon name="com.roborock.smart/com.roborock.smart.activity.SplashActivity" image="roborock"/>
+
+	<!-- Scalable Capital -->
+	<AppIcon name="capital.scalable.droid/capital.scalable.droid.redesign.screens.cockpit.CockpitActivity" image="scalable_capital"/>
+
+	<!-- Scrambled Exif -->
+	<AppIcon name="com.jarsilio.android.scrambledeggsif/com.jarsilio.android.scrambledeggsif.MainActivity" image="scrambled_exif"/>
+
+	<!-- Settle Up -->
+	<AppIcon name="cz.destil.settleup/cz.destil.settleup.gui.MainActivity" image="settle_up"/>
+
+	<!-- Shizuku -->
+	<AppIcon name="moe.shizuku.privileged.api/moe.shizuku.manager.MainActivity" image="shizuku"/>
+
+	<!-- Showly OSS -->
+	<AppIcon name="com.michaldrabik.showly_oss/com.michaldrabik.showly_oss.ui.main.MainActivity" image="showly_oss"/>
+
+	<!-- Smarter Wi-Fi Manager -->
+	<AppIcon name="net.kismetwireless.android.smarterwifimanager/net.kismetwireless.android.smarterwifimanager.MainActivity" image="smarter_wi_fi_manager"/>
+
+	<!-- Sonos -->
+	<AppIcon name="com.sonos.acr2/com.sonos.acr.SonosLaunchActivity" image="sonos"/>
+
+	<!-- Splitwise -->
+	<AppIcon name="com.Splitwise.SplitwiseMobile/com.Splitwise.SplitwiseMobile.views.SplitwiseSplashScreen" image="splitwise"/>
+
+	<!-- Spritmonitor -->
+	<AppIcon name="de.spritmonitor.smapp_mp/de.spritmonitor.smapp_android.ui.activities.VehiclesActivity" image="spritmonitor"/>
+
+	<!-- Syncthing -->
+	<AppIcon name="com.nutomic.syncthingandroid/com.nutomic.syncthingandroid.activities.FirstStartActivity" image="syncthing"/>
+
+	<!-- TAN2go -->
+	<AppIcon name="com.starfinanz.mobile.android.dkbpushtan/com.starfinanz.mobile.android.dkbpushtan.DKBPushTan" image="tan2go"/>
+
+	<!-- Wake on Lan -->
+	<AppIcon name="de.florianisme.wakeonlan/de.florianisme.wakeonlan.ui.MainActivity" image="wake_on_lan"/>
+
+	<!-- WarnWetter -->
+	<AppIcon name="de.dwd.warnapp/de.dwd.warnapp.base.MainActivity" image="warnwetter"/>
+
+</Theme>

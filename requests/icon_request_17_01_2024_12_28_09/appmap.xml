@@ -1,0 +1,501 @@
+<appmap>
+
+	<!-- 8 Ball Pool -->
+	<item class="com.miniclip.eightballpool.EightBallPoolActivity" name="_8_ball_pool"/>
+
+	<!-- Accrescent -->
+	<item class="app.accrescent.client.ui.MainActivity" name="accrescent"/>
+
+	<!-- Acode -->
+	<item class="com.foxdebug.acode.MainActivity" name="acode"/>
+
+	<!-- AJIO -->
+	<item class="com.ril.ajio.launch.activity.SplashScreenActivity" name="ajio"/>
+
+	<!-- Amazon -->
+	<item class="com.amazon.mShop.home.HomeActivity" name="amazon"/>
+
+	<!-- Antimine -->
+	<item class="dev.lucasnlm.antimine.main.MainActivity" name="antimine"/>
+
+	<!-- App vault -->
+	<item class="com.mi.android.globalminusscreen.tab.MainActivity" name="app_vault"/>
+
+	<!-- Ara Note -->
+	<item class="ara.note.ui.main.MainActivity" name="ara_note"/>
+
+	<!-- Arcticons Black -->
+	<item class="com.donnnno.arcticons.activities.SplashActivity" name="arcticons_black"/>
+
+	<!-- Arcticons Material You -->
+	<item class="com.donnnno.arcticons.activities.SplashActivity" name="arcticons_material_you"/>
+
+	<!-- Audile -->
+	<item class="com.mrsep.musicrecognizer.presentation.MainActivity" name="audile"/>
+
+	<!-- Auxio -->
+	<item class="org.oxycblt.auxio.MainActivity" name="auxio"/>
+
+	<!-- Aves -->
+	<item class="deckers.thibault.aves.MainActivity" name="aves"/>
+
+	<!-- Battlegrounds India -->
+	<item class="com.epicgames.ue4.SplashActivity" name="battlegrounds_india"/>
+
+	<!-- BookMyShow -->
+	<item class="com.movie.bms.splashscreen.SplashScreenActivity" name="bookmyshow"/>
+
+	<!-- Calendar -->
+	<item class="deltazero.amarok.launcher.calendar" name="calendar"/>
+
+	<!-- Calendar -->
+	<item class="org.fossify.calendar.activities.SplashActivity.Green" name="calendar"/>
+
+	<!-- Call of Duty -->
+	<item class="com.tencent.tmgp.cod.CODMPrivatePermissionActivity" name="call_of_duty"/>
+
+	<!-- Carrom Disc Pool -->
+	<item class="com.miniclip.carrom.CarromActivity" name="carrom_disc_pool"/>
+
+	<!-- Chalo -->
+	<item class="app.zophop.ui.activities.SplashScreen" name="chalo"/>
+
+	<!-- Cherrygram -->
+	<item class="uz.unnarsx.cherrygram.CG_Icon_Cherry_NY" name="cherrygram"/>
+
+	<!-- Circuit Trainer -->
+	<item class="org.secuso.privacyfriendlycircuittraining.activities.SplashActivity" name="circuit_trainer"/>
+
+	<!-- Classroom -->
+	<item class="com.google.android.apps.classroom.classroomflutter.MainActivity" name="classroom"/>
+
+	<!-- Clima -->
+	<item class="io.flutter.embedding.android.FlutterActivity" name="clima"/>
+
+	<!-- Clock -->
+	<item class="com.android.deskclock.DeskClockTabActivity" name="clock"/>
+
+	<!-- Coffee -->
+	<item class="com.github.muellerma.coffee.activities.MainActivity" name="coffee"/>
+
+	<!-- Connect You -->
+	<item class="com.bnyro.contacts.ui.activities.MainActivity" name="connect_you"/>
+
+	<!-- Cromite -->
+	<item class="com.google.android.apps.chrome.Main" name="cromite"/>
+
+	<!-- CuteCalc -->
+	<item class="com.sosauce.cutecalc.MainActivity" name="cutecalc"/>
+
+	<!-- Deku SMS -->
+	<item class="com.afkanerd.deku.DefaultSMS.DefaultCheckActivity" name="deku_sms"/>
+
+	<!-- DetoxDroid -->
+	<item class="com.flx_apps.digitaldetox.MainActivity" name="detoxdroid"/>
+
+	<!-- Device Info HW -->
+	<item class="ru.andr7e.deviceinfohw.MainActivity" name="device_info_hw"/>
+
+	<!-- Dicio -->
+	<item class="org.stypox.dicio.MainActivity" name="dicio"/>
+
+	<!-- Digital Wellbeing -->
+	<item class="com.google.android.apps.wellbeing.settings.LauncherActivity" name="digital_wellbeing"/>
+
+	<!-- Doable -->
+	<item class="at.flobii.doable.MainActivity" name="doable"/>
+
+	<!-- ECWolf -->
+	<item class="com.beloko.wolf3d.EntryActivity" name="ecwolf"/>
+
+	<!-- eFootball™ -->
+	<item class="com.epicgames.ue4.SplashActivity" name="efootball™"/>
+
+	<!-- Energize -->
+	<item class="com.flasskamp.energize.MainActivity" name="energize"/>
+
+	<!-- exteraGram -->
+	<item class="com.exteragram.messenger.DefaultIcon" name="exteragram"/>
+
+	<!-- Feeder -->
+	<item class="com.nononsenseapps.feeder.ui.MainActivity" name="feeder"/>
+
+	<!-- FFShare -->
+	<item class="com.caydey.ffshare.MainActivity" name="ffshare"/>
+
+	<!-- File Manager -->
+	<item class="org.fossify.filemanager.activities.SplashActivity.Green" name="file_manager"/>
+
+	<!-- Five Prayers -->
+	<item class="com.hbouzidi.fiveprayers.ui.DefaultActivity" name="five_prayers"/>
+
+	<!-- Fiverr -->
+	<item class="com.fiverr.fiverr.activityandfragments.entrypoints.FVREntryPoint" name="fiverr"/>
+
+	<!-- Flixclusive -->
+	<item class="com.flixclusive.presentation.mobile.main.MainActivity" name="flixclusive"/>
+
+	<!-- Floating Timer -->
+	<item class="xyz.tberghuis.floatingtimer.MainActivity" name="floating_timer"/>
+
+	<!-- FluffyChat -->
+	<item class="chat.fluffy.fluffychat.MainActivity" name="fluffychat"/>
+
+	<!-- FM Radio -->
+	<item class="com.miui.fmradio.FmRadioActivity" name="fm_radio"/>
+
+	<!-- Font Gallery -->
+	<item class="com.adeeteya.font_gallery.MainActivity" name="font_gallery"/>
+
+	<!-- Free TV -->
+	<item class="com.phstudio.freetv.MainActivity" name="free_tv"/>
+
+	<!-- Fruity Game -->
+	<item class="com.godot.game.GodotApp" name="fruity_game"/>
+
+	<!-- Gallery -->
+	<item class="com.miui.gallery.activity.HomePageActivity" name="gallery"/>
+
+	<!-- Gallery -->
+	<item class="com.alensw.PicFolder.GalleryActivity" name="gallery"/>
+
+	<!-- Gallery -->
+	<item class="com.dot.gallery.feature_node.presentation.main.MainActivity" name="gallery"/>
+
+	<!-- Gallery -->
+	<item class="org.fossify.gallery.activities.SplashActivity.Green" name="gallery"/>
+
+	<!-- Git+ Coach -->
+	<item class="com.vishal2376.gitcoach.SplashScreen" name="git_coach"/>
+
+	<!-- Grayjay -->
+	<item class="com.futo.platformplayer.activities.MainActivity" name="grayjay"/>
+
+	<!-- Green Pass -->
+	<item class="com.michaeltroger.gruenerpass.MainActivity" name="green_pass"/>
+
+	<!-- GuessIron -->
+	<item class="de.indie42.guessiron.MainActivity" name="guessiron"/>
+
+	<!-- GymRoutines -->
+	<item class="com.noahjutz.gymroutines.ui.MainActivity" name="gymroutines"/>
+
+	<!-- Hail -->
+	<item class="com.aistra.hail.ui.main.MainActivity" name="hail"/>
+
+	<!-- Harmony Music -->
+	<item class="com.ryanheise.audioservice.AudioServiceActivity" name="harmony_music"/>
+
+	<!-- Iconeration -->
+	<item class="com.kaanelloed.iconeration.MainActivity" name="iconeration"/>
+
+	<!-- inDrive -->
+	<item class="sinet.startup.inDriver.ui.splash.SplashActivity" name="indrive"/>
+
+	<!-- InnerTune Debug -->
+	<item class="com.zionhuang.music.MainActivity" name="innertune_debug"/>
+
+	<!-- InstallerX -->
+	<item class="com.rosan.installer.ui.activity.SettingsActivity" name="installerx"/>
+
+	<!-- Jerboa -->
+	<item class="com.jerboa.MainActivity" name="jerboa"/>
+
+	<!-- JustChess -->
+	<item class="com.alaskalinuxuser.justchess.IntroActivity" name="justchess"/>
+
+	<!-- JustNotes -->
+	<item class="com.jjewuz.justnotes.MainActivity" name="justnotes"/>
+
+	<!-- JustWeather -->
+	<item class="com.jjewuz.justweather.MainActivity" name="justweather"/>
+
+	<!-- KeyPass -->
+	<item class="com.yogeshpaliyal.keypass.ui.nav.DashboardComposeActivity" name="keypass"/>
+
+	<!-- Koler -->
+	<item class="com.chooloo.www.koler.ui.main.MainActivity" name="koler"/>
+
+	<!-- Kotak Bank -->
+	<item class="com.msf.kbank.mobile.launcher_d5e15a74df3d33e17b26d16a879646bfef34a86881463b2b8442d76af1f6f1f4" name="kotak_bank"/>
+
+	<!-- Kvaesitso -->
+	<item class="de.mm20.launcher2.ui.launcher.LauncherActivity" name="kvaesitso"/>
+
+	<!-- Lato -->
+	<item class="ardash.lato.AndroidLauncher" name="lato"/>
+
+	<!-- Lawnicons -->
+	<item class="app.lawnchair.lawnicons.MainActivity" name="lawnicons"/>
+
+	<!-- Lemmy Redirect -->
+	<item class="dev.zwander.lemmyredirect.MainActivity" name="lemmy_redirect"/>
+
+	<!-- LibrePass -->
+	<item class="dev.medzik.librepass.android.MainActivity" name="librepass"/>
+
+	<!-- LinkSheet -->
+	<item class="fe.linksheet.activity.MainActivity" name="linksheet"/>
+
+	<!-- Linux Command Library -->
+	<item class="com.inspiredandroid.linuxcommandbibliotheca.MainActivity" name="linux_command_library"/>
+
+	<!-- LSPatch -->
+	<item class="org.lsposed.lspatch.ui.activity.MainActivity" name="lspatch"/>
+
+	<!-- Lunar Launcher -->
+	<item class="rasel.lunar.launcher.LauncherActivity" name="lunar_launcher"/>
+
+	<!-- Mars: Mars -->
+	<item class="com.unity3d.player.UnityPlayerActivity" name="mars_mars"/>
+
+	<!-- Massive -->
+	<item class="com.massive.MainActivity" name="massive"/>
+
+	<!-- Mastodon -->
+	<item class="org.joinmastodon.android.MainActivity" name="mastodon"/>
+
+	<!-- Mastodon Redirect -->
+	<item class="dev.zwander.mastodonredirect.MainActivity" name="mastodon_redirect"/>
+
+	<!-- Meesho -->
+	<item class="com.meesho.supply.main.MainActivity" name="meesho"/>
+
+	<!-- Messaging -->
+	<item class="com.android.mms.ui.MmsTabActivity" name="messaging"/>
+
+	<!-- MetaMask -->
+	<item class="io.metamask.MainActivity" name="metamask"/>
+
+	<!-- Meteor -->
+	<item class="meteor.test.and.grade.internet.connection.speed.activities.WelcomeActivity" name="meteor"/>
+
+	<!-- Mi Remote -->
+	<item class="com.xiaomi.mitv.phone.remotecontroller.HoriWidgetMainActivityV2" name="mi_remote"/>
+
+	<!-- MicroG -->
+	<item class="org.microg.gms.ui.MainSettingsActivity" name="microg"/>
+
+	<!-- MinCal Widget -->
+	<item class="cat.mvmike.minimalcalendarwidget.infrastructure.activity.ConfigurationActivity" name="mincal_widget"/>
+
+	<!-- mIndicator -->
+	<item class="com.mobond.mindicator.SplashUI" name="mindicator"/>
+
+	<!-- MiX -->
+	<item class="com.mixplorer.activities.BrowseActivity" name="mix"/>
+
+	<!-- Mixplorer Theme Creator -->
+	<item class="de.dertyp7214.mixplorerthemecreator.MainActivity" name="mixplorer_theme_creator"/>
+
+	<!-- Mobilism -->
+	<item class="demigos.com.mobilism.UI.SplashActivity" name="mobilism"/>
+
+	<!-- Moshidon Nightly -->
+	<item class="org.joinmastodon.android.MainActivity" name="moshidon_nightly"/>
+
+	<!-- mucke -->
+	<item class="com.ryanheise.audioservice.AudioServiceActivity" name="mucke"/>
+
+	<!-- Musify -->
+	<item class="com.ryanheise.audioservice.AudioServiceActivity" name="musify"/>
+
+	<!-- My Brain -->
+	<item class="com.mhss.app.mybrain.presentation.main.MainActivity" name="my_brain"/>
+
+	<!-- Myntra -->
+	<item class="com.myntra.android.activities.react.ReactActivity" name="myntra"/>
+
+	<!-- Namida -->
+	<item class="com.msob7y.namida.NamidaMainActivity" name="namida"/>
+
+	<!-- Neo Launcher -->
+	<item class="com.saggitt.omega.NeoLauncher" name="neo_launcher"/>
+
+	<!-- Neo Store -->
+	<item class="com.machiav3lli.fdroid.NeoActivity" name="neo_store"/>
+
+	<!-- Neo Store-beta -->
+	<item class="com.machiav3lli.fdroid.NeoActivity" name="neo_store_beta"/>
+
+	<!-- Night screen -->
+	<item class="com.arrowsapp.nightscreen.ui.main.MainActivity" name="night_screen"/>
+
+	<!-- NoFasel -->
+	<item class="com.n00nedev.nofasel.MainActivity" name="nofasel"/>
+
+	<!-- Nothing X -->
+	<item class="com.nothing.home.activity.WelcomeActivity" name="nothing_x"/>
+
+	<!-- Noto -->
+	<item class="com.noto.app.AppActivity" name="noto"/>
+
+	<!-- OnionShare (beta) -->
+	<item class="org.onionshare.android.ui.MainActivity" name="onionshare_beta_"/>
+
+	<!-- Open Stable Diffusion -->
+	<item class="com.openstablediffusion.MainActivity" name="open_stable_diffusion"/>
+
+	<!-- OpenBoard -->
+	<item class="org.dslul.openboard.inputmethod.latin.setup.SetupActivity" name="openboard"/>
+
+	<!-- OpenSea -->
+	<item class="io.opensea.context.MainActivity" name="opensea"/>
+
+	<!-- Orgzly Revived -->
+	<item class="com.orgzly.android.ui.LauncherActivity" name="orgzly_revived"/>
+
+	<!-- osmin -->
+	<item class="org.qtproject.qt5.android.bindings.QtActivity" name="osmin"/>
+
+	<!-- OSS Document Scanner -->
+	<item class="com.akylas.documentscanner.MainActivity" name="oss_document_scanner"/>
+
+	<!-- Peristyle -->
+	<item class="app.simple.peri.activities.MainActivity" name="peristyle"/>
+
+	<!-- Perplexity -->
+	<item class="ai.perplexity.app.android.ui.main.MainActivity" name="perplexity"/>
+
+	<!-- Photon -->
+	<item class="dev.abhi.photon.MainActivity" name="photon"/>
+
+	<!-- pikatorrent -->
+	<item class="com.gray.pikatorrent.MainActivity" name="pikatorrent"/>
+
+	<!-- PocketPlan -->
+	<item class="com.pocket_plan.j7_003.MainActivity" name="pocketplan"/>
+
+	<!-- Pulse Music -->
+	<item class="com.hardcodecoder.pulse.activities.ui.SplashActivity" name="pulse_music"/>
+
+	<!-- Quacker -->
+	<item class="com.jonjomckay.fritter.MainActivity" name="quacker"/>
+
+	<!-- Quote Unquote -->
+	<item class="com.github.jameshnsears.quoteunquote.QuoteUnquoteInstructions" name="quote_unquote"/>
+
+	<!-- Quran -->
+	<item class="com.quran.labs.androidquran.QuranDataActivity" name="quran"/>
+
+	<!-- QuranApp -->
+	<item class="com.quranapp.android.activities.MainActivity" name="quranapp"/>
+
+	<!-- QWeather -->
+	<item class="com.henryhiles.qweather.presentation.QWeatherActivity" name="qweather"/>
+
+	<!-- Read You -->
+	<item class="me.ash.reader.infrastructure.android.MainActivity" name="read_you"/>
+
+	<!-- Repainter -->
+	<item class="dev.kdrag0n.dyntheme.ui.main.MainActivity" name="repainter"/>
+
+	<!-- ReVanced Manager Debug -->
+	<item class="app.revanced.manager.MainActivity" name="revanced_manager_debug"/>
+
+	<!-- Rewards -->
+	<item class="com.google.android.apps.paidtasks.activity.LaunchActivity" name="rewards"/>
+
+	<!-- Ricochlime -->
+	<item class="com.adilhanney.ricochlime.MainActivity" name="ricochlime"/>
+
+	<!-- Ringpod -->
+	<item class="com.herman.ringpod.MusicPicker" name="ringpod"/>
+
+	<!-- Safe Space -->
+	<item class="org.privacymatters.safespace.AuthActivity" name="safe_space"/>
+
+	<!-- Save Locally -->
+	<item class="com.mateusrodcosta.apps.share2storage.MainActivity" name="save_locally"/>
+
+	<!-- Sayboard -->
+	<item class="com.elishaazaria.sayboard.SettingsActivity" name="sayboard"/>
+
+	<!-- SD Maid SE -->
+	<item class="eu.darken.sdmse.main.ui.MainActivity" name="sd_maid_se"/>
+
+	<!-- Send Files To TV -->
+	<item class="com.yablio.sendfilestotv.ui.MainActivity" name="send_files_to_tv"/>
+
+	<!-- Services & feedback -->
+	<item class="com.miui.miservice.main.MainActivity" name="services_and_feedback"/>
+
+	<!-- SF IV CE -->
+	<item class="com.fiveplay.mod.RMS.Recovery" name="sf_iv_ce"/>
+
+	<!-- Shizuku -->
+	<item class="moe.shizuku.manager.MainActivity" name="shizuku"/>
+
+	<!-- Silicone Calculator -->
+	<item class="ir.erfansn.siliconecalculator.SiliconeCalculatorActivity" name="silicone_calculator"/>
+
+	<!-- Simple Keyboard -->
+	<item class="rkr.simplekeyboard.inputmethod.latin.settings.SettingsActivity" name="simple_keyboard"/>
+
+	<!-- SongTube -->
+	<item class="com.ryanheise.audioservice.AudioServiceActivity" name="songtube"/>
+
+	<!-- SpMp -->
+	<item class="com.toasterofbread.spmp.MainActivity" name="spmp"/>
+
+	<!-- Stremio -->
+	<item class="com.stremio.MainActivity" name="stremio"/>
+
+	<!-- Swiggy -->
+	<item class="in.swiggy.android.activities.HomeActivity" name="swiggy"/>
+
+	<!-- Symphony -->
+	<item class="io.github.zyrouge.symphony.MainActivity" name="symphony"/>
+
+	<!-- Syncthing -->
+	<item class="com.nutomic.syncthingandroid.activities.FirstStartActivity" name="syncthing"/>
+
+	<!-- Themes -->
+	<item class="com.android.thememanager.ThemeResourceTabActivity" name="themes"/>
+
+	<!-- Thorium -->
+	<item class="com.google.android.apps.chrome.Main" name="thorium"/>
+
+	<!-- Thunder -->
+	<item class="com.hjiangsu.thunder.MainActivity" name="thunder"/>
+
+	<!-- TimePlanner -->
+	<item class="ru.aleshin.timeplanner.presentation.ui.main.MainActivity" name="timeplanner"/>
+
+	<!-- Todopad -->
+	<item class="com.example.flutter_riverpod_todo_app.MainActivity" name="todopad"/>
+
+	<!-- Torrent Client -->
+	<item class="com.github.axet.torrentclient.activities.MainActivity" name="torrent_client"/>
+
+	<!-- Voyager -->
+	<item class="app.vger.voyager.planetary" name="voyager"/>
+
+	<!-- WallFlow Plus -->
+	<item class="com.ammar.wallflow.activities.main.MainActivity" name="wallflow_plus"/>
+
+	<!-- WallMan -->
+	<item class="com.colorata.wallman.shared.MainActivity" name="wallman"/>
+
+	<!-- Walltastik -->
+	<item class="air.enter.walltastik.MainActivity" name="walltastik"/>
+
+	<!-- Weather -->
+	<item class="org.breezyweather.main.MainActivity" name="weather"/>
+
+	<!-- Winlator -->
+	<item class="com.winlator.MainActivity" name="winlator"/>
+
+	<!-- yetCalc -->
+	<item class="yetzio.yetcalc.MainActivity" name="yetcalc"/>
+
+	<!-- Yulu -->
+	<item class="app.yulu.bike.ui.launcherIcon.SplashActivityDefault" name="yulu"/>
+
+	<!-- Zomato -->
+	<item class="com.application.zomato.activities.Splash" name="zomato"/>
+
+	<!-- نور الهدى -->
+	<item class="com.mirfatif.noorulhuda.quran.MainActivity" name="نور_الهدى"/>
+
+</appmap>
