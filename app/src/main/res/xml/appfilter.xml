@@ -2396,5 +2396,10 @@
     <item component="ComponentInfo{com.rhythm.hexise.uninst/com.rhythm.hexise.uninst.Uninstaller}" drawable="uninstaller" />
     <item component="ComponentInfo{eu.bandainamcoent.verylittlenightmares/com.unity3d.player.UnityPlayerActivity}" drawable="vln" />
     <item component="ComponentInfo{com.apkpure.installer/com.apkpure.installer.MainActivity}" drawable="xapk_installer" />
+	<item component="ComponentInfo{org.lineageos.snap/com.android.camera.CameraLauncher}" drawable="lineageos_snap_camera" />
+    <item component="ComponentInfo{com.yangdai.imagecraft/com.yangdai.imagecraft.main.MainActivity}" drawable="imagecraft" />
+    <item component="ComponentInfo{com.Nobodyshot.kuboom/com.unity3d.player.UnityPlayerActivity}" drawable="kuboom" />
+    <item component="ComponentInfo{one4studio.iconpack.lenaadaptive/com.candybar.dev.activities.SplashActivity}" drawable="lena_adaptive" />
+    <item component="ComponentInfo{com.saverio.pdfviewer/com.saverio.pdfviewer.MainActivity}" drawable="sav_pdf_viewer" />
 
 </resources>

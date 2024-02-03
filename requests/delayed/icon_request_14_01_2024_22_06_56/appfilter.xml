@@ -1,7 +1,7 @@
 <resources>
 
 	<!-- Camera -->
-	<item component="ComponentInfo{org.lineageos.snap/com.android.camera.CameraLauncher}" drawable="camera" />
+	<item component="ComponentInfo{org.lineageos.snap/com.android.camera.CameraLauncher}" drawable="lineageos_snap_camera" />
 
 	<!-- Free Fire MAX -->
 	<item component="ComponentInfo{com.dts.freefiremax/com.dts.freefireth.FFMainActivity}" drawable="free_fire_max" />

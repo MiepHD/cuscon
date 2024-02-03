@@ -1,7 +1,7 @@
 <appmap>
 
 	<!-- Camera -->
-	<item class="com.android.camera.CameraLauncher" name="camera"/>
+	<item class="com.android.camera.CameraLauncher" name="lineageos_snap_camera"/>
 
 	<!-- Free Fire MAX -->
 	<item class="com.dts.freefireth.FFMainActivity" name="free_fire_max"/>

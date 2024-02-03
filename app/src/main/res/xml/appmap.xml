@@ -2378,5 +2378,10 @@
     <item class="com.rhythm.hexise.uninst.Uninstaller" name="uninstaller"/>
     <item class="com.unity3d.player.UnityPlayerActivity" name="vln"/>
     <item class="com.apkpure.installer.MainActivity" name="xapk_installer"/>
+	<item class="com.android.camera.CameraLauncher" name="lineageos_snap_camera"/>
+    <item class="com.yangdai.imagecraft.main.MainActivity" name="imagecraft"/>
+    <item class="com.unity3d.player.UnityPlayerActivity" name="kuboom"/>
+    <item class="com.candybar.dev.activities.SplashActivity" name="lena_adaptive"/>
+    <item class="com.saverio.pdfviewer.MainActivity" name="sav_pdf_viewer"/>
 
 </appmap>

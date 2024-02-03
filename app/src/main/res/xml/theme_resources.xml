@@ -2387,5 +2387,10 @@
     <AppIcon name="com.rhythm.hexise.uninst/com.rhythm.hexise.uninst.Uninstaller" image="uninstaller"/>
     <AppIcon name="eu.bandainamcoent.verylittlenightmares/com.unity3d.player.UnityPlayerActivity" image="vln"/>
     <AppIcon name="com.apkpure.installer/com.apkpure.installer.MainActivity" image="xapk_installer"/>
+	<AppIcon name="org.lineageos.snap/com.android.camera.CameraLauncher" image="lineageos_snap_camera"/>
+    <AppIcon name="com.yangdai.imagecraft/com.yangdai.imagecraft.main.MainActivity" image="imagecraft"/>
+    <AppIcon name="com.Nobodyshot.kuboom/com.unity3d.player.UnityPlayerActivity" image="kuboom"/>
+    <AppIcon name="one4studio.iconpack.lenaadaptive/com.candybar.dev.activities.SplashActivity" image="lena_adaptive"/>
+    <AppIcon name="com.saverio.pdfviewer/com.saverio.pdfviewer.MainActivity" image="sav_pdf_viewer"/>
 
 </Theme>

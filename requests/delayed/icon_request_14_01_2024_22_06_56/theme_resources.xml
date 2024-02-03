@@ -1,7 +1,7 @@
 <Theme version="1">
 
 	<!-- Camera -->
-	<AppIcon name="org.lineageos.snap/com.android.camera.CameraLauncher" image="camera"/>
+	<AppIcon name="org.lineageos.snap/com.android.camera.CameraLauncher" image="lineageos_snap_camera"/>
 
 	<!-- Free Fire MAX -->
 	<AppIcon name="com.dts.freefiremax/com.dts.freefireth.FFMainActivity" image="free_fire_max"/>

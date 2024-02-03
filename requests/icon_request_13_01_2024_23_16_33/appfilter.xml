@@ -1,6 +1,0 @@
-<resources>
-
-	<!-- AppBlock -->
-	<item component="ComponentInfo{cz.mobilesoft.appblock/cz.mobilesoft.appblock.MainActivity}" drawable="appblock" />
-
-</resources>

@@ -2258,5 +2258,10 @@
     <item drawable="uninstaller" />
     <item drawable="vln" />
     <item drawable="xapk_installer" />
+	<item drawable="lineageos_snap_camera" />
+    <item drawable="imagecraft" />
+    <item drawable="kuboom" />
+    <item drawable="lena_adaptive" />
+    <item drawable="sav_pdf_viewer" />
 
 </resources>
