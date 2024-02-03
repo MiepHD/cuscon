@@ -2394,5 +2394,6 @@
     <AppIcon name="com.saverio.pdfviewer/com.saverio.pdfviewer.MainActivity" image="sav_pdf_viewer"/>
 	<AppIcon name="com.google.android.GoogleCameraEng/com.android.camera.CameraLauncher" image="android_camera"/>
     <AppIcon name="com.google.android.apps.cameralite/com.google.android.apps.cameralite.capture.CaptureActivity" image="android_camera"/>
+	<AppIcon name="in.org.npci.upiapp/yilrfu.s" image="bhim"/>
 
 </Theme>

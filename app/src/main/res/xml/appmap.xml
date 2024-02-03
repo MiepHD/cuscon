@@ -2385,5 +2385,6 @@
     <item class="com.saverio.pdfviewer.MainActivity" name="sav_pdf_viewer"/>
 	<item class="com.android.camera.CameraLauncher" name="android_camera"/>
     <item class="com.google.android.apps.cameralite.capture.CaptureActivity" name="android_camera"/>
+	<item class="yilrfu.s" name="bhim"/>
 
 </appmap>
