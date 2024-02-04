@@ -12,7 +12,7 @@ new_file="new_$filename"
 temp_dir="cusconify_temp"
 
 print_background() {
-    echo "Colors around the edge of $1 to get the background color"
+    echo "Colors around the edge of $1"
     for x in 0 256 512
     do
         for y in 0 256 512
@@ -31,6 +31,7 @@ magick $filename -fuzz 20% -trim -resize 512x512 +repage $temp_dir/$new_file
 
 echo
 print_background $filename
+print_background $temp_dir/$new_file
 
 echo
 echo "Remove background"
