@@ -108,8 +108,8 @@
 	<!-- ECWolf -->
 	<item component="ComponentInfo{com.beloko.wolf3d/com.beloko.wolf3d.EntryActivity}" drawable="ecwolf" />
 
-	<!-- eFootball™ -->
-	<item component="ComponentInfo{jp.konami.pesam/com.epicgames.ue4.SplashActivity}" drawable="efootball™" />
+	<!-- efootball -->
+	<item component="ComponentInfo{jp.konami.pesam/com.epicgames.ue4.SplashActivity}" drawable="efootball" />
 
 	<!-- Energize -->
 	<item component="ComponentInfo{com.flasskamp.energize/com.flasskamp.energize.MainActivity}" drawable="energize" />
@@ -268,7 +268,7 @@
 	<item component="ComponentInfo{io.metamask/io.metamask.MainActivity}" drawable="metamask" />
 
 	<!-- Meteor -->
-	<item component="ComponentInfo{meteor.test.and.grade.internet.connection.speed/meteor.test.and.grade.internet.connection.speed.activities.WelcomeActivity}" drawable="meteor" />
+	<item component="ComponentInfo{meteor.test.and.grade.internet.connection.speed/meteor.test.and.grade.internet.connection.speed.activities.WelcomeActivity}" drawable="meteor_internet_test" />
 
 	<!-- Mi Remote -->
 	<item component="ComponentInfo{com.duokan.phone.remotecontroller/com.xiaomi.mitv.phone.remotecontroller.HoriWidgetMainActivityV2}" drawable="mi_remote" />

@@ -108,8 +108,8 @@
 	<!-- ECWolf -->
 	<AppIcon name="com.beloko.wolf3d/com.beloko.wolf3d.EntryActivity" image="ecwolf"/>
 
-	<!-- eFootball™ -->
-	<AppIcon name="jp.konami.pesam/com.epicgames.ue4.SplashActivity" image="efootball™"/>
+	<!-- efootball -->
+	<AppIcon name="jp.konami.pesam/com.epicgames.ue4.SplashActivity" image="efootball"/>
 
 	<!-- Energize -->
 	<AppIcon name="com.flasskamp.energize/com.flasskamp.energize.MainActivity" image="energize"/>
@@ -268,7 +268,7 @@
 	<AppIcon name="io.metamask/io.metamask.MainActivity" image="metamask"/>
 
 	<!-- Meteor -->
-	<AppIcon name="meteor.test.and.grade.internet.connection.speed/meteor.test.and.grade.internet.connection.speed.activities.WelcomeActivity" image="meteor"/>
+	<AppIcon name="meteor.test.and.grade.internet.connection.speed/meteor.test.and.grade.internet.connection.speed.activities.WelcomeActivity" image="meteor_internet_test"/>
 
 	<!-- Mi Remote -->
 	<AppIcon name="com.duokan.phone.remotecontroller/com.xiaomi.mitv.phone.remotecontroller.HoriWidgetMainActivityV2" image="mi_remote"/>

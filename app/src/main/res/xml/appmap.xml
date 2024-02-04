@@ -2591,5 +2591,52 @@
     <item class="com.hardcodecoder.pulse.activities.ui.SplashActivity" name="pulse_music"/>
     <item class="io.github.zyrouge.symphony.MainActivity" name="symphony"/>
 	<item class="com.zionhuang.music.MainActivity" name="innertune"/>
+	<item class="ara.note.ui.main.MainActivity" name="ara_note"/>
+    <item class="org.secuso.privacyfriendlycircuittraining.activities.SplashActivity" name="circuit_trainer"/>
+    <item class="com.bnyro.contacts.ui.activities.MainActivity" name="connect_you"/>
+    <item class="org.stypox.dicio.MainActivity" name="dicio"/>
+    <item class="com.epicgames.ue4.SplashActivity" name="efootball"/>
+    <item class="com.flasskamp.energize.MainActivity" name="energize"/>
+    <item class="com.fiverr.fiverr.activityandfragments.entrypoints.FVREntryPoint" name="fiverr"/>
+    <item class="com.hbouzidi.fiveprayers.ui.DefaultActivity" name="five_prayers"/>
+    <item class="com.godot.game.GodotApp" name="fruity_game"/>
+    <item class="com.michaeltroger.gruenerpass.MainActivity" name="green_pass"/>
+    <item class="de.indie42.guessiron.MainActivity" name="guessiron"/>
+    <item class="com.ryanheise.audioservice.AudioServiceActivity" name="harmony_music"/>
+    <item class="com.rosan.installer.ui.activity.SettingsActivity" name="installerx"/>
+    <item class="com.jjewuz.justnotes.MainActivity" name="justnotes"/>
+    <item class="com.jjewuz.justweather.MainActivity" name="justweather"/>
+    <item class="com.yogeshpaliyal.keypass.ui.nav.DashboardComposeActivity" name="keypass"/>
+    <item class="de.mm20.launcher2.ui.launcher.LauncherActivity" name="kvaesitso"/>
+    <item class="ardash.lato.AndroidLauncher" name="lato"/>
+    <item class="dev.medzik.librepass.android.MainActivity" name="librepass"/>
+    <item class="org.lsposed.lspatch.ui.activity.MainActivity" name="lspatch"/>
+    <item class="com.unity3d.player.UnityPlayerActivity" name="mars_mars"/>
+    <item class="com.massive.MainActivity" name="massive"/>
+    <item class="org.microg.gms.ui.MainSettingsActivity" name="microg"/>
+    <item class="cat.mvmike.minimalcalendarwidget.infrastructure.activity.ConfigurationActivity" name="mincal_widget"/>
+    <item class="com.mobond.mindicator.SplashUI" name="mindicator"/>
+    <item class="com.xiaomi.mitv.phone.remotecontroller.HoriWidgetMainActivityV2" name="mi_remote"/>
+    <item class="org.joinmastodon.android.MainActivity" name="moshidon_nightly"/>
+    <item class="com.myntra.android.activities.react.ReactActivity" name="myntra"/>
+    <item class="com.arrowsapp.nightscreen.ui.main.MainActivity" name="night_screen"/>
+    <item class="org.onionshare.android.ui.MainActivity" name="onionshare_beta_"/>
+    <item class="io.opensea.context.MainActivity" name="opensea"/>
+    <item class="com.orgzly.android.ui.LauncherActivity" name="orgzly_revived"/>
+    <item class="org.qtproject.qt5.android.bindings.QtActivity" name="osmin"/>
+    <item class="com.quranapp.android.activities.MainActivity" name="quranapp"/>
+    <item class="com.henryhiles.qweather.presentation.QWeatherActivity" name="qweather"/>
+    <item class="dev.kdrag0n.dyntheme.ui.main.MainActivity" name="repainter"/>
+    <item class="app.revanced.manager.MainActivity" name="revanced_manager_debug"/>
+    <item class="org.privacymatters.safespace.AuthActivity" name="safe_space"/>
+    <item class="com.mateusrodcosta.apps.share2storage.MainActivity" name="save_locally"/>
+    <item class="com.elishaazaria.sayboard.SettingsActivity" name="sayboard"/>
+    <item class="com.toasterofbread.spmp.MainActivity" name="spmp"/>
+    <item class="com.hjiangsu.thunder.MainActivity" name="thunder"/>
+    <item class="com.example.flutter_riverpod_todo_app.MainActivity" name="todopad"/>
+    <item class="com.winlator.MainActivity" name="winlator"/>
+    <item class="app.yulu.bike.ui.launcherIcon.SplashActivityDefault" name="yulu"/>
+    <item class="com.mirfatif.noorulhuda.quran.MainActivity" name="noorulhuda"/>
+	<item class="meteor.test.and.grade.internet.connection.speed.activities.WelcomeActivity" name="meteor_internet_test"/>
 
 </appmap>

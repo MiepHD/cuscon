@@ -108,8 +108,8 @@
 	<!-- ECWolf -->
 	<item class="com.beloko.wolf3d.EntryActivity" name="ecwolf"/>
 
-	<!-- eFootball™ -->
-	<item class="com.epicgames.ue4.SplashActivity" name="efootball™"/>
+	<!-- efootball -->
+	<item class="com.epicgames.ue4.SplashActivity" name="efootball"/>
 
 	<!-- Energize -->
 	<item class="com.flasskamp.energize.MainActivity" name="energize"/>
@@ -268,7 +268,7 @@
 	<item class="io.metamask.MainActivity" name="metamask"/>
 
 	<!-- Meteor -->
-	<item class="meteor.test.and.grade.internet.connection.speed.activities.WelcomeActivity" name="meteor"/>
+	<item class="meteor.test.and.grade.internet.connection.speed.activities.WelcomeActivity" name="meteor_internet_test"/>
 
 	<!-- Mi Remote -->
 	<item class="com.xiaomi.mitv.phone.remotecontroller.HoriWidgetMainActivityV2" name="mi_remote"/>

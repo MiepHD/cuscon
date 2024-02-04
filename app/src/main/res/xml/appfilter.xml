@@ -2609,5 +2609,52 @@
     <item component="ComponentInfo{com.hardcodecoder.pulse/com.hardcodecoder.pulse.activities.ui.SplashActivity}" drawable="pulse_music" />
     <item component="ComponentInfo{io.github.zyrouge.symphony/io.github.zyrouge.symphony.MainActivity}" drawable="symphony" />
 	<item component="ComponentInfo{com.zionhuang.music.debug/com.zionhuang.music.MainActivity}" drawable="innertune" />
+	<item component="ComponentInfo{ara.note/ara.note.ui.main.MainActivity}" drawable="ara_note" />
+    <item component="ComponentInfo{org.secuso.privacyfriendlycircuittraining/org.secuso.privacyfriendlycircuittraining.activities.SplashActivity}" drawable="circuit_trainer" />
+    <item component="ComponentInfo{com.bnyro.contacts/com.bnyro.contacts.ui.activities.MainActivity}" drawable="connect_you" />
+    <item component="ComponentInfo{org.stypox.dicio/org.stypox.dicio.MainActivity}" drawable="dicio" />
+    <item component="ComponentInfo{jp.konami.pesam/com.epicgames.ue4.SplashActivity}" drawable="efootball" />
+    <item component="ComponentInfo{com.flasskamp.energize/com.flasskamp.energize.MainActivity}" drawable="energize" />
+    <item component="ComponentInfo{com.fiverr.fiverr/com.fiverr.fiverr.activityandfragments.entrypoints.FVREntryPoint}" drawable="fiverr" />
+    <item component="ComponentInfo{com.hbouzidi.fiveprayers/com.hbouzidi.fiveprayers.ui.DefaultActivity}" drawable="five_prayers" />
+    <item component="ComponentInfo{page.codeberg.marshreaper.fruitygame/com.godot.game.GodotApp}" drawable="fruity_game" />
+    <item component="ComponentInfo{com.michaeltroger.gruenerpass/com.michaeltroger.gruenerpass.MainActivity}" drawable="green_pass" />
+    <item component="ComponentInfo{de.indie42.guessiron/de.indie42.guessiron.MainActivity}" drawable="guessiron" />
+    <item component="ComponentInfo{com.anandnet.harmonymusic/com.ryanheise.audioservice.AudioServiceActivity}" drawable="harmony_music" />
+    <item component="ComponentInfo{com.rosan.installer.x/com.rosan.installer.ui.activity.SettingsActivity}" drawable="installerx" />
+    <item component="ComponentInfo{com.jjewuz.justnotes/com.jjewuz.justnotes.MainActivity}" drawable="justnotes" />
+    <item component="ComponentInfo{com.jjewuz.justweather/com.jjewuz.justweather.MainActivity}" drawable="justweather" />
+    <item component="ComponentInfo{com.yogeshpaliyal.keypass/com.yogeshpaliyal.keypass.ui.nav.DashboardComposeActivity}" drawable="keypass" />
+    <item component="ComponentInfo{de.mm20.launcher2.release/de.mm20.launcher2.ui.launcher.LauncherActivity}" drawable="kvaesitso" />
+    <item component="ComponentInfo{ardash.lato/ardash.lato.AndroidLauncher}" drawable="lato" />
+    <item component="ComponentInfo{dev.medzik.librepass.android/dev.medzik.librepass.android.MainActivity}" drawable="librepass" />
+    <item component="ComponentInfo{org.lsposed.lspatch/org.lsposed.lspatch.ui.activity.MainActivity}" drawable="lspatch" />
+    <item component="ComponentInfo{com.pomelogames.MarsGame/com.unity3d.player.UnityPlayerActivity}" drawable="mars_mars" />
+    <item component="ComponentInfo{com.massive/com.massive.MainActivity}" drawable="massive" />
+    <item component="ComponentInfo{com.mgoogle.android.gms/org.microg.gms.ui.MainSettingsActivity}" drawable="microg" />
+	<item component="ComponentInfo{cat.mvmike.minimalcalendarwidget/cat.mvmike.minimalcalendarwidget.infrastructure.activity.ConfigurationActivity}" drawable="mincal_widget" />
+    <item component="ComponentInfo{com.mobond.mindicator/com.mobond.mindicator.SplashUI}" drawable="mindicator" />
+    <item component="ComponentInfo{com.duokan.phone.remotecontroller/com.xiaomi.mitv.phone.remotecontroller.HoriWidgetMainActivityV2}" drawable="mi_remote" />
+    <item component="ComponentInfo{org.joinmastodon.android.moshinda.nightly/org.joinmastodon.android.MainActivity}" drawable="moshidon_nightly" />
+    <item component="ComponentInfo{com.myntra.android/com.myntra.android.activities.react.ReactActivity}" drawable="myntra" />
+    <item component="ComponentInfo{com.arrowsapp.nightscreen/com.arrowsapp.nightscreen.ui.main.MainActivity}" drawable="night_screen" />
+    <item component="ComponentInfo{org.onionshare.android/org.onionshare.android.ui.MainActivity}" drawable="onionshare_beta_" />
+    <item component="ComponentInfo{io.opensea/io.opensea.context.MainActivity}" drawable="opensea" />
+    <item component="ComponentInfo{com.orgzlyrevived/com.orgzly.android.ui.LauncherActivity}" drawable="orgzly_revived" />
+    <item component="ComponentInfo{io.github.janbar.osmin/org.qtproject.qt5.android.bindings.QtActivity}" drawable="osmin" />
+    <item component="ComponentInfo{com.quranapp.android/com.quranapp.android.activities.MainActivity}" drawable="quranapp" />
+    <item component="ComponentInfo{com.henryhiles.qweather.debug/com.henryhiles.qweather.presentation.QWeatherActivity}" drawable="qweather" />
+    <item component="ComponentInfo{dev.kdrag0n.dyntheme/dev.kdrag0n.dyntheme.ui.main.MainActivity}" drawable="repainter" />
+    <item component="ComponentInfo{app.revanced.manager.debug/app.revanced.manager.MainActivity}" drawable="revanced_manager_debug" />
+    <item component="ComponentInfo{org.privacymatters.safespace/org.privacymatters.safespace.AuthActivity}" drawable="safe_space" />
+    <item component="ComponentInfo{com.mateusrodcosta.apps.share2storage/com.mateusrodcosta.apps.share2storage.MainActivity}" drawable="save_locally" />
+    <item component="ComponentInfo{com.elishaazaria.sayboard/com.elishaazaria.sayboard.SettingsActivity}" drawable="sayboard" />
+    <item component="ComponentInfo{com.toasterofbread.spmp/com.toasterofbread.spmp.MainActivity}" drawable="spmp" />
+    <item component="ComponentInfo{com.hjiangsu.thunder/com.hjiangsu.thunder.MainActivity}" drawable="thunder" />
+    <item component="ComponentInfo{com.example.flutter_riverpod_todo_app/com.example.flutter_riverpod_todo_app.MainActivity}" drawable="todopad" />
+    <item component="ComponentInfo{com.winlator/com.winlator.MainActivity}" drawable="winlator" />
+    <item component="ComponentInfo{app.yulu.bike/app.yulu.bike.ui.launcherIcon.SplashActivityDefault}" drawable="yulu" />
+    <item component="ComponentInfo{com.mirfatif.noorulhuda/com.mirfatif.noorulhuda.quran.MainActivity}" drawable="noorulhuda" />
+	<item component="ComponentInfo{meteor.test.and.grade.internet.connection.speed/meteor.test.and.grade.internet.connection.speed.activities.WelcomeActivity}" drawable="meteor_internet_test" />
 
 </resources>

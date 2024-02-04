@@ -2600,5 +2600,52 @@
     <AppIcon name="com.hardcodecoder.pulse/com.hardcodecoder.pulse.activities.ui.SplashActivity" image="pulse_music"/>
     <AppIcon name="io.github.zyrouge.symphony/io.github.zyrouge.symphony.MainActivity" image="symphony"/>
 	<AppIcon name="com.zionhuang.music.debug/com.zionhuang.music.MainActivity" image="innertune"/>
+	<AppIcon name="ara.note/ara.note.ui.main.MainActivity" image="ara_note"/>
+    <AppIcon name="org.secuso.privacyfriendlycircuittraining/org.secuso.privacyfriendlycircuittraining.activities.SplashActivity" image="circuit_trainer"/>
+    <AppIcon name="com.bnyro.contacts/com.bnyro.contacts.ui.activities.MainActivity" image="connect_you"/>
+    <AppIcon name="org.stypox.dicio/org.stypox.dicio.MainActivity" image="dicio"/>
+    <AppIcon name="jp.konami.pesam/com.epicgames.ue4.SplashActivity" image="efootball"/>
+    <AppIcon name="com.flasskamp.energize/com.flasskamp.energize.MainActivity" image="energize"/>
+    <AppIcon name="com.fiverr.fiverr/com.fiverr.fiverr.activityandfragments.entrypoints.FVREntryPoint" image="fiverr"/>
+    <AppIcon name="com.hbouzidi.fiveprayers/com.hbouzidi.fiveprayers.ui.DefaultActivity" image="five_prayers"/>
+    <AppIcon name="page.codeberg.marshreaper.fruitygame/com.godot.game.GodotApp" image="fruity_game"/>
+    <AppIcon name="com.michaeltroger.gruenerpass/com.michaeltroger.gruenerpass.MainActivity" image="green_pass"/>
+    <AppIcon name="de.indie42.guessiron/de.indie42.guessiron.MainActivity" image="guessiron"/>
+    <AppIcon name="com.anandnet.harmonymusic/com.ryanheise.audioservice.AudioServiceActivity" image="harmony_music"/>
+    <AppIcon name="com.rosan.installer.x/com.rosan.installer.ui.activity.SettingsActivity" image="installerx"/>
+    <AppIcon name="com.jjewuz.justnotes/com.jjewuz.justnotes.MainActivity" image="justnotes"/>
+    <AppIcon name="com.jjewuz.justweather/com.jjewuz.justweather.MainActivity" image="justweather"/>
+    <AppIcon name="com.yogeshpaliyal.keypass/com.yogeshpaliyal.keypass.ui.nav.DashboardComposeActivity" image="keypass"/>
+    <AppIcon name="de.mm20.launcher2.release/de.mm20.launcher2.ui.launcher.LauncherActivity" image="kvaesitso"/>
+    <AppIcon name="ardash.lato/ardash.lato.AndroidLauncher" image="lato"/>
+    <AppIcon name="dev.medzik.librepass.android/dev.medzik.librepass.android.MainActivity" image="librepass"/>
+    <AppIcon name="org.lsposed.lspatch/org.lsposed.lspatch.ui.activity.MainActivity" image="lspatch"/>
+    <AppIcon name="com.pomelogames.MarsGame/com.unity3d.player.UnityPlayerActivity" image="mars_mars"/>
+    <AppIcon name="com.massive/com.massive.MainActivity" image="massive"/>
+    <AppIcon name="com.mgoogle.android.gms/org.microg.gms.ui.MainSettingsActivity" image="microg"/>
+    <AppIcon name="cat.mvmike.minimalcalendarwidget/cat.mvmike.minimalcalendarwidget.infrastructure.activity.ConfigurationActivity" image="mincal_widget"/>
+    <AppIcon name="com.mobond.mindicator/com.mobond.mindicator.SplashUI" image="mindicator"/>
+    <AppIcon name="com.duokan.phone.remotecontroller/com.xiaomi.mitv.phone.remotecontroller.HoriWidgetMainActivityV2" image="mi_remote"/>
+    <AppIcon name="org.joinmastodon.android.moshinda.nightly/org.joinmastodon.android.MainActivity" image="moshidon_nightly"/>
+    <AppIcon name="com.myntra.android/com.myntra.android.activities.react.ReactActivity" image="myntra"/>
+    <AppIcon name="com.arrowsapp.nightscreen/com.arrowsapp.nightscreen.ui.main.MainActivity" image="night_screen"/>
+    <AppIcon name="org.onionshare.android/org.onionshare.android.ui.MainActivity" image="onionshare_beta_"/>
+    <AppIcon name="io.opensea/io.opensea.context.MainActivity" image="opensea"/>
+    <AppIcon name="com.orgzlyrevived/com.orgzly.android.ui.LauncherActivity" image="orgzly_revived"/>
+    <AppIcon name="io.github.janbar.osmin/org.qtproject.qt5.android.bindings.QtActivity" image="osmin"/>
+    <AppIcon name="com.quranapp.android/com.quranapp.android.activities.MainActivity" image="quranapp"/>
+    <AppIcon name="com.henryhiles.qweather.debug/com.henryhiles.qweather.presentation.QWeatherActivity" image="qweather"/>
+    <AppIcon name="dev.kdrag0n.dyntheme/dev.kdrag0n.dyntheme.ui.main.MainActivity" image="repainter"/>
+    <AppIcon name="app.revanced.manager.debug/app.revanced.manager.MainActivity" image="revanced_manager_debug"/>
+    <AppIcon name="org.privacymatters.safespace/org.privacymatters.safespace.AuthActivity" image="safe_space"/>
+    <AppIcon name="com.mateusrodcosta.apps.share2storage/com.mateusrodcosta.apps.share2storage.MainActivity" image="save_locally"/>
+    <AppIcon name="com.elishaazaria.sayboard/com.elishaazaria.sayboard.SettingsActivity" image="sayboard"/>
+    <AppIcon name="com.toasterofbread.spmp/com.toasterofbread.spmp.MainActivity" image="spmp"/>
+    <AppIcon name="com.hjiangsu.thunder/com.hjiangsu.thunder.MainActivity" image="thunder"/>
+    <AppIcon name="com.example.flutter_riverpod_todo_app/com.example.flutter_riverpod_todo_app.MainActivity" image="todopad"/>
+    <AppIcon name="com.winlator/com.winlator.MainActivity" image="winlator"/>
+    <AppIcon name="app.yulu.bike/app.yulu.bike.ui.launcherIcon.SplashActivityDefault" image="yulu"/>
+    <AppIcon name="com.mirfatif.noorulhuda/com.mirfatif.noorulhuda.quran.MainActivity" image="noorulhuda"/>
+	<AppIcon name="meteor.test.and.grade.internet.connection.speed/meteor.test.and.grade.internet.connection.speed.activities.WelcomeActivity" image="meteor_internet_test"/>
 
 </Theme>
