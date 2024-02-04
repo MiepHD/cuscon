@@ -58,3 +58,9 @@ magick "$temp_dir/aio_$new_file" -bordercolor none -border 12 -background black 
 
 echo "Make sure final icon is 512x512"
 magick "$temp_dir/bordered_$new_file" -background transparent -gravity center -extent 512x512 +repage "$new_file"
+
+echo
+echo "To replace white with the background color run:"
+echo "magick $new_file -fuzz 15% -fill '$(magick $temp_dir/$new_file -format "%[pixel:u.p{$x,$y}]\n" info:)' -opaque white replaced_white_$new_file"
+echo "If the background color should be different, just change the srgba value passed in."
+echo "If the result replaces too much or not enough with the background color, try adjusting the fuzz percentage."
