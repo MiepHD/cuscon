@@ -2639,5 +2639,6 @@
     <item class="com.mirfatif.noorulhuda.quran.MainActivity" name="noorulhuda"/>
 	<item class="meteor.test.and.grade.internet.connection.speed.activities.WelcomeActivity" name="meteor_internet_test"/>
 	<item class="dev.zwander.mastodonredirect.MainActivity" name="lemmy_redirect"/>
+	<item class="com.machiav3lli.fdroid.NeoActivity" name="neo_store"/>
 
 </appmap>

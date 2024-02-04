@@ -2657,5 +2657,6 @@
     <item component="ComponentInfo{com.mirfatif.noorulhuda/com.mirfatif.noorulhuda.quran.MainActivity}" drawable="noorulhuda" />
 	<item component="ComponentInfo{meteor.test.and.grade.internet.connection.speed/meteor.test.and.grade.internet.connection.speed.activities.WelcomeActivity}" drawable="meteor_internet_test" />
 	<item component="ComponentInfo{dev.zwander.mastodonredirect/dev.zwander.mastodonredirect.MainActivity}" drawable="lemmy_redirect" />
+	<item component="ComponentInfo{com.machiav3lli.fdroid.neo/com.machiav3lli.fdroid.NeoActivity}" drawable="neo_store" />
 
 </resources>
