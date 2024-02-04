@@ -175,7 +175,7 @@
 	<AppIcon name="org.ppsspp.ppssppgold/org.ppsspp.ppsspp.PpssppActivity" image="ppsspp_gold"/>
 
 	<!-- Radio -->
-	<AppIcon name="com.android.fmradio/com.android.fmradio.FmMainActivity" image="radio"/>
+	<AppIcon name="com.android.fmradio/com.android.fmradio.FmMainActivity" image="radio_fm"/>
 
 	<!-- RetroArch -->
 	<AppIcon name="com.retroarch/com.retroarch.browser.mainmenu.MainMenuActivity" image="retroarch"/>

@@ -2695,5 +2695,11 @@
     <item class="tv.vhx.LauncherActivity" name="wow"/>
     <item class="com.wirelessalien.zipxtract.FragmentActivity" name="zipxtract"/>
     <item class="de.rainerhock.eightbitwonders.MainActivity" name="_8_bit_wonders"/>
+	<item class="it.niedermann.nextcloud.deck.ui.main.MainActivity" name="deck"/>
+    <item class="com.motorola.dolby.dolbyui.ui.LauncherActivity" name="dolby_atmos"/>
+    <item class="org.lichess.mobileapp.MainActivity" name="lichess"/>
+    <item class="org.openfoodfacts.app.MainActivity" name="openfoodfacts"/>
+    <item class="org.torproject.android.OrbotActivity" name="orbot"/>
+    <item class="com.android.fmradio.FmMainActivity" name="radio_fm"/>
 
 </appmap>

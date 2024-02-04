@@ -175,7 +175,7 @@
 	<item class="org.ppsspp.ppsspp.PpssppActivity" name="ppsspp_gold"/>
 
 	<!-- Radio -->
-	<item class="com.android.fmradio.FmMainActivity" name="radio"/>
+	<item class="com.android.fmradio.FmMainActivity" name="radio_fm"/>
 
 	<!-- RetroArch -->
 	<item class="com.retroarch.browser.mainmenu.MainMenuActivity" name="retroarch"/>

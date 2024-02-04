@@ -2704,5 +2704,11 @@
     <AppIcon name="tv.vhx.worldofwonder/tv.vhx.LauncherActivity" image="wow"/>
     <AppIcon name="com.wirelessalien.zipxtract/com.wirelessalien.zipxtract.FragmentActivity" image="zipxtract"/>
     <AppIcon name="de.rainerhock.eightbitwonders/de.rainerhock.eightbitwonders.MainActivity" image="_8_bit_wonders"/>
+	<AppIcon name="it.niedermann.nextcloud.deck.play/it.niedermann.nextcloud.deck.ui.main.MainActivity" image="deck"/>
+    <AppIcon name="com.motorola.dolby.dolbyui.ui/com.motorola.dolby.dolbyui.ui.LauncherActivity" image="dolby_atmos"/>
+    <AppIcon name="org.lichess.mobileapp/org.lichess.mobileapp.MainActivity" image="lichess"/>
+    <AppIcon name="org.openfoodfacts.scanner/org.openfoodfacts.app.MainActivity" image="openfoodfacts"/>
+    <AppIcon name="org.torproject.android/org.torproject.android.OrbotActivity" image="orbot"/>
+    <AppIcon name="com.android.fmradio/com.android.fmradio.FmMainActivity" image="radio_fm"/>
 
 </Theme>

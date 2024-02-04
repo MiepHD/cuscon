@@ -175,7 +175,7 @@
 	<item component="ComponentInfo{org.ppsspp.ppssppgold/org.ppsspp.ppsspp.PpssppActivity}" drawable="ppsspp_gold" />
 
 	<!-- Radio -->
-	<item component="ComponentInfo{com.android.fmradio/com.android.fmradio.FmMainActivity}" drawable="radio" />
+	<item component="ComponentInfo{com.android.fmradio/com.android.fmradio.FmMainActivity}" drawable="radio_fm" />
 
 	<!-- RetroArch -->
 	<item component="ComponentInfo{com.retroarch/com.retroarch.browser.mainmenu.MainMenuActivity}" drawable="retroarch" />

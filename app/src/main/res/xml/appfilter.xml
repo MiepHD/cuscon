@@ -2713,5 +2713,11 @@
     <item component="ComponentInfo{tv.vhx.worldofwonder/tv.vhx.LauncherActivity}" drawable="wow" />
     <item component="ComponentInfo{com.wirelessalien.zipxtract/com.wirelessalien.zipxtract.FragmentActivity}" drawable="zipxtract" />
     <item component="ComponentInfo{de.rainerhock.eightbitwonders/de.rainerhock.eightbitwonders.MainActivity}" drawable="_8_bit_wonders" />
+	<item component="ComponentInfo{it.niedermann.nextcloud.deck.play/it.niedermann.nextcloud.deck.ui.main.MainActivity}" drawable="deck" />
+    <item component="ComponentInfo{com.motorola.dolby.dolbyui.ui/com.motorola.dolby.dolbyui.ui.LauncherActivity}" drawable="dolby_atmos" />
+    <item component="ComponentInfo{org.lichess.mobileapp/org.lichess.mobileapp.MainActivity}" drawable="lichess" />
+    <item component="ComponentInfo{org.openfoodfacts.scanner/org.openfoodfacts.app.MainActivity}" drawable="openfoodfacts" />
+    <item component="ComponentInfo{org.torproject.android/org.torproject.android.OrbotActivity}" drawable="orbot" />
+    <item component="ComponentInfo{com.android.fmradio/com.android.fmradio.FmMainActivity}" drawable="radio_fm" />
 
 </resources>
