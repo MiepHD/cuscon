@@ -2481,5 +2481,9 @@
     <item class="net.kismetwireless.android.smarterwifimanager.MainActivity" name="smarter_wi_fi_manager"/>
     <item class="de.spritmonitor.smapp_android.ui.activities.VehiclesActivity" name="spritmonitor"/>
     <item class="de.dwd.warnapp.base.MainActivity" name="warnwetter"/>
+    <item class="com.cozi.android.activity.DispatcherActivity" name="cozi"/>
+    <item class="net.mullvad.mullvadvpn.ui.MainActivity" name="mullvad_vpn"/>
+    <item class="io.heckel.ntfy.ui.MainActivity" name="ntfy"/>
+    <item class="com.banking.bankinglibrary.activities.SplashActivity" name="azfcu"/>
 
 </appmap>
