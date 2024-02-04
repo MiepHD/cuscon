@@ -2719,5 +2719,6 @@
     <item component="ComponentInfo{org.openfoodfacts.scanner/org.openfoodfacts.app.MainActivity}" drawable="openfoodfacts" />
     <item component="ComponentInfo{org.torproject.android/org.torproject.android.OrbotActivity}" drawable="orbot" />
     <item component="ComponentInfo{com.android.fmradio/com.android.fmradio.FmMainActivity}" drawable="radio_fm" />
+	<item component="ComponentInfo{app.grapheneos.camera.play/app.grapheneos.camera.ui.activities.MainActivity}" drawable="grapheneos_camera" />
 
 </resources>

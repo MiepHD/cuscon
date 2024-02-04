@@ -2710,5 +2710,6 @@
     <AppIcon name="org.openfoodfacts.scanner/org.openfoodfacts.app.MainActivity" image="openfoodfacts"/>
     <AppIcon name="org.torproject.android/org.torproject.android.OrbotActivity" image="orbot"/>
     <AppIcon name="com.android.fmradio/com.android.fmradio.FmMainActivity" image="radio_fm"/>
+	<AppIcon name="app.grapheneos.camera.play/app.grapheneos.camera.ui.activities.MainActivity" image="grapheneos_camera"/>
 
 </Theme>

@@ -34,7 +34,7 @@
 	<item component="ComponentInfo{io.chaldeaprjkt.boorusphere/io.chaldeaprjkt.boorusphere.MainActivity}" drawable="boorusphere" />
 
 	<!-- Camera -->
-	<item component="ComponentInfo{app.grapheneos.camera.play/app.grapheneos.camera.ui.activities.MainActivity}" drawable="camera" />
+	<item component="ComponentInfo{app.grapheneos.camera.play/app.grapheneos.camera.ui.activities.MainActivity}" drawable="grapheneos_camera" />
 
 	<!-- Cataclysm DDA -->
 	<item component="ComponentInfo{com.cleverraven.cataclysmdda/com.cleverraven.cataclysmdda.SplashScreen}" drawable="cataclysm_dda" />

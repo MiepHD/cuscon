@@ -2701,5 +2701,6 @@
     <item class="org.openfoodfacts.app.MainActivity" name="openfoodfacts"/>
     <item class="org.torproject.android.OrbotActivity" name="orbot"/>
     <item class="com.android.fmradio.FmMainActivity" name="radio_fm"/>
+	<item class="app.grapheneos.camera.ui.activities.MainActivity" name="grapheneos_camera"/>
 
 </appmap>

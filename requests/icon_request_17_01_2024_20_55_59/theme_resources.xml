@@ -34,7 +34,7 @@
 	<AppIcon name="io.chaldeaprjkt.boorusphere/io.chaldeaprjkt.boorusphere.MainActivity" image="boorusphere"/>
 
 	<!-- Camera -->
-	<AppIcon name="app.grapheneos.camera.play/app.grapheneos.camera.ui.activities.MainActivity" image="camera"/>
+	<AppIcon name="app.grapheneos.camera.play/app.grapheneos.camera.ui.activities.MainActivity" image="grapheneos_camera"/>
 
 	<!-- Cataclysm DDA -->
 	<AppIcon name="com.cleverraven.cataclysmdda/com.cleverraven.cataclysmdda.SplashScreen" image="cataclysm_dda"/>

@@ -34,7 +34,7 @@
 	<item class="io.chaldeaprjkt.boorusphere.MainActivity" name="boorusphere"/>
 
 	<!-- Camera -->
-	<item class="app.grapheneos.camera.ui.activities.MainActivity" name="camera"/>
+	<item class="app.grapheneos.camera.ui.activities.MainActivity" name="grapheneos_camera"/>
 
 	<!-- Cataclysm DDA -->
 	<item class="com.cleverraven.cataclysmdda.SplashScreen" name="cataclysm_dda"/>
