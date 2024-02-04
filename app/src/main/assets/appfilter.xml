@@ -2534,14 +2534,14 @@
     <item component="ComponentInfo{com.gamepass.beta/com.gamepass.MainActivity}" drawable="xbox_game_pass" />
 	<item component="ComponentInfo{pl.alipaczka.app/pl.alipaczka.app.MainActivity}" drawable="alipaczka" />
     <item component="ComponentInfo{pl.allegro/pl.allegro.Allegro}" drawable="allegro" />
-    <item component="ComponentInfo{mobile.eaudiologia/mobile.eaudiologia.BadanieSluchu}" drawable="badanie_słuchu" />
+    <item component="ComponentInfo{mobile.eaudiologia/mobile.eaudiologia.BadanieSluchu}" drawable="badanie_sluchu" />
     <item component="ComponentInfo{com.PlausibleConcept.BadNorthFull/com.amberstudio.mylibrary.UnityPlayerActivity_Fullscreen}" drawable="bad_north" />
     <item component="ComponentInfo{com.coloros.onekeylockscreen/com.oplus.onekeylockscreen.OneKeyLockScreen}" drawable="blokada_ekranu" />
     <item component="ComponentInfo{com.booking/com.booking.startup.HomeActivity}" drawable="bookingcom" />
     <item component="ComponentInfo{com.pawelm.gdzieonjest/com.pawelm.gdzieonjest.activities.SplashActivity}" drawable="buslive" />
     <item component="ComponentInfo{pl.cda/pl.cda.ui.welcome.WelcomeActivity}" drawable="cdapl" />
     <item component="ComponentInfo{com.garmin.android.apps.connectmobile/com.garmin.android.apps.connectmobile.GCMActivityStartup}" drawable="connect" />
-    <item component="ComponentInfo{pl.diki/pl.etutor.android.app.MainActivity}" drawable="diki_słownik_angielskiego" />
+    <item component="ComponentInfo{pl.diki/pl.etutor.android.app.MainActivity}" drawable="diki_slownik_angielskiego" />
     <item component="ComponentInfo{com.tascam.android.drcontrol/com.tascam.android.drcontrol.DisconnectedActivity}" drawable="dr_control" />
     <item component="ComponentInfo{com.netatmo.thermostat/com.netatmo.thermostat.dashboard.DashboardActivity}" drawable="energia" />
     <item component="ComponentInfo{com.oceanwing.smarthome/com.oceanwing.eufylife.ui.activity.WelcomeActivity}" drawable="eufylife" />

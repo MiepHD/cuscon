@@ -2516,14 +2516,14 @@
     <item class="com.gamepass.MainActivity" name="xbox_game_pass"/>
 	<item class="pl.alipaczka.app.MainActivity" name="alipaczka"/>
     <item class="pl.allegro.Allegro" name="allegro"/>
-    <item class="mobile.eaudiologia.BadanieSluchu" name="badanie_słuchu"/>
+    <item class="mobile.eaudiologia.BadanieSluchu" name="badanie_sluchu"/>
     <item class="com.amberstudio.mylibrary.UnityPlayerActivity_Fullscreen" name="bad_north"/>
     <item class="com.oplus.onekeylockscreen.OneKeyLockScreen" name="blokada_ekranu"/>
     <item class="com.booking.startup.HomeActivity" name="bookingcom"/>
     <item class="com.pawelm.gdzieonjest.activities.SplashActivity" name="buslive"/>
     <item class="pl.cda.ui.welcome.WelcomeActivity" name="cdapl"/>
     <item class="com.garmin.android.apps.connectmobile.GCMActivityStartup" name="connect"/>
-    <item class="pl.etutor.android.app.MainActivity" name="diki_słownik_angielskiego"/>
+    <item class="pl.etutor.android.app.MainActivity" name="diki_slownik_angielskiego"/>
     <item class="com.tascam.android.drcontrol.DisconnectedActivity" name="dr_control"/>
     <item class="com.netatmo.thermostat.dashboard.DashboardActivity" name="energia"/>
     <item class="com.oceanwing.eufylife.ui.activity.WelcomeActivity" name="eufylife"/>

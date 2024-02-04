@@ -2525,14 +2525,14 @@
     <AppIcon name="com.gamepass.beta/com.gamepass.MainActivity" image="xbox_game_pass"/>
 	<AppIcon name="pl.alipaczka.app/pl.alipaczka.app.MainActivity" image="alipaczka"/>
     <AppIcon name="pl.allegro/pl.allegro.Allegro" image="allegro"/>
-    <AppIcon name="mobile.eaudiologia/mobile.eaudiologia.BadanieSluchu" image="badanie_słuchu"/>
+    <AppIcon name="mobile.eaudiologia/mobile.eaudiologia.BadanieSluchu" image="badanie_sluchu"/>
     <AppIcon name="com.PlausibleConcept.BadNorthFull/com.amberstudio.mylibrary.UnityPlayerActivity_Fullscreen" image="bad_north"/>
     <AppIcon name="com.coloros.onekeylockscreen/com.oplus.onekeylockscreen.OneKeyLockScreen" image="blokada_ekranu"/>
     <AppIcon name="com.booking/com.booking.startup.HomeActivity" image="bookingcom"/>
     <AppIcon name="com.pawelm.gdzieonjest/com.pawelm.gdzieonjest.activities.SplashActivity" image="buslive"/>
     <AppIcon name="pl.cda/pl.cda.ui.welcome.WelcomeActivity" image="cdapl"/>
     <AppIcon name="com.garmin.android.apps.connectmobile/com.garmin.android.apps.connectmobile.GCMActivityStartup" image="connect"/>
-    <AppIcon name="pl.diki/pl.etutor.android.app.MainActivity" image="diki_słownik_angielskiego"/>
+    <AppIcon name="pl.diki/pl.etutor.android.app.MainActivity" image="diki_slownik_angielskiego"/>
     <AppIcon name="com.tascam.android.drcontrol/com.tascam.android.drcontrol.DisconnectedActivity" image="dr_control"/>
     <AppIcon name="com.netatmo.thermostat/com.netatmo.thermostat.dashboard.DashboardActivity" image="energia"/>
     <AppIcon name="com.oceanwing.smarthome/com.oceanwing.eufylife.ui.activity.WelcomeActivity" image="eufylife"/>
