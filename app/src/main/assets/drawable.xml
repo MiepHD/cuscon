@@ -2015,7 +2015,6 @@
 	<item drawable="openkeychain" />
 	<item drawable="adobe_photoshop_express" />
     <item drawable="dooflix" />
-	<item drawable="coloros_clock" />
 	<item drawable="frankly" />
 	<item drawable="deezer" />
     <item drawable="firewall_main" />
@@ -2360,6 +2359,30 @@
     <item drawable="mullvad_vpn" />
     <item drawable="ntfy" />
     <item drawable="azfcu" />
-	<item drawable="lucky_patcher" />
+	<item drawable="android_dialer" />
+    <item drawable="android_soundrecorder" />
+    <item drawable="asiacell" />
+    <item drawable="blocker" />
+    <item drawable="checkcheck" />
+    <item drawable="crypto_prices" />
+    <item drawable="deskclock" />
+    <item drawable="download" />
+    <item drawable="guru_maps_pro" />
+    <item drawable="lightcut" />
+    <item drawable="logic_circuit_simulator_pro" />
+    <item drawable="meizu_files" />
+    <item drawable="meizu_safe" />
+    <item drawable="meizu_videos" />
+    <item drawable="migratool" />
+    <item drawable="mint_calculator" />
+    <item drawable="notepaper" />
+    <item drawable="opera_beta" />
+    <item drawable="pedometer" />
+    <item drawable="send_anywhere" />
+    <item drawable="sweat_wallet" />
+    <item drawable="system_launcher" />
+    <item drawable="tiktok_lite" />
+    <item drawable="update" />
+    <item drawable="user_support" />
 
 </resources>
