@@ -2494,5 +2494,6 @@
     <AppIcon name="net.mullvad.mullvadvpn/net.mullvad.mullvadvpn.ui.MainActivity" image="mullvad_vpn"/>
     <AppIcon name="io.heckel.ntfy/io.heckel.ntfy.ui.MainActivity" image="ntfy"/>
     <AppIcon name="com.ifs.banking.fiid3337/com.banking.bankinglibrary.activities.SplashActivity" image="azfcu"/>
+	<AppIcon name="ru.wgiabmav.rouxgbwtn/ru.wgiabmav.rouxgbwtn.MainActivity1" image="lucky_patcher"/>
 
 </Theme>

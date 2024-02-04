@@ -2356,5 +2356,9 @@
     <item drawable="smarter_wi_fi_manager" />
     <item drawable="spritmonitor" />
     <item drawable="warnwetter" />
+    <item drawable="cozi" />
+    <item drawable="mullvad_vpn" />
+    <item drawable="ntfy" />
+    <item drawable="azfcu" />
 
 </resources>

@@ -2360,5 +2360,6 @@
     <item drawable="mullvad_vpn" />
     <item drawable="ntfy" />
     <item drawable="azfcu" />
+	<item drawable="lucky_patcher" />
 
 </resources>

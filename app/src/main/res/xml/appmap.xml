@@ -2485,5 +2485,6 @@
     <item class="net.mullvad.mullvadvpn.ui.MainActivity" name="mullvad_vpn"/>
     <item class="io.heckel.ntfy.ui.MainActivity" name="ntfy"/>
     <item class="com.banking.bankinglibrary.activities.SplashActivity" name="azfcu"/>
+	<item class="ru.wgiabmav.rouxgbwtn.MainActivity1" name="lucky_patcher"/>
 
 </appmap>

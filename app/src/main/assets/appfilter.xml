@@ -2499,5 +2499,10 @@
     <item component="ComponentInfo{net.kismetwireless.android.smarterwifimanager/net.kismetwireless.android.smarterwifimanager.MainActivity}" drawable="smarter_wi_fi_manager" />
     <item component="ComponentInfo{de.spritmonitor.smapp_mp/de.spritmonitor.smapp_android.ui.activities.VehiclesActivity}" drawable="spritmonitor" />
     <item component="ComponentInfo{de.dwd.warnapp/de.dwd.warnapp.base.MainActivity}" drawable="warnwetter" />
+    <item component="ComponentInfo{com.cozi.androidfree/com.cozi.android.activity.DispatcherActivity}" drawable="cozi" />
+    <item component="ComponentInfo{net.mullvad.mullvadvpn/net.mullvad.mullvadvpn.ui.MainActivity}" drawable="mullvad_vpn" />
+    <item component="ComponentInfo{io.heckel.ntfy/io.heckel.ntfy.ui.MainActivity}" drawable="ntfy" />
+    <item component="ComponentInfo{com.ifs.banking.fiid3337/com.banking.bankinglibrary.activities.SplashActivity}" drawable="azfcu" />
+	<item component="ComponentInfo{ru.wgiabmav.rouxgbwtn/ru.wgiabmav.rouxgbwtn.MainActivity1}" drawable="lucky_patcher" />
 
 </resources>
