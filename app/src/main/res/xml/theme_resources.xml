@@ -2647,5 +2647,6 @@
     <AppIcon name="app.yulu.bike/app.yulu.bike.ui.launcherIcon.SplashActivityDefault" image="yulu"/>
     <AppIcon name="com.mirfatif.noorulhuda/com.mirfatif.noorulhuda.quran.MainActivity" image="noorulhuda"/>
 	<AppIcon name="meteor.test.and.grade.internet.connection.speed/meteor.test.and.grade.internet.connection.speed.activities.WelcomeActivity" image="meteor_internet_test"/>
+	<AppIcon name="dev.zwander.mastodonredirect/dev.zwander.mastodonredirect.MainActivity" image="lemmy_redirect"/>
 
 </Theme>

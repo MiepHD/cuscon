@@ -2638,5 +2638,6 @@
     <item class="app.yulu.bike.ui.launcherIcon.SplashActivityDefault" name="yulu"/>
     <item class="com.mirfatif.noorulhuda.quran.MainActivity" name="noorulhuda"/>
 	<item class="meteor.test.and.grade.internet.connection.speed.activities.WelcomeActivity" name="meteor_internet_test"/>
+	<item class="dev.zwander.mastodonredirect.MainActivity" name="lemmy_redirect"/>
 
 </appmap>

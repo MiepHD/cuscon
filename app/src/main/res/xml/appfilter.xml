@@ -2656,5 +2656,6 @@
     <item component="ComponentInfo{app.yulu.bike/app.yulu.bike.ui.launcherIcon.SplashActivityDefault}" drawable="yulu" />
     <item component="ComponentInfo{com.mirfatif.noorulhuda/com.mirfatif.noorulhuda.quran.MainActivity}" drawable="noorulhuda" />
 	<item component="ComponentInfo{meteor.test.and.grade.internet.connection.speed/meteor.test.and.grade.internet.connection.speed.activities.WelcomeActivity}" drawable="meteor_internet_test" />
+	<item component="ComponentInfo{dev.zwander.mastodonredirect/dev.zwander.mastodonredirect.MainActivity}" drawable="lemmy_redirect" />
 
 </resources>
