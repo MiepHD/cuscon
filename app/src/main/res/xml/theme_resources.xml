@@ -2587,5 +2587,9 @@
 	<AppIcon name="com.paytm.business/com.paytm.business.splash.SplashActivity" image="paytm_for_business"/>
     <AppIcon name="com.hdfcbank.payzapp/com.apollorncontainer.activities.SplashActivity" image="payzapp"/>
     <AppIcon name="com.rhmsoft.pulsar/com.rhmsoft.play.MainActivity" image="pulsar"/>
+	<AppIcon name="com.mm.android.DMSS/com.mm.android.base.devicemain.SplashActivity" image="dmss"/>
+    <AppIcon name="com.sovworks.edslite/com.sovworks.eds.android.filemanager.activities.FileManagerActivity" image="eds_lite"/>
+    <AppIcon name="app.simple.inure/app.simple.inure.activities.app.MainActivity" image="inure"/>
+    <AppIcon name="org.koitharu.kotatsu/org.koitharu.kotatsu.main.ui.MainActivity" image="kotatsu"/>
 
 </Theme>

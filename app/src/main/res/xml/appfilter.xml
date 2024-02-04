@@ -2596,5 +2596,9 @@
 	<item component="ComponentInfo{com.paytm.business/com.paytm.business.splash.SplashActivity}" drawable="paytm_for_business" />
     <item component="ComponentInfo{com.hdfcbank.payzapp/com.apollorncontainer.activities.SplashActivity}" drawable="payzapp" />
     <item component="ComponentInfo{com.rhmsoft.pulsar/com.rhmsoft.play.MainActivity}" drawable="pulsar" />
+	<item component="ComponentInfo{com.mm.android.DMSS/com.mm.android.base.devicemain.SplashActivity}" drawable="dmss" />
+    <item component="ComponentInfo{com.sovworks.edslite/com.sovworks.eds.android.filemanager.activities.FileManagerActivity}" drawable="eds_lite" />
+    <item component="ComponentInfo{app.simple.inure/app.simple.inure.activities.app.MainActivity}" drawable="inure" />
+    <item component="ComponentInfo{org.koitharu.kotatsu/org.koitharu.kotatsu.main.ui.MainActivity}" drawable="kotatsu" />
 
 </resources>

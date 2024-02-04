@@ -2448,5 +2448,9 @@
 	<item drawable="paytm_for_business" />
     <item drawable="payzapp" />
     <item drawable="pulsar" />
+	<item drawable="dmss" />
+    <item drawable="eds_lite" />
+    <item drawable="inure" />
+    <item drawable="kotatsu" />
 
 </resources>

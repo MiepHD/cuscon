@@ -2578,5 +2578,9 @@
 	<item class="com.paytm.business.splash.SplashActivity" name="paytm_for_business"/>
     <item class="com.apollorncontainer.activities.SplashActivity" name="payzapp"/>
     <item class="com.rhmsoft.play.MainActivity" name="pulsar"/>
+	<item class="com.mm.android.base.devicemain.SplashActivity" name="dmss"/>
+    <item class="com.sovworks.eds.android.filemanager.activities.FileManagerActivity" name="eds_lite"/>
+    <item class="app.simple.inure.activities.app.MainActivity" name="inure"/>
+    <item class="org.koitharu.kotatsu.main.ui.MainActivity" name="kotatsu"/>
 
 </appmap>
