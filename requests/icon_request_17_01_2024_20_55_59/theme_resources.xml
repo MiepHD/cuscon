@@ -97,7 +97,7 @@
 	<AppIcon name="net.strct.kalker/net.strct.kalker.MainActivity" image="kalker"/>
 
 	<!-- Kamera -->
-	<AppIcon name="com.motorola.odm.camera3/com.android.camera.CameraLauncher" image="kamera"/>
+	<AppIcon name="com.motorola.odm.camera3/com.android.camera.CameraLauncher" image="motorola_camera3"/>
 
 	<!-- Karma FW -->
 	<AppIcon name="net.stargw.fok/net.stargw.karma.ActivityMain" image="karma_fw"/>
@@ -136,7 +136,7 @@
 	<AppIcon name="de.number26.android/de.number26.machete.android.refactor.presentation.settings.customize_icon.launch_aliases.TealActivityLauncher" image="n26"/>
 
 	<!-- News -->
-	<AppIcon name="de.luhmer.owncloudnewsreader/de.luhmer.owncloudnewsreader.NewsReaderListActivity" image="news"/>
+	<AppIcon name="de.luhmer.owncloudnewsreader/de.luhmer.owncloudnewsreader.NewsReaderListActivity" image="owncloudnewsreader"/>
 
 	<!-- NFC-Leser -->
 	<AppIcon name="com.github.muellerma.nfcreader/com.github.muellerma.nfcreader.MainActivity" image="nfc_leser"/>

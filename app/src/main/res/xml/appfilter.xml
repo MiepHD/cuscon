@@ -2686,5 +2686,32 @@
     <item component="ComponentInfo{com.github.axet.torrentclient/com.github.axet.torrentclient.activities.MainActivity}" drawable="torrent_client" />
 	<item component="ComponentInfo{com.jio.poslite/com.jio.poslite.activities.SplashScreenActivity}" drawable="jiopos_lite" />
     <item component="ComponentInfo{com.msf.kbank.mobile/com.msf.kbank.mobile.launcher_d5e15a74df3d33e17b26d16a879646bfef34a86881463b2b8442d76af1f6f1f4}" drawable="kotak_bank" />
+	<item component="ComponentInfo{com.vitorpamplona.amethyst/com.vitorpamplona.amethyst.ui.MainActivity}" drawable="amethyst" />
+    <item component="ComponentInfo{com.furryapp/com.furryapp.MainActivity}" drawable="barq" />
+    <item component="ComponentInfo{f.cking.software/f.cking.software.ui.MainActivity}" drawable="ble_radar" />
+    <item component="ComponentInfo{com.cleverraven.cataclysmdda/com.cleverraven.cataclysmdda.SplashScreen}" drawable="cataclysm_dda" />
+    <item component="ComponentInfo{chat.delta/org.thoughtcrime.securesms.RoutingActivity}" drawable="delta_chat" />
+    <item component="ComponentInfo{org.dolphinemu.dolphinemu/org.dolphinemu.dolphinemu.ui.main.MainActivity}" drawable="dolphin_emulator" />
+    <item component="ComponentInfo{nodomain.freeyourgadget.gadgetbridge/nodomain.freeyourgadget.gadgetbridge.activities.ControlCenterv2}" drawable="gadgetbridge" />
+    <item component="ComponentInfo{org.mian.gitnex/org.mian.gitnex.activities.MainActivity}" drawable="gitnex" />
+    <item component="ComponentInfo{net.stargw.fok/net.stargw.karma.ActivityMain}" drawable="karma_fw" />
+    <item component="ComponentInfo{com.motorola.odm.camera3/com.android.camera.CameraLauncher}" drawable="motorola_camera3" />
+    <item component="ComponentInfo{com.starry.myne/com.starry.myne.MainActivity}" drawable="myne" />
+    <item component="ComponentInfo{de.number26.android/de.number26.machete.android.refactor.presentation.settings.customize_icon.launch_aliases.TealActivityLauncher}" drawable="n26" />
+    <item component="ComponentInfo{com.github.muellerma.nfcreader/com.github.muellerma.nfcreader.MainActivity}" drawable="nfc_leser" />
+    <item component="ComponentInfo{int.nato.ni2ce/im.vector.application.features.Alias}" drawable="ni2ce" />
+    <item component="ComponentInfo{org.woheller69.omweather/org.woheller69.weather.activities.SplashActivity}" drawable="omweather" />
+    <item component="ComponentInfo{io.openrct2/io.openrct2.MainActivity}" drawable="openrct2" />
+    <item component="ComponentInfo{de.luhmer.owncloudnewsreader/de.luhmer.owncloudnewsreader.NewsReaderListActivity}" drawable="owncloudnewsreader" />
+    <item component="ComponentInfo{screen.dimmer.pixelfilter/screen.dimmer.pixelfilter.MainActivity}" drawable="pixel_filter" />
+    <item component="ComponentInfo{org.ppsspp.ppssppgold/org.ppsspp.ppsspp.PpssppActivity}" drawable="ppsspp_gold" />
+    <item component="ComponentInfo{com.planetromeo.android.app/com.planetromeo.android.app.authentication.splash.SplashActivity}" drawable="romeo_uncut" />
+    <item component="ComponentInfo{rs.ruffle/rs.ruffle.MainActivity}" drawable="ruffle" />
+    <item component="ComponentInfo{com.android.soundrecorder/com.sprd.soundrecorder.RecorderActivity}" drawable="soundrekorder" />
+    <item component="ComponentInfo{de.heinekingmedia.stashcat/de.heinekingmedia.stashcat.start.StartActivity}" drawable="stashcat" />
+    <item component="ComponentInfo{im.status.ethereum/im.status.ethereum.MainActivity}" drawable="status" />
+    <item component="ComponentInfo{tv.vhx.worldofwonder/tv.vhx.LauncherActivity}" drawable="wow" />
+    <item component="ComponentInfo{com.wirelessalien.zipxtract/com.wirelessalien.zipxtract.FragmentActivity}" drawable="zipxtract" />
+    <item component="ComponentInfo{de.rainerhock.eightbitwonders/de.rainerhock.eightbitwonders.MainActivity}" drawable="_8_bit_wonders" />
 
 </resources>

@@ -2527,5 +2527,32 @@
     <item drawable="torrent_client" />
 	<item drawable="jiopos_lite" />
     <item drawable="kotak_bank" />
+	<item drawable="amethyst" />
+    <item drawable="barq" />
+    <item drawable="ble_radar" />
+    <item drawable="cataclysm_dda" />
+    <item drawable="delta_chat" />
+    <item drawable="dolphin_emulator" />
+    <item drawable="gadgetbridge" />
+    <item drawable="gitnex" />
+    <item drawable="karma_fw" />
+    <item drawable="motorola_camera3" />
+    <item drawable="myne" />
+    <item drawable="n26" />
+    <item drawable="nfc_leser" />
+    <item drawable="ni2ce" />
+    <item drawable="omweather" />
+    <item drawable="openrct2" />
+    <item drawable="owncloudnewsreader" />
+    <item drawable="pixel_filter" />
+    <item drawable="ppsspp_gold" />
+    <item drawable="romeo_uncut" />
+    <item drawable="ruffle" />
+    <item drawable="soundrekorder" />
+    <item drawable="stashcat" />
+    <item drawable="status" />
+    <item drawable="wow" />
+    <item drawable="zipxtract" />
+    <item drawable="_8_bit_wonders" />
 
 </resources>

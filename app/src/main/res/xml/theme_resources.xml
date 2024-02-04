@@ -2677,5 +2677,32 @@
     <AppIcon name="com.github.axet.torrentclient/com.github.axet.torrentclient.activities.MainActivity" image="torrent_client"/>
 	<AppIcon name="com.jio.poslite/com.jio.poslite.activities.SplashScreenActivity" image="jiopos_lite"/>
     <AppIcon name="com.msf.kbank.mobile/com.msf.kbank.mobile.launcher_d5e15a74df3d33e17b26d16a879646bfef34a86881463b2b8442d76af1f6f1f4" image="kotak_bank"/>
+	<AppIcon name="com.vitorpamplona.amethyst/com.vitorpamplona.amethyst.ui.MainActivity" image="amethyst"/>
+    <AppIcon name="com.furryapp/com.furryapp.MainActivity" image="barq"/>
+    <AppIcon name="f.cking.software/f.cking.software.ui.MainActivity" image="ble_radar"/>
+    <AppIcon name="com.cleverraven.cataclysmdda/com.cleverraven.cataclysmdda.SplashScreen" image="cataclysm_dda"/>
+    <AppIcon name="chat.delta/org.thoughtcrime.securesms.RoutingActivity" image="delta_chat"/>
+    <AppIcon name="org.dolphinemu.dolphinemu/org.dolphinemu.dolphinemu.ui.main.MainActivity" image="dolphin_emulator"/>
+    <AppIcon name="nodomain.freeyourgadget.gadgetbridge/nodomain.freeyourgadget.gadgetbridge.activities.ControlCenterv2" image="gadgetbridge"/>
+    <AppIcon name="org.mian.gitnex/org.mian.gitnex.activities.MainActivity" image="gitnex"/>
+    <AppIcon name="net.stargw.fok/net.stargw.karma.ActivityMain" image="karma_fw"/>
+    <AppIcon name="com.motorola.odm.camera3/com.android.camera.CameraLauncher" image="motorola_camera3"/>
+    <AppIcon name="com.starry.myne/com.starry.myne.MainActivity" image="myne"/>
+    <AppIcon name="de.number26.android/de.number26.machete.android.refactor.presentation.settings.customize_icon.launch_aliases.TealActivityLauncher" image="n26"/>
+    <AppIcon name="com.github.muellerma.nfcreader/com.github.muellerma.nfcreader.MainActivity" image="nfc_leser"/>
+    <AppIcon name="int.nato.ni2ce/im.vector.application.features.Alias" image="ni2ce"/>
+    <AppIcon name="org.woheller69.omweather/org.woheller69.weather.activities.SplashActivity" image="omweather"/>
+    <AppIcon name="io.openrct2/io.openrct2.MainActivity" image="openrct2"/>
+    <AppIcon name="de.luhmer.owncloudnewsreader/de.luhmer.owncloudnewsreader.NewsReaderListActivity" image="owncloudnewsreader"/>
+    <AppIcon name="screen.dimmer.pixelfilter/screen.dimmer.pixelfilter.MainActivity" image="pixel_filter"/>
+    <AppIcon name="org.ppsspp.ppssppgold/org.ppsspp.ppsspp.PpssppActivity" image="ppsspp_gold"/>
+    <AppIcon name="com.planetromeo.android.app/com.planetromeo.android.app.authentication.splash.SplashActivity" image="romeo_uncut"/>
+    <AppIcon name="rs.ruffle/rs.ruffle.MainActivity" image="ruffle"/>
+    <AppIcon name="com.android.soundrecorder/com.sprd.soundrecorder.RecorderActivity" image="soundrekorder"/>
+    <AppIcon name="de.heinekingmedia.stashcat/de.heinekingmedia.stashcat.start.StartActivity" image="stashcat"/>
+    <AppIcon name="im.status.ethereum/im.status.ethereum.MainActivity" image="status"/>
+    <AppIcon name="tv.vhx.worldofwonder/tv.vhx.LauncherActivity" image="wow"/>
+    <AppIcon name="com.wirelessalien.zipxtract/com.wirelessalien.zipxtract.FragmentActivity" image="zipxtract"/>
+    <AppIcon name="de.rainerhock.eightbitwonders/de.rainerhock.eightbitwonders.MainActivity" image="_8_bit_wonders"/>
 
 </Theme>

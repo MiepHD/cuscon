@@ -97,7 +97,7 @@
 	<item class="net.strct.kalker.MainActivity" name="kalker"/>
 
 	<!-- Kamera -->
-	<item class="com.android.camera.CameraLauncher" name="kamera"/>
+	<item class="com.android.camera.CameraLauncher" name="motorola_camera3"/>
 
 	<!-- Karma FW -->
 	<item class="net.stargw.karma.ActivityMain" name="karma_fw"/>
@@ -136,7 +136,7 @@
 	<item class="de.number26.machete.android.refactor.presentation.settings.customize_icon.launch_aliases.TealActivityLauncher" name="n26"/>
 
 	<!-- News -->
-	<item class="de.luhmer.owncloudnewsreader.NewsReaderListActivity" name="news"/>
+	<item class="de.luhmer.owncloudnewsreader.NewsReaderListActivity" name="owncloudnewsreader"/>
 
 	<!-- NFC-Leser -->
 	<item class="com.github.muellerma.nfcreader.MainActivity" name="nfc_leser"/>

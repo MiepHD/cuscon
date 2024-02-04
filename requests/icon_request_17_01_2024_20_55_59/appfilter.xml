@@ -97,7 +97,7 @@
 	<item component="ComponentInfo{net.strct.kalker/net.strct.kalker.MainActivity}" drawable="kalker" />
 
 	<!-- Kamera -->
-	<item component="ComponentInfo{com.motorola.odm.camera3/com.android.camera.CameraLauncher}" drawable="kamera" />
+	<item component="ComponentInfo{com.motorola.odm.camera3/com.android.camera.CameraLauncher}" drawable="motorola_camera3" />
 
 	<!-- Karma FW -->
 	<item component="ComponentInfo{net.stargw.fok/net.stargw.karma.ActivityMain}" drawable="karma_fw" />
@@ -136,7 +136,7 @@
 	<item component="ComponentInfo{de.number26.android/de.number26.machete.android.refactor.presentation.settings.customize_icon.launch_aliases.TealActivityLauncher}" drawable="n26" />
 
 	<!-- News -->
-	<item component="ComponentInfo{de.luhmer.owncloudnewsreader/de.luhmer.owncloudnewsreader.NewsReaderListActivity}" drawable="news" />
+	<item component="ComponentInfo{de.luhmer.owncloudnewsreader/de.luhmer.owncloudnewsreader.NewsReaderListActivity}" drawable="owncloudnewsreader" />
 
 	<!-- NFC-Leser -->
 	<item component="ComponentInfo{com.github.muellerma.nfcreader/com.github.muellerma.nfcreader.MainActivity}" drawable="nfc_leser" />

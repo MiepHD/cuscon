@@ -2668,5 +2668,32 @@
     <item class="com.github.axet.torrentclient.activities.MainActivity" name="torrent_client"/>
 	<item class="com.jio.poslite.activities.SplashScreenActivity" name="jiopos_lite"/>
     <item class="com.msf.kbank.mobile.launcher_d5e15a74df3d33e17b26d16a879646bfef34a86881463b2b8442d76af1f6f1f4" name="kotak_bank"/>
+	<item class="com.vitorpamplona.amethyst.ui.MainActivity" name="amethyst"/>
+    <item class="com.furryapp.MainActivity" name="barq"/>
+    <item class="f.cking.software.ui.MainActivity" name="ble_radar"/>
+    <item class="com.cleverraven.cataclysmdda.SplashScreen" name="cataclysm_dda"/>
+    <item class="org.thoughtcrime.securesms.RoutingActivity" name="delta_chat"/>
+    <item class="org.dolphinemu.dolphinemu.ui.main.MainActivity" name="dolphin_emulator"/>
+    <item class="nodomain.freeyourgadget.gadgetbridge.activities.ControlCenterv2" name="gadgetbridge"/>
+    <item class="org.mian.gitnex.activities.MainActivity" name="gitnex"/>
+    <item class="net.stargw.karma.ActivityMain" name="karma_fw"/>
+    <item class="com.android.camera.CameraLauncher" name="motorola_camera3"/>
+    <item class="com.starry.myne.MainActivity" name="myne"/>
+    <item class="de.number26.machete.android.refactor.presentation.settings.customize_icon.launch_aliases.TealActivityLauncher" name="n26"/>
+    <item class="com.github.muellerma.nfcreader.MainActivity" name="nfc_leser"/>
+    <item class="im.vector.application.features.Alias" name="ni2ce"/>
+    <item class="org.woheller69.weather.activities.SplashActivity" name="omweather"/>
+    <item class="io.openrct2.MainActivity" name="openrct2"/>
+    <item class="de.luhmer.owncloudnewsreader.NewsReaderListActivity" name="owncloudnewsreader"/>
+    <item class="screen.dimmer.pixelfilter.MainActivity" name="pixel_filter"/>
+    <item class="org.ppsspp.ppsspp.PpssppActivity" name="ppsspp_gold"/>
+    <item class="com.planetromeo.android.app.authentication.splash.SplashActivity" name="romeo_uncut"/>
+    <item class="rs.ruffle.MainActivity" name="ruffle"/>
+    <item class="com.sprd.soundrecorder.RecorderActivity" name="soundrekorder"/>
+    <item class="de.heinekingmedia.stashcat.start.StartActivity" name="stashcat"/>
+    <item class="im.status.ethereum.MainActivity" name="status"/>
+    <item class="tv.vhx.LauncherActivity" name="wow"/>
+    <item class="com.wirelessalien.zipxtract.FragmentActivity" name="zipxtract"/>
+    <item class="de.rainerhock.eightbitwonders.MainActivity" name="_8_bit_wonders"/>
 
 </appmap>
