@@ -2575,5 +2575,8 @@
     <item class="com.yubico.authenticator.MainActivity" name="yubico_authenticator"/>
     <item class="com.codequest.zen.presentation.features.entrypoint.EntryPointActivity" name="zencom"/>
     <item class="com.zoho.mail.android.activities.Login" name="zoho_mail"/>
+	<item class="com.paytm.business.splash.SplashActivity" name="paytm_for_business"/>
+    <item class="com.apollorncontainer.activities.SplashActivity" name="payzapp"/>
+    <item class="com.rhmsoft.play.MainActivity" name="pulsar"/>
 
 </appmap>

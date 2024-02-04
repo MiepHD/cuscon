@@ -2584,5 +2584,8 @@
     <AppIcon name="com.yubico.yubioath/com.yubico.authenticator.MainActivity" image="yubico_authenticator"/>
     <AppIcon name="com.zen.application/com.codequest.zen.presentation.features.entrypoint.EntryPointActivity" image="zencom"/>
     <AppIcon name="com.zoho.mail/com.zoho.mail.android.activities.Login" image="zoho_mail"/>
+	<AppIcon name="com.paytm.business/com.paytm.business.splash.SplashActivity" image="paytm_for_business"/>
+    <AppIcon name="com.hdfcbank.payzapp/com.apollorncontainer.activities.SplashActivity" image="payzapp"/>
+    <AppIcon name="com.rhmsoft.pulsar/com.rhmsoft.play.MainActivity" image="pulsar"/>
 
 </Theme>

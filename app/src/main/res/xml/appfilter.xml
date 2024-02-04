@@ -2593,5 +2593,8 @@
     <item component="ComponentInfo{com.yubico.yubioath/com.yubico.authenticator.MainActivity}" drawable="yubico_authenticator" />
     <item component="ComponentInfo{com.zen.application/com.codequest.zen.presentation.features.entrypoint.EntryPointActivity}" drawable="zencom" />
     <item component="ComponentInfo{com.zoho.mail/com.zoho.mail.android.activities.Login}" drawable="zoho_mail" />
+	<item component="ComponentInfo{com.paytm.business/com.paytm.business.splash.SplashActivity}" drawable="paytm_for_business" />
+    <item component="ComponentInfo{com.hdfcbank.payzapp/com.apollorncontainer.activities.SplashActivity}" drawable="payzapp" />
+    <item component="ComponentInfo{com.rhmsoft.pulsar/com.rhmsoft.play.MainActivity}" drawable="pulsar" />
 
 </resources>
