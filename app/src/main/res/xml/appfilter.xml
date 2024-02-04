@@ -2530,5 +2530,7 @@
     <item component="ComponentInfo{com.meizu.flyme.update/com.meizu.flyme.update.SystemUpgradeListActivity}" drawable="update" />
     <item component="ComponentInfo{com.meizu.feedback/com.meizu.feedback.activity.MainActivity}" drawable="user_support" />
 	<item component="ComponentInfo{io.homeassistant.companion.android.minimal/io.homeassistant.companion.android.launch.LaunchActivity}" drawable="home_assistant" />
+	<item component="ComponentInfo{org.telegram.messenger.web/org.telegram.messenger.DefaultIcon}" drawable="telegram" />
+    <item component="ComponentInfo{com.gamepass.beta/com.gamepass.MainActivity}" drawable="xbox_game_pass" />
 
 </resources>

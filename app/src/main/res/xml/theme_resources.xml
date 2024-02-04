@@ -2521,5 +2521,7 @@
     <AppIcon name="com.meizu.flyme.update/com.meizu.flyme.update.SystemUpgradeListActivity" image="update"/>
     <AppIcon name="com.meizu.feedback/com.meizu.feedback.activity.MainActivity" image="user_support"/>
 	<AppIcon name="io.homeassistant.companion.android.minimal/io.homeassistant.companion.android.launch.LaunchActivity" image="home_assistant"/>
+	<AppIcon name="org.telegram.messenger.web/org.telegram.messenger.DefaultIcon" image="telegram"/>
+    <AppIcon name="com.gamepass.beta/com.gamepass.MainActivity" image="xbox_game_pass"/>
 
 </Theme>
