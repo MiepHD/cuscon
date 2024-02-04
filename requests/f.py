@@ -8,7 +8,7 @@ appfilter = ""
 appmap = ""
 theme_resources = ""
 
-if (exists("get/")):
+if (len(sys.argv) == 0):
     params = os.listdir("get/")
     params = [e.replace(".png", "") for e in params]
 else:

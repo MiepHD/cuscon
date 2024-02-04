@@ -2608,5 +2608,6 @@
     <item component="ComponentInfo{com.machiav3lli.fdroid/com.machiav3lli.fdroid.NeoActivity}" drawable="neo_store" />
     <item component="ComponentInfo{com.hardcodecoder.pulse/com.hardcodecoder.pulse.activities.ui.SplashActivity}" drawable="pulse_music" />
     <item component="ComponentInfo{io.github.zyrouge.symphony/io.github.zyrouge.symphony.MainActivity}" drawable="symphony" />
+	<item component="ComponentInfo{com.zionhuang.music.debug/com.zionhuang.music.MainActivity}" drawable="innertune" />
 
 </resources>

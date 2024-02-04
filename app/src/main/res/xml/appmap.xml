@@ -2590,5 +2590,6 @@
     <item class="com.machiav3lli.fdroid.NeoActivity" name="neo_store"/>
     <item class="com.hardcodecoder.pulse.activities.ui.SplashActivity" name="pulse_music"/>
     <item class="io.github.zyrouge.symphony.MainActivity" name="symphony"/>
+	<item class="com.zionhuang.music.MainActivity" name="innertune"/>
 
 </appmap>

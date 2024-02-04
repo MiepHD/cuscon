@@ -2593,5 +2593,20 @@
     <item component="ComponentInfo{com.yubico.yubioath/com.yubico.authenticator.MainActivity}" drawable="yubico_authenticator" />
     <item component="ComponentInfo{com.zen.application/com.codequest.zen.presentation.features.entrypoint.EntryPointActivity}" drawable="zencom" />
     <item component="ComponentInfo{com.zoho.mail/com.zoho.mail.android.activities.Login}" drawable="zoho_mail" />
+	<item component="ComponentInfo{com.paytm.business/com.paytm.business.splash.SplashActivity}" drawable="paytm_for_business" />
+    <item component="ComponentInfo{com.hdfcbank.payzapp/com.apollorncontainer.activities.SplashActivity}" drawable="payzapp" />
+    <item component="ComponentInfo{com.rhmsoft.pulsar/com.rhmsoft.play.MainActivity}" drawable="pulsar" />
+	<item component="ComponentInfo{com.mm.android.DMSS/com.mm.android.base.devicemain.SplashActivity}" drawable="dmss" />
+    <item component="ComponentInfo{com.sovworks.edslite/com.sovworks.eds.android.filemanager.activities.FileManagerActivity}" drawable="eds_lite" />
+    <item component="ComponentInfo{app.simple.inure/app.simple.inure.activities.app.MainActivity}" drawable="inure" />
+    <item component="ComponentInfo{org.koitharu.kotatsu/org.koitharu.kotatsu.main.ui.MainActivity}" drawable="kotatsu" />
+	<item component="ComponentInfo{com.mi.android.globalminusscreen/com.mi.android.globalminusscreen.tab.MainActivity}" drawable="app_vault" />
+    <item component="ComponentInfo{com.google.android.apps.classroom/com.google.android.apps.classroom.classroomflutter.MainActivity}" drawable="classroom" />
+    <item component="ComponentInfo{com.mixplorer/com.mixplorer.activities.BrowseActivity}" drawable="mix" />
+    <item component="ComponentInfo{rocks.mucke.github/com.ryanheise.audioservice.AudioServiceActivity}" drawable="mucke" />
+    <item component="ComponentInfo{com.saggitt.omega.alpha/com.saggitt.omega.NeoLauncher}" drawable="neo_launcher" />
+    <item component="ComponentInfo{com.machiav3lli.fdroid/com.machiav3lli.fdroid.NeoActivity}" drawable="neo_store" />
+    <item component="ComponentInfo{com.hardcodecoder.pulse/com.hardcodecoder.pulse.activities.ui.SplashActivity}" drawable="pulse_music" />
+    <item component="ComponentInfo{io.github.zyrouge.symphony/io.github.zyrouge.symphony.MainActivity}" drawable="symphony" />
 
 </resources>

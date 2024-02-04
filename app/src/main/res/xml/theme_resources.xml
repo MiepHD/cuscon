@@ -2599,5 +2599,6 @@
     <AppIcon name="com.machiav3lli.fdroid/com.machiav3lli.fdroid.NeoActivity" image="neo_store"/>
     <AppIcon name="com.hardcodecoder.pulse/com.hardcodecoder.pulse.activities.ui.SplashActivity" image="pulse_music"/>
     <AppIcon name="io.github.zyrouge.symphony/io.github.zyrouge.symphony.MainActivity" image="symphony"/>
+	<AppIcon name="com.zionhuang.music.debug/com.zionhuang.music.MainActivity" image="innertune"/>
 
 </Theme>
