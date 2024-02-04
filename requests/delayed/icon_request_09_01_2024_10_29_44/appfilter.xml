@@ -1,6 +1,0 @@
-<resources>
-
-	<!-- InputBridge -->
-	<item component="ComponentInfo{com.catfixture.inputbridge/com.catfixture.inputbridge.ui.activity.main.MainActivity}" drawable="inputbridge" />
-
-</resources>

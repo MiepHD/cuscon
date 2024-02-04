@@ -1,9 +1,0 @@
-<Theme version="1">
-
-	<!-- Battlegrounds India -->
-	<AppIcon name="com.pubg.imobile/com.epicgames.ue4.SplashActivity" image="battlegrounds_india"/>
-
-	<!-- Resso -->
-	<AppIcon name="com.moonvideo.android.resso/com.anote.android.bach.app.SplashActivity" image="resso"/>
-
-</Theme>

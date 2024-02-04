@@ -1,9 +1,0 @@
-<appmap>
-
-	<!-- Battlegrounds India -->
-	<item class="com.epicgames.ue4.SplashActivity" name="battlegrounds_india"/>
-
-	<!-- Resso -->
-	<item class="com.anote.android.bach.app.SplashActivity" name="resso"/>
-
-</appmap>

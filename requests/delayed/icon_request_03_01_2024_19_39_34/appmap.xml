@@ -1,6 +1,0 @@
-<appmap>
-
-	<!-- Waze -->
-	<item class="com.waze.FreeMapAppActivity" name="waze"/>
-
-</appmap>

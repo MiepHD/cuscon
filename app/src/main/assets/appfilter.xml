@@ -2532,5 +2532,66 @@
 	<item component="ComponentInfo{io.homeassistant.companion.android.minimal/io.homeassistant.companion.android.launch.LaunchActivity}" drawable="home_assistant" />
 	<item component="ComponentInfo{org.telegram.messenger.web/org.telegram.messenger.DefaultIcon}" drawable="telegram" />
     <item component="ComponentInfo{com.gamepass.beta/com.gamepass.MainActivity}" drawable="xbox_game_pass" />
+	<item component="ComponentInfo{pl.alipaczka.app/pl.alipaczka.app.MainActivity}" drawable="alipaczka" />
+    <item component="ComponentInfo{pl.allegro/pl.allegro.Allegro}" drawable="allegro" />
+    <item component="ComponentInfo{mobile.eaudiologia/mobile.eaudiologia.BadanieSluchu}" drawable="badanie_słuchu" />
+    <item component="ComponentInfo{com.PlausibleConcept.BadNorthFull/com.amberstudio.mylibrary.UnityPlayerActivity_Fullscreen}" drawable="bad_north" />
+    <item component="ComponentInfo{com.coloros.onekeylockscreen/com.oplus.onekeylockscreen.OneKeyLockScreen}" drawable="blokada_ekranu" />
+    <item component="ComponentInfo{com.booking/com.booking.startup.HomeActivity}" drawable="bookingcom" />
+    <item component="ComponentInfo{com.pawelm.gdzieonjest/com.pawelm.gdzieonjest.activities.SplashActivity}" drawable="buslive" />
+    <item component="ComponentInfo{pl.cda/pl.cda.ui.welcome.WelcomeActivity}" drawable="cdapl" />
+    <item component="ComponentInfo{com.garmin.android.apps.connectmobile/com.garmin.android.apps.connectmobile.GCMActivityStartup}" drawable="connect" />
+    <item component="ComponentInfo{pl.diki/pl.etutor.android.app.MainActivity}" drawable="diki_słownik_angielskiego" />
+    <item component="ComponentInfo{com.tascam.android.drcontrol/com.tascam.android.drcontrol.DisconnectedActivity}" drawable="dr_control" />
+    <item component="ComponentInfo{com.netatmo.thermostat/com.netatmo.thermostat.dashboard.DashboardActivity}" drawable="energia" />
+    <item component="ComponentInfo{com.oceanwing.smarthome/com.oceanwing.eufylife.ui.activity.WelcomeActivity}" drawable="eufylife" />
+    <item component="ComponentInfo{pl.ekartoteka.app/io.gonative.android.SplashActivity}" drawable="e_kartoteka" />
+    <item component="ComponentInfo{dev.jdtech.jellyfin/dev.jdtech.jellyfin.MainActivity}" drawable="findroid" />
+    <item component="ComponentInfo{taxi.android.client/taxi.android.client.feature.startup.ui.StartupActivity}" drawable="free_now" />
+    <item component="ComponentInfo{com.fun.mxw/io.dcloud.PandoraEntry}" drawable="fun_print" />
+    <item component="ComponentInfo{nl.viter.glider/nl.viter.glider.MainActivity}" drawable="glider" />
+    <item component="ComponentInfo{com.ikea.tradfri.lighting/com.ikea.tradfri.lighting.startup.activity.SplashActivity}" drawable="home_smart_1" />
+    <item component="ComponentInfo{pl.inpost.inmobile/pl.inpost.inmobile.splashScreen.presentation.SplashScreenActivity}" drawable="inpost_mobile" />
+    <item component="ComponentInfo{pl.plus.plusonline/pl.plus.plusonline.activity.SSO_WelcomeActivity}" drawable="iplus" />
+    <item component="ComponentInfo{com.citynav.jakdojade.pl.android/com.citynav.jakdojade.pl.android.SplashScreenActivity}" drawable="jakdojade" />
+    <item component="ComponentInfo{org.jellyfin.mobile/org.jellyfin.mobile.MainActivity}" drawable="jellyfin" />
+    <item component="ComponentInfo{com.sonelli.juicessh/com.sonelli.juicessh.activities.MainActivity}" drawable="juicessh" />
+    <item component="ComponentInfo{com.microsoft.rdc.androidx/com.microsoft.rdc.ui.activities.HomeActivity}" drawable="klient_pulpitu_zdalnego" />
+    <item component="ComponentInfo{com.microsoft.lists.public/com.microsoft.lists.MainActivity}" drawable="lists" />
+    <item component="ComponentInfo{com.livekidmobileadmin/com.livekidmobileadmin.MainActivity}" drawable="livekid" />
+    <item component="ComponentInfo{pl.xentivo.ummobiwawa/pl.xentivo.ummobiwawa.MainActivity}" drawable="mobiwawa" />
+    <item component="ComponentInfo{pl.nask.mobywatel/pl.gov.mc.fringers.mobywatel.MainActivity}" drawable="mobywatel" />
+	<item component="ComponentInfo{pl.carrefour.carrefourmobile/pl.carrefour.carrefourmobile.core.ui.main.splash.SplashScreenActivity}" drawable="moj_carrefour" />
+    <item component="ComponentInfo{com.interrait.mymazda/com.interrait.mymazda.activities.auth.SDMSplashActivity}" drawable="mymazda" />
+    <item component="ComponentInfo{com.kevinforeman.nzb360/com.kevinforeman.nzb360.StartupLauncher}" drawable="nzb360" />
+    <item component="ComponentInfo{softax.pekao.powerpay/com.pekao.peopay.presentation.MainActivity}" drawable="peopay" />
+    <item component="ComponentInfo{com.pluralsight/com.pluralsight.android.learner.launch.LaunchActivity}" drawable="pluralsight" />
+    <item component="ComponentInfo{pl.sodexo.dlaciebie2.app/pl.sodexo.dlaciebie2.app.ui.login.LoginActivity}" drawable="pluxee" />
+    <item component="ComponentInfo{com.pomelody/com.pomelody.MainActivity}" drawable="pomelody" />
+    <item component="ComponentInfo{pl.luxmed.pp/pl.luxmed.pp.ui.splash.SplashActivity}" drawable="portal_pacjenta" />
+    <item component="ComponentInfo{net.superblock.pushover/net.superblock.pushover.ui.MessageHistoryActivity}" drawable="pushover" />
+    <item component="ComponentInfo{com.qnap.qfile/com.qnap.qfile.ui.splash.SplashActivity}" drawable="qfile_pro" />
+    <item component="ComponentInfo{com.qnap.qmanager/com.qnap.qmanagerhd.login.Splash}" drawable="qmanager" />
+    <item component="ComponentInfo{com.remarkable.mobile/com.remarkable.mobile.MainActivity}" drawable="remarkable" />
+    <item component="ComponentInfo{pl.naviexpert.rysiek/pl.naviexpert.roger.ui.activities.SplashScreen}" drawable="rysiek" />
+    <item component="ComponentInfo{prox.lab.calclock/laboratory27.sectograph.MainActivity}" drawable="sectograph" />
+    <item component="ComponentInfo{com.lenovo.anyshare.gps/com.lenovo.anyshare.ApMainActivity}" drawable="shareit" />
+    <item component="ComponentInfo{org.thoughtcrime.securesms/org.thoughtcrime.securesms.RoutingActivityAltWhite}" drawable="signal_white" />
+    <item component="ComponentInfo{com.android.stk/com.android.stk.OplusStkLauncherActivity1}" drawable="simextra" />
+    <item component="ComponentInfo{rkr.simplekeyboard.inputmethod/rkr.simplekeyboard.inputmethod.latin.settings.SettingsActivity}" drawable="simple_keyboard" />
+    <item component="ComponentInfo{com.skycash.beta/com.norbsoft.android.ease.activities.SplashScreenActivity}" drawable="skycash" />
+    <item component="ComponentInfo{swbcdx.cap.shortwavelist/com.embarcadero.firemonkey.FMXNativeActivity}" drawable="skywave_schedules" />
+    <item component="ComponentInfo{om.sstvencoder/om.sstvencoder.MainActivity}" drawable="sstv_encoder" />
+    <item component="ComponentInfo{de.westnordost.streetcomplete/de.westnordost.streetcomplete.screens.MainActivity}" drawable="streetcomplete" />
+    <item component="ComponentInfo{com.sygic.aura/com.sygic.aura.activity.NaviNativeActivity}" drawable="sygic" />
+    <item component="ComponentInfo{com.topboxpl.app/host.exp.exponent.MainActivity}" drawable="top_box_poland" />
+    <item component="ComponentInfo{com.ionicframework.tornv2301860/com.ionicframework.tornv2301860.ui.MainActivity}" drawable="torn" />
+    <item component="ComponentInfo{com.udemy.android/com.udemy.android.SplashActivity}" drawable="udemy" />
+    <item component="ComponentInfo{com.nextbike.veturilo/pl.nextbike.app.NextbikeActivity}" drawable="veturilo" />
+    <item component="ComponentInfo{pl.xentivo.ummobile/pl.xentivo.ummobile.MainActivity}" drawable="warszawa_19115" />
+    <item component="ComponentInfo{com.xiaomi.smarthome/com.xiaomi.smarthome.SmartHomeMainActivity}" drawable="xiaomi_home" />
+    <item component="ComponentInfo{com.yubico.yubioath/com.yubico.authenticator.MainActivity}" drawable="yubico_authenticator" />
+    <item component="ComponentInfo{com.zen.application/com.codequest.zen.presentation.features.entrypoint.EntryPointActivity}" drawable="zencom" />
+    <item component="ComponentInfo{com.zoho.mail/com.zoho.mail.android.activities.Login}" drawable="zoho_mail" />
 
 </resources>

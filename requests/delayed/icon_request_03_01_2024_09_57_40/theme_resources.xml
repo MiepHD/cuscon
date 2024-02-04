@@ -1,9 +1,0 @@
-<Theme version="1">
-
-	<!-- Bubble Pop -->
-	<AppIcon name="ball.blast.bubble.pop.shooter.permainan.bola.buble/ball.blast.bubble.pop.shooter.permainan.bola.buble.StartAct" image="bubble_pop"/>
-
-	<!-- Free Fire MAX -->
-	<AppIcon name="com.dts.freefiremax/com.dts.freefireth.FFMainActivity" image="free_fire_max"/>
-
-</Theme>

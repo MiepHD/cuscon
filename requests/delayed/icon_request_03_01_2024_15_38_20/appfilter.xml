@@ -1,6 +1,0 @@
-<resources>
-
-	<!-- Traffic Rider -->
-	<item component="ComponentInfo{com.skgames.trafficrider/com.unity3d.player.UnityPlayerActivity}" drawable="traffic_rider" />
-
-</resources>

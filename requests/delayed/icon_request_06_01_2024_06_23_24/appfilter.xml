@@ -1,6 +1,0 @@
-<resources>
-
-	<!-- Poweramp -->
-	<item component="ComponentInfo{com.maxmpz.audioplayer/com.maxmpz.audioplayer.standard_adaptive}" drawable="poweramp" />
-
-</resources>

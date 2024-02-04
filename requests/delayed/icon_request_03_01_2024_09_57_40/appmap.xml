@@ -1,9 +1,0 @@
-<appmap>
-
-	<!-- Bubble Pop -->
-	<item class="ball.blast.bubble.pop.shooter.permainan.bola.buble.StartAct" name="bubble_pop"/>
-
-	<!-- Free Fire MAX -->
-	<item class="com.dts.freefireth.FFMainActivity" name="free_fire_max"/>
-
-</appmap>

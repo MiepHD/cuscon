@@ -1,6 +1,0 @@
-<resources>
-
-	<!-- Office: TextMaker -->
-	<item component="ComponentInfo{softmaker.applications.office.textmaker/softmaker.applications.textmaker.TextMaker}" drawable="office_textmaker" />
-
-</resources>

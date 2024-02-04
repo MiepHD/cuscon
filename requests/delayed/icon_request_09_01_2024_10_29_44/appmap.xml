@@ -1,6 +1,0 @@
-<appmap>
-
-	<!-- InputBridge -->
-	<item class="com.catfixture.inputbridge.ui.activity.main.MainActivity" name="inputbridge"/>
-
-</appmap>
