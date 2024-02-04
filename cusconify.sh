@@ -31,7 +31,7 @@ print_background $filename
 
 echo
 echo "Remove background"
-if [ $6 = "replace" ]; then
+if [ "$6" = "replace" ]; then
     magick $new_file -fill none -fuzz ${4:-25}% -draw "color ${2:-0},${3:-0} replace" "no_bg_$new_file"
 else
     magick $new_file -fill none -fuzz ${4:-25}% -draw "color ${2:-0},${3:-0} floodfill" "no_bg_$new_file"
