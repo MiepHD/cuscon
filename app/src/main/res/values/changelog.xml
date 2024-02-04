@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="changelog_date">1.02.2024</string>
+    <string name="changelog_date">4.02.2024</string>
     <string-array name="changelog">
         <item>4.0.0.9:</item>
         <item>Added Cozi, Mullvad VPN, ntfy, AZFCU</item>
