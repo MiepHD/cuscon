@@ -2582,5 +2582,13 @@
     <item class="com.sovworks.eds.android.filemanager.activities.FileManagerActivity" name="eds_lite"/>
     <item class="app.simple.inure.activities.app.MainActivity" name="inure"/>
     <item class="org.koitharu.kotatsu.main.ui.MainActivity" name="kotatsu"/>
+	<item class="com.mi.android.globalminusscreen.tab.MainActivity" name="app_vault"/>
+    <item class="com.google.android.apps.classroom.classroomflutter.MainActivity" name="classroom"/>
+    <item class="com.mixplorer.activities.BrowseActivity" name="mix"/>
+    <item class="com.ryanheise.audioservice.AudioServiceActivity" name="mucke"/>
+    <item class="com.saggitt.omega.NeoLauncher" name="neo_launcher"/>
+    <item class="com.machiav3lli.fdroid.NeoActivity" name="neo_store"/>
+    <item class="com.hardcodecoder.pulse.activities.ui.SplashActivity" name="pulse_music"/>
+    <item class="io.github.zyrouge.symphony.MainActivity" name="symphony"/>
 
 </appmap>

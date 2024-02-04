@@ -2591,5 +2591,13 @@
     <AppIcon name="com.sovworks.edslite/com.sovworks.eds.android.filemanager.activities.FileManagerActivity" image="eds_lite"/>
     <AppIcon name="app.simple.inure/app.simple.inure.activities.app.MainActivity" image="inure"/>
     <AppIcon name="org.koitharu.kotatsu/org.koitharu.kotatsu.main.ui.MainActivity" image="kotatsu"/>
+	<AppIcon name="com.mi.android.globalminusscreen/com.mi.android.globalminusscreen.tab.MainActivity" image="app_vault"/>
+    <AppIcon name="com.google.android.apps.classroom/com.google.android.apps.classroom.classroomflutter.MainActivity" image="classroom"/>
+    <AppIcon name="com.mixplorer/com.mixplorer.activities.BrowseActivity" image="mix"/>
+    <AppIcon name="rocks.mucke.github/com.ryanheise.audioservice.AudioServiceActivity" image="mucke"/>
+    <AppIcon name="com.saggitt.omega.alpha/com.saggitt.omega.NeoLauncher" image="neo_launcher"/>
+    <AppIcon name="com.machiav3lli.fdroid/com.machiav3lli.fdroid.NeoActivity" image="neo_store"/>
+    <AppIcon name="com.hardcodecoder.pulse/com.hardcodecoder.pulse.activities.ui.SplashActivity" image="pulse_music"/>
+    <AppIcon name="io.github.zyrouge.symphony/io.github.zyrouge.symphony.MainActivity" image="symphony"/>
 
 </Theme>
