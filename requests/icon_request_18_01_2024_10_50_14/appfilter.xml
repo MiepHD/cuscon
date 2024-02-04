@@ -1,0 +1,27 @@
+<resources>
+
+	<!-- AI Gallery -->
+	<item component="ComponentInfo{com.gallery20/com.gallery20.HomeActivity}" drawable="ai_gallery" />
+
+	<!-- Camera -->
+	<item component="ComponentInfo{com.transsion.camera/com.android.camera.CameraLauncher}" drawable="camera" />
+
+	<!-- Clock -->
+	<item component="ComponentInfo{com.transsion.deskclock/com.transsion.deskclock.DeskClock}" drawable="clock" />
+
+	<!-- File Manager -->
+	<item component="ComponentInfo{com.transsion.filemanagerx/com.transsion.filemanagerx.ui.main.MainActivity}" drawable="file_manager" />
+
+	<!-- Notepad -->
+	<item component="ComponentInfo{com.transsion.notebook/com.transsion.notebook.NotesList}" drawable="notepad" />
+
+	<!-- Phone -->
+	<item component="ComponentInfo{com.sh.smart.caller/com.android.dialer.main.impl.MainActivity}" drawable="phone" />
+
+	<!-- Reddit -->
+	<item component="ComponentInfo{com.reddit.frontpage/launcher.wallstreet}" drawable="reddit" />
+
+	<!-- TikTok -->
+	<item component="ComponentInfo{com.ss.android.ugc.trill/com.ss.android.ugc.aweme.splash.SplashActivity}" drawable="tiktok" />
+
+</resources>

@@ -2640,5 +2640,33 @@
 	<item class="meteor.test.and.grade.internet.connection.speed.activities.WelcomeActivity" name="meteor_internet_test"/>
 	<item class="dev.zwander.mastodonredirect.MainActivity" name="lemmy_redirect"/>
 	<item class="com.machiav3lli.fdroid.NeoActivity" name="neo_store"/>
+	<item class="app.accrescent.client.ui.MainActivity" name="accrescent"/>
+    <item class="com.donnnno.arcticons.activities.SplashActivity" name="arcticons_black"/>
+    <item class="com.github.muellerma.coffee.activities.MainActivity" name="coffee"/>
+    <item class="com.sosauce.cutecalc.MainActivity" name="cutecalc"/>
+    <item class="com.afkanerd.deku.DefaultSMS.DefaultCheckActivity" name="deku_sms"/>
+    <item class="com.futo.platformplayer.activities.MainActivity" name="grayjay"/>
+    <item class="com.noahjutz.gymroutines.ui.MainActivity" name="gymroutines"/>
+    <item class="com.jerboa.MainActivity" name="jerboa"/>
+    <item class="com.chooloo.www.koler.ui.main.MainActivity" name="koler"/>
+    <item class="app.lawnchair.lawnicons.MainActivity" name="lawnicons"/>
+    <item class="dev.zwander.lemmyredirect.MainActivity" name="lemmy_redirect"/>
+    <item class="org.joinmastodon.android.MainActivity" name="mastodon"/>
+    <item class="io.metamask.MainActivity" name="metamask"/>
+    <item class="de.dertyp7214.mixplorerthemecreator.MainActivity" name="mixplorer_theme_creator"/>
+    <item class="com.mhss.app.mybrain.presentation.main.MainActivity" name="my_brain"/>
+    <item class="com.nothing.home.activity.WelcomeActivity" name="nothing_x"/>
+    <item class="com.noto.app.AppActivity" name="noto"/>
+    <item class="app.simple.peri.activities.MainActivity" name="peristyle"/>
+    <item class="dev.abhi.photon.MainActivity" name="photon"/>
+    <item class="com.gray.pikatorrent.MainActivity" name="pikatorrent"/>
+    <item class="com.quran.labs.androidquran.QuranDataActivity" name="quran"/>
+    <item class="me.ash.reader.infrastructure.android.MainActivity" name="read_you"/>
+    <item class="ir.erfansn.siliconecalculator.SiliconeCalculatorActivity" name="silicone_calculator"/>
+    <item class="com.google.android.apps.chrome.Main" name="thorium"/>
+    <item class="ru.aleshin.timeplanner.presentation.ui.main.MainActivity" name="timeplanner"/>
+    <item class="com.github.axet.torrentclient.activities.MainActivity" name="torrent_client"/>
+	<item class="com.jio.poslite.activities.SplashScreenActivity" name="jiopos_lite"/>
+    <item class="com.msf.kbank.mobile.launcher_d5e15a74df3d33e17b26d16a879646bfef34a86881463b2b8442d76af1f6f1f4" name="kotak_bank"/>
 
 </appmap>

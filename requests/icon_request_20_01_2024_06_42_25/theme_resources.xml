@@ -1,0 +1,21 @@
+<Theme version="1">
+
+	<!-- Amazon -->
+	<AppIcon name="in.amazon.mShop.android.shopping/com.amazon.mShop.home.HomeActivity" image="amazon"/>
+
+	<!-- IndianOil ONE -->
+	<AppIcon name="cx.indianoil.in/cx.indianoil.in.lpg.view.login.WelcomeActivity" image="indianoil_one"/>
+
+	<!-- JioPOS Lite -->
+	<AppIcon name="com.jio.poslite/com.jio.poslite.activities.SplashScreenActivity" image="jiopos_lite"/>
+
+	<!-- Paytm for Business -->
+	<AppIcon name="com.paytm.business/com.paytm.business.splash.SplashActivity" image="paytm_for_business"/>
+
+	<!-- PayZapp -->
+	<AppIcon name="com.hdfcbank.payzapp/com.apollorncontainer.activities.SplashActivity" image="payzapp"/>
+
+	<!-- Pulsar -->
+	<AppIcon name="com.rhmsoft.pulsar/com.rhmsoft.play.MainActivity" image="pulsar"/>
+
+</Theme>

@@ -2499,5 +2499,33 @@
     <item drawable="yulu" />
     <item drawable="noorulhuda" />
 	<item drawable="meteor_internet_test" />
+	<item drawable="accrescent" />
+    <item drawable="arcticons_black" />
+    <item drawable="coffee" />
+    <item drawable="cutecalc" />
+    <item drawable="deku_sms" />
+    <item drawable="grayjay" />
+    <item drawable="gymroutines" />
+    <item drawable="jerboa" />
+    <item drawable="koler" />
+    <item drawable="lawnicons" />
+    <item drawable="lemmy_redirect" />
+    <item drawable="mastodon" />
+    <item drawable="metamask" />
+    <item drawable="mixplorer_theme_creator" />
+    <item drawable="my_brain" />
+    <item drawable="nothing_x" />
+    <item drawable="noto" />
+    <item drawable="peristyle" />
+    <item drawable="photon" />
+    <item drawable="pikatorrent" />
+    <item drawable="quran" />
+    <item drawable="read_you" />
+    <item drawable="silicone_calculator" />
+    <item drawable="thorium" />
+    <item drawable="timeplanner" />
+    <item drawable="torrent_client" />
+	<item drawable="jiopos_lite" />
+    <item drawable="kotak_bank" />
 
 </resources>

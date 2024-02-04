@@ -1,0 +1,201 @@
+<appmap>
+
+	<!-- Accrescent -->
+	<item class="app.accrescent.client.ui.MainActivity" name="accrescent"/>
+
+	<!-- AR Emoji Studio -->
+	<item class="com.samsung.android.aremoji.home.ShortcutActivity" name="ar_emoji_studio"/>
+
+	<!-- Arcticons Material You -->
+	<item class="com.donnnno.arcticons.activities.SplashActivity" name="arcticons_material_you"/>
+
+	<!-- Atlas: Earth -->
+	<item class="io.branch.unity.BranchUnityActivity" name="atlas_earth"/>
+
+	<!-- Aurora Services -->
+	<item class="com.aurora.services.view.ui.activities.AuroraActivity" name="aurora_services"/>
+
+	<!-- Aurora Store -->
+	<item class="com.aurora.store.MainActivity" name="aurora_store"/>
+
+	<!-- Axonify -->
+	<item class="com.axonify.base.AxonifyActivity" name="axonify"/>
+
+	<!-- barq -->
+	<item class="com.furryapp.MainActivity" name="barq"/>
+
+	<!-- Bluesky -->
+	<item class="xyz.blueskyweb.app.MainActivity" name="bluesky"/>
+
+	<!-- Chrome Beta -->
+	<item class="com.google.android.apps.chrome.Main" name="chrome_beta"/>
+
+	<!-- CPU-Z -->
+	<item class="com.cpuid.cpu_z.MainActivity" name="cpu_z"/>
+
+	<!-- Digital Wellbeing -->
+	<item class="com.samsung.android.forest.launcher.LauncherActivity" name="digital_wellbeing"/>
+
+	<!-- Discordo -->
+	<item class="com.discord.main.MainDefault" name="discordo"/>
+
+	<!-- Dollar General -->
+	<item class="dgapp2.dollargeneral.com.dgapp2_android.SplashActivity" name="dollar_general"/>
+
+	<!-- DoorDash -->
+	<item class="com.doordash.consumer.ui.login.LauncherActivity" name="doordash"/>
+
+	<!-- Fine Lock -->
+	<item class="yuh.yuh.finelock.T" name="fine_lock"/>
+
+	<!-- Fur Affinity NOC -->
+	<item class="one.furaffnoc.android.activity.start.StartActivity" name="fur_affinity_noc"/>
+
+	<!-- Gacha Life 2 -->
+	<item class="air.com.lunime.gachalife2.AIRAppEntry" name="gacha_life_2"/>
+
+	<!-- Gaming Hub -->
+	<item class="com.samsung.android.game.gamehome.app.MainActivity" name="gaming_hub"/>
+
+	<!-- Grow Guides -->
+	<item class="com.example.grow_guides.MainActivity" name="grow_guides"/>
+
+	<!-- Growtopia -->
+	<item class="com.rtsoft.growtopia.Main" name="growtopia"/>
+
+	<!-- Growtopia Marketplace -->
+	<item class="com.regular_dev.growtopia_marketplace_pro.MainActivity" name="growtopia_marketplace"/>
+
+	<!-- Guilded -->
+	<item class="com.guilded.guildedapp.MainActivity" name="guilded"/>
+
+	<!-- Hentoid -->
+	<item class="me.devsaki.hentoid.activities.SplashActivity" name="hentoid"/>
+
+	<!-- HomePass® -->
+	<item class="com.plume.residential.ui.main.MainActivity" name="homepass®"/>
+
+	<!-- ibisPaint -->
+	<item class="jp.ne.ibis.ibispaintx.app.market.MarketAuthenticationActivity" name="ibispaint"/>
+
+	<!-- Kick -->
+	<item class="com.kick.mobile.MainActivity" name="kick"/>
+
+	<!-- KineMaster -->
+	<item class="com.kinemaster.app.screen.splash.SplashActivity" name="kinemaster"/>
+
+	<!-- LabyMod -->
+	<item class="net.labymod.app.MainActivity" name="labymod"/>
+
+	<!-- Legion -->
+	<item class="co.legion.client.activities.newloginsplash.InitialScreenActivity" name="legion"/>
+
+	<!-- LinkLoom -->
+	<item class="com.yazantarifi.mobile.MainActivity" name="linkloom"/>
+
+	<!-- McDonald's -->
+	<item class="com.mcdonalds.mcdcoreapp.common.activity.SplashActivity" name="mcdonalds"/>
+
+	<!-- myCricket -->
+	<item class="com.streamezzo.android.richmedia.RichMedia" name="mycricket"/>
+
+	<!-- NewsBreak -->
+	<item class="com.particlemedia.ui.guide.UserGuideActivity" name="newsbreak"/>
+
+	<!-- NFC Tools Plugin : Reuse Tag -->
+	<item class="com.wakdev.nfctools.plugin.reuse.HelpActivity" name="nfc_tools_plugin_reuse_tag"/>
+
+	<!-- NotiStar -->
+	<item class="com.samsung.systemui.notilus.NotiCenterPage" name="notistar"/>
+
+	<!-- PA Driver's Practice Exam -->
+	<item class="com.nicusa.pdt.AIRAppEntry" name="pa_drivers_practice_exam"/>
+
+	<!-- Parsec -->
+	<item class="tv.parsec.client.MainActivity" name="parsec"/>
+
+	<!-- pixiv -->
+	<item class="jp.pxv.android.activity.RoutingActivity" name="pixiv"/>
+
+	<!-- Pizza Boy GBA Pro -->
+	<item class="it.dbtecno.pizzaboygbapro.MainActivity" name="pizza_boy_gba_pro"/>
+
+	<!-- Rewards -->
+	<item class="com.google.android.apps.paidtasks.activity.LaunchActivity" name="rewards"/>
+
+	<!-- Scrolller -->
+	<item class="org.chromium.webapk.shell_apk.h2o.H2OOpaqueMainActivity" name="scrolller"/>
+
+	<!-- Sheetz -->
+	<item class="com.sheetz.consumermobile.login.SplashActivity" name="sheetz"/>
+
+	<!-- Shippity -->
+	<item class="com.shippity.MainActivity" name="shippity"/>
+
+	<!-- Shizuku -->
+	<item class="moe.shizuku.manager.MainActivity" name="shizuku"/>
+
+	<!-- Skinseed -->
+	<item class="com.africasunrise.skinseed.SplashActivity" name="skinseed"/>
+
+	<!-- Smart Home -->
+	<item class="com.hualai.home.StartActivity" name="smart_home"/>
+
+	<!-- Snapchat -->
+	<item class="com.snapchat.android.HarvestMoonAlias" name="snapchat"/>
+
+	<!-- SPlayer -->
+	<item class="com.ttee.leeplayer.ui.splash.SplashActivity" name="splayer"/>
+
+	<!-- TapTap -->
+	<item class="com.play.taptap.ui.SplashAct" name="taptap"/>
+
+	<!-- Telegram -->
+	<item class="org.telegram.messenger.DefaultIcon" name="telegram"/>
+
+	<!-- The Weather Channel for Samsung -->
+	<item class="com.weather.Weather.app.SplashScreenActivity" name="the_weather_channel_for_samsung"/>
+
+	<!-- The Wolf's Stash -->
+	<item class="se.zepiwolf.tws.REGULAR" name="the_wolfs_stash"/>
+
+	<!-- Twitch -->
+	<item class="tv.twitch.android.app.core.LandingActivity" name="twitch"/>
+
+	<!-- Vendetta Manager -->
+	<item class="dev.beefers.vendetta.manager.ui.activity.MainActivity" name="vendetta_manager"/>
+
+	<!-- Visual Voicemail -->
+	<item class="com.att.mobile.android.vvm.screen.WelcomeActivity" name="visual_voicemail"/>
+
+	<!-- Voice Tools -->
+	<item class="crc6424aa7cfad14660ae.SplashActivity" name="voice_tools"/>
+
+	<!-- Walmart -->
+	<item class="com.walmart.glass.integration.splash.SplashActivity" name="walmart"/>
+
+	<!-- Waze -->
+	<item class="com.waze.FreeMapAppActivity" name="waze"/>
+
+	<!-- WEBTOON -->
+	<item class="com.naver.linewebtoon.splash.SplashActivity" name="webtoon"/>
+
+	<!-- Widgetshare -->
+	<item class="com.galew.widgetshare.MainActivity" name="widgetshare"/>
+
+	<!-- WLs Wallet -->
+	<item class="com.example.world_locks_wallet.MainActivity" name="wls_wallet"/>
+
+	<!-- Wonderland -->
+	<item class="com.samsung.android.wonderland.wallpaper.settings.StartupActivity" name="wonderland"/>
+
+	<!-- Workvivo -->
+	<item class="com.workvivo.android.MainActivitydollargeneral" name="workvivo"/>
+
+	<!-- Xbox -->
+	<item class="com.microsoft.xbox.MainActivity" name="xbox"/>
+
+	<!-- zFile -->
+	<item class="com.htetznaing.zfile.ui.MainActivity" name="zfile"/>
+
+</appmap>

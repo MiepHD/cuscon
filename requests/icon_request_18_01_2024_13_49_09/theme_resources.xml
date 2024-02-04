@@ -1,0 +1,33 @@
+<Theme version="1">
+
+	<!-- Camera -->
+	<AppIcon name="com.android.MGC_9_1_098/com.android.camera.CameraLauncher" image="camera"/>
+
+	<!-- Cromite -->
+	<AppIcon name="org.cromite.cromite/com.google.android.apps.chrome.Main" image="cromite"/>
+
+	<!-- Fleksy -->
+	<AppIcon name="com.syntellia.fleksy.keyboard/com.syntellia.fleksy.settings.activities.SplashActivity" image="fleksy"/>
+
+	<!-- Mercado Libre -->
+	<AppIcon name="com.mercadolibre/com.mercadolibre.splash.SplashActivity" image="mercado_libre"/>
+
+	<!-- Molly -->
+	<AppIcon name="im.molly.app/org.thoughtcrime.securesms.RoutingActivity" image="molly"/>
+
+	<!-- Musicolet -->
+	<AppIcon name="in.krosbits.musicolet/in.krosbits.musicolet.MusicActivity" image="musicolet"/>
+
+	<!-- Orgzly Revived -->
+	<AppIcon name="com.orgzlyrevived/com.orgzly.android.ui.LauncherActivity" image="orgzly_revived"/>
+
+	<!-- Password Store -->
+	<AppIcon name="app.passwordstore/app.passwordstore.ui.main.LaunchActivity" image="password_store"/>
+
+	<!-- Perfect Viewer -->
+	<AppIcon name="com.rookiestudio.perfectviewer/com.rookiestudio.perfectviewer.TStartup" image="perfect_viewer"/>
+
+	<!-- Syncthing-Fork -->
+	<AppIcon name="com.github.catfriend1.syncthingandroid/com.nutomic.syncthingandroid.activities.FirstStartActivity" image="syncthing_fork"/>
+
+</Theme>

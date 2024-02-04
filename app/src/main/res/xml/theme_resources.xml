@@ -2649,5 +2649,33 @@
 	<AppIcon name="meteor.test.and.grade.internet.connection.speed/meteor.test.and.grade.internet.connection.speed.activities.WelcomeActivity" image="meteor_internet_test"/>
 	<AppIcon name="dev.zwander.mastodonredirect/dev.zwander.mastodonredirect.MainActivity" image="lemmy_redirect"/>
 	<AppIcon name="com.machiav3lli.fdroid.neo/com.machiav3lli.fdroid.NeoActivity" image="neo_store"/>
+	<AppIcon name="app.accrescent.client/app.accrescent.client.ui.MainActivity" image="accrescent"/>
+    <AppIcon name="com.donnnno.arcticons.light/com.donnnno.arcticons.activities.SplashActivity" image="arcticons_black"/>
+    <AppIcon name="com.github.muellerma.coffee/com.github.muellerma.coffee.activities.MainActivity" image="coffee"/>
+    <AppIcon name="com.sosauce.cutecalc/com.sosauce.cutecalc.MainActivity" image="cutecalc"/>
+    <AppIcon name="com.afkanerd.deku/com.afkanerd.deku.DefaultSMS.DefaultCheckActivity" image="deku_sms"/>
+    <AppIcon name="com.futo.platformplayer/com.futo.platformplayer.activities.MainActivity" image="grayjay"/>
+    <AppIcon name="com.noahjutz.gymroutines/com.noahjutz.gymroutines.ui.MainActivity" image="gymroutines"/>
+    <AppIcon name="com.jerboa/com.jerboa.MainActivity" image="jerboa"/>
+    <AppIcon name="com.chooloo.www.koler/com.chooloo.www.koler.ui.main.MainActivity" image="koler"/>
+    <AppIcon name="app.lawnchair.lawnicons/app.lawnchair.lawnicons.MainActivity" image="lawnicons"/>
+    <AppIcon name="dev.zwander.lemmyredirect/dev.zwander.lemmyredirect.MainActivity" image="lemmy_redirect"/>
+    <AppIcon name="org.joinmastodon.android/org.joinmastodon.android.MainActivity" image="mastodon"/>
+    <AppIcon name="io.metamask/io.metamask.MainActivity" image="metamask"/>
+    <AppIcon name="de.dertyp7214.mixplorerthemecreator/de.dertyp7214.mixplorerthemecreator.MainActivity" image="mixplorer_theme_creator"/>
+    <AppIcon name="com.mhss.app.mybrain/com.mhss.app.mybrain.presentation.main.MainActivity" image="my_brain"/>
+    <AppIcon name="com.nothing.smartcenter/com.nothing.home.activity.WelcomeActivity" image="nothing_x"/>
+    <AppIcon name="com.noto/com.noto.app.AppActivity" image="noto"/>
+    <AppIcon name="app.simple.peri/app.simple.peri.activities.MainActivity" image="peristyle"/>
+    <AppIcon name="dev.abhi.photon/dev.abhi.photon.MainActivity" image="photon"/>
+    <AppIcon name="com.gray.pikatorrent/com.gray.pikatorrent.MainActivity" image="pikatorrent"/>
+    <AppIcon name="com.quran.labs.androidquran/com.quran.labs.androidquran.QuranDataActivity" image="quran"/>
+    <AppIcon name="me.ash.reader/me.ash.reader.infrastructure.android.MainActivity" image="read_you"/>
+    <AppIcon name="ir.erfansn.siliconecalculator/ir.erfansn.siliconecalculator.SiliconeCalculatorActivity" image="silicone_calculator"/>
+    <AppIcon name="org.chromium.thorium/com.google.android.apps.chrome.Main" image="thorium"/>
+    <AppIcon name="ru.aleshin.timeplanner/ru.aleshin.timeplanner.presentation.ui.main.MainActivity" image="timeplanner"/>
+    <AppIcon name="com.github.axet.torrentclient/com.github.axet.torrentclient.activities.MainActivity" image="torrent_client"/>
+	<AppIcon name="com.jio.poslite/com.jio.poslite.activities.SplashScreenActivity" image="jiopos_lite"/>
+    <AppIcon name="com.msf.kbank.mobile/com.msf.kbank.mobile.launcher_d5e15a74df3d33e17b26d16a879646bfef34a86881463b2b8442d76af1f6f1f4" image="kotak_bank"/>
 
 </Theme>

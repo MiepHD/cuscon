@@ -1,0 +1,21 @@
+<appmap>
+
+	<!-- Amazon -->
+	<item class="com.amazon.mShop.home.HomeActivity" name="amazon"/>
+
+	<!-- IndianOil ONE -->
+	<item class="cx.indianoil.in.lpg.view.login.WelcomeActivity" name="indianoil_one"/>
+
+	<!-- JioPOS Lite -->
+	<item class="com.jio.poslite.activities.SplashScreenActivity" name="jiopos_lite"/>
+
+	<!-- Paytm for Business -->
+	<item class="com.paytm.business.splash.SplashActivity" name="paytm_for_business"/>
+
+	<!-- PayZapp -->
+	<item class="com.apollorncontainer.activities.SplashActivity" name="payzapp"/>
+
+	<!-- Pulsar -->
+	<item class="com.rhmsoft.play.MainActivity" name="pulsar"/>
+
+</appmap>

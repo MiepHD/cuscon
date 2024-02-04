@@ -1,0 +1,144 @@
+<Theme version="1">
+
+	<!-- Amazon -->
+	<AppIcon name="in.amazon.mShop.android.shopping/com.amazon.mShop.home.HomeActivity" image="amazon"/>
+
+	<!-- apna -->
+	<AppIcon name="com.apnatime/com.apnatime.activities.splash.SplashActivity" image="apna"/>
+
+	<!-- App vault -->
+	<AppIcon name="com.mi.android.globalminusscreen/com.mi.android.globalminusscreen.tab.MainActivity" image="app_vault"/>
+
+	<!-- BookMyShow -->
+	<AppIcon name="com.bt.bms/com.movie.bms.splashscreen.SplashScreenActivity" image="bookmyshow"/>
+
+	<!-- Clipt -->
+	<AppIcon name="studio.onelab.clipboard/studio.onelab.clipboard.ui.main.MainActivity" image="clipt"/>
+
+	<!-- Clock -->
+	<AppIcon name="com.android.deskclock/com.android.deskclock.DeskClockTabActivity" image="clock"/>
+
+	<!-- Digital Wellbeing -->
+	<AppIcon name="com.google.android.apps.wellbeing/com.google.android.apps.wellbeing.settings.LauncherActivity" image="digital_wellbeing"/>
+
+	<!-- Flud -->
+	<AppIcon name="com.delphicoder.flud/com.delphicoder.flud.MainActivity" image="flud"/>
+
+	<!-- FM Radio -->
+	<AppIcon name="com.miui.fm/com.miui.fmradio.FmRadioActivity" image="fm_radio"/>
+
+	<!-- ForceDoze -->
+	<AppIcon name="com.suyashsrijan.forcedoze/com.suyashsrijan.forcedoze.MainActivity" image="forcedoze"/>
+
+	<!-- FreshWalls -->
+	<AppIcon name="com.techburner.freshwalls/com.oddlyspaced.walls.ui.activity.MainActivity" image="freshwalls"/>
+
+	<!-- Gallery -->
+	<AppIcon name="com.miui.gallery/com.miui.gallery.activity.HomePageActivity" image="gallery"/>
+
+	<!-- Game Turbo -->
+	<AppIcon name="com.xiaomi.gameboosterglobal/com.xiaomi.gameboosterglobal.home.HomeActivity" image="game_turbo"/>
+
+	<!-- GetApps -->
+	<AppIcon name="com.xiaomi.mipicks/com.xiaomi.mipicks.DefaultAlias" image="getapps"/>
+
+	<!-- Goodreads -->
+	<AppIcon name="com.goodreads/com.goodreads.kindle.ui.activity.SplashActivity" image="goodreads"/>
+
+	<!-- GUVI -->
+	<AppIcon name="com.guviapp/com.guviapp.MainActivity" image="guvi"/>
+
+	<!-- Hackerone -->
+	<AppIcon name="com.andropowerinc.hackerone/com.robotemplates.webviewapp.activity.SplashActivity" image="hackerone"/>
+
+	<!-- Hotstar -->
+	<AppIcon name="in.startv.hotstar/com.hotstar.MainActivity" image="hotstar"/>
+
+	<!-- Indeed Job Search -->
+	<AppIcon name="com.indeed.android.jobsearch/com.indeed.android.jobsearch.LaunchActivity" image="indeed_job_search"/>
+
+	<!-- IOB Mobile -->
+	<AppIcon name="com.fss.iob6/com.fss.iob6.MainActivity" image="iob_mobile"/>
+
+	<!-- ISS Live Now -->
+	<AppIcon name="com.nicedayapps.iss_free/com.nicedayapps.iss_free.activies.SplashActivity" image="iss_live_now"/>
+
+	<!-- Link to MyASUS -->
+	<AppIcon name="com.asus.syncv2/com.asus.linktomyasus.MainActivity" image="link_to_myasus"/>
+
+	<!-- Link to Windows -->
+	<AppIcon name="com.microsoft.appmanager/com.microsoft.appmanager.StartUpCoreActivity" image="link_to_windows"/>
+
+	<!-- Loom -->
+	<AppIcon name="com.loom.android/com.loom.app.ui.MainActivity" image="loom"/>
+
+	<!-- Meesho -->
+	<AppIcon name="com.meesho.supply/com.meesho.supply.main.MainActivity" image="meesho"/>
+
+	<!-- Messaging -->
+	<AppIcon name="com.android.mms/com.android.mms.ui.MmsTabActivity" image="messaging"/>
+
+	<!-- Mi Pay -->
+	<AppIcon name="com.mipay.wallet.in/com.mipay.home.ui.SplashActivity" image="mi_pay"/>
+
+	<!-- Mutify -->
+	<AppIcon name="live.teekamsuthar.mutify/live.teekamsuthar.mutify.MainActivity" image="mutify"/>
+
+	<!-- MyASUS -->
+	<AppIcon name="com.asus.ia.asusapp/com.asus.ia.asusapp.Phone.Init.DefaultLauncherActivity" image="myasus"/>
+
+	<!-- Naukri.com -->
+	<AppIcon name="naukriApp.appModules.login/com.naukri.splash.SplashActivity" image="naukricom"/>
+
+	<!-- PDFelement -->
+	<AppIcon name="com.wondershare.pdfelement/com.wondershare.pdfelement.features.welcome.WelcomeActivity" image="pdfelement"/>
+
+	<!-- Phone -->
+	<AppIcon name="com.android.contacts/com.android.contacts.activities.TwelveKeyDialer" image="phone"/>
+
+	<!-- POCO Launcher -->
+	<AppIcon name="com.mi.android.globallauncher/com.miui.home.launcher.SplashActivity" image="poco_launcher"/>
+
+	<!-- Quikr Jobs -->
+	<AppIcon name="com.quikr.job/com.quikr.job.old.SplashActivity" image="quikr_jobs"/>
+
+	<!-- Royal Enfield -->
+	<AppIcon name="com.royalenfield.reprime/com.royalenfield.reprime.ui.splash.activity.MainSplashScreenActivity" image="royal_enfield"/>
+
+	<!-- SaverTuner -->
+	<AppIcon name="s1m.savertuner/com.draco.buoy.views.MainActivity" image="savertuner"/>
+
+	<!-- Screen Recorder -->
+	<AppIcon name="com.miui.screenrecorder/com.miui.screenrecorder.activity.ScreenRecorderHomeActivity" image="screen_recorder"/>
+
+	<!-- Services & feedback -->
+	<AppIcon name="com.miui.miservice/com.miui.miservice.main.MainActivity" image="services_and_feedback"/>
+
+	<!-- Shine.com -->
+	<AppIcon name="com.net.shine/com.net.shine.MainActivity" image="shinecom"/>
+
+	<!-- Snapdrop -->
+	<AppIcon name="com.fmsys.snapdrop/com.fmsys.snapdrop.MainActivity" image="snapdrop"/>
+
+	<!-- Snaptube -->
+	<AppIcon name="com.snaptube.premium/com.snaptube.premium.activity.ExploreActivity" image="snaptube"/>
+
+	<!-- Star Walk 2 -->
+	<AppIcon name="com.vitotechnology.StarWalk2Free/com.google.firebase.MessagingUnityPlayerActivity" image="star_walk_2"/>
+
+	<!-- Substack Reader -->
+	<AppIcon name="com.substack.app/com.substack.app.ui.AppActivity" image="substack_reader"/>
+
+	<!-- Super Sound -->
+	<AppIcon name="com.tianxingjian.supersound/com.tianxingjian.supersound.MainActivity" image="super_sound"/>
+
+	<!-- TBL -->
+	<AppIcon name="com.tbl.movies/com.tbl.movies.SplashActivity" image="tbl"/>
+
+	<!-- Themes -->
+	<AppIcon name="com.android.thememanager/com.android.thememanager.ThemeResourceTabActivity" image="themes"/>
+
+	<!-- TNEPDS -->
+	<AppIcon name="com.omneAgate.PublicApp.activity/com.omneAgate.PublicApp.activity.EntryActivity" image="tnepds"/>
+
+</Theme>

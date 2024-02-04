@@ -2658,5 +2658,33 @@
 	<item component="ComponentInfo{meteor.test.and.grade.internet.connection.speed/meteor.test.and.grade.internet.connection.speed.activities.WelcomeActivity}" drawable="meteor_internet_test" />
 	<item component="ComponentInfo{dev.zwander.mastodonredirect/dev.zwander.mastodonredirect.MainActivity}" drawable="lemmy_redirect" />
 	<item component="ComponentInfo{com.machiav3lli.fdroid.neo/com.machiav3lli.fdroid.NeoActivity}" drawable="neo_store" />
+	<item component="ComponentInfo{app.accrescent.client/app.accrescent.client.ui.MainActivity}" drawable="accrescent" />
+    <item component="ComponentInfo{com.donnnno.arcticons.light/com.donnnno.arcticons.activities.SplashActivity}" drawable="arcticons_black" />
+    <item component="ComponentInfo{com.github.muellerma.coffee/com.github.muellerma.coffee.activities.MainActivity}" drawable="coffee" />
+    <item component="ComponentInfo{com.sosauce.cutecalc/com.sosauce.cutecalc.MainActivity}" drawable="cutecalc" />
+    <item component="ComponentInfo{com.afkanerd.deku/com.afkanerd.deku.DefaultSMS.DefaultCheckActivity}" drawable="deku_sms" />
+    <item component="ComponentInfo{com.futo.platformplayer/com.futo.platformplayer.activities.MainActivity}" drawable="grayjay" />
+    <item component="ComponentInfo{com.noahjutz.gymroutines/com.noahjutz.gymroutines.ui.MainActivity}" drawable="gymroutines" />
+    <item component="ComponentInfo{com.jerboa/com.jerboa.MainActivity}" drawable="jerboa" />
+    <item component="ComponentInfo{com.chooloo.www.koler/com.chooloo.www.koler.ui.main.MainActivity}" drawable="koler" />
+    <item component="ComponentInfo{app.lawnchair.lawnicons/app.lawnchair.lawnicons.MainActivity}" drawable="lawnicons" />
+    <item component="ComponentInfo{dev.zwander.lemmyredirect/dev.zwander.lemmyredirect.MainActivity}" drawable="lemmy_redirect" />
+    <item component="ComponentInfo{org.joinmastodon.android/org.joinmastodon.android.MainActivity}" drawable="mastodon" />
+    <item component="ComponentInfo{io.metamask/io.metamask.MainActivity}" drawable="metamask" />
+    <item component="ComponentInfo{de.dertyp7214.mixplorerthemecreator/de.dertyp7214.mixplorerthemecreator.MainActivity}" drawable="mixplorer_theme_creator" />
+    <item component="ComponentInfo{com.mhss.app.mybrain/com.mhss.app.mybrain.presentation.main.MainActivity}" drawable="my_brain" />
+    <item component="ComponentInfo{com.nothing.smartcenter/com.nothing.home.activity.WelcomeActivity}" drawable="nothing_x" />
+    <item component="ComponentInfo{com.noto/com.noto.app.AppActivity}" drawable="noto" />
+    <item component="ComponentInfo{app.simple.peri/app.simple.peri.activities.MainActivity}" drawable="peristyle" />
+    <item component="ComponentInfo{dev.abhi.photon/dev.abhi.photon.MainActivity}" drawable="photon" />
+    <item component="ComponentInfo{com.gray.pikatorrent/com.gray.pikatorrent.MainActivity}" drawable="pikatorrent" />
+    <item component="ComponentInfo{com.quran.labs.androidquran/com.quran.labs.androidquran.QuranDataActivity}" drawable="quran" />
+    <item component="ComponentInfo{me.ash.reader/me.ash.reader.infrastructure.android.MainActivity}" drawable="read_you" />
+    <item component="ComponentInfo{ir.erfansn.siliconecalculator/ir.erfansn.siliconecalculator.SiliconeCalculatorActivity}" drawable="silicone_calculator" />
+    <item component="ComponentInfo{org.chromium.thorium/com.google.android.apps.chrome.Main}" drawable="thorium" />
+    <item component="ComponentInfo{ru.aleshin.timeplanner/ru.aleshin.timeplanner.presentation.ui.main.MainActivity}" drawable="timeplanner" />
+    <item component="ComponentInfo{com.github.axet.torrentclient/com.github.axet.torrentclient.activities.MainActivity}" drawable="torrent_client" />
+	<item component="ComponentInfo{com.jio.poslite/com.jio.poslite.activities.SplashScreenActivity}" drawable="jiopos_lite" />
+    <item component="ComponentInfo{com.msf.kbank.mobile/com.msf.kbank.mobile.launcher_d5e15a74df3d33e17b26d16a879646bfef34a86881463b2b8442d76af1f6f1f4}" drawable="kotak_bank" />
 
 </resources>
