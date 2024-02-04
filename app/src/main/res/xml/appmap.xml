@@ -2511,5 +2511,6 @@
     <item class="com.ss.android.ugc.aweme.main.homepage.MainActivity" name="tiktok_lite"/>
     <item class="com.meizu.flyme.update.SystemUpgradeListActivity" name="update"/>
     <item class="com.meizu.feedback.activity.MainActivity" name="user_support"/>
+	<item class="io.homeassistant.companion.android.launch.LaunchActivity" name="home_assistant"/>
 
 </appmap>

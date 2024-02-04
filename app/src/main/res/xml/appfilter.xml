@@ -2529,5 +2529,6 @@
     <item component="ComponentInfo{com.zhiliaoapp.musically.go/com.ss.android.ugc.aweme.main.homepage.MainActivity}" drawable="tiktok_lite" />
     <item component="ComponentInfo{com.meizu.flyme.update/com.meizu.flyme.update.SystemUpgradeListActivity}" drawable="update" />
     <item component="ComponentInfo{com.meizu.feedback/com.meizu.feedback.activity.MainActivity}" drawable="user_support" />
+	<item component="ComponentInfo{io.homeassistant.companion.android.minimal/io.homeassistant.companion.android.launch.LaunchActivity}" drawable="home_assistant" />
 
 </resources>

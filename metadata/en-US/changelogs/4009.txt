@@ -1,2 +1,2 @@
 - Added Cozi, Mullvad VPN, ntfy, AZFCU, Phone, Recorder, Asiacell, Blocker, CheckCheck, Crypto Prices, Clock, Download, Guru Maps Pro, LightCut, Logic Circuit Simulator Pro, Files, Security, Videos, Migratool, Mint Calculator, Notes, Opera beta, Pedometer, Send Anywhere, Sweat Wallet, System launcher, TikTok Lite, Update, User Support
-- Updated kTlQxMqnwDLtycPWJ
+- Updated kTlQxMqnwDLtycPWJ, Home Assistant

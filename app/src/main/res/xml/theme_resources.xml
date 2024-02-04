@@ -2520,5 +2520,6 @@
     <AppIcon name="com.zhiliaoapp.musically.go/com.ss.android.ugc.aweme.main.homepage.MainActivity" image="tiktok_lite"/>
     <AppIcon name="com.meizu.flyme.update/com.meizu.flyme.update.SystemUpgradeListActivity" image="update"/>
     <AppIcon name="com.meizu.feedback/com.meizu.feedback.activity.MainActivity" image="user_support"/>
+	<AppIcon name="io.homeassistant.companion.android.minimal/io.homeassistant.companion.android.launch.LaunchActivity" image="home_assistant"/>
 
 </Theme>
