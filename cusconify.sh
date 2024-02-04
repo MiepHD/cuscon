@@ -50,4 +50,4 @@ magick "450_$new_file" -background transparent -gravity center -extent 512x512 "
 
 
 echo "Generate icon with black borders"
-magick "aio_$new_file" -bordercolor none -border 12 -background black -alpha background -channel A -blur 12x12 -level 0,5% "bordered_$new_file"
+magick "aio_$new_file" -bordercolor none -border 12 -background black -alpha background -channel A -blur 12x12 -level 0,5% -resize 512x512! "bordered_$new_file"
