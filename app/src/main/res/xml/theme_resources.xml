@@ -2495,5 +2495,30 @@
     <AppIcon name="io.heckel.ntfy/io.heckel.ntfy.ui.MainActivity" image="ntfy"/>
     <AppIcon name="com.ifs.banking.fiid3337/com.banking.bankinglibrary.activities.SplashActivity" image="azfcu"/>
 	<AppIcon name="ru.wgiabmav.rouxgbwtn/ru.wgiabmav.rouxgbwtn.MainActivity1" image="lucky_patcher"/>
+	<AppIcon name="com.android.dialer/com.android.dialer.DialtactsActivity" image="android_dialer"/>
+    <AppIcon name="com.android.soundrecorder/com.android.soundrecorder.MzRecorderActivity" image="android_soundrecorder"/>
+    <AppIcon name="com.asiacell.asiacellodp/com.asiacell.asiacellodp.views.LauncherActivityAlias1" image="asiacell"/>
+    <AppIcon name="com.merxury.blocker/com.merxury.blocker.MainActivity" image="blocker"/>
+    <AppIcon name="com.getcheckcheck.client/com.getcheckcheck.client.activity.SplashActivity" image="checkcheck"/>
+    <AppIcon name="de.cloneapps.crypto_prices/de.cloneapps.crypto_prices.MainActivity" image="crypto_prices"/>
+    <AppIcon name="com.android.alarmclock/com.meizu.flyme.alarmclock.DeskClock" image="deskclock"/>
+    <AppIcon name="com.android.providers.downloads.ui/com.android.providers.downloads.ui.DownloadActivity" image="download"/>
+    <AppIcon name="com.bodunov.GalileoPro/com.bodunov.galileo.MainActivity" image="guru_maps_pro"/>
+    <AppIcon name="com.lightcut.videoeditor/com.lct.light.main.SplashActivity" image="lightcut"/>
+    <AppIcon name="com.duracodefactory.logiccircuitsimulatorpro/com.duracodefactory.logiccircuitsimulatorpro.MainActivity" image="logic_circuit_simulator_pro"/>
+    <AppIcon name="com.meizu.filemanager/com.meizu.flyme.filemanager.activity.HomeActivity" image="meizu_files"/>
+    <AppIcon name="com.meizu.safe/com.meizu.safe.SecurityMainActivity" image="meizu_safe"/>
+    <AppIcon name="com.meizu.media.video/com.meizu.media.video.VideoMainActivity" image="meizu_videos"/>
+    <AppIcon name="com.meizu.datamigration/com.meizu.datamigration.capture.DataMigrationActivity" image="migratool"/>
+    <AppIcon name="bored.codebyk.mintcalc/bored.codebyk.mintcalc.MainActivity" image="mint_calculator"/>
+    <AppIcon name="com.meizu.notepaper/com.meizu.flyme.notepaper.app.NotePaperActivity" image="notepaper"/>
+    <AppIcon name="com.opera.browser.beta/com.opera.Opera" image="opera_beta"/>
+    <AppIcon name="com.meizu.net.pedometer/com.meizu.net.pedometer.ui.PedometerMainActivitys" image="pedometer"/>
+    <AppIcon name="com.estmob.android.sendanywhere/com.estmob.paprika4.activity.SplashActivity" image="send_anywhere"/>
+    <AppIcon name="com.sweatwallet/com.sweatwallet.MainActivity" image="sweat_wallet"/>
+    <AppIcon name="com.meizu.flyme.launcher/com.meizu.flyme.launcher.Launcher" image="system_launcher"/>
+    <AppIcon name="com.zhiliaoapp.musically.go/com.ss.android.ugc.aweme.main.homepage.MainActivity" image="tiktok_lite"/>
+    <AppIcon name="com.meizu.flyme.update/com.meizu.flyme.update.SystemUpgradeListActivity" image="update"/>
+    <AppIcon name="com.meizu.feedback/com.meizu.feedback.activity.MainActivity" image="user_support"/>
 
 </Theme>

@@ -25,7 +25,7 @@
 	<item component="ComponentInfo{com.getcheckcheck.client/com.getcheckcheck.client.activity.SplashActivity}" drawable="checkcheck" />
 
 	<!-- Clock -->
-	<item component="ComponentInfo{com.android.alarmclock/com.meizu.flyme.alarmclock.DeskClock}" drawable="clock" />
+	<item component="ComponentInfo{com.android.alarmclock/com.meizu.flyme.alarmclock.DeskClock}" drawable="deskclock" />
 
 	<!-- Crypto Prices -->
 	<item component="ComponentInfo{de.cloneapps.crypto_prices/de.cloneapps.crypto_prices.MainActivity}" drawable="crypto_prices" />
@@ -34,7 +34,7 @@
 	<item component="ComponentInfo{com.android.providers.downloads.ui/com.android.providers.downloads.ui.DownloadActivity}" drawable="download" />
 
 	<!-- Files -->
-	<item component="ComponentInfo{com.meizu.filemanager/com.meizu.flyme.filemanager.activity.HomeActivity}" drawable="files" />
+	<item component="ComponentInfo{com.meizu.filemanager/com.meizu.flyme.filemanager.activity.HomeActivity}" drawable="meizu_files" />
 
 	<!-- Gallery -->
 	<item component="ComponentInfo{com.meizu.media.gallery/com.meizu.media.gallery.GalleryActivity}" drawable="gallery" />
@@ -61,7 +61,7 @@
 	<item component="ComponentInfo{bored.codebyk.mintcalc/bored.codebyk.mintcalc.MainActivity}" drawable="mint_calculator" />
 
 	<!-- Notes -->
-	<item component="ComponentInfo{com.meizu.notepaper/com.meizu.flyme.notepaper.app.NotePaperActivity}" drawable="notes" />
+	<item component="ComponentInfo{com.meizu.notepaper/com.meizu.flyme.notepaper.app.NotePaperActivity}" drawable="notepaper" />
 
 	<!-- Opera beta -->
 	<item component="ComponentInfo{com.opera.browser.beta/com.opera.Opera}" drawable="opera_beta" />
@@ -76,16 +76,16 @@
 	<item component="ComponentInfo{com.meizu.net.pedometer/com.meizu.net.pedometer.ui.PedometerMainActivitys}" drawable="pedometer" />
 
 	<!-- Phone -->
-	<item component="ComponentInfo{com.android.dialer/com.android.dialer.DialtactsActivity}" drawable="phone" />
+	<item component="ComponentInfo{com.android.dialer/com.android.dialer.DialtactsActivity}" drawable="android_dialer" />
 
 	<!-- Plus -->
 	<item component="ComponentInfo{org.telegram.plus/org.telegram.messenger.NoxIcon}" drawable="plus" />
 
 	<!-- Recorder -->
-	<item component="ComponentInfo{com.android.soundrecorder/com.android.soundrecorder.MzRecorderActivity}" drawable="recorder" />
+	<item component="ComponentInfo{com.android.soundrecorder/com.android.soundrecorder.MzRecorderActivity}" drawable="android_soundrecorder" />
 
 	<!-- Security -->
-	<item component="ComponentInfo{com.meizu.safe/com.meizu.safe.SecurityMainActivity}" drawable="security" />
+	<item component="ComponentInfo{com.meizu.safe/com.meizu.safe.SecurityMainActivity}" drawable="meizu_safe" />
 
 	<!-- Send Anywhere -->
 	<item component="ComponentInfo{com.estmob.android.sendanywhere/com.estmob.paprika4.activity.SplashActivity}" drawable="send_anywhere" />
@@ -121,7 +121,7 @@
 	<item component="ComponentInfo{com.meizu.feedback/com.meizu.feedback.activity.MainActivity}" drawable="user_support" />
 
 	<!-- Videos -->
-	<item component="ComponentInfo{com.meizu.media.video/com.meizu.media.video.VideoMainActivity}" drawable="videos" />
+	<item component="ComponentInfo{com.meizu.media.video/com.meizu.media.video.VideoMainActivity}" drawable="meizu_videos" />
 
 	<!-- VMOS Pro -->
 	<item component="ComponentInfo{com.vmos.pro/com.vmos.pro.activities.splash.SplashActivity}" drawable="vmos_pro" />

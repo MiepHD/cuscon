@@ -25,7 +25,7 @@
 	<item class="com.getcheckcheck.client.activity.SplashActivity" name="checkcheck"/>
 
 	<!-- Clock -->
-	<item class="com.meizu.flyme.alarmclock.DeskClock" name="clock"/>
+	<item class="com.meizu.flyme.alarmclock.DeskClock" name="deskclock"/>
 
 	<!-- Crypto Prices -->
 	<item class="de.cloneapps.crypto_prices.MainActivity" name="crypto_prices"/>
@@ -34,7 +34,7 @@
 	<item class="com.android.providers.downloads.ui.DownloadActivity" name="download"/>
 
 	<!-- Files -->
-	<item class="com.meizu.flyme.filemanager.activity.HomeActivity" name="files"/>
+	<item class="com.meizu.flyme.filemanager.activity.HomeActivity" name="meizu_files"/>
 
 	<!-- Gallery -->
 	<item class="com.meizu.media.gallery.GalleryActivity" name="gallery"/>
@@ -61,7 +61,7 @@
 	<item class="bored.codebyk.mintcalc.MainActivity" name="mint_calculator"/>
 
 	<!-- Notes -->
-	<item class="com.meizu.flyme.notepaper.app.NotePaperActivity" name="notes"/>
+	<item class="com.meizu.flyme.notepaper.app.NotePaperActivity" name="notepaper"/>
 
 	<!-- Opera beta -->
 	<item class="com.opera.Opera" name="opera_beta"/>
@@ -76,16 +76,16 @@
 	<item class="com.meizu.net.pedometer.ui.PedometerMainActivitys" name="pedometer"/>
 
 	<!-- Phone -->
-	<item class="com.android.dialer.DialtactsActivity" name="phone"/>
+	<item class="com.android.dialer.DialtactsActivity" name="android_dialer"/>
 
 	<!-- Plus -->
 	<item class="org.telegram.messenger.NoxIcon" name="plus"/>
 
 	<!-- Recorder -->
-	<item class="com.android.soundrecorder.MzRecorderActivity" name="recorder"/>
+	<item class="com.android.soundrecorder.MzRecorderActivity" name="android_soundrecorder"/>
 
 	<!-- Security -->
-	<item class="com.meizu.safe.SecurityMainActivity" name="security"/>
+	<item class="com.meizu.safe.SecurityMainActivity" name="meizu_safe"/>
 
 	<!-- Send Anywhere -->
 	<item class="com.estmob.paprika4.activity.SplashActivity" name="send_anywhere"/>
@@ -121,7 +121,7 @@
 	<item class="com.meizu.feedback.activity.MainActivity" name="user_support"/>
 
 	<!-- Videos -->
-	<item class="com.meizu.media.video.VideoMainActivity" name="videos"/>
+	<item class="com.meizu.media.video.VideoMainActivity" name="meizu_videos"/>
 
 	<!-- VMOS Pro -->
 	<item class="com.vmos.pro.activities.splash.SplashActivity" name="vmos_pro"/>

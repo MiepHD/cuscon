@@ -25,7 +25,7 @@
 	<AppIcon name="com.getcheckcheck.client/com.getcheckcheck.client.activity.SplashActivity" image="checkcheck"/>
 
 	<!-- Clock -->
-	<AppIcon name="com.android.alarmclock/com.meizu.flyme.alarmclock.DeskClock" image="clock"/>
+	<AppIcon name="com.android.alarmclock/com.meizu.flyme.alarmclock.DeskClock" image="deskclock"/>
 
 	<!-- Crypto Prices -->
 	<AppIcon name="de.cloneapps.crypto_prices/de.cloneapps.crypto_prices.MainActivity" image="crypto_prices"/>
@@ -34,7 +34,7 @@
 	<AppIcon name="com.android.providers.downloads.ui/com.android.providers.downloads.ui.DownloadActivity" image="download"/>
 
 	<!-- Files -->
-	<AppIcon name="com.meizu.filemanager/com.meizu.flyme.filemanager.activity.HomeActivity" image="files"/>
+	<AppIcon name="com.meizu.filemanager/com.meizu.flyme.filemanager.activity.HomeActivity" image="meizu_files"/>
 
 	<!-- Gallery -->
 	<AppIcon name="com.meizu.media.gallery/com.meizu.media.gallery.GalleryActivity" image="gallery"/>
@@ -61,7 +61,7 @@
 	<AppIcon name="bored.codebyk.mintcalc/bored.codebyk.mintcalc.MainActivity" image="mint_calculator"/>
 
 	<!-- Notes -->
-	<AppIcon name="com.meizu.notepaper/com.meizu.flyme.notepaper.app.NotePaperActivity" image="notes"/>
+	<AppIcon name="com.meizu.notepaper/com.meizu.flyme.notepaper.app.NotePaperActivity" image="notepaper"/>
 
 	<!-- Opera beta -->
 	<AppIcon name="com.opera.browser.beta/com.opera.Opera" image="opera_beta"/>
@@ -76,16 +76,16 @@
 	<AppIcon name="com.meizu.net.pedometer/com.meizu.net.pedometer.ui.PedometerMainActivitys" image="pedometer"/>
 
 	<!-- Phone -->
-	<AppIcon name="com.android.dialer/com.android.dialer.DialtactsActivity" image="phone"/>
+	<AppIcon name="com.android.dialer/com.android.dialer.DialtactsActivity" image="android_dialer"/>
 
 	<!-- Plus -->
 	<AppIcon name="org.telegram.plus/org.telegram.messenger.NoxIcon" image="plus"/>
 
 	<!-- Recorder -->
-	<AppIcon name="com.android.soundrecorder/com.android.soundrecorder.MzRecorderActivity" image="recorder"/>
+	<AppIcon name="com.android.soundrecorder/com.android.soundrecorder.MzRecorderActivity" image="android_soundrecorder"/>
 
 	<!-- Security -->
-	<AppIcon name="com.meizu.safe/com.meizu.safe.SecurityMainActivity" image="security"/>
+	<AppIcon name="com.meizu.safe/com.meizu.safe.SecurityMainActivity" image="meizu_safe"/>
 
 	<!-- Send Anywhere -->
 	<AppIcon name="com.estmob.android.sendanywhere/com.estmob.paprika4.activity.SplashActivity" image="send_anywhere"/>
@@ -121,7 +121,7 @@
 	<AppIcon name="com.meizu.feedback/com.meizu.feedback.activity.MainActivity" image="user_support"/>
 
 	<!-- Videos -->
-	<AppIcon name="com.meizu.media.video/com.meizu.media.video.VideoMainActivity" image="videos"/>
+	<AppIcon name="com.meizu.media.video/com.meizu.media.video.VideoMainActivity" image="meizu_videos"/>
 
 	<!-- VMOS Pro -->
 	<AppIcon name="com.vmos.pro/com.vmos.pro.activities.splash.SplashActivity" image="vmos_pro"/>

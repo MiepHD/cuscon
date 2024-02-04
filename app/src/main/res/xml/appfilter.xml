@@ -2504,5 +2504,30 @@
     <item component="ComponentInfo{io.heckel.ntfy/io.heckel.ntfy.ui.MainActivity}" drawable="ntfy" />
     <item component="ComponentInfo{com.ifs.banking.fiid3337/com.banking.bankinglibrary.activities.SplashActivity}" drawable="azfcu" />
 	<item component="ComponentInfo{ru.wgiabmav.rouxgbwtn/ru.wgiabmav.rouxgbwtn.MainActivity1}" drawable="lucky_patcher" />
+	<item component="ComponentInfo{com.android.dialer/com.android.dialer.DialtactsActivity}" drawable="android_dialer" />
+    <item component="ComponentInfo{com.android.soundrecorder/com.android.soundrecorder.MzRecorderActivity}" drawable="android_soundrecorder" />
+    <item component="ComponentInfo{com.asiacell.asiacellodp/com.asiacell.asiacellodp.views.LauncherActivityAlias1}" drawable="asiacell" />
+    <item component="ComponentInfo{com.merxury.blocker/com.merxury.blocker.MainActivity}" drawable="blocker" />
+    <item component="ComponentInfo{com.getcheckcheck.client/com.getcheckcheck.client.activity.SplashActivity}" drawable="checkcheck" />
+    <item component="ComponentInfo{de.cloneapps.crypto_prices/de.cloneapps.crypto_prices.MainActivity}" drawable="crypto_prices" />
+    <item component="ComponentInfo{com.android.alarmclock/com.meizu.flyme.alarmclock.DeskClock}" drawable="deskclock" />
+	<item component="ComponentInfo{com.android.providers.downloads.ui/com.android.providers.downloads.ui.DownloadActivity}" drawable="download" />
+    <item component="ComponentInfo{com.bodunov.GalileoPro/com.bodunov.galileo.MainActivity}" drawable="guru_maps_pro" />
+	<item component="ComponentInfo{com.lightcut.videoeditor/com.lct.light.main.SplashActivity}" drawable="lightcut" />
+    <item component="ComponentInfo{com.duracodefactory.logiccircuitsimulatorpro/com.duracodefactory.logiccircuitsimulatorpro.MainActivity}" drawable="logic_circuit_simulator_pro" />
+    <item component="ComponentInfo{com.meizu.filemanager/com.meizu.flyme.filemanager.activity.HomeActivity}" drawable="meizu_files" />
+    <item component="ComponentInfo{com.meizu.safe/com.meizu.safe.SecurityMainActivity}" drawable="meizu_safe" />
+    <item component="ComponentInfo{com.meizu.media.video/com.meizu.media.video.VideoMainActivity}" drawable="meizu_videos" />
+    <item component="ComponentInfo{com.meizu.datamigration/com.meizu.datamigration.capture.DataMigrationActivity}" drawable="migratool" />
+    <item component="ComponentInfo{bored.codebyk.mintcalc/bored.codebyk.mintcalc.MainActivity}" drawable="mint_calculator" />
+    <item component="ComponentInfo{com.meizu.notepaper/com.meizu.flyme.notepaper.app.NotePaperActivity}" drawable="notepaper" />
+    <item component="ComponentInfo{com.opera.browser.beta/com.opera.Opera}" drawable="opera_beta" />
+    <item component="ComponentInfo{com.meizu.net.pedometer/com.meizu.net.pedometer.ui.PedometerMainActivitys}" drawable="pedometer" />
+    <item component="ComponentInfo{com.estmob.android.sendanywhere/com.estmob.paprika4.activity.SplashActivity}" drawable="send_anywhere" />
+    <item component="ComponentInfo{com.sweatwallet/com.sweatwallet.MainActivity}" drawable="sweat_wallet" />
+    <item component="ComponentInfo{com.meizu.flyme.launcher/com.meizu.flyme.launcher.Launcher}" drawable="system_launcher" />
+    <item component="ComponentInfo{com.zhiliaoapp.musically.go/com.ss.android.ugc.aweme.main.homepage.MainActivity}" drawable="tiktok_lite" />
+    <item component="ComponentInfo{com.meizu.flyme.update/com.meizu.flyme.update.SystemUpgradeListActivity}" drawable="update" />
+    <item component="ComponentInfo{com.meizu.feedback/com.meizu.feedback.activity.MainActivity}" drawable="user_support" />
 
 </resources>
