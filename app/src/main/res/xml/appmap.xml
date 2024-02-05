@@ -2720,5 +2720,6 @@
     <item class="com.valvesoftware.android.steam.friendsui.MainActivity" name="steam_chat"/>
     <item class="com.takimi.android.MainActivity" name="taimi"/>
     <item class="eu.vcmi.vcmi.ActivityLauncher" name="vcmi"/>
+	<item class="com.xiaomi.mipicks.AppMallAlias" name="app_mall"/>
 
 </appmap>

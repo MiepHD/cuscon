@@ -2729,5 +2729,6 @@
     <AppIcon name="com.valvesoftware.android.steam.friendsui/com.valvesoftware.android.steam.friendsui.MainActivity" image="steam_chat"/>
     <AppIcon name="com.takimi.android/com.takimi.android.MainActivity" image="taimi"/>
     <AppIcon name="is.xyz.vcmi/eu.vcmi.vcmi.ActivityLauncher" image="vcmi"/>
+	<AppIcon name="com.xiaomi.mipicks/com.xiaomi.mipicks.AppMallAlias" image="app_mall"/>
 
 </Theme>

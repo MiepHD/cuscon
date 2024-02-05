@@ -1,2 +1,2 @@
-Added Fleksy, Alovoa, Audio Spectrum Analyzer, auth, DevilutionX, DraStic, DuckDuckGo, FahrPlaner, FlashDim, Grokio, Kalker, LoliSnatcher, Maid, Steam Chat, Taimi, VCMI
+Added Fleksy, Alovoa, Audio Spectrum Analyzer, auth, DevilutionX, DraStic, DuckDuckGo, FahrPlaner, FlashDim, Grokio, Kalker, LoliSnatcher, Maid, Steam Chat, Taimi, VCMI, App Mall
 Updated Tiktok, Camera

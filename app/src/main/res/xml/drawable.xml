@@ -2570,5 +2570,6 @@
     <item drawable="steam_chat" />
     <item drawable="taimi" />
     <item drawable="vcmi" />
+	<item drawable="app_mall" />
 
 </resources>

@@ -2738,5 +2738,6 @@
     <item component="ComponentInfo{com.valvesoftware.android.steam.friendsui/com.valvesoftware.android.steam.friendsui.MainActivity}" drawable="steam_chat" />
     <item component="ComponentInfo{com.takimi.android/com.takimi.android.MainActivity}" drawable="taimi" />
     <item component="ComponentInfo{is.xyz.vcmi/eu.vcmi.vcmi.ActivityLauncher}" drawable="vcmi" />
+	<item component="ComponentInfo{com.xiaomi.mipicks/com.xiaomi.mipicks.AppMallAlias}" drawable="app_mall" />
 
 </resources>

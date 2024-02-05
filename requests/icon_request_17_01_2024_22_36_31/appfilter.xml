@@ -1,6 +1,0 @@
-<resources>
-
-	<!-- App Mall -->
-	<item component="ComponentInfo{com.xiaomi.mipicks/com.xiaomi.mipicks.AppMallAlias}" drawable="app_mall" />
-
-</resources>
