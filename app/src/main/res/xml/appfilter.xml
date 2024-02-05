@@ -2739,5 +2739,11 @@
     <item component="ComponentInfo{com.takimi.android/com.takimi.android.MainActivity}" drawable="taimi" />
     <item component="ComponentInfo{is.xyz.vcmi/eu.vcmi.vcmi.ActivityLauncher}" drawable="vcmi" />
 	<item component="ComponentInfo{com.xiaomi.mipicks/com.xiaomi.mipicks.AppMallAlias}" drawable="app_mall" />
+	<item component="ComponentInfo{com.gallery20/com.gallery20.HomeActivity}" drawable="ai_gallery" />
+    <item component="ComponentInfo{com.transsion.notebook/com.transsion.notebook.NotesList}" drawable="notepad" />
+    <item component="ComponentInfo{com.reddit.frontpage/launcher.wallstreet}" drawable="reddit_wallstreet" />
+    <item component="ComponentInfo{com.transsion.camera/com.android.camera.CameraLauncher}" drawable="transsion_camera" />
+	<item component="ComponentInfo{in.krosbits.musicolet/in.krosbits.musicolet.MusicActivity}" drawable="musicolet" />
+    <item component="ComponentInfo{app.passwordstore/app.passwordstore.ui.main.LaunchActivity}" drawable="password_store" />
 
 </resources>

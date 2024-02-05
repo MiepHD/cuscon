@@ -2721,5 +2721,11 @@
     <item class="com.takimi.android.MainActivity" name="taimi"/>
     <item class="eu.vcmi.vcmi.ActivityLauncher" name="vcmi"/>
 	<item class="com.xiaomi.mipicks.AppMallAlias" name="app_mall"/>
+	<item class="com.gallery20.HomeActivity" name="ai_gallery"/>
+    <item class="com.transsion.notebook.NotesList" name="notepad"/>
+    <item class="launcher.wallstreet" name="reddit_wallstreet"/>
+    <item class="com.android.camera.CameraLauncher" name="transsion_camera"/>
+	<item class="in.krosbits.musicolet.MusicActivity" name="musicolet"/>
+    <item class="app.passwordstore.ui.main.LaunchActivity" name="password_store"/>
 
 </appmap>

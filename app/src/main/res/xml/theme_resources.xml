@@ -2730,5 +2730,11 @@
     <AppIcon name="com.takimi.android/com.takimi.android.MainActivity" image="taimi"/>
     <AppIcon name="is.xyz.vcmi/eu.vcmi.vcmi.ActivityLauncher" image="vcmi"/>
 	<AppIcon name="com.xiaomi.mipicks/com.xiaomi.mipicks.AppMallAlias" image="app_mall"/>
+	<AppIcon name="com.gallery20/com.gallery20.HomeActivity" image="ai_gallery"/>
+    <AppIcon name="com.transsion.notebook/com.transsion.notebook.NotesList" image="notepad"/>
+    <AppIcon name="com.reddit.frontpage/launcher.wallstreet" image="reddit_wallstreet"/>
+    <AppIcon name="com.transsion.camera/com.android.camera.CameraLauncher" image="transsion_camera"/>
+	<AppIcon name="in.krosbits.musicolet/in.krosbits.musicolet.MusicActivity" image="musicolet"/>
+    <AppIcon name="app.passwordstore/app.passwordstore.ui.main.LaunchActivity" image="password_store"/>
 
 </Theme>
