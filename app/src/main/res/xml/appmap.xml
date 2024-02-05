@@ -2704,5 +2704,6 @@
 	<item class="app.grapheneos.camera.ui.activities.MainActivity" name="grapheneos_camera"/>
 	<item class="com.ss.android.ugc.aweme.splash.SplashActivity" name="tiktok"/>
 	<item class="com.android.camera.CameraLauncher" name="android_camera"/>
+	<item class="com.syntellia.fleksy.settings.activities.SplashActivity" name="fleksy"/>
 
 </appmap>

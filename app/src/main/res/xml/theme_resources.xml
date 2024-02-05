@@ -2713,5 +2713,6 @@
 	<AppIcon name="app.grapheneos.camera.play/app.grapheneos.camera.ui.activities.MainActivity" image="grapheneos_camera"/>
 	<AppIcon name="com.ss.android.ugc.trill/com.ss.android.ugc.aweme.splash.SplashActivity" image="tiktok"/>
 	<AppIcon name="com.android.MGC_9_1_098/com.android.camera.CameraLauncher" image="android_camera"/>
+	<AppIcon name="com.syntellia.fleksy.keyboard/com.syntellia.fleksy.settings.activities.SplashActivity" image="fleksy"/>
 
 </Theme>
