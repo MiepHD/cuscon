@@ -2702,5 +2702,6 @@
     <item class="org.torproject.android.OrbotActivity" name="orbot"/>
     <item class="com.android.fmradio.FmMainActivity" name="radio_fm"/>
 	<item class="app.grapheneos.camera.ui.activities.MainActivity" name="grapheneos_camera"/>
+	<item class="com.ss.android.ugc.aweme.splash.SplashActivity" name="tiktok"/>
 
 </appmap>

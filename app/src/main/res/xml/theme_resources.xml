@@ -2711,5 +2711,6 @@
     <AppIcon name="org.torproject.android/org.torproject.android.OrbotActivity" image="orbot"/>
     <AppIcon name="com.android.fmradio/com.android.fmradio.FmMainActivity" image="radio_fm"/>
 	<AppIcon name="app.grapheneos.camera.play/app.grapheneos.camera.ui.activities.MainActivity" image="grapheneos_camera"/>
+	<AppIcon name="com.ss.android.ugc.trill/com.ss.android.ugc.aweme.splash.SplashActivity" image="tiktok"/>
 
 </Theme>
