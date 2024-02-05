@@ -2555,5 +2555,20 @@
     <item drawable="zipxtract" />
     <item drawable="_8_bit_wonders" />
 	<item drawable="fleksy" />
+	<item drawable="alovoa" />
+    <item drawable="audio_spectrum_analyzer" />
+    <item drawable="auth" />
+    <item drawable="devilutionx" />
+    <item drawable="drastic" />
+    <item drawable="duckduckgo_white" />
+    <item drawable="fahrplaner" />
+    <item drawable="flashdim" />
+    <item drawable="grokio" />
+    <item drawable="kalker" />
+    <item drawable="lolisnatcher" />
+    <item drawable="maid" />
+    <item drawable="steam_chat" />
+    <item drawable="taimi" />
+    <item drawable="vcmi" />
 
 </resources>

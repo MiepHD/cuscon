@@ -2705,5 +2705,20 @@
 	<item class="com.ss.android.ugc.aweme.splash.SplashActivity" name="tiktok"/>
 	<item class="com.android.camera.CameraLauncher" name="android_camera"/>
 	<item class="com.syntellia.fleksy.settings.activities.SplashActivity" name="fleksy"/>
+	<item class="com.alovoa.expo.MainActivity" name="alovoa"/>
+    <item class="org.woheller69.audio_analyzer_for_android.AnalyzerActivity" name="audio_spectrum_analyzer"/>
+    <item class="io.ente.auth.MainActivity" name="auth"/>
+    <item class="org.diasurgical.devilutionx.DevilutionXSDLActivity" name="devilutionx"/>
+    <item class="com.dsemu.drastic.DraSticActivity" name="drastic"/>
+    <item class="com.duckduckgo.app.launch.LauncherBlack" name="duckduckgo_white"/>
+    <item class="de.hafas.main.HafasApp" name="fahrplaner"/>
+    <item class="com.cyb3rko.flashdim.activities.MainActivity" name="flashdim"/>
+    <item class="crc64adda14c7469c8486.SplashActivity" name="grokio"/>
+    <item class="net.strct.kalker.MainActivity" name="kalker"/>
+    <item class="com.noaisu.loliSnatcher.MainActivity" name="lolisnatcher"/>
+    <item class="com.danemadsen.maid.MainActivity" name="maid"/>
+    <item class="com.valvesoftware.android.steam.friendsui.MainActivity" name="steam_chat"/>
+    <item class="com.takimi.android.MainActivity" name="taimi"/>
+    <item class="eu.vcmi.vcmi.ActivityLauncher" name="vcmi"/>
 
 </appmap>

@@ -2714,5 +2714,20 @@
 	<AppIcon name="com.ss.android.ugc.trill/com.ss.android.ugc.aweme.splash.SplashActivity" image="tiktok"/>
 	<AppIcon name="com.android.MGC_9_1_098/com.android.camera.CameraLauncher" image="android_camera"/>
 	<AppIcon name="com.syntellia.fleksy.keyboard/com.syntellia.fleksy.settings.activities.SplashActivity" image="fleksy"/>
+	<AppIcon name="com.alovoa.expo/com.alovoa.expo.MainActivity" image="alovoa"/>
+    <AppIcon name="org.woheller69.audio_analyzer_for_android/org.woheller69.audio_analyzer_for_android.AnalyzerActivity" image="audio_spectrum_analyzer"/>
+    <AppIcon name="io.ente.auth/io.ente.auth.MainActivity" image="auth"/>
+    <AppIcon name="org.diasurgical.devilutionx/org.diasurgical.devilutionx.DevilutionXSDLActivity" image="devilutionx"/>
+	<AppIcon name="com.dsemu.drastic/com.dsemu.drastic.DraSticActivity" image="drastic"/>
+    <AppIcon name="com.duckduckgo.mobile.android/com.duckduckgo.app.launch.LauncherBlack" image="duckduckgo_white"/>
+    <AppIcon name="de.hafas.android.vbn/de.hafas.main.HafasApp" image="fahrplaner"/>
+    <AppIcon name="com.cyb3rko.flashdim/com.cyb3rko.flashdim.activities.MainActivity" image="flashdim"/>
+    <AppIcon name="com.grokiolabs.Grokio/crc64adda14c7469c8486.SplashActivity" image="grokio"/>
+    <AppIcon name="net.strct.kalker/net.strct.kalker.MainActivity" image="kalker"/>
+    <AppIcon name="com.noaisu.play.loliSnatcher/com.noaisu.loliSnatcher.MainActivity" image="lolisnatcher"/>
+    <AppIcon name="com.danemadsen.maid/com.danemadsen.maid.MainActivity" image="maid"/>
+    <AppIcon name="com.valvesoftware.android.steam.friendsui/com.valvesoftware.android.steam.friendsui.MainActivity" image="steam_chat"/>
+    <AppIcon name="com.takimi.android/com.takimi.android.MainActivity" image="taimi"/>
+    <AppIcon name="is.xyz.vcmi/eu.vcmi.vcmi.ActivityLauncher" image="vcmi"/>
 
 </Theme>

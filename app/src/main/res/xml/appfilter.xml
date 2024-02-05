@@ -2723,5 +2723,20 @@
 	<item component="ComponentInfo{com.ss.android.ugc.trill/com.ss.android.ugc.aweme.splash.SplashActivity}" drawable="tiktok" />
 	<item component="ComponentInfo{com.android.MGC_9_1_098/com.android.camera.CameraLauncher}" drawable="android_camera" />
 	<item component="ComponentInfo{com.syntellia.fleksy.keyboard/com.syntellia.fleksy.settings.activities.SplashActivity}" drawable="fleksy" />
+	<item component="ComponentInfo{com.alovoa.expo/com.alovoa.expo.MainActivity}" drawable="alovoa" />
+    <item component="ComponentInfo{org.woheller69.audio_analyzer_for_android/org.woheller69.audio_analyzer_for_android.AnalyzerActivity}" drawable="audio_spectrum_analyzer" />
+    <item component="ComponentInfo{io.ente.auth/io.ente.auth.MainActivity}" drawable="auth" />
+    <item component="ComponentInfo{org.diasurgical.devilutionx/org.diasurgical.devilutionx.DevilutionXSDLActivity}" drawable="devilutionx" />
+    <item component="ComponentInfo{com.dsemu.drastic/com.dsemu.drastic.DraSticActivity}" drawable="drastic" />
+    <item component="ComponentInfo{com.duckduckgo.mobile.android/com.duckduckgo.app.launch.LauncherBlack}" drawable="duckduckgo_white" />
+    <item component="ComponentInfo{de.hafas.android.vbn/de.hafas.main.HafasApp}" drawable="fahrplaner" />
+    <item component="ComponentInfo{com.cyb3rko.flashdim/com.cyb3rko.flashdim.activities.MainActivity}" drawable="flashdim" />
+    <item component="ComponentInfo{com.grokiolabs.Grokio/crc64adda14c7469c8486.SplashActivity}" drawable="grokio" />
+    <item component="ComponentInfo{net.strct.kalker/net.strct.kalker.MainActivity}" drawable="kalker" />
+    <item component="ComponentInfo{com.noaisu.play.loliSnatcher/com.noaisu.loliSnatcher.MainActivity}" drawable="lolisnatcher" />
+    <item component="ComponentInfo{com.danemadsen.maid/com.danemadsen.maid.MainActivity}" drawable="maid" />
+    <item component="ComponentInfo{com.valvesoftware.android.steam.friendsui/com.valvesoftware.android.steam.friendsui.MainActivity}" drawable="steam_chat" />
+    <item component="ComponentInfo{com.takimi.android/com.takimi.android.MainActivity}" drawable="taimi" />
+    <item component="ComponentInfo{is.xyz.vcmi/eu.vcmi.vcmi.ActivityLauncher}" drawable="vcmi" />
 
 </resources>
