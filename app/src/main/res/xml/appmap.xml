@@ -2727,5 +2727,21 @@
     <item class="com.android.camera.CameraLauncher" name="transsion_camera"/>
 	<item class="in.krosbits.musicolet.MusicActivity" name="musicolet"/>
     <item class="app.passwordstore.ui.main.LaunchActivity" name="password_store"/>
+	<item class="com.android.deskclock.DeskClockTabActivity" name="android_deskclock"/>
+    <item class="com.apnatime.activities.splash.SplashActivity" name="apna"/>
+    <item class="studio.onelab.clipboard.ui.main.MainActivity" name="clipt"/>
+    <item class="com.xiaomi.gameboosterglobal.home.HomeActivity" name="game_turbo"/>
+    <item class="com.goodreads.kindle.ui.activity.SplashActivity" name="goodreads"/>
+    <item class="com.guviapp.MainActivity" name="guvi"/>
+    <item class="com.robotemplates.webviewapp.activity.SplashActivity" name="hackerone"/>
+    <item class="com.nicedayapps.iss_free.activies.SplashActivity" name="iss_live_now"/>
+    <item class="com.microsoft.appmanager.StartUpCoreActivity" name="link_to_windows"/>
+    <item class="com.loom.app.ui.MainActivity" name="loom"/>
+    <item class="com.naukri.splash.SplashActivity" name="naukricom"/>
+    <item class="com.wondershare.pdfelement.features.welcome.WelcomeActivity" name="pdfelement"/>
+    <item class="com.miui.miservice.main.MainActivity" name="services_and_feedback"/>
+    <item class="com.net.shine.MainActivity" name="shinecom"/>
+    <item class="com.tianxingjian.supersound.MainActivity" name="super_sound"/>
+    <item class="com.tbl.movies.SplashActivity" name="tbl"/>
 
 </appmap>

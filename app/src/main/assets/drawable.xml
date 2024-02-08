@@ -2570,5 +2570,12 @@
     <item drawable="steam_chat" />
     <item drawable="taimi" />
     <item drawable="vcmi" />
+	<item drawable="app_mall" />
+	<item drawable="ai_gallery" />
+    <item drawable="notepad" />
+    <item drawable="reddit_wallstreet" />
+    <item drawable="transsion_camera" />
+	<item drawable="musicolet" />
+    <item drawable="password_store" />
 
 </resources>
