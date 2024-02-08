@@ -1,0 +1,21 @@
+<Theme version="1">
+
+	<!-- ATC -->
+	<AppIcon name="cat.gencat.mobi.atc.apptributs/crc64e8ac4432d2b0d382.SplashActivity" image="atc"/>
+
+	<!-- El Huffpost -->
+	<AppIcon name="com.prisa.huffpost/com.elpais.elpais.ui.view.activity.SplashActivity" image="el_huffpost"/>
+
+	<!-- KFC España -->
+	<AppIcon name="es.kfc.spain/com.kfces.orderserv.SplashImageActivity" image="kfc_espana"/>
+
+	<!-- Leroy Merlin -->
+	<AppIcon name="com.adeo.android.app/com.lmfr.applm.onboarding.activities.onboarding.OnBoardingActivity" image="leroy_merlin"/>
+
+	<!-- Privé by Zalando -->
+	<AppIcon name="de.zalando.prive/de.zalando.lounge.ui.splash.SplashActivity" image="prive_by_zalando"/>
+
+	<!-- Springfield -->
+	<AppIcon name="com.motivait.ctf.springfield/com.motivait.ctf.springfield.MainActivity" image="springfield"/>
+
+</Theme>
