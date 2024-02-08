@@ -2745,5 +2745,20 @@
     <item component="ComponentInfo{com.transsion.camera/com.android.camera.CameraLauncher}" drawable="transsion_camera" />
 	<item component="ComponentInfo{in.krosbits.musicolet/in.krosbits.musicolet.MusicActivity}" drawable="musicolet" />
     <item component="ComponentInfo{app.passwordstore/app.passwordstore.ui.main.LaunchActivity}" drawable="password_store" />
+	<item component="ComponentInfo{com.android.deskclock/com.android.deskclock.DeskClockTabActivity}" drawable="android_deskclock" />
+    <item component="ComponentInfo{com.apnatime/com.apnatime.activities.splash.SplashActivity}" drawable="apna" />
+    <item component="ComponentInfo{studio.onelab.clipboard/studio.onelab.clipboard.ui.main.MainActivity}" drawable="clipt" />
+    <item component="ComponentInfo{com.xiaomi.gameboosterglobal/com.xiaomi.gameboosterglobal.home.HomeActivity}" drawable="game_turbo" />
+    <item component="ComponentInfo{com.goodreads/com.goodreads.kindle.ui.activity.SplashActivity}" drawable="goodreads" />
+    <item component="ComponentInfo{com.guviapp/com.guviapp.MainActivity}" drawable="guvi" />
+    <item component="ComponentInfo{com.andropowerinc.hackerone/com.robotemplates.webviewapp.activity.SplashActivity}" drawable="hackerone" />
+    <item component="ComponentInfo{com.nicedayapps.iss_free/com.nicedayapps.iss_free.activies.SplashActivity}" drawable="iss_live_now" />
+    <item component="ComponentInfo{com.microsoft.appmanager/com.microsoft.appmanager.StartUpCoreActivity}" drawable="link_to_windows" />
+    <item component="ComponentInfo{com.loom.android/com.loom.app.ui.MainActivity}" drawable="loom" />
+    <item component="ComponentInfo{naukriApp.appModules.login/com.naukri.splash.SplashActivity}" drawable="naukricom" />    <item component="ComponentInfo{com.wondershare.pdfelement/com.wondershare.pdfelement.features.welcome.WelcomeActivity}" drawable="pdfelement" />
+    <item component="ComponentInfo{com.miui.miservice/com.miui.miservice.main.MainActivity}" drawable="services_and_feedback" />
+    <item component="ComponentInfo{com.net.shine/com.net.shine.MainActivity}" drawable="shinecom" />
+    <item component="ComponentInfo{com.tianxingjian.supersound/com.tianxingjian.supersound.MainActivity}" drawable="super_sound" />
+    <item component="ComponentInfo{com.tbl.movies/com.tbl.movies.SplashActivity}" drawable="tbl" />
 
 </resources>

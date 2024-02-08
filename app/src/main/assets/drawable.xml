@@ -2577,5 +2577,21 @@
     <item drawable="transsion_camera" />
 	<item drawable="musicolet" />
     <item drawable="password_store" />
+    <item drawable="android_deskclock" />
+    <item drawable="apna" />
+    <item drawable="clipt" />
+    <item drawable="game_turbo" />
+    <item drawable="goodreads" />
+    <item drawable="guvi" />
+    <item drawable="hackerone" />
+    <item drawable="iss_live_now" />
+    <item drawable="link_to_windows" />
+    <item drawable="loom" />
+    <item drawable="naukricom" />
+    <item drawable="pdfelement" />
+    <item drawable="services_and_feedback" />
+    <item drawable="shinecom" />
+    <item drawable="super_sound" />
+    <item drawable="tbl" />
 
 </resources>
