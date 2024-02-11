@@ -3013,5 +3013,6 @@
 	<item component="ComponentInfo{app.revanced.android.apps.youtube.music/com.google.android.apps.youtube.music.activities.MusicActivity}" drawable="youtube_music" />
 	<item component="ComponentInfo{com.fp.camera/com.android.camera.CameraLauncher}" drawable="fp_camera" />
     <item component="ComponentInfo{com.mattermost.rn/com.mattermost.rn.MainActivity}" drawable="mattermost" />
+	<item component="ComponentInfo{com.topjohnwu.magisk/com.topjohnwu.magisk.core.SplashActivity}" drawable="magisk" />
 
 </resources>

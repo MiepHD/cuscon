@@ -1,6 +1,0 @@
-<appmap>
-
-	<!-- Magisk -->
-	<item class="com.topjohnwu.magisk.core.SplashActivity" name="magisk"/>
-
-</appmap>

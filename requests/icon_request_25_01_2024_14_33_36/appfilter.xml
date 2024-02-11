@@ -1,6 +1,0 @@
-<resources>
-
-	<!-- Magisk -->
-	<item component="ComponentInfo{com.topjohnwu.magisk/com.topjohnwu.magisk.core.SplashActivity}" drawable="magisk" />
-
-</resources>
