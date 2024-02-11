@@ -2754,5 +2754,11 @@
     <item drawable="wochenplaner" />
     <item drawable="yazio" />
     <item drawable="myworldlink" />
+    <item drawable="coloros_calculator" />
+    <item drawable="coloros_clone_phone" />
+    <item drawable="coloros_game_space" />
+    <item drawable="google_pay_paisa" />
+    <item drawable="coloros_gallery3d_photos" />
+    <item drawable="coloros_soundrecorder" />
 
 </resources>

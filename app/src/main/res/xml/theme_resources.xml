@@ -2918,5 +2918,11 @@
     <AppIcon name="com.weeklyplannerapp.weekplan/com.weeklyplannerapp.weekplan.View.Activities.MainActivity" image="wochenplaner"/>
     <AppIcon name="com.yazio.android/yazio.feature.MainActivity" image="yazio"/>
 	<AppIcon name="np.com.worldlink.worldlinkapp/np.com.worldlink.worldlinkapp.MainActivity" image="myworldlink"/>
+	<AppIcon name="com.coloros.calculator/com.android.calculator2.Calculator" image="coloros_calculator"/>
+    <AppIcon name="com.coloros.backuprestore/com.coloros.phoneclone.PhoneCloneMainActivity" image="coloros_clone_phone"/>
+    <AppIcon name="com.coloros.gamespaceui/com.coloros.gamespaceui.activity.StartActivity" image="coloros_game_space"/>
+    <AppIcon name="com.google.android.apps.nbu.paisa.user/com.google.android.apps.nbu.paisa.user.launcher.LauncherActivity" image="google_pay_paisa"/>
+    <AppIcon name="com.coloros.gallery3d/com.coloros.gallery3d.app.MainActivity" image="coloros_gallery3d_photos"/>
+    <AppIcon name="com.coloros.soundrecorder/oppo.multimedia.soundrecorder.filebrowser.BrowseFile" image="coloros_soundrecorder"/>
 
 </Theme>

@@ -2910,5 +2910,11 @@
     <item class="com.weeklyplannerapp.weekplan.View.Activities.MainActivity" name="wochenplaner"/>
     <item class="yazio.feature.MainActivity" name="yazio"/>
 	<item class="np.com.worldlink.worldlinkapp.MainActivity" name="myworldlink"/>
+	<item class="com.android.calculator2.Calculator" name="coloros_calculator"/>
+    <item class="com.coloros.phoneclone.PhoneCloneMainActivity" name="coloros_clone_phone"/>
+    <item class="com.coloros.gamespaceui.activity.StartActivity" name="coloros_game_space"/>
+    <item class="com.google.android.apps.nbu.paisa.user.launcher.LauncherActivity" name="google_pay_paisa"/>
+    <item class="com.coloros.gallery3d.app.MainActivity" name="coloros_gallery3d_photos"/>
+    <item class="oppo.multimedia.soundrecorder.filebrowser.BrowseFile" name="coloros_soundrecorder"/>
 
 </appmap>
