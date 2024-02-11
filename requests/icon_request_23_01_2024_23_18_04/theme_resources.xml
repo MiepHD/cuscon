@@ -1,0 +1,18 @@
+<Theme version="1">
+
+	<!-- GitNex -->
+	<AppIcon name="org.mian.gitnex/org.mian.gitnex.activities.MainActivity" image="gitnex"/>
+
+	<!-- Minetest -->
+	<AppIcon name="net.minetest.minetest/net.minetest.minetest.MainActivity" image="minetest"/>
+
+	<!-- Music Player GO -->
+	<AppIcon name="com.iven.musicplayergo/com.iven.musicplayergo.ui.MainActivity" image="music_player_go"/>
+
+	<!-- myWorldLink -->
+	<AppIcon name="np.com.worldlink.worldlinkapp/np.com.worldlink.worldlinkapp.MainActivity" image="myworldlink"/>
+
+	<!-- Voyager -->
+	<AppIcon name="app.vger.voyager/app.vger.voyager.space" image="voyager"/>
+
+</Theme>

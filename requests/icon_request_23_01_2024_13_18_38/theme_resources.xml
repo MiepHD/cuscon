@@ -1,0 +1,252 @@
+<Theme version="1">
+
+	<!-- 7-Eleven -->
+	<AppIcon name="com.sei.android/com.sei.android.MainActivity" image="_7_eleven"/>
+
+	<!-- Ampwifi -->
+	<AppIcon name="com.blitterhead.ampwifi/com.blitterhead.ampwifi.ActivityFirstLaunch" image="ampwifi"/>
+
+	<!-- Ancient Treasures - Full -->
+	<AppIcon name="com.spcampos.pyramidfull/com.spcampos.pyramidfull.FullPyramidGameActivity" image="ancient_treasures_full"/>
+
+	<!-- AndDaaven -->
+	<AppIcon name="com.saraandshmuel.anddaaven/com.saraandshmuel.anddaaven.AndDaavenSplash" image="anddaaven"/>
+
+	<!-- AudioMeter -->
+	<AppIcon name="com.quaap.audiometer/com.quaap.audiometer.MainActivity" image="audiometer"/>
+
+	<!-- Baha’i Prayers -->
+	<AppIcon name="com.tabsina.bahaiprayers/com.tabsina.bahaiprayers.BahaiPrayers" image="baha’i_prayers"/>
+
+	<!-- Biblical Hebrew Vocabulary -->
+	<AppIcon name="com.sandcreeksoftware.hebrewVocab/com.sandcreeksoftware.hebrewVocab.reviewSelect" image="biblical_hebrew_vocabulary"/>
+
+	<!-- BikeSharingHub -->
+	<AppIcon name="fr.fdesousa.bikesharinghub/be.brunoparmentier.openbikesharing.app.activities.StationsListActivity" image="bikesharinghub"/>
+
+	<!-- Bubble -->
+	<AppIcon name="com.nkanaev.comics/com.nkanaev.comics.activity.MainActivity" image="bubble"/>
+
+	<!-- Camera -->
+	<AppIcon name="com.oplus.camera/com.oplus.camera.OPCameraActivity" image="camera"/>
+
+	<!-- Chord Reader -->
+	<AppIcon name="org.handmadeideas.chordreader/org.handmadeideas.chordreader.FindChordsActivity" image="chord_reader"/>
+
+	<!-- Clock -->
+	<AppIcon name="com.oneplus.deskclock/com.oneplus.deskclock.DeskClock" image="clock"/>
+
+	<!-- Clone Phone -->
+	<AppIcon name="com.oneplus.backuprestore/com.oplus.phoneclone.PhoneCloneMainActivity" image="clone_phone"/>
+
+	<!-- Coinbase -->
+	<AppIcon name="com.coinbase.android/com.coinbase.android.LaunchActivity" image="coinbase"/>
+
+	<!-- Community -->
+	<AppIcon name="net.oneplus.forums/com.oplus.community.activity.LauncherActivity" image="community"/>
+
+	<!-- Cool Reader -->
+	<AppIcon name="org.coolreader.fdroid/org.coolreader.CoolReader" image="cool_reader"/>
+
+	<!-- CPU Info -->
+	<AppIcon name="com.kgurgul.cpuinfo/com.kgurgul.cpuinfo.features.HostActivity" image="cpu_info"/>
+
+	<!-- Dhur Ki Bani -->
+	<AppIcon name="com.khalsa.DhurKiBani/com.khalsa.DhurKiBani.MainActivity" image="dhur_ki_bani"/>
+
+	<!-- Diode -->
+	<AppIcon name="in.shick.diode/in.shick.diode.threads.ThreadsListActivity" image="diode"/>
+
+	<!-- Dreamspell Calendar -->
+	<AppIcon name="net.anotherworld.maya/net.anotherworld.maya.OrakelActivity" image="dreamspell_calendar"/>
+
+	<!-- eero -->
+	<AppIcon name="com.eero.android/com.eero.android.v3.features.splash.SplashActivity" image="eero"/>
+
+	<!-- Etherophone -->
+	<AppIcon name="com.etherophone/com.etherophone.Etherophone" image="etherophone"/>
+
+	<!-- Exodus -->
+	<AppIcon name="exodusmovement.exodus/exodusmovement.exodus.MainActivity" image="exodus"/>
+
+	<!-- Feeder -->
+	<AppIcon name="com.nononsenseapps.feeder/com.nononsenseapps.feeder.ui.MainActivity" image="feeder"/>
+
+	<!-- Feudal Tactics -->
+	<AppIcon name="de.sesu8642.feudaltactics/de.sesu8642.feudaltactics.AndroidLauncher" image="feudal_tactics"/>
+
+	<!-- File Manager -->
+	<AppIcon name="com.oneplus.filemanager/com.oneplus.filemanager.HomePageActivity" image="file_manager"/>
+
+	<!-- Gallery -->
+	<AppIcon name="com.oneplus.gallery/com.oneplus.gallery.OPGalleryActivity" image="gallery"/>
+
+	<!-- GigaGet -->
+	<AppIcon name="us.shandian.giga/us.shandian.giga.ui.main.MainActivity" image="gigaget"/>
+
+	<!-- Grubhub -->
+	<AppIcon name="com.grubhub.android/com.grubhub.dinerapp.android.splash.SplashActivity" image="grubhub"/>
+
+	<!-- Halachic Times -->
+	<AppIcon name="net.sf.times/com.github.times.ZmanimActivity" image="halachic_times"/>
+
+	<!-- HebCal -->
+	<AppIcon name="boten.hebcal/boten.hebcal.main" image="hebcal"/>
+
+	<!-- Hebrew Translator -->
+	<AppIcon name="com.rustybrick.hebrewtranslator/com.rustybrick.hebrewtranslator.MainActivity" image="hebrew_translator"/>
+
+	<!-- Insomnia -->
+	<AppIcon name="com.gianmarcodavid.insomnia/com.gianmarcodavid.insomnia.MainActivity" image="insomnia"/>
+
+	<!-- JamBase -->
+	<AppIcon name="com.magnolialabs.JamBase/com.magnolialabs.jambase.ui.splash.SplashActivity" image="jambase"/>
+
+	<!-- Keepass2Android Offline -->
+	<AppIcon name="keepass2android.keepass2android_nonet/crc64dd09b2a2e58bb27d.KeePass" image="keepass2android_offline"/>
+
+	<!-- KoL -->
+	<AppIcon name="com.github.kolandroid.kol/com.github.kolandroid.kol.android.login.LoginScreen" image="kol"/>
+
+	<!-- Kraken Pro -->
+	<AppIcon name="com.kraken.trade/com.kraken.trade.MainActivity" image="kraken_pro"/>
+
+	<!-- KurobaEx-fdroid -->
+	<AppIcon name="com.github.k1rakishou.chan.fdroid/com.github.k1rakishou.chan.activity.StartActivity" image="kurobaex_fdroid"/>
+
+	<!-- Little Music Player -->
+	<AppIcon name="com.martinmimigames.littlemusicplayer/com.martinmimigames.littlemusicplayer.Launcher" image="little_music_player"/>
+
+	<!-- LoopBoard -->
+	<AppIcon name="com.alexkang.loopboard/com.alexkang.loopboard.MainActivity" image="loopboard"/>
+
+	<!-- Lyft -->
+	<AppIcon name="me.lyft.android/me.lyft.android.ui.MainActivity" image="lyft"/>
+
+	<!-- Markor -->
+	<AppIcon name="net.gsantner.markor/net.gsantner.markor.activity.MainActivity" image="markor"/>
+
+	<!-- mpv -->
+	<AppIcon name="is.xyz.mpv/is.xyz.mpv.MainActivity" image="mpv"/>
+
+	<!-- Mullvad VPN -->
+	<AppIcon name="net.mullvad.mullvadvpn/net.mullvad.mullvadvpn.ui.MainActivity" image="mullvad_vpn"/>
+
+	<!-- MuPDF viewer -->
+	<AppIcon name="com.artifex.mupdf.viewer.app/com.artifex.mupdf.viewer.app.LibraryActivity" image="mupdf_viewer"/>
+
+	<!-- Music Player -->
+	<AppIcon name="com.simplemobiletools.musicplayer/com.simplemobiletools.musicplayer.activities.SplashActivity.Orange" image="music_player"/>
+
+	<!-- nanoloop -->
+	<AppIcon name="com.nanoloop/com.nanoloop.nanoloop" image="nanoloop"/>
+
+	<!-- Notes -->
+	<AppIcon name="com.oneplus.note/com.oneplus.note.ui.MainActivity" image="notes"/>
+
+	<!-- OctoDroid -->
+	<AppIcon name="com.gh4a/com.gh4a.activities.Github4AndroidActivity" image="octodroid"/>
+
+	<!-- Open Link With -->
+	<AppIcon name="com.tasomaniac.openwith.floss/com.tasomaniac.openwith.settings.SettingsActivity" image="open_link_with"/>
+
+	<!-- Package Manager -->
+	<AppIcon name="com.smartpack.packagemanager/com.smartpack.packagemanager.activities.StartActivity" image="package_manager"/>
+
+	<!-- Pano Scrobbler -->
+	<AppIcon name="com.arn.scrobble/com.arn.scrobble.MainActivity" image="pano_scrobbler"/>
+
+	<!-- PAX -->
+	<AppIcon name="com.pax.app/com.pax.app.welcome.SplashActivity" image="pax"/>
+
+	<!-- personalDNSfilter -->
+	<AppIcon name="dnsfilter.android/dnsfilter.android.DNSProxyActivity" image="personaldnsfilter"/>
+
+	<!-- Phish Tabs -->
+	<AppIcon name="com.nickavv.phishtabs/com.nickavv.phishtabs.MainActivity" image="phish_tabs"/>
+
+	<!-- Pocket -->
+	<AppIcon name="com.ideashower.readitlater.pro/com.ideashower.readitlater.activity.AppCacheCheckActivity" image="pocket"/>
+
+	<!-- Pocket Gopher -->
+	<AppIcon name="com.gmail.afonsotrepa.pocketgopher/com.gmail.afonsotrepa.pocketgopher.MainActivity" image="pocket_gopher"/>
+
+	<!-- Poet Assistant -->
+	<AppIcon name="ca.rmen.android.poetassistant/ca.rmen.android.poetassistant.main.MainActivity" image="poet_assistant"/>
+
+	<!-- RADIO search n play -->
+	<AppIcon name="com.LudwigAppDesign.shoutcastplayerandroid/com.LudwigAppDesign.shoutcastplayerandroid.MainActivity" image="radio_search_n_play"/>
+
+	<!-- RoMote -->
+	<AppIcon name="wseemann.media.romote/wseemann.media.romote.activity.MainActivity" image="romote"/>
+
+	<!-- Save For Offline -->
+	<AppIcon name="jonas.tool.saveForOffline/jonas.tool.saveForOffline.MainActivity" image="save_for_offline"/>
+
+	<!-- SecScanQR -->
+	<AppIcon name="de.t_dankworth.secscanqr/de.t_dankworth.secscanqr.activities.MainActivity" image="secscanqr"/>
+
+	<!-- Shattered Pixel Dungeon -->
+	<AppIcon name="com.shatteredpixel.shatteredpixeldungeon/com.shatteredpixel.shatteredpixeldungeon.android.AndroidLauncher" image="shattered_pixel_dungeon"/>
+
+	<!-- SimplyTranslate Mobile -->
+	<AppIcon name="com.simplytranslate_mobile/com.simplytranslate_mobile.MainActivity" image="simplytranslate_mobile"/>
+
+	<!-- Sky Map -->
+	<AppIcon name="com.google.android.stardroid/com.google.android.stardroid.activities.SplashScreenActivity" image="sky_map"/>
+
+	<!-- SMS Backup & Restore -->
+	<AppIcon name="com.riteshsahu.SMSBackupRestore/com.riteshsahu.SMSBackupRestore.activities.IntroActivity" image="sms_backup_and_restore"/>
+
+	<!-- Snes9x EX+ -->
+	<AppIcon name="com.explusalpha.Snes9xPlus/com.imagine.BaseActivity" image="snes9x_ex_"/>
+
+	<!-- Squircle CE -->
+	<AppIcon name="com.blacksquircle.ui/com.blacksquircle.ui.application.activity.MainActivity" image="squircle_ce"/>
+
+	<!-- SuperFreezZ -->
+	<AppIcon name="superfreeze.tool.android/superfreeze.tool.android.userInterface.mainActivity.MainActivity" image="superfreezz"/>
+
+	<!-- Survival Manual -->
+	<AppIcon name="org.ligi.survivalmanual/org.ligi.survivalmanual.ui.MainActivity" image="survival_manual"/>
+
+	<!-- Taper's Section -->
+	<AppIcon name="net.taperssection.taperssectionapp/com.ryanheise.audioservice.AudioServiceActivity" image="tapers_section"/>
+
+	<!-- Text Converter -->
+	<AppIcon name="xyz.tcreopargh.textconverter/xyz.tcreopargh.textconverter.MainActivity" image="text_converter"/>
+
+	<!-- Tonality -->
+	<AppIcon name="net.currit.tonality/net.currit.tonality.TonalityMainActivity" image="tonality"/>
+
+	<!-- TotalCmd-FTP (File Transfers) -->
+	<AppIcon name="com.ghisler.tcplugins.SFTP/com.android.tcplugins.FileSystem.AboutActivity" image="totalcmd_ftp_file_transfers_"/>
+
+	<!-- TotalCmd-Wifi Transfer -->
+	<AppIcon name="com.ghisler.tcplugins.wifitransfer/com.ghisler.tcplugins.wifitransfer.WifiReceiveActivity" image="totalcmd_wifi_transfer"/>
+
+	<!-- Tripadvisor -->
+	<AppIcon name="com.tripadvisor.tripadvisor/com.tripadvisor.android.ui.launcher.LauncherActivity" image="tripadvisor"/>
+
+	<!-- Universal Tuner -->
+	<AppIcon name="ru.aterlux.guitartuner/ru.aterlux.guitartuner.MainActivity" image="universal_tuner"/>
+
+	<!-- Uphold -->
+	<AppIcon name="com.uphold.wallet/com.uphold.wallet.MainActivity" image="uphold"/>
+
+	<!-- Urban Dictionary -->
+	<AppIcon name="dev.reimu.urban_dictionary/dev.reimu.urban_dictionary.MainActivity" image="urban_dictionary"/>
+
+	<!-- Weather -->
+	<AppIcon name="net.oneplus.weather/net.oneplus.weather.app.MainActivity" image="weather"/>
+
+	<!-- Web Video Caster -->
+	<AppIcon name="com.instantbits.cast.webvideo/com.instantbits.cast.webvideo.SplashActivity" image="web_video_caster"/>
+
+	<!-- WebApps -->
+	<AppIcon name="com.tobykurien.webapps/com.tobykurien.webapps.activity.MainActivity" image="webapps"/>
+
+	<!-- WolframAlpha -->
+	<AppIcon name="com.wolfram.android.alpha/com.wolfram.android.alphalibrary.activity.WolframAlphaActivity" image="wolframalpha"/>
+
+</Theme>

@@ -1,0 +1,15 @@
+<resources>
+
+	<!-- DPD -->
+	<item component="ComponentInfo{com.dpd.yourdpd/com.dpd.yourdpd.MainActivity}" drawable="dpd" />
+
+	<!-- Electroverse -->
+	<item component="ComponentInfo{energy.octopus.electricjuice.android/com.octopus.electricjuice.LauncherActivity}" drawable="electroverse" />
+
+	<!-- Poundland Perks -->
+	<item component="ComponentInfo{uk.co.poundland.mypoundland/com.example.poundland.MainActivity}" drawable="poundland_perks" />
+
+	<!-- Turbo VPN -->
+	<item component="ComponentInfo{free.vpn.unblock.proxy.turbovpn/free.vpn.unblock.proxy.turbovpn.activity.StartupActivity}" drawable="turbo_vpn" />
+
+</resources>

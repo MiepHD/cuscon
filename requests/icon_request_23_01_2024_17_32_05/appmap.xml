@@ -1,0 +1,120 @@
+<appmap>
+
+	<!-- aCalendar -->
+	<item class="org.withouthat.acalendar.ACalendar" name="acalendar"/>
+
+	<!-- AnyDesk -->
+	<item class="com.anydesk.anydeskandroid.gui.activity.MainActivity" name="anydesk"/>
+
+	<!-- B﻿A-Mobil -->
+	<item class="de.arbeitsagentur.bka.landing.LandingActivity" name="b﻿a_mobil"/>
+
+	<!-- Caffeine -->
+	<item class="moe.zhs.caffeine.MainActivity" name="caffeine"/>
+
+	<!-- Camera -->
+	<item class="com.oneplus.camera.OPCameraActivity" name="camera"/>
+
+	<!-- Character Keep -->
+	<item class="com.tns.NativeScriptActivity" name="character_keep"/>
+
+	<!-- Clock -->
+	<item class="com.oneplus.deskclock.DeskClock" name="clock"/>
+
+	<!-- Clone Phone -->
+	<item class="com.oplus.phoneclone.PhoneCloneMainActivity" name="clone_phone"/>
+
+	<!-- Community -->
+	<item class="com.oneplus.community.activity.LauncherActivity" name="community"/>
+
+	<!-- congstar -->
+	<item class="de.congstar.meincongstar.ui.login.LoginActivity" name="congstar"/>
+
+	<!-- Dice -->
+	<item class="com.unity3d.player.UnityPlayerActivity" name="dice"/>
+
+	<!-- Dominion -->
+	<item class="com.TGActivity.TGActivity" name="dominion"/>
+
+	<!-- flamy -->
+	<item class="net.offlinefirst.flamy.MainActivity" name="flamy"/>
+
+	<!-- Foxit PDF Editor -->
+	<item class="com.fx.app.ui.AppActivity" name="foxit_pdf_editor"/>
+
+	<!-- Games -->
+	<item class="com.oplus.games.ui.main.MainGameActivity" name="games"/>
+
+	<!-- Hunky Punk -->
+	<item class="org.andglkmod.hunkypunk.GamesList" name="hunky_punk"/>
+
+	<!-- JFrotz -->
+	<item class="com.whj1972.jfrotz.JFrotzActivity" name="jfrotz"/>
+
+	<!-- Keepass2Android -->
+	<item class="crc64dd09b2a2e58bb27d.KeePass" name="keepass2android"/>
+
+	<!-- Letterboxd -->
+	<item class="com.letterboxd.letterboxd.ui.activities.LaunchActivity" name="letterboxd"/>
+
+	<!-- Megalodon -->
+	<item class="org.joinmastodon.android.MainActivity" name="megalodon"/>
+
+	<!-- Messages -->
+	<item class="com.android.mms.ui.ConversationList" name="messages"/>
+
+	<!-- MILES -->
+	<item class="com.zoontek.rnbootsplash.RNBootSplashActivity" name="miles"/>
+
+	<!-- Mondstern Acrylic Icons -->
+	<item class="de.moooon.acrylicons.MainActivity" name="mondstern_acrylic_icons"/>
+
+	<!-- My Files -->
+	<item class="com.oplus.filemanager.main.ui.MainActivity" name="my_files"/>
+
+	<!-- N26 -->
+	<item class="de.number26.machete.android.refactor.presentation.settings.customize_icon.launch_aliases.TealActivityLauncher" name="n26"/>
+
+	<!-- Notes -->
+	<item class="com.nearme.note.main.MainActivity" name="notes"/>
+
+	<!-- NYT Games -->
+	<item class="com.nytimes.crosswordlib.activity.MainActivity" name="nyt_games"/>
+
+	<!-- OnePlus Store -->
+	<item class="com.oneplus.mall.view.SplashActivity" name="oneplus_store"/>
+
+	<!-- Phone -->
+	<item class="com.android.contacts.DialtactsActivityAlias" name="phone"/>
+
+	<!-- Photos -->
+	<item class="com.oneplus.gallery.app.MainActivity" name="photos"/>
+
+	<!-- Pocket Casts -->
+	<item class="au.com.shiftyjelly.pocketcasts.ui.MainActivity" name="pocket_casts"/>
+
+	<!-- Post & DHL -->
+	<item class="de.its_berlin.dhlpaket.base.main.MainActivity" name="post_and_dhl"/>
+
+	<!-- ScummVM -->
+	<item class="org.scummvm.scummvm.SplashActivity" name="scummvm"/>
+
+	<!-- Spark -->
+	<item class="com.readdle.spark.app.MainActivity" name="spark"/>
+
+	<!-- tolino -->
+	<item class="com.musketeer.host.MainActivity" name="tolino"/>
+
+	<!-- Weather -->
+	<item class="net.oneplus.weather.app.MainActivity" name="weather"/>
+
+	<!-- xkcd -->
+	<item class="xyz.jienan.xkcd.home.MainActivity" name="xkcd"/>
+
+	<!-- Yorck Kinos -->
+	<item class="nz.co.vista.android.movie.abc.feature.splash.SplashActivity" name="yorck_kinos"/>
+
+	<!-- Zen Mode -->
+	<item class="com.oneplus.brickmode.activity.MainControlActivity" name="zen_mode"/>
+
+</appmap>

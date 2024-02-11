@@ -1,0 +1,123 @@
+<appmap>
+
+	<!-- ADM -->
+	<item class="com.dv.get.Main" name="adm"/>
+
+	<!-- Amazon -->
+	<item class="com.amazon.mShop.home.HomeActivity" name="amazon"/>
+
+	<!-- Apple Music -->
+	<item class="com.apple.android.music.onboarding.activities.SplashActivity" name="apple_music"/>
+
+	<!-- Audile -->
+	<item class="com.mrsep.musicrecognizer.presentation.MainActivity" name="audile"/>
+
+	<!-- Battlegrounds India -->
+	<item class="com.epicgames.ue4.SplashActivity" name="battlegrounds_india"/>
+
+	<!-- BCR -->
+	<item class="com.chiller3.bcr.settings.SettingsActivity" name="bcr"/>
+
+	<!-- Calendar -->
+	<item class="org.fossify.calendar.activities.SplashActivity.Green" name="calendar"/>
+
+	<!-- Cent Mobile -->
+	<item class="com.infrasofttech.centralbank.SplashActivity" name="cent_mobile"/>
+
+	<!-- Cherrygram -->
+	<item class="uz.unnarsx.cherrygram.CG_Icon_Cherry_NY" name="cherrygram"/>
+
+	<!-- Coffee Golf -->
+	<item class="com.unity3d.player.UnityPlayerActivity" name="coffee_golf"/>
+
+	<!-- Dead Cells -->
+	<item class="com.playdigious.deadcells.mobile.DeadCellsLoading" name="dead_cells"/>
+
+	<!-- ExtremeVPN -->
+	<item class="com.extreme.extremevpn.app.SplashActivity" name="extremevpn"/>
+
+	<!-- GTA: SA -->
+	<item class="com.epicgames.ue4.GameActivity" name="gta_sa"/>
+
+	<!-- Iceraven -->
+	<item class="io.github.forkmaintainers.iceraven.App" name="iceraven"/>
+
+	<!-- iMobile Pay -->
+	<item class="com.csam.icici.bank.imobile.launcher_be5fee416d17a4d4bdcf67199a9cbb9893a784e44dbdba19087c3db5e1e61f81" name="imobile_pay"/>
+
+	<!-- inshorts -->
+	<item class="com.nis.app.ui.activities.HomeActivity" name="inshorts"/>
+
+	<!-- KernelSU -->
+	<item class="me.weishu.kernelsu.ui.MainActivity" name="kernelsu"/>
+
+	<!-- LMC8.4 -->
+	<item class="com.android.camera.CameraLauncher" name="lmc84"/>
+
+	<!-- Ludo King -->
+	<item class="com.google.firebase.MessagingUnityPlayerActivity" name="ludo_king"/>
+
+	<!-- Mozilla VPN -->
+	<item class="org.mozilla.firefox.vpn.qt.VPNActivity" name="mozilla_vpn"/>
+
+	<!-- myExcitel -->
+	<item class="com.scaleforce.mobile.myexcitel.MainActivity" name="myexcitel"/>
+
+	<!-- Myntra -->
+	<item class="com.myntra.android.activities.react.ReactActivity" name="myntra"/>
+
+	<!-- Naukri.com -->
+	<item class="com.naukri.splash.SplashActivity" name="naukricom"/>
+
+	<!-- Nexus Revamped -->
+	<item class="com.stealthcopter.nexusrevamped.SetWallpaperActivity" name="nexus_revamped"/>
+
+	<!-- Nova Dark -->
+	<item class="com.candybar.dev.activities.SplashActivity" name="nova_dark"/>
+
+	<!-- Nova Video Player -->
+	<item class="org.courville.nova.browser.BrowserActivityVideo" name="nova_video_player"/>
+
+	<!-- Ola -->
+	<item class="com.olacabs.customer.ui.SplashActivity" name="ola"/>
+
+	<!-- OLX India -->
+	<item class="com.olxgroup.panamera.app.users.onboarding.activities.SplashActivity" name="olx_india"/>
+
+	<!-- Origins -->
+	<item class="brownmonster.app.game.rushrallyremastered.RushRallyRemasteredActivity" name="origins"/>
+
+	<!-- Pix Material You Light/Dark -->
+	<item class="com.pashapuma.pix.material.you.dark.activities.SplashActivity" name="pix_material_you_light_dark"/>
+
+	<!-- Poweramp -->
+	<item class="com.maxmpz.audioplayer.standard_adaptive" name="poweramp"/>
+
+	<!-- QKSMS -->
+	<item class="com.moez.QKSMS.feature.main.MainActivity" name="qksms"/>
+
+	<!-- Rewards -->
+	<item class="com.google.android.apps.paidtasks.activity.LaunchActivity" name="rewards"/>
+
+	<!-- RL Sideswipe -->
+	<item class="com.epicgames.ue4.SplashActivity" name="rl_sideswipe"/>
+
+	<!-- Sky -->
+	<item class="com.tgc.sky.TGCBootActivity" name="sky"/>
+
+	<!-- Swift Backup -->
+	<item class="org.swiftapps.swiftbackup.intro.IntroActivity" name="swift_backup"/>
+
+	<!-- Swiggy -->
+	<item class="in.swiggy.android.activities.HomeActivity" name="swiggy"/>
+
+	<!-- TIDAL -->
+	<item class="com.aspiro.wamp.LoginFragmentActivity" name="tidal"/>
+
+	<!-- Weather -->
+	<item class="org.breezyweather.main.MainActivity" name="weather"/>
+
+	<!-- Zomato -->
+	<item class="com.application.zomato.activities.Splash" name="zomato"/>
+
+</appmap>

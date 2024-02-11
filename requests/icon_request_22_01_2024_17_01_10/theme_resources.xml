@@ -1,0 +1,15 @@
+<Theme version="1">
+
+	<!-- DPD -->
+	<AppIcon name="com.dpd.yourdpd/com.dpd.yourdpd.MainActivity" image="dpd"/>
+
+	<!-- Electroverse -->
+	<AppIcon name="energy.octopus.electricjuice.android/com.octopus.electricjuice.LauncherActivity" image="electroverse"/>
+
+	<!-- Poundland Perks -->
+	<AppIcon name="uk.co.poundland.mypoundland/com.example.poundland.MainActivity" image="poundland_perks"/>
+
+	<!-- Turbo VPN -->
+	<AppIcon name="free.vpn.unblock.proxy.turbovpn/free.vpn.unblock.proxy.turbovpn.activity.StartupActivity" image="turbo_vpn"/>
+
+</Theme>

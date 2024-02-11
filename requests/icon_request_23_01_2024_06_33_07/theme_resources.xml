@@ -1,0 +1,123 @@
+<Theme version="1">
+
+	<!-- ADM -->
+	<AppIcon name="com.dv.adm/com.dv.get.Main" image="adm"/>
+
+	<!-- Amazon -->
+	<AppIcon name="in.amazon.mShop.android.shopping/com.amazon.mShop.home.HomeActivity" image="amazon"/>
+
+	<!-- Apple Music -->
+	<AppIcon name="com.apple.android.music/com.apple.android.music.onboarding.activities.SplashActivity" image="apple_music"/>
+
+	<!-- Audile -->
+	<AppIcon name="com.mrsep.musicrecognizer/com.mrsep.musicrecognizer.presentation.MainActivity" image="audile"/>
+
+	<!-- Battlegrounds India -->
+	<AppIcon name="com.pubg.imobile/com.epicgames.ue4.SplashActivity" image="battlegrounds_india"/>
+
+	<!-- BCR -->
+	<AppIcon name="com.chiller3.bcr/com.chiller3.bcr.settings.SettingsActivity" image="bcr"/>
+
+	<!-- Calendar -->
+	<AppIcon name="org.fossify.calendar/org.fossify.calendar.activities.SplashActivity.Green" image="calendar"/>
+
+	<!-- Cent Mobile -->
+	<AppIcon name="com.infrasofttech.CentralBank/com.infrasofttech.centralbank.SplashActivity" image="cent_mobile"/>
+
+	<!-- Cherrygram -->
+	<AppIcon name="uz.unnarsx.cherrygram/uz.unnarsx.cherrygram.CG_Icon_Cherry_NY" image="cherrygram"/>
+
+	<!-- Coffee Golf -->
+	<AppIcon name="com.shallotgames.coffeegolf/com.unity3d.player.UnityPlayerActivity" image="coffee_golf"/>
+
+	<!-- Dead Cells -->
+	<AppIcon name="com.playdigious.deadcells.mobile/com.playdigious.deadcells.mobile.DeadCellsLoading" image="dead_cells"/>
+
+	<!-- ExtremeVPN -->
+	<AppIcon name="com.extremevpn.vpnclient.android/com.extreme.extremevpn.app.SplashActivity" image="extremevpn"/>
+
+	<!-- GTA: SA -->
+	<AppIcon name="com.netflix.NGP.GTASanAndreasDefinitiveEdition/com.epicgames.ue4.GameActivity" image="gta_sa"/>
+
+	<!-- Iceraven -->
+	<AppIcon name="io.github.forkmaintainers.iceraven/io.github.forkmaintainers.iceraven.App" image="iceraven"/>
+
+	<!-- iMobile Pay -->
+	<AppIcon name="com.csam.icici.bank.imobile/com.csam.icici.bank.imobile.launcher_be5fee416d17a4d4bdcf67199a9cbb9893a784e44dbdba19087c3db5e1e61f81" image="imobile_pay"/>
+
+	<!-- inshorts -->
+	<AppIcon name="com.nis.app/com.nis.app.ui.activities.HomeActivity" image="inshorts"/>
+
+	<!-- KernelSU -->
+	<AppIcon name="me.weishu.kernelsu/me.weishu.kernelsu.ui.MainActivity" image="kernelsu"/>
+
+	<!-- LMC8.4 -->
+	<AppIcon name="com.google.android.GoogleCameraEngR18F1/com.android.camera.CameraLauncher" image="lmc84"/>
+
+	<!-- Ludo King -->
+	<AppIcon name="com.ludo.king/com.google.firebase.MessagingUnityPlayerActivity" image="ludo_king"/>
+
+	<!-- Mozilla VPN -->
+	<AppIcon name="org.mozilla.firefox.vpn/org.mozilla.firefox.vpn.qt.VPNActivity" image="mozilla_vpn"/>
+
+	<!-- myExcitel -->
+	<AppIcon name="com.scaleforce.mobile.myexcitel/com.scaleforce.mobile.myexcitel.MainActivity" image="myexcitel"/>
+
+	<!-- Myntra -->
+	<AppIcon name="com.myntra.android/com.myntra.android.activities.react.ReactActivity" image="myntra"/>
+
+	<!-- Naukri.com -->
+	<AppIcon name="naukriApp.appModules.login/com.naukri.splash.SplashActivity" image="naukricom"/>
+
+	<!-- Nexus Revamped -->
+	<AppIcon name="com.stealthcopter.nexusrevamped/com.stealthcopter.nexusrevamped.SetWallpaperActivity" image="nexus_revamped"/>
+
+	<!-- Nova Dark -->
+	<AppIcon name="cs14.pixelperfect.iconpack.novadark/com.candybar.dev.activities.SplashActivity" image="nova_dark"/>
+
+	<!-- Nova Video Player -->
+	<AppIcon name="org.courville.nova/org.courville.nova.browser.BrowserActivityVideo" image="nova_video_player"/>
+
+	<!-- Ola -->
+	<AppIcon name="com.olacabs.customer/com.olacabs.customer.ui.SplashActivity" image="ola"/>
+
+	<!-- OLX India -->
+	<AppIcon name="com.olx.southasia/com.olxgroup.panamera.app.users.onboarding.activities.SplashActivity" image="olx_india"/>
+
+	<!-- Origins -->
+	<AppIcon name="brownmonster.app.game.rushrallyremastered/brownmonster.app.game.rushrallyremastered.RushRallyRemasteredActivity" image="origins"/>
+
+	<!-- Pix Material You Light/Dark -->
+	<AppIcon name="com.pashapuma.pix.material.you.dark/com.pashapuma.pix.material.you.dark.activities.SplashActivity" image="pix_material_you_light_dark"/>
+
+	<!-- Poweramp -->
+	<AppIcon name="com.maxmpz.audioplayer/com.maxmpz.audioplayer.standard_adaptive" image="poweramp"/>
+
+	<!-- QKSMS -->
+	<AppIcon name="com.moez.QKSMS/com.moez.QKSMS.feature.main.MainActivity" image="qksms"/>
+
+	<!-- Rewards -->
+	<AppIcon name="com.google.android.apps.paidtasks/com.google.android.apps.paidtasks.activity.LaunchActivity" image="rewards"/>
+
+	<!-- RL Sideswipe -->
+	<AppIcon name="com.Psyonix.RL2D/com.epicgames.ue4.SplashActivity" image="rl_sideswipe"/>
+
+	<!-- Sky -->
+	<AppIcon name="com.tgc.sky.android/com.tgc.sky.TGCBootActivity" image="sky"/>
+
+	<!-- Swift Backup -->
+	<AppIcon name="org.swiftapps.swiftbackup/org.swiftapps.swiftbackup.intro.IntroActivity" image="swift_backup"/>
+
+	<!-- Swiggy -->
+	<AppIcon name="in.swiggy.android/in.swiggy.android.activities.HomeActivity" image="swiggy"/>
+
+	<!-- TIDAL -->
+	<AppIcon name="com.aspiro.tidal/com.aspiro.wamp.LoginFragmentActivity" image="tidal"/>
+
+	<!-- Weather -->
+	<AppIcon name="org.breezyweather/org.breezyweather.main.MainActivity" image="weather"/>
+
+	<!-- Zomato -->
+	<AppIcon name="com.application.zomato/com.application.zomato.activities.Splash" image="zomato"/>
+
+</Theme>

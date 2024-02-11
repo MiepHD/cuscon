@@ -1,0 +1,18 @@
+<appmap>
+
+	<!-- GitNex -->
+	<item class="org.mian.gitnex.activities.MainActivity" name="gitnex"/>
+
+	<!-- Minetest -->
+	<item class="net.minetest.minetest.MainActivity" name="minetest"/>
+
+	<!-- Music Player GO -->
+	<item class="com.iven.musicplayergo.ui.MainActivity" name="music_player_go"/>
+
+	<!-- myWorldLink -->
+	<item class="np.com.worldlink.worldlinkapp.MainActivity" name="myworldlink"/>
+
+	<!-- Voyager -->
+	<item class="app.vger.voyager.space" name="voyager"/>
+
+</appmap>

@@ -1,0 +1,30 @@
+<resources>
+
+	<!-- Binance -->
+	<item component="ComponentInfo{com.binance.dev/com.eaas.launcher.activities.main.MainActivity}" drawable="binance" />
+
+	<!-- Caynax Sports Tracker -->
+	<item component="ComponentInfo{com.caynax.sportstracker/com.caynax.sportstracker.free.fpa}" drawable="caynax_sports_tracker" />
+
+	<!-- Cinema Pro -->
+	<item component="ComponentInfo{com.sonymobile.cinemapro/com.sonymobile.cinemapro.CinemaProActivity}" drawable="cinema_pro" />
+
+	<!-- DevCheck -->
+	<item component="ComponentInfo{flar2.devcheck/flar2.devcheck.MainActivity}" drawable="devcheck" />
+
+	<!-- Enpass -->
+	<item component="ComponentInfo{io.enpass.app/io.enpass.app.SplashScreenActivity}" drawable="enpass" />
+
+	<!-- Epic Games -->
+	<item component="ComponentInfo{com.epicgames.portal/com.epicgames.portal.MainActivity}" drawable="epic_games" />
+
+	<!-- FL Studio Mobile -->
+	<item component="ComponentInfo{com.imageline.FLM/com.imageline.FLM.FLMActivity}" drawable="fl_studio_mobile" />
+
+	<!-- G-Stomper Studio -->
+	<item component="ComponentInfo{com.planeth.gstomper/com.planeth.gstomper.GstomperInit}" drawable="g_stomper_studio" />
+
+	<!-- Gallery -->
+	<item component="ComponentInfo{org.fossify.gallery/org.fossify.gallery.activities.SplashActivity.Green}" drawable="gallery" />
+
+</resources>

@@ -1,0 +1,99 @@
+<appmap>
+
+	<!-- AdBlock für Samsung Internet -->
+	<item class="org.adblockplus.adblockplussbrowser.app.ui.LauncherActivity" name="adblock_fur_samsung_internet"/>
+
+	<!-- Blitzer.de PRO -->
+	<item class="net.graphmasters.blitzerde.activity.splash.SplashActivity" name="blitzerde_pro"/>
+
+	<!-- Booking.com -->
+	<item class="com.booking.startup.HomeActivity" name="bookingcom"/>
+
+	<!-- Bus & Bahn -->
+	<item class="de.hafas.main.HafasApp" name="bus_and_bahn"/>
+
+	<!-- Celebrate -->
+	<item class="app.celebrate.celpho.MainActivity" name="celebrate"/>
+
+	<!-- CHECK24 -->
+	<item class="de.check24.check24.activities.Check24Activity" name="check24"/>
+
+	<!-- Diarium -->
+	<item class="crc64379322c6af5bbbbe.MainActivity" name="diarium"/>
+
+	<!-- Enya Music -->
+	<item class="com.enya.enyamusic.internation.activity.SplashActivity" name="enya_music"/>
+
+	<!-- FeWo-direkt -->
+	<item class="com.expedia.bookings.activity.SearchActivity" name="fewo_direkt"/>
+
+	<!-- Finanzguru -->
+	<item class="de.dwins.financeguru.SplashActivity" name="finanzguru"/>
+
+	<!-- Gaming Hub -->
+	<item class="com.samsung.android.game.gamehome.app.MainActivity" name="gaming_hub"/>
+
+	<!-- Health -->
+	<item class="com.samsung.android.app.shealth.home.HomeMainActivity" name="health"/>
+
+	<!-- Hue -->
+	<item class="com.philips.lighting.hue2.ContentActivity" name="hue"/>
+
+	<!-- IPC360 -->
+	<item class="com.showmo.activity.OpenSelectActivity" name="ipc360"/>
+
+	<!-- Journi Blog -->
+	<item class="com.journiapp.journi.ui.launch.LaunchActivity" name="journi_blog"/>
+
+	<!-- Legion -->
+	<item class="fr.thema.wear.watch.legion.WatchFaceCompanionConfigActivity" name="legion"/>
+
+	<!-- Master -->
+	<item class="fr.thema.wear.watch.master.WatchFaceCompanionConfigActivity" name="master"/>
+
+	<!-- Mein Kochbuch -->
+	<item class="com.blackapps.kochbuch2.MainActivity" name="mein_kochbuch"/>
+
+	<!-- MuPDF viewer -->
+	<item class="com.artifex.mupdf.viewer.app.LibraryActivity" name="mupdf_viewer"/>
+
+	<!-- MyFRITZ! -->
+	<item class="de.avm.android.one.activities.StartActivity" name="myfritz_"/>
+
+	<!-- N26 -->
+	<item class="de.number26.machete.android.refactor.presentation.settings.customize_icon.launch_aliases.TealActivityLauncher" name="n26"/>
+
+	<!-- Notizen -->
+	<item class="com.simplemobiletools.notes.pro.activities.SplashActivity.Red" name="notizen"/>
+
+	<!-- Notizen -->
+	<item class="org.secuso.privacyfriendlynotes.ui.SplashActivity" name="notizen"/>
+
+	<!-- PRINT -->
+	<item class="jp.co.canon.bsd.ad.pixmaprint.EulaActivity" name="print"/>
+
+	<!-- SELPHY -->
+	<item class="jp.co.canon.ic.photolayout.LaunchActivity" name="selphy"/>
+
+	<!-- Smart Home -->
+	<item class="de.avm.android.smarthome.activities.StartActivity" name="smart_home"/>
+
+	<!-- TomTom GO -->
+	<item class="com.tomtom.mobilenavapp.MobileNavAppActivity" name="tomtom_go"/>
+
+	<!-- Trade Republic -->
+	<item class="de.traderepublic.app.ui.splash.LaunchActivity" name="trade republic"/>
+
+	<!-- trale -->
+	<item class="de.quantumphysique.trale.MainActivity" name="trale"/>
+
+	<!-- WallFlow -->
+	<item class="com.ammar.wallflow.activities.main.MainActivity" name="wallflow"/>
+
+	<!-- Wochenplaner -->
+	<item class="com.weeklyplannerapp.weekplan.View.Activities.MainActivity" name="wochenplaner"/>
+
+	<!-- YAZIO -->
+	<item class="yazio.feature.MainActivity" name="yazio"/>
+
+</appmap>
