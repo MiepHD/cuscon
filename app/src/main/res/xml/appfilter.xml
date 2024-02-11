@@ -3016,5 +3016,13 @@
 	<item component="ComponentInfo{com.topjohnwu.magisk/com.topjohnwu.magisk.core.SplashActivity}" drawable="magisk" />
 	<item component="ComponentInfo{com.hkapps.sealdownloader/com.hkapps.sealdownloader.activities.SplashScreen}" drawable="seal" />
 	<item component="ComponentInfo{deltazero.amarok/deltazero.amarok.launcher.calendar}" drawable="deltazero_amarok_calendar" />
+	<item component="ComponentInfo{com.alightcreative.motion/com.alightcreative.app.motion.activities.main.MainActivity}" drawable="alight_motion" />
+    <item component="ComponentInfo{com.handycloset.android.eraser/com.handycloset.android.eraser.MainActivity}" drawable="background_eraser" />
+    <item component="ComponentInfo{me.piebridge.brevent/me.piebridge.brevent.ui.BreventActivity}" drawable="brevent" />
+    <item component="ComponentInfo{walkie.talkie.among.us.friends/walkie.talkie.talk.SplashADActivity}" drawable="castchat" />
+    <item component="ComponentInfo{com.audiofix.hearboost/com.audiofix.hearboost.MainActivity}" drawable="hear_boost" />
+    <item component="ComponentInfo{com.studio27.MelonPlayground/com.unity3d.player.UnityPlayerActivity}" drawable="melon_sandbox" />
+    <item component="ComponentInfo{com.csdroid.pkg/com.csdroid.pkg.MainActivity}" drawable="package_names" />
+    <item component="ComponentInfo{com.kakideveloper.pickupline/com.zipoapps.premiumhelper.ui.splash.PHSplashActivity}" drawable="pickup_lines" />
 
 </resources>

@@ -3000,5 +3000,13 @@
 	<item class="com.topjohnwu.magisk.core.SplashActivity" name="magisk"/>
 	<item class="com.hkapps.sealdownloader.activities.SplashScreen" name="seal"/>
 	<item class="deltazero.amarok.launcher.calendar" name="deltazero_amarok_calendar"/>
+	<item class="com.alightcreative.app.motion.activities.main.MainActivity" name="alight_motion"/>
+    <item class="com.handycloset.android.eraser.MainActivity" name="background_eraser"/>
+    <item class="me.piebridge.brevent.ui.BreventActivity" name="brevent"/>
+    <item class="walkie.talkie.talk.SplashADActivity" name="castchat"/>
+    <item class="com.audiofix.hearboost.MainActivity" name="hear_boost"/>
+    <item class="com.unity3d.player.UnityPlayerActivity" name="melon_sandbox"/>
+    <item class="com.csdroid.pkg.MainActivity" name="package_names"/>
+    <item class="com.zipoapps.premiumhelper.ui.splash.PHSplashActivity" name="pickup_lines"/>
 
 </appmap>

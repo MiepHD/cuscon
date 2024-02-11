@@ -2835,5 +2835,13 @@
     <item drawable="fp_camera" />
     <item drawable="mattermost" />
     <item drawable="deltazero_amarok_calendar" />
+    <item drawable="alight_motion" />
+    <item drawable="background_eraser" />
+    <item drawable="brevent" />
+    <item drawable="castchat" />
+    <item drawable="hear_boost" />
+    <item drawable="melon_sandbox" />
+    <item drawable="package_names" />
+    <item drawable="pickup_lines" />
 
 </resources>
