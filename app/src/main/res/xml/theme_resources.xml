@@ -1104,7 +1104,7 @@
 	<AppIcon name="org.documentfoundation.libreoffice/org.libreoffice.ui.LibreOfficeUIActivity" image="libreoffice_viewer"/>
 	<AppIcon name="in.gov.uidai.mAadhaarPlus/in.gov.uidai.mAadhaarPlus.MainActivity" image="maadhaar"/>
 	<AppIcon name="com.marrow/com.marrow.ui.activities.onboarding.splash.SplashActivity" image="marrow"/>
-	<AppIcon name="com.mxtech.videoplayer.pro/com.mxtech.videoplayer.pro.ActivityWelcomeMX" image="mx_player_pro"/>
+	<AppIcon name="com.mxtech.videoplayer.pro/com.mxtech.videoplayer.pro.ActivityWelcomeMX" image="mx_player"/>
 	<AppIcon name="dev.anilbeesetti.nextplayer/dev.anilbeesetti.nextplayer.MainActivity" image="next_player"/>
 	<AppIcon name="com.omgodse.notally/com.omgodse.notally.activities.MainActivity" image="notally"/>
 	<AppIcon name="md.obsidian/md.obsidian.MainActivity" image="obsidian"/>
@@ -2332,7 +2332,7 @@
     <AppIcon name="com.zoopla.activity/com.zoopla.activity.MainActivity" image="zoopla"/>
 	<AppIcon name="de.rossmann.app.android/de.rossmann.app.android.ui.splash.SplashScreen" image="rossmann"/>
 	<AppIcon name="com.skiffmobileapp/com.skiffmobileapp.MainActivity" image="skiff_pages"/>
-	<AppIcon name="com.mxtech.videoplayer.pro/com.mxtech.videoplayer.pro.ActivityMediaList" image="mx_player_pro"/>
+	<AppIcon name="com.mxtech.videoplayer.pro/com.mxtech.videoplayer.pro.ActivityMediaList" image="mx_player"/>
     <AppIcon name="ru.eipjmiuj.qtprjrusi/ru.eipjmiuj.qtprjrusi.MainActivity1" image="lucky_patcher"/>
 	<AppIcon name="com.anslayer/com.anslayer.ui.splash.SplashActivity" image="anime_slayer"/>
     <AppIcon name="ru.maximoff.apktool/ru.maximoff.apktool.SplashActivity" image="apktool_m"/>
@@ -2966,5 +2966,6 @@
     <AppIcon name="com.ss.squarehome2/com.ss.squarehome2.MainActivity" image="square_home"/>
     <AppIcon name="com.androidapps.unitconverter/com.androidapps.unitconverter.start.StartActivity" image="unit_converter"/>
     <AppIcon name="com.windscribe.vpn/com.windscribe.mobile.splash.SplashActivity" image="windscribe"/>
+	<AppIcon name="com.mxtech.videoplayer.ad/com.mxtech.videoplayer.ad.ActivityWelcomeMX" image="mx_player"/>
 
 </Theme>

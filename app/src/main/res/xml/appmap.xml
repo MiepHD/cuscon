@@ -1093,7 +1093,7 @@
 	<item class="org.libreoffice.ui.LibreOfficeUIActivity" name="libreoffice_viewer"/>
 	<item class="in.gov.uidai.mAadhaarPlus.MainActivity" name="maadhaar"/>
 	<item class="com.marrow.ui.activities.onboarding.splash.SplashActivity" name="marrow"/>
-	<item class="com.mxtech.videoplayer.pro.ActivityWelcomeMX" name="mx_player_pro"/>
+	<item class="com.mxtech.videoplayer.pro.ActivityWelcomeMX" name="mx_player"/>
 	<item class="dev.anilbeesetti.nextplayer.MainActivity" name="next_player"/>
 	<item class="com.omgodse.notally.activities.MainActivity" name="notally"/>
 	<item class="md.obsidian.MainActivity" name="obsidian"/>
@@ -2323,7 +2323,7 @@
     <item class="com.zoopla.activity.MainActivity" name="zoopla"/>
 	<item class="de.rossmann.app.android.ui.splash.SplashScreen" name="rossmann"/>
 	<item class="com.skiffmobileapp.MainActivity" name="skiff_pages"/>
-	<item class="com.mxtech.videoplayer.pro.ActivityMediaList" name="mx_player_pro"/>
+	<item class="com.mxtech.videoplayer.pro.ActivityMediaList" name="mx_player"/>
     <item class="ru.eipjmiuj.qtprjrusi.MainActivity1" name="lucky_patcher"/>
 	<item class="com.anslayer.ui.splash.SplashActivity" name="anime_slayer"/>
     <item class="ru.maximoff.apktool.SplashActivity" name="apktool_m"/>
@@ -2958,5 +2958,6 @@
     <item class="com.ss.squarehome2.MainActivity" name="square_home"/>
     <item class="com.androidapps.unitconverter.start.StartActivity" name="unit_converter"/>
     <item class="com.windscribe.mobile.splash.SplashActivity" name="windscribe"/>
+	<item class="com.mxtech.videoplayer.ad.ActivityWelcomeMX" name="mx_player"/>
 
 </appmap>
