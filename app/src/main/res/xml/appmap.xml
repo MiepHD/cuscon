@@ -2800,5 +2800,6 @@
     <item class="cx.indianoil.in.lpg.view.login.WelcomeActivity" name="indianoil_one"/>
 	<item class="com.android.deskclock.DeskClockTabActivity" name="deskclock"/>
     <item class="com.choicely.studio.splash.SplashActivity" name="eurovision"/>
+	<item class="com.transsion.filemanagerx.ui.launch.SplashActivity" name="admin_de_archivos"/>
 
 </appmap>
