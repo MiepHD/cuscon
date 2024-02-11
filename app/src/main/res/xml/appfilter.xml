@@ -3011,5 +3011,7 @@
     <item component="ComponentInfo{com.naxclow.v720/io.dcloud.PandoraEntry}" drawable="v720" />
     <item component="ComponentInfo{com.satoshi.vpns/com.satoshi.vpns.ui.activity.MainActivity}" drawable="vpnsatoshi" />
 	<item component="ComponentInfo{app.revanced.android.apps.youtube.music/com.google.android.apps.youtube.music.activities.MusicActivity}" drawable="youtube_music" />
+	<item component="ComponentInfo{com.fp.camera/com.android.camera.CameraLauncher}" drawable="fp_camera" />
+    <item component="ComponentInfo{com.mattermost.rn/com.mattermost.rn.MainActivity}" drawable="mattermost" />
 
 </resources>

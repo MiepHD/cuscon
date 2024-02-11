@@ -2832,5 +2832,7 @@
     <item drawable="unlauncher" />
     <item drawable="v720" />
     <item drawable="vpnsatoshi" />
+    <item drawable="fp_camera" />
+    <item drawable="mattermost" />
 
 </resources>
