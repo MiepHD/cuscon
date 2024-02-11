@@ -1,0 +1,153 @@
+<appmap>
+
+	<!-- Profolio™ -->
+	<item class="host.exp.exponent.MainActivity" name="profolio™"/>
+
+	<!-- Qatar Airways -->
+	<item class="com.m.qr.home.onboarding.ui.OnBoardingActivity" name="qatar_airways"/>
+
+	<!-- QiDZ -->
+	<item class="com.qidz.MainActivity" name="qidz"/>
+
+	<!-- Quadroid -->
+	<item class="com.atanusanyal.quadroid.activities.SplashActivity" name="quadroid"/>
+
+	<!-- R & B Fashion -->
+	<item class="com.apparelgroup.randbfashion.MainActivity" name="r_and_b_fashion"/>
+
+	<!-- REDTAG -->
+	<item class="com.vennapps.android.ui.SplashActivity" name="redtag"/>
+
+	<!-- Remote ADB Shell -->
+	<item class="com.cgutman.androidremotedebugger.ConnectActivity" name="remote_adb_shell"/>
+
+	<!-- REVOLVE -->
+	<item class="com.revolve.views.activities.SplashActivity" name="revolve"/>
+
+	<!-- Reward Card -->
+	<item class="com.loylogic.pointspay.ui.usermanagement.LoginActivity" name="reward_card"/>
+
+	<!-- Rewards -->
+	<item class="com.google.android.apps.paidtasks.activity.LaunchActivity" name="rewards"/>
+
+	<!-- Rocketbook -->
+	<item class="com.rb.rocketbook.ui.StartupActivity" name="rocketbook"/>
+
+	<!-- Room Planner -->
+	<item class="com.google.firebase.MessagingUnityPlayerActivity" name="room_planner"/>
+
+	<!-- ROSEGAL -->
+	<item class="com.globalegrow.app.rosegal.ui.activitys.SplashActivity" name="rosegal"/>
+
+	<!-- Savefrom Helper -->
+	<item class="net.savefrom.helper.splash.SplashActivity" name="savefrom_helper"/>
+
+	<!-- Screen Alive -->
+	<item class="in.snapcore.screen_alive.view.FreeActivity" name="screen_alive"/>
+
+	<!-- SD Maid -->
+	<item class="eu.thedarken.sdm.main.ui.SDMMainActivity" name="sd_maid"/>
+
+	<!-- SD Maid Pro -->
+	<item class="eu.thedarken.sdm.unlocker.MainActivity" name="sd_maid_pro"/>
+
+	<!-- SD Maid SE -->
+	<item class="eu.darken.sdmse.main.ui.MainActivity" name="sd_maid_se"/>
+
+	<!-- Global Village -->
+	<item class="com.reflectionsinfos.globalvillage.DefaultAlias" name="global_village"/>
+
+	<!-- Seez -->
+	<item class="co.seez.seezr.presentation.splash.SplashActivity" name="seez"/>
+
+	<!-- Send Anywhere -->
+	<item class="com.estmob.paprika4.activity.SplashActivity" name="send_anywhere"/>
+
+	<!-- SENORFIT -->
+	<item class="com.senorfit.MainActivity" name="senorfit"/>
+
+	<!-- ServiceMyCar -->
+	<item class="com.lt.ui.welcome.splash.SplashActivity_" name="servicemycar"/>
+
+	<!-- SetEdit -->
+	<item class="by4a.setedit.EditorActivity" name="setedit"/>
+
+	<!-- SHARE -->
+	<item class="com.maf.android.share.presentation.splash.MainLauncher" name="share"/>
+
+	<!-- Shop & Ship -->
+	<item class="com.aramex.shopandshipmobile.ui.splash.SplashActivity" name="shop_and_ship"/>
+
+	<!-- SIVVI -->
+	<item class="com.noon.buyerapp.MainActivity" name="sivvi"/>
+
+	<!-- Slider -->
+	<item class="com.adcb.bank.ADCBMIB" name="slider"/>
+
+	<!-- Smart Life -->
+	<item class="com.smart.ThingSplashActivity" name="smart_life"/>
+
+	<!-- Smart Tutor -->
+	<item class="com.rsupport.rs.activity.edit.IntroActivity" name="smart_tutor"/>
+
+	<!-- SOUFEEL -->
+	<item class="com.Soufeel.activity.WelcomeActivity" name="soufeel"/>
+
+	<!-- Splash -->
+	<item class="com.landmarkgroupreactapps.SplashActivityDefault" name="splash"/>
+
+	<!-- Sporter -->
+	<item class="com.sporter.MainActivity" name="sporter"/>
+
+	<!-- SQUATWOLF -->
+	<item class="com.vennapps.android.ui.SplashActivity" name="squatwolf"/>
+
+	<!-- Starbucks UAE -->
+	<item class="com.starbucks.emea.splash.SplashActivity" name="starbucks_uae"/>
+
+	<!-- STARZ ON -->
+	<item class="com.parsifal.starz.ui.features.launcher.LauncherActivity" name="starz_on"/>
+
+	<!-- StoreUs -->
+	<item class="com.nft.storeus.MainActivity" name="storeus"/>
+
+	<!-- Storytel -->
+	<item class="grit.storytel.app.MainActivity" name="storytel"/>
+
+	<!-- StoryZ -->
+	<item class="com.lightx.activities.StoryzActivity" name="storyz"/>
+
+	<!-- Stradivarius -->
+	<item class="es.sdos.sdosproject.ui.splash.activity.LaunchActivity" name="stradivarius"/>
+
+	<!-- Sun & Sand Sports -->
+	<item class="com.sssports.splash.presentation.view.SplashScreenRevampActivity" name="sun_and_sand_sports"/>
+
+	<!-- Super Status Bar -->
+	<item class="com.tombayley.statusbar.app.ui.home.MainActivity" name="super_status_bar"/>
+
+	<!-- SWAP - No ROOT -->
+	<item class="com.allakore.swapnoroot.ui.activities.SplashActivity" name="swap_no_root"/>
+
+	<!-- Tabby -->
+	<item class="app.tabby.client.MainActivity" name="tabby"/>
+
+	<!-- Tarteel -->
+	<item class="com.mmmoussa.iqra.MainActivity" name="tarteel"/>
+
+	<!-- TeaTV -->
+	<item class="com.oe.photocollage.SplashActivity" name="teatv"/>
+
+	<!-- TeraBox -->
+	<item class="com.dubox.drive.ui.Logo0LauncherActivity" name="terabox"/>
+
+	<!-- Tickit -->
+	<item class="net.wlloyalty.restaurant.MainActivity" name="tickit"/>
+
+	<!-- TikTok -->
+	<item class="com.ss.android.ugc.aweme.splash.SplashActivity" name="tiktok"/>
+
+	<!-- Timer -->
+	<item class="me.szymanski.wodtimer.MainActivity" name="timer"/>
+
+</appmap>

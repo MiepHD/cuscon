@@ -1,0 +1,153 @@
+<resources>
+
+	<!-- eWeLink -->
+	<item component="ComponentInfo{com.coolkit/com.coolkit.SplashActivity}" drawable="ewelink" />
+
+	<!-- Expedia -->
+	<item component="ComponentInfo{com.expedia.bookings/com.expedia.bookings.activity.SearchActivity}" drawable="expedia" />
+
+	<!-- Experience Abu Dhabi -->
+	<item component="ComponentInfo{com.visitabudhabi.android/com.vad.app.presentation.splash.activities.SplashActivity}" drawable="experience_abu_dhabi" />
+
+	<!-- ExpertWiFi -->
+	<item component="ComponentInfo{com.asus.expertrouter/com.asus.aihome.MainActivity}" drawable="expertwifi" />
+
+	<!-- FaceLab -->
+	<item component="ComponentInfo{com.lyrebirdstudio.facelab/com.lyrebirdstudio.facelab.SplashActivity}" drawable="facelab" />
+
+	<!-- Facetune -->
+	<item component="ComponentInfo{com.lightricks.facetune.free/com.lightricks.facetune.splash.SplashActivity}" drawable="facetune" />
+
+	<!-- Family Link -->
+	<item component="ComponentInfo{com.google.android.apps.kids.familylink/com.google.android.apps.kids.familylink.flutter.standalone.HomeActivity}" drawable="family_link" />
+
+	<!-- Farfetch -->
+	<item component="ComponentInfo{com.farfetch.farfetchshop/com.farfetch.farfetchshop.features.start.StartActivity}" drawable="farfetch" />
+
+	<!-- Fasting -->
+	<item component="ComponentInfo{com.kompanion.fasting.android/com.kompanion.fasting.android.MainActivity}" drawable="fasting" />
+
+	<!-- Fazaa -->
+	<item component="ComponentInfo{ae.fazaa/ae.fazaa.MainActivity}" drawable="fazaa" />
+
+	<!-- FEPY -->
+	<item component="ComponentInfo{com.fepy.flutter_app/com.fepy.flutter_app.MainActivity}" drawable="fepy" />
+
+	<!-- Ferns N Petals -->
+	<item component="ComponentInfo{ae.fnp/ae.fnp.MainActivity}" drawable="ferns_n_petals" />
+
+	<!-- File Converter -->
+	<item component="ComponentInfo{com.onlineconvert.ocapp/com.onlineconvert.ocapp.MainActivity}" drawable="file_converter" />
+
+	<!-- Fire and Ice Live Wallpaper -->
+	<item component="ComponentInfo{com.blwp.fireice/com.blwp.fireice.screens.SplashActivity}" drawable="fire_and_ice_live_wallpaper" />
+
+	<!-- Fire TV -->
+	<item component="ComponentInfo{com.amazon.storm.lightning.client.aosp/com.amazon.bison.SplashScreen}" drawable="fire_tv" />
+
+	<!-- Flickr -->
+	<item component="ComponentInfo{com.flickr.android/com.yahoo.mobile.client.android.flickr.ui.misc.LoginActivity}" drawable="flickr" />
+
+	<!-- FlipaClip -->
+	<item component="ComponentInfo{com.vblast.flipaclip/com.vblast.feature_home.presentation.MainActivity}" drawable="flipaclip" />
+
+	<!-- Floward -->
+	<item component="ComponentInfo{com.q8.flowers.app/com.q8.flowers.app.presentation.splash.SplashScreen}" drawable="floward" />
+
+	<!-- Flowwow -->
+	<item component="ComponentInfo{com.flowwow/com.flowwow.features.splash.SplashActivity}" drawable="flowwow" />
+
+	<!-- Fluid -->
+	<item component="ComponentInfo{games.paveldogreat.fluidsimfree/com.unity3d.player.UnityPlayerActivity}" drawable="fluid" />
+
+	<!-- Fotor -->
+	<item component="ComponentInfo{com.everimaging.photoeffectstudio/com.everimaging.fotor.SplashActivity}" drawable="fotor" />
+
+	<!-- Frameo -->
+	<item component="ComponentInfo{net.frameo.app/net.frameo.app.ui.activities.AGalleryPicker}" drawable="frameo" />
+
+	<!-- Freshtohome -->
+	<item component="ComponentInfo{com.freshtohome/com.freshtohome.MainActivity}" drawable="freshtohome" />
+
+	<!-- Fyuse -->
+	<item component="ComponentInfo{com.fyusion.fyuse/com.fyusion.fyuse.SplashScreen}" drawable="fyuse" />
+
+	<!-- FZ Platinum -->
+	<item component="ComponentInfo{com.flydubai.platinumcardoffers/com.flydubai.platinumcardoffers.MainActivity}" drawable="fz_platinum" />
+
+	<!-- G2A -->
+	<item component="ComponentInfo{com.g2a.marketplace/com.g2a.marketplace.main.MainActivity}" drawable="g2a" />
+
+	<!-- Game Deals -->
+	<item component="ComponentInfo{com.razerzone.cortex.dealsv2/com.razer.android.dealsv2.activity.SplashActivity}" drawable="game_deals" />
+
+	<!-- GamePad Tester -->
+	<item component="ComponentInfo{com.chimera.saturday.evogamepadtester/com.chimera.saturday.evogamepadtester.controller.Home}" drawable="gamepad_tester" />
+
+	<!-- Gamesplanet -->
+	<item component="ComponentInfo{com.mstoreapp.ionic1645711573664/com.mstoreapp.ionic1645711573664.MainActivity}" drawable="gamesplanet" />
+
+	<!-- GBox -->
+	<item component="ComponentInfo{com.gbox.android/com.gbox.android.SplashActivity}" drawable="gbox" />
+
+	<!-- GCCGAMERS -->
+	<item component="ComponentInfo{com.gcc.games/com.simicart.MainActivity}" drawable="gccgamers" />
+
+	<!-- GetYourGuide -->
+	<item component="ComponentInfo{com.getyourguide.android/com.getyourguide.InitDumpActivity}" drawable="getyourguide" />
+
+	<!-- GitMind -->
+	<item component="ComponentInfo{com.apowersoft.gitmind/com.apowersoft.gitmind.MainActivity}" drawable="gitmind" />
+
+	<!-- GoChat -->
+	<item component="ComponentInfo{net.gochat.app/com.vianeos.octochat.Default}" drawable="gochat" />
+
+	<!-- Goibibo -->
+	<item component="ComponentInfo{com.goibibo/com.goibibo.common.HomeActivity}" drawable="goibibo" />
+
+	<!-- Google Cloud -->
+	<item component="ComponentInfo{com.google.android.apps.cloudconsole/com.google.android.apps.cloudconsole.common.MainContainerActivity}" drawable="google_cloud" />
+
+	<!-- GoSupps -->
+	<item component="ComponentInfo{gosupps.com.app/gosupps.com.app.MainActivity}" drawable="gosupps" />
+
+	<!-- Govee Home -->
+	<item component="ComponentInfo{com.govee.home/com.govee.home.HomeActivity}" drawable="govee_home" />
+
+	<!-- Groupon -->
+	<item component="ComponentInfo{com.groupon/com.groupon.home.main.activities.Carousel}" drawable="groupon" />
+
+	<!-- GRUBL -->
+	<item component="ComponentInfo{helectronsoft.com.grubl.live.wallpapers3d/com.zipoapps.premiumhelper.ui.splash.PHSplashActivity}" drawable="grubl" />
+
+	<!-- H&M - MENA -->
+	<item component="ComponentInfo{com.hm.mena/com.hm.MainActivity}" drawable="h_and_m_mena" />
+
+	<!-- Halal -->
+	<item component="ComponentInfo{com.halalalemarat.halalalemarat/com.halalalemarat.halalalemarat.MainActivity}" drawable="halal" />
+
+	<!-- Handy Photo -->
+	<item component="ComponentInfo{com.advasoft.handyphoto/com.advasoft.handyphoto.GPNBOViewFakeStart}" drawable="handy_photo" />
+
+	<!-- Hardee's UAE -->
+	<item component="ComponentInfo{com.hardees.uae/com.americana.me.hardees.ui.onboarding.splash.HardeesSplashActivity}" drawable="hardees_uae" />
+
+	<!-- Hatla2ee -->
+	<item component="ComponentInfo{com.hatla2ee.hatla2ee_egypt/com.hatla2ee.hatla2ee_egypt.MainActivity}" drawable="hatla2ee" />
+
+	<!-- HDO Box -->
+	<item component="ComponentInfo{com.hdobox/com.hdobox.MainActivity}" drawable="hdo_box" />
+
+	<!-- Health -->
+	<item component="ComponentInfo{com.sec.android.app.shealth/com.samsung.android.app.shealth.home.HomeMainActivity}" drawable="health" />
+
+	<!-- Home Box -->
+	<item component="ComponentInfo{com.landmarkgroup.homeboxstores/com.landmarkgroupreactapps.SplashActivityDefault}" drawable="home_box" />
+
+	<!-- Home Centre -->
+	<item component="ComponentInfo{com.landmarkgroup.homecentrestores/com.landmarkgroupreactapps.SplashActivityDefault}" drawable="home_centre" />
+
+	<!-- Homesrus -->
+	<item component="ComponentInfo{com.homesrus.app/com.homesrus.app.ui.splash.SplashActivity}" drawable="homesrus" />
+
+</resources>

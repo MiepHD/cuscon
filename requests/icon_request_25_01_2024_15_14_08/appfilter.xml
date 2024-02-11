@@ -1,0 +1,153 @@
+<resources>
+
+	<!-- Hostelworld -->
+	<item component="ComponentInfo{com.hostelworld.app/com.hostelworld.app.features.launcher.view.LauncherActivity}" drawable="hostelworld" />
+
+	<!-- Hotels.com -->
+	<item component="ComponentInfo{com.hcom.android/com.expedia.bookings.activity.SearchActivity}" drawable="hotelscom" />
+
+	<!-- HotelTonight -->
+	<item component="ComponentInfo{com.hoteltonight.android.prod/com.hoteltonight.android.prod.activity.SplashActivity}" drawable="hoteltonight" />
+
+	<!-- huffnpuff -->
+	<item component="ComponentInfo{com.spoonstream.huffnpuff/com.spoonstream.huffnpuff.MainActivity}" drawable="huffnpuff" />
+
+	<!-- Ice and Fire Live Wallpaper -->
+	<item component="ComponentInfo{com.lux.live.wallpapers.and.creative.factory.wallpapers.backgrounds.hd.lwp.ice.fire.live.wallpaper/com.lux.live.wallpapers.and.creative.factory.wallpapers.backgrounds.hd.lwp.ice.fire.live.wallpaper.screens.SplashActivity}" drawable="ice_and_fire_live_wallpaper" />
+
+	<!-- Icon Pack Studio -->
+	<item component="ComponentInfo{ginlemon.iconpackstudio/ginlemon.iconpackstudio.editor.homeActivity.HomeActivity}" drawable="icon_pack_studio" />
+
+	<!-- Idealz -->
+	<item component="ComponentInfo{app.android.idealz.com/app.android.idealz.com.SplashActivity}" drawable="idealz" />
+
+	<!-- iHerb -->
+	<item component="ComponentInfo{com.iherb/com.iherb.mobile.product.splash.view.SplashActivity}" drawable="iherb" />
+
+	<!-- IKEA UAE -->
+	<item component="ComponentInfo{com.ikea.alfuttaim.store/com.ikea.kompis.SplashActivity}" drawable="ikea_uae" />
+
+	<!-- Imagine -->
+	<item component="ComponentInfo{com.vyroai.aiart/com.vyroai.aiart.ui.activity.ImagineActivity}" drawable="imagine" />
+
+	<!-- iMemo -->
+	<item component="ComponentInfo{newway.good.note.ai.notepad.notebook.checklist.gpt/com.oneweek.noteai.main.splash.SpnashActivity}" drawable="imemo" />
+
+	<!-- Infinite Painter -->
+	<item component="ComponentInfo{com.brakefield.painter/com.brakefield.painter.activities.ActivityStartup}" drawable="infinite_painter" />
+
+	<!-- Insta360 -->
+	<item component="ComponentInfo{com.arashivision.insta360akiko/com.arashivision.insta360akiko.app.SplashActivity}" drawable="insta360" />
+
+	<!-- Instant Gaming -->
+	<item component="ComponentInfo{com.instantgaming.android/com.instantgaming.android.Activities.WebViewActivity}" drawable="instant_gaming" />
+
+	<!-- InstaShop -->
+	<item component="ComponentInfo{com.stedor.instashop/com.stedor.instashop.splash.view.SplashActivity}" drawable="instashop" />
+
+	<!-- Invygo -->
+	<item component="ComponentInfo{com.invygo.customer/com.invygo.customer.SplashActivity}" drawable="invygo" />
+
+	<!-- Inware -->
+	<item component="ComponentInfo{com.evo.inware/com.evo.inware.ui.activities.SweetHomeActivity}" drawable="inware" />
+
+	<!-- iPaint - Coloring Book -->
+	<item component="ComponentInfo{com.teknasyon.coloringbook/com.teknasyon.coloringbook.view.activity.SplashActivity}" drawable="ipaint_coloring_book" />
+
+	<!-- ixigo -->
+	<item component="ComponentInfo{com.ixigo/com.ixigo.DefaultSplashScreenActivity}" drawable="ixigo" />
+
+	<!-- JanaTube -->
+	<item component="ComponentInfo{com.jana.tube.video/com.jana.tube.video.utube.main.MainActivity}" drawable="janatube" />
+
+	<!-- Jazeera Airways -->
+	<item component="ComponentInfo{com.winit.jazeeraairways/com.winit.jazeeraairways.Activities.SplashScreen1}" drawable="jazeera_airways" />
+
+	<!-- JBL Portable -->
+	<item component="ComponentInfo{com.harman.ble.jbllink/com.harman.jbl.portable.WelcomeActivity}" drawable="jbl_portable" />
+
+	<!-- Jot -->
+	<item component="ComponentInfo{com.kentdisplays.jot/com.kentdisplays.jot.activities.MainActivity}" drawable="jot" />
+
+	<!-- JUGO -->
+	<item component="ComponentInfo{bubustudio.jugo.pack/bubustudio.jugo.pack.activities.SplashActivity}" drawable="jugo" />
+
+	<!-- Justlife -->
+	<item component="ComponentInfo{com.mobile.justmop/com.mobile.justmop.MainActivity}" drawable="justlife" />
+
+	<!-- KAYAK -->
+	<item component="ComponentInfo{com.kayak.android/com.kayak.android.splash.SplashActivity}" drawable="kayak" />
+
+	<!-- Keepa -->
+	<item component="ComponentInfo{com.keepa.mobile/com.tns.NativeScriptActivity}" drawable="keepa" />
+
+	<!-- KFC UAE -->
+	<item component="ComponentInfo{com.kfc.me/com.americana.me.ui.onboarding.splash.SplashActivity}" drawable="kfc_uae" />
+
+	<!-- Kickstarter -->
+	<item component="ComponentInfo{com.kickstarter.kickstarter/com.kickstarter.ui.activities.DiscoveryActivity}" drawable="kickstarter" />
+
+	<!-- Kitopi Rewards -->
+	<item component="ComponentInfo{com.kitopi.pos.central/com.kitopi.pos.central.MainActivity}" drawable="kitopi_rewards" />
+
+	<!-- KLIX -->
+	<item component="ComponentInfo{com.iklix.klix/com.iklix.klix.MainActivity}" drawable="klix" />
+
+	<!-- Koloro -->
+	<item component="ComponentInfo{com.cerdillac.persetforlightroom/com.lightcone.cerdillac.koloro.activity.SplashActivity}" drawable="koloro" />
+
+	<!-- LeanKey Keyboard Pro -->
+	<item component="ComponentInfo{org.liskovsoft.androidtv.rukeyboard/com.liskovsoft.leankeyboard.activity.settings.KbSettingsActivity2}" drawable="leankey_keyboard_pro" />
+
+	<!-- Lensa -->
+	<item component="ComponentInfo{com.lensa.app/com.lensa.original}" drawable="lensa" />
+
+	<!-- Letterboxd -->
+	<item component="ComponentInfo{com.letterboxd.letterboxd/com.letterboxd.letterboxd.ui.activities.LaunchActivity}" drawable="letterboxd" />
+
+	<!-- LightCut -->
+	<item component="ComponentInfo{com.lightcut.videoeditor/com.lct.light.main.SplashActivity}" drawable="lightcut" />
+
+	<!-- Lightleap -->
+	<item component="ComponentInfo{com.lightricks.quickshot/com.lightricks.quickshot.SplashActivity}" drawable="lightleap" />
+
+	<!-- LightX -->
+	<item component="ComponentInfo{com.lightx/com.lightx.activities.LightxActivity}" drawable="lightx" />
+
+	<!-- Link to MyASUS -->
+	<item component="ComponentInfo{com.asus.syncv2/com.asus.linktomyasus.MainActivity}" drawable="link_to_myasus" />
+
+	<!-- LogoMaker -->
+	<item component="ComponentInfo{com.TTT.logomaker.logocreator.generator.designer/app.dev.watermark.screen.splash.SplashActivity}" drawable="logomaker" />
+
+	<!-- Lookout -->
+	<item component="ComponentInfo{com.google.android.apps.accessibility.reveal/com.google.android.apps.accessibility.reveal.activities.ProxyActivity}" drawable="lookout" />
+
+	<!-- LuLu Shopping -->
+	<item component="ComponentInfo{com.lulu.commerce/com.app.lulu.view.ui.splash.SplashActivity}" drawable="lulu_shopping" />
+
+	<!-- Luminar Share -->
+	<item component="ComponentInfo{com.skylum.luminarshare/crc64ea0dff78e50dfef8.SplashActivity}" drawable="luminar_share" />
+
+	<!-- Mad Muscles -->
+	<item component="ComponentInfo{com.amomedia.madmuscles/com.amomedia.musclemate.presentation.startup.RouteActivity}" drawable="mad_muscles" />
+
+	<!-- MAF Carrefour -->
+	<item component="ComponentInfo{com.aswat.carrefouruae/com.aswat.carrefouruae.feature.splash.view.activity.SplashActivity}" drawable="maf_carrefour" />
+
+	<!-- MakeMyTrip -->
+	<item component="ComponentInfo{com.makemytrip/com.mmt.travel.app.home.ui.SplashActivity}" drawable="makemytrip" />
+
+	<!-- MANGO -->
+	<item component="ComponentInfo{com.dylvian.mango.activities/com.mango.activities.splash.presentation.ActivitySplash}" drawable="mango" />
+
+	<!-- Max -->
+	<item component="ComponentInfo{com.landmarkgroup.maxstores/com.landmarkgroupreactapps.SplashActivityDefault}" drawable="max" />
+
+	<!-- McDonald's -->
+	<item component="ComponentInfo{com.mcdonalds.mobileapp/mcdonalds.core.SplashActivity}" drawable="mcdonalds" />
+
+	<!-- MediaFire -->
+	<item component="ComponentInfo{com.mediafire.android/com.mediafire.android.MainActivity}" drawable="mediafire" />
+
+</resources>

@@ -1,0 +1,153 @@
+<Theme version="1">
+
+	<!-- eWeLink -->
+	<AppIcon name="com.coolkit/com.coolkit.SplashActivity" image="ewelink"/>
+
+	<!-- Expedia -->
+	<AppIcon name="com.expedia.bookings/com.expedia.bookings.activity.SearchActivity" image="expedia"/>
+
+	<!-- Experience Abu Dhabi -->
+	<AppIcon name="com.visitabudhabi.android/com.vad.app.presentation.splash.activities.SplashActivity" image="experience_abu_dhabi"/>
+
+	<!-- ExpertWiFi -->
+	<AppIcon name="com.asus.expertrouter/com.asus.aihome.MainActivity" image="expertwifi"/>
+
+	<!-- FaceLab -->
+	<AppIcon name="com.lyrebirdstudio.facelab/com.lyrebirdstudio.facelab.SplashActivity" image="facelab"/>
+
+	<!-- Facetune -->
+	<AppIcon name="com.lightricks.facetune.free/com.lightricks.facetune.splash.SplashActivity" image="facetune"/>
+
+	<!-- Family Link -->
+	<AppIcon name="com.google.android.apps.kids.familylink/com.google.android.apps.kids.familylink.flutter.standalone.HomeActivity" image="family_link"/>
+
+	<!-- Farfetch -->
+	<AppIcon name="com.farfetch.farfetchshop/com.farfetch.farfetchshop.features.start.StartActivity" image="farfetch"/>
+
+	<!-- Fasting -->
+	<AppIcon name="com.kompanion.fasting.android/com.kompanion.fasting.android.MainActivity" image="fasting"/>
+
+	<!-- Fazaa -->
+	<AppIcon name="ae.fazaa/ae.fazaa.MainActivity" image="fazaa"/>
+
+	<!-- FEPY -->
+	<AppIcon name="com.fepy.flutter_app/com.fepy.flutter_app.MainActivity" image="fepy"/>
+
+	<!-- Ferns N Petals -->
+	<AppIcon name="ae.fnp/ae.fnp.MainActivity" image="ferns_n_petals"/>
+
+	<!-- File Converter -->
+	<AppIcon name="com.onlineconvert.ocapp/com.onlineconvert.ocapp.MainActivity" image="file_converter"/>
+
+	<!-- Fire and Ice Live Wallpaper -->
+	<AppIcon name="com.blwp.fireice/com.blwp.fireice.screens.SplashActivity" image="fire_and_ice_live_wallpaper"/>
+
+	<!-- Fire TV -->
+	<AppIcon name="com.amazon.storm.lightning.client.aosp/com.amazon.bison.SplashScreen" image="fire_tv"/>
+
+	<!-- Flickr -->
+	<AppIcon name="com.flickr.android/com.yahoo.mobile.client.android.flickr.ui.misc.LoginActivity" image="flickr"/>
+
+	<!-- FlipaClip -->
+	<AppIcon name="com.vblast.flipaclip/com.vblast.feature_home.presentation.MainActivity" image="flipaclip"/>
+
+	<!-- Floward -->
+	<AppIcon name="com.q8.flowers.app/com.q8.flowers.app.presentation.splash.SplashScreen" image="floward"/>
+
+	<!-- Flowwow -->
+	<AppIcon name="com.flowwow/com.flowwow.features.splash.SplashActivity" image="flowwow"/>
+
+	<!-- Fluid -->
+	<AppIcon name="games.paveldogreat.fluidsimfree/com.unity3d.player.UnityPlayerActivity" image="fluid"/>
+
+	<!-- Fotor -->
+	<AppIcon name="com.everimaging.photoeffectstudio/com.everimaging.fotor.SplashActivity" image="fotor"/>
+
+	<!-- Frameo -->
+	<AppIcon name="net.frameo.app/net.frameo.app.ui.activities.AGalleryPicker" image="frameo"/>
+
+	<!-- Freshtohome -->
+	<AppIcon name="com.freshtohome/com.freshtohome.MainActivity" image="freshtohome"/>
+
+	<!-- Fyuse -->
+	<AppIcon name="com.fyusion.fyuse/com.fyusion.fyuse.SplashScreen" image="fyuse"/>
+
+	<!-- FZ Platinum -->
+	<AppIcon name="com.flydubai.platinumcardoffers/com.flydubai.platinumcardoffers.MainActivity" image="fz_platinum"/>
+
+	<!-- G2A -->
+	<AppIcon name="com.g2a.marketplace/com.g2a.marketplace.main.MainActivity" image="g2a"/>
+
+	<!-- Game Deals -->
+	<AppIcon name="com.razerzone.cortex.dealsv2/com.razer.android.dealsv2.activity.SplashActivity" image="game_deals"/>
+
+	<!-- GamePad Tester -->
+	<AppIcon name="com.chimera.saturday.evogamepadtester/com.chimera.saturday.evogamepadtester.controller.Home" image="gamepad_tester"/>
+
+	<!-- Gamesplanet -->
+	<AppIcon name="com.mstoreapp.ionic1645711573664/com.mstoreapp.ionic1645711573664.MainActivity" image="gamesplanet"/>
+
+	<!-- GBox -->
+	<AppIcon name="com.gbox.android/com.gbox.android.SplashActivity" image="gbox"/>
+
+	<!-- GCCGAMERS -->
+	<AppIcon name="com.gcc.games/com.simicart.MainActivity" image="gccgamers"/>
+
+	<!-- GetYourGuide -->
+	<AppIcon name="com.getyourguide.android/com.getyourguide.InitDumpActivity" image="getyourguide"/>
+
+	<!-- GitMind -->
+	<AppIcon name="com.apowersoft.gitmind/com.apowersoft.gitmind.MainActivity" image="gitmind"/>
+
+	<!-- GoChat -->
+	<AppIcon name="net.gochat.app/com.vianeos.octochat.Default" image="gochat"/>
+
+	<!-- Goibibo -->
+	<AppIcon name="com.goibibo/com.goibibo.common.HomeActivity" image="goibibo"/>
+
+	<!-- Google Cloud -->
+	<AppIcon name="com.google.android.apps.cloudconsole/com.google.android.apps.cloudconsole.common.MainContainerActivity" image="google_cloud"/>
+
+	<!-- GoSupps -->
+	<AppIcon name="gosupps.com.app/gosupps.com.app.MainActivity" image="gosupps"/>
+
+	<!-- Govee Home -->
+	<AppIcon name="com.govee.home/com.govee.home.HomeActivity" image="govee_home"/>
+
+	<!-- Groupon -->
+	<AppIcon name="com.groupon/com.groupon.home.main.activities.Carousel" image="groupon"/>
+
+	<!-- GRUBL -->
+	<AppIcon name="helectronsoft.com.grubl.live.wallpapers3d/com.zipoapps.premiumhelper.ui.splash.PHSplashActivity" image="grubl"/>
+
+	<!-- H&M - MENA -->
+	<AppIcon name="com.hm.mena/com.hm.MainActivity" image="h_and_m_mena"/>
+
+	<!-- Halal -->
+	<AppIcon name="com.halalalemarat.halalalemarat/com.halalalemarat.halalalemarat.MainActivity" image="halal"/>
+
+	<!-- Handy Photo -->
+	<AppIcon name="com.advasoft.handyphoto/com.advasoft.handyphoto.GPNBOViewFakeStart" image="handy_photo"/>
+
+	<!-- Hardee's UAE -->
+	<AppIcon name="com.hardees.uae/com.americana.me.hardees.ui.onboarding.splash.HardeesSplashActivity" image="hardees_uae"/>
+
+	<!-- Hatla2ee -->
+	<AppIcon name="com.hatla2ee.hatla2ee_egypt/com.hatla2ee.hatla2ee_egypt.MainActivity" image="hatla2ee"/>
+
+	<!-- HDO Box -->
+	<AppIcon name="com.hdobox/com.hdobox.MainActivity" image="hdo_box"/>
+
+	<!-- Health -->
+	<AppIcon name="com.sec.android.app.shealth/com.samsung.android.app.shealth.home.HomeMainActivity" image="health"/>
+
+	<!-- Home Box -->
+	<AppIcon name="com.landmarkgroup.homeboxstores/com.landmarkgroupreactapps.SplashActivityDefault" image="home_box"/>
+
+	<!-- Home Centre -->
+	<AppIcon name="com.landmarkgroup.homecentrestores/com.landmarkgroupreactapps.SplashActivityDefault" image="home_centre"/>
+
+	<!-- Homesrus -->
+	<AppIcon name="com.homesrus.app/com.homesrus.app.ui.splash.SplashActivity" image="homesrus"/>
+
+</Theme>

@@ -1,0 +1,153 @@
+<Theme version="1">
+
+	<!-- Airalo -->
+	<AppIcon name="com.mobillium.airalo/com.mobillium.airalo.ui.splash.SplashActivity" image="airalo"/>
+
+	<!-- Ajmal -->
+	<AppIcon name="com.webkul.Ajmal/com.webkul.Ajmal.MainActivity" image="ajmal"/>
+
+	<!-- AlAnsariEX -->
+	<AppIcon name="app.alansari/app.alansari.SplashActivity" image="alansariex"/>
+
+	<!-- Alibaba.com -->
+	<AppIcon name="com.alibaba.intl.android.apps.poseidon/com.alibaba.intl.android.apps.poseidon.app.activity.ActivityMainMaterial" image="alibabacom"/>
+
+	<!-- AliExpress -->
+	<AppIcon name="com.alibaba.aliexpresshd/com.aliexpress.app.FirstActivity" image="aliexpress"/>
+
+	<!-- AliHelper -->
+	<AppIcon name="com.xyz.alihelper/com.xyz.alihelper.ui.activities.MainActivity" image="alihelper"/>
+
+	<!-- AliPrice Shopping Assistant -->
+	<AppIcon name="com.dengpai.aliprice/com.dengpai.aliprice.Base.LaunchActivity" image="aliprice_shopping_assistant"/>
+
+	<!-- AliTools -->
+	<AppIcon name="io.alitools.android/io.alitools.android.ui.home.views.HomeActivity" image="alitools"/>
+
+	<!-- Allegro -->
+	<AppIcon name="pl.allegro/pl.allegro.Allegro" image="allegro"/>
+
+	<!-- Almowafir -->
+	<AppIcon name="com.almowafir.app/com.almowafir.app.MainActivity" image="almowafir"/>
+
+	<!-- AppMgr Pro III -->
+	<AppIcon name="com.a0soft.gphone.app2sd.pro/com.a0soft.gphone.app2sd.pro.MainWnd" image="appmgr_pro_iii"/>
+
+	<!-- Apps2Fire -->
+	<AppIcon name="mobi.koni.appstofiretv/mobi.koni.appstofiretv.SplashScreenActivity" image="apps2fire"/>
+
+	<!-- Arabian Oud -->
+	<AppIcon name="com.arabian.oud/com.snaptec.nineten.MainActivity" image="arabian_oud"/>
+
+	<!-- Area X -->
+	<AppIcon name="com.areaex.benjaminwordsworth.area_x/com.areaex.benjaminwordsworth.area_x.activities.StartActivity" image="area_x"/>
+
+	<!-- ARMOURY CRATE -->
+	<AppIcon name="com.asus.rog.roggamingcenter3/com.asus.rog.roggamingcenter3.MainActivity" image="armoury_crate"/>
+
+	<!-- Artecture -->
+	<AppIcon name="com.samsung.android.sdrawing/com.samsung.android.sdrawing.SDrawingActivity" image="artecture"/>
+
+	<!-- ArtFlow -->
+	<AppIcon name="com.bytestorm.artflow/com.bytestorm.artflow.Editor" image="artflow"/>
+
+	<!-- Asmaky -->
+	<AppIcon name="ae.eds.asmaky/ae.eds.asmaky.activity.SplashActivity" image="asmaky"/>
+
+	<!-- ASQ -->
+	<AppIcon name="com.asqgrp.store/com.asqgrp.store.ui.splash.ASQSplashActivity" image="asq"/>
+
+	<!-- ASUS Extender -->
+	<AppIcon name="com.asus.aiextender/com.asus.aiextender.MainActivity" image="asus_extender"/>
+
+	<!-- ASUS Router -->
+	<AppIcon name="com.asus.aihome/com.asus.aihome.MainActivity" image="asus_router"/>
+
+	<!-- Auto Additions -->
+	<AppIcon name="com.autoaccessoryconfigurator.autoaddition/com.autoaccessoryconfigurator.autoaddition.MainActivity" image="auto_additions"/>
+
+	<!-- Auto Image -->
+	<AppIcon name="com.autoaccessoryconfigurator.autoimage/com.autoaccessoryconfigurator.autoimage.MainActivity" image="auto_image"/>
+
+	<!-- Auto Redial -->
+	<AppIcon name="ru.lithiums.autodialer/ru.lithiums.autodialer.MainActivity" image="auto_redial"/>
+
+	<!-- Auto-Data.net -->
+	<AppIcon name="com.AutoDataNet.app/com.autodata.app.MainActivity" image="auto_datanet"/>
+
+	<!-- Award VPN -->
+	<AppIcon name="com.award.VPN/app.award.update.SplashActivity" image="award_vpn"/>
+
+	<!-- B&H -->
+	<AppIcon name="com.bhphoto/com.bhphoto.CustomLauncherActivity" image="b_and_h"/>
+
+	<!-- Background Eraser -->
+	<AppIcon name="com.handycloset.android.eraser/com.handycloset.android.eraser.MainActivity" image="background_eraser"/>
+
+	<!-- Background Eraser - Remove BG -->
+	<AppIcon name="photoeditor.cutout.backgrounderaser/com.camerasideas.collagemaker.activity.DummyActivity" image="background_eraser_remove_bg"/>
+
+	<!-- Banggood -->
+	<AppIcon name="com.banggood.client/com.banggood.client.Launcher" image="banggood"/>
+
+	<!-- Bayut -->
+	<AppIcon name="com.bayut.bayutapp/com.consumerapps.main.SplashActivity" image="bayut"/>
+
+	<!-- BetterMe -->
+	<AppIcon name="com.gen.workoutme/com.gen.betterme.base.sections.home.HomeActivity" image="betterme"/>
+
+	<!-- Binance -->
+	<AppIcon name="com.binance.dev/com.eaas.launcher.activities.main.MainActivity" image="binance"/>
+
+	<!-- Blinx -->
+	<AppIcon name="com.blinx.app/com.blinx.app.MainActivity" image="blinx"/>
+
+	<!-- Block This! -->
+	<AppIcon name="com.savageorgiev.blockthis/com.savageorgiev.blockthis.MainActivity" image="block_this_"/>
+
+	<!-- Blokada 6 -->
+	<AppIcon name="org.blokada.sex/ui.MainActivity" image="blokada_6"/>
+
+	<!-- Blue Rewards -->
+	<AppIcon name="com.alfuttaim.blue/h073b1088.nebf0e24f.a1925f8e1.sf76721fe.b8bf08d42" image="blue_rewards"/>
+
+	<!-- Bodybuilding.com Store -->
+	<AppIcon name="com.bodybuilding.store/co.tapcart.app.MainActivity" image="bodybuildingcom_store"/>
+
+	<!-- Booking.com -->
+	<AppIcon name="com.booking/com.booking.startup.HomeActivity" image="bookingcom"/>
+
+	<!-- Bose Connect -->
+	<AppIcon name="com.bose.monet/com.bose.monet.activity.discovery.SplashSearchingActivity" image="bose_connect"/>
+
+	<!-- Bose Music -->
+	<AppIcon name="com.bose.bosemusic/com.bose.madrid.SplashScreenActivity" image="bose_music"/>
+
+	<!-- Botim -->
+	<AppIcon name="im.thebot.messenger/im.thebot.messenger.BOTStartPage" image="botim"/>
+
+	<!-- Brilliant -->
+	<AppIcon name="org.brilliant.android/org.brilliant.android.ui.common.MainActivity" image="brilliant"/>
+
+	<!-- BroadLink -->
+	<AppIcon name="cn.com.broadlink.econtrol.international/cn.com.broadlink.unify.app.main.activity.LoadingActivity" image="broadlink"/>
+
+	<!-- MyScript Calculator 2 -->
+	<AppIcon name="com.myscript.calculator/com.myscript.calculator.BootstrapActivity" image="myscript_calculator_2"/>
+
+	<!-- Calo -->
+	<AppIcon name="com.calo.webapp/com.calo.webapp.MainActivity" image="calo"/>
+
+	<!-- CanCan -->
+	<AppIcon name="com.cancan/com.cancan.views.SplashActivity" image="cancan"/>
+
+	<!-- CandyLink VPN -->
+	<AppIcon name="com.candylink.openvpn/com.candylink.openvpn.ui.main.MainActivity" image="candylink_vpn"/>
+
+	<!-- Canon Print Service -->
+	<AppIcon name="jp.co.canon.android.printservice.plugin/jp.co.canon.android.printservice.plugin.WalkThroughActivity" image="canon_print_service"/>
+
+	<!-- Cari -->
+	<AppIcon name="get.cari.bestfooddelivery.app/get.dukan.grocerydelivery.app.presentation.view.intro.splash.SplashActivity" image="cari"/>
+
+</Theme>

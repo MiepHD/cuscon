@@ -1,0 +1,153 @@
+<resources>
+
+	<!-- Airalo -->
+	<item component="ComponentInfo{com.mobillium.airalo/com.mobillium.airalo.ui.splash.SplashActivity}" drawable="airalo" />
+
+	<!-- Ajmal -->
+	<item component="ComponentInfo{com.webkul.Ajmal/com.webkul.Ajmal.MainActivity}" drawable="ajmal" />
+
+	<!-- AlAnsariEX -->
+	<item component="ComponentInfo{app.alansari/app.alansari.SplashActivity}" drawable="alansariex" />
+
+	<!-- Alibaba.com -->
+	<item component="ComponentInfo{com.alibaba.intl.android.apps.poseidon/com.alibaba.intl.android.apps.poseidon.app.activity.ActivityMainMaterial}" drawable="alibabacom" />
+
+	<!-- AliExpress -->
+	<item component="ComponentInfo{com.alibaba.aliexpresshd/com.aliexpress.app.FirstActivity}" drawable="aliexpress" />
+
+	<!-- AliHelper -->
+	<item component="ComponentInfo{com.xyz.alihelper/com.xyz.alihelper.ui.activities.MainActivity}" drawable="alihelper" />
+
+	<!-- AliPrice Shopping Assistant -->
+	<item component="ComponentInfo{com.dengpai.aliprice/com.dengpai.aliprice.Base.LaunchActivity}" drawable="aliprice_shopping_assistant" />
+
+	<!-- AliTools -->
+	<item component="ComponentInfo{io.alitools.android/io.alitools.android.ui.home.views.HomeActivity}" drawable="alitools" />
+
+	<!-- Allegro -->
+	<item component="ComponentInfo{pl.allegro/pl.allegro.Allegro}" drawable="allegro" />
+
+	<!-- Almowafir -->
+	<item component="ComponentInfo{com.almowafir.app/com.almowafir.app.MainActivity}" drawable="almowafir" />
+
+	<!-- AppMgr Pro III -->
+	<item component="ComponentInfo{com.a0soft.gphone.app2sd.pro/com.a0soft.gphone.app2sd.pro.MainWnd}" drawable="appmgr_pro_iii" />
+
+	<!-- Apps2Fire -->
+	<item component="ComponentInfo{mobi.koni.appstofiretv/mobi.koni.appstofiretv.SplashScreenActivity}" drawable="apps2fire" />
+
+	<!-- Arabian Oud -->
+	<item component="ComponentInfo{com.arabian.oud/com.snaptec.nineten.MainActivity}" drawable="arabian_oud" />
+
+	<!-- Area X -->
+	<item component="ComponentInfo{com.areaex.benjaminwordsworth.area_x/com.areaex.benjaminwordsworth.area_x.activities.StartActivity}" drawable="area_x" />
+
+	<!-- ARMOURY CRATE -->
+	<item component="ComponentInfo{com.asus.rog.roggamingcenter3/com.asus.rog.roggamingcenter3.MainActivity}" drawable="armoury_crate" />
+
+	<!-- Artecture -->
+	<item component="ComponentInfo{com.samsung.android.sdrawing/com.samsung.android.sdrawing.SDrawingActivity}" drawable="artecture" />
+
+	<!-- ArtFlow -->
+	<item component="ComponentInfo{com.bytestorm.artflow/com.bytestorm.artflow.Editor}" drawable="artflow" />
+
+	<!-- Asmaky -->
+	<item component="ComponentInfo{ae.eds.asmaky/ae.eds.asmaky.activity.SplashActivity}" drawable="asmaky" />
+
+	<!-- ASQ -->
+	<item component="ComponentInfo{com.asqgrp.store/com.asqgrp.store.ui.splash.ASQSplashActivity}" drawable="asq" />
+
+	<!-- ASUS Extender -->
+	<item component="ComponentInfo{com.asus.aiextender/com.asus.aiextender.MainActivity}" drawable="asus_extender" />
+
+	<!-- ASUS Router -->
+	<item component="ComponentInfo{com.asus.aihome/com.asus.aihome.MainActivity}" drawable="asus_router" />
+
+	<!-- Auto Additions -->
+	<item component="ComponentInfo{com.autoaccessoryconfigurator.autoaddition/com.autoaccessoryconfigurator.autoaddition.MainActivity}" drawable="auto_additions" />
+
+	<!-- Auto Image -->
+	<item component="ComponentInfo{com.autoaccessoryconfigurator.autoimage/com.autoaccessoryconfigurator.autoimage.MainActivity}" drawable="auto_image" />
+
+	<!-- Auto Redial -->
+	<item component="ComponentInfo{ru.lithiums.autodialer/ru.lithiums.autodialer.MainActivity}" drawable="auto_redial" />
+
+	<!-- Auto-Data.net -->
+	<item component="ComponentInfo{com.AutoDataNet.app/com.autodata.app.MainActivity}" drawable="auto_datanet" />
+
+	<!-- Award VPN -->
+	<item component="ComponentInfo{com.award.VPN/app.award.update.SplashActivity}" drawable="award_vpn" />
+
+	<!-- B&H -->
+	<item component="ComponentInfo{com.bhphoto/com.bhphoto.CustomLauncherActivity}" drawable="b_and_h" />
+
+	<!-- Background Eraser -->
+	<item component="ComponentInfo{com.handycloset.android.eraser/com.handycloset.android.eraser.MainActivity}" drawable="background_eraser" />
+
+	<!-- Background Eraser - Remove BG -->
+	<item component="ComponentInfo{photoeditor.cutout.backgrounderaser/com.camerasideas.collagemaker.activity.DummyActivity}" drawable="background_eraser_remove_bg" />
+
+	<!-- Banggood -->
+	<item component="ComponentInfo{com.banggood.client/com.banggood.client.Launcher}" drawable="banggood" />
+
+	<!-- Bayut -->
+	<item component="ComponentInfo{com.bayut.bayutapp/com.consumerapps.main.SplashActivity}" drawable="bayut" />
+
+	<!-- BetterMe -->
+	<item component="ComponentInfo{com.gen.workoutme/com.gen.betterme.base.sections.home.HomeActivity}" drawable="betterme" />
+
+	<!-- Binance -->
+	<item component="ComponentInfo{com.binance.dev/com.eaas.launcher.activities.main.MainActivity}" drawable="binance" />
+
+	<!-- Blinx -->
+	<item component="ComponentInfo{com.blinx.app/com.blinx.app.MainActivity}" drawable="blinx" />
+
+	<!-- Block This! -->
+	<item component="ComponentInfo{com.savageorgiev.blockthis/com.savageorgiev.blockthis.MainActivity}" drawable="block_this_" />
+
+	<!-- Blokada 6 -->
+	<item component="ComponentInfo{org.blokada.sex/ui.MainActivity}" drawable="blokada_6" />
+
+	<!-- Blue Rewards -->
+	<item component="ComponentInfo{com.alfuttaim.blue/h073b1088.nebf0e24f.a1925f8e1.sf76721fe.b8bf08d42}" drawable="blue_rewards" />
+
+	<!-- Bodybuilding.com Store -->
+	<item component="ComponentInfo{com.bodybuilding.store/co.tapcart.app.MainActivity}" drawable="bodybuildingcom_store" />
+
+	<!-- Booking.com -->
+	<item component="ComponentInfo{com.booking/com.booking.startup.HomeActivity}" drawable="bookingcom" />
+
+	<!-- Bose Connect -->
+	<item component="ComponentInfo{com.bose.monet/com.bose.monet.activity.discovery.SplashSearchingActivity}" drawable="bose_connect" />
+
+	<!-- Bose Music -->
+	<item component="ComponentInfo{com.bose.bosemusic/com.bose.madrid.SplashScreenActivity}" drawable="bose_music" />
+
+	<!-- Botim -->
+	<item component="ComponentInfo{im.thebot.messenger/im.thebot.messenger.BOTStartPage}" drawable="botim" />
+
+	<!-- Brilliant -->
+	<item component="ComponentInfo{org.brilliant.android/org.brilliant.android.ui.common.MainActivity}" drawable="brilliant" />
+
+	<!-- BroadLink -->
+	<item component="ComponentInfo{cn.com.broadlink.econtrol.international/cn.com.broadlink.unify.app.main.activity.LoadingActivity}" drawable="broadlink" />
+
+	<!-- MyScript Calculator 2 -->
+	<item component="ComponentInfo{com.myscript.calculator/com.myscript.calculator.BootstrapActivity}" drawable="myscript_calculator_2" />
+
+	<!-- Calo -->
+	<item component="ComponentInfo{com.calo.webapp/com.calo.webapp.MainActivity}" drawable="calo" />
+
+	<!-- CanCan -->
+	<item component="ComponentInfo{com.cancan/com.cancan.views.SplashActivity}" drawable="cancan" />
+
+	<!-- CandyLink VPN -->
+	<item component="ComponentInfo{com.candylink.openvpn/com.candylink.openvpn.ui.main.MainActivity}" drawable="candylink_vpn" />
+
+	<!-- Canon Print Service -->
+	<item component="ComponentInfo{jp.co.canon.android.printservice.plugin/jp.co.canon.android.printservice.plugin.WalkThroughActivity}" drawable="canon_print_service" />
+
+	<!-- Cari -->
+	<item component="ComponentInfo{get.cari.bestfooddelivery.app/get.dukan.grocerydelivery.app.presentation.view.intro.splash.SplashActivity}" drawable="cari" />
+
+</resources>

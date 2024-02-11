@@ -1,0 +1,153 @@
+<resources>
+
+	<!-- Profolio™ -->
+	<item component="ComponentInfo{com.bayut.bayutpro/host.exp.exponent.MainActivity}" drawable="profolio™" />
+
+	<!-- Qatar Airways -->
+	<item component="ComponentInfo{com.m.qr/com.m.qr.home.onboarding.ui.OnBoardingActivity}" drawable="qatar_airways" />
+
+	<!-- QiDZ -->
+	<item component="ComponentInfo{com.qidz/com.qidz.MainActivity}" drawable="qidz" />
+
+	<!-- Quadroid -->
+	<item component="ComponentInfo{com.atanusanyal.quadroid/com.atanusanyal.quadroid.activities.SplashActivity}" drawable="quadroid" />
+
+	<!-- R & B Fashion -->
+	<item component="ComponentInfo{com.apparelgroup.randbfashion/com.apparelgroup.randbfashion.MainActivity}" drawable="r_and_b_fashion" />
+
+	<!-- REDTAG -->
+	<item component="ComponentInfo{com.bma.redtag/com.vennapps.android.ui.SplashActivity}" drawable="redtag" />
+
+	<!-- Remote ADB Shell -->
+	<item component="ComponentInfo{com.cgutman.androidremotedebugger/com.cgutman.androidremotedebugger.ConnectActivity}" drawable="remote_adb_shell" />
+
+	<!-- REVOLVE -->
+	<item component="ComponentInfo{com.revolve/com.revolve.views.activities.SplashActivity}" drawable="revolve" />
+
+	<!-- Reward Card -->
+	<item component="ComponentInfo{com.loylogic.pointspay/com.loylogic.pointspay.ui.usermanagement.LoginActivity}" drawable="reward_card" />
+
+	<!-- Rewards -->
+	<item component="ComponentInfo{com.google.android.apps.paidtasks/com.google.android.apps.paidtasks.activity.LaunchActivity}" drawable="rewards" />
+
+	<!-- Rocketbook -->
+	<item component="ComponentInfo{com.rb.rocketbook/com.rb.rocketbook.ui.StartupActivity}" drawable="rocketbook" />
+
+	<!-- Room Planner -->
+	<item component="ComponentInfo{com.icandesignapp.all/com.google.firebase.MessagingUnityPlayerActivity}" drawable="room_planner" />
+
+	<!-- ROSEGAL -->
+	<item component="ComponentInfo{com.rosegal/com.globalegrow.app.rosegal.ui.activitys.SplashActivity}" drawable="rosegal" />
+
+	<!-- Savefrom Helper -->
+	<item component="ComponentInfo{com.example.savefromNew/net.savefrom.helper.splash.SplashActivity}" drawable="savefrom_helper" />
+
+	<!-- Screen Alive -->
+	<item component="ComponentInfo{in.snapcore.screen_alive/in.snapcore.screen_alive.view.FreeActivity}" drawable="screen_alive" />
+
+	<!-- SD Maid -->
+	<item component="ComponentInfo{eu.thedarken.sdm/eu.thedarken.sdm.main.ui.SDMMainActivity}" drawable="sd_maid" />
+
+	<!-- SD Maid Pro -->
+	<item component="ComponentInfo{eu.thedarken.sdm.unlocker/eu.thedarken.sdm.unlocker.MainActivity}" drawable="sd_maid_pro" />
+
+	<!-- SD Maid SE -->
+	<item component="ComponentInfo{eu.darken.sdmse/eu.darken.sdmse.main.ui.MainActivity}" drawable="sd_maid_se" />
+
+	<!-- Global Village -->
+	<item component="ComponentInfo{com.reflectionsinfos.globalvillage/com.reflectionsinfos.globalvillage.DefaultAlias}" drawable="global_village" />
+
+	<!-- Seez -->
+	<item component="ComponentInfo{co.seez.seezr/co.seez.seezr.presentation.splash.SplashActivity}" drawable="seez" />
+
+	<!-- Send Anywhere -->
+	<item component="ComponentInfo{com.estmob.android.sendanywhere/com.estmob.paprika4.activity.SplashActivity}" drawable="send_anywhere" />
+
+	<!-- SENORFIT -->
+	<item component="ComponentInfo{com.senorfit/com.senorfit.MainActivity}" drawable="senorfit" />
+
+	<!-- ServiceMyCar -->
+	<item component="ComponentInfo{com.servicemycar.android/com.lt.ui.welcome.splash.SplashActivity_}" drawable="servicemycar" />
+
+	<!-- SetEdit -->
+	<item component="ComponentInfo{by4a.setedit22/by4a.setedit.EditorActivity}" drawable="setedit" />
+
+	<!-- SHARE -->
+	<item component="ComponentInfo{com.maf.share/com.maf.android.share.presentation.splash.MainLauncher}" drawable="share" />
+
+	<!-- Shop & Ship -->
+	<item component="ComponentInfo{net.aramex.sas/com.aramex.shopandshipmobile.ui.splash.SplashActivity}" drawable="shop_and_ship" />
+
+	<!-- SIVVI -->
+	<item component="ComponentInfo{com.sivvi.app/com.noon.buyerapp.MainActivity}" drawable="sivvi" />
+
+	<!-- Slider -->
+	<item component="ComponentInfo{com.adcb.bank/com.adcb.bank.ADCBMIB}" drawable="slider" />
+
+	<!-- Smart Life -->
+	<item component="ComponentInfo{com.tuya.smartlife/com.smart.ThingSplashActivity}" drawable="smart_life" />
+
+	<!-- Smart Tutor -->
+	<item component="ComponentInfo{com.rsupport.rs.activity.rsupport.aas2/com.rsupport.rs.activity.edit.IntroActivity}" drawable="smart_tutor" />
+
+	<!-- SOUFEEL -->
+	<item component="ComponentInfo{com.Soufeel/com.Soufeel.activity.WelcomeActivity}" drawable="soufeel" />
+
+	<!-- Splash -->
+	<item component="ComponentInfo{com.landmarkgroup.splashfashions/com.landmarkgroupreactapps.SplashActivityDefault}" drawable="splash" />
+
+	<!-- Sporter -->
+	<item component="ComponentInfo{com.sporter/com.sporter.MainActivity}" drawable="sporter" />
+
+	<!-- SQUATWOLF -->
+	<item component="ComponentInfo{com.vennapps.android.squatwolf/com.vennapps.android.ui.SplashActivity}" drawable="squatwolf" />
+
+	<!-- Starbucks UAE -->
+	<item component="ComponentInfo{com.starbucks.ae/com.starbucks.emea.splash.SplashActivity}" drawable="starbucks_uae" />
+
+	<!-- STARZ ON -->
+	<item component="ComponentInfo{com.parsifal.starz/com.parsifal.starz.ui.features.launcher.LauncherActivity}" drawable="starz_on" />
+
+	<!-- StoreUs -->
+	<item component="ComponentInfo{com.storeus/com.nft.storeus.MainActivity}" drawable="storeus" />
+
+	<!-- Storytel -->
+	<item component="ComponentInfo{grit.storytel.app/grit.storytel.app.MainActivity}" drawable="storytel" />
+
+	<!-- StoryZ -->
+	<item component="ComponentInfo{com.lightx.storyz/com.lightx.activities.StoryzActivity}" drawable="storyz" />
+
+	<!-- Stradivarius -->
+	<item component="ComponentInfo{com.inditex.stradivarius/es.sdos.sdosproject.ui.splash.activity.LaunchActivity}" drawable="stradivarius" />
+
+	<!-- Sun & Sand Sports -->
+	<item component="ComponentInfo{com.sssports.sssports/com.sssports.splash.presentation.view.SplashScreenRevampActivity}" drawable="sun_and_sand_sports" />
+
+	<!-- Super Status Bar -->
+	<item component="ComponentInfo{com.tombayley.statusbar/com.tombayley.statusbar.app.ui.home.MainActivity}" drawable="super_status_bar" />
+
+	<!-- SWAP - No ROOT -->
+	<item component="ComponentInfo{com.allakore.swapnoroot/com.allakore.swapnoroot.ui.activities.SplashActivity}" drawable="swap_no_root" />
+
+	<!-- Tabby -->
+	<item component="ComponentInfo{app.tabby.client/app.tabby.client.MainActivity}" drawable="tabby" />
+
+	<!-- Tarteel -->
+	<item component="ComponentInfo{com.mmmoussa.iqra/com.mmmoussa.iqra.MainActivity}" drawable="tarteel" />
+
+	<!-- TeaTV -->
+	<item component="ComponentInfo{com.oe.photocollage/com.oe.photocollage.SplashActivity}" drawable="teatv" />
+
+	<!-- TeraBox -->
+	<item component="ComponentInfo{com.dubox.drive/com.dubox.drive.ui.Logo0LauncherActivity}" drawable="terabox" />
+
+	<!-- Tickit -->
+	<item component="ComponentInfo{ae.tickit.primary/net.wlloyalty.restaurant.MainActivity}" drawable="tickit" />
+
+	<!-- TikTok -->
+	<item component="ComponentInfo{com.ss.android.ugc.trill/com.ss.android.ugc.aweme.splash.SplashActivity}" drawable="tiktok" />
+
+	<!-- Timer -->
+	<item component="ComponentInfo{pl.appea.workouttimer/me.szymanski.wodtimer.MainActivity}" drawable="timer" />
+
+</resources>

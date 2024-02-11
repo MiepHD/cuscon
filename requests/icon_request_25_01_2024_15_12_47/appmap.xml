@@ -1,0 +1,153 @@
+<appmap>
+
+	<!-- CARS24 -->
+	<item class="com.cars24.uaeusedcars.MainActivity" name="cars24"/>
+
+	<!-- CarSwitch -->
+	<item class="com.carswitch.MainActivity" name="carswitch"/>
+
+	<!-- CDKeys -->
+	<item class="com.cdkeys.MainActivity" name="cdkeys"/>
+
+	<!-- Centrepoint -->
+	<item class="com.landmarkgroupreactapps.SplashActivityDefault" name="centrepoint"/>
+
+	<!-- Cheapflights -->
+	<item class="com.kayak.android.splash.SplashActivity" name="cheapflights"/>
+
+	<!-- CITRUSS -->
+	<item class="citruss.android.activity.SplashScreenActivity" name="citruss"/>
+
+	<!-- Cleartrip -->
+	<item class="com.cleartrip.android.activity.common.SplashActivity" name="cleartrip"/>
+
+	<!-- ClicknCollect -->
+	<item class="com.tookancustomer.SplashActivity" name="clickncollect"/>
+
+	<!-- ClicknCollect Merchant -->
+	<item class="com.example.yelomerchantappp.splash.activity.SplashActivity" name="clickncollect_merchant"/>
+
+	<!-- Clip Studio -->
+	<item class="com.celsys.pwlegacyandroidhelpers.PWLegacyJniCustomNativeActivityAndroid" name="clip_studio"/>
+
+	<!-- Cloud -->
+	<item class="com.samsung.android.scloud.app.ui.splash.launcher" name="cloud"/>
+
+	<!-- Cobone -->
+	<item class="com.cobone.coboneapp.MainActivity" name="cobone"/>
+
+	<!-- CoinMarketCap -->
+	<item class="com.coinmarketcap.android.LaunchActivity" name="coinmarketcap"/>
+
+	<!-- Concepts -->
+	<item class="com.tophatch.concepts.MainActivity" name="concepts"/>
+
+	<!-- Couchsurfing -->
+	<item class="com.couchsurfing.mobile.ui.WelcomeActivity" name="couchsurfing"/>
+
+	<!-- Creative Cloud -->
+	<item class="com.adobe.cc.SplashScreen" name="creative_cloud"/>
+
+	<!-- ADCalendar -->
+	<item class="ps.visitabudhabi.adcalendar.ui.splash.SplashActivity" name="adcalendar"/>
+
+	<!-- Danube Home -->
+	<item class="com.app.danubehomeonline.MainActivity" name="danube_home"/>
+
+	<!-- desertcart -->
+	<item class="com.desertcartnative.MainActivity" name="desertcart"/>
+
+	<!-- DeviantArt -->
+	<item class="com.deviantart.android.damobile.activity.HomeActivity" name="deviantart"/>
+
+	<!-- DIGI Clock Settings -->
+	<item class="sk.michalec.SimpleDigiClockWidget.ConfigActivity" name="digi_clock_settings"/>
+
+	<!-- DinoConnect -->
+	<item class="com.anmo.dinoconnect.MjpegActivity" name="dinoconnect"/>
+
+	<!-- DinoDirect -->
+	<item class="tw.com.anmo.dinodirect.MainActivity" name="dinodirect"/>
+
+	<!-- Discounter -->
+	<item class="com.thediscounterapp.presentation.activity.main.MainActivity" name="discounter"/>
+
+	<!-- Discovery -->
+	<item class="com.asustek.MainActivity" name="discovery"/>
+
+	<!-- DJI Mimo -->
+	<item class="dji.mimo.main.DJILaunchActivity" name="dji_mimo"/>
+
+	<!-- DJI Store -->
+	<item class="com.dji.store.activity.StartActivity" name="dji_store"/>
+
+	<!-- DLCompare -->
+	<item class="com.appmaker.xyz.webapp.SplashScreen" name="dlcompare"/>
+
+	<!-- DODuae -->
+	<item class="mobilapp.opencart.doduae.SplashScreen" name="doduae"/>
+
+	<!-- DOKAN -->
+	<item class="com.e2ashopifyapp.MainActivity" name="dokan"/>
+
+	<!-- DontKillMyApp -->
+	<item class="com.urbandroid.dontkillmyapp.MainActivity" name="dontkillmyapp"/>
+
+	<!-- Dragon Mart -->
+	<item class="ae.dpw.dragonmart.MainActivity" name="dragon_mart"/>
+
+	<!-- Dubai Page -->
+	<item class="com.dubai.dubai_user_app.MainActivity" name="dubai_page"/>
+
+	<!-- Dubai REST -->
+	<item class="ae.gov.dubailand.rest.MainActivity" name="dubai_rest"/>
+
+	<!-- DubaiStore -->
+	<item class="com.dubaistore.MainActivity" name="dubaistore"/>
+
+	<!-- dubizzle -->
+	<item class="com.dubizzle.horizontal.activities.routing.RoutingActivity" name="dubizzle"/>
+
+	<!-- E-Liquid Recipes -->
+	<item class="com.ugarsa.eliquidrecipes.ui.splash.SplashActivity" name="e_liquid_recipes"/>
+
+	<!-- Easy DNS -->
+	<item class="com.inunxlabs.easydns.Main" name="easy_dns"/>
+
+	<!-- eLife Connect -->
+	<item class="com.vianeos.homeBox.activities.SplashActivity" name="elife_connect"/>
+
+	<!-- Emax -->
+	<item class="com.landmarkgroupreactapps.SplashActivity" name="emax"/>
+
+	<!-- Emirates -->
+	<item class="com.emirates.startup.StartupActivity" name="emirates"/>
+
+	<!-- Emirates Auction -->
+	<item class="com.ea.emiratesauction.activity.SplashScreen" name="emirates_auction"/>
+
+	<!-- Emirates Post -->
+	<item class="ae.emiratespost.mobile.app.MainActivity" name="emirates_post"/>
+
+	<!-- Enhance -->
+	<item class="com.enhancefitness.enhancex_v3.MainActivity" name="enhance"/>
+
+	<!-- Enhance It -->
+	<item class="com.zipoapps.premiumhelper.ui.splash.PHSplashActivity" name="enhance_it"/>
+
+	<!-- ENTERTAINER -->
+	<item class="com.theentertainerme.onboardingui.activities.OnBoardingActivity" name="entertainer"/>
+
+	<!-- ENTERTAINER go -->
+	<item class="com.theentertainerme.entertainergo.SplashScreenActivity" name="entertainer_go"/>
+
+	<!-- Epic Pocket Wallpapers -->
+	<item class="com.app.materialwallpaper.activities.ActivitySplash" name="epic_pocket_wallpapers"/>
+
+	<!-- Epson iPrint -->
+	<item class="epson.print.WellcomeScreenActivity" name="epson_iprint"/>
+
+	<!-- Etihad Guest -->
+	<item class="com.etihad.guest.android.ui.splash.SplashActivity" name="etihad_guest"/>
+
+</appmap>

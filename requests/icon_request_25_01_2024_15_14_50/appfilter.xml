@@ -1,0 +1,153 @@
+<resources>
+
+	<!-- Meme Generator -->
+	<item component="ComponentInfo{com.zombodroid.MemeGenerator/com.zombodroid.memegen6source.SplashActivity}" drawable="meme_generator" />
+
+	<!-- Meross -->
+	<item component="ComponentInfo{com.meross.meross/com.meross.meross.ui.start.FirstCheckActivity}" drawable="meross" />
+
+	<!-- Mi Home -->
+	<item component="ComponentInfo{com.xiaomi.smarthome/com.xiaomi.smarthome.SmartHomeMainActivity}" drawable="mi_home" />
+
+	<!-- Minma Icon Pack -->
+	<item component="ComponentInfo{com.minma.icon.free/com.minma.icon.free.activities.SplashActivity}" drawable="minma_icon_pack" />
+
+	<!-- MiraCut -->
+	<item component="ComponentInfo{com.hitpaw.videoeditor/com.hitpaw.videoeditor.ui.WelcomeActivity}" drawable="miracut" />
+
+	<!-- MIX -->
+	<item component="ComponentInfo{com.pinguo.edit.sdk/us.pinguo.mix.modules.splash.SplashActivity}" drawable="mix" />
+
+	<!-- MOES -->
+	<item component="ComponentInfo{com.moes.wz/com.smart.ThingSplashActivity}" drawable="moes" />
+
+	<!-- MoreLocale 2 -->
+	<item component="ComponentInfo{jp.co.c_lis.ccl.morelocale/jp.co.c_lis.ccl.morelocale.ui.MainActivity}" drawable="morelocale_2" />
+
+	<!-- Motionleap -->
+	<item component="ComponentInfo{com.lightricks.pixaloop/com.lightricks.pixaloop.SplashActivity}" drawable="motionleap" />
+
+	<!-- Movepic -->
+	<item component="ComponentInfo{com.ryzenrise.movepic/com.lightcone.plotaverse.activity.SplashActivity}" drawable="movepic" />
+
+	<!-- MowaterApp -->
+	<item component="ComponentInfo{com.mowaterapp.android1/com.mowaterapp.android1.MainActivity}" drawable="mowaterapp" />
+
+	<!-- My Cloud OS5 -->
+	<item component="ComponentInfo{com.wdc.gza/com.kamino.wdt.MainActivity}" drawable="my_cloud_os5" />
+
+	<!-- My Coop -->
+	<item component="ComponentInfo{com.adcoop.squaregrape/ma.osp.shopping_app.smp.android.MainActivity}" drawable="my_coop" />
+
+	<!-- My Etisalat -->
+	<item component="ComponentInfo{com.Etisalat.ETIDA/com.etisalat.etida.composerevamp.splash.presentation.SplashActivity}" drawable="my_etisalat" />
+
+	<!-- MyASUS -->
+	<item component="ComponentInfo{com.asus.ia.asusapp/com.asus.ia.asusapp.Phone.Init.DefaultLauncherActivity}" drawable="myasus" />
+
+	<!-- Myprotein -->
+	<item component="ComponentInfo{com.thehutgroup.ecommerce.myprotein/com.thehutgroup.ecommerce.MainActivity}" drawable="myprotein" />
+
+	<!-- NAMSHI -->
+	<item component="ComponentInfo{com.namshi.android/com.namshi.android.MainActivity}" drawable="namshi" />
+
+	<!-- Nearby Share -->
+	<item component="ComponentInfo{com.cooliehat.nearbyshare/com.cooliehat.nearbyshare.sharingmodule.Activities.SplashActivity}" drawable="nearby_share" />
+
+	<!-- Nebo -->
+	<item component="ComponentInfo{com.myscript.nebo/com.myscript.nebo.BootstrapActivity}" drawable="nebo" />
+
+	<!-- Newchic -->
+	<item component="ComponentInfo{com.newchic.client/com.newchic.client.module.home.activity.SplashActivity}" drawable="newchic" />
+
+	<!-- Newegg -->
+	<item component="ComponentInfo{com.newegg.app/com.newegg.app.MainActivity}" drawable="newegg" />
+
+	<!-- Next -->
+	<item component="ComponentInfo{uk.co.next.android/crc645233a78dffd851a1.CountrySelectActivity}" drawable="next" />
+
+	<!-- Note to Self -->
+	<item component="ComponentInfo{com.makenotetoself/com.makenotetoself.MainActivity}" drawable="note_to_self" />
+
+	<!-- Noteshelf -->
+	<item component="ComponentInfo{com.fluidtouch.noteshelf2/com.fluidtouch.noteshelf.commons.ui.FTSplashScreenActivity}" drawable="noteshelf" />
+
+	<!-- NotiStar -->
+	<item component="ComponentInfo{com.samsung.systemui.notilus/com.samsung.systemui.notilus.NotiCenterPage}" drawable="notistar" />
+
+	<!-- NutriU -->
+	<item component="ComponentInfo{com.philips.ka.oneka.app/com.philips.ka.oneka.app.ui.splash.SplashActivity}" drawable="nutriu" />
+
+	<!-- One4Wall -->
+	<item component="ComponentInfo{one4studio.wallpaper.one4wall/one4studio.wallpaper.one4wall.MainActivity}" drawable="one4wall" />
+
+	<!-- Online Auction -->
+	<item component="ComponentInfo{ae.mazadat.onlineauctionapp/ae.mazadat.onlineauctionapp.MainActivity}" drawable="online_auction" />
+
+	<!-- OpenSooq - السوق المفتوح -->
+	<item component="ComponentInfo{com.opensooq.OpenSooq/com.opensooq.OpenSooq.ui.splash.SplashActivity}" drawable="opensooq_السوق_المفتوح" />
+
+	<!-- OSN -->
+	<item component="ComponentInfo{com.osn.go/com.osn.go.ui.mainactivity.MainActivity}" drawable="osn" />
+
+	<!-- Package Names -->
+	<item component="ComponentInfo{com.csdroid.pkg/com.csdroid.pkg.MainActivity}" drawable="package_names" />
+
+	<!-- PaperDraw -->
+	<item component="ComponentInfo{com.eyewind.paperone/com.kong.paper.MainActivity}" drawable="paperdraw" />
+
+	<!-- Paul Arabia -->
+	<item component="ComponentInfo{led.android.paularabia/led.android.paularabia.MainActivity}" drawable="paul_arabia" />
+
+	<!-- PC Builder -->
+	<item component="ComponentInfo{com.indraanisa.pcbuilder/com.indraanisa.pcbuilder.pcbuild.PcBuildActivity}" drawable="pc_builder" />
+
+	<!-- Pepperfry -->
+	<item component="ComponentInfo{com.app.pepperfry/com.app.pepperfry.main.MainActivity}" drawable="pepperfry" />
+
+	<!-- Perfectly Clear -->
+	<item component="ComponentInfo{de.worldiety.athentech.perfectlyclear/de.worldiety.athentech.perfectlyclear.ActivityPerfectlyClear}" drawable="perfectly_clear" />
+
+	<!-- PhoneWalls -->
+	<item component="ComponentInfo{com.phonewalls.stockwallpapers/com.phonewalls.stockwallpapers.MainActivity}" drawable="phonewalls" />
+
+	<!-- Photo & Picture Resizer -->
+	<item component="ComponentInfo{com.simplemobilephotoresizer/com.simplemobilephotoresizer.andr.ui.splash.SplashActivity}" drawable="photo_and_picture_resizer" />
+
+	<!-- Photo Compressor -->
+	<item component="ComponentInfo{com.photocompress.photoeditor/com.ps.photoeditor.ui.SplashActivity}" drawable="photo_compressor" />
+
+	<!-- PicCutout -->
+	<item component="ComponentInfo{com.hitpaw.piccutout.backgroundremover/com.hitpaw.piccutout.backgroundremover.activity.SplashActivity}" drawable="piccutout" />
+
+	<!-- PictureThis -->
+	<item component="ComponentInfo{cn.danatech.xingseus/com.glority.picturethis.app.kt.view.home.SplashActivity}" drawable="picturethis" />
+
+	<!-- Pixelup -->
+	<item component="ComponentInfo{com.codeway.pixelup/com.codeway.pixelup.MainActivity}" drawable="pixelup" />
+
+	<!-- Pizza Hut UAE -->
+	<item component="ComponentInfo{com.pizzahutapp/com.americana.me.ui.onboarding.splash.SplashActivity}" drawable="pizza_hut_uae" />
+
+	<!-- PlantIn -->
+	<item component="ComponentInfo{com.myplantin.app/com.myplantin.app.presentation.ui.activity.MainActivity}" drawable="plantin" />
+
+	<!-- Plex Dash -->
+	<item component="ComponentInfo{tv.plex.labs.dash/tv.plex.labs.dashboard.MainActivity}" drawable="plex_dash" />
+
+	<!-- Pocket FM -->
+	<item component="ComponentInfo{com.radio.pocketfm/com.radio.pocketfm.app.mobile.ui.splash.SplashActivity}" drawable="pocket_fm" />
+
+	<!-- Portrait Painter -->
+	<item component="ComponentInfo{com.jixipix.portraitpainter/com.jixipix.portraitpainter.PortraitPainter}" drawable="portrait_painter" />
+
+	<!-- Post-it® -->
+	<item component="ComponentInfo{com.mmm.postit/com.mmm.postit.MainActivity}" drawable="post_it®" />
+
+	<!-- Poster Maker -->
+	<item component="ComponentInfo{splendid.postermaker.designer/com.poster.postermaker.ui.view.Startup.StartupActivity}" drawable="poster_maker" />
+
+	<!-- PRINT -->
+	<item component="ComponentInfo{jp.co.canon.bsd.ad.pixmaprint/jp.co.canon.bsd.ad.pixmaprint.EulaActivity}" drawable="print" />
+
+</resources>

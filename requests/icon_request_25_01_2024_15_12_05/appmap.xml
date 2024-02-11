@@ -1,0 +1,153 @@
+<appmap>
+
+	<!-- Airalo -->
+	<item class="com.mobillium.airalo.ui.splash.SplashActivity" name="airalo"/>
+
+	<!-- Ajmal -->
+	<item class="com.webkul.Ajmal.MainActivity" name="ajmal"/>
+
+	<!-- AlAnsariEX -->
+	<item class="app.alansari.SplashActivity" name="alansariex"/>
+
+	<!-- Alibaba.com -->
+	<item class="com.alibaba.intl.android.apps.poseidon.app.activity.ActivityMainMaterial" name="alibabacom"/>
+
+	<!-- AliExpress -->
+	<item class="com.aliexpress.app.FirstActivity" name="aliexpress"/>
+
+	<!-- AliHelper -->
+	<item class="com.xyz.alihelper.ui.activities.MainActivity" name="alihelper"/>
+
+	<!-- AliPrice Shopping Assistant -->
+	<item class="com.dengpai.aliprice.Base.LaunchActivity" name="aliprice_shopping_assistant"/>
+
+	<!-- AliTools -->
+	<item class="io.alitools.android.ui.home.views.HomeActivity" name="alitools"/>
+
+	<!-- Allegro -->
+	<item class="pl.allegro.Allegro" name="allegro"/>
+
+	<!-- Almowafir -->
+	<item class="com.almowafir.app.MainActivity" name="almowafir"/>
+
+	<!-- AppMgr Pro III -->
+	<item class="com.a0soft.gphone.app2sd.pro.MainWnd" name="appmgr_pro_iii"/>
+
+	<!-- Apps2Fire -->
+	<item class="mobi.koni.appstofiretv.SplashScreenActivity" name="apps2fire"/>
+
+	<!-- Arabian Oud -->
+	<item class="com.snaptec.nineten.MainActivity" name="arabian_oud"/>
+
+	<!-- Area X -->
+	<item class="com.areaex.benjaminwordsworth.area_x.activities.StartActivity" name="area_x"/>
+
+	<!-- ARMOURY CRATE -->
+	<item class="com.asus.rog.roggamingcenter3.MainActivity" name="armoury_crate"/>
+
+	<!-- Artecture -->
+	<item class="com.samsung.android.sdrawing.SDrawingActivity" name="artecture"/>
+
+	<!-- ArtFlow -->
+	<item class="com.bytestorm.artflow.Editor" name="artflow"/>
+
+	<!-- Asmaky -->
+	<item class="ae.eds.asmaky.activity.SplashActivity" name="asmaky"/>
+
+	<!-- ASQ -->
+	<item class="com.asqgrp.store.ui.splash.ASQSplashActivity" name="asq"/>
+
+	<!-- ASUS Extender -->
+	<item class="com.asus.aiextender.MainActivity" name="asus_extender"/>
+
+	<!-- ASUS Router -->
+	<item class="com.asus.aihome.MainActivity" name="asus_router"/>
+
+	<!-- Auto Additions -->
+	<item class="com.autoaccessoryconfigurator.autoaddition.MainActivity" name="auto_additions"/>
+
+	<!-- Auto Image -->
+	<item class="com.autoaccessoryconfigurator.autoimage.MainActivity" name="auto_image"/>
+
+	<!-- Auto Redial -->
+	<item class="ru.lithiums.autodialer.MainActivity" name="auto_redial"/>
+
+	<!-- Auto-Data.net -->
+	<item class="com.autodata.app.MainActivity" name="auto_datanet"/>
+
+	<!-- Award VPN -->
+	<item class="app.award.update.SplashActivity" name="award_vpn"/>
+
+	<!-- B&H -->
+	<item class="com.bhphoto.CustomLauncherActivity" name="b_and_h"/>
+
+	<!-- Background Eraser -->
+	<item class="com.handycloset.android.eraser.MainActivity" name="background_eraser"/>
+
+	<!-- Background Eraser - Remove BG -->
+	<item class="com.camerasideas.collagemaker.activity.DummyActivity" name="background_eraser_remove_bg"/>
+
+	<!-- Banggood -->
+	<item class="com.banggood.client.Launcher" name="banggood"/>
+
+	<!-- Bayut -->
+	<item class="com.consumerapps.main.SplashActivity" name="bayut"/>
+
+	<!-- BetterMe -->
+	<item class="com.gen.betterme.base.sections.home.HomeActivity" name="betterme"/>
+
+	<!-- Binance -->
+	<item class="com.eaas.launcher.activities.main.MainActivity" name="binance"/>
+
+	<!-- Blinx -->
+	<item class="com.blinx.app.MainActivity" name="blinx"/>
+
+	<!-- Block This! -->
+	<item class="com.savageorgiev.blockthis.MainActivity" name="block_this_"/>
+
+	<!-- Blokada 6 -->
+	<item class="ui.MainActivity" name="blokada_6"/>
+
+	<!-- Blue Rewards -->
+	<item class="h073b1088.nebf0e24f.a1925f8e1.sf76721fe.b8bf08d42" name="blue_rewards"/>
+
+	<!-- Bodybuilding.com Store -->
+	<item class="co.tapcart.app.MainActivity" name="bodybuildingcom_store"/>
+
+	<!-- Booking.com -->
+	<item class="com.booking.startup.HomeActivity" name="bookingcom"/>
+
+	<!-- Bose Connect -->
+	<item class="com.bose.monet.activity.discovery.SplashSearchingActivity" name="bose_connect"/>
+
+	<!-- Bose Music -->
+	<item class="com.bose.madrid.SplashScreenActivity" name="bose_music"/>
+
+	<!-- Botim -->
+	<item class="im.thebot.messenger.BOTStartPage" name="botim"/>
+
+	<!-- Brilliant -->
+	<item class="org.brilliant.android.ui.common.MainActivity" name="brilliant"/>
+
+	<!-- BroadLink -->
+	<item class="cn.com.broadlink.unify.app.main.activity.LoadingActivity" name="broadlink"/>
+
+	<!-- MyScript Calculator 2 -->
+	<item class="com.myscript.calculator.BootstrapActivity" name="myscript_calculator_2"/>
+
+	<!-- Calo -->
+	<item class="com.calo.webapp.MainActivity" name="calo"/>
+
+	<!-- CanCan -->
+	<item class="com.cancan.views.SplashActivity" name="cancan"/>
+
+	<!-- CandyLink VPN -->
+	<item class="com.candylink.openvpn.ui.main.MainActivity" name="candylink_vpn"/>
+
+	<!-- Canon Print Service -->
+	<item class="jp.co.canon.android.printservice.plugin.WalkThroughActivity" name="canon_print_service"/>
+
+	<!-- Cari -->
+	<item class="get.dukan.grocerydelivery.app.presentation.view.intro.splash.SplashActivity" name="cari"/>
+
+</appmap>

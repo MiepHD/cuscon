@@ -1,0 +1,153 @@
+<Theme version="1">
+
+	<!-- Profolio™ -->
+	<AppIcon name="com.bayut.bayutpro/host.exp.exponent.MainActivity" image="profolio™"/>
+
+	<!-- Qatar Airways -->
+	<AppIcon name="com.m.qr/com.m.qr.home.onboarding.ui.OnBoardingActivity" image="qatar_airways"/>
+
+	<!-- QiDZ -->
+	<AppIcon name="com.qidz/com.qidz.MainActivity" image="qidz"/>
+
+	<!-- Quadroid -->
+	<AppIcon name="com.atanusanyal.quadroid/com.atanusanyal.quadroid.activities.SplashActivity" image="quadroid"/>
+
+	<!-- R & B Fashion -->
+	<AppIcon name="com.apparelgroup.randbfashion/com.apparelgroup.randbfashion.MainActivity" image="r_and_b_fashion"/>
+
+	<!-- REDTAG -->
+	<AppIcon name="com.bma.redtag/com.vennapps.android.ui.SplashActivity" image="redtag"/>
+
+	<!-- Remote ADB Shell -->
+	<AppIcon name="com.cgutman.androidremotedebugger/com.cgutman.androidremotedebugger.ConnectActivity" image="remote_adb_shell"/>
+
+	<!-- REVOLVE -->
+	<AppIcon name="com.revolve/com.revolve.views.activities.SplashActivity" image="revolve"/>
+
+	<!-- Reward Card -->
+	<AppIcon name="com.loylogic.pointspay/com.loylogic.pointspay.ui.usermanagement.LoginActivity" image="reward_card"/>
+
+	<!-- Rewards -->
+	<AppIcon name="com.google.android.apps.paidtasks/com.google.android.apps.paidtasks.activity.LaunchActivity" image="rewards"/>
+
+	<!-- Rocketbook -->
+	<AppIcon name="com.rb.rocketbook/com.rb.rocketbook.ui.StartupActivity" image="rocketbook"/>
+
+	<!-- Room Planner -->
+	<AppIcon name="com.icandesignapp.all/com.google.firebase.MessagingUnityPlayerActivity" image="room_planner"/>
+
+	<!-- ROSEGAL -->
+	<AppIcon name="com.rosegal/com.globalegrow.app.rosegal.ui.activitys.SplashActivity" image="rosegal"/>
+
+	<!-- Savefrom Helper -->
+	<AppIcon name="com.example.savefromNew/net.savefrom.helper.splash.SplashActivity" image="savefrom_helper"/>
+
+	<!-- Screen Alive -->
+	<AppIcon name="in.snapcore.screen_alive/in.snapcore.screen_alive.view.FreeActivity" image="screen_alive"/>
+
+	<!-- SD Maid -->
+	<AppIcon name="eu.thedarken.sdm/eu.thedarken.sdm.main.ui.SDMMainActivity" image="sd_maid"/>
+
+	<!-- SD Maid Pro -->
+	<AppIcon name="eu.thedarken.sdm.unlocker/eu.thedarken.sdm.unlocker.MainActivity" image="sd_maid_pro"/>
+
+	<!-- SD Maid SE -->
+	<AppIcon name="eu.darken.sdmse/eu.darken.sdmse.main.ui.MainActivity" image="sd_maid_se"/>
+
+	<!-- Global Village -->
+	<AppIcon name="com.reflectionsinfos.globalvillage/com.reflectionsinfos.globalvillage.DefaultAlias" image="global_village"/>
+
+	<!-- Seez -->
+	<AppIcon name="co.seez.seezr/co.seez.seezr.presentation.splash.SplashActivity" image="seez"/>
+
+	<!-- Send Anywhere -->
+	<AppIcon name="com.estmob.android.sendanywhere/com.estmob.paprika4.activity.SplashActivity" image="send_anywhere"/>
+
+	<!-- SENORFIT -->
+	<AppIcon name="com.senorfit/com.senorfit.MainActivity" image="senorfit"/>
+
+	<!-- ServiceMyCar -->
+	<AppIcon name="com.servicemycar.android/com.lt.ui.welcome.splash.SplashActivity_" image="servicemycar"/>
+
+	<!-- SetEdit -->
+	<AppIcon name="by4a.setedit22/by4a.setedit.EditorActivity" image="setedit"/>
+
+	<!-- SHARE -->
+	<AppIcon name="com.maf.share/com.maf.android.share.presentation.splash.MainLauncher" image="share"/>
+
+	<!-- Shop & Ship -->
+	<AppIcon name="net.aramex.sas/com.aramex.shopandshipmobile.ui.splash.SplashActivity" image="shop_and_ship"/>
+
+	<!-- SIVVI -->
+	<AppIcon name="com.sivvi.app/com.noon.buyerapp.MainActivity" image="sivvi"/>
+
+	<!-- Slider -->
+	<AppIcon name="com.adcb.bank/com.adcb.bank.ADCBMIB" image="slider"/>
+
+	<!-- Smart Life -->
+	<AppIcon name="com.tuya.smartlife/com.smart.ThingSplashActivity" image="smart_life"/>
+
+	<!-- Smart Tutor -->
+	<AppIcon name="com.rsupport.rs.activity.rsupport.aas2/com.rsupport.rs.activity.edit.IntroActivity" image="smart_tutor"/>
+
+	<!-- SOUFEEL -->
+	<AppIcon name="com.Soufeel/com.Soufeel.activity.WelcomeActivity" image="soufeel"/>
+
+	<!-- Splash -->
+	<AppIcon name="com.landmarkgroup.splashfashions/com.landmarkgroupreactapps.SplashActivityDefault" image="splash"/>
+
+	<!-- Sporter -->
+	<AppIcon name="com.sporter/com.sporter.MainActivity" image="sporter"/>
+
+	<!-- SQUATWOLF -->
+	<AppIcon name="com.vennapps.android.squatwolf/com.vennapps.android.ui.SplashActivity" image="squatwolf"/>
+
+	<!-- Starbucks UAE -->
+	<AppIcon name="com.starbucks.ae/com.starbucks.emea.splash.SplashActivity" image="starbucks_uae"/>
+
+	<!-- STARZ ON -->
+	<AppIcon name="com.parsifal.starz/com.parsifal.starz.ui.features.launcher.LauncherActivity" image="starz_on"/>
+
+	<!-- StoreUs -->
+	<AppIcon name="com.storeus/com.nft.storeus.MainActivity" image="storeus"/>
+
+	<!-- Storytel -->
+	<AppIcon name="grit.storytel.app/grit.storytel.app.MainActivity" image="storytel"/>
+
+	<!-- StoryZ -->
+	<AppIcon name="com.lightx.storyz/com.lightx.activities.StoryzActivity" image="storyz"/>
+
+	<!-- Stradivarius -->
+	<AppIcon name="com.inditex.stradivarius/es.sdos.sdosproject.ui.splash.activity.LaunchActivity" image="stradivarius"/>
+
+	<!-- Sun & Sand Sports -->
+	<AppIcon name="com.sssports.sssports/com.sssports.splash.presentation.view.SplashScreenRevampActivity" image="sun_and_sand_sports"/>
+
+	<!-- Super Status Bar -->
+	<AppIcon name="com.tombayley.statusbar/com.tombayley.statusbar.app.ui.home.MainActivity" image="super_status_bar"/>
+
+	<!-- SWAP - No ROOT -->
+	<AppIcon name="com.allakore.swapnoroot/com.allakore.swapnoroot.ui.activities.SplashActivity" image="swap_no_root"/>
+
+	<!-- Tabby -->
+	<AppIcon name="app.tabby.client/app.tabby.client.MainActivity" image="tabby"/>
+
+	<!-- Tarteel -->
+	<AppIcon name="com.mmmoussa.iqra/com.mmmoussa.iqra.MainActivity" image="tarteel"/>
+
+	<!-- TeaTV -->
+	<AppIcon name="com.oe.photocollage/com.oe.photocollage.SplashActivity" image="teatv"/>
+
+	<!-- TeraBox -->
+	<AppIcon name="com.dubox.drive/com.dubox.drive.ui.Logo0LauncherActivity" image="terabox"/>
+
+	<!-- Tickit -->
+	<AppIcon name="ae.tickit.primary/net.wlloyalty.restaurant.MainActivity" image="tickit"/>
+
+	<!-- TikTok -->
+	<AppIcon name="com.ss.android.ugc.trill/com.ss.android.ugc.aweme.splash.SplashActivity" image="tiktok"/>
+
+	<!-- Timer -->
+	<AppIcon name="pl.appea.workouttimer/me.szymanski.wodtimer.MainActivity" image="timer"/>
+
+</Theme>

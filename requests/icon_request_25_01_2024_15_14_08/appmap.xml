@@ -1,0 +1,153 @@
+<appmap>
+
+	<!-- Hostelworld -->
+	<item class="com.hostelworld.app.features.launcher.view.LauncherActivity" name="hostelworld"/>
+
+	<!-- Hotels.com -->
+	<item class="com.expedia.bookings.activity.SearchActivity" name="hotelscom"/>
+
+	<!-- HotelTonight -->
+	<item class="com.hoteltonight.android.prod.activity.SplashActivity" name="hoteltonight"/>
+
+	<!-- huffnpuff -->
+	<item class="com.spoonstream.huffnpuff.MainActivity" name="huffnpuff"/>
+
+	<!-- Ice and Fire Live Wallpaper -->
+	<item class="com.lux.live.wallpapers.and.creative.factory.wallpapers.backgrounds.hd.lwp.ice.fire.live.wallpaper.screens.SplashActivity" name="ice_and_fire_live_wallpaper"/>
+
+	<!-- Icon Pack Studio -->
+	<item class="ginlemon.iconpackstudio.editor.homeActivity.HomeActivity" name="icon_pack_studio"/>
+
+	<!-- Idealz -->
+	<item class="app.android.idealz.com.SplashActivity" name="idealz"/>
+
+	<!-- iHerb -->
+	<item class="com.iherb.mobile.product.splash.view.SplashActivity" name="iherb"/>
+
+	<!-- IKEA UAE -->
+	<item class="com.ikea.kompis.SplashActivity" name="ikea_uae"/>
+
+	<!-- Imagine -->
+	<item class="com.vyroai.aiart.ui.activity.ImagineActivity" name="imagine"/>
+
+	<!-- iMemo -->
+	<item class="com.oneweek.noteai.main.splash.SpnashActivity" name="imemo"/>
+
+	<!-- Infinite Painter -->
+	<item class="com.brakefield.painter.activities.ActivityStartup" name="infinite_painter"/>
+
+	<!-- Insta360 -->
+	<item class="com.arashivision.insta360akiko.app.SplashActivity" name="insta360"/>
+
+	<!-- Instant Gaming -->
+	<item class="com.instantgaming.android.Activities.WebViewActivity" name="instant_gaming"/>
+
+	<!-- InstaShop -->
+	<item class="com.stedor.instashop.splash.view.SplashActivity" name="instashop"/>
+
+	<!-- Invygo -->
+	<item class="com.invygo.customer.SplashActivity" name="invygo"/>
+
+	<!-- Inware -->
+	<item class="com.evo.inware.ui.activities.SweetHomeActivity" name="inware"/>
+
+	<!-- iPaint - Coloring Book -->
+	<item class="com.teknasyon.coloringbook.view.activity.SplashActivity" name="ipaint_coloring_book"/>
+
+	<!-- ixigo -->
+	<item class="com.ixigo.DefaultSplashScreenActivity" name="ixigo"/>
+
+	<!-- JanaTube -->
+	<item class="com.jana.tube.video.utube.main.MainActivity" name="janatube"/>
+
+	<!-- Jazeera Airways -->
+	<item class="com.winit.jazeeraairways.Activities.SplashScreen1" name="jazeera_airways"/>
+
+	<!-- JBL Portable -->
+	<item class="com.harman.jbl.portable.WelcomeActivity" name="jbl_portable"/>
+
+	<!-- Jot -->
+	<item class="com.kentdisplays.jot.activities.MainActivity" name="jot"/>
+
+	<!-- JUGO -->
+	<item class="bubustudio.jugo.pack.activities.SplashActivity" name="jugo"/>
+
+	<!-- Justlife -->
+	<item class="com.mobile.justmop.MainActivity" name="justlife"/>
+
+	<!-- KAYAK -->
+	<item class="com.kayak.android.splash.SplashActivity" name="kayak"/>
+
+	<!-- Keepa -->
+	<item class="com.tns.NativeScriptActivity" name="keepa"/>
+
+	<!-- KFC UAE -->
+	<item class="com.americana.me.ui.onboarding.splash.SplashActivity" name="kfc_uae"/>
+
+	<!-- Kickstarter -->
+	<item class="com.kickstarter.ui.activities.DiscoveryActivity" name="kickstarter"/>
+
+	<!-- Kitopi Rewards -->
+	<item class="com.kitopi.pos.central.MainActivity" name="kitopi_rewards"/>
+
+	<!-- KLIX -->
+	<item class="com.iklix.klix.MainActivity" name="klix"/>
+
+	<!-- Koloro -->
+	<item class="com.lightcone.cerdillac.koloro.activity.SplashActivity" name="koloro"/>
+
+	<!-- LeanKey Keyboard Pro -->
+	<item class="com.liskovsoft.leankeyboard.activity.settings.KbSettingsActivity2" name="leankey_keyboard_pro"/>
+
+	<!-- Lensa -->
+	<item class="com.lensa.original" name="lensa"/>
+
+	<!-- Letterboxd -->
+	<item class="com.letterboxd.letterboxd.ui.activities.LaunchActivity" name="letterboxd"/>
+
+	<!-- LightCut -->
+	<item class="com.lct.light.main.SplashActivity" name="lightcut"/>
+
+	<!-- Lightleap -->
+	<item class="com.lightricks.quickshot.SplashActivity" name="lightleap"/>
+
+	<!-- LightX -->
+	<item class="com.lightx.activities.LightxActivity" name="lightx"/>
+
+	<!-- Link to MyASUS -->
+	<item class="com.asus.linktomyasus.MainActivity" name="link_to_myasus"/>
+
+	<!-- LogoMaker -->
+	<item class="app.dev.watermark.screen.splash.SplashActivity" name="logomaker"/>
+
+	<!-- Lookout -->
+	<item class="com.google.android.apps.accessibility.reveal.activities.ProxyActivity" name="lookout"/>
+
+	<!-- LuLu Shopping -->
+	<item class="com.app.lulu.view.ui.splash.SplashActivity" name="lulu_shopping"/>
+
+	<!-- Luminar Share -->
+	<item class="crc64ea0dff78e50dfef8.SplashActivity" name="luminar_share"/>
+
+	<!-- Mad Muscles -->
+	<item class="com.amomedia.musclemate.presentation.startup.RouteActivity" name="mad_muscles"/>
+
+	<!-- MAF Carrefour -->
+	<item class="com.aswat.carrefouruae.feature.splash.view.activity.SplashActivity" name="maf_carrefour"/>
+
+	<!-- MakeMyTrip -->
+	<item class="com.mmt.travel.app.home.ui.SplashActivity" name="makemytrip"/>
+
+	<!-- MANGO -->
+	<item class="com.mango.activities.splash.presentation.ActivitySplash" name="mango"/>
+
+	<!-- Max -->
+	<item class="com.landmarkgroupreactapps.SplashActivityDefault" name="max"/>
+
+	<!-- McDonald's -->
+	<item class="mcdonalds.core.SplashActivity" name="mcdonalds"/>
+
+	<!-- MediaFire -->
+	<item class="com.mediafire.android.MainActivity" name="mediafire"/>
+
+</appmap>

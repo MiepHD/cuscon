@@ -1,0 +1,153 @@
+<Theme version="1">
+
+	<!-- CARS24 -->
+	<AppIcon name="com.cars24.uaeusedcars/com.cars24.uaeusedcars.MainActivity" image="cars24"/>
+
+	<!-- CarSwitch -->
+	<AppIcon name="com.glowfishlabs.carswitch/com.carswitch.MainActivity" image="carswitch"/>
+
+	<!-- CDKeys -->
+	<AppIcon name="com.cdkeys/com.cdkeys.MainActivity" image="cdkeys"/>
+
+	<!-- Centrepoint -->
+	<AppIcon name="com.landmarkgroup.centrepointstores/com.landmarkgroupreactapps.SplashActivityDefault" image="centrepoint"/>
+
+	<!-- Cheapflights -->
+	<AppIcon name="com.cf.flightsearch/com.kayak.android.splash.SplashActivity" image="cheapflights"/>
+
+	<!-- CITRUSS -->
+	<AppIcon name="citruss.android/citruss.android.activity.SplashScreenActivity" image="citruss"/>
+
+	<!-- Cleartrip -->
+	<AppIcon name="com.cleartrip.android/com.cleartrip.android.activity.common.SplashActivity" image="cleartrip"/>
+
+	<!-- ClicknCollect -->
+	<AppIcon name="com.clickncollect.customer/com.tookancustomer.SplashActivity" image="clickncollect"/>
+
+	<!-- ClicknCollect Merchant -->
+	<AppIcon name="com.clickncollect.merchant/com.example.yelomerchantappp.splash.activity.SplashActivity" image="clickncollect_merchant"/>
+
+	<!-- Clip Studio -->
+	<AppIcon name="jp.co.celsys.clipstudiopaint.googleplay/com.celsys.pwlegacyandroidhelpers.PWLegacyJniCustomNativeActivityAndroid" image="clip_studio"/>
+
+	<!-- Cloud -->
+	<AppIcon name="com.samsung.android.scloud/com.samsung.android.scloud.app.ui.splash.launcher" image="cloud"/>
+
+	<!-- Cobone -->
+	<AppIcon name="com.cobone.coboneapp/com.cobone.coboneapp.MainActivity" image="cobone"/>
+
+	<!-- CoinMarketCap -->
+	<AppIcon name="com.coinmarketcap.android/com.coinmarketcap.android.LaunchActivity" image="coinmarketcap"/>
+
+	<!-- Concepts -->
+	<AppIcon name="com.tophatch.concepts/com.tophatch.concepts.MainActivity" image="concepts"/>
+
+	<!-- Couchsurfing -->
+	<AppIcon name="com.couchsurfing.mobile.android/com.couchsurfing.mobile.ui.WelcomeActivity" image="couchsurfing"/>
+
+	<!-- Creative Cloud -->
+	<AppIcon name="com.adobe.cc/com.adobe.cc.SplashScreen" image="creative_cloud"/>
+
+	<!-- ADCalendar -->
+	<AppIcon name="ae.dctabudhabi.adcalendar/ps.visitabudhabi.adcalendar.ui.splash.SplashActivity" image="adcalendar"/>
+
+	<!-- Danube Home -->
+	<AppIcon name="com.app.danubehomeonline/com.app.danubehomeonline.MainActivity" image="danube_home"/>
+
+	<!-- desertcart -->
+	<AppIcon name="com.desertcartnative/com.desertcartnative.MainActivity" image="desertcart"/>
+
+	<!-- DeviantArt -->
+	<AppIcon name="com.deviantart.android.damobile/com.deviantart.android.damobile.activity.HomeActivity" image="deviantart"/>
+
+	<!-- DIGI Clock Settings -->
+	<AppIcon name="sk.michalec.SimpleDigiClockWidget/sk.michalec.SimpleDigiClockWidget.ConfigActivity" image="digi_clock_settings"/>
+
+	<!-- DinoConnect -->
+	<AppIcon name="com.anmo.dinoconnect/com.anmo.dinoconnect.MjpegActivity" image="dinoconnect"/>
+
+	<!-- DinoDirect -->
+	<AppIcon name="tw.com.anmo.dinodirect/tw.com.anmo.dinodirect.MainActivity" image="dinodirect"/>
+
+	<!-- Discounter -->
+	<AppIcon name="com.thediscounterapp/com.thediscounterapp.presentation.activity.main.MainActivity" image="discounter"/>
+
+	<!-- Discovery -->
+	<AppIcon name="com.asustek/com.asustek.MainActivity" image="discovery"/>
+
+	<!-- DJI Mimo -->
+	<AppIcon name="dji.mimo/dji.mimo.main.DJILaunchActivity" image="dji_mimo"/>
+
+	<!-- DJI Store -->
+	<AppIcon name="com.dji.overSeaStore/com.dji.store.activity.StartActivity" image="dji_store"/>
+
+	<!-- DLCompare -->
+	<AppIcon name="com.coffye.dlcompare/com.appmaker.xyz.webapp.SplashScreen" image="dlcompare"/>
+
+	<!-- DODuae -->
+	<AppIcon name="mobilapp.opencart.doduae/mobilapp.opencart.doduae.SplashScreen" image="doduae"/>
+
+	<!-- DOKAN -->
+	<AppIcon name="com.dokanandroidnew/com.e2ashopifyapp.MainActivity" image="dokan"/>
+
+	<!-- DontKillMyApp -->
+	<AppIcon name="com.urbandroid.dontkillmyapp/com.urbandroid.dontkillmyapp.MainActivity" image="dontkillmyapp"/>
+
+	<!-- Dragon Mart -->
+	<AppIcon name="ae.dpw.dragonmart/ae.dpw.dragonmart.MainActivity" image="dragon_mart"/>
+
+	<!-- Dubai Page -->
+	<AppIcon name="ae.dubaipage.app_user/com.dubai.dubai_user_app.MainActivity" image="dubai_page"/>
+
+	<!-- Dubai REST -->
+	<AppIcon name="ae.gov.dubailand.selfregistration/ae.gov.dubailand.rest.MainActivity" image="dubai_rest"/>
+
+	<!-- DubaiStore -->
+	<AppIcon name="com.dubaistore.app/com.dubaistore.MainActivity" image="dubaistore"/>
+
+	<!-- dubizzle -->
+	<AppIcon name="com.dubizzle.horizontal/com.dubizzle.horizontal.activities.routing.RoutingActivity" image="dubizzle"/>
+
+	<!-- E-Liquid Recipes -->
+	<AppIcon name="com.ugarsa.eliquidrecipes/com.ugarsa.eliquidrecipes.ui.splash.SplashActivity" image="e_liquid_recipes"/>
+
+	<!-- Easy DNS -->
+	<AppIcon name="com.inunxlabs.easydns/com.inunxlabs.easydns.Main" image="easy_dns"/>
+
+	<!-- eLife Connect -->
+	<AppIcon name="com.vianeos.homebox/com.vianeos.homeBox.activities.SplashActivity" image="elife_connect"/>
+
+	<!-- Emax -->
+	<AppIcon name="com.hit.emax/com.landmarkgroupreactapps.SplashActivity" image="emax"/>
+
+	<!-- Emirates -->
+	<AppIcon name="com.emirates.ek.android/com.emirates.startup.StartupActivity" image="emirates"/>
+
+	<!-- Emirates Auction -->
+	<AppIcon name="com.ea.emiratesauction/com.ea.emiratesauction.activity.SplashScreen" image="emirates_auction"/>
+
+	<!-- Emirates Post -->
+	<AppIcon name="ae.emiratespost.app/ae.emiratespost.mobile.app.MainActivity" image="emirates_post"/>
+
+	<!-- Enhance -->
+	<AppIcon name="club.enhance/com.enhancefitness.enhancex_v3.MainActivity" image="enhance"/>
+
+	<!-- Enhance It -->
+	<AppIcon name="com.reaimagine.enhanceit/com.zipoapps.premiumhelper.ui.splash.PHSplashActivity" image="enhance_it"/>
+
+	<!-- ENTERTAINER -->
+	<AppIcon name="com.theentertainerme.entertainer/com.theentertainerme.onboardingui.activities.OnBoardingActivity" image="entertainer"/>
+
+	<!-- ENTERTAINER go -->
+	<AppIcon name="com.theentertainerme.entertainergobase/com.theentertainerme.entertainergo.SplashScreenActivity" image="entertainer_go"/>
+
+	<!-- Epic Pocket Wallpapers -->
+	<AppIcon name="com.app.pocketwallpaper/com.app.materialwallpaper.activities.ActivitySplash" image="epic_pocket_wallpapers"/>
+
+	<!-- Epson iPrint -->
+	<AppIcon name="epson.print/epson.print.WellcomeScreenActivity" image="epson_iprint"/>
+
+	<!-- Etihad Guest -->
+	<AppIcon name="com.etihad.etihadguest.eyg.android/com.etihad.guest.android.ui.splash.SplashActivity" image="etihad_guest"/>
+
+</Theme>
