@@ -2806,5 +2806,7 @@
 	<AppIcon name="tv.twitch.android.app/tv.twitch.android.app.core.LandingActivity" image="twitch"/>
 	<AppIcon name="in.amazon.mShop.android.shopping/com.amazon.mShop.home.HomeActivity" image="amazon"/>
     <AppIcon name="cx.indianoil.in/cx.indianoil.in.lpg.view.login.WelcomeActivity" image="indianoil_one"/>
+	<AppIcon name="com.android.deskclock/com.android.deskclock.DeskClockTabActivity" image="deskclock"/>
+    <AppIcon name="de.digame.esc/com.choicely.studio.splash.SplashActivity" image="eurovision"/>
 
 </Theme>

@@ -2798,5 +2798,7 @@
 	<item class="tv.twitch.android.app.core.LandingActivity" name="twitch"/>
 	<item class="com.amazon.mShop.home.HomeActivity" name="amazon"/>
     <item class="cx.indianoil.in.lpg.view.login.WelcomeActivity" name="indianoil_one"/>
+	<item class="com.android.deskclock.DeskClockTabActivity" name="deskclock"/>
+    <item class="com.choicely.studio.splash.SplashActivity" name="eurovision"/>
 
 </appmap>
