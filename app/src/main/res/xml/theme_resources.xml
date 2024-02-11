@@ -2818,5 +2818,7 @@
     <AppIcon name="com.planeth.gstomper/com.planeth.gstomper.GstomperInit" image="g_stomper_studio"/>
 	<AppIcon name="com.caynax.sportstracker/com.caynax.sportstracker.free.fpa" image="caynax_sports_tracker"/>
 	<AppIcon name="com.dpd.yourdpd/com.dpd.yourdpd.MainActivity" image="dpd"/>
+	<AppIcon name="energy.octopus.electricjuice.android/com.octopus.electricjuice.LauncherActivity" image="electroverse"/>
+    <AppIcon name="uk.co.poundland.mypoundland/com.example.poundland.MainActivity" image="poundland_perks"/>
 
 </Theme>

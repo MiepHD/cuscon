@@ -2827,5 +2827,7 @@
     <item component="ComponentInfo{com.planeth.gstomper/com.planeth.gstomper.GstomperInit}" drawable="g_stomper_studio" />
 	<item component="ComponentInfo{com.caynax.sportstracker/com.caynax.sportstracker.free.fpa}" drawable="caynax_sports_tracker" />
 	<item component="ComponentInfo{com.dpd.yourdpd/com.dpd.yourdpd.MainActivity}" drawable="dpd" />
+	<item component="ComponentInfo{energy.octopus.electricjuice.android/com.octopus.electricjuice.LauncherActivity}" drawable="electroverse" />
+    <item component="ComponentInfo{uk.co.poundland.mypoundland/com.example.poundland.MainActivity}" drawable="poundland_perks" />
 
 </resources>

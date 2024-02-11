@@ -2810,5 +2810,7 @@
     <item class="com.planeth.gstomper.GstomperInit" name="g_stomper_studio"/>
 	<item class="com.caynax.sportstracker.free.fpa" name="caynax_sports_tracker"/>
 	<item class="com.dpd.yourdpd.MainActivity" name="dpd"/>
+	<item class="com.octopus.electricjuice.LauncherActivity" name="electroverse"/>
+    <item class="com.example.poundland.MainActivity" name="poundland_perks"/>
 
 </appmap>
