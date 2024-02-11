@@ -2751,5 +2751,6 @@
     <AppIcon name="com.net.shine/com.net.shine.MainActivity" image="shinecom"/>
     <AppIcon name="com.tianxingjian.supersound/com.tianxingjian.supersound.MainActivity" image="super_sound"/>
     <AppIcon name="com.tbl.movies/com.tbl.movies.SplashActivity" image="tbl"/>
+	<AppIcon name="es.kfc.spain/com.kfces.orderserv.SplashImageActivity" image="kfc"/>
 
 </Theme>

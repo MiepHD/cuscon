@@ -15,6 +15,14 @@ else:
     params = sys.argv
 
 for elem in params:
+    nick = elem.split("~")
+    elem = nick[0]
+    print(elem)
+    if (len(nick) > 1):
+        nick = nick[1]
+    else:
+        nick = nick[0]
+    nick = "\"" + nick + "\""
     elem = "\"" + elem + "\""
     with open("appfilter.xml", encoding="utf-8") as f:
         title = ""
@@ -27,16 +35,16 @@ for elem in params:
                     changelog = title
                 else:
                     changelog = changelog + ", " + title
-                appfilter = appfilter + re.sub(r"[\\\t]+", "    ", line)
+                appfilter = appfilter + re.sub(r"[\\\t]+", "    ", line).replace(elem, nick)
             title = line
     with open("appmap.xml", encoding="utf-8") as f:
         for line in f.readlines():
             if (elem in line):
-                appmap = appmap + re.sub(r"[\\\t]+", "    ", line)
+                appmap = appmap + re.sub(r"[\\\t]+", "    ", line).replace(elem, nick)
     with open("theme_resources.xml", encoding="utf-8") as f:
         for line in f.readlines():
             if (elem in line):
-                    theme_resources = theme_resources +re.sub(r"[\\\t]+", "    ", line)
+                    theme_resources = theme_resources +re.sub(r"[\\\t]+", "    ", line).replace(elem, nick)
 print(changelog)
 print(appfilter)
 print(appmap)

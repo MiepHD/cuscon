@@ -2743,5 +2743,6 @@
     <item class="com.net.shine.MainActivity" name="shinecom"/>
     <item class="com.tianxingjian.supersound.MainActivity" name="super_sound"/>
     <item class="com.tbl.movies.SplashActivity" name="tbl"/>
+	<item class="com.kfces.orderserv.SplashImageActivity" name="kfc"/>
 
 </appmap>

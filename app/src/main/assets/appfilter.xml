@@ -2760,5 +2760,6 @@
     <item component="ComponentInfo{com.net.shine/com.net.shine.MainActivity}" drawable="shinecom" />
     <item component="ComponentInfo{com.tianxingjian.supersound/com.tianxingjian.supersound.MainActivity}" drawable="super_sound" />
     <item component="ComponentInfo{com.tbl.movies/com.tbl.movies.SplashActivity}" drawable="tbl" />
+	<item component="ComponentInfo{es.kfc.spain/com.kfces.orderserv.SplashImageActivity}" drawable="kfc" />
 
 </resources>
