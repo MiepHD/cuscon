@@ -2757,5 +2757,7 @@
     <item class="com.microsoft.powerbi.ui.home.HomeActivity" name="power_bi"/>
     <item class="com.cisco.webex.meetings.ui.premeeting.welcome.WebExMeeting" name="webex_meet"/>
     <item class="com.microsoft.whiteboard.activity.WhiteBoardLauncherActivity" name="whiteboard"/>
+	<item class="com.snapchat.android.HarvestMoonAlias" name="snapchat_harvest_moon"/>
+    <item class="com.att.mobile.android.vvm.screen.WelcomeActivity" name="visual_voicemail_mizmowireless"/>
 
 </appmap>

@@ -2594,7 +2594,6 @@
     <item drawable="super_sound" />
     <item drawable="tbl" />
     <item drawable="rvx_music_old" />
-    <item drawable="kfc" />
     <item drawable="atc" />
     <item drawable="el_huffpost" />
     <item drawable="leroy_merlin" />
@@ -2608,5 +2607,7 @@
     <item drawable="power_bi" />
     <item drawable="webex_meet" />
     <item drawable="whiteboard" />
+    <item drawable="snapchat_harvest_moon" />
+    <item drawable="visual_voicemail_mizmowireless" />
 
 </resources>

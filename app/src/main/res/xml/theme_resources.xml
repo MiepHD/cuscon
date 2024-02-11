@@ -2765,5 +2765,7 @@
     <AppIcon name="com.microsoft.powerbim/com.microsoft.powerbi.ui.home.HomeActivity" image="power_bi"/>
     <AppIcon name="com.cisco.webex.meetings/com.cisco.webex.meetings.ui.premeeting.welcome.WebExMeeting" image="webex_meet"/>
     <AppIcon name="com.microsoft.whiteboard.publicpreview/com.microsoft.whiteboard.activity.WhiteBoardLauncherActivity" image="whiteboard"/>
+	<AppIcon name="com.snapchat.android/com.snapchat.android.HarvestMoonAlias" image="snapchat_harvest_moon"/>
+    <AppIcon name="com.mizmowireless.vvm/com.att.mobile.android.vvm.screen.WelcomeActivity" image="visual_voicemail_mizmowireless"/>
 
 </Theme>

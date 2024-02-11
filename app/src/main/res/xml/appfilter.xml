@@ -2774,5 +2774,7 @@
     <item component="ComponentInfo{com.microsoft.powerbim/com.microsoft.powerbi.ui.home.HomeActivity}" drawable="power_bi" />
     <item component="ComponentInfo{com.cisco.webex.meetings/com.cisco.webex.meetings.ui.premeeting.welcome.WebExMeeting}" drawable="webex_meet" />
     <item component="ComponentInfo{com.microsoft.whiteboard.publicpreview/com.microsoft.whiteboard.activity.WhiteBoardLauncherActivity}" drawable="whiteboard" />
+	<item component="ComponentInfo{com.snapchat.android/com.snapchat.android.HarvestMoonAlias}" drawable="snapchat_harvest_moon" />
+    <item component="ComponentInfo{com.mizmowireless.vvm/com.att.mobile.android.vvm.screen.WelcomeActivity}" drawable="visual_voicemail_mizmowireless" />
 
 </resources>
