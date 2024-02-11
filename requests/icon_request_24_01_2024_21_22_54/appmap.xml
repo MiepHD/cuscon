@@ -1,0 +1,45 @@
+<appmap>
+
+	<!-- Amazon -->
+	<item class="com.amazon.mShop.home.HomeActivity" name="amazon"/>
+
+	<!-- Audile -->
+	<item class="com.mrsep.musicrecognizer.presentation.MainActivity" name="audile"/>
+
+	<!-- Botim -->
+	<item class="im.thebot.messenger.BOTStartPage" name="botim"/>
+
+	<!-- Classroom -->
+	<item class="com.google.android.apps.classroom.classroomflutter.MainActivity" name="classroom"/>
+
+	<!-- Home options -->
+	<item class="com.ss.squarehome2.MyPreferencesActivity" name="home_options"/>
+
+	<!-- HoYoLAB -->
+	<item class="com.mihoyo.hoyolab.splash.splash.HoYoSplashActivity" name="hoyolab"/>
+
+	<!-- inshorts -->
+	<item class="com.nis.app.ui.activities.HomeActivity" name="inshorts"/>
+
+	<!-- Microsoft Designer -->
+	<item class="com.microsoft.designer.app.home.view.launch.DesignerLoginActivity" name="microsoft_designer"/>
+
+	<!-- PNB ONE -->
+	<item class="com.Version1.Version1" name="pnb_one"/>
+
+	<!-- SMS Organizer -->
+	<item class="com.microsoft.android.smsorganizer.StartupActivity" name="sms_organizer"/>
+
+	<!-- soundcore -->
+	<item class="com.oceanwing.soundcore.activity.WelcomeActivity" name="soundcore"/>
+
+	<!-- Square Home -->
+	<item class="com.ss.squarehome2.MainActivity" name="square_home"/>
+
+	<!-- Unit Converter -->
+	<item class="com.androidapps.unitconverter.start.StartActivity" name="unit_converter"/>
+
+	<!-- Windscribe -->
+	<item class="com.windscribe.mobile.splash.SplashActivity" name="windscribe"/>
+
+</appmap>

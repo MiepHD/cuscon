@@ -1,0 +1,15 @@
+<Theme version="1">
+
+	<!-- Camera -->
+	<AppIcon name="com.fp.camera/com.android.camera.CameraLauncher" image="camera"/>
+
+	<!-- Mastodon -->
+	<AppIcon name="org.joinmastodon.android/org.joinmastodon.android.MainActivity" image="mastodon"/>
+
+	<!-- Mattermost -->
+	<AppIcon name="com.mattermost.rn/com.mattermost.rn.MainActivity" image="mattermost"/>
+
+	<!-- YT Music -->
+	<AppIcon name="app.revanced.android.apps.youtube.music/com.google.android.apps.youtube.music.activities.MusicActivity" image="yt_music"/>
+
+</Theme>

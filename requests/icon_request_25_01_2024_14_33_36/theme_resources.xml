@@ -1,0 +1,6 @@
+<Theme version="1">
+
+	<!-- Magisk -->
+	<AppIcon name="com.topjohnwu.magisk/com.topjohnwu.magisk.core.SplashActivity" image="magisk"/>
+
+</Theme>

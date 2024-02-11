@@ -1,0 +1,42 @@
+<resources>
+
+	<!-- Admin -->
+	<item component="ComponentInfo{com.google.android.apps.enterprise.cpanel/com.google.android.apps.enterprise.cpanel.activities.EntryPointActivity}" drawable="admin" />
+
+	<!-- Arcticons Day & Night -->
+	<item component="ComponentInfo{com.donnnno.arcticons.daynight/com.donnnno.arcticons.activities.SplashActivity}" drawable="arcticons_day_and_night" />
+
+	<!-- Baba Is You -->
+	<item component="ComponentInfo{org.hempuli.baba/org.hempuli.baba.ChowdrenActivity}" drawable="baba_is_you" />
+
+	<!-- Bandcamp -->
+	<item component="ComponentInfo{com.bandcamp.android/com.bandcamp.android.view.SplashActivity}" drawable="bandcamp" />
+
+	<!-- BlackBerry Manager -->
+	<item component="ComponentInfo{cobalt.blackberrymanager/cobalt.blackberrymanager.activities.WelcomeActivity}" drawable="blackberry_manager" />
+
+	<!-- BlackPlayer -->
+	<item component="ComponentInfo{com.musicplayer.blackplayerfree/com.kodarkooperativet.blackplayerfree.activities.ViewPagerActivity}" drawable="blackplayer" />
+
+	<!-- Blued -->
+	<item component="ComponentInfo{com.blued.international/com.blued.international.icon0}" drawable="blued" />
+
+	<!-- Bluesky -->
+	<item component="ComponentInfo{xyz.blueskyweb.app/xyz.blueskyweb.app.MainActivity}" drawable="bluesky" />
+
+	<!-- Classic -->
+	<item component="ComponentInfo{com.ea.gp.bej3/com.ea.game.bejeweled3.Bejeweled3Activity}" drawable="classic" />
+
+	<!-- Co — Star -->
+	<item component="ComponentInfo{com.costarastrology/com.costarastrology.root.RootActivity}" drawable="co_—_star" />
+
+	<!-- Dailymotion -->
+	<item component="ComponentInfo{com.dailymotion.dailymotion/com.dailymotion.dailymotion.ui.activity.MainActivity}" drawable="dailymotion" />
+
+	<!-- Dictionary.com -->
+	<item component="ComponentInfo{com.dictionary/com.dictionary.MainActivity}" drawable="dictionarycom" />
+
+	<!-- Episodes -->
+	<item component="ComponentInfo{com.redcoracle.episodes/com.redcoracle.episodes.MainActivity}" drawable="episodes" />
+
+</resources>

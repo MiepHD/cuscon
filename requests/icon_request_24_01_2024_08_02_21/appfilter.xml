@@ -1,0 +1,45 @@
+<resources>
+
+	<!-- Administrador de archivos -->
+	<item component="ComponentInfo{com.transsion.filemanagerx/com.transsion.filemanagerx.ui.launch.SplashActivity}" drawable="administrador_de_archivos" />
+
+	<!-- Brújula -->
+	<item component="ComponentInfo{com.transsion.compass/com.transsion.compass.CompassActivity}" drawable="brujula" />
+
+	<!-- Cámara -->
+	<item component="ComponentInfo{com.transsion.camera/com.android.camera.CameraLauncher}" drawable="camara" />
+
+	<!-- Contactos -->
+	<item component="ComponentInfo{com.sh.smart.caller/com.android.dialer.ContactMainActivity}" drawable="contactos" />
+
+	<!-- Escáner inteligente -->
+	<item component="ComponentInfo{com.transsion.scanningrecharger/com.transsion.scanningrecharger.view.activity.textrecognized.TextRecognizedActivity}" drawable="escaner_inteligente" />
+
+	<!-- Fleksy -->
+	<item component="ComponentInfo{com.syntellia.fleksy.keyboard/com.syntellia.fleksy.settings.activities.SplashActivity}" drawable="fleksy" />
+
+	<!-- Folax -->
+	<item component="ComponentInfo{com.transsion.aivoiceassistant/com.transsion.aivoiceassistant.ai.aiability.help.activity.HelpActivity}" drawable="folax" />
+
+	<!-- Mensajes -->
+	<item component="ComponentInfo{com.transsion.smartmessage/com.android.messaging.ui.conversationlist.ConversationListActivity}" drawable="mensajes" />
+
+	<!-- My Health -->
+	<item component="ComponentInfo{com.transsion.healthlife/com.transsion.healthlife.view.WelcomeActivity}" drawable="my_health" />
+
+	<!-- Notification Widget -->
+	<item component="ComponentInfo{com.kuma.notificationwidget/com.kuma.notificationwidget.MainActivity}" drawable="notification_widget" />
+
+	<!-- Reloj -->
+	<item component="ComponentInfo{com.transsion.deskclock/com.transsion.deskclock.DeskClock}" drawable="reloj" />
+
+	<!-- Teléfono -->
+	<item component="ComponentInfo{com.sh.smart.caller/com.android.dialer.main.impl.MainActivity}" drawable="telefono" />
+
+	<!-- XArena -->
+	<item component="ComponentInfo{com.transsion.smartpanel/com.transsion.gamespace.activity.GameSpaceActivity}" drawable="xarena" />
+
+	<!-- YT Kids -->
+	<item component="ComponentInfo{com.google.android.apps.youtube.kids/com.google.android.apps.youtube.kids.splash.SplashScreenActivity}" drawable="yt_kids" />
+
+</resources>

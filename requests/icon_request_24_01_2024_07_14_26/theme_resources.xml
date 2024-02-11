@@ -1,0 +1,42 @@
+<Theme version="1">
+
+	<!-- Admin -->
+	<AppIcon name="com.google.android.apps.enterprise.cpanel/com.google.android.apps.enterprise.cpanel.activities.EntryPointActivity" image="admin"/>
+
+	<!-- Arcticons Day & Night -->
+	<AppIcon name="com.donnnno.arcticons.daynight/com.donnnno.arcticons.activities.SplashActivity" image="arcticons_day_and_night"/>
+
+	<!-- Baba Is You -->
+	<AppIcon name="org.hempuli.baba/org.hempuli.baba.ChowdrenActivity" image="baba_is_you"/>
+
+	<!-- Bandcamp -->
+	<AppIcon name="com.bandcamp.android/com.bandcamp.android.view.SplashActivity" image="bandcamp"/>
+
+	<!-- BlackBerry Manager -->
+	<AppIcon name="cobalt.blackberrymanager/cobalt.blackberrymanager.activities.WelcomeActivity" image="blackberry_manager"/>
+
+	<!-- BlackPlayer -->
+	<AppIcon name="com.musicplayer.blackplayerfree/com.kodarkooperativet.blackplayerfree.activities.ViewPagerActivity" image="blackplayer"/>
+
+	<!-- Blued -->
+	<AppIcon name="com.blued.international/com.blued.international.icon0" image="blued"/>
+
+	<!-- Bluesky -->
+	<AppIcon name="xyz.blueskyweb.app/xyz.blueskyweb.app.MainActivity" image="bluesky"/>
+
+	<!-- Classic -->
+	<AppIcon name="com.ea.gp.bej3/com.ea.game.bejeweled3.Bejeweled3Activity" image="classic"/>
+
+	<!-- Co — Star -->
+	<AppIcon name="com.costarastrology/com.costarastrology.root.RootActivity" image="co_—_star"/>
+
+	<!-- Dailymotion -->
+	<AppIcon name="com.dailymotion.dailymotion/com.dailymotion.dailymotion.ui.activity.MainActivity" image="dailymotion"/>
+
+	<!-- Dictionary.com -->
+	<AppIcon name="com.dictionary/com.dictionary.MainActivity" image="dictionarycom"/>
+
+	<!-- Episodes -->
+	<AppIcon name="com.redcoracle.episodes/com.redcoracle.episodes.MainActivity" image="episodes"/>
+
+</Theme>

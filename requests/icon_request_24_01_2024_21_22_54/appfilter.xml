@@ -1,0 +1,45 @@
+<resources>
+
+	<!-- Amazon -->
+	<item component="ComponentInfo{in.amazon.mShop.android.shopping/com.amazon.mShop.home.HomeActivity}" drawable="amazon" />
+
+	<!-- Audile -->
+	<item component="ComponentInfo{com.mrsep.musicrecognizer/com.mrsep.musicrecognizer.presentation.MainActivity}" drawable="audile" />
+
+	<!-- Botim -->
+	<item component="ComponentInfo{im.thebot.messenger/im.thebot.messenger.BOTStartPage}" drawable="botim" />
+
+	<!-- Classroom -->
+	<item component="ComponentInfo{com.google.android.apps.classroom/com.google.android.apps.classroom.classroomflutter.MainActivity}" drawable="classroom" />
+
+	<!-- Home options -->
+	<item component="ComponentInfo{com.ss.squarehome2/com.ss.squarehome2.MyPreferencesActivity}" drawable="home_options" />
+
+	<!-- HoYoLAB -->
+	<item component="ComponentInfo{com.mihoyo.hoyolab/com.mihoyo.hoyolab.splash.splash.HoYoSplashActivity}" drawable="hoyolab" />
+
+	<!-- inshorts -->
+	<item component="ComponentInfo{com.nis.app/com.nis.app.ui.activities.HomeActivity}" drawable="inshorts" />
+
+	<!-- Microsoft Designer -->
+	<item component="ComponentInfo{com.microsoft.designer/com.microsoft.designer.app.home.view.launch.DesignerLoginActivity}" drawable="microsoft_designer" />
+
+	<!-- PNB ONE -->
+	<item component="ComponentInfo{com.Version1/com.Version1.Version1}" drawable="pnb_one" />
+
+	<!-- SMS Organizer -->
+	<item component="ComponentInfo{com.microsoft.android.smsorganizer/com.microsoft.android.smsorganizer.StartupActivity}" drawable="sms_organizer" />
+
+	<!-- soundcore -->
+	<item component="ComponentInfo{com.oceanwing.soundcore/com.oceanwing.soundcore.activity.WelcomeActivity}" drawable="soundcore" />
+
+	<!-- Square Home -->
+	<item component="ComponentInfo{com.ss.squarehome2/com.ss.squarehome2.MainActivity}" drawable="square_home" />
+
+	<!-- Unit Converter -->
+	<item component="ComponentInfo{com.androidapps.unitconverter/com.androidapps.unitconverter.start.StartActivity}" drawable="unit_converter" />
+
+	<!-- Windscribe -->
+	<item component="ComponentInfo{com.windscribe.vpn/com.windscribe.mobile.splash.SplashActivity}" drawable="windscribe" />
+
+</resources>

@@ -1,0 +1,18 @@
+<resources>
+
+	<!-- eDoklady -->
+	<item component="ComponentInfo{cz.gov.edoklady/cz.gov.edoklady.MainActivity}" drawable="edoklady" />
+
+	<!-- Freedom24 -->
+	<item component="ComponentInfo{com.tradernet.freedom24app/ru.tradernet.MainActivity}" drawable="freedom24" />
+
+	<!-- Nesnězeno -->
+	<item component="ComponentInfo{com.lunadio.nesnezeno/com.nesnezeno.nesnezeno.MainActivity}" drawable="nesnezeno" />
+
+	<!-- Nova Google Companion -->
+	<item component="ComponentInfo{com.teslacoilsw.launcherclientproxy/com.teslacoilsw.launcherclientproxy.MainActivity}" drawable="nova_google_companion" />
+
+	<!-- Pluxee Account -->
+	<item component="ComponentInfo{sodexo.mobile/one.adastra.sodexo.login.activity.LoginActivity}" drawable="pluxee_account" />
+
+</resources>

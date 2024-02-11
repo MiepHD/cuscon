@@ -1,0 +1,153 @@
+<Theme version="1">
+
+	<!-- تواصل -->
+	<AppIcon name="com.tawasul.messenger/com.tawasul.ui.LaunchActivity" image="تواصل"/>
+
+	<!-- جزيرة ياس -->
+	<AppIcon name="com.yas.app/com.yas.app.MainActivity" image="جزيرة_ياس"/>
+
+	<!-- دبي الآن -->
+	<AppIcon name="com.deg.mdubai/ae.gov.dsg.mdubai.login.SplashScreenActivity" image="دبي_الآن"/>
+
+	<!-- دناتا للسفريات -->
+	<AppIcon name="com.dnatatravel.dnatatravel/uk.co.travelrepublic.travelrepublic.ui.activity.SplashScreen" image="دناتا_للسفريات"/>
+
+	<!-- دومينوز بيتزا -->
+	<AppIcon name="com.dominos.international/com.dominos.international.MainActivity" image="دومينوز_بيتزا"/>
+
+	<!-- ذبائح الإمارات -->
+	<AppIcon name="com.dhabayeh/com.dhabayeh.MainActivity" image="ذبائح_الإمارات"/>
+
+	<!-- رحلات -->
+	<AppIcon name="com.app.rehlat/com.app.rehlat.SplashActivity" image="رحلات"/>
+
+	<!-- سيرفر SMB -->
+	<AppIcon name="alsultan.smbserver.pro/crc649b79d16d6d76b87c.f" image="سيرفر_smb"/>
+
+	<!-- شرف ديجي -->
+	<AppIcon name="com.norq.shopex.sharaf/com.norq.shopex.sharaf.Splash" image="شرف_ديجي"/>
+
+	<!-- شكراً -->
+	<AppIcon name="com.landmarkgroup.shukran/com.landmarkgroup.shukran.modules.onboarding.activity.SplashActivity" image="شكراً"/>
+
+	<!-- طازج -->
+	<AppIcon name="com.intixdwc.adc.customer/com.example.tazij.MainActivity" image="طازج"/>
+
+	<!-- عطارة دوت كوم -->
+	<AppIcon name="com.salla.etaracom/com.salla.features.mainActivity.MainActivity" image="عطارة_دوت_كوم"/>
+
+	<!-- Visa Explore -->
+	<AppIcon name="com.visa.asiapacific/com.visa.asiapacific.splash.SplashActivity" image="visa_explore"/>
+
+	<!-- ڤانيلا -->
+	<AppIcon name="com.vanilia.vanilia/com.vanilia.vanilia.MainActivity" image="ڤانيلا"/>
+
+	<!-- قارئ جرير -->
+	<AppIcon name="com.jarir.reader/co.yaqut.app.LoadingActivity" image="قارئ_جرير"/>
+
+	<!-- Gireeb -->
+	<AppIcon name="ae.nseats.eats97/ae.nseats.eats97.ui.splash.SplashActivity" image="gireeb"/>
+
+	<!-- Visit Dubai -->
+	<AppIcon name="com.dtcm.dubaitourism/com.dtcm.dubaitourism.SplashActivity" image="visit_dubai"/>
+
+	<!-- Cartlow -->
+	<AppIcon name="com.cartlow.android/com.cartlow.android.v2.ui.activities.SplashActivity" image="cartlow"/>
+
+	<!-- Club Apparel -->
+	<AppIcon name="com.appemirates.clubapparel/com.appemirates.clubapparel.ui.login.SplashActivity" image="club_apparel"/>
+
+	<!-- Comera -->
+	<AppIcon name="com.is.core.app/com.app.comera.ui.splash.SplashActivity" image="comera"/>
+
+	<!-- Level Shoes -->
+	<AppIcon name="com.levelshoes/com.idslogic.levelshoes.ui.splash.SplashActivity" image="level_shoes"/>
+
+	<!-- Microless -->
+	<AppIcon name="com.itplus.microless/com.itplus.microless.ui.splash.SplashActivity" image="microless"/>
+
+	<!-- AppGallery -->
+	<AppIcon name="com.huawei.appmarket/com.huawei.appmarket.MainActivity" image="appgallery"/>
+
+	<!-- Wego Flights & Hotels -->
+	<AppIcon name="com.wego.android/com.wego.android.homebase.features.homescreen.HomeScreenBaseActivity" image="wego_flights_and_hotels"/>
+
+	<!-- Mstaml & New -->
+	<AppIcon name="com.mstaml.App/com.mstaml.App.MainActivity" image="mstaml_and_new"/>
+
+	<!-- معجم القوافي -->
+	<AppIcon name="com.oubaadi.moejamlkawafi/com.oubaadi.moejamlkawafi.SplashScreen" image="معجم_القوافي"/>
+
+	<!-- معجم المرادفات والأضداد -->
+	<AppIcon name="com.almaany.tadad/com.almaany.tadad.MainActivity" image="معجم_المرادفات_والأضداد"/>
+
+	<!-- نبض -->
+	<AppIcon name="com.waveline.nabd/com.waveline.nabd.StartActivity" image="نبض"/>
+
+	<!-- Numero -->
+	<AppIcon name="com.esim.numero/org.linphone.LinphoneLauncherActivity" image="numero"/>
+
+	<!-- Wikibolics -->
+	<AppIcon name="com.imedia_adv.wikibolics/com.imedia_adv.wikibolics.activities.FlashActivity" image="wikibolics"/>
+
+	<!-- ActiveFitnessStore -->
+	<AppIcon name="com.activefitnessstore.app/com.activefitnessstore.app.MainActivity" image="activefitnessstore"/>
+
+	<!-- AdBlock for Samsung Internet -->
+	<AppIcon name="com.betafish.adblocksbrowser/org.adblockplus.adblockplussbrowser.app.ui.LauncherActivity" image="adblock_for_samsung_internet"/>
+
+	<!-- ADCB | Nomo -->
+	<AppIcon name="com.adcb.bank.app/com.nomo.bank.app.SplashActivity" image="adcb_nomo"/>
+
+	<!-- ADCB MoneyBuddy -->
+	<AppIcon name="com.adcbmobile.pfm/com.adcbmobile.pfm.activities.SplashScreenActivity" image="adcb_moneybuddy"/>
+
+	<!-- ADCBOffers -->
+	<AppIcon name="com.ADCBApp.ADCBOffers/com.ADCBApp.ADCBOffers.OffersDirectory" image="adcboffers"/>
+
+	<!-- AdGuard -->
+	<AppIcon name="com.adguard.android/com.adguard.android.ui.activity.SplashActivity" image="adguard"/>
+
+	<!-- ADM -->
+	<AppIcon name="com.dv.adm/com.dv.get.Main" image="adm"/>
+
+	<!-- Acrobat Sign -->
+	<AppIcon name="com.adobe.echosign/com.adobe.echosign.ui.ASLauncherActivity" image="acrobat_sign"/>
+
+	<!-- Adobe Express -->
+	<AppIcon name="com.adobe.spark.post/com.adobe.spark.view.main.SplashActivity" image="adobe_express"/>
+
+	<!-- Adobe Fill & Sign -->
+	<AppIcon name="com.adobe.fas/com.adobe.fas.Home.FillAndSign" image="adobe_fill_and_sign"/>
+
+	<!-- Adobe Photoshop Express -->
+	<AppIcon name="com.adobe.psmobile/com.adobe.psmobile.SplashScreen" image="adobe_photoshop_express"/>
+
+	<!-- Adobe Photoshop Fix -->
+	<AppIcon name="com.adobe.adobephotoshopfix/com.adobe.adobephotoshopfix.FCSplashScreenActivity" image="adobe_photoshop_fix"/>
+
+	<!-- Adobe Photoshop Mix -->
+	<AppIcon name="com.adobe.photoshopmix/com.adobe.photoshopmix.SplashScreenActivity" image="adobe_photoshop_mix"/>
+
+	<!-- AfterFocus Pro -->
+	<AppIcon name="com.motionone.afterfocus_pro/com.motionone.afterfocus.TitleActivity" image="afterfocus_pro"/>
+
+	<!-- AfterShip -->
+	<AppIcon name="com.aftership.AfterShip/com.aftership.shopper.views.splash.SplashActivity" image="aftership"/>
+
+	<!-- Agoda -->
+	<AppIcon name="com.agoda.mobile.consumer/com.agoda.mobile.consumer.screens.splash.AppLauncherActivity" image="agoda"/>
+
+	<!-- AI Marvels -->
+	<AppIcon name="com.hitpaw.photo.enhancer/com.hitpaw.photo.enhancer.WelcomeActivity" image="ai_marvels"/>
+
+	<!-- AI Photo Enhancer -->
+	<AppIcon name="ai.photo.enhancer.photoclear/ai.photo.enhancer.photoclear.pages.a_splash.LauncherActivity" image="ai_photo_enhancer"/>
+
+	<!-- AI Photo Enhancer -->
+	<AppIcon name="mobi.zeezoo.photoenhancer/mobi.zeezoo.photoenhancer.ui.splash.SplashActivity" image="ai_photo_enhancer"/>
+
+	<!-- AiCloud -->
+	<AppIcon name="com.asustek.aicloud/com.asustek.aicloud.Activity_Init" image="aicloud"/>
+
+</Theme>

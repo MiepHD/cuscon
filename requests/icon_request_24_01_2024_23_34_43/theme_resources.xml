@@ -1,0 +1,189 @@
+<Theme version="1">
+
+	<!-- Галерея -->
+	<AppIcon name="com.android.gallery3d/com.android.gallery3d.app.Gallery" image="галерея"/>
+
+	<!-- ГдеПосылка -->
+	<AppIcon name="ru.gdeposylka.delta/ru.gdeposylka.delta.ui.tracklist.TracklistActivity" image="гдепосылка"/>
+
+	<!-- Диктофон HD -->
+	<AppIcon name="com.lge.hifirecorder/com.lge.hifirecorder.LaunchHifiRecorder" image="диктофон_hd"/>
+
+	<!-- Загрузчик видео -->
+	<AppIcon name="video.downloader.videodownloader/video.downloader.videodownloader.activity.MainActivity" image="загрузчик_видео"/>
+
+	<!-- Запуск Игр -->
+	<AppIcon name="com.lge.gamelauncher/com.lge.gamelauncher.ui.home.GameLauncherActivity" image="запуск_игр"/>
+
+	<!-- Камера -->
+	<AppIcon name="com.lge.camera/com.lge.camera.CameraAppLauncher" image="камера"/>
+
+	<!-- Мій Київстар -->
+	<AppIcon name="com.kyivstar.mykyivstar/com.kyivstar.mykyivstar.MainActivity" image="міи_киівстар"/>
+
+	<!-- Мои маршруты -->
+	<AppIcon name="com.zihua.android.mytracks/com.zihua.android.mytracks.PermissionActivity" image="мои_маршруты"/>
+
+	<!-- Музыка -->
+	<AppIcon name="com.lge.music/com.lge.music.MusicBrowserActivity" image="музыка"/>
+
+	<!-- ПДД -->
+	<AppIcon name="com.monolit.pddua/com.vokrab.pdd.MainActivity" image="пдд"/>
+
+	<!-- Телефон -->
+	<AppIcon name="com.android.contacts/com.android.contacts.activities.DialtactsActivity" image="телефон"/>
+
+	<!-- Тесты ПДД -->
+	<AppIcon name="com.monolit.pddexamua/com.vokrab.ppdukraineexam.MainActivity" image="тесты_пдд"/>
+
+	<!-- Файлы -->
+	<AppIcon name="com.marc.files/nl.marc_apps.files.MainActivity" image="фаилы"/>
+
+	<!-- Финансы -->
+	<AppIcon name="ru.innim.my_finance/ru.innim.my_finance.MainActivity" image="финансы"/>
+
+	<!-- Часы -->
+	<AppIcon name="com.lge.clock/com.lge.clock.AlarmClockActivity" image="часы"/>
+
+	<!-- Чат NektoMe -->
+	<AppIcon name="com.nektome.talk/com.nektome.talk.main.SplashActivity" image="чат_nektome"/>
+
+	<!-- AliExpress -->
+	<AppIcon name="com.alibaba.aliexpresshd/com.aliexpress.app.FirstActivity" image="aliexpress"/>
+
+	<!-- AUTO.RIA -->
+	<AppIcon name="com.ria.auto/com.ria.auto.RiaGifAnimationActivity" image="autoria"/>
+
+	<!-- Battlecruisers -->
+	<AppIcon name="com.Bluebottle.Battlecruisers/com.unity3d.player.UnityPlayerActivity" image="battlecruisers"/>
+
+	<!-- black -->
+	<AppIcon name="air.com.bartbonte.black/air.com.bartbonte.black.AIRAppEntry" image="black"/>
+
+	<!-- Death Rover -->
+	<AppIcon name="com.tranquility.colony/com.unity3d.player.UnityPlayerActivity" image="death_rover"/>
+
+	<!-- Deezer -->
+	<AppIcon name="deezer.android.app/com.deezer.android.ui.activity.LauncherActivity" image="deezer"/>
+
+	<!-- FS 23 -->
+	<AppIcon name="com.giantssoftware.fs23.google/com.giantssoftware.MainActivity" image="fs_23"/>
+
+	<!-- Getcontact -->
+	<AppIcon name="app.source.getcontact/app.source.getcontact.ui.starter.StarterActivity" image="getcontact"/>
+
+	<!-- Hypatia -->
+	<AppIcon name="us.spotco.malwarescanner/us.spotco.malwarescanner.MainActivity" image="hypatia"/>
+
+	<!-- KLCK -->
+	<AppIcon name="org.kustom.lockscreen/org.kustom.app.OnBoardingActivity" image="klck"/>
+
+	<!-- KLCK Pro -->
+	<AppIcon name="org.kustom.lockscreen.pro/org.kustom.pro.MainActivity" image="klck_pro"/>
+
+	<!-- KLWP -->
+	<AppIcon name="org.kustom.wallpaper/org.kustom.app.OnBoardingActivity" image="klwp"/>
+
+	<!-- Smart Book -->
+	<AppIcon name="com.kursx.smartbook/com.kursx.smartbook.MainActivity" image="smart_book"/>
+
+	<!-- LG Health (will closed) -->
+	<AppIcon name="com.lge.lifetracker/com.lge.lifetracker.ui.MainActivity" image="lg_health_will_closed_"/>
+
+	<!-- MacroDroid -->
+	<AppIcon name="com.arlosoft.macrodroid/com.arlosoft.macrodroid.intro.IntroActivity" image="macrodroid"/>
+
+	<!-- MediaGet -->
+	<AppIcon name="com.mediaget.android/com.mediaget.android.MainActivity" image="mediaget"/>
+
+	<!-- Message+ -->
+	<AppIcon name="com.verizon.messaging.vzmsgs/com.verizon.mms.ui.activity.Provisioning" image="message_"/>
+
+	<!-- Mono KLWP -->
+	<AppIcon name="monoklwp.droidbeauty.pack/org.kustom.api.dashboard.DashboardActivity" image="mono_klwp"/>
+
+	<!-- MX Player -->
+	<AppIcon name="com.mxtech.videoplayer.ad/com.mxtech.videoplayer.ad.ActivityWelcomeMX" image="mx_player"/>
+
+	<!-- My Vodafone -->
+	<AppIcon name="ua.vodafone.myvodafone/ua.vodafone.myvodafone.MainActivity" image="my_vodafone"/>
+
+	<!-- Netmonitor -->
+	<AppIcon name="com.parizene.netmonitor/com.parizene.netmonitor.ui.HomeActivity" image="netmonitor"/>
+
+	<!-- Offroad Chronicles -->
+	<AppIcon name="com.szinteractive.SnowRoad/com.unity3d.player.UnityPlayerActivity" image="offroad_chronicles"/>
+
+	<!-- Olauncher Clutter Free -->
+	<AppIcon name="app.olaunchercf/app.olaunchercf.MainActivity" image="olauncher_clutter_free"/>
+
+	<!-- OLX.ua -->
+	<AppIcon name="ua.slando/pl.tablica2.app.startup.activity.StartupActivity" image="olxua"/>
+
+	<!-- Our Empire Remake Pro -->
+	<AppIcon name="com.SKGames.OurEmpireRemakePro/com.unity3d.player.UnityPlayerActivity" image="our_empire_remake_pro"/>
+
+	<!-- Project Entropy -->
+	<AppIcon name="com.entropy.global/com.kingsgroup.ww2.UnityPlayerActivity" image="project_entropy"/>
+
+	<!-- Prom -->
+	<AppIcon name="ua.prom.b2c/ua.prom.b2c.SplashActivity" image="prom"/>
+
+	<!-- PUBG MOBILE -->
+	<AppIcon name="com.tencent.ig/com.epicgames.ue4.SplashActivity" image="pubg_mobile"/>
+
+	<!-- QuickMemo+ -->
+	<AppIcon name="com.lge.qmemoplus/com.lge.qmemoplus.ui.main.MainActivity" image="quickmemo_"/>
+
+	<!-- ReadEra -->
+	<AppIcon name="org.readera/com.readera.MainActivity" image="readera"/>
+
+	<!-- red -->
+	<AppIcon name="air.com.bartbonte.red/air.com.bartbonte.red.AIRAppEntry" image="red"/>
+
+	<!-- RST.ua -->
+	<AppIcon name="ua.rst.android/ua.rst.android.MainActivity" image="rstua"/>
+
+	<!-- SMS/MMS -->
+	<AppIcon name="com.android.mms/com.android.mms.ui.ConversationList" image="sms_mms"/>
+
+	<!-- SoundCloud -->
+	<AppIcon name="com.soundcloud.android/com.soundcloud.android.launcher.LauncherActivity" image="soundcloud"/>
+
+	<!-- Space Chase -->
+	<AppIcon name="com.snowdon.starflight/com.unity3d.player.UnityPlayerActivity" image="space_chase"/>
+
+	<!-- Spinning Moon -->
+	<AppIcon name="spinningmoon.kustom.pack/org.kustom.api.dashboard.DashboardActivity" image="spinning_moon"/>
+
+	<!-- Stepik -->
+	<AppIcon name="org.stepic.droid/org.stepic.droid.view.activities.SplashActivity" image="stepik"/>
+
+	<!-- TouchVPN -->
+	<AppIcon name="com.northghost.touchvpn/com.anchorfree.touchvpn.MainActivity" image="touchvpn"/>
+
+	<!-- Unlauncher -->
+	<AppIcon name="com.jkuester.unlauncher/com.sduduzog.slimlauncher.MainActivity" image="unlauncher"/>
+
+	<!-- V720 -->
+	<AppIcon name="com.naxclow.v720/io.dcloud.PandoraEntry" image="v720"/>
+
+	<!-- Viber -->
+	<AppIcon name="com.viber.voip/com.viber.voip.WelcomeActivity" image="viber"/>
+
+	<!-- VK -->
+	<AppIcon name="com.vkontakte.android/com.vk.android.launcher.icons.IconAlias.DefaultIcon" image="vk"/>
+
+	<!-- Voicemail -->
+	<AppIcon name="com.lge.vvm/com.lge.vvm.ProvisioningStateMachine" image="voicemail"/>
+
+	<!-- VPNSatoshi -->
+	<AppIcon name="com.satoshi.vpns/com.satoshi.vpns.ui.activity.MainActivity" image="vpnsatoshi"/>
+
+	<!-- War Thunder Mobile -->
+	<AppIcon name="com.gaijingames.wtm/com.gaijingames.wtm.VersionSelector" image="war_thunder_mobile"/>
+
+	<!-- Zombotron -->
+	<AppIcon name="ru.antkarlov.zombotron/com.unity3d.player.UnityPlayerActivity" image="zombotron"/>
+
+</Theme>

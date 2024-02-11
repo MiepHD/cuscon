@@ -1,0 +1,93 @@
+<appmap>
+
+	<!-- 17TRACK -->
+	<item class="yqtrack.app.MainActivity" name="_17track"/>
+
+	<!-- 1Password -->
+	<item class="com.onepassword.android.app.StartActivity" name="_1password"/>
+
+	<!-- 4AiPaw -->
+	<item class="com.hitpaw.ai.art.WelcomeActivity" name="_4aipaw"/>
+
+	<!-- 4D Parallax Wallpaper -->
+	<item class="com.vinwap.parallaxpro.OpenActivity" name="_4d_parallax_wallpaper"/>
+
+	<!-- 4K Wallpapers -->
+	<item class="hd.wallpaper.live.parallax.Activity.SplashActivity" name="_4k_wallpapers"/>
+
+	<!-- 4shared -->
+	<item class="com.cloud.module.splash.SplashActivity" name="_4shared"/>
+
+	<!-- 6thStreet -->
+	<item class="com.apparel.app6thstreet.MainActivity" name="_6thstreet"/>
+
+	<!-- أرامكس -->
+	<item class="net.aramex.ui.landingpage.LandingPageActivity" name="أرامكس"/>
+
+	<!-- إسعاد -->
+	<item class="dubaipolice.esaad.ae.esaad_dubaipolice.ui.activities.SplashActivity" name="إسعاد"/>
+
+	<!-- إكسبو 2020 دبي -->
+	<item class="com.expo2020dubai.android.view.MainActivity" name="إكسبو_2020_دبي"/>
+
+	<!-- ابراهيم القرشي للعطور -->
+	<item class="webkul.opencart.mobikul.SplashScreen" name="ابراهيم_القرشي_للعطور"/>
+
+	<!-- الاتحاد للطيران -->
+	<item class="com.amadeus.mdesmdp.activities.LaunchActivity" name="الاتحاد_للطيران"/>
+
+	<!-- الاستوديو -->
+	<item class="com.sec.android.app.vepreload.common.activity.ProjectShortcutActivity" name="الاستوديو"/>
+
+	<!-- الحالة الرقمية -->
+	<item class="com.samsung.android.forest.launcher.LauncherActivity" name="الحالة_الرقمية"/>
+
+	<!-- الربط بـ Windows -->
+	<item class="com.samsung.android.mdx.windowslink.tileservice.LinkToWidowsLauncherActivityDummy" name="الربط_ب_windows"/>
+
+	<!-- الصحة من هواوي -->
+	<item class="com.huawei.health.MainActivity" name="الصحة_من_هواوي"/>
+
+	<!-- العناية بالجهاز -->
+	<item class="com.samsung.android.sm.ui.DefaultActivity" name="العناية_بالجهاز"/>
+
+	<!-- القياس -->
+	<item class="com.google.vr.apps.ornament.measure.MeasureMainActivity" name="القياس"/>
+
+	<!-- الكتابة المباشرة -->
+	<item class="com.google.audio.hearing.visualization.accessibility.scribe.LauncherActivity" name="الكتابة_المباشرة"/>
+
+	<!-- المسافر -->
+	<item class="com.travel.common.presentation.splash.SplashActivity" name="المسافر"/>
+
+	<!-- المصحف الذهبي -->
+	<item class="org.goldenquran.freesoft.activity.MainActivity" name="المصحف_الذهبي"/>
+
+	<!-- المعاني عربي عربي -->
+	<item class="com.almaany.arar.MainActivity" name="المعاني_عربي_عربي"/>
+
+	<!-- الوسيط -->
+	<item class="com.awi.waseet.MainActivity" name="الوسيط"/>
+
+	<!-- ايكار -->
+	<item class="ae.ekar.activity.SplashActivity" name="ايكار"/>
+
+	<!-- بائع بأمازون -->
+	<item class="com.amazon.mShop.home.MainActivity" name="بائع_بأمازون"/>
+
+	<!-- برايسنا -->
+	<item class="com.naddad.pricena.activities.MainActivity_" name="برايسنا"/>
+
+	<!-- بروبرتي فايندر -->
+	<item class="ae.propertyfinder.propertyfinder.ui.main.MainActivity" name="بروبرتي_فايندر"/>
+
+	<!-- بسمات -->
+	<item class="ae.etisalat.smiles.kt.presentation.splash.SplashActivity" name="بسمات"/>
+
+	<!-- تريفاجو -->
+	<item class="com.trivago.ft.main.frontend.MainActivity" name="تريفاجو"/>
+
+	<!-- تقويم دبي -->
+	<item class="com.dsf010.v2.dubaievents.SplashActivity" name="تقويم_دبي"/>
+
+</appmap>

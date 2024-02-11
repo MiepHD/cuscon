@@ -1,0 +1,63 @@
+<appmap>
+
+	<!-- Alight Motion -->
+	<item class="com.alightcreative.app.motion.activities.main.MainActivity" name="alight_motion"/>
+
+	<!-- Background Eraser -->
+	<item class="com.handycloset.android.eraser.MainActivity" name="background_eraser"/>
+
+	<!-- Brevent -->
+	<item class="me.piebridge.brevent.ui.BreventActivity" name="brevent"/>
+
+	<!-- Calendar -->
+	<item class="deltazero.amarok.launcher.calendar" name="calendar"/>
+
+	<!-- CastChat -->
+	<item class="walkie.talkie.talk.SplashADActivity" name="castchat"/>
+
+	<!-- DB LEGENDS -->
+	<item class="jp.co.dimps.trad.common.TRADMainActivity" name="db_legends"/>
+
+	<!-- Geometry Dash -->
+	<item class="com.robtopx.geometryjump.GeometryJump" name="geometry_dash"/>
+
+	<!-- Hear Boost -->
+	<item class="com.audiofix.hearboost.MainActivity" name="hear_boost"/>
+
+	<!-- Home Workout -->
+	<item class="homeworkout.homeworkouts.noequipment.SplashActivity" name="home_workout"/>
+
+	<!-- Jawline -->
+	<item class="jawline.exercises.slim.face.yoga.activity.SplashActivity" name="jawline"/>
+
+	<!-- Lawnicons -->
+	<item class="app.lawnchair.lawnicons.MainActivity" name="lawnicons"/>
+
+	<!-- Light It Up -->
+	<item class="com.unity3d.player.UnityPlayerActivity" name="light_it_up"/>
+
+	<!-- Melon Sandbox -->
+	<item class="com.unity3d.player.UnityPlayerActivity" name="melon_sandbox"/>
+
+	<!-- Package Names -->
+	<item class="com.csdroid.pkg.MainActivity" name="package_names"/>
+
+	<!-- Pickup Lines -->
+	<item class="com.zipoapps.premiumhelper.ui.splash.PHSplashActivity" name="pickup_lines"/>
+
+	<!-- Ragdoll Fists -->
+	<item class="org.cocos2dx.cpp.AppActivity" name="ragdoll_fists"/>
+
+	<!-- Read You -->
+	<item class="me.ash.reader.infrastructure.android.MainActivity" name="read_you"/>
+
+	<!-- Seal Downloader -->
+	<item class="com.hkapps.sealdownloader.activities.SplashScreen" name="seal_downloader"/>
+
+	<!-- SetEdit -->
+	<item class="by4a.setedit.EditorActivity" name="setedit"/>
+
+	<!-- Shizuku -->
+	<item class="moe.shizuku.manager.MainActivity" name="shizuku"/>
+
+</appmap>
