@@ -2812,5 +2812,14 @@
 	<item class="com.dpd.yourdpd.MainActivity" name="dpd"/>
 	<item class="com.octopus.electricjuice.LauncherActivity" name="electroverse"/>
     <item class="com.example.poundland.MainActivity" name="poundland_perks"/>
+	<item class="com.infrasofttech.centralbank.SplashActivity" name="cent_mobile"/>
+    <item class="com.extreme.extremevpn.app.SplashActivity" name="extremevpn"/>
+    <item class="io.github.forkmaintainers.iceraven.App" name="iceraven"/>
+    <item class="com.nis.app.ui.activities.HomeActivity" name="inshorts"/>
+    <item class="com.android.camera.CameraLauncher" name="lmc84"/>
+    <item class="org.mozilla.firefox.vpn.qt.VPNActivity" name="mozilla_vpn"/>
+    <item class="com.stealthcopter.nexusrevamped.SetWallpaperActivity" name="nexus_revamped"/>
+    <item class="com.olacabs.customer.ui.SplashActivity" name="ola"/>
+    <item class="com.pashapuma.pix.material.you.dark.activities.SplashActivity" name="pix_material_you_light_dark"/>
 
 </appmap>

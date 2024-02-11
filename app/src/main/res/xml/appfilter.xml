@@ -2829,5 +2829,14 @@
 	<item component="ComponentInfo{com.dpd.yourdpd/com.dpd.yourdpd.MainActivity}" drawable="dpd" />
 	<item component="ComponentInfo{energy.octopus.electricjuice.android/com.octopus.electricjuice.LauncherActivity}" drawable="electroverse" />
     <item component="ComponentInfo{uk.co.poundland.mypoundland/com.example.poundland.MainActivity}" drawable="poundland_perks" />
+	<item component="ComponentInfo{com.infrasofttech.CentralBank/com.infrasofttech.centralbank.SplashActivity}" drawable="cent_mobile" />
+    <item component="ComponentInfo{com.extremevpn.vpnclient.android/com.extreme.extremevpn.app.SplashActivity}" drawable="extremevpn" />
+    <item component="ComponentInfo{io.github.forkmaintainers.iceraven/io.github.forkmaintainers.iceraven.App}" drawable="iceraven" />
+    <item component="ComponentInfo{com.nis.app/com.nis.app.ui.activities.HomeActivity}" drawable="inshorts" />
+    <item component="ComponentInfo{com.google.android.GoogleCameraEngR18F1/com.android.camera.CameraLauncher}" drawable="lmc84" />
+    <item component="ComponentInfo{org.mozilla.firefox.vpn/org.mozilla.firefox.vpn.qt.VPNActivity}" drawable="mozilla_vpn" />
+    <item component="ComponentInfo{com.stealthcopter.nexusrevamped/com.stealthcopter.nexusrevamped.SetWallpaperActivity}" drawable="nexus_revamped" />
+    <item component="ComponentInfo{com.olacabs.customer/com.olacabs.customer.ui.SplashActivity}" drawable="ola" />
+    <item component="ComponentInfo{com.pashapuma.pix.material.you.dark/com.pashapuma.pix.material.you.dark.activities.SplashActivity}" drawable="pix_material_you_light_dark" />
 
 </resources>

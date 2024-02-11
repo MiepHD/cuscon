@@ -2820,5 +2820,14 @@
 	<AppIcon name="com.dpd.yourdpd/com.dpd.yourdpd.MainActivity" image="dpd"/>
 	<AppIcon name="energy.octopus.electricjuice.android/com.octopus.electricjuice.LauncherActivity" image="electroverse"/>
     <AppIcon name="uk.co.poundland.mypoundland/com.example.poundland.MainActivity" image="poundland_perks"/>
+	<AppIcon name="com.infrasofttech.CentralBank/com.infrasofttech.centralbank.SplashActivity" image="cent_mobile"/>
+    <AppIcon name="com.extremevpn.vpnclient.android/com.extreme.extremevpn.app.SplashActivity" image="extremevpn"/>
+    <AppIcon name="io.github.forkmaintainers.iceraven/io.github.forkmaintainers.iceraven.App" image="iceraven"/>
+    <AppIcon name="com.nis.app/com.nis.app.ui.activities.HomeActivity" image="inshorts"/>
+    <AppIcon name="com.google.android.GoogleCameraEngR18F1/com.android.camera.CameraLauncher" image="lmc84"/>
+    <AppIcon name="org.mozilla.firefox.vpn/org.mozilla.firefox.vpn.qt.VPNActivity" image="mozilla_vpn"/>
+    <AppIcon name="com.stealthcopter.nexusrevamped/com.stealthcopter.nexusrevamped.SetWallpaperActivity" image="nexus_revamped"/>
+    <AppIcon name="com.olacabs.customer/com.olacabs.customer.ui.SplashActivity" image="ola"/>
+    <AppIcon name="com.pashapuma.pix.material.you.dark/com.pashapuma.pix.material.you.dark.activities.SplashActivity" image="pix_material_you_light_dark"/>
 
 </Theme>
