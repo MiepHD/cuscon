@@ -2813,5 +2813,9 @@
     <AppIcon name="com.transsion.healthlife/com.transsion.healthlife.view.WelcomeActivity" image="my_health"/>
     <AppIcon name="com.kuma.notificationwidget/com.kuma.notificationwidget.MainActivity" image="notification_widget"/>
     <AppIcon name="com.google.android.apps.youtube.kids/com.google.android.apps.youtube.kids.splash.SplashScreenActivity" image="yt_kids"/>
+	<AppIcon name="com.sonymobile.cinemapro/com.sonymobile.cinemapro.CinemaProActivity" image="cinema_pro"/>
+    <AppIcon name="io.enpass.app/io.enpass.app.SplashScreenActivity" image="enpass"/>
+    <AppIcon name="com.planeth.gstomper/com.planeth.gstomper.GstomperInit" image="g_stomper_studio"/>
+	<AppIcon name="com.caynax.sportstracker/com.caynax.sportstracker.free.fpa" image="caynax_sports_tracker"/>
 
 </Theme>

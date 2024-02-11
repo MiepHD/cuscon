@@ -2805,5 +2805,9 @@
     <item class="com.transsion.healthlife.view.WelcomeActivity" name="my_health"/>
     <item class="com.kuma.notificationwidget.MainActivity" name="notification_widget"/>
     <item class="com.google.android.apps.youtube.kids.splash.SplashScreenActivity" name="yt_kids"/>
+	<item class="com.sonymobile.cinemapro.CinemaProActivity" name="cinema_pro"/>
+    <item class="io.enpass.app.SplashScreenActivity" name="enpass"/>
+    <item class="com.planeth.gstomper.GstomperInit" name="g_stomper_studio"/>
+	<item class="com.caynax.sportstracker.free.fpa" name="caynax_sports_tracker"/>
 
 </appmap>

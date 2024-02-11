@@ -2822,5 +2822,9 @@
     <item component="ComponentInfo{com.transsion.healthlife/com.transsion.healthlife.view.WelcomeActivity}" drawable="my_health" />
     <item component="ComponentInfo{com.kuma.notificationwidget/com.kuma.notificationwidget.MainActivity}" drawable="notification_widget" />
     <item component="ComponentInfo{com.google.android.apps.youtube.kids/com.google.android.apps.youtube.kids.splash.SplashScreenActivity}" drawable="yt_kids" />
+	<item component="ComponentInfo{com.sonymobile.cinemapro/com.sonymobile.cinemapro.CinemaProActivity}" drawable="cinema_pro" />
+    <item component="ComponentInfo{io.enpass.app/io.enpass.app.SplashScreenActivity}" drawable="enpass" />
+    <item component="ComponentInfo{com.planeth.gstomper/com.planeth.gstomper.GstomperInit}" drawable="g_stomper_studio" />
+	<item component="ComponentInfo{com.caynax.sportstracker/com.caynax.sportstracker.free.fpa}" drawable="caynax_sports_tracker" />
 
 </resources>

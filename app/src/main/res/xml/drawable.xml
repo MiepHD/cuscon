@@ -2653,5 +2653,9 @@
     <item drawable="my_health" />
     <item drawable="notification_widget" />
     <item drawable="yt_kids" />
+    <item drawable="cinema_pro" />
+    <item drawable="enpass" />
+    <item drawable="g_stomper_studio" />
+    <item drawable="caynax_sports_tracker" />
 
 </resources>
