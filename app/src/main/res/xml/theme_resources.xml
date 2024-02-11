@@ -2931,5 +2931,20 @@
 	<AppIcon name="com.android.stk/com.android.stk.mtk.StkLauncherActivityII" image="sim_2_toolkit"/>
 	<AppIcon name="com.coloros.compass2/com.coloros.compass.flat.FlatCompass" image="coloros_compass2"/>
 	<AppIcon name="com.oppo.camera/com.oppo.camera.Camera" image="oppo_camera"/>
+	<AppIcon name="com.pradhyu.alltoolseveryutility/com.pradhyu.alltoolseveryutility.Alltools" image="all_tools"/>
+    <AppIcon name="com.heytap.market/com.heytap.market.activity.MainActivity" image="app_market"/>
+    <AppIcon name="com.os.docvault/com.coloros.oppodocvault.views.ftu.ui.FTUWelcomeActivity" image="docvault"/>
+    <AppIcon name="com.duosecurity.duomobile/com.duosecurity.duomobile.account_list.AccountListActivity" image="duo_mobile"/>
+    <AppIcon name="com.finshell.fin/com.finshell.fin.activity.MainActivity" image="finshell_pay"/>
+    <AppIcon name="com.nearme.gamecenter/com.nearme.gamecenter.ui.activity.SplashActivity" image="game_center"/>
+    <AppIcon name="com.heytap.quickgame/com.heytap.quickgame.module.others.launcher.LauncherActivity" image="heyfun"/>
+    <AppIcon name="com.itmedicus.patientaid/com.itmedicus.patientaid.activities.Splash" image="patient_aid"/>
+    <AppIcon name="com.bemobi.de.worldiety.athentech.perfectlyclear/br.com.bemobi.drm.wrapper.MainActivity" image="perfectly_clear"/>
+    <AppIcon name="org.codeaurora.snapcam/com.android.camera.CameraLauncher" image="pixelcam_fuse"/>
+    <AppIcon name="com.realme.link/com.realme.link.home.SplashActivity" image="realme_link"/>
+    <AppIcon name="com.realmestore.app/com.realme.store.start.view.StartActivity" image="realme_store"/>
+    <AppIcon name="com.cgutman.androidremotedebugger/com.cgutman.androidremotedebugger.ConnectActivity" image="remote_adb_shell"/>
+    <AppIcon name="org.intoorbit.spectrum/org.intoorbit.spectrum.SpectrumActivity" image="spectroid"/>
+    <AppIcon name="com.clone.android.dual.space/com.android.vmapp.ui.MainActivity" image="virtual_master"/>
 
 </Theme>

@@ -2923,5 +2923,20 @@
 	<item class="com.android.stk.mtk.StkLauncherActivityII" name="sim_2_toolkit"/>
 	<item class="com.coloros.compass.flat.FlatCompass" name="coloros_compass2"/>
 	<item class="com.oppo.camera.Camera" name="oppo_camera"/>
+	<item class="com.pradhyu.alltoolseveryutility.Alltools" name="all_tools"/>
+    <item class="com.heytap.market.activity.MainActivity" name="app_market"/>
+    <item class="com.coloros.oppodocvault.views.ftu.ui.FTUWelcomeActivity" name="docvault"/>
+    <item class="com.duosecurity.duomobile.account_list.AccountListActivity" name="duo_mobile"/>
+    <item class="com.finshell.fin.activity.MainActivity" name="finshell_pay"/>
+    <item class="com.nearme.gamecenter.ui.activity.SplashActivity" name="game_center"/>
+    <item class="com.heytap.quickgame.module.others.launcher.LauncherActivity" name="heyfun"/>
+    <item class="com.itmedicus.patientaid.activities.Splash" name="patient_aid"/>
+    <item class="br.com.bemobi.drm.wrapper.MainActivity" name="perfectly_clear"/>
+    <item class="com.android.camera.CameraLauncher" name="pixelcam_fuse"/>
+    <item class="com.realme.link.home.SplashActivity" name="realme_link"/>
+    <item class="com.realme.store.start.view.StartActivity" name="realme_store"/>
+    <item class="com.cgutman.androidremotedebugger.ConnectActivity" name="remote_adb_shell"/>
+    <item class="org.intoorbit.spectrum.SpectrumActivity" name="spectroid"/>
+    <item class="com.android.vmapp.ui.MainActivity" name="virtual_master"/>
 
 </appmap>

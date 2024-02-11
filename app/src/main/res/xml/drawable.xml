@@ -2762,5 +2762,20 @@
     <item drawable="coloros_soundrecorder" />
     <item drawable="coloros_compass2" />
     <item drawable="oppo_camera" />
+    <item drawable="all_tools" />
+    <item drawable="app_market" />
+    <item drawable="docvault" />
+    <item drawable="duo_mobile" />
+    <item drawable="finshell_pay" />
+    <item drawable="game_center" />
+    <item drawable="heyfun" />
+    <item drawable="patient_aid" />
+    <item drawable="perfectly_clear" />
+    <item drawable="pixelcam_fuse" />
+    <item drawable="realme_link" />
+    <item drawable="realme_store" />
+    <item drawable="remote_adb_shell" />
+    <item drawable="spectroid" />
+    <item drawable="virtual_master" />
 
 </resources>

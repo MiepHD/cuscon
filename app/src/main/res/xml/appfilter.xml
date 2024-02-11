@@ -2939,5 +2939,20 @@
 	<item component="ComponentInfo{com.android.stk/com.android.stk.mtk.StkLauncherActivityII}" drawable="sim_2_toolkit" />
 	<item component="ComponentInfo{com.coloros.compass2/com.coloros.compass.flat.FlatCompass}" drawable="coloros_compass2" />
 	<item component="ComponentInfo{com.oppo.camera/com.oppo.camera.Camera}" drawable="oppo_camera" />
+	<item component="ComponentInfo{com.pradhyu.alltoolseveryutility/com.pradhyu.alltoolseveryutility.Alltools}" drawable="all_tools" />
+    <item component="ComponentInfo{com.heytap.market/com.heytap.market.activity.MainActivity}" drawable="app_market" />
+    <item component="ComponentInfo{com.os.docvault/com.coloros.oppodocvault.views.ftu.ui.FTUWelcomeActivity}" drawable="docvault" />
+    <item component="ComponentInfo{com.duosecurity.duomobile/com.duosecurity.duomobile.account_list.AccountListActivity}" drawable="duo_mobile" />
+    <item component="ComponentInfo{com.finshell.fin/com.finshell.fin.activity.MainActivity}" drawable="finshell_pay" />
+    <item component="ComponentInfo{com.nearme.gamecenter/com.nearme.gamecenter.ui.activity.SplashActivity}" drawable="game_center" />
+    <item component="ComponentInfo{com.heytap.quickgame/com.heytap.quickgame.module.others.launcher.LauncherActivity}" drawable="heyfun" />
+    <item component="ComponentInfo{com.itmedicus.patientaid/com.itmedicus.patientaid.activities.Splash}" drawable="patient_aid" />
+    <item component="ComponentInfo{com.bemobi.de.worldiety.athentech.perfectlyclear/br.com.bemobi.drm.wrapper.MainActivity}" drawable="perfectly_clear" />
+    <item component="ComponentInfo{org.codeaurora.snapcam/com.android.camera.CameraLauncher}" drawable="pixelcam_fuse" />
+    <item component="ComponentInfo{com.realme.link/com.realme.link.home.SplashActivity}" drawable="realme_link" />
+    <item component="ComponentInfo{com.realmestore.app/com.realme.store.start.view.StartActivity}" drawable="realme_store" />
+    <item component="ComponentInfo{com.cgutman.androidremotedebugger/com.cgutman.androidremotedebugger.ConnectActivity}" drawable="remote_adb_shell" />
+    <item component="ComponentInfo{org.intoorbit.spectrum/org.intoorbit.spectrum.SpectrumActivity}" drawable="spectroid" />
+    <item component="ComponentInfo{com.clone.android.dual.space/com.android.vmapp.ui.MainActivity}" drawable="virtual_master" />
 
 </resources>
