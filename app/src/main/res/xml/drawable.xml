@@ -2645,5 +2645,6 @@
     <item drawable="widgetshare" />
     <item drawable="workvivo" />
     <item drawable="zfile" />
+    <item drawable="twitch" />
 
 </resources>

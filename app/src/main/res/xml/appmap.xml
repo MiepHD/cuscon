@@ -2795,5 +2795,6 @@
     <item class="com.galew.widgetshare.MainActivity" name="widgetshare"/>
     <item class="com.workvivo.android.MainActivitydollargeneral" name="workvivo"/>
     <item class="com.htetznaing.zfile.ui.MainActivity" name="zfile"/>
+	<item class="tv.twitch.android.app.core.LandingActivity" name="twitch"/>
 
 </appmap>

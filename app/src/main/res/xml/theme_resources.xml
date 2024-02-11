@@ -2803,5 +2803,6 @@
     <AppIcon name="com.galew.widgetshare/com.galew.widgetshare.MainActivity" image="widgetshare"/>
     <AppIcon name="com.workvivo.android/com.workvivo.android.MainActivitydollargeneral" image="workvivo"/>
     <AppIcon name="com.htetznaing.zfile/com.htetznaing.zfile.ui.MainActivity" image="zfile"/>
+	<AppIcon name="tv.twitch.android.app/tv.twitch.android.app.core.LandingActivity" image="twitch"/>
 
 </Theme>

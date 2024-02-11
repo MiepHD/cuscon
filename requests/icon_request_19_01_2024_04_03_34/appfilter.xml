@@ -1,6 +1,0 @@
-<resources>
-
-	<!-- Twitch -->
-	<item component="ComponentInfo{tv.twitch.android.app/tv.twitch.android.app.core.LandingActivity}" drawable="twitch" />
-
-</resources>

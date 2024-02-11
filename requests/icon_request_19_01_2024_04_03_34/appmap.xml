@@ -1,6 +1,0 @@
-<appmap>
-
-	<!-- Twitch -->
-	<item class="tv.twitch.android.app.core.LandingActivity" name="twitch"/>
-
-</appmap>
