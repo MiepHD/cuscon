@@ -2757,5 +2757,13 @@
     <AppIcon name="com.adeo.android.app/com.lmfr.applm.onboarding.activities.onboarding.OnBoardingActivity" image="leroy_merlin"/>
     <AppIcon name="de.zalando.prive/de.zalando.lounge.ui.splash.SplashActivity" image="prive_by_zalando"/>
     <AppIcon name="com.motivait.ctf.springfield/com.motivait.ctf.springfield.MainActivity" image="springfield"/>
+	<AppIcon name="com.microsoft.azure/crc6431cd41aa6ada328a.SplashScreenActivity" image="azure"/>
+    <AppIcon name="com.identitypassmobile/com.identitypassmobile.MainActivity" image="identity_pass"/>
+    <AppIcon name="com.ms.office365admin/com.ms.office365admin.SplashScreen" image="microsoft_365_admin"/>
+    <AppIcon name="com.microsoft.planner/com.microsoft.planner.login.ConnectActivity" image="planner"/>
+    <AppIcon name="com.microsoft.flow/com.microsoft.flow.MainActivity" image="power_automate"/>
+    <AppIcon name="com.microsoft.powerbim/com.microsoft.powerbi.ui.home.HomeActivity" image="power_bi"/>
+    <AppIcon name="com.cisco.webex.meetings/com.cisco.webex.meetings.ui.premeeting.welcome.WebExMeeting" image="webex_meet"/>
+    <AppIcon name="com.microsoft.whiteboard.publicpreview/com.microsoft.whiteboard.activity.WhiteBoardLauncherActivity" image="whiteboard"/>
 
 </Theme>

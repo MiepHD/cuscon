@@ -1,2 +1,2 @@
-- Added ATC, El Huffpost, Leroy Merlin, Privé by Zalando, Springfield
+- Added ATC, El Huffpost, Leroy Merlin, Privé by Zalando, Springfield, Azure, Identity Pass, Microsoft 365 Admin, Planner, Power Automate, Power BI, Webex Meet, Whiteboard
 - Updated RVX Music, KFC España

@@ -2766,5 +2766,13 @@
     <item component="ComponentInfo{com.adeo.android.app/com.lmfr.applm.onboarding.activities.onboarding.OnBoardingActivity}" drawable="leroy_merlin" />
     <item component="ComponentInfo{de.zalando.prive/de.zalando.lounge.ui.splash.SplashActivity}" drawable="prive_by_zalando" />
     <item component="ComponentInfo{com.motivait.ctf.springfield/com.motivait.ctf.springfield.MainActivity}" drawable="springfield" />
+	<item component="ComponentInfo{com.microsoft.azure/crc6431cd41aa6ada328a.SplashScreenActivity}" drawable="azure" />
+    <item component="ComponentInfo{com.identitypassmobile/com.identitypassmobile.MainActivity}" drawable="identity_pass" />
+    <item component="ComponentInfo{com.ms.office365admin/com.ms.office365admin.SplashScreen}" drawable="microsoft_365_admin" />
+    <item component="ComponentInfo{com.microsoft.planner/com.microsoft.planner.login.ConnectActivity}" drawable="planner" />
+    <item component="ComponentInfo{com.microsoft.flow/com.microsoft.flow.MainActivity}" drawable="power_automate" />
+    <item component="ComponentInfo{com.microsoft.powerbim/com.microsoft.powerbi.ui.home.HomeActivity}" drawable="power_bi" />
+    <item component="ComponentInfo{com.cisco.webex.meetings/com.cisco.webex.meetings.ui.premeeting.welcome.WebExMeeting}" drawable="webex_meet" />
+    <item component="ComponentInfo{com.microsoft.whiteboard.publicpreview/com.microsoft.whiteboard.activity.WhiteBoardLauncherActivity}" drawable="whiteboard" />
 
 </resources>

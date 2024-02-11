@@ -2749,5 +2749,13 @@
     <item class="com.lmfr.applm.onboarding.activities.onboarding.OnBoardingActivity" name="leroy_merlin"/>
     <item class="de.zalando.lounge.ui.splash.SplashActivity" name="prive_by_zalando"/>
     <item class="com.motivait.ctf.springfield.MainActivity" name="springfield"/>
+	<item class="crc6431cd41aa6ada328a.SplashScreenActivity" name="azure"/>
+    <item class="com.identitypassmobile.MainActivity" name="identity_pass"/>
+    <item class="com.ms.office365admin.SplashScreen" name="microsoft_365_admin"/>
+    <item class="com.microsoft.planner.login.ConnectActivity" name="planner"/>
+    <item class="com.microsoft.flow.MainActivity" name="power_automate"/>
+    <item class="com.microsoft.powerbi.ui.home.HomeActivity" name="power_bi"/>
+    <item class="com.cisco.webex.meetings.ui.premeeting.welcome.WebExMeeting" name="webex_meet"/>
+    <item class="com.microsoft.whiteboard.activity.WhiteBoardLauncherActivity" name="whiteboard"/>
 
 </appmap>

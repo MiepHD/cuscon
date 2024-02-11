@@ -2600,5 +2600,13 @@
     <item drawable="leroy_merlin" />
     <item drawable="prive_by_zalando" />
     <item drawable="springfield" />
+    <item drawable="azure" />
+    <item drawable="identity_pass" />
+    <item drawable="microsoft_365_admin" />
+    <item drawable="planner" />
+    <item drawable="power_automate" />
+    <item drawable="power_bi" />
+    <item drawable="webex_meet" />
+    <item drawable="whiteboard" />
 
 </resources>
