@@ -2898,5 +2898,6 @@
     <AppIcon name="org.scummvm.scummvm/org.scummvm.scummvm.SplashActivity" image="scummvm"/>
     <AppIcon name="xyz.jienan.xkcd/xyz.jienan.xkcd.home.MainActivity" image="xkcd"/>
     <AppIcon name="nz.co.vista.android.movie.yorckkinos/nz.co.vista.android.movie.abc.feature.splash.SplashActivity" image="yorck_kinos"/>
+	<AppIcon name="com.simplemobiletools.notes.pro/com.simplemobiletools.notes.pro.activities.SplashActivity.Red" image="notizen"/>
 
 </Theme>

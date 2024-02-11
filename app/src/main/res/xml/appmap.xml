@@ -2890,5 +2890,6 @@
     <item class="org.scummvm.scummvm.SplashActivity" name="scummvm"/>
     <item class="xyz.jienan.xkcd.home.MainActivity" name="xkcd"/>
     <item class="nz.co.vista.android.movie.abc.feature.splash.SplashActivity" name="yorck_kinos"/>
+	<item class="com.simplemobiletools.notes.pro.activities.SplashActivity.Red" name="notizen"/>
 
 </appmap>

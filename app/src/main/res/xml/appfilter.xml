@@ -2907,5 +2907,6 @@
     <item component="ComponentInfo{org.scummvm.scummvm/org.scummvm.scummvm.SplashActivity}" drawable="scummvm" />
     <item component="ComponentInfo{xyz.jienan.xkcd/xyz.jienan.xkcd.home.MainActivity}" drawable="xkcd" />
     <item component="ComponentInfo{nz.co.vista.android.movie.yorckkinos/nz.co.vista.android.movie.abc.feature.splash.SplashActivity}" drawable="yorck_kinos" />
+	<item component="ComponentInfo{com.simplemobiletools.notes.pro/com.simplemobiletools.notes.pro.activities.SplashActivity.Red}" drawable="notizen" />
 
 </resources>
