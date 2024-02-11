@@ -2829,5 +2829,6 @@
     <AppIcon name="com.stealthcopter.nexusrevamped/com.stealthcopter.nexusrevamped.SetWallpaperActivity" image="nexus_revamped"/>
     <AppIcon name="com.olacabs.customer/com.olacabs.customer.ui.SplashActivity" image="ola"/>
     <AppIcon name="com.pashapuma.pix.material.you.dark/com.pashapuma.pix.material.you.dark.activities.SplashActivity" image="pix_material_you_light_dark"/>
+	<AppIcon name="com.github.k1rakishou.chan.fdroid/com.github.k1rakishou.chan.activity.StartActivity" image="kurobaex"/>
 
 </Theme>

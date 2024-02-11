@@ -2821,5 +2821,6 @@
     <item class="com.stealthcopter.nexusrevamped.SetWallpaperActivity" name="nexus_revamped"/>
     <item class="com.olacabs.customer.ui.SplashActivity" name="ola"/>
     <item class="com.pashapuma.pix.material.you.dark.activities.SplashActivity" name="pix_material_you_light_dark"/>
+	<item class="com.github.k1rakishou.chan.activity.StartActivity" name="kurobaex"/>
 
 </appmap>

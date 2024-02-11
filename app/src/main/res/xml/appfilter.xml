@@ -2838,5 +2838,6 @@
     <item component="ComponentInfo{com.stealthcopter.nexusrevamped/com.stealthcopter.nexusrevamped.SetWallpaperActivity}" drawable="nexus_revamped" />
     <item component="ComponentInfo{com.olacabs.customer/com.olacabs.customer.ui.SplashActivity}" drawable="ola" />
     <item component="ComponentInfo{com.pashapuma.pix.material.you.dark/com.pashapuma.pix.material.you.dark.activities.SplashActivity}" drawable="pix_material_you_light_dark" />
+	<item component="ComponentInfo{com.github.k1rakishou.chan.fdroid/com.github.k1rakishou.chan.activity.StartActivity}" drawable="kurobaex" />
 
 </resources>
