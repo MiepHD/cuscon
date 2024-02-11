@@ -2954,5 +2954,9 @@
     <AppIcon name="com.costarastrology/com.costarastrology.root.RootActivity" image="co__star"/>
     <AppIcon name="com.dailymotion.dailymotion/com.dailymotion.dailymotion.ui.activity.MainActivity" image="dailymotion"/>
     <AppIcon name="com.redcoracle.episodes/com.redcoracle.episodes.MainActivity" image="episodes"/>
+	<AppIcon name="cz.gov.edoklady/cz.gov.edoklady.MainActivity" image="edoklady"/>
+    <AppIcon name="com.tradernet.freedom24app/ru.tradernet.MainActivity" image="freedom24"/>
+    <AppIcon name="com.lunadio.nesnezeno/com.nesnezeno.nesnezeno.MainActivity" image="nesnezeno"/>
+    <AppIcon name="sodexo.mobile/one.adastra.sodexo.login.activity.LoginActivity" image="pluxee_account"/>
 
 </Theme>

@@ -2962,5 +2962,9 @@
     <item component="ComponentInfo{com.costarastrology/com.costarastrology.root.RootActivity}" drawable="co__star" />
     <item component="ComponentInfo{com.dailymotion.dailymotion/com.dailymotion.dailymotion.ui.activity.MainActivity}" drawable="dailymotion" />
     <item component="ComponentInfo{com.redcoracle.episodes/com.redcoracle.episodes.MainActivity}" drawable="episodes" />
+	<item component="ComponentInfo{cz.gov.edoklady/cz.gov.edoklady.MainActivity}" drawable="edoklady" />
+    <item component="ComponentInfo{com.tradernet.freedom24app/ru.tradernet.MainActivity}" drawable="freedom24" />
+    <item component="ComponentInfo{com.lunadio.nesnezeno/com.nesnezeno.nesnezeno.MainActivity}" drawable="nesnezeno" />
+    <item component="ComponentInfo{sodexo.mobile/one.adastra.sodexo.login.activity.LoginActivity}" drawable="pluxee_account" />
 
 </resources>

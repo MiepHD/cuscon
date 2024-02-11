@@ -2785,5 +2785,9 @@
     <item drawable="co__star" />
     <item drawable="dailymotion" />
     <item drawable="episodes" />
+    <item drawable="edoklady" />
+    <item drawable="freedom24" />
+    <item drawable="nesnezeno" />
+    <item drawable="pluxee_account" />
 
 </resources>

@@ -2946,5 +2946,9 @@
     <item class="com.costarastrology.root.RootActivity" name="co__star"/>
     <item class="com.dailymotion.dailymotion.ui.activity.MainActivity" name="dailymotion"/>
     <item class="com.redcoracle.episodes.MainActivity" name="episodes"/>
+	<item class="cz.gov.edoklady.MainActivity" name="edoklady"/>
+    <item class="ru.tradernet.MainActivity" name="freedom24"/>
+    <item class="com.nesnezeno.nesnezeno.MainActivity" name="nesnezeno"/>
+    <item class="one.adastra.sodexo.login.activity.LoginActivity" name="pluxee_account"/>
 
 </appmap>
