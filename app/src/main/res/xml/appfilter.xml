@@ -3010,5 +3010,6 @@
     <item component="ComponentInfo{com.jkuester.unlauncher/com.sduduzog.slimlauncher.MainActivity}" drawable="unlauncher" />
     <item component="ComponentInfo{com.naxclow.v720/io.dcloud.PandoraEntry}" drawable="v720" />
     <item component="ComponentInfo{com.satoshi.vpns/com.satoshi.vpns.ui.activity.MainActivity}" drawable="vpnsatoshi" />
+	<item component="ComponentInfo{app.revanced.android.apps.youtube.music/com.google.android.apps.youtube.music.activities.MusicActivity}" drawable="youtube_music" />
 
 </resources>

@@ -2994,5 +2994,6 @@
     <item class="com.sduduzog.slimlauncher.MainActivity" name="unlauncher"/>
     <item class="io.dcloud.PandoraEntry" name="v720"/>
     <item class="com.satoshi.vpns.ui.activity.MainActivity" name="vpnsatoshi"/>
+	<item class="com.google.android.apps.youtube.music.activities.MusicActivity" name="youtube_music"/>
 
 </appmap>
