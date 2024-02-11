@@ -2817,5 +2817,6 @@
     <AppIcon name="io.enpass.app/io.enpass.app.SplashScreenActivity" image="enpass"/>
     <AppIcon name="com.planeth.gstomper/com.planeth.gstomper.GstomperInit" image="g_stomper_studio"/>
 	<AppIcon name="com.caynax.sportstracker/com.caynax.sportstracker.free.fpa" image="caynax_sports_tracker"/>
+	<AppIcon name="com.dpd.yourdpd/com.dpd.yourdpd.MainActivity" image="dpd"/>
 
 </Theme>
