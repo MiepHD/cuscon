@@ -2901,5 +2901,21 @@
 	<AppIcon name="com.simplemobiletools.notes.pro/com.simplemobiletools.notes.pro.activities.SplashActivity.Red" image="notizen"/>
 	<AppIcon name="fr.thema.wear.watch.legion/fr.thema.wear.watch.legion.WatchFaceCompanionConfigActivity" image="legion_watch"/>
     <AppIcon name="de.avm.android.smarthome/de.avm.android.smarthome.activities.StartActivity" image="fritz_smart_home"/>
+	<AppIcon name="de.blitzer.plus/net.graphmasters.blitzerde.activity.splash.SplashActivity" image="blitzerde_pro"/>
+    <AppIcon name="de.hafas.android.vbb/de.hafas.main.HafasApp" image="bus_and_bahn"/>
+    <AppIcon name="app.celebrate.celpho/app.celebrate.celpho.MainActivity" image="celebrate"/>
+    <AppIcon name="de.check24.check24/de.check24.check24.activities.Check24Activity" image="check24"/>
+    <AppIcon name="partl.Diarium/crc64379322c6af5bbbbe.MainActivity" image="diarium"/>
+    <AppIcon name="com.vacationrentals.homeaway/com.expedia.bookings.activity.SearchActivity" image="fewo_direkt"/>
+    <AppIcon name="com.ipc360/com.showmo.activity.OpenSelectActivity" image="ipc360"/>
+    <AppIcon name="com.journiapp.journi/com.journiapp.journi.ui.launch.LaunchActivity" image="journi_blog"/>
+    <AppIcon name="fr.thema.wear.watch.master/fr.thema.wear.watch.master.WatchFaceCompanionConfigActivity" image="master"/>
+    <AppIcon name="com.blackapps.kochbuch2/com.blackapps.kochbuch2.MainActivity" image="mein_kochbuch"/>
+    <AppIcon name="de.avm.android.myfritz2/de.avm.android.one.activities.StartActivity" image="myfritz_"/>
+    <AppIcon name="com.tomtom.gplay.navapp/com.tomtom.mobilenavapp.MobileNavAppActivity" image="tomtom_go"/>
+    <AppIcon name="de.quantumphysique.trale/de.quantumphysique.trale.MainActivity" image="trale"/>
+    <AppIcon name="com.ammar.wallflow/com.ammar.wallflow.activities.main.MainActivity" image="wallflow"/>
+    <AppIcon name="com.weeklyplannerapp.weekplan/com.weeklyplannerapp.weekplan.View.Activities.MainActivity" image="wochenplaner"/>
+    <AppIcon name="com.yazio.android/yazio.feature.MainActivity" image="yazio"/>
 
 </Theme>

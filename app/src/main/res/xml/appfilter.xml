@@ -2910,5 +2910,20 @@
 	<item component="ComponentInfo{com.simplemobiletools.notes.pro/com.simplemobiletools.notes.pro.activities.SplashActivity.Red}" drawable="notizen" />
 	<item component="ComponentInfo{fr.thema.wear.watch.legion/fr.thema.wear.watch.legion.WatchFaceCompanionConfigActivity}" drawable="legion_watch" />
     <item component="ComponentInfo{de.avm.android.smarthome/de.avm.android.smarthome.activities.StartActivity}" drawable="fritz_smart_home" />
+	<item component="ComponentInfo{de.blitzer.plus/net.graphmasters.blitzerde.activity.splash.SplashActivity}" drawable="blitzerde_pro" />
+    <item component="ComponentInfo{de.hafas.android.vbb/de.hafas.main.HafasApp}" drawable="bus_and_bahn" />
+    <item component="ComponentInfo{app.celebrate.celpho/app.celebrate.celpho.MainActivity}" drawable="celebrate" />
+    <item component="ComponentInfo{de.check24.check24/de.check24.check24.activities.Check24Activity}" drawable="check24" />
+    <item component="ComponentInfo{partl.Diarium/crc64379322c6af5bbbbe.MainActivity}" drawable="diarium" />
+    <item component="ComponentInfo{com.vacationrentals.homeaway/com.expedia.bookings.activity.SearchActivity}" drawable="fewo_direkt" />
+    <item component="ComponentInfo{com.ipc360/com.showmo.activity.OpenSelectActivity}" drawable="ipc360" />
+    <item component="ComponentInfo{com.journiapp.journi/com.journiapp.journi.ui.launch.LaunchActivity}" drawable="journi_blog" />
+    <item component="ComponentInfo{fr.thema.wear.watch.master/fr.thema.wear.watch.master.WatchFaceCompanionConfigActivity}" drawable="master" />
+    <item component="ComponentInfo{com.blackapps.kochbuch2/com.blackapps.kochbuch2.MainActivity}" drawable="mein_kochbuch" />
+    <item component="ComponentInfo{de.avm.android.myfritz2/de.avm.android.one.activities.StartActivity}" drawable="myfritz_" />
+    <item component="ComponentInfo{com.tomtom.gplay.navapp/com.tomtom.mobilenavapp.MobileNavAppActivity}" drawable="tomtom_go" />
+    <item component="ComponentInfo{de.quantumphysique.trale/de.quantumphysique.trale.MainActivity}" drawable="trale" />
+    <item component="ComponentInfo{com.ammar.wallflow/com.ammar.wallflow.activities.main.MainActivity}" drawable="wallflow" />
+    <item component="ComponentInfo{com.weeklyplannerapp.weekplan/com.weeklyplannerapp.weekplan.View.Activities.MainActivity}" drawable="wochenplaner" />
 
 </resources>

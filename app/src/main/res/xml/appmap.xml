@@ -2893,5 +2893,21 @@
 	<item class="com.simplemobiletools.notes.pro.activities.SplashActivity.Red" name="notizen"/>
 	<item class="fr.thema.wear.watch.legion.WatchFaceCompanionConfigActivity" name="legion_watch"/>
     <item class="de.avm.android.smarthome.activities.StartActivity" name="fritz_smart_home"/>
+	<item class="net.graphmasters.blitzerde.activity.splash.SplashActivity" name="blitzerde_pro"/>
+    <item class="de.hafas.main.HafasApp" name="bus_and_bahn"/>
+    <item class="app.celebrate.celpho.MainActivity" name="celebrate"/>
+    <item class="de.check24.check24.activities.Check24Activity" name="check24"/>
+    <item class="crc64379322c6af5bbbbe.MainActivity" name="diarium"/>
+    <item class="com.expedia.bookings.activity.SearchActivity" name="fewo_direkt"/>
+    <item class="com.showmo.activity.OpenSelectActivity" name="ipc360"/>
+    <item class="com.journiapp.journi.ui.launch.LaunchActivity" name="journi_blog"/>
+    <item class="fr.thema.wear.watch.master.WatchFaceCompanionConfigActivity" name="master"/>
+    <item class="com.blackapps.kochbuch2.MainActivity" name="mein_kochbuch"/>
+    <item class="de.avm.android.one.activities.StartActivity" name="myfritz_"/>
+    <item class="com.tomtom.mobilenavapp.MobileNavAppActivity" name="tomtom_go"/>
+    <item class="de.quantumphysique.trale.MainActivity" name="trale"/>
+    <item class="com.ammar.wallflow.activities.main.MainActivity" name="wallflow"/>
+    <item class="com.weeklyplannerapp.weekplan.View.Activities.MainActivity" name="wochenplaner"/>
+    <item class="yazio.feature.MainActivity" name="yazio"/>
 
 </appmap>

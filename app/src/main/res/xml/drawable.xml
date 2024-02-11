@@ -2737,5 +2737,21 @@
     <item drawable="yorck_kinos" />
     <item drawable="legion_watch" />
     <item drawable="fritz_smart_home" />
+    <item drawable="blitzerde_pro" />
+    <item drawable="bus_and_bahn" />
+    <item drawable="celebrate" />
+    <item drawable="check24" />
+    <item drawable="diarium" />
+    <item drawable="fewo_direkt" />
+    <item drawable="ipc360" />
+    <item drawable="journi_blog" />
+    <item drawable="master" />
+    <item drawable="mein_kochbuch" />
+    <item drawable="myfritz_" />
+    <item drawable="tomtom_go" />
+    <item drawable="trale" />
+    <item drawable="wallflow" />
+    <item drawable="wochenplaner" />
+    <item drawable="yazio" />
 
 </resources>
