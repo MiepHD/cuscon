@@ -2998,5 +2998,6 @@
 	<item class="com.android.camera.CameraLauncher" name="fp_camera"/>
     <item class="com.mattermost.rn.MainActivity" name="mattermost"/>
 	<item class="com.topjohnwu.magisk.core.SplashActivity" name="magisk"/>
+	<item class="com.hkapps.sealdownloader.activities.SplashScreen" name="seal"/>
 
 </appmap>

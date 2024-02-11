@@ -3014,5 +3014,6 @@
 	<item component="ComponentInfo{com.fp.camera/com.android.camera.CameraLauncher}" drawable="fp_camera" />
     <item component="ComponentInfo{com.mattermost.rn/com.mattermost.rn.MainActivity}" drawable="mattermost" />
 	<item component="ComponentInfo{com.topjohnwu.magisk/com.topjohnwu.magisk.core.SplashActivity}" drawable="magisk" />
+	<item component="ComponentInfo{com.hkapps.sealdownloader/com.hkapps.sealdownloader.activities.SplashScreen}" drawable="seal" />
 
 </resources>
