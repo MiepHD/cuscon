@@ -2717,5 +2717,7 @@
     <item drawable="urban_dictionary" />
     <item drawable="wolframalpha" />
     <item drawable="_7_eleven" />
+    <item drawable="driveby_miles" />
+    <item drawable="nearme_notes" />
 
 </resources>

@@ -2879,5 +2879,7 @@
     <AppIcon name="dev.reimu.urban_dictionary/dev.reimu.urban_dictionary.MainActivity" image="urban_dictionary"/>
     <AppIcon name="com.wolfram.android.alpha/com.wolfram.android.alphalibrary.activity.WolframAlphaActivity" image="wolframalpha"/>
     <AppIcon name="com.sei.android/com.sei.android.MainActivity" image="_7_eleven"/>
+	<AppIcon name="com.driveby.app/com.zoontek.rnbootsplash.RNBootSplashActivity" image="driveby_miles"/>
+    <AppIcon name="com.oneplus.note/com.nearme.note.main.MainActivity" image="nearme_notes"/>
 
 </Theme>

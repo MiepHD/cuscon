@@ -2888,5 +2888,7 @@
     <item component="ComponentInfo{dev.reimu.urban_dictionary/dev.reimu.urban_dictionary.MainActivity}" drawable="urban_dictionary" />
     <item component="ComponentInfo{com.wolfram.android.alpha/com.wolfram.android.alphalibrary.activity.WolframAlphaActivity}" drawable="wolframalpha" />
     <item component="ComponentInfo{com.sei.android/com.sei.android.MainActivity}" drawable="_7_eleven" />
+	<item component="ComponentInfo{com.driveby.app/com.zoontek.rnbootsplash.RNBootSplashActivity}" drawable="driveby_miles" />
+    <item component="ComponentInfo{com.oneplus.note/com.nearme.note.main.MainActivity}" drawable="nearme_notes" />
 
 </resources>
