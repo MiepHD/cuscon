@@ -2873,5 +2873,6 @@
     <item class="com.sei.android.MainActivity" name="_7_eleven"/>
 	<item class="com.zoontek.rnbootsplash.RNBootSplashActivity" name="driveby_miles"/>
     <item class="com.nearme.note.main.MainActivity" name="nearme_notes"/>
+	<item class="com.oplus.filemanager.main.ui.MainActivity" name="my_files"/>
 
 </appmap>
