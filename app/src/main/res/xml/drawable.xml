@@ -2595,5 +2595,10 @@
     <item drawable="tbl" />
     <item drawable="rvx_music_old" />
     <item drawable="kfc" />
+    <item drawable="atc" />
+    <item drawable="el_huffpost" />
+    <item drawable="leroy_merlin" />
+    <item drawable="prive_by_zalando" />
+    <item drawable="springfield" />
 
 </resources>

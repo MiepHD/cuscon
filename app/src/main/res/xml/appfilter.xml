@@ -2761,5 +2761,10 @@
     <item component="ComponentInfo{com.tianxingjian.supersound/com.tianxingjian.supersound.MainActivity}" drawable="super_sound" />
     <item component="ComponentInfo{com.tbl.movies/com.tbl.movies.SplashActivity}" drawable="tbl" />
 	<item component="ComponentInfo{es.kfc.spain/com.kfces.orderserv.SplashImageActivity}" drawable="kfc" />
+	<item component="ComponentInfo{cat.gencat.mobi.atc.apptributs/crc64e8ac4432d2b0d382.SplashActivity}" drawable="atc" />
+    <item component="ComponentInfo{com.prisa.huffpost/com.elpais.elpais.ui.view.activity.SplashActivity}" drawable="el_huffpost" />
+    <item component="ComponentInfo{com.adeo.android.app/com.lmfr.applm.onboarding.activities.onboarding.OnBoardingActivity}" drawable="leroy_merlin" />
+    <item component="ComponentInfo{de.zalando.prive/de.zalando.lounge.ui.splash.SplashActivity}" drawable="prive_by_zalando" />
+    <item component="ComponentInfo{com.motivait.ctf.springfield/com.motivait.ctf.springfield.MainActivity}" drawable="springfield" />
 
 </resources>

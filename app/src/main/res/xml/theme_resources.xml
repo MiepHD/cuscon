@@ -2752,5 +2752,10 @@
     <AppIcon name="com.tianxingjian.supersound/com.tianxingjian.supersound.MainActivity" image="super_sound"/>
     <AppIcon name="com.tbl.movies/com.tbl.movies.SplashActivity" image="tbl"/>
 	<AppIcon name="es.kfc.spain/com.kfces.orderserv.SplashImageActivity" image="kfc"/>
+	<AppIcon name="cat.gencat.mobi.atc.apptributs/crc64e8ac4432d2b0d382.SplashActivity" image="atc"/>
+    <AppIcon name="com.prisa.huffpost/com.elpais.elpais.ui.view.activity.SplashActivity" image="el_huffpost"/>
+    <AppIcon name="com.adeo.android.app/com.lmfr.applm.onboarding.activities.onboarding.OnBoardingActivity" image="leroy_merlin"/>
+    <AppIcon name="de.zalando.prive/de.zalando.lounge.ui.splash.SplashActivity" image="prive_by_zalando"/>
+    <AppIcon name="com.motivait.ctf.springfield/com.motivait.ctf.springfield.MainActivity" image="springfield"/>
 
 </Theme>

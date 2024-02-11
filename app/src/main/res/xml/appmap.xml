@@ -2744,5 +2744,10 @@
     <item class="com.tianxingjian.supersound.MainActivity" name="super_sound"/>
     <item class="com.tbl.movies.SplashActivity" name="tbl"/>
 	<item class="com.kfces.orderserv.SplashImageActivity" name="kfc"/>
+	<item class="crc64e8ac4432d2b0d382.SplashActivity" name="atc"/>
+    <item class="com.elpais.elpais.ui.view.activity.SplashActivity" name="el_huffpost"/>
+    <item class="com.lmfr.applm.onboarding.activities.onboarding.OnBoardingActivity" name="leroy_merlin"/>
+    <item class="de.zalando.lounge.ui.splash.SplashActivity" name="prive_by_zalando"/>
+    <item class="com.motivait.ctf.springfield.MainActivity" name="springfield"/>
 
 </appmap>
