@@ -2767,5 +2767,41 @@
     <AppIcon name="com.microsoft.whiteboard.publicpreview/com.microsoft.whiteboard.activity.WhiteBoardLauncherActivity" image="whiteboard"/>
 	<AppIcon name="com.snapchat.android/com.snapchat.android.HarvestMoonAlias" image="snapchat_harvest_moon"/>
     <AppIcon name="com.mizmowireless.vvm/com.att.mobile.android.vvm.screen.WelcomeActivity" image="visual_voicemail_mizmowireless"/>
+	<AppIcon name="ci.atlasearth.client/io.branch.unity.BranchUnityActivity" image="atlas_earth"/>
+    <AppIcon name="com.aurora.services/com.aurora.services.view.ui.activities.AuroraActivity" image="aurora_services"/>
+    <AppIcon name="com.axonify.axonify/com.axonify.base.AxonifyActivity" image="axonify"/>
+    <AppIcon name="xyz.blueskyweb.app/xyz.blueskyweb.app.MainActivity" image="bluesky"/>
+    <AppIcon name="com.cpuid.cpu_z/com.cpuid.cpu_z.MainActivity" image="cpu_z"/>
+    <AppIcon name="com.dollargeneral.android/dgapp2.dollargeneral.com.dgapp2_android.SplashActivity" image="dollar_general"/>
+    <AppIcon name="yuh.yuh.finelock/yuh.yuh.finelock.T" image="fine_lock"/>
+    <AppIcon name="com.net.furaffrate.furaffinity/one.furaffnoc.android.activity.start.StartActivity" image="fur_affinity_noc"/>
+    <AppIcon name="com.samsung.android.game.gamehome/com.samsung.android.game.gamehome.app.MainActivity" image="gaming_hub"/>
+    <AppIcon name="com.regular_dev.growtopia_marketplace_pro/com.regular_dev.growtopia_marketplace_pro.MainActivity" image="growtopia_marketplace"/>
+    <AppIcon name="com.grow.grow_guides/com.example.grow_guides.MainActivity" image="grow_guides"/>
+    <AppIcon name="com.gg.guilded/com.guilded.guildedapp.MainActivity" image="guilded"/>
+    <AppIcon name="me.devsaki.hentoid/me.devsaki.hentoid.activities.SplashActivity" image="hentoid"/>
+    <AppIcon name="com.plumewifi.plume/com.plume.residential.ui.main.MainActivity" image="homepass"/>
+    <AppIcon name="jp.ne.ibis.ibispaint.app/jp.ne.ibis.ibispaintx.app.market.MarketAuthenticationActivity" image="ibispaint"/>
+    <AppIcon name="com.kick.mobile/com.kick.mobile.MainActivity" image="kick"/>
+    <AppIcon name="com.nexstreaming.app.kinemasterfree/com.kinemaster.app.screen.splash.SplashActivity" image="kinemaster"/>
+    <AppIcon name="net.labymod.app/net.labymod.app.MainActivity" image="labymod"/>
+    <AppIcon name="co.legion.client/co.legion.client.activities.newloginsplash.InitialScreenActivity" image="legion"/>
+    <AppIcon name="com.yazantarifi.linkloom.mobile/com.yazantarifi.mobile.MainActivity" image="linkloom"/>
+    <AppIcon name="com.mizmowireless.acctmgt/com.streamezzo.android.richmedia.RichMedia" image="mycricket"/>
+    <AppIcon name="com.particlenews.newsbreak/com.particlemedia.ui.guide.UserGuideActivity" image="newsbreak"/>
+    <AppIcon name="com.wakdev.nfctools.plugin.reuse/com.wakdev.nfctools.plugin.reuse.HelpActivity" image="nfc_tools_plugin_reuse_tag"/>
+    <AppIcon name="com.nicusa.pdt/com.nicusa.pdt.AIRAppEntry" image="pa_drivers_practice_exam"/>
+    <AppIcon name="jp.pxv.android/jp.pxv.android.activity.RoutingActivity" image="pixiv"/>
+    <AppIcon name="org.chromium.webapk.adf4690a60aba446c_v2/org.chromium.webapk.shell_apk.h2o.H2OOpaqueMainActivity" image="scrolller"/>
+    <AppIcon name="com.ust.sheetzretapp/com.sheetz.consumermobile.login.SplashActivity" image="sheetz"/>
+    <AppIcon name="com.shippity/com.shippity.MainActivity" image="shippity"/>
+    <AppIcon name="com.africasunrise.skinseed/com.africasunrise.skinseed.SplashActivity" image="skinseed"/>
+    <AppIcon name="com.roku.rokuhome/com.hualai.home.StartActivity" image="smart_home"/>
+    <AppIcon name="com.ttee.leeplayer/com.ttee.leeplayer.ui.splash.SplashActivity" image="splayer"/>
+    <AppIcon name="com.taptap.global/com.play.taptap.ui.SplashAct" image="taptap"/>
+    <AppIcon name="com.weather.samsung/com.weather.Weather.app.SplashScreenActivity" image="the_weather_channel_for_samsung"/>
+    <AppIcon name="com.galew.widgetshare/com.galew.widgetshare.MainActivity" image="widgetshare"/>
+    <AppIcon name="com.workvivo.android/com.workvivo.android.MainActivitydollargeneral" image="workvivo"/>
+    <AppIcon name="com.htetznaing.zfile/com.htetznaing.zfile.ui.MainActivity" image="zfile"/>
 
 </Theme>

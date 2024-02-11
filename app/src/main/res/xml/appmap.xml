@@ -2759,5 +2759,41 @@
     <item class="com.microsoft.whiteboard.activity.WhiteBoardLauncherActivity" name="whiteboard"/>
 	<item class="com.snapchat.android.HarvestMoonAlias" name="snapchat_harvest_moon"/>
     <item class="com.att.mobile.android.vvm.screen.WelcomeActivity" name="visual_voicemail_mizmowireless"/>
+	<item class="io.branch.unity.BranchUnityActivity" name="atlas_earth"/>
+    <item class="com.aurora.services.view.ui.activities.AuroraActivity" name="aurora_services"/>
+    <item class="com.axonify.base.AxonifyActivity" name="axonify"/>
+    <item class="xyz.blueskyweb.app.MainActivity" name="bluesky"/>
+    <item class="com.cpuid.cpu_z.MainActivity" name="cpu_z"/>
+    <item class="dgapp2.dollargeneral.com.dgapp2_android.SplashActivity" name="dollar_general"/>
+    <item class="yuh.yuh.finelock.T" name="fine_lock"/>
+    <item class="one.furaffnoc.android.activity.start.StartActivity" name="fur_affinity_noc"/>
+    <item class="com.samsung.android.game.gamehome.app.MainActivity" name="gaming_hub"/>
+    <item class="com.regular_dev.growtopia_marketplace_pro.MainActivity" name="growtopia_marketplace"/>
+    <item class="com.example.grow_guides.MainActivity" name="grow_guides"/>
+    <item class="com.guilded.guildedapp.MainActivity" name="guilded"/>
+    <item class="me.devsaki.hentoid.activities.SplashActivity" name="hentoid"/>
+    <item class="com.plume.residential.ui.main.MainActivity" name="homepass"/>
+    <item class="jp.ne.ibis.ibispaintx.app.market.MarketAuthenticationActivity" name="ibispaint"/>
+    <item class="com.kick.mobile.MainActivity" name="kick"/>
+    <item class="com.kinemaster.app.screen.splash.SplashActivity" name="kinemaster"/>
+    <item class="net.labymod.app.MainActivity" name="labymod"/>
+    <item class="co.legion.client.activities.newloginsplash.InitialScreenActivity" name="legion"/>
+    <item class="com.yazantarifi.mobile.MainActivity" name="linkloom"/>
+    <item class="com.streamezzo.android.richmedia.RichMedia" name="mycricket"/>
+    <item class="com.particlemedia.ui.guide.UserGuideActivity" name="newsbreak"/>
+    <item class="com.wakdev.nfctools.plugin.reuse.HelpActivity" name="nfc_tools_plugin_reuse_tag"/>
+    <item class="com.nicusa.pdt.AIRAppEntry" name="pa_drivers_practice_exam"/>
+    <item class="jp.pxv.android.activity.RoutingActivity" name="pixiv"/>
+    <item class="org.chromium.webapk.shell_apk.h2o.H2OOpaqueMainActivity" name="scrolller"/>
+    <item class="com.sheetz.consumermobile.login.SplashActivity" name="sheetz"/>
+    <item class="com.shippity.MainActivity" name="shippity"/>
+    <item class="com.africasunrise.skinseed.SplashActivity" name="skinseed"/>
+    <item class="com.hualai.home.StartActivity" name="smart_home"/>
+    <item class="com.ttee.leeplayer.ui.splash.SplashActivity" name="splayer"/>
+    <item class="com.play.taptap.ui.SplashAct" name="taptap"/>
+    <item class="com.weather.Weather.app.SplashScreenActivity" name="the_weather_channel_for_samsung"/>
+    <item class="com.galew.widgetshare.MainActivity" name="widgetshare"/>
+    <item class="com.workvivo.android.MainActivitydollargeneral" name="workvivo"/>
+    <item class="com.htetznaing.zfile.ui.MainActivity" name="zfile"/>
 
 </appmap>

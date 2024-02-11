@@ -2776,5 +2776,41 @@
     <item component="ComponentInfo{com.microsoft.whiteboard.publicpreview/com.microsoft.whiteboard.activity.WhiteBoardLauncherActivity}" drawable="whiteboard" />
 	<item component="ComponentInfo{com.snapchat.android/com.snapchat.android.HarvestMoonAlias}" drawable="snapchat_harvest_moon" />
     <item component="ComponentInfo{com.mizmowireless.vvm/com.att.mobile.android.vvm.screen.WelcomeActivity}" drawable="visual_voicemail_mizmowireless" />
+	<item component="ComponentInfo{ci.atlasearth.client/io.branch.unity.BranchUnityActivity}" drawable="atlas_earth" />
+    <item component="ComponentInfo{com.aurora.services/com.aurora.services.view.ui.activities.AuroraActivity}" drawable="aurora_services" />
+    <item component="ComponentInfo{com.axonify.axonify/com.axonify.base.AxonifyActivity}" drawable="axonify" />
+    <item component="ComponentInfo{xyz.blueskyweb.app/xyz.blueskyweb.app.MainActivity}" drawable="bluesky" />
+    <item component="ComponentInfo{com.cpuid.cpu_z/com.cpuid.cpu_z.MainActivity}" drawable="cpu_z" />
+    <item component="ComponentInfo{com.dollargeneral.android/dgapp2.dollargeneral.com.dgapp2_android.SplashActivity}" drawable="dollar_general" />
+    <item component="ComponentInfo{yuh.yuh.finelock/yuh.yuh.finelock.T}" drawable="fine_lock" />
+    <item component="ComponentInfo{com.net.furaffrate.furaffinity/one.furaffnoc.android.activity.start.StartActivity}" drawable="fur_affinity_noc" />
+    <item component="ComponentInfo{com.samsung.android.game.gamehome/com.samsung.android.game.gamehome.app.MainActivity}" drawable="gaming_hub" />
+    <item component="ComponentInfo{com.regular_dev.growtopia_marketplace_pro/com.regular_dev.growtopia_marketplace_pro.MainActivity}" drawable="growtopia_marketplace" />
+    <item component="ComponentInfo{com.grow.grow_guides/com.example.grow_guides.MainActivity}" drawable="grow_guides" />
+    <item component="ComponentInfo{com.gg.guilded/com.guilded.guildedapp.MainActivity}" drawable="guilded" />
+    <item component="ComponentInfo{me.devsaki.hentoid/me.devsaki.hentoid.activities.SplashActivity}" drawable="hentoid" />
+    <item component="ComponentInfo{com.plumewifi.plume/com.plume.residential.ui.main.MainActivity}" drawable="homepass" />
+    <item component="ComponentInfo{jp.ne.ibis.ibispaint.app/jp.ne.ibis.ibispaintx.app.market.MarketAuthenticationActivity}" drawable="ibispaint" />
+    <item component="ComponentInfo{com.kick.mobile/com.kick.mobile.MainActivity}" drawable="kick" />
+    <item component="ComponentInfo{com.nexstreaming.app.kinemasterfree/com.kinemaster.app.screen.splash.SplashActivity}" drawable="kinemaster" />
+    <item component="ComponentInfo{net.labymod.app/net.labymod.app.MainActivity}" drawable="labymod" />
+    <item component="ComponentInfo{co.legion.client/co.legion.client.activities.newloginsplash.InitialScreenActivity}" drawable="legion" />
+    <item component="ComponentInfo{com.yazantarifi.linkloom.mobile/com.yazantarifi.mobile.MainActivity}" drawable="linkloom" />
+    <item component="ComponentInfo{com.mizmowireless.acctmgt/com.streamezzo.android.richmedia.RichMedia}" drawable="mycricket" />
+    <item component="ComponentInfo{com.particlenews.newsbreak/com.particlemedia.ui.guide.UserGuideActivity}" drawable="newsbreak" />
+    <item component="ComponentInfo{com.wakdev.nfctools.plugin.reuse/com.wakdev.nfctools.plugin.reuse.HelpActivity}" drawable="nfc_tools_plugin_reuse_tag" />
+    <item component="ComponentInfo{com.nicusa.pdt/com.nicusa.pdt.AIRAppEntry}" drawable="pa_drivers_practice_exam" />
+    <item component="ComponentInfo{jp.pxv.android/jp.pxv.android.activity.RoutingActivity}" drawable="pixiv" />
+    <item component="ComponentInfo{org.chromium.webapk.adf4690a60aba446c_v2/org.chromium.webapk.shell_apk.h2o.H2OOpaqueMainActivity}" drawable="scrolller" />
+    <item component="ComponentInfo{com.ust.sheetzretapp/com.sheetz.consumermobile.login.SplashActivity}" drawable="sheetz" />
+    <item component="ComponentInfo{com.shippity/com.shippity.MainActivity}" drawable="shippity" />
+    <item component="ComponentInfo{com.africasunrise.skinseed/com.africasunrise.skinseed.SplashActivity}" drawable="skinseed" />
+    <item component="ComponentInfo{com.roku.rokuhome/com.hualai.home.StartActivity}" drawable="smart_home" />
+    <item component="ComponentInfo{com.ttee.leeplayer/com.ttee.leeplayer.ui.splash.SplashActivity}" drawable="splayer" />
+    <item component="ComponentInfo{com.taptap.global/com.play.taptap.ui.SplashAct}" drawable="taptap" />
+    <item component="ComponentInfo{com.weather.samsung/com.weather.Weather.app.SplashScreenActivity}" drawable="the_weather_channel_for_samsung" />
+    <item component="ComponentInfo{com.galew.widgetshare/com.galew.widgetshare.MainActivity}" drawable="widgetshare" />
+    <item component="ComponentInfo{com.workvivo.android/com.workvivo.android.MainActivitydollargeneral}" drawable="workvivo" />
+    <item component="ComponentInfo{com.htetznaing.zfile/com.htetznaing.zfile.ui.MainActivity}" drawable="zfile" />
 
 </resources>
