@@ -2925,5 +2925,6 @@
     <AppIcon name="com.coloros.gallery3d/com.coloros.gallery3d.app.MainActivity" image="coloros_gallery3d_photos"/>
     <AppIcon name="com.coloros.soundrecorder/oppo.multimedia.soundrecorder.filebrowser.BrowseFile" image="coloros_soundrecorder"/>
 	<AppIcon name="com.coloros.weather2/com.coloros.weather.main.view.WeatherMainActivity" image="coloros_weather"/>
+	<AppIcon name="net.omobio.airtelsc/net.omobio.airtelsc.ui.splash.SplashActivity" image="airtel"/>
 
 </Theme>
