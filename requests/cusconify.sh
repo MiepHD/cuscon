@@ -41,7 +41,7 @@ cusconify() {
     if [ "$6" = "floodfill" ]; then
         magick $temp_dir/$new_file -fill none -fuzz ${4:-25}% -draw "color ${2:-256},${3:-0} floodfill" +repage "$temp_dir/no_bg_$new_file"
     else
-        magick $temp_dir/$new_file -fill none -fuzz ${4:-25}% -draw "color ${2:-0},${3:-0} replace" +repage "$temp_dir/no_bg_$new_file"
+        magick $temp_dir/$new_file -fill none -fuzz ${4:-25}% -draw "color ${2:-256},${3:-0} replace" +repage "$temp_dir/no_bg_$new_file"
     fi
 
     echo "Trim transparent border"

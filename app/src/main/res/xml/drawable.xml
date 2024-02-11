@@ -2649,5 +2649,9 @@
     <item drawable="amazon" />
     <item drawable="indianoil_one" />
     <item drawable="eurovision" />
+    <item drawable="folax" />
+    <item drawable="my_health" />
+    <item drawable="notification_widget" />
+    <item drawable="yt_kids" />
 
 </resources>

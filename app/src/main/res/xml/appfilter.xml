@@ -2818,5 +2818,9 @@
 	<item component="ComponentInfo{com.android.deskclock/com.android.deskclock.DeskClockTabActivity}" drawable="deskclock" />
     <item component="ComponentInfo{de.digame.esc/com.choicely.studio.splash.SplashActivity}" drawable="eurovision" />
 	<item component="ComponentInfo{com.transsion.filemanagerx/com.transsion.filemanagerx.ui.launch.SplashActivity}" drawable="admin_de_archivos" />
+	<item component="ComponentInfo{com.transsion.aivoiceassistant/com.transsion.aivoiceassistant.ai.aiability.help.activity.HelpActivity}" drawable="folax" />
+    <item component="ComponentInfo{com.transsion.healthlife/com.transsion.healthlife.view.WelcomeActivity}" drawable="my_health" />
+    <item component="ComponentInfo{com.kuma.notificationwidget/com.kuma.notificationwidget.MainActivity}" drawable="notification_widget" />
+    <item component="ComponentInfo{com.google.android.apps.youtube.kids/com.google.android.apps.youtube.kids.splash.SplashScreenActivity}" drawable="yt_kids" />
 
 </resources>

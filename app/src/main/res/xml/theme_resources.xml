@@ -2809,5 +2809,9 @@
 	<AppIcon name="com.android.deskclock/com.android.deskclock.DeskClockTabActivity" image="deskclock"/>
     <AppIcon name="de.digame.esc/com.choicely.studio.splash.SplashActivity" image="eurovision"/>
 	<AppIcon name="com.transsion.filemanagerx/com.transsion.filemanagerx.ui.launch.SplashActivity" image="admin_de_archivos"/>
+	<AppIcon name="com.transsion.aivoiceassistant/com.transsion.aivoiceassistant.ai.aiability.help.activity.HelpActivity" image="folax"/>
+    <AppIcon name="com.transsion.healthlife/com.transsion.healthlife.view.WelcomeActivity" image="my_health"/>
+    <AppIcon name="com.kuma.notificationwidget/com.kuma.notificationwidget.MainActivity" image="notification_widget"/>
+    <AppIcon name="com.google.android.apps.youtube.kids/com.google.android.apps.youtube.kids.splash.SplashScreenActivity" image="yt_kids"/>
 
 </Theme>

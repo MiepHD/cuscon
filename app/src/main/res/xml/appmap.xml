@@ -2801,5 +2801,9 @@
 	<item class="com.android.deskclock.DeskClockTabActivity" name="deskclock"/>
     <item class="com.choicely.studio.splash.SplashActivity" name="eurovision"/>
 	<item class="com.transsion.filemanagerx.ui.launch.SplashActivity" name="admin_de_archivos"/>
+	<item class="com.transsion.aivoiceassistant.ai.aiability.help.activity.HelpActivity" name="folax"/>
+    <item class="com.transsion.healthlife.view.WelcomeActivity" name="my_health"/>
+    <item class="com.kuma.notificationwidget.MainActivity" name="notification_widget"/>
+    <item class="com.google.android.apps.youtube.kids.splash.SplashScreenActivity" name="yt_kids"/>
 
 </appmap>
