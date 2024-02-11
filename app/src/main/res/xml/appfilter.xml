@@ -2846,7 +2846,7 @@
     <item component="ComponentInfo{com.spcampos.pyramidfull/com.spcampos.pyramidfull.FullPyramidGameActivity}" drawable="ancient_treasures_full" />
     <item component="ComponentInfo{com.saraandshmuel.anddaaven/com.saraandshmuel.anddaaven.AndDaavenSplash}" drawable="anddaaven" />
     <item component="ComponentInfo{com.quaap.audiometer/com.quaap.audiometer.MainActivity}" drawable="audiometer" />
-    <item component="ComponentInfo{com.tabsina.bahaiprayers/com.tabsina.bahaiprayers.BahaiPrayers}" drawable="baha’i_prayers" />
+    <item component="ComponentInfo{com.tabsina.bahaiprayers/com.tabsina.bahaiprayers.BahaiPrayers}" drawable="bahai_prayers" />
     <item component="ComponentInfo{com.nkanaev.comics/com.nkanaev.comics.activity.MainActivity}" drawable="bubble" />
     <item component="ComponentInfo{com.oneplus.backuprestore/com.oplus.phoneclone.PhoneCloneMainActivity}" drawable="clone_phone" />
     <item component="ComponentInfo{com.coinbase.android/com.coinbase.android.LaunchActivity}" drawable="coinbase" />

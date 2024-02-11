@@ -2829,7 +2829,7 @@
     <item class="com.spcampos.pyramidfull.FullPyramidGameActivity" name="ancient_treasures_full"/>
     <item class="com.saraandshmuel.anddaaven.AndDaavenSplash" name="anddaaven"/>
     <item class="com.quaap.audiometer.MainActivity" name="audiometer"/>
-    <item class="com.tabsina.bahaiprayers.BahaiPrayers" name="baha’i_prayers"/>
+    <item class="com.tabsina.bahaiprayers.BahaiPrayers" name="bahai_prayers"/>
     <item class="com.nkanaev.comics.activity.MainActivity" name="bubble"/>
     <item class="com.oplus.phoneclone.PhoneCloneMainActivity" name="clone_phone"/>
     <item class="com.coinbase.android.LaunchActivity" name="coinbase"/>

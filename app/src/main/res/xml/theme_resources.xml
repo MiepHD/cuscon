@@ -2837,7 +2837,7 @@
     <AppIcon name="com.spcampos.pyramidfull/com.spcampos.pyramidfull.FullPyramidGameActivity" image="ancient_treasures_full"/>
     <AppIcon name="com.saraandshmuel.anddaaven/com.saraandshmuel.anddaaven.AndDaavenSplash" image="anddaaven"/>
     <AppIcon name="com.quaap.audiometer/com.quaap.audiometer.MainActivity" image="audiometer"/>
-    <AppIcon name="com.tabsina.bahaiprayers/com.tabsina.bahaiprayers.BahaiPrayers" image="baha’i_prayers"/>
+    <AppIcon name="com.tabsina.bahaiprayers/com.tabsina.bahaiprayers.BahaiPrayers" image="bahai_prayers"/>
     <AppIcon name="com.nkanaev.comics/com.nkanaev.comics.activity.MainActivity" image="bubble"/>
     <AppIcon name="com.oneplus.backuprestore/com.oplus.phoneclone.PhoneCloneMainActivity" image="clone_phone"/>
     <AppIcon name="com.coinbase.android/com.coinbase.android.LaunchActivity" image="coinbase"/>
