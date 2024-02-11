@@ -2796,5 +2796,7 @@
     <item class="com.workvivo.android.MainActivitydollargeneral" name="workvivo"/>
     <item class="com.htetznaing.zfile.ui.MainActivity" name="zfile"/>
 	<item class="tv.twitch.android.app.core.LandingActivity" name="twitch"/>
+	<item class="com.amazon.mShop.home.HomeActivity" name="amazon"/>
+    <item class="cx.indianoil.in.lpg.view.login.WelcomeActivity" name="indianoil_one"/>
 
 </appmap>

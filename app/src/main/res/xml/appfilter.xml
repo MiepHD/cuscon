@@ -2813,5 +2813,7 @@
     <item component="ComponentInfo{com.workvivo.android/com.workvivo.android.MainActivitydollargeneral}" drawable="workvivo" />
     <item component="ComponentInfo{com.htetznaing.zfile/com.htetznaing.zfile.ui.MainActivity}" drawable="zfile" />
 	<item component="ComponentInfo{tv.twitch.android.app/tv.twitch.android.app.core.LandingActivity}" drawable="twitch" />
+	<item component="ComponentInfo{in.amazon.mShop.android.shopping/com.amazon.mShop.home.HomeActivity}" drawable="amazon" />
+    <item component="ComponentInfo{cx.indianoil.in/cx.indianoil.in.lpg.view.login.WelcomeActivity}" drawable="indianoil_one" />
 
 </resources>

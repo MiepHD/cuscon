@@ -2646,5 +2646,7 @@
     <item drawable="workvivo" />
     <item drawable="zfile" />
     <item drawable="twitch" />
+    <item drawable="amazon" />
+    <item drawable="indianoil_one" />
 
 </resources>

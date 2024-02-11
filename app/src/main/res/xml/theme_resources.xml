@@ -2804,5 +2804,7 @@
     <AppIcon name="com.workvivo.android/com.workvivo.android.MainActivitydollargeneral" image="workvivo"/>
     <AppIcon name="com.htetznaing.zfile/com.htetznaing.zfile.ui.MainActivity" image="zfile"/>
 	<AppIcon name="tv.twitch.android.app/tv.twitch.android.app.core.LandingActivity" image="twitch"/>
+	<AppIcon name="in.amazon.mShop.android.shopping/com.amazon.mShop.home.HomeActivity" image="amazon"/>
+    <AppIcon name="cx.indianoil.in/cx.indianoil.in.lpg.view.login.WelcomeActivity" image="indianoil_one"/>
 
 </Theme>
