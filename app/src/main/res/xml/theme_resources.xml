@@ -2830,5 +2830,8 @@
     <AppIcon name="com.olacabs.customer/com.olacabs.customer.ui.SplashActivity" image="ola"/>
     <AppIcon name="com.pashapuma.pix.material.you.dark/com.pashapuma.pix.material.you.dark.activities.SplashActivity" image="pix_material_you_light_dark"/>
 	<AppIcon name="com.github.k1rakishou.chan.fdroid/com.github.k1rakishou.chan.activity.StartActivity" image="kurobaex"/>
+	<AppIcon name="com.oneplus.deskclock/com.oneplus.deskclock.DeskClock" image="oneplus_deskclock"/>
+    <AppIcon name="com.oneplus.note/com.oneplus.note.ui.MainActivity" image="oneplus_notes"/>
+    <AppIcon name="net.oneplus.weather/net.oneplus.weather.app.MainActivity" image="oneplus_weather"/>
 
 </Theme>

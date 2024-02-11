@@ -2822,5 +2822,8 @@
     <item class="com.olacabs.customer.ui.SplashActivity" name="ola"/>
     <item class="com.pashapuma.pix.material.you.dark.activities.SplashActivity" name="pix_material_you_light_dark"/>
 	<item class="com.github.k1rakishou.chan.activity.StartActivity" name="kurobaex"/>
+	<item class="com.oneplus.deskclock.DeskClock" name="oneplus_deskclock"/>
+    <item class="com.oneplus.note.ui.MainActivity" name="oneplus_notes"/>
+    <item class="net.oneplus.weather.app.MainActivity" name="oneplus_weather"/>
 
 </appmap>

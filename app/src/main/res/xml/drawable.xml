@@ -2668,5 +2668,8 @@
     <item drawable="nexus_revamped" />
     <item drawable="ola" />
     <item drawable="pix_material_you_light_dark" />
+    <item drawable="oneplus_deskclock" />
+    <item drawable="oneplus_notes" />
+    <item drawable="oneplus_weather" />
 
 </resources>
