@@ -2925,5 +2925,6 @@
     <item component="ComponentInfo{de.quantumphysique.trale/de.quantumphysique.trale.MainActivity}" drawable="trale" />
     <item component="ComponentInfo{com.ammar.wallflow/com.ammar.wallflow.activities.main.MainActivity}" drawable="wallflow" />
     <item component="ComponentInfo{com.weeklyplannerapp.weekplan/com.weeklyplannerapp.weekplan.View.Activities.MainActivity}" drawable="wochenplaner" />
+	<item component="ComponentInfo{np.com.worldlink.worldlinkapp/np.com.worldlink.worldlinkapp.MainActivity}" drawable="myworldlink" />
 
 </resources>

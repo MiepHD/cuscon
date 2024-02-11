@@ -2917,5 +2917,6 @@
     <AppIcon name="com.ammar.wallflow/com.ammar.wallflow.activities.main.MainActivity" image="wallflow"/>
     <AppIcon name="com.weeklyplannerapp.weekplan/com.weeklyplannerapp.weekplan.View.Activities.MainActivity" image="wochenplaner"/>
     <AppIcon name="com.yazio.android/yazio.feature.MainActivity" image="yazio"/>
+	<AppIcon name="np.com.worldlink.worldlinkapp/np.com.worldlink.worldlinkapp.MainActivity" image="myworldlink"/>
 
 </Theme>

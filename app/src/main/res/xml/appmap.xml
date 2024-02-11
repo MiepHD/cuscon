@@ -2909,5 +2909,6 @@
     <item class="com.ammar.wallflow.activities.main.MainActivity" name="wallflow"/>
     <item class="com.weeklyplannerapp.weekplan.View.Activities.MainActivity" name="wochenplaner"/>
     <item class="yazio.feature.MainActivity" name="yazio"/>
+	<item class="np.com.worldlink.worldlinkapp.MainActivity" name="myworldlink"/>
 
 </appmap>
