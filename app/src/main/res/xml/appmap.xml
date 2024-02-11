@@ -2950,5 +2950,13 @@
     <item class="ru.tradernet.MainActivity" name="freedom24"/>
     <item class="com.nesnezeno.nesnezeno.MainActivity" name="nesnezeno"/>
     <item class="one.adastra.sodexo.login.activity.LoginActivity" name="pluxee_account"/>
+	<item class="com.ss.squarehome2.MyPreferencesActivity" name="home_options"/>
+    <item class="com.mihoyo.hoyolab.splash.splash.HoYoSplashActivity" name="hoyolab"/>
+    <item class="com.microsoft.designer.app.home.view.launch.DesignerLoginActivity" name="microsoft_designer"/>
+    <item class="com.Version1.Version1" name="pnb_one"/>
+    <item class="com.microsoft.android.smsorganizer.StartupActivity" name="sms_organizer"/>
+    <item class="com.ss.squarehome2.MainActivity" name="square_home"/>
+    <item class="com.androidapps.unitconverter.start.StartActivity" name="unit_converter"/>
+    <item class="com.windscribe.mobile.splash.SplashActivity" name="windscribe"/>
 
 </appmap>

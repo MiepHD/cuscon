@@ -2958,5 +2958,13 @@
     <AppIcon name="com.tradernet.freedom24app/ru.tradernet.MainActivity" image="freedom24"/>
     <AppIcon name="com.lunadio.nesnezeno/com.nesnezeno.nesnezeno.MainActivity" image="nesnezeno"/>
     <AppIcon name="sodexo.mobile/one.adastra.sodexo.login.activity.LoginActivity" image="pluxee_account"/>
+	<AppIcon name="com.ss.squarehome2/com.ss.squarehome2.MyPreferencesActivity" image="home_options"/>
+    <AppIcon name="com.mihoyo.hoyolab/com.mihoyo.hoyolab.splash.splash.HoYoSplashActivity" image="hoyolab"/>
+    <AppIcon name="com.microsoft.designer/com.microsoft.designer.app.home.view.launch.DesignerLoginActivity" image="microsoft_designer"/>
+    <AppIcon name="com.Version1/com.Version1.Version1" image="pnb_one"/>
+    <AppIcon name="com.microsoft.android.smsorganizer/com.microsoft.android.smsorganizer.StartupActivity" image="sms_organizer"/>
+    <AppIcon name="com.ss.squarehome2/com.ss.squarehome2.MainActivity" image="square_home"/>
+    <AppIcon name="com.androidapps.unitconverter/com.androidapps.unitconverter.start.StartActivity" image="unit_converter"/>
+    <AppIcon name="com.windscribe.vpn/com.windscribe.mobile.splash.SplashActivity" image="windscribe"/>
 
 </Theme>

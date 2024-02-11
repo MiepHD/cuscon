@@ -2966,5 +2966,13 @@
     <item component="ComponentInfo{com.tradernet.freedom24app/ru.tradernet.MainActivity}" drawable="freedom24" />
     <item component="ComponentInfo{com.lunadio.nesnezeno/com.nesnezeno.nesnezeno.MainActivity}" drawable="nesnezeno" />
     <item component="ComponentInfo{sodexo.mobile/one.adastra.sodexo.login.activity.LoginActivity}" drawable="pluxee_account" />
+	<item component="ComponentInfo{com.ss.squarehome2/com.ss.squarehome2.MyPreferencesActivity}" drawable="home_options" />
+    <item component="ComponentInfo{com.mihoyo.hoyolab/com.mihoyo.hoyolab.splash.splash.HoYoSplashActivity}" drawable="hoyolab" />
+    <item component="ComponentInfo{com.microsoft.designer/com.microsoft.designer.app.home.view.launch.DesignerLoginActivity}" drawable="microsoft_designer" />
+    <item component="ComponentInfo{com.Version1/com.Version1.Version1}" drawable="pnb_one" />
+    <item component="ComponentInfo{com.microsoft.android.smsorganizer/com.microsoft.android.smsorganizer.StartupActivity}" drawable="sms_organizer" />
+    <item component="ComponentInfo{com.ss.squarehome2/com.ss.squarehome2.MainActivity}" drawable="square_home" />
+    <item component="ComponentInfo{com.androidapps.unitconverter/com.androidapps.unitconverter.start.StartActivity}" drawable="unit_converter" />
+    <item component="ComponentInfo{com.windscribe.vpn/com.windscribe.mobile.splash.SplashActivity}" drawable="windscribe" />
 
 </resources>

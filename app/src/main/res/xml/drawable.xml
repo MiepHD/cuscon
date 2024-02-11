@@ -2789,5 +2789,13 @@
     <item drawable="freedom24" />
     <item drawable="nesnezeno" />
     <item drawable="pluxee_account" />
+    <item drawable="home_options" />
+    <item drawable="hoyolab" />
+    <item drawable="microsoft_designer" />
+    <item drawable="pnb_one" />
+    <item drawable="sms_organizer" />
+    <item drawable="square_home" />
+    <item drawable="unit_converter" />
+    <item drawable="windscribe" />
 
 </resources>
