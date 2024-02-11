@@ -2908,5 +2908,7 @@
     <item component="ComponentInfo{xyz.jienan.xkcd/xyz.jienan.xkcd.home.MainActivity}" drawable="xkcd" />
     <item component="ComponentInfo{nz.co.vista.android.movie.yorckkinos/nz.co.vista.android.movie.abc.feature.splash.SplashActivity}" drawable="yorck_kinos" />
 	<item component="ComponentInfo{com.simplemobiletools.notes.pro/com.simplemobiletools.notes.pro.activities.SplashActivity.Red}" drawable="notizen" />
+	<item component="ComponentInfo{fr.thema.wear.watch.legion/fr.thema.wear.watch.legion.WatchFaceCompanionConfigActivity}" drawable="legion_watch" />
+    <item component="ComponentInfo{de.avm.android.smarthome/de.avm.android.smarthome.activities.StartActivity}" drawable="fritz_smart_home" />
 
 </resources>

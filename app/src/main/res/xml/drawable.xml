@@ -2735,5 +2735,7 @@
     <item drawable="scummvm" />
     <item drawable="xkcd" />
     <item drawable="yorck_kinos" />
+    <item drawable="legion_watch" />
+    <item drawable="fritz_smart_home" />
 
 </resources>
