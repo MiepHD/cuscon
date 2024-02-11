@@ -2959,5 +2959,18 @@
     <item class="com.androidapps.unitconverter.start.StartActivity" name="unit_converter"/>
     <item class="com.windscribe.mobile.splash.SplashActivity" name="windscribe"/>
 	<item class="com.mxtech.videoplayer.ad.ActivityWelcomeMX" name="mx_player"/>
+	<item class="ru.gdeposylka.delta.ui.tracklist.TracklistActivity" name="gdeposylka"/>
+    <item class="com.lge.vvm.ProvisioningStateMachine" name="voicemail_red"/>
+    <item class="com.android.gallery3d.app.Gallery" name="android_gallery3d_magenta"/>
+    <item class="com.lge.hifirecorder.LaunchHifiRecorder" name="hifirecorder"/>
+    <item class="com.lge.gamelauncher.ui.home.GameLauncherActivity" name="lge_gamelauncher"/>
+    <item class="com.lge.camera.CameraAppLauncher" name="lge_camera"/>
+    <item class="com.zihua.android.mytracks.PermissionActivity" name="zihua_mytracks"/>
+    <item class="com.lge.music.MusicBrowserActivity" name="lge_music"/>
+    <item class="com.vokrab.pdd.MainActivity" name="pdd"/>
+    <item class="com.vokrab.ppdukraineexam.MainActivity" name="ppdukraineexam"/>
+    <item class="ru.innim.my_finance.MainActivity" name="innim_my_finance"/>
+    <item class="com.lge.clock.AlarmClockActivity" name="lge_clock"/>
+    <item class="com.nektome.talk.main.SplashActivity" name="talk_nektome"/>
 
 </appmap>

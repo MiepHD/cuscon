@@ -2967,5 +2967,18 @@
     <AppIcon name="com.androidapps.unitconverter/com.androidapps.unitconverter.start.StartActivity" image="unit_converter"/>
     <AppIcon name="com.windscribe.vpn/com.windscribe.mobile.splash.SplashActivity" image="windscribe"/>
 	<AppIcon name="com.mxtech.videoplayer.ad/com.mxtech.videoplayer.ad.ActivityWelcomeMX" image="mx_player"/>
+	<AppIcon name="ru.gdeposylka.delta/ru.gdeposylka.delta.ui.tracklist.TracklistActivity" image="gdeposylka"/>
+    <AppIcon name="com.lge.vvm/com.lge.vvm.ProvisioningStateMachine" image="voicemail_red"/>
+    <AppIcon name="com.android.gallery3d/com.android.gallery3d.app.Gallery" image="android_gallery3d_magenta"/>
+    <AppIcon name="com.lge.hifirecorder/com.lge.hifirecorder.LaunchHifiRecorder" image="hifirecorder"/>
+    <AppIcon name="com.lge.gamelauncher/com.lge.gamelauncher.ui.home.GameLauncherActivity" image="lge_gamelauncher"/>
+    <AppIcon name="com.lge.camera/com.lge.camera.CameraAppLauncher" image="lge_camera"/>
+    <AppIcon name="com.zihua.android.mytracks/com.zihua.android.mytracks.PermissionActivity" image="zihua_mytracks"/>
+    <AppIcon name="com.lge.music/com.lge.music.MusicBrowserActivity" image="lge_music"/>
+    <AppIcon name="com.monolit.pddua/com.vokrab.pdd.MainActivity" image="pdd"/>
+    <AppIcon name="com.monolit.pddexamua/com.vokrab.ppdukraineexam.MainActivity" image="ppdukraineexam"/>
+    <AppIcon name="ru.innim.my_finance/ru.innim.my_finance.MainActivity" image="innim_my_finance"/>
+    <AppIcon name="com.lge.clock/com.lge.clock.AlarmClockActivity" image="lge_clock"/>
+    <AppIcon name="com.nektome.talk/com.nektome.talk.main.SplashActivity" image="talk_nektome"/>
 
 </Theme>

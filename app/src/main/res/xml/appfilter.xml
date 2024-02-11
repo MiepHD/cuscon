@@ -2975,5 +2975,18 @@
     <item component="ComponentInfo{com.androidapps.unitconverter/com.androidapps.unitconverter.start.StartActivity}" drawable="unit_converter" />
     <item component="ComponentInfo{com.windscribe.vpn/com.windscribe.mobile.splash.SplashActivity}" drawable="windscribe" />
 	<item component="ComponentInfo{com.mxtech.videoplayer.ad/com.mxtech.videoplayer.ad.ActivityWelcomeMX}" drawable="mx_player" />
+	<item component="ComponentInfo{ru.gdeposylka.delta/ru.gdeposylka.delta.ui.tracklist.TracklistActivity}" drawable="gdeposylka" />
+    <item component="ComponentInfo{com.lge.vvm/com.lge.vvm.ProvisioningStateMachine}" drawable="voicemail_red" />
+    <item component="ComponentInfo{com.android.gallery3d/com.android.gallery3d.app.Gallery}" drawable="android_gallery3d_magenta" />
+    <item component="ComponentInfo{com.lge.hifirecorder/com.lge.hifirecorder.LaunchHifiRecorder}" drawable="hifirecorder" />
+    <item component="ComponentInfo{com.lge.gamelauncher/com.lge.gamelauncher.ui.home.GameLauncherActivity}" drawable="lge_gamelauncher" />
+    <item component="ComponentInfo{com.lge.camera/com.lge.camera.CameraAppLauncher}" drawable="lge_camera" />
+    <item component="ComponentInfo{com.zihua.android.mytracks/com.zihua.android.mytracks.PermissionActivity}" drawable="zihua_mytracks" />
+    <item component="ComponentInfo{com.lge.music/com.lge.music.MusicBrowserActivity}" drawable="lge_music" />
+    <item component="ComponentInfo{com.monolit.pddua/com.vokrab.pdd.MainActivity}" drawable="pdd" />
+    <item component="ComponentInfo{com.monolit.pddexamua/com.vokrab.ppdukraineexam.MainActivity}" drawable="ppdukraineexam" />
+    <item component="ComponentInfo{ru.innim.my_finance/ru.innim.my_finance.MainActivity}" drawable="innim_my_finance" />
+    <item component="ComponentInfo{com.lge.clock/com.lge.clock.AlarmClockActivity}" drawable="lge_clock" />
+    <item component="ComponentInfo{com.nektome.talk/com.nektome.talk.main.SplashActivity}" drawable="talk_nektome" />
 
 </resources>

@@ -2797,5 +2797,18 @@
     <item drawable="square_home" />
     <item drawable="unit_converter" />
     <item drawable="windscribe" />
+    <item drawable="gdeposylka" />
+    <item drawable="voicemail_red" />
+    <item drawable="android_gallery3d_magenta" />
+    <item drawable="hifirecorder" />
+    <item drawable="lge_gamelauncher" />
+    <item drawable="lge_camera" />
+    <item drawable="zihua_mytracks" />
+    <item drawable="lge_music" />
+    <item drawable="pdd" />
+    <item drawable="ppdukraineexam" />
+    <item drawable="innim_my_finance" />
+    <item drawable="lge_clock" />
+    <item drawable="talk_nektome" />
 
 </resources>
