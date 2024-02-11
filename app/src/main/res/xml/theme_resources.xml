@@ -3007,5 +3007,6 @@
     <AppIcon name="com.mattermost.rn/com.mattermost.rn.MainActivity" image="mattermost"/>
 	<AppIcon name="com.topjohnwu.magisk/com.topjohnwu.magisk.core.SplashActivity" image="magisk"/>
 	<AppIcon name="com.hkapps.sealdownloader/com.hkapps.sealdownloader.activities.SplashScreen" image="seal"/>
+	<AppIcon name="deltazero.amarok/deltazero.amarok.launcher.calendar" image="deltazero_amarok_calendar"/>
 
 </Theme>
