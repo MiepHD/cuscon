@@ -2833,5 +2833,51 @@
 	<AppIcon name="com.oneplus.deskclock/com.oneplus.deskclock.DeskClock" image="oneplus_deskclock"/>
     <AppIcon name="com.oneplus.note/com.oneplus.note.ui.MainActivity" image="oneplus_notes"/>
     <AppIcon name="net.oneplus.weather/net.oneplus.weather.app.MainActivity" image="oneplus_weather"/>
+	<AppIcon name="com.blitterhead.ampwifi/com.blitterhead.ampwifi.ActivityFirstLaunch" image="ampwifi"/>
+    <AppIcon name="com.spcampos.pyramidfull/com.spcampos.pyramidfull.FullPyramidGameActivity" image="ancient_treasures_full"/>
+    <AppIcon name="com.saraandshmuel.anddaaven/com.saraandshmuel.anddaaven.AndDaavenSplash" image="anddaaven"/>
+    <AppIcon name="com.quaap.audiometer/com.quaap.audiometer.MainActivity" image="audiometer"/>
+    <AppIcon name="com.tabsina.bahaiprayers/com.tabsina.bahaiprayers.BahaiPrayers" image="baha’i_prayers"/>
+    <AppIcon name="com.nkanaev.comics/com.nkanaev.comics.activity.MainActivity" image="bubble"/>
+    <AppIcon name="com.oneplus.backuprestore/com.oplus.phoneclone.PhoneCloneMainActivity" image="clone_phone"/>
+    <AppIcon name="com.coinbase.android/com.coinbase.android.LaunchActivity" image="coinbase"/>
+    <AppIcon name="in.shick.diode/in.shick.diode.threads.ThreadsListActivity" image="diode"/>
+    <AppIcon name="net.anotherworld.maya/net.anotherworld.maya.OrakelActivity" image="dreamspell_calendar"/>
+    <AppIcon name="com.eero.android/com.eero.android.v3.features.splash.SplashActivity" image="eero"/>
+    <AppIcon name="de.sesu8642.feudaltactics/de.sesu8642.feudaltactics.AndroidLauncher" image="feudal_tactics"/>
+    <AppIcon name="us.shandian.giga/us.shandian.giga.ui.main.MainActivity" image="gigaget"/>
+    <AppIcon name="com.rustybrick.hebrewtranslator/com.rustybrick.hebrewtranslator.MainActivity" image="hebrew_translator"/>
+    <AppIcon name="com.gianmarcodavid.insomnia/com.gianmarcodavid.insomnia.MainActivity" image="insomnia"/>
+    <AppIcon name="com.magnolialabs.JamBase/com.magnolialabs.jambase.ui.splash.SplashActivity" image="jambase"/>
+    <AppIcon name="keepass2android.keepass2android_nonet/crc64dd09b2a2e58bb27d.KeePass" image="keepass2android_offline"/>
+    <AppIcon name="com.github.kolandroid.kol/com.github.kolandroid.kol.android.login.LoginScreen" image="kol"/>
+    <AppIcon name="com.martinmimigames.littlemusicplayer/com.martinmimigames.littlemusicplayer.Launcher" image="little_music_player"/>
+    <AppIcon name="com.alexkang.loopboard/com.alexkang.loopboard.MainActivity" image="loopboard"/>
+    <AppIcon name="is.xyz.mpv/is.xyz.mpv.MainActivity" image="mpv"/>
+    <AppIcon name="com.nanoloop/com.nanoloop.nanoloop" image="nanoloop"/>
+    <AppIcon name="com.gh4a/com.gh4a.activities.Github4AndroidActivity" image="octodroid"/>
+    <AppIcon name="com.tasomaniac.openwith.floss/com.tasomaniac.openwith.settings.SettingsActivity" image="open_link_with"/>
+    <AppIcon name="com.smartpack.packagemanager/com.smartpack.packagemanager.activities.StartActivity" image="package_manager"/>
+    <AppIcon name="com.pax.app/com.pax.app.welcome.SplashActivity" image="pax"/>
+    <AppIcon name="dnsfilter.android/dnsfilter.android.DNSProxyActivity" image="personaldnsfilter"/>
+    <AppIcon name="com.LudwigAppDesign.shoutcastplayerandroid/com.LudwigAppDesign.shoutcastplayerandroid.MainActivity" image="radio_search_n_play"/>
+    <AppIcon name="wseemann.media.romote/wseemann.media.romote.activity.MainActivity" image="romote"/>
+    <AppIcon name="de.t_dankworth.secscanqr/de.t_dankworth.secscanqr.activities.MainActivity" image="secscanqr"/>
+    <AppIcon name="com.shatteredpixel.shatteredpixeldungeon/com.shatteredpixel.shatteredpixeldungeon.android.AndroidLauncher" image="shattered_pixel_dungeon"/>
+    <AppIcon name="com.simplytranslate_mobile/com.simplytranslate_mobile.MainActivity" image="simplytranslate_mobile"/>
+    <AppIcon name="com.google.android.stardroid/com.google.android.stardroid.activities.SplashScreenActivity" image="sky_map"/>
+    <AppIcon name="com.explusalpha.Snes9xPlus/com.imagine.BaseActivity" image="snes9x_ex_"/>
+    <AppIcon name="com.blacksquircle.ui/com.blacksquircle.ui.application.activity.MainActivity" image="squircle_ce"/>
+    <AppIcon name="superfreeze.tool.android/superfreeze.tool.android.userInterface.mainActivity.MainActivity" image="superfreezz"/>
+    <AppIcon name="xyz.tcreopargh.textconverter/xyz.tcreopargh.textconverter.MainActivity" image="text_converter"/>
+    <AppIcon name="net.currit.tonality/net.currit.tonality.TonalityMainActivity" image="tonality"/>
+    <AppIcon name="com.ghisler.tcplugins.SFTP/com.android.tcplugins.FileSystem.AboutActivity" image="totalcmd_ftp_file_transfers_"/>
+    <AppIcon name="com.ghisler.tcplugins.wifitransfer/com.ghisler.tcplugins.wifitransfer.WifiReceiveActivity" image="totalcmd_wifi_transfer"/>
+    <AppIcon name="com.tripadvisor.tripadvisor/com.tripadvisor.android.ui.launcher.LauncherActivity" image="tripadvisor"/>
+    <AppIcon name="ru.aterlux.guitartuner/ru.aterlux.guitartuner.MainActivity" image="universal_tuner"/>
+    <AppIcon name="com.uphold.wallet/com.uphold.wallet.MainActivity" image="uphold"/>
+    <AppIcon name="dev.reimu.urban_dictionary/dev.reimu.urban_dictionary.MainActivity" image="urban_dictionary"/>
+    <AppIcon name="com.wolfram.android.alpha/com.wolfram.android.alphalibrary.activity.WolframAlphaActivity" image="wolframalpha"/>
+    <AppIcon name="com.sei.android/com.sei.android.MainActivity" image="_7_eleven"/>
 
 </Theme>

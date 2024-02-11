@@ -2825,5 +2825,51 @@
 	<item class="com.oneplus.deskclock.DeskClock" name="oneplus_deskclock"/>
     <item class="com.oneplus.note.ui.MainActivity" name="oneplus_notes"/>
     <item class="net.oneplus.weather.app.MainActivity" name="oneplus_weather"/>
+	<item class="com.blitterhead.ampwifi.ActivityFirstLaunch" name="ampwifi"/>
+    <item class="com.spcampos.pyramidfull.FullPyramidGameActivity" name="ancient_treasures_full"/>
+    <item class="com.saraandshmuel.anddaaven.AndDaavenSplash" name="anddaaven"/>
+    <item class="com.quaap.audiometer.MainActivity" name="audiometer"/>
+    <item class="com.tabsina.bahaiprayers.BahaiPrayers" name="baha’i_prayers"/>
+    <item class="com.nkanaev.comics.activity.MainActivity" name="bubble"/>
+    <item class="com.oplus.phoneclone.PhoneCloneMainActivity" name="clone_phone"/>
+    <item class="com.coinbase.android.LaunchActivity" name="coinbase"/>
+    <item class="in.shick.diode.threads.ThreadsListActivity" name="diode"/>
+    <item class="net.anotherworld.maya.OrakelActivity" name="dreamspell_calendar"/>
+    <item class="com.eero.android.v3.features.splash.SplashActivity" name="eero"/>
+    <item class="de.sesu8642.feudaltactics.AndroidLauncher" name="feudal_tactics"/>
+    <item class="us.shandian.giga.ui.main.MainActivity" name="gigaget"/>
+    <item class="com.rustybrick.hebrewtranslator.MainActivity" name="hebrew_translator"/>
+    <item class="com.gianmarcodavid.insomnia.MainActivity" name="insomnia"/>
+    <item class="com.magnolialabs.jambase.ui.splash.SplashActivity" name="jambase"/>
+    <item class="crc64dd09b2a2e58bb27d.KeePass" name="keepass2android_offline"/>
+    <item class="com.github.kolandroid.kol.android.login.LoginScreen" name="kol"/>
+    <item class="com.martinmimigames.littlemusicplayer.Launcher" name="little_music_player"/>
+    <item class="com.alexkang.loopboard.MainActivity" name="loopboard"/>
+    <item class="is.xyz.mpv.MainActivity" name="mpv"/>
+    <item class="com.nanoloop.nanoloop" name="nanoloop"/>
+    <item class="com.gh4a.activities.Github4AndroidActivity" name="octodroid"/>
+    <item class="com.tasomaniac.openwith.settings.SettingsActivity" name="open_link_with"/>
+    <item class="com.smartpack.packagemanager.activities.StartActivity" name="package_manager"/>
+    <item class="com.pax.app.welcome.SplashActivity" name="pax"/>
+    <item class="dnsfilter.android.DNSProxyActivity" name="personaldnsfilter"/>
+    <item class="com.LudwigAppDesign.shoutcastplayerandroid.MainActivity" name="radio_search_n_play"/>
+    <item class="wseemann.media.romote.activity.MainActivity" name="romote"/>
+    <item class="de.t_dankworth.secscanqr.activities.MainActivity" name="secscanqr"/>
+    <item class="com.shatteredpixel.shatteredpixeldungeon.android.AndroidLauncher" name="shattered_pixel_dungeon"/>
+    <item class="com.simplytranslate_mobile.MainActivity" name="simplytranslate_mobile"/>
+    <item class="com.google.android.stardroid.activities.SplashScreenActivity" name="sky_map"/>
+    <item class="com.imagine.BaseActivity" name="snes9x_ex_"/>
+    <item class="com.blacksquircle.ui.application.activity.MainActivity" name="squircle_ce"/>
+    <item class="superfreeze.tool.android.userInterface.mainActivity.MainActivity" name="superfreezz"/>
+    <item class="xyz.tcreopargh.textconverter.MainActivity" name="text_converter"/>
+    <item class="net.currit.tonality.TonalityMainActivity" name="tonality"/>
+    <item class="com.android.tcplugins.FileSystem.AboutActivity" name="totalcmd_ftp_file_transfers_"/>
+    <item class="com.ghisler.tcplugins.wifitransfer.WifiReceiveActivity" name="totalcmd_wifi_transfer"/>
+    <item class="com.tripadvisor.android.ui.launcher.LauncherActivity" name="tripadvisor"/>
+    <item class="ru.aterlux.guitartuner.MainActivity" name="universal_tuner"/>
+    <item class="com.uphold.wallet.MainActivity" name="uphold"/>
+    <item class="dev.reimu.urban_dictionary.MainActivity" name="urban_dictionary"/>
+    <item class="com.wolfram.android.alphalibrary.activity.WolframAlphaActivity" name="wolframalpha"/>
+    <item class="com.sei.android.MainActivity" name="_7_eleven"/>
 
 </appmap>

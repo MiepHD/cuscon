@@ -2842,5 +2842,51 @@
 	<item component="ComponentInfo{com.oneplus.deskclock/com.oneplus.deskclock.DeskClock}" drawable="oneplus_deskclock" />
     <item component="ComponentInfo{com.oneplus.note/com.oneplus.note.ui.MainActivity}" drawable="oneplus_notes" />
     <item component="ComponentInfo{net.oneplus.weather/net.oneplus.weather.app.MainActivity}" drawable="oneplus_weather" />
+	<item component="ComponentInfo{com.blitterhead.ampwifi/com.blitterhead.ampwifi.ActivityFirstLaunch}" drawable="ampwifi" />
+    <item component="ComponentInfo{com.spcampos.pyramidfull/com.spcampos.pyramidfull.FullPyramidGameActivity}" drawable="ancient_treasures_full" />
+    <item component="ComponentInfo{com.saraandshmuel.anddaaven/com.saraandshmuel.anddaaven.AndDaavenSplash}" drawable="anddaaven" />
+    <item component="ComponentInfo{com.quaap.audiometer/com.quaap.audiometer.MainActivity}" drawable="audiometer" />
+    <item component="ComponentInfo{com.tabsina.bahaiprayers/com.tabsina.bahaiprayers.BahaiPrayers}" drawable="baha’i_prayers" />
+    <item component="ComponentInfo{com.nkanaev.comics/com.nkanaev.comics.activity.MainActivity}" drawable="bubble" />
+    <item component="ComponentInfo{com.oneplus.backuprestore/com.oplus.phoneclone.PhoneCloneMainActivity}" drawable="clone_phone" />
+    <item component="ComponentInfo{com.coinbase.android/com.coinbase.android.LaunchActivity}" drawable="coinbase" />
+    <item component="ComponentInfo{in.shick.diode/in.shick.diode.threads.ThreadsListActivity}" drawable="diode" />
+    <item component="ComponentInfo{net.anotherworld.maya/net.anotherworld.maya.OrakelActivity}" drawable="dreamspell_calendar" />
+    <item component="ComponentInfo{com.eero.android/com.eero.android.v3.features.splash.SplashActivity}" drawable="eero" />
+    <item component="ComponentInfo{de.sesu8642.feudaltactics/de.sesu8642.feudaltactics.AndroidLauncher}" drawable="feudal_tactics" />
+    <item component="ComponentInfo{us.shandian.giga/us.shandian.giga.ui.main.MainActivity}" drawable="gigaget" />
+    <item component="ComponentInfo{com.rustybrick.hebrewtranslator/com.rustybrick.hebrewtranslator.MainActivity}" drawable="hebrew_translator" />
+    <item component="ComponentInfo{com.gianmarcodavid.insomnia/com.gianmarcodavid.insomnia.MainActivity}" drawable="insomnia" />
+    <item component="ComponentInfo{com.magnolialabs.JamBase/com.magnolialabs.jambase.ui.splash.SplashActivity}" drawable="jambase" />
+    <item component="ComponentInfo{keepass2android.keepass2android_nonet/crc64dd09b2a2e58bb27d.KeePass}" drawable="keepass2android_offline" />
+    <item component="ComponentInfo{com.github.kolandroid.kol/com.github.kolandroid.kol.android.login.LoginScreen}" drawable="kol" />
+    <item component="ComponentInfo{com.martinmimigames.littlemusicplayer/com.martinmimigames.littlemusicplayer.Launcher}" drawable="little_music_player" />
+    <item component="ComponentInfo{com.alexkang.loopboard/com.alexkang.loopboard.MainActivity}" drawable="loopboard" />
+    <item component="ComponentInfo{is.xyz.mpv/is.xyz.mpv.MainActivity}" drawable="mpv" />
+    <item component="ComponentInfo{com.nanoloop/com.nanoloop.nanoloop}" drawable="nanoloop" />
+    <item component="ComponentInfo{com.gh4a/com.gh4a.activities.Github4AndroidActivity}" drawable="octodroid" />
+    <item component="ComponentInfo{com.tasomaniac.openwith.floss/com.tasomaniac.openwith.settings.SettingsActivity}" drawable="open_link_with" />
+    <item component="ComponentInfo{com.smartpack.packagemanager/com.smartpack.packagemanager.activities.StartActivity}" drawable="package_manager" />
+    <item component="ComponentInfo{com.pax.app/com.pax.app.welcome.SplashActivity}" drawable="pax" />
+    <item component="ComponentInfo{dnsfilter.android/dnsfilter.android.DNSProxyActivity}" drawable="personaldnsfilter" />
+    <item component="ComponentInfo{com.LudwigAppDesign.shoutcastplayerandroid/com.LudwigAppDesign.shoutcastplayerandroid.MainActivity}" drawable="radio_search_n_play" />
+    <item component="ComponentInfo{wseemann.media.romote/wseemann.media.romote.activity.MainActivity}" drawable="romote" />
+    <item component="ComponentInfo{de.t_dankworth.secscanqr/de.t_dankworth.secscanqr.activities.MainActivity}" drawable="secscanqr" />
+    <item component="ComponentInfo{com.shatteredpixel.shatteredpixeldungeon/com.shatteredpixel.shatteredpixeldungeon.android.AndroidLauncher}" drawable="shattered_pixel_dungeon" />
+    <item component="ComponentInfo{com.simplytranslate_mobile/com.simplytranslate_mobile.MainActivity}" drawable="simplytranslate_mobile" />
+    <item component="ComponentInfo{com.google.android.stardroid/com.google.android.stardroid.activities.SplashScreenActivity}" drawable="sky_map" />
+    <item component="ComponentInfo{com.explusalpha.Snes9xPlus/com.imagine.BaseActivity}" drawable="snes9x_ex_" />
+    <item component="ComponentInfo{com.blacksquircle.ui/com.blacksquircle.ui.application.activity.MainActivity}" drawable="squircle_ce" />
+    <item component="ComponentInfo{superfreeze.tool.android/superfreeze.tool.android.userInterface.mainActivity.MainActivity}" drawable="superfreezz" />
+    <item component="ComponentInfo{xyz.tcreopargh.textconverter/xyz.tcreopargh.textconverter.MainActivity}" drawable="text_converter" />
+    <item component="ComponentInfo{net.currit.tonality/net.currit.tonality.TonalityMainActivity}" drawable="tonality" />
+    <item component="ComponentInfo{com.ghisler.tcplugins.SFTP/com.android.tcplugins.FileSystem.AboutActivity}" drawable="totalcmd_ftp_file_transfers_" />
+    <item component="ComponentInfo{com.ghisler.tcplugins.wifitransfer/com.ghisler.tcplugins.wifitransfer.WifiReceiveActivity}" drawable="totalcmd_wifi_transfer" />
+    <item component="ComponentInfo{com.tripadvisor.tripadvisor/com.tripadvisor.android.ui.launcher.LauncherActivity}" drawable="tripadvisor" />
+    <item component="ComponentInfo{ru.aterlux.guitartuner/ru.aterlux.guitartuner.MainActivity}" drawable="universal_tuner" />
+    <item component="ComponentInfo{com.uphold.wallet/com.uphold.wallet.MainActivity}" drawable="uphold" />
+    <item component="ComponentInfo{dev.reimu.urban_dictionary/dev.reimu.urban_dictionary.MainActivity}" drawable="urban_dictionary" />
+    <item component="ComponentInfo{com.wolfram.android.alpha/com.wolfram.android.alphalibrary.activity.WolframAlphaActivity}" drawable="wolframalpha" />
+    <item component="ComponentInfo{com.sei.android/com.sei.android.MainActivity}" drawable="_7_eleven" />
 
 </resources>
