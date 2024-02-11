@@ -2954,5 +2954,13 @@
     <item component="ComponentInfo{com.cgutman.androidremotedebugger/com.cgutman.androidremotedebugger.ConnectActivity}" drawable="remote_adb_shell" />
     <item component="ComponentInfo{org.intoorbit.spectrum/org.intoorbit.spectrum.SpectrumActivity}" drawable="spectroid" />
     <item component="ComponentInfo{com.clone.android.dual.space/com.android.vmapp.ui.MainActivity}" drawable="virtual_master" />
+	<item component="ComponentInfo{com.google.android.apps.enterprise.cpanel/com.google.android.apps.enterprise.cpanel.activities.EntryPointActivity}" drawable="admin" />
+    <item component="ComponentInfo{cobalt.blackberrymanager/cobalt.blackberrymanager.activities.WelcomeActivity}" drawable="blackberry_manager" />
+    <item component="ComponentInfo{com.musicplayer.blackplayerfree/com.kodarkooperativet.blackplayerfree.activities.ViewPagerActivity}" drawable="blackplayer" />
+    <item component="ComponentInfo{com.blued.international/com.blued.international.icon0}" drawable="blued" />
+    <item component="ComponentInfo{com.ea.gp.bej3/com.ea.game.bejeweled3.Bejeweled3Activity}" drawable="classic" />
+    <item component="ComponentInfo{com.costarastrology/com.costarastrology.root.RootActivity}" drawable="co__star" />
+    <item component="ComponentInfo{com.dailymotion.dailymotion/com.dailymotion.dailymotion.ui.activity.MainActivity}" drawable="dailymotion" />
+    <item component="ComponentInfo{com.redcoracle.episodes/com.redcoracle.episodes.MainActivity}" drawable="episodes" />
 
 </resources>

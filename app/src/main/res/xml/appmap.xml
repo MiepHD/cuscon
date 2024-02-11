@@ -2938,5 +2938,13 @@
     <item class="com.cgutman.androidremotedebugger.ConnectActivity" name="remote_adb_shell"/>
     <item class="org.intoorbit.spectrum.SpectrumActivity" name="spectroid"/>
     <item class="com.android.vmapp.ui.MainActivity" name="virtual_master"/>
+	<item class="com.google.android.apps.enterprise.cpanel.activities.EntryPointActivity" name="admin"/>
+    <item class="cobalt.blackberrymanager.activities.WelcomeActivity" name="blackberry_manager"/>
+    <item class="com.kodarkooperativet.blackplayerfree.activities.ViewPagerActivity" name="blackplayer"/>
+    <item class="com.blued.international.icon0" name="blued"/>
+    <item class="com.ea.game.bejeweled3.Bejeweled3Activity" name="classic"/>
+    <item class="com.costarastrology.root.RootActivity" name="co__star"/>
+    <item class="com.dailymotion.dailymotion.ui.activity.MainActivity" name="dailymotion"/>
+    <item class="com.redcoracle.episodes.MainActivity" name="episodes"/>
 
 </appmap>

@@ -2946,5 +2946,13 @@
     <AppIcon name="com.cgutman.androidremotedebugger/com.cgutman.androidremotedebugger.ConnectActivity" image="remote_adb_shell"/>
     <AppIcon name="org.intoorbit.spectrum/org.intoorbit.spectrum.SpectrumActivity" image="spectroid"/>
     <AppIcon name="com.clone.android.dual.space/com.android.vmapp.ui.MainActivity" image="virtual_master"/>
+	<AppIcon name="com.google.android.apps.enterprise.cpanel/com.google.android.apps.enterprise.cpanel.activities.EntryPointActivity" image="admin"/>
+    <AppIcon name="cobalt.blackberrymanager/cobalt.blackberrymanager.activities.WelcomeActivity" image="blackberry_manager"/>
+    <AppIcon name="com.musicplayer.blackplayerfree/com.kodarkooperativet.blackplayerfree.activities.ViewPagerActivity" image="blackplayer"/>
+    <AppIcon name="com.blued.international/com.blued.international.icon0" image="blued"/>
+    <AppIcon name="com.ea.gp.bej3/com.ea.game.bejeweled3.Bejeweled3Activity" image="classic"/>
+    <AppIcon name="com.costarastrology/com.costarastrology.root.RootActivity" image="co__star"/>
+    <AppIcon name="com.dailymotion.dailymotion/com.dailymotion.dailymotion.ui.activity.MainActivity" image="dailymotion"/>
+    <AppIcon name="com.redcoracle.episodes/com.redcoracle.episodes.MainActivity" image="episodes"/>
 
 </Theme>

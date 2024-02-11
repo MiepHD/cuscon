@@ -2777,5 +2777,13 @@
     <item drawable="remote_adb_shell" />
     <item drawable="spectroid" />
     <item drawable="virtual_master" />
+    <item drawable="admin" />
+    <item drawable="blackberry_manager" />
+    <item drawable="blackplayer" />
+    <item drawable="blued" />
+    <item drawable="classic" />
+    <item drawable="co__star" />
+    <item drawable="dailymotion" />
+    <item drawable="episodes" />
 
 </resources>
