@@ -2918,5 +2918,8 @@
     <item class="oppo.multimedia.soundrecorder.filebrowser.BrowseFile" name="coloros_soundrecorder"/>
 	<item class="com.coloros.weather.main.view.WeatherMainActivity" name="coloros_weather"/>
 	<item class="net.omobio.airtelsc.ui.splash.SplashActivity" name="airtel"/>
+	<item class="com.oppo.cdo.ui.external.desktop.DeskHotAppActivity" name="app_market"/>
+    <item class="com.oppo.cdo.ui.external.desktop.DeskHotGameActivity" name="app_market"/>
+	<item class="com.android.stk.mtk.StkLauncherActivityII" name="sim_2_toolkit"/>
 
 </appmap>

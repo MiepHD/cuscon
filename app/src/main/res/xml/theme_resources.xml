@@ -2926,5 +2926,8 @@
     <AppIcon name="com.coloros.soundrecorder/oppo.multimedia.soundrecorder.filebrowser.BrowseFile" image="coloros_soundrecorder"/>
 	<AppIcon name="com.coloros.weather2/com.coloros.weather.main.view.WeatherMainActivity" image="coloros_weather"/>
 	<AppIcon name="net.omobio.airtelsc/net.omobio.airtelsc.ui.splash.SplashActivity" image="airtel"/>
+	<AppIcon name="com.heytap.market/com.oppo.cdo.ui.external.desktop.DeskHotAppActivity" image="app_market"/>
+    <AppIcon name="com.heytap.market/com.oppo.cdo.ui.external.desktop.DeskHotGameActivity" image="app_market"/>
+	<AppIcon name="com.android.stk/com.android.stk.mtk.StkLauncherActivityII" image="sim_2_toolkit"/>
 
 </Theme>
