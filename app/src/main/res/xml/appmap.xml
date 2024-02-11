@@ -2921,5 +2921,7 @@
 	<item class="com.oppo.cdo.ui.external.desktop.DeskHotAppActivity" name="app_market"/>
     <item class="com.oppo.cdo.ui.external.desktop.DeskHotGameActivity" name="app_market"/>
 	<item class="com.android.stk.mtk.StkLauncherActivityII" name="sim_2_toolkit"/>
+	<item class="com.coloros.compass.flat.FlatCompass" name="coloros_compass2"/>
+	<item class="com.oppo.camera.Camera" name="oppo_camera"/>
 
 </appmap>

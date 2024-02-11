@@ -2937,5 +2937,7 @@
 	<item component="ComponentInfo{com.heytap.market/com.oppo.cdo.ui.external.desktop.DeskHotAppActivity}" drawable="app_market" />
     <item component="ComponentInfo{com.heytap.market/com.oppo.cdo.ui.external.desktop.DeskHotGameActivity}" drawable="app_market" />
 	<item component="ComponentInfo{com.android.stk/com.android.stk.mtk.StkLauncherActivityII}" drawable="sim_2_toolkit" />
+	<item component="ComponentInfo{com.coloros.compass2/com.coloros.compass.flat.FlatCompass}" drawable="coloros_compass2" />
+	<item component="ComponentInfo{com.oppo.camera/com.oppo.camera.Camera}" drawable="oppo_camera" />
 
 </resources>

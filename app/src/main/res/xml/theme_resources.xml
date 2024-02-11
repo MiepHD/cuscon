@@ -2929,5 +2929,7 @@
 	<AppIcon name="com.heytap.market/com.oppo.cdo.ui.external.desktop.DeskHotAppActivity" image="app_market"/>
     <AppIcon name="com.heytap.market/com.oppo.cdo.ui.external.desktop.DeskHotGameActivity" image="app_market"/>
 	<AppIcon name="com.android.stk/com.android.stk.mtk.StkLauncherActivityII" image="sim_2_toolkit"/>
+	<AppIcon name="com.coloros.compass2/com.coloros.compass.flat.FlatCompass" image="coloros_compass2"/>
+	<AppIcon name="com.oppo.camera/com.oppo.camera.Camera" image="oppo_camera"/>
 
 </Theme>

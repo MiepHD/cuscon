@@ -2760,5 +2760,7 @@
     <item drawable="google_pay_paisa" />
     <item drawable="coloros_gallery3d_photos" />
     <item drawable="coloros_soundrecorder" />
+    <item drawable="coloros_compass2" />
+    <item drawable="oppo_camera" />
 
 </resources>
