@@ -2891,5 +2891,21 @@
 	<item component="ComponentInfo{com.driveby.app/com.zoontek.rnbootsplash.RNBootSplashActivity}" drawable="driveby_miles" />
     <item component="ComponentInfo{com.oneplus.note/com.nearme.note.main.MainActivity}" drawable="nearme_notes" />
 	<item component="ComponentInfo{com.oneplus.filemanager/com.oplus.filemanager.main.ui.MainActivity}" drawable="my_files" />
+	<item component="ComponentInfo{com.anydesk.anydeskandroid/com.anydesk.anydeskandroid.gui.activity.MainActivity}" drawable="anydesk" />
+    <item component="ComponentInfo{de.arbeitsagentur.bka/de.arbeitsagentur.bka.landing.LandingActivity}" drawable="ba_mobil" />
+    <item component="ComponentInfo{moe.zhs.caffeine/moe.zhs.caffeine.MainActivity}" drawable="caffeine" />
+    <item component="ComponentInfo{com.putnoczki.CharacterKeep/com.tns.NativeScriptActivity}" drawable="character_keep" />
+    <item component="ComponentInfo{de.congstar.meincongstar/de.congstar.meincongstar.ui.login.LoginActivity}" drawable="congstar" />
+    <item component="ComponentInfo{fr.sevenpixels.dice/com.unity3d.player.UnityPlayerActivity}" drawable="dice" />
+    <item component="ComponentInfo{net.offlinefirst.flamy/net.offlinefirst.flamy.MainActivity}" drawable="flamy" />
+    <item component="ComponentInfo{org.andglkmod.hunkypunk/org.andglkmod.hunkypunk.GamesList}" drawable="hunky_punk" />
+    <item component="ComponentInfo{com.whj1972.jfrotz/com.whj1972.jfrotz.JFrotzActivity}" drawable="jfrotz" />
+    <item component="ComponentInfo{com.letterboxd.letterboxd/com.letterboxd.letterboxd.ui.activities.LaunchActivity}" drawable="letterboxd" />
+    <item component="ComponentInfo{de.moooon.acrylicons/de.moooon.acrylicons.MainActivity}" drawable="mondstern_acrylic_icons" />
+    <item component="ComponentInfo{com.oneplus.store/com.oneplus.mall.view.SplashActivity}" drawable="oneplus_store" />
+    <item component="ComponentInfo{de.dhl.paket/de.its_berlin.dhlpaket.base.main.MainActivity}" drawable="post_and_dhl" />
+    <item component="ComponentInfo{org.scummvm.scummvm/org.scummvm.scummvm.SplashActivity}" drawable="scummvm" />
+    <item component="ComponentInfo{xyz.jienan.xkcd/xyz.jienan.xkcd.home.MainActivity}" drawable="xkcd" />
+    <item component="ComponentInfo{nz.co.vista.android.movie.yorckkinos/nz.co.vista.android.movie.abc.feature.splash.SplashActivity}" drawable="yorck_kinos" />
 
 </resources>

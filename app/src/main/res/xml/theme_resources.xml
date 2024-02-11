@@ -2882,5 +2882,21 @@
 	<AppIcon name="com.driveby.app/com.zoontek.rnbootsplash.RNBootSplashActivity" image="driveby_miles"/>
     <AppIcon name="com.oneplus.note/com.nearme.note.main.MainActivity" image="nearme_notes"/>
 	<AppIcon name="com.oneplus.filemanager/com.oplus.filemanager.main.ui.MainActivity" image="my_files"/>
+	<AppIcon name="com.anydesk.anydeskandroid/com.anydesk.anydeskandroid.gui.activity.MainActivity" image="anydesk"/>
+    <AppIcon name="de.arbeitsagentur.bka/de.arbeitsagentur.bka.landing.LandingActivity" image="ba_mobil"/>
+    <AppIcon name="moe.zhs.caffeine/moe.zhs.caffeine.MainActivity" image="caffeine"/>
+    <AppIcon name="com.putnoczki.CharacterKeep/com.tns.NativeScriptActivity" image="character_keep"/>
+    <AppIcon name="de.congstar.meincongstar/de.congstar.meincongstar.ui.login.LoginActivity" image="congstar"/>
+    <AppIcon name="fr.sevenpixels.dice/com.unity3d.player.UnityPlayerActivity" image="dice"/>
+    <AppIcon name="net.offlinefirst.flamy/net.offlinefirst.flamy.MainActivity" image="flamy"/>
+    <AppIcon name="org.andglkmod.hunkypunk/org.andglkmod.hunkypunk.GamesList" image="hunky_punk"/>
+    <AppIcon name="com.whj1972.jfrotz/com.whj1972.jfrotz.JFrotzActivity" image="jfrotz"/>
+    <AppIcon name="com.letterboxd.letterboxd/com.letterboxd.letterboxd.ui.activities.LaunchActivity" image="letterboxd"/>
+    <AppIcon name="de.moooon.acrylicons/de.moooon.acrylicons.MainActivity" image="mondstern_acrylic_icons"/>
+    <AppIcon name="com.oneplus.store/com.oneplus.mall.view.SplashActivity" image="oneplus_store"/>
+    <AppIcon name="de.dhl.paket/de.its_berlin.dhlpaket.base.main.MainActivity" image="post_and_dhl"/>
+    <AppIcon name="org.scummvm.scummvm/org.scummvm.scummvm.SplashActivity" image="scummvm"/>
+    <AppIcon name="xyz.jienan.xkcd/xyz.jienan.xkcd.home.MainActivity" image="xkcd"/>
+    <AppIcon name="nz.co.vista.android.movie.yorckkinos/nz.co.vista.android.movie.abc.feature.splash.SplashActivity" image="yorck_kinos"/>
 
 </Theme>

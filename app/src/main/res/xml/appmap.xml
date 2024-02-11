@@ -2874,5 +2874,21 @@
 	<item class="com.zoontek.rnbootsplash.RNBootSplashActivity" name="driveby_miles"/>
     <item class="com.nearme.note.main.MainActivity" name="nearme_notes"/>
 	<item class="com.oplus.filemanager.main.ui.MainActivity" name="my_files"/>
+	<item class="com.anydesk.anydeskandroid.gui.activity.MainActivity" name="anydesk"/>
+    <item class="de.arbeitsagentur.bka.landing.LandingActivity" name="ba_mobil"/>
+    <item class="moe.zhs.caffeine.MainActivity" name="caffeine"/>
+    <item class="com.tns.NativeScriptActivity" name="character_keep"/>
+    <item class="de.congstar.meincongstar.ui.login.LoginActivity" name="congstar"/>
+    <item class="com.unity3d.player.UnityPlayerActivity" name="dice"/>
+    <item class="net.offlinefirst.flamy.MainActivity" name="flamy"/>
+    <item class="org.andglkmod.hunkypunk.GamesList" name="hunky_punk"/>
+    <item class="com.whj1972.jfrotz.JFrotzActivity" name="jfrotz"/>
+    <item class="com.letterboxd.letterboxd.ui.activities.LaunchActivity" name="letterboxd"/>
+    <item class="de.moooon.acrylicons.MainActivity" name="mondstern_acrylic_icons"/>
+    <item class="com.oneplus.mall.view.SplashActivity" name="oneplus_store"/>
+    <item class="de.its_berlin.dhlpaket.base.main.MainActivity" name="post_and_dhl"/>
+    <item class="org.scummvm.scummvm.SplashActivity" name="scummvm"/>
+    <item class="xyz.jienan.xkcd.home.MainActivity" name="xkcd"/>
+    <item class="nz.co.vista.android.movie.abc.feature.splash.SplashActivity" name="yorck_kinos"/>
 
 </appmap>

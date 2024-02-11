@@ -2719,5 +2719,21 @@
     <item drawable="_7_eleven" />
     <item drawable="driveby_miles" />
     <item drawable="nearme_notes" />
+    <item drawable="anydesk" />
+    <item drawable="ba_mobil" />
+    <item drawable="caffeine" />
+    <item drawable="character_keep" />
+    <item drawable="congstar" />
+    <item drawable="dice" />
+    <item drawable="flamy" />
+    <item drawable="hunky_punk" />
+    <item drawable="jfrotz" />
+    <item drawable="letterboxd" />
+    <item drawable="mondstern_acrylic_icons" />
+    <item drawable="oneplus_store" />
+    <item drawable="post_and_dhl" />
+    <item drawable="scummvm" />
+    <item drawable="xkcd" />
+    <item drawable="yorck_kinos" />
 
 </resources>
