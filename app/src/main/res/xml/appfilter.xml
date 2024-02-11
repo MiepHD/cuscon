@@ -2932,5 +2932,6 @@
     <item component="ComponentInfo{com.google.android.apps.nbu.paisa.user/com.google.android.apps.nbu.paisa.user.launcher.LauncherActivity}" drawable="google_pay_paisa" />
     <item component="ComponentInfo{com.coloros.gallery3d/com.coloros.gallery3d.app.MainActivity}" drawable="coloros_gallery3d_photos" />
     <item component="ComponentInfo{com.coloros.soundrecorder/oppo.multimedia.soundrecorder.filebrowser.BrowseFile}" drawable="coloros_soundrecorder" />
+	<item component="ComponentInfo{com.coloros.weather2/com.coloros.weather.main.view.WeatherMainActivity}" drawable="coloros_weather" />
 
 </resources>

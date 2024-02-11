@@ -2916,5 +2916,6 @@
     <item class="com.google.android.apps.nbu.paisa.user.launcher.LauncherActivity" name="google_pay_paisa"/>
     <item class="com.coloros.gallery3d.app.MainActivity" name="coloros_gallery3d_photos"/>
     <item class="oppo.multimedia.soundrecorder.filebrowser.BrowseFile" name="coloros_soundrecorder"/>
+	<item class="com.coloros.weather.main.view.WeatherMainActivity" name="coloros_weather"/>
 
 </appmap>
