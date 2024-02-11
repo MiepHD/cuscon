@@ -2972,5 +2972,27 @@
     <item class="ru.innim.my_finance.MainActivity" name="innim_my_finance"/>
     <item class="com.lge.clock.AlarmClockActivity" name="lge_clock"/>
     <item class="com.nektome.talk.main.SplashActivity" name="talk_nektome"/>
+	<item class="com.unity3d.player.UnityPlayerActivity" name="battlecruisers"/>
+    <item class="air.com.bartbonte.black.AIRAppEntry" name="black"/>
+    <item class="com.unity3d.player.UnityPlayerActivity" name="death_rover"/>
+    <item class="app.source.getcontact.ui.starter.StarterActivity" name="getcontact"/>
+    <item class="com.lge.lifetracker.ui.MainActivity" name="lg_health_will_closed_"/>
+    <item class="com.verizon.mms.ui.activity.Provisioning" name="message_"/>
+    <item class="org.kustom.api.dashboard.DashboardActivity" name="mono_klwp"/>
+    <item class="ua.vodafone.myvodafone.MainActivity" name="my_vodafone"/>
+    <item class="com.parizene.netmonitor.ui.HomeActivity" name="netmonitor"/>
+    <item class="pl.tablica2.app.startup.activity.StartupActivity" name="olxua"/>
+    <item class="com.kingsgroup.ww2.UnityPlayerActivity" name="project_entropy"/>
+    <item class="ua.prom.b2c.SplashActivity" name="prom"/>
+    <item class="com.epicgames.ue4.SplashActivity" name="pubg_mobile"/>
+    <item class="com.lge.qmemoplus.ui.main.MainActivity" name="quickmemo_"/>
+    <item class="air.com.bartbonte.red.AIRAppEntry" name="red"/>
+    <item class="ua.rst.android.MainActivity" name="rstua"/>
+    <item class="com.kursx.smartbook.MainActivity" name="smart_book"/>
+    <item class="org.stepic.droid.view.activities.SplashActivity" name="stepik"/>
+    <item class="com.anchorfree.touchvpn.MainActivity" name="touchvpn"/>
+    <item class="com.sduduzog.slimlauncher.MainActivity" name="unlauncher"/>
+    <item class="io.dcloud.PandoraEntry" name="v720"/>
+    <item class="com.satoshi.vpns.ui.activity.MainActivity" name="vpnsatoshi"/>
 
 </appmap>

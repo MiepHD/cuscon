@@ -2810,5 +2810,27 @@
     <item drawable="innim_my_finance" />
     <item drawable="lge_clock" />
     <item drawable="talk_nektome" />
+    <item drawable="battlecruisers" />
+    <item drawable="black" />
+    <item drawable="death_rover" />
+    <item drawable="getcontact" />
+    <item drawable="lg_health_will_closed_" />
+    <item drawable="message_" />
+    <item drawable="mono_klwp" />
+    <item drawable="my_vodafone" />
+    <item drawable="netmonitor" />
+    <item drawable="olxua" />
+    <item drawable="project_entropy" />
+    <item drawable="prom" />
+    <item drawable="pubg_mobile" />
+    <item drawable="quickmemo_" />
+    <item drawable="red" />
+    <item drawable="rstua" />
+    <item drawable="smart_book" />
+    <item drawable="stepik" />
+    <item drawable="touchvpn" />
+    <item drawable="unlauncher" />
+    <item drawable="v720" />
+    <item drawable="vpnsatoshi" />
 
 </resources>

@@ -2980,5 +2980,27 @@
     <AppIcon name="ru.innim.my_finance/ru.innim.my_finance.MainActivity" image="innim_my_finance"/>
     <AppIcon name="com.lge.clock/com.lge.clock.AlarmClockActivity" image="lge_clock"/>
     <AppIcon name="com.nektome.talk/com.nektome.talk.main.SplashActivity" image="talk_nektome"/>
+	<AppIcon name="com.Bluebottle.Battlecruisers/com.unity3d.player.UnityPlayerActivity" image="battlecruisers"/>
+    <AppIcon name="air.com.bartbonte.black/air.com.bartbonte.black.AIRAppEntry" image="black"/>
+    <AppIcon name="com.tranquility.colony/com.unity3d.player.UnityPlayerActivity" image="death_rover"/>
+    <AppIcon name="app.source.getcontact/app.source.getcontact.ui.starter.StarterActivity" image="getcontact"/>
+    <AppIcon name="com.lge.lifetracker/com.lge.lifetracker.ui.MainActivity" image="lg_health_will_closed_"/>
+    <AppIcon name="com.verizon.messaging.vzmsgs/com.verizon.mms.ui.activity.Provisioning" image="message_"/>
+    <AppIcon name="monoklwp.droidbeauty.pack/org.kustom.api.dashboard.DashboardActivity" image="mono_klwp"/>
+    <AppIcon name="ua.vodafone.myvodafone/ua.vodafone.myvodafone.MainActivity" image="my_vodafone"/>
+    <AppIcon name="com.parizene.netmonitor/com.parizene.netmonitor.ui.HomeActivity" image="netmonitor"/>
+    <AppIcon name="ua.slando/pl.tablica2.app.startup.activity.StartupActivity" image="olxua"/>
+    <AppIcon name="com.entropy.global/com.kingsgroup.ww2.UnityPlayerActivity" image="project_entropy"/>
+    <AppIcon name="ua.prom.b2c/ua.prom.b2c.SplashActivity" image="prom"/>
+    <AppIcon name="com.tencent.ig/com.epicgames.ue4.SplashActivity" image="pubg_mobile"/>
+    <AppIcon name="com.lge.qmemoplus/com.lge.qmemoplus.ui.main.MainActivity" image="quickmemo_"/>
+    <AppIcon name="air.com.bartbonte.red/air.com.bartbonte.red.AIRAppEntry" image="red"/>
+    <AppIcon name="ua.rst.android/ua.rst.android.MainActivity" image="rstua"/>
+    <AppIcon name="com.kursx.smartbook/com.kursx.smartbook.MainActivity" image="smart_book"/>
+    <AppIcon name="org.stepic.droid/org.stepic.droid.view.activities.SplashActivity" image="stepik"/>
+    <AppIcon name="com.northghost.touchvpn/com.anchorfree.touchvpn.MainActivity" image="touchvpn"/>
+    <AppIcon name="com.jkuester.unlauncher/com.sduduzog.slimlauncher.MainActivity" image="unlauncher"/>
+    <AppIcon name="com.naxclow.v720/io.dcloud.PandoraEntry" image="v720"/>
+    <AppIcon name="com.satoshi.vpns/com.satoshi.vpns.ui.activity.MainActivity" image="vpnsatoshi"/>
 
 </Theme>

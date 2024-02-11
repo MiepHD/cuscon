@@ -2988,5 +2988,27 @@
     <item component="ComponentInfo{ru.innim.my_finance/ru.innim.my_finance.MainActivity}" drawable="innim_my_finance" />
     <item component="ComponentInfo{com.lge.clock/com.lge.clock.AlarmClockActivity}" drawable="lge_clock" />
     <item component="ComponentInfo{com.nektome.talk/com.nektome.talk.main.SplashActivity}" drawable="talk_nektome" />
+	<item component="ComponentInfo{com.Bluebottle.Battlecruisers/com.unity3d.player.UnityPlayerActivity}" drawable="battlecruisers" />
+    <item component="ComponentInfo{air.com.bartbonte.black/air.com.bartbonte.black.AIRAppEntry}" drawable="black" />
+    <item component="ComponentInfo{com.tranquility.colony/com.unity3d.player.UnityPlayerActivity}" drawable="death_rover" />
+    <item component="ComponentInfo{app.source.getcontact/app.source.getcontact.ui.starter.StarterActivity}" drawable="getcontact" />
+    <item component="ComponentInfo{com.lge.lifetracker/com.lge.lifetracker.ui.MainActivity}" drawable="lg_health_will_closed_" />
+    <item component="ComponentInfo{com.verizon.messaging.vzmsgs/com.verizon.mms.ui.activity.Provisioning}" drawable="message_" />
+    <item component="ComponentInfo{monoklwp.droidbeauty.pack/org.kustom.api.dashboard.DashboardActivity}" drawable="mono_klwp" />
+    <item component="ComponentInfo{ua.vodafone.myvodafone/ua.vodafone.myvodafone.MainActivity}" drawable="my_vodafone" />
+    <item component="ComponentInfo{com.parizene.netmonitor/com.parizene.netmonitor.ui.HomeActivity}" drawable="netmonitor" />
+    <item component="ComponentInfo{ua.slando/pl.tablica2.app.startup.activity.StartupActivity}" drawable="olxua" />
+    <item component="ComponentInfo{com.entropy.global/com.kingsgroup.ww2.UnityPlayerActivity}" drawable="project_entropy" />
+    <item component="ComponentInfo{ua.prom.b2c/ua.prom.b2c.SplashActivity}" drawable="prom" />
+    <item component="ComponentInfo{com.tencent.ig/com.epicgames.ue4.SplashActivity}" drawable="pubg_mobile" />
+    <item component="ComponentInfo{com.lge.qmemoplus/com.lge.qmemoplus.ui.main.MainActivity}" drawable="quickmemo_" />
+    <item component="ComponentInfo{air.com.bartbonte.red/air.com.bartbonte.red.AIRAppEntry}" drawable="red" />
+    <item component="ComponentInfo{ua.rst.android/ua.rst.android.MainActivity}" drawable="rstua" />
+    <item component="ComponentInfo{com.kursx.smartbook/com.kursx.smartbook.MainActivity}" drawable="smart_book" />
+    <item component="ComponentInfo{org.stepic.droid/org.stepic.droid.view.activities.SplashActivity}" drawable="stepik" />
+    <item component="ComponentInfo{com.northghost.touchvpn/com.anchorfree.touchvpn.MainActivity}" drawable="touchvpn" />
+    <item component="ComponentInfo{com.jkuester.unlauncher/com.sduduzog.slimlauncher.MainActivity}" drawable="unlauncher" />
+    <item component="ComponentInfo{com.naxclow.v720/io.dcloud.PandoraEntry}" drawable="v720" />
+    <item component="ComponentInfo{com.satoshi.vpns/com.satoshi.vpns.ui.activity.MainActivity}" drawable="vpnsatoshi" />
 
 </resources>
