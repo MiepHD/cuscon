@@ -40,7 +40,7 @@
     <item component="ComponentInfo{info.xolf.homeworker/info.xolf.homeworker.MainActivity}" drawable="homeworker"/>
     <item component="ComponentInfo{com.scs.inet/com.journaldev.barcodevisionapi.MainActivity}" drawable="i_net_menue"/>
     <item component="ComponentInfo{com.instagram.android/com.instagram.android.activity.MainTabActivity}" drawable="instagram"/>
-    <item component="ComponentInfo{com.samsung.android.calendar/com.samsung.android.app.calendar.activity.MainActivity}" drawable="samsung_calendar"/>
+    <calendar component="ComponentInfo{com.samsung.android.calendar/com.samsung.android.app.calendar.activity.MainActivity}" prefix="samsung_calendar_"/>
     <item component="ComponentInfo{tools.photo.hd.camera/com.android.camera.LaunchActivity}" drawable="samsung_camera"/>
     <item component="ComponentInfo{com.android.keepass/com.android.keepass.KeePass}" drawable="keepass"/>
     <item component="ComponentInfo{com.klockigame.klocki/com.unity3d.player.UnityPlayerActivity}" drawable="klocki"/>
