@@ -1380,7 +1380,7 @@
 	<item component="ComponentInfo{io.element.android.x/io.element.android.x.MainActivity}" drawable="element" />
 	<item component="ComponentInfo{com.gallery20/com.gallery20.activities.GalleryActivity}" drawable="gallery20" />
 	<item component="ComponentInfo{com.transsion.soundrecorder/com.transsion.soundrecorder.SoundRecorder}" drawable="transsion_soundrecorder" />
-	<item component="ComponentInfo{com.transsion.calendar/com.android.calendar.AllInOneActivity}" drawable="transsion_calendar" />
+	<calendar component="ComponentInfo{com.transsion.calendar/com.android.calendar.AllInOneActivity}" prefix="transsion_calendar_" />
 	<item component="ComponentInfo{com.transsion.calculator/com.transsion.calculator.Calculator}" drawable="transsion_calculator" />
 	<item component="ComponentInfo{ru.yandex.yandexmaps/ru.yandex.yandexmaps.SplashScreen}" drawable="yandexmaps" />
 	<item component="ComponentInfo{com.transsion.letswitch/com.transsion.letswitch.MainActivity}" drawable="transsion_letswitch" />
