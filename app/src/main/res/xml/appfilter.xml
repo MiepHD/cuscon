@@ -1347,7 +1347,7 @@
 	<item component="ComponentInfo{com.tcl.tct.weather/com.tct.weather.MainActivity}" drawable="tct_weather" />
 	<item component="ComponentInfo{com.airbnb.android/com.airbnb.android.feat.splashscreen.SplashScreenActivity}" drawable="airbnb" />
 	<item component="ComponentInfo{enterprises.dating.boo/dating.boo.MainActivity}" drawable="boo" />
-	<item component="ComponentInfo{com.xiaomi.calendar/com.android.calendar.homepage.AllInOneActivity}" drawable="xiaomi_calendar" />
+	<calendar component="ComponentInfo{com.xiaomi.calendar/com.android.calendar.homepage.AllInOneActivity}" prefix="xiaomi_calendar_" />
 	<item component="ComponentInfo{es.aeat.pin24h/es.aeat.pin24h.presentation.activities.splash.SplashActivity}" drawable="clatve" />
 	<item component="ComponentInfo{com.cronometer.android.gold/com.cronometer.cronometer.MainActivity}" drawable="cronometer" />
 	<item component="ComponentInfo{com.android.providers.downloads.ui/com.android.providers.downloads.ui.DownloadList}" drawable="downloads" />
