@@ -1801,7 +1801,7 @@
 	<item component="ComponentInfo{idm.internet.download.manager.plus/acr.browser.lightning.activity.MainActivityLauncher}" drawable="_1dm_" />
 	<item component="ComponentInfo{com.aia.myaia/com.aia.myaia.MainActivity}" drawable="aia_" />
 	<item component="ComponentInfo{com.alibaba.aliexpresshd/com.aliexpress.app.FirstActivity}" drawable="aliexpress" />
-	<item component="ComponentInfo{com.android.calendar/com.android.calendar.AllInOneActivity}" drawable="android_calendar" />
+	<calendar component="ComponentInfo{com.android.calendar/com.android.calendar.AllInOneActivity}" prefix="android_calendar_" />
 	<item component="ComponentInfo{org.chromium.webapk.ac1f09dc204c9fdb6_v2/org.chromium.webapk.shell_apk.h2o.H2OOpaqueMainActivity}" drawable="android_developers" />
 	<item component="ComponentInfo{com.huawei.ar.measure/com.huawei.ar.measure.LauncherActivity}" drawable="ar_measure" />
 	<item component="ComponentInfo{com.globaldelight.boom/com.globaldelight.boom.app.activities.SplashScreenActivity}" drawable="boom" />
