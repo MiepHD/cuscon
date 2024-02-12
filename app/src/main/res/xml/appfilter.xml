@@ -40,6 +40,7 @@
     <item component="ComponentInfo{info.xolf.homeworker/info.xolf.homeworker.MainActivity}" drawable="homeworker"/>
     <item component="ComponentInfo{com.scs.inet/com.journaldev.barcodevisionapi.MainActivity}" drawable="i_net_menue"/>
     <item component="ComponentInfo{com.instagram.android/com.instagram.android.activity.MainTabActivity}" drawable="instagram"/>
+	<item component="ComponentInfo{com.samsung.android.calendar/com.samsung.android.app.calendar.activity.MainActivity}" drawable="samsung_calendar_28"/>
     <calendar component="ComponentInfo{com.samsung.android.calendar/com.samsung.android.app.calendar.activity.MainActivity}" prefix="samsung_calendar_"/>
     <item component="ComponentInfo{tools.photo.hd.camera/com.android.camera.LaunchActivity}" drawable="samsung_camera"/>
     <item component="ComponentInfo{com.android.keepass/com.android.keepass.KeePass}" drawable="keepass"/>
@@ -261,6 +262,7 @@
     <item component="ComponentInfo{com.adobe.scan.android/com.adobe.scan.android.SplashActivity}" drawable="adobe_scan" />
 	<item component="ComponentInfo{com.google.android.apps.wallpaper/com.google.android.apps.wallpaper.picker.CategoryPickerActivity}" drawable="google_wallpapers" />
 	<item component="ComponentInfo{com.motorola.livewallpaper3/com.motorola.livewallpaper3.ui.menu.WallpaperMenuTrampolineActivity}" drawable="moto_interactive_wallpaper" />
+	<item component="ComponentInfo{com.google.android.calendar/com.android.calendar.AllInOneActivity}" prefix="google_calendar_31" />
 	<calendar component="ComponentInfo{com.google.android.calendar/com.android.calendar.AllInOneActivity}" prefix="google_calendar_" />
 	<item component="ComponentInfo{com.google.android.apps.nbu.files/com.google.android.apps.nbu.files.home.HomeActivity}" drawable="google_files" />
 	<item component="ComponentInfo{jp.ne.ibis.ibispaintx.app/jp.ne.ibis.ibispaintx.app.market.MarketAuthenticationActivity}" drawable="ibispaint_x" />
@@ -1347,6 +1349,7 @@
 	<item component="ComponentInfo{com.tcl.tct.weather/com.tct.weather.MainActivity}" drawable="tct_weather" />
 	<item component="ComponentInfo{com.airbnb.android/com.airbnb.android.feat.splashscreen.SplashScreenActivity}" drawable="airbnb" />
 	<item component="ComponentInfo{enterprises.dating.boo/dating.boo.MainActivity}" drawable="boo" />
+	<item component="ComponentInfo{com.xiaomi.calendar/com.android.calendar.homepage.AllInOneActivity}" drawable="xiaomi_calendar_16" />
 	<calendar component="ComponentInfo{com.xiaomi.calendar/com.android.calendar.homepage.AllInOneActivity}" prefix="xiaomi_calendar_" />
 	<item component="ComponentInfo{es.aeat.pin24h/es.aeat.pin24h.presentation.activities.splash.SplashActivity}" drawable="clatve" />
 	<item component="ComponentInfo{com.cronometer.android.gold/com.cronometer.cronometer.MainActivity}" drawable="cronometer" />
@@ -1380,6 +1383,7 @@
 	<item component="ComponentInfo{io.element.android.x/io.element.android.x.MainActivity}" drawable="element" />
 	<item component="ComponentInfo{com.gallery20/com.gallery20.activities.GalleryActivity}" drawable="gallery20" />
 	<item component="ComponentInfo{com.transsion.soundrecorder/com.transsion.soundrecorder.SoundRecorder}" drawable="transsion_soundrecorder" />
+	<item component="ComponentInfo{com.transsion.calendar/com.android.calendar.AllInOneActivity}" drawable="transsion_calendar_12" />
 	<calendar component="ComponentInfo{com.transsion.calendar/com.android.calendar.AllInOneActivity}" prefix="transsion_calendar_" />
 	<item component="ComponentInfo{com.transsion.calculator/com.transsion.calculator.Calculator}" drawable="transsion_calculator" />
 	<item component="ComponentInfo{ru.yandex.yandexmaps/ru.yandex.yandexmaps.SplashScreen}" drawable="yandexmaps" />
@@ -1801,6 +1805,7 @@
 	<item component="ComponentInfo{idm.internet.download.manager.plus/acr.browser.lightning.activity.MainActivityLauncher}" drawable="_1dm_" />
 	<item component="ComponentInfo{com.aia.myaia/com.aia.myaia.MainActivity}" drawable="aia_" />
 	<item component="ComponentInfo{com.alibaba.aliexpresshd/com.aliexpress.app.FirstActivity}" drawable="aliexpress" />
+	<item component="ComponentInfo{com.android.calendar/com.android.calendar.AllInOneActivity}" drawable="android_calendar_31" />
 	<calendar component="ComponentInfo{com.android.calendar/com.android.calendar.AllInOneActivity}" prefix="android_calendar_" />
 	<item component="ComponentInfo{org.chromium.webapk.ac1f09dc204c9fdb6_v2/org.chromium.webapk.shell_apk.h2o.H2OOpaqueMainActivity}" drawable="android_developers" />
 	<item component="ComponentInfo{com.huawei.ar.measure/com.huawei.ar.measure.LauncherActivity}" drawable="ar_measure" />
