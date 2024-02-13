@@ -3145,5 +3145,33 @@
     <item component="ComponentInfo{com.app.pocketwallpaper/com.app.materialwallpaper.activities.ActivitySplash}" drawable="epic_pocket_wallpapers" />
     <item component="ComponentInfo{epson.print/epson.print.WellcomeScreenActivity}" drawable="epson_iprint" />
     <item component="ComponentInfo{com.ugarsa.eliquidrecipes/com.ugarsa.eliquidrecipes.ui.splash.SplashActivity}" drawable="e_liquid_recipes" />
+	<item component="ComponentInfo{com.visitabudhabi.android/com.vad.app.presentation.splash.activities.SplashActivity}" drawable="experience_abu_dhabi" />
+    <item component="ComponentInfo{com.farfetch.farfetchshop/com.farfetch.farfetchshop.features.start.StartActivity}" drawable="farfetch" />
+    <item component="ComponentInfo{com.kompanion.fasting.android/com.kompanion.fasting.android.MainActivity}" drawable="fasting" />
+    <item component="ComponentInfo{com.fepy.flutter_app/com.fepy.flutter_app.MainActivity}" drawable="fepy" />
+    <item component="ComponentInfo{ae.fnp/ae.fnp.MainActivity}" drawable="ferns_n_petals" />
+    <item component="ComponentInfo{com.flickr.android/com.yahoo.mobile.client.android.flickr.ui.misc.LoginActivity}" drawable="flickr" />
+    <item component="ComponentInfo{com.q8.flowers.app/com.q8.flowers.app.presentation.splash.SplashScreen}" drawable="floward" />
+    <item component="ComponentInfo{com.flowwow/com.flowwow.features.splash.SplashActivity}" drawable="flowwow" />
+    <item component="ComponentInfo{net.frameo.app/net.frameo.app.ui.activities.AGalleryPicker}" drawable="frameo" />
+    <item component="ComponentInfo{com.freshtohome/com.freshtohome.MainActivity}" drawable="freshtohome" />
+    <item component="ComponentInfo{com.fyusion.fyuse/com.fyusion.fyuse.SplashScreen}" drawable="fyuse" />
+    <item component="ComponentInfo{com.g2a.marketplace/com.g2a.marketplace.main.MainActivity}" drawable="g2a" />
+    <item component="ComponentInfo{com.chimera.saturday.evogamepadtester/com.chimera.saturday.evogamepadtester.controller.Home}" drawable="gamepad_tester" />
+    <item component="ComponentInfo{com.mstoreapp.ionic1645711573664/com.mstoreapp.ionic1645711573664.MainActivity}" drawable="gamesplanet" />
+    <item component="ComponentInfo{com.razerzone.cortex.dealsv2/com.razer.android.dealsv2.activity.SplashActivity}" drawable="game_deals" />
+    <item component="ComponentInfo{com.gbox.android/com.gbox.android.SplashActivity}" drawable="gbox" />
+    <item component="ComponentInfo{com.getyourguide.android/com.getyourguide.InitDumpActivity}" drawable="getyourguide" />
+    <item component="ComponentInfo{net.gochat.app/com.vianeos.octochat.Default}" drawable="gochat" />
+    <item component="ComponentInfo{com.goibibo/com.goibibo.common.HomeActivity}" drawable="goibibo" />
+    <item component="ComponentInfo{com.govee.home/com.govee.home.HomeActivity}" drawable="govee_home" />
+    <item component="ComponentInfo{com.groupon/com.groupon.home.main.activities.Carousel}" drawable="groupon" />
+    <item component="ComponentInfo{com.advasoft.handyphoto/com.advasoft.handyphoto.GPNBOViewFakeStart}" drawable="handy_photo" />
+    <item component="ComponentInfo{com.hardees.uae/com.americana.me.hardees.ui.onboarding.splash.HardeesSplashActivity}" drawable="hardees_uae" />
+    <item component="ComponentInfo{com.hdobox/com.hdobox.MainActivity}" drawable="hdo_box" />
+    <item component="ComponentInfo{com.homesrus.app/com.homesrus.app.ui.splash.SplashActivity}" drawable="homesrus" />
+    <item component="ComponentInfo{com.landmarkgroup.homeboxstores/com.landmarkgroupreactapps.SplashActivityDefault}" drawable="home_box" />
+    <item component="ComponentInfo{com.landmarkgroup.homecentrestores/com.landmarkgroupreactapps.SplashActivityDefault}" drawable="home_centre" />
+    <item component="ComponentInfo{com.hm.mena/com.hm.MainActivity}" drawable="h_and_m_mena" />
 
 </resources>

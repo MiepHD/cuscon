@@ -3135,5 +3135,33 @@
     <AppIcon name="com.app.pocketwallpaper/com.app.materialwallpaper.activities.ActivitySplash" image="epic_pocket_wallpapers"/>
     <AppIcon name="epson.print/epson.print.WellcomeScreenActivity" image="epson_iprint"/>
     <AppIcon name="com.ugarsa.eliquidrecipes/com.ugarsa.eliquidrecipes.ui.splash.SplashActivity" image="e_liquid_recipes"/>
+	<AppIcon name="com.visitabudhabi.android/com.vad.app.presentation.splash.activities.SplashActivity" image="experience_abu_dhabi"/>
+    <AppIcon name="com.farfetch.farfetchshop/com.farfetch.farfetchshop.features.start.StartActivity" image="farfetch"/>
+    <AppIcon name="com.kompanion.fasting.android/com.kompanion.fasting.android.MainActivity" image="fasting"/>
+    <AppIcon name="com.fepy.flutter_app/com.fepy.flutter_app.MainActivity" image="fepy"/>
+    <AppIcon name="ae.fnp/ae.fnp.MainActivity" image="ferns_n_petals"/>
+    <AppIcon name="com.flickr.android/com.yahoo.mobile.client.android.flickr.ui.misc.LoginActivity" image="flickr"/>
+    <AppIcon name="com.q8.flowers.app/com.q8.flowers.app.presentation.splash.SplashScreen" image="floward"/>
+    <AppIcon name="com.flowwow/com.flowwow.features.splash.SplashActivity" image="flowwow"/>
+    <AppIcon name="net.frameo.app/net.frameo.app.ui.activities.AGalleryPicker" image="frameo"/>
+    <AppIcon name="com.freshtohome/com.freshtohome.MainActivity" image="freshtohome"/>
+    <AppIcon name="com.fyusion.fyuse/com.fyusion.fyuse.SplashScreen" image="fyuse"/>
+    <AppIcon name="com.g2a.marketplace/com.g2a.marketplace.main.MainActivity" image="g2a"/>
+    <AppIcon name="com.chimera.saturday.evogamepadtester/com.chimera.saturday.evogamepadtester.controller.Home" image="gamepad_tester"/>
+    <AppIcon name="com.mstoreapp.ionic1645711573664/com.mstoreapp.ionic1645711573664.MainActivity" image="gamesplanet"/>
+    <AppIcon name="com.razerzone.cortex.dealsv2/com.razer.android.dealsv2.activity.SplashActivity" image="game_deals"/>
+    <AppIcon name="com.gbox.android/com.gbox.android.SplashActivity" image="gbox"/>
+    <AppIcon name="com.getyourguide.android/com.getyourguide.InitDumpActivity" image="getyourguide"/>
+    <AppIcon name="net.gochat.app/com.vianeos.octochat.Default" image="gochat"/>
+    <AppIcon name="com.goibibo/com.goibibo.common.HomeActivity" image="goibibo"/>
+    <AppIcon name="com.govee.home/com.govee.home.HomeActivity" image="govee_home"/>
+    <AppIcon name="com.groupon/com.groupon.home.main.activities.Carousel" image="groupon"/>
+    <AppIcon name="com.advasoft.handyphoto/com.advasoft.handyphoto.GPNBOViewFakeStart" image="handy_photo"/>
+    <AppIcon name="com.hardees.uae/com.americana.me.hardees.ui.onboarding.splash.HardeesSplashActivity" image="hardees_uae"/>
+    <AppIcon name="com.hdobox/com.hdobox.MainActivity" image="hdo_box"/>
+    <AppIcon name="com.homesrus.app/com.homesrus.app.ui.splash.SplashActivity" image="homesrus"/>
+    <AppIcon name="com.landmarkgroup.homeboxstores/com.landmarkgroupreactapps.SplashActivityDefault" image="home_box"/>
+    <AppIcon name="com.landmarkgroup.homecentrestores/com.landmarkgroupreactapps.SplashActivityDefault" image="home_centre"/>
+    <AppIcon name="com.hm.mena/com.hm.MainActivity" image="h_and_m_mena"/>
 
 </Theme>
