@@ -3044,5 +3044,21 @@
     <AppIcon name="com.oubaadi.moejamlkawafi/com.oubaadi.moejamlkawafi.SplashScreen" image="moejamlkawafi"/>
     <AppIcon name="com.almaany.tadad/com.almaany.tadad.MainActivity" image="almaany_tadad"/>
     <AppIcon name="com.waveline.nabd/com.waveline.nabd.StartActivity" image="nabd"/>
+	<AppIcon name="com.adobe.echosign/com.adobe.echosign.ui.ASLauncherActivity" image="acrobat_sign"/>
+    <AppIcon name="com.activefitnessstore.app/com.activefitnessstore.app.MainActivity" image="activefitnessstore"/>
+    <AppIcon name="com.adobe.spark.post/com.adobe.spark.view.main.SplashActivity" image="adobe_express"/>
+    <AppIcon name="com.aftership.AfterShip/com.aftership.shopper.views.splash.SplashActivity" image="aftership"/>
+    <AppIcon name="com.agoda.mobile.consumer/com.agoda.mobile.consumer.screens.splash.AppLauncherActivity" image="agoda"/>
+    <AppIcon name="com.asustek.aicloud/com.asustek.aicloud.Activity_Init" image="aicloud"/>
+    <AppIcon name="com.hitpaw.photo.enhancer/com.hitpaw.photo.enhancer.WelcomeActivity" image="ai_marvels"/>
+    <AppIcon name="com.cartlow.android/com.cartlow.android.v2.ui.activities.SplashActivity" image="cartlow"/>
+    <AppIcon name="com.appemirates.clubapparel/com.appemirates.clubapparel.ui.login.SplashActivity" image="club_apparel"/>
+    <AppIcon name="com.is.core.app/com.app.comera.ui.splash.SplashActivity" image="comera"/>
+    <AppIcon name="com.levelshoes/com.idslogic.levelshoes.ui.splash.SplashActivity" image="level_shoes"/>
+    <AppIcon name="com.itplus.microless/com.itplus.microless.ui.splash.SplashActivity" image="microless"/>
+    <AppIcon name="com.mstaml.App/com.mstaml.App.MainActivity" image="mstaml_and_new"/>
+    <AppIcon name="com.visa.asiapacific/com.visa.asiapacific.splash.SplashActivity" image="visa_explore"/>
+    <AppIcon name="com.dtcm.dubaitourism/com.dtcm.dubaitourism.SplashActivity" image="visit_dubai"/>
+    <AppIcon name="com.wego.android/com.wego.android.homebase.features.homescreen.HomeScreenBaseActivity" image="wego_flights_and_hotels"/>
 
 </Theme>

@@ -3054,5 +3054,21 @@
     <item component="ComponentInfo{com.oubaadi.moejamlkawafi/com.oubaadi.moejamlkawafi.SplashScreen}" drawable="moejamlkawafi" />
     <item component="ComponentInfo{com.almaany.tadad/com.almaany.tadad.MainActivity}" drawable="almaany_tadad" />
     <item component="ComponentInfo{com.waveline.nabd/com.waveline.nabd.StartActivity}" drawable="nabd" />
+	<item component="ComponentInfo{com.adobe.echosign/com.adobe.echosign.ui.ASLauncherActivity}" drawable="acrobat_sign" />
+    <item component="ComponentInfo{com.activefitnessstore.app/com.activefitnessstore.app.MainActivity}" drawable="activefitnessstore" />
+    <item component="ComponentInfo{com.adobe.spark.post/com.adobe.spark.view.main.SplashActivity}" drawable="adobe_express" />
+    <item component="ComponentInfo{com.aftership.AfterShip/com.aftership.shopper.views.splash.SplashActivity}" drawable="aftership" />
+    <item component="ComponentInfo{com.agoda.mobile.consumer/com.agoda.mobile.consumer.screens.splash.AppLauncherActivity}" drawable="agoda" />
+    <item component="ComponentInfo{com.asustek.aicloud/com.asustek.aicloud.Activity_Init}" drawable="aicloud" />
+    <item component="ComponentInfo{com.hitpaw.photo.enhancer/com.hitpaw.photo.enhancer.WelcomeActivity}" drawable="ai_marvels" />
+    <item component="ComponentInfo{com.cartlow.android/com.cartlow.android.v2.ui.activities.SplashActivity}" drawable="cartlow" />
+    <item component="ComponentInfo{com.appemirates.clubapparel/com.appemirates.clubapparel.ui.login.SplashActivity}" drawable="club_apparel" />
+    <item component="ComponentInfo{com.is.core.app/com.app.comera.ui.splash.SplashActivity}" drawable="comera" />
+    <item component="ComponentInfo{com.levelshoes/com.idslogic.levelshoes.ui.splash.SplashActivity}" drawable="level_shoes" />
+    <item component="ComponentInfo{com.itplus.microless/com.itplus.microless.ui.splash.SplashActivity}" drawable="microless" />
+    <item component="ComponentInfo{com.mstaml.App/com.mstaml.App.MainActivity}" drawable="mstaml_and_new" />
+    <item component="ComponentInfo{com.visa.asiapacific/com.visa.asiapacific.splash.SplashActivity}" drawable="visa_explore" />
+    <item component="ComponentInfo{com.dtcm.dubaitourism/com.dtcm.dubaitourism.SplashActivity}" drawable="visit_dubai" />
+    <item component="ComponentInfo{com.wego.android/com.wego.android.homebase.features.homescreen.HomeScreenBaseActivity}" drawable="wego_flights_and_hotels" />
 
 </resources>
