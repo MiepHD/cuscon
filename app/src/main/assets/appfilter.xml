@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resources>
 
-    <iconback img1="iconback" />
-    <iconmask img1="iconmask" />
     <scale factor="1.00" />
 
     <!-- Nova Launcher Stuff -->
