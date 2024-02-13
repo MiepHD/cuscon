@@ -3095,5 +3095,45 @@
     <AppIcon name="get.cari.bestfooddelivery.app/get.dukan.grocerydelivery.app.presentation.view.intro.splash.SplashActivity" image="cari"/>
     <AppIcon name="com.myscript.calculator/com.myscript.calculator.BootstrapActivity" image="myscript_calculator_2"/>
 	<AppIcon name="jp.co.celsys.clipstudiopaint.googleplay/com.celsys.pwlegacyandroidhelpers.PWLegacyJniCustomNativeActivityAndroid" image="clip_studio"/>
+	<AppIcon name="ae.dctabudhabi.adcalendar/ps.visitabudhabi.adcalendar.ui.splash.SplashActivity" image="adcalendar"/>
+    <AppIcon name="com.cars24.uaeusedcars/com.cars24.uaeusedcars.MainActivity" image="cars24"/>
+    <AppIcon name="com.glowfishlabs.carswitch/com.carswitch.MainActivity" image="carswitch"/>
+    <AppIcon name="com.cdkeys/com.cdkeys.MainActivity" image="cdkeys"/>
+    <AppIcon name="com.landmarkgroup.centrepointstores/com.landmarkgroupreactapps.SplashActivityDefault" image="centrepoint"/>
+    <AppIcon name="com.cf.flightsearch/com.kayak.android.splash.SplashActivity" image="cheapflights"/>
+    <AppIcon name="citruss.android/citruss.android.activity.SplashScreenActivity" image="citruss"/>
+    <AppIcon name="com.cleartrip.android/com.cleartrip.android.activity.common.SplashActivity" image="cleartrip"/>
+    <AppIcon name="com.clickncollect.customer/com.tookancustomer.SplashActivity" image="clickncollect"/>
+    <AppIcon name="com.clickncollect.merchant/com.example.yelomerchantappp.splash.activity.SplashActivity" image="clickncollect_merchant"/>
+    <AppIcon name="com.cobone.coboneapp/com.cobone.coboneapp.MainActivity" image="cobone"/>
+    <AppIcon name="com.coinmarketcap.android/com.coinmarketcap.android.LaunchActivity" image="coinmarketcap"/>
+    <AppIcon name="com.tophatch.concepts/com.tophatch.concepts.MainActivity" image="concepts"/>
+    <AppIcon name="com.couchsurfing.mobile.android/com.couchsurfing.mobile.ui.WelcomeActivity" image="couchsurfing"/>
+    <AppIcon name="com.app.danubehomeonline/com.app.danubehomeonline.MainActivity" image="danube_home"/>
+    <AppIcon name="com.desertcartnative/com.desertcartnative.MainActivity" image="desertcart"/>
+    <AppIcon name="com.deviantart.android.damobile/com.deviantart.android.damobile.activity.HomeActivity" image="deviantart"/>
+    <AppIcon name="sk.michalec.SimpleDigiClockWidget/sk.michalec.SimpleDigiClockWidget.ConfigActivity" image="digi_clock_settings"/>
+    <AppIcon name="com.thediscounterapp/com.thediscounterapp.presentation.activity.main.MainActivity" image="discounter"/>
+    <AppIcon name="com.dji.overSeaStore/com.dji.store.activity.StartActivity" image="dji_store"/>
+    <AppIcon name="com.coffye.dlcompare/com.appmaker.xyz.webapp.SplashScreen" image="dlcompare"/>
+    <AppIcon name="mobilapp.opencart.doduae/mobilapp.opencart.doduae.SplashScreen" image="doduae"/>
+    <AppIcon name="com.dokanandroidnew/com.e2ashopifyapp.MainActivity" image="dokan"/>
+    <AppIcon name="com.urbandroid.dontkillmyapp/com.urbandroid.dontkillmyapp.MainActivity" image="dontkillmyapp"/>
+    <AppIcon name="ae.dpw.dragonmart/ae.dpw.dragonmart.MainActivity" image="dragon_mart"/>
+    <AppIcon name="com.dubaistore.app/com.dubaistore.MainActivity" image="dubaistore"/>
+    <AppIcon name="ae.dubaipage.app_user/com.dubai.dubai_user_app.MainActivity" image="dubai_page"/>
+    <AppIcon name="ae.gov.dubailand.selfregistration/ae.gov.dubailand.rest.MainActivity" image="dubai_rest"/>
+    <AppIcon name="com.dubizzle.horizontal/com.dubizzle.horizontal.activities.routing.RoutingActivity" image="dubizzle"/>
+    <AppIcon name="com.inunxlabs.easydns/com.inunxlabs.easydns.Main" image="easy_dns"/>
+    <AppIcon name="com.vianeos.homebox/com.vianeos.homeBox.activities.SplashActivity" image="elife_connect"/>
+    <AppIcon name="com.hit.emax/com.landmarkgroupreactapps.SplashActivity" image="emax"/>
+    <AppIcon name="com.emirates.ek.android/com.emirates.startup.StartupActivity" image="emirates"/>
+    <AppIcon name="ae.emiratespost.app/ae.emiratespost.mobile.app.MainActivity" image="emirates_post"/>
+    <AppIcon name="club.enhance/com.enhancefitness.enhancex_v3.MainActivity" image="enhance"/>
+    <AppIcon name="com.theentertainerme.entertainer/com.theentertainerme.onboardingui.activities.OnBoardingActivity" image="entertainer"/>
+    <AppIcon name="com.theentertainerme.entertainergobase/com.theentertainerme.entertainergo.SplashScreenActivity" image="entertainer_go"/>
+    <AppIcon name="com.app.pocketwallpaper/com.app.materialwallpaper.activities.ActivitySplash" image="epic_pocket_wallpapers"/>
+    <AppIcon name="epson.print/epson.print.WellcomeScreenActivity" image="epson_iprint"/>
+    <AppIcon name="com.ugarsa.eliquidrecipes/com.ugarsa.eliquidrecipes.ui.splash.SplashActivity" image="e_liquid_recipes"/>
 
 </Theme>

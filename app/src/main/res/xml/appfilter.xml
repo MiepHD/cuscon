@@ -3105,5 +3105,45 @@
     <item component="ComponentInfo{get.cari.bestfooddelivery.app/get.dukan.grocerydelivery.app.presentation.view.intro.splash.SplashActivity}" drawable="cari" />
     <item component="ComponentInfo{com.myscript.calculator/com.myscript.calculator.BootstrapActivity}" drawable="myscript_calculator_2" />
 	<item component="ComponentInfo{jp.co.celsys.clipstudiopaint.googleplay/com.celsys.pwlegacyandroidhelpers.PWLegacyJniCustomNativeActivityAndroid}" drawable="clip_studio" />
+	<item component="ComponentInfo{ae.dctabudhabi.adcalendar/ps.visitabudhabi.adcalendar.ui.splash.SplashActivity}" drawable="adcalendar" />
+    <item component="ComponentInfo{com.cars24.uaeusedcars/com.cars24.uaeusedcars.MainActivity}" drawable="cars24" />
+    <item component="ComponentInfo{com.glowfishlabs.carswitch/com.carswitch.MainActivity}" drawable="carswitch" />
+    <item component="ComponentInfo{com.cdkeys/com.cdkeys.MainActivity}" drawable="cdkeys" />
+    <item component="ComponentInfo{com.landmarkgroup.centrepointstores/com.landmarkgroupreactapps.SplashActivityDefault}" drawable="centrepoint" />
+    <item component="ComponentInfo{com.cf.flightsearch/com.kayak.android.splash.SplashActivity}" drawable="cheapflights" />
+    <item component="ComponentInfo{citruss.android/citruss.android.activity.SplashScreenActivity}" drawable="citruss" />
+    <item component="ComponentInfo{com.cleartrip.android/com.cleartrip.android.activity.common.SplashActivity}" drawable="cleartrip" />
+    <item component="ComponentInfo{com.clickncollect.customer/com.tookancustomer.SplashActivity}" drawable="clickncollect" />
+    <item component="ComponentInfo{com.clickncollect.merchant/com.example.yelomerchantappp.splash.activity.SplashActivity}" drawable="clickncollect_merchant" />
+    <item component="ComponentInfo{com.cobone.coboneapp/com.cobone.coboneapp.MainActivity}" drawable="cobone" />
+    <item component="ComponentInfo{com.coinmarketcap.android/com.coinmarketcap.android.LaunchActivity}" drawable="coinmarketcap" />
+    <item component="ComponentInfo{com.tophatch.concepts/com.tophatch.concepts.MainActivity}" drawable="concepts" />
+    <item component="ComponentInfo{com.couchsurfing.mobile.android/com.couchsurfing.mobile.ui.WelcomeActivity}" drawable="couchsurfing" />
+    <item component="ComponentInfo{com.app.danubehomeonline/com.app.danubehomeonline.MainActivity}" drawable="danube_home" />
+    <item component="ComponentInfo{com.desertcartnative/com.desertcartnative.MainActivity}" drawable="desertcart" />
+    <item component="ComponentInfo{com.deviantart.android.damobile/com.deviantart.android.damobile.activity.HomeActivity}" drawable="deviantart" />
+    <item component="ComponentInfo{sk.michalec.SimpleDigiClockWidget/sk.michalec.SimpleDigiClockWidget.ConfigActivity}" drawable="digi_clock_settings" />
+    <item component="ComponentInfo{com.thediscounterapp/com.thediscounterapp.presentation.activity.main.MainActivity}" drawable="discounter" />
+    <item component="ComponentInfo{com.dji.overSeaStore/com.dji.store.activity.StartActivity}" drawable="dji_store" />
+    <item component="ComponentInfo{com.coffye.dlcompare/com.appmaker.xyz.webapp.SplashScreen}" drawable="dlcompare" />
+    <item component="ComponentInfo{mobilapp.opencart.doduae/mobilapp.opencart.doduae.SplashScreen}" drawable="doduae" />
+    <item component="ComponentInfo{com.dokanandroidnew/com.e2ashopifyapp.MainActivity}" drawable="dokan" />
+    <item component="ComponentInfo{com.urbandroid.dontkillmyapp/com.urbandroid.dontkillmyapp.MainActivity}" drawable="dontkillmyapp" />
+    <item component="ComponentInfo{ae.dpw.dragonmart/ae.dpw.dragonmart.MainActivity}" drawable="dragon_mart" />
+    <item component="ComponentInfo{com.dubaistore.app/com.dubaistore.MainActivity}" drawable="dubaistore" />
+    <item component="ComponentInfo{ae.dubaipage.app_user/com.dubai.dubai_user_app.MainActivity}" drawable="dubai_page" />
+    <item component="ComponentInfo{ae.gov.dubailand.selfregistration/ae.gov.dubailand.rest.MainActivity}" drawable="dubai_rest" />
+    <item component="ComponentInfo{com.dubizzle.horizontal/com.dubizzle.horizontal.activities.routing.RoutingActivity}" drawable="dubizzle" />
+    <item component="ComponentInfo{com.inunxlabs.easydns/com.inunxlabs.easydns.Main}" drawable="easy_dns" />
+    <item component="ComponentInfo{com.vianeos.homebox/com.vianeos.homeBox.activities.SplashActivity}" drawable="elife_connect" />
+    <item component="ComponentInfo{com.hit.emax/com.landmarkgroupreactapps.SplashActivity}" drawable="emax" />
+    <item component="ComponentInfo{com.emirates.ek.android/com.emirates.startup.StartupActivity}" drawable="emirates" />
+    <item component="ComponentInfo{ae.emiratespost.app/ae.emiratespost.mobile.app.MainActivity}" drawable="emirates_post" />
+    <item component="ComponentInfo{club.enhance/com.enhancefitness.enhancex_v3.MainActivity}" drawable="enhance" />
+    <item component="ComponentInfo{com.theentertainerme.entertainer/com.theentertainerme.onboardingui.activities.OnBoardingActivity}" drawable="entertainer" />
+    <item component="ComponentInfo{com.theentertainerme.entertainergobase/com.theentertainerme.entertainergo.SplashScreenActivity}" drawable="entertainer_go" />
+    <item component="ComponentInfo{com.app.pocketwallpaper/com.app.materialwallpaper.activities.ActivitySplash}" drawable="epic_pocket_wallpapers" />
+    <item component="ComponentInfo{epson.print/epson.print.WellcomeScreenActivity}" drawable="epson_iprint" />
+    <item component="ComponentInfo{com.ugarsa.eliquidrecipes/com.ugarsa.eliquidrecipes.ui.splash.SplashActivity}" drawable="e_liquid_recipes" />
 
 </resources>
