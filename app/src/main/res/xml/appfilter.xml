@@ -3176,5 +3176,37 @@
 	<item component="ComponentInfo{com.google.android.apps.accessibility.reveal/com.google.android.apps.accessibility.reveal.activities.ProxyActivity}" drawable="google_lookout" />
 	<item component="ComponentInfo{com.mcdonalds.mobileapp/mcdonalds.core.SplashActivity}" drawable="mcdonalds" />
 	<item component="ComponentInfo{com.ikea.alfuttaim.store/com.ikea.kompis.SplashActivity}" drawable="ikea" />
+	<item component="ComponentInfo{com.hostelworld.app/com.hostelworld.app.features.launcher.view.LauncherActivity}" drawable="hostelworld" />
+    <item component="ComponentInfo{com.hcom.android/com.expedia.bookings.activity.SearchActivity}" drawable="hotelscom" />
+    <item component="ComponentInfo{com.hoteltonight.android.prod/com.hoteltonight.android.prod.activity.SplashActivity}" drawable="hoteltonight" />
+    <item component="ComponentInfo{com.spoonstream.huffnpuff/com.spoonstream.huffnpuff.MainActivity}" drawable="huffnpuff" />
+    <item component="ComponentInfo{app.android.idealz.com/app.android.idealz.com.SplashActivity}" drawable="idealz" />
+    <item component="ComponentInfo{com.iherb/com.iherb.mobile.product.splash.view.SplashActivity}" drawable="iherb" />
+    <item component="ComponentInfo{com.vyroai.aiart/com.vyroai.aiart.ui.activity.ImagineActivity}" drawable="imagine" />
+    <item component="ComponentInfo{newway.good.note.ai.notepad.notebook.checklist.gpt/com.oneweek.noteai.main.splash.SpnashActivity}" drawable="imemo" />
+    <item component="ComponentInfo{com.brakefield.painter/com.brakefield.painter.activities.ActivityStartup}" drawable="infinite_painter" />
+    <item component="ComponentInfo{com.instantgaming.android/com.instantgaming.android.Activities.WebViewActivity}" drawable="instant_gaming" />
+    <item component="ComponentInfo{com.stedor.instashop/com.stedor.instashop.splash.view.SplashActivity}" drawable="instashop" />
+    <item component="ComponentInfo{com.invygo.customer/com.invygo.customer.SplashActivity}" drawable="invygo" />
+    <item component="ComponentInfo{com.evo.inware/com.evo.inware.ui.activities.SweetHomeActivity}" drawable="inware" />
+    <item component="ComponentInfo{com.teknasyon.coloringbook/com.teknasyon.coloringbook.view.activity.SplashActivity}" drawable="ipaint_coloring_book" />
+    <item component="ComponentInfo{com.ixigo/com.ixigo.DefaultSplashScreenActivity}" drawable="ixigo" />
+    <item component="ComponentInfo{com.jana.tube.video/com.jana.tube.video.utube.main.MainActivity}" drawable="janatube" />
+    <item component="ComponentInfo{com.kentdisplays.jot/com.kentdisplays.jot.activities.MainActivity}" drawable="jot" />
+    <item component="ComponentInfo{com.mobile.justmop/com.mobile.justmop.MainActivity}" drawable="justlife" />
+    <item component="ComponentInfo{com.kayak.android/com.kayak.android.splash.SplashActivity}" drawable="kayak" />
+    <item component="ComponentInfo{com.kickstarter.kickstarter/com.kickstarter.ui.activities.DiscoveryActivity}" drawable="kickstarter" />
+    <item component="ComponentInfo{com.kitopi.pos.central/com.kitopi.pos.central.MainActivity}" drawable="kitopi_rewards" />
+    <item component="ComponentInfo{com.iklix.klix/com.iklix.klix.MainActivity}" drawable="klix" />
+    <item component="ComponentInfo{com.cerdillac.persetforlightroom/com.lightcone.cerdillac.koloro.activity.SplashActivity}" drawable="koloro" />
+    <item component="ComponentInfo{org.liskovsoft.androidtv.rukeyboard/com.liskovsoft.leankeyboard.activity.settings.KbSettingsActivity2}" drawable="leankey_keyboard_pro" />
+    <item component="ComponentInfo{com.lensa.app/com.lensa.original}" drawable="lensa" />
+    <item component="ComponentInfo{com.TTT.logomaker.logocreator.generator.designer/app.dev.watermark.screen.splash.SplashActivity}" drawable="logomaker" />
+    <item component="ComponentInfo{com.lulu.commerce/com.app.lulu.view.ui.splash.SplashActivity}" drawable="lulu_shopping" />
+    <item component="ComponentInfo{com.amomedia.madmuscles/com.amomedia.musclemate.presentation.startup.RouteActivity}" drawable="mad_muscles" />
+    <item component="ComponentInfo{com.aswat.carrefouruae/com.aswat.carrefouruae.feature.splash.view.activity.SplashActivity}" drawable="maf_carrefour" />
+    <item component="ComponentInfo{com.makemytrip/com.mmt.travel.app.home.ui.SplashActivity}" drawable="makemytrip" />
+    <item component="ComponentInfo{com.dylvian.mango.activities/com.mango.activities.splash.presentation.ActivitySplash}" drawable="mango" />
+    <item component="ComponentInfo{com.landmarkgroup.maxstores/com.landmarkgroupreactapps.SplashActivityDefault}" drawable="max" />
 
 </resources>

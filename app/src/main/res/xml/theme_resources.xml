@@ -3166,5 +3166,37 @@
 	<AppIcon name="com.google.android.apps.accessibility.reveal/com.google.android.apps.accessibility.reveal.activities.ProxyActivity" image="google_lookout"/>
 	<AppIcon name="com.mcdonalds.mobileapp/mcdonalds.core.SplashActivity" image="mcdonalds"/>
 	<AppIcon name="com.ikea.alfuttaim.store/com.ikea.kompis.SplashActivity" image="ikea"/>
+	<AppIcon name="com.hostelworld.app/com.hostelworld.app.features.launcher.view.LauncherActivity" image="hostelworld"/>
+    <AppIcon name="com.hcom.android/com.expedia.bookings.activity.SearchActivity" image="hotelscom"/>
+    <AppIcon name="com.hoteltonight.android.prod/com.hoteltonight.android.prod.activity.SplashActivity" image="hoteltonight"/>
+    <AppIcon name="com.spoonstream.huffnpuff/com.spoonstream.huffnpuff.MainActivity" image="huffnpuff"/>
+    <AppIcon name="app.android.idealz.com/app.android.idealz.com.SplashActivity" image="idealz"/>
+    <AppIcon name="com.iherb/com.iherb.mobile.product.splash.view.SplashActivity" image="iherb"/>
+    <AppIcon name="com.vyroai.aiart/com.vyroai.aiart.ui.activity.ImagineActivity" image="imagine"/>
+    <AppIcon name="newway.good.note.ai.notepad.notebook.checklist.gpt/com.oneweek.noteai.main.splash.SpnashActivity" image="imemo"/>
+    <AppIcon name="com.brakefield.painter/com.brakefield.painter.activities.ActivityStartup" image="infinite_painter"/>
+    <AppIcon name="com.instantgaming.android/com.instantgaming.android.Activities.WebViewActivity" image="instant_gaming"/>
+    <AppIcon name="com.stedor.instashop/com.stedor.instashop.splash.view.SplashActivity" image="instashop"/>
+    <AppIcon name="com.invygo.customer/com.invygo.customer.SplashActivity" image="invygo"/>
+    <AppIcon name="com.evo.inware/com.evo.inware.ui.activities.SweetHomeActivity" image="inware"/>
+    <AppIcon name="com.teknasyon.coloringbook/com.teknasyon.coloringbook.view.activity.SplashActivity" image="ipaint_coloring_book"/>
+    <AppIcon name="com.ixigo/com.ixigo.DefaultSplashScreenActivity" image="ixigo"/>
+    <AppIcon name="com.jana.tube.video/com.jana.tube.video.utube.main.MainActivity" image="janatube"/>
+    <AppIcon name="com.kentdisplays.jot/com.kentdisplays.jot.activities.MainActivity" image="jot"/>
+    <AppIcon name="com.mobile.justmop/com.mobile.justmop.MainActivity" image="justlife"/>
+    <AppIcon name="com.kayak.android/com.kayak.android.splash.SplashActivity" image="kayak"/>
+    <AppIcon name="com.kickstarter.kickstarter/com.kickstarter.ui.activities.DiscoveryActivity" image="kickstarter"/>
+    <AppIcon name="com.kitopi.pos.central/com.kitopi.pos.central.MainActivity" image="kitopi_rewards"/>
+    <AppIcon name="com.iklix.klix/com.iklix.klix.MainActivity" image="klix"/>
+    <AppIcon name="com.cerdillac.persetforlightroom/com.lightcone.cerdillac.koloro.activity.SplashActivity" image="koloro"/>
+    <AppIcon name="org.liskovsoft.androidtv.rukeyboard/com.liskovsoft.leankeyboard.activity.settings.KbSettingsActivity2" image="leankey_keyboard_pro"/>
+    <AppIcon name="com.lensa.app/com.lensa.original" image="lensa"/>
+    <AppIcon name="com.TTT.logomaker.logocreator.generator.designer/app.dev.watermark.screen.splash.SplashActivity" image="logomaker"/>
+    <AppIcon name="com.lulu.commerce/com.app.lulu.view.ui.splash.SplashActivity" image="lulu_shopping"/>
+    <AppIcon name="com.amomedia.madmuscles/com.amomedia.musclemate.presentation.startup.RouteActivity" image="mad_muscles"/>
+    <AppIcon name="com.aswat.carrefouruae/com.aswat.carrefouruae.feature.splash.view.activity.SplashActivity" image="maf_carrefour"/>
+    <AppIcon name="com.makemytrip/com.mmt.travel.app.home.ui.SplashActivity" image="makemytrip"/>
+    <AppIcon name="com.dylvian.mango.activities/com.mango.activities.splash.presentation.ActivitySplash" image="mango"/>
+    <AppIcon name="com.landmarkgroup.maxstores/com.landmarkgroupreactapps.SplashActivityDefault" image="max"/>
 
 </Theme>
