@@ -3235,5 +3235,6 @@
     <item component="ComponentInfo{tv.plex.labs.dash/tv.plex.labs.dashboard.MainActivity}" drawable="plex_dash" />
     <item component="ComponentInfo{com.radio.pocketfm/com.radio.pocketfm.app.mobile.ui.splash.SplashActivity}" drawable="pocket_fm" />
     <item component="ComponentInfo{com.mmm.postit/com.mmm.postit.MainActivity}" drawable="post_it" />
+	<item component="ComponentInfo{com.rb.rocketbook/com.rb.rocketbook.ui.StartupActivity}" drawable="rocketbook" />
 
 </resources>

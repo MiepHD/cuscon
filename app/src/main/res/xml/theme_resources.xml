@@ -3225,5 +3225,6 @@
     <AppIcon name="tv.plex.labs.dash/tv.plex.labs.dashboard.MainActivity" image="plex_dash"/>
     <AppIcon name="com.radio.pocketfm/com.radio.pocketfm.app.mobile.ui.splash.SplashActivity" image="pocket_fm"/>
     <AppIcon name="com.mmm.postit/com.mmm.postit.MainActivity" image="post_it"/>
+	<AppIcon name="com.rb.rocketbook/com.rb.rocketbook.ui.StartupActivity" image="rocketbook"/>
 
 </Theme>
