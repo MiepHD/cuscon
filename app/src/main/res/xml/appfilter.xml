@@ -3173,5 +3173,6 @@
     <item component="ComponentInfo{com.landmarkgroup.homeboxstores/com.landmarkgroupreactapps.SplashActivityDefault}" drawable="home_box" />
     <item component="ComponentInfo{com.landmarkgroup.homecentrestores/com.landmarkgroupreactapps.SplashActivityDefault}" drawable="home_centre" />
     <item component="ComponentInfo{com.hm.mena/com.hm.MainActivity}" drawable="h_and_m_mena" />
+	<item component="ComponentInfo{com.google.android.apps.accessibility.reveal/com.google.android.apps.accessibility.reveal.activities.ProxyActivity}" drawable="google_lookout" />
 
 </resources>
