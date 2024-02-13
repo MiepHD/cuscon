@@ -162,3 +162,4 @@ gradle-app.setting
 # gradle/wrapper/gradle-wrapper.properties
 
 .idea/
+cusconify_temp/
