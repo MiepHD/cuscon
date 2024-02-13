@@ -3036,5 +3036,9 @@
     <item component="ComponentInfo{ae.propertyfinder.propertyfinder/ae.propertyfinder.propertyfinder.ui.main.MainActivity}" drawable="propertyfinder" />
     <item component="ComponentInfo{com.trivago/com.trivago.ft.main.frontend.MainActivity}" drawable="trivago" />
     <item component="ComponentInfo{com.dsf010.v2.dubaievents/com.dsf010.v2.dubaievents.SplashActivity}" drawable="dsf010_dubaievents" />
+	<item component="ComponentInfo{yqtrack.app/yqtrack.app.MainActivity}" drawable="_17track" />
+    <item component="ComponentInfo{hd.wallpaper.live.parallax/hd.wallpaper.live.parallax.Activity.SplashActivity}" drawable="_4k_wallpapers" />
+    <item component="ComponentInfo{com.forshared.files/com.cloud.module.splash.SplashActivity}" drawable="_4shared" />
+    <item component="ComponentInfo{com.apparel.app6thstreet/com.apparel.app6thstreet.MainActivity}" drawable="_6thstreet" />
 
 </resources>

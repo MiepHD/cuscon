@@ -3026,5 +3026,9 @@
     <AppIcon name="ae.propertyfinder.propertyfinder/ae.propertyfinder.propertyfinder.ui.main.MainActivity" image="propertyfinder"/>
     <AppIcon name="com.trivago/com.trivago.ft.main.frontend.MainActivity" image="trivago"/>
     <AppIcon name="com.dsf010.v2.dubaievents/com.dsf010.v2.dubaievents.SplashActivity" image="dsf010_dubaievents"/>
+	<AppIcon name="yqtrack.app/yqtrack.app.MainActivity" image="_17track"/>
+    <AppIcon name="hd.wallpaper.live.parallax/hd.wallpaper.live.parallax.Activity.SplashActivity" image="_4k_wallpapers"/>
+    <AppIcon name="com.forshared.files/com.cloud.module.splash.SplashActivity" image="_4shared"/>
+    <AppIcon name="com.apparel.app6thstreet/com.apparel.app6thstreet.MainActivity" image="_6thstreet"/>
 
 </Theme>
