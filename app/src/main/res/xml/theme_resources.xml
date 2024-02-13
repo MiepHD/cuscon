@@ -3165,5 +3165,6 @@
     <AppIcon name="com.hm.mena/com.hm.MainActivity" image="h_and_m_mena"/>
 	<AppIcon name="com.google.android.apps.accessibility.reveal/com.google.android.apps.accessibility.reveal.activities.ProxyActivity" image="google_lookout"/>
 	<AppIcon name="com.mcdonalds.mobileapp/mcdonalds.core.SplashActivity" image="mcdonalds"/>
+	<AppIcon name="com.ikea.alfuttaim.store/com.ikea.kompis.SplashActivity" image="ikea"/>
 
 </Theme>
