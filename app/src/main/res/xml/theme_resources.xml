@@ -3016,5 +3016,15 @@
     <AppIcon name="com.studio27.MelonPlayground/com.unity3d.player.UnityPlayerActivity" image="melon_sandbox"/>
     <AppIcon name="com.csdroid.pkg/com.csdroid.pkg.MainActivity" image="package_names"/>
     <AppIcon name="com.kakideveloper.pickupline/com.zipoapps.premiumhelper.ui.splash.PHSplashActivity" image="pickup_lines"/>
+	<AppIcon name="com.ibrahimalqurashiperfumes.android/webkul.opencart.mobikul.SplashScreen" image="ibrahimalqurashiperfumes"/>
+    <AppIcon name="net.aramex/net.aramex.ui.landingpage.LandingPageActivity" image="aramex"/>
+    <AppIcon name="com.expo2020dubai.android/com.expo2020dubai.android.view.MainActivity" image="expo2020dubai"/>
+    <AppIcon name="com.google.tango.measure/com.google.vr.apps.ornament.measure.MeasureMainActivity" image="google_tango_measure"/>
+    <AppIcon name="com.travel.almosafer/com.travel.common.presentation.splash.SplashActivity" image="travel_almosafer"/>
+    <AppIcon name="com.almaany.arar/com.almaany.arar.MainActivity" image="almaany_arar"/>
+    <AppIcon name="com.naddad.pricena/com.naddad.pricena.activities.MainActivity_" image="naddad_pricena"/>
+    <AppIcon name="ae.propertyfinder.propertyfinder/ae.propertyfinder.propertyfinder.ui.main.MainActivity" image="propertyfinder"/>
+    <AppIcon name="com.trivago/com.trivago.ft.main.frontend.MainActivity" image="trivago"/>
+    <AppIcon name="com.dsf010.v2.dubaievents/com.dsf010.v2.dubaievents.SplashActivity" image="dsf010_dubaievents"/>
 
 </Theme>

@@ -1,2 +1,3 @@
+- Added ابراهيم القرشي للعطور, أرامكس, إكسبو 2020 دبي, القياس, المسافر, المعاني عربي عربي, برايسنا, بروبرتي فايندر, تريفاجو, تقويم دبي
 - Added category Dynamic Calendars
 - Fixed sizing of unsupported icons

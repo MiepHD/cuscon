@@ -3026,5 +3026,15 @@
     <item component="ComponentInfo{com.studio27.MelonPlayground/com.unity3d.player.UnityPlayerActivity}" drawable="melon_sandbox" />
     <item component="ComponentInfo{com.csdroid.pkg/com.csdroid.pkg.MainActivity}" drawable="package_names" />
     <item component="ComponentInfo{com.kakideveloper.pickupline/com.zipoapps.premiumhelper.ui.splash.PHSplashActivity}" drawable="pickup_lines" />
+	<item component="ComponentInfo{com.ibrahimalqurashiperfumes.android/webkul.opencart.mobikul.SplashScreen}" drawable="ibrahimalqurashiperfumes" />
+    <item component="ComponentInfo{net.aramex/net.aramex.ui.landingpage.LandingPageActivity}" drawable="aramex" />
+    <item component="ComponentInfo{com.expo2020dubai.android/com.expo2020dubai.android.view.MainActivity}" drawable="expo2020dubai" />
+    <item component="ComponentInfo{com.google.tango.measure/com.google.vr.apps.ornament.measure.MeasureMainActivity}" drawable="google_tango_measure" />
+    <item component="ComponentInfo{com.travel.almosafer/com.travel.common.presentation.splash.SplashActivity}" drawable="travel_almosafer" />
+    <item component="ComponentInfo{com.almaany.arar/com.almaany.arar.MainActivity}" drawable="almaany_arar" />
+    <item component="ComponentInfo{com.naddad.pricena/com.naddad.pricena.activities.MainActivity_}" drawable="naddad_pricena" />
+    <item component="ComponentInfo{ae.propertyfinder.propertyfinder/ae.propertyfinder.propertyfinder.ui.main.MainActivity}" drawable="propertyfinder" />
+    <item component="ComponentInfo{com.trivago/com.trivago.ft.main.frontend.MainActivity}" drawable="trivago" />
+    <item component="ComponentInfo{com.dsf010.v2.dubaievents/com.dsf010.v2.dubaievents.SplashActivity}" drawable="dsf010_dubaievents" />
 
 </resources>
