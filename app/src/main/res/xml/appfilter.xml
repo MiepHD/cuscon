@@ -14,7 +14,6 @@
     <item component=":GALLERY" drawable="samsung_gallery" />
     <item component=":PHONE" drawable="phone" />
     <item component=":SMS" drawable="samsung_messages" />
-    <item component=":LAUNCHER_ACTION_APP_DRAWER" drawable="app_drawer" />
 
     <item component="ComponentInfo{com.cloudflare.onedotonedotonedotone/com.cloudflare.app.presentation.main.SplashActivity}" drawable="cloudflare_warp"/>
 	<item component="ComponentInfo{com.adguard.android/com.adguard.android.ui.MainActivity}" drawable="adguard"/>
