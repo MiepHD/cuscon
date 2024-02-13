@@ -3030,5 +3030,19 @@
     <AppIcon name="hd.wallpaper.live.parallax/hd.wallpaper.live.parallax.Activity.SplashActivity" image="_4k_wallpapers"/>
     <AppIcon name="com.forshared.files/com.cloud.module.splash.SplashActivity" image="_4shared"/>
     <AppIcon name="com.apparel.app6thstreet/com.apparel.app6thstreet.MainActivity" image="_6thstreet"/>
+	<AppIcon name="com.yas.app/com.yas.app.MainActivity" image="yas"/>
+    <AppIcon name="com.deg.mdubai/ae.gov.dsg.mdubai.login.SplashScreenActivity" image="deg_mdubai"/>
+    <AppIcon name="com.dominos.international/com.dominos.international.MainActivity" image="dominos"/>
+    <AppIcon name="com.dhabayeh/com.dhabayeh.MainActivity" image="dhabayeh"/>
+    <AppIcon name="com.app.rehlat/com.app.rehlat.SplashActivity" image="rehlat"/>
+    <AppIcon name="com.norq.shopex.sharaf/com.norq.shopex.sharaf.Splash" image="shopex_sharaf"/>
+    <AppIcon name="com.landmarkgroup.shukran/com.landmarkgroup.shukran.modules.onboarding.activity.SplashActivity" image="shukran"/>
+    <AppIcon name="com.intixdwc.adc.customer/com.example.tazij.MainActivity" image="intixdwc_adc"/>
+    <AppIcon name="com.salla.etaracom/com.salla.features.mainActivity.MainActivity" image="etaracom"/>
+    <AppIcon name="com.vanilia.vanilia/com.vanilia.vanilia.MainActivity" image="vanilia"/>
+    <AppIcon name="com.jarir.reader/co.yaqut.app.LoadingActivity" image="jarir_reader"/>
+    <AppIcon name="com.oubaadi.moejamlkawafi/com.oubaadi.moejamlkawafi.SplashScreen" image="moejamlkawafi"/>
+    <AppIcon name="com.almaany.tadad/com.almaany.tadad.MainActivity" image="almaany_tadad"/>
+    <AppIcon name="com.waveline.nabd/com.waveline.nabd.StartActivity" image="nabd"/>
 
 </Theme>

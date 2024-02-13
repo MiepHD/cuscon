@@ -3040,5 +3040,19 @@
     <item component="ComponentInfo{hd.wallpaper.live.parallax/hd.wallpaper.live.parallax.Activity.SplashActivity}" drawable="_4k_wallpapers" />
     <item component="ComponentInfo{com.forshared.files/com.cloud.module.splash.SplashActivity}" drawable="_4shared" />
     <item component="ComponentInfo{com.apparel.app6thstreet/com.apparel.app6thstreet.MainActivity}" drawable="_6thstreet" />
+	<item component="ComponentInfo{com.yas.app/com.yas.app.MainActivity}" drawable="yas" />
+    <item component="ComponentInfo{com.deg.mdubai/ae.gov.dsg.mdubai.login.SplashScreenActivity}" drawable="deg_mdubai" />
+    <item component="ComponentInfo{com.dominos.international/com.dominos.international.MainActivity}" drawable="dominos" />
+    <item component="ComponentInfo{com.dhabayeh/com.dhabayeh.MainActivity}" drawable="dhabayeh" />
+    <item component="ComponentInfo{com.app.rehlat/com.app.rehlat.SplashActivity}" drawable="rehlat" />
+    <item component="ComponentInfo{com.norq.shopex.sharaf/com.norq.shopex.sharaf.Splash}" drawable="shopex_sharaf" />
+    <item component="ComponentInfo{com.landmarkgroup.shukran/com.landmarkgroup.shukran.modules.onboarding.activity.SplashActivity}" drawable="shukran" />
+    <item component="ComponentInfo{com.intixdwc.adc.customer/com.example.tazij.MainActivity}" drawable="intixdwc_adc" />
+    <item component="ComponentInfo{com.salla.etaracom/com.salla.features.mainActivity.MainActivity}" drawable="etaracom" />
+    <item component="ComponentInfo{com.vanilia.vanilia/com.vanilia.vanilia.MainActivity}" drawable="vanilia" />
+    <item component="ComponentInfo{com.jarir.reader/co.yaqut.app.LoadingActivity}" drawable="jarir_reader" />
+    <item component="ComponentInfo{com.oubaadi.moejamlkawafi/com.oubaadi.moejamlkawafi.SplashScreen}" drawable="moejamlkawafi" />
+    <item component="ComponentInfo{com.almaany.tadad/com.almaany.tadad.MainActivity}" drawable="almaany_tadad" />
+    <item component="ComponentInfo{com.waveline.nabd/com.waveline.nabd.StartActivity}" drawable="nabd" />
 
 </resources>
