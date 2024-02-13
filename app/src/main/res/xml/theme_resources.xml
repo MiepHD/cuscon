@@ -3060,5 +3060,6 @@
     <AppIcon name="com.visa.asiapacific/com.visa.asiapacific.splash.SplashActivity" image="visa_explore"/>
     <AppIcon name="com.dtcm.dubaitourism/com.dtcm.dubaitourism.SplashActivity" image="visit_dubai"/>
     <AppIcon name="com.wego.android/com.wego.android.homebase.features.homescreen.HomeScreenBaseActivity" image="wego_flights_and_hotels"/>
+	<AppIcon name="org.blokada.sex/ui.MainActivity" image="blokada_5"/>
 
 </Theme>

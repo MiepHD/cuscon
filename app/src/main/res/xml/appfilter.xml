@@ -3070,5 +3070,6 @@
     <item component="ComponentInfo{com.visa.asiapacific/com.visa.asiapacific.splash.SplashActivity}" drawable="visa_explore" />
     <item component="ComponentInfo{com.dtcm.dubaitourism/com.dtcm.dubaitourism.SplashActivity}" drawable="visit_dubai" />
     <item component="ComponentInfo{com.wego.android/com.wego.android.homebase.features.homescreen.HomeScreenBaseActivity}" drawable="wego_flights_and_hotels" />
+	<item component="ComponentInfo{org.blokada.sex/ui.MainActivity}" drawable="blokada_5" />
 
 </resources>
