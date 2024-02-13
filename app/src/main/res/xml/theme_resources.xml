@@ -3061,5 +3061,38 @@
     <AppIcon name="com.dtcm.dubaitourism/com.dtcm.dubaitourism.SplashActivity" image="visit_dubai"/>
     <AppIcon name="com.wego.android/com.wego.android.homebase.features.homescreen.HomeScreenBaseActivity" image="wego_flights_and_hotels"/>
 	<AppIcon name="org.blokada.sex/ui.MainActivity" image="blokada_5"/>
+	<AppIcon name="com.mobillium.airalo/com.mobillium.airalo.ui.splash.SplashActivity" image="airalo"/>
+    <AppIcon name="com.webkul.Ajmal/com.webkul.Ajmal.MainActivity" image="ajmal"/>
+    <AppIcon name="app.alansari/app.alansari.SplashActivity" image="alansariex"/>
+    <AppIcon name="com.alibaba.intl.android.apps.poseidon/com.alibaba.intl.android.apps.poseidon.app.activity.ActivityMainMaterial" image="alibabacom"/>
+    <AppIcon name="com.dengpai.aliprice/com.dengpai.aliprice.Base.LaunchActivity" image="aliprice_shopping_assistant"/>
+    <AppIcon name="io.alitools.android/io.alitools.android.ui.home.views.HomeActivity" image="alitools"/>
+    <AppIcon name="com.almowafir.app/com.almowafir.app.MainActivity" image="almowafir"/>
+    <AppIcon name="mobi.koni.appstofiretv/mobi.koni.appstofiretv.SplashScreenActivity" image="apps2fire"/>
+    <AppIcon name="com.arabian.oud/com.snaptec.nineten.MainActivity" image="arabian_oud"/>
+    <AppIcon name="com.areaex.benjaminwordsworth.area_x/com.areaex.benjaminwordsworth.area_x.activities.StartActivity" image="area_x"/>
+    <AppIcon name="com.asus.rog.roggamingcenter3/com.asus.rog.roggamingcenter3.MainActivity" image="armoury_crate"/>
+    <AppIcon name="com.bytestorm.artflow/com.bytestorm.artflow.Editor" image="artflow"/>
+    <AppIcon name="ae.eds.asmaky/ae.eds.asmaky.activity.SplashActivity" image="asmaky"/>
+    <AppIcon name="com.asqgrp.store/com.asqgrp.store.ui.splash.ASQSplashActivity" image="asq"/>
+    <AppIcon name="com.asus.aiextender/com.asus.aiextender.MainActivity" image="asus_extender"/>
+    <AppIcon name="com.asus.aihome/com.asus.aihome.MainActivity" image="asus_router"/>
+    <AppIcon name="com.autoaccessoryconfigurator.autoaddition/com.autoaccessoryconfigurator.autoaddition.MainActivity" image="auto_additions"/>
+    <AppIcon name="ru.lithiums.autodialer/ru.lithiums.autodialer.MainActivity" image="auto_redial"/>
+    <AppIcon name="com.award.VPN/app.award.update.SplashActivity" image="award_vpn"/>
+    <AppIcon name="photoeditor.cutout.backgrounderaser/com.camerasideas.collagemaker.activity.DummyActivity" image="background_eraser_remove_bg"/>
+    <AppIcon name="com.bayut.bayutapp/com.consumerapps.main.SplashActivity" image="bayut"/>
+    <AppIcon name="com.gen.workoutme/com.gen.betterme.base.sections.home.HomeActivity" image="betterme"/>
+    <AppIcon name="com.blinx.app/com.blinx.app.MainActivity" image="blinx"/>
+    <AppIcon name="com.savageorgiev.blockthis/com.savageorgiev.blockthis.MainActivity" image="block_this_"/>
+    <AppIcon name="com.alfuttaim.blue/h073b1088.nebf0e24f.a1925f8e1.sf76721fe.b8bf08d42" image="blue_rewards"/>
+    <AppIcon name="com.bodybuilding.store/co.tapcart.app.MainActivity" image="bodybuildingcom_store"/>
+    <AppIcon name="com.bose.bosemusic/com.bose.madrid.SplashScreenActivity" image="bose_music"/>
+    <AppIcon name="cn.com.broadlink.econtrol.international/cn.com.broadlink.unify.app.main.activity.LoadingActivity" image="broadlink"/>
+    <AppIcon name="com.bhphoto/com.bhphoto.CustomLauncherActivity" image="b_and_h"/>
+    <AppIcon name="com.calo.webapp/com.calo.webapp.MainActivity" image="calo"/>
+    <AppIcon name="com.cancan/com.cancan.views.SplashActivity" image="cancan"/>
+    <AppIcon name="get.cari.bestfooddelivery.app/get.dukan.grocerydelivery.app.presentation.view.intro.splash.SplashActivity" image="cari"/>
+    <AppIcon name="com.myscript.calculator/com.myscript.calculator.BootstrapActivity" image="myscript_calculator_2"/>
 
 </Theme>

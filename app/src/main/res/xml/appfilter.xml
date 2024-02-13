@@ -3071,5 +3071,38 @@
     <item component="ComponentInfo{com.dtcm.dubaitourism/com.dtcm.dubaitourism.SplashActivity}" drawable="visit_dubai" />
     <item component="ComponentInfo{com.wego.android/com.wego.android.homebase.features.homescreen.HomeScreenBaseActivity}" drawable="wego_flights_and_hotels" />
 	<item component="ComponentInfo{org.blokada.sex/ui.MainActivity}" drawable="blokada_5" />
+	<item component="ComponentInfo{com.mobillium.airalo/com.mobillium.airalo.ui.splash.SplashActivity}" drawable="airalo" />
+    <item component="ComponentInfo{com.webkul.Ajmal/com.webkul.Ajmal.MainActivity}" drawable="ajmal" />
+    <item component="ComponentInfo{app.alansari/app.alansari.SplashActivity}" drawable="alansariex" />
+    <item component="ComponentInfo{com.alibaba.intl.android.apps.poseidon/com.alibaba.intl.android.apps.poseidon.app.activity.ActivityMainMaterial}" drawable="alibabacom" />
+    <item component="ComponentInfo{com.dengpai.aliprice/com.dengpai.aliprice.Base.LaunchActivity}" drawable="aliprice_shopping_assistant" />
+    <item component="ComponentInfo{io.alitools.android/io.alitools.android.ui.home.views.HomeActivity}" drawable="alitools" />
+    <item component="ComponentInfo{com.almowafir.app/com.almowafir.app.MainActivity}" drawable="almowafir" />
+    <item component="ComponentInfo{mobi.koni.appstofiretv/mobi.koni.appstofiretv.SplashScreenActivity}" drawable="apps2fire" />
+    <item component="ComponentInfo{com.arabian.oud/com.snaptec.nineten.MainActivity}" drawable="arabian_oud" />
+    <item component="ComponentInfo{com.areaex.benjaminwordsworth.area_x/com.areaex.benjaminwordsworth.area_x.activities.StartActivity}" drawable="area_x" />
+    <item component="ComponentInfo{com.asus.rog.roggamingcenter3/com.asus.rog.roggamingcenter3.MainActivity}" drawable="armoury_crate" />
+    <item component="ComponentInfo{com.bytestorm.artflow/com.bytestorm.artflow.Editor}" drawable="artflow" />
+    <item component="ComponentInfo{ae.eds.asmaky/ae.eds.asmaky.activity.SplashActivity}" drawable="asmaky" />
+    <item component="ComponentInfo{com.asqgrp.store/com.asqgrp.store.ui.splash.ASQSplashActivity}" drawable="asq" />
+    <item component="ComponentInfo{com.asus.aiextender/com.asus.aiextender.MainActivity}" drawable="asus_extender" />
+    <item component="ComponentInfo{com.asus.aihome/com.asus.aihome.MainActivity}" drawable="asus_router" />
+    <item component="ComponentInfo{com.autoaccessoryconfigurator.autoaddition/com.autoaccessoryconfigurator.autoaddition.MainActivity}" drawable="auto_additions" />
+    <item component="ComponentInfo{ru.lithiums.autodialer/ru.lithiums.autodialer.MainActivity}" drawable="auto_redial" />
+    <item component="ComponentInfo{com.award.VPN/app.award.update.SplashActivity}" drawable="award_vpn" />
+    <item component="ComponentInfo{photoeditor.cutout.backgrounderaser/com.camerasideas.collagemaker.activity.DummyActivity}" drawable="background_eraser_remove_bg" />
+    <item component="ComponentInfo{com.bayut.bayutapp/com.consumerapps.main.SplashActivity}" drawable="bayut" />
+    <item component="ComponentInfo{com.gen.workoutme/com.gen.betterme.base.sections.home.HomeActivity}" drawable="betterme" />
+    <item component="ComponentInfo{com.blinx.app/com.blinx.app.MainActivity}" drawable="blinx" />
+    <item component="ComponentInfo{com.savageorgiev.blockthis/com.savageorgiev.blockthis.MainActivity}" drawable="block_this_" />
+    <item component="ComponentInfo{com.alfuttaim.blue/h073b1088.nebf0e24f.a1925f8e1.sf76721fe.b8bf08d42}" drawable="blue_rewards" />
+    <item component="ComponentInfo{com.bodybuilding.store/co.tapcart.app.MainActivity}" drawable="bodybuildingcom_store" />
+    <item component="ComponentInfo{com.bose.bosemusic/com.bose.madrid.SplashScreenActivity}" drawable="bose_music" />
+    <item component="ComponentInfo{cn.com.broadlink.econtrol.international/cn.com.broadlink.unify.app.main.activity.LoadingActivity}" drawable="broadlink" />
+    <item component="ComponentInfo{com.bhphoto/com.bhphoto.CustomLauncherActivity}" drawable="b_and_h" />
+    <item component="ComponentInfo{com.calo.webapp/com.calo.webapp.MainActivity}" drawable="calo" />
+    <item component="ComponentInfo{com.cancan/com.cancan.views.SplashActivity}" drawable="cancan" />
+    <item component="ComponentInfo{get.cari.bestfooddelivery.app/get.dukan.grocerydelivery.app.presentation.view.intro.splash.SplashActivity}" drawable="cari" />
+    <item component="ComponentInfo{com.myscript.calculator/com.myscript.calculator.BootstrapActivity}" drawable="myscript_calculator_2" />
 
 </resources>
