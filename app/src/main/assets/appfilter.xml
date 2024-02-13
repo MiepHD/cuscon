@@ -3,7 +3,7 @@
 
     <iconback img1="iconback" />
     <iconmask img1="iconmask" />
-    <scale factor="0.64" />
+    <scale factor="1.00" />
 
     <!-- Nova Launcher Stuff -->
     <item component=":BROWSER" drawable="browser" />
