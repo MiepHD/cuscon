@@ -3209,5 +3209,6 @@
     <item component="ComponentInfo{com.dylvian.mango.activities/com.mango.activities.splash.presentation.ActivitySplash}" drawable="mango" />
     <item component="ComponentInfo{com.landmarkgroup.maxstores/com.landmarkgroupreactapps.SplashActivityDefault}" drawable="max" />
 	<item component="ComponentInfo{de.worldiety.athentech.perfectlyclear/de.worldiety.athentech.perfectlyclear.ActivityPerfectlyClear}" drawable="perfectly_clear2" />
+	<item component="ComponentInfo{com.pizzahutapp/com.americana.me.ui.onboarding.splash.SplashActivity}" drawable="pizza_hut_malaysia" />
 
 </resources>

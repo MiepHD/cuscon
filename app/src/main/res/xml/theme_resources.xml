@@ -3199,5 +3199,6 @@
     <AppIcon name="com.dylvian.mango.activities/com.mango.activities.splash.presentation.ActivitySplash" image="mango"/>
     <AppIcon name="com.landmarkgroup.maxstores/com.landmarkgroupreactapps.SplashActivityDefault" image="max"/>
 	<AppIcon name="de.worldiety.athentech.perfectlyclear/de.worldiety.athentech.perfectlyclear.ActivityPerfectlyClear" image="perfectly_clear2"/>
+	<AppIcon name="com.pizzahutapp/com.americana.me.ui.onboarding.splash.SplashActivity" image="pizza_hut_malaysia"/>
 
 </Theme>
