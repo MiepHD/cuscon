@@ -3236,5 +3236,18 @@
     <item component="ComponentInfo{com.radio.pocketfm/com.radio.pocketfm.app.mobile.ui.splash.SplashActivity}" drawable="pocket_fm" />
     <item component="ComponentInfo{com.mmm.postit/com.mmm.postit.MainActivity}" drawable="post_it" />
 	<item component="ComponentInfo{com.rb.rocketbook/com.rb.rocketbook.ui.StartupActivity}" drawable="rocketbook" />
+	<item component="ComponentInfo{com.reflectionsinfos.globalvillage/com.reflectionsinfos.globalvillage.DefaultAlias}" drawable="global_village" />
+    <item component="ComponentInfo{com.bayut.bayutpro/host.exp.exponent.MainActivity}" drawable="profolio" />
+    <item component="ComponentInfo{com.m.qr/com.m.qr.home.onboarding.ui.OnBoardingActivity}" drawable="qatar_airways" />
+    <item component="ComponentInfo{com.apparelgroup.randbfashion/com.apparelgroup.randbfashion.MainActivity}" drawable="r_and_b_fashion" />
+    <item component="ComponentInfo{com.example.savefromNew/net.savefrom.helper.splash.SplashActivity}" drawable="savefrom_helper" />
+    <item component="ComponentInfo{com.maf.share/com.maf.android.share.presentation.splash.MainLauncher}" drawable="share" />
+    <item component="ComponentInfo{com.adcb.bank/com.adcb.bank.ADCBMIB}" drawable="slider" />
+    <item component="ComponentInfo{com.landmarkgroup.splashfashions/com.landmarkgroupreactapps.SplashActivityDefault}" drawable="splash" />
+    <item component="ComponentInfo{grit.storytel.app/grit.storytel.app.MainActivity}" drawable="storytel" />
+    <item component="ComponentInfo{com.lightx.storyz/com.lightx.activities.StoryzActivity}" drawable="storyz" />
+    <item component="ComponentInfo{com.sssports.sssports/com.sssports.splash.presentation.view.SplashScreenRevampActivity}" drawable="sun_and_sand_sports" />
+    <item component="ComponentInfo{com.tombayley.statusbar/com.tombayley.statusbar.app.ui.home.MainActivity}" drawable="super_status_bar" />
+    <item component="ComponentInfo{com.allakore.swapnoroot/com.allakore.swapnoroot.ui.activities.SplashActivity}" drawable="swap_no_root" />
 
 </resources>

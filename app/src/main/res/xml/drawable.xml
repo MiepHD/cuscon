@@ -3197,5 +3197,18 @@
     <item drawable="plex_dash" />
     <item drawable="pocket_fm" />
     <item drawable="post_it" />
+    <item drawable="global_village" />
+    <item drawable="profolio" />
+    <item drawable="qatar_airways" />
+    <item drawable="r_and_b_fashion" />
+    <item drawable="savefrom_helper" />
+    <item drawable="share" />
+    <item drawable="slider" />
+    <item drawable="splash" />
+    <item drawable="storytel" />
+    <item drawable="storyz" />
+    <item drawable="sun_and_sand_sports" />
+    <item drawable="super_status_bar" />
+    <item drawable="swap_no_root" />
 
 </resources>

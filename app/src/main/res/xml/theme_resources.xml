@@ -3226,5 +3226,18 @@
     <AppIcon name="com.radio.pocketfm/com.radio.pocketfm.app.mobile.ui.splash.SplashActivity" image="pocket_fm"/>
     <AppIcon name="com.mmm.postit/com.mmm.postit.MainActivity" image="post_it"/>
 	<AppIcon name="com.rb.rocketbook/com.rb.rocketbook.ui.StartupActivity" image="rocketbook"/>
+	<AppIcon name="com.reflectionsinfos.globalvillage/com.reflectionsinfos.globalvillage.DefaultAlias" image="global_village"/>
+    <AppIcon name="com.bayut.bayutpro/host.exp.exponent.MainActivity" image="profolio"/>
+    <AppIcon name="com.m.qr/com.m.qr.home.onboarding.ui.OnBoardingActivity" image="qatar_airways"/>
+    <AppIcon name="com.apparelgroup.randbfashion/com.apparelgroup.randbfashion.MainActivity" image="r_and_b_fashion"/>
+    <AppIcon name="com.example.savefromNew/net.savefrom.helper.splash.SplashActivity" image="savefrom_helper"/>
+    <AppIcon name="com.maf.share/com.maf.android.share.presentation.splash.MainLauncher" image="share"/>
+    <AppIcon name="com.adcb.bank/com.adcb.bank.ADCBMIB" image="slider"/>
+    <AppIcon name="com.landmarkgroup.splashfashions/com.landmarkgroupreactapps.SplashActivityDefault" image="splash"/>
+    <AppIcon name="grit.storytel.app/grit.storytel.app.MainActivity" image="storytel"/>
+    <AppIcon name="com.lightx.storyz/com.lightx.activities.StoryzActivity" image="storyz"/>
+    <AppIcon name="com.sssports.sssports/com.sssports.splash.presentation.view.SplashScreenRevampActivity" image="sun_and_sand_sports"/>
+    <AppIcon name="com.tombayley.statusbar/com.tombayley.statusbar.app.ui.home.MainActivity" image="super_status_bar"/>
+    <AppIcon name="com.allakore.swapnoroot/com.allakore.swapnoroot.ui.activities.SplashActivity" image="swap_no_root"/>
 
 </Theme>

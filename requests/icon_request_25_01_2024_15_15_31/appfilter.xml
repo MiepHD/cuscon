@@ -1,7 +1,7 @@
 <resources>
 
-	<!-- Profolio™ -->
-	<item component="ComponentInfo{com.bayut.bayutpro/host.exp.exponent.MainActivity}" drawable="profolio™" />
+	<!-- profolio -->
+	<item component="ComponentInfo{com.bayut.bayutpro/host.exp.exponent.MainActivity}" drawable="profolio" />
 
 	<!-- Qatar Airways -->
 	<item component="ComponentInfo{com.m.qr/com.m.qr.home.onboarding.ui.OnBoardingActivity}" drawable="qatar_airways" />

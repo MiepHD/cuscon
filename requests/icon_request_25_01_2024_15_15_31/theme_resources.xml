@@ -1,7 +1,7 @@
 <Theme version="1">
 
-	<!-- Profolio™ -->
-	<AppIcon name="com.bayut.bayutpro/host.exp.exponent.MainActivity" image="profolio™"/>
+	<!-- profolio -->
+	<AppIcon name="com.bayut.bayutpro/host.exp.exponent.MainActivity" image="profolio"/>
 
 	<!-- Qatar Airways -->
 	<AppIcon name="com.m.qr/com.m.qr.home.onboarding.ui.OnBoardingActivity" image="qatar_airways"/>
