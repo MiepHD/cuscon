@@ -36,7 +36,7 @@ public class CandyBar extends CandyBarApplication {
         Configuration configuration = new Configuration();
 
         configuration.setGenerateAppFilter(true);
-        configuration.setGenerateAppMap(true);
+        configuration.setGenerateAppMap(false);
         configuration.setGenerateThemeResources(true);
 
         return configuration;
