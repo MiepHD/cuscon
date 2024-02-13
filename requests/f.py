@@ -5,7 +5,6 @@ from os.path import exists
 
 changelog = ""
 appfilter = ""
-appmap = ""
 theme_resources = ""
 
 if (len(sys.argv) == 1):
@@ -17,7 +16,6 @@ else:
 for elem in params:
     nick = elem.split("~")
     elem = nick[0]
-    print(elem)
     if (len(nick) > 1):
         nick = nick[1]
     else:
@@ -37,16 +35,15 @@ for elem in params:
                     changelog = changelog + ", " + title
                 appfilter = appfilter + re.sub(r"[\\\t]+", "    ", line).replace(elem, nick)
             title = line
-    with open("appmap.xml", encoding="utf-8") as f:
-        for line in f.readlines():
-            if (elem in line):
-                appmap = appmap + re.sub(r"[\\\t]+", "    ", line).replace(elem, nick)
     with open("theme_resources.xml", encoding="utf-8") as f:
         for line in f.readlines():
             if (elem in line):
                     theme_resources = theme_resources +re.sub(r"[\\\t]+", "    ", line).replace(elem, nick)
+print("Changelog:")
 print(changelog)
+print("Appfilter:")
 print(appfilter)
-print(appmap)
+print("Drawable:")
 print(re.sub(' component=".*?"', "", appfilter))
+print("Theme Resources:")
 print(theme_resources)
