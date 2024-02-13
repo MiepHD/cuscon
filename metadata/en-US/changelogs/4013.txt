@@ -1,4 +1,4 @@
 - Added ابراهيم القرشي للعطور, أرامكس, إكسبو 2020 دبي, القياس, المسافر, المعاني عربي عربي, برايسنا, بروبرتي فايندر, تريفاجو, تقويم دبي,PH, 17TRACK, 4K Wallpapers, 4shared, 6thStreet, جزيرة ياس, دبي الآن, دومينوز بيتزا, ذبائح الإمارات, رحلات, شرف ديجي, شكراً, طازج, عطارة دوت كوم, ڤانيلا, قارئ جرير, معجم القوافي, معجم المرادفات والأضداد, نبض, Acrobat Sign, ActiveFitnessStore, Adobe Express, AfterShip, Agoda, AiCloud, AI Marvels, Cartlow, Club Apparel, Comera, Level Shoes, Microless, Mstaml & New, Visa Explore, Visit Dubai, Wego Flights & Hotels, Airalo, Ajmal, AlAnsariEX, Alibaba.com, AliPrice Shopping Assistant, AliTools, Almowafir, Apps2Fire, Arabian Oud, Area X, ARMOURY CRATE, ArtFlow, Asmaky, ASQ, ASUS Extender, ASUS Router, Auto Additions, Auto Redial, Award VPN, Background Eraser, Bayut, BetterMe, Blinx, Block This!, Blue Rewards, Bodybuilding.com Store, Bose Music, BroadLink, B&H, Calo, CanCan, Cari, MyScript Calculator 2
-- Updated Blokada 6
+- Updated Blokada 6, Clip Studio
 - Added category Dynamic Calendars
 - Fixed sizing of unsupported icons

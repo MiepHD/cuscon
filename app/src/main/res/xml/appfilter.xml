@@ -3104,5 +3104,6 @@
     <item component="ComponentInfo{com.cancan/com.cancan.views.SplashActivity}" drawable="cancan" />
     <item component="ComponentInfo{get.cari.bestfooddelivery.app/get.dukan.grocerydelivery.app.presentation.view.intro.splash.SplashActivity}" drawable="cari" />
     <item component="ComponentInfo{com.myscript.calculator/com.myscript.calculator.BootstrapActivity}" drawable="myscript_calculator_2" />
+	<item component="ComponentInfo{jp.co.celsys.clipstudiopaint.googleplay/com.celsys.pwlegacyandroidhelpers.PWLegacyJniCustomNativeActivityAndroid}" drawable="clip_studio" />
 
 </resources>

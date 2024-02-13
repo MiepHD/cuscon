@@ -3094,5 +3094,6 @@
     <AppIcon name="com.cancan/com.cancan.views.SplashActivity" image="cancan"/>
     <AppIcon name="get.cari.bestfooddelivery.app/get.dukan.grocerydelivery.app.presentation.view.intro.splash.SplashActivity" image="cari"/>
     <AppIcon name="com.myscript.calculator/com.myscript.calculator.BootstrapActivity" image="myscript_calculator_2"/>
+	<AppIcon name="jp.co.celsys.clipstudiopaint.googleplay/com.celsys.pwlegacyandroidhelpers.PWLegacyJniCustomNativeActivityAndroid" image="clip_studio"/>
 
 </Theme>
