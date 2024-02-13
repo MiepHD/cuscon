@@ -3200,5 +3200,30 @@
     <AppIcon name="com.landmarkgroup.maxstores/com.landmarkgroupreactapps.SplashActivityDefault" image="max"/>
 	<AppIcon name="de.worldiety.athentech.perfectlyclear/de.worldiety.athentech.perfectlyclear.ActivityPerfectlyClear" image="perfectly_clear2"/>
 	<AppIcon name="com.pizzahutapp/com.americana.me.ui.onboarding.splash.SplashActivity" image="pizza_hut_malaysia"/>
+	<AppIcon name="com.zombodroid.MemeGenerator/com.zombodroid.memegen6source.SplashActivity" image="meme_generator"/>
+    <AppIcon name="com.meross.meross/com.meross.meross.ui.start.FirstCheckActivity" image="meross"/>
+    <AppIcon name="com.minma.icon.free/com.minma.icon.free.activities.SplashActivity" image="minma_icon_pack"/>
+    <AppIcon name="com.hitpaw.videoeditor/com.hitpaw.videoeditor.ui.WelcomeActivity" image="miracut"/>
+    <AppIcon name="com.pinguo.edit.sdk/us.pinguo.mix.modules.splash.SplashActivity" image="pinguo_edit_sdk_mix"/>
+    <AppIcon name="com.ryzenrise.movepic/com.lightcone.plotaverse.activity.SplashActivity" image="movepic"/>
+    <AppIcon name="com.wdc.gza/com.kamino.wdt.MainActivity" image="my_cloud_os5"/>
+    <AppIcon name="com.namshi.android/com.namshi.android.MainActivity" image="namshi"/>
+    <AppIcon name="com.cooliehat.nearbyshare/com.cooliehat.nearbyshare.sharingmodule.Activities.SplashActivity" image="nearby_share"/>
+    <AppIcon name="com.myscript.nebo/com.myscript.nebo.BootstrapActivity" image="nebo"/>
+    <AppIcon name="com.newchic.client/com.newchic.client.module.home.activity.SplashActivity" image="newchic"/>
+    <AppIcon name="com.makenotetoself/com.makenotetoself.MainActivity" image="note_to_self"/>
+    <AppIcon name="ae.mazadat.onlineauctionapp/ae.mazadat.onlineauctionapp.MainActivity" image="online_auction"/>
+    <AppIcon name="led.android.paularabia/led.android.paularabia.MainActivity" image="paul_arabia"/>
+    <AppIcon name="com.indraanisa.pcbuilder/com.indraanisa.pcbuilder.pcbuild.PcBuildActivity" image="pc_builder"/>
+    <AppIcon name="com.app.pepperfry/com.app.pepperfry.main.MainActivity" image="pepperfry"/>
+    <AppIcon name="com.phonewalls.stockwallpapers/com.phonewalls.stockwallpapers.MainActivity" image="phonewalls"/>
+    <AppIcon name="com.simplemobilephotoresizer/com.simplemobilephotoresizer.andr.ui.splash.SplashActivity" image="photo_and_picture_resizer"/>
+    <AppIcon name="com.photocompress.photoeditor/com.ps.photoeditor.ui.SplashActivity" image="photo_compressor"/>
+    <AppIcon name="com.hitpaw.piccutout.backgroundremover/com.hitpaw.piccutout.backgroundremover.activity.SplashActivity" image="piccutout"/>
+    <AppIcon name="com.codeway.pixelup/com.codeway.pixelup.MainActivity" image="pixelup"/>
+    <AppIcon name="com.myplantin.app/com.myplantin.app.presentation.ui.activity.MainActivity" image="plantin"/>
+    <AppIcon name="tv.plex.labs.dash/tv.plex.labs.dashboard.MainActivity" image="plex_dash"/>
+    <AppIcon name="com.radio.pocketfm/com.radio.pocketfm.app.mobile.ui.splash.SplashActivity" image="pocket_fm"/>
+    <AppIcon name="com.mmm.postit/com.mmm.postit.MainActivity" image="post_it"/>
 
 </Theme>
