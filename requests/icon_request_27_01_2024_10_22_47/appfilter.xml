@@ -1,0 +1,18 @@
+<resources>
+
+	<!-- Camera -->
+	<item component="ComponentInfo{com.hmdglobal.app.camera/com.hmdglobal.app.camera.GuideActivity}" drawable="camera" />
+
+	<!-- Collabora Office -->
+	<item component="ComponentInfo{com.collabora.libreoffice.snapshot/org.libreoffice.androidapp.ui.LibreOfficeUIActivity}" drawable="collabora_office" />
+
+	<!-- Iceraven -->
+	<item component="ComponentInfo{io.github.forkmaintainers.iceraven/io.github.forkmaintainers.iceraven.App}" drawable="iceraven" />
+
+	<!-- Telegram -->
+	<item component="ComponentInfo{org.telegram.messenger.web/org.telegram.messenger.DefaultIcon}" drawable="telegram" />
+
+	<!-- TomTom GO -->
+	<item component="ComponentInfo{com.tomtom.gplay.navapp/com.tomtom.mobilenavapp.MobileNavAppActivity}" drawable="tomtom_go" />
+
+</resources>

@@ -20,7 +20,7 @@ cusconify() {
     echo "Transparency: $a"
     if [ "$a" != "0" ]; then
         echo "Remove background"
-        magick "get/$filename" -fill none -fuzz 40% -draw "color 10,256 replace" +repage "get/$filename"
+        magick "get/$filename" -fill none -fuzz 35% -draw "color 10,256 replace" +repage "get/$filename"
     fi
 
     magick "get/$filename" -fuzz 75% -trim +repage "get/$filename"
@@ -42,6 +42,7 @@ cusconify() {
 
     magick "get/$filename" -resize 450x450 +repage "get/$filename"
 
+    magick "get/$filename" -background transparent -gravity center -extent 512x512 +repage "get/$filename"
     magick "get/$filename" -background transparent -gravity center -extent 512x512 +repage "get/$filename"
 
     black=$(convert $filename -colorspace RGB -format %c  -depth 8  histogram:info:-|grep -i '#000000ff')

@@ -1,0 +1,18 @@
+<appmap>
+
+	<!-- AfterShip -->
+	<item class="com.aftership.shopper.views.splash.SplashActivity" name="aftership"/>
+
+	<!-- DuckStation -->
+	<item class="com.github.stenzek.duckstation.MainActivity" name="duckstation"/>
+
+	<!-- Icedrive -->
+	<item class="com.icedrive.app.ActivitySplash" name="icedrive"/>
+
+	<!-- Kotatsu -->
+	<item class="org.koitharu.kotatsu.main.ui.MainActivity" name="kotatsu"/>
+
+	<!-- mpv -->
+	<item class="is.xyz.mpv.MainActivity" name="mpv"/>
+
+</appmap>

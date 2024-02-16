@@ -1,0 +1,18 @@
+<resources>
+
+	<!-- AfterShip -->
+	<item component="ComponentInfo{com.aftership.AfterShip/com.aftership.shopper.views.splash.SplashActivity}" drawable="aftership" />
+
+	<!-- DuckStation -->
+	<item component="ComponentInfo{com.github.stenzek.duckstation/com.github.stenzek.duckstation.MainActivity}" drawable="duckstation" />
+
+	<!-- Icedrive -->
+	<item component="ComponentInfo{com.icedrive.app/com.icedrive.app.ActivitySplash}" drawable="icedrive" />
+
+	<!-- Kotatsu -->
+	<item component="ComponentInfo{org.koitharu.kotatsu/org.koitharu.kotatsu.main.ui.MainActivity}" drawable="kotatsu" />
+
+	<!-- mpv -->
+	<item component="ComponentInfo{is.xyz.mpv/is.xyz.mpv.MainActivity}" drawable="mpv" />
+
+</resources>

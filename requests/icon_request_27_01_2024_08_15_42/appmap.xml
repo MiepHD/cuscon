@@ -1,0 +1,66 @@
+<appmap>
+
+	<!-- AndroidIDE -->
+	<item class="com.itsaky.androidide.activities.SplashActivity" name="androidide"/>
+
+	<!-- Appareil photo -->
+	<item class="com.motorola.camera.Camera" name="appareil_photo"/>
+
+	<!-- Calculatrice -->
+	<item class="com.android.launcher3.icon_disguise11" name="calculatrice"/>
+
+	<!-- Desjardins -->
+	<item class="com.desjardins.mobile.ui.launcher.LauncherActivity" name="desjardins"/>
+
+	<!-- Easy DNS -->
+	<item class="com.inunxlabs.easydns.Main" name="easy_dns"/>
+
+	<!-- Fake Traveler -->
+	<item class="cl.coders.faketraveler.MainActivity" name="fake_traveler"/>
+
+	<!-- Godot Editor 4 -->
+	<item class="org.godotengine.editor.GodotProjectManager" name="godot_editor_4"/>
+
+	<!-- Linux Deploy -->
+	<item class="ru.meefik.linuxdeploy.Launcher" name="linux_deploy"/>
+
+	<!-- Mon Compte -->
+	<item class="ca.luckymobile.splashscreen.SplashActivity" name="mon_compte"/>
+
+	<!-- Ning -->
+	<item class="de.csicar.ning.MainActivity" name="ning"/>
+
+	<!-- Nix -->
+	<item class="com.termux.app.TermuxActivity" name="nix"/>
+
+	<!-- nRF Connect -->
+	<item class="no.nordicsemi.android.mcp.MainActivity" name="nrf_connect"/>
+
+	<!-- Official TWRP App -->
+	<item class="me.twrp.officialtwrpapp.activities.MainActivity" name="official_twrp_app"/>
+
+	<!-- Opening Wifi -->
+	<item class="org.toolman.wifi.SplashyActivity" name="opening_wifi"/>
+
+	<!-- QR & Barcode Scanner -->
+	<item class="com.gamma.barcodeapp.ui.BarcodeCaptureActivity" name="qr_and_barcode_scanner"/>
+
+	<!-- Shizuku -->
+	<item class="moe.shizuku.manager.MainActivity" name="shizuku"/>
+
+	<!-- Smartspacer -->
+	<item class="com.kieronquinn.app.smartspacer.ui.activities.MainActivity" name="smartspacer"/>
+
+	<!-- TD (Canada) -->
+	<item class="com.td.mobile.controllers.StartupActivity" name="td_canada_"/>
+
+	<!-- Uptodown App Store -->
+	<item class="com.uptodown.activities.MainActivityScrollable" name="uptodown_app_store"/>
+
+	<!-- VMOS Pro -->
+	<item class="com.vmos.pro.activities.splash.SplashActivity" name="vmos_pro"/>
+
+	<!-- Workspace -->
+	<item class="com.citrix.client.Receiver.ui.activities.SplashActivity" name="workspace"/>
+
+</appmap>

@@ -1,0 +1,15 @@
+<resources>
+
+	<!-- Battlegrounds India -->
+	<item component="ComponentInfo{com.pubg.imobile/com.epicgames.ue4.SplashActivity}" drawable="battlegrounds_india" />
+
+	<!-- Kite -->
+	<item component="ComponentInfo{com.zerodha.kite3/com.zerodha.kite3.MainActivity}" drawable="kite" />
+
+	<!-- Metro -->
+	<item component="ComponentInfo{io.github.muntashirakon.Music/code.name.monkey.retromusic.activities.MainActivity}" drawable="metro" />
+
+	<!-- TradingView -->
+	<item component="ComponentInfo{com.tradingview.tradingviewapp/com.tradingview.tradingviewapp.root.view.RootActivity}" drawable="tradingview" />
+
+</resources>

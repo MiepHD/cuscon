@@ -1,0 +1,21 @@
+<resources>
+
+	<!-- AnkiDroid -->
+	<item component="ComponentInfo{com.ichi2.anki/com.ichi2.anki.IntentHandler}" drawable="ankidroid" />
+
+	<!-- Forecastie -->
+	<item component="ComponentInfo{cz.martykan.forecastie/cz.martykan.forecastie.activities.SplashActivity}" drawable="forecastie" />
+
+	<!-- Hanping Cantonese -->
+	<item component="ComponentInfo{com.embermitre.hanping.cantodict.app.pro/com.embermitre.dictroid.ui.SearchActivity}" drawable="hanping_cantonese" />
+
+	<!-- Hanping Chinese Pro -->
+	<item component="ComponentInfo{com.embermitre.hanping.app.pro/com.embermitre.dictroid.ui.SearchActivity}" drawable="hanping_chinese_pro" />
+
+	<!-- LINE -->
+	<item component="ComponentInfo{jp.naver.line.android/jp.naver.line.android.activity.SplashActivity}" drawable="line" />
+
+	<!-- QuickDic -->
+	<item component="ComponentInfo{de.reimardoeffinger.quickdic/com.hughes.android.dictionary.DictionaryManagerActivity}" drawable="quickdic" />
+
+</resources>

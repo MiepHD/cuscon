@@ -1,0 +1,18 @@
+<Theme version="1">
+
+	<!-- Camera -->
+	<AppIcon name="com.hmdglobal.app.camera/com.hmdglobal.app.camera.GuideActivity" image="camera"/>
+
+	<!-- Collabora Office -->
+	<AppIcon name="com.collabora.libreoffice.snapshot/org.libreoffice.androidapp.ui.LibreOfficeUIActivity" image="collabora_office"/>
+
+	<!-- Iceraven -->
+	<AppIcon name="io.github.forkmaintainers.iceraven/io.github.forkmaintainers.iceraven.App" image="iceraven"/>
+
+	<!-- Telegram -->
+	<AppIcon name="org.telegram.messenger.web/org.telegram.messenger.DefaultIcon" image="telegram"/>
+
+	<!-- TomTom GO -->
+	<AppIcon name="com.tomtom.gplay.navapp/com.tomtom.mobilenavapp.MobileNavAppActivity" image="tomtom_go"/>
+
+</Theme>

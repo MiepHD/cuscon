@@ -1,0 +1,21 @@
+<Theme version="1">
+
+	<!-- Battle.net -->
+	<AppIcon name="com.blizzard.messenger/com.blizzard.messenger.ui.splash.SplashActivity" image="battlenet"/>
+
+	<!-- KeePassDX -->
+	<AppIcon name="com.kunzisoft.keepass.free/com.kunzisoft.keepass.activities.FileDatabaseSelectActivity" image="keepassdx"/>
+
+	<!-- Mullvad VPN -->
+	<AppIcon name="net.mullvad.mullvadvpn/net.mullvad.mullvadvpn.ui.MainActivity" image="mullvad_vpn"/>
+
+	<!-- Papirus Icon Pack -->
+	<AppIcon name="io.github.PapirusDevelopmentTeam.papirus_icons/io.github.PapirusDevelopmentTeam.papirus_icons.activities.SplashActivity" image="papirus_icon_pack"/>
+
+	<!-- Pixel Tips -->
+	<AppIcon name="com.google.android.apps.tips/com.google.android.apps.tips.TipsMain" image="pixel_tips"/>
+
+	<!-- Recorder -->
+	<AppIcon name="com.google.android.apps.recorder/com.google.android.apps.recorder.ui.recordings.MainActivity" image="recorder"/>
+
+</Theme>

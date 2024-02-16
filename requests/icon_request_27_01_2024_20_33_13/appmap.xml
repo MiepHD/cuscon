@@ -1,0 +1,6 @@
+<appmap>
+
+	<!-- FamApp -->
+	<item class="com.fampay.in.ui.splash.SplashActivity" name="famapp"/>
+
+</appmap>

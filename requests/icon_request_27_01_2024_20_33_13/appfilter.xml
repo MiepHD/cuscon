@@ -1,0 +1,6 @@
+<resources>
+
+	<!-- FamApp -->
+	<item component="ComponentInfo{com.fampay.in/com.fampay.in.ui.splash.SplashActivity}" drawable="famapp" />
+
+</resources>

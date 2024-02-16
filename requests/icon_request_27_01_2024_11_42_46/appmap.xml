@@ -1,0 +1,21 @@
+<appmap>
+
+	<!-- Battle.net -->
+	<item class="com.blizzard.messenger.ui.splash.SplashActivity" name="battlenet"/>
+
+	<!-- KeePassDX -->
+	<item class="com.kunzisoft.keepass.activities.FileDatabaseSelectActivity" name="keepassdx"/>
+
+	<!-- Mullvad VPN -->
+	<item class="net.mullvad.mullvadvpn.ui.MainActivity" name="mullvad_vpn"/>
+
+	<!-- Papirus Icon Pack -->
+	<item class="io.github.PapirusDevelopmentTeam.papirus_icons.activities.SplashActivity" name="papirus_icon_pack"/>
+
+	<!-- Pixel Tips -->
+	<item class="com.google.android.apps.tips.TipsMain" name="pixel_tips"/>
+
+	<!-- Recorder -->
+	<item class="com.google.android.apps.recorder.ui.recordings.MainActivity" name="recorder"/>
+
+</appmap>

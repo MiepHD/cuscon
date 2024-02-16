@@ -1,5 +1,6 @@
 import sys
 import re
+import os
 from os.path import exists
 
 appfilter = ""
@@ -17,6 +18,18 @@ with open("../../app/src/main/res/xml/appfilter.xml", encoding="utf-8") as f1:
                         appfilter = appfilter + name + '\n'
                     if (exists("../../app/src/main/res/drawable-nodpi/" + name + ".png")):
                         conflict = conflict + name + '\n'
-print(appfilter)
-print("Conflicts:")
-print(conflict)
+
+if (sys.argv[1]=="-rmaa"):
+    for file in appfilter.split("\n"):
+        if (file != ""):
+            print("Deleting " + file)
+            os.remove(file + ".png")
+elif (sys.argv[1]=="-rmcon"):
+    for file in conflict.split("\n"):
+        if (file != "" and exists("get/" + file + ".png")):
+            print("Deleting " + file)
+            os.remove("get/" + file + ".png")
+else:
+    print(appfilter)
+    print("Conflicts:")
+    print(conflict)
