@@ -3309,5 +3309,31 @@
     <item component="ComponentInfo{com.parsifal.starz/com.parsifal.starz.ui.features.launcher.LauncherActivity}" drawable="starz_on" />
     <item component="ComponentInfo{com.storeus/com.nft.storeus.MainActivity}" drawable="storeus" />
     <item component="ComponentInfo{com.inditex.stradivarius/es.sdos.sdosproject.ui.splash.activity.LaunchActivity}" drawable="stradivarius" />
+	<item component="ComponentInfo{ar.tvplayer.companion/ar.tvplayer.companion.ui.MainActivity}" drawable="tivimate_companion" />
+    <item component="ComponentInfo{com.todtv.tod/axis.android.sdk.app.startup.ui.StartupActivity}" drawable="tod" />
+    <item component="ComponentInfo{ctrip.english/com.ctrip.ibu.myctrip.main.module.home.IBUHomeActivity}" drawable="tripcom" />
+    <item component="ComponentInfo{com.trovit.android.apps.cars/com.trovit.android.apps.cars.ui.activities.SplashActivity}" drawable="trovit_cars" />
+    <item component="ComponentInfo{com.ubuy/com.app.mazade.ubuy.SplashActivity}" drawable="ubuy" />
+    <item component="ComponentInfo{com.intelligentb.proptech/com.intelligentb.proptech.ui.MainActivity}" drawable="urban" />
+    <item component="ComponentInfo{com.urbanclap.urbanclap/com.urbanclap.urbanclap.core.app_icon.NormalUser}" drawable="urban_company" />
+    <item component="ComponentInfo{skr.susanta.uxledfree/skr.susanta.uxledfree.MainActivity}" drawable="ux_led_free" />
+    <item component="ComponentInfo{com.stasbar.vape_tool/com.stasbar.activity.MainActivity}" drawable="vape_tool" />
+    <item component="ComponentInfo{com.versus/com.google.androidbrowserhelper.trusted.LauncherActivity}" drawable="versus" />
+    <item component="ComponentInfo{com.lightricks.videoleap/com.lightricks.videoleap.app.SplashActivity}" drawable="videoleap" />
+    <item component="ComponentInfo{io.vinci.android/io.vinci.android.MainActivity}" drawable="vinci" />
+    <item component="ComponentInfo{com.virginmegastore.mobile/com.virginmegastore.mobile.MainActivity}" drawable="virgin_megastore" />
+    <item component="ComponentInfo{com.vuclip.viu/com.viu.phone.ui.activity.WelcomeActivity}" drawable="viu" />
+    <item component="ComponentInfo{com.quvideo.xiaoying/com.quvideo.xiaoying.app.splash.SplashActivity}" drawable="vivavideo" />
+    <item component="ComponentInfo{com.vsco.cam/com.vsco.cam.navigation.LithiumActivity}" drawable="vsco" />
+    <item component="ComponentInfo{com.rev.mobilebanking.etihaduae/com.rev.mobilebanking.activities.SplashActivity}" drawable="walletplus" />
+    <item component="ComponentInfo{com.watchit.vod/com.watchit.vod.refactor.splash.ui.SplashActivity}" drawable="watch_it" />
+    <item component="ComponentInfo{com.westernunion.moneytransferr3app.ae/com.wurnmobile.MainActivity}" drawable="western_union" />
+    <item component="ComponentInfo{com.whattawatch/com.whattawatch.MainActivity}" drawable="whattawatch" />
+    <item component="ComponentInfo{abdelrahman.wifimaestro/abdelrahman.wifimaestro.MainActivity}" drawable="wifi_maestro" />
+    <item component="ComponentInfo{com.osstream.xboxOneController/com.osstream.xboxOneController.mainmenu.MainMenuActivity}" drawable="xbstream_controller" />
+    <item component="ComponentInfo{com.ryzenrise.xefx/com.lightcone.xefx.activity.SplashActivity}" drawable="xefx_pro" />
+    <item component="ComponentInfo{com.OyunErbabi.XGamepadTester/com.unity3d.player.UnityPlayerActivity}" drawable="x_gamepad_tester" />
+    <item component="ComponentInfo{com.yatra.base/com.yatra.base.activity.SplashScreenActivity}" drawable="yatra" />
+    <item component="ComponentInfo{com.inditex.ecommerce.zarahome.android/es.sdos.sdosproject.ui.splash.activity.LaunchActivity}" drawable="zara_home" />
 
 </resources>

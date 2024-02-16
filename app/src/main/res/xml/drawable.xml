@@ -3270,5 +3270,31 @@
     <item drawable="starz_on" />
     <item drawable="storeus" />
     <item drawable="stradivarius" />
+    <item drawable="tivimate_companion" />
+    <item drawable="tod" />
+    <item drawable="tripcom" />
+    <item drawable="trovit_cars" />
+    <item drawable="ubuy" />
+    <item drawable="urban" />
+    <item drawable="urban_company" />
+    <item drawable="ux_led_free" />
+    <item drawable="vape_tool" />
+    <item drawable="versus" />
+    <item drawable="videoleap" />
+    <item drawable="vinci" />
+    <item drawable="virgin_megastore" />
+    <item drawable="viu" />
+    <item drawable="vivavideo" />
+    <item drawable="vsco" />
+    <item drawable="walletplus" />
+    <item drawable="watch_it" />
+    <item drawable="western_union" />
+    <item drawable="whattawatch" />
+    <item drawable="wifi_maestro" />
+    <item drawable="xbstream_controller" />
+    <item drawable="xefx_pro" />
+    <item drawable="x_gamepad_tester" />
+    <item drawable="yatra" />
+    <item drawable="zara_home" />
 
 </resources>

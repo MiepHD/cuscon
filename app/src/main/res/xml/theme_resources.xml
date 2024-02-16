@@ -3299,5 +3299,31 @@
     <AppIcon name="com.parsifal.starz/com.parsifal.starz.ui.features.launcher.LauncherActivity" image="starz_on"/>
     <AppIcon name="com.storeus/com.nft.storeus.MainActivity" image="storeus"/>
     <AppIcon name="com.inditex.stradivarius/es.sdos.sdosproject.ui.splash.activity.LaunchActivity" image="stradivarius"/>
+	<AppIcon name="ar.tvplayer.companion/ar.tvplayer.companion.ui.MainActivity" image="tivimate_companion"/>
+    <AppIcon name="com.todtv.tod/axis.android.sdk.app.startup.ui.StartupActivity" image="tod"/>
+    <AppIcon name="ctrip.english/com.ctrip.ibu.myctrip.main.module.home.IBUHomeActivity" image="tripcom"/>
+    <AppIcon name="com.trovit.android.apps.cars/com.trovit.android.apps.cars.ui.activities.SplashActivity" image="trovit_cars"/>
+    <AppIcon name="com.ubuy/com.app.mazade.ubuy.SplashActivity" image="ubuy"/>
+    <AppIcon name="com.intelligentb.proptech/com.intelligentb.proptech.ui.MainActivity" image="urban"/>
+    <AppIcon name="com.urbanclap.urbanclap/com.urbanclap.urbanclap.core.app_icon.NormalUser" image="urban_company"/>
+    <AppIcon name="skr.susanta.uxledfree/skr.susanta.uxledfree.MainActivity" image="ux_led_free"/>
+    <AppIcon name="com.stasbar.vape_tool/com.stasbar.activity.MainActivity" image="vape_tool"/>
+    <AppIcon name="com.versus/com.google.androidbrowserhelper.trusted.LauncherActivity" image="versus"/>
+    <AppIcon name="com.lightricks.videoleap/com.lightricks.videoleap.app.SplashActivity" image="videoleap"/>
+    <AppIcon name="io.vinci.android/io.vinci.android.MainActivity" image="vinci"/>
+    <AppIcon name="com.virginmegastore.mobile/com.virginmegastore.mobile.MainActivity" image="virgin_megastore"/>
+    <AppIcon name="com.vuclip.viu/com.viu.phone.ui.activity.WelcomeActivity" image="viu"/>
+    <AppIcon name="com.quvideo.xiaoying/com.quvideo.xiaoying.app.splash.SplashActivity" image="vivavideo"/>
+    <AppIcon name="com.vsco.cam/com.vsco.cam.navigation.LithiumActivity" image="vsco"/>
+    <AppIcon name="com.rev.mobilebanking.etihaduae/com.rev.mobilebanking.activities.SplashActivity" image="walletplus"/>
+    <AppIcon name="com.watchit.vod/com.watchit.vod.refactor.splash.ui.SplashActivity" image="watch_it"/>
+    <AppIcon name="com.westernunion.moneytransferr3app.ae/com.wurnmobile.MainActivity" image="western_union"/>
+    <AppIcon name="com.whattawatch/com.whattawatch.MainActivity" image="whattawatch"/>
+    <AppIcon name="abdelrahman.wifimaestro/abdelrahman.wifimaestro.MainActivity" image="wifi_maestro"/>
+    <AppIcon name="com.osstream.xboxOneController/com.osstream.xboxOneController.mainmenu.MainMenuActivity" image="xbstream_controller"/>
+    <AppIcon name="com.ryzenrise.xefx/com.lightcone.xefx.activity.SplashActivity" image="xefx_pro"/>
+    <AppIcon name="com.OyunErbabi.XGamepadTester/com.unity3d.player.UnityPlayerActivity" image="x_gamepad_tester"/>
+    <AppIcon name="com.yatra.base/com.yatra.base.activity.SplashScreenActivity" image="yatra"/>
+    <AppIcon name="com.inditex.ecommerce.zarahome.android/es.sdos.sdosproject.ui.splash.activity.LaunchActivity" image="zara_home"/>
 
 </Theme>
