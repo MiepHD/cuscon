@@ -45,7 +45,7 @@ cusconify() {
 
     black=$(convert $filename -colorspace RGB -format %c  -depth 8  histogram:info:-|grep -i '#000000ff')
 
-    if [ "$a" != "0" ] && (( luma > 80 )); then
+    if [ "$a" != "0" ] && (( luma > 70 )); then
         if [ -z "$black" ]; then
             echo "Replace white with background color"
             magick get/$filename -fuzz 15% -fill "srgba($r,$g,$b,$a)" -opaque white get/$filename
