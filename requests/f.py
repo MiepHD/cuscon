@@ -7,9 +7,15 @@ changelog = ""
 appfilter = ""
 theme_resources = ""
 
-if (len(sys.argv) == 1):
+if ("-get" in sys.argv):
     params = os.listdir("get/")
     params = [e.replace(".png", "") for e in params]
+    if ("-rmget" in sys.argv):
+        for file in params:
+            if (exists(file + ".png")):
+                print("Deleting " + file)
+                os.remove(file + ".png")
+        exit(0)
 else:
     params = sys.argv
 
