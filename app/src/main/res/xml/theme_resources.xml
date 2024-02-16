@@ -3268,7 +3268,7 @@
     <AppIcon name="com.naraorganics.nara/com.naraorganics.nara.MainActivity" image="nara_baby"/>
     <AppIcon name="com.aospstudio.notificationlog/com.aospstudio.shortcuts.MainActivity" image="notification_log"/>
     <AppIcon name="com.GalacticSlice.OneBitAdventure/com.unity3d.player.UnityPlayerActivity" image="onebit_adventure"/>
-    <AppIcon name="com.openathena/com.openathena.MainActivity" image="openathena™_for_android"/>
+    <AppIcon name="com.openathena/com.openathena.MainActivity" image="openathena_for_android"/>
     <AppIcon name="com.passmark.pt_mobile/com.passmark.pt_mobile.SplashScreen" image="performancetest_mobile"/>
     <AppIcon name="com.mobireactor.signlanguage/com.mobireactor.signlanguage.MainActivity" image="pocket_sign"/>
     <AppIcon name="com.redfin.android/com.redfin.android.activity.launch.DefaultLaunchActivity" image="redfin"/>
@@ -3457,7 +3457,7 @@
     <AppIcon name="com.tier.app/com.tier.legacy.ui.splash.SplashActivity" image="tier"/>
     <AppIcon name="one.tomorrow.app/one.tomorrow.app.commons.ui.MainActivity" image="tomorrow"/>
     <AppIcon name="com.totaladblock.contentblock/com.av.adblocker.SplashActivity" image="total_adblock_for_samsung"/>
-    <AppIcon name="de.traderepublic.app/de.traderepublic.app.ui.splash.LaunchActivity" image="trade republic"/>
+    <AppIcon name="de.traderepublic.app/de.traderepublic.app.ui.splash.LaunchActivity" image="traderepublic"/>
     <AppIcon name="tv.trakt.trakt/tv.trakt.trakt.ui.main.MainActivity" image="trakt"/>
     <AppIcon name="tunein.player/tunein.ui.activities.TuneInHomeActivity" image="tunein_radio"/>
     <AppIcon name="com.verimi/com.verimi.main.presentation.ui.MainActivity" image="verimi"/>
@@ -3531,7 +3531,7 @@
     <AppIcon name="app.disciplined.productive.structured.habit.tracker/app.disciplined.productive.structured.habit.tracker.MainActivity" image="disciplined"/>
     <AppIcon name="com.awgstudios.discordtools/crc641526ba6564b08f07.SplashActivity" image="discord_tools"/>
     <AppIcon name="com.awgstudios.discordwebhookremoteapp/crc6490bee2440872efc7.SplashActivity" image="discord_webhook_remote"/>
-    <AppIcon name="dev.beefers.vendetta/com.discord.main.MainGalaxy" image="discord_👻"/>
+    <AppIcon name="dev.beefers.vendetta/com.discord.main.MainGalaxy" image="discord_ghost"/>
     <AppIcon name="com.atlantis.launcher/com.atlantis.launcher.home.HomeActivity" image="dna_launcher"/>
     <AppIcon name="com.blackboard.transact.android.v2/com.blackboard.transact.android.v2.Launcher" image="eaccounts"/>
     <AppIcon name="easy.launcher/easy.launcher.AppStartActivity" image="easy_homescreen"/>
@@ -3624,7 +3624,7 @@
     <AppIcon name="com.leadstepp.alldone/com.leadstepp.alldone.MainActivity" image="planndu"/>
     <AppIcon name="app.polygloss.polygloss_app/app.polygloss.polygloss_app.MainActivity" image="polygloss"/>
     <AppIcon name="com.emn8.mobilem8.nativeapp.popeyes/com.emn8.mobilem8.nativeapp.popeyes.MainActivity" image="popeyes"/>
-    <AppIcon name="com.jamworks.disablenotificationpopups/com.jamworks.disablenotificationpopups.SettingsHome" image="popup​control"/>
+    <AppIcon name="com.jamworks.disablenotificationpopups/com.jamworks.disablenotificationpopups.SettingsHome" image="popupcontrol"/>
     <AppIcon name="com.producthuntmobile/com.producthuntmobile.ui.MainActivity" image="product_hunt"/>
     <AppIcon name="com.prosper.routines.todo.productive.fabulous.habits.selfcare/com.prosper.routines.todo.productive.fabulous.habits.selfcare.MainActivity" image="prosper"/>
     <AppIcon name="com.pushbullet.android/com.pushbullet.android.ui.LaunchActivity" image="pushbullet"/>

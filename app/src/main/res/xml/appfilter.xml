@@ -3278,7 +3278,7 @@
     <item component="ComponentInfo{com.naraorganics.nara/com.naraorganics.nara.MainActivity}" drawable="nara_baby" />
     <item component="ComponentInfo{com.aospstudio.notificationlog/com.aospstudio.shortcuts.MainActivity}" drawable="notification_log" />
     <item component="ComponentInfo{com.GalacticSlice.OneBitAdventure/com.unity3d.player.UnityPlayerActivity}" drawable="onebit_adventure" />
-    <item component="ComponentInfo{com.openathena/com.openathena.MainActivity}" drawable="openathena™_for_android" />
+    <item component="ComponentInfo{com.openathena/com.openathena.MainActivity}" drawable="openathena_for_android" />
     <item component="ComponentInfo{com.passmark.pt_mobile/com.passmark.pt_mobile.SplashScreen}" drawable="performancetest_mobile" />
     <item component="ComponentInfo{com.mobireactor.signlanguage/com.mobireactor.signlanguage.MainActivity}" drawable="pocket_sign" />
     <item component="ComponentInfo{com.redfin.android/com.redfin.android.activity.launch.DefaultLaunchActivity}" drawable="redfin" />
@@ -3467,7 +3467,7 @@
     <item component="ComponentInfo{com.tier.app/com.tier.legacy.ui.splash.SplashActivity}" drawable="tier" />
     <item component="ComponentInfo{one.tomorrow.app/one.tomorrow.app.commons.ui.MainActivity}" drawable="tomorrow" />
     <item component="ComponentInfo{com.totaladblock.contentblock/com.av.adblocker.SplashActivity}" drawable="total_adblock_for_samsung" />
-    <item component="ComponentInfo{de.traderepublic.app/de.traderepublic.app.ui.splash.LaunchActivity}" drawable="trade republic" />
+    <item component="ComponentInfo{de.traderepublic.app/de.traderepublic.app.ui.splash.LaunchActivity}" drawable="traderepublic" />
     <item component="ComponentInfo{tv.trakt.trakt/tv.trakt.trakt.ui.main.MainActivity}" drawable="trakt" />
     <item component="ComponentInfo{tunein.player/tunein.ui.activities.TuneInHomeActivity}" drawable="tunein_radio" />
     <item component="ComponentInfo{com.verimi/com.verimi.main.presentation.ui.MainActivity}" drawable="verimi" />
@@ -3541,7 +3541,7 @@
     <item component="ComponentInfo{app.disciplined.productive.structured.habit.tracker/app.disciplined.productive.structured.habit.tracker.MainActivity}" drawable="disciplined" />
     <item component="ComponentInfo{com.awgstudios.discordtools/crc641526ba6564b08f07.SplashActivity}" drawable="discord_tools" />
     <item component="ComponentInfo{com.awgstudios.discordwebhookremoteapp/crc6490bee2440872efc7.SplashActivity}" drawable="discord_webhook_remote" />
-    <item component="ComponentInfo{dev.beefers.vendetta/com.discord.main.MainGalaxy}" drawable="discord_👻" />
+    <item component="ComponentInfo{dev.beefers.vendetta/com.discord.main.MainGalaxy}" drawable="discord_ghost" />
     <item component="ComponentInfo{com.atlantis.launcher/com.atlantis.launcher.home.HomeActivity}" drawable="dna_launcher" />
     <item component="ComponentInfo{com.blackboard.transact.android.v2/com.blackboard.transact.android.v2.Launcher}" drawable="eaccounts" />
     <item component="ComponentInfo{easy.launcher/easy.launcher.AppStartActivity}" drawable="easy_homescreen" />
@@ -3634,7 +3634,7 @@
     <item component="ComponentInfo{com.leadstepp.alldone/com.leadstepp.alldone.MainActivity}" drawable="planndu" />
     <item component="ComponentInfo{app.polygloss.polygloss_app/app.polygloss.polygloss_app.MainActivity}" drawable="polygloss" />
     <item component="ComponentInfo{com.emn8.mobilem8.nativeapp.popeyes/com.emn8.mobilem8.nativeapp.popeyes.MainActivity}" drawable="popeyes" />
-    <item component="ComponentInfo{com.jamworks.disablenotificationpopups/com.jamworks.disablenotificationpopups.SettingsHome}" drawable="popup​control" />
+    <item component="ComponentInfo{com.jamworks.disablenotificationpopups/com.jamworks.disablenotificationpopups.SettingsHome}" drawable="popupcontrol" />
     <item component="ComponentInfo{com.producthuntmobile/com.producthuntmobile.ui.MainActivity}" drawable="product_hunt" />
     <item component="ComponentInfo{com.prosper.routines.todo.productive.fabulous.habits.selfcare/com.prosper.routines.todo.productive.fabulous.habits.selfcare.MainActivity}" drawable="prosper" />
     <item component="ComponentInfo{com.pushbullet.android/com.pushbullet.android.ui.LaunchActivity}" drawable="pushbullet" />
