@@ -7,7 +7,7 @@ prep() {
 
     echo "Editing $filename"
     magick $filename -fuzz 20% -trim -resize 512x512 +repage "get/$filename"
-    cusconify $filename
+        cusconify $filename
 }
 
 cusconify() {
@@ -16,7 +16,8 @@ cusconify() {
     b=$(magick get/$filename -format "%[fx:round(255*u.p{10,256}.b)]" info:)
     a=$(magick get/$filename -format "%[fx:round(255*u.p{10,256}.a)]" info:)
     luma=$(awk -v r="$r" -v g="$g" -v b="$b" 'BEGIN { printf "%.0f", (r + g + b) / 3 }')
-    echo "$luma"
+    echo "Luma: $luma"
+    echo "Transparency: $a"
     if [ "$a" != "0" ]; then
         echo "Remove background"
         magick "get/$filename" -fill none -fuzz 40% -draw "color 10,256 replace" +repage "get/$filename"

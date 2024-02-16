@@ -3302,5 +3302,12 @@
     <item component="ComponentInfo{com.tplink.networktoolsbox/com.tplink.networktoolsbox.ui.init.SplashActivity}" drawable="wi_fi_toolkit" />
     <item component="ComponentInfo{com.jacobsmedia.wxxi/com.skyblue.activity.InitialActivity}" drawable="wxxi" />
     <item component="ComponentInfo{de.yaacc/de.yaacc.browser.TabBrowserActivity}" drawable="yaacc" />
+	<item component="ComponentInfo{com.loylogic.pointspay/com.loylogic.pointspay.ui.usermanagement.LoginActivity}" drawable="reward_card" />
+    <item component="ComponentInfo{com.servicemycar.android/com.lt.ui.welcome.splash.SplashActivity_}" drawable="servicemycar" />
+    <item component="ComponentInfo{com.Soufeel/com.Soufeel.activity.WelcomeActivity}" drawable="soufeel" />
+    <item component="ComponentInfo{com.sporter/com.sporter.MainActivity}" drawable="sporter" />
+    <item component="ComponentInfo{com.parsifal.starz/com.parsifal.starz.ui.features.launcher.LauncherActivity}" drawable="starz_on" />
+    <item component="ComponentInfo{com.storeus/com.nft.storeus.MainActivity}" drawable="storeus" />
+    <item component="ComponentInfo{com.inditex.stradivarius/es.sdos.sdosproject.ui.splash.activity.LaunchActivity}" drawable="stradivarius" />
 
 </resources>

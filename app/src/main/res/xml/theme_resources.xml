@@ -3292,5 +3292,12 @@
     <AppIcon name="com.tplink.networktoolsbox/com.tplink.networktoolsbox.ui.init.SplashActivity" image="wi_fi_toolkit"/>
     <AppIcon name="com.jacobsmedia.wxxi/com.skyblue.activity.InitialActivity" image="wxxi"/>
     <AppIcon name="de.yaacc/de.yaacc.browser.TabBrowserActivity" image="yaacc"/>
+	<AppIcon name="com.loylogic.pointspay/com.loylogic.pointspay.ui.usermanagement.LoginActivity" image="reward_card"/>
+    <AppIcon name="com.servicemycar.android/com.lt.ui.welcome.splash.SplashActivity_" image="servicemycar"/>
+    <AppIcon name="com.Soufeel/com.Soufeel.activity.WelcomeActivity" image="soufeel"/>
+    <AppIcon name="com.sporter/com.sporter.MainActivity" image="sporter"/>
+    <AppIcon name="com.parsifal.starz/com.parsifal.starz.ui.features.launcher.LauncherActivity" image="starz_on"/>
+    <AppIcon name="com.storeus/com.nft.storeus.MainActivity" image="storeus"/>
+    <AppIcon name="com.inditex.stradivarius/es.sdos.sdosproject.ui.splash.activity.LaunchActivity" image="stradivarius"/>
 
 </Theme>
