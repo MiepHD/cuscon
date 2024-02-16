@@ -1,78 +1,66 @@
 #!/bin/sh
 
-print_background() {
-    echo "Colors around the edge of $1"
-    for x in 0 256 512
-    do
-        for y in 0 256 512
-        do
-            if [ $x != 256 ] || [ $y != 256 ]; then
-                magick $1 -format "Color at ($x,$y) %[pixel:u.p{$x,$y}]\n" info:
-            fi
-        done
-    done
+prep() {
+    filename="$1"
+
+    mkdir -p get
+
+    echo "Editing $filename"
+    magick $filename -fuzz 20% -trim -resize 512x512 +repage "get/$filename"
+    cusconify $filename
 }
 
 cusconify() {
-    # 1st parameter: filename
-    # 2nd parameter (optional): x coordinate to get background color from
-    # 3rd parameter (optional): y coordinate to get background color from
-    # 4th parameter (optional): fuzz percentage for background
-    # 5th parameter (optional): fuzz percentage for trimming
-    # 6th parameter (optional): floodfill or replace 
-
-    filename="$1"
-    new_file="new_$filename"
-    temp_dir="cusconify_temp"
-
-
-    mkdir -p $temp_dir
-    mkdir -p get
-
-    echo "Resize $filename to 512x512"
-    magick $filename -fuzz 20% -trim -resize 512x512 +repage $temp_dir/$new_file
-
-    echo
-    print_background $filename
-    print_background $temp_dir/$new_file
-
-    echo
-    echo "Remove background"
-    if [ "$6" = "floodfill" ]; then
-        magick $temp_dir/$new_file -fill none -fuzz ${4:-40}% -draw "color ${2:-256},${3:-0} floodfill" +repage "$temp_dir/no_bg_$new_file"
-    else
-        magick $temp_dir/$new_file -fill none -fuzz ${4:-40}% -draw "color ${2:-256},${3:-0} replace" +repage "$temp_dir/no_bg_$new_file"
+    r=$(magick get/$filename -format "%[fx:round(255*u.p{10,256}.r)]" info:)
+    g=$(magick get/$filename -format "%[fx:round(255*u.p{10,256}.g)]" info:)
+    b=$(magick get/$filename -format "%[fx:round(255*u.p{10,256}.b)]" info:)
+    a=$(magick get/$filename -format "%[fx:round(255*u.p{10,256}.a)]" info:)
+    luma=$(awk -v r="$r" -v g="$g" -v b="$b" 'BEGIN { printf "%.0f", (r + g + b) / 3 }')
+    echo "$luma"
+    if [ "$a" != "0" ]; then
+        echo "Remove background"
+        magick "get/$filename" -fill none -fuzz 40% -draw "color 10,256 replace" +repage "get/$filename"
     fi
 
-    echo "Trim transparent border"
-    magick "$temp_dir/no_bg_$new_file" -fuzz ${5:-75}% -trim +repage "$temp_dir/trimmed_$new_file"
+    magick "get/$filename" -fuzz 75% -trim +repage "get/$filename"
+    
+    if [ "$a" == "0" ]; then
+        magick $filename -fuzz 20% -trim -resize 512x512 +repage "get/$filename"
 
-    # resize preserves the aspect ratio, so the longest edge is now 450px
-    # https://imagemagick.org/Usage/resize/
-    echo "Resize trimmed image so longest side is 450px"
-    magick "$temp_dir/trimmed_$new_file" -resize 450x450 +repage "$temp_dir/450_$new_file"
+        echo "Get three more pixels to better evaluate"
+        left=$(magick get/$filename -format "%[fx:round(255*u.p{10,256}.a)]" info:)
+        right=$(magick get/$filename -format "%[fx:round(255*u.p{502,256}.a)]" info:)
+        top=$(magick get/$filename -format "%[fx:round(255*u.p{256,10}.a)]" info:)
+        bottom=$(magick get/$filename -format "%[fx:round(255*u.p{256,502}.a)]" info:)
 
-    echo "Put 450px trimmed image in center of 512x512 transparent image"
-    magick "$temp_dir/450_$new_file" -background transparent -gravity center -extent 512x512 +repage "$temp_dir/aio_$new_file"
+        if [ "$left" != "0" ] && [ "$right" != "0" ] && [ "$top" != "0" ] && [ "$bottom" != "0" ]; then
+            echo "Do cusconify again with cropped and resized image"
+            cusconify $filename
+        fi
+    fi
 
+    magick "get/$filename" -resize 450x450 +repage "get/$filename"
 
-    echo "Generate icon with black borders"
-    magick "$temp_dir/aio_$new_file" -bordercolor none -border 12 -background black -alpha background -channel A -blur 12x12 -level 0,5% -resize 512x512 +repage "$temp_dir/bordered_$new_file"
+    magick "get/$filename" -background transparent -gravity center -extent 512x512 +repage "get/$filename"
 
-    echo "Make sure final icon is 512x512"
-    magick "$temp_dir/bordered_$new_file" -background transparent -gravity center -extent 512x512 +repage "$temp_dir/bordered_$new_file"
+    black=$(convert $filename -colorspace RGB -format %c  -depth 8  histogram:info:-|grep -i '#000000ff')
 
-    echo
-    echo "To replace white with the background color run:"
-    eval "magick $temp_dir/bordered_$new_file -fuzz 15% -fill '$(magick $temp_dir/$new_file -format "%[pixel:u.p{$x,$y}]\n" info:)' -opaque white get/$filename"
-    echo "If the background color should be different, just change the srgba value passed in."
-    echo "If the result replaces too much or not enough with the background color, try adjusting the fuzz percentage."
+    if [ "$a" != "0" ] && (( luma > 80 )); then
+        if [ -z "$black" ]; then
+            echo "Replace white with background color"
+            magick get/$filename -fuzz 15% -fill "srgba($r,$g,$b,$a)" -opaque white get/$filename
+        else
+            echo "Replace black with background color"
+            magick get/$filename -fuzz 15% -fill "srgba($r,$g,$b,$a)" -opaque black get/$filename
+        fi
+    else
+        echo "Background color too dark or no background"
+    fi
+
+    magick "get/$filename" -bordercolor none -border 12 -background black -alpha background -channel A -blur 12x12 -level 0,5% -resize 512x512 +repage "get/$filename"
 }
-
-
-
 
 for file in *.png
 do 
-    cusconify $file
+    prep $file
 done
