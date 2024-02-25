@@ -3410,7 +3410,6 @@
     <item drawable="rtl_" />
     <item drawable="rtl_musik" />
     <item drawable="safenow" />
-    <item drawable="safenow" />
     <item drawable="samsung_boost" />
     <item drawable="sharemagazines" />
     <item drawable="show" />
@@ -3450,8 +3449,6 @@
     <item drawable="adobe_capture" />
     <item drawable="airtask" />
     <item drawable="ai_chat" />
-    <item drawable="ai_chat" />
-    <item drawable="ai_chat" />
     <item drawable="amazon_shopper_panel" />
     <item drawable="amplenote" />
     <item drawable="antar" />
@@ -3484,7 +3481,6 @@
     <item drawable="career_karma" />
     <item drawable="cc_launcher" />
     <item drawable="characterai" />
-    <item drawable="chatbot" />
     <item drawable="chatbot" />
     <item drawable="chatgen" />
     <item drawable="chaton_ai" />
@@ -3638,7 +3634,6 @@
     <item drawable="textify" />
     <item drawable="textra" />
     <item drawable="ticktick" />
-    <item drawable="ticktick" />
     <item drawable="tooly" />
     <item drawable="tracemoe" />
     <item drawable="tune" />
@@ -3745,7 +3740,6 @@
     <item drawable="elona" />
     <item drawable="embrace" />
     <item drawable="era_of_conquest" />
-    <item drawable="exif_viewer" />
     <item drawable="exif_viewer" />
     <item drawable="exported_icon_pack" />
     <item drawable="fleeting_notes" />
