@@ -3711,5 +3711,10 @@
     <AppIcon name="com.estsoft.picnic/com.estsoft.picnic.ui.front.FrontActivity" image="estsoft_picnic"/>
     <AppIcon name="com.zhenxiang.superimage.pro/com.zhenxiang.superimage.MainActivity" image="superimage_pro"/>
     <AppIcon name="com.lahsuak.apps.tasks/com.lahsuak.apps.tasks.ui.MainActivity" image="tasks_plus"/>
+	<AppIcon name="com.emn8.mobilem8.nativeapp.bk/com.emn8.mobilem8.nativeapp.bk.MainActivity" image="burger_king"/>
+    <AppIcon name="website.leifs.delta.foss/website.leifs.delta.activities.MainActivity" image="delta"/>
+    <AppIcon name="org.materialos.icons/com.afollestad.polar.ui.SplashScreen" image="materialos"/>
+    <AppIcon name="com.shell.sitibv.motorist.america/com.mobgen.fireblade.presentation.splash.SplashActivity" image="shell"/>
+    <AppIcon name="net.zedge.android/net.zedge.android.MainValentines" image="zedge"/>
 
 </Theme>
