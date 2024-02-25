@@ -3889,6 +3889,10 @@
     <AppIcon name="me.creasis.reader/me.creasis.reader.MainActivity" image="nexa"/>
     <AppIcon name="jp.snowlife01.android.rotationcontrol/jp.snowlife01.android.rotationcontrolpro.rotation2.MainActivityNew" image="rotation_control_pro"/>
 	<AppIcon name="com.kfc.de.mobileapp/com.kfc.de.mobileapp.SplashActivity" image="kfc"/>
+	<AppIcon name="com.unitedinternet.portal.android.onlinestorage.eue/com.unitedinternet.portal.android.onlinestorage.application.activity.NewSmartDriveActivity" image="1_1_cloud"/>
+    <AppIcon name="com.rewedigital.shop/de.rewe.app.ChangeAppActivity" image="rewe_alt"/>
+    <AppIcon name="de.number26.android/de.number26.machete.android.refactor.presentation.settings.customize_icon.launch_aliases.PrideActivityLauncher" image="number26"/>
+    <AppIcon name="com.subway.subway/com.subway.subway.SplashActivity" image="subway"/>
 
 
 </Theme>

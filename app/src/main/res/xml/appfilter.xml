@@ -3902,5 +3902,9 @@
     <item component="ComponentInfo{me.creasis.reader/me.creasis.reader.MainActivity}" drawable="nexa" />
     <item component="ComponentInfo{jp.snowlife01.android.rotationcontrol/jp.snowlife01.android.rotationcontrolpro.rotation2.MainActivityNew}" drawable="rotation_control_pro" />
 	<item component="ComponentInfo{com.kfc.de.mobileapp/com.kfc.de.mobileapp.SplashActivity}" drawable="kfc" />
+	<item component="ComponentInfo{com.unitedinternet.portal.android.onlinestorage.eue/com.unitedinternet.portal.android.onlinestorage.application.activity.NewSmartDriveActivity}" drawable="1_1_cloud" />
+    <item component="ComponentInfo{com.rewedigital.shop/de.rewe.app.ChangeAppActivity}" drawable="rewe_alt" />
+    <item component="ComponentInfo{de.number26.android/de.number26.machete.android.refactor.presentation.settings.customize_icon.launch_aliases.PrideActivityLauncher}" drawable="number26" />
+    <item component="ComponentInfo{com.subway.subway/com.subway.subway.SplashActivity}" drawable="subway" />
 
 </resources>
