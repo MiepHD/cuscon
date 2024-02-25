@@ -3687,5 +3687,15 @@
     <AppIcon name="com.zillow.android.rentals/com.zillow.android.re.ui.SplashScreenActivity" image="zillow_rentals"/>
     <AppIcon name="com.slftok.sixthousandthoughts/io.flutter.embedding.android.FlutterFragmentActivity" image="_6000_thoughts"/>
     <AppIcon name="amoled.wall7Fon/ru.wall7Fon.ui.activities.SplashActivty" image="_7fon"/>
+	<AppIcon name="com.cope.radio/es.cope.group.presentationlayer.feature.splash.view.ui.SplashActivity" image="cope"/>
+    <AppIcon name="com.euronews.express/com.africanews.android.application.splash.SplashScreenActivity" image="euronews"/>
+    <AppIcon name="com.antena3.europafmradio/com.antena3.europafmradio.ui.startup.splash.SplashActivity" image="europa_fm"/>
+    <AppIcon name="com.stark.graphite/com.stark.graphite.MainActivity" image="graphite_icon_pack"/>
+    <AppIcon name="com.ivoox.app/com.ivoox.app.ui.login.activity.LoginMainActivity" image="ivoox"/>
+    <AppIcon name="com.i3television.melodiafm/com.i3television.melodiafm.ui.startup.splash.SplashActivity" image="melodia_fm"/>
+    <AppIcon name="com.ume.browser.northamerica/com.ume.browser.MainActivity" image="navegador"/>
+    <AppIcon name="ma.safe.bn/com.example.hmo.bns.SplashActivity" image="noticias_de_ultima_hora"/>
+    <AppIcon name="com.antena3.ondaceroradio/com.antena3.ondaceroradio.ui.startup.splash.SplashActivity" image="onda_cero"/>
+    <AppIcon name="com.cyberlink.powerdirector.DRA140225_01/com.cyberlink.powerdirector.splash.SplashActivity" image="powerdirector"/>
 
 </Theme>

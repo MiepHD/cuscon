@@ -3658,5 +3658,15 @@
     <item drawable="zillow_rentals" />
     <item drawable="_6000_thoughts" />
     <item drawable="_7fon" />
+    <item drawable="cope" />
+    <item drawable="euronews" />
+    <item drawable="europa_fm" />
+    <item drawable="graphite_icon_pack" />
+    <item drawable="ivoox" />
+    <item drawable="melodia_fm" />
+    <item drawable="navegador" />
+    <item drawable="noticias_de_ultima_hora" />
+    <item drawable="onda_cero" />
+    <item drawable="powerdirector" />
 
 </resources>

@@ -19,16 +19,17 @@ with open("../../app/src/main/res/xml/appfilter.xml", encoding="utf-8") as f1:
                     if (exists("../../app/src/main/res/drawable-nodpi/" + name + ".png")):
                         conflict = conflict + name + '\n'
 
-if (sys.argv[1]=="-rmaa"):
-    for file in appfilter.split("\n"):
-        if (file != ""):
-            print("Deleting " + file)
-            os.remove(file + ".png")
-elif (sys.argv[1]=="-rmcon"):
-    for file in conflict.split("\n"):
-        if (file != "" and exists("get/" + file + ".png")):
-            print("Deleting " + file)
-            os.remove("get/" + file + ".png")
+if (len(sys.argv) > 1):
+    if (sys.argv[1]=="-rmaa"):
+        for file in appfilter.split("\n"):
+            if (file != ""):
+                print("Deleting " + file)
+                os.remove(file + ".png")
+    elif (sys.argv[1]=="-rmcon"):
+        for file in conflict.split("\n"):
+            if (file != "" and exists("get/" + file + ".png")):
+                print("Deleting " + file)
+                os.remove("get/" + file + ".png")
 else:
     print(appfilter)
     print("Conflicts:")

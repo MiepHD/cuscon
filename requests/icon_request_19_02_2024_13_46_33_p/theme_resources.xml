@@ -1,0 +1,21 @@
+<Theme version="1">
+
+	<!-- Cube ACR -->
+	<AppIcon name="com.catalinagroup.callrecorder/com.catalinagroup.callrecorder.AppListActivityAlias" image="cube_acr"/>
+
+	<!-- FormsApp -->
+	<AppIcon name="com.heartfull.forms/com.heartfull.forms.views.activities.LaunchActivity" image="formsapp"/>
+
+	<!-- PDF Editor -->
+	<AppIcon name="com.desygner.pdf/com.desygner.app.LandingActivity" image="pdf_editor"/>
+
+	<!-- PDF Merge -->
+	<AppIcon name="com.benzveen.utility.pdftool/com.benzveen.utility.pdftool.MainActivity" image="pdf_merge"/>
+
+	<!-- PDF Reader -->
+	<AppIcon name="com.kdanmobile.android.pdfreader.google.pad/com.kdanmobile.pdfreader.screen.activity.FirstActivity" image="pdf_reader"/>
+
+	<!-- Pdf Viewer Plus -->
+	<AppIcon name="com.xsdev.docxreader.docx.docxviewer.document.doc.office.viewer.reader.word/com.rpdev.docreadermain.SplashActivity" image="pdf_viewer_plus"/>
+
+</Theme>
