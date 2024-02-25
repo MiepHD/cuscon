@@ -3901,5 +3901,6 @@
     <item component="ComponentInfo{de.mcdonalds.mcdonaldsinfoapp/com.mcdonalds.mcdcoreapp.common.activity.SplashActivity}" drawable="mcdonalds" />
     <item component="ComponentInfo{me.creasis.reader/me.creasis.reader.MainActivity}" drawable="nexa" />
     <item component="ComponentInfo{jp.snowlife01.android.rotationcontrol/jp.snowlife01.android.rotationcontrolpro.rotation2.MainActivityNew}" drawable="rotation_control_pro" />
+	<item component="ComponentInfo{com.kfc.de.mobileapp/com.kfc.de.mobileapp.SplashActivity}" drawable="kfc" />
 
 </resources>

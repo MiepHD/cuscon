@@ -3888,6 +3888,7 @@
     <AppIcon name="de.mcdonalds.mcdonaldsinfoapp/com.mcdonalds.mcdcoreapp.common.activity.SplashActivity" image="mcdonalds"/>
     <AppIcon name="me.creasis.reader/me.creasis.reader.MainActivity" image="nexa"/>
     <AppIcon name="jp.snowlife01.android.rotationcontrol/jp.snowlife01.android.rotationcontrolpro.rotation2.MainActivityNew" image="rotation_control_pro"/>
+	<AppIcon name="com.kfc.de.mobileapp/com.kfc.de.mobileapp.SplashActivity" image="kfc"/>
 
 
 </Theme>
