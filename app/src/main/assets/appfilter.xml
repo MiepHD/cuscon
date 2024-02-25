@@ -3721,5 +3721,10 @@
     <item component="ComponentInfo{com.estsoft.picnic/com.estsoft.picnic.ui.front.FrontActivity}" drawable="estsoft_picnic" />
     <item component="ComponentInfo{com.zhenxiang.superimage.pro/com.zhenxiang.superimage.MainActivity}" drawable="superimage_pro" />
     <item component="ComponentInfo{com.lahsuak.apps.tasks/com.lahsuak.apps.tasks.ui.MainActivity}" drawable="tasks_plus" />
+	<item component="ComponentInfo{com.emn8.mobilem8.nativeapp.bk/com.emn8.mobilem8.nativeapp.bk.MainActivity}" drawable="burger_king" />
+    <item component="ComponentInfo{website.leifs.delta.foss/website.leifs.delta.activities.MainActivity}" drawable="delta" />
+    <item component="ComponentInfo{org.materialos.icons/com.afollestad.polar.ui.SplashScreen}" drawable="materialos" />
+    <item component="ComponentInfo{com.shell.sitibv.motorist.america/com.mobgen.fireblade.presentation.splash.SplashActivity}" drawable="shell" />
+    <item component="ComponentInfo{net.zedge.android/net.zedge.android.MainValentines}" drawable="zedge" />
 
 </resources>
