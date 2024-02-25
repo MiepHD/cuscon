@@ -1,0 +1,1713 @@
+<appmap>
+
+	<!--  AI Answer Master  -->
+	<item class="com.world.chatgpt.ai.ui.splash.SplashActivity" name=" ai_answer_master "/>
+
+	<!-- 👁 IAT 👁 -->
+	<item class="tk.silviomarano.imageanalysistoolset.HomeActivity" name="👁_iat_👁"/>
+
+	<!-- 24me -->
+	<item class="a24me.groupcal.mvvm.view.activities.SplashActivity" name="_24me"/>
+
+	<!-- 500px -->
+	<item class="com.fivehundredpx.viewer.RootActivity" name="_500px"/>
+
+	<!-- 6000 thoughts -->
+	<item class="io.flutter.embedding.android.FlutterFragmentActivity" name="_6000_thoughts"/>
+
+	<!-- 7Fon -->
+	<item class="ru.wall7Fon.ui.activities.SplashActivty" name="_7fon"/>
+
+	<!-- A13 Theme for KLWP -->
+	<item class="org.kustom.api.dashboard.DashboardActivity" name="a13_theme_for_klwp"/>
+
+	<!-- Ace Translator -->
+	<item class="translate.photo.translator.all.language.voice.translation.free.app.page.home.SplashActivity" name="ace_translator"/>
+
+	<!-- Ada -->
+	<item class="com.ada.MainActivity" name="ada"/>
+
+	<!-- AdamFriend -->
+	<item class="com.adamfriend.MainActivity" name="adamfriend"/>
+
+	<!-- AdClear Content Blocker -->
+	<item class="com.adclear.contentblocker.ui.splash.SplashActivity" name="adclear_content_blocker"/>
+
+	<!-- Adobe Capture -->
+	<item class="com.adobe.creativeapps.gather.activity.GatherSplashScreenActivity" name="adobe_capture"/>
+
+	<!-- Adventure Game -->
+	<item class="com.gw.game.MainActivity" name="adventure_game"/>
+
+	<!-- Agapé -->
+	<item class="com.example.agape_app.MainActivity" name="agape"/>
+
+	<!-- AI Audio Pen -->
+	<item class="com.idphotoapp.aiaudiopen.MainActivity" name="ai_audio_pen"/>
+
+	<!-- AI Chat -->
+	<item class="com.ai.chat.bot.aichat.start.StartActivity" name="ai_chat"/>
+
+	<!-- AI Chat -->
+	<item class="com.energysh.aichat.mvvm.ui.activity.SplashActivity" name="ai_chat"/>
+
+	<!-- Ai Chat -->
+	<item class="com.smplea.chatgpt.MainActivity" name="ai_chat"/>
+
+	<!-- AI Chatbot -->
+	<item class="com.chatbot.aichat.ai.MainActivity" name="ai_chatbot"/>
+
+	<!-- AI Coach -->
+	<item class="ai.rocky.app.MainActivity" name="ai_coach"/>
+
+	<!-- AI Enlarger -->
+	<item class="com.app.aiimglarger.MainActivity" name="ai_enlarger"/>
+
+	<!-- AI painter -->
+	<item class="com.unity3d.player.UnityPlayerActivity" name="ai_painter"/>
+
+	<!-- Ai Photos Organizer -->
+	<item class="com.dotsquares.SplashScreen" name="ai_photos_organizer"/>
+
+	<!-- AI Walls -->
+	<item class="ai.walls.app.MainActivity" name="ai_walls"/>
+
+	<!-- Aime -->
+	<item class="com.cyberlimbic.aime.MainActivity" name="aime"/>
+
+	<!-- AirTask -->
+	<item class="com.balda.airtask.ui.MainActivity" name="airtask"/>
+
+	<!-- AlbLingo -->
+	<item class="mgks.os.swv.SplashScreen" name="alblingo"/>
+
+	<!-- ALTER EGO -->
+	<item class="com.unity3d.player.UnityPlayerActivity" name="alter_ego"/>
+
+	<!-- Amazon Shopper Panel -->
+	<item class="com.amazon.shopperpanel.android.mobile.app.MainActivity" name="amazon_shopper_panel"/>
+
+	<!-- Amplenote -->
+	<item class="com.amplenote.MainActivity" name="amplenote"/>
+
+	<!-- AnkiDroid -->
+	<item class="com.ichi2.anki.IntentHandler" name="ankidroid"/>
+
+	<!-- Answer.AI -->
+	<item class="com.cyberdavinci.gptkeyboard.SplashActivity" name="answerai"/>
+
+	<!-- Antar -->
+	<item class="com.satya.antar.ui.onboarding.SplashActivity" name="antar"/>
+
+	<!-- Any.do -->
+	<item class="com.anydo.activity.SplashActivity" name="anydo"/>
+
+	<!-- AnyPopup -->
+	<item class="app.oins.anypopup.ui.launcher.LauncherActivity" name="anypopup"/>
+
+	<!-- Apk Analyzer -->
+	<item class="sk.styk.martin.apkanalyzer.ui.main.MainActivity" name="apk_analyzer"/>
+
+	<!-- App Manager -->
+	<item class="com.lahsuak.apps.appmanager.ui.MainActivity" name="app_manager"/>
+
+	<!-- AppDash -->
+	<item class="flar2.appdashboard.MainActivity" name="appdash"/>
+
+	<!-- Appstorm -->
+	<item class="org.chromium.webapk.shell_apk.h2o.H2OOpaqueMainActivity" name="appstorm"/>
+
+	<!-- ArtFlow -->
+	<item class="com.bytestorm.artflow.Editor" name="artflow"/>
+
+	<!-- Artifact -->
+	<item class="ai.nokto.wire.MainActivity" name="artifact"/>
+
+	<!-- ArtStation -->
+	<item class="com.ballistiq.artstation.EntryPointActivity" name="artstation"/>
+
+	<!-- Ask AI Plus -->
+	<item class="com.askaiplus.clientapp.MainActivity" name="ask_ai_plus"/>
+
+	<!-- AskThis -->
+	<item class="com.glority.android.picturexx.splash.SplashActivity" name="askthis"/>
+
+	<!-- AskWay -->
+	<item class="ai.askway.com.SplashActivity" name="askway"/>
+
+	<!-- Associations -->
+	<item class="com.unity3d.player.UnityPlayerActivity" name="associations"/>
+
+	<!-- Atom -->
+	<item class="com.foresko.gptclient.MainActivity" name="atom"/>
+
+	<!-- Audio Extractor -->
+	<item class="com.psma.audioextractor.MainActivity" name="audio_extractor"/>
+
+	<!-- AudioLab -->
+	<item class="com.hitrolab.audioeditor.MainActivity" name="audiolab"/>
+
+	<!-- Auto OCR -->
+	<item class="com.eagle.scanner.activities.MainActivity" name="auto_ocr"/>
+
+	<!-- AutoAlarm -->
+	<item class="com.joaomgcd.autoapps.ActivityLaunchApp" name="autoalarm"/>
+
+	<!-- AutoApps -->
+	<item class="com.joaomgcd.autoappshub.activity.ActivityMain" name="autoapps"/>
+
+	<!-- AutoBarcodeLite -->
+	<item class="com.joaomgcd.autoapps.ActivityLaunchApp" name="autobarcodelite"/>
+
+	<!-- AutoContacts -->
+	<item class="com.joaomgcd.autoapps.ActivityLaunchApp" name="autocontacts"/>
+
+	<!-- AutoInput -->
+	<item class="com.joaomgcd.autoapps.ActivityLaunchApp" name="autoinput"/>
+
+	<!-- AutoLaunch -->
+	<item class="com.joaomgcd.autoapps.ActivityLaunchApp" name="autolaunch"/>
+
+	<!-- AutoLocation -->
+	<item class="com.joaomgcd.autoapps.ActivityLaunchApp" name="autolocation"/>
+
+	<!-- AutoMail -->
+	<item class="com.joaomgcd.autoapps.ActivityLaunchApp" name="automail"/>
+
+	<!-- AutoNotification -->
+	<item class="com.joaomgcd.autoapps.ActivityLaunchApp" name="autonotification"/>
+
+	<!-- AutoPhoto -->
+	<item class="com.joaomgcd.autoapps.ActivityLaunchApp" name="autophoto"/>
+
+	<!-- AutoShare -->
+	<item class="com.joaomgcd.autoapps.ActivityLaunchApp" name="autoshare"/>
+
+	<!-- AutoSheets -->
+	<item class="com.joaomgcd.autoapps.ActivityLaunchApp" name="autosheets"/>
+
+	<!-- AutoShortcut -->
+	<item class="com.joaomgcd.autoapps.ActivityLaunchApp" name="autoshortcut"/>
+
+	<!-- AutoSpotify -->
+	<item class="com.joaomgcd.autoapps.ActivityLaunchApp" name="autospotify"/>
+
+	<!-- AutoTools -->
+	<item class="com.joaomgcd.autoapps.ActivityLaunchApp" name="autotools"/>
+
+	<!-- AutoVoice -->
+	<item class="com.joaomgcd.autoapps.ActivityLaunchApp" name="autovoice"/>
+
+	<!-- AutoWear -->
+	<item class="com.joaomgcd.autoapps.ActivityLaunchApp" name="autowear"/>
+
+	<!-- AutoWeb -->
+	<item class="com.joaomgcd.autoapps.ActivityLaunchApp" name="autoweb"/>
+
+	<!-- AutoWebVideo -->
+	<item class="com.joaomgcd.autoapps.ActivityLaunchApp" name="autowebvideo"/>
+
+	<!-- Aware -->
+	<item class="org.twentyninek.app.cupcake.MainActivity" name="aware"/>
+
+	<!-- Aya AI -->
+	<item class="ai.stork.aya.MainActivity" name="aya_ai"/>
+
+	<!-- Balance -->
+	<item class="org.chromium.webapk.shell_apk.h2o.H2OOpaqueMainActivity" name="balance"/>
+
+	<!-- Baseline -->
+	<item class="com.google.googlex.apollo.android.home.InitActivity" name="baseline"/>
+
+	<!-- Bearable -->
+	<item class="com.bearable.MainActivity" name="bearable"/>
+
+	<!-- BetterMe -->
+	<item class="com.gen.betterme.base.sections.home.HomeActivity" name="betterme"/>
+
+	<!-- BetterPhoto -->
+	<item class="com.findmymobi.betterphoto.SplashActivity" name="betterphoto"/>
+
+	<!-- Betwixt -->
+	<item class="betwixt.web.app.MainActivity" name="betwixt"/>
+
+	<!-- BFF -->
+	<item class="com.bumble.app.ui.launcher.BumbleLauncherActivity" name="bff"/>
+
+	<!-- BHS -->
+	<item class="com.ncskier.BuildHabitsSlowly.MainActivity" name="bhs"/>
+
+	<!-- Big Icons -->
+	<item class="rk.android.app.bigicons.activities.HomeActivity" name="big_icons"/>
+
+	<!-- Blackr -->
+	<item class="com.neximolabs.blackr.MainActivity" name="blackr"/>
+
+	<!-- Bluebird Albanian -->
+	<item class="com.pronunciatorllc.bluebird.MainActivity" name="bluebird_albanian"/>
+
+	<!-- BofA -->
+	<item class="com.bofa.ecom.marvel.application.Flagscape" name="bofa"/>
+
+	<!-- BondBeyond -->
+	<item class="com.birthdayai.MainActivity" name="bondbeyond"/>
+
+	<!-- Boosted -->
+	<item class="com.boostedproductivity.app.activities.LauncherActivity" name="boosted"/>
+
+	<!-- Bot Designer For Discord -->
+	<item class="io.flutter.embedding.android.FlutterActivity" name="bot_designer_for_discord"/>
+
+	<!-- BrainStorm -->
+	<item class="com.team.ai.meeting.MainActivity" name="brainstorm"/>
+
+	<!-- Break.Down.Timer -->
+	<item class="de.jepfa.bdt.adfree.MainActivity" name="breakdowntimer"/>
+
+	<!-- BulletJournal -->
+	<item class="com.dottedcircle.bulletjournal.activities.SplashActivity" name="bulletjournal"/>
+
+	<!-- Bundled Notes -->
+	<item class="com.xaviertobin.noted.activities.ActivitySignIn" name="bundled_notes"/>
+
+	<!-- Burger King -->
+	<item class="com.emn8.mobilem8.nativeapp.bk.MainActivity" name="burger_king"/>
+
+	<!-- Calculator -->
+	<item class="apps.r.calculator.Theme.LightGreen" name="calculator"/>
+
+	<!-- Calistree -->
+	<item class="com.calistree.calistree.MainActivity" name="calistree"/>
+
+	<!-- Camel -->
+	<item class="org.chromium.webapk.shell_apk.h2o.H2OOpaqueMainActivity" name="camel"/>
+
+	<!-- Camera GCam -->
+	<item class="com.sgmediapp.gcam.SplashActivity" name="camera_gcam"/>
+
+	<!-- CameraFi Live -->
+	<item class="com.vaultmicro.camerafi.live.ServerSelectActivity" name="camerafi_live"/>
+
+	<!-- Campfire Cafe -->
+	<item class="com.unity3d.player.UnityPlayerActivity" name="campfire_cafe"/>
+
+	<!-- Career Karma -->
+	<item class="com.careerkarma.chat.SplashActivity" name="career_karma"/>
+
+	<!-- Carpenter -->
+	<item class="com.gocalsd.carpenter.activities.StartupActivity" name="carpenter"/>
+
+	<!-- CC Launcher -->
+	<item class="com.mi.launcher.Launcher" name="cc_launcher"/>
+
+	<!-- Chai -->
+	<item class="com.Beauchamp.Messenger.external.MainActivity" name="chai"/>
+
+	<!-- Chaos Control -->
+	<item class="com.tarasovmobile.cc2.ui.MainActivity.Modern" name="chaos_control"/>
+
+	<!-- Character.AI -->
+	<item class="ai.character.app.MainActivity" name="characterai"/>
+
+	<!-- ChatBoost -->
+	<item class="studio.muggle.chatboost.MainActivity" name="chatboost"/>
+
+	<!-- Chatbot -->
+	<item class="com.intelli.app.MainActivity" name="chatbot"/>
+
+	<!-- ChatBot -->
+	<item class="com.xphotokit.chatgptassist.ui.SplashActivity" name="chatbot"/>
+
+	<!-- ChatGen -->
+	<item class="chatgpt.writer.chatbot.assistant.open.chat.ai.gpt.bot.ui.MainActivity" name="chatgen"/>
+
+	<!-- ChatJoy -->
+	<item class="com.energysh.aichat.mvvm.ui.activity.SplashActivity" name="chatjoy"/>
+
+	<!-- ChatOn AI -->
+	<item class="com.aiby.chat.MainActivity" name="chaton_ai"/>
+
+	<!-- ChatterVerse -->
+	<item class="gpt5.chatter.verse.MainActivity" name="chatterverse"/>
+
+	<!-- Chick-fil-A -->
+	<item class="com.chickfila.cfaflagship.activities.InitialLoadActivity" name="chick_fil_a"/>
+
+	<!-- ChildPsych -->
+	<item class="com.mightybell.android.contexts.MainActivity" name="childpsych"/>
+
+	<!-- Chili's -->
+	<item class="com.brinker.chilis.features.LaunchActivity" name="chilis"/>
+
+	<!-- Chipotle -->
+	<item class="com.chipotle.ordering.ui.activity.intro.IntroActivity" name="chipotle"/>
+
+	<!-- Cíngulo -->
+	<item class="com.cingulo.app.MainActivity" name="cingulo"/>
+
+	<!-- Circo -->
+	<item class="com.mookie.circo.MainActivity" name="circo"/>
+
+	<!-- CitizenMe -->
+	<item class="com.citizenme.features.onboarding.SplashActivity" name="citizenme"/>
+
+	<!-- Civitai -->
+	<item class="org.chromium.webapk.shell_apk.h2o.H2OOpaqueMainActivity" name="civitai"/>
+
+	<!-- Claude -->
+	<item class="org.chromium.webapk.shell_apk.h2o.H2OOpaqueMainActivity" name="claude"/>
+
+	<!-- Cloud -->
+	<item class="com.samsung.android.scloud.app.ui.splash.launcher" name="cloud"/>
+
+	<!-- Cloud AI -->
+	<item class="com.devsig.cloudai.MainActivity" name="cloud_ai"/>
+
+	<!-- Codebay -->
+	<item class="com.mojohi.chatcoding.ChatCodingLauncherActivity" name="codebay"/>
+
+	<!-- Codelita -->
+	<item class="com.codelita.app.MainActivity" name="codelita"/>
+
+	<!-- Color Gear Lite -->
+	<item class="design.vek.color_gear.MainActivity" name="color_gear_lite"/>
+
+	<!-- Color Harmony -->
+	<item class="pl.powsty.colorharmony.SplashScreenActivity" name="color_harmony"/>
+
+	<!-- Color Picker -->
+	<item class="com.roetteri.colorx.MainActivity" name="color_picker"/>
+
+	<!-- Color Picker -->
+	<item class="gmikhail.colorpicker.activities.MainActivity" name="color_picker"/>
+
+	<!-- Color picker -->
+	<item class="ua.com.compose.MainActivity" name="color_picker"/>
+
+	<!-- Color Picker AR -->
+	<item class="com.example.color_picker.MainActivity" name="color_picker_ar"/>
+
+	<!-- Colors AI -->
+	<item class="is.tsin.colors_ai.colors_ai.MainActivity" name="colors_ai"/>
+
+	<!-- Committed -->
+	<item class="com.kaushik.committed.MainActivity" name="committed"/>
+
+	<!-- Complications Suite -->
+	<item class="com.weartools.weekdayutccomp.MainActivity" name="complications_suite"/>
+
+	<!-- conversly -->
+	<item class="ai.conversly.MainActivity" name="conversly"/>
+
+	<!-- Couple App -->
+	<item class="xyz.lovecode_partner.MainActivity" name="couple_app"/>
+
+	<!-- Crayon -->
+	<item class="com.jndapp.cartoon.crayon.iconpack.MainActivity" name="crayon"/>
+
+	<!-- Cuto -->
+	<item class="net.dchdc.cuto.ui.main.SplashActivity" name="cuto"/>
+
+	<!-- Daily -->
+	<item class="doge.doonlygoodeveryday.foriday.MainActivity" name="daily"/>
+
+	<!-- Dalle Gallery -->
+	<item class="com.queryable.gallery.pro.activities.SplashActivity" name="dalle_gallery"/>
+
+	<!-- DarkFusion Launcher -->
+	<item class="com.ultimate.darkfusionlauncher.Launcher" name="darkfusion_launcher"/>
+
+	<!-- Dave -->
+	<item class="com.dave.MainActivity" name="dave"/>
+
+	<!-- DaVinci -->
+	<item class="com.hubx.imagination.MainActivity" name="davinci"/>
+
+	<!-- Daybook -->
+	<item class="com.bigheadtechies.diary.Lastest.Activity.MainActivity.MainActivityMigration1" name="daybook"/>
+
+	<!-- Deep Sleep Sounds -->
+	<item class="com.kitefaster.whitenoise.MainActivity" name="deep_sleep_sounds"/>
+
+	<!-- Deepen -->
+	<item class="app.thedeepen.MainActivity" name="deepen"/>
+
+	<!-- DeepSearch -->
+	<item class="com.mycelebs.deepsearch.ui.main.MainActivity" name="deepsearch"/>
+
+	<!-- Delta -->
+	<item class="website.leifs.delta.activities.MainActivity" name="delta"/>
+
+	<!-- Disciplined -->
+	<item class="app.disciplined.productive.structured.habit.tracker.MainActivity" name="disciplined"/>
+
+	<!-- Discord -->
+	<item class="com.discord.main.MainCherryBlossom" name="discord"/>
+
+	<!-- Discord 👻 -->
+	<item class="com.discord.main.MainGalaxy" name="discord_👻"/>
+
+	<!-- Discord Tools -->
+	<item class="crc641526ba6564b08f07.SplashActivity" name="discord_tools"/>
+
+	<!-- Discord Webhook Remote -->
+	<item class="crc6490bee2440872efc7.SplashActivity" name="discord_webhook_remote"/>
+
+	<!-- DNA Launcher -->
+	<item class="com.atlantis.launcher.home.HomeActivity" name="dna_launcher"/>
+
+	<!-- Do It Now -->
+	<item class="com.levor.liferpgtasks.view.activities.SplashActivity" name="do_it_now"/>
+
+	<!-- Dollar General -->
+	<item class="dgapp2.dollargeneral.com.dgapp2_android.SplashActivity" name="dollar_general"/>
+
+	<!-- DomiNations -->
+	<item class="com.nexon.dominations.DomNonXignCodeLauncher" name="dominations"/>
+
+	<!-- Dominus -->
+	<item class="com.unity3d.player.UnityPlayerActivity" name="dominus"/>
+
+	<!-- DontKillMyApp -->
+	<item class="com.urbandroid.dontkillmyapp.MainActivity" name="dontkillmyapp"/>
+
+	<!-- Doodle8 -->
+	<item class="com.github.kolacbb.doodle.pages.activity.HomeActivity" name="doodle8"/>
+
+	<!-- dotetimer -->
+	<item class="com.smartdongschool.dotetimer.MainActivity" name="dotetimer"/>
+
+	<!-- Draw With Friends -->
+	<item class="com.unity3d.player.UnityPlayerActivity" name="draw_with_friends"/>
+
+	<!-- DrawNote -->
+	<item class="com.dragonnest.app.EmptyLauncherActivity" name="drawnote"/>
+
+	<!-- Dream Snap -->
+	<item class="com.astrasurge.dreams.MainActivity" name="dream_snap"/>
+
+	<!-- DreamApp -->
+	<item class="io.dreamapp.MainActivity" name="dreamapp"/>
+
+	<!-- Dreamfora -->
+	<item class="com.dreamfora.dreamfora.SplashActivity" name="dreamfora"/>
+
+	<!-- Dunkin' -->
+	<item class="com.cardfree.android.dunkindonuts.activities.LauncherActivity" name="dunkin"/>
+
+	<!-- eAccounts -->
+	<item class="com.blackboard.transact.android.v2.Launcher" name="eaccounts"/>
+
+	<!-- Easy Homescreen -->
+	<item class="easy.launcher.AppStartActivity" name="easy_homescreen"/>
+
+	<!-- Easy Keyboard -->
+	<item class="easy.launcher.ime.promo.ImePromoActivity" name="easy_keyboard"/>
+
+	<!-- Easy Transcription -->
+	<item class="com.digipom.easytranscription.MainActivity" name="easy_transcription"/>
+
+	<!-- Ecliso: Diary -->
+	<item class="com.andrushka.ecliso.MainActivity" name="ecliso_diary"/>
+
+	<!-- Elona -->
+	<item class="com.ltgames.android.javascript.PermissionActivity" name="elona"/>
+
+	<!-- ELSA Speak -->
+	<item class="us.nobarriers.elsa.screens.launcher.LauncherActivity" name="elsa_speak"/>
+
+	<!-- Embrace -->
+	<item class="com.theembraceapp.MainActivity" name="embrace"/>
+
+	<!-- EMDR -->
+	<item class="com.unity3d.player.UnityPlayerActivity" name="emdr"/>
+
+	<!-- Emoji.gg -->
+	<item class="org.chromium.webapk.shell_apk.h2o.H2OOpaqueMainActivity" name="emojigg"/>
+
+	<!-- Enki -->
+	<item class="com.enki.insights.MainActivity" name="enki"/>
+
+	<!-- Era of Conquest -->
+	<item class="com.zero.activity.MainActivity" name="era_of_conquest"/>
+
+	<!-- Everyday Tasks -->
+	<item class="de.jepfa.personaltasklogger.MainActivity" name="everyday_tasks"/>
+
+	<!-- Evoke -->
+	<item class="ai.photo.enhancer.ig.tiktok.editor.remini.pixelup.hd.free.MainActivity" name="evoke"/>
+
+	<!-- Exif Viewer -->
+	<item class="com.srjuen.exifviewer.MainActivity" name="exif_viewer"/>
+
+	<!-- EXIF Viewer -->
+	<item class="org.chromium.webapk.shell_apk.h2o.H2OOpaqueMainActivity" name="exif_viewer"/>
+
+	<!-- Exported Icon Pack -->
+	<item class="ginlemon.iconpackstudio.exported.MainActivity" name="exported_icon_pack"/>
+
+	<!-- Fabric -->
+	<item class="so.fabric.mobile.MainActivity" name="fabric"/>
+
+	<!-- Facemoji Keyboard -->
+	<item class="com.baidu.simeji.settings.guide.SplashActivity" name="facemoji_keyboard"/>
+
+	<!-- Facer -->
+	<item class="com.jeremysteckling.facerrel.Launcher" name="facer"/>
+
+	<!-- Facetune -->
+	<item class="com.lightricks.facetune.splash.SplashActivity" name="facetune"/>
+
+	<!-- Family Dollar -->
+	<item class="com.familydollar.consumer.MainActivity" name="family_dollar"/>
+
+	<!-- Family Link -->
+	<item class="com.google.android.apps.kids.familylink.flutter.standalone.HomeActivity" name="family_link"/>
+
+	<!-- Farm RPG -->
+	<item class="com.firestream.farmrpg.MainActivity" name="farm_rpg"/>
+
+	<!-- Filmora -->
+	<item class="com.filmorago.phone.ui.SplashActivity" name="filmora"/>
+
+	<!-- FilterBox -->
+	<item class="com.catchingnow.np.E$W" name="filterbox"/>
+
+	<!-- Findr -->
+	<item class="org.chromium.webapk.shell_apk.h2o.H2OOpaqueMainActivity" name="findr"/>
+
+	<!-- Fine Lock -->
+	<item class="yuh.yuh.finelock.T" name="fine_lock"/>
+
+	<!-- Firefox Nightly -->
+	<item class="org.mozilla.fenix.App" name="firefox_nightly"/>
+
+	<!-- Fitloop -->
+	<item class="com.fitloop.MainActivity" name="fitloop"/>
+
+	<!-- FIVE GUYS -->
+	<item class="com.wearehathway.apps.stock.views.resolver.ScreenResolutionActivity" name="five_guys"/>
+
+	<!-- Fixela -->
+	<item class="com.imageenhancermobile.MainActivity" name="fixela"/>
+
+	<!-- Fleeting Notes -->
+	<item class="com.fleetingnotes.MainActivity" name="fleeting_notes"/>
+
+	<!-- Flipp -->
+	<item class="com.wishabi.flipp.ui.launcher.DefaultLauncherActivity" name="flipp"/>
+
+	<!-- FloatingAI -->
+	<item class="me.hufozhu.floatai.MainActivity" name="floatingai"/>
+
+	<!-- Focus Launcher -->
+	<item class="dev.mslalith.focuslauncher.LauncherActivity" name="focus_launcher"/>
+
+	<!-- Focus To-Do -->
+	<item class="com.superelement.project.LauncherActivity" name="focus_to_do"/>
+
+	<!-- Focusmeter -->
+	<item class="co.zeitic.focusmeter.MainActivity" name="focusmeter"/>
+
+	<!-- Font Picker -->
+	<item class="com.khoben.fontpicker.ui.screen.MainActivity" name="font_picker"/>
+
+	<!-- Food -->
+	<item class="com.foodient.whisk.entry.AppActivity" name="food"/>
+
+	<!-- fooView -->
+	<item class="com.fooview.android.fooview.MainActivity" name="fooview"/>
+
+	<!-- Forest -->
+	<item class="cc.forestapp.applications.SplashActivity" name="forest"/>
+
+	<!-- Forest Golf Planner -->
+	<item class="main.Main" name="forest_golf_planner"/>
+
+	<!-- Four -->
+	<item class="com.paywithfour.MainActivity" name="four"/>
+
+	<!-- FreeCBT -->
+	<item class="org.erosson.freecbt.MainActivity" name="freecbt"/>
+
+	<!-- freeCodeCamp -->
+	<item class="com.ryanheise.audioservice.AudioServiceActivity" name="freecodecamp"/>
+
+	<!-- Fuel Rewards -->
+	<item class="com.excentus.ccmd.ui.SplashActivity" name="fuel_rewards"/>
+
+	<!-- Funimate -->
+	<item class="com.avcrbt.funimate.feature.social.auth.StartActivity" name="funimate"/>
+
+	<!-- FV File Explorer -->
+	<item class="com.fooview.android.fooview.FVFileActivity" name="fv_file_explorer"/>
+
+	<!-- FV Theme Black Golden -->
+	<item class="com.fooview.android.fooview.theme.MainActivity" name="fv_theme_black_golden"/>
+
+	<!-- FV Theme ES Classics -->
+	<item class="com.fooview.android.fooview.theme.MainActivity" name="fv_theme_es_classics"/>
+
+	<!-- FV Theme Mysterious Blue -->
+	<item class="com.fooview.android.fooview.theme.MainActivity" name="fv_theme_mysterious_blue"/>
+
+	<!-- FV Theme Plasticine -->
+	<item class="com.fooview.android.fooview.theme.MainActivity" name="fv_theme_plasticine"/>
+
+	<!-- FV Video Player -->
+	<item class="com.fooview.android.fooview.FVVideoPlayerActivity" name="fv_video_player"/>
+
+	<!-- Galaxy Enhance-X -->
+	<item class="com.samsung.android.imageenhancer.MainActivity" name="galaxy_enhance_x"/>
+
+	<!-- GameMaster -->
+	<item class="com.aisuccess.ai_game_master.MainActivity" name="gamemaster"/>
+
+	<!-- Gemini -->
+	<item class="com.google.android.apps.bard.shellapp.BardEntryPointActivity" name="gemini"/>
+
+	<!-- Gemini -->
+	<item class="com.google.android.apps.googleassistant.AssistantActivityV2" name="gemini"/>
+
+	<!-- Gemini AI -->
+	<item class="com.ekmen.gaiapp.MainActivity" name="gemini_ai"/>
+
+	<!-- Glamai -->
+	<item class="com.mycelebs.glamai.ui.main.MainActivity" name="glamai"/>
+
+	<!-- Glitch FX -->
+	<item class="com.quvideo.vivacut.app.splash.SplashActivity" name="glitch_fx"/>
+
+	<!-- GnssLogger -->
+	<item class="com.google.android.apps.location.gps.gnsslogger.MainActivity" name="gnsslogger"/>
+
+	<!-- GoatChat -->
+	<item class="plus.adaptive.goatchat.ui.splash.SplashActivity" name="goatchat"/>
+
+	<!-- Goblin Tools -->
+	<item class="com.goblintools.MainActivity" name="goblin_tools"/>
+
+	<!-- Google Cloud -->
+	<item class="com.google.android.apps.cloudconsole.common.MainContainerActivity" name="google_cloud"/>
+
+	<!-- Google Developers -->
+	<item class="org.chromium.webapk.shell_apk.h2o.H2OOpaqueMainActivity" name="google_developers"/>
+
+	<!-- Gopuff -->
+	<item class="com.main.gopuff.presentation.login.OnboardingActivity" name="gopuff"/>
+
+	<!-- GPT App -->
+	<item class="space.ai3.aiwriter.app.pages.splash.SplashActivity" name="gpt_app"/>
+
+	<!-- Grit -->
+	<item class="com.woozcorp.grit.MainActivity" name="grit"/>
+
+	<!-- Groovifi -->
+	<item class="com.parshendata.groovifi.MainActivity" name="groovifi"/>
+
+	<!-- Habit Ally -->
+	<item class="com.habitally.app.MainActivity" name="habit_ally"/>
+
+	<!-- HabitBull -->
+	<item class="com.oristats.habitbull.activities.LoginActivity" name="habitbull"/>
+
+	<!-- Habitomic -->
+	<item class="com.android.habitomic.MainActivity" name="habitomic"/>
+
+	<!-- Habits Garden -->
+	<item class="com.habitsgarden2.app.MainActivity" name="habits_garden"/>
+
+	<!-- Happy Couple -->
+	<item class="com.hip.happycouple.MainActivity" name="happy_couple"/>
+
+	<!-- Harvest Town -->
+	<item class="org.cocos2dx.lua.AppActivity" name="harvest_town"/>
+
+	<!-- Health -->
+	<item class="com.samsung.android.app.shealth.home.HomeMainActivity" name="health"/>
+
+	<!-- Health Studies -->
+	<item class="com.google.android.apps.cerebra.dunlin.app.StartActivity" name="health_studies"/>
+
+	<!-- Healthy Minds -->
+	<item class="com.healthyminds.MainActivity" name="healthy_minds"/>
+
+	<!-- Hello History -->
+	<item class="com.hello.history.MainActivity" name="hello_history"/>
+
+	<!-- HeroFit -->
+	<item class="com.theherofit.app.MainActivity" name="herofit"/>
+
+	<!-- HeyLife -->
+	<item class="com.heylife.mobilepoc.heylife_poc.MainActivity" name="heylife"/>
+
+	<!-- HiNative -->
+	<item class="com.lang8.hinative.ui.MainActivity" name="hinative"/>
+
+	<!-- HiPaint -->
+	<item class="com.aige.hipaint.inkpaint.activity.WelcomeActivity" name="hipaint"/>
+
+	<!-- Home options -->
+	<item class="com.ss.squarehome2.MyPreferencesActivity" name="home_options"/>
+
+	<!-- Honey Dew Donuts -->
+	<item class="com.cardfree.android.whitelabel.activities.SplashActivity" name="honey_dew_donuts"/>
+
+	<!-- Hook.Notifier -->
+	<item class="com.illuday.HN.MainActivity" name="hooknotifier"/>
+
+	<!-- HotPads -->
+	<item class="com.hotpads.mobile.activity.SplashActivity" name="hotpads"/>
+
+	<!-- HTTP Shortcuts -->
+	<item class="ch.rmy.android.http_shortcuts.activities.main.MainActivity" name="http_shortcuts"/>
+
+	<!-- Hue -->
+	<item class="com.philips.lighting.hue2.ContentActivity" name="hue"/>
+
+	<!-- HuggingChat -->
+	<item class="org.chromium.webapk.shell_apk.h2o.H2OOpaqueMainActivity" name="huggingchat"/>
+
+	<!-- Human Design Offline -->
+	<item class="de.HDSS.HumanDesignOffline.OptionScreen" name="human_design_offline"/>
+
+	<!-- Humdes -->
+	<item class="com.humdesapp.MainActivity" name="humdes"/>
+
+	<!-- Hydra Bot -->
+	<item class="org.chromium.webapk.shell_apk.h2o.H2OOpaqueMainActivity" name="hydra_bot"/>
+
+	<!-- Iconify -->
+	<item class="com.drdisagree.iconify.SplashActivity" name="iconify"/>
+
+	<!-- Ideaflow -->
+	<item class="org.chromium.webapk.shell_apk.h2o.H2OOpaqueMainActivity" name="ideaflow"/>
+
+	<!-- IFTTT -->
+	<item class="com.ifttt.ifttt.home.ProPlusHomeActivity" name="ifttt"/>
+
+	<!-- Image Toolbox (Resizer) -->
+	<item class="ru.tech.imageresizershrinker.presentation.MainActivity" name="image_toolbox_resizer_"/>
+
+	<!-- imageX -->
+	<item class="com.imagex.imagex.ui.LauncherActivity" name="imagex"/>
+
+	<!-- imagine -->
+	<item class="com.ai.imagineApp.activity.MainActivity" name="imagine"/>
+
+	<!-- IMI Prompt -->
+	<item class="com.dodoindex.imiprompt.MainActivity" name="imi_prompt"/>
+
+	<!-- Imprint -->
+	<item class="com.polywise.lucid.ui.screens.onboarding.OnboardingActivity" name="imprint"/>
+
+	<!-- indistractable -->
+	<item class="com.indistractablelauncher.android.MainActivity" name="indistractable"/>
+
+	<!-- Infinite Painter -->
+	<item class="com.brakefield.painter.activities.ActivityStartup" name="infinite_painter"/>
+
+	<!-- Insight Journal -->
+	<item class="journal.ai.com.MainActivity" name="insight_journal"/>
+
+	<!-- IPS Exporter -->
+	<item class="ginlemon.iconpackstudio.exporter.MainActivity" name="ips_exporter"/>
+
+	<!-- italki -->
+	<item class="com.italki.app.SplashActivity" name="italki"/>
+
+	<!-- iVoca -->
+	<item class="io.ivoca.ivocaapp.MainActivity" name="ivoca"/>
+
+	<!-- Jarvis -->
+	<item class="com.example.ait_chat_gpt.MainActivity" name="jarvis"/>
+
+	<!-- Jersey Mike's -->
+	<item class="com.jerseymikes.welcome.WelcomeActivity" name="jersey_mikes"/>
+
+	<!-- Join -->
+	<item class="com.joaomgcd.join.activity.ActivityMain" name="join"/>
+
+	<!-- Kabbalah -->
+	<item class="com.joseenrique.kabbalah.otros.Splash" name="kabbalah"/>
+
+	<!-- Kai -->
+	<item class="ai.kai.app.MainActivity" name="kai"/>
+
+	<!-- kajiwoto -->
+	<item class="com.cho.kajiwoto.MainActivity" name="kajiwoto"/>
+
+	<!-- Kakele -->
+	<item class="mmorpg.main.PlayStoreLauncher" name="kakele"/>
+
+	<!-- Kamoto.AI -->
+	<item class="ai.kamoto.app.MainActivity" name="kamotoai"/>
+
+	<!-- Kids360 for parents -->
+	<item class="app.kids360.parent.MainActivity" name="kids360_for_parents"/>
+
+	<!-- Kidslox -->
+	<item class="com.kidslox.app.activities.SplashActivity" name="kidslox"/>
+
+	<!-- Kindroid -->
+	<item class="com.kindroid.app.MainActivity" name="kindroid"/>
+
+	<!-- King's Empire -->
+	<item class="com.tap4fun.spartanwar.CustomGameActivity" name="kings_empire"/>
+
+	<!-- Kingdom Maker -->
+	<item class="com.scopely.unity.ScopelyUnityActivity" name="kingdom_maker"/>
+
+	<!-- KLWP -->
+	<item class="org.kustom.app.OnBoardingActivity" name="klwp"/>
+
+	<!-- KoboCollect -->
+	<item class="org.odk.collect.android.mainmenu.MainMenuActivity" name="kobocollect"/>
+
+	<!-- Koda for Kustom -->
+	<item class="kodaforkustom.droidbeauty.pack.MainActivity" name="koda_for_kustom"/>
+
+	<!-- Krazy Coupon Lady -->
+	<item class="com.thekrazycouponlady.kcl.SplashActivity" name="krazy_coupon_lady"/>
+
+	<!-- kuizu -->
+	<item class="kuizu.kuizu.MainActivity" name="kuizu"/>
+
+	<!-- KWCH -->
+	<item class="org.kustom.app.OnBoardingActivity" name="kwch"/>
+
+	<!-- Launcher Ops -->
+	<item class="com.flea.gsd.activities.MainActivity" name="launcher_ops"/>
+
+	<!-- Lifesum for Samsung -->
+	<item class="com.lifesum.android.main.MainActivity" name="lifesum_for_samsung"/>
+
+	<!-- LifeTracker -->
+	<item class="com.elialotti.lifetracker.MainActivity" name="lifetracker"/>
+
+	<!-- Lime -->
+	<item class="app.pinya.lime.ui.view.activity.MainActivity" name="lime"/>
+
+	<!-- Ling -->
+	<item class="com.simyasolutions.ling.SplashActivity" name="ling"/>
+
+	<!-- Lingo -->
+	<item class="ru.ipartner.lingo.splash.SplashScreenActivity" name="lingo"/>
+
+	<!-- LingoClip -->
+	<item class="com.elasthink.lyricstraining.MainActivity" name="lingoclip"/>
+
+	<!-- Link to Windows -->
+	<item class="com.samsung.android.mdx.windowslink.tileservice.LinkToWidowsLauncherActivityDummy" name="link_to_windows"/>
+
+	<!-- ListenUp Spanish -->
+	<item class="com.listenup.MainActivity" name="listenup_spanish"/>
+
+	<!-- Little Caesars -->
+	<item class="com.littlecaesars.startup.StartUpActivity" name="little_caesars"/>
+
+	<!-- Loom -->
+	<item class="com.loom.app.ui.MainActivity" name="loom"/>
+
+	<!-- LuzIA -->
+	<item class="app.luzia.chat.MainActivity" name="luzia"/>
+
+	<!-- MacroFactor -->
+	<item class="com.sbs.diet.MainActivity" name="macrofactor"/>
+
+	<!-- MagicalDraw -->
+	<item class="air.kukulive.magicaldraw.MainActivity" name="magicaldraw"/>
+
+	<!-- Markdown Editor -->
+	<item class="com.adeeteya.markdown_editor.MainActivity" name="markdown_editor"/>
+
+	<!-- Markor -->
+	<item class="net.gsantner.markor.activity.MainActivity" name="markor"/>
+
+	<!-- MaterialOS -->
+	<item class="com.afollestad.polar.ui.SplashScreen" name="materialos"/>
+
+	<!-- MBE Style -->
+	<item class="me.iacn.mbestyle.ui.activity.MainActivity" name="mbe_style"/>
+
+	<!-- MeisterTask -->
+	<item class="com.meisterlabs.meistertask.features.dashboard.ui.DashboardActivity" name="meistertask"/>
+
+	<!-- Memento Database -->
+	<item class="com.luckydroid.droidbase.DroidBaseActivity2" name="memento_database"/>
+
+	<!-- Memorize By Heart -->
+	<item class="com.memorize_by_heart.MainActivity" name="memorize_by_heart"/>
+
+	<!-- Mentor.AI -->
+	<item class="app.mentor.ai.MainActivity" name="mentorai"/>
+
+	<!-- Messa Watch Companion -->
+	<item class="com.messa.ls29.MainMobileActivity" name="messa_watch_companion"/>
+
+	<!-- Meteored Pro -->
+	<item class="aplicacion.InicialActivity" name="meteored_pro"/>
+
+	<!-- Mi & Ju -->
+	<item class="app.miandju.couples.MainActivity" name="mi_and_ju"/>
+
+	<!-- Micro Habits -->
+	<item class="com.infielight.microhabits.MainActivity" name="micro_habits"/>
+
+	<!-- Microsoft Designer -->
+	<item class="com.microsoft.designer.app.home.view.launch.DesignerLoginActivity" name="microsoft_designer"/>
+
+	<!-- Microsoft SwiftKey Beta Keyboard -->
+	<item class="com.touchtype.LauncherActivityIcon" name="microsoft_swiftkey_beta_keyboard"/>
+
+	<!-- Mimo -->
+	<item class="com.getmimo.ui.SplashActivity_default" name="mimo"/>
+
+	<!-- Mind Notes -->
+	<item class="notes.notebook.android.mynotes.ui.activities.SplashActivity" name="mind_notes"/>
+
+	<!-- mindlib -->
+	<item class="de.mindlib.MainActivity" name="mindlib"/>
+
+	<!-- Minimal Wallpaper -->
+	<item class="com.app.FirstActivity" name="minimal_wallpaper"/>
+
+	<!-- Mintpay -->
+	<item class="lk.mintpay.app.MainActivity" name="mintpay"/>
+
+	<!-- Mirror -->
+	<item class="com.polar.mirror.MainActivity" name="mirror"/>
+
+	<!-- Momento -->
+	<item class="com.momentonft.momento.MainActivity" name="momento"/>
+
+	<!-- monAI - Art Generator -->
+	<item class="com.tesseractmobile.aiart.MainActivity" name="monai_art_generator"/>
+
+	<!-- Monica -->
+	<item class="im.monica.app.monica.MainActivity" name="monica"/>
+
+	<!-- Mood Insights -->
+	<item class="com.djooryabi.moodinsights.MainActivity" name="mood_insights"/>
+
+	<!-- Mood Patterns -->
+	<item class="info.moodpatterns.moodpatterns.start.MainActivity" name="mood_patterns"/>
+
+	<!-- Moodee -->
+	<item class="com.bluesignum.little_lighthouse.MainActivity" name="moodee"/>
+
+	<!-- Moodistory -->
+	<item class="com.matoph.moodistory.ui.splash.SplashActivityTwo" name="moodistory"/>
+
+	<!-- Moon+ Reader Pro -->
+	<item class="com.flyersoft.moonreaderp.ActivityMain" name="moon_reader_pro"/>
+
+	<!-- Morrow -->
+	<item class="org.chromium.webapk.shell_apk.h2o.H2OOpaqueMainActivity" name="morrow"/>
+
+	<!-- Motionleap -->
+	<item class="com.lightricks.pixaloop.SplashActivity" name="motionleap"/>
+
+	<!-- Motivated -->
+	<item class="com.motivated.app.MainActivity" name="motivated"/>
+
+	<!-- MP3 Cutter & Ringtone Maker -->
+	<item class="com.inshot.videotomp3.SplashActivity" name="mp3_cutter_and_ringtone_maker"/>
+
+	<!-- MP3 Video Converter -->
+	<item class="com.springwalk.mediaconverter.MainActivity" name="mp3_video_converter"/>
+
+	<!-- MSDefender -->
+	<item class="com.microsoft.defender.ux.activity.MDMainActivity" name="msdefender"/>
+
+	<!-- MT Styles for Kustom KLWP -->
+	<item class="mtstylesforklwp.kustom.pack.MainActivity" name="mt_styles_for_kustom_klwp"/>
+
+	<!-- MultiTimer -->
+	<item class="com.persapps.multitimer.use.ui.scene.main.MainActivity" name="multitimer"/>
+
+	<!-- MuscleBooster -->
+	<item class="com.musclebooster.ui.splash.SplashActivity" name="musclebooster"/>
+
+	<!-- Muviz Edge -->
+	<item class="com.sparkine.muvizedge.activity.HomeActivity" name="muviz_edge"/>
+
+	<!-- Muviz Watch Faces -->
+	<item class="com.sparkine.watchfaces.activity.OnboardActivity" name="muviz_watch_faces"/>
+
+	<!-- My Drawer -->
+	<item class="com.ofirmiron.appdrawer.activities.MainActivity.Black" name="my_drawer"/>
+
+	<!-- My Fios -->
+	<item class="com.verizon.myfios.MainActivity" name="my_fios"/>
+
+	<!-- My Memo -->
+	<item class="com.yeeseong.memo.SplashA" name="my_memo"/>
+
+	<!-- MyCore -->
+	<item class="io.flutter.embedding.android.FlutterActivity" name="mycore"/>
+
+	<!-- MyIRVING -->
+	<item class="com.p97.irvingoil.MainActivity" name="myirving"/>
+
+	<!-- mymind -->
+	<item class="com.mymind.access.activities.SplashActivity" name="mymind"/>
+
+	<!-- MyMuseum -->
+	<item class="jp.oridio.museum.AdsActivity" name="mymuseum"/>
+
+	<!-- myReach -->
+	<item class="ch.rea.app.MainActivity" name="myreach"/>
+
+	<!-- NaturalReader -->
+	<item class="com.naturalsoft.personalweb.MainActivity" name="naturalreader"/>
+
+	<!-- neurolist -->
+	<item class="neurolist.app.neurolist.MainActivity" name="neurolist"/>
+
+	<!-- Neury -->
+	<item class="com.neurocog.SplashActivity" name="neury"/>
+
+	<!-- News -->
+	<item class="com.google.apps.dots.android.app.activity.CurrentsStartActivity" name="news"/>
+
+	<!-- NewsBreak -->
+	<item class="com.particlemedia.ui.guide.UserGuideActivity" name="newsbreak"/>
+
+	<!-- Nexa -->
+	<item class="com.jndapp.square.nexa.iconpack.MainActivity" name="nexa"/>
+
+	<!-- NightCafe -->
+	<item class="org.chromium.webapk.shell_apk.h2o.H2OOpaqueMainActivity" name="nightcafe"/>
+
+	<!-- niji・journey -->
+	<item class="com.spellbrush.nijijourney.MainActivity" name="niji・journey"/>
+
+	<!-- Nomi.ai -->
+	<item class="ai.nomi.twa.MainActivity" name="nomiai"/>
+
+	<!-- NOOZ.AI -->
+	<item class="com.heimdall.ntnooz.MainActivity" name="noozai"/>
+
+	<!-- Notehot.ai -->
+	<item class="com.notehotai.notehotai.ui.main.LauncherActivity" name="notehotai"/>
+
+	<!-- Notein -->
+	<item class="notes.notepad.checklist.calendar.todolist.notebook.page.WelcomeActivity" name="notein"/>
+
+	<!-- Noti Sender -->
+	<item class="com.noti.main.updater.UpdaterActivity" name="noti_sender"/>
+
+	<!-- Notion -->
+	<item class="notion.local.id.MainActivity" name="notion"/>
+
+	<!-- NotiStar -->
+	<item class="com.samsung.systemui.notilus.NotiCenterPage" name="notistar"/>
+
+	<!-- Nova -->
+	<item class="com.scaleup.chatai.SplashActivity" name="nova"/>
+
+	<!-- Oasis Launcher -->
+	<item class="com.crimson.oasislauncher.MainActivity" name="oasis_launcher"/>
+
+	<!-- Obedience -->
+	<item class="com.obedience.DefaultAlias" name="obedience"/>
+
+	<!-- obimy -->
+	<item class="com.empat.wory.MainActivity" name="obimy"/>
+
+	<!-- Observa -->
+	<item class="com.observa.observa.MainActivity" name="observa"/>
+
+	<!-- Olauncher -->
+	<item class="app.olauncher.MainActivity" name="olauncher"/>
+
+	<!-- One4KLWP Ultimate -->
+	<item class="cs14.pixelperfect.kwgtwidget.one4klwpultimate.MainActivity" name="one4klwp_ultimate"/>
+
+	<!-- OneMeasure Perks -->
+	<item class="com.gws.omp.view.ui.LandingActivity" name="onemeasure_perks"/>
+
+	<!-- Open Stable Diffusion -->
+	<item class="com.openstablediffusion.MainActivity" name="open_stable_diffusion"/>
+
+	<!-- OpenChat -->
+	<item class="open.chat.gpt.aichat.bot.free.app.splash.SplashActivity" name="openchat"/>
+
+	<!-- Otter -->
+	<item class="com.aisense.otter.ui.activity.SplashActivity" name="otter"/>
+
+	<!-- Overmorrow -->
+	<item class="com.example.hihi_haha.MainActivity" name="overmorrow"/>
+
+	<!-- Papa Gino's -->
+	<item class="com.lunchbox.android.ui.splash.SplashActivity" name="papa_ginos"/>
+
+	<!-- Papa Johns -->
+	<item class="com.papajohns.android.welcome.WelcomeActivity" name="papa_johns"/>
+
+	<!-- Parazute -->
+	<item class="com.parazute.app.MainActivity" name="parazute"/>
+
+	<!-- Parental Control -->
+	<item class="com.sand.airdroidkidp.ui.activity.ParentSplashActivity" name="parental_control"/>
+
+	<!-- Photo Analyzer -->
+	<item class="com.connections.mobile_development.photo_analyzer.MainActivity" name="photo_analyzer"/>
+
+	<!-- Photo Editor Pro - Polish -->
+	<item class="com.camerasideas.collagemaker.activity.DummyActivity" name="photo_editor_pro_polish"/>
+
+	<!-- Photo Enlarger -->
+	<item class="com.eagle.enlarger.activities.MainActivity2" name="photo_enlarger"/>
+
+	<!-- PhotoAI -->
+	<item class="com.app.phoAI.MainActivity" name="photoai"/>
+
+	<!-- PhotoApp -->
+	<item class="com.scaleup.photofx.SplashActivity" name="photoapp"/>
+
+	<!-- Photoleap -->
+	<item class="com.lightricks.photoleap.MainActivity" name="photoleap"/>
+
+	<!-- Pi -->
+	<item class="ai.inflection.pi.MainActivity" name="pi"/>
+
+	<!-- PICNIC -->
+	<item class="com.estsoft.picnic.ui.front.FrontActivity" name="picnic"/>
+
+	<!-- Picsart -->
+	<item class="com.socialin.android.photo.picsinphoto.MainPagerActivity" name="picsart"/>
+
+	<!-- Ping -->
+	<item class="io.ionic.starter.MainActivity" name="ping"/>
+
+	<!-- Pirate Ships -->
+	<item class="com.lexan.unitysplashscreen.GameActivity" name="pirate_ships"/>
+
+	<!-- PixAI.Art -->
+	<item class="art.pixai.pixai.ui.splash.SplashActivity" name="pixaiart"/>
+
+	<!-- Pixel Icon Packs -->
+	<item class="com.example.iconpacks.view.activity.FlashActivity" name="pixel_icon_packs"/>
+
+	<!-- Pixel Search -->
+	<item class="rk.android.app.pixelsearch.activities.HomeActivity" name="pixel_search"/>
+
+	<!-- Pixelcut -->
+	<item class="com.circular.pixels.MainActivity" name="pixelcut"/>
+
+	<!-- Pixelup -->
+	<item class="com.codeway.pixelup.MainActivity" name="pixelup"/>
+
+	<!-- Planndu -->
+	<item class="com.leadstepp.alldone.MainActivity" name="planndu"/>
+
+	<!-- Plato -->
+	<item class="com.playchat.ui.activity.SplashActivity" name="plato"/>
+
+	<!-- Poet Assistant -->
+	<item class="ca.rmen.android.poetassistant.main.MainActivity" name="poet_assistant"/>
+
+	<!-- Pogo -->
+	<item class="com.pogotech.pogocash.MainActivity" name="pogo"/>
+
+	<!-- Poly.AI -->
+	<item class="com.snapquiz.app.InitActivity" name="polyai"/>
+
+	<!-- Polygloss -->
+	<item class="app.polygloss.polygloss_app.MainActivity" name="polygloss"/>
+
+	<!-- Popeyes -->
+	<item class="com.emn8.mobilem8.nativeapp.popeyes.MainActivity" name="popeyes"/>
+
+	<!-- popup​Control -->
+	<item class="com.jamworks.disablenotificationpopups.SettingsHome" name="popup​control"/>
+
+	<!-- Postknight -->
+	<item class="com.unity3d.player.UnityPlayerActivity" name="postknight"/>
+
+	<!-- Postknight 2 -->
+	<item class="com.unity3d.player.UnityPlayerActivity" name="postknight_2"/>
+
+	<!-- Prism Style for KLWP -->
+	<item class="prismstyleforklwp.kustom.pack.MainActivity" name="prism_style_for_klwp"/>
+
+	<!-- Pro Launcher -->
+	<item class="app.prolauncher.MainActivity" name="pro_launcher"/>
+
+	<!-- Proddy -->
+	<item class="co.thomasmenzel.proddy.MainActivity" name="proddy"/>
+
+	<!-- Product Hunt -->
+	<item class="com.producthuntmobile.ui.MainActivity" name="product_hunt"/>
+
+	<!-- Prosper -->
+	<item class="com.prosper.routines.todo.productive.fabulous.habits.selfcare.MainActivity" name="prosper"/>
+
+	<!-- push note -->
+	<item class="com.penguenlabs.pushnote.features.MainActivity" name="push_note"/>
+
+	<!-- Pushbullet -->
+	<item class="com.pushbullet.android.ui.LaunchActivity" name="pushbullet"/>
+
+	<!-- Pushover -->
+	<item class="net.superblock.pushover.ui.MessageHistoryActivity" name="pushover"/>
+
+	<!-- Python X -->
+	<item class="com.projectx.python_x.MainActivity" name="python_x"/>
+
+	<!-- Pzizz -->
+	<item class="com.pzizz.android.activity.SplashActivity" name="pzizz"/>
+
+	<!-- Question.AI -->
+	<item class="com.qianfan.aihomework.ui.MainActivity" name="questionai"/>
+
+	<!-- QuickEdit+ -->
+	<item class="com.rhmsoft.edit.activity.MainActivity" name="quickedit_"/>
+
+	<!-- Raindrop -->
+	<item class="io.raindrop.raindropio.MainActivity" name="raindrop"/>
+
+	<!-- Raising Cane's -->
+	<item class="com.raisingcanes.ordering.MainActivity" name="raising_canes"/>
+
+	<!-- Recap -->
+	<item class="ai.transcription.recorder.voice.summarize.global.LaunchActivity" name="recap"/>
+
+	<!-- RECREATIVE 30 -->
+	<item class="com.recreative.recreative30.MainActivity" name="recreative_30"/>
+
+	<!-- Reflectr -->
+	<item class="com.example.daily_app.MainActivity" name="reflectr"/>
+
+	<!-- Rejoy -->
+	<item class="app.rejoy.MainActivity" name="rejoy"/>
+
+	<!-- Remember The Milk -->
+	<item class="com.rememberthemilk.MobileRTM.Activities.RTMLauncher" name="remember_the_milk"/>
+
+	<!-- Remini -->
+	<item class="com.bendingspoons.remini.MainActivity" name="remini"/>
+
+	<!-- Resplash -->
+	<item class="com.b_lam.resplash.ui.main.MainActivity" name="resplash"/>
+
+	<!-- Reverso Rephraser & Synonyms -->
+	<item class="com.softissimo.reverso.synonyms.activities.SplashActivity" name="reverso_rephraser_and_synonyms"/>
+
+	<!-- Ringtone Maker -->
+	<item class="app.better.ringtone.activity.SplashActivity" name="ringtone_maker"/>
+
+	<!-- Roop -->
+	<item class="com.app.roopai.MainActivity" name="roop"/>
+
+	<!-- RoutineFlow -->
+	<item class="app.routineflow.routineflow.MainActivity" name="routineflow"/>
+
+	<!-- Routinery -->
+	<item class="com.alt.goodmorning.MainActivity" name="routinery"/>
+
+	<!-- Sage AI -->
+	<item class="com.example.mondayhero_flutter_template_app.MainActivity" name="sage_ai"/>
+
+	<!-- Samsung Health Monitor -->
+	<item class="com.samsung.android.shealthmonitor.ui.activity.MainActivity" name="samsung_health_monitor"/>
+
+	<!-- SaveMyNoti -->
+	<item class="com.rishabhk.notificationhistorylog.savemynoti.MainActivity" name="savemynoti"/>
+
+	<!-- Scenario -->
+	<item class="com.scenario.apps.mockingjay.LegacySplashScreenActivity" name="scenario"/>
+
+	<!-- Scrambled Exif -->
+	<item class="com.jarsilio.android.scrambledeggsif.MainActivity" name="scrambled_exif"/>
+
+	<!-- Screen Recorder Unlimited -->
+	<item class="com.recorder.core.MainActivity" name="screen_recorder_unlimited"/>
+
+	<!-- Screenshot Assistant -->
+	<item class="com.ss.assistant.screenshot_assistant.MainActivity" name="screenshot_assistant"/>
+
+	<!-- Scribot -->
+	<item class="com.scribot.app.MainActivity" name="scribot"/>
+
+	<!-- SeaArt -->
+	<item class="ai.seaart.app.global.MainActivity" name="seaart"/>
+
+	<!-- Secret Cat Forest -->
+	<item class="air.net.ideasam.games.cat.AIRAppEntry" name="secret_cat_forest"/>
+
+	<!-- Secrétaire AI -->
+	<item class="com.jimdou.secretaire.MainActivity" name="secretaire_ai"/>
+
+	<!-- Seekai.tools -->
+	<item class="org.chromium.webapk.shell_apk.h2o.H2OOpaqueMainActivity" name="seekaitools"/>
+
+	<!-- Seren -->
+	<item class="com.goseren.seren.MainActivity" name="seren"/>
+
+	<!-- Seven Stars -->
+	<item class="com.como.prod842220190923.MainActivity" name="seven_stars"/>
+
+	<!-- SHAPES -->
+	<item class="shapes.icon.pack.ddt.MainActivity" name="shapes"/>
+
+	<!-- Shaw's -->
+	<item class="com.safeway.mcommerce.android.SplashScreen" name="shaws"/>
+
+	<!-- Shell -->
+	<item class="com.mobgen.fireblade.presentation.splash.SplashActivity" name="shell"/>
+
+	<!-- Shooglebox -->
+	<item class="com.impmedia.shooglebox.MainActivity" name="shooglebox"/>
+
+	<!-- Shortwave -->
+	<item class="shortwave.android.ui.MainActivity" name="shortwave"/>
+
+	<!-- SimpleMMO -->
+	<item class="dawsn.simplemmo.ui.main.MainActivity" name="simplemmo"/>
+
+	<!-- Simsimi -->
+	<item class="com.ismaker.android.simsimi.MainActivity" name="simsimi"/>
+
+	<!-- Sketchar -->
+	<item class="ktech.sketchar.ZeroActivity" name="sketchar"/>
+
+	<!-- Skullcandy -->
+	<item class="com.skullcandy_app.MainActivity" name="skullcandy"/>
+
+	<!-- Sky -->
+	<item class="com.tgc.sky.TGCBootActivity" name="sky"/>
+
+	<!-- Sleep Tracker -->
+	<item class="sleeptrakcer.sleeprecorder.sleepapp.sleep.guide.SplashActivity" name="sleep_tracker"/>
+
+	<!-- SleepTimer -->
+	<item class="ch.pboos.android.SleepTimer.ActivityMain" name="sleeptimer"/>
+
+	<!-- Small Living World -->
+	<item class="android.app.NativeActivity" name="small_living_world"/>
+
+	<!-- Snagajob -->
+	<item class="com.snagajob.jobseeker.LauncherActivity" name="snagajob"/>
+
+	<!-- SnoreGym -->
+	<item class="com.snorelab.snoregym.MainActivity" name="snoregym"/>
+
+	<!-- SNOW -->
+	<item class="com.linecorp.b612.android.activity.ActivityCamera" name="snow"/>
+
+	<!-- SODA -->
+	<item class="com.linecorp.sodacam.android.camera.CameraActivity" name="soda"/>
+
+	<!-- Sonic -->
+	<item class="com.inspirebrandsapp.MainActivity" name="sonic"/>
+
+	<!-- SoundType AI -->
+	<item class="com.innosq.soundtypeai.soundtypeai.MainActivity" name="soundtype_ai"/>
+
+	<!-- Speak -->
+	<item class="com.selabs.speak.SpeakActivity" name="speak"/>
+
+	<!-- Sponge -->
+	<item class="com.prismtree.sponge.MainActivity" name="sponge"/>
+
+	<!-- Square Home -->
+	<item class="com.ss.squarehome2.MainActivity" name="square_home"/>
+
+	<!-- Star Walk 2 -->
+	<item class="com.unity3d.player.UnityPlayerActivity" name="star_walk_2"/>
+
+	<!-- Starbucks -->
+	<item class="com.starbucks.mobilecard.main.activity.LandingPageActivity" name="starbucks"/>
+
+	<!-- starryai -->
+	<item class="com.starryai.MainActivity" name="starryai"/>
+
+	<!-- stats.fm -->
+	<item class="dev.netlob.spotistats.MainActivity" name="statsfm"/>
+
+	<!-- StayFree -->
+	<item class="com.burockgames.timeclocker.main.MainActivity" name="stayfree"/>
+
+	<!-- Stepik -->
+	<item class="org.stepic.droid.view.activities.SplashActivity" name="stepik"/>
+
+	<!-- Sticky Notes -->
+	<item class="com.jahertor.stickynotes.activities.MainActivity" name="sticky_notes"/>
+
+	<!-- Stimuler -->
+	<item class="com.stimuler.MainActivity" name="stimuler"/>
+
+	<!-- Story Plotter -->
+	<item class="com.hhatamanga.storyplotter.MainActivity" name="story_plotter"/>
+
+	<!-- StoryZ -->
+	<item class="com.lightx.activities.StoryzActivity" name="storyz"/>
+
+	<!-- Structured -->
+	<item class="com.structured.MainActivity" name="structured"/>
+
+	<!-- Student Beans -->
+	<item class="com.studentbeans.studentbeans.LoadingActivity" name="student_beans"/>
+
+	<!-- Style DNA -->
+	<item class="style.dna.app.MainActivity" name="style_dna"/>
+
+	<!-- SumOne -->
+	<item class="com.sumone.MainActivity" name="sumone"/>
+
+	<!-- sup -->
+	<item class="org.chromium.webapk.shell_apk.h2o.H2OOpaqueMainActivity" name="sup"/>
+
+	<!-- Super Recorder -->
+	<item class="com.tianxingjian.superrecorder.MainActivity" name="super_recorder"/>
+
+	<!-- Super Sound -->
+	<item class="com.tianxingjian.supersound.MainActivity" name="super_sound"/>
+
+	<!-- SuperBetter -->
+	<item class="com.superbetter.paid.ui.activities.SplashActivity" name="superbetter"/>
+
+	<!-- SuperImage -->
+	<item class="com.zhenxiang.superimage.MainActivity" name="superimage"/>
+
+	<!-- SUSI.AI -->
+	<item class="org.fossasia.susi.ai.login.WelcomeActivity" name="susiai"/>
+
+	<!-- Swipefy -->
+	<item class="app.swipefy.mobile.MainActivity" name="swipefy"/>
+
+	<!-- Sync for iCloud -->
+	<item class="mt.io.syncforicloud.activities.InitialChecksActivity" name="sync_for_icloud"/>
+
+	<!-- Syncthing-Fork -->
+	<item class="com.nutomic.syncthingandroid.activities.FirstStartActivity" name="syncthing_fork"/>
+
+	<!-- T Life -->
+	<item class="com.telekom.tworld.launcher.main.LauncherActivity" name="t_life"/>
+
+	<!-- T-Mobile -->
+	<item class="com.tmobile.pr.mytmobile.MyTMobileActivity" name="t_mobile"/>
+
+	<!-- TAAFT -->
+	<item class="org.chromium.webapk.shell_apk.h2o.H2OOpaqueMainActivity" name="taaft"/>
+
+	<!-- Taco Bell -->
+	<item class="com.tacobell.splash.SplashActivity" name="taco_bell"/>
+
+	<!-- TagSpaces -->
+	<item class="org.tagspaces.mobileapp.MainActivity" name="tagspaces"/>
+
+	<!-- TalkAI -->
+	<item class="studio.muggle.talkai.MainActivity" name="talkai"/>
+
+	<!-- Tangibl -->
+	<item class="live.tangibl.MainActivity" name="tangibl"/>
+
+	<!-- Taped -->
+	<item class="org.chromium.webapk.shell_apk.h2o.H2OOpaqueMainActivity" name="taped"/>
+
+	<!-- Tapping Solution -->
+	<item class="com.datechnologies.tappingsolution.screens.LaunchActivity" name="tapping_solution"/>
+
+	<!-- Taskade -->
+	<item class="com.taskade.mobile.MainActivity" name="taskade"/>
+
+	<!-- Tasker -->
+	<item class="net.dinglisch.android.taskerm.Tasker" name="tasker"/>
+
+	<!-- Tasker Secondary -->
+	<item class="com.joaomgcd.taskerm.util.ActivitySecondaryApp" name="tasker_secondary"/>
+
+	<!-- Tasks -->
+	<item class="com.lahsuak.apps.tasks.ui.MainActivity" name="tasks"/>
+
+	<!-- Textify -->
+	<item class="org.chromium.webapk.shell_apk.h2o.H2OOpaqueMainActivity" name="textify"/>
+
+	<!-- Textra -->
+	<item class="com.mplus.lib.Main_ff7986cb" name="textra"/>
+
+	<!-- The Hopeful -->
+	<item class="it.twloha.MainActivity" name="the_hopeful"/>
+
+	<!-- Themepack -->
+	<item class="com.iconchanger.shortcut.app.splash.activity.SplashActivity" name="themepack"/>
+
+	<!-- Themicon -->
+	<item class="com.dtp.themicon.SplashActivity" name="themicon"/>
+
+	<!-- TickTick -->
+	<item class="com.ticktick.task.HomeAlia_tick" name="ticktick"/>
+
+	<!-- TickTick -->
+	<item class="org.chromium.webapk.shell_apk.h2o.H2OOpaqueMainActivity" name="ticktick"/>
+
+	<!-- TIMEFLIK -->
+	<item class="com.apposter.watchmaker.renewal.feature.splash.SplashActivity" name="timeflik"/>
+
+	<!-- Tint -->
+	<item class="com.yaapps.mygradientwallpaperapp.SplashScreenActivity" name="tint"/>
+
+	<!-- Tooly -->
+	<item class="com.yousx.thetoolsapp.SplashScreenActivity" name="tooly"/>
+
+	<!-- TopHeroes -->
+	<item class="com.rivergame.gp.AppActivity" name="topheroes"/>
+
+	<!-- Total Battle -->
+	<item class="org.cocos2dx.cpp.AppActivity" name="total_battle"/>
+
+	<!-- trace.moe -->
+	<item class="org.chromium.webapk.shell_apk.h2o.H2OOpaqueMainActivity" name="tracemoe"/>
+
+	<!-- Transcribot -->
+	<item class="com.discreteapps.transcribot.MainActivity" name="transcribot"/>
+
+	<!-- Tree of Memories -->
+	<item class="com.music.couple.diary.MainActivity" name="tree_of_memories"/>
+
+	<!-- Tropical Smoothie Cafe -->
+	<item class="com.tropicalsmoothie.tropicalsmoothiecafe.android.app.MainActivity" name="tropical_smoothie_cafe"/>
+
+	<!-- Tune -->
+	<item class="com.logitech.logue.ui.activity.SplashActivity" name="tune"/>
+
+	<!-- Tusk -->
+	<item class="com.ulsoft.tusk.MainActivity" name="tusk"/>
+
+	<!-- Tutor Lily -->
+	<item class="com.base.app.Core.JasonViewActivity" name="tutor_lily"/>
+
+	<!-- Twos -->
+	<item class="com.twosnativev3.MainActivity" name="twos"/>
+
+	<!-- Uber Driver -->
+	<item class="com.ubercab.carbon.core.CarbonActivity" name="uber_driver"/>
+
+	<!-- Umi -->
+	<item class="app.immersely.immersely.MainActivity" name="umi"/>
+
+	<!-- Univerbal -->
+	<item class="com.chatexpo.MainActivity" name="univerbal"/>
+
+	<!-- Univi -->
+	<item class="app.univi.MainActivity" name="univi"/>
+
+	<!-- UnrollMe -->
+	<item class="com.unrollme.MainActivity" name="unrollme"/>
+
+	<!-- UpscaleAI -->
+	<item class="com.sparklingapps.app.ui.splash.SplashScreen" name="upscaleai"/>
+
+	<!-- Upside -->
+	<item class="com.upside.consumer.android.activities.MainActivity" name="upside"/>
+
+	<!-- Verticons Icon pack -->
+	<item class="com.spaceman.verticonspro.MainActivity" name="verticons_icon_pack"/>
+
+	<!-- VIC -->
+	<item class="com.looper.vic.activity.MainActivity" name="vic"/>
+
+	<!-- Video Compressor and Converter -->
+	<item class="com.stcodesapp.videoCompressorConverter.ui.splash.SplashActivity" name="video_compressor_and_converter"/>
+
+	<!-- Videoleap -->
+	<item class="com.lightricks.videoleap.app.SplashActivity" name="videoleap"/>
+
+	<!-- VIMAGE -->
+	<item class="com.vimage.vimageapp.SplashActivity" name="vimage"/>
+
+	<!-- Visual Attn -->
+	<item class="com.tactustherapy.vat.ui.splash.SplashActivity" name="visual_attn"/>
+
+	<!-- VN -->
+	<item class="com.frontrow.vlog.ui.splash.SplashActivity" name="vn"/>
+
+	<!-- Voice Recorder -->
+	<item class="com.microsingle.vrd.ui.main.activity.SplashActivity" name="voice_recorder"/>
+
+	<!-- VoiceGPT -->
+	<item class="gpt.voice.chatgpt.MainActivity" name="voicegpt"/>
+
+	<!-- Voidpet Garden -->
+	<item class="com.voidpet.MainActivity" name="voidpet_garden"/>
+
+	<!-- Voovo -->
+	<item class="com.voovo.app.MainActivity" name="voovo"/>
+
+	<!-- Waifu2x ncnn -->
+	<item class="pro.archiemeng.waifu2x.views.MainActivity" name="waifu2x_ncnn"/>
+
+	<!-- Walking -->
+	<item class="org.kustom.api.dashboard.DashboardActivity" name="walking"/>
+
+	<!-- Watch face crc080 installation guide. -->
+	<item class="com.creationcue.crc080watchface.MainActivity" name="watch_face_crc080_installation_guide"/>
+
+	<!-- Wave Ai -->
+	<item class="wave.ai.browser.ui.splash.SplashScreenActivity" name="wave_ai"/>
+
+	<!-- Waze -->
+	<item class="com.waze.FreeMapAppActivity" name="waze"/>
+
+	<!-- Wear Flashlight -->
+	<item class="com.codverter.wearflashlight.MainActivity" name="wear_flashlight"/>
+
+	<!-- WeatherMind -->
+	<item class="com.nettlebit.weathermind.MainActivity" name="weathermind"/>
+
+	<!-- WebView DevTools -->
+	<item class="org.chromium.android_webview.devui.LauncherActivity" name="webview_devtools"/>
+
+	<!-- Wendy's -->
+	<item class="com.wendys.mobile.presentation.activity.SplashActivity" name="wendys"/>
+
+	<!-- Widgetify -->
+	<item class="com.binarysmith.webclipwidget.MainActivity" name="widgetify"/>
+
+	<!-- Wingstop -->
+	<item class="com.wearehathway.apps.nomnomstock.views.splash.StartActivity" name="wingstop"/>
+
+	<!-- Wonderland -->
+	<item class="com.samsung.android.wonderland.wallpaper.settings.StartupActivity" name="wonderland"/>
+
+	<!-- Workout Trainer -->
+	<item class="com.skimble.workouts.activity.WorkoutApplicationLaunchActivity" name="workout_trainer"/>
+
+	<!-- WPGen -->
+	<item class="net.glsk.wpgen.ColorsActivity" name="wpgen"/>
+
+	<!-- Xbox -->
+	<item class="com.microsoft.xbox.MainActivity" name="xbox"/>
+
+	<!-- Xeropan -->
+	<item class="com.application.xeropan.SplashActivity_" name="xeropan"/>
+
+	<!-- YASAN Launcher -->
+	<item class="dev.yasan.launcher.legacy.ui.main.MainActivity" name="yasan_launcher"/>
+
+	<!-- Youper -->
+	<item class="br.com.youper.LauncherActivity" name="youper"/>
+
+	<!-- Zedge -->
+	<item class="net.zedge.android.MainValentines" name="zedge"/>
+
+	<!-- Zettel Notes -->
+	<item class="org.eu.thedoc.zettelnotes.screens.common.main.MainActivity" name="zettel_notes"/>
+
+	<!-- zFile -->
+	<item class="com.htetznaing.zfile.ui.MainActivity" name="zfile"/>
+
+	<!-- Zillow Rentals -->
+	<item class="com.zillow.android.re.ui.SplashScreenActivity" name="zillow_rentals"/>
+
+	<!-- ZMO -->
+	<item class="com.zmo.imgcreator.MainActivity" name="zmo"/>
+
+	<!-- Zone Launcher -->
+	<item class="com.bialy.zonelauncher.activities.StarterActivity" name="zone_launcher"/>
+
+</appmap>
