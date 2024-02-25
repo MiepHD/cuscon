@@ -3882,6 +3882,12 @@
     <AppIcon name="com.zmo.imgcreator/com.zmo.imgcreator.MainActivity" image="zmo"/>
     <AppIcon name="com.bialy.zonelauncher/com.bialy.zonelauncher.activities.StarterActivity" image="zone_launcher"/>
     <AppIcon name="com.fivehundredpx.viewer/com.fivehundredpx.viewer.RootActivity" image="_500px"/>
+	<AppIcon name="com.binance.dev/com.binance.launcher.activities.main.MainActivity" image="binance"/>
+    <AppIcon name="de.burgerking.kingfinder/rbi.android.app.MainActivity" image="burger_king"/>
+    <AppIcon name="com.area120.grasshopper/com.area120.grasshopper.MainActivity" image="grasshopper"/>
+    <AppIcon name="de.mcdonalds.mcdonaldsinfoapp/com.mcdonalds.mcdcoreapp.common.activity.SplashActivity" image="mcdonalds"/>
+    <AppIcon name="me.creasis.reader/me.creasis.reader.MainActivity" image="nexa"/>
+    <AppIcon name="jp.snowlife01.android.rotationcontrol/jp.snowlife01.android.rotationcontrolpro.rotation2.MainActivityNew" image="rotation_control_pro"/>
 
 
 </Theme>

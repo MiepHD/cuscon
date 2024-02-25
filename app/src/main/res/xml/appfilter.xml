@@ -3895,5 +3895,11 @@
     <item component="ComponentInfo{com.zmo.imgcreator/com.zmo.imgcreator.MainActivity}" drawable="zmo" />
     <item component="ComponentInfo{com.bialy.zonelauncher/com.bialy.zonelauncher.activities.StarterActivity}" drawable="zone_launcher" />
     <item component="ComponentInfo{com.fivehundredpx.viewer/com.fivehundredpx.viewer.RootActivity}" drawable="_500px" />
+	<item component="ComponentInfo{com.binance.dev/com.binance.launcher.activities.main.MainActivity}" drawable="binance" />
+    <item component="ComponentInfo{de.burgerking.kingfinder/rbi.android.app.MainActivity}" drawable="burger_king" />
+    <item component="ComponentInfo{com.area120.grasshopper/com.area120.grasshopper.MainActivity}" drawable="grasshopper" />
+    <item component="ComponentInfo{de.mcdonalds.mcdonaldsinfoapp/com.mcdonalds.mcdcoreapp.common.activity.SplashActivity}" drawable="mcdonalds" />
+    <item component="ComponentInfo{me.creasis.reader/me.creasis.reader.MainActivity}" drawable="nexa" />
+    <item component="ComponentInfo{jp.snowlife01.android.rotationcontrol/jp.snowlife01.android.rotationcontrolpro.rotation2.MainActivityNew}" drawable="rotation_control_pro" />
 
 </resources>
