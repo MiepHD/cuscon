@@ -384,8 +384,8 @@
 	<!-- Fake GPS -->
 	<AppIcon name="com.lexa.fakegps/com.lexa.fakegps.ui.Main" image="fake_gps"/>
 
-	<!-- Family Link -->
-	<AppIcon name="com.google.android.apps.kids.familylink/com.google.android.apps.kids.familylink.flutter.standalone.HomeActivity" image="family link"/>
+	<!-- family_link -->
+	<AppIcon name="com.google.android.apps.kids.familylink/com.google.android.apps.kids.familylink.flutter.standalone.HomeActivity" image="family_link"/>
 
 	<!-- FatSecret -->
 	<AppIcon name="com.fatsecret.android/com.fatsecret.android.ui.activity.StartupActivity" image="fatsecret"/>

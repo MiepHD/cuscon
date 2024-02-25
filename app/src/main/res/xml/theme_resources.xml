@@ -3921,7 +3921,7 @@
     <AppIcon name="de.eismann/de.eismann.ui.intro.SplashScreen" image="eismann"/>
     <AppIcon name="com.etoro.wallet/com.etoro.wallet.MainActivity" image="etoro_money"/>
     <AppIcon name="com.lexa.fakegps/com.lexa.fakegps.ui.Main" image="fake_gps"/>
-    <AppIcon name="com.google.android.apps.kids.familylink/com.google.android.apps.kids.familylink.flutter.standalone.HomeActivity" image="family link"/>
+    <AppIcon name="com.google.android.apps.kids.familylink/com.google.android.apps.kids.familylink.flutter.standalone.HomeActivity" image="family_link"/>
     <AppIcon name="com.fatsecret.android/com.fatsecret.android.ui.activity.StartupActivity" image="fatsecret"/>
     <AppIcon name="org.freedownloadmanager.fdm/org.freedownloadmanager.fdm.MyActivity" image="fdm"/>
     <AppIcon name="de.avm.android.fritzapp/de.avm.android.fritzapp.StartActivity" image="fon"/>

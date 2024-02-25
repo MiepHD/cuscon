@@ -384,8 +384,8 @@
 	<!-- Fake GPS -->
 	<item component="ComponentInfo{com.lexa.fakegps/com.lexa.fakegps.ui.Main}" drawable="fake_gps" />
 
-	<!-- Family Link -->
-	<item component="ComponentInfo{com.google.android.apps.kids.familylink/com.google.android.apps.kids.familylink.flutter.standalone.HomeActivity}" drawable="family link" />
+	<!-- family_link -->
+	<item component="ComponentInfo{com.google.android.apps.kids.familylink/com.google.android.apps.kids.familylink.flutter.standalone.HomeActivity}" drawable="family_link" />
 
 	<!-- FatSecret -->
 	<item component="ComponentInfo{com.fatsecret.android/com.fatsecret.android.ui.activity.StartupActivity}" drawable="fatsecret" />
