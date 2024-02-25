@@ -3707,5 +3707,6 @@
     <item component="ComponentInfo{ma.safe.bn/com.example.hmo.bns.SplashActivity}" drawable="noticias_de_ultima_hora" />
     <item component="ComponentInfo{com.antena3.ondaceroradio/com.antena3.ondaceroradio.ui.startup.splash.SplashActivity}" drawable="onda_cero" />
     <item component="ComponentInfo{com.cyberlink.powerdirector.DRA140225_01/com.cyberlink.powerdirector.splash.SplashActivity}" drawable="powerdirector" />
+	<item component="ComponentInfo{com.xsdev.docxreader.docx.docxviewer.document.doc.office.viewer.reader.word/com.rpdev.docreadermain.SplashActivity}" drawable="xsdev_docxreader" />
 
 </resources>
