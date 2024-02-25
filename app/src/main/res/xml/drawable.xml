@@ -3669,5 +3669,10 @@
     <item drawable="onda_cero" />
     <item drawable="powerdirector" />
     <item drawable="xsdev_docxreader" />
+    <item drawable="cube_acr" />
+    <item drawable="formsapp" />
+    <item drawable="pdf_editor" />
+    <item drawable="pdf_merge" />
+    <item drawable="pdf_reader" />
 
 </resources>

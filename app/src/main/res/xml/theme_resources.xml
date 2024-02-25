@@ -3698,5 +3698,10 @@
     <AppIcon name="com.antena3.ondaceroradio/com.antena3.ondaceroradio.ui.startup.splash.SplashActivity" image="onda_cero"/>
     <AppIcon name="com.cyberlink.powerdirector.DRA140225_01/com.cyberlink.powerdirector.splash.SplashActivity" image="powerdirector"/>
 	<AppIcon name="com.xsdev.docxreader.docx.docxviewer.document.doc.office.viewer.reader.word/com.rpdev.docreadermain.SplashActivity" image="xsdev_docxreader"/>
+	<AppIcon name="com.catalinagroup.callrecorder/com.catalinagroup.callrecorder.AppListActivityAlias" image="cube_acr"/>
+    <AppIcon name="com.heartfull.forms/com.heartfull.forms.views.activities.LaunchActivity" image="formsapp"/>
+    <AppIcon name="com.desygner.pdf/com.desygner.app.LandingActivity" image="pdf_editor"/>
+    <AppIcon name="com.benzveen.utility.pdftool/com.benzveen.utility.pdftool.MainActivity" image="pdf_merge"/>
+    <AppIcon name="com.kdanmobile.android.pdfreader.google.pad/com.kdanmobile.pdfreader.screen.activity.FirstActivity" image="pdf_reader"/>
 
 </Theme>

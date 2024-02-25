@@ -3708,5 +3708,10 @@
     <item component="ComponentInfo{com.antena3.ondaceroradio/com.antena3.ondaceroradio.ui.startup.splash.SplashActivity}" drawable="onda_cero" />
     <item component="ComponentInfo{com.cyberlink.powerdirector.DRA140225_01/com.cyberlink.powerdirector.splash.SplashActivity}" drawable="powerdirector" />
 	<item component="ComponentInfo{com.xsdev.docxreader.docx.docxviewer.document.doc.office.viewer.reader.word/com.rpdev.docreadermain.SplashActivity}" drawable="xsdev_docxreader" />
+	<item component="ComponentInfo{com.catalinagroup.callrecorder/com.catalinagroup.callrecorder.AppListActivityAlias}" drawable="cube_acr" />
+    <item component="ComponentInfo{com.heartfull.forms/com.heartfull.forms.views.activities.LaunchActivity}" drawable="formsapp" />
+    <item component="ComponentInfo{com.desygner.pdf/com.desygner.app.LandingActivity}" drawable="pdf_editor" />
+    <item component="ComponentInfo{com.benzveen.utility.pdftool/com.benzveen.utility.pdftool.MainActivity}" drawable="pdf_merge" />
+    <item component="ComponentInfo{com.kdanmobile.android.pdfreader.google.pad/com.kdanmobile.pdfreader.screen.activity.FirstActivity}" drawable="pdf_reader" />
 
 </resources>
