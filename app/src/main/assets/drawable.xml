@@ -3658,5 +3658,29 @@
     <item drawable="zillow_rentals" />
     <item drawable="_6000_thoughts" />
     <item drawable="_7fon" />
+    <item drawable="cope" />
+    <item drawable="euronews" />
+    <item drawable="europa_fm" />
+    <item drawable="graphite_icon_pack" />
+    <item drawable="ivoox" />
+    <item drawable="melodia_fm" />
+    <item drawable="navegador" />
+    <item drawable="noticias_de_ultima_hora" />
+    <item drawable="onda_cero" />
+    <item drawable="powerdirector" />
+    <item drawable="xsdev_docxreader" />
+    <item drawable="cube_acr" />
+    <item drawable="formsapp" />
+    <item drawable="pdf_editor" />
+    <item drawable="pdf_merge" />
+    <item drawable="pdf_reader" />
+    <item drawable="lahsuak_app_manager" />
+    <item drawable="discord_cherry_blossom" />
+    <item drawable="image_toolbox_resizer_blue" />
+    <item drawable="ai_imagine" />
+    <item drawable="pinya_lime" />
+    <item drawable="estsoft_picnic" />
+    <item drawable="superimage_pro" />
+    <item drawable="tasks_plus" />
 
 </resources>

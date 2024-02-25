@@ -3713,5 +3713,13 @@
     <item component="ComponentInfo{com.desygner.pdf/com.desygner.app.LandingActivity}" drawable="pdf_editor" />
     <item component="ComponentInfo{com.benzveen.utility.pdftool/com.benzveen.utility.pdftool.MainActivity}" drawable="pdf_merge" />
     <item component="ComponentInfo{com.kdanmobile.android.pdfreader.google.pad/com.kdanmobile.pdfreader.screen.activity.FirstActivity}" drawable="pdf_reader" />
+	<item component="ComponentInfo{com.lahsuak.apps.appmanager/com.lahsuak.apps.appmanager.ui.MainActivity}" drawable="lahsuak_app_manager" />
+    <item component="ComponentInfo{com.discord/com.discord.main.MainCherryBlossom}" drawable="discord_cherry_blossom" />
+    <item component="ComponentInfo{ru.tech.imageresizershrinker/ru.tech.imageresizershrinker.presentation.MainActivity}" drawable="image_toolbox_resizer_blue" />
+    <item component="ComponentInfo{com.ai.imagineApp/com.ai.imagineApp.activity.MainActivity}" drawable="ai_imagine" />
+    <item component="ComponentInfo{app.pinya.lime/app.pinya.lime.ui.view.activity.MainActivity}" drawable="pinya_lime" />
+    <item component="ComponentInfo{com.estsoft.picnic/com.estsoft.picnic.ui.front.FrontActivity}" drawable="estsoft_picnic" />
+    <item component="ComponentInfo{com.zhenxiang.superimage.pro/com.zhenxiang.superimage.MainActivity}" drawable="superimage_pro" />
+    <item component="ComponentInfo{com.lahsuak.apps.tasks/com.lahsuak.apps.tasks.ui.MainActivity}" drawable="tasks_plus" />
 
 </resources>

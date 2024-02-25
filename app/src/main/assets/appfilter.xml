@@ -3697,5 +3697,29 @@
     <item component="ComponentInfo{com.zillow.android.rentals/com.zillow.android.re.ui.SplashScreenActivity}" drawable="zillow_rentals" />
     <item component="ComponentInfo{com.slftok.sixthousandthoughts/io.flutter.embedding.android.FlutterFragmentActivity}" drawable="_6000_thoughts" />
     <item component="ComponentInfo{amoled.wall7Fon/ru.wall7Fon.ui.activities.SplashActivty}" drawable="_7fon" />
+	<item component="ComponentInfo{com.cope.radio/es.cope.group.presentationlayer.feature.splash.view.ui.SplashActivity}" drawable="cope" />
+    <item component="ComponentInfo{com.euronews.express/com.africanews.android.application.splash.SplashScreenActivity}" drawable="euronews" />
+    <item component="ComponentInfo{com.antena3.europafmradio/com.antena3.europafmradio.ui.startup.splash.SplashActivity}" drawable="europa_fm" />
+    <item component="ComponentInfo{com.stark.graphite/com.stark.graphite.MainActivity}" drawable="graphite_icon_pack" />
+    <item component="ComponentInfo{com.ivoox.app/com.ivoox.app.ui.login.activity.LoginMainActivity}" drawable="ivoox" />
+    <item component="ComponentInfo{com.i3television.melodiafm/com.i3television.melodiafm.ui.startup.splash.SplashActivity}" drawable="melodia_fm" />
+    <item component="ComponentInfo{com.ume.browser.northamerica/com.ume.browser.MainActivity}" drawable="navegador" />
+    <item component="ComponentInfo{ma.safe.bn/com.example.hmo.bns.SplashActivity}" drawable="noticias_de_ultima_hora" />
+    <item component="ComponentInfo{com.antena3.ondaceroradio/com.antena3.ondaceroradio.ui.startup.splash.SplashActivity}" drawable="onda_cero" />
+    <item component="ComponentInfo{com.cyberlink.powerdirector.DRA140225_01/com.cyberlink.powerdirector.splash.SplashActivity}" drawable="powerdirector" />
+	<item component="ComponentInfo{com.xsdev.docxreader.docx.docxviewer.document.doc.office.viewer.reader.word/com.rpdev.docreadermain.SplashActivity}" drawable="xsdev_docxreader" />
+	<item component="ComponentInfo{com.catalinagroup.callrecorder/com.catalinagroup.callrecorder.AppListActivityAlias}" drawable="cube_acr" />
+    <item component="ComponentInfo{com.heartfull.forms/com.heartfull.forms.views.activities.LaunchActivity}" drawable="formsapp" />
+    <item component="ComponentInfo{com.desygner.pdf/com.desygner.app.LandingActivity}" drawable="pdf_editor" />
+    <item component="ComponentInfo{com.benzveen.utility.pdftool/com.benzveen.utility.pdftool.MainActivity}" drawable="pdf_merge" />
+    <item component="ComponentInfo{com.kdanmobile.android.pdfreader.google.pad/com.kdanmobile.pdfreader.screen.activity.FirstActivity}" drawable="pdf_reader" />
+	<item component="ComponentInfo{com.lahsuak.apps.appmanager/com.lahsuak.apps.appmanager.ui.MainActivity}" drawable="lahsuak_app_manager" />
+    <item component="ComponentInfo{com.discord/com.discord.main.MainCherryBlossom}" drawable="discord_cherry_blossom" />
+    <item component="ComponentInfo{ru.tech.imageresizershrinker/ru.tech.imageresizershrinker.presentation.MainActivity}" drawable="image_toolbox_resizer_blue" />
+    <item component="ComponentInfo{com.ai.imagineApp/com.ai.imagineApp.activity.MainActivity}" drawable="ai_imagine" />
+    <item component="ComponentInfo{app.pinya.lime/app.pinya.lime.ui.view.activity.MainActivity}" drawable="pinya_lime" />
+    <item component="ComponentInfo{com.estsoft.picnic/com.estsoft.picnic.ui.front.FrontActivity}" drawable="estsoft_picnic" />
+    <item component="ComponentInfo{com.zhenxiang.superimage.pro/com.zhenxiang.superimage.MainActivity}" drawable="superimage_pro" />
+    <item component="ComponentInfo{com.lahsuak.apps.tasks/com.lahsuak.apps.tasks.ui.MainActivity}" drawable="tasks_plus" />
 
 </resources>

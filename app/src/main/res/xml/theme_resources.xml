@@ -3703,5 +3703,13 @@
     <AppIcon name="com.desygner.pdf/com.desygner.app.LandingActivity" image="pdf_editor"/>
     <AppIcon name="com.benzveen.utility.pdftool/com.benzveen.utility.pdftool.MainActivity" image="pdf_merge"/>
     <AppIcon name="com.kdanmobile.android.pdfreader.google.pad/com.kdanmobile.pdfreader.screen.activity.FirstActivity" image="pdf_reader"/>
+	<AppIcon name="com.lahsuak.apps.appmanager/com.lahsuak.apps.appmanager.ui.MainActivity" image="lahsuak_app_manager"/>
+    <AppIcon name="com.discord/com.discord.main.MainCherryBlossom" image="discord_cherry_blossom"/>
+    <AppIcon name="ru.tech.imageresizershrinker/ru.tech.imageresizershrinker.presentation.MainActivity" image="image_toolbox_resizer_blue"/>
+    <AppIcon name="com.ai.imagineApp/com.ai.imagineApp.activity.MainActivity" image="ai_imagine"/>
+    <AppIcon name="app.pinya.lime/app.pinya.lime.ui.view.activity.MainActivity" image="pinya_lime"/>
+    <AppIcon name="com.estsoft.picnic/com.estsoft.picnic.ui.front.FrontActivity" image="estsoft_picnic"/>
+    <AppIcon name="com.zhenxiang.superimage.pro/com.zhenxiang.superimage.MainActivity" image="superimage_pro"/>
+    <AppIcon name="com.lahsuak.apps.tasks/com.lahsuak.apps.tasks.ui.MainActivity" image="tasks_plus"/>
 
 </Theme>

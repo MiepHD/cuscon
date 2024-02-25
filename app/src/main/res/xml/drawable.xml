@@ -3674,5 +3674,13 @@
     <item drawable="pdf_editor" />
     <item drawable="pdf_merge" />
     <item drawable="pdf_reader" />
+    <item drawable="lahsuak_app_manager" />
+    <item drawable="discord_cherry_blossom" />
+    <item drawable="image_toolbox_resizer_blue" />
+    <item drawable="ai_imagine" />
+    <item drawable="pinya_lime" />
+    <item drawable="estsoft_picnic" />
+    <item drawable="superimage_pro" />
+    <item drawable="tasks_plus" />
 
 </resources>
