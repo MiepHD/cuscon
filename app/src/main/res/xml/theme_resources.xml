@@ -3995,5 +3995,7 @@
     <AppIcon name="org.woheller69.gptassist/org.woheller69.gptassist.MainActivity" image="gptassist"/>
     <AppIcon name="io.github.huskydg.magisk/com.topjohnwu.magisk.ui.MainActivity" image="kitsune_mask"/>
     <AppIcon name="org.tuxpaint/org.tuxpaint.tuxpaintActivity" image="tux_paint"/>
+    <AppIcon name="com.digital.bsnl.selfcare/com.selfcare.mybsnl.activities.SplashActivity" image="bsnl_selfcare"/>
+    <AppIcon name="com.pashapuma.pixp.iconpack/com.pashapuma.pixp.iconpack.activities.SplashActivity" image="pix_pie_icon_pack"/>
 
 </Theme>

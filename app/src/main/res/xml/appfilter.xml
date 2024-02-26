@@ -4008,5 +4008,7 @@
     <item component="ComponentInfo{org.woheller69.gptassist/org.woheller69.gptassist.MainActivity}" drawable="gptassist" />
     <item component="ComponentInfo{io.github.huskydg.magisk/com.topjohnwu.magisk.ui.MainActivity}" drawable="kitsune_mask" />
     <item component="ComponentInfo{org.tuxpaint/org.tuxpaint.tuxpaintActivity}" drawable="tux_paint" />
+    <item component="ComponentInfo{com.digital.bsnl.selfcare/com.selfcare.mybsnl.activities.SplashActivity}" drawable="bsnl_selfcare" />
+    <item component="ComponentInfo{com.pashapuma.pixp.iconpack/com.pashapuma.pixp.iconpack.activities.SplashActivity}" drawable="pix_pie_icon_pack" />
 
 </resources>
