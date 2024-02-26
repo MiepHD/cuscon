@@ -3932,5 +3932,7 @@
     <item drawable="triider_para_profissionais" />
     <item drawable="vademecum_internacional" />
     <item drawable="yola" />
+    <item drawable="barcode_scanner_zxing" />
+    <item drawable="idos" />
 
 </resources>

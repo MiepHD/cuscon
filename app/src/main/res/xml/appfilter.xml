@@ -3992,5 +3992,7 @@
     <item component="ComponentInfo{com.triider.pro/com.triider.pro.MainActivity}" drawable="triider_para_profissionais" />
     <item component="ComponentInfo{com.vidal.vademecum/com.tns.NativeScriptActivity}" drawable="vademecum_internacional" />
     <item component="ComponentInfo{com.eden.chat.yola/com.eden.chat.yola.ui.StartYoActivity}" drawable="yola" />
+    <item component="ComponentInfo{com.google.zxing.client.android/com.google.zxing.client.android.CaptureActivity}" drawable="barcode_scanner_zxing" />
+    <item component="ComponentInfo{cz.mafra.jizdnirady/cz.mafra.jizdnirady.activity.SplashActivity}" drawable="idos" />
 
 </resources>

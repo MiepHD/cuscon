@@ -3979,5 +3979,7 @@
     <AppIcon name="com.triider.pro/com.triider.pro.MainActivity" image="triider_para_profissionais"/>
     <AppIcon name="com.vidal.vademecum/com.tns.NativeScriptActivity" image="vademecum_internacional"/>
     <AppIcon name="com.eden.chat.yola/com.eden.chat.yola.ui.StartYoActivity" image="yola"/>
+    <AppIcon name="com.google.zxing.client.android/com.google.zxing.client.android.CaptureActivity" image="barcode_scanner_zxing"/>
+    <AppIcon name="cz.mafra.jizdnirady/cz.mafra.jizdnirady.activity.SplashActivity" image="idos"/>
 
 </Theme>
