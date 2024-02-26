@@ -4150,5 +4150,12 @@
     <item component="ComponentInfo{com.ubisoft.uplay/com.zoontek.rnbootsplash.RNBootSplashActivity}" drawable="ubisoft_connect" />
     <item component="ComponentInfo{com.microsoft.xboxone.smartglass.beta/com.microsoft.xbox.MainActivity}" drawable="xbox_beta" />
     <item component="ComponentInfo{org.yuzu.yuzu_emu/org.yuzu.yuzu_emu.ui.main.MainActivity}" drawable="yuzu" />
+    <item component="ComponentInfo{com.pleiades.pleione.base64/com.pleiades.pleione.base64.ui.SplashActivity}" drawable="base_64" />
+    <item component="ComponentInfo{org.akanework.gramophone/org.akanework.gramophone.ui.MainActivity}" drawable="gramophone" />
+    <item component="ComponentInfo{nebbiakwgt.kustom.pack/org.kustom.api.dashboard.DashboardActivity}" drawable="nebbia_kwgt" />
+    <item component="ComponentInfo{dev.narikdesign.nothingmaterialyou/dev.narikdesign.nothingmaterialyou.MainActivity}" drawable="nothing_material_you" />
+    <item component="ComponentInfo{com.reevpro.grabsterstudios/com.reevpro.grabsterstudios.MainActivity}" drawable="reev_pro" />
+    <item component="ComponentInfo{com.vpn.free.hotspot.secure.vpnify/com.vpn.free.hotspot.secure.vpnify.MainActivity}" drawable="vpnify" />
+    <item component="ComponentInfo{com.carthero.driver/com.carthero.driver.splash.SplashActivity}" drawable="zomato_delivery" />
 
 </resources>

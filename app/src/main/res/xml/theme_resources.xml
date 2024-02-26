@@ -4137,5 +4137,12 @@
     <AppIcon name="com.ubisoft.uplay/com.zoontek.rnbootsplash.RNBootSplashActivity" image="ubisoft_connect"/>
     <AppIcon name="com.microsoft.xboxone.smartglass.beta/com.microsoft.xbox.MainActivity" image="xbox_beta"/>
     <AppIcon name="org.yuzu.yuzu_emu/org.yuzu.yuzu_emu.ui.main.MainActivity" image="yuzu"/>
+    <AppIcon name="com.pleiades.pleione.base64/com.pleiades.pleione.base64.ui.SplashActivity" image="base_64"/>
+    <AppIcon name="org.akanework.gramophone/org.akanework.gramophone.ui.MainActivity" image="gramophone"/>
+    <AppIcon name="nebbiakwgt.kustom.pack/org.kustom.api.dashboard.DashboardActivity" image="nebbia_kwgt"/>
+    <AppIcon name="dev.narikdesign.nothingmaterialyou/dev.narikdesign.nothingmaterialyou.MainActivity" image="nothing_material_you"/>
+    <AppIcon name="com.reevpro.grabsterstudios/com.reevpro.grabsterstudios.MainActivity" image="reev_pro"/>
+    <AppIcon name="com.vpn.free.hotspot.secure.vpnify/com.vpn.free.hotspot.secure.vpnify.MainActivity" image="vpnify"/>
+    <AppIcon name="com.carthero.driver/com.carthero.driver.splash.SplashActivity" image="zomato_delivery"/>
 
 </Theme>

@@ -4090,5 +4090,12 @@
     <item drawable="ubisoft_connect" />
     <item drawable="xbox_beta" />
     <item drawable="yuzu" />
+    <item drawable="base_64" />
+    <item drawable="gramophone" />
+    <item drawable="nebbia_kwgt" />
+    <item drawable="nothing_material_you" />
+    <item drawable="reev_pro" />
+    <item drawable="vpnify" />
+    <item drawable="zomato_delivery" />
 
 </resources>
