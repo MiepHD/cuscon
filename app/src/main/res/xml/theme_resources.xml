@@ -4225,5 +4225,14 @@
     <AppIcon name="com.graymatrix.did/com.zee5.splash.SplashActivity" image="zee5"/>
     <AppIcon name="in.zestmoney.android.zestlife/in.zestmoney.zestlife.ui.journey.LaunchActivity" image="zestmoney"/>
     <AppIcon name="com.threesome.swingers.threefun/com.threesome.swingers.threefun.mainLauncher" image="_3f"/>
+    <AppIcon name="com.behance.behance/com.behance.network.ui.activities.MainActivity" image="behance"/>
+    <AppIcon name="com.bilibili.app.in/tv.danmaku.bili.MainActivityV2" image="bilibili"/>
+    <AppIcon name="com.example.c001apk/com.example.c001apk.ui.activity.MainActivity" image="c001apk"/>
+    <AppIcon name="io.ente.photos.fdroid/io.ente.photos.MainActivity" image="ente_photos"/>
+    <AppIcon name="com.darkrockstudios.apps.hammer.android/com.darkrockstudios.apps.hammer.android.ProjectSelectActivity" image="hammer"/>
+    <AppIcon name="com.absinthe.libchecker/com.absinthe.libchecker.features.home.ui.MainActivity" image="libchecker"/>
+    <AppIcon name="com.blink.academy.nomopro/com.blink.academy.nomo.ui.activity.splash.NomoSplashActivity" image="nomo_cam"/>
+    <AppIcon name="com.tencent.mobileqq/com.tencent.mobileqq.activity.SplashActivity" image="qq"/>
+    <AppIcon name="com.chucklefish.stardewvalley/crc64e8b22d3833b21ea5.MainActivity" image="stardew_valley"/>
 
 </Theme>

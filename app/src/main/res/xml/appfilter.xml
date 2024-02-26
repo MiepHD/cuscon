@@ -4238,5 +4238,14 @@
     <item component="ComponentInfo{com.graymatrix.did/com.zee5.splash.SplashActivity}" drawable="zee5" />
     <item component="ComponentInfo{in.zestmoney.android.zestlife/in.zestmoney.zestlife.ui.journey.LaunchActivity}" drawable="zestmoney" />
     <item component="ComponentInfo{com.threesome.swingers.threefun/com.threesome.swingers.threefun.mainLauncher}" drawable="_3f" />
+    <item component="ComponentInfo{com.behance.behance/com.behance.network.ui.activities.MainActivity}" drawable="behance" />
+    <item component="ComponentInfo{com.bilibili.app.in/tv.danmaku.bili.MainActivityV2}" drawable="bilibili" />
+    <item component="ComponentInfo{com.example.c001apk/com.example.c001apk.ui.activity.MainActivity}" drawable="c001apk" />
+    <item component="ComponentInfo{io.ente.photos.fdroid/io.ente.photos.MainActivity}" drawable="ente_photos" />
+    <item component="ComponentInfo{com.darkrockstudios.apps.hammer.android/com.darkrockstudios.apps.hammer.android.ProjectSelectActivity}" drawable="hammer" />
+    <item component="ComponentInfo{com.absinthe.libchecker/com.absinthe.libchecker.features.home.ui.MainActivity}" drawable="libchecker" />
+    <item component="ComponentInfo{com.blink.academy.nomopro/com.blink.academy.nomo.ui.activity.splash.NomoSplashActivity}" drawable="nomo_cam" />
+    <item component="ComponentInfo{com.tencent.mobileqq/com.tencent.mobileqq.activity.SplashActivity}" drawable="qq" />
+    <item component="ComponentInfo{com.chucklefish.stardewvalley/crc64e8b22d3833b21ea5.MainActivity}" drawable="stardew_valley" />
 
 </resources>
