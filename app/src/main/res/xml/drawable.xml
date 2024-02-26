@@ -3940,5 +3940,13 @@
     <item drawable="inspector" />
     <item drawable="re_equalizer" />
     <item drawable="stars" />
+    <item drawable="btc_map" />
+    <item drawable="calyx_vpn" />
+    <item drawable="chat" />
+    <item drawable="dns_manager" />
+    <item drawable="free_browser" />
+    <item drawable="gptassist" />
+    <item drawable="kitsune_mask" />
+    <item drawable="tux_paint" />
 
 </resources>

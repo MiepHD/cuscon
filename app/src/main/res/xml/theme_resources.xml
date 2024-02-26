@@ -3987,5 +3987,13 @@
     <AppIcon name="ussr.razar.inspector/ussr.razar.inspector.StartAc" image="inspector"/>
     <AppIcon name="com.wiseschematics.reeq01/com.wiseschematics.reeq01.EQ" image="re_equalizer"/>
     <AppIcon name="com.maxelus.livewallpaper.stars/com.justzht.unity.lwp.activity.LiveWallpaperLauncherRedirectActivity" image="stars"/>
+    <AppIcon name="org.btcmap/activity.Activity" image="btc_map"/>
+    <AppIcon name="org.calyxinstitute.vpn/se.leap.bitmaskclient.base.StartActivity" image="calyx_vpn"/>
+    <AppIcon name="de.monocles.chat/de.monocles.chat.ui.StartUI" image="chat"/>
+    <AppIcon name="com.f0x1d.dnsmanager/com.f0x1d.dnsmanager.ui.activity.MainActivity" image="dns_manager"/>
+    <AppIcon name="org.woheller69.browser/de.baumann.browser.activity.BrowserActivity" image="free_browser"/>
+    <AppIcon name="org.woheller69.gptassist/org.woheller69.gptassist.MainActivity" image="gptassist"/>
+    <AppIcon name="io.github.huskydg.magisk/com.topjohnwu.magisk.ui.MainActivity" image="kitsune_mask"/>
+    <AppIcon name="org.tuxpaint/org.tuxpaint.tuxpaintActivity" image="tux_paint"/>
 
 </Theme>

@@ -4000,5 +4000,13 @@
     <item component="ComponentInfo{ussr.razar.inspector/ussr.razar.inspector.StartAc}" drawable="inspector" />
     <item component="ComponentInfo{com.wiseschematics.reeq01/com.wiseschematics.reeq01.EQ}" drawable="re_equalizer" />
     <item component="ComponentInfo{com.maxelus.livewallpaper.stars/com.justzht.unity.lwp.activity.LiveWallpaperLauncherRedirectActivity}" drawable="stars" />
+    <item component="ComponentInfo{org.btcmap/activity.Activity}" drawable="btc_map" />
+    <item component="ComponentInfo{org.calyxinstitute.vpn/se.leap.bitmaskclient.base.StartActivity}" drawable="calyx_vpn" />
+    <item component="ComponentInfo{de.monocles.chat/de.monocles.chat.ui.StartUI}" drawable="chat" />
+    <item component="ComponentInfo{com.f0x1d.dnsmanager/com.f0x1d.dnsmanager.ui.activity.MainActivity}" drawable="dns_manager" />
+    <item component="ComponentInfo{org.woheller69.browser/de.baumann.browser.activity.BrowserActivity}" drawable="free_browser" />
+    <item component="ComponentInfo{org.woheller69.gptassist/org.woheller69.gptassist.MainActivity}" drawable="gptassist" />
+    <item component="ComponentInfo{io.github.huskydg.magisk/com.topjohnwu.magisk.ui.MainActivity}" drawable="kitsune_mask" />
+    <item component="ComponentInfo{org.tuxpaint/org.tuxpaint.tuxpaintActivity}" drawable="tux_paint" />
 
 </resources>
