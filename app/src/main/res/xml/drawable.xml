@@ -3950,5 +3950,7 @@
     <item drawable="tux_paint" />
     <item drawable="bsnl_selfcare" />
     <item drawable="pix_pie_icon_pack" />
+    <item drawable="expressvpn" />
+    <item drawable="linksys" />
 
 </resources>

@@ -3997,5 +3997,7 @@
     <AppIcon name="org.tuxpaint/org.tuxpaint.tuxpaintActivity" image="tux_paint"/>
     <AppIcon name="com.digital.bsnl.selfcare/com.selfcare.mybsnl.activities.SplashActivity" image="bsnl_selfcare"/>
     <AppIcon name="com.pashapuma.pixp.iconpack/com.pashapuma.pixp.iconpack.activities.SplashActivity" image="pix_pie_icon_pack"/>
+    <AppIcon name="com.expressvpn.vpn/com.expressvpn.splash.SplashActivity" image="expressvpn"/>
+    <AppIcon name="com.cisco.connect.cloud/com.cisco.connect.cloud.MainActivity" image="linksys"/>
 
 </Theme>
