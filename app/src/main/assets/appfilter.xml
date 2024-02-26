@@ -4273,5 +4273,42 @@
     <item component="ComponentInfo{com.cris87.xperia/com.candybar.dev.activities.SplashActivity}" drawable="xperia" />
     <item component="ComponentInfo{com.asn360.youline.iconpack/com.asn360.youline.iconpack.MainActivity}" drawable="youline" />
     <item component="ComponentInfo{com.zoho.daybook/com.zoho.daybook.launcher.LauncherActivity}" drawable="zoho_daybook" />
+    <item component="ComponentInfo{com.alien.shooter.galaxy.attack.premium/com.google.firebase.MessagingUnityPlayerActivity}" drawable="alien_shooter" />
+    <item component="ComponentInfo{com.maxpatchs.ango/com.maxpatchs.ango.activities.SplashActivity}" drawable="ango_icons" />
+    <item component="ComponentInfo{rk.android.app.appbar/rk.android.app.appbar.activities.launch.LaunchActivity}" drawable="appbar" />
+    <item component="ComponentInfo{com.bulk.uninstall/com.bulk.uninstall.main.LauncherActivity}" drawable="appdrop" />
+    <item component="ComponentInfo{com.argonremote.batterynotifier/com.argonremote.batterynotifier.MainActivity}" drawable="battery_sound_notification" />
+    <item component="ComponentInfo{io.japp.blackscreen/io.japp.blackscreen.ui.MainActivity}" drawable="black_screen" />
+    <item component="ComponentInfo{com.blockerhero/com.blockerhero.ui.launcher.LauncherActivity}" drawable="blockerhero" />
+    <item component="ComponentInfo{com.emeint.android.mwallet.bm/com.emeint.android.mwallet2.view.StartupActivity}" drawable="bm_wallet" />
+    <item component="ComponentInfo{com.danilkinkin.buckwheat/com.danilkinkin.buckwheat.MainActivity}" drawable="buckwheat" />
+    <item component="ComponentInfo{com.gmg.iconpack.circle.gradient/com.gmg.iconpack.circle.gradient.activities.SplashActivity}" drawable="circledient_icon_pack" />
+    <item component="ComponentInfo{com.lstapps.dailymotivationalquotewidget/com.lstapps.dailymotivationalquotewidget.MainActivity}" drawable="daily_quotes_widget" />
+    <item component="ComponentInfo{net.daylio/net.daylio.activities.OverviewActivity}" drawable="daylio" />
+    <item component="ComponentInfo{com.osheden.distraction.free.icon.pack/com.osheden.distraction.free.icon.pack.activities.SplashActivity}" drawable="distraction_free" />
+    <item component="ComponentInfo{com.ceco.sbdp.pro/com.ceco.sbdp.pro.Settings}" drawable="download_progress_" />
+    <item component="ComponentInfo{com.hfhuaizhi.bird/com.hfhuaizhi.bird.activity.MainActivity}" drawable="dynamic_bird" />
+    <item component="ComponentInfo{you.in.spark.energy/you.in.spark.energy.WelcomeScreen}" drawable="energy_bar" />
+    <item component="ComponentInfo{com.phonephreak.pagescroll/com.phonephreak.smartscroll.MainActivity}" drawable="flex_scroll" />
+    <item component="ComponentInfo{com.jamworks.bestgesturenavigation/com.jamworks.bestgesturenavigation.SettingsHome}" drawable="gestureplus" />
+    <item component="ComponentInfo{com.putcodes.iamaprogrammer/com.putcodes.iamaprogrammer.Splasch_screen}" drawable="i_am_programmer" />
+    <item component="ComponentInfo{io.github.sds100.keymapper/io.github.sds100.keymapper.SplashActivity}" drawable="key_mapper" />
+    <item component="ComponentInfo{fe.linksheet/fe.linksheet.activity.MainActivity}" drawable="linksheet" />
+    <item component="ComponentInfo{rk.android.app.lockscreen/rk.android.app.lockscreen.activity.HomeActivity}" drawable="lock_screen" />
+    <item component="ComponentInfo{com.yeyebbc.play.meeye.iconpack/com.yeyebbc.play.meeye.iconpack.activities.SplashActivity}" drawable="meeye" />
+    <item component="ComponentInfo{com.italiano.midnightdark/com.italiano.midnightdark.activities.MainActivity}" drawable="midnight_dark_icon_pack" />
+    <item component="ComponentInfo{app.mihon/eu.kanade.tachiyomi.ui.main.MainActivity}" drawable="mihon" />
+    <item component="ComponentInfo{com.witcher.moviewitcher/com.example.moviewitcher.activites.HomeActivity}" drawable="movie_witcher" />
+    <item component="ComponentInfo{rk.android.app.notificationshortcuts/rk.android.app.notificationshortcuts.activities.launch.LaunchActivity}" drawable="notification_shortcuts" />
+    <item component="ComponentInfo{com.dynamic.notifications/com.dynamic.notifications.ui.SaCat}" drawable="notiguy" />
+    <item component="ComponentInfo{com.fossor.panels/com.fossor.panels.MainActivity}" drawable="panels" />
+    <item component="ComponentInfo{it.simonesestito.ntiles/it.simonesestito.ntiles.MainSplash}" drawable="quick_settings" />
+    <item component="ComponentInfo{com.github.ericytsang.screenfilter.app.android/com.github.ericytsang.screenfilter.app.android.activity.MainActivity}" drawable="screen dimmer" />
+    <item component="ComponentInfo{com.mobile.simplilearn/com.mobile.newArch.module.splash.SplashScreenActivity}" drawable="simplilearn" />
+    <item component="ComponentInfo{pl.lambada.songsync/pl.lambada.songsync.MainActivity}" drawable="songsync" />
+    <item component="ComponentInfo{com.panotogomo.lbviorange/com.panotogomo.lbviorange.activities.SplashActivity}" drawable="viorange" />
+    <item component="ComponentInfo{com.hrd.vocabulary/com.hrd.view.onboarding.SplashScreenActivity_appicon0}" drawable="vocabulary" />
+    <item component="ComponentInfo{com.gawk.voicenotes/com.gawk.voicenotes.view.main.MainActivity}" drawable="voice_notes" />
+    <item component="ComponentInfo{com.wabox/com.wabox.start.Welcome}" drawable="wabox" />
 
 </resources>
