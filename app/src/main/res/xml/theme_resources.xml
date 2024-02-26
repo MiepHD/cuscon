@@ -3984,5 +3984,8 @@
     <AppIcon name="com.avsar.app/com.avsar.app.MainActivity" image="avsar"/>
     <AppIcon name="com.samagra.sakshamSamiksha/com.samagra.parent.ui.splash.SplashActivity" image="saksham_samiksha"/>
     <AppIcon name="com.sbi.sbiquick/com.sbi.sbiquick.MainActivity" image="sbi_quick"/>
+    <AppIcon name="ussr.razar.inspector/ussr.razar.inspector.StartAc" image="inspector"/>
+    <AppIcon name="com.wiseschematics.reeq01/com.wiseschematics.reeq01.EQ" image="re_equalizer"/>
+    <AppIcon name="com.maxelus.livewallpaper.stars/com.justzht.unity.lwp.activity.LiveWallpaperLauncherRedirectActivity" image="stars"/>
 
 </Theme>

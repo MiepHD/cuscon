@@ -3997,5 +3997,8 @@
     <item component="ComponentInfo{com.avsar.app/com.avsar.app.MainActivity}" drawable="avsar" />
     <item component="ComponentInfo{com.samagra.sakshamSamiksha/com.samagra.parent.ui.splash.SplashActivity}" drawable="saksham_samiksha" />
     <item component="ComponentInfo{com.sbi.sbiquick/com.sbi.sbiquick.MainActivity}" drawable="sbi_quick" />
+    <item component="ComponentInfo{ussr.razar.inspector/ussr.razar.inspector.StartAc}" drawable="inspector" />
+    <item component="ComponentInfo{com.wiseschematics.reeq01/com.wiseschematics.reeq01.EQ}" drawable="re_equalizer" />
+    <item component="ComponentInfo{com.maxelus.livewallpaper.stars/com.justzht.unity.lwp.activity.LiveWallpaperLauncherRedirectActivity}" drawable="stars" />
 
 </resources>

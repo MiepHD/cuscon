@@ -3937,5 +3937,8 @@
     <item drawable="avsar" />
     <item drawable="saksham_samiksha" />
     <item drawable="sbi_quick" />
+    <item drawable="inspector" />
+    <item drawable="re_equalizer" />
+    <item drawable="stars" />
 
 </resources>
