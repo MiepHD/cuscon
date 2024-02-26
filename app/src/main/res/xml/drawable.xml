@@ -3934,5 +3934,8 @@
     <item drawable="yola" />
     <item drawable="barcode_scanner_zxing" />
     <item drawable="idos" />
+    <item drawable="avsar" />
+    <item drawable="saksham_samiksha" />
+    <item drawable="sbi_quick" />
 
 </resources>

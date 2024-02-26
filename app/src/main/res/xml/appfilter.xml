@@ -3994,5 +3994,8 @@
     <item component="ComponentInfo{com.eden.chat.yola/com.eden.chat.yola.ui.StartYoActivity}" drawable="yola" />
     <item component="ComponentInfo{com.google.zxing.client.android/com.google.zxing.client.android.CaptureActivity}" drawable="barcode_scanner_zxing" />
     <item component="ComponentInfo{cz.mafra.jizdnirady/cz.mafra.jizdnirady.activity.SplashActivity}" drawable="idos" />
+    <item component="ComponentInfo{com.avsar.app/com.avsar.app.MainActivity}" drawable="avsar" />
+    <item component="ComponentInfo{com.samagra.sakshamSamiksha/com.samagra.parent.ui.splash.SplashActivity}" drawable="saksham_samiksha" />
+    <item component="ComponentInfo{com.sbi.sbiquick/com.sbi.sbiquick.MainActivity}" drawable="sbi_quick" />
 
 </resources>

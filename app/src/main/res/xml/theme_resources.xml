@@ -3981,5 +3981,8 @@
     <AppIcon name="com.eden.chat.yola/com.eden.chat.yola.ui.StartYoActivity" image="yola"/>
     <AppIcon name="com.google.zxing.client.android/com.google.zxing.client.android.CaptureActivity" image="barcode_scanner_zxing"/>
     <AppIcon name="cz.mafra.jizdnirady/cz.mafra.jizdnirady.activity.SplashActivity" image="idos"/>
+    <AppIcon name="com.avsar.app/com.avsar.app.MainActivity" image="avsar"/>
+    <AppIcon name="com.samagra.sakshamSamiksha/com.samagra.parent.ui.splash.SplashActivity" image="saksham_samiksha"/>
+    <AppIcon name="com.sbi.sbiquick/com.sbi.sbiquick.MainActivity" image="sbi_quick"/>
 
 </Theme>
