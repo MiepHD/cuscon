@@ -3961,6 +3961,11 @@
     <AppIcon name="com.uberspot.a2048/com.uberspot.a2048.MainActivity" image="_2048"/>
     <AppIcon name="com.oF2pks.kalturadeviceinfos/com.oF2pks.kalturadeviceinfos.MainActivity" image="_f_droid_kdi"/>
     <AppIcon name="com.oF2pks.kalturadeviceinfos/com.oF2pks.applicationsinfo.MainActivity" image="_f_droid_kdi"/>
+    <AppIcon name="com.nuance.nmc.sihome.metropcs/com.nuance.nmc.sihome.metropcs.myMetro" image="mymetro"/>
+    <AppIcon name="com.offerup/com.offerup.MainActivity" image="offerup"/>
+    <AppIcon name="com.jfgame.OrionStars/com.unity3d.player.UnityPlayerActivity" image="orionstars"/>
+    <AppIcon name="com.texas.lottery/com.texas.lottery.MainActivity" image="texas_lottery"/>
+    <AppIcon name="sound.beautifier.bluetooth.music.more.bass.low.volume/sound.beautifier.bluetooth.music.more.bass.low.volume.MiserableUseless" image="_sound_"/>
 
 
 </Theme>

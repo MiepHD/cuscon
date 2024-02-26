@@ -3974,5 +3974,10 @@
     <item component="ComponentInfo{com.uberspot.a2048/com.uberspot.a2048.MainActivity}" drawable="_2048" />
     <item component="ComponentInfo{com.oF2pks.kalturadeviceinfos/com.oF2pks.kalturadeviceinfos.MainActivity}" drawable="_f_droid_kdi" />
     <item component="ComponentInfo{com.oF2pks.kalturadeviceinfos/com.oF2pks.applicationsinfo.MainActivity}" drawable="_f_droid_kdi" />
+    <item component="ComponentInfo{com.nuance.nmc.sihome.metropcs/com.nuance.nmc.sihome.metropcs.myMetro}" drawable="mymetro" />
+    <item component="ComponentInfo{com.offerup/com.offerup.MainActivity}" drawable="offerup" />
+    <item component="ComponentInfo{com.jfgame.OrionStars/com.unity3d.player.UnityPlayerActivity}" drawable="orionstars" />
+    <item component="ComponentInfo{com.texas.lottery/com.texas.lottery.MainActivity}" drawable="texas_lottery" />
+    <item component="ComponentInfo{sound.beautifier.bluetooth.music.more.bass.low.volume/sound.beautifier.bluetooth.music.more.bass.low.volume.MiserableUseless}" drawable="_sound_" />
 
 </resources>
