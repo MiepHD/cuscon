@@ -4063,5 +4063,36 @@
     <AppIcon name="com.xda.labs.play/host.exp.exponent.MainActivity" image="xda_developers"/>
     <AppIcon name="com.dewmobile.kuaiya.play/com.dewmobile.kuaiya.act.DmStartupActivity" image="zapya"/>
     <AppIcon name="com.zoodel.kz/com.zoodel.kz.activities.ActivitySplash" image="zood_zoodpay_and_zoodmall_"/>
+    <AppIcon name="psyberia.alpinequest.full/psyberia.alpinequest.full.AlpineQuestActivity" image="alpinequest"/>
+    <AppIcon name="com.amway.businessapp.rukz/com.amway.businessapp.rukz.AmwayRussia" image="amway"/>
+    <AppIcon name="ru.appbonus.android/com.application.library.MainActivity" image="appbonus"/>
+    <AppIcon name="ru.apptools/ru.apptools.activity.TabWidgetActivity" image="apptools"/>
+    <AppIcon name="com.pioneer.alternativeremote/com.pioneer.alternativeremote.activity.OpeningActivity" image="arc"/>
+    <AppIcon name="bz.epn.cashback.epncashback/bz.epn.cashback.epncashback.ui.activity.splash.SplashActivity" image="backit_epn_"/>
+    <AppIcon name="com.bitrix24.android/com.bitrix24.android.BX24Activity" image="bitrix24"/>
+    <AppIcon name="ru.chipdip.mobile/ru.chipdip.mobile.activities.MainActivity" image="chipdip"/>
+    <AppIcon name="com.eapublishing.dhsw.paid/com.enigma.customactivity.EsUnityPlayerActivity" image="demon_hunter_premium"/>
+    <AppIcon name="com.flightradar24free/com.flightradar24free.SplashActivity" image="flightradar24"/>
+    <AppIcon name="com.chartcross.gpstest/com.chartcross.gpstest.MainActivity" image="gps_test"/>
+    <AppIcon name="ru.ingos.ingomobile/ru.ingos.ingomobile.navigation.SingleActivity" image="ingomobile"/>
+    <AppIcon name="ru.a402d.prnfromatolkkm/ru.a402d.prnfromatolkkm.activity.MainActivity" image="kkm_prn"/>
+    <AppIcon name="com.xiaomiui.downloader/com.xiaomiui.downloader.MainActivity" image="miui_downloader"/>
+    <AppIcon name="ru.gavrikov.mocklocations/ru.gavrikov.mocklocations.MainActivity" image="mock_locations"/>
+    <AppIcon name="com.wilysis.cellinfo/com.wilysis.cellinfo.Arxikh" image="network_cell_info"/>
+    <AppIcon name="com.rg.nomadvpn/com.rg.nomadvpn.MainActivity" image="nomad_vpn"/>
+    <AppIcon name="com.onetwo.app/com.onetwo.app.LoginActivity" image="onetwo"/>
+    <AppIcon name="com.prostoapp/com.prostoapp.MainActivity" image="prosto"/>
+    <AppIcon name="com.tencent.igxiaomi/com.tencent.igxiaomi.MainActivity" image="pubg_mobile_gift_box"/>
+    <AppIcon name="ru.mw/ru.mw.splashScreen.view.SplashScreenActivity" image="qiwi"/>
+    <AppIcon name="com.camvision.qrcode.barcode.reader/com.camvision.qrcode.barcode.reader.main.Qr2MainActivity" image="qr_сканер"/>
+    <AppIcon name="ru.a402d.rawbtprinter/ru.a402d.rawbtprinter.activity.MainActivity" image="rawbt"/>
+    <AppIcon name="com.turtleapps.relaxingsleepsoundspro/com.turtleapps.relaxingsleepsoundspro.SplashActivity" image="relaxing_sleep_sounds_pro"/>
+    <AppIcon name="ru.vk.store/ru.vk.store.app.MainActivity" image="rustore"/>
+    <AppIcon name="ru.rutube.app/ru.rutube.app.ui.activity.splash.SplashActivity" image="rutube"/>
+    <AppIcon name="com.github.shadowsocks/com.github.shadowsocks.MainActivity" image="shadowsocks"/>
+    <AppIcon name="net.track24.android/net.track24.android.SplashActivity" image="track24"/>
+    <AppIcon name="com.webmoney.my/com.webmoney.my.v3.screen.main.MasterActivity" image="webmoney_keeper"/>
+    <AppIcon name="com.wildberries.ru/ru.wildberries.SplashActivity" image="wildberries"/>
+    <AppIcon name="ru.rt.video.app.mobile/ru.rt.video.app.splash.SplashActivity" image="wink"/>
 
 </Theme>

@@ -4076,5 +4076,36 @@
     <item component="ComponentInfo{com.xda.labs.play/host.exp.exponent.MainActivity}" drawable="xda_developers" />
     <item component="ComponentInfo{com.dewmobile.kuaiya.play/com.dewmobile.kuaiya.act.DmStartupActivity}" drawable="zapya" />
     <item component="ComponentInfo{com.zoodel.kz/com.zoodel.kz.activities.ActivitySplash}" drawable="zood_zoodpay_and_zoodmall_" />
+    <item component="ComponentInfo{psyberia.alpinequest.full/psyberia.alpinequest.full.AlpineQuestActivity}" drawable="alpinequest" />
+    <item component="ComponentInfo{com.amway.businessapp.rukz/com.amway.businessapp.rukz.AmwayRussia}" drawable="amway" />
+    <item component="ComponentInfo{ru.appbonus.android/com.application.library.MainActivity}" drawable="appbonus" />
+    <item component="ComponentInfo{ru.apptools/ru.apptools.activity.TabWidgetActivity}" drawable="apptools" />
+    <item component="ComponentInfo{com.pioneer.alternativeremote/com.pioneer.alternativeremote.activity.OpeningActivity}" drawable="arc" />
+    <item component="ComponentInfo{bz.epn.cashback.epncashback/bz.epn.cashback.epncashback.ui.activity.splash.SplashActivity}" drawable="backit_epn_" />
+    <item component="ComponentInfo{com.bitrix24.android/com.bitrix24.android.BX24Activity}" drawable="bitrix24" />
+    <item component="ComponentInfo{ru.chipdip.mobile/ru.chipdip.mobile.activities.MainActivity}" drawable="chipdip" />
+    <item component="ComponentInfo{com.eapublishing.dhsw.paid/com.enigma.customactivity.EsUnityPlayerActivity}" drawable="demon_hunter_premium" />
+    <item component="ComponentInfo{com.flightradar24free/com.flightradar24free.SplashActivity}" drawable="flightradar24" />
+    <item component="ComponentInfo{com.chartcross.gpstest/com.chartcross.gpstest.MainActivity}" drawable="gps_test" />
+    <item component="ComponentInfo{ru.ingos.ingomobile/ru.ingos.ingomobile.navigation.SingleActivity}" drawable="ingomobile" />
+    <item component="ComponentInfo{ru.a402d.prnfromatolkkm/ru.a402d.prnfromatolkkm.activity.MainActivity}" drawable="kkm_prn" />
+    <item component="ComponentInfo{com.xiaomiui.downloader/com.xiaomiui.downloader.MainActivity}" drawable="miui_downloader" />
+    <item component="ComponentInfo{ru.gavrikov.mocklocations/ru.gavrikov.mocklocations.MainActivity}" drawable="mock_locations" />
+    <item component="ComponentInfo{com.wilysis.cellinfo/com.wilysis.cellinfo.Arxikh}" drawable="network_cell_info" />
+    <item component="ComponentInfo{com.rg.nomadvpn/com.rg.nomadvpn.MainActivity}" drawable="nomad_vpn" />
+    <item component="ComponentInfo{com.onetwo.app/com.onetwo.app.LoginActivity}" drawable="onetwo" />
+    <item component="ComponentInfo{com.prostoapp/com.prostoapp.MainActivity}" drawable="prosto" />
+    <item component="ComponentInfo{com.tencent.igxiaomi/com.tencent.igxiaomi.MainActivity}" drawable="pubg_mobile_gift_box" />
+    <item component="ComponentInfo{ru.mw/ru.mw.splashScreen.view.SplashScreenActivity}" drawable="qiwi" />
+    <item component="ComponentInfo{com.camvision.qrcode.barcode.reader/com.camvision.qrcode.barcode.reader.main.Qr2MainActivity}" drawable="qr_сканер" />
+    <item component="ComponentInfo{ru.a402d.rawbtprinter/ru.a402d.rawbtprinter.activity.MainActivity}" drawable="rawbt" />
+    <item component="ComponentInfo{com.turtleapps.relaxingsleepsoundspro/com.turtleapps.relaxingsleepsoundspro.SplashActivity}" drawable="relaxing_sleep_sounds_pro" />
+    <item component="ComponentInfo{ru.vk.store/ru.vk.store.app.MainActivity}" drawable="rustore" />
+    <item component="ComponentInfo{ru.rutube.app/ru.rutube.app.ui.activity.splash.SplashActivity}" drawable="rutube" />
+    <item component="ComponentInfo{com.github.shadowsocks/com.github.shadowsocks.MainActivity}" drawable="shadowsocks" />
+    <item component="ComponentInfo{net.track24.android/net.track24.android.SplashActivity}" drawable="track24" />
+    <item component="ComponentInfo{com.webmoney.my/com.webmoney.my.v3.screen.main.MasterActivity}" drawable="webmoney_keeper" />
+    <item component="ComponentInfo{com.wildberries.ru/ru.wildberries.SplashActivity}" drawable="wildberries" />
+    <item component="ComponentInfo{ru.rt.video.app.mobile/ru.rt.video.app.splash.SplashActivity}" drawable="wink" />
 
 </resources>
