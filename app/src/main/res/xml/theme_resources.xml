@@ -4117,5 +4117,25 @@
     <AppIcon name="todolist.scheduleplanner.dailyplanner.todo.reminders/app.todolist.activity.SplashActivity" image="to_do_list"/>
     <AppIcon name="de.mocama.UniNow/com.zoontek.rnbootsplash.RNBootSplashActivity" image="uninow"/>
     <AppIcon name="com.naver.linewebtoon/com.naver.linewebtoon.splash.SplashActivity" image="webtoon"/>
+    <AppIcon name="com.agc.gcam_tools/com.agc.gcam_tools.MainActivity" image="agc_toolkit"/>
+    <AppIcon name="com.github.metacubex.clash.meta/com.github.kr328.clash.MainActivity" image="clash_meta"/>
+    <AppIcon name="dji.mimo/dji.mimo.main.DJILaunchActivity" image="dji_mimo"/>
+    <AppIcon name="com.lerist.fakelocation/com.lerist.fakelocation.ui.activity.MainActivity" image="fake_location"/>
+    <AppIcon name="li.songe.gkd/li.songe.gkd.MainActivity" image="gkd"/>
+    <AppIcon name="xzr.hkf/xzr.hkf.MainActivity" image="horizon_kernel_flasher"/>
+    <AppIcon name="com.nianticproject.ingress/com.nianticproject.ingress.IngressActivity" image="ingress"/>
+    <AppIcon name="cn.kaiheila/cn.kaiheila.ui.main.SplashActivity" image="kook"/>
+    <AppIcon name="org.lsposed.manager/org.lsposed.manager.ui.activity.MainActivity" image="lsposed"/>
+    <AppIcon name="org.nobody.multitts/org.nobody.multitts.ui.main.MainActivity" image="multitts"/>
+    <AppIcon name="xyz.nextalone.nagram/org.telegram.messenger.DefaultIcon" image="nagram"/>
+    <AppIcon name="com.ttxapps.onesyncv2/com.ttxapps.sync.app.MainActivity" image="onesync"/>
+    <AppIcon name="io.github.qauxv/io.github.qauxv.activity.ConfigV2ActivityAlias" image="qauxiliary"/>
+    <AppIcon name="io.github.rabahx.securify/io.github.rabahx.securify.ui.activity.MainActivity" image="securify"/>
+    <AppIcon name="com.steampy.app/com.steampy.app.activity.common.splash.SplashActivity" image="steampy"/>
+    <AppIcon name="cc.microblock.TGStickerProvider/cc.microblock.TGStickerProvider.Home" image="tgstickerprovider"/>
+    <AppIcon name="com.fankes.tsbattery/com.fankes.tsbattery.Home" image="tsbattery"/>
+    <AppIcon name="com.ubisoft.uplay/com.zoontek.rnbootsplash.RNBootSplashActivity" image="ubisoft_connect"/>
+    <AppIcon name="com.microsoft.xboxone.smartglass.beta/com.microsoft.xbox.MainActivity" image="xbox_beta"/>
+    <AppIcon name="org.yuzu.yuzu_emu/org.yuzu.yuzu_emu.ui.main.MainActivity" image="yuzu"/>
 
 </Theme>

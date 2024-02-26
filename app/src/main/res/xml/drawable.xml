@@ -4070,5 +4070,25 @@
     <item drawable="to_do_list" />
     <item drawable="uninow" />
     <item drawable="webtoon" />
+    <item drawable="agc_toolkit" />
+    <item drawable="clash_meta" />
+    <item drawable="dji_mimo" />
+    <item drawable="fake_location" />
+    <item drawable="gkd" />
+    <item drawable="horizon_kernel_flasher" />
+    <item drawable="ingress" />
+    <item drawable="kook" />
+    <item drawable="lsposed" />
+    <item drawable="multitts" />
+    <item drawable="nagram" />
+    <item drawable="onesync" />
+    <item drawable="qauxiliary" />
+    <item drawable="securify" />
+    <item drawable="steampy" />
+    <item drawable="tgstickerprovider" />
+    <item drawable="tsbattery" />
+    <item drawable="ubisoft_connect" />
+    <item drawable="xbox_beta" />
+    <item drawable="yuzu" />
 
 </resources>

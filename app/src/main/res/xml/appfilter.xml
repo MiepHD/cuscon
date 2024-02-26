@@ -4130,5 +4130,25 @@
     <item component="ComponentInfo{todolist.scheduleplanner.dailyplanner.todo.reminders/app.todolist.activity.SplashActivity}" drawable="to_do_list" />
     <item component="ComponentInfo{de.mocama.UniNow/com.zoontek.rnbootsplash.RNBootSplashActivity}" drawable="uninow" />
     <item component="ComponentInfo{com.naver.linewebtoon/com.naver.linewebtoon.splash.SplashActivity}" drawable="webtoon" />
+    <item component="ComponentInfo{com.agc.gcam_tools/com.agc.gcam_tools.MainActivity}" drawable="agc_toolkit" />
+    <item component="ComponentInfo{com.github.metacubex.clash.meta/com.github.kr328.clash.MainActivity}" drawable="clash_meta" />
+    <item component="ComponentInfo{dji.mimo/dji.mimo.main.DJILaunchActivity}" drawable="dji_mimo" />
+    <item component="ComponentInfo{com.lerist.fakelocation/com.lerist.fakelocation.ui.activity.MainActivity}" drawable="fake_location" />
+    <item component="ComponentInfo{li.songe.gkd/li.songe.gkd.MainActivity}" drawable="gkd" />
+    <item component="ComponentInfo{xzr.hkf/xzr.hkf.MainActivity}" drawable="horizon_kernel_flasher" />
+    <item component="ComponentInfo{com.nianticproject.ingress/com.nianticproject.ingress.IngressActivity}" drawable="ingress" />
+    <item component="ComponentInfo{cn.kaiheila/cn.kaiheila.ui.main.SplashActivity}" drawable="kook" />
+    <item component="ComponentInfo{org.lsposed.manager/org.lsposed.manager.ui.activity.MainActivity}" drawable="lsposed" />
+    <item component="ComponentInfo{org.nobody.multitts/org.nobody.multitts.ui.main.MainActivity}" drawable="multitts" />
+    <item component="ComponentInfo{xyz.nextalone.nagram/org.telegram.messenger.DefaultIcon}" drawable="nagram" />
+    <item component="ComponentInfo{com.ttxapps.onesyncv2/com.ttxapps.sync.app.MainActivity}" drawable="onesync" />
+    <item component="ComponentInfo{io.github.qauxv/io.github.qauxv.activity.ConfigV2ActivityAlias}" drawable="qauxiliary" />
+    <item component="ComponentInfo{io.github.rabahx.securify/io.github.rabahx.securify.ui.activity.MainActivity}" drawable="securify" />
+    <item component="ComponentInfo{com.steampy.app/com.steampy.app.activity.common.splash.SplashActivity}" drawable="steampy" />
+    <item component="ComponentInfo{cc.microblock.TGStickerProvider/cc.microblock.TGStickerProvider.Home}" drawable="tgstickerprovider" />
+    <item component="ComponentInfo{com.fankes.tsbattery/com.fankes.tsbattery.Home}" drawable="tsbattery" />
+    <item component="ComponentInfo{com.ubisoft.uplay/com.zoontek.rnbootsplash.RNBootSplashActivity}" drawable="ubisoft_connect" />
+    <item component="ComponentInfo{com.microsoft.xboxone.smartglass.beta/com.microsoft.xbox.MainActivity}" drawable="xbox_beta" />
+    <item component="ComponentInfo{org.yuzu.yuzu_emu/org.yuzu.yuzu_emu.ui.main.MainActivity}" drawable="yuzu" />
 
 </resources>
