@@ -3981,5 +3981,16 @@
     <item component="ComponentInfo{sound.beautifier.bluetooth.music.more.bass.low.volume/sound.beautifier.bluetooth.music.more.bass.low.volume.MiserableUseless}" drawable="_sound_" />
     <item component="ComponentInfo{com.westernunion.moneytransferr3app.acs3/com.westernunion.moneytransferr3app.MainActivity}" drawable="western_union" />
     <item component="ComponentInfo{com.samsung.android.mdx/com.samsung.android.mdx.windowslink.tileservice.LinkToWidowsLauncherActivityDummy}" drawable="link_to_windows" />
+    <item component="ComponentInfo{br.com.bb.android/br.com.bb.android.reactnative.ReactLoginActivity}" drawable="bb" />
+    <item component="ComponentInfo{br.gov.dataprev.carteiradigital/br.gov.dataprev.carteiradigital.MainActivity}" drawable="carteira_de_trabalho_digital" />
+    <item component="ComponentInfo{br.com.cittabus/br.com.cittati.cittamobi_flutter.MainActivity}" drawable="cittamobi" />
+    <item component="ComponentInfo{th74dev.download.video.pinterest.image.downloader/th74dev.download.video.pinterest.image.downloader.main}" drawable="download_video_for_pinterest" />
+    <item component="ComponentInfo{com.jetappfactory.jetaudioplus/com.jetappfactory.jetaudio.MusicBrowserActivity}" drawable="jetaudio_" />
+    <item component="ComponentInfo{info.kfsoft.android.TrafficIndicatorPro/info.kfsoft.android.TrafficIndicatorPro.StartActivity}" drawable="network_monitor_mini_pro" />
+    <item component="ComponentInfo{com.shinycore.picsaypro/com.shinycore.picsaypro.main}" drawable="picsay_pro" />
+    <item component="ComponentInfo{com.dynamixsoftware.printershare/com.dynamixsoftware.printershare.ActivityMain}" drawable="printershare" />
+    <item component="ComponentInfo{com.triider.pro/com.triider.pro.MainActivity}" drawable="triider_para_profissionais" />
+    <item component="ComponentInfo{com.vidal.vademecum/com.tns.NativeScriptActivity}" drawable="vademecum_internacional" />
+    <item component="ComponentInfo{com.eden.chat.yola/com.eden.chat.yola.ui.StartYoActivity}" drawable="yola" />
 
 </resources>
