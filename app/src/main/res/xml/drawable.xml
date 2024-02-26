@@ -4097,5 +4097,26 @@
     <item drawable="reev_pro" />
     <item drawable="vpnify" />
     <item drawable="zomato_delivery" />
+    <item drawable="barcode_scanner_" />
+    <item drawable="classical_music_tagger" />
+    <item drawable="digital_basic_gradient_1" />
+    <item drawable="essentials4" />
+    <item drawable="gps_cockpit" />
+    <item drawable="hue" />
+    <item drawable="intervalltimer" />
+    <item drawable="kulturpass_de" />
+    <item drawable="magic_home" />
+    <item drawable="nextbike" />
+    <item drawable="sea_battle" />
+    <item drawable="seven" />
+    <item drawable="solarman_intelligent" />
+    <item drawable="spotiflyer" />
+    <item drawable="swu_app" />
+    <item drawable="tachometer" />
+    <item drawable="toilet_finder" />
+    <item drawable="tts_tool" />
+    <item drawable="vanishing_hour" />
+    <item drawable="wadbs" />
+    <item drawable="web_opac" />
 
 </resources>

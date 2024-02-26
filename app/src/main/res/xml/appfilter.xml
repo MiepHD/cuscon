@@ -4157,5 +4157,26 @@
     <item component="ComponentInfo{com.reevpro.grabsterstudios/com.reevpro.grabsterstudios.MainActivity}" drawable="reev_pro" />
     <item component="ComponentInfo{com.vpn.free.hotspot.secure.vpnify/com.vpn.free.hotspot.secure.vpnify.MainActivity}" drawable="vpnify" />
     <item component="ComponentInfo{com.carthero.driver/com.carthero.driver.splash.SplashActivity}" drawable="zomato_delivery" />
+    <item component="ComponentInfo{com.srowen.bs.android/com.srowen.bs.android.CaptureActivity}" drawable="barcode_scanner_" />
+    <item component="ComponentInfo{de.kromke.andreas.musictagger/de.kromke.andreas.musictagger.MainActivity}" drawable="classical_music_tagger" />
+    <item component="ComponentInfo{com.watchfacestudio.dbgrd1/com.watchfacestudio.dbgrd1.MainActivity}" drawable="digital_basic_gradient_1" />
+    <item component="ComponentInfo{com.activewatchdesign.essentials4/com.activewatchdesign.essentials4.MainActivity}" drawable="essentials4" />
+    <item component="ComponentInfo{org.woheller69.gpscockpit/org.woheller69.gpscockpit.MainActivity}" drawable="gps_cockpit" />
+    <item component="ComponentInfo{com.philips.lighting.hue2/com.philips.lighting.hue2.ContentActivity}" drawable="hue" />
+    <item component="ComponentInfo{org.secuso.privacyfriendlyintervaltimer/org.secuso.privacyfriendlyintervaltimer.activities.SplashActivity}" drawable="intervalltimer" />
+    <item component="ComponentInfo{de.bkm.kulturpass/de.bkm.kulturpass.MainActivity}" drawable="kulturpass_de" />
+    <item component="ComponentInfo{com.zengge.wifi/com.zengge.wifi.StartActivity}" drawable="magic_home" />
+    <item component="ComponentInfo{de.nextbike/net.nextbike.v3.presentation.ui.main.view.MapActivity}" drawable="nextbike" />
+    <item component="ComponentInfo{com.byril.seabattle/com.byril.seabattle.AndroidLauncher}" drawable="sea_battle" />
+    <item component="ComponentInfo{se.perigee.android.seven/com.perigee.seven.ui.activity.SplashActivity}" drawable="seven" />
+    <item component="ComponentInfo{com.igen.xiaomaizhidian/com.igen.rrgf.MainActivity}" drawable="solarman_intelligent" />
+    <item component="ComponentInfo{com.shabinder.spotiflyer/com.shabinder.spotiflyer.ui.SplashScreenActivity}" drawable="spotiflyer" />
+    <item component="ComponentInfo{de.hansecom.swuapp/de.hansecom.swuapp.SplashActivity}" drawable="swu_app" />
+    <item component="ComponentInfo{apps.r.speedometer/apps.r.speedometer.StartTheme.Charcoal}" drawable="tachometer" />
+    <item component="ComponentInfo{com.bto.toilet/com.betomorrow.toiletfinder.SplashActivity}" drawable="toilet_finder" />
+    <item component="ComponentInfo{de.favo.ttstool/de.favo.ttstool.Splash}" drawable="tts_tool" />
+    <item component="ComponentInfo{com.watchfacedesigns.Vanish/com.watchfacedesigns.Vanish.MainActivity}" drawable="vanishing_hour" />
+    <item component="ComponentInfo{com.smoothie.wirelessDebuggingSwitch/com.smoothie.wirelessDebuggingSwitch.SettingsActivity}" drawable="wadbs" />
+    <item component="ComponentInfo{de.geeksfactory.opacclient/de.geeksfactory.opacclient.frontend.MainActivity}" drawable="web_opac" />
 
 </resources>

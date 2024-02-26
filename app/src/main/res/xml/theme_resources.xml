@@ -4144,5 +4144,26 @@
     <AppIcon name="com.reevpro.grabsterstudios/com.reevpro.grabsterstudios.MainActivity" image="reev_pro"/>
     <AppIcon name="com.vpn.free.hotspot.secure.vpnify/com.vpn.free.hotspot.secure.vpnify.MainActivity" image="vpnify"/>
     <AppIcon name="com.carthero.driver/com.carthero.driver.splash.SplashActivity" image="zomato_delivery"/>
+    <AppIcon name="com.srowen.bs.android/com.srowen.bs.android.CaptureActivity" image="barcode_scanner_"/>
+    <AppIcon name="de.kromke.andreas.musictagger/de.kromke.andreas.musictagger.MainActivity" image="classical_music_tagger"/>
+    <AppIcon name="com.watchfacestudio.dbgrd1/com.watchfacestudio.dbgrd1.MainActivity" image="digital_basic_gradient_1"/>
+    <AppIcon name="com.activewatchdesign.essentials4/com.activewatchdesign.essentials4.MainActivity" image="essentials4"/>
+    <AppIcon name="org.woheller69.gpscockpit/org.woheller69.gpscockpit.MainActivity" image="gps_cockpit"/>
+    <AppIcon name="com.philips.lighting.hue2/com.philips.lighting.hue2.ContentActivity" image="hue"/>
+    <AppIcon name="org.secuso.privacyfriendlyintervaltimer/org.secuso.privacyfriendlyintervaltimer.activities.SplashActivity" image="intervalltimer"/>
+    <AppIcon name="de.bkm.kulturpass/de.bkm.kulturpass.MainActivity" image="kulturpass_de"/>
+    <AppIcon name="com.zengge.wifi/com.zengge.wifi.StartActivity" image="magic_home"/>
+    <AppIcon name="de.nextbike/net.nextbike.v3.presentation.ui.main.view.MapActivity" image="nextbike"/>
+    <AppIcon name="com.byril.seabattle/com.byril.seabattle.AndroidLauncher" image="sea_battle"/>
+    <AppIcon name="se.perigee.android.seven/com.perigee.seven.ui.activity.SplashActivity" image="seven"/>
+    <AppIcon name="com.igen.xiaomaizhidian/com.igen.rrgf.MainActivity" image="solarman_intelligent"/>
+    <AppIcon name="com.shabinder.spotiflyer/com.shabinder.spotiflyer.ui.SplashScreenActivity" image="spotiflyer"/>
+    <AppIcon name="de.hansecom.swuapp/de.hansecom.swuapp.SplashActivity" image="swu_app"/>
+    <AppIcon name="apps.r.speedometer/apps.r.speedometer.StartTheme.Charcoal" image="tachometer"/>
+    <AppIcon name="com.bto.toilet/com.betomorrow.toiletfinder.SplashActivity" image="toilet_finder"/>
+    <AppIcon name="de.favo.ttstool/de.favo.ttstool.Splash" image="tts_tool"/>
+    <AppIcon name="com.watchfacedesigns.Vanish/com.watchfacedesigns.Vanish.MainActivity" image="vanishing_hour"/>
+    <AppIcon name="com.smoothie.wirelessDebuggingSwitch/com.smoothie.wirelessDebuggingSwitch.SettingsActivity" image="wadbs"/>
+    <AppIcon name="de.geeksfactory.opacclient/de.geeksfactory.opacclient.frontend.MainActivity" image="web_opac"/>
 
 </Theme>
