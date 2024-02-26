@@ -4107,5 +4107,28 @@
     <item component="ComponentInfo{com.webmoney.my/com.webmoney.my.v3.screen.main.MasterActivity}" drawable="webmoney_keeper" />
     <item component="ComponentInfo{com.wildberries.ru/ru.wildberries.SplashActivity}" drawable="wildberries" />
     <item component="ComponentInfo{ru.rt.video.app.mobile/ru.rt.video.app.splash.SplashActivity}" drawable="wink" />
+    <item component="ComponentInfo{com.jmsc.cryptogram/com.jmsc.cryptogram.SplashActivity}" drawable="cryptogram" />
+    <item component="ComponentInfo{de.dak.dak_app/de.dak.startup.StartUpActivity}" drawable="dak_app" />
+    <item component="ComponentInfo{com.rise_world.epa.dakGesundheit.qu/com.rise_world.epa.ui.splash.SplashActivity}" drawable="dak_epa" />
+    <item component="ComponentInfo{es.socialpoint.DragonCity/es.socialpoint.hydra.permissions.PermissionsActivity}" drawable="dragoncity" />
+    <item component="ComponentInfo{app.eduroam.geteduroam/app.eduroam.geteduroam.MainActivity}" drawable="geteduroam" />
+    <item component="ComponentInfo{com.goldex/com.goldex.view.activity.MainActivity}" drawable="goldex" />
+    <item component="ComponentInfo{email.com.gmail.at.tornadoredapps.kennzeichensammler/email.com.gmail.at.tornadoredapps.kennzeichensammler.MainActivity}" drawable="kennzeichensammler" />
+    <item component="ComponentInfo{com.zeptolab.thieves.google/com.zeptolab.thieves.ThievesActivity}" drawable="king_of_thieves" />
+    <item component="ComponentInfo{de.mealswipe.android/de.linova.mealswipe.application.MainActivity}" drawable="mealswipe" />
+    <item component="ComponentInfo{de.imensa.app.android/de.mensas.app.Mensas}" drawable="mensa" />
+    <item component="ComponentInfo{com.fedosov.mindtracker/com.fedosov.mindtracker.MainActivity}" drawable="mind_tracker" />
+    <item component="ComponentInfo{holecek.pavel.MorseCode/crc648bbdc909d4b41b63.MainActivity}" drawable="morse_code" />
+    <item component="ComponentInfo{com.blyts.nobodies/com.unity3d.player.UnityPlayerActivity}" drawable="nobodies_murdercleaner" />
+    <item component="ComponentInfo{org.chromium.webapk.ab2faf19a81f51afb_v2/org.chromium.webapk.shell_apk.h2o.H2OOpaqueMainActivity}" drawable="regex_crossword" />
+    <item component="ComponentInfo{com.ketchapp.rider.evolution.world.race.car.bike.flip/com.unity3d.player.UnityPlayerActivity}" drawable="rider_worlds" />
+    <item component="ComponentInfo{com.opirep.simplepokedex/com.example.simple_pokedex.MainActivity}" drawable="simple_pokedex" />
+    <item component="ComponentInfo{com.style.sticker/com.zlb.sticker.moudle.flash.FlashActivity}" drawable="stickerstyle" />
+    <item component="ComponentInfo{de.thefrogger.timetable/de.thefrogger.timetable.MainActivity}" drawable="stundenplan" />
+    <item component="ComponentInfo{com.tasteio/com.tasteio.MainActivity}" drawable="taste" />
+    <item component="ComponentInfo{air.com.RustyLake.ThePastWithinLite/air.com.RustyLake.ThePastWithinLite.AIRAppEntry}" drawable="the_past_within_lite" />
+    <item component="ComponentInfo{todolist.scheduleplanner.dailyplanner.todo.reminders/app.todolist.activity.SplashActivity}" drawable="to_do_list" />
+    <item component="ComponentInfo{de.mocama.UniNow/com.zoontek.rnbootsplash.RNBootSplashActivity}" drawable="uninow" />
+    <item component="ComponentInfo{com.naver.linewebtoon/com.naver.linewebtoon.splash.SplashActivity}" drawable="webtoon" />
 
 </resources>

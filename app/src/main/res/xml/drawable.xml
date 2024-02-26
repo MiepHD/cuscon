@@ -4047,5 +4047,28 @@
     <item drawable="webmoney_keeper" />
     <item drawable="wildberries" />
     <item drawable="wink" />
+    <item drawable="cryptogram" />
+    <item drawable="dak_app" />
+    <item drawable="dak_epa" />
+    <item drawable="dragoncity" />
+    <item drawable="geteduroam" />
+    <item drawable="goldex" />
+    <item drawable="kennzeichensammler" />
+    <item drawable="king_of_thieves" />
+    <item drawable="mealswipe" />
+    <item drawable="mensa" />
+    <item drawable="mind_tracker" />
+    <item drawable="morse_code" />
+    <item drawable="nobodies_murdercleaner" />
+    <item drawable="regex_crossword" />
+    <item drawable="rider_worlds" />
+    <item drawable="simple_pokedex" />
+    <item drawable="stickerstyle" />
+    <item drawable="stundenplan" />
+    <item drawable="taste" />
+    <item drawable="the_past_within_lite" />
+    <item drawable="to_do_list" />
+    <item drawable="uninow" />
+    <item drawable="webtoon" />
 
 </resources>

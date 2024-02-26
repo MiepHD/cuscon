@@ -4094,5 +4094,28 @@
     <AppIcon name="com.webmoney.my/com.webmoney.my.v3.screen.main.MasterActivity" image="webmoney_keeper"/>
     <AppIcon name="com.wildberries.ru/ru.wildberries.SplashActivity" image="wildberries"/>
     <AppIcon name="ru.rt.video.app.mobile/ru.rt.video.app.splash.SplashActivity" image="wink"/>
+    <AppIcon name="com.jmsc.cryptogram/com.jmsc.cryptogram.SplashActivity" image="cryptogram"/>
+    <AppIcon name="de.dak.dak_app/de.dak.startup.StartUpActivity" image="dak_app"/>
+    <AppIcon name="com.rise_world.epa.dakGesundheit.qu/com.rise_world.epa.ui.splash.SplashActivity" image="dak_epa"/>
+    <AppIcon name="es.socialpoint.DragonCity/es.socialpoint.hydra.permissions.PermissionsActivity" image="dragoncity"/>
+    <AppIcon name="app.eduroam.geteduroam/app.eduroam.geteduroam.MainActivity" image="geteduroam"/>
+    <AppIcon name="com.goldex/com.goldex.view.activity.MainActivity" image="goldex"/>
+    <AppIcon name="email.com.gmail.at.tornadoredapps.kennzeichensammler/email.com.gmail.at.tornadoredapps.kennzeichensammler.MainActivity" image="kennzeichensammler"/>
+    <AppIcon name="com.zeptolab.thieves.google/com.zeptolab.thieves.ThievesActivity" image="king_of_thieves"/>
+    <AppIcon name="de.mealswipe.android/de.linova.mealswipe.application.MainActivity" image="mealswipe"/>
+    <AppIcon name="de.imensa.app.android/de.mensas.app.Mensas" image="mensa"/>
+    <AppIcon name="com.fedosov.mindtracker/com.fedosov.mindtracker.MainActivity" image="mind_tracker"/>
+    <AppIcon name="holecek.pavel.MorseCode/crc648bbdc909d4b41b63.MainActivity" image="morse_code"/>
+    <AppIcon name="com.blyts.nobodies/com.unity3d.player.UnityPlayerActivity" image="nobodies_murdercleaner"/>
+    <AppIcon name="org.chromium.webapk.ab2faf19a81f51afb_v2/org.chromium.webapk.shell_apk.h2o.H2OOpaqueMainActivity" image="regex_crossword"/>
+    <AppIcon name="com.ketchapp.rider.evolution.world.race.car.bike.flip/com.unity3d.player.UnityPlayerActivity" image="rider_worlds"/>
+    <AppIcon name="com.opirep.simplepokedex/com.example.simple_pokedex.MainActivity" image="simple_pokedex"/>
+    <AppIcon name="com.style.sticker/com.zlb.sticker.moudle.flash.FlashActivity" image="stickerstyle"/>
+    <AppIcon name="de.thefrogger.timetable/de.thefrogger.timetable.MainActivity" image="stundenplan"/>
+    <AppIcon name="com.tasteio/com.tasteio.MainActivity" image="taste"/>
+    <AppIcon name="air.com.RustyLake.ThePastWithinLite/air.com.RustyLake.ThePastWithinLite.AIRAppEntry" image="the_past_within_lite"/>
+    <AppIcon name="todolist.scheduleplanner.dailyplanner.todo.reminders/app.todolist.activity.SplashActivity" image="to_do_list"/>
+    <AppIcon name="de.mocama.UniNow/com.zoontek.rnbootsplash.RNBootSplashActivity" image="uninow"/>
+    <AppIcon name="com.naver.linewebtoon/com.naver.linewebtoon.splash.SplashActivity" image="webtoon"/>
 
 </Theme>
