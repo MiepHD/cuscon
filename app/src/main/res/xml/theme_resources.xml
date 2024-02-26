@@ -4084,7 +4084,7 @@
     <AppIcon name="com.prostoapp/com.prostoapp.MainActivity" image="prosto"/>
     <AppIcon name="com.tencent.igxiaomi/com.tencent.igxiaomi.MainActivity" image="pubg_mobile_gift_box"/>
     <AppIcon name="ru.mw/ru.mw.splashScreen.view.SplashScreenActivity" image="qiwi"/>
-    <AppIcon name="com.camvision.qrcode.barcode.reader/com.camvision.qrcode.barcode.reader.main.Qr2MainActivity" image="qr_сканер"/>
+    <AppIcon name="com.camvision.qrcode.barcode.reader/com.camvision.qrcode.barcode.reader.main.Qr2MainActivity" image="qr_ckahep"/>
     <AppIcon name="ru.a402d.rawbtprinter/ru.a402d.rawbtprinter.activity.MainActivity" image="rawbt"/>
     <AppIcon name="com.turtleapps.relaxingsleepsoundspro/com.turtleapps.relaxingsleepsoundspro.SplashActivity" image="relaxing_sleep_sounds_pro"/>
     <AppIcon name="ru.vk.store/ru.vk.store.app.MainActivity" image="rustore"/>
@@ -4290,7 +4290,7 @@
     <AppIcon name="com.dynamic.notifications/com.dynamic.notifications.ui.SaCat" image="notiguy"/>
     <AppIcon name="com.fossor.panels/com.fossor.panels.MainActivity" image="panels"/>
     <AppIcon name="it.simonesestito.ntiles/it.simonesestito.ntiles.MainSplash" image="quick_settings"/>
-    <AppIcon name="com.github.ericytsang.screenfilter.app.android/com.github.ericytsang.screenfilter.app.android.activity.MainActivity" image="screen dimmer"/>
+    <AppIcon name="com.github.ericytsang.screenfilter.app.android/com.github.ericytsang.screenfilter.app.android.activity.MainActivity" image="screen_dimmer"/>
     <AppIcon name="com.mobile.simplilearn/com.mobile.newArch.module.splash.SplashScreenActivity" image="simplilearn"/>
     <AppIcon name="pl.lambada.songsync/pl.lambada.songsync.MainActivity" image="songsync"/>
     <AppIcon name="com.panotogomo.lbviorange/com.panotogomo.lbviorange.activities.SplashActivity" image="viorange"/>

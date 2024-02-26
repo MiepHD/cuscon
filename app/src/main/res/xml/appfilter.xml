@@ -4097,7 +4097,7 @@
     <item component="ComponentInfo{com.prostoapp/com.prostoapp.MainActivity}" drawable="prosto" />
     <item component="ComponentInfo{com.tencent.igxiaomi/com.tencent.igxiaomi.MainActivity}" drawable="pubg_mobile_gift_box" />
     <item component="ComponentInfo{ru.mw/ru.mw.splashScreen.view.SplashScreenActivity}" drawable="qiwi" />
-    <item component="ComponentInfo{com.camvision.qrcode.barcode.reader/com.camvision.qrcode.barcode.reader.main.Qr2MainActivity}" drawable="qr_сканер" />
+    <item component="ComponentInfo{com.camvision.qrcode.barcode.reader/com.camvision.qrcode.barcode.reader.main.Qr2MainActivity}" drawable="qr_ckahep" />
     <item component="ComponentInfo{ru.a402d.rawbtprinter/ru.a402d.rawbtprinter.activity.MainActivity}" drawable="rawbt" />
     <item component="ComponentInfo{com.turtleapps.relaxingsleepsoundspro/com.turtleapps.relaxingsleepsoundspro.SplashActivity}" drawable="relaxing_sleep_sounds_pro" />
     <item component="ComponentInfo{ru.vk.store/ru.vk.store.app.MainActivity}" drawable="rustore" />
@@ -4303,7 +4303,7 @@
     <item component="ComponentInfo{com.dynamic.notifications/com.dynamic.notifications.ui.SaCat}" drawable="notiguy" />
     <item component="ComponentInfo{com.fossor.panels/com.fossor.panels.MainActivity}" drawable="panels" />
     <item component="ComponentInfo{it.simonesestito.ntiles/it.simonesestito.ntiles.MainSplash}" drawable="quick_settings" />
-    <item component="ComponentInfo{com.github.ericytsang.screenfilter.app.android/com.github.ericytsang.screenfilter.app.android.activity.MainActivity}" drawable="screen dimmer" />
+    <item component="ComponentInfo{com.github.ericytsang.screenfilter.app.android/com.github.ericytsang.screenfilter.app.android.activity.MainActivity}" drawable="screen_dimmer" />
     <item component="ComponentInfo{com.mobile.simplilearn/com.mobile.newArch.module.splash.SplashScreenActivity}" drawable="simplilearn" />
     <item component="ComponentInfo{pl.lambada.songsync/pl.lambada.songsync.MainActivity}" drawable="songsync" />
     <item component="ComponentInfo{com.panotogomo.lbviorange/com.panotogomo.lbviorange.activities.SplashActivity}" drawable="viorange" />
