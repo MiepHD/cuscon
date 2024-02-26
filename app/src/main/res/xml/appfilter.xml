@@ -3979,5 +3979,6 @@
     <item component="ComponentInfo{com.jfgame.OrionStars/com.unity3d.player.UnityPlayerActivity}" drawable="orionstars" />
     <item component="ComponentInfo{com.texas.lottery/com.texas.lottery.MainActivity}" drawable="texas_lottery" />
     <item component="ComponentInfo{sound.beautifier.bluetooth.music.more.bass.low.volume/sound.beautifier.bluetooth.music.more.bass.low.volume.MiserableUseless}" drawable="_sound_" />
+    <item component="ComponentInfo{com.westernunion.moneytransferr3app.acs3/com.westernunion.moneytransferr3app.MainActivity}" drawable="western_union" />
 
 </resources>
