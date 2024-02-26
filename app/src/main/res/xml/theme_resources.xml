@@ -4260,5 +4260,42 @@
     <AppIcon name="com.cris87.xperia/com.candybar.dev.activities.SplashActivity" image="xperia"/>
     <AppIcon name="com.asn360.youline.iconpack/com.asn360.youline.iconpack.MainActivity" image="youline"/>
     <AppIcon name="com.zoho.daybook/com.zoho.daybook.launcher.LauncherActivity" image="zoho_daybook"/>
+    <AppIcon name="com.alien.shooter.galaxy.attack.premium/com.google.firebase.MessagingUnityPlayerActivity" image="alien_shooter"/>
+    <AppIcon name="com.maxpatchs.ango/com.maxpatchs.ango.activities.SplashActivity" image="ango_icons"/>
+    <AppIcon name="rk.android.app.appbar/rk.android.app.appbar.activities.launch.LaunchActivity" image="appbar"/>
+    <AppIcon name="com.bulk.uninstall/com.bulk.uninstall.main.LauncherActivity" image="appdrop"/>
+    <AppIcon name="com.argonremote.batterynotifier/com.argonremote.batterynotifier.MainActivity" image="battery_sound_notification"/>
+    <AppIcon name="io.japp.blackscreen/io.japp.blackscreen.ui.MainActivity" image="black_screen"/>
+    <AppIcon name="com.blockerhero/com.blockerhero.ui.launcher.LauncherActivity" image="blockerhero"/>
+    <AppIcon name="com.emeint.android.mwallet.bm/com.emeint.android.mwallet2.view.StartupActivity" image="bm_wallet"/>
+    <AppIcon name="com.danilkinkin.buckwheat/com.danilkinkin.buckwheat.MainActivity" image="buckwheat"/>
+    <AppIcon name="com.gmg.iconpack.circle.gradient/com.gmg.iconpack.circle.gradient.activities.SplashActivity" image="circledient_icon_pack"/>
+    <AppIcon name="com.lstapps.dailymotivationalquotewidget/com.lstapps.dailymotivationalquotewidget.MainActivity" image="daily_quotes_widget"/>
+    <AppIcon name="net.daylio/net.daylio.activities.OverviewActivity" image="daylio"/>
+    <AppIcon name="com.osheden.distraction.free.icon.pack/com.osheden.distraction.free.icon.pack.activities.SplashActivity" image="distraction_free"/>
+    <AppIcon name="com.ceco.sbdp.pro/com.ceco.sbdp.pro.Settings" image="download_progress_"/>
+    <AppIcon name="com.hfhuaizhi.bird/com.hfhuaizhi.bird.activity.MainActivity" image="dynamic_bird"/>
+    <AppIcon name="you.in.spark.energy/you.in.spark.energy.WelcomeScreen" image="energy_bar"/>
+    <AppIcon name="com.phonephreak.pagescroll/com.phonephreak.smartscroll.MainActivity" image="flex_scroll"/>
+    <AppIcon name="com.jamworks.bestgesturenavigation/com.jamworks.bestgesturenavigation.SettingsHome" image="gestureplus"/>
+    <AppIcon name="com.putcodes.iamaprogrammer/com.putcodes.iamaprogrammer.Splasch_screen" image="i_am_programmer"/>
+    <AppIcon name="io.github.sds100.keymapper/io.github.sds100.keymapper.SplashActivity" image="key_mapper"/>
+    <AppIcon name="fe.linksheet/fe.linksheet.activity.MainActivity" image="linksheet"/>
+    <AppIcon name="rk.android.app.lockscreen/rk.android.app.lockscreen.activity.HomeActivity" image="lock_screen"/>
+    <AppIcon name="com.yeyebbc.play.meeye.iconpack/com.yeyebbc.play.meeye.iconpack.activities.SplashActivity" image="meeye"/>
+    <AppIcon name="com.italiano.midnightdark/com.italiano.midnightdark.activities.MainActivity" image="midnight_dark_icon_pack"/>
+    <AppIcon name="app.mihon/eu.kanade.tachiyomi.ui.main.MainActivity" image="mihon"/>
+    <AppIcon name="com.witcher.moviewitcher/com.example.moviewitcher.activites.HomeActivity" image="movie_witcher"/>
+    <AppIcon name="rk.android.app.notificationshortcuts/rk.android.app.notificationshortcuts.activities.launch.LaunchActivity" image="notification_shortcuts"/>
+    <AppIcon name="com.dynamic.notifications/com.dynamic.notifications.ui.SaCat" image="notiguy"/>
+    <AppIcon name="com.fossor.panels/com.fossor.panels.MainActivity" image="panels"/>
+    <AppIcon name="it.simonesestito.ntiles/it.simonesestito.ntiles.MainSplash" image="quick_settings"/>
+    <AppIcon name="com.github.ericytsang.screenfilter.app.android/com.github.ericytsang.screenfilter.app.android.activity.MainActivity" image="screen dimmer"/>
+    <AppIcon name="com.mobile.simplilearn/com.mobile.newArch.module.splash.SplashScreenActivity" image="simplilearn"/>
+    <AppIcon name="pl.lambada.songsync/pl.lambada.songsync.MainActivity" image="songsync"/>
+    <AppIcon name="com.panotogomo.lbviorange/com.panotogomo.lbviorange.activities.SplashActivity" image="viorange"/>
+    <AppIcon name="com.hrd.vocabulary/com.hrd.view.onboarding.SplashScreenActivity_appicon0" image="vocabulary"/>
+    <AppIcon name="com.gawk.voicenotes/com.gawk.voicenotes.view.main.MainActivity" image="voice_notes"/>
+    <AppIcon name="com.wabox/com.wabox.start.Welcome" image="wabox"/>
 
 </Theme>
