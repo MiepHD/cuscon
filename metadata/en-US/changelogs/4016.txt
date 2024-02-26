@@ -1,2 +1,2 @@
 - Added mymetro, OfferUp, OrionStars, Texas Lottery, °SOUND°
-- Updated WesternUnion
+- Updated WesternUnion, Conexión a Windows
