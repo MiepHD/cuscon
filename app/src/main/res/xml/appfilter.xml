@@ -4247,5 +4247,31 @@
     <item component="ComponentInfo{com.blink.academy.nomopro/com.blink.academy.nomo.ui.activity.splash.NomoSplashActivity}" drawable="nomo_cam" />
     <item component="ComponentInfo{com.tencent.mobileqq/com.tencent.mobileqq.activity.SplashActivity}" drawable="qq" />
     <item component="ComponentInfo{com.chucklefish.stardewvalley/crc64e8b22d3833b21ea5.MainActivity}" drawable="stardew_valley" />
+    <item component="ComponentInfo{com.acko.android/com.acko.android.AckoActivity}" drawable="acko" />
+    <item component="ComponentInfo{adaptive.toons.app/adaptive.toons.app.MainActivity}" drawable="adaptive_toons" />
+    <item component="ComponentInfo{com.jndapp.adaptive.material.you.iconpack/com.jndapp.adaptive.material.you.iconpack.MainActivity}" drawable="adaptive_you" />
+    <item component="ComponentInfo{com.axis.mobile/com.axis.mobile.MainActivity}" drawable="axis_mobile" />
+    <item component="ComponentInfo{com.diligent.icons.flatedge.iconpack/com.diligent.icons.flatedge.iconpack.activities.SplashActivity}" drawable="diligent" />
+    <item component="ComponentInfo{com.maxpatchs.lenyo/com.maxpatchs.lenyo.activities.SplashActivity}" drawable="lenyo_icons" />
+    <item component="ComponentInfo{com.jndapp.linex.white.iconpack/com.jndapp.linex.white.iconpack.MainActivity}" drawable="linex_white" />
+    <item component="ComponentInfo{org.n277.lynxlauncher/org.n277.lynxlauncher.HomeActivity}" drawable="lynx_launcher" />
+    <item component="ComponentInfo{com.mmi.maps/com.mmi.maps.ui.activities.HomeScreenActivity}" drawable="mappls_mapmyindia" />
+    <item component="ComponentInfo{eu.smartpatient.mytherapy/eu.smartpatient.mytherapy.feature.account.presentation.onboarding.WelcomeActivity}" drawable="mytherapy" />
+    <item component="ComponentInfo{com.godbtech.reliancemf/com.zoontek.rnbootsplash.RNBootSplashActivity}" drawable="nippon_india_mutual_fund" />
+    <item component="ComponentInfo{com.jndapp.nothing.neon.dots.iconpack/com.jndapp.nothing.neon.dots.iconpack.MainActivity}" drawable="nothing_neon" />
+    <item component="ComponentInfo{com.one.ui.dark.s10.iconpack/com.one.ui.dark.s10.iconpack.MainActivity}" drawable="oneui_dark" />
+    <item component="ComponentInfo{com.asn360.owline.iconpack.new/com.asn360.owline.iconpack.new.MainActivity}" drawable="owline" />
+    <item component="ComponentInfo{com.pearlauncher.pearlauncherpro/com.pearlauncher.pearlauncherpro.MainActivity}" drawable="pear_launcher_pro" />
+    <item component="ComponentInfo{com.policybazaar/com.policybazaar.MainActivity}" drawable="policybazaar" />
+    <item component="ComponentInfo{com.maxmpz.equalizer/com.maxmpz.audioplayer.standard_adaptive}" drawable="poweramp_equalizer" />
+    <item component="ComponentInfo{com.gamma.scan2/com.gamma.barcodeapp.ui.BarcodeCaptureActivity}" drawable="qr_and_barcode_scanner_pro" />
+    <item component="ComponentInfo{com.qrcode.barcode.scanner.reader.generator.pro/com.qrcode.barcode.scanner.reader.generator.pro.activity.MainActivity}" drawable="qr_and_barcode_scanner_pro" />
+    <item component="ComponentInfo{erega74.sltheme.rest/erega74.sltheme.rest.activities.SplashActivity}" drawable="rest" />
+    <item component="ComponentInfo{com.erega74.shimu.iconpack/com.erega74.shimu.iconpack.activities.SplashActivity}" drawable="shimu" />
+    <item component="ComponentInfo{com.jndapp.skyline.linex.iconpack/com.jndapp.skyline.linex.iconpack.MainActivity}" drawable="skyline" />
+    <item component="ComponentInfo{com.olivera.win10/com.olivera.win10.activities.SplashActivity}" drawable="win10_icon_pack" />
+    <item component="ComponentInfo{com.cris87.xperia/com.candybar.dev.activities.SplashActivity}" drawable="xperia" />
+    <item component="ComponentInfo{com.asn360.youline.iconpack/com.asn360.youline.iconpack.MainActivity}" drawable="youline" />
+    <item component="ComponentInfo{com.zoho.daybook/com.zoho.daybook.launcher.LauncherActivity}" drawable="zoho_daybook" />
 
 </resources>

@@ -4234,5 +4234,31 @@
     <AppIcon name="com.blink.academy.nomopro/com.blink.academy.nomo.ui.activity.splash.NomoSplashActivity" image="nomo_cam"/>
     <AppIcon name="com.tencent.mobileqq/com.tencent.mobileqq.activity.SplashActivity" image="qq"/>
     <AppIcon name="com.chucklefish.stardewvalley/crc64e8b22d3833b21ea5.MainActivity" image="stardew_valley"/>
+    <AppIcon name="com.acko.android/com.acko.android.AckoActivity" image="acko"/>
+    <AppIcon name="adaptive.toons.app/adaptive.toons.app.MainActivity" image="adaptive_toons"/>
+    <AppIcon name="com.jndapp.adaptive.material.you.iconpack/com.jndapp.adaptive.material.you.iconpack.MainActivity" image="adaptive_you"/>
+    <AppIcon name="com.axis.mobile/com.axis.mobile.MainActivity" image="axis_mobile"/>
+    <AppIcon name="com.diligent.icons.flatedge.iconpack/com.diligent.icons.flatedge.iconpack.activities.SplashActivity" image="diligent"/>
+    <AppIcon name="com.maxpatchs.lenyo/com.maxpatchs.lenyo.activities.SplashActivity" image="lenyo_icons"/>
+    <AppIcon name="com.jndapp.linex.white.iconpack/com.jndapp.linex.white.iconpack.MainActivity" image="linex_white"/>
+    <AppIcon name="org.n277.lynxlauncher/org.n277.lynxlauncher.HomeActivity" image="lynx_launcher"/>
+    <AppIcon name="com.mmi.maps/com.mmi.maps.ui.activities.HomeScreenActivity" image="mappls_mapmyindia"/>
+    <AppIcon name="eu.smartpatient.mytherapy/eu.smartpatient.mytherapy.feature.account.presentation.onboarding.WelcomeActivity" image="mytherapy"/>
+    <AppIcon name="com.godbtech.reliancemf/com.zoontek.rnbootsplash.RNBootSplashActivity" image="nippon_india_mutual_fund"/>
+    <AppIcon name="com.jndapp.nothing.neon.dots.iconpack/com.jndapp.nothing.neon.dots.iconpack.MainActivity" image="nothing_neon"/>
+    <AppIcon name="com.one.ui.dark.s10.iconpack/com.one.ui.dark.s10.iconpack.MainActivity" image="oneui_dark"/>
+    <AppIcon name="com.asn360.owline.iconpack.new/com.asn360.owline.iconpack.new.MainActivity" image="owline"/>
+    <AppIcon name="com.pearlauncher.pearlauncherpro/com.pearlauncher.pearlauncherpro.MainActivity" image="pear_launcher_pro"/>
+    <AppIcon name="com.policybazaar/com.policybazaar.MainActivity" image="policybazaar"/>
+    <AppIcon name="com.maxmpz.equalizer/com.maxmpz.audioplayer.standard_adaptive" image="poweramp_equalizer"/>
+    <AppIcon name="com.gamma.scan2/com.gamma.barcodeapp.ui.BarcodeCaptureActivity" image="qr_and_barcode_scanner_pro"/>
+    <AppIcon name="com.qrcode.barcode.scanner.reader.generator.pro/com.qrcode.barcode.scanner.reader.generator.pro.activity.MainActivity" image="qr_and_barcode_scanner_pro"/>
+    <AppIcon name="erega74.sltheme.rest/erega74.sltheme.rest.activities.SplashActivity" image="rest"/>
+    <AppIcon name="com.erega74.shimu.iconpack/com.erega74.shimu.iconpack.activities.SplashActivity" image="shimu"/>
+    <AppIcon name="com.jndapp.skyline.linex.iconpack/com.jndapp.skyline.linex.iconpack.MainActivity" image="skyline"/>
+    <AppIcon name="com.olivera.win10/com.olivera.win10.activities.SplashActivity" image="win10_icon_pack"/>
+    <AppIcon name="com.cris87.xperia/com.candybar.dev.activities.SplashActivity" image="xperia"/>
+    <AppIcon name="com.asn360.youline.iconpack/com.asn360.youline.iconpack.MainActivity" image="youline"/>
+    <AppIcon name="com.zoho.daybook/com.zoho.daybook.launcher.LauncherActivity" image="zoho_daybook"/>
 
 </Theme>
