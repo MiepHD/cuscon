@@ -4257,5 +4257,21 @@
     <item drawable="rain_alert" />
     <item drawable="simpleweather" />
     <item drawable="weather_sky" />
+    <item drawable="qidz" />
+    <item drawable="redtag" />
+    <item drawable="revolve" />
+    <item drawable="room_planner" />
+    <item drawable="screen_alive" />
+    <item drawable="sd_maid" />
+    <item drawable="seez" />
+    <item drawable="senorfit" />
+    <item drawable="shop_and_ship" />
+    <item drawable="sivvi" />
+    <item drawable="squatwolf" />
+    <item drawable="tabby" />
+    <item drawable="tarteel" />
+    <item drawable="teatv" />
+    <item drawable="tickit" />
+    <item drawable="timer" />
 
 </resources>

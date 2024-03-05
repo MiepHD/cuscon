@@ -4308,5 +4308,21 @@
     <AppIcon name="com.thewizrd.simpleweather/com.thewizrd.simpleweather.LaunchActivity" image="simpleweather"/>
     <AppIcon name="com.lifeoverflow.app.weather/com.lifeoverflow.app.weather.MainActivity" image="weather_sky"/>
     <AppIcon name="com.starbucks.ae/com.starbucks.emea.splash.SplashActivity" image="starbucks"/>
+    <AppIcon name="com.qidz/com.qidz.MainActivity" image="qidz"/>
+    <AppIcon name="com.bma.redtag/com.vennapps.android.ui.SplashActivity" image="redtag"/>
+    <AppIcon name="com.revolve/com.revolve.views.activities.SplashActivity" image="revolve"/>
+    <AppIcon name="com.icandesignapp.all/com.google.firebase.MessagingUnityPlayerActivity" image="room_planner"/>
+    <AppIcon name="in.snapcore.screen_alive/in.snapcore.screen_alive.view.FreeActivity" image="screen_alive"/>
+    <AppIcon name="eu.thedarken.sdm/eu.thedarken.sdm.main.ui.SDMMainActivity" image="sd_maid"/>
+    <AppIcon name="co.seez.seezr/co.seez.seezr.presentation.splash.SplashActivity" image="seez"/>
+    <AppIcon name="com.senorfit/com.senorfit.MainActivity" image="senorfit"/>
+    <AppIcon name="net.aramex.sas/com.aramex.shopandshipmobile.ui.splash.SplashActivity" image="shop_and_ship"/>
+    <AppIcon name="com.sivvi.app/com.noon.buyerapp.MainActivity" image="sivvi"/>
+    <AppIcon name="com.vennapps.android.squatwolf/com.vennapps.android.ui.SplashActivity" image="squatwolf"/>
+    <AppIcon name="app.tabby.client/app.tabby.client.MainActivity" image="tabby"/>
+    <AppIcon name="com.mmmoussa.iqra/com.mmmoussa.iqra.MainActivity" image="tarteel"/>
+    <AppIcon name="com.oe.photocollage/com.oe.photocollage.SplashActivity" image="teatv"/>
+    <AppIcon name="ae.tickit.primary/net.wlloyalty.restaurant.MainActivity" image="tickit"/>
+    <AppIcon name="pl.appea.workouttimer/me.szymanski.wodtimer.MainActivity" image="timer"/>
 
 </Theme>
