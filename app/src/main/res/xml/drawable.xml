@@ -4249,5 +4249,15 @@
     <item drawable="vocabulary" />
     <item drawable="voice_notes" />
     <item drawable="wabox" />
+    <item drawable="air_navigation" />
+    <item drawable="aviones_en_vivo" />
+    <item drawable="fast_pair_validator" />
+    <item drawable="flightradar24" />
+    <item drawable="looker_studio" />
+    <item drawable="modo_lectura" />
+    <item drawable="plane_finder" />
+    <item drawable="rain_alert" />
+    <item drawable="simpleweather" />
+    <item drawable="weather_sky" />
 
 </resources>

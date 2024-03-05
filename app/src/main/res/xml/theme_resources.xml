@@ -4297,5 +4297,15 @@
     <AppIcon name="com.hrd.vocabulary/com.hrd.view.onboarding.SplashScreenActivity_appicon0" image="vocabulary"/>
     <AppIcon name="com.gawk.voicenotes/com.gawk.voicenotes.view.main.MainActivity" image="voice_notes"/>
     <AppIcon name="com.wabox/com.wabox.start.Welcome" image="wabox"/>
+    <AppIcon name="com.xample.airnavigation/com.xample.airnavigation.anp8.AirNavigationActivity" image="air_navigation"/>
+    <AppIcon name="com.apalon.flight.tracker/com.apalon.flight.tracker.ui.activities.main.MainActivity" image="aviones_en_vivo"/>
+    <AppIcon name="com.google.location.nearby.apps.fastpair.validator/com.google.location.nearby.apps.fastpair.validator.WelcomeActivity" image="fast_pair_validator"/>
+    <AppIcon name="com.flightradar24free/com.flightradar24free.feature.splash.view.SplashActivity" image="flightradar24"/>
+    <AppIcon name="com.google.android.apps.cloud.cloudbi/com.google.android.apps.cloud.cloudbi.MainActivity" image="looker_studio"/>
+    <AppIcon name="com.google.android.accessibility.reader/com.google.android.accessibility.reader.settings.ReaderActivity" image="modo_lectura"/>
+    <AppIcon name="com.pinkfroot.planefinderfree/com.pinkfroot.planefinder.ui.MainActivity" image="plane_finder"/>
+    <AppIcon name="com.gonext.rainalert/com.gonext.rainalert.activities.SplashActivity" image="rain_alert"/>
+    <AppIcon name="com.thewizrd.simpleweather/com.thewizrd.simpleweather.LaunchActivity" image="simpleweather"/>
+    <AppIcon name="com.lifeoverflow.app.weather/com.lifeoverflow.app.weather.MainActivity" image="weather_sky"/>
 
 </Theme>
