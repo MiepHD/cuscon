@@ -4320,5 +4320,23 @@
     <item component="ComponentInfo{com.gonext.rainalert/com.gonext.rainalert.activities.SplashActivity}" drawable="rain_alert" />
     <item component="ComponentInfo{com.thewizrd.simpleweather/com.thewizrd.simpleweather.LaunchActivity}" drawable="simpleweather" />
     <item component="ComponentInfo{com.lifeoverflow.app.weather/com.lifeoverflow.app.weather.MainActivity}" drawable="weather_sky" />
+    <item component="ComponentInfo{com.starbucks.ae/com.starbucks.emea.splash.SplashActivity}" drawable="starbucks" />
+    <item component="ComponentInfo{com.qidz/com.qidz.MainActivity}" drawable="qidz" />
+    <item component="ComponentInfo{com.bma.redtag/com.vennapps.android.ui.SplashActivity}" drawable="redtag" />
+    <item component="ComponentInfo{com.revolve/com.revolve.views.activities.SplashActivity}" drawable="revolve" />
+    <item component="ComponentInfo{com.icandesignapp.all/com.google.firebase.MessagingUnityPlayerActivity}" drawable="room_planner" />
+    <item component="ComponentInfo{in.snapcore.screen_alive/in.snapcore.screen_alive.view.FreeActivity}" drawable="screen_alive" />
+    <item component="ComponentInfo{eu.thedarken.sdm/eu.thedarken.sdm.main.ui.SDMMainActivity}" drawable="sd_maid" />
+    <item component="ComponentInfo{co.seez.seezr/co.seez.seezr.presentation.splash.SplashActivity}" drawable="seez" />
+    <item component="ComponentInfo{com.senorfit/com.senorfit.MainActivity}" drawable="senorfit" />
+    <item component="ComponentInfo{net.aramex.sas/com.aramex.shopandshipmobile.ui.splash.SplashActivity}" drawable="shop_and_ship" />
+    <item component="ComponentInfo{com.sivvi.app/com.noon.buyerapp.MainActivity}" drawable="sivvi" />
+    <item component="ComponentInfo{com.vennapps.android.squatwolf/com.vennapps.android.ui.SplashActivity}" drawable="squatwolf" />
+    <item component="ComponentInfo{app.tabby.client/app.tabby.client.MainActivity}" drawable="tabby" />
+    <item component="ComponentInfo{com.mmmoussa.iqra/com.mmmoussa.iqra.MainActivity}" drawable="tarteel" />
+    <item component="ComponentInfo{com.oe.photocollage/com.oe.photocollage.SplashActivity}" drawable="teatv" />
+    <item component="ComponentInfo{ae.tickit.primary/net.wlloyalty.restaurant.MainActivity}" drawable="tickit" />
+    <item component="ComponentInfo{pl.appea.workouttimer/me.szymanski.wodtimer.MainActivity}" drawable="timer" />
+    <item component="ComponentInfo{io.yuka.android/io.yuka.android.Main.RootActivity}" drawable="yuka" />
 
 </resources>

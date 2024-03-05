@@ -4325,5 +4325,18 @@
     <AppIcon name="ae.tickit.primary/net.wlloyalty.restaurant.MainActivity" image="tickit"/>
     <AppIcon name="pl.appea.workouttimer/me.szymanski.wodtimer.MainActivity" image="timer"/>
     <AppIcon name="io.yuka.android/io.yuka.android.Main.RootActivity" image="yuka"/>
+    <AppIcon name="com.terramaster.plus/io.dcloud.PandoraEntry" image="tnas_mobile_3"/>
+    <AppIcon name="ae.truxx.trips/ae.truxx.trips.MainActivity" image="truxx"/>
+    <AppIcon name="com.tongtongsuo.app/com.scaf.android.client.activity.LoadingActivity" image="ttlock"/>
+    <AppIcon name="com.voxcinemas.voxcinemasdev/com.voxcinemas.activities.SplashActivity" image="vox_cinemas"/>
+    <AppIcon name="com.wawanpro2.app/com.common.app.activities.LauncherActivity" image="wawanpro"/>
+    <AppIcon name="com.cisco.wx2.android/com.webex.teams.WebexLauncherActivity" image="webex"/>
+    <AppIcon name="com.tva.z5/com.tva.z5.SplashScreen" image="weyyak"/>
+    <AppIcon name="com.wizzair.WizzAirApp/com.wizzair.app.MainActivityV2" image="wizz_air"/>
+    <AppIcon name="com.wooask.zx/com.wooask.zx.Ac_Welcome" image="wooask"/>
+    <AppIcon name="com.theentertainerme.visago/com.theentertainerme.visago.ActivityLanding" image="xperience"/>
+    <AppIcon name="com.atp.zabehati/com.atp.zabehati.MainActivity" image="zabehaty"/>
+    <AppIcon name="jp.co.psoft.zenbrushfree/jp.co.psoft.zenbrushfree.ZenBrushActivity" image="zen_brush"/>
+    <AppIcon name="com.utorrent.client.pro/com.bittorrent.app.Main" image="µtorrent_pro"/>
 
 </Theme>
