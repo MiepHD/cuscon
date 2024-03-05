@@ -4307,5 +4307,6 @@
     <AppIcon name="com.gonext.rainalert/com.gonext.rainalert.activities.SplashActivity" image="rain_alert"/>
     <AppIcon name="com.thewizrd.simpleweather/com.thewizrd.simpleweather.LaunchActivity" image="simpleweather"/>
     <AppIcon name="com.lifeoverflow.app.weather/com.lifeoverflow.app.weather.MainActivity" image="weather_sky"/>
+    <AppIcon name="com.starbucks.ae/com.starbucks.emea.splash.SplashActivity" image="starbucks"/>
 
 </Theme>

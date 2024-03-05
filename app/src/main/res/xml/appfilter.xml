@@ -4320,5 +4320,6 @@
     <item component="ComponentInfo{com.gonext.rainalert/com.gonext.rainalert.activities.SplashActivity}" drawable="rain_alert" />
     <item component="ComponentInfo{com.thewizrd.simpleweather/com.thewizrd.simpleweather.LaunchActivity}" drawable="simpleweather" />
     <item component="ComponentInfo{com.lifeoverflow.app.weather/com.lifeoverflow.app.weather.MainActivity}" drawable="weather_sky" />
+    <item component="ComponentInfo{com.starbucks.ae/com.starbucks.emea.splash.SplashActivity}" drawable="starbucks" />
 
 </resources>

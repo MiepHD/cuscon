@@ -1,2 +1,2 @@
 - Added Air Navigation, Aviones en Vivo, Fast Pair Validator, Flightradar24, Looker Studio, Modo Lectura, Plane Finder, Rain Alert, SimpleWeather, Weather Sky
-- Edited Voidpet Garden, Syncthing Fork
+- Edited Voidpet Garden, Syncthing Fork, Starbucks
