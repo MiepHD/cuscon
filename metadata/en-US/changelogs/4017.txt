@@ -1,2 +1,3 @@
-- Added Air Navigation, Aviones en Vivo, Fast Pair Validator, Flightradar24, Looker Studio, Modo Lectura, Plane Finder, Rain Alert, SimpleWeather, Weather Sky, QiDZ, REDTAG, REVOLVE, Room Planner, Screen Alive, SD Maid, Seez, SENORFIT, Shop & Ship, SIVVI, SQUATWOLF, Tabby, Tarteel, TeaTV, Tickit, Timer, Yuka
+- Added Air Navigation, Aviones en Vivo, Fast Pair Validator, Flightradar24, Looker Studio, Modo Lectura, Plane Finder, Rain Alert, SimpleWeather, Weather Sky, QiDZ, REDTAG, REVOLVE, Room Planner, Screen Alive, SD Maid, Seez, SENORFIT, Shop & Ship, SIVVI, SQUATWOLF, Tabby, Tarteel, TeaTV, Tickit, Timer
 - Edited Voidpet Garden, Syncthing Fork, Starbucks
+- Updated Yuka
