@@ -4337,5 +4337,6 @@
     <item component="ComponentInfo{com.oe.photocollage/com.oe.photocollage.SplashActivity}" drawable="teatv" />
     <item component="ComponentInfo{ae.tickit.primary/net.wlloyalty.restaurant.MainActivity}" drawable="tickit" />
     <item component="ComponentInfo{pl.appea.workouttimer/me.szymanski.wodtimer.MainActivity}" drawable="timer" />
+    <item component="ComponentInfo{io.yuka.android/io.yuka.android.Main.RootActivity}" drawable="yuka" />
 
 </resources>

@@ -4324,5 +4324,6 @@
     <AppIcon name="com.oe.photocollage/com.oe.photocollage.SplashActivity" image="teatv"/>
     <AppIcon name="ae.tickit.primary/net.wlloyalty.restaurant.MainActivity" image="tickit"/>
     <AppIcon name="pl.appea.workouttimer/me.szymanski.wodtimer.MainActivity" image="timer"/>
+    <AppIcon name="io.yuka.android/io.yuka.android.Main.RootActivity" image="yuka"/>
 
 </Theme>
