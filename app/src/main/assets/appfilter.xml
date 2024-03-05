@@ -4338,5 +4338,18 @@
     <item component="ComponentInfo{ae.tickit.primary/net.wlloyalty.restaurant.MainActivity}" drawable="tickit" />
     <item component="ComponentInfo{pl.appea.workouttimer/me.szymanski.wodtimer.MainActivity}" drawable="timer" />
     <item component="ComponentInfo{io.yuka.android/io.yuka.android.Main.RootActivity}" drawable="yuka" />
+    <item component="ComponentInfo{com.terramaster.plus/io.dcloud.PandoraEntry}" drawable="tnas_mobile_3" />
+    <item component="ComponentInfo{ae.truxx.trips/ae.truxx.trips.MainActivity}" drawable="truxx" />
+    <item component="ComponentInfo{com.tongtongsuo.app/com.scaf.android.client.activity.LoadingActivity}" drawable="ttlock" />
+    <item component="ComponentInfo{com.voxcinemas.voxcinemasdev/com.voxcinemas.activities.SplashActivity}" drawable="vox_cinemas" />
+    <item component="ComponentInfo{com.wawanpro2.app/com.common.app.activities.LauncherActivity}" drawable="wawanpro" />
+    <item component="ComponentInfo{com.cisco.wx2.android/com.webex.teams.WebexLauncherActivity}" drawable="webex" />
+    <item component="ComponentInfo{com.tva.z5/com.tva.z5.SplashScreen}" drawable="weyyak" />
+    <item component="ComponentInfo{com.wizzair.WizzAirApp/com.wizzair.app.MainActivityV2}" drawable="wizz_air" />
+    <item component="ComponentInfo{com.wooask.zx/com.wooask.zx.Ac_Welcome}" drawable="wooask" />
+    <item component="ComponentInfo{com.theentertainerme.visago/com.theentertainerme.visago.ActivityLanding}" drawable="xperience" />
+    <item component="ComponentInfo{com.atp.zabehati/com.atp.zabehati.MainActivity}" drawable="zabehaty" />
+    <item component="ComponentInfo{jp.co.psoft.zenbrushfree/jp.co.psoft.zenbrushfree.ZenBrushActivity}" drawable="zen_brush" />
+    <item component="ComponentInfo{com.utorrent.client.pro/com.bittorrent.app.Main}" drawable="utorrent_pro" />
 
 </resources>

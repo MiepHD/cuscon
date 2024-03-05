@@ -4350,6 +4350,6 @@
     <item component="ComponentInfo{com.theentertainerme.visago/com.theentertainerme.visago.ActivityLanding}" drawable="xperience" />
     <item component="ComponentInfo{com.atp.zabehati/com.atp.zabehati.MainActivity}" drawable="zabehaty" />
     <item component="ComponentInfo{jp.co.psoft.zenbrushfree/jp.co.psoft.zenbrushfree.ZenBrushActivity}" drawable="zen_brush" />
-    <item component="ComponentInfo{com.utorrent.client.pro/com.bittorrent.app.Main}" drawable="µtorrent_pro" />
+    <item component="ComponentInfo{com.utorrent.client.pro/com.bittorrent.app.Main}" drawable="utorrent_pro" />
 
 </resources>

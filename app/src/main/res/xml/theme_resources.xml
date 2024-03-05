@@ -4337,6 +4337,6 @@
     <AppIcon name="com.theentertainerme.visago/com.theentertainerme.visago.ActivityLanding" image="xperience"/>
     <AppIcon name="com.atp.zabehati/com.atp.zabehati.MainActivity" image="zabehaty"/>
     <AppIcon name="jp.co.psoft.zenbrushfree/jp.co.psoft.zenbrushfree.ZenBrushActivity" image="zen_brush"/>
-    <AppIcon name="com.utorrent.client.pro/com.bittorrent.app.Main" image="µtorrent_pro"/>
+    <AppIcon name="com.utorrent.client.pro/com.bittorrent.app.Main" image="utorrent_pro"/>
 
 </Theme>
