@@ -1,0 +1,1 @@
+Added ASR, Gestor de archivos, Grabador de audio, Gu Recorder, Screen Recorder, Screen Recorder with Facecam, SRecorder, Screen Recorder

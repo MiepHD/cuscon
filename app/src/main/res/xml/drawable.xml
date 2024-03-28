@@ -4286,5 +4286,13 @@
     <item drawable="zabehaty" />
     <item drawable="zen_brush" />
     <item drawable="utorrent_pro" />
+    <item drawable="asr" />
+    <item drawable="gestor_de_archivos" />
+    <item drawable="grabador_de_audio" />
+    <item drawable="gu_recorder" />
+    <item drawable="screen_recorder" />
+    <item drawable="screen_recorder_with_facecam" />
+    <item drawable="srecorder" />
+    <item drawable="video_editor_effect_recorder" />
 
 </resources>

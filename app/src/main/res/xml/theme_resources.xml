@@ -4338,5 +4338,13 @@
     <AppIcon name="com.atp.zabehati/com.atp.zabehati.MainActivity" image="zabehaty"/>
     <AppIcon name="jp.co.psoft.zenbrushfree/jp.co.psoft.zenbrushfree.ZenBrushActivity" image="zen_brush"/>
     <AppIcon name="com.utorrent.client.pro/com.bittorrent.app.Main" image="utorrent_pro"/>
+    <AppIcon name="com.nll.asr/com.nll.asr.ui.MainActivity" image="asr"/>
+    <AppIcon name="com.ekia.files.manager/com.ekia.filecontrolmanager.module.activity.FMFirstActivity" image="gestor_de_archivos"/>
+    <AppIcon name="com.rimidalv.dictaphone/com.rimidalv.dictaphone.feature.main.MainActivity" image="grabador_de_audio"/>
+    <AppIcon name="com.mobi.screenrecorder.durecorder/com.xvideostudio.videoeditor.activity.RecorderSplashActivity" image="gu_recorder"/>
+    <AppIcon name="com.linuxauthority.screenrecorder/com.linuxauthority.screenrecorder.ui.main.MainActivity" image="screen_recorder"/>
+    <AppIcon name="com.mjtechnologies.mjscreenrecorder.recorder.videorecorder.videorecordingeditor.mjscreenrecorder/com.mjtechnologies.mjscreenrecorder.recorder.videorecorder.videorecordingeditor.mjscreenrecorder.MainActivity" image="screen_recorder_with_facecam"/>
+    <AppIcon name="screenrecorder.videorecorder.rec.video.screen.recorder/com.tianxingjian.screenshot.ui.activity.SplashActivity" image="srecorder"/>
+    <AppIcon name="com.video.editor.effect.recorder/com.nicevideo.screen.recorder.LaunchActivity" image="video_editor_effect_recorder"/>
 
 </Theme>
