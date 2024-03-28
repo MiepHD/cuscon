@@ -4346,5 +4346,11 @@
     <AppIcon name="com.mjtechnologies.mjscreenrecorder.recorder.videorecorder.videorecordingeditor.mjscreenrecorder/com.mjtechnologies.mjscreenrecorder.recorder.videorecorder.videorecordingeditor.mjscreenrecorder.MainActivity" image="screen_recorder_with_facecam"/>
     <AppIcon name="screenrecorder.videorecorder.rec.video.screen.recorder/com.tianxingjian.screenshot.ui.activity.SplashActivity" image="srecorder"/>
     <AppIcon name="com.video.editor.effect.recorder/com.nicevideo.screen.recorder.LaunchActivity" image="video_editor_effect_recorder"/>
-
+    <AppIcon name="com.inditex.ecommerce.bershka/es.sdos.sdosproject.bershka.ui.splash.activity.LaunchActivity" image="bershka"/>
+    <AppIcon name="com.documentfolderorganizer.filemanager/filesexplorer.fileopener.filemanager.activities.SplashActivity" image="file_manager"/>       
+    <AppIcon name="com.cvinfo.filemanager/com.cvinfo.filemanager.activities.SplashActivity" image="file_manager_by_lufick"/>
+    <AppIcon name="com.kakao.talk/com.kakao.talk.activity.SplashActivity" image="kakaotalk"/>
+    <AppIcon name="com.inditex.lefties/es.sdos.sdosproject.ui.splash.activity.LaunchActivity" image="lefties"/>
+    <AppIcon name="com.inditex.pullandbear/es.sdos.sdosproject.ui.splash.activity.LaunchActivity" image="pull_and_bear"/>
+    <AppIcon name="com.holosfind.showroom/com.holosfind.showroom.activity.SplashActivity" image="showroom"/>
 </Theme>

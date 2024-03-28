@@ -4294,5 +4294,12 @@
     <item drawable="screen_recorder_with_facecam" />
     <item drawable="srecorder" />
     <item drawable="video_editor_effect_recorder" />
+    <item drawable="bershka" />
+    <item drawable="file_manager" />
+    <item drawable="file_manager_by_lufick" />
+    <item drawable="kakaotalk" />
+    <item drawable="lefties" />
+    <item drawable="pull_and_bear" />
+    <item drawable="showroom" />
 
 </resources>
