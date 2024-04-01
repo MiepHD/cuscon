@@ -74,7 +74,11 @@
             -->
     <string name="home_description">
         <![CDATA[
-            Donate: <a href="https://www.buymeacoffee.com/yazazuyo">buymeacoffee.com/yazazuyo</a><br>Can be used with Themepark (from Samsung Store)
+            Requests are currently disabled until no requests icons are left. You can see the current state on <a href="https://github.com/MiepHD/cuscon/tree/master/requests">Github</a><br>
+            If you still want to help through adding your icons you can open an issue on Github containing the request with edited images that match the <a href="https://github.com/MiepHD/cuscon">requirements</a>.<br>
+            If you don't want to do them yourself you can purchase premium requests in the Google Play Store version.
+            Donate: <a href="https://www.buymeacoffee.com/yazazuyo">buymeacoffee.com/yazazuyo</a><br>
+            Can be used with Themepark (from Samsung Store)
         ]]>
     </string>
 
@@ -151,7 +155,7 @@
         CONFIG: ICON REQUEST
     -->
     <!-- Enable or disable regular icon request -->
-    <bool name="enable_icon_request">true</bool>
+    <bool name="enable_icon_request">false</bool>
 
     <!-- Enable regular icon request limit
         When enabled users will be able to request only the specified number of icons.

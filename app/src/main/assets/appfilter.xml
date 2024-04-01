@@ -4351,5 +4351,13 @@
     <item component="ComponentInfo{com.atp.zabehati/com.atp.zabehati.MainActivity}" drawable="zabehaty" />
     <item component="ComponentInfo{jp.co.psoft.zenbrushfree/jp.co.psoft.zenbrushfree.ZenBrushActivity}" drawable="zen_brush" />
     <item component="ComponentInfo{com.utorrent.client.pro/com.bittorrent.app.Main}" drawable="utorrent_pro" />
+    <item component="ComponentInfo{com.nll.asr/com.nll.asr.ui.MainActivity}" drawable="asr" />
+    <item component="ComponentInfo{com.ekia.files.manager/com.ekia.filecontrolmanager.module.activity.FMFirstActivity}" drawable="gestor_de_archivos" />
+    <item component="ComponentInfo{com.rimidalv.dictaphone/com.rimidalv.dictaphone.feature.main.MainActivity}" drawable="grabador_de_audio" />
+    <item component="ComponentInfo{com.mobi.screenrecorder.durecorder/com.xvideostudio.videoeditor.activity.RecorderSplashActivity}" drawable="gu_recorder" />
+    <item component="ComponentInfo{com.linuxauthority.screenrecorder/com.linuxauthority.screenrecorder.ui.main.MainActivity}" drawable="screen_recorder" />
+    <item component="ComponentInfo{com.mjtechnologies.mjscreenrecorder.recorder.videorecorder.videorecordingeditor.mjscreenrecorder/com.mjtechnologies.mjscreenrecorder.recorder.videorecorder.videorecordingeditor.mjscreenrecorder.MainActivity}" drawable="screen_recorder_with_facecam" />
+    <item component="ComponentInfo{screenrecorder.videorecorder.rec.video.screen.recorder/com.tianxingjian.screenshot.ui.activity.SplashActivity}" drawable="srecorder" />
+    <item component="ComponentInfo{com.video.editor.effect.recorder/com.nicevideo.screen.recorder.LaunchActivity}" drawable="video_editor_effect_recorder" />
 
 </resources>
