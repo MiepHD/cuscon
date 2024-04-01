@@ -4366,4 +4366,9 @@
     <item component="ComponentInfo{com.inditex.lefties/es.sdos.sdosproject.ui.splash.activity.LaunchActivity}" drawable="lefties" />
     <item component="ComponentInfo{com.inditex.pullandbear/es.sdos.sdosproject.ui.splash.activity.LaunchActivity}" drawable="pull_and_bear" />
     <item component="ComponentInfo{com.holosfind.showroom/com.holosfind.showroom.activity.SplashActivity}" drawable="showroom" />
+    <item component="ComponentInfo{com.pzolee.networkscanner/com.pzolee.networkscanner.MainActivity}" drawable="network_scanner" />
+    <item component="ComponentInfo{com.jacktor.wifitools/com.jacktor.wifitools.MainActivity}" drawable="wifi_channel" />
+    <item component="ComponentInfo{com.ddm.iptoolslight/com.ddm.iptoolslight.ui.MainActivity}" drawable="wifi_tools" />
+    <item component="ComponentInfo{com.seed.wifi_manager/com.seed.wifi_analyzer.ActivityRouting}" drawable="seed_wifi_manager" />
+
 </resources>

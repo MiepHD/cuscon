@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="changelog_date">28.03.2024</string>
+    <string name="changelog_date">1.4.2024</string>
     <string-array name="changelog">
         <item>4.0.1.8:</item>
-        <item>Added ASR, Gestor de archivos, Grabador de audio, Gu Recorder, Screen Recorder, Screen Recorder with Facecam, SRecorder, Screen Recorder, BERSHKA, File Manager, File Manager by Lufick, KakaoTalk, Lefties, Pull and Bear, Showroom</item>
+        <item>Added ASR, Gestor de archivos, Grabador de audio, Gu Recorder, Screen Recorder, Screen Recorder with Facecam, SRecorder, Screen Recorder, BERSHKA, File Manager, File Manager by Lufick, KakaoTalk, Lefties, Pull and Bear, Showroom, Network Scanner, WiFi Analyzer, WiFi Channel, WiFi Tools</item>
         <item>4.0.1.7:</item>
         <item>Added Air Navigation, Aviones en Vivo, Fast Pair Validator, Flightradar24, Looker Studio, Modo Lectura, Plane Finder, Rain Alert, SimpleWeather, Weather Sky, QiDZ, REDTAG, REVOLVE, Room Planner, Screen Alive, SD Maid, Seez, SENORFIT, Shop and Ship, SIVVI, SQUATWOLF, Tabby, Tarteel, TeaTV, Tickit, Timer, TNAS mobile 3, TRUXX, TTLock, VOX Cinemas, WawanPro, Webex, Weyyak, Wizz Air, Wooask, xperience, Zabehaty, Zen Brush, µTorrent Pro</item>
         <item>Edited Voidpet Garden, Syncthing Fork, Starbucks</item>

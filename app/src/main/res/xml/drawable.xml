@@ -4301,5 +4301,9 @@
     <item drawable="lefties" />
     <item drawable="pull_and_bear" />
     <item drawable="showroom" />
+    <item drawable="network_scanner" />
+    <item drawable="wifi_channel" />
+    <item drawable="wifi_tools" />
+    <item drawable="seed_wifi_manager" />
 
 </resources>

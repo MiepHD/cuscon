@@ -1,1 +1,1 @@
-Added ASR, Gestor de archivos, Grabador de audio, Gu Recorder, Screen Recorder, Screen Recorder with Facecam, SRecorder, Screen Recorder, BERSHKA, File Manager, File Manager by Lufick, KakaoTalk, Lefties, Pull and Bear, Showroom
+Added ASR, Gestor de archivos, Grabador de audio, Gu Recorder, Screen Recorder, Screen Recorder with Facecam, SRecorder, Screen Recorder, BERSHKA, File Manager, File Manager by Lufick, KakaoTalk, Lefties, Pull and Bear, Showroom, Network Scanner, WiFi Analyzer, WiFi Channel, WiFi Tools

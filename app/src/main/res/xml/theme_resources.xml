@@ -4353,4 +4353,9 @@
     <AppIcon name="com.inditex.lefties/es.sdos.sdosproject.ui.splash.activity.LaunchActivity" image="lefties"/>
     <AppIcon name="com.inditex.pullandbear/es.sdos.sdosproject.ui.splash.activity.LaunchActivity" image="pull_and_bear"/>
     <AppIcon name="com.holosfind.showroom/com.holosfind.showroom.activity.SplashActivity" image="showroom"/>
+    <AppIcon name="com.pzolee.networkscanner/com.pzolee.networkscanner.MainActivity" image="network_scanner"/>
+    <AppIcon name="com.jacktor.wifitools/com.jacktor.wifitools.MainActivity" image="wifi_channel"/>
+    <AppIcon name="com.ddm.iptoolslight/com.ddm.iptoolslight.ui.MainActivity" image="wifi_tools"/>
+    <AppIcon name="com.seed.wifi_manager/com.seed.wifi_analyzer.ActivityRouting" image="seed_wifi_manager"/>
+
 </Theme>
