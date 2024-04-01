@@ -4359,5 +4359,11 @@
     <item component="ComponentInfo{com.mjtechnologies.mjscreenrecorder.recorder.videorecorder.videorecordingeditor.mjscreenrecorder/com.mjtechnologies.mjscreenrecorder.recorder.videorecorder.videorecordingeditor.mjscreenrecorder.MainActivity}" drawable="screen_recorder_with_facecam" />
     <item component="ComponentInfo{screenrecorder.videorecorder.rec.video.screen.recorder/com.tianxingjian.screenshot.ui.activity.SplashActivity}" drawable="srecorder" />
     <item component="ComponentInfo{com.video.editor.effect.recorder/com.nicevideo.screen.recorder.LaunchActivity}" drawable="video_editor_effect_recorder" />
-
+    <item component="ComponentInfo{com.inditex.ecommerce.bershka/es.sdos.sdosproject.bershka.ui.splash.activity.LaunchActivity}" drawable="bershka" />
+    <item component="ComponentInfo{com.documentfolderorganizer.filemanager/filesexplorer.fileopener.filemanager.activities.SplashActivity}" drawable="file_manager" />
+    <item component="ComponentInfo{com.cvinfo.filemanager/com.cvinfo.filemanager.activities.SplashActivity}" drawable="file_manager_by_lufick" />
+    <item component="ComponentInfo{com.kakao.talk/com.kakao.talk.activity.SplashActivity}" drawable="kakaotalk" />
+    <item component="ComponentInfo{com.inditex.lefties/es.sdos.sdosproject.ui.splash.activity.LaunchActivity}" drawable="lefties" />
+    <item component="ComponentInfo{com.inditex.pullandbear/es.sdos.sdosproject.ui.splash.activity.LaunchActivity}" drawable="pull_and_bear" />
+    <item component="ComponentInfo{com.holosfind.showroom/com.holosfind.showroom.activity.SplashActivity}" drawable="showroom" />
 </resources>
