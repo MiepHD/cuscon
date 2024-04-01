@@ -25,7 +25,7 @@ cusconify() {
 
     magick "get/$filename" -fuzz 75% -trim +repage "get/$filename"
     
-    if [ "$a" == "0" ]; then
+    if [ "$a" = "0" ]; then
         magick $filename -fuzz 20% -trim -resize 512x512 +repage "get/$filename"
 
         echo "Get three more pixels to better evaluate"
@@ -47,7 +47,7 @@ cusconify() {
 
     black=$(convert $filename -colorspace RGB -format %c  -depth 8  histogram:info:-|grep -i '#000000ff')
 
-    if [ "$a" != "0" ] && (( luma > 70 )); then
+    if [ "$a" != "0" ] && [ luma > 70 ] ; then
         if [ -z "$black" ]; then
             echo "Replace white with background color"
             magick get/$filename -fuzz 15% -fill "srgba($r,$g,$b,$a)" -opaque white get/$filename
