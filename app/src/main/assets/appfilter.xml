@@ -4370,5 +4370,24 @@
     <item component="ComponentInfo{com.jacktor.wifitools/com.jacktor.wifitools.MainActivity}" drawable="wifi_channel" />
     <item component="ComponentInfo{com.ddm.iptoolslight/com.ddm.iptoolslight.ui.MainActivity}" drawable="wifi_tools" />
     <item component="ComponentInfo{com.seed.wifi_manager/com.seed.wifi_analyzer.ActivityRouting}" drawable="seed_wifi_manager" />
+    <item component="ComponentInfo{dev.develsinthedetails.eatpoopyoucat/dev.develsinthedetails.eatpoopyoucat.MainActivity}" drawable="eat_poop_you_cat" />
+    <item component="ComponentInfo{app.symfonik.music.player/app.symfonik.ui.MainActivity}" drawable="symfonium" />
+    <item component="ComponentInfo{app.attestation.auditor/app.attestation.auditor.AttestationActivity}" drawable="auditor" />
+    <item component="ComponentInfo{eu.basicairdata.clinometer/eu.basicairdata.clinometer.ClinometerActivity}" drawable="clinometer" />
+    <item component="ComponentInfo{com.m2049r.xmrwallet/com.m2049r.xmrwallet.MainActivity}" drawable="monerujo" />
+    <item component="ComponentInfo{com.vantagewestcu.vantagewestcu/com.vantagewestcu.vantagewestcu.MainActivity}" drawable="vantage_west" />
+    <item component="ComponentInfo{com.android.inputmethod.latin/com.android.inputmethod.latin.setup.SetupActivity}" drawable="keyboard" />
+    <item component="ComponentInfo{com.smlnskgmail.jaman.hashchecker.thirdparty/com.smlnskgmail.jaman.hashchecker.MainActivity}" drawable="hash_checker" />
+    <item component="ComponentInfo{org.unifiedpush.example/org.unifiedpush.example.activities.MainActivity}" drawable="up_example" />
+    <item component="ComponentInfo{io.naox.inbe/io.naox.inbe.MainActivity}" drawable="inner_breeze" />
+    <item component="ComponentInfo{app.grapheneos.apps/app.grapheneos.apps.ui.MainActivity}" drawable="apps" />
+    <item component="ComponentInfo{com.mushroom.shroomify/com.mushroom.shroomify.MainActivity}" drawable="shroomify_mushroom_id" />
+    <item component="ComponentInfo{xyz.pisoj.og.nettools/xyz.pisoj.og.nettools.MainActivity}" drawable="og_network_tools" />
+    <item component="ComponentInfo{com.hoopladigital.android/com.hoopladigital.android.ui.activity.SplashScreenActivity}" drawable="hoopla" />
+    <item component="ComponentInfo{com.github.axet.bookreader/com.github.axet.bookreader.activities.MainActivity}" drawable="book_reader" />
+    <item component="ComponentInfo{com.cappielloantonio.tempo/com.cappielloantonio.tempo.ui.activity.MainActivity}" drawable="tempo" />
+    <item component="ComponentInfo{mf.asciitext.lite/mf.irregex.SplashScreen}" drawable="irregular_expressions" />
+    <item component="ComponentInfo{com.tophy.android/com.wear.buzzee.app.SplashActivity}" drawable="tophy" />
+    <item component="ComponentInfo{org.ligi.survivalmanual/org.ligi.survivalmanual.ui.MainActivity}" drawable="survival_manual" />
 
 </resources>

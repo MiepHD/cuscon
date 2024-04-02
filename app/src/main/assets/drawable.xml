@@ -4305,5 +4305,24 @@
     <item drawable="wifi_channel" />
     <item drawable="wifi_tools" />
     <item drawable="seed_wifi_manager" />
+    <item drawable="eat_poop_you_cat" />
+    <item drawable="symfonium" />
+    <item drawable="auditor" />
+    <item drawable="clinometer" />
+    <item drawable="monerujo" />
+    <item drawable="vantage_west" />
+    <item drawable="keyboard" />
+    <item drawable="hash_checker" />
+    <item drawable="up_example" />
+    <item drawable="inner_breeze" />
+    <item drawable="apps" />
+    <item drawable="shroomify_mushroom_id" />
+    <item drawable="og_network_tools" />
+    <item drawable="hoopla" />
+    <item drawable="book_reader" />
+    <item drawable="tempo" />
+    <item drawable="irregular_expressions" />
+    <item drawable="tophy" />
+    <item drawable="survival_manual" />
 
 </resources>
