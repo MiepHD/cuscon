@@ -4357,5 +4357,24 @@
     <AppIcon name="com.jacktor.wifitools/com.jacktor.wifitools.MainActivity" image="wifi_channel"/>
     <AppIcon name="com.ddm.iptoolslight/com.ddm.iptoolslight.ui.MainActivity" image="wifi_tools"/>
     <AppIcon name="com.seed.wifi_manager/com.seed.wifi_analyzer.ActivityRouting" image="seed_wifi_manager"/>
+    <AppIcon name="dev.develsinthedetails.eatpoopyoucat/dev.develsinthedetails.eatpoopyoucat.MainActivity" image="eat_poop_you_cat"/>
+    <AppIcon name="app.symfonik.music.player/app.symfonik.ui.MainActivity" image="symfonium"/>
+    <AppIcon name="app.attestation.auditor/app.attestation.auditor.AttestationActivity" image="auditor"/>
+    <AppIcon name="eu.basicairdata.clinometer/eu.basicairdata.clinometer.ClinometerActivity" image="clinometer"/>
+    <AppIcon name="com.m2049r.xmrwallet/com.m2049r.xmrwallet.MainActivity" image="monerujo"/>
+    <AppIcon name="com.vantagewestcu.vantagewestcu/com.vantagewestcu.vantagewestcu.MainActivity" image="vantage_west"/>
+    <AppIcon name="com.android.inputmethod.latin/com.android.inputmethod.latin.setup.SetupActivity" image="keyboard"/>
+    <AppIcon name="com.smlnskgmail.jaman.hashchecker.thirdparty/com.smlnskgmail.jaman.hashchecker.MainActivity" image="hash_checker"/>
+    <AppIcon name="org.unifiedpush.example/org.unifiedpush.example.activities.MainActivity" image="up_example"/>
+    <AppIcon name="io.naox.inbe/io.naox.inbe.MainActivity" image="inner_breeze"/>
+    <AppIcon name="app.grapheneos.apps/app.grapheneos.apps.ui.MainActivity" image="apps"/>
+    <AppIcon name="com.mushroom.shroomify/com.mushroom.shroomify.MainActivity" image="shroomify_mushroom_id"/>
+    <AppIcon name="xyz.pisoj.og.nettools/xyz.pisoj.og.nettools.MainActivity" image="og_network_tools"/>
+    <AppIcon name="com.hoopladigital.android/com.hoopladigital.android.ui.activity.SplashScreenActivity" image="hoopla"/>
+    <AppIcon name="com.github.axet.bookreader/com.github.axet.bookreader.activities.MainActivity" image="book_reader"/>
+    <AppIcon name="com.cappielloantonio.tempo/com.cappielloantonio.tempo.ui.activity.MainActivity" image="tempo"/>
+    <AppIcon name="mf.asciitext.lite/mf.irregex.SplashScreen" image="irregular_expressions"/>
+    <AppIcon name="com.tophy.android/com.wear.buzzee.app.SplashActivity" image="tophy"/>
+    <AppIcon name="org.ligi.survivalmanual/org.ligi.survivalmanual.ui.MainActivity" image="survival_manual"/>
 
 </Theme>
