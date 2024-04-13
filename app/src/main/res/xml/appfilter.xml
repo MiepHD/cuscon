@@ -4533,5 +4533,6 @@
     <item component="ComponentInfo{org.fossify.filemanager/org.fossify.filemanager.activities.SplashActivity.Green}" drawable="file_manager_green" />
     <item component="ComponentInfo{ru.zuovlzhk.ktqlezihu/ru.zuovlzhk.ktqlezihu.MainActivity1}" drawable="lucky_patcher" />
     <item component="ComponentInfo{ru.tech.imageresizershrinker/ru.tech.imageresizershrinker.presentation.AppActivity}" drawable="image_toolbox_resizer_green" />
+    <item component="ComponentInfo{com.ruler.csw/com.ruler.csw.activity.MainActivity}" drawable="ruler_csw" />
 
 </resources>

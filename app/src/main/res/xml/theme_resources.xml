@@ -4520,5 +4520,6 @@
     <AppIcon name="org.fossify.filemanager/org.fossify.filemanager.activities.SplashActivity.Green" image="file_manager_green"/>
     <AppIcon name="ru.zuovlzhk.ktqlezihu/ru.zuovlzhk.ktqlezihu.MainActivity1" image="lucky_patcher"/>
     <AppIcon name="ru.tech.imageresizershrinker/ru.tech.imageresizershrinker.presentation.AppActivity" image="image_toolbox_resizer_green"/>
+    <AppIcon name="com.ruler.csw/com.ruler.csw.activity.MainActivity" image="ruler_csw"/>
 
 </Theme>
