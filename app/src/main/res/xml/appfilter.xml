@@ -4395,5 +4395,51 @@
     <item component="ComponentInfo{com.melodis.midomiMusicIdentifier.freemium/com.soundhound.android.appcommon.activity.SplashScreenActivity}" drawable="soundhound" />
     <item component="ComponentInfo{foundation.e.camera/net.sourceforge.opencamera.MainActivity}" drawable="e_camera" />
     <item component="ComponentInfo{org.aospstudio.systemtuner/com.aospstudio.shortcuts.MainActivity}" drawable="aospstudio_systemui_tuner" />
+    <item component="ComponentInfo{com.saic.airnow/com.saic.airnow.MainActivity}" drawable="airnow" />
+    <item component="ComponentInfo{com.americanexpress.android.acctsvcs.us/com.americanexpress.android.acctsvcs.us.firstuse.StartupActivity}" drawable="amex" />
+    <item component="ComponentInfo{com.fr3ts0n.ecu.gui.androbd/com.fr3ts0n.ecu.gui.androbd.MainActivity}" drawable="androbd" />
+    <item component="ComponentInfo{com.fujifilm_dsc.app.remoteshooter/com.fujifilm_dsc.app.remoteshooter.InitializeActivity}" drawable="camera_remote" />
+    <item component="ComponentInfo{com.skyrc.chargemastewifi/com.skyrc.chargemastewifi.ChargerCtrlActivity}" drawable="chargerlink" />
+    <item component="ComponentInfo{com.compelson.optimizer/com.compelson.optimizer.Optimizer}" drawable="contacts_optimizer" />
+    <item component="ComponentInfo{com.codedead.deadhash/com.codedead.deadhash.gui.MainActivity}" drawable="deadhash" />
+    <item component="ComponentInfo{com.venomvendor.sms.deduplicate/com.venomvendor.sms.deduplicate.activity.Deduplication}" drawable="deduplicate_sms" />
+    <item component="ComponentInfo{com.discourse/com.discourse.MainActivity}" drawable="discourse" />
+    <item component="ComponentInfo{net.christianbeier.droidvnc_ng/net.christianbeier.droidvnc_ng.MainActivity}" drawable="droidvnc_ng_admin_panel" />
+    <item component="ComponentInfo{com.tritiumstudios.flitetest/com.tritiumstudios.flitetest.MainActivity}" drawable="flite_test" />
+    <item component="ComponentInfo{kaka.wallpaper.forest/kaka.wallpaper.forest.android.SettingsActivity}" drawable="forest_settings" />
+    <item component="ComponentInfo{com.geico.mobile/com.geico.mobile.android.ace.geicoapppresentation.splash.mvvm.view.AceSplashActivity}" drawable="geico_mobile" />
+    <item component="ComponentInfo{sk.grecnar.gpspoint/sk.grecnar.gpspoint.MainActivity}" drawable="gps_point" />
+    <item component="ComponentInfo{ru.yanus171.feedexfork/ru.yanus171.feedexfork.activity.HomeActivity}" drawable="handy_reading" />
+    <item component="ComponentInfo{com.ooma.mobile2/com.ooma.mobile.ui.login.LoginActivity}" drawable="home_phone" />
+    <item component="ComponentInfo{de.kaiserdragon.iconrequest/de.kaiserdragon.iconrequest.MainActivity}" drawable="iconrequest" />
+    <item component="ComponentInfo{com.commit451.gitlab/com.commit451.gitlab.activity.LaunchActivity}" drawable="labcoat" />
+    <item component="ComponentInfo{de.beowulf.libretranslater/de.beowulf.libretranslater.MainActivity}" drawable="libretranslator" />
+    <item component="ComponentInfo{org.listenbrainz.android/org.listenbrainz.android.ui.screens.main.MainActivity}" drawable="listenbrainz" />
+    <item component="ComponentInfo{com.pixfabrik.livingworlds/com.pixfabrik.livingworlds.MainActivity}" drawable="living_worlds" />
+    <item component="ComponentInfo{gov.cdc.ncbddd.actearly.milestones/com.brainbytescreative.actearly.MainActivity}" drawable="milestones" />
+    <item component="ComponentInfo{com.stationdm.bluelink/com.stationdm.bluelink.kotlin.ui.auth.SDMSplashActivity}" drawable="myhyundai" />
+    <item component="ComponentInfo{com.mtb.mbanking.sc.retail.prod/com.mnt.mobilebanking.controllers.activities.SplashActivity}" drawable="m_and_t_bank" />
+    <item component="ComponentInfo{com.hegocre.nextcloudpasswords/com.hegocre.nextcloudpasswords.ui.activities.MainActivity}" drawable="nextcloud_passwords" />
+    <item component="ComponentInfo{gov.ny.its.nysparks/gov.ny.its.nysparks.ui.WelcomeActivity}" drawable="ny_state_parks_explorer" />
+    <item component="ComponentInfo{rak.pixellwp/rak.pixellwp.SetWallpaperActivity}" drawable="palette_cycling_lwp" />
+    <item component="ComponentInfo{org.musicbrainz.picard.barcodescanner/org.musicbrainz.picard.barcodescanner.activities.ScannerActivity}" drawable="picard_barcode_scanner" />
+    <item component="ComponentInfo{com.bah.r1smobile/com.bah.r1smobile.activities.SplashActivity}" drawable="recreationgov" />
+    <item component="ComponentInfo{gpsplus.rtkgps/gpsplus.rtkgps.MainActivity}" drawable="rtkgps_" />
+    <item component="ComponentInfo{org.inaturalist.seek/org.inaturalist.seek.MainActivity}" drawable="seek" />
+    <item component="ComponentInfo{hans.b.skewy1_0/hans.b.skewy1_0.MainActivity}" drawable="skewy" />
+    <item component="ComponentInfo{com.slicelife.storefront/com.slicelife.storefront.view.SplashActivity}" drawable="slice" />
+    <item component="ComponentInfo{sti.com.ewhsa/sti.com.ewhsa.activities.SplashActivity}" drawable="smoke_sense" />
+    <item component="ComponentInfo{com.fognl.solex/com.fognl.solex.SolexMainActivity}" drawable="solex" />
+    <item component="ComponentInfo{com.noctuasoftware.stellarium_free/com.stellariumlabs.stellarium.mobile.StellariumFree}" drawable="stellarium" />
+    <item component="ComponentInfo{com.zingglobal.stikbot2/com.unity3d.player.UnityPlayerActivity}" drawable="stikbot_studio_2" />
+    <item component="ComponentInfo{com.stockpilemobile/com.zoontek.rnbootsplash.RNBootSplashActivity}" drawable="stockpile" />
+    <item component="ComponentInfo{com.forrestguice.suntimescalendars/com.forrestguice.suntimeswidget.calendar.SuntimesCalendarActivity}" drawable="suntimes_calendars" />
+    <item component="ComponentInfo{ca.waterkeeper.android.swimguide/ca.waterkeeper.android.swimguide.MainActivity}" drawable="swim_guide" />
+    <item component="ComponentInfo{com.tacobell.ordering/com.tacobell.splash.SplashActivity}" drawable="taco_bell" />
+    <item component="ComponentInfo{com.mobile.vioc/com.mobile.vioc.ValvolineSplashScreenActivity}" drawable="valvoline" />
+    <item component="ComponentInfo{com.vson.shneutral/com.vson.shneutral.ui.WelcomeActivity}" drawable="vson" />
+    <item component="ComponentInfo{com.wegmans.wegmansapp/com.instacart.enterprise.main.ICEnterpriseMainActivity}" drawable="wegmans" />
+    <item component="ComponentInfo{org.jwz.xscreensaver/org.jwz.xscreensaver.Activity}" drawable="xscreensaver" />
+    <item component="ComponentInfo{org.andresoviedo.dddmodel2/org.andresoviedo.app.model3D.MainActivity}" drawable="_3d_model_viewer" />
 
 </resources>

@@ -4382,5 +4382,51 @@
     <AppIcon name="com.melodis.midomiMusicIdentifier.freemium/com.soundhound.android.appcommon.activity.SplashScreenActivity" image="soundhound"/>
     <AppIcon name="foundation.e.camera/net.sourceforge.opencamera.MainActivity" image="e_camera"/>
     <AppIcon name="org.aospstudio.systemtuner/com.aospstudio.shortcuts.MainActivity" image="aospstudio_systemui_tuner"/>
+    <AppIcon name="com.saic.airnow/com.saic.airnow.MainActivity" image="airnow"/>
+    <AppIcon name="com.americanexpress.android.acctsvcs.us/com.americanexpress.android.acctsvcs.us.firstuse.StartupActivity" image="amex"/>
+    <AppIcon name="com.fr3ts0n.ecu.gui.androbd/com.fr3ts0n.ecu.gui.androbd.MainActivity" image="androbd"/>
+    <AppIcon name="com.fujifilm_dsc.app.remoteshooter/com.fujifilm_dsc.app.remoteshooter.InitializeActivity" image="camera_remote"/>
+    <AppIcon name="com.skyrc.chargemastewifi/com.skyrc.chargemastewifi.ChargerCtrlActivity" image="chargerlink"/>
+    <AppIcon name="com.compelson.optimizer/com.compelson.optimizer.Optimizer" image="contacts_optimizer"/>
+    <AppIcon name="com.codedead.deadhash/com.codedead.deadhash.gui.MainActivity" image="deadhash"/>
+    <AppIcon name="com.venomvendor.sms.deduplicate/com.venomvendor.sms.deduplicate.activity.Deduplication" image="deduplicate_sms"/>
+    <AppIcon name="com.discourse/com.discourse.MainActivity" image="discourse"/>
+    <AppIcon name="net.christianbeier.droidvnc_ng/net.christianbeier.droidvnc_ng.MainActivity" image="droidvnc_ng_admin_panel"/>
+    <AppIcon name="com.tritiumstudios.flitetest/com.tritiumstudios.flitetest.MainActivity" image="flite_test"/>
+    <AppIcon name="kaka.wallpaper.forest/kaka.wallpaper.forest.android.SettingsActivity" image="forest_settings"/>
+    <AppIcon name="com.geico.mobile/com.geico.mobile.android.ace.geicoapppresentation.splash.mvvm.view.AceSplashActivity" image="geico_mobile"/>
+    <AppIcon name="sk.grecnar.gpspoint/sk.grecnar.gpspoint.MainActivity" image="gps_point"/>
+    <AppIcon name="ru.yanus171.feedexfork/ru.yanus171.feedexfork.activity.HomeActivity" image="handy_reading"/>
+    <AppIcon name="com.ooma.mobile2/com.ooma.mobile.ui.login.LoginActivity" image="home_phone"/>
+    <AppIcon name="de.kaiserdragon.iconrequest/de.kaiserdragon.iconrequest.MainActivity" image="iconrequest"/>
+    <AppIcon name="com.commit451.gitlab/com.commit451.gitlab.activity.LaunchActivity" image="labcoat"/>
+    <AppIcon name="de.beowulf.libretranslater/de.beowulf.libretranslater.MainActivity" image="libretranslator"/>
+    <AppIcon name="org.listenbrainz.android/org.listenbrainz.android.ui.screens.main.MainActivity" image="listenbrainz"/>
+    <AppIcon name="com.pixfabrik.livingworlds/com.pixfabrik.livingworlds.MainActivity" image="living_worlds"/>
+    <AppIcon name="gov.cdc.ncbddd.actearly.milestones/com.brainbytescreative.actearly.MainActivity" image="milestones"/>
+    <AppIcon name="com.stationdm.bluelink/com.stationdm.bluelink.kotlin.ui.auth.SDMSplashActivity" image="myhyundai"/>
+    <AppIcon name="com.mtb.mbanking.sc.retail.prod/com.mnt.mobilebanking.controllers.activities.SplashActivity" image="m_and_t_bank"/>
+    <AppIcon name="com.hegocre.nextcloudpasswords/com.hegocre.nextcloudpasswords.ui.activities.MainActivity" image="nextcloud_passwords"/>
+    <AppIcon name="gov.ny.its.nysparks/gov.ny.its.nysparks.ui.WelcomeActivity" image="ny_state_parks_explorer"/>
+    <AppIcon name="rak.pixellwp/rak.pixellwp.SetWallpaperActivity" image="palette_cycling_lwp"/>
+    <AppIcon name="org.musicbrainz.picard.barcodescanner/org.musicbrainz.picard.barcodescanner.activities.ScannerActivity" image="picard_barcode_scanner"/>
+    <AppIcon name="com.bah.r1smobile/com.bah.r1smobile.activities.SplashActivity" image="recreationgov"/>
+    <AppIcon name="gpsplus.rtkgps/gpsplus.rtkgps.MainActivity" image="rtkgps_"/>
+    <AppIcon name="org.inaturalist.seek/org.inaturalist.seek.MainActivity" image="seek"/>
+    <AppIcon name="hans.b.skewy1_0/hans.b.skewy1_0.MainActivity" image="skewy"/>
+    <AppIcon name="com.slicelife.storefront/com.slicelife.storefront.view.SplashActivity" image="slice"/>
+    <AppIcon name="sti.com.ewhsa/sti.com.ewhsa.activities.SplashActivity" image="smoke_sense"/>
+    <AppIcon name="com.fognl.solex/com.fognl.solex.SolexMainActivity" image="solex"/>
+    <AppIcon name="com.noctuasoftware.stellarium_free/com.stellariumlabs.stellarium.mobile.StellariumFree" image="stellarium"/>
+    <AppIcon name="com.zingglobal.stikbot2/com.unity3d.player.UnityPlayerActivity" image="stikbot_studio_2"/>
+    <AppIcon name="com.stockpilemobile/com.zoontek.rnbootsplash.RNBootSplashActivity" image="stockpile"/>
+    <AppIcon name="com.forrestguice.suntimescalendars/com.forrestguice.suntimeswidget.calendar.SuntimesCalendarActivity" image="suntimes_calendars"/>
+    <AppIcon name="ca.waterkeeper.android.swimguide/ca.waterkeeper.android.swimguide.MainActivity" image="swim_guide"/>
+    <AppIcon name="com.tacobell.ordering/com.tacobell.splash.SplashActivity" image="taco_bell"/>
+    <AppIcon name="com.mobile.vioc/com.mobile.vioc.ValvolineSplashScreenActivity" image="valvoline"/>
+    <AppIcon name="com.vson.shneutral/com.vson.shneutral.ui.WelcomeActivity" image="vson"/>
+    <AppIcon name="com.wegmans.wegmansapp/com.instacart.enterprise.main.ICEnterpriseMainActivity" image="wegmans"/>
+    <AppIcon name="org.jwz.xscreensaver/org.jwz.xscreensaver.Activity" image="xscreensaver"/>
+    <AppIcon name="org.andresoviedo.dddmodel2/org.andresoviedo.app.model3D.MainActivity" image="_3d_model_viewer"/>
 
 </Theme>
