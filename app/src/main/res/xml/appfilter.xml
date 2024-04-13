@@ -4702,5 +4702,6 @@
     <item component="ComponentInfo{com.ytv.pronew/dev.pankaj.ytvplayer.ui.MainActivity}" drawable="ytv_pro" />
     <item component="ComponentInfo{com.zad.hadith/com.zad.hadith.MainActivity}" drawable="zad_hadith" />
     <item component="ComponentInfo{com.mi.android.globalminusscreen/com.mi.android.globalminusscreen.tab.MainActivity_icon_6}" drawable="app_vault" />
+    <item component="ComponentInfo{com.github.warren_bank.airplay_client/com.github.warren_bank.airplay_client.ui.DroidPlayActivity}" drawable="droidplay" />
 
 </resources>
