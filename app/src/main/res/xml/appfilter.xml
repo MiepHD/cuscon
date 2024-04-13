@@ -4529,5 +4529,6 @@
     <item component="ComponentInfo{com.weenysoft.word2pdf/com.weenysoft.word2pdf.MainActivity}" drawable="word_to_pdf_converter" />
     <item component="ComponentInfo{de.zdf.mediathek.tivi/de.zdf.mediathek.tivi.MainActivity}" drawable="zdftivi" />
     <item component="ComponentInfo{org.zoomquilt.zoomapp/org.zoomquilt.zoomapp.IndexActivity}" drawable="zoomquilt" />
+    <item component="ComponentInfo{ru.vedomosti.android/com.sebbia.vedomosti.presentation.ui.activities.main.MainActivity}" drawable="vedomosti" />
 
 </resources>

@@ -4516,5 +4516,6 @@
     <AppIcon name="com.weenysoft.word2pdf/com.weenysoft.word2pdf.MainActivity" image="word_to_pdf_converter"/>
     <AppIcon name="de.zdf.mediathek.tivi/de.zdf.mediathek.tivi.MainActivity" image="zdftivi"/>
     <AppIcon name="org.zoomquilt.zoomapp/org.zoomquilt.zoomapp.IndexActivity" image="zoomquilt"/>
+    <AppIcon name="ru.vedomosti.android/com.sebbia.vedomosti.presentation.ui.activities.main.MainActivity" image="vedomosti"/>
 
 </Theme>
