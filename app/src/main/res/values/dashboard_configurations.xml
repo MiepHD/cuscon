@@ -39,6 +39,8 @@
     <!-- Description that would be shown in Kustom apps -->
     <string name="kustom_pack_description">My own modification of the original icons</string>
 
+    <string name="nova_reshape_legacy_icons">OFF</string>
+
 
     <!--
         CONFIG: HOME

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="cb_CandyBar.Theme.App.DayNight" parent="CandyBar.Theme.Base">
+        <item name="cb_colorPrimary">#222222</item>
+        <item name="cb_colorPrimaryDark">#222222</item>
+        <item name="cb_colorAccent">#6E3AFF</item>
+
+        <!-- Navigation Bar
+        * Must be solid color, no alpha -->
+        <item name="cb_navigationBar">#1A73E9</item>
+
+        <!-- Splash Screen -->
+        <item name="cb_splashColor">#FFFFFF</item>
+
+        <!-- Navigation View -->
+        <item name="cb_navigationViewHeaderBackground">#00FFFFFF</item>
+        <item name="cb_navigationViewTitle">#FFFFFF</item>
+        <item name="cb_navigationViewTitleBack">#33000000</item>
+
+        <item name="cb_navigationViewText">#FFFFFF</item>
+        <item name="cb_navigationViewTextSelected">#1A73E9</item>
+        <item name="cb_navigationViewSelectedBackground">#2A1A73E9</item>
+
+        <!-- Swipe Refresh -->
+        <item name="cb_swipeRefresh">#6E3AFF</item>
+
+        <!-- Toolbar -->
+        <item name="cb_toolbarIcon">#FFF</item>
+
+        <!-- Tab -->
+        <item name="cb_tabIndicator">#6E3AFF</item>
+        <item name="cb_tabText">#32FFFFFF</item>
+        <item name="cb_tabTextSelected">#6E3AFF</item>
+
+        <!-- Card -->
+        <item name="cb_cardBackground">#2C2C2C</item>
+        <item name="cb_cardStroke">#11000000</item>
+
+        <!-- Ripple -->
+        <item name="cb_rippleColor">#1A73E9</item>
+        <item name="cb_rippleAccent">#6E3AFF</item>
+
+        <!-- Attributes -->
+        <item name="cb_mainBackground">#222222</item>
+        <item name="cb_primaryText">#FFFFFF</item>
+        <item name="cb_secondaryText">#ABABAB</item>
+
+        <item name="cb_dividerList">#2C2C2C</item>
+
+        <!-- Wallpaper Preview -->
+        <item name="cb_wallpaperStatusBar">#66000000</item>
+        <item name="cb_wallpaperToolbar">#66000000</item>
+    </style>
+</resources>

@@ -4533,7 +4533,7 @@
     <AppIcon name="com.acpannals/com.acpannals.MainActivity" image="annals_of_internal_medicine"/>
     <AppIcon name="com.premium.aostv/com.premium.aostv.tv.activity.SpalshActivity" image="aos_tv"/>
     <AppIcon name="com.kroegerama.appchecker/com.kroegerama.appchecker.ui.AcMain" image="appchecker"/>
-    <AppIcon name="com.audiomack/com.audiomack.ui.splash.SplashActivity" image="audio­mack"/>
+    <AppIcon name="com.audiomack/com.audiomack.ui.splash.SplashActivity" image="audiomack"/>
     <AppIcon name="com.ihunda.android.binauralbeat/com.ihunda.android.binauralbeat.BBeat" image="binaural_beats_therapy"/>
     <AppIcon name="com.zadgroup.binbazfatawa/com.zadgroup.binbazfatawa.MainActivity" image="binbaz"/>
     <AppIcon name="com.pharmpress.bnf/com.pharmpress.bnf.features.walkthrough.WalkThroughActivity" image="bnf"/>

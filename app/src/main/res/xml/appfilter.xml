@@ -4546,7 +4546,7 @@
     <item component="ComponentInfo{com.acpannals/com.acpannals.MainActivity}" drawable="annals_of_internal_medicine" />
     <item component="ComponentInfo{com.premium.aostv/com.premium.aostv.tv.activity.SpalshActivity}" drawable="aos_tv" />
     <item component="ComponentInfo{com.kroegerama.appchecker/com.kroegerama.appchecker.ui.AcMain}" drawable="appchecker" />
-    <item component="ComponentInfo{com.audiomack/com.audiomack.ui.splash.SplashActivity}" drawable="audio­mack" />
+    <item component="ComponentInfo{com.audiomack/com.audiomack.ui.splash.SplashActivity}" drawable="audiomack" />
     <item component="ComponentInfo{com.ihunda.android.binauralbeat/com.ihunda.android.binauralbeat.BBeat}" drawable="binaural_beats_therapy" />
     <item component="ComponentInfo{com.zadgroup.binbazfatawa/com.zadgroup.binbazfatawa.MainActivity}" drawable="binbaz" />
     <item component="ComponentInfo{com.pharmpress.bnf/com.pharmpress.bnf.features.walkthrough.WalkThroughActivity}" drawable="bnf" />
