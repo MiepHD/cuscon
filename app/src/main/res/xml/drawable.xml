@@ -4325,5 +4325,7 @@
     <item drawable="tophy" />
     <item drawable="survival_manual" />
     <item drawable="device_info_bw" />
+    <item drawable="e_camera" />
+    <item drawable="aospstudio_systemui_tuner" />
 
 </resources>

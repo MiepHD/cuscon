@@ -4380,5 +4380,7 @@
     <AppIcon name="com.delta8studio.deviceinfo/com.delta8studio.deviceinfo.MainActivity" image="device_info_bw"/>
     <AppIcon name="foundation.e.pdfviewer/com.gitlab.mudlej.MjPdfReader.LauncherAlias" image="mj_pdf"/>
     <AppIcon name="com.melodis.midomiMusicIdentifier.freemium/com.soundhound.android.appcommon.activity.SplashScreenActivity" image="soundhound"/>
+    <AppIcon name="foundation.e.camera/net.sourceforge.opencamera.MainActivity" image="e_camera"/>
+    <AppIcon name="org.aospstudio.systemtuner/com.aospstudio.shortcuts.MainActivity" image="aospstudio_systemui_tuner"/>
 
 </Theme>
