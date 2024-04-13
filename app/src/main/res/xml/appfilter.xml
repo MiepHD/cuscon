@@ -4530,5 +4530,6 @@
     <item component="ComponentInfo{de.zdf.mediathek.tivi/de.zdf.mediathek.tivi.MainActivity}" drawable="zdftivi" />
     <item component="ComponentInfo{org.zoomquilt.zoomapp/org.zoomquilt.zoomapp.IndexActivity}" drawable="zoomquilt" />
     <item component="ComponentInfo{ru.vedomosti.android/com.sebbia.vedomosti.presentation.ui.activities.main.MainActivity}" drawable="vedomosti" />
+    <item component="ComponentInfo{org.fossify.filemanager/org.fossify.filemanager.activities.SplashActivity.Green}" drawable="file_manager_green" />
 
 </resources>
