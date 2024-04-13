@@ -4703,5 +4703,58 @@
     <item component="ComponentInfo{com.zad.hadith/com.zad.hadith.MainActivity}" drawable="zad_hadith" />
     <item component="ComponentInfo{com.mi.android.globalminusscreen/com.mi.android.globalminusscreen.tab.MainActivity_icon_6}" drawable="app_vault" />
     <item component="ComponentInfo{com.github.warren_bank.airplay_client/com.github.warren_bank.airplay_client.ui.DroidPlayActivity}" drawable="droidplay" />
+    <item component="ComponentInfo{de.varengold.activeTAN/de.efdis.tangenerator.gui.misc.MainActivity}" drawable="activetan" />
+    <item component="ComponentInfo{com.softmedia.receiver/com.softmedia.receiver.app.SplashActivity}" drawable="airreceiver" />
+    <item component="ComponentInfo{com.apkgetter/com.apkgetter.ui.SplashActivity}" drawable="apk_getter" />
+    <item component="ComponentInfo{com.certified.audionote/com.certified.audionote.ui.main.MainActivity}" drawable="audio_notes" />
+    <item component="ComponentInfo{com.saha.batchuninstaller/com.saha.batchuninstaller.ui.SplashScreenActivity}" drawable="batch_uninstaller" />
+    <item component="ComponentInfo{com.amrg.bluetooth_codec_converter/com.amrg.bluetooth_codec_converter.ui.base.SharedActivity}" drawable="bluetooth_codec_changer" />
+    <item component="ComponentInfo{com.github.cetoolbox/com.github.cetoolbox.CEToolboxActivity}" drawable="cetoolbox" />
+    <item component="ComponentInfo{com.tw.clipshare/com.tw.clipshare.ClipShareActivity}" drawable="clipshare" />
+    <item component="ComponentInfo{com.socialnmobile.colordict/com.socialnmobile.colordict.activity.Main}" drawable="colordict" />
+    <item component="ComponentInfo{com.nash.cramped/com.nash.cramped.MainActivity}" drawable="cramped" />
+    <item component="ComponentInfo{com.fadial.android/com.fadial.android.MainActivity}" drawable="ddxof" />
+    <item component="ComponentInfo{com.borne.bad/com.borne.bad.activity.SplashActivity}" drawable="derm_student" />
+    <item component="ComponentInfo{io.github.aldrinzigmundv.digilogtv/com.example.digilogtv.MainActivity}" drawable="digilog_tv" />
+    <item component="ComponentInfo{com.funanduseful.earlybirdalarm/com.funanduseful.earlybirdalarm.ui.main.MainActivity}" drawable="early_bird_alarm_clock" />
+    <item component="ComponentInfo{com.innovationredefined.emptytext/com.innovationredefined.emptytext.MainActivity}" drawable="empty_text" />
+    <item component="ComponentInfo{com.harleynelson.emtrainer.free/com.harleynelson.emtrainer.Home}" drawable="emtrainer" />
+    <item component="ComponentInfo{com.onlineconvert.ocapp/com.onlineconvert.ocapp.MainActivity}" drawable="file_converter" />
+    <item component="ComponentInfo{de.hauke_stieler.geonotes/de.hauke_stieler.geonotes.MainActivity}" drawable="geonotes" />
+    <item component="ComponentInfo{com.hungerstation.android.web/com.hungerstation.android.web.v6.screens.splash.view.SplashActivity}" drawable="hungerstation" />
+    <item component="ComponentInfo{io.github.petlyh.jsdict/io.github.petlyh.jsdict.MainActivity}" drawable="js_dict" />
+    <item component="ComponentInfo{com.kafka.user/com.kafka.user.MainActivity}" drawable="kafka" />
+    <item component="ComponentInfo{com.inspiredandroid.linuxcommandbibliotheca/com.inspiredandroid.linuxcommandbibliotheca.MainActivity}" drawable="linux_command_library" />
+    <item component="ComponentInfo{asu.mcq/asu.mcq.Splash}" drawable="mcq_abubakr_asu_" />
+    <item component="ComponentInfo{com.regularrateandrhythm.medmnemonics/com.regularrateandrhythm.medmnemonics.MnemonicsListActivity}" drawable="medical_mnemonics" />
+    <item component="ComponentInfo{com.mixlr.android/com.mixlr.android.LauncherActivity}" drawable="mixlr" />
+    <item component="ComponentInfo{com.arabia_it.moshaf_ibn_othimen/com.arabia_it.moshaf_ibn_othimen.ui.splash.SplashActivity}" drawable="moshaf_ebn_othaimeen" />
+    <item component="ComponentInfo{com.msd.professional/com.msd.professional.ui.Splashscreenactivity}" drawable="msd_pro" />
+    <item component="ComponentInfo{com.musclewiki.macro/org.musclewiki.macro.MainActivity}" drawable="musclewiki" />
+    <item component="ComponentInfo{com.haz.prayer/com.haz.prayer.MyPrayer}" drawable="my_prayer" />
+    <item component="ComponentInfo{tw.nekomimi.nekogram/org.telegram.messenger.DefaultIcon}" drawable="nekogram" />
+    <item component="ComponentInfo{app.iris/app.iris.MainActivity}" drawable="passport" />
+    <item component="ComponentInfo{com.cyb3rko.pazzword/com.cyb3rko.pazzword.MainActivity}" drawable="pazzword" />
+    <item component="ComponentInfo{com.cgogolin.penandpdf/com.cgogolin.penandpdf.PenAndPDFActivity}" drawable="pen_and_pdf" />
+    <item component="ComponentInfo{com.wangxutech.picwish/com.wangxutech.picwish.module.main.ui.splash.SplashActivity}" drawable="picwish" />
+    <item component="ComponentInfo{houseapp.medicalpro/com.houseapp.medicalpro.Splash}" drawable="procedures" />
+    <item component="ComponentInfo{com.qooapp.qoohelper/com.qooapp.qoohelper.arch.welcome.WelcomeActivity}" drawable="qooapp" />
+    <item component="ComponentInfo{com.superyao.tuchuang/com.superyao.tuchuang.ui.component.main.MainActivity}" drawable="quickib" />
+    <item component="ComponentInfo{com.ibrahimyousre.resumebuilder/com.ibrahimyousre.resumebuilder.MainActivity}" drawable="resume_builder" />
+    <item component="ComponentInfo{com.skemailmobileapp/com.skemailmobileapp.MainActivity}" drawable="skiff_mail" />
+    <item component="ComponentInfo{co.slidebox/co.slidebox.ui.root.RootActivity}" drawable="slidebox" />
+    <item component="ComponentInfo{ai.topicfinder.podcastdiscovery/ai.topicfinder.podcastdiscovery.MainActivity}" drawable="snipd" />
+    <item component="ComponentInfo{com.production.ksm.surgerysuturematerial/com.production.ksm.surgerysuturematerial.MainActivity}" drawable="surgicalsuturematerial" />
+    <item component="ComponentInfo{com.arwany.tazkerah/com.arwany.tazkerah.activities.MainActivity}" drawable="tazkerah" />
+    <item component="ComponentInfo{com.sharpened.techterms/com.sharpened.techterms.MainActivity}" drawable="tech_terms" />
+    <item component="ComponentInfo{com.kapidhvaj.textrepeater/com.kapidhvaj.textrepeater.Activity.SplashActivity}" drawable="text_repeater" />
+    <item component="ComponentInfo{com.teachmeseries.tmphysiology/crc6404b5d7aaf7660bf3.MainActivity}" drawable="tmphysiology" />
+    <item component="ComponentInfo{com.teachmeseries.tmsurgery/crc6404b5d7aaf7660bf3.MainActivity}" drawable="tmsurgery" />
+    <item component="ComponentInfo{com.ebaschiera.triplecamel/com.ebaschiera.triplecamel.MainActivity}" drawable="triplecamel" />
+    <item component="ComponentInfo{org.vita3k.emulator/org.vita3k.emulator.Emulator}" drawable="vita3k" />
+    <item component="ComponentInfo{io.github.freewatermark.mobileapp/com.example.free_watermark.MainActivity}" drawable="watermarking" />
+    <item component="ComponentInfo{in.whatsaga.whatsapplongerstatus/in.whatsaga.whatsapplongerstatus.activities.StartupActivity}" drawable="whatsaga" />
+    <item component="ComponentInfo{ua.com.wifisolutions.wifivr/ua.com.wifisolutions.wifivr.MainActivity}" drawable="wi_fi_ar" />
+    <item component="ComponentInfo{com.kapp.youtube.final/com.kapp.youtube.ui.MainActivity}" drawable="ymusic" />
 
 </resources>
