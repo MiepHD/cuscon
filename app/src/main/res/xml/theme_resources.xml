@@ -4521,5 +4521,6 @@
     <AppIcon name="ru.zuovlzhk.ktqlezihu/ru.zuovlzhk.ktqlezihu.MainActivity1" image="lucky_patcher"/>
     <AppIcon name="ru.tech.imageresizershrinker/ru.tech.imageresizershrinker.presentation.AppActivity" image="image_toolbox_resizer_green"/>
     <AppIcon name="com.ruler.csw/com.ruler.csw.activity.MainActivity" image="ruler_csw"/>
+    <AppIcon name="me.lucky.silence/me.lucky.silence.MainActivity" image="lucky_silence"/>
 
 </Theme>

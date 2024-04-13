@@ -4534,5 +4534,6 @@
     <item component="ComponentInfo{ru.zuovlzhk.ktqlezihu/ru.zuovlzhk.ktqlezihu.MainActivity1}" drawable="lucky_patcher" />
     <item component="ComponentInfo{ru.tech.imageresizershrinker/ru.tech.imageresizershrinker.presentation.AppActivity}" drawable="image_toolbox_resizer_green" />
     <item component="ComponentInfo{com.ruler.csw/com.ruler.csw.activity.MainActivity}" drawable="ruler_csw" />
+    <item component="ComponentInfo{me.lucky.silence/me.lucky.silence.MainActivity}" drawable="lucky_silence" />
 
 </resources>
