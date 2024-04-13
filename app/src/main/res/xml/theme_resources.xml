@@ -4377,5 +4377,7 @@
     <AppIcon name="com.tophy.android/com.wear.buzzee.app.SplashActivity" image="tophy"/>
     <AppIcon name="org.ligi.survivalmanual/org.ligi.survivalmanual.ui.MainActivity" image="survival_manual"/>
     <AppIcon name="ch.threema.app.libre/ch.threema.app.activities.MainActivity" image="threema"/>
+    <AppIcon name="com.delta8studio.deviceinfo/com.delta8studio.deviceinfo.MainActivity" image="device_info_bw"/>
+    <AppIcon name="foundation.e.pdfviewer/com.gitlab.mudlej.MjPdfReader.LauncherAlias" image="mj_pdf"/>
 
 </Theme>

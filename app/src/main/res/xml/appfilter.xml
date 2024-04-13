@@ -4390,5 +4390,7 @@
     <item component="ComponentInfo{com.tophy.android/com.wear.buzzee.app.SplashActivity}" drawable="tophy" />
     <item component="ComponentInfo{org.ligi.survivalmanual/org.ligi.survivalmanual.ui.MainActivity}" drawable="survival_manual" />
     <item component="ComponentInfo{ch.threema.app.libre/ch.threema.app.activities.MainActivity}" drawable="threema" />
+    <item component="ComponentInfo{com.delta8studio.deviceinfo/com.delta8studio.deviceinfo.MainActivity}" drawable="device_info_bw" />
+    <item component="ComponentInfo{foundation.e.pdfviewer/com.gitlab.mudlej.MjPdfReader.LauncherAlias}" drawable="mj_pdf" />
 
 </resources>
