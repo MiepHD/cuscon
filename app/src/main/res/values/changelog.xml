@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="changelog_date">1.4.2024</string>
+    <string name="changelog_date">13.4.2024</string>
     <string-array name="changelog">
         <item>4.0.1.9:</item>
         <item>Added Eat Poop You Cat, Symfonium, Auditor, Clinometer, monerujo, Vantage West, Keyboard, Hash Checker, UP-Example, Inner Breeze, Apps, Shroomify Mushroom ID, OG Network Tools, hoopla, Book Reader, Tempo, Irregular Expressions, Tophy, Survival Manual</item>
+        <item>Updated Threema</item>
         <item>4.0.1.8:</item>
         <item>Added ASR, Gestor de archivos, Grabador de audio, Gu Recorder, Screen Recorder, Screen Recorder with Facecam, SRecorder, Screen Recorder, BERSHKA, File Manager, File Manager by Lufick, KakaoTalk, Lefties, Pull and Bear, Showroom, Network Scanner, WiFi Analyzer, WiFi Channel, WiFi Tools</item>
         <item>4.0.1.7:</item>

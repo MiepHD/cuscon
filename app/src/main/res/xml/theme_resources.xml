@@ -4376,5 +4376,6 @@
     <AppIcon name="mf.asciitext.lite/mf.irregex.SplashScreen" image="irregular_expressions"/>
     <AppIcon name="com.tophy.android/com.wear.buzzee.app.SplashActivity" image="tophy"/>
     <AppIcon name="org.ligi.survivalmanual/org.ligi.survivalmanual.ui.MainActivity" image="survival_manual"/>
+    <AppIcon name="ch.threema.app.libre/ch.threema.app.activities.MainActivity" image="threema"/>
 
 </Theme>

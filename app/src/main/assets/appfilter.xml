@@ -4389,5 +4389,6 @@
     <item component="ComponentInfo{mf.asciitext.lite/mf.irregex.SplashScreen}" drawable="irregular_expressions" />
     <item component="ComponentInfo{com.tophy.android/com.wear.buzzee.app.SplashActivity}" drawable="tophy" />
     <item component="ComponentInfo{org.ligi.survivalmanual/org.ligi.survivalmanual.ui.MainActivity}" drawable="survival_manual" />
+    <item component="ComponentInfo{ch.threema.app.libre/ch.threema.app.activities.MainActivity}" drawable="threema" />
 
 </resources>
