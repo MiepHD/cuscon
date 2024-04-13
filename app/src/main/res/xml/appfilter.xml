@@ -4701,5 +4701,6 @@
     <item component="ComponentInfo{ru.yandex.searchplugin/ru.yandex.searchplugin.MainActivity}" drawable="yandex_start" />
     <item component="ComponentInfo{com.ytv.pronew/dev.pankaj.ytvplayer.ui.MainActivity}" drawable="ytv_pro" />
     <item component="ComponentInfo{com.zad.hadith/com.zad.hadith.MainActivity}" drawable="zad_hadith" />
+    <item component="ComponentInfo{com.mi.android.globalminusscreen/com.mi.android.globalminusscreen.tab.MainActivity_icon_6}" drawable="app_vault" />
 
 </resources>

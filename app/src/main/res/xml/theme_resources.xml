@@ -4688,5 +4688,6 @@
     <AppIcon name="ru.yandex.searchplugin/ru.yandex.searchplugin.MainActivity" image="yandex_start"/>
     <AppIcon name="com.ytv.pronew/dev.pankaj.ytvplayer.ui.MainActivity" image="ytv_pro"/>
     <AppIcon name="com.zad.hadith/com.zad.hadith.MainActivity" image="zad_hadith"/>
+    <AppIcon name="com.mi.android.globalminusscreen/com.mi.android.globalminusscreen.tab.MainActivity_icon_6" image="app_vault"/>
 
 </Theme>
