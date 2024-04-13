@@ -4519,5 +4519,6 @@
     <AppIcon name="ru.vedomosti.android/com.sebbia.vedomosti.presentation.ui.activities.main.MainActivity" image="vedomosti"/>
     <AppIcon name="org.fossify.filemanager/org.fossify.filemanager.activities.SplashActivity.Green" image="file_manager_green"/>
     <AppIcon name="ru.zuovlzhk.ktqlezihu/ru.zuovlzhk.ktqlezihu.MainActivity1" image="lucky_patcher"/>
+    <AppIcon name="ru.tech.imageresizershrinker/ru.tech.imageresizershrinker.presentation.AppActivity" image="image_toolbox_resizer_green"/>
 
 </Theme>
