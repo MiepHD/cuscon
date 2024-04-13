@@ -4392,5 +4392,6 @@
     <item component="ComponentInfo{ch.threema.app.libre/ch.threema.app.activities.MainActivity}" drawable="threema" />
     <item component="ComponentInfo{com.delta8studio.deviceinfo/com.delta8studio.deviceinfo.MainActivity}" drawable="device_info_bw" />
     <item component="ComponentInfo{foundation.e.pdfviewer/com.gitlab.mudlej.MjPdfReader.LauncherAlias}" drawable="mj_pdf" />
+    <item component="ComponentInfo{com.melodis.midomiMusicIdentifier.freemium/com.soundhound.android.appcommon.activity.SplashScreenActivity}" drawable="soundhound" />
 
 </resources>

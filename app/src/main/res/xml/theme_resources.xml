@@ -4379,5 +4379,6 @@
     <AppIcon name="ch.threema.app.libre/ch.threema.app.activities.MainActivity" image="threema"/>
     <AppIcon name="com.delta8studio.deviceinfo/com.delta8studio.deviceinfo.MainActivity" image="device_info_bw"/>
     <AppIcon name="foundation.e.pdfviewer/com.gitlab.mudlej.MjPdfReader.LauncherAlias" image="mj_pdf"/>
+    <AppIcon name="com.melodis.midomiMusicIdentifier.freemium/com.soundhound.android.appcommon.activity.SplashScreenActivity" image="soundhound"/>
 
 </Theme>
