@@ -4756,5 +4756,6 @@
     <item component="ComponentInfo{in.whatsaga.whatsapplongerstatus/in.whatsaga.whatsapplongerstatus.activities.StartupActivity}" drawable="whatsaga" />
     <item component="ComponentInfo{ua.com.wifisolutions.wifivr/ua.com.wifisolutions.wifivr.MainActivity}" drawable="wi_fi_ar" />
     <item component="ComponentInfo{com.kapp.youtube.final/com.kapp.youtube.ui.MainActivity}" drawable="ymusic" />
-
+    <item component="ComponentInfo{com.fampay.in/com.fampay.in.ui.splash.SplashActivity}" drawable="famapp" />
+    
 </resources>
