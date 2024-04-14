@@ -101,7 +101,7 @@
     <AppIcon name="net.playmods/com.vultark.android.app.InitActivity" image="playmods"/>
     <AppIcon name="com.lagradost.cloudstream3/com.lagradost.cloudstream3.MainActivity" image="cloud_stream_3"/>
     <AppIcon name="com.auroraclimbing.kilterboard/com.auroraclimbing.auroraboard.controller.SplashActivity" image="kilterboard"/>
-    <AppIcon name="com.froxot.cuscon/com.froxot.cuscon.activities.SplashActivity" image="cuscon"/>
+    <AppIcon name="com.froxot.cuscon/com.froxot.cuscon.activities.MainActivity" image="cuscon"/>
     <AppIcon name="calculatorlock.calculatorvault.secretcalculator.calculatorlockapphider/calculatorlock.calculatorvault.secretcalculator.calculatorlockapphider.MainActivity" image="samsung_calculator"/>
     <AppIcon name="com.android.documentsui/com.android.documentsui.LauncherActivity" image="samsung_files"/>
     <AppIcon name="com.android.settings/com.android.settings.Settings" image="settings"/>
@@ -954,7 +954,7 @@
 	<AppIcon name="com.simplemobiletools.calendar.pro/com.simplemobiletools.calendar.pro.activities.SplashActivity.Light_blue" image="calendar"/>
 	<AppIcon name="com.bnyro.clock/com.bnyro.clock.ui.MainActivity" image="clock_you"/>
 	<AppIcon name="com.simplemobiletools.contacts.pro/com.simplemobiletools.contacts.pro.activities.SplashActivity.Orange" image="contactos"/>
-	<AppIcon name="com.froxot.cuscon.foss/com.froxot.cuscon.activities.SplashActivity" image="cuscon"/>
+	<AppIcon name="com.froxot.cuscon.foss/com.froxot.cuscon.activities.MainActivity" image="cuscon"/>
 	<AppIcon name="website.leifs.delta.foss/website.leifs.delta.activities.SplashActivity" image="delta"/>
 	<AppIcon name="com.dolby.daxappui/com.dolby.daxappui.MainActivity" image="dolby_atmos2"/>
 	<AppIcon name="com.simplemobiletools.gallery.pro/com.simplemobiletools.gallery.pro.activities.SplashActivity.Light_blue" image="gallery2"/>
@@ -4743,5 +4743,21 @@
     <AppIcon name="in.whatsaga.whatsapplongerstatus/in.whatsaga.whatsapplongerstatus.activities.StartupActivity" image="whatsaga"/>
     <AppIcon name="ua.com.wifisolutions.wifivr/ua.com.wifisolutions.wifivr.MainActivity" image="wi_fi_ar"/>
     <AppIcon name="com.kapp.youtube.final/com.kapp.youtube.ui.MainActivity" image="ymusic"/>
+    <AppIcon name="com.fampay.in/com.fampay.in.ui.splash.SplashActivity" image="famapp"/>
+    <AppIcon name="org.codeaurora.snapcam/com.android.camera.CameraLauncher" image="android_camera"/>
+    <AppIcon name="io.github.muntashirakon.Music/code.name.monkey.retromusic.activities.MainActivity" image="metro"/>
+    <AppIcon name="com.tradingview.tradingviewapp/com.tradingview.tradingviewapp.root.view.RootActivity" image="tradingview"/>
+    <AppIcon name="com.pubg.imobile/com.epicgames.ue4.SplashActivity" image="battlegrounds_india"/>
+    <AppIcon name="com.zerodha.kite3/com.zerodha.kite3.MainActivity" image="kite"/>
+    <AppIcon name="lysesoft.andftp/lysesoft.andftp.SplashActivity" image="andftp"/>
+    <AppIcon name="epson.print/epson.print.WellcomeScreenActivity" image="epson_iprint"/>
+    <AppIcon name="io.github.mkckr0.audio_share_app/io.github.mkckr0.audio_share_app.MainActivity" image="audio_share"/>
+    <AppIcon name="com.apple.bnd/com.apple.vienna.v4.interaction.presentation.screens.welcome.WelcomeActivity" image="beats"/>
+    <AppIcon name="rocketstartups.wearcalculator/rocketstartups.wearcalculator.MainActivity" image="calculator_for_android_wear"/>
+    <AppIcon name="com.naver.android.globaldictcnen/com.naver.android.globaldict.LaunchActivity" image="chinese_english_dictionary"/>
+    <AppIcon name="net.daum.android.cafe/net.daum.android.cafe.activity.init.InitActivity" image="daumcafe"/>
+    <AppIcon name="com.google.android.apps.enterprise.dmagent/com.google.android.apps.enterprise.dmagent.DMAgentActivity" image="device_policy"/>        
+    <AppIcon name="com.epson.mobilephone.android.epsonprintserviceplugin/com.epson.mobilephone.android.epsonprintserviceplugin.WelcomeScreenActivity" image="epson_print_enabler"/>
+    <AppIcon name="com.epson.epsonsmart/com.epson.epsonsmart.controller.splash.SplashActivity" image="epson_smart_panel"/>
 
 </Theme>
