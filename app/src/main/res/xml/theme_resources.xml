@@ -4744,5 +4744,6 @@
     <AppIcon name="ua.com.wifisolutions.wifivr/ua.com.wifisolutions.wifivr.MainActivity" image="wi_fi_ar"/>
     <AppIcon name="com.kapp.youtube.final/com.kapp.youtube.ui.MainActivity" image="ymusic"/>
     <AppIcon name="com.fampay.in/com.fampay.in.ui.splash.SplashActivity" image="famapp"/>
-    
+    <AppIcon name="org.codeaurora.snapcam/com.android.camera.CameraLauncher" image="android_camera"/>
+
 </Theme>

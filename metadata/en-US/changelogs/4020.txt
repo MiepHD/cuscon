@@ -1,1 +1,2 @@
-Added FamApp
+- Added FamApp
+- Updated Camera

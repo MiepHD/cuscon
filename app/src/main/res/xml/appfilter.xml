@@ -4757,5 +4757,6 @@
     <item component="ComponentInfo{ua.com.wifisolutions.wifivr/ua.com.wifisolutions.wifivr.MainActivity}" drawable="wi_fi_ar" />
     <item component="ComponentInfo{com.kapp.youtube.final/com.kapp.youtube.ui.MainActivity}" drawable="ymusic" />
     <item component="ComponentInfo{com.fampay.in/com.fampay.in.ui.splash.SplashActivity}" drawable="famapp" />
-    
+    <item component="ComponentInfo{org.codeaurora.snapcam/com.android.camera.CameraLauncher}" drawable="android_camera" />
+
 </resources>
