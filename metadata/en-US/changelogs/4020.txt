@@ -1,2 +1,2 @@
-- Added FamApp
-- Updated Camera
+- Added FamApp, Battlegrounds India, Kite
+- Updated Camera, Metro, TradingView
