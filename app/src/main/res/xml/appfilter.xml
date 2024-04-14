@@ -4762,5 +4762,15 @@
     <item component="ComponentInfo{com.tradingview.tradingviewapp/com.tradingview.tradingviewapp.root.view.RootActivity}" drawable="tradingview" />
     <item component="ComponentInfo{com.pubg.imobile/com.epicgames.ue4.SplashActivity}" drawable="battlegrounds_india" />
     <item component="ComponentInfo{com.zerodha.kite3/com.zerodha.kite3.MainActivity}" drawable="kite" />
+    <item component="ComponentInfo{lysesoft.andftp/lysesoft.andftp.SplashActivity}" drawable="andftp" />
+    <item component="ComponentInfo{epson.print/epson.print.WellcomeScreenActivity}" drawable="epson_iprint" />
+    <item component="ComponentInfo{io.github.mkckr0.audio_share_app/io.github.mkckr0.audio_share_app.MainActivity}" drawable="audio_share" />
+    <item component="ComponentInfo{com.apple.bnd/com.apple.vienna.v4.interaction.presentation.screens.welcome.WelcomeActivity}" drawable="beats" />      
+    <item component="ComponentInfo{rocketstartups.wearcalculator/rocketstartups.wearcalculator.MainActivity}" drawable="calculator_for_android_wear" />  
+    <item component="ComponentInfo{com.naver.android.globaldictcnen/com.naver.android.globaldict.LaunchActivity}" drawable="chinese_english_dictionary" />
+    <item component="ComponentInfo{net.daum.android.cafe/net.daum.android.cafe.activity.init.InitActivity}" drawable="daumcafe" />
+    <item component="ComponentInfo{com.google.android.apps.enterprise.dmagent/com.google.android.apps.enterprise.dmagent.DMAgentActivity}" drawable="device_policy" />
+    <item component="ComponentInfo{com.epson.mobilephone.android.epsonprintserviceplugin/com.epson.mobilephone.android.epsonprintserviceplugin.WelcomeScreenActivity}" drawable="epson_print_enabler" />
+    <item component="ComponentInfo{com.epson.epsonsmart/com.epson.epsonsmart.controller.splash.SplashActivity}" drawable="epson_smart_panel" />
 
 </resources>
