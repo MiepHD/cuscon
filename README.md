@@ -21,11 +21,51 @@ https://www.buymeacoffee.com/yazazuyo
 
 Please send requests to <a href="mailto:cuscon-requests@froxot.de">cuscon-requests@froxot.de</a>
 
-# Pull Requests
+# Contributing
 
-If you want to contribute icons, you can use the icons under `requests` or send a icon request to yourself (use v4.0.1.7) to get the things you need. Install python if you don't have it then run `python e.py` in the request to get first a list of the icons that are in the request and already added and second a list with filename conflicts. If there are any conflicts go see if the file is already the right one, then only the xml files have to be updated otherwise chosse another name and rename the file as well as the filename in the xml files of your request. Then edit the icons so they match the criteria (Requirements for contributing icons). These go to `app\src\main\res\drawable-nodpi`. After that, extract the parts for your icons from the xml files using `f.py` and paste these in the corresponding files in `app\src\main\res\xml`. Run `python ..\f.py ` as arguments use the filenames of the icons without fileextension. This will first output the names, then appfilter, appmap and theme_resources. The names at the beginning of the output go to `app\src\main\res\values\changelog.xml` and `metadata\en-US\changelogs\<versionCode>.txt`. Finally, create a pull request with these changes.<br>
+## Issues
 
-<b>If you just want to create the image, please upload it with the corresponding data in the xml files as an issue.</b>
+<b>If you just want to create the images, please upload the request with edited images as an issue.</b>
+
+## Pull Requests
+
+Requirements:
+- Python
+- Bash
+
+How-To:
+
+1. If you want to contribute icons, you can use<br>
+   &nbsp;&nbsp;&nbsp;a) the icons under `requests`<br>
+   &nbsp;&nbsp;&nbsp;b) send a icon request to yourself (use v4.0.1.7)<br>
+   to get the details you need
+2. Extract the content of your request into `requests/icon_request`
+3. Run `python ../e.py` in the extracted request folder to get these details:
+   1. List of icons that are in the request but already in the latest version. To remove them run `python ..\e.py -rmaa`
+   2. List with filename conflicts.<br>
+      a) The icon in the request is the original version of the icon with the same filename in the app:<br>
+         &nbsp;&nbsp;&nbsp;Get the details of the icon with `python ../f.py <filename>` and add the data under `theme_resources` and `appfilter` to `app/src/main/res/xml/theme_resources.xml` and `app/src/main/res/xml/appfilter.xml`<br>
+      b) The icon in the request doesn't match the one in the app and<br>
+           &nbsp;&nbsp;&nbsp;A) the icon is already added but under another name:<br>
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Get the details of the icon with `python ../f.py <filename>~<filename in app>` and add the data under `theme_resources` and `appfilter` to `app/src/main/res/xml/theme_resources.xml` and `app/src/main/res/xml/appfilter.xml`<br>
+           &nbsp;&nbsp;&nbsp;B) the icon isn't added under another name:<br>
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Replace the file with your edited version. Get the details of the icon with `python ../f.py <filename>`. Then read the details under Appfilter like `region.author.abc/`. From this info think of a filename like `author_abc` and an incremental number if neccessary. Rename the icon to the unique name. Then proceed at 4. but run `python ../f.py <filename>~<newname>` instead of step 9. .<br>
+      c) You can don't want to handle these:<br>
+           &nbsp;&nbsp;&nbsp;Use `python ../e.py -rmcon` to delete all conflicts
+4. Edit the icons so they match the criteria (Requirements for contributing icons)
+5. Put them into a subfolder called `get`
+6. Check if the latest version in `app/src/main/res/values/changelog.xml` is already released
+   True) 1. Add new items for the new version in the changelog
+         2. Update the `versionCode` and `versionName` in `app/build.gradle`
+         3. Create `metadata/en-US/changelogs/<versionCode>.txt`
+7. Change the date in `app/src/main/res/values/changelog.xml` to the current date
+8. Run in the folder of the request `python ../f.py -get`
+9. Copy the changelog into `app\src\main\res\values\changelog.xml` and `metadata/en-US/changelogs/<versionCode>.txt`
+10. Copy the appfilter details into `app/src/main/res/xml/appfilter.xml`, the drawable into `app/src/main/res/xml/drawable.xml` and the theme_resources into `app/src/main/res/xml/theme_resources.xml`
+11. (Optional) Convert the png files in the get folder to webp files ([WebP Converter for Windows and MacOS](https://anywebp.com/de/software))
+12. Move the images to `app/src/main/res/drawable-nodpi`
+13. (Optional) Do a gradle sync
+14. Finally, create a pull request with these changes.
 
 # Requirements for contributing icons
 
