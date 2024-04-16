@@ -4684,5 +4684,16 @@
     <item drawable="whatsaga" />
     <item drawable="wi_fi_ar" />
     <item drawable="ymusic" />
+    <item drawable="famapp" />
+    <item drawable="battlegrounds_india" />
+    <item drawable="kite" />
+    <item drawable="audio_share" />
+    <item drawable="beats" />
+    <item drawable="calculator_for_android_wear" />
+    <item drawable="chinese_english_dictionary" />
+    <item drawable="daumcafe" />
+    <item drawable="device_policy" />
+    <item drawable="epson_print_enabler" />
+    <item drawable="epson_smart_panel" />
 
 </resources>
