@@ -4779,5 +4779,6 @@
     <item component="ComponentInfo{com.bigknol.malayalam.spoken.english/com.bigknol.malayalam.spoken.english.SplashScreen}" drawable="spoken_english_malayalam" />
     <item component="ComponentInfo{com.linkbox.plus.android/com.linkbox.app.LauncherActivity}" drawable="telebox" />
     <item component="ComponentInfo{video.player.videoplayer/com.inshot.xplayer.activities.SplashActivity}" drawable="xplayer_video_player" />
+    <item component="ComponentInfo{com.noto/com.noto.app.DarkRain}" drawable="noto" />
 
 </resources>

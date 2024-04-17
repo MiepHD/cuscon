@@ -4766,5 +4766,6 @@
     <AppIcon name="com.bigknol.malayalam.spoken.english/com.bigknol.malayalam.spoken.english.SplashScreen" image="spoken_english_malayalam"/>
     <AppIcon name="com.linkbox.plus.android/com.linkbox.app.LauncherActivity" image="telebox"/>
     <AppIcon name="video.player.videoplayer/com.inshot.xplayer.activities.SplashActivity" image="xplayer_video_player"/>
+    <AppIcon name="com.noto/com.noto.app.DarkRain" image="noto"/>
 
 </Theme>
