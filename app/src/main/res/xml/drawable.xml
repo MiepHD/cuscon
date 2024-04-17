@@ -4701,5 +4701,6 @@
     <item drawable="spoken_english_malayalam" />
     <item drawable="telebox" />
     <item drawable="xplayer_video_player" />
+    <item drawable="blackstar_clipboard" />
 
 </resources>

@@ -4780,5 +4780,6 @@
     <item component="ComponentInfo{com.linkbox.plus.android/com.linkbox.app.LauncherActivity}" drawable="telebox" />
     <item component="ComponentInfo{video.player.videoplayer/com.inshot.xplayer.activities.SplashActivity}" drawable="xplayer_video_player" />
     <item component="ComponentInfo{com.noto/com.noto.app.DarkRain}" drawable="noto" />
+    <item component="ComponentInfo{com.blackstar.apps.clipboard/com.blackstar.apps.clipboard.ui.splash.SplashActivity}" drawable="blackstar_clipboard" />
 
 </resources>

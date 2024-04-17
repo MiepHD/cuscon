@@ -4767,5 +4767,6 @@
     <AppIcon name="com.linkbox.plus.android/com.linkbox.app.LauncherActivity" image="telebox"/>
     <AppIcon name="video.player.videoplayer/com.inshot.xplayer.activities.SplashActivity" image="xplayer_video_player"/>
     <AppIcon name="com.noto/com.noto.app.DarkRain" image="noto"/>
+    <AppIcon name="com.blackstar.apps.clipboard/com.blackstar.apps.clipboard.ui.splash.SplashActivity" image="blackstar_clipboard"/>
 
 </Theme>
