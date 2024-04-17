@@ -4782,5 +4782,25 @@
     <item component="ComponentInfo{com.noto/com.noto.app.DarkRain}" drawable="noto" />
     <item component="ComponentInfo{com.blackstar.apps.clipboard/com.blackstar.apps.clipboard.ui.splash.SplashActivity}" drawable="blackstar_clipboard" />
     <item component="ComponentInfo{app.lawnchair.debug/app.lawnchair.LawnchairLauncher}" drawable="lawnchair" />
+    <item component="ComponentInfo{com.reacstor.agate/com.reacstor.agate.activities.SplashActivity}" drawable="agate" />
+    <item component="ComponentInfo{com.anime.witcher/com.example.animewitcher.HomeActivity}" drawable="anime_witcher" />
+    <item component="ComponentInfo{com.ascent/com.sobol.oneSec.presentation.main.MainActivity}" drawable="ascent" />
+    <item component="ComponentInfo{com.sumyapplications.bluetooth.earphone/com.sumyapplications.bluetoothearphone.MainActivity}" drawable="battery_pods" />
+    <item component="ComponentInfo{com.lstapps.batterywidget/com.lstapps.batterywidget.MainActivity}" drawable="battery_widget" />
+    <item component="ComponentInfo{com.osheden.blackarmy.omni/com.osheden.blackarmy.omni.activities.SplashActivity}" drawable="black_army_omni" />
+    <item component="ComponentInfo{de.dlyt.yanndroid.dualwallpaper/de.dlyt.yanndroid.dualwallpaper.ui.activity.MainActivity}" drawable="dualwallpaper" />
+    <item component="ComponentInfo{rk.android.app.dynamic.wallpaper/rk.android.app.dynamic.wallpaper.activities.home.HomeActivity}" drawable="dynamic_wallpaper" />
+    <item component="ComponentInfo{com.reactivstudios.android.edge4/com.reactivstudios.android.edge4.ActivityEdge}" drawable="edge_card_launcher" />
+    <item component="ComponentInfo{dk.appdictive.getcurrentwallpaper/dk.appdictive.getcurrentwallpaper.MainActivity}" drawable="get_current_wallpaper" />
+    <item component="ComponentInfo{org.erikjaen.tidylinksv2/org.erikjaen.tidylinksv2.ui.main.MainActivity}" drawable="keeplink" />
+    <item component="ComponentInfo{tk.zwander.lockscreenwidgets/tk.zwander.lockscreenwidgets.MainActivity}" drawable="lockscreen_widgets" />
+    <item component="ComponentInfo{com.msob7y.namida/com.msob7y.namida.NamidaMainActivity}" drawable="namida" />
+    <item component="ComponentInfo{com.tenqube.notisave/com.tenqube.notisave.presentation.splash.SplashActivity}" drawable="notisave" />
+    <item component="ComponentInfo{volume.booster.soundamplifier/com.coocent.theme.volumebooster.activity.SplashActivity}" drawable="nuts_vol_booster" />
+    <item component="ComponentInfo{com.zeedev.islamprayertime/com.zeedev.islamprayertime.activity.MainActivity}" drawable="prayer_times" />
+    <item component="ComponentInfo{com.quranly.app/com.quranly.app.MainActivity}" drawable="quranly" />
+    <item component="ComponentInfo{com.raouf.routerchef/com.raouf.routerchef.SplashScreen}" drawable="router_chef" />
+    <item component="ComponentInfo{eu.kanade.tachiyomi/eu.kanade.tachiyomi.ui.main.MainActivity}" drawable="tachiyomi" />
+    <item component="ComponentInfo{com.treydev.volume/com.zipoapps.premiumhelper.ui.splash.PHSplashActivity}" drawable="ultra_volume" />
 
 </resources>

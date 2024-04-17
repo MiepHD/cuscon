@@ -4769,5 +4769,25 @@
     <AppIcon name="com.noto/com.noto.app.DarkRain" image="noto"/>
     <AppIcon name="com.blackstar.apps.clipboard/com.blackstar.apps.clipboard.ui.splash.SplashActivity" image="blackstar_clipboard"/>
     <AppIcon name="app.lawnchair.debug/app.lawnchair.LawnchairLauncher" image="lawnchair"/>
+    <AppIcon name="com.reacstor.agate/com.reacstor.agate.activities.SplashActivity" image="agate"/>
+    <AppIcon name="com.anime.witcher/com.example.animewitcher.HomeActivity" image="anime_witcher"/>
+    <AppIcon name="com.ascent/com.sobol.oneSec.presentation.main.MainActivity" image="ascent"/>
+    <AppIcon name="com.sumyapplications.bluetooth.earphone/com.sumyapplications.bluetoothearphone.MainActivity" image="battery_pods"/>
+    <AppIcon name="com.lstapps.batterywidget/com.lstapps.batterywidget.MainActivity" image="battery_widget"/>
+    <AppIcon name="com.osheden.blackarmy.omni/com.osheden.blackarmy.omni.activities.SplashActivity" image="black_army_omni"/>
+    <AppIcon name="de.dlyt.yanndroid.dualwallpaper/de.dlyt.yanndroid.dualwallpaper.ui.activity.MainActivity" image="dualwallpaper"/>
+    <AppIcon name="rk.android.app.dynamic.wallpaper/rk.android.app.dynamic.wallpaper.activities.home.HomeActivity" image="dynamic_wallpaper"/>
+    <AppIcon name="com.reactivstudios.android.edge4/com.reactivstudios.android.edge4.ActivityEdge" image="edge_card_launcher"/>
+    <AppIcon name="dk.appdictive.getcurrentwallpaper/dk.appdictive.getcurrentwallpaper.MainActivity" image="get_current_wallpaper"/>
+    <AppIcon name="org.erikjaen.tidylinksv2/org.erikjaen.tidylinksv2.ui.main.MainActivity" image="keeplink"/>
+    <AppIcon name="tk.zwander.lockscreenwidgets/tk.zwander.lockscreenwidgets.MainActivity" image="lockscreen_widgets"/>
+    <AppIcon name="com.msob7y.namida/com.msob7y.namida.NamidaMainActivity" image="namida"/>
+    <AppIcon name="com.tenqube.notisave/com.tenqube.notisave.presentation.splash.SplashActivity" image="notisave"/>
+    <AppIcon name="volume.booster.soundamplifier/com.coocent.theme.volumebooster.activity.SplashActivity" image="nuts_vol_booster"/>
+    <AppIcon name="com.zeedev.islamprayertime/com.zeedev.islamprayertime.activity.MainActivity" image="prayer_times"/>
+    <AppIcon name="com.quranly.app/com.quranly.app.MainActivity" image="quranly"/>
+    <AppIcon name="com.raouf.routerchef/com.raouf.routerchef.SplashScreen" image="router_chef"/>
+    <AppIcon name="eu.kanade.tachiyomi/eu.kanade.tachiyomi.ui.main.MainActivity" image="tachiyomi"/>
+    <AppIcon name="com.treydev.volume/com.zipoapps.premiumhelper.ui.splash.PHSplashActivity" image="ultra_volume"/>
 
 </Theme>
