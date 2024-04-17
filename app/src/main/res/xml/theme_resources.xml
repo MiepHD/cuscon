@@ -4760,5 +4760,11 @@
     <AppIcon name="com.epson.mobilephone.android.epsonprintserviceplugin/com.epson.mobilephone.android.epsonprintserviceplugin.WelcomeScreenActivity" image="epson_print_enabler"/>
     <AppIcon name="com.epson.epsonsmart/com.epson.epsonsmart.controller.splash.SplashActivity" image="epson_smart_panel"/>
     <AppIcon name="com.google.android.GoogleCameraGood/com.android.camera.CameraLauncher" image="android_camera"/>
+    <AppIcon name="org.derpfest.flash/org.derpfest.flash.CameraLauncher" image="derpfest_flash"/>
+    <AppIcon name="com.ludashi.dualspaceprox/com.ludashi.dualspaceprox.ui.activity.SplashActivity" image="dualspace_pro"/>
+    <AppIcon name="com.foobnix.pdf.reader/com.foobnix.ui2.MainTabs2" image="librera"/>
+    <AppIcon name="com.bigknol.malayalam.spoken.english/com.bigknol.malayalam.spoken.english.SplashScreen" image="spoken_english_malayalam"/>
+    <AppIcon name="com.linkbox.plus.android/com.linkbox.app.LauncherActivity" image="telebox"/>
+    <AppIcon name="video.player.videoplayer/com.inshot.xplayer.activities.SplashActivity" image="xplayer_video_player"/>
 
 </Theme>

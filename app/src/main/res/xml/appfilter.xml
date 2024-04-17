@@ -4773,5 +4773,11 @@
     <item component="ComponentInfo{com.epson.mobilephone.android.epsonprintserviceplugin/com.epson.mobilephone.android.epsonprintserviceplugin.WelcomeScreenActivity}" drawable="epson_print_enabler" />
     <item component="ComponentInfo{com.epson.epsonsmart/com.epson.epsonsmart.controller.splash.SplashActivity}" drawable="epson_smart_panel" />
     <item component="ComponentInfo{com.google.android.GoogleCameraGood/com.android.camera.CameraLauncher}" drawable="android_camera" />
+    <item component="ComponentInfo{org.derpfest.flash/org.derpfest.flash.CameraLauncher}" drawable="derpfest_flash" />
+    <item component="ComponentInfo{com.ludashi.dualspaceprox/com.ludashi.dualspaceprox.ui.activity.SplashActivity}" drawable="dualspace_pro" />
+    <item component="ComponentInfo{com.foobnix.pdf.reader/com.foobnix.ui2.MainTabs2}" drawable="librera" />
+    <item component="ComponentInfo{com.bigknol.malayalam.spoken.english/com.bigknol.malayalam.spoken.english.SplashScreen}" drawable="spoken_english_malayalam" />
+    <item component="ComponentInfo{com.linkbox.plus.android/com.linkbox.app.LauncherActivity}" drawable="telebox" />
+    <item component="ComponentInfo{video.player.videoplayer/com.inshot.xplayer.activities.SplashActivity}" drawable="xplayer_video_player" />
 
 </resources>

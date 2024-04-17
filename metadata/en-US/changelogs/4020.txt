@@ -1,2 +1,2 @@
-- Added FamApp, Battlegrounds India, Kite, Audio Share, Beats, Calculator For Android Wear, Chinese English Dictionary, DaumCafe, Device Policy, Epson Print Enabler, Epson Smart Panel
+- Added FamApp, Battlegrounds India, Kite, Audio Share, Beats, Calculator For Android Wear, Chinese English Dictionary, DaumCafe, Device Policy, Epson Print Enabler, Epson Smart Panel, Camera, DualSpace Pro, Librera, Spoken English Malayalam, TeleBox, XPlayer
 - Updated Camera, Metro, TradingView, AndFTP, Epson iPrint, Camera

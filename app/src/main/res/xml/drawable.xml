@@ -4695,5 +4695,11 @@
     <item drawable="device_policy" />
     <item drawable="epson_print_enabler" />
     <item drawable="epson_smart_panel" />
+    <item drawable="derpfest_flash" />
+    <item drawable="dualspace_pro" />
+    <item drawable="librera" />
+    <item drawable="spoken_english_malayalam" />
+    <item drawable="telebox" />
+    <item drawable="xplayer_video_player" />
 
 </resources>
