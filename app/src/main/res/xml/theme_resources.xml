@@ -4759,5 +4759,6 @@
     <AppIcon name="com.google.android.apps.enterprise.dmagent/com.google.android.apps.enterprise.dmagent.DMAgentActivity" image="device_policy"/>        
     <AppIcon name="com.epson.mobilephone.android.epsonprintserviceplugin/com.epson.mobilephone.android.epsonprintserviceplugin.WelcomeScreenActivity" image="epson_print_enabler"/>
     <AppIcon name="com.epson.epsonsmart/com.epson.epsonsmart.controller.splash.SplashActivity" image="epson_smart_panel"/>
+    <AppIcon name="com.google.android.GoogleCameraGood/com.android.camera.CameraLauncher" image="android_camera"/>
 
 </Theme>
