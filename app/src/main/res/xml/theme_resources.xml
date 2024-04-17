@@ -4768,5 +4768,6 @@
     <AppIcon name="video.player.videoplayer/com.inshot.xplayer.activities.SplashActivity" image="xplayer_video_player"/>
     <AppIcon name="com.noto/com.noto.app.DarkRain" image="noto"/>
     <AppIcon name="com.blackstar.apps.clipboard/com.blackstar.apps.clipboard.ui.splash.SplashActivity" image="blackstar_clipboard"/>
+    <AppIcon name="app.lawnchair.debug/app.lawnchair.LawnchairLauncher" image="lawnchair"/>
 
 </Theme>
