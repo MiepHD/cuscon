@@ -4733,5 +4733,7 @@
     <item drawable="webview_browser_tester" />
     <item drawable="papirus_icon_pack" />
     <item drawable="pixel_tips" />
+    <item drawable="glider_red" />
+    <item drawable="headphones" />
 
 </resources>

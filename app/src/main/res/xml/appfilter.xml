@@ -4823,5 +4823,10 @@
     <item component="ComponentInfo{com.google.android.apps.recorder/com.google.android.apps.recorder.ui.recordings.MainActivity}" drawable="google_recorder" />
     <item component="ComponentInfo{io.github.PapirusDevelopmentTeam.papirus_icons/io.github.PapirusDevelopmentTeam.papirus_icons.activities.SplashActivity}" drawable="papirus_icon_pack" />
     <item component="ComponentInfo{com.google.android.apps.tips/com.google.android.apps.tips.TipsMain}" drawable="pixel_tips" />
+    <item component="ComponentInfo{com.nononsenseapps.feeder/com.nononsenseapps.feeder.ui.MainActivity}" drawable="feeder" />
+    <item component="ComponentInfo{nl.viter.glider/nl.viter.glider.MainActivity}" drawable="glider_red" />
+    <item component="ComponentInfo{com.sony.songpal.mdr/com.sony.songpal.mdr.vim.activity.MdrMainActivity}" drawable="headphones" />
+    <item component="ComponentInfo{net.cozic.joplin/net.cozic.joplin.MainActivity}" drawable="joplin" />
+    <item component="ComponentInfo{com.chooloo.www.koler/com.chooloo.www.koler.ui.main.MainActivity}" drawable="koler" />
 
 </resources>
