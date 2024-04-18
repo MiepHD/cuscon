@@ -4802,5 +4802,19 @@
     <item component="ComponentInfo{com.raouf.routerchef/com.raouf.routerchef.SplashScreen}" drawable="router_chef" />
     <item component="ComponentInfo{eu.kanade.tachiyomi/eu.kanade.tachiyomi.ui.main.MainActivity}" drawable="tachiyomi" />
     <item component="ComponentInfo{com.treydev.volume/com.zipoapps.premiumhelper.ui.splash.PHSplashActivity}" drawable="ultra_volume" />
+    <item component="ComponentInfo{com.agc.gcam_tools/com.agc.gcam_tools.MainActivity}" drawable="agc_toolkit" />
+    <item component="ComponentInfo{com.fampay.in/com.fampay.in.ui.splash.SplashActivity}" drawable="famapp" />
+    <item component="ComponentInfo{com.pikped.pikped/com.pikped.pikped.SplashScreenActivity}" drawable="pikped" />
+    <item component="ComponentInfo{com.linkbox.plus.android/com.linkbox.app.LauncherActivity}" drawable="telebox" />
+    <item component="ComponentInfo{com.agc.gcam91/com.android.camera.CameraLauncher}" drawable="agc_camera" />
+    <item component="ComponentInfo{com.radiotime.app/com.radiotime.app.ui.MainActivity}" drawable="fm_xradio" />
+    <item component="ComponentInfo{com.kfjhyq.khyxujm/com.bslyun.app.activity.MainActivity}" drawable="bajaj" />
+    <item component="ComponentInfo{com.heytap.headset/com.heytap.headset.component.startup.StartupActivity}" drawable="heymelody" />
+    <item component="ComponentInfo{com.JindoBlu.OfflineGames/com.unity3d.player.UnityPlayerActivity}" drawable="offline_games" />
+    <item component="ComponentInfo{org.telegram.plus/org.telegram.messenger.DefaultIcon}" drawable="plus" />
+    <item component="ComponentInfo{ani.saikou.beta/ani.saikou.MainActivity}" drawable="saikou_β" />
+    <item component="ComponentInfo{v.hylko/nYh.S.kt.yL}" drawable="super_su" />
+    <item component="ComponentInfo{com.pittvandewitt.wavelet/com.pittvandewitt.wavelet.MainActivity}" drawable="wavelet" />
+    <item component="ComponentInfo{org.chromium.webview_shell/org.chromium.webview_shell.WebViewBrowserActivity}" drawable="webview_browser_tester" />
 
 </resources>

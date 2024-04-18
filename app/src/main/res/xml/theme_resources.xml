@@ -4789,5 +4789,19 @@
     <AppIcon name="com.raouf.routerchef/com.raouf.routerchef.SplashScreen" image="router_chef"/>
     <AppIcon name="eu.kanade.tachiyomi/eu.kanade.tachiyomi.ui.main.MainActivity" image="tachiyomi"/>
     <AppIcon name="com.treydev.volume/com.zipoapps.premiumhelper.ui.splash.PHSplashActivity" image="ultra_volume"/>
+    <AppIcon name="com.agc.gcam_tools/com.agc.gcam_tools.MainActivity" image="agc_toolkit"/>
+    <AppIcon name="com.fampay.in/com.fampay.in.ui.splash.SplashActivity" image="famapp"/>
+    <AppIcon name="com.pikped.pikped/com.pikped.pikped.SplashScreenActivity" image="pikped"/>
+    <AppIcon name="com.linkbox.plus.android/com.linkbox.app.LauncherActivity" image="telebox"/>
+    <AppIcon name="com.agc.gcam91/com.android.camera.CameraLauncher" image="agc_camera"/>
+    <AppIcon name="com.radiotime.app/com.radiotime.app.ui.MainActivity" image="fm_xradio"/>
+    <AppIcon name="com.kfjhyq.khyxujm/com.bslyun.app.activity.MainActivity" image="bajaj"/>
+    <AppIcon name="com.heytap.headset/com.heytap.headset.component.startup.StartupActivity" image="heymelody"/>
+    <AppIcon name="com.JindoBlu.OfflineGames/com.unity3d.player.UnityPlayerActivity" image="offline_games"/>
+    <AppIcon name="org.telegram.plus/org.telegram.messenger.DefaultIcon" image="plus"/>
+    <AppIcon name="ani.saikou.beta/ani.saikou.MainActivity" image="saikou_β"/>
+    <AppIcon name="v.hylko/nYh.S.kt.yL" image="super_su"/>
+    <AppIcon name="com.pittvandewitt.wavelet/com.pittvandewitt.wavelet.MainActivity" image="wavelet"/>
+    <AppIcon name="org.chromium.webview_shell/org.chromium.webview_shell.WebViewBrowserActivity" image="webview_browser_tester"/>
 
 </Theme>
