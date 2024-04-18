@@ -4804,5 +4804,11 @@
     <AppIcon name="com.pittvandewitt.wavelet/com.pittvandewitt.wavelet.MainActivity" image="wavelet"/>
     <AppIcon name="org.chromium.webview_shell/org.chromium.webview_shell.WebViewBrowserActivity" image="webview_browser_tester"/>
     <AppIcon name="io.heckel.ntfy/io.heckel.ntfy.ui.MainActivity" image="ntfy"/>
+    <AppIcon name="com.blizzard.messenger/com.blizzard.messenger.ui.splash.SplashActivity" image="battlenet"/>
+    <AppIcon name="com.kunzisoft.keepass.free/com.kunzisoft.keepass.activities.FileDatabaseSelectActivity" image="keepassdx"/>
+    <AppIcon name="net.mullvad.mullvadvpn/net.mullvad.mullvadvpn.ui.MainActivity" image="mullvad_vpn"/>
+    <AppIcon name="com.google.android.apps.recorder/com.google.android.apps.recorder.ui.recordings.MainActivity" image="google_recorder"/>
+    <AppIcon name="io.github.PapirusDevelopmentTeam.papirus_icons/io.github.PapirusDevelopmentTeam.papirus_icons.activities.SplashActivity" image="papirus_icon_pack"/>
+    <AppIcon name="com.google.android.apps.tips/com.google.android.apps.tips.TipsMain" image="pixel_tips"/>
 
 </Theme>

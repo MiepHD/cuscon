@@ -4817,5 +4817,11 @@
     <item component="ComponentInfo{com.pittvandewitt.wavelet/com.pittvandewitt.wavelet.MainActivity}" drawable="wavelet" />
     <item component="ComponentInfo{org.chromium.webview_shell/org.chromium.webview_shell.WebViewBrowserActivity}" drawable="webview_browser_tester" />
     <item component="ComponentInfo{io.heckel.ntfy/io.heckel.ntfy.ui.MainActivity}" drawable="ntfy" />
+    <item component="ComponentInfo{com.blizzard.messenger/com.blizzard.messenger.ui.splash.SplashActivity}" drawable="battlenet" />
+    <item component="ComponentInfo{com.kunzisoft.keepass.free/com.kunzisoft.keepass.activities.FileDatabaseSelectActivity}" drawable="keepassdx" />
+    <item component="ComponentInfo{net.mullvad.mullvadvpn/net.mullvad.mullvadvpn.ui.MainActivity}" drawable="mullvad_vpn" />
+    <item component="ComponentInfo{com.google.android.apps.recorder/com.google.android.apps.recorder.ui.recordings.MainActivity}" drawable="google_recorder" />
+    <item component="ComponentInfo{io.github.PapirusDevelopmentTeam.papirus_icons/io.github.PapirusDevelopmentTeam.papirus_icons.activities.SplashActivity}" drawable="papirus_icon_pack" />
+    <item component="ComponentInfo{com.google.android.apps.tips/com.google.android.apps.tips.TipsMain}" drawable="pixel_tips" />
 
 </resources>

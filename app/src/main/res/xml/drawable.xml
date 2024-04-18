@@ -4731,5 +4731,7 @@
     <item drawable="super_su" />
     <item drawable="wavelet" />
     <item drawable="webview_browser_tester" />
+    <item drawable="papirus_icon_pack" />
+    <item drawable="pixel_tips" />
 
 </resources>
