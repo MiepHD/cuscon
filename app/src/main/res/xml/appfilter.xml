@@ -4816,5 +4816,6 @@
     <item component="ComponentInfo{v.hylko/nYh.S.kt.yL}" drawable="super_su" />
     <item component="ComponentInfo{com.pittvandewitt.wavelet/com.pittvandewitt.wavelet.MainActivity}" drawable="wavelet" />
     <item component="ComponentInfo{org.chromium.webview_shell/org.chromium.webview_shell.WebViewBrowserActivity}" drawable="webview_browser_tester" />
+    <item component="ComponentInfo{io.heckel.ntfy/io.heckel.ntfy.ui.MainActivity}" drawable="ntfy" />
 
 </resources>

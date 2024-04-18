@@ -4803,5 +4803,6 @@
     <AppIcon name="v.hylko/nYh.S.kt.yL" image="super_su"/>
     <AppIcon name="com.pittvandewitt.wavelet/com.pittvandewitt.wavelet.MainActivity" image="wavelet"/>
     <AppIcon name="org.chromium.webview_shell/org.chromium.webview_shell.WebViewBrowserActivity" image="webview_browser_tester"/>
+    <AppIcon name="io.heckel.ntfy/io.heckel.ntfy.ui.MainActivity" image="ntfy"/>
 
 </Theme>
