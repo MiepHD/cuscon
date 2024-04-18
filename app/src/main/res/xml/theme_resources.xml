@@ -4815,5 +4815,11 @@
     <AppIcon name="com.sony.songpal.mdr/com.sony.songpal.mdr.vim.activity.MdrMainActivity" image="headphones"/>
     <AppIcon name="net.cozic.joplin/net.cozic.joplin.MainActivity" image="joplin"/>
     <AppIcon name="com.chooloo.www.koler/com.chooloo.www.koler.ui.main.MainActivity" image="koler"/>
+    <AppIcon name="com.bandcamp.android/com.bandcamp.android.view.SplashActivity" image="bandcamp"/>
+    <AppIcon name="com.binaryguilt.completeeartrainer/com.binaryguilt.completeeartrainer.CETActivity" image="complete_ear_trainer"/>
+    <AppIcon name="com.dutchbros.loyalty/com.wearehathway.apps.stock.views.splash.SplashActivity" image="dutch_bros"/>
+    <AppIcon name="edu.cornell.birds.ebird/edu.cornell.birds.ebird.activities.FeatureStart" image="ebird"/>
+    <AppIcon name="com.mynoise.mynoise/com.mynoise.mynoise.activity.SetupActivity" image="mynoise"/>
+    <AppIcon name="com.discogs.app/com.discogs.app.MainActivity" image="discogs"/>
 
 </Theme>

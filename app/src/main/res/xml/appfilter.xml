@@ -4828,5 +4828,11 @@
     <item component="ComponentInfo{com.sony.songpal.mdr/com.sony.songpal.mdr.vim.activity.MdrMainActivity}" drawable="headphones" />
     <item component="ComponentInfo{net.cozic.joplin/net.cozic.joplin.MainActivity}" drawable="joplin" />
     <item component="ComponentInfo{com.chooloo.www.koler/com.chooloo.www.koler.ui.main.MainActivity}" drawable="koler" />
+    <item component="ComponentInfo{com.bandcamp.android/com.bandcamp.android.view.SplashActivity}" drawable="bandcamp" />
+    <item component="ComponentInfo{com.binaryguilt.completeeartrainer/com.binaryguilt.completeeartrainer.CETActivity}" drawable="complete_ear_trainer" />
+    <item component="ComponentInfo{com.dutchbros.loyalty/com.wearehathway.apps.stock.views.splash.SplashActivity}" drawable="dutch_bros" />
+    <item component="ComponentInfo{edu.cornell.birds.ebird/edu.cornell.birds.ebird.activities.FeatureStart}" drawable="ebird" />
+    <item component="ComponentInfo{com.mynoise.mynoise/com.mynoise.mynoise.activity.SetupActivity}" drawable="mynoise" />
+    <item component="ComponentInfo{com.discogs.app/com.discogs.app.MainActivity}" drawable="discogs" />
 
 </resources>

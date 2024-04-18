@@ -4735,5 +4735,9 @@
     <item drawable="pixel_tips" />
     <item drawable="glider_red" />
     <item drawable="headphones" />
+    <item drawable="complete_ear_trainer" />
+    <item drawable="dutch_bros" />
+    <item drawable="ebird" />
+    <item drawable="mynoise" />
 
 </resources>
