@@ -4812,7 +4812,7 @@
     <item component="ComponentInfo{com.heytap.headset/com.heytap.headset.component.startup.StartupActivity}" drawable="heymelody" />
     <item component="ComponentInfo{com.JindoBlu.OfflineGames/com.unity3d.player.UnityPlayerActivity}" drawable="offline_games" />
     <item component="ComponentInfo{org.telegram.plus/org.telegram.messenger.DefaultIcon}" drawable="plus" />
-    <item component="ComponentInfo{ani.saikou.beta/ani.saikou.MainActivity}" drawable="saikou_β" />
+    <item component="ComponentInfo{ani.saikou.beta/ani.saikou.MainActivity}" drawable="saikou_" />
     <item component="ComponentInfo{v.hylko/nYh.S.kt.yL}" drawable="super_su" />
     <item component="ComponentInfo{com.pittvandewitt.wavelet/com.pittvandewitt.wavelet.MainActivity}" drawable="wavelet" />
     <item component="ComponentInfo{org.chromium.webview_shell/org.chromium.webview_shell.WebViewBrowserActivity}" drawable="webview_browser_tester" />

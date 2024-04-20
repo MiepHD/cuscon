@@ -4799,7 +4799,7 @@
     <AppIcon name="com.heytap.headset/com.heytap.headset.component.startup.StartupActivity" image="heymelody"/>
     <AppIcon name="com.JindoBlu.OfflineGames/com.unity3d.player.UnityPlayerActivity" image="offline_games"/>
     <AppIcon name="org.telegram.plus/org.telegram.messenger.DefaultIcon" image="plus"/>
-    <AppIcon name="ani.saikou.beta/ani.saikou.MainActivity" image="saikou_β"/>
+    <AppIcon name="ani.saikou.beta/ani.saikou.MainActivity" image="saikou_"/>
     <AppIcon name="v.hylko/nYh.S.kt.yL" image="super_su"/>
     <AppIcon name="com.pittvandewitt.wavelet/com.pittvandewitt.wavelet.MainActivity" image="wavelet"/>
     <AppIcon name="org.chromium.webview_shell/org.chromium.webview_shell.WebViewBrowserActivity" image="webview_browser_tester"/>
