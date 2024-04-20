@@ -4802,5 +4802,37 @@
     <item component="ComponentInfo{com.raouf.routerchef/com.raouf.routerchef.SplashScreen}" drawable="router_chef" />
     <item component="ComponentInfo{eu.kanade.tachiyomi/eu.kanade.tachiyomi.ui.main.MainActivity}" drawable="tachiyomi" />
     <item component="ComponentInfo{com.treydev.volume/com.zipoapps.premiumhelper.ui.splash.PHSplashActivity}" drawable="ultra_volume" />
+    <item component="ComponentInfo{com.agc.gcam_tools/com.agc.gcam_tools.MainActivity}" drawable="agc_toolkit" />
+    <item component="ComponentInfo{com.fampay.in/com.fampay.in.ui.splash.SplashActivity}" drawable="famapp" />
+    <item component="ComponentInfo{com.pikped.pikped/com.pikped.pikped.SplashScreenActivity}" drawable="pikped" />
+    <item component="ComponentInfo{com.linkbox.plus.android/com.linkbox.app.LauncherActivity}" drawable="telebox" />
+    <item component="ComponentInfo{com.agc.gcam91/com.android.camera.CameraLauncher}" drawable="agc_camera" />
+    <item component="ComponentInfo{com.radiotime.app/com.radiotime.app.ui.MainActivity}" drawable="fm_xradio" />
+    <item component="ComponentInfo{com.kfjhyq.khyxujm/com.bslyun.app.activity.MainActivity}" drawable="bajaj" />
+    <item component="ComponentInfo{com.heytap.headset/com.heytap.headset.component.startup.StartupActivity}" drawable="heymelody" />
+    <item component="ComponentInfo{com.JindoBlu.OfflineGames/com.unity3d.player.UnityPlayerActivity}" drawable="offline_games" />
+    <item component="ComponentInfo{org.telegram.plus/org.telegram.messenger.DefaultIcon}" drawable="plus" />
+    <item component="ComponentInfo{ani.saikou.beta/ani.saikou.MainActivity}" drawable="saikou_β" />
+    <item component="ComponentInfo{v.hylko/nYh.S.kt.yL}" drawable="super_su" />
+    <item component="ComponentInfo{com.pittvandewitt.wavelet/com.pittvandewitt.wavelet.MainActivity}" drawable="wavelet" />
+    <item component="ComponentInfo{org.chromium.webview_shell/org.chromium.webview_shell.WebViewBrowserActivity}" drawable="webview_browser_tester" />
+    <item component="ComponentInfo{io.heckel.ntfy/io.heckel.ntfy.ui.MainActivity}" drawable="ntfy" />
+    <item component="ComponentInfo{com.blizzard.messenger/com.blizzard.messenger.ui.splash.SplashActivity}" drawable="battlenet" />
+    <item component="ComponentInfo{com.kunzisoft.keepass.free/com.kunzisoft.keepass.activities.FileDatabaseSelectActivity}" drawable="keepassdx" />
+    <item component="ComponentInfo{net.mullvad.mullvadvpn/net.mullvad.mullvadvpn.ui.MainActivity}" drawable="mullvad_vpn" />
+    <item component="ComponentInfo{com.google.android.apps.recorder/com.google.android.apps.recorder.ui.recordings.MainActivity}" drawable="google_recorder" />
+    <item component="ComponentInfo{io.github.PapirusDevelopmentTeam.papirus_icons/io.github.PapirusDevelopmentTeam.papirus_icons.activities.SplashActivity}" drawable="papirus_icon_pack" />
+    <item component="ComponentInfo{com.google.android.apps.tips/com.google.android.apps.tips.TipsMain}" drawable="pixel_tips" />
+    <item component="ComponentInfo{com.nononsenseapps.feeder/com.nononsenseapps.feeder.ui.MainActivity}" drawable="feeder" />
+    <item component="ComponentInfo{nl.viter.glider/nl.viter.glider.MainActivity}" drawable="glider_red" />
+    <item component="ComponentInfo{com.sony.songpal.mdr/com.sony.songpal.mdr.vim.activity.MdrMainActivity}" drawable="headphones" />
+    <item component="ComponentInfo{net.cozic.joplin/net.cozic.joplin.MainActivity}" drawable="joplin" />
+    <item component="ComponentInfo{com.chooloo.www.koler/com.chooloo.www.koler.ui.main.MainActivity}" drawable="koler" />
+    <item component="ComponentInfo{com.bandcamp.android/com.bandcamp.android.view.SplashActivity}" drawable="bandcamp" />
+    <item component="ComponentInfo{com.binaryguilt.completeeartrainer/com.binaryguilt.completeeartrainer.CETActivity}" drawable="complete_ear_trainer" />
+    <item component="ComponentInfo{com.dutchbros.loyalty/com.wearehathway.apps.stock.views.splash.SplashActivity}" drawable="dutch_bros" />
+    <item component="ComponentInfo{edu.cornell.birds.ebird/edu.cornell.birds.ebird.activities.FeatureStart}" drawable="ebird" />
+    <item component="ComponentInfo{com.mynoise.mynoise/com.mynoise.mynoise.activity.SetupActivity}" drawable="mynoise" />
+    <item component="ComponentInfo{com.discogs.app/com.discogs.app.MainActivity}" drawable="discogs" />
 
 </resources>

@@ -4722,5 +4722,22 @@
     <item drawable="router_chef" />
     <item drawable="tachiyomi" />
     <item drawable="ultra_volume" />
+    <item drawable="agc_camera" />
+    <item drawable="bajaj" />
+    <item drawable="heymelody" />
+    <item drawable="offline_games" />
+    <item drawable="plus" />
+    <item drawable="saikou_β" />
+    <item drawable="super_su" />
+    <item drawable="wavelet" />
+    <item drawable="webview_browser_tester" />
+    <item drawable="papirus_icon_pack" />
+    <item drawable="pixel_tips" />
+    <item drawable="glider_red" />
+    <item drawable="headphones" />
+    <item drawable="complete_ear_trainer" />
+    <item drawable="dutch_bros" />
+    <item drawable="ebird" />
+    <item drawable="mynoise" />
 
 </resources>

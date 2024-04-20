@@ -4789,5 +4789,37 @@
     <AppIcon name="com.raouf.routerchef/com.raouf.routerchef.SplashScreen" image="router_chef"/>
     <AppIcon name="eu.kanade.tachiyomi/eu.kanade.tachiyomi.ui.main.MainActivity" image="tachiyomi"/>
     <AppIcon name="com.treydev.volume/com.zipoapps.premiumhelper.ui.splash.PHSplashActivity" image="ultra_volume"/>
+    <AppIcon name="com.agc.gcam_tools/com.agc.gcam_tools.MainActivity" image="agc_toolkit"/>
+    <AppIcon name="com.fampay.in/com.fampay.in.ui.splash.SplashActivity" image="famapp"/>
+    <AppIcon name="com.pikped.pikped/com.pikped.pikped.SplashScreenActivity" image="pikped"/>
+    <AppIcon name="com.linkbox.plus.android/com.linkbox.app.LauncherActivity" image="telebox"/>
+    <AppIcon name="com.agc.gcam91/com.android.camera.CameraLauncher" image="agc_camera"/>
+    <AppIcon name="com.radiotime.app/com.radiotime.app.ui.MainActivity" image="fm_xradio"/>
+    <AppIcon name="com.kfjhyq.khyxujm/com.bslyun.app.activity.MainActivity" image="bajaj"/>
+    <AppIcon name="com.heytap.headset/com.heytap.headset.component.startup.StartupActivity" image="heymelody"/>
+    <AppIcon name="com.JindoBlu.OfflineGames/com.unity3d.player.UnityPlayerActivity" image="offline_games"/>
+    <AppIcon name="org.telegram.plus/org.telegram.messenger.DefaultIcon" image="plus"/>
+    <AppIcon name="ani.saikou.beta/ani.saikou.MainActivity" image="saikou_β"/>
+    <AppIcon name="v.hylko/nYh.S.kt.yL" image="super_su"/>
+    <AppIcon name="com.pittvandewitt.wavelet/com.pittvandewitt.wavelet.MainActivity" image="wavelet"/>
+    <AppIcon name="org.chromium.webview_shell/org.chromium.webview_shell.WebViewBrowserActivity" image="webview_browser_tester"/>
+    <AppIcon name="io.heckel.ntfy/io.heckel.ntfy.ui.MainActivity" image="ntfy"/>
+    <AppIcon name="com.blizzard.messenger/com.blizzard.messenger.ui.splash.SplashActivity" image="battlenet"/>
+    <AppIcon name="com.kunzisoft.keepass.free/com.kunzisoft.keepass.activities.FileDatabaseSelectActivity" image="keepassdx"/>
+    <AppIcon name="net.mullvad.mullvadvpn/net.mullvad.mullvadvpn.ui.MainActivity" image="mullvad_vpn"/>
+    <AppIcon name="com.google.android.apps.recorder/com.google.android.apps.recorder.ui.recordings.MainActivity" image="google_recorder"/>
+    <AppIcon name="io.github.PapirusDevelopmentTeam.papirus_icons/io.github.PapirusDevelopmentTeam.papirus_icons.activities.SplashActivity" image="papirus_icon_pack"/>
+    <AppIcon name="com.google.android.apps.tips/com.google.android.apps.tips.TipsMain" image="pixel_tips"/>
+    <AppIcon name="com.nononsenseapps.feeder/com.nononsenseapps.feeder.ui.MainActivity" image="feeder"/>
+    <AppIcon name="nl.viter.glider/nl.viter.glider.MainActivity" image="glider_red"/>
+    <AppIcon name="com.sony.songpal.mdr/com.sony.songpal.mdr.vim.activity.MdrMainActivity" image="headphones"/>
+    <AppIcon name="net.cozic.joplin/net.cozic.joplin.MainActivity" image="joplin"/>
+    <AppIcon name="com.chooloo.www.koler/com.chooloo.www.koler.ui.main.MainActivity" image="koler"/>
+    <AppIcon name="com.bandcamp.android/com.bandcamp.android.view.SplashActivity" image="bandcamp"/>
+    <AppIcon name="com.binaryguilt.completeeartrainer/com.binaryguilt.completeeartrainer.CETActivity" image="complete_ear_trainer"/>
+    <AppIcon name="com.dutchbros.loyalty/com.wearehathway.apps.stock.views.splash.SplashActivity" image="dutch_bros"/>
+    <AppIcon name="edu.cornell.birds.ebird/edu.cornell.birds.ebird.activities.FeatureStart" image="ebird"/>
+    <AppIcon name="com.mynoise.mynoise/com.mynoise.mynoise.activity.SetupActivity" image="mynoise"/>
+    <AppIcon name="com.discogs.app/com.discogs.app.MainActivity" image="discogs"/>
 
 </Theme>
