@@ -31,6 +31,7 @@ if (len(sys.argv) > 1):
                 print("Deleting " + file)
                 os.remove("get/" + file + ".png")
 else:
+    print("Already added:")
     print(appfilter)
     print("Conflicts:")
     print(conflict)
