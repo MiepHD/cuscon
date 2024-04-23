@@ -50,7 +50,7 @@ How-To:
                 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Get the details of the icon with `python ../f.py <filename>~<filename in app>` and add the data under `theme_resources` and `appfilter` to `app/src/main/res/xml/theme_resources.xml` and `app/src/main/res/xml/appfilter.xml`<br>
            &nbsp;&nbsp;&nbsp;B) the icon isn't added under another name:<br>
                 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Replace the file with your edited version. Get the details of the icon with `python ../f.py <filename>`. Then read the details under Appfilter like `region.author.abc/`. From this info think of a filename like `author_abc` and an incremental number if neccessary. Rename the icon to the unique name. Then proceed at 4. but run `python ../f.py <filename>~<newname>` instead of step 9. .<br>
-      c) You can don't want to handle these:<br>
+      c) If you don't want to handle these:<br>
            &nbsp;&nbsp;&nbsp;Use `python ../e.py -rmcon` to delete all conflicts
 4. Edit the icons so they match the criteria (Requirements for contributing icons)
 5. Put them into a subfolder called `get`
