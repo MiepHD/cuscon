@@ -4826,5 +4826,7 @@
     <AppIcon name="com.donnnno.arcticons.you/com.donnnno.arcticons.activities.MainActivity" image="arcticons_material_you"/>
     <AppIcon name="ch.protonmail.android/ch.protonmail.android.MainActivity" image="proton_mail"/>
     <AppIcon name="com.server.auditor.ssh.client/com.server.auditor.ssh.client.navigation.SplashScreenActivity" image="termius"/>
+    <AppIcon name="air.com.unit9.bkFrApp/air.com.unit9.bkFrApp.MainActivity" image="burger_king_fr"/>
+    <AppIcon name="com.deliveroo.orderapp/com.deliveroo.orderapp.appicon.plus" image="deliveroo_plus"/>
 
 </Theme>
