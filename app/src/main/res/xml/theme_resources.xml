@@ -4821,5 +4821,10 @@
     <AppIcon name="edu.cornell.birds.ebird/edu.cornell.birds.ebird.activities.FeatureStart" image="ebird"/>
     <AppIcon name="com.mynoise.mynoise/com.mynoise.mynoise.activity.SetupActivity" image="mynoise"/>
     <AppIcon name="com.discogs.app/com.discogs.app.MainActivity" image="discogs"/>
+    <AppIcon name="com.donnnno.arcticons/com.donnnno.arcticons.activities.MainActivity" image="arcticons"/>
+    <AppIcon name="com.donnnno.arcticons.light/com.donnnno.arcticons.activities.MainActivity" image="arcticons_black"/>
+    <AppIcon name="com.donnnno.arcticons.you/com.donnnno.arcticons.activities.MainActivity" image="arcticons_material_you"/>
+    <AppIcon name="ch.protonmail.android/ch.protonmail.android.MainActivity" image="proton_mail"/>
+    <AppIcon name="com.server.auditor.ssh.client/com.server.auditor.ssh.client.navigation.SplashScreenActivity" image="termius"/>
 
 </Theme>
