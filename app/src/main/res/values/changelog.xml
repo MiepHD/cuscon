@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="changelog_date">18.4.2024</string>
+    <string name="changelog_date">23.4.2024</string>
     <string-array name="changelog">
         <item>4.0.2.1:</item>
         <item>Updated Arcticons, Arcticons Black, Arcticons Material You, Proton Mail, Termius</item>
