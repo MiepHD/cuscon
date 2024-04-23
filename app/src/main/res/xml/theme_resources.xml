@@ -4828,5 +4828,45 @@
     <AppIcon name="com.server.auditor.ssh.client/com.server.auditor.ssh.client.navigation.SplashScreenActivity" image="termius"/>
     <AppIcon name="air.com.unit9.bkFrApp/air.com.unit9.bkFrApp.MainActivity" image="burger_king_fr"/>
     <AppIcon name="com.deliveroo.orderapp/com.deliveroo.orderapp.appicon.plus" image="deliveroo_plus"/>
+    <AppIcon name="com.inwebo.near.prod/com.inwebo.near.prod.MainActivity" image="authenticator_6"/>
+    <AppIcon name="kr.co.vcnc.android.couple/kr.co.vcnc.android.couple.feature.LaunchActivity" image="between"/>
+    <AppIcon name="com.fabernovel.ratp/fr.ratp.app.android.startup.ui.EntryPointActivity" image="bonjour_ratp"/>
+    <AppIcon name="com.boursorama.android.clients/android.app.src.main.kotlin.com.boursorama.android.clients.MainActivity" image="boursobank"/>
+    <AppIcon name="fr.cnaf.mobile.moncompte/fr.cnaf.mobile.moncompte.MainActivity" image="caf"/>
+    <AppIcon name="com.carrefour.fid.android/com.carrefour.fid.android.presentation.ui.splash.SplashActivity" image="carrefour"/>
+    <AppIcon name="fr.cnamts.it.activity/fr.cnamts.it.activity.LoginActivity" image="compte_ameli"/>
+    <AppIcon name="com.laposte.bnum.digiposteplus/com.laposte.bnum.digiposteplus.feature.splashscreen.SplashscreenActivity" image="digiposte"/>
+    <AppIcon name="fr.gouv.franceidentite/fr.gouv.franceidentite.activities.MainActivity" image="france_identite"/>
+    <AppIcon name="fr.freebox.network/networkapp.presentation.main.ui.MainActivity" image="freebox_connect"/>
+    <AppIcon name="fr.free.moncomptefree/com.android.free.main.MainActivity" image="freebox_espace_abonne"/>
+    <AppIcon name="fr.freebox.download/downloadapp.presentation.main.ui.MainActivity" image="freebox_files"/>
+    <AppIcon name="com.amobilefuture.freemobilefree/com.amobilefuture.freemobilefree.MainActivity" image="freemobile"/>
+    <AppIcon name="fr.henner/com.ekino.henner.fr.activities.SplashActivity" image="henner_"/>
+    <AppIcon name="com.applidium.vianavigo/com.applidium.vianavigo.views.MainVianavigo" image="idf_mobilites"/>
+    <AppIcon name="fr.gouv.finances.smartphone.android/fr.gouv.finances.smartphone.android.MainActivity" image="impotsgouv"/>
+    <AppIcon name="com.appscho.appschov2.ipp/com.appscho.appscho.presentation.PublicActivity" image="ipp"/>
+    <AppIcon name="com.babelfrance.loueragile/com.babelfrance.loueragile.MainActivity" image="jinka"/>
+    <AppIcon name="com.como.prod990020231129/com.como.prod990020231129.MainActivity" image="krispy_kreme"/>
+    <AppIcon name="fr.laposte.idn/fr.laposte.idn.entrypoints.LauncherEntrypoint" image="lidentite_numerique"/>
+    <AppIcon name="health.livi.android/se.kry.android.kotlin.launch.LauncherActivity" image="livi"/>
+    <AppIcon name="com.malt.app/com.malt.app.ui.home.MainActivity" image="malt"/>
+    <AppIcon name="com.md.mcdonalds.gomcdo/fr.unifymcd.mcdplus.ui.MainActivity" image="mcdo_"/>
+    <AppIcon name="fr.freemobile.android.vvm/fr.freemobile.android.vvm.customui.launchscreens.FirstLaunchActivity" image="messagerie_free"/>
+    <AppIcon name="com.worldline.wallet/com.worldline.wallet.ui.activity.MainActivity" image="mes_tickets_navigo"/>
+    <AppIcon name="com.nothing.weather/com.nothing.weather.ui.main.MainActivity" image="meteo"/>
+    <AppIcon name="com.jeslabs.moneweb/com.jeslabs.moneweb.MainActivity" image="moneweb"/>
+    <AppIcon name="fr.icdc.sl6.app/fr.icdc.sl6.app.MainActivity" image="mon_cpf"/>
+    <AppIcon name="com.amundi_ee.monEpargne/com.amundi_ee.monEpargne.MainActivity" image="mon_epargne"/>
+    <AppIcon name="com.orangebank.android/com.orangebank.authentication.ui.login.LoginActivity" image="orange_bank"/>
+    <AppIcon name="com.duns.padiapp/com.duns.padiapp.presentation.SplashActivity" image="padi"/>
+    <AppIcon name="tv.parsec.client/tv.parsec.client.MainActivity" image="parsec"/>
+    <AppIcon name="com.microblink.photomath/com.microblink.photomath.main.activity.LauncherActivity" image="photomath"/>
+    <AppIcon name="com.karmamobile/com.karmamobile.SplashActivity" image="qare"/>
+    <AppIcon name="com.google.android.inputmethod.pinyin/com.google.android.apps.inputmethod.libs.framework.core.LauncherActivity" image="saisie_google_en_pinyin"/>
+    <AppIcon name="com.google.android.apps.inputmethod.zhuyin/com.google.android.apps.inputmethod.libs.framework.core.LauncherActivity" image="saisie_google_en_zhuyin"/>
+    <AppIcon name="com.seloger.android/com.seloger.android.features.splash.LaunchScreenActivity" image="seloger"/>
+    <AppIcon name="com.lafourchette.lafourchette/com.fork.android.app.launch.LaunchActivity" image="thefork"/>
+    <AppIcon name="air.ugc.fr.ugcdirect/com.ugc.MainActivity" image="ugc"/>
+    <AppIcon name="com.zimbra.modernapp/com.zimbra.modernapp.MainActivity" image="zimbra"/>
 
 </Theme>
