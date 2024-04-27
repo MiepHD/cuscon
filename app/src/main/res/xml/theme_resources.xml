@@ -4868,5 +4868,12 @@
     <AppIcon name="com.lafourchette.lafourchette/com.fork.android.app.launch.LaunchActivity" image="thefork"/>
     <AppIcon name="air.ugc.fr.ugcdirect/com.ugc.MainActivity" image="ugc"/>
     <AppIcon name="com.zimbra.modernapp/com.zimbra.modernapp.MainActivity" image="zimbra"/>
+    <AppIcon name="com.andropenoffice/aoo.android.TopActivity" image="andropen_office"/>
+    <AppIcon name="com.documentreader.filereader.documenteditor/com.documentreader.filereader.documentedit.screens.activities.SplashActivity" image="document_reader"/>
+    <AppIcon name="com.document.viewer.doc.reader/com.document.viewer.doc.reader.activity.NewSplashScreen" image="document_viewer"/>
+    <AppIcon name="com.docx.reader.word.docx.document.office.free.viewer/com.trustedapp.pdfreader.view.activity.SplashActivity" image="docxreader"/>
+    <AppIcon name="documentreader.officeapp.pdfreader.wordreader.excelviewer.filereader/com.document_reader.views.activities.SplashActivity" image="lector_de_documentos_documentreader_officeapp_pdfreader_wordreader_excelviewer_filereader"/>
+    <AppIcon name="pdf.pdfreader.viewer.editor.free/pdf.pdfreader.viewer.editor.free.ReaderLauncherBridgeActivity" image="lector_de_pdf_pdfreader_viewer_editor_free"/>
+    <AppIcon name="com.xdev.docxreader.docx.docxviewer.document.doc.office.viewer.reader.word/com.rpdev.docreadermain.SplashActivity" image="pdf_viewer_plus_xdev"/>
 
 </Theme>

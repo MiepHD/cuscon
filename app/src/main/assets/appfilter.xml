@@ -4839,5 +4839,47 @@
     <item component="ComponentInfo{com.donnnno.arcticons.you/com.donnnno.arcticons.activities.MainActivity}" drawable="arcticons_material_you" />
     <item component="ComponentInfo{ch.protonmail.android/ch.protonmail.android.MainActivity}" drawable="proton_mail" />
     <item component="ComponentInfo{com.server.auditor.ssh.client/com.server.auditor.ssh.client.navigation.SplashScreenActivity}" drawable="termius" />
+    <item component="ComponentInfo{air.com.unit9.bkFrApp/air.com.unit9.bkFrApp.MainActivity}" drawable="burger_king_fr" />
+    <item component="ComponentInfo{com.deliveroo.orderapp/com.deliveroo.orderapp.appicon.plus}" drawable="deliveroo_plus" />
+    <item component="ComponentInfo{com.inwebo.near.prod/com.inwebo.near.prod.MainActivity}" drawable="authenticator_6" />
+    <item component="ComponentInfo{kr.co.vcnc.android.couple/kr.co.vcnc.android.couple.feature.LaunchActivity}" drawable="between" />
+    <item component="ComponentInfo{com.fabernovel.ratp/fr.ratp.app.android.startup.ui.EntryPointActivity}" drawable="bonjour_ratp" />
+    <item component="ComponentInfo{com.boursorama.android.clients/android.app.src.main.kotlin.com.boursorama.android.clients.MainActivity}" drawable="boursobank" />
+    <item component="ComponentInfo{fr.cnaf.mobile.moncompte/fr.cnaf.mobile.moncompte.MainActivity}" drawable="caf" />
+    <item component="ComponentInfo{com.carrefour.fid.android/com.carrefour.fid.android.presentation.ui.splash.SplashActivity}" drawable="carrefour" />
+    <item component="ComponentInfo{fr.cnamts.it.activity/fr.cnamts.it.activity.LoginActivity}" drawable="compte_ameli" />
+    <item component="ComponentInfo{com.laposte.bnum.digiposteplus/com.laposte.bnum.digiposteplus.feature.splashscreen.SplashscreenActivity}" drawable="digiposte" />
+    <item component="ComponentInfo{fr.gouv.franceidentite/fr.gouv.franceidentite.activities.MainActivity}" drawable="france_identite" />
+    <item component="ComponentInfo{fr.freebox.network/networkapp.presentation.main.ui.MainActivity}" drawable="freebox_connect" />
+    <item component="ComponentInfo{fr.free.moncomptefree/com.android.free.main.MainActivity}" drawable="freebox_espace_abonne" />
+    <item component="ComponentInfo{fr.freebox.download/downloadapp.presentation.main.ui.MainActivity}" drawable="freebox_files" />
+    <item component="ComponentInfo{com.amobilefuture.freemobilefree/com.amobilefuture.freemobilefree.MainActivity}" drawable="freemobile" />
+    <item component="ComponentInfo{fr.henner/com.ekino.henner.fr.activities.SplashActivity}" drawable="henner_" />
+    <item component="ComponentInfo{com.applidium.vianavigo/com.applidium.vianavigo.views.MainVianavigo}" drawable="idf_mobilites" />
+    <item component="ComponentInfo{fr.gouv.finances.smartphone.android/fr.gouv.finances.smartphone.android.MainActivity}" drawable="impotsgouv" />
+    <item component="ComponentInfo{com.appscho.appschov2.ipp/com.appscho.appscho.presentation.PublicActivity}" drawable="ipp" />
+    <item component="ComponentInfo{com.babelfrance.loueragile/com.babelfrance.loueragile.MainActivity}" drawable="jinka" />
+    <item component="ComponentInfo{com.como.prod990020231129/com.como.prod990020231129.MainActivity}" drawable="krispy_kreme" />
+    <item component="ComponentInfo{fr.laposte.idn/fr.laposte.idn.entrypoints.LauncherEntrypoint}" drawable="lidentite_numerique" />
+    <item component="ComponentInfo{health.livi.android/se.kry.android.kotlin.launch.LauncherActivity}" drawable="livi" />
+    <item component="ComponentInfo{com.malt.app/com.malt.app.ui.home.MainActivity}" drawable="malt" />
+    <item component="ComponentInfo{com.md.mcdonalds.gomcdo/fr.unifymcd.mcdplus.ui.MainActivity}" drawable="mcdo_" />
+    <item component="ComponentInfo{fr.freemobile.android.vvm/fr.freemobile.android.vvm.customui.launchscreens.FirstLaunchActivity}" drawable="messagerie_free" />
+    <item component="ComponentInfo{com.worldline.wallet/com.worldline.wallet.ui.activity.MainActivity}" drawable="mes_tickets_navigo" />
+    <item component="ComponentInfo{com.nothing.weather/com.nothing.weather.ui.main.MainActivity}" drawable="meteo" />
+    <item component="ComponentInfo{com.jeslabs.moneweb/com.jeslabs.moneweb.MainActivity}" drawable="moneweb" />
+    <item component="ComponentInfo{fr.icdc.sl6.app/fr.icdc.sl6.app.MainActivity}" drawable="mon_cpf" />
+    <item component="ComponentInfo{com.amundi_ee.monEpargne/com.amundi_ee.monEpargne.MainActivity}" drawable="mon_epargne" />
+    <item component="ComponentInfo{com.orangebank.android/com.orangebank.authentication.ui.login.LoginActivity}" drawable="orange_bank" />
+    <item component="ComponentInfo{com.duns.padiapp/com.duns.padiapp.presentation.SplashActivity}" drawable="padi" />
+    <item component="ComponentInfo{tv.parsec.client/tv.parsec.client.MainActivity}" drawable="parsec" />
+    <item component="ComponentInfo{com.microblink.photomath/com.microblink.photomath.main.activity.LauncherActivity}" drawable="photomath" />
+    <item component="ComponentInfo{com.karmamobile/com.karmamobile.SplashActivity}" drawable="qare" />
+    <item component="ComponentInfo{com.google.android.inputmethod.pinyin/com.google.android.apps.inputmethod.libs.framework.core.LauncherActivity}" drawable="saisie_google_en_pinyin" />        
+    <item component="ComponentInfo{com.google.android.apps.inputmethod.zhuyin/com.google.android.apps.inputmethod.libs.framework.core.LauncherActivity}" drawable="saisie_google_en_zhuyin" />   
+    <item component="ComponentInfo{com.seloger.android/com.seloger.android.features.splash.LaunchScreenActivity}" drawable="seloger" />
+    <item component="ComponentInfo{com.lafourchette.lafourchette/com.fork.android.app.launch.LaunchActivity}" drawable="thefork" />
+    <item component="ComponentInfo{air.ugc.fr.ugcdirect/com.ugc.MainActivity}" drawable="ugc" />
+    <item component="ComponentInfo{com.zimbra.modernapp/com.zimbra.modernapp.MainActivity}" drawable="zimbra" />
 
 </resources>
