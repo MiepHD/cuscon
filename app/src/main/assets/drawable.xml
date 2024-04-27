@@ -4781,5 +4781,14 @@
     <item drawable="thefork" />
     <item drawable="ugc" />
     <item drawable="zimbra" />
+    <item drawable="andropen_office" />
+    <item drawable="documentreader_pdfviewerapp_filereader_word_docs" />
+    <item drawable="document_reader" />
+    <item drawable="document_viewer" />
+    <item drawable="docxreader" />
+    <item drawable="lector_de_documentos_documentreader_officeapp_pdfreader_wordreader_excelviewer_filereader" />
+    <item drawable="lector_de_pdf_pdfreader_viewer_editor_free" />
+    <item drawable="pdf_viewer_plus_xdev" />
+    <item drawable="visor_de_documentos" />
 
 </resources>

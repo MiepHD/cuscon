@@ -4881,5 +4881,14 @@
     <item component="ComponentInfo{com.lafourchette.lafourchette/com.fork.android.app.launch.LaunchActivity}" drawable="thefork" />
     <item component="ComponentInfo{air.ugc.fr.ugcdirect/com.ugc.MainActivity}" drawable="ugc" />
     <item component="ComponentInfo{com.zimbra.modernapp/com.zimbra.modernapp.MainActivity}" drawable="zimbra" />
+    <item component="ComponentInfo{com.andropenoffice/aoo.android.TopActivity}" drawable="andropen_office" />
+    <item component="ComponentInfo{documentreader.pdfviewerapp.filereader.word.docs/arr.pdfreader.documentreader.view.splash.SplashActivity}" drawable="documentreader_pdfviewerapp_filereader_word_docs" />
+    <item component="ComponentInfo{com.documentreader.filereader.documenteditor/com.documentreader.filereader.documentedit.screens.activities.SplashActivity}" drawable="document_reader" />
+    <item component="ComponentInfo{com.document.viewer.doc.reader/com.document.viewer.doc.reader.activity.NewSplashScreen}" drawable="document_viewer" />
+    <item component="ComponentInfo{com.docx.reader.word.docx.document.office.free.viewer/com.trustedapp.pdfreader.view.activity.SplashActivity}" drawable="docxreader" />
+    <item component="ComponentInfo{documentreader.officeapp.pdfreader.wordreader.excelviewer.filereader/com.document_reader.views.activities.SplashActivity}" drawable="lector_de_documentos_documentreader_officeapp_pdfreader_wordreader_excelviewer_filereader" />
+    <item component="ComponentInfo{pdf.pdfreader.viewer.editor.free/pdf.pdfreader.viewer.editor.free.ReaderLauncherBridgeActivity}" drawable="lector_de_pdf_pdfreader_viewer_editor_free" />
+    <item component="ComponentInfo{com.xdev.docxreader.docx.docxviewer.document.doc.office.viewer.reader.word/com.rpdev.docreadermain.SplashActivity}" drawable="pdf_viewer_plus_xdev" />
+    <item component="ComponentInfo{com.solotech.apps.document.viewer.reader.scaner.pdfreader/com.solotech.activity.SplashScreenActivity}" drawable="visor_de_documentos" />
 
 </resources>
