@@ -4789,5 +4789,6 @@
     <item drawable="lector_de_documentos_documentreader_officeapp_pdfreader_wordreader_excelviewer_filereader" />
     <item drawable="lector_de_pdf_pdfreader_viewer_editor_free" />
     <item drawable="pdf_viewer_plus_xdev" />
+    <item drawable="visor_de_documentos" />
 
 </resources>
