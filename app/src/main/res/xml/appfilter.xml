@@ -4890,5 +4890,9 @@
     <item component="ComponentInfo{pdf.pdfreader.viewer.editor.free/pdf.pdfreader.viewer.editor.free.ReaderLauncherBridgeActivity}" drawable="lector_de_pdf_pdfreader_viewer_editor_free" />
     <item component="ComponentInfo{com.xdev.docxreader.docx.docxviewer.document.doc.office.viewer.reader.word/com.rpdev.docreadermain.SplashActivity}" drawable="pdf_viewer_plus_xdev" />
     <item component="ComponentInfo{com.solotech.apps.document.viewer.reader.scaner.pdfreader/com.solotech.activity.SplashScreenActivity}" drawable="visor_de_documentos" />
+    <item component="ComponentInfo{cz.martykan.forecastie/cz.martykan.forecastie.activities.SplashActivity}" drawable="forecastie" />
+    <item component="ComponentInfo{com.embermitre.hanping.cantodict.app.pro/com.embermitre.dictroid.ui.SearchActivity}" drawable="hanping_cantonese" />
+    <item component="ComponentInfo{com.embermitre.hanping.app.pro/com.embermitre.dictroid.ui.SearchActivity}" drawable="hanping_chinese_pro" />
+    <item component="ComponentInfo{de.reimardoeffinger.quickdic/com.hughes.android.dictionary.DictionaryManagerActivity}" drawable="quickdic" />
 
 </resources>

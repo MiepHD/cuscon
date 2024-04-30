@@ -4822,5 +4822,9 @@
     <item drawable="lector_de_pdf_pdfreader_viewer_editor_free" />
     <item drawable="pdf_viewer_plus_xdev" />
     <item drawable="visor_de_documentos" />
+    <item drawable="forecastie" />
+    <item drawable="hanping_cantonese" />
+    <item drawable="hanping_chinese_pro" />
+    <item drawable="quickdic" />
 
 </resources>

@@ -4876,5 +4876,9 @@
     <AppIcon name="pdf.pdfreader.viewer.editor.free/pdf.pdfreader.viewer.editor.free.ReaderLauncherBridgeActivity" image="lector_de_pdf_pdfreader_viewer_editor_free"/>
     <AppIcon name="com.xdev.docxreader.docx.docxviewer.document.doc.office.viewer.reader.word/com.rpdev.docreadermain.SplashActivity" image="pdf_viewer_plus_xdev"/>
     <AppIcon name="com.solotech.apps.document.viewer.reader.scaner.pdfreader/com.solotech.activity.SplashScreenActivity" image="visor_de_documentos"/>
+    <AppIcon name="cz.martykan.forecastie/cz.martykan.forecastie.activities.SplashActivity" image="forecastie"/>
+    <AppIcon name="com.embermitre.hanping.cantodict.app.pro/com.embermitre.dictroid.ui.SearchActivity" image="hanping_cantonese"/>
+    <AppIcon name="com.embermitre.hanping.app.pro/com.embermitre.dictroid.ui.SearchActivity" image="hanping_chinese_pro"/>
+    <AppIcon name="de.reimardoeffinger.quickdic/com.hughes.android.dictionary.DictionaryManagerActivity" image="quickdic"/>
 
 </Theme>
