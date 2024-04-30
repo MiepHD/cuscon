@@ -4924,5 +4924,6 @@
     <item component="ComponentInfo{com.pozitron.hepsiburada/com.hepsiburada.ui.startup.SplashActivity}" drawable="hepsiburada" />
     <item component="ComponentInfo{com.dunderbit.humbug/com.unity3d.player.UnityPlayerActivity}" drawable="humbug" />
     <item component="ComponentInfo{de.mm20.launcher2.nightly/de.mm20.launcher2.ui.launcher.LauncherActivity}" drawable="kvaesitso_nightly" />
+    <item component="ComponentInfo{com.ryzmedia.tatasky/com.ryzmedia.tatasky.Default}" drawable="tata_play" />
 
 </resources>

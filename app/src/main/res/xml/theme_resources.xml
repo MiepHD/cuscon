@@ -4910,5 +4910,6 @@
     <AppIcon name="com.pozitron.hepsiburada/com.hepsiburada.ui.startup.SplashActivity" image="hepsiburada"/>
     <AppIcon name="com.dunderbit.humbug/com.unity3d.player.UnityPlayerActivity" image="humbug"/>
     <AppIcon name="de.mm20.launcher2.nightly/de.mm20.launcher2.ui.launcher.LauncherActivity" image="kvaesitso_nightly"/>
+    <AppIcon name="com.ryzmedia.tatasky/com.ryzmedia.tatasky.Default" image="tata_play"/>
 
 </Theme>
