@@ -4912,5 +4912,6 @@
     <item component="ComponentInfo{com.sfr.android.vvm/com.sfr.android.vvm.activity.SFRVVMMain}" drawable="repondeur_" />
     <item component="ComponentInfo{com.blade.shadowcloudgaming/com.blade.shadow.dispatcher.DispatcherActivity}" drawable="shadow_pc" />
     <item component="ComponentInfo{hr.lunc.client/hr.lunc.client.SplashActivityDefault}" drawable="swile" />
+    <item component="ComponentInfo{cris.icms.ntes/cris.icms.ntes.LaunchApp}" drawable="ntes" />
 
 </resources>
