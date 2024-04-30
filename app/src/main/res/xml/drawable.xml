@@ -4847,5 +4847,7 @@
     <item drawable="ntes" />
     <item drawable="freeotp" />
     <item drawable="veggly" />
+    <item drawable="cointrend" />
+    <item drawable="diusagar" />
 
 </resources>

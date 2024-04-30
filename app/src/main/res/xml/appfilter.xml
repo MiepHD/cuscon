@@ -4915,5 +4915,7 @@
     <item component="ComponentInfo{cris.icms.ntes/cris.icms.ntes.LaunchApp}" drawable="ntes" />
     <item component="ComponentInfo{org.fedorahosted.freeotp/org.fedorahosted.freeotp.PasswordActivity}" drawable="freeotp" />
     <item component="ComponentInfo{com.veggly/com.veggly.MainActivity}" drawable="veggly" />
+    <item component="ComponentInfo{com.cointrend/com.cointrend.presentation.MainActivity}" drawable="cointrend" />
+    <item component="ComponentInfo{com.df.users/com.fisheriesowner.activity.SplashActivity}" drawable="diusagar" />
 
 </resources>

@@ -4901,5 +4901,7 @@
     <AppIcon name="cris.icms.ntes/cris.icms.ntes.LaunchApp" image="ntes"/>
     <AppIcon name="org.fedorahosted.freeotp/org.fedorahosted.freeotp.PasswordActivity" image="freeotp"/>
     <AppIcon name="com.veggly/com.veggly.MainActivity" image="veggly"/>
+    <AppIcon name="com.cointrend/com.cointrend.presentation.MainActivity" image="cointrend"/>
+    <AppIcon name="com.df.users/com.fisheriesowner.activity.SplashActivity" image="diusagar"/>
 
 </Theme>
