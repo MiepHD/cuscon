@@ -4849,5 +4849,12 @@
     <item drawable="veggly" />
     <item drawable="cointrend" />
     <item drawable="diusagar" />
+    <item drawable="abattery" />
+    <item drawable="databackup_alpha" />
+    <item drawable="drop_the_number" />
+    <item drawable="eyecon" />
+    <item drawable="hepsiburada" />
+    <item drawable="humbug" />
+    <item drawable="kvaesitso_nightly" />
 
 </resources>

@@ -4903,5 +4903,12 @@
     <AppIcon name="com.veggly/com.veggly.MainActivity" image="veggly"/>
     <AppIcon name="com.cointrend/com.cointrend.presentation.MainActivity" image="cointrend"/>
     <AppIcon name="com.df.users/com.fisheriesowner.activity.SplashActivity" image="diusagar"/>
+    <AppIcon name="me.linshen.abattery/me.linshen.abattery.MainActivity" image="abattery"/>
+    <AppIcon name="com.xayah.databackup.alpha/com.xayah.databackup.SplashActivity" image="databackup_alpha"/>
+    <AppIcon name="com.superbox.aos.fire2048/com.unity3d.player.UnityPlayerActivity" image="drop_the_number"/>
+    <AppIcon name="com.eyecon.global/com.eyecon.global.MainScreen.MainActivity" image="eyecon"/>
+    <AppIcon name="com.pozitron.hepsiburada/com.hepsiburada.ui.startup.SplashActivity" image="hepsiburada"/>
+    <AppIcon name="com.dunderbit.humbug/com.unity3d.player.UnityPlayerActivity" image="humbug"/>
+    <AppIcon name="de.mm20.launcher2.nightly/de.mm20.launcher2.ui.launcher.LauncherActivity" image="kvaesitso_nightly"/>
 
 </Theme>

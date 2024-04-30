@@ -4917,5 +4917,12 @@
     <item component="ComponentInfo{com.veggly/com.veggly.MainActivity}" drawable="veggly" />
     <item component="ComponentInfo{com.cointrend/com.cointrend.presentation.MainActivity}" drawable="cointrend" />
     <item component="ComponentInfo{com.df.users/com.fisheriesowner.activity.SplashActivity}" drawable="diusagar" />
+    <item component="ComponentInfo{me.linshen.abattery/me.linshen.abattery.MainActivity}" drawable="abattery" />
+    <item component="ComponentInfo{com.xayah.databackup.alpha/com.xayah.databackup.SplashActivity}" drawable="databackup_alpha" />
+    <item component="ComponentInfo{com.superbox.aos.fire2048/com.unity3d.player.UnityPlayerActivity}" drawable="drop_the_number" />
+    <item component="ComponentInfo{com.eyecon.global/com.eyecon.global.MainScreen.MainActivity}" drawable="eyecon" />
+    <item component="ComponentInfo{com.pozitron.hepsiburada/com.hepsiburada.ui.startup.SplashActivity}" drawable="hepsiburada" />
+    <item component="ComponentInfo{com.dunderbit.humbug/com.unity3d.player.UnityPlayerActivity}" drawable="humbug" />
+    <item component="ComponentInfo{de.mm20.launcher2.nightly/de.mm20.launcher2.ui.launcher.LauncherActivity}" drawable="kvaesitso_nightly" />
 
 </resources>
