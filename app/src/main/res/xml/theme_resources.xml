@@ -4919,5 +4919,6 @@
     <AppIcon name="com.overdrive.mobile.android.libby/com.overdrive.mobile.android.nautilus.ui.Activity_Main" image="libby"/>
     <AppIcon name="fr.dogeo.osmgo/fr.dogeo.osmgo.MainActivity" image="osm_go_"/>
     <AppIcon name="app.dapk.st/app.dapk.st.MainActivity" image="smalltalk"/>
+    <AppIcon name="com.framebyframe/com.framebyframe.SplashActivity" image="frame_by_frame"/>
 
 </Theme>

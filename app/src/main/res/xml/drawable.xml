@@ -4865,5 +4865,6 @@
     <item drawable="libby" />
     <item drawable="osm_go_" />
     <item drawable="smalltalk" />
+    <item drawable="frame_by_frame" />
 
 </resources>

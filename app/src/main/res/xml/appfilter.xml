@@ -4933,5 +4933,6 @@
     <item component="ComponentInfo{com.overdrive.mobile.android.libby/com.overdrive.mobile.android.nautilus.ui.Activity_Main}" drawable="libby" />
     <item component="ComponentInfo{fr.dogeo.osmgo/fr.dogeo.osmgo.MainActivity}" drawable="osm_go_" />
     <item component="ComponentInfo{app.dapk.st/app.dapk.st.MainActivity}" drawable="smalltalk" />
+    <item component="ComponentInfo{com.framebyframe/com.framebyframe.SplashActivity}" drawable="frame_by_frame" />
 
 </resources>
