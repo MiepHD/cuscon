@@ -4899,5 +4899,7 @@
     <AppIcon name="com.blade.shadowcloudgaming/com.blade.shadow.dispatcher.DispatcherActivity" image="shadow_pc"/>
     <AppIcon name="hr.lunc.client/hr.lunc.client.SplashActivityDefault" image="swile"/>
     <AppIcon name="cris.icms.ntes/cris.icms.ntes.LaunchApp" image="ntes"/>
+    <AppIcon name="org.fedorahosted.freeotp/org.fedorahosted.freeotp.PasswordActivity" image="freeotp"/>
+    <AppIcon name="com.veggly/com.veggly.MainActivity" image="veggly"/>
 
 </Theme>

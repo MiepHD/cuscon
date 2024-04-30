@@ -4913,5 +4913,7 @@
     <item component="ComponentInfo{com.blade.shadowcloudgaming/com.blade.shadow.dispatcher.DispatcherActivity}" drawable="shadow_pc" />
     <item component="ComponentInfo{hr.lunc.client/hr.lunc.client.SplashActivityDefault}" drawable="swile" />
     <item component="ComponentInfo{cris.icms.ntes/cris.icms.ntes.LaunchApp}" drawable="ntes" />
+    <item component="ComponentInfo{org.fedorahosted.freeotp/org.fedorahosted.freeotp.PasswordActivity}" drawable="freeotp" />
+    <item component="ComponentInfo{com.veggly/com.veggly.MainActivity}" drawable="veggly" />
 
 </resources>

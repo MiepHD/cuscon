@@ -4845,5 +4845,7 @@
     <item drawable="shadow_pc" />
     <item drawable="swile" />
     <item drawable="ntes" />
+    <item drawable="freeotp" />
+    <item drawable="veggly" />
 
 </resources>
