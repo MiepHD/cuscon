@@ -4880,5 +4880,9 @@
     <AppIcon name="com.embermitre.hanping.cantodict.app.pro/com.embermitre.dictroid.ui.SearchActivity" image="hanping_cantonese"/>
     <AppIcon name="com.embermitre.hanping.app.pro/com.embermitre.dictroid.ui.SearchActivity" image="hanping_chinese_pro"/>
     <AppIcon name="de.reimardoeffinger.quickdic/com.hughes.android.dictionary.DictionaryManagerActivity" image="quickdic"/>
+    <AppIcon name="com.topultragame.slotlasvega/org.cocos2dx.lua.AppActivity" image="cash_tornado™"/>
+    <AppIcon name="com.screenshake.dominodreams/com.screenshake.dominodreams.DominoMainActivity" image="domino_dreams"/>
+    <AppIcon name="octohide.vpn/com.octohide.vpn.MainActivity" image="octohide_vpn"/>
+    <AppIcon name="mentz.com.vrr_cibo_app/mentz.com.vrr_cibo_app.MainActivity" image="vrr_bus_and_bahn"/>
 
 </Theme>
