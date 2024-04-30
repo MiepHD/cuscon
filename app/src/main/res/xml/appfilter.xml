@@ -4898,5 +4898,19 @@
     <item component="ComponentInfo{com.screenshake.dominodreams/com.screenshake.dominodreams.DominoMainActivity}" drawable="domino_dreams" />
     <item component="ComponentInfo{octohide.vpn/com.octohide.vpn.MainActivity}" drawable="octohide_vpn" />
     <item component="ComponentInfo{mentz.com.vrr_cibo_app/mentz.com.vrr_cibo_app.MainActivity}" drawable="vrr_bus_and_bahn" />
+    <item component="ComponentInfo{com.synology.DSaudio/com.synology.dsaudio.ui.splash.SplashActivity}" drawable="ds_audio" />
+    <item component="ComponentInfo{com.synology.DSfile/com.synology.DSfile.Splash}" drawable="ds_file" />
+    <item component="ComponentInfo{com.synology.DSfinder/com.synology.assistant.ui.activity.SplashActivity}" drawable="ds_finder" />
+    <item component="ComponentInfo{com.synology.DSdownload/com.synology.DSdownload.activities.SplashActivity}" drawable="ds_get" />
+    <item component="ComponentInfo{com.synology.dsvideo/com.synology.dsvideo.SplashActivity}" drawable="ds_video" />
+    <item component="ComponentInfo{com.mb.android/com.mb.android.MainActivity}" drawable="emby" />
+    <item component="ComponentInfo{com.irobot.home/com.irobot.home.appstartup.SplashActivity}" drawable="irobot" />
+    <item component="ComponentInfo{tv.molotov.app/tv.molotov.android.splash.SplashActivity}" drawable="molotov" />
+    <item component="ComponentInfo{com.orange.mysosh/com.orange.care.core.ui.SplashScreenActivity}" drawable="mysosh" />
+    <item component="ComponentInfo{net.aietec.epg/net.aietec.epg.MainActivity}" drawable="programme_tv" />
+    <item component="ComponentInfo{com.sfr.android.redmoncompte/com.sfr.android.redmoncompte.MonCompteMain}" drawable="red_and_moi" />
+    <item component="ComponentInfo{com.sfr.android.vvm/com.sfr.android.vvm.activity.SFRVVMMain}" drawable="repondeur_" />
+    <item component="ComponentInfo{com.blade.shadowcloudgaming/com.blade.shadow.dispatcher.DispatcherActivity}" drawable="shadow_pc" />
+    <item component="ComponentInfo{hr.lunc.client/hr.lunc.client.SplashActivityDefault}" drawable="swile" />
 
 </resources>

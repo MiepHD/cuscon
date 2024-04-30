@@ -4830,5 +4830,19 @@
     <item drawable="domino_dreams" />
     <item drawable="octohide_vpn" />
     <item drawable="vrr_bus_and_bahn" />
+    <item drawable="ds_audio" />
+    <item drawable="ds_file" />
+    <item drawable="ds_finder" />
+    <item drawable="ds_get" />
+    <item drawable="ds_video" />
+    <item drawable="emby" />
+    <item drawable="irobot" />
+    <item drawable="molotov" />
+    <item drawable="mysosh" />
+    <item drawable="programme_tv" />
+    <item drawable="red_and_moi" />
+    <item drawable="repondeur_" />
+    <item drawable="shadow_pc" />
+    <item drawable="swile" />
 
 </resources>

@@ -4884,5 +4884,19 @@
     <AppIcon name="com.screenshake.dominodreams/com.screenshake.dominodreams.DominoMainActivity" image="domino_dreams"/>
     <AppIcon name="octohide.vpn/com.octohide.vpn.MainActivity" image="octohide_vpn"/>
     <AppIcon name="mentz.com.vrr_cibo_app/mentz.com.vrr_cibo_app.MainActivity" image="vrr_bus_and_bahn"/>
+    <AppIcon name="com.synology.DSaudio/com.synology.dsaudio.ui.splash.SplashActivity" image="ds_audio"/>
+    <AppIcon name="com.synology.DSfile/com.synology.DSfile.Splash" image="ds_file"/>
+    <AppIcon name="com.synology.DSfinder/com.synology.assistant.ui.activity.SplashActivity" image="ds_finder"/>
+    <AppIcon name="com.synology.DSdownload/com.synology.DSdownload.activities.SplashActivity" image="ds_get"/>
+    <AppIcon name="com.synology.dsvideo/com.synology.dsvideo.SplashActivity" image="ds_video"/>
+    <AppIcon name="com.mb.android/com.mb.android.MainActivity" image="emby"/>
+    <AppIcon name="com.irobot.home/com.irobot.home.appstartup.SplashActivity" image="irobot"/>
+    <AppIcon name="tv.molotov.app/tv.molotov.android.splash.SplashActivity" image="molotov"/>
+    <AppIcon name="com.orange.mysosh/com.orange.care.core.ui.SplashScreenActivity" image="mysosh"/>
+    <AppIcon name="net.aietec.epg/net.aietec.epg.MainActivity" image="programme_tv"/>
+    <AppIcon name="com.sfr.android.redmoncompte/com.sfr.android.redmoncompte.MonCompteMain" image="red_and_moi"/>
+    <AppIcon name="com.sfr.android.vvm/com.sfr.android.vvm.activity.SFRVVMMain" image="repondeur_"/>
+    <AppIcon name="com.blade.shadowcloudgaming/com.blade.shadow.dispatcher.DispatcherActivity" image="shadow_pc"/>
+    <AppIcon name="hr.lunc.client/hr.lunc.client.SplashActivityDefault" image="swile"/>
 
 </Theme>
