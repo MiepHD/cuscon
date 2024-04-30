@@ -4925,5 +4925,13 @@
     <item component="ComponentInfo{com.dunderbit.humbug/com.unity3d.player.UnityPlayerActivity}" drawable="humbug" />
     <item component="ComponentInfo{de.mm20.launcher2.nightly/de.mm20.launcher2.ui.launcher.LauncherActivity}" drawable="kvaesitso_nightly" />
     <item component="ComponentInfo{com.ryzmedia.tatasky/com.ryzmedia.tatasky.Default}" drawable="tata_play" />
+    <item component="ComponentInfo{com.brother.ph.mobile.craftsewing/crc6471b349ff9ff2fe4d.SplashActivity}" drawable="artspira" />
+    <item component="ComponentInfo{com.garmin.connectiq/com.garmin.connectiq.ui.startup.StartupActivity}" drawable="connect_iq" />
+    <item component="ComponentInfo{org.billthefarmer.gurgle/org.billthefarmer.gurgle.Gurgle}" drawable="gurgle" />
+    <item component="ComponentInfo{com.jb.hive.android/com.jb.hive.android.StartActivity}" drawable="hive_with_ai" />
+    <item component="ComponentInfo{com.brouken.player/com.brouken.player.PlayerActivity}" drawable="just_player" />
+    <item component="ComponentInfo{com.overdrive.mobile.android.libby/com.overdrive.mobile.android.nautilus.ui.Activity_Main}" drawable="libby" />
+    <item component="ComponentInfo{fr.dogeo.osmgo/fr.dogeo.osmgo.MainActivity}" drawable="osm_go_" />
+    <item component="ComponentInfo{app.dapk.st/app.dapk.st.MainActivity}" drawable="smalltalk" />
 
 </resources>

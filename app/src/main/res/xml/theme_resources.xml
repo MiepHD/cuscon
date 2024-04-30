@@ -4911,5 +4911,13 @@
     <AppIcon name="com.dunderbit.humbug/com.unity3d.player.UnityPlayerActivity" image="humbug"/>
     <AppIcon name="de.mm20.launcher2.nightly/de.mm20.launcher2.ui.launcher.LauncherActivity" image="kvaesitso_nightly"/>
     <AppIcon name="com.ryzmedia.tatasky/com.ryzmedia.tatasky.Default" image="tata_play"/>
+    <AppIcon name="com.brother.ph.mobile.craftsewing/crc6471b349ff9ff2fe4d.SplashActivity" image="artspira"/>
+    <AppIcon name="com.garmin.connectiq/com.garmin.connectiq.ui.startup.StartupActivity" image="connect_iq"/>
+    <AppIcon name="org.billthefarmer.gurgle/org.billthefarmer.gurgle.Gurgle" image="gurgle"/>
+    <AppIcon name="com.jb.hive.android/com.jb.hive.android.StartActivity" image="hive_with_ai"/>
+    <AppIcon name="com.brouken.player/com.brouken.player.PlayerActivity" image="just_player"/>
+    <AppIcon name="com.overdrive.mobile.android.libby/com.overdrive.mobile.android.nautilus.ui.Activity_Main" image="libby"/>
+    <AppIcon name="fr.dogeo.osmgo/fr.dogeo.osmgo.MainActivity" image="osm_go_"/>
+    <AppIcon name="app.dapk.st/app.dapk.st.MainActivity" image="smalltalk"/>
 
 </Theme>
