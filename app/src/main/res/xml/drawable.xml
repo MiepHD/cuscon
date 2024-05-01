@@ -1780,6 +1780,7 @@
 	<item drawable="futo_voice_input" />
 	<item drawable="fx" />
     <category title="G" />
+    <item drawable="geogebra" />
     <item drawable="gauguin" />
     <item drawable="gojek" />
     <item drawable="g2a" />
@@ -2535,6 +2536,7 @@
 	<item drawable="lucky_wasted" />
 	<item drawable="lux_o_meter_lichtmesser" />
     <category title="M" />
+    <item drawable="medito" />
     <item drawable="mitteilungen" />
     <item drawable="my_chihiros" />
     <item drawable="mumla" />
@@ -4446,6 +4448,7 @@
 	<item drawable="tux_paint_config" />
 	<item drawable="twelve_key_dialer" />
     <category title="U" />
+    <item drawable="uhr" />
     <item drawable="ua_color_picker" />
     <item drawable="uav_forecast" />
     <item drawable="uber_driver" />

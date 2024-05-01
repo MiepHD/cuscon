@@ -4989,5 +4989,8 @@
     <item component="ComponentInfo{org.craigslist.CraigslistMobile/org.craigslist.CraigslistMobile.MainActivity}" drawable="craigslist" />
     <item component="ComponentInfo{org.fossify.messages/org.fossify.messages.activities.SplashActivity.Green}" drawable="mitteilungen" />
     <item component="ComponentInfo{cn.chihiros.chihiros_magic_new/cn.chihiros.chihiros_magic_new.MainActivity}" drawable="my_chihiros" />
+    <item component="ComponentInfo{org.geogebra.android.calculator.suite/org.geogebra.android.privatelibrary.splashscreen.SplashScreenActivity}" drawable="geogebra" />
+    <item component="ComponentInfo{meditofoundation.medito/com.ryanheise.audioservice.AudioServiceActivity}" drawable="medito" />
+    <item component="ComponentInfo{com.simplemobiletools.clock/com.simplemobiletools.clock.activities.SplashActivity.Orange}" drawable="uhr" />
 
 </resources>
