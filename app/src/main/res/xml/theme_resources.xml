@@ -4958,5 +4958,6 @@
     <AppIcon name="dev.oasemedia.radioislamindonesia/dev.oasemedia.radioislamindonesia.MainActivity" image="radio_islam_indonesia"/>
     <AppIcon name="com.shopee.lite.id/com.shopee.app.ui.home.HomeActivity_" image="shopee_lite"/>
     <AppIcon name="com.tokomashidup/com.tokomashidup.MainActivity" image="toko_mas_hidup"/>
+    <AppIcon name="org.piepmeyer.gauguin/org.piepmeyer.gauguin.ui.main.MainActivity" image="gauguin"/>
 
 </Theme>

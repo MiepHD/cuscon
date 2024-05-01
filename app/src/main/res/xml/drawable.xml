@@ -1773,6 +1773,7 @@
 	<item drawable="futo_voice_input" />
 	<item drawable="fx" />
     <category title="G" />
+    <item drawable="gauguin" />
     <item drawable="gojek" />
     <item drawable="g2a" />
     <item drawable="g_stomper_studio" />

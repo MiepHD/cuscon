@@ -4973,5 +4973,6 @@
     <item component="ComponentInfo{dev.oasemedia.radioislamindonesia/dev.oasemedia.radioislamindonesia.MainActivity}" drawable="radio_islam_indonesia" />
     <item component="ComponentInfo{com.shopee.lite.id/com.shopee.app.ui.home.HomeActivity_}" drawable="shopee_lite" />
     <item component="ComponentInfo{com.tokomashidup/com.tokomashidup.MainActivity}" drawable="toko_mas_hidup" />
+    <item component="ComponentInfo{org.piepmeyer.gauguin/org.piepmeyer.gauguin.ui.main.MainActivity}" drawable="gauguin" />
 
 </resources>
