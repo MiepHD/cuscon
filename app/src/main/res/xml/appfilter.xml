@@ -5000,5 +5000,6 @@
     <item component="ComponentInfo{com.digicel.selfcare.mobile/com.example.mda.MainActivity}" drawable="mydigicel" />
     <item component="ComponentInfo{com.smgstudio.onemoreline/com.unity3d.player.UnityPlayerActivity}" drawable="one_more_line" />
     <item component="ComponentInfo{de.markusfisch.android.pielauncher/de.markusfisch.android.pielauncher.activity.HomeActivity}" drawable="pie_launcher" />
+    <item component="ComponentInfo{com.konasl.nagad/com.konasl.dfs.ui.splash.SplashActivity}" drawable="nagad" />
 
 </resources>

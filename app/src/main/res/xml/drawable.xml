@@ -2928,6 +2928,7 @@
 	<item drawable="mytelkomsel" />
 	<item drawable="myumobile" />
     <category title="N" />
+    <item drawable="nagad" />
     <item drawable="n26" />
     <item drawable="nabd" />
     <item drawable="nacio_digital" />

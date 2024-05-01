@@ -4985,5 +4985,6 @@
     <AppIcon name="com.digicel.selfcare.mobile/com.example.mda.MainActivity" image="mydigicel"/>
     <AppIcon name="com.smgstudio.onemoreline/com.unity3d.player.UnityPlayerActivity" image="one_more_line"/>
     <AppIcon name="de.markusfisch.android.pielauncher/de.markusfisch.android.pielauncher.activity.HomeActivity" image="pie_launcher"/>
+    <AppIcon name="com.konasl.nagad/com.konasl.dfs.ui.splash.SplashActivity" image="nagad"/>
 
 </Theme>
