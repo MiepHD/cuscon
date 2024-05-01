@@ -5006,5 +5006,6 @@
     <item component="ComponentInfo{ridmik.keyboard.classic/setup.MainActivity}" drawable="ridmik_classic_keyboard" />
     <item component="ComponentInfo{bd.com.ucb.unet/business.theucblbank.com.ucblbank.features.SplashActivity}" drawable="unet" />
     <item component="ComponentInfo{com.mufumbo.android.recipe.search/com.cookpad.android.app.gateway.GatewayActivity}" drawable="cookpad" />
+    <item component="ComponentInfo{com.kompasproductions.summertimesaga/org.renpy.android.PythonSDLActivity}" drawable="summertimesaga" />
 
 </resources>

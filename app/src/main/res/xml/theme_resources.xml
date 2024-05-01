@@ -4991,5 +4991,6 @@
     <AppIcon name="ridmik.keyboard.classic/setup.MainActivity" image="ridmik_classic_keyboard"/>
     <AppIcon name="bd.com.ucb.unet/business.theucblbank.com.ucblbank.features.SplashActivity" image="unet"/>
     <AppIcon name="com.mufumbo.android.recipe.search/com.cookpad.android.app.gateway.GatewayActivity" image="cookpad"/>
+    <AppIcon name="com.kompasproductions.summertimesaga/org.renpy.android.PythonSDLActivity" image="summertimesaga"/>
 
 </Theme>
