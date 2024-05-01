@@ -4994,5 +4994,8 @@
     <AppIcon name="com.kompasproductions.summertimesaga/org.renpy.android.PythonSDLActivity" image="summertimesaga"/>
     <AppIcon name="com.southwestairlines.mobile/com.southwestairlines.mobile.common.splash.SplashActivity" image="southwest"/>
     <AppIcon name="com.wf.wellsfargomobile/com.wf.wellsfargomobile.LauncherActivity" image="wells_fargo"/>
+    <AppIcon name="com.herman.ringtone/com.herman.ringtone.MusicPicker" image="ringtone_maker"/>
+    <AppIcon name="hdesign.theclock/hdesign.theclock.MainActivity" image="the_clock"/>
+    <AppIcon name="com.audio.mp3cutter.videotoaudio/com.audio.videotomp3.ui.activity.SplashActivity" image="video_to_mp3_convert"/>
 
 </Theme>

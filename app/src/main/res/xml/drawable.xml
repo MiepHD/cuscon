@@ -3579,6 +3579,7 @@
 	<item drawable="quik" />
 	<item drawable="quillpad" />
     <category title="R" />
+    <item drawable="ringtone_maker" />
     <item drawable="ridmik_classic_keyboard" />
     <item drawable="rvx_reddit" />
     <item drawable="radio_indah_siar" />
@@ -4198,6 +4199,7 @@
 	<item drawable="swiss_post" />
 	<item drawable="systemui_tuner" />
     <category title="T" />
+    <item drawable="the_clock" />
     <item drawable="terminal_emulator" />
     <item drawable="track_and_graph" />
     <item drawable="toko_mas_hidup" />
@@ -4530,6 +4532,7 @@
 	<item drawable="utiles" />
 	<item drawable="utilidades_amaze" />
     <category title="V" />
+    <item drawable="video_to_mp3_convert" />
     <item drawable="vinyl" />
     <item drawable="v720" />
     <item drawable="vademecum_internacional" />

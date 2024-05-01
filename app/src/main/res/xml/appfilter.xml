@@ -5009,5 +5009,8 @@
     <item component="ComponentInfo{com.kompasproductions.summertimesaga/org.renpy.android.PythonSDLActivity}" drawable="summertimesaga" />
     <item component="ComponentInfo{com.southwestairlines.mobile/com.southwestairlines.mobile.common.splash.SplashActivity}" drawable="southwest" />
     <item component="ComponentInfo{com.wf.wellsfargomobile/com.wf.wellsfargomobile.LauncherActivity}" drawable="wells_fargo" />
+    <item component="ComponentInfo{com.herman.ringtone/com.herman.ringtone.MusicPicker}" drawable="ringtone_maker" />
+    <item component="ComponentInfo{hdesign.theclock/hdesign.theclock.MainActivity}" drawable="the_clock" />
+    <item component="ComponentInfo{com.audio.mp3cutter.videotoaudio/com.audio.videotomp3.ui.activity.SplashActivity}" drawable="video_to_mp3_convert" />
 
 </resources>
