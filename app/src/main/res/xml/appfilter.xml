@@ -5012,5 +5012,7 @@
     <item component="ComponentInfo{com.herman.ringtone/com.herman.ringtone.MusicPicker}" drawable="ringtone_maker" />
     <item component="ComponentInfo{hdesign.theclock/hdesign.theclock.MainActivity}" drawable="the_clock" />
     <item component="ComponentInfo{com.audio.mp3cutter.videotoaudio/com.audio.videotomp3.ui.activity.SplashActivity}" drawable="video_to_mp3_convert" />
+    <item component="ComponentInfo{com.dvdfu.chicken2/com.unity3d.player.UnityPlayerActivity}" drawable="chiki" />
+    <item component="ComponentInfo{com.turner.pocketmorties/com.appboy.unity.prime31compatible.AppboyUnityPlayerActivity}" drawable="pocket_mortys" />
 
 </resources>

@@ -4997,5 +4997,7 @@
     <AppIcon name="com.herman.ringtone/com.herman.ringtone.MusicPicker" image="ringtone_maker"/>
     <AppIcon name="hdesign.theclock/hdesign.theclock.MainActivity" image="the_clock"/>
     <AppIcon name="com.audio.mp3cutter.videotoaudio/com.audio.videotomp3.ui.activity.SplashActivity" image="video_to_mp3_convert"/>
+    <AppIcon name="com.dvdfu.chicken2/com.unity3d.player.UnityPlayerActivity" image="chiki"/>
+    <AppIcon name="com.turner.pocketmorties/com.appboy.unity.prime31compatible.AppboyUnityPlayerActivity" image="pocket_mortys"/>
 
 </Theme>

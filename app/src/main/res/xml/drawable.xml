@@ -852,6 +852,7 @@
 	<item drawable="bycs_drive" />
     <item drawable="ballozi_skynox" />
     <category title="C" />
+    <item drawable="chiki" />
     <item drawable="cookpad" />
     <item drawable="craigslist" />
     <item drawable="connectbot" />
@@ -3238,6 +3239,7 @@
 	<item drawable="ovag_e_mobil" />
 	<item drawable="owlfiles" />
     <category title="P" />
+    <item drawable="pocket_mortys" />
     <item drawable="pie_launcher" />
     <item drawable="p_r_o_t_o" />
     <item drawable="pa_drivers_practice_exam" />
