@@ -5028,5 +5028,6 @@
     <item component="ComponentInfo{org.dslul.openboard.inputmethod.latin/org.dslul.openboard.inputmethod.latin.setup.SetupActivity}" drawable="openboard" />
     <item component="ComponentInfo{com.ironhidegames.android.kingdomrushorigins/com.ironhidegames.android.kr.act_game.KRGameActivity}" drawable="origins" />
     <item component="ComponentInfo{org.vernazza.androidfuel/it.prezzibenzina.pb3.activities.MainActivity}" drawable="prezzi_benzina" />
+    <item component="ComponentInfo{com.maxxt.kitchentimer/com.maxxt.kitchentimer.ui.activities.MainActivity}" drawable="kitchen_timer" />
 
 </resources>

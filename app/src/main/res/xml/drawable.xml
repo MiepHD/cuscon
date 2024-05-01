@@ -2293,6 +2293,7 @@
 	<item drawable="justchess" />
 	<item drawable="justdial" />
     <category title="K" />
+    <item drawable="kitchen_timer" />
     <item drawable="klik_indomaret" />
     <item drawable="kabbalah" />
     <item drawable="kafka" />

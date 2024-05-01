@@ -5013,5 +5013,6 @@
     <AppIcon name="org.dslul.openboard.inputmethod.latin/org.dslul.openboard.inputmethod.latin.setup.SetupActivity" image="openboard"/>
     <AppIcon name="com.ironhidegames.android.kingdomrushorigins/com.ironhidegames.android.kr.act_game.KRGameActivity" image="origins"/>
     <AppIcon name="org.vernazza.androidfuel/it.prezzibenzina.pb3.activities.MainActivity" image="prezzi_benzina"/>
+    <AppIcon name="com.maxxt.kitchentimer/com.maxxt.kitchentimer.ui.activities.MainActivity" image="kitchen_timer"/>
 
 </Theme>
