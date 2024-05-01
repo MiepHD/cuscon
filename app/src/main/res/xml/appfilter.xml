@@ -5044,5 +5044,7 @@
     <item component="ComponentInfo{com.tmrow.electricitymap/com.tmrow.electricitymap.MainActivity}" drawable="electricity_maps" />
     <item component="ComponentInfo{com.oplus.games/com.oplus.games.ui.main.MainGameActivity}" drawable="jeux" />
     <item component="ComponentInfo{com.heytap.health.international/com.heytap.health.launch.LaunchActivity}" drawable="ohealth" />
+    <item component="ComponentInfo{me.proton.android.calendar/me.proton.android.calendar.presentation.main.MainActivity}" drawable="proton_calendar" />
+    <item component="ComponentInfo{proton.android.pass/proton.android.pass.ui.MainActivity}" drawable="proton_pass" />
 
 </resources>

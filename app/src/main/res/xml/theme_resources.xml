@@ -5029,5 +5029,7 @@
     <AppIcon name="com.tmrow.electricitymap/com.tmrow.electricitymap.MainActivity" image="electricity_maps"/>
     <AppIcon name="com.oplus.games/com.oplus.games.ui.main.MainGameActivity" image="jeux"/>
     <AppIcon name="com.heytap.health.international/com.heytap.health.launch.LaunchActivity" image="ohealth"/>
+    <AppIcon name="me.proton.android.calendar/me.proton.android.calendar.presentation.main.MainActivity" image="proton_calendar"/>
+    <AppIcon name="proton.android.pass/proton.android.pass.ui.MainActivity" image="proton_pass"/>
 
 </Theme>

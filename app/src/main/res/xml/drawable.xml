@@ -3262,6 +3262,8 @@
 	<item drawable="ovag_e_mobil" />
 	<item drawable="owlfiles" />
     <category title="P" />
+    <item drawable="proton_calendar" />
+    <item drawable="proton_pass" />
     <item drawable="prezzi_benzina" />
     <item drawable="pocket_mortys" />
     <item drawable="pie_launcher" />
