@@ -641,6 +641,7 @@
 	<item drawable="awox_homecontrol" />
 	<item drawable="axp_apk_extractor" />
     <category title="B" />
+    <item drawable="bangla_dictionary" />
     <item drawable="blitzortung_moniteur_dactivite_orageuse" />
     <item drawable="byu" />
     <item drawable="b_and_h" />
@@ -2537,6 +2538,7 @@
 	<item drawable="lucky_wasted" />
 	<item drawable="lux_o_meter_lichtmesser" />
     <category title="M" />
+    <item drawable="mybl" />
     <item drawable="mopria_print" />
     <item drawable="mopria_scan" />
     <item drawable="mydigicel" />
@@ -3576,6 +3578,7 @@
 	<item drawable="quik" />
 	<item drawable="quillpad" />
     <category title="R" />
+    <item drawable="ridmik_classic_keyboard" />
     <item drawable="rvx_reddit" />
     <item drawable="radio_indah_siar" />
     <item drawable="radio_islam_indonesia" />
@@ -4456,6 +4459,7 @@
 	<item drawable="tux_paint_config" />
 	<item drawable="twelve_key_dialer" />
     <category title="U" />
+    <item drawable="unet" />
     <item drawable="uhr" />
     <item drawable="ua_color_picker" />
     <item drawable="uav_forecast" />

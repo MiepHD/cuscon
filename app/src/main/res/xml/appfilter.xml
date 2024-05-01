@@ -5001,5 +5001,9 @@
     <item component="ComponentInfo{com.smgstudio.onemoreline/com.unity3d.player.UnityPlayerActivity}" drawable="one_more_line" />
     <item component="ComponentInfo{de.markusfisch.android.pielauncher/de.markusfisch.android.pielauncher.activity.HomeActivity}" drawable="pie_launcher" />
     <item component="ComponentInfo{com.konasl.nagad/com.konasl.dfs.ui.splash.SplashActivity}" drawable="nagad" />
+    <item component="ComponentInfo{com.dictionary.bn/com.dictionary.bn.DictionaryActivity}" drawable="bangla_dictionary" />
+    <item component="ComponentInfo{com.arena.banglalinkmela.app/com.arena.banglalinkmela.app.ui.splash.SplashActivity}" drawable="mybl" />
+    <item component="ComponentInfo{ridmik.keyboard.classic/setup.MainActivity}" drawable="ridmik_classic_keyboard" />
+    <item component="ComponentInfo{bd.com.ucb.unet/business.theucblbank.com.ucblbank.features.SplashActivity}" drawable="unet" />
 
 </resources>

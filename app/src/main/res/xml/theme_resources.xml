@@ -4986,5 +4986,9 @@
     <AppIcon name="com.smgstudio.onemoreline/com.unity3d.player.UnityPlayerActivity" image="one_more_line"/>
     <AppIcon name="de.markusfisch.android.pielauncher/de.markusfisch.android.pielauncher.activity.HomeActivity" image="pie_launcher"/>
     <AppIcon name="com.konasl.nagad/com.konasl.dfs.ui.splash.SplashActivity" image="nagad"/>
+    <AppIcon name="com.dictionary.bn/com.dictionary.bn.DictionaryActivity" image="bangla_dictionary"/>
+    <AppIcon name="com.arena.banglalinkmela.app/com.arena.banglalinkmela.app.ui.splash.SplashActivity" image="mybl"/>
+    <AppIcon name="ridmik.keyboard.classic/setup.MainActivity" image="ridmik_classic_keyboard"/>
+    <AppIcon name="bd.com.ucb.unet/business.theucblbank.com.ucblbank.features.SplashActivity" image="unet"/>
 
 </Theme>
