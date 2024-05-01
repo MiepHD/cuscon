@@ -4945,5 +4945,14 @@
     <item component="ComponentInfo{com.xd.rotaeno.googleplay/com.unity3d.player.UnityPlayerActivity}" drawable="rotaeno" />
     <item component="ComponentInfo{com.chillyroom.soulknightprequel/com.chillyroomsdk.sdkbridge.BasePlayerActivity}" drawable="soul_knight_prequel" />
     <item component="ComponentInfo{com.tokopedia.tkpd/com.tokopedia.tkpd.ConsumerSplashScreen}" drawable="tokopedia" />
+    <item component="ComponentInfo{com.algeo.algeo/com.algeo.algeo.Calculator}" drawable="algeo" />
+    <item component="ComponentInfo{org.xphnx.ameixa/org.xphnx.ameixa.activities.MainActivity}" drawable="ameixa" />
+    <item component="ComponentInfo{com.thomasdemirgil.basit.app/com.thomasdemirgil.basit.app.MainActivity}" drawable="basit" />
+    <item component="ComponentInfo{com.esethnet.cadrex/com.esethnet.cadrex.LicenseActivity}" drawable="cadrex" />
+    <item component="ComponentInfo{com.globalbrands.churchs/com.globalbrands.rituals.activities.MainActivity}" drawable="church_s" />
+    <item component="ComponentInfo{com.cloudedge.smarteye/com.ppstrong.weeye.SplashActivity}" drawable="cloudedge" />
+    <item component="ComponentInfo{ryey.colorsniffer/ryey.colorsniffer.MainActivity}" drawable="colorsniffer" />
+    <item component="ComponentInfo{com.confinement.diconfinement/com.confinement.diconfinement.MainActivity}" drawable="diconfinement" />
+    <item component="ComponentInfo{com.homecu.easterncu/com.homecu.phoenix.SplashActivity}" drawable="ecutt" />
 
 </resources>

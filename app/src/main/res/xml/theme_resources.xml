@@ -4931,5 +4931,14 @@
     <AppIcon name="com.xd.rotaeno.googleplay/com.unity3d.player.UnityPlayerActivity" image="rotaeno"/>
     <AppIcon name="com.chillyroom.soulknightprequel/com.chillyroomsdk.sdkbridge.BasePlayerActivity" image="soul_knight_prequel"/>
     <AppIcon name="com.tokopedia.tkpd/com.tokopedia.tkpd.ConsumerSplashScreen" image="tokopedia"/>
+    <AppIcon name="com.algeo.algeo/com.algeo.algeo.Calculator" image="algeo"/>
+    <AppIcon name="org.xphnx.ameixa/org.xphnx.ameixa.activities.MainActivity" image="ameixa"/>
+    <AppIcon name="com.thomasdemirgil.basit.app/com.thomasdemirgil.basit.app.MainActivity" image="basit"/>
+    <AppIcon name="com.esethnet.cadrex/com.esethnet.cadrex.LicenseActivity" image="cadrex"/>
+    <AppIcon name="com.globalbrands.churchs/com.globalbrands.rituals.activities.MainActivity" image="church_s"/>
+    <AppIcon name="com.cloudedge.smarteye/com.ppstrong.weeye.SplashActivity" image="cloudedge"/>
+    <AppIcon name="ryey.colorsniffer/ryey.colorsniffer.MainActivity" image="colorsniffer"/>
+    <AppIcon name="com.confinement.diconfinement/com.confinement.diconfinement.MainActivity" image="diconfinement"/>
+    <AppIcon name="com.homecu.easterncu/com.homecu.phoenix.SplashActivity" image="ecutt"/>
 
 </Theme>
