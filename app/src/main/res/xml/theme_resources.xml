@@ -5001,5 +5001,9 @@
     <AppIcon name="com.turner.pocketmorties/com.appboy.unity.prime31compatible.AppboyUnityPlayerActivity" image="pocket_mortys"/>
     <AppIcon name="com.bitdefender.antivirus/com.bitdefender.antivirus.MainActivity" image="antivirus_free"/>
     <AppIcon name="net.pnhdroid.foldplay/net.pnhdroid.foldplay.MainActivity" image="foldplay"/>
+    <AppIcon name="com.rubenmayayo.reddit/com.rubenmayayo.reddit.ui.submissions.subreddit.MainActivity" image="boost"/>
+    <AppIcon name="mobi.jackd.android/com.appspot.scruffapp.features.splash.views.SplashActivity" image="jackd"/>
+    <AppIcon name="com.mail.mobile.android.mail/com.unitedinternet.portal.ui.HostActivity" image="mailcom"/>
+    <AppIcon name="com.medisafe.android.client/com.medisafe.android.base.activities.initial.InitialActivity" image="medisafe"/>
 
 </Theme>

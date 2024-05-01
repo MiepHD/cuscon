@@ -5016,5 +5016,9 @@
     <item component="ComponentInfo{com.turner.pocketmorties/com.appboy.unity.prime31compatible.AppboyUnityPlayerActivity}" drawable="pocket_mortys" />
     <item component="ComponentInfo{com.bitdefender.antivirus/com.bitdefender.antivirus.MainActivity}" drawable="antivirus_free" />
     <item component="ComponentInfo{net.pnhdroid.foldplay/net.pnhdroid.foldplay.MainActivity}" drawable="foldplay" />
+    <item component="ComponentInfo{com.rubenmayayo.reddit/com.rubenmayayo.reddit.ui.submissions.subreddit.MainActivity}" drawable="boost" />
+    <item component="ComponentInfo{mobi.jackd.android/com.appspot.scruffapp.features.splash.views.SplashActivity}" drawable="jackd" />
+    <item component="ComponentInfo{com.mail.mobile.android.mail/com.unitedinternet.portal.ui.HostActivity}" drawable="mailcom" />
+    <item component="ComponentInfo{com.medisafe.android.client/com.medisafe.android.base.activities.initial.InitialActivity}" drawable="medisafe" />
 
 </resources>

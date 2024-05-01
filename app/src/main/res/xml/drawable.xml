@@ -642,6 +642,7 @@
 	<item drawable="awox_homecontrol" />
 	<item drawable="axp_apk_extractor" />
     <category title="B" />
+    <item drawable="boost" />
     <item drawable="bangla_dictionary" />
     <item drawable="blitzortung_moniteur_dactivite_orageuse" />
     <item drawable="byu" />
@@ -2234,6 +2235,7 @@
 	<item drawable="ir_remote" />
 	<item drawable="iron" />
     <category title="J" />
+    <item drawable="jackd" />
     <item drawable="j2me_loader" />
     <item drawable="jaco" />
     <item drawable="jakdojade" />
@@ -2542,6 +2544,8 @@
 	<item drawable="lucky_wasted" />
 	<item drawable="lux_o_meter_lichtmesser" />
     <category title="M" />
+    <item drawable="mailcom" />
+    <item drawable="medisafe" />
     <item drawable="mybl" />
     <item drawable="mopria_print" />
     <item drawable="mopria_scan" />
