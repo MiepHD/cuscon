@@ -5005,5 +5005,7 @@
     <AppIcon name="mobi.jackd.android/com.appspot.scruffapp.features.splash.views.SplashActivity" image="jackd"/>
     <AppIcon name="com.mail.mobile.android.mail/com.unitedinternet.portal.ui.HostActivity" image="mailcom"/>
     <AppIcon name="com.medisafe.android.client/com.medisafe.android.base.activities.initial.InitialActivity" image="medisafe"/>
+    <AppIcon name="com.realbyteapps.moneymanagerfree/com.realbyteapps.moneymanagerfree.MMFreeActivity" image="money_manager"/>
+    <AppIcon name="net.nurik.roman.muzei/com.google.android.apps.muzei.MuzeiActivity" image="muzei"/>
 
 </Theme>

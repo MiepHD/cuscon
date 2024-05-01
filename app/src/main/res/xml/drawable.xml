@@ -2544,6 +2544,8 @@
 	<item drawable="lucky_wasted" />
 	<item drawable="lux_o_meter_lichtmesser" />
     <category title="M" />
+    <item drawable="money_manager" />
+    <item drawable="muzei" />
     <item drawable="mailcom" />
     <item drawable="medisafe" />
     <item drawable="mybl" />
