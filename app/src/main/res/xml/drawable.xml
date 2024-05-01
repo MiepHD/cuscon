@@ -3569,6 +3569,7 @@
 	<item drawable="quik" />
 	<item drawable="quillpad" />
     <category title="R" />
+    <item drawable="rvx_reddit" />
     <item drawable="radio_indah_siar" />
     <item drawable="radio_islam_indonesia" />
     <item drawable="r_and_b_fashion" />

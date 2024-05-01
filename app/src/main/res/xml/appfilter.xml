@@ -4992,5 +4992,6 @@
     <item component="ComponentInfo{org.geogebra.android.calculator.suite/org.geogebra.android.privatelibrary.splashscreen.SplashScreenActivity}" drawable="geogebra" />
     <item component="ComponentInfo{meditofoundation.medito/com.ryanheise.audioservice.AudioServiceActivity}" drawable="medito" />
     <item component="ComponentInfo{com.simplemobiletools.clock/com.simplemobiletools.clock.activities.SplashActivity.Orange}" drawable="uhr" />
+    <item component="ComponentInfo{com.reddit.frontpage.rvx/launcher.default}" drawable="rvx_reddit" />
 
 </resources>

@@ -4977,5 +4977,6 @@
     <AppIcon name="org.geogebra.android.calculator.suite/org.geogebra.android.privatelibrary.splashscreen.SplashScreenActivity" image="geogebra"/>
     <AppIcon name="meditofoundation.medito/com.ryanheise.audioservice.AudioServiceActivity" image="medito"/>
     <AppIcon name="com.simplemobiletools.clock/com.simplemobiletools.clock.activities.SplashActivity.Orange" image="uhr"/>
+    <AppIcon name="com.reddit.frontpage.rvx/launcher.default" image="rvx_reddit"/>
 
 </Theme>
