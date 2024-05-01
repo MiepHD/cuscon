@@ -642,6 +642,7 @@
 	<item drawable="awox_homecontrol" />
 	<item drawable="axp_apk_extractor" />
     <category title="B" />
+    <item drawable="bromite" />
     <item drawable="boost" />
     <item drawable="bangla_dictionary" />
     <item drawable="blitzortung_moniteur_dactivite_orageuse" />
@@ -854,6 +855,7 @@
 	<item drawable="bycs_drive" />
     <item drawable="ballozi_skynox" />
     <category title="C" />
+    <item drawable="casio_watches" />
     <item drawable="chiki" />
     <item drawable="cookpad" />
     <item drawable="craigslist" />
@@ -1572,6 +1574,7 @@
 	<item drawable="explorer" />
 	<item drawable="exteragram" />
     <category title="F" />
+    <item drawable="fotocamera" />
     <item drawable="foldplay" />
     <item drawable="filezilla" />
     <item drawable="f_droid" />
@@ -3104,6 +3107,8 @@
 	<item drawable="nozzle" />
 	<item drawable="nytimes" />
     <category title="O" />
+    <item drawable="openboard" />
+    <item drawable="origins" />
     <item drawable="one_more_line" />
     <item drawable="oasis_launcher" />
     <item drawable="obedience" />
@@ -3247,6 +3252,7 @@
 	<item drawable="ovag_e_mobil" />
 	<item drawable="owlfiles" />
     <category title="P" />
+    <item drawable="prezzi_benzina" />
     <item drawable="pocket_mortys" />
     <item drawable="pie_launcher" />
     <item drawable="p_r_o_t_o" />

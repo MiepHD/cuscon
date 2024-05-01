@@ -5022,5 +5022,11 @@
     <item component="ComponentInfo{com.medisafe.android.client/com.medisafe.android.base.activities.initial.InitialActivity}" drawable="medisafe" />
     <item component="ComponentInfo{com.realbyteapps.moneymanagerfree/com.realbyteapps.moneymanagerfree.MMFreeActivity}" drawable="money_manager" />
     <item component="ComponentInfo{net.nurik.roman.muzei/com.google.android.apps.muzei.MuzeiActivity}" drawable="muzei" />
+    <item component="ComponentInfo{org.bromite.bromite/com.google.android.apps.chrome.Main}" drawable="bromite" />
+    <item component="ComponentInfo{com.casio.wac_app/com.casio.wac_app.MainActivity}" drawable="casio_watches" />
+    <item component="ComponentInfo{com.oplus.camera/com.oplus.camera.Camera}" drawable="fotocamera" />
+    <item component="ComponentInfo{org.dslul.openboard.inputmethod.latin/org.dslul.openboard.inputmethod.latin.setup.SetupActivity}" drawable="openboard" />
+    <item component="ComponentInfo{com.ironhidegames.android.kingdomrushorigins/com.ironhidegames.android.kr.act_game.KRGameActivity}" drawable="origins" />
+    <item component="ComponentInfo{org.vernazza.androidfuel/it.prezzibenzina.pb3.activities.MainActivity}" drawable="prezzi_benzina" />
 
 </resources>
