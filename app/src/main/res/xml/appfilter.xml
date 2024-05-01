@@ -4961,5 +4961,8 @@
     <item component="ComponentInfo{org.lineageos.audiofx/org.lineageos.audiofx.activity.ActivityMusic}" drawable="audiofx" />
     <item component="ComponentInfo{ws.xsoh.etar/com.android.calendar.AllInOneActivity}" drawable="etar" />
     <calendar component="ComponentInfo{ws.xsoh.etar/com.android.calendar.AllInOneActivity}" prefix="etar_" />
+    <item component="ComponentInfo{com.blackberry.infrastructure/com.blackberry.infrastructure.ui.InfrastructureUiActivity}" drawable="blackberry_hub_services" />
+    <item component="ComponentInfo{com.huawei.bone/com.huawei.bone.root.SplashActivity}" drawable="huawei_wear" />
+    <item component="ComponentInfo{com.ero.kinoko/com.ero.kinoko.MainActivity}" drawable="kinoko" />
 
 </resources>

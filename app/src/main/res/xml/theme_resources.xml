@@ -4946,5 +4946,8 @@
     <AppIcon name="com.panotogomo.lbsunflower/com.panotogomo.lbsunflower.activities.SplashActivity" image="sunflower"/>
     <AppIcon name="org.lineageos.audiofx/org.lineageos.audiofx.activity.ActivityMusic" image="audiofx"/>
     <AppIcon name="ws.xsoh.etar/com.android.calendar.AllInOneActivity" image="etar"/>
+    <AppIcon name="com.blackberry.infrastructure/com.blackberry.infrastructure.ui.InfrastructureUiActivity" image="blackberry_hub_services"/>
+    <AppIcon name="com.huawei.bone/com.huawei.bone.root.SplashActivity" image="huawei_wear"/>
+    <AppIcon name="com.ero.kinoko/com.ero.kinoko.MainActivity" image="kinoko"/>
 
 </Theme>
