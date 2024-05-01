@@ -252,6 +252,7 @@
     <item drawable="google_wifi" />
     <item drawable="googleassistant2" />
     <category title="A" />
+    <item drawable="antivirus_free" />
     <item drawable="afwall_" />
     <item drawable="alfagift" />
     <item drawable="allofresh" />
@@ -1570,6 +1571,7 @@
 	<item drawable="explorer" />
 	<item drawable="exteragram" />
     <category title="F" />
+    <item drawable="foldplay" />
     <item drawable="filezilla" />
     <item drawable="f_droid" />
     <item drawable="f_droid_basic" />
