@@ -4979,5 +4979,11 @@
     <AppIcon name="com.simplemobiletools.clock/com.simplemobiletools.clock.activities.SplashActivity.Orange" image="uhr"/>
     <AppIcon name="com.reddit.frontpage.rvx/launcher.default" image="rvx_reddit"/>
     <AppIcon name="com.kfc.tt/com.kfc.tt.SplashActivity" image="kfc"/>
+    <AppIcon name="com.fanglz.android.filemanager/com.fanglz.android.filemanager.FileManageMainActivity" image="filezilla"/>
+    <AppIcon name="org.mopria.printplugin/org.mopria.printplugin.SplashScreenActivity" image="mopria_print"/>
+    <AppIcon name="org.mopria.scan.application/org.mopria.scan.application.activities.SplashScreenActivity" image="mopria_scan"/>
+    <AppIcon name="com.digicel.selfcare.mobile/com.example.mda.MainActivity" image="mydigicel"/>
+    <AppIcon name="com.smgstudio.onemoreline/com.unity3d.player.UnityPlayerActivity" image="one_more_line"/>
+    <AppIcon name="de.markusfisch.android.pielauncher/de.markusfisch.android.pielauncher.activity.HomeActivity" image="pie_launcher"/>
 
 </Theme>

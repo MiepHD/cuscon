@@ -1567,6 +1567,7 @@
 	<item drawable="explorer" />
 	<item drawable="exteragram" />
     <category title="F" />
+    <item drawable="filezilla" />
     <item drawable="f_droid" />
     <item drawable="f_droid_basic" />
     <item drawable="f_droid_build_status" />
@@ -2536,6 +2537,9 @@
 	<item drawable="lucky_wasted" />
 	<item drawable="lux_o_meter_lichtmesser" />
     <category title="M" />
+    <item drawable="mopria_print" />
+    <item drawable="mopria_scan" />
+    <item drawable="mydigicel" />
     <item drawable="medito" />
     <item drawable="mitteilungen" />
     <item drawable="my_chihiros" />
@@ -3087,6 +3091,7 @@
 	<item drawable="nozzle" />
 	<item drawable="nytimes" />
     <category title="O" />
+    <item drawable="one_more_line" />
     <item drawable="oasis_launcher" />
     <item drawable="obedience" />
     <item drawable="obooks_daedawe" />
@@ -3229,6 +3234,7 @@
 	<item drawable="ovag_e_mobil" />
 	<item drawable="owlfiles" />
     <category title="P" />
+    <item drawable="pie_launcher" />
     <item drawable="p_r_o_t_o" />
     <item drawable="pa_drivers_practice_exam" />
     <item drawable="pac_man_256" />

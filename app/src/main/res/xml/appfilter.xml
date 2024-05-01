@@ -4994,5 +4994,11 @@
     <item component="ComponentInfo{com.simplemobiletools.clock/com.simplemobiletools.clock.activities.SplashActivity.Orange}" drawable="uhr" />
     <item component="ComponentInfo{com.reddit.frontpage.rvx/launcher.default}" drawable="rvx_reddit" />
     <item component="ComponentInfo{com.kfc.tt/com.kfc.tt.SplashActivity}" drawable="kfc" />
+    <item component="ComponentInfo{com.fanglz.android.filemanager/com.fanglz.android.filemanager.FileManageMainActivity}" drawable="filezilla" />
+    <item component="ComponentInfo{org.mopria.printplugin/org.mopria.printplugin.SplashScreenActivity}" drawable="mopria_print" />
+    <item component="ComponentInfo{org.mopria.scan.application/org.mopria.scan.application.activities.SplashScreenActivity}" drawable="mopria_scan" />
+    <item component="ComponentInfo{com.digicel.selfcare.mobile/com.example.mda.MainActivity}" drawable="mydigicel" />
+    <item component="ComponentInfo{com.smgstudio.onemoreline/com.unity3d.player.UnityPlayerActivity}" drawable="one_more_line" />
+    <item component="ComponentInfo{de.markusfisch.android.pielauncher/de.markusfisch.android.pielauncher.activity.HomeActivity}" drawable="pie_launcher" />
 
 </resources>
