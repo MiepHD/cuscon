@@ -4958,5 +4958,8 @@
     <item component="ComponentInfo{com.ortussq.rohitsingh/com.ortussq.rohitsingh.activities.SplashActivity}" drawable="ortus_square" />
     <item component="ComponentInfo{com.panotogomo.lbredcarpet/com.panotogomo.lbredcarpet.activities.SplashActivity}" drawable="red_carpet" />
     <item component="ComponentInfo{com.panotogomo.lbsunflower/com.panotogomo.lbsunflower.activities.SplashActivity}" drawable="sunflower" />
+    <item component="ComponentInfo{org.lineageos.audiofx/org.lineageos.audiofx.activity.ActivityMusic}" drawable="audiofx" />
+    <item component="ComponentInfo{ws.xsoh.etar/com.android.calendar.AllInOneActivity}" drawable="etar" />
+    <calendar component="ComponentInfo{ws.xsoh.etar/com.android.calendar.AllInOneActivity}" prefix="etar_" />
 
 </resources>

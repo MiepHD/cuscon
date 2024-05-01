@@ -4944,5 +4944,7 @@
     <AppIcon name="com.ortussq.rohitsingh/com.ortussq.rohitsingh.activities.SplashActivity" image="ortus_square"/>
     <AppIcon name="com.panotogomo.lbredcarpet/com.panotogomo.lbredcarpet.activities.SplashActivity" image="red_carpet"/>
     <AppIcon name="com.panotogomo.lbsunflower/com.panotogomo.lbsunflower.activities.SplashActivity" image="sunflower"/>
+    <AppIcon name="org.lineageos.audiofx/org.lineageos.audiofx.activity.ActivityMusic" image="audiofx"/>
+    <AppIcon name="ws.xsoh.etar/com.android.calendar.AllInOneActivity" image="etar"/>
 
 </Theme>

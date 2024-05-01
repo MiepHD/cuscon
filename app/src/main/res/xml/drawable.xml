@@ -157,6 +157,37 @@
     <item drawable="android_calendar_29" />
     <item drawable="android_calendar_30" />
     <item drawable="android_calendar_31" />
+    <item drawable="etar_1" />
+    <item drawable="etar_2" />
+    <item drawable="etar_3" />
+    <item drawable="etar_4" />
+    <item drawable="etar_5" />
+    <item drawable="etar_6" />
+    <item drawable="etar_7" />
+    <item drawable="etar_8" />
+    <item drawable="etar_9" />
+    <item drawable="etar_10" />
+    <item drawable="etar_11" />
+    <item drawable="etar_12" />
+    <item drawable="etar_13" />
+    <item drawable="etar_14" />
+    <item drawable="etar_15" />
+    <item drawable="etar_16" />
+    <item drawable="etar_17" />
+    <item drawable="etar_18" />
+    <item drawable="etar_19" />
+    <item drawable="etar_20" />
+    <item drawable="etar_21" />
+    <item drawable="etar_22" />
+    <item drawable="etar_23" />
+    <item drawable="etar_24" />
+    <item drawable="etar_25" />
+    <item drawable="etar_26" />
+    <item drawable="etar_27" />
+    <item drawable="etar_28" />
+    <item drawable="etar_29" />
+    <item drawable="etar_30" />
+    <item drawable="etar_31" />
     <category title="Samsung" />
     <item drawable="samsung_members" />
 	<item drawable="samsung_pass" />
@@ -4890,5 +4921,7 @@
     <item drawable="ortus_square" />
     <item drawable="red_carpet" />
     <item drawable="sunflower" />
+    <item drawable="audiofx" />
+    <item drawable="etar" />
 
 </resources>
