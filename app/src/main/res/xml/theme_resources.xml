@@ -4960,5 +4960,6 @@
     <AppIcon name="com.tokomashidup/com.tokomashidup.MainActivity" image="toko_mas_hidup"/>
     <AppIcon name="org.piepmeyer.gauguin/org.piepmeyer.gauguin.ui.main.MainActivity" image="gauguin"/>
     <AppIcon name="com.poupa.vinylmusicplayer/com.poupa.vinylmusicplayer.ui.activities.MainActivity" image="vinyl"/>
+    <AppIcon name="com.ea.gp.fifaultimate/com.ea.gp.fifaultimate.MainActivity" image="companion"/>
 
 </Theme>

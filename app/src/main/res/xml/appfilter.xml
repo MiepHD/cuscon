@@ -4975,5 +4975,6 @@
     <item component="ComponentInfo{com.tokomashidup/com.tokomashidup.MainActivity}" drawable="toko_mas_hidup" />
     <item component="ComponentInfo{org.piepmeyer.gauguin/org.piepmeyer.gauguin.ui.main.MainActivity}" drawable="gauguin" />
     <item component="ComponentInfo{com.poupa.vinylmusicplayer/com.poupa.vinylmusicplayer.ui.activities.MainActivity}" drawable="vinyl" />
+    <item component="ComponentInfo{com.ea.gp.fifaultimate/com.ea.gp.fifaultimate.MainActivity}" drawable="companion" />
 
 </resources>

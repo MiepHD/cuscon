@@ -848,6 +848,7 @@
 	<item drawable="buzzing_bee_adventure" />
 	<item drawable="bycs_drive" />
     <category title="C" />
+    <item drawable="companion" />
     <item drawable="c001apk" />
     <item drawable="c24_bank" />
     <item drawable="c_geo" />
