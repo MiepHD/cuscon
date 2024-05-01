@@ -4978,5 +4978,6 @@
     <AppIcon name="meditofoundation.medito/com.ryanheise.audioservice.AudioServiceActivity" image="medito"/>
     <AppIcon name="com.simplemobiletools.clock/com.simplemobiletools.clock.activities.SplashActivity.Orange" image="uhr"/>
     <AppIcon name="com.reddit.frontpage.rvx/launcher.default" image="rvx_reddit"/>
+    <AppIcon name="com.kfc.tt/com.kfc.tt.SplashActivity" image="kfc"/>
 
 </Theme>
