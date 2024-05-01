@@ -4992,5 +4992,7 @@
     <AppIcon name="bd.com.ucb.unet/business.theucblbank.com.ucblbank.features.SplashActivity" image="unet"/>
     <AppIcon name="com.mufumbo.android.recipe.search/com.cookpad.android.app.gateway.GatewayActivity" image="cookpad"/>
     <AppIcon name="com.kompasproductions.summertimesaga/org.renpy.android.PythonSDLActivity" image="summertimesaga"/>
+    <AppIcon name="com.southwestairlines.mobile/com.southwestairlines.mobile.common.splash.SplashActivity" image="southwest"/>
+    <AppIcon name="com.wf.wellsfargomobile/com.wf.wellsfargomobile.LauncherActivity" image="wells_fargo"/>
 
 </Theme>

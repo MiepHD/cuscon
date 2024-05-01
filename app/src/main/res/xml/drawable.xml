@@ -3772,6 +3772,7 @@
 	<item drawable="rustdesk" />
 	<item drawable="rvx_music" />
     <category title="S" />
+    <item drawable="southwest" />
     <item drawable="summertimesaga" />
     <item drawable="shopee_lite" />
     <item drawable="saber" />
@@ -4649,6 +4650,7 @@
 	<item drawable="vr_banking_app" />
 	<item drawable="vsolution_app" />
     <category title="W" />
+    <item drawable="wells_fargo" />
     <item drawable="wa_business" />
     <item drawable="wabox" />
     <item drawable="wadbs" />

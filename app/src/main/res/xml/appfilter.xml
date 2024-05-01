@@ -5007,5 +5007,7 @@
     <item component="ComponentInfo{bd.com.ucb.unet/business.theucblbank.com.ucblbank.features.SplashActivity}" drawable="unet" />
     <item component="ComponentInfo{com.mufumbo.android.recipe.search/com.cookpad.android.app.gateway.GatewayActivity}" drawable="cookpad" />
     <item component="ComponentInfo{com.kompasproductions.summertimesaga/org.renpy.android.PythonSDLActivity}" drawable="summertimesaga" />
+    <item component="ComponentInfo{com.southwestairlines.mobile/com.southwestairlines.mobile.common.splash.SplashActivity}" drawable="southwest" />
+    <item component="ComponentInfo{com.wf.wellsfargomobile/com.wf.wellsfargomobile.LauncherActivity}" drawable="wells_fargo" />
 
 </resources>
