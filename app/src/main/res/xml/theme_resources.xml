@@ -4920,5 +4920,16 @@
     <AppIcon name="fr.dogeo.osmgo/fr.dogeo.osmgo.MainActivity" image="osm_go_"/>
     <AppIcon name="app.dapk.st/app.dapk.st.MainActivity" image="smalltalk"/>
     <AppIcon name="com.framebyframe/com.framebyframe.SplashActivity" image="frame_by_frame"/>
+    <AppIcon name="xyz.Quickdev.Animiru.mi/eu.kanade.tachiyomi.ui.main.MainActivity" image="animiru"/>
+    <AppIcon name="com.rayark.cytus2/com.google.firebase.MessagingUnityPlayerActivity" image="cytus_ii"/>
+    <AppIcon name="com.playdigious.deadcells.mobile/com.playdigious.deadcells.mobile.DeadCellsLoading" image="dead_cells"/>
+    <AppIcon name="com.KonfaGames.Despotism3k/com.unity3d.player.UnityPlayerActivity" image="despotism_3k"/>
+    <AppIcon name="com.morizero.milthm/com.unity3d.player.UnityPlayerActivity" image="milthm"/>
+    <AppIcon name="com.moonton.mobilehero/com.moonton.mobilehero.AppActivity" image="ml_adventure"/>
+    <AppIcon name="com.mobile.legends/com.moba.unityplugin.MobaGameMainActivityWithExtractor" image="mobile_legends_bang_bang"/>
+    <AppIcon name="com.proximabeta.nikke/com.shiftup.nk.MainActivity" image="nikke"/>
+    <AppIcon name="com.xd.rotaeno.googleplay/com.unity3d.player.UnityPlayerActivity" image="rotaeno"/>
+    <AppIcon name="com.chillyroom.soulknightprequel/com.chillyroomsdk.sdkbridge.BasePlayerActivity" image="soul_knight_prequel"/>
+    <AppIcon name="com.tokopedia.tkpd/com.tokopedia.tkpd.ConsumerSplashScreen" image="tokopedia"/>
 
 </Theme>

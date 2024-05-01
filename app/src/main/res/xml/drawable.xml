@@ -4866,5 +4866,16 @@
     <item drawable="osm_go_" />
     <item drawable="smalltalk" />
     <item drawable="frame_by_frame" />
+    <item drawable="animiru" />
+    <item drawable="cytus_ii" />
+    <item drawable="dead_cells" />
+    <item drawable="despotism_3k" />
+    <item drawable="milthm" />
+    <item drawable="ml_adventure" />
+    <item drawable="mobile_legends_bang_bang" />
+    <item drawable="nikke" />
+    <item drawable="rotaeno" />
+    <item drawable="soul_knight_prequel" />
+    <item drawable="tokopedia" />
 
 </resources>

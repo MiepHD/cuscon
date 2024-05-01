@@ -4934,5 +4934,16 @@
     <item component="ComponentInfo{fr.dogeo.osmgo/fr.dogeo.osmgo.MainActivity}" drawable="osm_go_" />
     <item component="ComponentInfo{app.dapk.st/app.dapk.st.MainActivity}" drawable="smalltalk" />
     <item component="ComponentInfo{com.framebyframe/com.framebyframe.SplashActivity}" drawable="frame_by_frame" />
+    <item component="ComponentInfo{xyz.Quickdev.Animiru.mi/eu.kanade.tachiyomi.ui.main.MainActivity}" drawable="animiru" />
+    <item component="ComponentInfo{com.rayark.cytus2/com.google.firebase.MessagingUnityPlayerActivity}" drawable="cytus_ii" />
+    <item component="ComponentInfo{com.playdigious.deadcells.mobile/com.playdigious.deadcells.mobile.DeadCellsLoading}" drawable="dead_cells" />
+    <item component="ComponentInfo{com.KonfaGames.Despotism3k/com.unity3d.player.UnityPlayerActivity}" drawable="despotism_3k" />
+    <item component="ComponentInfo{com.morizero.milthm/com.unity3d.player.UnityPlayerActivity}" drawable="milthm" />
+    <item component="ComponentInfo{com.moonton.mobilehero/com.moonton.mobilehero.AppActivity}" drawable="ml_adventure" />
+    <item component="ComponentInfo{com.mobile.legends/com.moba.unityplugin.MobaGameMainActivityWithExtractor}" drawable="mobile_legends_bang_bang" />
+    <item component="ComponentInfo{com.proximabeta.nikke/com.shiftup.nk.MainActivity}" drawable="nikke" />
+    <item component="ComponentInfo{com.xd.rotaeno.googleplay/com.unity3d.player.UnityPlayerActivity}" drawable="rotaeno" />
+    <item component="ComponentInfo{com.chillyroom.soulknightprequel/com.chillyroomsdk.sdkbridge.BasePlayerActivity}" drawable="soul_knight_prequel" />
+    <item component="ComponentInfo{com.tokopedia.tkpd/com.tokopedia.tkpd.ConsumerSplashScreen}" drawable="tokopedia" />
 
 </resources>
