@@ -252,7 +252,9 @@
     <item drawable="google_wifi" />
     <item drawable="googleassistant2" />
     <category title="A" />
-   <item drawable="abattery" />
+    <item drawable="alfagift" />
+    <item drawable="allofresh" />
+    <item drawable="abattery" />
     <item drawable="absher" />
     <item drawable="acaltasks" />
     <item drawable="account_book" />
@@ -638,6 +640,7 @@
 	<item drawable="awox_homecontrol" />
 	<item drawable="axp_apk_extractor" />
     <category title="B" />
+    <item drawable="byu" />
     <item drawable="b_and_h" />
     <item drawable="b_and_q" />
     <item drawable="ba_mobil" />
@@ -1770,6 +1773,7 @@
 	<item drawable="futo_voice_input" />
 	<item drawable="fx" />
     <category title="G" />
+    <item drawable="gojek" />
     <item drawable="g2a" />
     <item drawable="g_stomper_studio" />
     <item drawable="gadgetbridge" />
@@ -2269,6 +2273,7 @@
 	<item drawable="justchess" />
 	<item drawable="justdial" />
     <category title="K" />
+    <item drawable="klik_indomaret" />
     <item drawable="kabbalah" />
     <item drawable="kafka" />
     <item drawable="kahoot_" />
@@ -3550,6 +3555,8 @@
 	<item drawable="quik" />
 	<item drawable="quillpad" />
     <category title="R" />
+    <item drawable="radio_indah_siar" />
+    <item drawable="radio_islam_indonesia" />
     <item drawable="r_and_b_fashion" />
     <item drawable="rac1" />
     <item drawable="rac105" />
@@ -3739,6 +3746,7 @@
 	<item drawable="rustdesk" />
 	<item drawable="rvx_music" />
     <category title="S" />
+    <item drawable="shopee_lite" />
     <item drawable="saber" />
     <item drawable="safe_space" />
     <item drawable="safenow" />
@@ -4162,6 +4170,7 @@
 	<item drawable="swiss_post" />
 	<item drawable="systemui_tuner" />
     <category title="T" />
+    <item drawable="toko_mas_hidup" />
     <item drawable="t_life" />
     <item drawable="t_mobile" />
     <item drawable="taaft" />

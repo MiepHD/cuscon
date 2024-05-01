@@ -4949,5 +4949,14 @@
     <AppIcon name="com.blackberry.infrastructure/com.blackberry.infrastructure.ui.InfrastructureUiActivity" image="blackberry_hub_services"/>
     <AppIcon name="com.huawei.bone/com.huawei.bone.root.SplashActivity" image="huawei_wear"/>
     <AppIcon name="com.ero.kinoko/com.ero.kinoko.MainActivity" image="kinoko"/>
+    <AppIcon name="com.alfamart.alfagift/com.alfamart.alfagift.screen.splash.SplashActivity" image="alfagift"/>
+    <AppIcon name="id.allofresh.ecommerce/id.allofresh.ecommerce.allofresh_flutter.host.MainActivity" image="allofresh"/>
+    <AppIcon name="com.byu.id/com.byu.id.MainActivity" image="byu"/>
+    <AppIcon name="com.gojek.app/com.gojek.home.splash.GojekSplashActivity" image="gojek"/>
+    <AppIcon name="com.indomaret.klikindomaret/com.indomaret.klikindomaret.MainActivity" image="klik_indomaret"/>
+    <AppIcon name="com.uwaiscode.uc_radio_indahsiar/com.uwaiscode.uc_radio_indahsiar.MainActivity" image="radio_indah_siar"/>
+    <AppIcon name="dev.oasemedia.radioislamindonesia/dev.oasemedia.radioislamindonesia.MainActivity" image="radio_islam_indonesia"/>
+    <AppIcon name="com.shopee.lite.id/com.shopee.app.ui.home.HomeActivity_" image="shopee_lite"/>
+    <AppIcon name="com.tokomashidup/com.tokomashidup.MainActivity" image="toko_mas_hidup"/>
 
 </Theme>

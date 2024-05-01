@@ -4964,5 +4964,14 @@
     <item component="ComponentInfo{com.blackberry.infrastructure/com.blackberry.infrastructure.ui.InfrastructureUiActivity}" drawable="blackberry_hub_services" />
     <item component="ComponentInfo{com.huawei.bone/com.huawei.bone.root.SplashActivity}" drawable="huawei_wear" />
     <item component="ComponentInfo{com.ero.kinoko/com.ero.kinoko.MainActivity}" drawable="kinoko" />
+    <item component="ComponentInfo{com.alfamart.alfagift/com.alfamart.alfagift.screen.splash.SplashActivity}" drawable="alfagift" />
+    <item component="ComponentInfo{id.allofresh.ecommerce/id.allofresh.ecommerce.allofresh_flutter.host.MainActivity}" drawable="allofresh" />
+    <item component="ComponentInfo{com.byu.id/com.byu.id.MainActivity}" drawable="byu" />
+    <item component="ComponentInfo{com.gojek.app/com.gojek.home.splash.GojekSplashActivity}" drawable="gojek" />
+    <item component="ComponentInfo{com.indomaret.klikindomaret/com.indomaret.klikindomaret.MainActivity}" drawable="klik_indomaret" />
+    <item component="ComponentInfo{com.uwaiscode.uc_radio_indahsiar/com.uwaiscode.uc_radio_indahsiar.MainActivity}" drawable="radio_indah_siar" />
+    <item component="ComponentInfo{dev.oasemedia.radioislamindonesia/dev.oasemedia.radioislamindonesia.MainActivity}" drawable="radio_islam_indonesia" />
+    <item component="ComponentInfo{com.shopee.lite.id/com.shopee.app.ui.home.HomeActivity_}" drawable="shopee_lite" />
+    <item component="ComponentInfo{com.tokomashidup/com.tokomashidup.MainActivity}" drawable="toko_mas_hidup" />
 
 </resources>
