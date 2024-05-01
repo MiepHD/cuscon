@@ -4886,5 +4886,9 @@
     <item drawable="colorsniffer" />
     <item drawable="diconfinement" />
     <item drawable="ecutt" />
+    <item drawable="golden_gradient_icon_pack" />
+    <item drawable="ortus_square" />
+    <item drawable="red_carpet" />
+    <item drawable="sunflower" />
 
 </resources>

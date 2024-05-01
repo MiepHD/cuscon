@@ -4954,5 +4954,9 @@
     <item component="ComponentInfo{ryey.colorsniffer/ryey.colorsniffer.MainActivity}" drawable="colorsniffer" />
     <item component="ComponentInfo{com.confinement.diconfinement/com.confinement.diconfinement.MainActivity}" drawable="diconfinement" />
     <item component="ComponentInfo{com.homecu.easterncu/com.homecu.phoenix.SplashActivity}" drawable="ecutt" />
+    <item component="ComponentInfo{com.italiano.goldengradient/com.italiano.goldengradient.activities.MainActivity}" drawable="golden_gradient_icon_pack" />
+    <item component="ComponentInfo{com.ortussq.rohitsingh/com.ortussq.rohitsingh.activities.SplashActivity}" drawable="ortus_square" />
+    <item component="ComponentInfo{com.panotogomo.lbredcarpet/com.panotogomo.lbredcarpet.activities.SplashActivity}" drawable="red_carpet" />
+    <item component="ComponentInfo{com.panotogomo.lbsunflower/com.panotogomo.lbsunflower.activities.SplashActivity}" drawable="sunflower" />
 
 </resources>

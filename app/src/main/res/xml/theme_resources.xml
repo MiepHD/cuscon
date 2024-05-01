@@ -4940,5 +4940,9 @@
     <AppIcon name="ryey.colorsniffer/ryey.colorsniffer.MainActivity" image="colorsniffer"/>
     <AppIcon name="com.confinement.diconfinement/com.confinement.diconfinement.MainActivity" image="diconfinement"/>
     <AppIcon name="com.homecu.easterncu/com.homecu.phoenix.SplashActivity" image="ecutt"/>
+    <AppIcon name="com.italiano.goldengradient/com.italiano.goldengradient.activities.MainActivity" image="golden_gradient_icon_pack"/>
+    <AppIcon name="com.ortussq.rohitsingh/com.ortussq.rohitsingh.activities.SplashActivity" image="ortus_square"/>
+    <AppIcon name="com.panotogomo.lbredcarpet/com.panotogomo.lbredcarpet.activities.SplashActivity" image="red_carpet"/>
+    <AppIcon name="com.panotogomo.lbsunflower/com.panotogomo.lbsunflower.activities.SplashActivity" image="sunflower"/>
 
 </Theme>
