@@ -5005,5 +5005,6 @@
     <item component="ComponentInfo{com.arena.banglalinkmela.app/com.arena.banglalinkmela.app.ui.splash.SplashActivity}" drawable="mybl" />
     <item component="ComponentInfo{ridmik.keyboard.classic/setup.MainActivity}" drawable="ridmik_classic_keyboard" />
     <item component="ComponentInfo{bd.com.ucb.unet/business.theucblbank.com.ucblbank.features.SplashActivity}" drawable="unet" />
+    <item component="ComponentInfo{com.mufumbo.android.recipe.search/com.cookpad.android.app.gateway.GatewayActivity}" drawable="cookpad" />
 
 </resources>

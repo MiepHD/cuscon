@@ -4990,5 +4990,6 @@
     <AppIcon name="com.arena.banglalinkmela.app/com.arena.banglalinkmela.app.ui.splash.SplashActivity" image="mybl"/>
     <AppIcon name="ridmik.keyboard.classic/setup.MainActivity" image="ridmik_classic_keyboard"/>
     <AppIcon name="bd.com.ucb.unet/business.theucblbank.com.ucblbank.features.SplashActivity" image="unet"/>
+    <AppIcon name="com.mufumbo.android.recipe.search/com.cookpad.android.app.gateway.GatewayActivity" image="cookpad"/>
 
 </Theme>
