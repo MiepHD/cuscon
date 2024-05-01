@@ -252,6 +252,7 @@
     <item drawable="google_wifi" />
     <item drawable="googleassistant2" />
     <category title="A" />
+    <item drawable="accubattery" />
     <item drawable="ampere" />
     <item drawable="antivirus_free" />
     <item drawable="afwall_" />
@@ -643,6 +644,7 @@
 	<item drawable="awox_homecontrol" />
 	<item drawable="axp_apk_extractor" />
     <category title="B" />
+    <item drawable="bankin" />
     <item drawable="bromite" />
     <item drawable="boost" />
     <item drawable="bangla_dictionary" />
@@ -856,6 +858,7 @@
 	<item drawable="bycs_drive" />
     <item drawable="ballozi_skynox" />
     <category title="C" />
+    <item drawable="cozy" />
     <item drawable="casio_watches" />
     <item drawable="chiki" />
     <item drawable="cookpad" />
@@ -1427,6 +1430,7 @@
 	<item drawable="dynalist" />
 	<item drawable="dynamicspot" />
     <category title="E" />
+    <item drawable="electricity_maps" />
     <item drawable="e_camera" />
     <item drawable="e_kartoteka" />
     <item drawable="e_liquid_recipes" />
@@ -2239,6 +2243,7 @@
 	<item drawable="ir_remote" />
 	<item drawable="iron" />
     <category title="J" />
+    <item drawable="jeux" />
     <item drawable="jackd" />
     <item drawable="j2me_loader" />
     <item drawable="jaco" />
@@ -3110,6 +3115,7 @@
 	<item drawable="nozzle" />
 	<item drawable="nytimes" />
     <category title="O" />
+    <item drawable="ohealth" />
     <item drawable="outlook_lite" />
     <item drawable="openboard" />
     <item drawable="origins" />

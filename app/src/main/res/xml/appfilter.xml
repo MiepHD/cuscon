@@ -5038,5 +5038,11 @@
     <item component="ComponentInfo{com.sbi.SBIFreedomPlus/com.sbi.SBIFreedomPlus.SBIYonoLite}" drawable="yono_lite_sbi" />
     <item component="ComponentInfo{com.cyberlink.youperfect/com.cyberlink.youperfect.activity.SplashActivity}" drawable="youcam_perfect" />
     <item component="ComponentInfo{com.huami.watch.hmwatchmanager/com.xiaomi.hm.health.activity.StartUpActivity}" drawable="zepp" />
+    <item component="ComponentInfo{com.digibites.accubattery/com.digibites.abatterysaver.BatterySaverActivity}" drawable="accubattery" />
+    <item component="ComponentInfo{com.bankeen/com.bankeen.common.activities.core.LauncherActivity_}" drawable="bankin" />
+    <item component="ComponentInfo{io.cozy.flagship.mobile/io.cozy.flagship.mobile.MainActivitybase}" drawable="cozy" />
+    <item component="ComponentInfo{com.tmrow.electricitymap/com.tmrow.electricitymap.MainActivity}" drawable="electricity_maps" />
+    <item component="ComponentInfo{com.oplus.games/com.oplus.games.ui.main.MainGameActivity}" drawable="jeux" />
+    <item component="ComponentInfo{com.heytap.health.international/com.heytap.health.launch.LaunchActivity}" drawable="ohealth" />
 
 </resources>

@@ -5023,5 +5023,11 @@
     <AppIcon name="com.sbi.SBIFreedomPlus/com.sbi.SBIFreedomPlus.SBIYonoLite" image="yono_lite_sbi"/>
     <AppIcon name="com.cyberlink.youperfect/com.cyberlink.youperfect.activity.SplashActivity" image="youcam_perfect"/>
     <AppIcon name="com.huami.watch.hmwatchmanager/com.xiaomi.hm.health.activity.StartUpActivity" image="zepp"/>
+    <AppIcon name="com.digibites.accubattery/com.digibites.abatterysaver.BatterySaverActivity" image="accubattery"/>
+    <AppIcon name="com.bankeen/com.bankeen.common.activities.core.LauncherActivity_" image="bankin"/>
+    <AppIcon name="io.cozy.flagship.mobile/io.cozy.flagship.mobile.MainActivitybase" image="cozy"/>
+    <AppIcon name="com.tmrow.electricitymap/com.tmrow.electricitymap.MainActivity" image="electricity_maps"/>
+    <AppIcon name="com.oplus.games/com.oplus.games.ui.main.MainGameActivity" image="jeux"/>
+    <AppIcon name="com.heytap.health.international/com.heytap.health.launch.LaunchActivity" image="ohealth"/>
 
 </Theme>
