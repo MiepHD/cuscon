@@ -4959,5 +4959,6 @@
     <AppIcon name="com.shopee.lite.id/com.shopee.app.ui.home.HomeActivity_" image="shopee_lite"/>
     <AppIcon name="com.tokomashidup/com.tokomashidup.MainActivity" image="toko_mas_hidup"/>
     <AppIcon name="org.piepmeyer.gauguin/org.piepmeyer.gauguin.ui.main.MainActivity" image="gauguin"/>
+    <AppIcon name="com.poupa.vinylmusicplayer/com.poupa.vinylmusicplayer.ui.activities.MainActivity" image="vinyl"/>
 
 </Theme>
