@@ -2531,6 +2531,7 @@
 	<item drawable="lucky_wasted" />
 	<item drawable="lux_o_meter_lichtmesser" />
     <category title="M" />
+    <item drawable="mupdf_mini" />
     <item drawable="m_and_s" />
     <item drawable="m_and_t_bank" />
     <item drawable="ma_net_vpn" />

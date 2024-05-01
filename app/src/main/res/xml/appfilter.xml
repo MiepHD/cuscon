@@ -4978,5 +4978,7 @@
     <item component="ComponentInfo{com.ea.gp.fifaultimate/com.ea.gp.fifaultimate.MainActivity}" drawable="companion" />
     <item component="ComponentInfo{com.watchfacestudio.ballozi.skynox.watchface/com.watchfacestudio.ballozi.skynox.watchface.MainMobileActivity}" drawable="ballozi_skynox" />
     <item component="ComponentInfo{com.dimou1137.cryptomoment/com.dimou1137.cryptonewsapp.MainActivity}" drawable="cryptomoment" />
+    <item component="ComponentInfo{com.artifex.mupdf.mini.app/com.artifex.mupdf.mini.app.LibraryActivity}" drawable="mupdf_mini" />
+    <item component="ComponentInfo{com.artifex.mupdf.viewer.app/com.artifex.mupdf.viewer.app.LibraryActivity}" drawable="mupdf_mini" />
 
 </resources>
