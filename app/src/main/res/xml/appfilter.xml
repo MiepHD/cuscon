@@ -5029,5 +5029,14 @@
     <item component="ComponentInfo{com.ironhidegames.android.kingdomrushorigins/com.ironhidegames.android.kr.act_game.KRGameActivity}" drawable="origins" />
     <item component="ComponentInfo{org.vernazza.androidfuel/it.prezzibenzina.pb3.activities.MainActivity}" drawable="prezzi_benzina" />
     <item component="ComponentInfo{com.maxxt.kitchentimer/com.maxxt.kitchentimer.ui.activities.MainActivity}" drawable="kitchen_timer" />
+    <item component="ComponentInfo{com.gombosdev.ampere/com.gombosdev.ampere.MainActivity}" drawable="ampere" />
+    <item component="ComponentInfo{com.lenskart.app/com.lenskart.app.main.ui.SplashActivity}" drawable="lenskart" />
+    <item component="ComponentInfo{com.microsoft.outlooklite/com.microsoft.outlooklite.sms.SmsMainActivity}" drawable="outlook_lite" />
+    <item component="ComponentInfo{com.spinny.consumer/com.spinny.consumer.MainActivityregular}" drawable="spinny" />
+    <item component="ComponentInfo{intelligems.torrdroid/intelligems.torrdroid.MainActivity}" drawable="torrdroid" />
+    <item component="ComponentInfo{com.gotruein.one/com.gotruein.one.MainActivity}" drawable="truein_user" />
+    <item component="ComponentInfo{com.sbi.SBIFreedomPlus/com.sbi.SBIFreedomPlus.SBIYonoLite}" drawable="yono_lite_sbi" />
+    <item component="ComponentInfo{com.cyberlink.youperfect/com.cyberlink.youperfect.activity.SplashActivity}" drawable="youcam_perfect" />
+    <item component="ComponentInfo{com.huami.watch.hmwatchmanager/com.xiaomi.hm.health.activity.StartUpActivity}" drawable="zepp" />
 
 </resources>

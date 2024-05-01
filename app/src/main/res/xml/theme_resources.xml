@@ -5014,5 +5014,14 @@
     <AppIcon name="com.ironhidegames.android.kingdomrushorigins/com.ironhidegames.android.kr.act_game.KRGameActivity" image="origins"/>
     <AppIcon name="org.vernazza.androidfuel/it.prezzibenzina.pb3.activities.MainActivity" image="prezzi_benzina"/>
     <AppIcon name="com.maxxt.kitchentimer/com.maxxt.kitchentimer.ui.activities.MainActivity" image="kitchen_timer"/>
+    <AppIcon name="com.gombosdev.ampere/com.gombosdev.ampere.MainActivity" image="ampere"/>
+    <AppIcon name="com.lenskart.app/com.lenskart.app.main.ui.SplashActivity" image="lenskart"/>
+    <AppIcon name="com.microsoft.outlooklite/com.microsoft.outlooklite.sms.SmsMainActivity" image="outlook_lite"/>
+    <AppIcon name="com.spinny.consumer/com.spinny.consumer.MainActivityregular" image="spinny"/>
+    <AppIcon name="intelligems.torrdroid/intelligems.torrdroid.MainActivity" image="torrdroid"/>
+    <AppIcon name="com.gotruein.one/com.gotruein.one.MainActivity" image="truein_user"/>
+    <AppIcon name="com.sbi.SBIFreedomPlus/com.sbi.SBIFreedomPlus.SBIYonoLite" image="yono_lite_sbi"/>
+    <AppIcon name="com.cyberlink.youperfect/com.cyberlink.youperfect.activity.SplashActivity" image="youcam_perfect"/>
+    <AppIcon name="com.huami.watch.hmwatchmanager/com.xiaomi.hm.health.activity.StartUpActivity" image="zepp"/>
 
 </Theme>

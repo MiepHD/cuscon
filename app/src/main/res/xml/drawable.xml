@@ -252,6 +252,7 @@
     <item drawable="google_wifi" />
     <item drawable="googleassistant2" />
     <category title="A" />
+    <item drawable="ampere" />
     <item drawable="antivirus_free" />
     <item drawable="afwall_" />
     <item drawable="alfagift" />
@@ -2406,6 +2407,7 @@
 	<item drawable="kutumb" />
 	<item drawable="kwgt_pro" />
     <category title="L" />
+    <item drawable="lenskart" />
     <item drawable="lab_tests" />
     <item drawable="labcoat" />
     <item drawable="labymod" />
@@ -3108,6 +3110,7 @@
 	<item drawable="nozzle" />
 	<item drawable="nytimes" />
     <category title="O" />
+    <item drawable="outlook_lite" />
     <item drawable="openboard" />
     <item drawable="origins" />
     <item drawable="one_more_line" />
@@ -3790,6 +3793,7 @@
 	<item drawable="rustdesk" />
 	<item drawable="rvx_music" />
     <category title="S" />
+    <item drawable="spinny" />
     <item drawable="southwest" />
     <item drawable="summertimesaga" />
     <item drawable="shopee_lite" />
@@ -4216,6 +4220,8 @@
 	<item drawable="swiss_post" />
 	<item drawable="systemui_tuner" />
     <category title="T" />
+    <item drawable="torrdroid" />
+    <item drawable="truein_user" />
     <item drawable="the_clock" />
     <item drawable="terminal_emulator" />
     <item drawable="track_and_graph" />
@@ -4865,6 +4871,8 @@
 	<item drawable="xodo" />
 	<item drawable="xposed_edge" />
     <category title="Y" />
+    <item drawable="yono_lite_sbi" />
+    <item drawable="youcam_perfect" />
     <item drawable="yaacc" />
     <item drawable="yababa" />
     <item drawable="yacine_tv" />
@@ -4902,6 +4910,7 @@
 	<item drawable="yuka" />
 	<item drawable="yuzu_browser" />
     <category title="Z" />
+    <item drawable="zepp" />
     <item drawable="z_lib" />
     <item drawable="zabehaty" />
     <item drawable="zad_hadith" />
