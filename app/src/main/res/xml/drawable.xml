@@ -252,6 +252,7 @@
     <item drawable="google_wifi" />
     <item drawable="googleassistant2" />
     <category title="A" />
+    <item drawable="afwall_" />
     <item drawable="alfagift" />
     <item drawable="allofresh" />
     <item drawable="abattery" />
@@ -640,6 +641,7 @@
 	<item drawable="awox_homecontrol" />
 	<item drawable="axp_apk_extractor" />
     <category title="B" />
+    <item drawable="blitzortung_moniteur_dactivite_orageuse" />
     <item drawable="byu" />
     <item drawable="b_and_h" />
     <item drawable="b_and_q" />
@@ -849,6 +851,7 @@
 	<item drawable="bycs_drive" />
     <item drawable="ballozi_skynox" />
     <category title="C" />
+    <item drawable="connectbot" />
     <item drawable="cryptomoment" />
     <item drawable="companion" />
     <item drawable="c001apk" />
@@ -2531,6 +2534,7 @@
 	<item drawable="lucky_wasted" />
 	<item drawable="lux_o_meter_lichtmesser" />
     <category title="M" />
+    <item drawable="mumla" />
     <item drawable="mupdf_mini" />
     <item drawable="m_and_s" />
     <item drawable="m_and_t_bank" />
@@ -4175,6 +4179,8 @@
 	<item drawable="swiss_post" />
 	<item drawable="systemui_tuner" />
     <category title="T" />
+    <item drawable="terminal_emulator" />
+    <item drawable="track_and_graph" />
     <item drawable="toko_mas_hidup" />
     <item drawable="t_life" />
     <item drawable="t_mobile" />

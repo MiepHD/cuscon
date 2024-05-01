@@ -4980,5 +4980,11 @@
     <item component="ComponentInfo{com.dimou1137.cryptomoment/com.dimou1137.cryptonewsapp.MainActivity}" drawable="cryptomoment" />
     <item component="ComponentInfo{com.artifex.mupdf.mini.app/com.artifex.mupdf.mini.app.LibraryActivity}" drawable="mupdf_mini" />
     <item component="ComponentInfo{com.artifex.mupdf.viewer.app/com.artifex.mupdf.viewer.app.LibraryActivity}" drawable="mupdf_mini" />
+    <item component="ComponentInfo{dev.ukanth.ufirewall/dev.ukanth.ufirewall.MainActivity}" drawable="afwall_" />
+    <item component="ComponentInfo{org.blitzortung.android.app/org.blitzortung.android.app.Main}" drawable="blitzortung_moniteur_dactivite_orageuse" />
+    <item component="ComponentInfo{org.connectbot/org.connectbot.HostListActivity}" drawable="connectbot" />
+    <item component="ComponentInfo{se.lublin.mumla/se.lublin.mumla.app.MumlaActivity}" drawable="mumla" />
+    <item component="ComponentInfo{com.termoneplus/com.termoneplus.TermActivity}" drawable="terminal_emulator" />
+    <item component="ComponentInfo{com.samco.trackandgraph/com.samco.trackandgraph.MainActivity}" drawable="track_and_graph" />
 
 </resources>

@@ -4965,5 +4965,11 @@
     <AppIcon name="com.dimou1137.cryptomoment/com.dimou1137.cryptonewsapp.MainActivity" image="cryptomoment"/>
     <AppIcon name="com.artifex.mupdf.mini.app/com.artifex.mupdf.mini.app.LibraryActivity" image="mupdf_mini"/>
     <AppIcon name="com.artifex.mupdf.viewer.app/com.artifex.mupdf.viewer.app.LibraryActivity" image="mupdf_mini"/>
+    <AppIcon name="dev.ukanth.ufirewall/dev.ukanth.ufirewall.MainActivity" image="afwall_"/>
+    <AppIcon name="org.blitzortung.android.app/org.blitzortung.android.app.Main" image="blitzortung_moniteur_dactivite_orageuse"/>
+    <AppIcon name="org.connectbot/org.connectbot.HostListActivity" image="connectbot"/>
+    <AppIcon name="se.lublin.mumla/se.lublin.mumla.app.MumlaActivity" image="mumla"/>
+    <AppIcon name="com.termoneplus/com.termoneplus.TermActivity" image="terminal_emulator"/>
+    <AppIcon name="com.samco.trackandgraph/com.samco.trackandgraph.MainActivity" image="track_and_graph"/>
 
 </Theme>
