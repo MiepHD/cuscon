@@ -847,7 +847,9 @@
 	<item drawable="bumble"/>
 	<item drawable="buzzing_bee_adventure" />
 	<item drawable="bycs_drive" />
+    <item drawable="ballozi_skynox" />
     <category title="C" />
+    <item drawable="cryptomoment" />
     <item drawable="companion" />
     <item drawable="c001apk" />
     <item drawable="c24_bank" />

@@ -4961,5 +4961,7 @@
     <AppIcon name="org.piepmeyer.gauguin/org.piepmeyer.gauguin.ui.main.MainActivity" image="gauguin"/>
     <AppIcon name="com.poupa.vinylmusicplayer/com.poupa.vinylmusicplayer.ui.activities.MainActivity" image="vinyl"/>
     <AppIcon name="com.ea.gp.fifaultimate/com.ea.gp.fifaultimate.MainActivity" image="companion"/>
+    <AppIcon name="com.watchfacestudio.ballozi.skynox.watchface/com.watchfacestudio.ballozi.skynox.watchface.MainMobileActivity" image="ballozi_skynox"/>
+    <AppIcon name="com.dimou1137.cryptomoment/com.dimou1137.cryptonewsapp.MainActivity" image="cryptomoment"/>
 
 </Theme>

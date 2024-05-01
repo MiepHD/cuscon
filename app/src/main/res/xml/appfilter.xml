@@ -4976,5 +4976,7 @@
     <item component="ComponentInfo{org.piepmeyer.gauguin/org.piepmeyer.gauguin.ui.main.MainActivity}" drawable="gauguin" />
     <item component="ComponentInfo{com.poupa.vinylmusicplayer/com.poupa.vinylmusicplayer.ui.activities.MainActivity}" drawable="vinyl" />
     <item component="ComponentInfo{com.ea.gp.fifaultimate/com.ea.gp.fifaultimate.MainActivity}" drawable="companion" />
+    <item component="ComponentInfo{com.watchfacestudio.ballozi.skynox.watchface/com.watchfacestudio.ballozi.skynox.watchface.MainMobileActivity}" drawable="ballozi_skynox" />
+    <item component="ComponentInfo{com.dimou1137.cryptomoment/com.dimou1137.cryptonewsapp.MainActivity}" drawable="cryptomoment" />
 
 </resources>
