@@ -4987,5 +4987,7 @@
     <item component="ComponentInfo{com.termoneplus/com.termoneplus.TermActivity}" drawable="terminal_emulator" />
     <item component="ComponentInfo{com.samco.trackandgraph/com.samco.trackandgraph.MainActivity}" drawable="track_and_graph" />
     <item component="ComponentInfo{org.craigslist.CraigslistMobile/org.craigslist.CraigslistMobile.MainActivity}" drawable="craigslist" />
+    <item component="ComponentInfo{org.fossify.messages/org.fossify.messages.activities.SplashActivity.Green}" drawable="mitteilungen" />
+    <item component="ComponentInfo{cn.chihiros.chihiros_magic_new/cn.chihiros.chihiros_magic_new.MainActivity}" drawable="my_chihiros" />
 
 </resources>

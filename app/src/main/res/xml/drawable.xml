@@ -2535,6 +2535,8 @@
 	<item drawable="lucky_wasted" />
 	<item drawable="lux_o_meter_lichtmesser" />
     <category title="M" />
+    <item drawable="mitteilungen" />
+    <item drawable="my_chihiros" />
     <item drawable="mumla" />
     <item drawable="mupdf_mini" />
     <item drawable="m_and_s" />

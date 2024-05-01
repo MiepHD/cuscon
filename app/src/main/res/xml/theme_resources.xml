@@ -4972,5 +4972,7 @@
     <AppIcon name="com.termoneplus/com.termoneplus.TermActivity" image="terminal_emulator"/>
     <AppIcon name="com.samco.trackandgraph/com.samco.trackandgraph.MainActivity" image="track_and_graph"/>
     <AppIcon name="org.craigslist.CraigslistMobile/org.craigslist.CraigslistMobile.MainActivity" image="craigslist"/>
+    <AppIcon name="org.fossify.messages/org.fossify.messages.activities.SplashActivity.Green" image="mitteilungen"/>
+    <AppIcon name="cn.chihiros.chihiros_magic_new/cn.chihiros.chihiros_magic_new.MainActivity" image="my_chihiros"/>
 
 </Theme>
