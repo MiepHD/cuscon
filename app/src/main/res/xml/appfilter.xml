@@ -4986,5 +4986,6 @@
     <item component="ComponentInfo{se.lublin.mumla/se.lublin.mumla.app.MumlaActivity}" drawable="mumla" />
     <item component="ComponentInfo{com.termoneplus/com.termoneplus.TermActivity}" drawable="terminal_emulator" />
     <item component="ComponentInfo{com.samco.trackandgraph/com.samco.trackandgraph.MainActivity}" drawable="track_and_graph" />
+    <item component="ComponentInfo{org.craigslist.CraigslistMobile/org.craigslist.CraigslistMobile.MainActivity}" drawable="craigslist" />
 
 </resources>

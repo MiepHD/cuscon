@@ -4971,5 +4971,6 @@
     <AppIcon name="se.lublin.mumla/se.lublin.mumla.app.MumlaActivity" image="mumla"/>
     <AppIcon name="com.termoneplus/com.termoneplus.TermActivity" image="terminal_emulator"/>
     <AppIcon name="com.samco.trackandgraph/com.samco.trackandgraph.MainActivity" image="track_and_graph"/>
+    <AppIcon name="org.craigslist.CraigslistMobile/org.craigslist.CraigslistMobile.MainActivity" image="craigslist"/>
 
 </Theme>

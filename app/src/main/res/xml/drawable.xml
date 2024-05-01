@@ -851,6 +851,7 @@
 	<item drawable="bycs_drive" />
     <item drawable="ballozi_skynox" />
     <category title="C" />
+    <item drawable="craigslist" />
     <item drawable="connectbot" />
     <item drawable="cryptomoment" />
     <item drawable="companion" />
