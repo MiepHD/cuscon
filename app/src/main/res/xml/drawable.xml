@@ -862,6 +862,8 @@
 	<item drawable="bycs_drive" />
     <item drawable="ballozi_skynox" />
     <category title="C" />
+    <item drawable="cookidoo" />
+    <item drawable="coop" />
     <item drawable="choosy" />
     <item drawable="ciber_proteccion" />
     <item drawable="cozy" />
@@ -4251,6 +4253,7 @@
 	<item drawable="swiss_post" />
 	<item drawable="systemui_tuner" />
     <category title="T" />
+    <item drawable="twint" />
     <item drawable="todoist" />
     <item drawable="torrdroid" />
     <item drawable="truein_user" />

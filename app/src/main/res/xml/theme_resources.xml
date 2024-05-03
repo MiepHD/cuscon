@@ -5058,5 +5058,8 @@
     <AppIcon name="com.fastemulator.gbc/com.fastemulator.gbc.RomListActivity" image="my_oldboy_"/>
     <AppIcon name="com.ztgame.yyzy/com.ztgame.yyzy.adapternotchwithchannel.AdapterNotch" image="night_of_the_full_moon"/>
     <AppIcon name="air.com.midjiwan.polytopia/com.google.firebase.MessagingUnityPlayerActivity" image="polytopia"/>
+    <AppIcon name="com.vorwerk.cookidoo/com.cookidoo.android.presentation.splash.SplashScreenActivity" image="cookidoo"/>
+    <AppIcon name="ch.coop.coopapp/ch.coop.coopapp.MainActivity" image="coop"/>
+    <AppIcon name="ch.postfinance.twint.android/ch.twint.payment.ui.activities.start.StartActivity" image="twint"/>
 
 </Theme>

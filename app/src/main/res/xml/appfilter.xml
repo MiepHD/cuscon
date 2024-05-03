@@ -5073,5 +5073,8 @@
     <item component="ComponentInfo{com.fastemulator.gbc/com.fastemulator.gbc.RomListActivity}" drawable="my_oldboy_" />
     <item component="ComponentInfo{com.ztgame.yyzy/com.ztgame.yyzy.adapternotchwithchannel.AdapterNotch}" drawable="night_of_the_full_moon" />
     <item component="ComponentInfo{air.com.midjiwan.polytopia/com.google.firebase.MessagingUnityPlayerActivity}" drawable="polytopia" />
+    <item component="ComponentInfo{com.vorwerk.cookidoo/com.cookidoo.android.presentation.splash.SplashScreenActivity}" drawable="cookidoo" />
+    <item component="ComponentInfo{ch.coop.coopapp/ch.coop.coopapp.MainActivity}" drawable="coop" />
+    <item component="ComponentInfo{ch.postfinance.twint.android/ch.twint.payment.ui.activities.start.StartActivity}" drawable="twint" />
 
 </resources>
