@@ -2573,6 +2573,7 @@
 	<item drawable="lucky_wasted" />
 	<item drawable="lux_o_meter_lichtmesser" />
     <category title="M" />
+    <item drawable="mapy_petal" />
     <item drawable="meine_sbk" />
     <item drawable="meinmagenta" />
     <item drawable="my_boy_" />
@@ -3288,6 +3289,7 @@
 	<item drawable="ovag_e_mobil" />
 	<item drawable="owlfiles" />
     <category title="P" />
+    <item drawable="portal_pasazera" />
     <item drawable="polytopia" />
     <item drawable="pepeescudo" />
     <item drawable="pptx_opener" />
@@ -4716,6 +4718,7 @@
 	<item drawable="vr_banking_app" />
 	<item drawable="vsolution_app" />
     <category title="W" />
+    <item drawable="wulkanowy" />
     <item drawable="wattpad" />
     <item drawable="wells_fargo" />
     <item drawable="wa_business" />

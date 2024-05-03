@@ -5081,5 +5081,8 @@
     <item component="ComponentInfo{com.HoYoverse.hkrpgoversea/com.mihoyo.combosdk.ComboSDKActivity}" drawable="honkai_star_rail" />
     <item component="ComponentInfo{com.audials/com.audials.main.SplashScreenActivity}" drawable="audials_play" />
     <item component="ComponentInfo{com.alif.ide.cpp/com.alif.app.AppActivity}" drawable="cxstudio" />
+    <item component="ComponentInfo{com.huawei.maps.app/com.huawei.maps.app.petalmaps.splash.SplashActivity}" drawable="mapy_petal" />
+    <item component="ComponentInfo{pl.plksa.portalpasazera/crc64cc116f7452d542b7.SplashActivity}" drawable="portal_pasazera" />
+    <item component="ComponentInfo{io.github.wulkanowy/io.github.wulkanowy.ui.modules.splash.SplashActivity}" drawable="wulkanowy" />
 
 </resources>
