@@ -5069,5 +5069,7 @@
     <AppIcon name="com.huawei.maps.app/com.huawei.maps.app.petalmaps.splash.SplashActivity" image="mapy_petal"/>
     <AppIcon name="pl.plksa.portalpasazera/crc64cc116f7452d542b7.SplashActivity" image="portal_pasazera"/>
     <AppIcon name="io.github.wulkanowy/io.github.wulkanowy.ui.modules.splash.SplashActivity" image="wulkanowy"/>
+    <AppIcon name="org.fossify.messages/org.fossify.messages.activities.SplashActivity.Grey_black" image="mitteilungen_white"/>
+    <AppIcon name="org.forkgram.messenger/org.telegram.messenger.OriginalIcon" image="telegram_aqua2"/>
 
 </Theme>

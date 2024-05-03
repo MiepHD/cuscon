@@ -2573,6 +2573,7 @@
 	<item drawable="lucky_wasted" />
 	<item drawable="lux_o_meter_lichtmesser" />
     <category title="M" />
+    <item drawable="mitteilungen_white" />
     <item drawable="mapy_petal" />
     <item drawable="meine_sbk" />
     <item drawable="meinmagenta" />
