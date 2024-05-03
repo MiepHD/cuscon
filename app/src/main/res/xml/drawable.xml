@@ -1806,6 +1806,7 @@
 	<item drawable="futo_voice_input" />
 	<item drawable="fx" />
     <category title="G" />
+    <item drawable="genshin_impact" />
     <item drawable="geogebra" />
     <item drawable="gauguin" />
     <item drawable="gojek" />
@@ -1987,6 +1988,7 @@
 	<item drawable="gspace" />
 	<item drawable="guerrilla_mail" />
     <category title="H" />
+    <item drawable="honkai_star_rail" />
     <item drawable="h_and_b" />
     <item drawable="h_and_m_mena" />
     <item drawable="habit_ally" />

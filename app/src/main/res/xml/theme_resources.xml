@@ -5062,5 +5062,7 @@
     <AppIcon name="ch.coop.coopapp/ch.coop.coopapp.MainActivity" image="coop"/>
     <AppIcon name="ch.postfinance.twint.android/ch.twint.payment.ui.activities.start.StartActivity" image="twint"/>
     <AppIcon name="com.instapro.android/com.OM7753.gold.icon1" image="instander"/>
+    <AppIcon name="com.miHoYo.GenshinImpact/com.miHoYo.GetMobileInfo.MainActivity" image="genshin_impact"/>
+    <AppIcon name="com.HoYoverse.hkrpgoversea/com.mihoyo.combosdk.ComboSDKActivity" image="honkai_star_rail"/>
 
 </Theme>
