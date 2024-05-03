@@ -1935,7 +1935,6 @@
 	<item drawable="gallery_green" />
 	<item drawable="gallery_grey_black" />
 	<item drawable="gallery_light_blue" />
-	<item drawable="gallery_red" />
 	<item drawable="game_centre" />
 	<item drawable="game_plugins" />
 	<item drawable="game_space" />
@@ -3567,7 +3566,6 @@
 	<item drawable="proton_mail" />
 	<item drawable="ps_app"/>
 	<item drawable="puffin" />
-	<item drawable="puffin_1700317178210" />
 	<item drawable="pulse_music" />
 	<item drawable="puzzles" />
 	<item drawable="pysolfc" />
@@ -4986,7 +4984,7 @@
 	<item drawable="_3d_rechner" />
 	<item drawable="_8bit_photo_lab" />
 	<item drawable="_hex_" />
-    <item drawable="1_1_cloud" />
+    <item drawable="_1_1_cloud" />
     <item drawable="_116117app" />
     <item drawable="_17track" />
     <item drawable="_1_2_3_4_player_games" />

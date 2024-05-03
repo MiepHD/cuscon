@@ -25,7 +25,7 @@
     <AppIcon name="info.xolf.homeworker/info.xolf.homeworker.MainActivity" image="homeworker"/>
     <AppIcon name="com.scs.inet/com.journaldev.barcodevisionapi.MainActivity" image="i_net_menue"/>
     <AppIcon name="com.instagram.android/com.instagram.android.activity.MainTabActivity" image="instagram"/>
-    <AppIcon name="com.samsung.android.calendar/com.samsung.android.app.calendar.activity.MainActivity" image="samsung_calendar"/>
+    <AppIcon name="com.samsung.android.calendar/com.samsung.android.app.calendar.activity.MainActivity" image="samsung_calendar_28"/>
     <AppIcon name="tools.photo.hd.camera/com.android.camera.LaunchActivity" image="samsung_camera"/>
     <AppIcon name="com.android.keepass/com.android.keepass.KeePass" image="keepass"/>
     <AppIcon name="com.klockigame.klocki/com.unity3d.player.UnityPlayerActivity" image="klocki"/>
@@ -106,7 +106,7 @@
     <AppIcon name="com.android.documentsui/com.android.documentsui.LauncherActivity" image="samsung_files"/>
     <AppIcon name="com.android.settings/com.android.settings.Settings" image="settings"/>
     <AppIcon name="com.easilydo.mail/com.easilydo.mail.ui.SplashActivity" image="samsung_mail"/>
-    <AppIcon name="com.android.gallery3d/com.android.gallery3d.app.GalleryActivity" image="samsung_gallary"/>
+    <AppIcon name="com.android.gallery3d/com.android.gallery3d.app.GalleryActivity" image="samsung_gallery"/>
     <AppIcon name="org.lineageos.etar/com.android.calendar.AllInOneActivity" image="samsung_calander"/>
     <AppIcon name="com.android.contacts/com.android.contacts.activities.PeopleActivity" image="samsung_contacts"/>
     <AppIcon name="com.google.android.contacts/com.android.contacts.activities.PeopleActivity" image="samsung_contacts"/>
@@ -1122,9 +1122,8 @@
 	<AppIcon name="com.android.dialer/com.oneplus.contacts.activities.OPDialtactsActivity" image="oneplus_phone"/>
 	<AppIcon name="com.oneplus.soundrecorder/com.oneplus.soundrecorder.SoundRecorder" image="recorder"/>
 	<AppIcon name="com.np.nilp/com.np.nilp.MainActivity" image="ullas"/>
-	<AppIcon name="com.lagradost.cloudstream3/com.lagradost.cloudstream3.ui.account.AccountSelectActivity" image="cloudstream"/>
-	<AppIcon name="com.ebay.mobile/com.ebay.mobile.home.impl.main.MainActivity" image="ebay"/>
-	<AppIcon name="com.gls.glsappde.consumer/de.gls.features.main.MainActivity" image="gls_pakete"/>
+	<AppIcon name="com.lagradost.cloudstream3/com.lagradost.cloudstream3.ui.account.AccountSelectActivity" image="cloud_stream_3"/>
+	<AppIcon name="com.gls.glsappde.consumer/de.gls.features.main.MainActivity" image="gls"/>
 	<AppIcon name="app.myzel394.alibi/app.myzel394.alibi.MainActivity" image="alibi"/>
 	<AppIcon name="com.uptodown.installer/com.uptodown.installer.activity.SplashActivity" image="apk_installer"/>
 	<AppIcon name="com.apkupdater/com.apkupdater.ui.activity.MainActivity" image="apkupdater"/>
@@ -1263,7 +1262,7 @@
 	<AppIcon name="com.ominous.quickweather/com.ominous.quickweather.activity.MainActivity" image="quickweather"/>
 	<AppIcon name="com.v2ray.ang/com.v2ray.ang.ui.MainActivity" image="v2rayng"/>
 	<AppIcon name="ir.valasr.android/ir.valasr.android.MainActivity" image="and_the_afternoon"/>
-	<AppIcon name="com.emeint.android.myservices/vodafone.vis.engezly.ui.screens.splash.SplashRevampActivity" image="vodafone"/>
+	<AppIcon name="com.emeint.android.myservices/vodafone.vis.engezly.ui.screens.splash.SplashRevampActivity" image="meinvodafone"/>
 	<AppIcon name="com.anghami/com.anghami.activities.SplashActivity_" image="anghami" />
 	<AppIcon name="in.sunilpaulmathew.ashell/in.sunilpaulmathew.ashell.activities.StartActivity" image="ashell" />
 	<AppIcon name="com.truedevelopersstudio.automatictap.autoclicker/com.truedevelopersstudio.autoclicker.activities.SplashActivity" image="auto_clicker" />
@@ -1451,7 +1450,6 @@
 	<AppIcon name="com.jozein.xedge/com.jozein.xedge.ui.ActivityMain" image="xposed_edge" />
 	<AppIcon name="com.dkbcodefactory.banking/com.dkbcodefactory.banking.splash.SplashActivity" image="dkb"/>
 	<AppIcon name="com.moimob.drinkable/com.moimob.drinkable.MainActivity" image="drinkable"/>
-	<AppIcon name="org.fossify.gallery/org.fossify.gallery.activities.SplashActivity.Red" image="gallery_red"/>
 	<AppIcon name="io.homeassistant.companion.android/io.homeassistant.companion.android.launch.LaunchActivity" image="home_assistant"/>
 	<AppIcon name="app.alextran.immich/app.alextran.immich.MainActivity" image="immich"/>
 	<AppIcon name="de.astubenbord.paperless_mobile/de.astubenbord.paperless_mobile.MainActivity" image="paperless_mobile"/>
@@ -3889,7 +3887,7 @@
     <AppIcon name="me.creasis.reader/me.creasis.reader.MainActivity" image="nexa"/>
     <AppIcon name="jp.snowlife01.android.rotationcontrol/jp.snowlife01.android.rotationcontrolpro.rotation2.MainActivityNew" image="rotation_control_pro"/>
 	<AppIcon name="com.kfc.de.mobileapp/com.kfc.de.mobileapp.SplashActivity" image="kfc"/>
-	<AppIcon name="com.unitedinternet.portal.android.onlinestorage.eue/com.unitedinternet.portal.android.onlinestorage.application.activity.NewSmartDriveActivity" image="1_1_cloud"/>
+	<AppIcon name="com.unitedinternet.portal.android.onlinestorage.eue/com.unitedinternet.portal.android.onlinestorage.application.activity.NewSmartDriveActivity" image="_1_1_cloud"/>
     <AppIcon name="com.rewedigital.shop/de.rewe.app.ChangeAppActivity" image="rewe_alt"/>
     <AppIcon name="de.number26.android/de.number26.machete.android.refactor.presentation.settings.customize_icon.launch_aliases.PrideActivityLauncher" image="number26"/>
     <AppIcon name="com.subway.subway/com.subway.subway.SplashActivity" image="subway"/>

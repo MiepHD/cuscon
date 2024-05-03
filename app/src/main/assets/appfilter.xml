@@ -6,7 +6,7 @@
     <!-- Nova Launcher Stuff -->
     <item component=":BROWSER" drawable="browser" />
     <item component=":CALCULATOR" drawable="samsung_calculator" />
-    <item component=":CALENDAR" drawable="smasung_calendar" />
+    <item component=":CALENDAR" drawable="smasung_calendar_28" />
     <item component=":CAMERA" drawable="samsung_camera" />
     <item component=":CLOCK" drawable="clock" />
     <item component=":CONTACTS" drawable="samsung_contacts" />
@@ -119,7 +119,7 @@
     <item component="ComponentInfo{com.android.documentsui/com.android.documentsui.LauncherActivity}" drawable="samsung_files"/>
     <item component="ComponentInfo{com.android.settings/com.android.settings.Settings}" drawable="settings"/>
     <item component="ComponentInfo{com.easilydo.mail/com.easilydo.mail.ui.SplashActivity}" drawable="samsung_mail"/>
-    <item component="ComponentInfo{com.android.gallery3d/com.android.gallery3d.app.GalleryActivity}" drawable="samsung_gallary"/>
+    <item component="ComponentInfo{com.android.gallery3d/com.android.gallery3d.app.GalleryActivity}" drawable="samsung_gallery"/>
     <item component="ComponentInfo{org.lineageos.etar/com.android.calendar.AllInOneActivity}" drawable="samsung_calander"/>
 	<item component="ComponentInfo{com.android.contacts/com.android.contacts.activities.PeopleActivity}" drawable="samsung_contacts"/>
 	<item component="ComponentInfo{com.google.android.contacts/com.android.contacts.activities.PeopleActivity}" drawable="samsung_contacts" />
@@ -996,7 +996,7 @@
 	<item component="ComponentInfo{com.freebasics/com.facebook.iorg.app.activity.IorgLauncherActivity}" drawable="free_basics" />
 	<item component="ComponentInfo{com.google.android.apps.searchlite/com.google.android.apps.searchlite.ui.SearchActivity}" drawable="google_go" />
 	<item component="ComponentInfo{com.zionhuang.music/com.zionhuang.music.MainActivity}" drawable="innertune" />
-	<item component="ComponentInfo{com.internet.speed.meter.lite/com.internet.speed.meter.lite.MainActivity}" drawable="internet_speed_meter_lite" />
+	<item component="ComponentInfo{com.internet.speed.meter.lite/com.internet.speed.meter.lite.MainActivity}" drawable="internet_speed_meter" />
 	<item component="ComponentInfo{com.simplemobiletools.launcher/com.simplemobiletools.launcher.activities.SplashActivity.Orange}" drawable="launcher" />
 	<item component="ComponentInfo{com.google.audio.hearing.visualization.accessibility.scribe/com.google.audio.hearing.visualization.accessibility.scribe.MainActivity}" drawable="live_transcribe" />
 	<item component="ComponentInfo{com.google.android.apps.mapslite/com.google.maps.lite.twa.MapsLiteTwaLauncherActivity}" drawable="maps_go" />
@@ -1132,9 +1132,9 @@
 	<item component="ComponentInfo{com.android.dialer/com.oneplus.contacts.activities.OPDialtactsActivity}" drawable="oneplus_phone" />
 	<item component="ComponentInfo{com.oneplus.soundrecorder/com.oneplus.soundrecorder.SoundRecorder}" drawable="recorder" />
 	<item component="ComponentInfo{com.np.nilp/com.np.nilp.MainActivity}" drawable="ullas" />
-	<item component="ComponentInfo{com.lagradost.cloudstream3/com.lagradost.cloudstream3.ui.account.AccountSelectActivity}" drawable="cloudstream" />
+	<item component="ComponentInfo{com.lagradost.cloudstream3/com.lagradost.cloudstream3.ui.account.AccountSelectActivity}" drawable="cloud_stream_3" />
 	<item component="ComponentInfo{com.ebay.mobile/com.ebay.mobile.home.impl.main.MainActivity}" drawable="ebay" />
-	<item component="ComponentInfo{com.gls.glsappde.consumer/de.gls.features.main.MainActivity}" drawable="gls_pakete" />
+	<item component="ComponentInfo{com.gls.glsappde.consumer/de.gls.features.main.MainActivity}" drawable="gls" />
 	<item component="ComponentInfo{app.myzel394.alibi/app.myzel394.alibi.MainActivity}" drawable="alibi" />
 	<item component="ComponentInfo{com.uptodown.installer/com.uptodown.installer.activity.SplashActivity}" drawable="apk_installer" />
 	<item component="ComponentInfo{com.apkupdater/com.apkupdater.ui.activity.MainActivity}" drawable="apkupdater" />
@@ -1273,7 +1273,7 @@
 	<item component="ComponentInfo{com.ominous.quickweather/com.ominous.quickweather.activity.MainActivity}" drawable="quickweather" />
 	<item component="ComponentInfo{com.v2ray.ang/com.v2ray.ang.ui.MainActivity}" drawable="v2rayng" />
 	<item component="ComponentInfo{ir.valasr.android/ir.valasr.android.MainActivity}" drawable="and_the_afternoon" />
-	<item component="ComponentInfo{com.emeint.android.myservices/vodafone.vis.engezly.ui.screens.splash.SplashRevampActivity}" drawable="vodafone" />
+	<item component="ComponentInfo{com.emeint.android.myservices/vodafone.vis.engezly.ui.screens.splash.SplashRevampActivity}" drawable="meinvodafone" />
 	<item component="ComponentInfo{com.anghami/com.anghami.activities.SplashActivity_}" drawable="anghami" />
 	<item component="ComponentInfo{in.sunilpaulmathew.ashell/in.sunilpaulmathew.ashell.activities.StartActivity}" drawable="ashell" />
 	<item component="ComponentInfo{com.truedevelopersstudio.automatictap.autoclicker/com.truedevelopersstudio.autoclicker.activities.SplashActivity}" drawable="auto_clicker" />
@@ -1461,7 +1461,6 @@
 	<item component="ComponentInfo{com.jozein.xedge/com.jozein.xedge.ui.ActivityMain}" drawable="xposed_edge" />
 	<item component="ComponentInfo{com.dkbcodefactory.banking/com.dkbcodefactory.banking.splash.SplashActivity}" drawable="dkb" />
 	<item component="ComponentInfo{com.moimob.drinkable/com.moimob.drinkable.MainActivity}" drawable="drinkable" />
-	<item component="ComponentInfo{org.fossify.gallery/org.fossify.gallery.activities.SplashActivity.Red}" drawable="gallery_red" />
 	<item component="ComponentInfo{io.homeassistant.companion.android/io.homeassistant.companion.android.launch.LaunchActivity}" drawable="home_assistant" />
 	<item component="ComponentInfo{app.alextran.immich/app.alextran.immich.MainActivity}" drawable="immich" />
 	<item component="ComponentInfo{de.astubenbord.paperless_mobile/de.astubenbord.paperless_mobile.MainActivity}" drawable="paperless_mobile" />
@@ -3902,7 +3901,7 @@
     <item component="ComponentInfo{me.creasis.reader/me.creasis.reader.MainActivity}" drawable="nexa" />
     <item component="ComponentInfo{jp.snowlife01.android.rotationcontrol/jp.snowlife01.android.rotationcontrolpro.rotation2.MainActivityNew}" drawable="rotation_control_pro" />
 	<item component="ComponentInfo{com.kfc.de.mobileapp/com.kfc.de.mobileapp.SplashActivity}" drawable="kfc" />
-	<item component="ComponentInfo{com.unitedinternet.portal.android.onlinestorage.eue/com.unitedinternet.portal.android.onlinestorage.application.activity.NewSmartDriveActivity}" drawable="1_1_cloud" />
+	<item component="ComponentInfo{com.unitedinternet.portal.android.onlinestorage.eue/com.unitedinternet.portal.android.onlinestorage.application.activity.NewSmartDriveActivity}" drawable="_1_1_cloud" />
     <item component="ComponentInfo{com.rewedigital.shop/de.rewe.app.ChangeAppActivity}" drawable="rewe_alt" />
     <item component="ComponentInfo{de.number26.android/de.number26.machete.android.refactor.presentation.settings.customize_icon.launch_aliases.PrideActivityLauncher}" drawable="number26" />
     <item component="ComponentInfo{com.subway.subway/com.subway.subway.SplashActivity}" drawable="subway" />
