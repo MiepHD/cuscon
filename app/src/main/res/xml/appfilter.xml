@@ -5076,5 +5076,6 @@
     <item component="ComponentInfo{com.vorwerk.cookidoo/com.cookidoo.android.presentation.splash.SplashScreenActivity}" drawable="cookidoo" />
     <item component="ComponentInfo{ch.coop.coopapp/ch.coop.coopapp.MainActivity}" drawable="coop" />
     <item component="ComponentInfo{ch.postfinance.twint.android/ch.twint.payment.ui.activities.start.StartActivity}" drawable="twint" />
+    <item component="ComponentInfo{com.instapro.android/com.OM7753.gold.icon1}" drawable="instander" />
 
 </resources>

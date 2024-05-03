@@ -5061,5 +5061,6 @@
     <AppIcon name="com.vorwerk.cookidoo/com.cookidoo.android.presentation.splash.SplashScreenActivity" image="cookidoo"/>
     <AppIcon name="ch.coop.coopapp/ch.coop.coopapp.MainActivity" image="coop"/>
     <AppIcon name="ch.postfinance.twint.android/ch.twint.payment.ui.activities.start.StartActivity" image="twint"/>
+    <AppIcon name="com.instapro.android/com.OM7753.gold.icon1" image="instander"/>
 
 </Theme>
