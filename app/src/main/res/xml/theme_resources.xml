@@ -5041,5 +5041,11 @@
     <AppIcon name="com.magdalm.wifinetworkscanner/com.magdalm.wifinetworkscanner.SplashActivity" image="quien_esta_en_mi_wifi"/>
     <AppIcon name="es.vodafone.tvonline/com.witsoftware.vodafonetv.launch.LaunchActivity" image="vodafone_tv"/>
     <AppIcon name="wp.wattpad/wp.wattpad.ui.activities.LoginActivity" image="wattpad"/>
+    <AppIcon name="de.aboutyou.mobile.app/de.aboutyou.mobile.app.MainActivity" image="about_you"/>
+    <AppIcon name="com.aumio.app/com.aumio.app.MainActivity" image="aumio"/>
+    <AppIcon name="de.combirisk.katwarn/de.combirisk.katwarn.MainActivity" image="katwarn"/>
+    <AppIcon name="info.guardianproject.locationprivacy/info.guardianproject.locationprivacy.MainActivity" image="locationprivacy"/>
+    <AppIcon name="com.todoist/com.todoist.alias.HomeActivityDefault" image="todoist"/>
+    <AppIcon name="com.jetbrains.youtrack.mobile.app/com.jetbrains.youtrack.mobile.app.MainActivity" image="youtrack"/>
 
 </Theme>

@@ -5056,5 +5056,11 @@
     <item component="ComponentInfo{com.magdalm.wifinetworkscanner/com.magdalm.wifinetworkscanner.SplashActivity}" drawable="quien_esta_en_mi_wifi" />
     <item component="ComponentInfo{es.vodafone.tvonline/com.witsoftware.vodafonetv.launch.LaunchActivity}" drawable="vodafone_tv" />
     <item component="ComponentInfo{wp.wattpad/wp.wattpad.ui.activities.LoginActivity}" drawable="wattpad" />
+    <item component="ComponentInfo{de.aboutyou.mobile.app/de.aboutyou.mobile.app.MainActivity}" drawable="about_you" />
+    <item component="ComponentInfo{com.aumio.app/com.aumio.app.MainActivity}" drawable="aumio" />
+    <item component="ComponentInfo{de.combirisk.katwarn/de.combirisk.katwarn.MainActivity}" drawable="katwarn" />
+    <item component="ComponentInfo{info.guardianproject.locationprivacy/info.guardianproject.locationprivacy.MainActivity}" drawable="locationprivacy" />
+    <item component="ComponentInfo{com.todoist/com.todoist.alias.HomeActivityDefault}" drawable="todoist" />
+    <item component="ComponentInfo{com.jetbrains.youtrack.mobile.app/com.jetbrains.youtrack.mobile.app.MainActivity}" drawable="youtrack" />
 
 </resources>

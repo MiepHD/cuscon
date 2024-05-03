@@ -252,6 +252,8 @@
     <item drawable="google_wifi" />
     <item drawable="googleassistant2" />
     <category title="A" />
+    <item drawable="about_you" />
+    <item drawable="aumio" />
     <item drawable="agiletv" />
     <item drawable="accubattery" />
     <item drawable="ampere" />
@@ -2301,6 +2303,7 @@
 	<item drawable="justchess" />
 	<item drawable="justdial" />
     <category title="K" />
+    <item drawable="katwarn" />
     <item drawable="kitchen_timer" />
     <item drawable="klik_indomaret" />
     <item drawable="kabbalah" />
@@ -2414,6 +2417,7 @@
 	<item drawable="kutumb" />
 	<item drawable="kwgt_pro" />
     <category title="L" />
+    <item drawable="locationprivacy" />
     <item drawable="lenskart" />
     <item drawable="lab_tests" />
     <item drawable="labcoat" />
@@ -4236,6 +4240,7 @@
 	<item drawable="swiss_post" />
 	<item drawable="systemui_tuner" />
     <category title="T" />
+    <item drawable="todoist" />
     <item drawable="torrdroid" />
     <item drawable="truein_user" />
     <item drawable="the_clock" />
@@ -4889,6 +4894,7 @@
 	<item drawable="xodo" />
 	<item drawable="xposed_edge" />
     <category title="Y" />
+    <item drawable="youtrack" />
     <item drawable="yono_lite_sbi" />
     <item drawable="youcam_perfect" />
     <item drawable="yaacc" />
