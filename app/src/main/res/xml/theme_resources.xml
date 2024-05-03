@@ -5031,5 +5031,15 @@
     <AppIcon name="com.heytap.health.international/com.heytap.health.launch.LaunchActivity" image="ohealth"/>
     <AppIcon name="me.proton.android.calendar/me.proton.android.calendar.presentation.main.MainActivity" image="proton_calendar"/>
     <AppIcon name="proton.android.pass/proton.android.pass.ui.MainActivity" image="proton_pass"/>
+    <AppIcon name="com.agilecontent.agiletv.mobile/com.agilecontent.agiletv.presentation.ui.splash.SplashActivity" image="agiletv"/>
+    <AppIcon name="com.orange.sp.cybersecurity/com.cyan.osp.MainActivity" image="ciber_proteccion"/>
+    <AppIcon name="com.mitelelite/es.mediaset.mitelelite.ui.splash.SplashActivity" image="mitele"/>
+    <AppIcon name="es.movistar.cloud/com.funambol.android.activities.AndroidHomeScreen" image="movistar_cloud"/>
+    <AppIcon name="com.orange.es.orangetv/com.orange.es.orangetv.presentation.view.feature.splash.activity.SplashActivity" image="orange_tv"/>
+    <AppIcon name="com.spanishcoders.pepeescudo/com.spanishcoders.pepeescudo.MainActivity" image="pepeescudo"/>
+    <AppIcon name="com.pptx.file.opener/com.pptx.file.opener.activities.Splash" image="pptx_opener"/>
+    <AppIcon name="com.magdalm.wifinetworkscanner/com.magdalm.wifinetworkscanner.SplashActivity" image="quien_esta_en_mi_wifi"/>
+    <AppIcon name="es.vodafone.tvonline/com.witsoftware.vodafonetv.launch.LaunchActivity" image="vodafone_tv"/>
+    <AppIcon name="wp.wattpad/wp.wattpad.ui.activities.LoginActivity" image="wattpad"/>
 
 </Theme>

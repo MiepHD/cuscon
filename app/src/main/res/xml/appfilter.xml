@@ -5046,5 +5046,15 @@
     <item component="ComponentInfo{com.heytap.health.international/com.heytap.health.launch.LaunchActivity}" drawable="ohealth" />
     <item component="ComponentInfo{me.proton.android.calendar/me.proton.android.calendar.presentation.main.MainActivity}" drawable="proton_calendar" />
     <item component="ComponentInfo{proton.android.pass/proton.android.pass.ui.MainActivity}" drawable="proton_pass" />
+    <item component="ComponentInfo{com.agilecontent.agiletv.mobile/com.agilecontent.agiletv.presentation.ui.splash.SplashActivity}" drawable="agiletv" />
+    <item component="ComponentInfo{com.orange.sp.cybersecurity/com.cyan.osp.MainActivity}" drawable="ciber_proteccion" />
+    <item component="ComponentInfo{com.mitelelite/es.mediaset.mitelelite.ui.splash.SplashActivity}" drawable="mitele" />
+    <item component="ComponentInfo{es.movistar.cloud/com.funambol.android.activities.AndroidHomeScreen}" drawable="movistar_cloud" />
+    <item component="ComponentInfo{com.orange.es.orangetv/com.orange.es.orangetv.presentation.view.feature.splash.activity.SplashActivity}" drawable="orange_tv" />
+    <item component="ComponentInfo{com.spanishcoders.pepeescudo/com.spanishcoders.pepeescudo.MainActivity}" drawable="pepeescudo" />
+    <item component="ComponentInfo{com.pptx.file.opener/com.pptx.file.opener.activities.Splash}" drawable="pptx_opener" />
+    <item component="ComponentInfo{com.magdalm.wifinetworkscanner/com.magdalm.wifinetworkscanner.SplashActivity}" drawable="quien_esta_en_mi_wifi" />
+    <item component="ComponentInfo{es.vodafone.tvonline/com.witsoftware.vodafonetv.launch.LaunchActivity}" drawable="vodafone_tv" />
+    <item component="ComponentInfo{wp.wattpad/wp.wattpad.ui.activities.LoginActivity}" drawable="wattpad" />
 
 </resources>

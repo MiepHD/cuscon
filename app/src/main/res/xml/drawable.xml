@@ -252,6 +252,7 @@
     <item drawable="google_wifi" />
     <item drawable="googleassistant2" />
     <category title="A" />
+    <item drawable="agiletv" />
     <item drawable="accubattery" />
     <item drawable="ampere" />
     <item drawable="antivirus_free" />
@@ -858,6 +859,7 @@
 	<item drawable="bycs_drive" />
     <item drawable="ballozi_skynox" />
     <category title="C" />
+    <item drawable="ciber_proteccion" />
     <item drawable="cozy" />
     <item drawable="casio_watches" />
     <item drawable="chiki" />
@@ -2555,6 +2557,8 @@
 	<item drawable="lucky_wasted" />
 	<item drawable="lux_o_meter_lichtmesser" />
     <category title="M" />
+    <item drawable="mitele" />
+    <item drawable="movistar_cloud" />
     <item drawable="money_manager" />
     <item drawable="muzei" />
     <item drawable="mailcom" />
@@ -3115,6 +3119,7 @@
 	<item drawable="nozzle" />
 	<item drawable="nytimes" />
     <category title="O" />
+    <item drawable="orange_tv" />
     <item drawable="ohealth" />
     <item drawable="outlook_lite" />
     <item drawable="openboard" />
@@ -3262,6 +3267,8 @@
 	<item drawable="ovag_e_mobil" />
 	<item drawable="owlfiles" />
     <category title="P" />
+    <item drawable="pepeescudo" />
+    <item drawable="pptx_opener" />
     <item drawable="proton_calendar" />
     <item drawable="proton_pass" />
     <item drawable="prezzi_benzina" />
@@ -3565,6 +3572,7 @@
 	<item drawable="puzzles" />
 	<item drawable="pysolfc" />
     <category title="Q" />
+    <item drawable="quien_esta_en_mi_wifi" />
     <item drawable="qare" />
     <item drawable="qatar_airways" />
     <item drawable="qauxiliary" />
@@ -4563,6 +4571,7 @@
 	<item drawable="utiles" />
 	<item drawable="utilidades_amaze" />
     <category title="V" />
+    <item drawable="vodafone_tv" />
     <item drawable="video_to_mp3_convert" />
     <item drawable="vinyl" />
     <item drawable="v720" />
@@ -4684,6 +4693,7 @@
 	<item drawable="vr_banking_app" />
 	<item drawable="vsolution_app" />
     <category title="W" />
+    <item drawable="wattpad" />
     <item drawable="wells_fargo" />
     <item drawable="wa_business" />
     <item drawable="wabox" />
