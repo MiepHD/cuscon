@@ -5071,5 +5071,7 @@
     <AppIcon name="io.github.wulkanowy/io.github.wulkanowy.ui.modules.splash.SplashActivity" image="wulkanowy"/>
     <AppIcon name="org.fossify.messages/org.fossify.messages.activities.SplashActivity.Grey_black" image="mitteilungen_white"/>
     <AppIcon name="org.forkgram.messenger/org.telegram.messenger.OriginalIcon" image="telegram_aqua2"/>
+    <AppIcon name="com.jaumo/com.jaumo.Main" image="jaumo"/>
+    <AppIcon name="com.lufthansa.android.lufthansa/com.lhgroup.lhgroupapp.MainActivity" image="lufthansa"/>
 
 </Theme>

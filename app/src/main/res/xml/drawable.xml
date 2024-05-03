@@ -2257,6 +2257,7 @@
 	<item drawable="ir_remote" />
 	<item drawable="iron" />
     <category title="J" />
+    <item drawable="jaumo" />
     <item drawable="jisho" />
     <item drawable="jeux" />
     <item drawable="jackd" />
@@ -2429,6 +2430,7 @@
 	<item drawable="kutumb" />
 	<item drawable="kwgt_pro" />
     <category title="L" />
+    <item drawable="lufthansa" />
     <item drawable="locationprivacy" />
     <item drawable="lenskart" />
     <item drawable="lab_tests" />
