@@ -5062,5 +5062,18 @@
     <item component="ComponentInfo{info.guardianproject.locationprivacy/info.guardianproject.locationprivacy.MainActivity}" drawable="locationprivacy" />
     <item component="ComponentInfo{com.todoist/com.todoist.alias.HomeActivityDefault}" drawable="todoist" />
     <item component="ComponentInfo{com.jetbrains.youtrack.mobile.app/com.jetbrains.youtrack.mobile.app.MainActivity}" drawable="youtrack" />
+    <item component="ComponentInfo{bunpro.jp.bunpro_srs/bunpro.jp.bunpro_srs.MainActivity}" drawable="bunpro" />
+    <item component="ComponentInfo{de.choosy.app/de.choosy.app.MainActivity}" drawable="choosy" />
+    <item component="ComponentInfo{cc.dict.dictcc/cc.dict.dictcc.MainActivity}" drawable="dictcc" />
+    <item component="ComponentInfo{com.epsxe.ePSXe/com.epsxe.ePSXe.ePSXe}" drawable="epsxe" />
+    <item component="ComponentInfo{com.epsxe.opengl/com.epsxe.opengl.ePSXeGL}" drawable="epsxe_opengl_plugin" />
+    <item component="ComponentInfo{c.example.jisho/com.example.flutterapp.MainActivity}" drawable="jisho" />
+    <item component="ComponentInfo{ua.syt0r.kanji/ua.syt0r.kanji.presentation.screen.main.GooglePlayMainActivity}" drawable="kanji_dojo" />
+    <item component="ComponentInfo{de.sbk.meinesbk/de.sbk.meinesbk.ui.splash.SplashActivity}" drawable="meine_sbk" />
+    <item component="ComponentInfo{de.telekom.android.customercenter/com.telekom.oneapp.launcher.components.launcher.LauncherActivity}" drawable="meinmagenta" />
+    <item component="ComponentInfo{com.fastemulator.gba/com.fastemulator.gba.RomListActivity}" drawable="my_boy_" />
+    <item component="ComponentInfo{com.fastemulator.gbc/com.fastemulator.gbc.RomListActivity}" drawable="my_oldboy_" />
+    <item component="ComponentInfo{com.ztgame.yyzy/com.ztgame.yyzy.adapternotchwithchannel.AdapterNotch}" drawable="night_of_the_full_moon" />
+    <item component="ComponentInfo{air.com.midjiwan.polytopia/com.google.firebase.MessagingUnityPlayerActivity}" drawable="polytopia" />
 
 </resources>

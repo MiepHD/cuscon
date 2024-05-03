@@ -5047,5 +5047,18 @@
     <AppIcon name="info.guardianproject.locationprivacy/info.guardianproject.locationprivacy.MainActivity" image="locationprivacy"/>
     <AppIcon name="com.todoist/com.todoist.alias.HomeActivityDefault" image="todoist"/>
     <AppIcon name="com.jetbrains.youtrack.mobile.app/com.jetbrains.youtrack.mobile.app.MainActivity" image="youtrack"/>
+    <AppIcon name="bunpro.jp.bunpro_srs/bunpro.jp.bunpro_srs.MainActivity" image="bunpro"/>
+    <AppIcon name="de.choosy.app/de.choosy.app.MainActivity" image="choosy"/>
+    <AppIcon name="cc.dict.dictcc/cc.dict.dictcc.MainActivity" image="dictcc"/>
+    <AppIcon name="com.epsxe.ePSXe/com.epsxe.ePSXe.ePSXe" image="epsxe"/>
+    <AppIcon name="com.epsxe.opengl/com.epsxe.opengl.ePSXeGL" image="epsxe_opengl_plugin"/>
+    <AppIcon name="c.example.jisho/com.example.flutterapp.MainActivity" image="jisho"/>
+    <AppIcon name="ua.syt0r.kanji/ua.syt0r.kanji.presentation.screen.main.GooglePlayMainActivity" image="kanji_dojo"/>
+    <AppIcon name="de.sbk.meinesbk/de.sbk.meinesbk.ui.splash.SplashActivity" image="meine_sbk"/>
+    <AppIcon name="de.telekom.android.customercenter/com.telekom.oneapp.launcher.components.launcher.LauncherActivity" image="meinmagenta"/>
+    <AppIcon name="com.fastemulator.gba/com.fastemulator.gba.RomListActivity" image="my_boy_"/>
+    <AppIcon name="com.fastemulator.gbc/com.fastemulator.gbc.RomListActivity" image="my_oldboy_"/>
+    <AppIcon name="com.ztgame.yyzy/com.ztgame.yyzy.adapternotchwithchannel.AdapterNotch" image="night_of_the_full_moon"/>
+    <AppIcon name="air.com.midjiwan.polytopia/com.google.firebase.MessagingUnityPlayerActivity" image="polytopia"/>
 
 </Theme>

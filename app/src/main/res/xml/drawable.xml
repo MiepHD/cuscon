@@ -647,6 +647,7 @@
 	<item drawable="awox_homecontrol" />
 	<item drawable="axp_apk_extractor" />
     <category title="B" />
+    <item drawable="bunpro" />
     <item drawable="bankin" />
     <item drawable="bromite" />
     <item drawable="boost" />
@@ -861,6 +862,7 @@
 	<item drawable="bycs_drive" />
     <item drawable="ballozi_skynox" />
     <category title="C" />
+    <item drawable="choosy" />
     <item drawable="ciber_proteccion" />
     <item drawable="cozy" />
     <item drawable="casio_watches" />
@@ -1175,6 +1177,7 @@
 	<item drawable="cubic_2_3_4_player_games" />
 	<item drawable="currencies" />
     <category title="D" />
+    <item drawable="dictcc" />
     <item drawable="d4d" />
     <item drawable="daily_quotes_widget" />
     <item drawable="dailymotion" />
@@ -1434,6 +1437,8 @@
 	<item drawable="dynalist" />
 	<item drawable="dynamicspot" />
     <category title="E" />
+    <item drawable="epsxe" />
+    <item drawable="epsxe_opengl_plugin" />
     <item drawable="electricity_maps" />
     <item drawable="e_camera" />
     <item drawable="e_kartoteka" />
@@ -2247,6 +2252,7 @@
 	<item drawable="ir_remote" />
 	<item drawable="iron" />
     <category title="J" />
+    <item drawable="jisho" />
     <item drawable="jeux" />
     <item drawable="jackd" />
     <item drawable="j2me_loader" />
@@ -2303,6 +2309,7 @@
 	<item drawable="justchess" />
 	<item drawable="justdial" />
     <category title="K" />
+    <item drawable="kanji_dojo" />
     <item drawable="katwarn" />
     <item drawable="kitchen_timer" />
     <item drawable="klik_indomaret" />
@@ -2561,6 +2568,10 @@
 	<item drawable="lucky_wasted" />
 	<item drawable="lux_o_meter_lichtmesser" />
     <category title="M" />
+    <item drawable="meine_sbk" />
+    <item drawable="meinmagenta" />
+    <item drawable="my_boy_" />
+    <item drawable="my_oldboy_" />
     <item drawable="mitele" />
     <item drawable="movistar_cloud" />
     <item drawable="money_manager" />
@@ -2959,6 +2970,7 @@
 	<item drawable="mytelkomsel" />
 	<item drawable="myumobile" />
     <category title="N" />
+    <item drawable="night_of_the_full_moon" />
     <item drawable="nagad" />
     <item drawable="n26" />
     <item drawable="nabd" />
@@ -3271,6 +3283,7 @@
 	<item drawable="ovag_e_mobil" />
 	<item drawable="owlfiles" />
     <category title="P" />
+    <item drawable="polytopia" />
     <item drawable="pepeescudo" />
     <item drawable="pptx_opener" />
     <item drawable="proton_calendar" />
