@@ -5064,5 +5064,7 @@
     <AppIcon name="com.instapro.android/com.OM7753.gold.icon1" image="instander"/>
     <AppIcon name="com.miHoYo.GenshinImpact/com.miHoYo.GetMobileInfo.MainActivity" image="genshin_impact"/>
     <AppIcon name="com.HoYoverse.hkrpgoversea/com.mihoyo.combosdk.ComboSDKActivity" image="honkai_star_rail"/>
+    <AppIcon name="com.audials/com.audials.main.SplashScreenActivity" image="audials_play"/>
+    <AppIcon name="com.alif.ide.cpp/com.alif.app.AppActivity" image="cxstudio"/>
 
 </Theme>

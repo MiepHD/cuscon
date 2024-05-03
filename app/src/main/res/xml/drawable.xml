@@ -252,6 +252,7 @@
     <item drawable="google_wifi" />
     <item drawable="googleassistant2" />
     <category title="A" />
+    <item drawable="audials_play" />
     <item drawable="about_you" />
     <item drawable="aumio" />
     <item drawable="agiletv" />
@@ -862,6 +863,7 @@
 	<item drawable="bycs_drive" />
     <item drawable="ballozi_skynox" />
     <category title="C" />
+    <item drawable="cxstudio" />
     <item drawable="cookidoo" />
     <item drawable="coop" />
     <item drawable="choosy" />
