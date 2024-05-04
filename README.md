@@ -1,6 +1,6 @@
 ![icon_with_name](http://miep-hd.froxot.com/cuscon/res/icon_with_name.png)
 
-This icon pack makes your home screen varied and dynamic. As there is no background, each icon looks unique and the constant pattern of the grid is broken up.
+This icon pack adds variety and dynamism to your Home screen. With no background, each icon looks unique and breaks up the constant pattern of the grid.
 
 # Download
 
