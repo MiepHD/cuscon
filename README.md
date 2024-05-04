@@ -74,3 +74,9 @@ How-To:
 - dimension of 512x512px
 - should have approximate 30px transparent border
 - should have approximate 12px brush size
+
+#License
+
+The app is built with the **[CandyBar Dashboard](https://github.com/zixpo/candybar)** (and also with the **[FOSS version](https://github.com/Donnnno/candybar-foss)**) licensed under **[Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0)**
+
+The icons are licensed under **[Creative Commons BY-NC-ND License 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)**
