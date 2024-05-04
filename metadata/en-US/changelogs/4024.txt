@@ -1,0 +1,2 @@
+- Updated fastlane metadata
+- Fixed splash screen
