@@ -252,6 +252,9 @@
     <item drawable="google_wifi" />
     <item drawable="googleassistant2" />
     <category title="A" />
+    <item drawable="audials_play" />
+    <item drawable="about_you" />
+    <item drawable="aumio" />
     <item drawable="agiletv" />
     <item drawable="accubattery" />
     <item drawable="ampere" />
@@ -645,6 +648,7 @@
 	<item drawable="awox_homecontrol" />
 	<item drawable="axp_apk_extractor" />
     <category title="B" />
+    <item drawable="bunpro" />
     <item drawable="bankin" />
     <item drawable="bromite" />
     <item drawable="boost" />
@@ -859,6 +863,10 @@
 	<item drawable="bycs_drive" />
     <item drawable="ballozi_skynox" />
     <category title="C" />
+    <item drawable="cxstudio" />
+    <item drawable="cookidoo" />
+    <item drawable="coop" />
+    <item drawable="choosy" />
     <item drawable="ciber_proteccion" />
     <item drawable="cozy" />
     <item drawable="casio_watches" />
@@ -1173,6 +1181,7 @@
 	<item drawable="cubic_2_3_4_player_games" />
 	<item drawable="currencies" />
     <category title="D" />
+    <item drawable="dictcc" />
     <item drawable="d4d" />
     <item drawable="daily_quotes_widget" />
     <item drawable="dailymotion" />
@@ -1432,6 +1441,8 @@
 	<item drawable="dynalist" />
 	<item drawable="dynamicspot" />
     <category title="E" />
+    <item drawable="epsxe" />
+    <item drawable="epsxe_opengl_plugin" />
     <item drawable="electricity_maps" />
     <item drawable="e_camera" />
     <item drawable="e_kartoteka" />
@@ -1797,6 +1808,7 @@
 	<item drawable="futo_voice_input" />
 	<item drawable="fx" />
     <category title="G" />
+    <item drawable="genshin_impact" />
     <item drawable="geogebra" />
     <item drawable="gauguin" />
     <item drawable="gojek" />
@@ -1978,6 +1990,7 @@
 	<item drawable="gspace" />
 	<item drawable="guerrilla_mail" />
     <category title="H" />
+    <item drawable="honkai_star_rail" />
     <item drawable="h_and_b" />
     <item drawable="h_and_m_mena" />
     <item drawable="habit_ally" />
@@ -2244,6 +2257,8 @@
 	<item drawable="ir_remote" />
 	<item drawable="iron" />
     <category title="J" />
+    <item drawable="jaumo" />
+    <item drawable="jisho" />
     <item drawable="jeux" />
     <item drawable="jackd" />
     <item drawable="j2me_loader" />
@@ -2300,6 +2315,8 @@
 	<item drawable="justchess" />
 	<item drawable="justdial" />
     <category title="K" />
+    <item drawable="kanji_dojo" />
+    <item drawable="katwarn" />
     <item drawable="kitchen_timer" />
     <item drawable="klik_indomaret" />
     <item drawable="kabbalah" />
@@ -2413,6 +2430,8 @@
 	<item drawable="kutumb" />
 	<item drawable="kwgt_pro" />
     <category title="L" />
+    <item drawable="lufthansa" />
+    <item drawable="locationprivacy" />
     <item drawable="lenskart" />
     <item drawable="lab_tests" />
     <item drawable="labcoat" />
@@ -2556,6 +2575,12 @@
 	<item drawable="lucky_wasted" />
 	<item drawable="lux_o_meter_lichtmesser" />
     <category title="M" />
+    <item drawable="mitteilungen_white" />
+    <item drawable="mapy_petal" />
+    <item drawable="meine_sbk" />
+    <item drawable="meinmagenta" />
+    <item drawable="my_boy_" />
+    <item drawable="my_oldboy_" />
     <item drawable="mitele" />
     <item drawable="movistar_cloud" />
     <item drawable="money_manager" />
@@ -2954,6 +2979,7 @@
 	<item drawable="mytelkomsel" />
 	<item drawable="myumobile" />
     <category title="N" />
+    <item drawable="night_of_the_full_moon" />
     <item drawable="nagad" />
     <item drawable="n26" />
     <item drawable="nabd" />
@@ -3266,6 +3292,8 @@
 	<item drawable="ovag_e_mobil" />
 	<item drawable="owlfiles" />
     <category title="P" />
+    <item drawable="portal_pasazera" />
+    <item drawable="polytopia" />
     <item drawable="pepeescudo" />
     <item drawable="pptx_opener" />
     <item drawable="proton_calendar" />
@@ -4234,6 +4262,8 @@
 	<item drawable="swiss_post" />
 	<item drawable="systemui_tuner" />
     <category title="T" />
+    <item drawable="twint" />
+    <item drawable="todoist" />
     <item drawable="torrdroid" />
     <item drawable="truein_user" />
     <item drawable="the_clock" />
@@ -4691,6 +4721,7 @@
 	<item drawable="vr_banking_app" />
 	<item drawable="vsolution_app" />
     <category title="W" />
+    <item drawable="wulkanowy" />
     <item drawable="wattpad" />
     <item drawable="wells_fargo" />
     <item drawable="wa_business" />
@@ -4887,6 +4918,7 @@
 	<item drawable="xodo" />
 	<item drawable="xposed_edge" />
     <category title="Y" />
+    <item drawable="youtrack" />
     <item drawable="yono_lite_sbi" />
     <item drawable="youcam_perfect" />
     <item drawable="yaacc" />

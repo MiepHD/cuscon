@@ -120,7 +120,7 @@
     <item component="ComponentInfo{com.android.settings/com.android.settings.Settings}" drawable="settings"/>
     <item component="ComponentInfo{com.easilydo.mail/com.easilydo.mail.ui.SplashActivity}" drawable="samsung_mail"/>
     <item component="ComponentInfo{com.android.gallery3d/com.android.gallery3d.app.GalleryActivity}" drawable="samsung_gallery"/>
-    <item component="ComponentInfo{org.lineageos.etar/com.android.calendar.AllInOneActivity}" drawable="samsung_calander"/>
+    <item component="ComponentInfo{org.lineageos.etar/com.android.calendar.AllInOneActivity}" drawable="samsung_calender_28"/>
 	<item component="ComponentInfo{com.android.contacts/com.android.contacts.activities.PeopleActivity}" drawable="samsung_contacts"/>
 	<item component="ComponentInfo{com.google.android.contacts/com.android.contacts.activities.PeopleActivity}" drawable="samsung_contacts" />
     <item component="ComponentInfo{org.lineageos.eleven/org.lineageos.eleven.ui.activities.HomeActivity}" drawable="samsung_music"/>
@@ -1133,7 +1133,6 @@
 	<item component="ComponentInfo{com.oneplus.soundrecorder/com.oneplus.soundrecorder.SoundRecorder}" drawable="recorder" />
 	<item component="ComponentInfo{com.np.nilp/com.np.nilp.MainActivity}" drawable="ullas" />
 	<item component="ComponentInfo{com.lagradost.cloudstream3/com.lagradost.cloudstream3.ui.account.AccountSelectActivity}" drawable="cloud_stream_3" />
-	<item component="ComponentInfo{com.ebay.mobile/com.ebay.mobile.home.impl.main.MainActivity}" drawable="ebay" />
 	<item component="ComponentInfo{com.gls.glsappde.consumer/de.gls.features.main.MainActivity}" drawable="gls" />
 	<item component="ComponentInfo{app.myzel394.alibi/app.myzel394.alibi.MainActivity}" drawable="alibi" />
 	<item component="ComponentInfo{com.uptodown.installer/com.uptodown.installer.activity.SplashActivity}" drawable="apk_installer" />
@@ -5055,5 +5054,39 @@
     <item component="ComponentInfo{com.magdalm.wifinetworkscanner/com.magdalm.wifinetworkscanner.SplashActivity}" drawable="quien_esta_en_mi_wifi" />
     <item component="ComponentInfo{es.vodafone.tvonline/com.witsoftware.vodafonetv.launch.LaunchActivity}" drawable="vodafone_tv" />
     <item component="ComponentInfo{wp.wattpad/wp.wattpad.ui.activities.LoginActivity}" drawable="wattpad" />
+    <item component="ComponentInfo{de.aboutyou.mobile.app/de.aboutyou.mobile.app.MainActivity}" drawable="about_you" />
+    <item component="ComponentInfo{com.aumio.app/com.aumio.app.MainActivity}" drawable="aumio" />
+    <item component="ComponentInfo{de.combirisk.katwarn/de.combirisk.katwarn.MainActivity}" drawable="katwarn" />
+    <item component="ComponentInfo{info.guardianproject.locationprivacy/info.guardianproject.locationprivacy.MainActivity}" drawable="locationprivacy" />
+    <item component="ComponentInfo{com.todoist/com.todoist.alias.HomeActivityDefault}" drawable="todoist" />
+    <item component="ComponentInfo{com.jetbrains.youtrack.mobile.app/com.jetbrains.youtrack.mobile.app.MainActivity}" drawable="youtrack" />
+    <item component="ComponentInfo{bunpro.jp.bunpro_srs/bunpro.jp.bunpro_srs.MainActivity}" drawable="bunpro" />
+    <item component="ComponentInfo{de.choosy.app/de.choosy.app.MainActivity}" drawable="choosy" />
+    <item component="ComponentInfo{cc.dict.dictcc/cc.dict.dictcc.MainActivity}" drawable="dictcc" />
+    <item component="ComponentInfo{com.epsxe.ePSXe/com.epsxe.ePSXe.ePSXe}" drawable="epsxe" />
+    <item component="ComponentInfo{com.epsxe.opengl/com.epsxe.opengl.ePSXeGL}" drawable="epsxe_opengl_plugin" />
+    <item component="ComponentInfo{c.example.jisho/com.example.flutterapp.MainActivity}" drawable="jisho" />
+    <item component="ComponentInfo{ua.syt0r.kanji/ua.syt0r.kanji.presentation.screen.main.GooglePlayMainActivity}" drawable="kanji_dojo" />
+    <item component="ComponentInfo{de.sbk.meinesbk/de.sbk.meinesbk.ui.splash.SplashActivity}" drawable="meine_sbk" />
+    <item component="ComponentInfo{de.telekom.android.customercenter/com.telekom.oneapp.launcher.components.launcher.LauncherActivity}" drawable="meinmagenta" />
+    <item component="ComponentInfo{com.fastemulator.gba/com.fastemulator.gba.RomListActivity}" drawable="my_boy_" />
+    <item component="ComponentInfo{com.fastemulator.gbc/com.fastemulator.gbc.RomListActivity}" drawable="my_oldboy_" />
+    <item component="ComponentInfo{com.ztgame.yyzy/com.ztgame.yyzy.adapternotchwithchannel.AdapterNotch}" drawable="night_of_the_full_moon" />
+    <item component="ComponentInfo{air.com.midjiwan.polytopia/com.google.firebase.MessagingUnityPlayerActivity}" drawable="polytopia" />
+    <item component="ComponentInfo{com.vorwerk.cookidoo/com.cookidoo.android.presentation.splash.SplashScreenActivity}" drawable="cookidoo" />
+    <item component="ComponentInfo{ch.coop.coopapp/ch.coop.coopapp.MainActivity}" drawable="coop" />
+    <item component="ComponentInfo{ch.postfinance.twint.android/ch.twint.payment.ui.activities.start.StartActivity}" drawable="twint" />
+    <item component="ComponentInfo{com.instapro.android/com.OM7753.gold.icon1}" drawable="instander" />
+    <item component="ComponentInfo{com.miHoYo.GenshinImpact/com.miHoYo.GetMobileInfo.MainActivity}" drawable="genshin_impact" />
+    <item component="ComponentInfo{com.HoYoverse.hkrpgoversea/com.mihoyo.combosdk.ComboSDKActivity}" drawable="honkai_star_rail" />
+    <item component="ComponentInfo{com.audials/com.audials.main.SplashScreenActivity}" drawable="audials_play" />
+    <item component="ComponentInfo{com.alif.ide.cpp/com.alif.app.AppActivity}" drawable="cxstudio" />
+    <item component="ComponentInfo{com.huawei.maps.app/com.huawei.maps.app.petalmaps.splash.SplashActivity}" drawable="mapy_petal" />
+    <item component="ComponentInfo{pl.plksa.portalpasazera/crc64cc116f7452d542b7.SplashActivity}" drawable="portal_pasazera" />
+    <item component="ComponentInfo{io.github.wulkanowy/io.github.wulkanowy.ui.modules.splash.SplashActivity}" drawable="wulkanowy" />
+    <item component="ComponentInfo{org.fossify.messages/org.fossify.messages.activities.SplashActivity.Grey_black}" drawable="mitteilungen_white" />
+    <item component="ComponentInfo{org.forkgram.messenger/org.telegram.messenger.OriginalIcon}" drawable="telegram_aqua2" />
+    <item component="ComponentInfo{com.jaumo/com.jaumo.Main}" drawable="jaumo" />
+    <item component="ComponentInfo{com.lufthansa.android.lufthansa/com.lhgroup.lhgroupapp.MainActivity}" drawable="lufthansa" />
 
 </resources>
