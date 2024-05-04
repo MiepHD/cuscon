@@ -1,6 +1,6 @@
 ![icon_with_name](http://miep-hd.froxot.com/cuscon/res/icon_with_name.png)
 
-This icon pack makes your home screen varied and dynamic. As there is no background, each icon looks unique and the constant pattern of the grid is broken up.
+This icon pack adds variety and dynamism to your Home screen. With no background, each icon looks unique and breaks up the constant pattern of the grid.
 
 # Download
 
@@ -77,7 +77,6 @@ How-To:
 
 # License
 
-```
-Licensed under the Apache License, Version 2.0 (the "License");
-http://www.apache.org/licenses/LICENSE-2.0
-```
+The app is built with the **[CandyBar Dashboard](https://github.com/zixpo/candybar)** (and also with the **[FOSS version](https://github.com/Donnnno/candybar-foss)**) licensed under **[Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0)**
+
+The icons are licensed under **[Creative Commons BY-NC-ND License 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)**
