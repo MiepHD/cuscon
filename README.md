@@ -1,3 +1,5 @@
+If you want to contribute see [Contributing](https://github.com/MiepHD/cuscon/edit/master/README.md#contributing)
+
 ![icon_with_name](http://miep-hd.froxot.com/cuscon/res/icon_with_name.png)
 
 This icon pack brings variety and dynamism to your Home screen with over 5000 icons. Without a background, each icon looks unique and breaks the constant pattern of the grid. All icons have a black border which allows them to fit on most backgrounds. The color palette is retained and integrated into the icon. This makes the icons easy to recognize. Cuscon also brings a natural consistency to the size of the icons. All icons have the same spacing, resulting in a standard size without the need to mask icons. Unlike many other icon packs, Cuscon's philosophy supports the creation of icons for games and other complex icons. Therefore, it is possible to have Cuscon fully applied without annoying unedited icons that don't fit the theme. Since Cuscon is open source, anyone can contribute icons and other changes on Github. Cuscon supports most launchers such as Apex, Nova, Smart, Kiss, Lawnchair and others. You can request icons that have not yet been added to the application. Most calendars can update based on the date if the correct launcher is used.
@@ -17,13 +19,15 @@ Or download the latest APK from the [Releases Section](https://github.com/MiepHD
 
 https://www.buymeacoffee.com/yazazuyo
 
-![cuscon](https://github.com/MiepHD/cuscon/assets/63968466/183ac3f3-c5a1-4d08-becb-658f0b69a74e)
-![shapes](https://github.com/MiepHD/cuscon/assets/63968466/a2be67df-4dbd-40db-8e9d-cd597146a75d)
-![colors](https://github.com/MiepHD/cuscon/assets/63968466/9c2580ec-8704-4fe6-9dfd-024f668cba51)
-![sizes](https://github.com/MiepHD/cuscon/assets/63968466/8ba07e70-6279-447e-a349-149fe25c831a)
-![background](https://github.com/MiepHD/cuscon/assets/63968466/f433a4e0-fb98-44d0-b1c9-3a7a80deccf5)
-![games](https://github.com/MiepHD/cuscon/assets/63968466/45310e7d-f102-450d-9c3f-391050e14dcc)
-![features](https://github.com/MiepHD/cuscon/assets/63968466/17325662-5498-47d8-8e2c-a3e798455db0)
+# Images
+
+<img src="https://github.com/MiepHD/cuscon/assets/63968466/183ac3f3-c5a1-4d08-becb-658f0b69a74e" width="460" />
+<img src="https://github.com/MiepHD/cuscon/assets/63968466/a2be67df-4dbd-40db-8e9d-cd597146a75d" width="460" />
+<img src="https://github.com/MiepHD/cuscon/assets/63968466/9c2580ec-8704-4fe6-9dfd-024f668cba51" width="460" />
+<img src="https://github.com/MiepHD/cuscon/assets/63968466/8ba07e70-6279-447e-a349-149fe25c831a" width="460" />
+<img src="https://github.com/MiepHD/cuscon/assets/63968466/f433a4e0-fb98-44d0-b1c9-3a7a80deccf5" width="460" />
+<img src="https://github.com/MiepHD/cuscon/assets/63968466/45310e7d-f102-450d-9c3f-391050e14dcc" width="460" />
+<img src="https://github.com/MiepHD/cuscon/assets/63968466/17325662-5498-47d8-8e2c-a3e798455db0" width="460" />
 
 # Requests
 
