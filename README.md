@@ -90,4 +90,4 @@ The app is built with the **[CandyBar Dashboard](https://github.com/zixpo/candyb
 
 The icons are licensed under **[Creative Commons BY-NC-ND License 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)**
 
-All files under `/store` are © Copyrighted by [@MiepHD](https://github.com/MiepHD) 2024
+All files under `/store` and `/metadata` except `metadata/en-US/changelogs` are © Copyrighted by [@MiepHD](https://github.com/MiepHD) 2024
