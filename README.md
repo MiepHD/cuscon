@@ -21,13 +21,13 @@ https://www.buymeacoffee.com/yazazuyo
 
 # Images
 
-<img src="https://github.com/MiepHD/cuscon/assets/63968466/183ac3f3-c5a1-4d08-becb-658f0b69a74e" width="460" />
-<img src="https://github.com/MiepHD/cuscon/assets/63968466/a2be67df-4dbd-40db-8e9d-cd597146a75d" width="460" />
-<img src="https://github.com/MiepHD/cuscon/assets/63968466/9c2580ec-8704-4fe6-9dfd-024f668cba51" width="460" />
-<img src="https://github.com/MiepHD/cuscon/assets/63968466/8ba07e70-6279-447e-a349-149fe25c831a" width="460" />
-<img src="https://github.com/MiepHD/cuscon/assets/63968466/f433a4e0-fb98-44d0-b1c9-3a7a80deccf5" width="460" />
-<img src="https://github.com/MiepHD/cuscon/assets/63968466/45310e7d-f102-450d-9c3f-391050e14dcc" width="460" />
-<img src="https://github.com/MiepHD/cuscon/assets/63968466/17325662-5498-47d8-8e2c-a3e798455db0" width="460" />
+<img src="https://github.com/MiepHD/cuscon/assets/63968466/183ac3f3-c5a1-4d08-becb-658f0b69a74e" width="400" />
+<img src="https://github.com/MiepHD/cuscon/assets/63968466/a2be67df-4dbd-40db-8e9d-cd597146a75d" width="400" />
+<img src="https://github.com/MiepHD/cuscon/assets/63968466/9c2580ec-8704-4fe6-9dfd-024f668cba51" width="400" />
+<img src="https://github.com/MiepHD/cuscon/assets/63968466/8ba07e70-6279-447e-a349-149fe25c831a" width="400" />
+<img src="https://github.com/MiepHD/cuscon/assets/63968466/f433a4e0-fb98-44d0-b1c9-3a7a80deccf5" width="400" />
+<img src="https://github.com/MiepHD/cuscon/assets/63968466/45310e7d-f102-450d-9c3f-391050e14dcc" width="400" />
+<img src="https://github.com/MiepHD/cuscon/assets/63968466/17325662-5498-47d8-8e2c-a3e798455db0" width="400" />
 
 # Requests
 
