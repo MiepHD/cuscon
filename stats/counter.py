@@ -11,6 +11,7 @@ for folder in folders:
     conflict = 0
     rename = 0
     total = 0
+    update = ""
     with open("../../app/src/main/res/xml/appfilter.xml", encoding="utf-8") as f1:
         already = f1.read()
         with open("appfilter.xml", encoding="utf-8") as f:
@@ -24,9 +25,12 @@ for folder in folders:
                             total = total + 1
                             if (find in already):
                                 appfilter = appfilter + 1
+                            elif (find.split("/")[0] in already):
+                                update = update + name + ";" + find
                             elif (exists("../../app/src/main/res/drawable-nodpi/" + name + ".webp")):
                                 conflict = conflict + 1
                             elif not (re.match(r"[A-Za-z0-9]", name)):
                                 rename = rename + 1
     os.chdir("..")
     print(folder + ": " + str(total - appfilter - conflict - rename) + " " + str(conflict) + " " + str(rename))
+    print(folder + ": " + update)

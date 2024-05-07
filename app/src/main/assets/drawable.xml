@@ -252,6 +252,8 @@
     <item drawable="google_wifi" />
     <item drawable="googleassistant2" />
     <category title="A" />
+    <item drawable="asana" />
+    <item drawable="administradora_de_archivos" />
     <item drawable="audials_play" />
     <item drawable="about_you" />
     <item drawable="aumio" />
@@ -1181,6 +1183,7 @@
 	<item drawable="cubic_2_3_4_player_games" />
 	<item drawable="currencies" />
     <category title="D" />
+    <item drawable="dani_filemanager" />
     <item drawable="dictcc" />
     <item drawable="d4d" />
     <item drawable="daily_quotes_widget" />
@@ -1592,6 +1595,7 @@
 	<item drawable="explorer" />
 	<item drawable="exteragram" />
     <category title="F" />
+    <item drawable="fs_explorer" />
     <item drawable="fender_tune" />
     <item drawable="fotocamera" />
     <item drawable="foldplay" />
@@ -1634,7 +1638,6 @@
     <item drawable="fiio_music" />
     <item drawable="file_commander" />
     <item drawable="file_converter" />
-    <item drawable="file_manager" />
     <item drawable="file_manager" />
     <item drawable="file_manager_by_lufick" />
     <item drawable="file_manager_green" />
@@ -1809,6 +1812,7 @@
 	<item drawable="futo_voice_input" />
 	<item drawable="fx" />
     <category title="G" />
+    <item drawable="globalfileexplorer_file_manager" />
     <item drawable="genshin_impact" />
     <item drawable="geogebra" />
     <item drawable="gauguin" />
@@ -2258,6 +2262,7 @@
 	<item drawable="ir_remote" />
 	<item drawable="iron" />
     <category title="J" />
+    <item drawable="jrdcom_filemanager" />
     <item drawable="jaumo" />
     <item drawable="jisho" />
     <item drawable="jeux" />
@@ -3839,6 +3844,8 @@
 	<item drawable="rustdesk" />
 	<item drawable="rvx_music" />
     <category title="S" />
+    <item drawable="simple_file_manager" />
+    <item drawable="sjh_file_manager" />
     <item drawable="supercard" />
     <item drawable="swissid" />
     <item drawable="spinny" />
@@ -4326,7 +4333,6 @@
     <item drawable="telebox" />
     <item drawable="telefon" />
     <item drawable="telegram" />
-    <item drawable="telegram" />
     <item drawable="telegram_premium" />
     <item drawable="telegram_x" />
     <item drawable="telekom_mail" />
@@ -4728,6 +4734,7 @@
 	<item drawable="vr_banking_app" />
 	<item drawable="vsolution_app" />
     <category title="W" />
+    <item drawable="wetransfer" />
     <item drawable="wulkanowy" />
     <item drawable="wattpad" />
     <item drawable="wells_fargo" />
