@@ -252,6 +252,7 @@
     <item drawable="google_wifi" />
     <item drawable="googleassistant2" />
     <category title="A" />
+    <item drawable="asana" />
     <item drawable="administradora_de_archivos" />
     <item drawable="audials_play" />
     <item drawable="about_you" />

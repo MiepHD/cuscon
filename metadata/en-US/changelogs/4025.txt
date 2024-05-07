@@ -1,2 +1,2 @@
-- Added Fender Tune, MyViollier, myWingo, Nebula, Supercard, SwissID, TICE, xBrowserSync, Administradora de archivos, Administrador de archivos, Gestor de archivos, FS Explorer, File Manager, Gestión archivos, Admin. de archivos, File Manager, WeTransfer
+- Added Fender Tune, MyViollier, myWingo, Nebula, Supercard, SwissID, TICE, xBrowserSync, Administradora de archivos, Administrador de archivos, Gestor de archivos, FS Explorer, File Manager, Gestión archivos, Admin. de archivos, File Manager, WeTransfer, Asana
 - Updated My Files

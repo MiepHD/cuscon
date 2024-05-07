@@ -5091,5 +5091,6 @@
     <AppIcon name="com.simple.filemanager/com.simple.filemanager.ui.activity.MainPageActivity" image="simple_file_manager"/>
     <AppIcon name="com.sjh.filemanager.file.explorer/com.example.filemanager.activity.SplashActivity" image="sjh_file_manager"/>
     <AppIcon name="com.wetransfer.transfer/com.wetransfer.transfer.MainActivity" image="wetransfer"/>
+    <AppIcon name="com.asana.app/com.asana.ui.activities.LaunchActivity" image="asana"/>
 
 </Theme>

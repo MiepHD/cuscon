@@ -5106,5 +5106,6 @@
     <item component="ComponentInfo{com.simple.filemanager/com.simple.filemanager.ui.activity.MainPageActivity}" drawable="simple_file_manager" />
     <item component="ComponentInfo{com.sjh.filemanager.file.explorer/com.example.filemanager.activity.SplashActivity}" drawable="sjh_file_manager" />
     <item component="ComponentInfo{com.wetransfer.transfer/com.wetransfer.transfer.MainActivity}" drawable="wetransfer" />
+    <item component="ComponentInfo{com.asana.app/com.asana.ui.activities.LaunchActivity}" drawable="asana" />
 
 </resources>
