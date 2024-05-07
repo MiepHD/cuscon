@@ -1638,7 +1638,6 @@
     <item drawable="file_commander" />
     <item drawable="file_converter" />
     <item drawable="file_manager" />
-    <item drawable="file_manager" />
     <item drawable="file_manager_by_lufick" />
     <item drawable="file_manager_green" />
     <item drawable="findr" />
@@ -4332,7 +4331,6 @@
     <item drawable="tecka" />
     <item drawable="telebox" />
     <item drawable="telefon" />
-    <item drawable="telegram" />
     <item drawable="telegram" />
     <item drawable="telegram_premium" />
     <item drawable="telegram_x" />
