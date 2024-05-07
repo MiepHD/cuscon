@@ -5096,5 +5096,6 @@
     <item component="ComponentInfo{com.swisssign.swissid.mobile/dev.swisssign.swissid.mobile.MainActivity}" drawable="swissid" />
     <item component="ComponentInfo{app.tice.TICE.production/tice.ui.activitys.MainActivity}" drawable="tice" />
     <item component="ComponentInfo{com.xBrowserSync.android/com.xBrowserSync.android.MainActivity}" drawable="xbrowsersync" />
+    <item component="ComponentInfo{com.myfiles.filefolder.filemanager/com.myfiles.filefolder.filemanager.Ui.activity.SplashActivity}" drawable="samsung_files" />
 
 </resources>

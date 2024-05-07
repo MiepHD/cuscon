@@ -5081,5 +5081,6 @@
     <AppIcon name="com.swisssign.swissid.mobile/dev.swisssign.swissid.mobile.MainActivity" image="swissid"/>
     <AppIcon name="app.tice.TICE.production/tice.ui.activitys.MainActivity" image="tice"/>
     <AppIcon name="com.xBrowserSync.android/com.xBrowserSync.android.MainActivity" image="xbrowsersync"/>
+    <AppIcon name="com.myfiles.filefolder.filemanager/com.myfiles.filefolder.filemanager.Ui.activity.SplashActivity" image="samsung_files"/>
 
 </Theme>
