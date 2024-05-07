@@ -5097,5 +5097,14 @@
     <item component="ComponentInfo{app.tice.TICE.production/tice.ui.activitys.MainActivity}" drawable="tice" />
     <item component="ComponentInfo{com.xBrowserSync.android/com.xBrowserSync.android.MainActivity}" drawable="xbrowsersync" />
     <item component="ComponentInfo{com.myfiles.filefolder.filemanager/com.myfiles.filefolder.filemanager.Ui.activity.SplashActivity}" drawable="samsung_files" />
+    <item component="ComponentInfo{com.tas.file.manager/com.tas.filemanager.main_wrapper.new_ui.splash.SplashActivity}" drawable="administradora_de_archivos" />
+    <item component="ComponentInfo{com.filemanager.managefile.fileexplorer.fileextractor/com.dani.example.presentation.ui.activities.main.MainActivity}" drawable="dani_filemanager" />
+    <item component="ComponentInfo{fileexplorer.files.filemanager.tool/fileexplorer.files.filemanager.tool.SplashActivity}" drawable="dani_filemanager" />
+    <item component="ComponentInfo{com.ioapps.fsexplorer/com.ioapps.fsexplorer.MainActivity}" drawable="fs_explorer" />
+    <item component="ComponentInfo{com.folder.globalfileexplorer.filemanager/com.folder.globalfileexplorer.filemanager.activity.SplashScreenActivity}" drawable="globalfileexplorer_file_manager" />
+    <item component="ComponentInfo{com.jrdcom.filemanager/com.jrdcom.filemanager.activity.FileBrowserActivity}" drawable="jrdcom_filemanager" />
+    <item component="ComponentInfo{com.simple.filemanager/com.simple.filemanager.ui.activity.MainPageActivity}" drawable="simple_file_manager" />
+    <item component="ComponentInfo{com.sjh.filemanager.file.explorer/com.example.filemanager.activity.SplashActivity}" drawable="sjh_file_manager" />
+    <item component="ComponentInfo{com.wetransfer.transfer/com.wetransfer.transfer.MainActivity}" drawable="wetransfer" />
 
 </resources>

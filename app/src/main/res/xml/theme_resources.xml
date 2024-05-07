@@ -5082,5 +5082,14 @@
     <AppIcon name="app.tice.TICE.production/tice.ui.activitys.MainActivity" image="tice"/>
     <AppIcon name="com.xBrowserSync.android/com.xBrowserSync.android.MainActivity" image="xbrowsersync"/>
     <AppIcon name="com.myfiles.filefolder.filemanager/com.myfiles.filefolder.filemanager.Ui.activity.SplashActivity" image="samsung_files"/>
+    <AppIcon name="com.tas.file.manager/com.tas.filemanager.main_wrapper.new_ui.splash.SplashActivity" image="administradora_de_archivos"/>
+    <AppIcon name="com.filemanager.managefile.fileexplorer.fileextractor/com.dani.example.presentation.ui.activities.main.MainActivity" image="dani_filemanager"/>
+    <AppIcon name="fileexplorer.files.filemanager.tool/fileexplorer.files.filemanager.tool.SplashActivity" image="dani_filemanager"/>
+    <AppIcon name="com.ioapps.fsexplorer/com.ioapps.fsexplorer.MainActivity" image="fs_explorer"/>
+    <AppIcon name="com.folder.globalfileexplorer.filemanager/com.folder.globalfileexplorer.filemanager.activity.SplashScreenActivity" image="globalfileexplorer_file_manager"/>
+    <AppIcon name="com.jrdcom.filemanager/com.jrdcom.filemanager.activity.FileBrowserActivity" image="jrdcom_filemanager"/>
+    <AppIcon name="com.simple.filemanager/com.simple.filemanager.ui.activity.MainPageActivity" image="simple_file_manager"/>
+    <AppIcon name="com.sjh.filemanager.file.explorer/com.example.filemanager.activity.SplashActivity" image="sjh_file_manager"/>
+    <AppIcon name="com.wetransfer.transfer/com.wetransfer.transfer.MainActivity" image="wetransfer"/>
 
 </Theme>
