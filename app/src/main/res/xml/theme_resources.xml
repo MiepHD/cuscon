@@ -5073,5 +5073,13 @@
     <AppIcon name="org.forkgram.messenger/org.telegram.messenger.OriginalIcon" image="telegram_aqua2"/>
     <AppIcon name="com.jaumo/com.jaumo.Main" image="jaumo"/>
     <AppIcon name="com.lufthansa.android.lufthansa/com.lhgroup.lhgroupapp.MainActivity" image="lufthansa"/>
+    <AppIcon name="com.fender.tuner/com.fender.tuner.activities.HomeActivity" image="fender_tune"/>
+    <AppIcon name="ch.viollier.android.myviollier/crc640bc2591017d2989c.SplashScreen" image="myviollier"/>
+    <AppIcon name="com.swisscom.mywingo/com.swisscom.mywingo.MainActivity" image="mywingo"/>
+    <AppIcon name="tv.standard.nebula/tv.standard.nebula.auth.splash.view.activities.SplashActivity" image="nebula"/>
+    <AppIcon name="ch.coop.supercard/ch.coop.supercardapp.MainActivity" image="supercard"/>
+    <AppIcon name="com.swisssign.swissid.mobile/dev.swisssign.swissid.mobile.MainActivity" image="swissid"/>
+    <AppIcon name="app.tice.TICE.production/tice.ui.activitys.MainActivity" image="tice"/>
+    <AppIcon name="com.xBrowserSync.android/com.xBrowserSync.android.MainActivity" image="xbrowsersync"/>
 
 </Theme>

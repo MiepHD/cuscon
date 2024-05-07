@@ -5088,5 +5088,13 @@
     <item component="ComponentInfo{org.forkgram.messenger/org.telegram.messenger.OriginalIcon}" drawable="telegram_aqua2" />
     <item component="ComponentInfo{com.jaumo/com.jaumo.Main}" drawable="jaumo" />
     <item component="ComponentInfo{com.lufthansa.android.lufthansa/com.lhgroup.lhgroupapp.MainActivity}" drawable="lufthansa" />
+    <item component="ComponentInfo{com.fender.tuner/com.fender.tuner.activities.HomeActivity}" drawable="fender_tune" />
+    <item component="ComponentInfo{ch.viollier.android.myviollier/crc640bc2591017d2989c.SplashScreen}" drawable="myviollier" />
+    <item component="ComponentInfo{com.swisscom.mywingo/com.swisscom.mywingo.MainActivity}" drawable="mywingo" />
+    <item component="ComponentInfo{tv.standard.nebula/tv.standard.nebula.auth.splash.view.activities.SplashActivity}" drawable="nebula" />
+    <item component="ComponentInfo{ch.coop.supercard/ch.coop.supercardapp.MainActivity}" drawable="supercard" />
+    <item component="ComponentInfo{com.swisssign.swissid.mobile/dev.swisssign.swissid.mobile.MainActivity}" drawable="swissid" />
+    <item component="ComponentInfo{app.tice.TICE.production/tice.ui.activitys.MainActivity}" drawable="tice" />
+    <item component="ComponentInfo{com.xBrowserSync.android/com.xBrowserSync.android.MainActivity}" drawable="xbrowsersync" />
 
 </resources>

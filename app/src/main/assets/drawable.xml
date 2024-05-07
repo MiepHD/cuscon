@@ -1592,6 +1592,7 @@
 	<item drawable="explorer" />
 	<item drawable="exteragram" />
     <category title="F" />
+    <item drawable="fender_tune" />
     <item drawable="fotocamera" />
     <item drawable="foldplay" />
     <item drawable="filezilla" />
@@ -2575,6 +2576,8 @@
 	<item drawable="lucky_wasted" />
 	<item drawable="lux_o_meter_lichtmesser" />
     <category title="M" />
+    <item drawable="myviollier" />
+    <item drawable="mywingo" />
     <item drawable="mitteilungen_white" />
     <item drawable="mapy_petal" />
     <item drawable="meine_sbk" />
@@ -2979,6 +2982,7 @@
 	<item drawable="mytelkomsel" />
 	<item drawable="myumobile" />
     <category title="N" />
+    <item drawable="nebula" />
     <item drawable="night_of_the_full_moon" />
     <item drawable="nagad" />
     <item drawable="n26" />
@@ -3835,6 +3839,8 @@
 	<item drawable="rustdesk" />
 	<item drawable="rvx_music" />
     <category title="S" />
+    <item drawable="supercard" />
+    <item drawable="swissid" />
     <item drawable="spinny" />
     <item drawable="southwest" />
     <item drawable="summertimesaga" />
@@ -4262,6 +4268,7 @@
 	<item drawable="swiss_post" />
 	<item drawable="systemui_tuner" />
     <category title="T" />
+    <item drawable="tice" />
     <item drawable="twint" />
     <item drawable="todoist" />
     <item drawable="torrdroid" />
@@ -4887,6 +4894,7 @@
 	<item drawable="wx" />
 	<item drawable="wynk_music" />
     <category title="X" />
+    <item drawable="xbrowsersync" />
     <item drawable="x_gamepad_tester" />
     <item drawable="x_plore" />
     <item drawable="xapk_installer" />
