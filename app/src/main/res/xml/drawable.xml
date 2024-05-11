@@ -1600,6 +1600,7 @@
 	<item drawable="explorer" />
 	<item drawable="exteragram" />
     <category title="F" />
+    <item drawable="fulguris" />
     <item drawable="freeotp_" />
     <item drawable="fs_explorer" />
     <item drawable="fender_tune" />
@@ -3320,6 +3321,7 @@
 	<item drawable="ovag_e_mobil" />
 	<item drawable="owlfiles" />
     <category title="P" />
+    <item drawable="power_app" />
     <item drawable="poseidon" />
     <item drawable="podcini" />
     <item drawable="psd_banking" />
@@ -5001,6 +5003,7 @@
 	<item drawable="yuka" />
 	<item drawable="yuzu_browser" />
     <category title="Z" />
+    <item drawable="zarchiver_pro" />
     <item drawable="zepp" />
     <item drawable="z_lib" />
     <item drawable="zabehaty" />

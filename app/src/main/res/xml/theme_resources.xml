@@ -5159,5 +5159,8 @@
     <AppIcon name="com.watchfacestudio.awfnewdigital/com.watchfacestudio.awfnewdigital.MainActivity" image="n_digital"/>
     <AppIcon name="cz.devsoft.poseidon/cz.devsoft.poseidon.MainActivity" image="poseidon"/>
     <AppIcon name="com.vjsjlqvlmp.wearewarriors/com.unity3d.player.UnityPlayerActivity" image="we_are_warriors"/>
+    <AppIcon name="net.slions.fulguris.full.fdroid/fulguris.activity.SplashActivity" image="fulguris"/>
+    <AppIcon name="io.github.domi04151309.powerapp/io.github.domi04151309.powerapp.activities.SplashActivity" image="power_app"/>
+    <AppIcon name="ru.zdevs.zarchiver.pro/ru.zdevs.zarchiver.pro.ZArchiver" image="zarchiver_pro"/>
 
 </Theme>

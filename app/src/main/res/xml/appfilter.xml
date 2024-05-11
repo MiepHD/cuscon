@@ -5175,5 +5175,8 @@
     <item component="ComponentInfo{com.watchfacestudio.awfnewdigital/com.watchfacestudio.awfnewdigital.MainActivity}" drawable="n_digital" />
     <item component="ComponentInfo{cz.devsoft.poseidon/cz.devsoft.poseidon.MainActivity}" drawable="poseidon" />
     <item component="ComponentInfo{com.vjsjlqvlmp.wearewarriors/com.unity3d.player.UnityPlayerActivity}" drawable="we_are_warriors" />
+    <item component="ComponentInfo{net.slions.fulguris.full.fdroid/fulguris.activity.SplashActivity}" drawable="fulguris" />
+    <item component="ComponentInfo{io.github.domi04151309.powerapp/io.github.domi04151309.powerapp.activities.SplashActivity}" drawable="power_app" />
+    <item component="ComponentInfo{ru.zdevs.zarchiver.pro/ru.zdevs.zarchiver.pro.ZArchiver}" drawable="zarchiver_pro" />
 
 </resources>
