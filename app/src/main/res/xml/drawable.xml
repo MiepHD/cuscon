@@ -4761,6 +4761,7 @@
 	<item drawable="vr_banking_app" />
 	<item drawable="vsolution_app" />
     <category title="W" />
+    <item drawable="whobird" />
     <item drawable="we_are_warriors" />
     <item drawable="windyapp" />
     <item drawable="wetterde" />

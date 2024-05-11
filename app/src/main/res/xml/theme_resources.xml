@@ -5162,5 +5162,6 @@
     <AppIcon name="net.slions.fulguris.full.fdroid/fulguris.activity.SplashActivity" image="fulguris"/>
     <AppIcon name="io.github.domi04151309.powerapp/io.github.domi04151309.powerapp.activities.SplashActivity" image="power_app"/>
     <AppIcon name="ru.zdevs.zarchiver.pro/ru.zdevs.zarchiver.pro.ZArchiver" image="zarchiver_pro"/>
+    <AppIcon name="org.woheller69.whobird/org.tensorflow.lite.examples.soundclassifier.DownloadActivity" image="whobird"/>
 
 </Theme>

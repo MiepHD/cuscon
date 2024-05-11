@@ -5178,5 +5178,6 @@
     <item component="ComponentInfo{net.slions.fulguris.full.fdroid/fulguris.activity.SplashActivity}" drawable="fulguris" />
     <item component="ComponentInfo{io.github.domi04151309.powerapp/io.github.domi04151309.powerapp.activities.SplashActivity}" drawable="power_app" />
     <item component="ComponentInfo{ru.zdevs.zarchiver.pro/ru.zdevs.zarchiver.pro.ZArchiver}" drawable="zarchiver_pro" />
+    <item component="ComponentInfo{org.woheller69.whobird/org.tensorflow.lite.examples.soundclassifier.DownloadActivity}" drawable="whobird" />
 
 </resources>
