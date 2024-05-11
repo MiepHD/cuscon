@@ -5179,5 +5179,9 @@
     <item component="ComponentInfo{io.github.domi04151309.powerapp/io.github.domi04151309.powerapp.activities.SplashActivity}" drawable="power_app" />
     <item component="ComponentInfo{ru.zdevs.zarchiver.pro/ru.zdevs.zarchiver.pro.ZArchiver}" drawable="zarchiver_pro" />
     <item component="ComponentInfo{org.woheller69.whobird/org.tensorflow.lite.examples.soundclassifier.DownloadActivity}" drawable="whobird" />
+    <item component="ComponentInfo{io.appground.blekpremium/io.appground.blek.MainActivity}" drawable="bluetooth_keyboard_and_mouse" />
+    <item component="ComponentInfo{net.pmarks.chromadoze/net.pmarks.chromadoze.ChromaDoze}" drawable="chroma_doze" />
+    <item component="ComponentInfo{com.fongo.dellvoice/com.fongo.dellvoice.SplashActivity}" drawable="fongo" />
+    <item component="ComponentInfo{com.conena.navigation.gesture.control/com.conena.navigation.gesture.control.StartPageActivity}" drawable="gesture_control" />
 
 </resources>

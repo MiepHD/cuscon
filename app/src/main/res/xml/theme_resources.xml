@@ -5163,5 +5163,9 @@
     <AppIcon name="io.github.domi04151309.powerapp/io.github.domi04151309.powerapp.activities.SplashActivity" image="power_app"/>
     <AppIcon name="ru.zdevs.zarchiver.pro/ru.zdevs.zarchiver.pro.ZArchiver" image="zarchiver_pro"/>
     <AppIcon name="org.woheller69.whobird/org.tensorflow.lite.examples.soundclassifier.DownloadActivity" image="whobird"/>
+    <AppIcon name="io.appground.blekpremium/io.appground.blek.MainActivity" image="bluetooth_keyboard_and_mouse"/>
+    <AppIcon name="net.pmarks.chromadoze/net.pmarks.chromadoze.ChromaDoze" image="chroma_doze"/>
+    <AppIcon name="com.fongo.dellvoice/com.fongo.dellvoice.SplashActivity" image="fongo"/>
+    <AppIcon name="com.conena.navigation.gesture.control/com.conena.navigation.gesture.control.StartPageActivity" image="gesture_control"/>
 
 </Theme>

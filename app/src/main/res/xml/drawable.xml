@@ -652,6 +652,7 @@
 	<item drawable="awox_homecontrol" />
 	<item drawable="axp_apk_extractor" />
     <category title="B" />
+    <item drawable="bluetooth_keyboard_and_mouse" />
     <item drawable="bunpro" />
     <item drawable="bankin" />
     <item drawable="bromite" />
@@ -867,6 +868,7 @@
 	<item drawable="bycs_drive" />
     <item drawable="ballozi_skynox" />
     <category title="C" />
+    <item drawable="chroma_doze" />
     <item drawable="castle_defender_premium" />
     <item drawable="cxstudio" />
     <item drawable="cookidoo" />
@@ -1600,6 +1602,7 @@
 	<item drawable="explorer" />
 	<item drawable="exteragram" />
     <category title="F" />
+    <item drawable="fongo" />
     <item drawable="fulguris" />
     <item drawable="freeotp_" />
     <item drawable="fs_explorer" />
@@ -1819,6 +1822,7 @@
 	<item drawable="futo_voice_input" />
 	<item drawable="fx" />
     <category title="G" />
+    <item drawable="gesture_control" />
     <item drawable="groundwire" />
     <item drawable="globalfileexplorer_file_manager" />
     <item drawable="genshin_impact" />
