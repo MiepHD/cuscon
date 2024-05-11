@@ -5146,5 +5146,8 @@
     <AppIcon name="de.fiduciagad.securego.wl/de.fiduciagad.securego.MainActivity" image="securego_plus"/>
     <AppIcon name="com.goodwy.dialer/com.goodwy.dialer.activities.SplashActivity.Orange" image="telefon_goodwy"/>
     <AppIcon name="org.liberty.android.freeotpplus/org.fedorahosted.freeotp.ui.MainActivity" image="freeotp_"/>
+    <AppIcon name="nl.schoolmaster.magister.mobile/crc64bb28a63fa9856b6c.SplashActivity" image="magister"/>
+    <AppIcon name="com.vaarkaartnederland/com.vaarkaartnederland.Views.SplashScreenActivity" image="vaarkaart_nederland"/>
+    <AppIcon name="co.windyapp.android/co.windyapp.android.ui.mainscreen.container.MainActivity" image="windyapp"/>
 
 </Theme>

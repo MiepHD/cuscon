@@ -5162,5 +5162,8 @@
     <item component="ComponentInfo{de.fiduciagad.securego.wl/de.fiduciagad.securego.MainActivity}" drawable="securego_plus" />
     <item component="ComponentInfo{com.goodwy.dialer/com.goodwy.dialer.activities.SplashActivity.Orange}" drawable="telefon_goodwy" />
     <item component="ComponentInfo{org.liberty.android.freeotpplus/org.fedorahosted.freeotp.ui.MainActivity}" drawable="freeotp_" />
+    <item component="ComponentInfo{nl.schoolmaster.magister.mobile/crc64bb28a63fa9856b6c.SplashActivity}" drawable="magister" />
+    <item component="ComponentInfo{com.vaarkaartnederland/com.vaarkaartnederland.Views.SplashScreenActivity}" drawable="vaarkaart_nederland" />
+    <item component="ComponentInfo{co.windyapp.android/co.windyapp.android.ui.mainscreen.container.MainActivity}" drawable="windyapp" />
 
 </resources>

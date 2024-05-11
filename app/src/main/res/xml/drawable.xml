@@ -2589,6 +2589,7 @@
 	<item drawable="lucky_wasted" />
 	<item drawable="lux_o_meter_lichtmesser" />
     <category title="M" />
+    <item drawable="magister" />
     <item drawable="meine_ausgaben" />
     <item drawable="microg_einstellungen_revanced" />
     <item drawable="mobilnrw" />
@@ -4626,6 +4627,7 @@
 	<item drawable="utiles" />
 	<item drawable="utilidades_amaze" />
     <category title="V" />
+    <item drawable="vaarkaart_nederland" />
     <item drawable="vodafone_tv" />
     <item drawable="video_to_mp3_convert" />
     <item drawable="vinyl" />
@@ -4748,6 +4750,7 @@
 	<item drawable="vr_banking_app" />
 	<item drawable="vsolution_app" />
     <category title="W" />
+    <item drawable="windyapp" />
     <item drawable="wetterde" />
     <item drawable="wetransfer" />
     <item drawable="wulkanowy" />
