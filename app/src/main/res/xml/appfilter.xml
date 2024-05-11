@@ -5169,5 +5169,11 @@
     <item component="ComponentInfo{xyz.pisoj.og.nettools/xyz.pisoj.og.nettools.MainActivity}" drawable="og_network_tools" />
     <item component="ComponentInfo{ac.mdiq.podcini/ac.mdiq.podcini.ui.activity.SplashActivity}" drawable="podcini" />
     <item component="ComponentInfo{at.bitfire.icsdroid/at.bitfire.icsdroid.ui.CalendarListActivity}" drawable="icsx5" />
+    <item component="ComponentInfo{fr.avianey.altimeter/fr.avianey.altimeter.AltimeterConsentActivity}" drawable="altimeter" />
+    <item component="ComponentInfo{com.unimob.castle.defender.heroes.premium/com.unity3d.player.UnityPlayerActivity}" drawable="castle_defender_premium" />
+    <item component="ComponentInfo{com.amoledwatchfaces.infoblock/com.amoledwatchfaces.infoblock.MainActivity}" drawable="infoblock" />
+    <item component="ComponentInfo{com.watchfacestudio.awfnewdigital/com.watchfacestudio.awfnewdigital.MainActivity}" drawable="n_digital" />
+    <item component="ComponentInfo{cz.devsoft.poseidon/cz.devsoft.poseidon.MainActivity}" drawable="poseidon" />
+    <item component="ComponentInfo{com.vjsjlqvlmp.wearewarriors/com.unity3d.player.UnityPlayerActivity}" drawable="we_are_warriors" />
 
 </resources>

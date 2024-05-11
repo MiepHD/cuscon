@@ -5153,5 +5153,11 @@
     <AppIcon name="xyz.pisoj.og.nettools/xyz.pisoj.og.nettools.MainActivity" image="og_network_tools"/>
     <AppIcon name="ac.mdiq.podcini/ac.mdiq.podcini.ui.activity.SplashActivity" image="podcini"/>
     <AppIcon name="at.bitfire.icsdroid/at.bitfire.icsdroid.ui.CalendarListActivity" image="icsx5"/>
+    <AppIcon name="fr.avianey.altimeter/fr.avianey.altimeter.AltimeterConsentActivity" image="altimeter"/>
+    <AppIcon name="com.unimob.castle.defender.heroes.premium/com.unity3d.player.UnityPlayerActivity" image="castle_defender_premium"/>
+    <AppIcon name="com.amoledwatchfaces.infoblock/com.amoledwatchfaces.infoblock.MainActivity" image="infoblock"/>
+    <AppIcon name="com.watchfacestudio.awfnewdigital/com.watchfacestudio.awfnewdigital.MainActivity" image="n_digital"/>
+    <AppIcon name="cz.devsoft.poseidon/cz.devsoft.poseidon.MainActivity" image="poseidon"/>
+    <AppIcon name="com.vjsjlqvlmp.wearewarriors/com.unity3d.player.UnityPlayerActivity" image="we_are_warriors"/>
 
 </Theme>

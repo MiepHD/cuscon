@@ -252,6 +252,7 @@
     <item drawable="google_wifi" />
     <item drawable="googleassistant2" />
     <category title="A" />
+    <item drawable="altimeter" />
     <item drawable="asistente_de_ready_for" />
     <item drawable="asana" />
     <item drawable="administradora_de_archivos" />
@@ -866,6 +867,7 @@
 	<item drawable="bycs_drive" />
     <item drawable="ballozi_skynox" />
     <category title="C" />
+    <item drawable="castle_defender_premium" />
     <item drawable="cxstudio" />
     <item drawable="cookidoo" />
     <item drawable="coop" />
@@ -2138,6 +2140,7 @@
 	<item drawable="hypatia" />
 	<item drawable="hyperrogue_gold" />
     <category title="I" />
+    <item drawable="infoblock" />
     <item drawable="icsx5" />
     <item drawable="i_am_programmer" />
     <item drawable="i_care_2020" />
@@ -3001,6 +3004,7 @@
 	<item drawable="mytelkomsel" />
 	<item drawable="myumobile" />
     <category title="N" />
+    <item drawable="n_digital" />
     <item drawable="nebula" />
     <item drawable="night_of_the_full_moon" />
     <item drawable="nagad" />
@@ -3316,6 +3320,7 @@
 	<item drawable="ovag_e_mobil" />
 	<item drawable="owlfiles" />
     <category title="P" />
+    <item drawable="poseidon" />
     <item drawable="podcini" />
     <item drawable="psd_banking" />
     <item drawable="portal_pasazera" />
@@ -4754,6 +4759,7 @@
 	<item drawable="vr_banking_app" />
 	<item drawable="vsolution_app" />
     <category title="W" />
+    <item drawable="we_are_warriors" />
     <item drawable="windyapp" />
     <item drawable="wetterde" />
     <item drawable="wetransfer" />
