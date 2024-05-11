@@ -5161,5 +5161,6 @@
     <item component="ComponentInfo{de.psd.banking.app/de.fiduciagad.banking.screens.navigation.NavigationActivity}" drawable="psd_banking" />
     <item component="ComponentInfo{de.fiduciagad.securego.wl/de.fiduciagad.securego.MainActivity}" drawable="securego_plus" />
     <item component="ComponentInfo{com.goodwy.dialer/com.goodwy.dialer.activities.SplashActivity.Orange}" drawable="telefon_goodwy" />
+    <item component="ComponentInfo{org.liberty.android.freeotpplus/org.fedorahosted.freeotp.ui.MainActivity}" drawable="freeotp_" />
 
 </resources>

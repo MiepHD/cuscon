@@ -5145,5 +5145,6 @@
     <AppIcon name="de.psd.banking.app/de.fiduciagad.banking.screens.navigation.NavigationActivity" image="psd_banking"/>
     <AppIcon name="de.fiduciagad.securego.wl/de.fiduciagad.securego.MainActivity" image="securego_plus"/>
     <AppIcon name="com.goodwy.dialer/com.goodwy.dialer.activities.SplashActivity.Orange" image="telefon_goodwy"/>
+    <AppIcon name="org.liberty.android.freeotpplus/org.fedorahosted.freeotp.ui.MainActivity" image="freeotp_"/>
 
 </Theme>

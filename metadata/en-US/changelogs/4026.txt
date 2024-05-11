@@ -1,2 +1,2 @@
-- Added wetter.de, Explorer, Asistente de Ready For, Digitales Bezahlen, Groundwire, Hanseatic Bank Mobile, Komoot, Kontakte, Meine Ausgaben, microG-Einstellungen, mobil.nrw, PSD Banking, SecureGo plus, Telefon
+- Added wetter.de, Explorer, Asistente de Ready For, Digitales Bezahlen, Groundwire, Hanseatic Bank Mobile, Komoot, Kontakte, Meine Ausgaben, microG-Einstellungen, mobil.nrw, PSD Banking, SecureGo plus, Telefon, FreeOTP+
 - Updated Ready For
