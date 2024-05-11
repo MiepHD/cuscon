@@ -5150,5 +5150,16 @@
     <item component="ComponentInfo{de.rtl.wetter/de.rtl.wetter.presentation.activities.HomeActivity}" drawable="wetterde" />
     <item component="ComponentInfo{com.ninexgen.explorer/com.ninexgen.explorer.SplashActivity}" drawable="explorer_administrador_de_archivos" />
     <item component="ComponentInfo{com.motorola.readyforassist/com.motorola.readyforassist.ui.activities.ReadyForMainActivity}" drawable="asistente_de_ready_for" />
+    <item component="ComponentInfo{de.fiduciagad.android.wlwallet/de.fiduciagad.android.vrwallet_module.ui.dispatcher.view.DispatcherActivity}" drawable="digitales_bezahlen" />
+    <item component="ComponentInfo{cz.acrobits.softphone.aliengroundwire/cz.acrobits.softphone.app.SplashActivity}" drawable="groundwire" />
+    <item component="ComponentInfo{com.hanseaticbank.banking/com.hanseaticbank.banking.MainActivity}" drawable="hanseatic_bank_mobile" />
+    <item component="ComponentInfo{de.komoot.android/de.komoot.android.ui.inspiration.InspirationActivity}" drawable="komoot" />
+    <item component="ComponentInfo{com.goodwy.contacts/com.goodwy.contacts.activities.SplashActivity.Orange}" drawable="kontakte_goodwy" />
+    <item component="ComponentInfo{org.totschnig.myexpenses/org.totschnig.myexpenses.activity.SplashActivity}" drawable="meine_ausgaben" />
+    <item component="ComponentInfo{app.revanced.android.gms/org.microg.gms.ui.SettingsActivity}" drawable="microg_einstellungen_revanced" />
+    <item component="ComponentInfo{com.mentz.mobilnrw_cibo_app/com.mentz.mobilnrw_cibo_app.MainActivity}" drawable="mobilnrw" />
+    <item component="ComponentInfo{de.psd.banking.app/de.fiduciagad.banking.screens.navigation.NavigationActivity}" drawable="psd_banking" />
+    <item component="ComponentInfo{de.fiduciagad.securego.wl/de.fiduciagad.securego.MainActivity}" drawable="securego_plus" />
+    <item component="ComponentInfo{com.goodwy.dialer/com.goodwy.dialer.activities.SplashActivity.Orange}" drawable="telefon_goodwy" />
 
 </resources>

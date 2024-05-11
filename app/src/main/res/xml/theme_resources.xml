@@ -5134,5 +5134,16 @@
     <AppIcon name="de.rtl.wetter/de.rtl.wetter.presentation.activities.HomeActivity" image="wetterde"/>
     <AppIcon name="com.ninexgen.explorer/com.ninexgen.explorer.SplashActivity" image="explorer_administrador_de_archivos"/>
     <AppIcon name="com.motorola.readyforassist/com.motorola.readyforassist.ui.activities.ReadyForMainActivity" image="asistente_de_ready_for"/>
+    <AppIcon name="de.fiduciagad.android.wlwallet/de.fiduciagad.android.vrwallet_module.ui.dispatcher.view.DispatcherActivity" image="digitales_bezahlen"/>
+    <AppIcon name="cz.acrobits.softphone.aliengroundwire/cz.acrobits.softphone.app.SplashActivity" drawable="groundwire" />
+    <AppIcon name="com.hanseaticbank.banking/com.hanseaticbank.banking.MainActivity" image="hanseatic_bank_mobile"/>
+    <AppIcon name="de.komoot.android/de.komoot.android.ui.inspiration.InspirationActivity" image="komoot"/>
+    <AppIcon name="com.goodwy.contacts/com.goodwy.contacts.activities.SplashActivity.Orange" image="kontakte_goodwy"/>
+    <AppIcon name="org.totschnig.myexpenses/org.totschnig.myexpenses.activity.SplashActivity" image="meine_ausgaben"/>
+    <AppIcon name="app.revanced.android.gms/org.microg.gms.ui.SettingsActivity" image="microg_einstellungen_revanced"/>
+    <AppIcon name="com.mentz.mobilnrw_cibo_app/com.mentz.mobilnrw_cibo_app.MainActivity" image="mobilnrw"/>
+    <AppIcon name="de.psd.banking.app/de.fiduciagad.banking.screens.navigation.NavigationActivity" image="psd_banking"/>
+    <AppIcon name="de.fiduciagad.securego.wl/de.fiduciagad.securego.MainActivity" image="securego_plus"/>
+    <AppIcon name="com.goodwy.dialer/com.goodwy.dialer.activities.SplashActivity.Orange" image="telefon_goodwy"/>
 
 </Theme>

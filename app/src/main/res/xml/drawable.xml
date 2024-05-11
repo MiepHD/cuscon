@@ -1184,6 +1184,7 @@
 	<item drawable="cubic_2_3_4_player_games" />
 	<item drawable="currencies" />
     <category title="D" />
+    <item drawable="digitales_bezahlen" />
     <item drawable="dani_filemanager" />
     <item drawable="dictcc" />
     <item drawable="d4d" />
@@ -1814,6 +1815,7 @@
 	<item drawable="futo_voice_input" />
 	<item drawable="fx" />
     <category title="G" />
+    <item drawable="groundwire" />
     <item drawable="globalfileexplorer_file_manager" />
     <item drawable="genshin_impact" />
     <item drawable="geogebra" />
@@ -1997,6 +1999,7 @@
 	<item drawable="gspace" />
 	<item drawable="guerrilla_mail" />
     <category title="H" />
+    <item drawable="hanseatic_bank_mobile" />
     <item drawable="honkai_star_rail" />
     <item drawable="h_and_b" />
     <item drawable="h_and_m_mena" />
@@ -2323,6 +2326,8 @@
 	<item drawable="justchess" />
 	<item drawable="justdial" />
     <category title="K" />
+    <item drawable="komoot" />
+    <item drawable="kontakte_goodwy" />
     <item drawable="kanji_dojo" />
     <item drawable="katwarn" />
     <item drawable="kitchen_timer" />
@@ -2583,6 +2588,9 @@
 	<item drawable="lucky_wasted" />
 	<item drawable="lux_o_meter_lichtmesser" />
     <category title="M" />
+    <item drawable="meine_ausgaben" />
+    <item drawable="microg_einstellungen_revanced" />
+    <item drawable="mobilnrw" />
     <item drawable="myviollier" />
     <item drawable="mywingo" />
     <item drawable="mitteilungen_white" />
@@ -3303,6 +3311,7 @@
 	<item drawable="ovag_e_mobil" />
 	<item drawable="owlfiles" />
     <category title="P" />
+    <item drawable="psd_banking" />
     <item drawable="portal_pasazera" />
     <item drawable="polytopia" />
     <item drawable="pepeescudo" />
@@ -3846,6 +3855,7 @@
 	<item drawable="rustdesk" />
 	<item drawable="rvx_music" />
     <category title="S" />
+    <item drawable="securego_plus" />
     <item drawable="simple_file_manager" />
     <item drawable="sjh_file_manager" />
     <item drawable="supercard" />
@@ -4277,6 +4287,7 @@
 	<item drawable="swiss_post" />
 	<item drawable="systemui_tuner" />
     <category title="T" />
+    <item drawable="telefon_goodwy" />
     <item drawable="tice" />
     <item drawable="twint" />
     <item drawable="todoist" />
