@@ -5152,5 +5152,6 @@
     <AppIcon name="com.kanopy/com.kanopy.RootTabbarActivity" image="kanopy"/>
     <AppIcon name="xyz.pisoj.og.nettools/xyz.pisoj.og.nettools.MainActivity" image="og_network_tools"/>
     <AppIcon name="ac.mdiq.podcini/ac.mdiq.podcini.ui.activity.SplashActivity" image="podcini"/>
+    <AppIcon name="at.bitfire.icsdroid/at.bitfire.icsdroid.ui.CalendarListActivity" image="icsx5"/>
 
 </Theme>

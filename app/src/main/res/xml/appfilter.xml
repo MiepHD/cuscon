@@ -5168,5 +5168,6 @@
     <item component="ComponentInfo{com.kanopy/com.kanopy.RootTabbarActivity}" drawable="kanopy" />
     <item component="ComponentInfo{xyz.pisoj.og.nettools/xyz.pisoj.og.nettools.MainActivity}" drawable="og_network_tools" />
     <item component="ComponentInfo{ac.mdiq.podcini/ac.mdiq.podcini.ui.activity.SplashActivity}" drawable="podcini" />
+    <item component="ComponentInfo{at.bitfire.icsdroid/at.bitfire.icsdroid.ui.CalendarListActivity}" drawable="icsx5" />
 
 </resources>
