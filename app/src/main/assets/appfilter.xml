@@ -5150,5 +5150,38 @@
     <item component="ComponentInfo{de.rtl.wetter/de.rtl.wetter.presentation.activities.HomeActivity}" drawable="wetterde" />
     <item component="ComponentInfo{com.ninexgen.explorer/com.ninexgen.explorer.SplashActivity}" drawable="explorer_administrador_de_archivos" />
     <item component="ComponentInfo{com.motorola.readyforassist/com.motorola.readyforassist.ui.activities.ReadyForMainActivity}" drawable="asistente_de_ready_for" />
+    <item component="ComponentInfo{de.fiduciagad.android.wlwallet/de.fiduciagad.android.vrwallet_module.ui.dispatcher.view.DispatcherActivity}" drawable="digitales_bezahlen" />
+    <item component="ComponentInfo{cz.acrobits.softphone.aliengroundwire/cz.acrobits.softphone.app.SplashActivity}" drawable="groundwire" />
+    <item component="ComponentInfo{com.hanseaticbank.banking/com.hanseaticbank.banking.MainActivity}" drawable="hanseatic_bank_mobile" />
+    <item component="ComponentInfo{de.komoot.android/de.komoot.android.ui.inspiration.InspirationActivity}" drawable="komoot" />
+    <item component="ComponentInfo{com.goodwy.contacts/com.goodwy.contacts.activities.SplashActivity.Orange}" drawable="kontakte_goodwy" />
+    <item component="ComponentInfo{org.totschnig.myexpenses/org.totschnig.myexpenses.activity.SplashActivity}" drawable="meine_ausgaben" />
+    <item component="ComponentInfo{app.revanced.android.gms/org.microg.gms.ui.SettingsActivity}" drawable="microg_einstellungen_revanced" />
+    <item component="ComponentInfo{com.mentz.mobilnrw_cibo_app/com.mentz.mobilnrw_cibo_app.MainActivity}" drawable="mobilnrw" />
+    <item component="ComponentInfo{de.psd.banking.app/de.fiduciagad.banking.screens.navigation.NavigationActivity}" drawable="psd_banking" />
+    <item component="ComponentInfo{de.fiduciagad.securego.wl/de.fiduciagad.securego.MainActivity}" drawable="securego_plus" />
+    <item component="ComponentInfo{com.goodwy.dialer/com.goodwy.dialer.activities.SplashActivity.Orange}" drawable="telefon_goodwy" />
+    <item component="ComponentInfo{org.liberty.android.freeotpplus/org.fedorahosted.freeotp.ui.MainActivity}" drawable="freeotp_" />
+    <item component="ComponentInfo{nl.schoolmaster.magister.mobile/crc64bb28a63fa9856b6c.SplashActivity}" drawable="magister" />
+    <item component="ComponentInfo{com.vaarkaartnederland/com.vaarkaartnederland.Views.SplashScreenActivity}" drawable="vaarkaart_nederland" />
+    <item component="ComponentInfo{co.windyapp.android/co.windyapp.android.ui.mainscreen.container.MainActivity}" drawable="windyapp" />
+    <item component="ComponentInfo{com.kanopy/com.kanopy.RootTabbarActivity}" drawable="kanopy" />
+    <item component="ComponentInfo{xyz.pisoj.og.nettools/xyz.pisoj.og.nettools.MainActivity}" drawable="og_network_tools" />
+    <item component="ComponentInfo{ac.mdiq.podcini/ac.mdiq.podcini.ui.activity.SplashActivity}" drawable="podcini" />
+    <item component="ComponentInfo{at.bitfire.icsdroid/at.bitfire.icsdroid.ui.CalendarListActivity}" drawable="icsx5" />
+    <item component="ComponentInfo{fr.avianey.altimeter/fr.avianey.altimeter.AltimeterConsentActivity}" drawable="altimeter" />
+    <item component="ComponentInfo{com.unimob.castle.defender.heroes.premium/com.unity3d.player.UnityPlayerActivity}" drawable="castle_defender_premium" />
+    <item component="ComponentInfo{com.amoledwatchfaces.infoblock/com.amoledwatchfaces.infoblock.MainActivity}" drawable="infoblock" />
+    <item component="ComponentInfo{com.watchfacestudio.awfnewdigital/com.watchfacestudio.awfnewdigital.MainActivity}" drawable="n_digital" />
+    <item component="ComponentInfo{cz.devsoft.poseidon/cz.devsoft.poseidon.MainActivity}" drawable="poseidon" />
+    <item component="ComponentInfo{com.vjsjlqvlmp.wearewarriors/com.unity3d.player.UnityPlayerActivity}" drawable="we_are_warriors" />
+    <item component="ComponentInfo{net.slions.fulguris.full.fdroid/fulguris.activity.SplashActivity}" drawable="fulguris" />
+    <item component="ComponentInfo{io.github.domi04151309.powerapp/io.github.domi04151309.powerapp.activities.SplashActivity}" drawable="power_app" />
+    <item component="ComponentInfo{ru.zdevs.zarchiver.pro/ru.zdevs.zarchiver.pro.ZArchiver}" drawable="zarchiver_pro" />
+    <item component="ComponentInfo{org.woheller69.whobird/org.tensorflow.lite.examples.soundclassifier.DownloadActivity}" drawable="whobird" />
+    <item component="ComponentInfo{io.appground.blekpremium/io.appground.blek.MainActivity}" drawable="bluetooth_keyboard_and_mouse" />
+    <item component="ComponentInfo{net.pmarks.chromadoze/net.pmarks.chromadoze.ChromaDoze}" drawable="chroma_doze" />
+    <item component="ComponentInfo{com.fongo.dellvoice/com.fongo.dellvoice.SplashActivity}" drawable="fongo" />
+    <item component="ComponentInfo{com.conena.navigation.gesture.control/com.conena.navigation.gesture.control.StartPageActivity}" drawable="gesture_control" />
 
 </resources>
