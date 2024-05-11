@@ -5149,5 +5149,8 @@
     <AppIcon name="nl.schoolmaster.magister.mobile/crc64bb28a63fa9856b6c.SplashActivity" image="magister"/>
     <AppIcon name="com.vaarkaartnederland/com.vaarkaartnederland.Views.SplashScreenActivity" image="vaarkaart_nederland"/>
     <AppIcon name="co.windyapp.android/co.windyapp.android.ui.mainscreen.container.MainActivity" image="windyapp"/>
+    <AppIcon name="com.kanopy/com.kanopy.RootTabbarActivity" image="kanopy"/>
+    <AppIcon name="xyz.pisoj.og.nettools/xyz.pisoj.og.nettools.MainActivity" image="og_network_tools"/>
+    <AppIcon name="ac.mdiq.podcini/ac.mdiq.podcini.ui.activity.SplashActivity" image="podcini"/>
 
 </Theme>

@@ -2327,6 +2327,7 @@
 	<item drawable="justchess" />
 	<item drawable="justdial" />
     <category title="K" />
+    <item drawable="kanopy" />
     <item drawable="komoot" />
     <item drawable="kontakte_goodwy" />
     <item drawable="kanji_dojo" />
@@ -3165,6 +3166,7 @@
 	<item drawable="nozzle" />
 	<item drawable="nytimes" />
     <category title="O" />
+    <item drawable="og_network_tools" />
     <item drawable="orange_tv" />
     <item drawable="ohealth" />
     <item drawable="outlook_lite" />
@@ -3313,6 +3315,7 @@
 	<item drawable="ovag_e_mobil" />
 	<item drawable="owlfiles" />
     <category title="P" />
+    <item drawable="podcini" />
     <item drawable="psd_banking" />
     <item drawable="portal_pasazera" />
     <item drawable="polytopia" />

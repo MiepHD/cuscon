@@ -1,2 +1,2 @@
-- Added wetter.de, Explorer, Asistente de Ready For, Digitales Bezahlen, Groundwire, Hanseatic Bank Mobile, Komoot, Kontakte, Meine Ausgaben, microG-Einstellungen, mobil.nrw, PSD Banking, SecureGo plus, Telefon, FreeOTP+, Magister, Vaarkaart Nederland, Windy.app
+- Added wetter.de, Explorer, Asistente de Ready For, Digitales Bezahlen, Groundwire, Hanseatic Bank Mobile, Komoot, Kontakte, Meine Ausgaben, microG-Einstellungen, mobil.nrw, PSD Banking, SecureGo plus, Telefon, FreeOTP+, Magister, Vaarkaart Nederland, Windy.app, Kanopy, OG Network Tools, Podcini
 - Updated Ready For

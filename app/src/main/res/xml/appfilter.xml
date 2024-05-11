@@ -5165,5 +5165,8 @@
     <item component="ComponentInfo{nl.schoolmaster.magister.mobile/crc64bb28a63fa9856b6c.SplashActivity}" drawable="magister" />
     <item component="ComponentInfo{com.vaarkaartnederland/com.vaarkaartnederland.Views.SplashScreenActivity}" drawable="vaarkaart_nederland" />
     <item component="ComponentInfo{co.windyapp.android/co.windyapp.android.ui.mainscreen.container.MainActivity}" drawable="windyapp" />
+    <item component="ComponentInfo{com.kanopy/com.kanopy.RootTabbarActivity}" drawable="kanopy" />
+    <item component="ComponentInfo{xyz.pisoj.og.nettools/xyz.pisoj.og.nettools.MainActivity}" drawable="og_network_tools" />
+    <item component="ComponentInfo{ac.mdiq.podcini/ac.mdiq.podcini.ui.activity.SplashActivity}" drawable="podcini" />
 
 </resources>
