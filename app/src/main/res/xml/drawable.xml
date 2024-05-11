@@ -4734,6 +4734,7 @@
 	<item drawable="vr_banking_app" />
 	<item drawable="vsolution_app" />
     <category title="W" />
+    <item drawable="wetterde" />
     <item drawable="wetransfer" />
     <item drawable="wulkanowy" />
     <item drawable="wattpad" />

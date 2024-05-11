@@ -5146,5 +5146,7 @@
     <item component="ComponentInfo{com.sjh.filemanager.file.explorer/com.example.filemanager.activity.SplashActivity}" drawable="sjh_file_manager" />
     <item component="ComponentInfo{com.wetransfer.transfer/com.wetransfer.transfer.MainActivity}" drawable="wetransfer" />
     <item component="ComponentInfo{com.asana.app/com.asana.ui.activities.LaunchActivity}" drawable="asana" />
+    <item component="ComponentInfo{com.motorola.mobiledesktop/com.motorola.mobiledesktop.desktop.MainActivity}" drawable="ready_for" />
+    <item component="ComponentInfo{de.rtl.wetter/de.rtl.wetter.presentation.activities.HomeActivity}" drawable="wetterde" />
 
 </resources>

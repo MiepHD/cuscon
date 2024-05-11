@@ -5130,5 +5130,7 @@
     <AppIcon name="com.sjh.filemanager.file.explorer/com.example.filemanager.activity.SplashActivity" image="sjh_file_manager"/>
     <AppIcon name="com.wetransfer.transfer/com.wetransfer.transfer.MainActivity" image="wetransfer"/>
     <AppIcon name="com.asana.app/com.asana.ui.activities.LaunchActivity" image="asana"/>
+    <AppIcon name="com.motorola.mobiledesktop/com.motorola.mobiledesktop.desktop.MainActivity" image="ready_for"/>
+    <AppIcon name="de.rtl.wetter/de.rtl.wetter.presentation.activities.HomeActivity" image="wetterde"/>
 
 </Theme>

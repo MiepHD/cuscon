@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="changelog_date">7.5.2024</string>
+    <string name="changelog_date">11.5.2024</string>
     <string-array name="changelog">
+        <item>4.0.2.6:</item>
+        <item>Added wetter.de</item>
+        <item>Updated Ready For</item>
         <item>4.0.2.5:</item>
         <item>Added Fender Tune, MyViollier, myWingo, Nebula, Supercard, SwissID, TICE, xBrowserSync, Administradora de archivos, Administrador de archivos, Gestor de archivos, FS Explorer, File Manager, Gestión archivos, Admin. de archivos, File Manager, WeTransfer, Asana</item>
         <item>Updated My Files, calendario, mensagens, telefone, downloads, mi_picks, black_army_omni, bhim, ups, airguard, atomic, goodreads, sms_messenger, coloros_soundrecorder, neo_backup, grammarly, read_you, crocs, john_lewis_and_partners, learn_linux_with_examples, ncp, qr_and_barcode_scanner, fon, manajer_mt, my_drawer, mi_community, jupiter, adobe_photoshop_express, capital_one, malwarebytes, voice_access, weather, stellarium, miui_fm_radio, kleinanzeigen, free_now</item>
