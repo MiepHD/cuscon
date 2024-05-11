@@ -5132,5 +5132,7 @@
     <AppIcon name="com.asana.app/com.asana.ui.activities.LaunchActivity" image="asana"/>
     <AppIcon name="com.motorola.mobiledesktop/com.motorola.mobiledesktop.desktop.MainActivity" image="ready_for"/>
     <AppIcon name="de.rtl.wetter/de.rtl.wetter.presentation.activities.HomeActivity" image="wetterde"/>
+    <AppIcon name="com.ninexgen.explorer/com.ninexgen.explorer.SplashActivity" image="explorer_administrador_de_archivos"/>
+    <AppIcon name="com.motorola.readyforassist/com.motorola.readyforassist.ui.activities.ReadyForMainActivity" image="asistente_de_ready_for"/>
 
 </Theme>

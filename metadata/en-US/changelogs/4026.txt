@@ -1,2 +1,2 @@
-- Added wetter.de
+- Added wetter.de, Explorer, Asistente de Ready For
 - Updated Ready For

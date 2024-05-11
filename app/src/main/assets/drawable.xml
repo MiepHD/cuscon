@@ -252,6 +252,7 @@
     <item drawable="google_wifi" />
     <item drawable="googleassistant2" />
     <category title="A" />
+    <item drawable="asistente_de_ready_for" />
     <item drawable="asana" />
     <item drawable="administradora_de_archivos" />
     <item drawable="audials_play" />
@@ -1444,6 +1445,7 @@
 	<item drawable="dynalist" />
 	<item drawable="dynamicspot" />
     <category title="E" />
+    <item drawable="explorer_administrador_de_archivos" />
     <item drawable="epsxe" />
     <item drawable="epsxe_opengl_plugin" />
     <item drawable="electricity_maps" />
@@ -4734,6 +4736,7 @@
 	<item drawable="vr_banking_app" />
 	<item drawable="vsolution_app" />
     <category title="W" />
+    <item drawable="wetterde" />
     <item drawable="wetransfer" />
     <item drawable="wulkanowy" />
     <item drawable="wattpad" />
