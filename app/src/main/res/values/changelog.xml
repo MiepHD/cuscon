@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="changelog_date">11.5.2024</string>
+    <string name="changelog_date">12.5.2024</string>
     <string-array name="changelog">
+        <item>4.0.2.7:</item>
+        <item>Added Biedronka, OLX.pl</item>
         <item>4.0.2.6:</item>
         <item>Added wetter.de, Explorer, Asistente de Ready For, Digitales Bezahlen, Groundwire, Hanseatic Bank Mobile, Komoot, Kontakte, Meine Ausgaben, microG-Einstellungen, mobil.nrw, PSD Banking, SecureGo plus, Telefon, FreeOTP+, Magister, Vaarkaart Nederland, Windy.app, Kanopy, OG Network Tools, Podcini, ICSx⁵, Altimeter, Castle Defender Premium, InfoBlock, n-Digital, Poseidon, We Are Warriors, Fulguris, Power App, ZArchiver Pro, whoBIRD, Bluetooth Keyboard and Mouse, Chroma Doze, Fongo, Gesture Control</item>
         <item>Updated Ready For</item>

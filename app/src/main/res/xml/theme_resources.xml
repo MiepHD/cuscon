@@ -5167,5 +5167,7 @@
     <AppIcon name="net.pmarks.chromadoze/net.pmarks.chromadoze.ChromaDoze" image="chroma_doze"/>
     <AppIcon name="com.fongo.dellvoice/com.fongo.dellvoice.SplashActivity" image="fongo"/>
     <AppIcon name="com.conena.navigation.gesture.control/com.conena.navigation.gesture.control.StartPageActivity" image="gesture_control"/>
+    <AppIcon name="pl.jmpolska.clos0.mojabiedronka/pl.jmpolska.mojabiedronka.presentation.flows.main.MainActivity" image="biedronka"/>
+    <AppIcon name="pl.tablica/pl.tablica2.app.startup.activity.StartupActivity" image="olxpl"/>
 
 </Theme>

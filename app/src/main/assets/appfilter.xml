@@ -5183,5 +5183,7 @@
     <item component="ComponentInfo{net.pmarks.chromadoze/net.pmarks.chromadoze.ChromaDoze}" drawable="chroma_doze" />
     <item component="ComponentInfo{com.fongo.dellvoice/com.fongo.dellvoice.SplashActivity}" drawable="fongo" />
     <item component="ComponentInfo{com.conena.navigation.gesture.control/com.conena.navigation.gesture.control.StartPageActivity}" drawable="gesture_control" />
+    <item component="ComponentInfo{pl.jmpolska.clos0.mojabiedronka/pl.jmpolska.mojabiedronka.presentation.flows.main.MainActivity}" drawable="biedronka" />
+    <item component="ComponentInfo{pl.tablica/pl.tablica2.app.startup.activity.StartupActivity}" drawable="olxpl" />
 
 </resources>
