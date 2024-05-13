@@ -652,6 +652,7 @@
 	<item drawable="awox_homecontrol" />
 	<item drawable="axp_apk_extractor" />
     <category title="B" />
+    <item drawable="biedronka" />
     <item drawable="bluetooth_keyboard_and_mouse" />
     <item drawable="bunpro" />
     <item drawable="bankin" />
@@ -3176,6 +3177,7 @@
 	<item drawable="nozzle" />
 	<item drawable="nytimes" />
     <category title="O" />
+    <item drawable="olxpl" />
     <item drawable="og_network_tools" />
     <item drawable="orange_tv" />
     <item drawable="ohealth" />

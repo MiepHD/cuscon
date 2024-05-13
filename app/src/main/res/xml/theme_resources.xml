@@ -5169,5 +5169,14 @@
     <AppIcon name="com.conena.navigation.gesture.control/com.conena.navigation.gesture.control.StartPageActivity" image="gesture_control"/>
     <AppIcon name="pl.jmpolska.clos0.mojabiedronka/pl.jmpolska.mojabiedronka.presentation.flows.main.MainActivity" image="biedronka"/>
     <AppIcon name="pl.tablica/pl.tablica2.app.startup.activity.StartupActivity" image="olxpl"/>
+    <AppIcon name="com.adobe.fas/com.adobe.fas.Home.FillAndSign" image="adobe_fill_and_sign"/>
+    <AppIcon name="com.alanmobile/com.alanmobile.MainActivity" image="alan"/>
+    <AppIcon name="fr.freebox.android.compagnon/fr.freebox.android.compagnon.MainAutomationActivityLauncher" image="automation_freebox"/>
+    <AppIcon name="com.martinforget.cardiaccoherencelite/com.martinforget.cardiaccoherencelite.MainActivity" image="cohera_coherence_cardiaque"/>
+    <AppIcon name="fr.freebox.android.compagnon/fr.freebox.android.compagnon.MainFreeboxActivityLauncher" image="main_freebox"/>
+    <AppIcon name="fr.creditagricole.androidapp/fr.ca.cats.nmb.start.StartActivity" image="ma_banque"/>
+    <AppIcon name="org.ppsspp.ppsspp/org.ppsspp.ppsspp.PpssppActivity" image="ppsspp"/>
+    <AppIcon name="fr.freebox.android.compagnon/fr.freebox.android.compagnon.MainTVActivityLauncher" image="tv_freebox"/>
+    <AppIcon name="com.gof.global/com.gof.global.MyMainPlayerActivity" image="whiteout_survival"/>
 
 </Theme>
