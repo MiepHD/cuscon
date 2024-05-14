@@ -5198,5 +5198,6 @@
     <AppIcon name="tageditor.automatictageditor.audiotagging.audioedit.mp3edit/com.code.app.view.main.MainActivity" image="smart_mp3_tagger"/>
     <AppIcon name="com.trashboxbobylev.summoningpixeldungeon/com.shatteredpixel.shatteredpixeldungeon.android.AndroidLauncher" image="summoning_pixel_dungeon"/>
     <AppIcon name="com.yelp.android/com.yelp.android.home.ui.RootSingleActivity" image="yelp"/>
+    <AppIcon name="ua.syt0r.kanji.fdroid/ua.syt0r.kanji.presentation.screen.main.FdroidMainActivity" image="kanji_dojo"/>
 
 </Theme>

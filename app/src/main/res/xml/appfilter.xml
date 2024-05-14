@@ -5214,5 +5214,6 @@
     <item component="ComponentInfo{tageditor.automatictageditor.audiotagging.audioedit.mp3edit/com.code.app.view.main.MainActivity}" drawable="smart_mp3_tagger" />
     <item component="ComponentInfo{com.trashboxbobylev.summoningpixeldungeon/com.shatteredpixel.shatteredpixeldungeon.android.AndroidLauncher}" drawable="summoning_pixel_dungeon" />
     <item component="ComponentInfo{com.yelp.android/com.yelp.android.home.ui.RootSingleActivity}" drawable="yelp" />
+    <item component="ComponentInfo{ua.syt0r.kanji.fdroid/ua.syt0r.kanji.presentation.screen.main.FdroidMainActivity}" drawable="kanji_dojo" />
 
 </resources>
