@@ -5199,5 +5199,6 @@
     <AppIcon name="com.trashboxbobylev.summoningpixeldungeon/com.shatteredpixel.shatteredpixeldungeon.android.AndroidLauncher" image="summoning_pixel_dungeon"/>
     <AppIcon name="com.yelp.android/com.yelp.android.home.ui.RootSingleActivity" image="yelp"/>
     <AppIcon name="ua.syt0r.kanji.fdroid/ua.syt0r.kanji.presentation.screen.main.FdroidMainActivity" image="kanji_dojo"/>
+    <AppIcon name="co.mona.android/co.mona.android.splash.ui.SplashActivity" image="cryptocom"/>
 
 </Theme>

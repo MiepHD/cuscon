@@ -5215,5 +5215,6 @@
     <item component="ComponentInfo{com.trashboxbobylev.summoningpixeldungeon/com.shatteredpixel.shatteredpixeldungeon.android.AndroidLauncher}" drawable="summoning_pixel_dungeon" />
     <item component="ComponentInfo{com.yelp.android/com.yelp.android.home.ui.RootSingleActivity}" drawable="yelp" />
     <item component="ComponentInfo{ua.syt0r.kanji.fdroid/ua.syt0r.kanji.presentation.screen.main.FdroidMainActivity}" drawable="kanji_dojo" />
+    <item component="ComponentInfo{co.mona.android/co.mona.android.splash.ui.SplashActivity}" drawable="cryptocom" />
 
 </resources>

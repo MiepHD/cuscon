@@ -873,6 +873,7 @@
 	<item drawable="bycs_drive" />
     <item drawable="ballozi_skynox" />
     <category title="C" />
+    <item drawable="cryptocom" />
     <item drawable="cohera_coherence_cardiaque" />
     <item drawable="chroma_doze" />
     <item drawable="castle_defender_premium" />
