@@ -655,6 +655,7 @@
 	<item drawable="awox_homecontrol" />
 	<item drawable="axp_apk_extractor" />
     <category title="B" />
+    <item drawable="biglybt" />
     <item drawable="biedronka" />
     <item drawable="bluetooth_keyboard_and_mouse" />
     <item drawable="bunpro" />
@@ -872,6 +873,7 @@
 	<item drawable="bycs_drive" />
     <item drawable="ballozi_skynox" />
     <category title="C" />
+    <item drawable="cryptocom" />
     <item drawable="cohera_coherence_cardiaque" />
     <item drawable="chroma_doze" />
     <item drawable="castle_defender_premium" />
@@ -1455,6 +1457,7 @@
 	<item drawable="dynalist" />
 	<item drawable="dynamicspot" />
     <category title="E" />
+    <item drawable="eddie_airvpn_gui" />
     <item drawable="explorer_administrador_de_archivos" />
     <item drawable="epsxe" />
     <item drawable="epsxe_opengl_plugin" />
@@ -1827,6 +1830,10 @@
 	<item drawable="futo_voice_input" />
 	<item drawable="fx" />
     <category title="G" />
+    <item drawable="google_finance" />
+    <item drawable="greenlight" />
+    <item drawable="gcash" />
+    <item drawable="gomo_ph" />
     <item drawable="gesture_control" />
     <item drawable="groundwire" />
     <item drawable="globalfileexplorer_file_manager" />
@@ -2012,6 +2019,7 @@
 	<item drawable="gspace" />
 	<item drawable="guerrilla_mail" />
     <category title="H" />
+    <item drawable="hulu" />
     <item drawable="hanseatic_bank_mobile" />
     <item drawable="honkai_star_rail" />
     <item drawable="h_and_b" />
@@ -2150,6 +2158,7 @@
 	<item drawable="hypatia" />
 	<item drawable="hyperrogue_gold" />
     <category title="I" />
+    <item drawable="iko" />
     <item drawable="infoblock" />
     <item drawable="icsx5" />
     <item drawable="i_am_programmer" />
@@ -2459,6 +2468,7 @@
 	<item drawable="kutumb" />
 	<item drawable="kwgt_pro" />
     <category title="L" />
+    <item drawable="librelink" />
     <item drawable="lufthansa" />
     <item drawable="locationprivacy" />
     <item drawable="lenskart" />
@@ -2604,6 +2614,7 @@
 	<item drawable="lucky_wasted" />
 	<item drawable="lux_o_meter_lichtmesser" />
     <category title="M" />
+    <item drawable="mulch" />
     <item drawable="main_freebox" />
     <item drawable="ma_banque" />
     <item drawable="magister" />
@@ -3016,6 +3027,7 @@
 	<item drawable="mytelkomsel" />
 	<item drawable="myumobile" />
     <category title="N" />
+    <item drawable="nest" />
     <item drawable="n_digital" />
     <item drawable="nebula" />
     <item drawable="night_of_the_full_moon" />
@@ -3183,6 +3195,7 @@
 	<item drawable="nozzle" />
 	<item drawable="nytimes" />
     <category title="O" />
+    <item drawable="orange_flex" />
     <item drawable="olxpl" />
     <item drawable="og_network_tools" />
     <item drawable="orange_tv" />
@@ -3881,6 +3894,10 @@
 	<item drawable="rustdesk" />
 	<item drawable="rvx_music" />
     <category title="S" />
+    <item drawable="smart_mp3_tagger" />
+    <item drawable="summoning_pixel_dungeon" />
+    <item drawable="smart" />
+    <item drawable="snotz" />
     <item drawable="securego_plus" />
     <item drawable="simple_file_manager" />
     <item drawable="sjh_file_manager" />
@@ -4313,6 +4330,7 @@
 	<item drawable="swiss_post" />
 	<item drawable="systemui_tuner" />
     <category title="T" />
+    <item drawable="tubular" />
     <item drawable="tv_freebox" />
     <item drawable="telefon_goodwy" />
     <item drawable="tice" />
@@ -4979,6 +4997,7 @@
 	<item drawable="xodo" />
 	<item drawable="xposed_edge" />
     <category title="Y" />
+    <item drawable="yelp" />
     <item drawable="youtrack" />
     <item drawable="yono_lite_sbi" />
     <item drawable="youcam_perfect" />
