@@ -2016,6 +2016,7 @@
 	<item drawable="gspace" />
 	<item drawable="guerrilla_mail" />
     <category title="H" />
+    <item drawable="hulu" />
     <item drawable="hanseatic_bank_mobile" />
     <item drawable="honkai_star_rail" />
     <item drawable="h_and_b" />
@@ -3021,6 +3022,7 @@
 	<item drawable="mytelkomsel" />
 	<item drawable="myumobile" />
     <category title="N" />
+    <item drawable="nest" />
     <item drawable="n_digital" />
     <item drawable="nebula" />
     <item drawable="night_of_the_full_moon" />

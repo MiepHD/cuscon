@@ -5188,5 +5188,7 @@
     <AppIcon name="com.smart.consumer.app/com.smart.consumer.app.view.splash.SplashActivity" image="smart"/>
     <AppIcon name="com.sunilpaulmathew.snotz/com.sunilpaulmathew.snotz.activities.StartActivity" image="snotz"/>
     <AppIcon name="org.polymorphicshade.tubular/org.schabi.newpipe.MainActivity" image="tubular"/>
+    <AppIcon name="com.hulu.plus/com.hulu.features.splash.SplashActivity" image="hulu"/>
+    <AppIcon name="com.nest.android/com.obsidian.v4.activity.LoginActivity" image="nest"/>
 
 </Theme>
