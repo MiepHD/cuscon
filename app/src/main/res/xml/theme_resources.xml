@@ -5178,5 +5178,7 @@
     <AppIcon name="org.ppsspp.ppsspp/org.ppsspp.ppsspp.PpssppActivity" image="ppsspp"/>
     <AppIcon name="fr.freebox.android.compagnon/fr.freebox.android.compagnon.MainTVActivityLauncher" image="tv_freebox"/>
     <AppIcon name="com.gof.global/com.gof.global.MyMainPlayerActivity" image="whiteout_survival"/>
+    <AppIcon name="com.donnnno.arcticons.you.play/com.donnnno.arcticons.activities.MainActivity" image="arcticons_material_you"/>
+    <AppIcon name="website.leifs.delta/website.leifs.delta.activities.MainActivity" image="delta"/>
 
 </Theme>

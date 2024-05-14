@@ -5185,5 +5185,14 @@
     <item component="ComponentInfo{com.conena.navigation.gesture.control/com.conena.navigation.gesture.control.StartPageActivity}" drawable="gesture_control" />
     <item component="ComponentInfo{pl.jmpolska.clos0.mojabiedronka/pl.jmpolska.mojabiedronka.presentation.flows.main.MainActivity}" drawable="biedronka" />
     <item component="ComponentInfo{pl.tablica/pl.tablica2.app.startup.activity.StartupActivity}" drawable="olxpl" />
+    <item component="ComponentInfo{com.adobe.fas/com.adobe.fas.Home.FillAndSign}" drawable="adobe_fill_and_sign" />
+    <item component="ComponentInfo{com.alanmobile/com.alanmobile.MainActivity}" drawable="alan" />
+    <item component="ComponentInfo{fr.freebox.android.compagnon/fr.freebox.android.compagnon.MainAutomationActivityLauncher}" drawable="automation_freebox" />
+    <item component="ComponentInfo{com.martinforget.cardiaccoherencelite/com.martinforget.cardiaccoherencelite.MainActivity}" drawable="cohera_coherence_cardiaque" />
+    <item component="ComponentInfo{fr.freebox.android.compagnon/fr.freebox.android.compagnon.MainFreeboxActivityLauncher}" drawable="main_freebox" />
+    <item component="ComponentInfo{fr.creditagricole.androidapp/fr.ca.cats.nmb.start.StartActivity}" drawable="ma_banque" />
+    <item component="ComponentInfo{org.ppsspp.ppsspp/org.ppsspp.ppsspp.PpssppActivity}" drawable="ppsspp" />
+    <item component="ComponentInfo{fr.freebox.android.compagnon/fr.freebox.android.compagnon.MainTVActivityLauncher}" drawable="tv_freebox" />
+    <item component="ComponentInfo{com.gof.global/com.gof.global.MyMainPlayerActivity}" drawable="whiteout_survival" />
 
 </resources>

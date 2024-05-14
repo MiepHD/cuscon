@@ -252,6 +252,9 @@
     <item drawable="google_wifi" />
     <item drawable="googleassistant2" />
     <category title="A" />
+    <item drawable="adobe_fill_and_sign" />
+    <item drawable="alan" />
+    <item drawable="automation_freebox" />
     <item drawable="altimeter" />
     <item drawable="asistente_de_ready_for" />
     <item drawable="asana" />
@@ -869,6 +872,7 @@
 	<item drawable="bycs_drive" />
     <item drawable="ballozi_skynox" />
     <category title="C" />
+    <item drawable="cohera_coherence_cardiaque" />
     <item drawable="chroma_doze" />
     <item drawable="castle_defender_premium" />
     <item drawable="cxstudio" />
@@ -2600,6 +2604,8 @@
 	<item drawable="lucky_wasted" />
 	<item drawable="lux_o_meter_lichtmesser" />
     <category title="M" />
+    <item drawable="main_freebox" />
+    <item drawable="ma_banque" />
     <item drawable="magister" />
     <item drawable="meine_ausgaben" />
     <item drawable="microg_einstellungen_revanced" />
@@ -3327,6 +3333,7 @@
 	<item drawable="ovag_e_mobil" />
 	<item drawable="owlfiles" />
     <category title="P" />
+    <item drawable="ppsspp" />
     <item drawable="power_app" />
     <item drawable="poseidon" />
     <item drawable="podcini" />
@@ -4306,6 +4313,7 @@
 	<item drawable="swiss_post" />
 	<item drawable="systemui_tuner" />
     <category title="T" />
+    <item drawable="tv_freebox" />
     <item drawable="telefon_goodwy" />
     <item drawable="tice" />
     <item drawable="twint" />
@@ -4767,6 +4775,7 @@
 	<item drawable="vr_banking_app" />
 	<item drawable="vsolution_app" />
     <category title="W" />
+    <item drawable="whiteout_survival" />
     <item drawable="whobird" />
     <item drawable="we_are_warriors" />
     <item drawable="windyapp" />
