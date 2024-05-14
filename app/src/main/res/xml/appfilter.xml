@@ -5209,5 +5209,10 @@
     <item component="ComponentInfo{pl.pkobp.iko/pl.pkobp.iko.feature.startup.StartupActivity}" drawable="iko" />
     <item component="ComponentInfo{com.freestylelibre.app.pl/com.librelink.app.ui.SplashActivity}" drawable="librelink" />
     <item component="ComponentInfo{com.orange.rn.dop/com.zoontek.rnbootsplash.RNBootSplashActivity}" drawable="orange_flex" />
+    <item component="ComponentInfo{org.chromium.webapk.ac5259edf10038dd4_v2/org.chromium.webapk.shell_apk.h2o.H2OOpaqueMainActivity}" drawable="google_finance" />
+    <item component="ComponentInfo{me.greenlight/me.greenlight.launch.LaunchActivity}" drawable="greenlight" />
+    <item component="ComponentInfo{tageditor.automatictageditor.audiotagging.audioedit.mp3edit/com.code.app.view.main.MainActivity}" drawable="smart_mp3_tagger" />
+    <item component="ComponentInfo{com.trashboxbobylev.summoningpixeldungeon/com.shatteredpixel.shatteredpixeldungeon.android.AndroidLauncher}" drawable="summoning_pixel_dungeon" />
+    <item component="ComponentInfo{com.yelp.android/com.yelp.android.home.ui.RootSingleActivity}" drawable="yelp" />
 
 </resources>

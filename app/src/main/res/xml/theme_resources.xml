@@ -5193,5 +5193,10 @@
     <AppIcon name="pl.pkobp.iko/pl.pkobp.iko.feature.startup.StartupActivity" image="iko"/>
     <AppIcon name="com.freestylelibre.app.pl/com.librelink.app.ui.SplashActivity" image="librelink"/>
     <AppIcon name="com.orange.rn.dop/com.zoontek.rnbootsplash.RNBootSplashActivity" image="orange_flex"/>
+    <AppIcon name="org.chromium.webapk.ac5259edf10038dd4_v2/org.chromium.webapk.shell_apk.h2o.H2OOpaqueMainActivity" image="google_finance"/>
+    <AppIcon name="me.greenlight/me.greenlight.launch.LaunchActivity" image="greenlight"/>
+    <AppIcon name="tageditor.automatictageditor.audiotagging.audioedit.mp3edit/com.code.app.view.main.MainActivity" image="smart_mp3_tagger"/>
+    <AppIcon name="com.trashboxbobylev.summoningpixeldungeon/com.shatteredpixel.shatteredpixeldungeon.android.AndroidLauncher" image="summoning_pixel_dungeon"/>
+    <AppIcon name="com.yelp.android/com.yelp.android.home.ui.RootSingleActivity" image="yelp"/>
 
 </Theme>

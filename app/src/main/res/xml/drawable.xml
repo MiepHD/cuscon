@@ -1829,6 +1829,8 @@
 	<item drawable="futo_voice_input" />
 	<item drawable="fx" />
     <category title="G" />
+    <item drawable="google_finance" />
+    <item drawable="greenlight" />
     <item drawable="gcash" />
     <item drawable="gomo_ph" />
     <item drawable="gesture_control" />
@@ -3891,6 +3893,8 @@
 	<item drawable="rustdesk" />
 	<item drawable="rvx_music" />
     <category title="S" />
+    <item drawable="smart_mp3_tagger" />
+    <item drawable="summoning_pixel_dungeon" />
     <item drawable="smart" />
     <item drawable="snotz" />
     <item drawable="securego_plus" />
@@ -4992,6 +4996,7 @@
 	<item drawable="xodo" />
 	<item drawable="xposed_edge" />
     <category title="Y" />
+    <item drawable="yelp" />
     <item drawable="youtrack" />
     <item drawable="yono_lite_sbi" />
     <item drawable="youcam_perfect" />
