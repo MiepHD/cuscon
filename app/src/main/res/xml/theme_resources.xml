@@ -5190,5 +5190,8 @@
     <AppIcon name="org.polymorphicshade.tubular/org.schabi.newpipe.MainActivity" image="tubular"/>
     <AppIcon name="com.hulu.plus/com.hulu.features.splash.SplashActivity" image="hulu"/>
     <AppIcon name="com.nest.android/com.obsidian.v4.activity.LoginActivity" image="nest"/>
+    <AppIcon name="pl.pkobp.iko/pl.pkobp.iko.feature.startup.StartupActivity" image="iko"/>
+    <AppIcon name="com.freestylelibre.app.pl/com.librelink.app.ui.SplashActivity" image="librelink"/>
+    <AppIcon name="com.orange.rn.dop/com.zoontek.rnbootsplash.RNBootSplashActivity" image="orange_flex"/>
 
 </Theme>

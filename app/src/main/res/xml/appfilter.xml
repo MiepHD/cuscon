@@ -5206,5 +5206,8 @@
     <item component="ComponentInfo{org.polymorphicshade.tubular/org.schabi.newpipe.MainActivity}" drawable="tubular" />
     <item component="ComponentInfo{com.hulu.plus/com.hulu.features.splash.SplashActivity}" drawable="hulu" />
     <item component="ComponentInfo{com.nest.android/com.obsidian.v4.activity.LoginActivity}" drawable="nest" />
+    <item component="ComponentInfo{pl.pkobp.iko/pl.pkobp.iko.feature.startup.StartupActivity}" drawable="iko" />
+    <item component="ComponentInfo{com.freestylelibre.app.pl/com.librelink.app.ui.SplashActivity}" drawable="librelink" />
+    <item component="ComponentInfo{com.orange.rn.dop/com.zoontek.rnbootsplash.RNBootSplashActivity}" drawable="orange_flex" />
 
 </resources>
