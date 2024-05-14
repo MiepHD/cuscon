@@ -5180,5 +5180,13 @@
     <AppIcon name="com.gof.global/com.gof.global.MyMainPlayerActivity" image="whiteout_survival"/>
     <AppIcon name="com.donnnno.arcticons.you.play/com.donnnno.arcticons.activities.MainActivity" image="arcticons_material_you"/>
     <AppIcon name="website.leifs.delta/website.leifs.delta.activities.MainActivity" image="delta"/>
+    <AppIcon name="com.biglybt.android.client/com.biglybt.android.client.activity.IntentHandler" image="biglybt"/>
+    <AppIcon name="org.airvpn.eddie/org.airvpn.eddie.MainActivity" image="eddie_airvpn_gui"/>
+    <AppIcon name="com.globe.gcash.android/com.globe.gcash.android.Default" image="gcash"/>
+    <AppIcon name="ph.com.globe.gomo/ph.com.globe.gomo.MainActivity" image="gomo_ph"/>
+    <AppIcon name="us.spotco.mulch/com.google.android.apps.chrome.Main" image="mulch"/>
+    <AppIcon name="com.smart.consumer.app/com.smart.consumer.app.view.splash.SplashActivity" image="smart"/>
+    <AppIcon name="com.sunilpaulmathew.snotz/com.sunilpaulmathew.snotz.activities.StartActivity" image="snotz"/>
+    <AppIcon name="org.polymorphicshade.tubular/org.schabi.newpipe.MainActivity" image="tubular"/>
 
 </Theme>

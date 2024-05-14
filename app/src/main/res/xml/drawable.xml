@@ -655,6 +655,7 @@
 	<item drawable="awox_homecontrol" />
 	<item drawable="axp_apk_extractor" />
     <category title="B" />
+    <item drawable="biglybt" />
     <item drawable="biedronka" />
     <item drawable="bluetooth_keyboard_and_mouse" />
     <item drawable="bunpro" />
@@ -1455,6 +1456,7 @@
 	<item drawable="dynalist" />
 	<item drawable="dynamicspot" />
     <category title="E" />
+    <item drawable="eddie_airvpn_gui" />
     <item drawable="explorer_administrador_de_archivos" />
     <item drawable="epsxe" />
     <item drawable="epsxe_opengl_plugin" />
@@ -1827,6 +1829,8 @@
 	<item drawable="futo_voice_input" />
 	<item drawable="fx" />
     <category title="G" />
+    <item drawable="gcash" />
+    <item drawable="gomo_ph" />
     <item drawable="gesture_control" />
     <item drawable="groundwire" />
     <item drawable="globalfileexplorer_file_manager" />
@@ -2604,6 +2608,7 @@
 	<item drawable="lucky_wasted" />
 	<item drawable="lux_o_meter_lichtmesser" />
     <category title="M" />
+    <item drawable="mulch" />
     <item drawable="main_freebox" />
     <item drawable="ma_banque" />
     <item drawable="magister" />
@@ -3881,6 +3886,8 @@
 	<item drawable="rustdesk" />
 	<item drawable="rvx_music" />
     <category title="S" />
+    <item drawable="smart" />
+    <item drawable="snotz" />
     <item drawable="securego_plus" />
     <item drawable="simple_file_manager" />
     <item drawable="sjh_file_manager" />
@@ -4313,6 +4320,7 @@
 	<item drawable="swiss_post" />
 	<item drawable="systemui_tuner" />
     <category title="T" />
+    <item drawable="tubular" />
     <item drawable="tv_freebox" />
     <item drawable="telefon_goodwy" />
     <item drawable="tice" />
