@@ -5265,5 +5265,6 @@
     <item component="ComponentInfo{forge.app/forge.app.Launcher}" drawable="forge" />
     <item component="ComponentInfo{com.money.manager.ex/com.money.manager.ex.home.MainActivity}" drawable="money_manager_ex" />
     <item component="ComponentInfo{dev.bartuzen.qbitcontroller/dev.bartuzen.qbitcontroller.ui.main.MainActivity}" drawable="qbitcontroller" />
+    <item component="ComponentInfo{com.goodev.volume.booster/com.goodev.volume.booster.SpeakerBoost}" drawable="volume_booster_goodev" />
 
 </resources>

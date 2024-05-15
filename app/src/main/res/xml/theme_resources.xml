@@ -5249,5 +5249,6 @@
     <AppIcon name="forge.app/forge.app.Launcher" image="forge"/>
     <AppIcon name="com.money.manager.ex/com.money.manager.ex.home.MainActivity" image="money_manager_ex"/>
     <AppIcon name="dev.bartuzen.qbitcontroller/dev.bartuzen.qbitcontroller.ui.main.MainActivity" image="qbitcontroller"/>
+    <AppIcon name="com.goodev.volume.booster/com.goodev.volume.booster.SpeakerBoost" image="volume_booster_goodev"/>
 
 </Theme>
