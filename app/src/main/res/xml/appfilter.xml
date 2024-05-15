@@ -5223,16 +5223,16 @@
     <item component="ComponentInfo{com.catchingnow.icebox/com.catchingnow.icebox.activity.mainActivity.MainAppActivity}" drawable="ice_box" />
     <item component="ComponentInfo{com.faultexception.reader/com.faultexception.reader.MainActivity}" drawable="lithium" />
     <item component="ComponentInfo{eu.darken.sdmse/eu.darken.sdmse.main.ui.MainActivity}" drawable="sd_maid_se" />
-    <item component="ComponentInfo{tr.gov.osym.ais.android/tr.gov.osym.ais.android.presentation.ui.activities.ActivitySplash}" drawable="aday_işlemleri" />
-    <item component="ComponentInfo{com.finazzi.distquake/com.finazzi.distquake.MainActivity}" drawable="deprem_ağı" />
+    <item component="ComponentInfo{tr.gov.osym.ais.android/tr.gov.osym.ais.android.presentation.ui.activities.ActivitySplash}" drawable="aday_islemleri" />
+    <item component="ComponentInfo{com.finazzi.distquake/com.finazzi.distquake.MainActivity}" drawable="deprem_agi" />
     <item component="ComponentInfo{kentkart.mobile.cordova/kentkart.mobile.cordova.MainActivity}" drawable="kentkart_mobile" />
     <item component="ComponentInfo{com.turkcell.yaaniemail/com.turkcell.yaaniemail.ui.start.activities.StartActivity}" drawable="mailim" />
-    <item component="ComponentInfo{com.hknsoft.msupuanhesaplama/com.hknsoft.msupuanhesaplama.views.HomeActivity}" drawable="msü_puan_hesaplama" />
+    <item component="ComponentInfo{com.hknsoft.msupuanhesaplama/com.hknsoft.msupuanhesaplama.views.HomeActivity}" drawable="msu_puan_hesaplama" />
     <item component="ComponentInfo{tr.gov.diyanet.namazvaktim/tr.gov.diyanet.namazvaktim.futures.splash.ui.activities.SplashActivity}" drawable="namaz_vaktim" />
-    <item component="ComponentInfo{org.feyyaz.risale_inur/org.feyyaz.risale_inur.ui.activity.splash.Splash}" drawable="risale_i_nur_kütüphanesi" />
+    <item component="ComponentInfo{org.feyyaz.risale_inur/org.feyyaz.risale_inur.ui.activity.splash.Splash}" drawable="risale_i_nur_kutuphanesi" />
     <item component="ComponentInfo{com.trt.tabii.android/com.trt.tabii.android.mobile.feature.MainActivity}" drawable="tabii" />
     <item component="ComponentInfo{trendyol.com/com.trendyol.common.splash.impl.ui.SplashActivity}" drawable="trendyol" />
-    <item component="ComponentInfo{com.vakifbank.mobile/com.vakifbank.mobile.ui.SplashActivity}" drawable="vakıfbank" />
+    <item component="ComponentInfo{com.vakifbank.mobile/com.vakifbank.mobile.ui.SplashActivity}" drawable="vakifbank" />
     <item component="ComponentInfo{com.ziraat.ziraatmobil/com.ziraat.ziraatmobile.SplashActivity}" drawable="ziraat_mobil" />
     <item component="ComponentInfo{com.github.andreyasadchy.xtra/com.github.andreyasadchy.xtra.ui.main.MainActivity}" drawable="xtra" />
     <item component="ComponentInfo{com.halfmilelabs.footpath/com.halfmilelabs.footpath.MainActivity}" drawable="footpath" />

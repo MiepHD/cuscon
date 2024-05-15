@@ -252,6 +252,10 @@
     <item drawable="google_wifi" />
     <item drawable="googleassistant2" />
     <category title="A" />
+    <item drawable="ashell_you" />
+    <item drawable="angol_szotar" />
+    <item drawable="audiobookshelf" />
+    <item drawable="aday_islemleri" />
     <item drawable="adobe_fill_and_sign" />
     <item drawable="alan" />
     <item drawable="automation_freebox" />
@@ -655,6 +659,10 @@
 	<item drawable="awox_homecontrol" />
 	<item drawable="axp_apk_extractor" />
     <category title="B" />
+    <item drawable="better_network_tiles" />
+    <item drawable="bible" />
+    <item drawable="budapestgo" />
+    <item drawable="bluebubbles" />
     <item drawable="biglybt" />
     <item drawable="biedronka" />
     <item drawable="bluetooth_keyboard_and_mouse" />
@@ -873,6 +881,9 @@
 	<item drawable="bycs_drive" />
     <item drawable="ballozi_skynox" />
     <category title="C" />
+    <item drawable="cricfy_tv" />
+    <item drawable="cheogram" />
+    <item drawable="coingecko" />
     <item drawable="cryptocom" />
     <item drawable="cohera_coherence_cardiaque" />
     <item drawable="chroma_doze" />
@@ -1195,6 +1206,10 @@
 	<item drawable="cubic_2_3_4_player_games" />
 	<item drawable="currencies" />
     <category title="D" />
+    <item drawable="dasher" />
+    <item drawable="dollphone" />
+    <item drawable="deprem_agi" />
+    <item drawable="dls24" />
     <item drawable="digitales_bezahlen" />
     <item drawable="dani_filemanager" />
     <item drawable="dictcc" />
@@ -1457,6 +1472,7 @@
 	<item drawable="dynalist" />
 	<item drawable="dynamicspot" />
     <category title="E" />
+    <item drawable="endless_sky" />
     <item drawable="eddie_airvpn_gui" />
     <item drawable="explorer_administrador_de_archivos" />
     <item drawable="epsxe" />
@@ -1610,6 +1626,10 @@
 	<item drawable="explorer" />
 	<item drawable="exteragram" />
     <category title="F" />
+    <item drawable="fortuneo" />
+    <item drawable="finance" />
+    <item drawable="forge" />
+    <item drawable="footpath" />
     <item drawable="fongo" />
     <item drawable="fulguris" />
     <item drawable="freeotp_" />
@@ -1830,6 +1850,9 @@
 	<item drawable="futo_voice_input" />
 	<item drawable="fx" />
     <category title="G" />
+    <item drawable="gotify" />
+    <item drawable="grocy" />
+    <item drawable="guitar_songs" />
     <item drawable="google_finance" />
     <item drawable="greenlight" />
     <item drawable="gcash" />
@@ -2019,6 +2042,10 @@
 	<item drawable="gspace" />
 	<item drawable="guerrilla_mail" />
     <category title="H" />
+    <item drawable="hiper_scientific_calculator" />
+    <item drawable="headspace" />
+    <item drawable="hardlopen_met_evy" />
+    <item drawable="hill_climb_racing" />
     <item drawable="hulu" />
     <item drawable="hanseatic_bank_mobile" />
     <item drawable="honkai_star_rail" />
@@ -2158,6 +2185,7 @@
 	<item drawable="hypatia" />
 	<item drawable="hyperrogue_gold" />
     <category title="I" />
+    <item drawable="ice_box" />
     <item drawable="iko" />
     <item drawable="infoblock" />
     <item drawable="icsx5" />
@@ -2350,6 +2378,8 @@
 	<item drawable="justchess" />
 	<item drawable="justdial" />
     <category title="K" />
+    <item drawable="kraken_pro" />
+    <item drawable="kentkart_mobile" />
     <item drawable="kanopy" />
     <item drawable="komoot" />
     <item drawable="kontakte_goodwy" />
@@ -2468,6 +2498,8 @@
 	<item drawable="kutumb" />
 	<item drawable="kwgt_pro" />
     <category title="L" />
+    <item drawable="ledger_live" />
+    <item drawable="lithium" />
     <item drawable="librelink" />
     <item drawable="lufthansa" />
     <item drawable="locationprivacy" />
@@ -2614,6 +2646,13 @@
 	<item drawable="lucky_wasted" />
 	<item drawable="lux_o_meter_lichtmesser" />
     <category title="M" />
+    <item drawable="meteociel" />
+    <item drawable="memoryguardian" />
+    <item drawable="money_manager_ex" />
+    <item drawable="metronaut" />
+    <item drawable="moememos" />
+    <item drawable="mailim" />
+    <item drawable="msu_puan_hesaplama" />
     <item drawable="moto_connect" />
     <item drawable="mulch" />
     <item drawable="main_freebox" />
@@ -3028,6 +3067,12 @@
 	<item drawable="mytelkomsel" />
 	<item drawable="myumobile" />
     <category title="N" />
+    <item drawable="nightwave_plaza" />
+    <item drawable="napi_evangelium" />
+    <item drawable="nyt_games" />
+    <item drawable="nos" />
+    <item drawable="namaz_vaktim" />
+    <item drawable="naver_blog" />
     <item drawable="nest" />
     <item drawable="n_digital" />
     <item drawable="nebula" />
@@ -3347,6 +3392,8 @@
 	<item drawable="ovag_e_mobil" />
 	<item drawable="owlfiles" />
     <category title="P" />
+    <item drawable="pokemmo" />
+    <item drawable="parro" />
     <item drawable="ppsspp" />
     <item drawable="power_app" />
     <item drawable="poseidon" />
@@ -3658,6 +3705,8 @@
 	<item drawable="puzzles" />
 	<item drawable="pysolfc" />
     <category title="Q" />
+    <item drawable="questmobile" />
+    <item drawable="qbitcontroller" />
     <item drawable="quien_esta_en_mi_wifi" />
     <item drawable="qare" />
     <item drawable="qatar_airways" />
@@ -3701,6 +3750,7 @@
 	<item drawable="quik" />
 	<item drawable="quillpad" />
     <category title="R" />
+    <item drawable="risale_i_nur_kutuphanesi" />
     <item drawable="ringtone_maker" />
     <item drawable="ridmik_classic_keyboard" />
     <item drawable="rvx_reddit" />
@@ -3895,6 +3945,11 @@
 	<item drawable="rustdesk" />
 	<item drawable="rvx_music" />
     <category title="S" />
+    <item drawable="schwab" />
+    <item drawable="soothing_noise_player" />
+    <item drawable="storygraph" />
+    <item drawable="scrabble_go" />
+    <item drawable="sd_maid_se" />
     <item drawable="smart_transfer" />
     <item drawable="smart_mp3_tagger" />
     <item drawable="summoning_pixel_dungeon" />
@@ -4332,6 +4387,13 @@
 	<item drawable="swiss_post" />
 	<item drawable="systemui_tuner" />
     <category title="T" />
+    <item drawable="thinkorswim" />
+    <item drawable="tournant" />
+    <item drawable="tailscale" />
+    <item drawable="td_ameritrade_inc" />
+    <item drawable="the_athletic" />
+    <item drawable="tabii" />
+    <item drawable="trendyol" />
     <item drawable="tubular" />
     <item drawable="tv_freebox" />
     <item drawable="telefon_goodwy" />
@@ -4604,6 +4666,8 @@
 	<item drawable="tux_paint_config" />
 	<item drawable="twelve_key_dialer" />
     <category title="U" />
+    <item drawable="unciv" />
+    <item drawable="unexpected_keyboard" />
     <item drawable="unet" />
     <item drawable="uhr" />
     <item drawable="ua_color_picker" />
@@ -4672,6 +4736,8 @@
 	<item drawable="utiles" />
 	<item drawable="utilidades_amaze" />
     <category title="V" />
+    <item drawable="volume_booster_goodev" />
+    <item drawable="vakifbank" />
     <item drawable="vaarkaart_nederland" />
     <item drawable="vodafone_tv" />
     <item drawable="video_to_mp3_convert" />
@@ -4795,6 +4861,7 @@
 	<item drawable="vr_banking_app" />
 	<item drawable="vsolution_app" />
     <category title="W" />
+    <item drawable="workout_pro" />
     <item drawable="whiteout_survival" />
     <item drawable="whobird" />
     <item drawable="we_are_warriors" />
@@ -4967,6 +5034,7 @@
 	<item drawable="wx" />
 	<item drawable="wynk_music" />
     <category title="X" />
+    <item drawable="xtra" />
     <item drawable="xbrowsersync" />
     <item drawable="x_gamepad_tester" />
     <item drawable="x_plore" />
@@ -4999,6 +5067,7 @@
 	<item drawable="xodo" />
 	<item drawable="xposed_edge" />
     <category title="Y" />
+    <item drawable="youtube_tv" />
     <item drawable="yelp" />
     <item drawable="youtrack" />
     <item drawable="yono_lite_sbi" />
@@ -5040,6 +5109,7 @@
 	<item drawable="yuka" />
 	<item drawable="yuzu_browser" />
     <category title="Z" />
+    <item drawable="ziraat_mobil" />
     <item drawable="zarchiver_pro" />
     <item drawable="zepp" />
     <item drawable="z_lib" />

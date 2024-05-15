@@ -255,7 +255,7 @@
     <item drawable="ashell_you" />
     <item drawable="angol_szotar" />
     <item drawable="audiobookshelf" />
-    <item drawable="aday_işlemleri" />
+    <item drawable="aday_islemleri" />
     <item drawable="adobe_fill_and_sign" />
     <item drawable="alan" />
     <item drawable="automation_freebox" />
@@ -1208,7 +1208,7 @@
     <category title="D" />
     <item drawable="dasher" />
     <item drawable="dollphone" />
-    <item drawable="deprem_ağı" />
+    <item drawable="deprem_agi" />
     <item drawable="dls24" />
     <item drawable="digitales_bezahlen" />
     <item drawable="dani_filemanager" />
@@ -2652,7 +2652,7 @@
     <item drawable="metronaut" />
     <item drawable="moememos" />
     <item drawable="mailim" />
-    <item drawable="msü_puan_hesaplama" />
+    <item drawable="msu_puan_hesaplama" />
     <item drawable="moto_connect" />
     <item drawable="mulch" />
     <item drawable="main_freebox" />
@@ -3750,7 +3750,7 @@
 	<item drawable="quik" />
 	<item drawable="quillpad" />
     <category title="R" />
-    <item drawable="risale_i_nur_kütüphanesi" />
+    <item drawable="risale_i_nur_kutuphanesi" />
     <item drawable="ringtone_maker" />
     <item drawable="ridmik_classic_keyboard" />
     <item drawable="rvx_reddit" />
@@ -4737,7 +4737,7 @@
 	<item drawable="utilidades_amaze" />
     <category title="V" />
     <item drawable="volume_booster_goodev" />
-    <item drawable="vakıfbank" />
+    <item drawable="vakifbank" />
     <item drawable="vaarkaart_nederland" />
     <item drawable="vodafone_tv" />
     <item drawable="video_to_mp3_convert" />

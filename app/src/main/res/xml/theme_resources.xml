@@ -5207,16 +5207,16 @@
     <AppIcon name="com.catchingnow.icebox/com.catchingnow.icebox.activity.mainActivity.MainAppActivity" image="ice_box"/>
     <AppIcon name="com.faultexception.reader/com.faultexception.reader.MainActivity" image="lithium"/>
     <AppIcon name="eu.darken.sdmse/eu.darken.sdmse.main.ui.MainActivity" image="sd_maid_se"/>
-    <AppIcon name="tr.gov.osym.ais.android/tr.gov.osym.ais.android.presentation.ui.activities.ActivitySplash" image="aday_işlemleri"/>
-    <AppIcon name="com.finazzi.distquake/com.finazzi.distquake.MainActivity" image="deprem_ağı"/>
+    <AppIcon name="tr.gov.osym.ais.android/tr.gov.osym.ais.android.presentation.ui.activities.ActivitySplash" image="aday_islemleri"/>
+    <AppIcon name="com.finazzi.distquake/com.finazzi.distquake.MainActivity" image="deprem_agi"/>
     <AppIcon name="kentkart.mobile.cordova/kentkart.mobile.cordova.MainActivity" image="kentkart_mobile"/>
     <AppIcon name="com.turkcell.yaaniemail/com.turkcell.yaaniemail.ui.start.activities.StartActivity" image="mailim"/>
-    <AppIcon name="com.hknsoft.msupuanhesaplama/com.hknsoft.msupuanhesaplama.views.HomeActivity" image="msü_puan_hesaplama"/>
+    <AppIcon name="com.hknsoft.msupuanhesaplama/com.hknsoft.msupuanhesaplama.views.HomeActivity" image="msu_puan_hesaplama"/>
     <AppIcon name="tr.gov.diyanet.namazvaktim/tr.gov.diyanet.namazvaktim.futures.splash.ui.activities.SplashActivity" image="namaz_vaktim"/>
-    <AppIcon name="org.feyyaz.risale_inur/org.feyyaz.risale_inur.ui.activity.splash.Splash" image="risale_i_nur_kütüphanesi"/>
+    <AppIcon name="org.feyyaz.risale_inur/org.feyyaz.risale_inur.ui.activity.splash.Splash" image="risale_i_nur_kutuphanesi"/>
     <AppIcon name="com.trt.tabii.android/com.trt.tabii.android.mobile.feature.MainActivity" image="tabii"/>
     <AppIcon name="trendyol.com/com.trendyol.common.splash.impl.ui.SplashActivity" image="trendyol"/>
-    <AppIcon name="com.vakifbank.mobile/com.vakifbank.mobile.ui.SplashActivity" image="vakıfbank"/>
+    <AppIcon name="com.vakifbank.mobile/com.vakifbank.mobile.ui.SplashActivity" image="vakifbank"/>
     <AppIcon name="com.ziraat.ziraatmobil/com.ziraat.ziraatmobile.SplashActivity" image="ziraat_mobil"/>
     <AppIcon name="com.github.andreyasadchy.xtra/com.github.andreyasadchy.xtra.ui.main.MainActivity" image="xtra"/>
     <AppIcon name="com.halfmilelabs.footpath/com.halfmilelabs.footpath.MainActivity" image="footpath"/>
