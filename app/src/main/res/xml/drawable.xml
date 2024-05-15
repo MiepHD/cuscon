@@ -252,6 +252,7 @@
     <item drawable="google_wifi" />
     <item drawable="googleassistant2" />
     <category title="A" />
+    <item drawable="audiobookshelf" />
     <item drawable="aday_işlemleri" />
     <item drawable="adobe_fill_and_sign" />
     <item drawable="alan" />
@@ -656,6 +657,7 @@
 	<item drawable="awox_homecontrol" />
 	<item drawable="axp_apk_extractor" />
     <category title="B" />
+    <item drawable="bluebubbles" />
     <item drawable="biglybt" />
     <item drawable="biedronka" />
     <item drawable="bluetooth_keyboard_and_mouse" />
@@ -2023,6 +2025,7 @@
 	<item drawable="gspace" />
 	<item drawable="guerrilla_mail" />
     <category title="H" />
+    <item drawable="headspace" />
     <item drawable="hardlopen_met_evy" />
     <item drawable="hill_climb_racing" />
     <item drawable="hulu" />
@@ -2623,6 +2626,7 @@
 	<item drawable="lucky_wasted" />
 	<item drawable="lux_o_meter_lichtmesser" />
     <category title="M" />
+    <item drawable="moememos" />
     <item drawable="mailim" />
     <item drawable="msü_puan_hesaplama" />
     <item drawable="moto_connect" />
@@ -3039,6 +3043,7 @@
 	<item drawable="mytelkomsel" />
 	<item drawable="myumobile" />
     <category title="N" />
+    <item drawable="nyt_games" />
     <item drawable="nos" />
     <item drawable="namaz_vaktim" />
     <item drawable="naver_blog" />
@@ -3911,6 +3916,7 @@
 	<item drawable="rustdesk" />
 	<item drawable="rvx_music" />
     <category title="S" />
+    <item drawable="scrabble_go" />
     <item drawable="sd_maid_se" />
     <item drawable="smart_transfer" />
     <item drawable="smart_mp3_tagger" />
@@ -4349,6 +4355,7 @@
 	<item drawable="swiss_post" />
 	<item drawable="systemui_tuner" />
     <category title="T" />
+    <item drawable="the_athletic" />
     <item drawable="tabii" />
     <item drawable="trendyol" />
     <item drawable="tubular" />
@@ -4623,6 +4630,7 @@
 	<item drawable="tux_paint_config" />
 	<item drawable="twelve_key_dialer" />
     <category title="U" />
+    <item drawable="unexpected_keyboard" />
     <item drawable="unet" />
     <item drawable="uhr" />
     <item drawable="ua_color_picker" />
@@ -5020,6 +5028,7 @@
 	<item drawable="xodo" />
 	<item drawable="xposed_edge" />
     <category title="Y" />
+    <item drawable="youtube_tv" />
     <item drawable="yelp" />
     <item drawable="youtrack" />
     <item drawable="yono_lite_sbi" />

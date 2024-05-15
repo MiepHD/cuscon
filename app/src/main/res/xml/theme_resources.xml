@@ -5224,5 +5224,14 @@
     <AppIcon name="com.fingersoft.hillclimb/com.fingersoft.game.MainActivity" image="hill_climb_racing"/>
     <AppIcon name="nl.nos.app/nl.nos.app.activity.RoutingActivity" image="nos"/>
     <AppIcon name="nl.topicus.geon.parrocomm/nl.topicus.geon.parrocomm.MainActivity" image="parro"/>
+    <AppIcon name="com.audiobookshelf.app/com.audiobookshelf.app.MainActivity" image="audiobookshelf"/>
+    <AppIcon name="com.bluebubbles.messaging/com.bluebubbles.messaging.MainActivity" image="bluebubbles"/>
+    <AppIcon name="com.getsomeheadspace.android/com.getsomeheadspace.android.splash.SplashActivity" image="headspace"/>
+    <AppIcon name="me.mudkip.moememos/me.mudkip.moememos.MainActivity" image="moememos"/>
+    <AppIcon name="com.nytimes.crossword/com.nytimes.crosswordlib.activity.MainActivity" image="nyt_games"/>
+    <AppIcon name="com.pieyel.scrabble/com.scopely.unity.ScopelyUnityActivity" image="scrabble_go"/>
+    <AppIcon name="com.theathletic/com.theathletic.activity.SplashActivity" image="the_athletic"/>
+    <AppIcon name="juloo.keyboard2/juloo.keyboard2.LauncherActivity" image="unexpected_keyboard"/>
+    <AppIcon name="com.google.android.apps.youtube.unplugged/com.google.android.apps.youtube.unplugged.startup.activity.SplashActivity" image="youtube_tv"/>
 
 </Theme>

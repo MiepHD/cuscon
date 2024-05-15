@@ -5240,5 +5240,14 @@
     <item component="ComponentInfo{com.fingersoft.hillclimb/com.fingersoft.game.MainActivity}" drawable="hill_climb_racing" />
     <item component="ComponentInfo{nl.nos.app/nl.nos.app.activity.RoutingActivity}" drawable="nos" />
     <item component="ComponentInfo{nl.topicus.geon.parrocomm/nl.topicus.geon.parrocomm.MainActivity}" drawable="parro" />
+    <item component="ComponentInfo{com.audiobookshelf.app/com.audiobookshelf.app.MainActivity}" drawable="audiobookshelf" />
+    <item component="ComponentInfo{com.bluebubbles.messaging/com.bluebubbles.messaging.MainActivity}" drawable="bluebubbles" />
+    <item component="ComponentInfo{com.getsomeheadspace.android/com.getsomeheadspace.android.splash.SplashActivity}" drawable="headspace" />
+    <item component="ComponentInfo{me.mudkip.moememos/me.mudkip.moememos.MainActivity}" drawable="moememos" />
+    <item component="ComponentInfo{com.nytimes.crossword/com.nytimes.crosswordlib.activity.MainActivity}" drawable="nyt_games" />
+    <item component="ComponentInfo{com.pieyel.scrabble/com.scopely.unity.ScopelyUnityActivity}" drawable="scrabble_go" />
+    <item component="ComponentInfo{com.theathletic/com.theathletic.activity.SplashActivity}" drawable="the_athletic" />
+    <item component="ComponentInfo{juloo.keyboard2/juloo.keyboard2.LauncherActivity}" drawable="unexpected_keyboard" />
+    <item component="ComponentInfo{com.google.android.apps.youtube.unplugged/com.google.android.apps.youtube.unplugged.startup.activity.SplashActivity}" drawable="youtube_tv" />
 
 </resources>
