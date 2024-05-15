@@ -2378,6 +2378,7 @@
 	<item drawable="justchess" />
 	<item drawable="justdial" />
     <category title="K" />
+    <item drawable="kraken_pro" />
     <item drawable="kentkart_mobile" />
     <item drawable="kanopy" />
     <item drawable="komoot" />
@@ -4386,6 +4387,8 @@
 	<item drawable="swiss_post" />
 	<item drawable="systemui_tuner" />
     <category title="T" />
+    <item drawable="thinkorswim" />
+    <item drawable="tournant" />
     <item drawable="tailscale" />
     <item drawable="td_ameritrade_inc" />
     <item drawable="the_athletic" />

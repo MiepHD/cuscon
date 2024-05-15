@@ -5286,5 +5286,8 @@
     <item component="ComponentInfo{com.meteociel.fr/com.meteociel.fr.application.activities.SplashActivity}" drawable="meteociel" />
     <item component="ComponentInfo{com.cricfy.tv/com.android.vending.tv.Splash}" drawable="cricfy_tv" />
     <item component="ComponentInfo{fitness.workouts.home.workoutspro/fitness.workouts.home.workoutspro.activity.SplashActivity}" drawable="workout_pro" />
+    <item component="ComponentInfo{com.kraken.trade/com.kraken.trade.MainActivity}" drawable="kraken_pro" />
+    <item component="ComponentInfo{com.devexperts.tdmobile.platform.android.thinkorswim/com.devexperts.tdmobile.android.ui.StartupActivity}" drawable="thinkorswim" />
+    <item component="ComponentInfo{eu.zimbelstern.tournant/eu.zimbelstern.tournant.ui.MainActivity}" drawable="tournant" />
 
 </resources>
