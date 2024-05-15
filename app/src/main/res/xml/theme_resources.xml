@@ -5200,5 +5200,7 @@
     <AppIcon name="com.yelp.android/com.yelp.android.home.ui.RootSingleActivity" image="yelp"/>
     <AppIcon name="ua.syt0r.kanji.fdroid/ua.syt0r.kanji.presentation.screen.main.FdroidMainActivity" image="kanji_dojo"/>
     <AppIcon name="co.mona.android/co.mona.android.splash.ui.SplashActivity" image="cryptocom"/>
+    <AppIcon name="com.motorola.mobiledesktop/com.motorola.readyfor.display.ui.NearbyDisplaysActivity" image="moto_connect"/>
+    <AppIcon name="com.aomatatech.datatransferapp.filesharing/com.aomata.beam.dashboard.activities.splash.SplashActivity" image="smart_transfer"/>
 
 </Theme>

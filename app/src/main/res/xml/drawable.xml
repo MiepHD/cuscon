@@ -2614,6 +2614,7 @@
 	<item drawable="lucky_wasted" />
 	<item drawable="lux_o_meter_lichtmesser" />
     <category title="M" />
+    <item drawable="moto_connect" />
     <item drawable="mulch" />
     <item drawable="main_freebox" />
     <item drawable="ma_banque" />
@@ -3894,6 +3895,7 @@
 	<item drawable="rustdesk" />
 	<item drawable="rvx_music" />
     <category title="S" />
+    <item drawable="smart_transfer" />
     <item drawable="smart_mp3_tagger" />
     <item drawable="summoning_pixel_dungeon" />
     <item drawable="smart" />

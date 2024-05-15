@@ -5216,5 +5216,7 @@
     <item component="ComponentInfo{com.yelp.android/com.yelp.android.home.ui.RootSingleActivity}" drawable="yelp" />
     <item component="ComponentInfo{ua.syt0r.kanji.fdroid/ua.syt0r.kanji.presentation.screen.main.FdroidMainActivity}" drawable="kanji_dojo" />
     <item component="ComponentInfo{co.mona.android/co.mona.android.splash.ui.SplashActivity}" drawable="cryptocom" />
+    <item component="ComponentInfo{com.motorola.mobiledesktop/com.motorola.readyfor.display.ui.NearbyDisplaysActivity}" drawable="moto_connect" />
+    <item component="ComponentInfo{com.aomatatech.datatransferapp.filesharing/com.aomata.beam.dashboard.activities.splash.SplashActivity}" drawable="smart_transfer" />
 
 </resources>

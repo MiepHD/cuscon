@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="changelog_date">12.5.2024</string>
+    <string name="changelog_date">15.5.2024</string>
     <string-array name="changelog">
+        <item>4.0.2.8:</item>
+        <item>Added Moto Connect, Smart Transfer</item>
         <item>4.0.2.7:</item>
         <item>Added Biedronka, OLX.pl, Adobe Fill and Sign, Alan, Freebox, Cohéra, Freebox, Ma Banque, PPSSPP, Freebox, Whiteout Survival, BiglyBT, Eddie, GCash, GOMO PH, Mulch, Smart, sNotz, Tubular, Hulu, Nest, IKO, LibreLink, Orange Flex, Google Finance, Greenlight, Smart MP3 Tagger, Summoning Pixel Dungeon, Yelp, Crypto.com</item>
         <item>Updated Kanji Dojo, Arcticons Material You, Delta</item>
