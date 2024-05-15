@@ -5243,5 +5243,6 @@
     <AppIcon name="com.unciv.app/com.unciv.app.AndroidLauncher" image="unciv"/>
     <AppIcon name="com.antescofo.metronaut/com.antescofo.metronaut.MainActivity" image="metronaut"/>
     <AppIcon name="com.thestorygraph.thestorygraph/com.thestorygraph.thestorygraph.MainActivity" image="storygraph"/>
+    <AppIcon name="at.bitfire.icsdroid/at.bitfire.icsdroid.ui.views.CalendarListActivity" image="icsx5"/>
 
 </Theme>
