@@ -3372,6 +3372,7 @@
 	<item drawable="ovag_e_mobil" />
 	<item drawable="owlfiles" />
     <category title="P" />
+    <item drawable="pokemmo" />
     <item drawable="parro" />
     <item drawable="ppsspp" />
     <item drawable="power_app" />
@@ -4636,6 +4637,7 @@
 	<item drawable="tux_paint_config" />
 	<item drawable="twelve_key_dialer" />
     <category title="U" />
+    <item drawable="unciv" />
     <item drawable="unexpected_keyboard" />
     <item drawable="unet" />
     <item drawable="uhr" />

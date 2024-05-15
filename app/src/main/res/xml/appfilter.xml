@@ -5255,5 +5255,7 @@
     <item component="ComponentInfo{ru.subprogram.guitarsongs.vint/ru.subprogram.guitarsongs.activities.dbinit.DbInitActivity}" drawable="guitar_songs" />
     <item component="ComponentInfo{cz.hipercalc/app.hipercalc.CalculatorActivity}" drawable="hiper_scientific_calculator" />
     <item component="ComponentInfo{hu.leeladam.napievangelium/hu.leeladam.napievangelium.MainActivity}" drawable="napi_evangelium" />
+    <item component="ComponentInfo{eu.pokemmo.client/eu.pokemmo.client.AndroidLauncher}" drawable="pokemmo" />
+    <item component="ComponentInfo{com.unciv.app/com.unciv.app.AndroidLauncher}" drawable="unciv" />
 
 </resources>

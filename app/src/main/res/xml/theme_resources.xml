@@ -5239,5 +5239,7 @@
     <AppIcon name="ru.subprogram.guitarsongs.vint/ru.subprogram.guitarsongs.activities.dbinit.DbInitActivity" image="guitar_songs"/>
     <AppIcon name="cz.hipercalc/app.hipercalc.CalculatorActivity" image="hiper_scientific_calculator"/>
     <AppIcon name="hu.leeladam.napievangelium/hu.leeladam.napievangelium.MainActivity" image="napi_evangelium"/>
+    <AppIcon name="eu.pokemmo.client/eu.pokemmo.client.AndroidLauncher" image="pokemmo"/>
+    <AppIcon name="com.unciv.app/com.unciv.app.AndroidLauncher" image="unciv"/>
 
 </Theme>
