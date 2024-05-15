@@ -1613,6 +1613,7 @@
 	<item drawable="explorer" />
 	<item drawable="exteragram" />
     <category title="F" />
+    <item drawable="footpath" />
     <item drawable="fongo" />
     <item drawable="fulguris" />
     <item drawable="freeotp_" />
@@ -2022,6 +2023,8 @@
 	<item drawable="gspace" />
 	<item drawable="guerrilla_mail" />
     <category title="H" />
+    <item drawable="hardlopen_met_evy" />
+    <item drawable="hill_climb_racing" />
     <item drawable="hulu" />
     <item drawable="hanseatic_bank_mobile" />
     <item drawable="honkai_star_rail" />
@@ -3036,6 +3039,7 @@
 	<item drawable="mytelkomsel" />
 	<item drawable="myumobile" />
     <category title="N" />
+    <item drawable="nos" />
     <item drawable="namaz_vaktim" />
     <item drawable="naver_blog" />
     <item drawable="nest" />
@@ -3357,6 +3361,7 @@
 	<item drawable="ovag_e_mobil" />
 	<item drawable="owlfiles" />
     <category title="P" />
+    <item drawable="parro" />
     <item drawable="ppsspp" />
     <item drawable="power_app" />
     <item drawable="poseidon" />

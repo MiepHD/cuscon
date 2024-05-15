@@ -5219,5 +5219,10 @@
     <AppIcon name="com.vakifbank.mobile/com.vakifbank.mobile.ui.SplashActivity" image="vakıfbank"/>
     <AppIcon name="com.ziraat.ziraatmobil/com.ziraat.ziraatmobile.SplashActivity" image="ziraat_mobil"/>
     <AppIcon name="com.github.andreyasadchy.xtra/com.github.andreyasadchy.xtra.ui.main.MainActivity" image="xtra"/>
+    <AppIcon name="com.halfmilelabs.footpath/com.halfmilelabs.footpath.MainActivity" image="footpath"/>
+    <AppIcon name="nl.hardlopenmetevy.app/be.energylab.start2run.ui.onboarding.activity.SplashActivity" image="hardlopen_met_evy"/>
+    <AppIcon name="com.fingersoft.hillclimb/com.fingersoft.game.MainActivity" image="hill_climb_racing"/>
+    <AppIcon name="nl.nos.app/nl.nos.app.activity.RoutingActivity" image="nos"/>
+    <AppIcon name="nl.topicus.geon.parrocomm/nl.topicus.geon.parrocomm.MainActivity" image="parro"/>
 
 </Theme>

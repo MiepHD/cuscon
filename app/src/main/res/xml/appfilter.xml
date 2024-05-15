@@ -5235,5 +5235,10 @@
     <item component="ComponentInfo{com.vakifbank.mobile/com.vakifbank.mobile.ui.SplashActivity}" drawable="vakıfbank" />
     <item component="ComponentInfo{com.ziraat.ziraatmobil/com.ziraat.ziraatmobile.SplashActivity}" drawable="ziraat_mobil" />
     <item component="ComponentInfo{com.github.andreyasadchy.xtra/com.github.andreyasadchy.xtra.ui.main.MainActivity}" drawable="xtra" />
+    <item component="ComponentInfo{com.halfmilelabs.footpath/com.halfmilelabs.footpath.MainActivity}" drawable="footpath" />
+    <item component="ComponentInfo{nl.hardlopenmetevy.app/be.energylab.start2run.ui.onboarding.activity.SplashActivity}" drawable="hardlopen_met_evy" />
+    <item component="ComponentInfo{com.fingersoft.hillclimb/com.fingersoft.game.MainActivity}" drawable="hill_climb_racing" />
+    <item component="ComponentInfo{nl.nos.app/nl.nos.app.activity.RoutingActivity}" drawable="nos" />
+    <item component="ComponentInfo{nl.topicus.geon.parrocomm/nl.topicus.geon.parrocomm.MainActivity}" drawable="parro" />
 
 </resources>
