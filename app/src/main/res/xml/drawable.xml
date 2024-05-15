@@ -1625,6 +1625,7 @@
 	<item drawable="explorer" />
 	<item drawable="exteragram" />
     <category title="F" />
+    <item drawable="fortuneo" />
     <item drawable="finance" />
     <item drawable="forge" />
     <item drawable="footpath" />
@@ -2643,6 +2644,7 @@
 	<item drawable="lucky_wasted" />
 	<item drawable="lux_o_meter_lichtmesser" />
     <category title="M" />
+    <item drawable="meteociel" />
     <item drawable="memoryguardian" />
     <item drawable="money_manager_ex" />
     <item drawable="metronaut" />

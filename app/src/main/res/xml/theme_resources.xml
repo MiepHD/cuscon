@@ -5266,5 +5266,7 @@
     <AppIcon name="com.github.gotify/com.github.gotify.init.InitializationActivity" image="gotify"/>
     <AppIcon name="xyz.zedler.patrick.grocy/xyz.zedler.patrick.grocy.activity.SplashActivity" image="grocy"/>
     <AppIcon name="com.tailscale.ipn/com.tailscale.ipn.IPNActivity" image="tailscale"/>
+    <AppIcon name="com.fortuneo.android/com.fortuneo.android.activities.EntryActivity" image="fortuneo"/>
+    <AppIcon name="com.meteociel.fr/com.meteociel.fr.application.activities.SplashActivity" image="meteociel"/>
 
 </Theme>
