@@ -5203,5 +5203,9 @@
     <AppIcon name="com.motorola.mobiledesktop/com.motorola.readyfor.display.ui.NearbyDisplaysActivity" image="moto_connect"/>
     <AppIcon name="com.aomatatech.datatransferapp.filesharing/com.aomata.beam.dashboard.activities.splash.SplashActivity" image="smart_transfer"/>
     <AppIcon name="com.nhn.android.blog/com.nhn.android.blog.flutter.MainFlutterActivity" image="naver_blog"/>
+    <AppIcon name="com.firsttouchgames.dls7/com.firsttouchgames.dls7.MainActivity" image="dls24"/>
+    <AppIcon name="com.catchingnow.icebox/com.catchingnow.icebox.activity.mainActivity.MainAppActivity" image="ice_box"/>
+    <AppIcon name="com.faultexception.reader/com.faultexception.reader.MainActivity" image="lithium"/>
+    <AppIcon name="eu.darken.sdmse/eu.darken.sdmse.main.ui.MainActivity" image="sd_maid_se"/>
 
 </Theme>

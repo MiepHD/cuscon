@@ -5219,5 +5219,9 @@
     <item component="ComponentInfo{com.motorola.mobiledesktop/com.motorola.readyfor.display.ui.NearbyDisplaysActivity}" drawable="moto_connect" />
     <item component="ComponentInfo{com.aomatatech.datatransferapp.filesharing/com.aomata.beam.dashboard.activities.splash.SplashActivity}" drawable="smart_transfer" />
     <item component="ComponentInfo{com.nhn.android.blog/com.nhn.android.blog.flutter.MainFlutterActivity}" drawable="naver_blog" />
+    <item component="ComponentInfo{com.firsttouchgames.dls7/com.firsttouchgames.dls7.MainActivity}" drawable="dls24" />
+    <item component="ComponentInfo{com.catchingnow.icebox/com.catchingnow.icebox.activity.mainActivity.MainAppActivity}" drawable="ice_box" />
+    <item component="ComponentInfo{com.faultexception.reader/com.faultexception.reader.MainActivity}" drawable="lithium" />
+    <item component="ComponentInfo{eu.darken.sdmse/eu.darken.sdmse.main.ui.MainActivity}" drawable="sd_maid_se" />
 
 </resources>

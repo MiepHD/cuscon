@@ -1195,6 +1195,7 @@
 	<item drawable="cubic_2_3_4_player_games" />
 	<item drawable="currencies" />
     <category title="D" />
+    <item drawable="dls24" />
     <item drawable="digitales_bezahlen" />
     <item drawable="dani_filemanager" />
     <item drawable="dictcc" />
@@ -2158,6 +2159,7 @@
 	<item drawable="hypatia" />
 	<item drawable="hyperrogue_gold" />
     <category title="I" />
+    <item drawable="ice_box" />
     <item drawable="iko" />
     <item drawable="infoblock" />
     <item drawable="icsx5" />
@@ -2468,6 +2470,7 @@
 	<item drawable="kutumb" />
 	<item drawable="kwgt_pro" />
     <category title="L" />
+    <item drawable="lithium" />
     <item drawable="librelink" />
     <item drawable="lufthansa" />
     <item drawable="locationprivacy" />
@@ -3896,6 +3899,7 @@
 	<item drawable="rustdesk" />
 	<item drawable="rvx_music" />
     <category title="S" />
+    <item drawable="sd_maid_se" />
     <item drawable="smart_transfer" />
     <item drawable="smart_mp3_tagger" />
     <item drawable="summoning_pixel_dungeon" />
