@@ -5266,5 +5266,10 @@
     <item component="ComponentInfo{com.money.manager.ex/com.money.manager.ex.home.MainActivity}" drawable="money_manager_ex" />
     <item component="ComponentInfo{dev.bartuzen.qbitcontroller/dev.bartuzen.qbitcontroller.ui.main.MainActivity}" drawable="qbitcontroller" />
     <item component="ComponentInfo{com.goodev.volume.booster/com.goodev.volume.booster.SpeakerBoost}" drawable="volume_booster_goodev" />
+    <item component="ComponentInfo{com.coingecko.coingeckoapp/com.coingecko.coingeckoapp.MainActivity}" drawable="coingecko" />
+    <item component="ComponentInfo{com.ledger.live/com.ledger.live.MainActivity}" drawable="ledger_live" />
+    <item component="ComponentInfo{one.plaza.nightwaveplaza/one.plaza.nightwaveplaza.MainActivity}" drawable="nightwave_plaza" />
+    <item component="ComponentInfo{ie.delilahsthings.soothingloop/ie.delilahsthings.soothingloop.MainActivity}" drawable="soothing_noise_player" />
+    <item component="ComponentInfo{com.tdameritrade.mobile3/com.tdameritrade.mobile3.activities.HomeActivity}" drawable="td_ameritrade_inc" />
 
 </resources>

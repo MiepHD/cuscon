@@ -879,6 +879,7 @@
 	<item drawable="bycs_drive" />
     <item drawable="ballozi_skynox" />
     <category title="C" />
+    <item drawable="coingecko" />
     <item drawable="cryptocom" />
     <item drawable="cohera_coherence_cardiaque" />
     <item drawable="chroma_doze" />
@@ -2487,6 +2488,7 @@
 	<item drawable="kutumb" />
 	<item drawable="kwgt_pro" />
     <category title="L" />
+    <item drawable="ledger_live" />
     <item drawable="lithium" />
     <item drawable="librelink" />
     <item drawable="lufthansa" />
@@ -3053,6 +3055,7 @@
 	<item drawable="mytelkomsel" />
 	<item drawable="myumobile" />
     <category title="N" />
+    <item drawable="nightwave_plaza" />
     <item drawable="napi_evangelium" />
     <item drawable="nyt_games" />
     <item drawable="nos" />
@@ -3929,6 +3932,7 @@
 	<item drawable="rustdesk" />
 	<item drawable="rvx_music" />
     <category title="S" />
+    <item drawable="soothing_noise_player" />
     <item drawable="storygraph" />
     <item drawable="scrabble_go" />
     <item drawable="sd_maid_se" />
@@ -4369,6 +4373,7 @@
 	<item drawable="swiss_post" />
 	<item drawable="systemui_tuner" />
     <category title="T" />
+    <item drawable="td_ameritrade_inc" />
     <item drawable="the_athletic" />
     <item drawable="tabii" />
     <item drawable="trendyol" />

@@ -5250,5 +5250,10 @@
     <AppIcon name="com.money.manager.ex/com.money.manager.ex.home.MainActivity" image="money_manager_ex"/>
     <AppIcon name="dev.bartuzen.qbitcontroller/dev.bartuzen.qbitcontroller.ui.main.MainActivity" image="qbitcontroller"/>
     <AppIcon name="com.goodev.volume.booster/com.goodev.volume.booster.SpeakerBoost" image="volume_booster_goodev"/>
+    <AppIcon name="com.coingecko.coingeckoapp/com.coingecko.coingeckoapp.MainActivity" image="coingecko"/>
+    <AppIcon name="com.ledger.live/com.ledger.live.MainActivity" image="ledger_live"/>
+    <AppIcon name="one.plaza.nightwaveplaza/one.plaza.nightwaveplaza.MainActivity" image="nightwave_plaza"/>
+    <AppIcon name="ie.delilahsthings.soothingloop/ie.delilahsthings.soothingloop.MainActivity" image="soothing_noise_player"/>
+    <AppIcon name="com.tdameritrade.mobile3/com.tdameritrade.mobile3.activities.HomeActivity" image="td_ameritrade_inc"/>
 
 </Theme>
