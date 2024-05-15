@@ -5242,5 +5242,6 @@
     <AppIcon name="eu.pokemmo.client/eu.pokemmo.client.AndroidLauncher" image="pokemmo"/>
     <AppIcon name="com.unciv.app/com.unciv.app.AndroidLauncher" image="unciv"/>
     <AppIcon name="com.antescofo.metronaut/com.antescofo.metronaut.MainActivity" image="metronaut"/>
+    <AppIcon name="com.thestorygraph.thestorygraph/com.thestorygraph.thestorygraph.MainActivity" image="storygraph"/>
 
 </Theme>

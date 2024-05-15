@@ -5258,5 +5258,6 @@
     <item component="ComponentInfo{eu.pokemmo.client/eu.pokemmo.client.AndroidLauncher}" drawable="pokemmo" />
     <item component="ComponentInfo{com.unciv.app/com.unciv.app.AndroidLauncher}" drawable="unciv" />
     <item component="ComponentInfo{com.antescofo.metronaut/com.antescofo.metronaut.MainActivity}" drawable="metronaut" />
+    <item component="ComponentInfo{com.thestorygraph.thestorygraph/com.thestorygraph.thestorygraph.MainActivity}" drawable="storygraph" />
 
 </resources>

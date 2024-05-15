@@ -3924,6 +3924,7 @@
 	<item drawable="rustdesk" />
 	<item drawable="rvx_music" />
     <category title="S" />
+    <item drawable="storygraph" />
     <item drawable="scrabble_go" />
     <item drawable="sd_maid_se" />
     <item drawable="smart_transfer" />
