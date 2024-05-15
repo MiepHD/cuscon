@@ -5233,5 +5233,11 @@
     <AppIcon name="com.theathletic/com.theathletic.activity.SplashActivity" image="the_athletic"/>
     <AppIcon name="juloo.keyboard2/juloo.keyboard2.LauncherActivity" image="unexpected_keyboard"/>
     <AppIcon name="com.google.android.apps.youtube.unplugged/com.google.android.apps.youtube.unplugged.startup.activity.SplashActivity" image="youtube_tv"/>
+    <AppIcon name="tinyappworks.dictionary/tinyappworks.dictionary.DictionaryApp" image="angol_szotar"/>
+    <AppIcon name="com.sirma.mobile.bible.android/youversion.bible.app.MainActivity" image="bible"/>
+    <AppIcon name="hu.webvalto.bkkfutar/hu.bkk.futar.ui.MainActivity" image="budapestgo"/>
+    <AppIcon name="ru.subprogram.guitarsongs.vint/ru.subprogram.guitarsongs.activities.dbinit.DbInitActivity" image="guitar_songs"/>
+    <AppIcon name="cz.hipercalc/app.hipercalc.CalculatorActivity" image="hiper_scientific_calculator"/>
+    <AppIcon name="hu.leeladam.napievangelium/hu.leeladam.napievangelium.MainActivity" image="napi_evangelium"/>
 
 </Theme>

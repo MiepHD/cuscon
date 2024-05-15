@@ -5249,5 +5249,11 @@
     <item component="ComponentInfo{com.theathletic/com.theathletic.activity.SplashActivity}" drawable="the_athletic" />
     <item component="ComponentInfo{juloo.keyboard2/juloo.keyboard2.LauncherActivity}" drawable="unexpected_keyboard" />
     <item component="ComponentInfo{com.google.android.apps.youtube.unplugged/com.google.android.apps.youtube.unplugged.startup.activity.SplashActivity}" drawable="youtube_tv" />
+    <item component="ComponentInfo{tinyappworks.dictionary/tinyappworks.dictionary.DictionaryApp}" drawable="angol_szotar" />
+    <item component="ComponentInfo{com.sirma.mobile.bible.android/youversion.bible.app.MainActivity}" drawable="bible" />
+    <item component="ComponentInfo{hu.webvalto.bkkfutar/hu.bkk.futar.ui.MainActivity}" drawable="budapestgo" />
+    <item component="ComponentInfo{ru.subprogram.guitarsongs.vint/ru.subprogram.guitarsongs.activities.dbinit.DbInitActivity}" drawable="guitar_songs" />
+    <item component="ComponentInfo{cz.hipercalc/app.hipercalc.CalculatorActivity}" drawable="hiper_scientific_calculator" />
+    <item component="ComponentInfo{hu.leeladam.napievangelium/hu.leeladam.napievangelium.MainActivity}" drawable="napi_evangelium" />
 
 </resources>

@@ -252,6 +252,7 @@
     <item drawable="google_wifi" />
     <item drawable="googleassistant2" />
     <category title="A" />
+    <item drawable="angol_szotar" />
     <item drawable="audiobookshelf" />
     <item drawable="aday_işlemleri" />
     <item drawable="adobe_fill_and_sign" />
@@ -657,6 +658,8 @@
 	<item drawable="awox_homecontrol" />
 	<item drawable="axp_apk_extractor" />
     <category title="B" />
+    <item drawable="bible" />
+    <item drawable="budapestgo" />
     <item drawable="bluebubbles" />
     <item drawable="biglybt" />
     <item drawable="biedronka" />
@@ -1836,6 +1839,7 @@
 	<item drawable="futo_voice_input" />
 	<item drawable="fx" />
     <category title="G" />
+    <item drawable="guitar_songs" />
     <item drawable="google_finance" />
     <item drawable="greenlight" />
     <item drawable="gcash" />
@@ -2025,6 +2029,7 @@
 	<item drawable="gspace" />
 	<item drawable="guerrilla_mail" />
     <category title="H" />
+    <item drawable="hiper_scientific_calculator" />
     <item drawable="headspace" />
     <item drawable="hardlopen_met_evy" />
     <item drawable="hill_climb_racing" />
@@ -3043,6 +3048,7 @@
 	<item drawable="mytelkomsel" />
 	<item drawable="myumobile" />
     <category title="N" />
+    <item drawable="napi_evangelium" />
     <item drawable="nyt_games" />
     <item drawable="nos" />
     <item drawable="namaz_vaktim" />
