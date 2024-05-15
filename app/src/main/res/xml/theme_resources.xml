@@ -5259,5 +5259,7 @@
     <AppIcon name="me.d3sox.betternetworktiles.libre/be.casperverswijvelt.unifiedinternetqs.ui.MainActivity" image="better_network_tiles"/>
     <AppIcon name="ara.memoryguardian/ara.memoryguardian.MainActivity" image="memoryguardian"/>
     <AppIcon name="com.questrade.questmobile/com.questrade.questmobile.MainActivity" image="questmobile"/>
+    <AppIcon name="com.yahoo.mobile.client.android.finance/com.yahoo.mobile.client.android.finance.main.MainActivity" image="finance"/>
+    <AppIcon name="com.schwab.mobile/com.schwab.mobile.activity.SplashScreenActivity" image="schwab"/>
 
 </Theme>

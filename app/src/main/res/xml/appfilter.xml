@@ -5275,5 +5275,7 @@
     <item component="ComponentInfo{me.d3sox.betternetworktiles.libre/be.casperverswijvelt.unifiedinternetqs.ui.MainActivity}" drawable="better_network_tiles" />
     <item component="ComponentInfo{ara.memoryguardian/ara.memoryguardian.MainActivity}" drawable="memoryguardian" />
     <item component="ComponentInfo{com.questrade.questmobile/com.questrade.questmobile.MainActivity}" drawable="questmobile" />
+    <item component="ComponentInfo{com.yahoo.mobile.client.android.finance/com.yahoo.mobile.client.android.finance.main.MainActivity}" drawable="finance" />
+    <item component="ComponentInfo{com.schwab.mobile/com.schwab.mobile.activity.SplashScreenActivity}" drawable="schwab" />
 
 </resources>
