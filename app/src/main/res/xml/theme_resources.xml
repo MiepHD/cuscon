@@ -5255,5 +5255,9 @@
     <AppIcon name="one.plaza.nightwaveplaza/one.plaza.nightwaveplaza.MainActivity" image="nightwave_plaza"/>
     <AppIcon name="ie.delilahsthings.soothingloop/ie.delilahsthings.soothingloop.MainActivity" image="soothing_noise_player"/>
     <AppIcon name="com.tdameritrade.mobile3/com.tdameritrade.mobile3.activities.HomeActivity" image="td_ameritrade_inc"/>
+    <AppIcon name="in.hridayan.ashell/in.hridayan.ashell.activities.MainActivity" image="ashell_you"/>
+    <AppIcon name="me.d3sox.betternetworktiles.libre/be.casperverswijvelt.unifiedinternetqs.ui.MainActivity" image="better_network_tiles"/>
+    <AppIcon name="ara.memoryguardian/ara.memoryguardian.MainActivity" image="memoryguardian"/>
+    <AppIcon name="com.questrade.questmobile/com.questrade.questmobile.MainActivity" image="questmobile"/>
 
 </Theme>

@@ -252,6 +252,7 @@
     <item drawable="google_wifi" />
     <item drawable="googleassistant2" />
     <category title="A" />
+    <item drawable="ashell_you" />
     <item drawable="angol_szotar" />
     <item drawable="audiobookshelf" />
     <item drawable="aday_işlemleri" />
@@ -658,6 +659,7 @@
 	<item drawable="awox_homecontrol" />
 	<item drawable="axp_apk_extractor" />
     <category title="B" />
+    <item drawable="better_network_tiles" />
     <item drawable="bible" />
     <item drawable="budapestgo" />
     <item drawable="bluebubbles" />
@@ -2636,6 +2638,7 @@
 	<item drawable="lucky_wasted" />
 	<item drawable="lux_o_meter_lichtmesser" />
     <category title="M" />
+    <item drawable="memoryguardian" />
     <item drawable="money_manager_ex" />
     <item drawable="metronaut" />
     <item drawable="moememos" />
@@ -3693,6 +3696,7 @@
 	<item drawable="puzzles" />
 	<item drawable="pysolfc" />
     <category title="Q" />
+    <item drawable="questmobile" />
     <item drawable="qbitcontroller" />
     <item drawable="quien_esta_en_mi_wifi" />
     <item drawable="qare" />
