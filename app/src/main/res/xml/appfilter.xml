@@ -5257,5 +5257,6 @@
     <item component="ComponentInfo{hu.leeladam.napievangelium/hu.leeladam.napievangelium.MainActivity}" drawable="napi_evangelium" />
     <item component="ComponentInfo{eu.pokemmo.client/eu.pokemmo.client.AndroidLauncher}" drawable="pokemmo" />
     <item component="ComponentInfo{com.unciv.app/com.unciv.app.AndroidLauncher}" drawable="unciv" />
+    <item component="ComponentInfo{com.antescofo.metronaut/com.antescofo.metronaut.MainActivity}" drawable="metronaut" />
 
 </resources>

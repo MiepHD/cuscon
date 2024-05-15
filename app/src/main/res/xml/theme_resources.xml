@@ -5241,5 +5241,6 @@
     <AppIcon name="hu.leeladam.napievangelium/hu.leeladam.napievangelium.MainActivity" image="napi_evangelium"/>
     <AppIcon name="eu.pokemmo.client/eu.pokemmo.client.AndroidLauncher" image="pokemmo"/>
     <AppIcon name="com.unciv.app/com.unciv.app.AndroidLauncher" image="unciv"/>
+    <AppIcon name="com.antescofo.metronaut/com.antescofo.metronaut.MainActivity" image="metronaut"/>
 
 </Theme>

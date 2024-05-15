@@ -2631,6 +2631,7 @@
 	<item drawable="lucky_wasted" />
 	<item drawable="lux_o_meter_lichtmesser" />
     <category title="M" />
+    <item drawable="metronaut" />
     <item drawable="moememos" />
     <item drawable="mailim" />
     <item drawable="msü_puan_hesaplama" />
