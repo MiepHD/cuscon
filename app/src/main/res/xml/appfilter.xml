@@ -5277,5 +5277,10 @@
     <item component="ComponentInfo{com.questrade.questmobile/com.questrade.questmobile.MainActivity}" drawable="questmobile" />
     <item component="ComponentInfo{com.yahoo.mobile.client.android.finance/com.yahoo.mobile.client.android.finance.main.MainActivity}" drawable="finance" />
     <item component="ComponentInfo{com.schwab.mobile/com.schwab.mobile.activity.SplashScreenActivity}" drawable="schwab" />
+    <item component="ComponentInfo{com.cheogram.android/eu.siacs.conversations.ui.ConversationActivity}" drawable="cheogram" />
+    <item component="ComponentInfo{com.doordash.driverapp/com.doordash.driverapp.ui.login.LauncherActivity}" drawable="dasher" />
+    <item component="ComponentInfo{com.github.gotify/com.github.gotify.init.InitializationActivity}" drawable="gotify" />
+    <item component="ComponentInfo{xyz.zedler.patrick.grocy/xyz.zedler.patrick.grocy.activity.SplashActivity}" drawable="grocy" />
+    <item component="ComponentInfo{com.tailscale.ipn/com.tailscale.ipn.IPNActivity}" drawable="tailscale" />
 
 </resources>

@@ -881,6 +881,7 @@
 	<item drawable="bycs_drive" />
     <item drawable="ballozi_skynox" />
     <category title="C" />
+    <item drawable="cheogram" />
     <item drawable="coingecko" />
     <item drawable="cryptocom" />
     <item drawable="cohera_coherence_cardiaque" />
@@ -1204,6 +1205,7 @@
 	<item drawable="cubic_2_3_4_player_games" />
 	<item drawable="currencies" />
     <category title="D" />
+    <item drawable="dasher" />
     <item drawable="dollphone" />
     <item drawable="deprem_ağı" />
     <item drawable="dls24" />
@@ -1846,6 +1848,8 @@
 	<item drawable="futo_voice_input" />
 	<item drawable="fx" />
     <category title="G" />
+    <item drawable="gotify" />
+    <item drawable="grocy" />
     <item drawable="guitar_songs" />
     <item drawable="google_finance" />
     <item drawable="greenlight" />
@@ -4379,6 +4383,7 @@
 	<item drawable="swiss_post" />
 	<item drawable="systemui_tuner" />
     <category title="T" />
+    <item drawable="tailscale" />
     <item drawable="td_ameritrade_inc" />
     <item drawable="the_athletic" />
     <item drawable="tabii" />

@@ -5261,5 +5261,10 @@
     <AppIcon name="com.questrade.questmobile/com.questrade.questmobile.MainActivity" image="questmobile"/>
     <AppIcon name="com.yahoo.mobile.client.android.finance/com.yahoo.mobile.client.android.finance.main.MainActivity" image="finance"/>
     <AppIcon name="com.schwab.mobile/com.schwab.mobile.activity.SplashScreenActivity" image="schwab"/>
+    <AppIcon name="com.cheogram.android/eu.siacs.conversations.ui.ConversationActivity" image="cheogram"/>
+    <AppIcon name="com.doordash.driverapp/com.doordash.driverapp.ui.login.LauncherActivity" image="dasher"/>
+    <AppIcon name="com.github.gotify/com.github.gotify.init.InitializationActivity" image="gotify"/>
+    <AppIcon name="xyz.zedler.patrick.grocy/xyz.zedler.patrick.grocy.activity.SplashActivity" image="grocy"/>
+    <AppIcon name="com.tailscale.ipn/com.tailscale.ipn.IPNActivity" image="tailscale"/>
 
 </Theme>
