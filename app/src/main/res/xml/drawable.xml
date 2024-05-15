@@ -3028,6 +3028,7 @@
 	<item drawable="mytelkomsel" />
 	<item drawable="myumobile" />
     <category title="N" />
+    <item drawable="naver_blog" />
     <item drawable="nest" />
     <item drawable="n_digital" />
     <item drawable="nebula" />

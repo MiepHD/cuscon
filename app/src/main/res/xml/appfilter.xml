@@ -5218,5 +5218,6 @@
     <item component="ComponentInfo{co.mona.android/co.mona.android.splash.ui.SplashActivity}" drawable="cryptocom" />
     <item component="ComponentInfo{com.motorola.mobiledesktop/com.motorola.readyfor.display.ui.NearbyDisplaysActivity}" drawable="moto_connect" />
     <item component="ComponentInfo{com.aomatatech.datatransferapp.filesharing/com.aomata.beam.dashboard.activities.splash.SplashActivity}" drawable="smart_transfer" />
+    <item component="ComponentInfo{com.nhn.android.blog/com.nhn.android.blog.flutter.MainFlutterActivity}" drawable="naver_blog" />
 
 </resources>
