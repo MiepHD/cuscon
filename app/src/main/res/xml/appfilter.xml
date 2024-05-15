@@ -5260,5 +5260,10 @@
     <item component="ComponentInfo{com.antescofo.metronaut/com.antescofo.metronaut.MainActivity}" drawable="metronaut" />
     <item component="ComponentInfo{com.thestorygraph.thestorygraph/com.thestorygraph.thestorygraph.MainActivity}" drawable="storygraph" />
     <item component="ComponentInfo{at.bitfire.icsdroid/at.bitfire.icsdroid.ui.views.CalendarListActivity}" drawable="icsx5" />
+    <item component="ComponentInfo{me.x2gd4.dollphone/me.x2gd4.dollphone.activities.MainActivity}" drawable="dollphone" />
+    <item component="ComponentInfo{com.github.thewierdnut.endless_mobile/com.github.thewierdnut.endless_mobile.ESActivity}" drawable="endless_sky" />
+    <item component="ComponentInfo{forge.app/forge.app.Launcher}" drawable="forge" />
+    <item component="ComponentInfo{com.money.manager.ex/com.money.manager.ex.home.MainActivity}" drawable="money_manager_ex" />
+    <item component="ComponentInfo{dev.bartuzen.qbitcontroller/dev.bartuzen.qbitcontroller.ui.main.MainActivity}" drawable="qbitcontroller" />
 
 </resources>

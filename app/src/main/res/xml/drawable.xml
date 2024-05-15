@@ -1201,6 +1201,7 @@
 	<item drawable="cubic_2_3_4_player_games" />
 	<item drawable="currencies" />
     <category title="D" />
+    <item drawable="dollphone" />
     <item drawable="deprem_ağı" />
     <item drawable="dls24" />
     <item drawable="digitales_bezahlen" />
@@ -1465,6 +1466,7 @@
 	<item drawable="dynalist" />
 	<item drawable="dynamicspot" />
     <category title="E" />
+    <item drawable="endless_sky" />
     <item drawable="eddie_airvpn_gui" />
     <item drawable="explorer_administrador_de_archivos" />
     <item drawable="epsxe" />
@@ -1618,6 +1620,7 @@
 	<item drawable="explorer" />
 	<item drawable="exteragram" />
     <category title="F" />
+    <item drawable="forge" />
     <item drawable="footpath" />
     <item drawable="fongo" />
     <item drawable="fulguris" />
@@ -2631,6 +2634,7 @@
 	<item drawable="lucky_wasted" />
 	<item drawable="lux_o_meter_lichtmesser" />
     <category title="M" />
+    <item drawable="money_manager_ex" />
     <item drawable="metronaut" />
     <item drawable="moememos" />
     <item drawable="mailim" />
@@ -3686,6 +3690,7 @@
 	<item drawable="puzzles" />
 	<item drawable="pysolfc" />
     <category title="Q" />
+    <item drawable="qbitcontroller" />
     <item drawable="quien_esta_en_mi_wifi" />
     <item drawable="qare" />
     <item drawable="qatar_airways" />
