@@ -4982,6 +4982,7 @@
 	<item drawable="wx" />
 	<item drawable="wynk_music" />
     <category title="X" />
+    <item drawable="xtra" />
     <item drawable="xbrowsersync" />
     <item drawable="x_gamepad_tester" />
     <item drawable="x_plore" />

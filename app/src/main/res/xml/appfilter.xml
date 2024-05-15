@@ -5234,5 +5234,6 @@
     <item component="ComponentInfo{trendyol.com/com.trendyol.common.splash.impl.ui.SplashActivity}" drawable="trendyol" />
     <item component="ComponentInfo{com.vakifbank.mobile/com.vakifbank.mobile.ui.SplashActivity}" drawable="vakıfbank" />
     <item component="ComponentInfo{com.ziraat.ziraatmobil/com.ziraat.ziraatmobile.SplashActivity}" drawable="ziraat_mobil" />
+    <item component="ComponentInfo{com.github.andreyasadchy.xtra/com.github.andreyasadchy.xtra.ui.main.MainActivity}" drawable="xtra" />
 
 </resources>

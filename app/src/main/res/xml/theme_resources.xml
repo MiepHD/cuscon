@@ -5218,5 +5218,6 @@
     <AppIcon name="trendyol.com/com.trendyol.common.splash.impl.ui.SplashActivity" image="trendyol"/>
     <AppIcon name="com.vakifbank.mobile/com.vakifbank.mobile.ui.SplashActivity" image="vakıfbank"/>
     <AppIcon name="com.ziraat.ziraatmobil/com.ziraat.ziraatmobile.SplashActivity" image="ziraat_mobil"/>
+    <AppIcon name="com.github.andreyasadchy.xtra/com.github.andreyasadchy.xtra.ui.main.MainActivity" image="xtra"/>
 
 </Theme>
