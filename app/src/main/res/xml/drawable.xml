@@ -252,6 +252,7 @@
     <item drawable="google_wifi" />
     <item drawable="googleassistant2" />
     <category title="A" />
+    <item drawable="aday_işlemleri" />
     <item drawable="adobe_fill_and_sign" />
     <item drawable="alan" />
     <item drawable="automation_freebox" />
@@ -1195,6 +1196,7 @@
 	<item drawable="cubic_2_3_4_player_games" />
 	<item drawable="currencies" />
     <category title="D" />
+    <item drawable="deprem_ağı" />
     <item drawable="dls24" />
     <item drawable="digitales_bezahlen" />
     <item drawable="dani_filemanager" />
@@ -2352,6 +2354,7 @@
 	<item drawable="justchess" />
 	<item drawable="justdial" />
     <category title="K" />
+    <item drawable="kentkart_mobile" />
     <item drawable="kanopy" />
     <item drawable="komoot" />
     <item drawable="kontakte_goodwy" />
@@ -2617,6 +2620,8 @@
 	<item drawable="lucky_wasted" />
 	<item drawable="lux_o_meter_lichtmesser" />
     <category title="M" />
+    <item drawable="mailim" />
+    <item drawable="msü_puan_hesaplama" />
     <item drawable="moto_connect" />
     <item drawable="mulch" />
     <item drawable="main_freebox" />
@@ -3031,6 +3036,7 @@
 	<item drawable="mytelkomsel" />
 	<item drawable="myumobile" />
     <category title="N" />
+    <item drawable="namaz_vaktim" />
     <item drawable="naver_blog" />
     <item drawable="nest" />
     <item drawable="n_digital" />
@@ -3705,6 +3711,7 @@
 	<item drawable="quik" />
 	<item drawable="quillpad" />
     <category title="R" />
+    <item drawable="risale_i_nur_kütüphanesi" />
     <item drawable="ringtone_maker" />
     <item drawable="ridmik_classic_keyboard" />
     <item drawable="rvx_reddit" />
@@ -4337,6 +4344,8 @@
 	<item drawable="swiss_post" />
 	<item drawable="systemui_tuner" />
     <category title="T" />
+    <item drawable="tabii" />
+    <item drawable="trendyol" />
     <item drawable="tubular" />
     <item drawable="tv_freebox" />
     <item drawable="telefon_goodwy" />
@@ -4677,6 +4686,7 @@
 	<item drawable="utiles" />
 	<item drawable="utilidades_amaze" />
     <category title="V" />
+    <item drawable="vakıfbank" />
     <item drawable="vaarkaart_nederland" />
     <item drawable="vodafone_tv" />
     <item drawable="video_to_mp3_convert" />
@@ -5045,6 +5055,7 @@
 	<item drawable="yuka" />
 	<item drawable="yuzu_browser" />
     <category title="Z" />
+    <item drawable="ziraat_mobil" />
     <item drawable="zarchiver_pro" />
     <item drawable="zepp" />
     <item drawable="z_lib" />
