@@ -5268,5 +5268,7 @@
     <AppIcon name="com.tailscale.ipn/com.tailscale.ipn.IPNActivity" image="tailscale"/>
     <AppIcon name="com.fortuneo.android/com.fortuneo.android.activities.EntryActivity" image="fortuneo"/>
     <AppIcon name="com.meteociel.fr/com.meteociel.fr.application.activities.SplashActivity" image="meteociel"/>
+    <AppIcon name="com.cricfy.tv/com.android.vending.tv.Splash" image="cricfy_tv"/>
+    <AppIcon name="fitness.workouts.home.workoutspro/fitness.workouts.home.workoutspro.activity.SplashActivity" image="workout_pro"/>
 
 </Theme>

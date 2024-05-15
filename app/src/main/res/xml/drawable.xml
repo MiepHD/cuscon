@@ -881,6 +881,7 @@
 	<item drawable="bycs_drive" />
     <item drawable="ballozi_skynox" />
     <category title="C" />
+    <item drawable="cricfy_tv" />
     <item drawable="cheogram" />
     <item drawable="coingecko" />
     <item drawable="cryptocom" />
@@ -4857,6 +4858,7 @@
 	<item drawable="vr_banking_app" />
 	<item drawable="vsolution_app" />
     <category title="W" />
+    <item drawable="workout_pro" />
     <item drawable="whiteout_survival" />
     <item drawable="whobird" />
     <item drawable="we_are_warriors" />

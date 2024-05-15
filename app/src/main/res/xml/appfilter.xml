@@ -5284,5 +5284,7 @@
     <item component="ComponentInfo{com.tailscale.ipn/com.tailscale.ipn.IPNActivity}" drawable="tailscale" />
     <item component="ComponentInfo{com.fortuneo.android/com.fortuneo.android.activities.EntryActivity}" drawable="fortuneo" />
     <item component="ComponentInfo{com.meteociel.fr/com.meteociel.fr.application.activities.SplashActivity}" drawable="meteociel" />
+    <item component="ComponentInfo{com.cricfy.tv/com.android.vending.tv.Splash}" drawable="cricfy_tv" />
+    <item component="ComponentInfo{fitness.workouts.home.workoutspro/fitness.workouts.home.workoutspro.activity.SplashActivity}" drawable="workout_pro" />
 
 </resources>
