@@ -1,0 +1,1 @@
+Added QR & Barcode Scanner

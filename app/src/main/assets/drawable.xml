@@ -1850,6 +1850,7 @@
 	<item drawable="futo_voice_input" />
 	<item drawable="fx" />
     <category title="G" />
+    <item drawable="gamma_qr_and_barcode_scanner" />
     <item drawable="gotify" />
     <item drawable="grocy" />
     <item drawable="guitar_songs" />
