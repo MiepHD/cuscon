@@ -5274,5 +5274,17 @@
     <AppIcon name="com.devexperts.tdmobile.platform.android.thinkorswim/com.devexperts.tdmobile.android.ui.StartupActivity" image="thinkorswim"/>
     <AppIcon name="eu.zimbelstern.tournant/eu.zimbelstern.tournant.ui.MainActivity" image="tournant"/>
     <AppIcon name="com.gamma.scan/com.gamma.barcodeapp.ui.BarcodeCaptureActivity" image="gamma_qr_and_barcode_scanner"/>
+    <AppIcon name="com.motorola.camera2/com.motorola.camera.Camera" image="appareil_photo"/>
+    <AppIcon name="com.app.hider.master.pro/com.android.launcher3.icon_disguise11" image="calculatrice"/>
+    <AppIcon name="com.desjardins.mobile/com.desjardins.mobile.ui.launcher.LauncherActivity" image="desjardins"/>
+    <AppIcon name="org.godotengine.editor.v4/org.godotengine.editor.GodotProjectManager" image="godot_editor_4"/>
+    <AppIcon name="ru.meefik.linuxdeploy/ru.meefik.linuxdeploy.Launcher" image="linux_deploy"/>
+    <AppIcon name="ca.luckymobile/ca.luckymobile.splashscreen.SplashActivity" image="mon_compte"/>
+    <AppIcon name="de.csicar.ning/de.csicar.ning.MainActivity" image="ning"/>
+    <AppIcon name="no.nordicsemi.android.mcp/no.nordicsemi.android.mcp.MainActivity" image="nrf_connect"/>
+    <AppIcon name="me.twrp.twrpapp/me.twrp.officialtwrpapp.activities.MainActivity" image="official_twrp_app"/>
+    <AppIcon name="com.openingwifi.networkshield/org.toolman.wifi.SplashyActivity" image="opening_wifi"/>
+    <AppIcon name="com.td/com.td.mobile.controllers.StartupActivity" image="td_canada_"/>
+    <AppIcon name="com.vmos.pro/com.vmos.pro.activities.splash.SplashActivity" image="vmos_pro"/>
 
 </Theme>

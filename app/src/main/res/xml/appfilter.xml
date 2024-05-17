@@ -5290,5 +5290,17 @@
     <item component="ComponentInfo{com.devexperts.tdmobile.platform.android.thinkorswim/com.devexperts.tdmobile.android.ui.StartupActivity}" drawable="thinkorswim" />
     <item component="ComponentInfo{eu.zimbelstern.tournant/eu.zimbelstern.tournant.ui.MainActivity}" drawable="tournant" />
     <item component="ComponentInfo{com.gamma.scan/com.gamma.barcodeapp.ui.BarcodeCaptureActivity}" drawable="gamma_qr_and_barcode_scanner" />
+    <item component="ComponentInfo{com.motorola.camera2/com.motorola.camera.Camera}" drawable="appareil_photo" />
+    <item component="ComponentInfo{com.app.hider.master.pro/com.android.launcher3.icon_disguise11}" drawable="calculatrice" />
+    <item component="ComponentInfo{com.desjardins.mobile/com.desjardins.mobile.ui.launcher.LauncherActivity}" drawable="desjardins" />
+    <item component="ComponentInfo{org.godotengine.editor.v4/org.godotengine.editor.GodotProjectManager}" drawable="godot_editor_4" />
+    <item component="ComponentInfo{ru.meefik.linuxdeploy/ru.meefik.linuxdeploy.Launcher}" drawable="linux_deploy" />
+    <item component="ComponentInfo{ca.luckymobile/ca.luckymobile.splashscreen.SplashActivity}" drawable="mon_compte" />
+    <item component="ComponentInfo{de.csicar.ning/de.csicar.ning.MainActivity}" drawable="ning" />
+    <item component="ComponentInfo{no.nordicsemi.android.mcp/no.nordicsemi.android.mcp.MainActivity}" drawable="nrf_connect" />
+    <item component="ComponentInfo{me.twrp.twrpapp/me.twrp.officialtwrpapp.activities.MainActivity}" drawable="official_twrp_app" />
+    <item component="ComponentInfo{com.openingwifi.networkshield/org.toolman.wifi.SplashyActivity}" drawable="opening_wifi" />
+    <item component="ComponentInfo{com.td/com.td.mobile.controllers.StartupActivity}" drawable="td_canada_" />
+    <item component="ComponentInfo{com.vmos.pro/com.vmos.pro.activities.splash.SplashActivity}" drawable="vmos_pro" />
 
 </resources>

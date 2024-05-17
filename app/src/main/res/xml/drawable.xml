@@ -252,6 +252,7 @@
     <item drawable="google_wifi" />
     <item drawable="googleassistant2" />
     <category title="A" />
+    <item drawable="appareil_photo" />
     <item drawable="ashell_you" />
     <item drawable="angol_szotar" />
     <item drawable="audiobookshelf" />
@@ -881,6 +882,7 @@
 	<item drawable="bycs_drive" />
     <item drawable="ballozi_skynox" />
     <category title="C" />
+    <item drawable="calculatrice" />
     <item drawable="cricfy_tv" />
     <item drawable="cheogram" />
     <item drawable="coingecko" />
@@ -1206,6 +1208,7 @@
 	<item drawable="cubic_2_3_4_player_games" />
 	<item drawable="currencies" />
     <category title="D" />
+    <item drawable="desjardins" />
     <item drawable="dasher" />
     <item drawable="dollphone" />
     <item drawable="deprem_agi" />
@@ -1850,6 +1853,7 @@
 	<item drawable="futo_voice_input" />
 	<item drawable="fx" />
     <category title="G" />
+    <item drawable="godot_editor_4" />
     <item drawable="gamma_qr_and_barcode_scanner" />
     <item drawable="gotify" />
     <item drawable="grocy" />
@@ -2499,6 +2503,7 @@
 	<item drawable="kutumb" />
 	<item drawable="kwgt_pro" />
     <category title="L" />
+    <item drawable="linux_deploy" />
     <item drawable="ledger_live" />
     <item drawable="lithium" />
     <item drawable="librelink" />
@@ -2647,6 +2652,7 @@
 	<item drawable="lucky_wasted" />
 	<item drawable="lux_o_meter_lichtmesser" />
     <category title="M" />
+    <item drawable="mon_compte" />
     <item drawable="meteociel" />
     <item drawable="memoryguardian" />
     <item drawable="money_manager_ex" />
@@ -3068,6 +3074,8 @@
 	<item drawable="mytelkomsel" />
 	<item drawable="myumobile" />
     <category title="N" />
+    <item drawable="ning" />
+    <item drawable="nrf_connect" />
     <item drawable="nightwave_plaza" />
     <item drawable="napi_evangelium" />
     <item drawable="nyt_games" />
@@ -3242,6 +3250,8 @@
 	<item drawable="nozzle" />
 	<item drawable="nytimes" />
     <category title="O" />
+    <item drawable="official_twrp_app" />
+    <item drawable="opening_wifi" />
     <item drawable="orange_flex" />
     <item drawable="olxpl" />
     <item drawable="og_network_tools" />
@@ -4388,6 +4398,7 @@
 	<item drawable="swiss_post" />
 	<item drawable="systemui_tuner" />
     <category title="T" />
+    <item drawable="td_canada_" />
     <item drawable="thinkorswim" />
     <item drawable="tournant" />
     <item drawable="tailscale" />
@@ -4737,6 +4748,7 @@
 	<item drawable="utiles" />
 	<item drawable="utilidades_amaze" />
     <category title="V" />
+    <item drawable="vmos_pro" />
     <item drawable="volume_booster_goodev" />
     <item drawable="vakifbank" />
     <item drawable="vaarkaart_nederland" />
