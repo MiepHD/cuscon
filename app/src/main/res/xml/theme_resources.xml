@@ -5286,5 +5286,6 @@
     <AppIcon name="com.openingwifi.networkshield/org.toolman.wifi.SplashyActivity" image="opening_wifi"/>
     <AppIcon name="com.td/com.td.mobile.controllers.StartupActivity" image="td_canada_"/>
     <AppIcon name="com.vmos.pro/com.vmos.pro.activities.splash.SplashActivity" image="vmos_pro"/>
+    <AppIcon name="com.lemon.lvoverseas/com.google.android.archive.ReactivateActivity" image="capcut_reactivate"/>
 
 </Theme>

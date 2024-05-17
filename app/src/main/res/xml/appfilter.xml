@@ -5302,5 +5302,6 @@
     <item component="ComponentInfo{com.openingwifi.networkshield/org.toolman.wifi.SplashyActivity}" drawable="opening_wifi" />
     <item component="ComponentInfo{com.td/com.td.mobile.controllers.StartupActivity}" drawable="td_canada_" />
     <item component="ComponentInfo{com.vmos.pro/com.vmos.pro.activities.splash.SplashActivity}" drawable="vmos_pro" />
+    <item component="ComponentInfo{com.lemon.lvoverseas/com.google.android.archive.ReactivateActivity}" drawable="capcut_reactivate" />
 
 </resources>

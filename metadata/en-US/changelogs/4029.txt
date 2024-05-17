@@ -1,1 +1,1 @@
-Added QR & Barcode Scanner, Appareil photo, Calculatrice, Desjardins, Godot Editor 4, Linux Deploy, Mon Compte, Ning, nRF Connect, Official TWRP App, Opening Wifi, TD (Canada), VMOS Pro
+Added QR & Barcode Scanner, Appareil photo, Calculatrice, Desjardins, Godot Editor 4, Linux Deploy, Mon Compte, Ning, nRF Connect, Official TWRP App, Opening Wifi, TD (Canada), VMOS Pro, CapCut
