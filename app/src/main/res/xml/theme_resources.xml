@@ -5287,5 +5287,38 @@
     <AppIcon name="com.td/com.td.mobile.controllers.StartupActivity" image="td_canada_"/>
     <AppIcon name="com.vmos.pro/com.vmos.pro.activities.splash.SplashActivity" image="vmos_pro"/>
     <AppIcon name="com.lemon.lvoverseas/com.google.android.archive.ReactivateActivity" image="capcut_reactivate"/>
+    <AppIcon name="com.todoist/com.todoist.alias.HomeActivityDark" image="todoist"/>
+    <AppIcon name="com.aldiko.classic/com.aldiko.android.ui.AliasHomeScreen" image="aldiko_classic"/>
+    <AppIcon name="co.around/co.around.MainActivity" image="around"/>
+    <AppIcon name="com.bookkeeper/com.bookkeeper.SplashScreen" image="book_keeper"/>
+    <AppIcon name="com.cj.dropshipping/com.cj.dropshipping.general.activity.splash.SplashActivity" image="cjdropshipping"/>
+    <AppIcon name="com.lagradost.cloudstream3.prerelease/com.lagradost.cloudstream3.ui.account.AccountSelectActivity" image="cloudstream_beta"/>
+    <AppIcon name="com.dataviz.docstogo/com.dataviz.dxtg.common.launcher.android.LauncherActivity" image="docs_to_go"/>
+    <AppIcon name="online.espees.espeeswallet/online.espees.espeeswallet.MainActivity" image="espees_wallet"/>
+    <AppIcon name="com.ezpuppies.ezdebt_book/com.ezpuppies.ezdebt_book.MainActivity" image="ezdebt_book"/>
+    <AppIcon name="com.flynx/com.flynx.MainActivity" image="flynx"/>
+    <AppIcon name="com.glovo/com.glovoapp.onboarding.splash.SplashActivity" image="glovo"/>
+    <AppIcon name="com.galaxy.app.goaltracker/com.galaxy.app.goaltracker.activity.NavigationDrawerActivity" image="goaltracker"/>
+    <AppIcon name="pan.alexander.tordnscrypt.stable/pan.alexander.tordnscrypt.MainActivity" image="invizible_pro"/>
+    <AppIcon name="com.joinkingschat.android/com.kingschat.main.view.splashScreen.SplashActivity" image="kingschat"/>
+    <AppIcon name="net.simonmuthusi.payecalculatorkenya/net.simonmuthusi.payecalculatorkenya.StartActivity" image="kra_paye_calculator_kenya"/>
+    <AppIcon name="com.safaricom.mysafaricom/com.safaricom.mysafaricom.ui.main.MainActivity" image="mysafaricom"/>
+    <AppIcon name="com.riversoft.android.mysword/com.riversoft.android.mysword.MySword" image="mysword_for_android"/>
+    <AppIcon name="com.safaricom.mpesa.lifestyle/com.mpesa.splash.SplashActivity" image="m_pesa"/>
+    <AppIcon name="org.paripesa.client/org.xbet.client1.features.appactivity.ApplicationActivity" image="paripesa"/>
+    <AppIcon name="org.lwnm.digitallib/org.lwnm.digitallib.ui.activities.WelcomeActivity" image="pastor_chris_digital_library"/>
+    <AppIcon name="com.mode.familykenya.ui/com.mode.familykenya.ui.SplashScreen" image="pesapap"/>
+    <AppIcon name="jp.moo.myworks.progressofproject/jp.moo.myworks.progressv2.views.project.MainActivity" image="progress"/>
+    <AppIcon name="bg.remove.android/bg.remove.android.ui.main.MainActivity" image="removebg"/>
+    <AppIcon name="com.saving/com.saving.ui.onboarding.launch.LauncherActivity" image="savepal"/>
+    <AppIcon name="com.guywmustang.callforward/com.guywmustang.callforward.ConfigurationActivity" image="simple_call_forwarding"/>
+    <AppIcon name="com.cookiegames.smartcookie/com.cookiegames.smartcookie.MainActivity" image="smartcookieweb"/>
+    <AppIcon name="org.christembassysoultracker.soul/org.christembassysoultracker.soul.MainActivity" image="soul_tracker"/>
+    <AppIcon name="com.stuff.todo/com.stuff.todo.activities.OrganizeActivity" image="stuff"/>
+    <AppIcon name="nz.co.impressioncreative.timezone_viewer/nz.co.impressioncreative.timezone_viewer.MainActivity" image="timezone_converter"/>
+    <AppIcon name="devian.tubemate.v3/devian.tubemate.v3.Main" image="tubemate"/>
+    <AppIcon name="com.Relmtech.RemotePaid/com.unified.v3.frontend.views.MainActivity" image="unified_remote_full"/>
+    <AppIcon name="com.fundevs.app.mediaconverter/com.fundevs.app.mediaconverter.SplashActivity" image="video_mp3_converter"/>
+    <AppIcon name="com.technicles.videosplitter/com.technicles.videosplitter.HomePageActivity" image="video_splitter"/>
 
 </Theme>
