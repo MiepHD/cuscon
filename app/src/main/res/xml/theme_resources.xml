@@ -961,7 +961,7 @@
 	<AppIcon name="com.simplemobiletools.calendar.pro/com.simplemobiletools.calendar.pro.activities.SplashActivity.Light_blue" image="calendar"/>
 	<AppIcon name="com.bnyro.clock/com.bnyro.clock.ui.MainActivity" image="clock_you"/>
 	<AppIcon name="com.simplemobiletools.contacts.pro/com.simplemobiletools.contacts.pro.activities.SplashActivity.Orange" image="contactos"/>
-	<AppIcon name="com.froxot.cuscon.foss/com.froxot.cuscon.foss.activities.MainActivity" image="cuscon"/>
+	<AppIcon name="com.froxot.cuscon.foss/com.froxot.cuscon.activities.MainActivity" image="cuscon"/>
 	<AppIcon name="website.leifs.delta.foss/website.leifs.delta.activities.SplashActivity" image="delta"/>
 	<AppIcon name="com.dolby.daxappui/com.dolby.daxappui.MainActivity" image="dolby_atmos2"/>
 	<AppIcon name="com.simplemobiletools.gallery.pro/com.simplemobiletools.gallery.pro.activities.SplashActivity.Light_blue" image="gallery2"/>
