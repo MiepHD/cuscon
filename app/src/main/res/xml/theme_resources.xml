@@ -5320,5 +5320,18 @@
     <AppIcon name="com.Relmtech.RemotePaid/com.unified.v3.frontend.views.MainActivity" image="unified_remote_full"/>
     <AppIcon name="com.fundevs.app.mediaconverter/com.fundevs.app.mediaconverter.SplashActivity" image="video_mp3_converter"/>
     <AppIcon name="com.technicles.videosplitter/com.technicles.videosplitter.HomePageActivity" image="video_splitter"/>
+    <AppIcon name="com.pixelsdo.kredihesaplama/com.pixelsdo.kredihesaplama.MainActivity" image="calculo_de_prestamos"/>
+    <AppIcon name="video.downloader.videodownloader/video.downloader.videodownloader.activity.MainActivity" image="descargador_de_video"/>
+    <AppIcon name="org.purplei2p.i2pd/org.purplei2p.i2pd.I2PDPermsAskerActivity" image="i2pd"/>
+    <AppIcon name="sansunsen3.imagesearcher/sansunsen3.imagesearcher.activity.MainActivity" image="imagesearchman"/>
+    <AppIcon name="com.kwai.kuaishou.video.live/com.yxcorp.gifshow.homepage.HomeActivity" image="kwai"/>
+    <AppIcon name="splendid.logomaker.designer/com.poster.postermaker.ui.view.Startup.StartupActivity" image="logo_designer"/>
+    <AppIcon name="com.mercadolibre/com.mercadolibre.splash.SplashActivity" image="mercado_libre"/>
+    <AppIcon name="com.mercadopago.wallet/com.mercadopago.wallet.splash.SplashActivity" image="mercado_pago"/>
+    <AppIcon name="com.att.miunefonmx/com.comviva.webaxn.ui.WebAxnActivity" image="mi_unefon"/>
+    <AppIcon name="com.dvex.movp/com.dvex.movp.A$I" image="movie_plus"/>
+    <AppIcon name="com.cyberlink.photodirector/com.cyberlink.photodirector.SplashActivity" image="photodirector"/>
+    <AppIcon name="com.pagopopmobile/com.pagopopmobile.MainActivity" image="spin_by_oxxo"/>
+    <AppIcon name="com.wallpaperscraft.wallpaper/com.wallpaperscraft.wallpaper.feature.main.MainActivity" image="wallcraft"/>
 
 </Theme>

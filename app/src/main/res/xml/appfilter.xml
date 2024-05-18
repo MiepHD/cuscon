@@ -5336,5 +5336,18 @@
     <item component="ComponentInfo{com.Relmtech.RemotePaid/com.unified.v3.frontend.views.MainActivity}" drawable="unified_remote_full" />
     <item component="ComponentInfo{com.fundevs.app.mediaconverter/com.fundevs.app.mediaconverter.SplashActivity}" drawable="video_mp3_converter" />
     <item component="ComponentInfo{com.technicles.videosplitter/com.technicles.videosplitter.HomePageActivity}" drawable="video_splitter" />
+    <item component="ComponentInfo{com.pixelsdo.kredihesaplama/com.pixelsdo.kredihesaplama.MainActivity}" drawable="calculo_de_prestamos" />
+    <item component="ComponentInfo{video.downloader.videodownloader/video.downloader.videodownloader.activity.MainActivity}" drawable="descargador_de_video" />
+    <item component="ComponentInfo{org.purplei2p.i2pd/org.purplei2p.i2pd.I2PDPermsAskerActivity}" drawable="i2pd" />
+    <item component="ComponentInfo{sansunsen3.imagesearcher/sansunsen3.imagesearcher.activity.MainActivity}" drawable="imagesearchman" />
+    <item component="ComponentInfo{com.kwai.kuaishou.video.live/com.yxcorp.gifshow.homepage.HomeActivity}" drawable="kwai" />
+    <item component="ComponentInfo{splendid.logomaker.designer/com.poster.postermaker.ui.view.Startup.StartupActivity}" drawable="logo_designer" />
+    <item component="ComponentInfo{com.mercadolibre/com.mercadolibre.splash.SplashActivity}" drawable="mercado_libre" />
+    <item component="ComponentInfo{com.mercadopago.wallet/com.mercadopago.wallet.splash.SplashActivity}" drawable="mercado_pago" />
+    <item component="ComponentInfo{com.att.miunefonmx/com.comviva.webaxn.ui.WebAxnActivity}" drawable="mi_unefon" />
+    <item component="ComponentInfo{com.dvex.movp/com.dvex.movp.A$I}" drawable="movie_plus" />
+    <item component="ComponentInfo{com.cyberlink.photodirector/com.cyberlink.photodirector.SplashActivity}" drawable="photodirector" />
+    <item component="ComponentInfo{com.pagopopmobile/com.pagopopmobile.MainActivity}" drawable="spin_by_oxxo" />
+    <item component="ComponentInfo{com.wallpaperscraft.wallpaper/com.wallpaperscraft.wallpaper.feature.main.MainActivity}" drawable="wallcraft" />
 
 </resources>

@@ -885,6 +885,7 @@
 	<item drawable="bycs_drive" />
     <item drawable="ballozi_skynox" />
     <category title="C" />
+    <item drawable="calculo_de_prestamos" />
     <item drawable="cjdropshipping" />
     <item drawable="cloudstream_beta" />
     <item drawable="capcut_reactivate" />
@@ -1214,6 +1215,7 @@
 	<item drawable="cubic_2_3_4_player_games" />
 	<item drawable="currencies" />
     <category title="D" />
+    <item drawable="descargador_de_video" />
     <item drawable="docs_to_go" />
     <item drawable="desjardins" />
     <item drawable="dasher" />
@@ -2202,6 +2204,8 @@
 	<item drawable="hypatia" />
 	<item drawable="hyperrogue_gold" />
     <category title="I" />
+    <item drawable="i2pd" />
+    <item drawable="imagesearchman" />
     <item drawable="invizible_pro" />
     <item drawable="ice_box" />
     <item drawable="iko" />
@@ -2396,6 +2400,7 @@
 	<item drawable="justchess" />
 	<item drawable="justdial" />
     <category title="K" />
+    <item drawable="kwai" />
     <item drawable="kingschat" />
     <item drawable="kra_paye_calculator_kenya" />
     <item drawable="kraken_pro" />
@@ -2518,6 +2523,7 @@
 	<item drawable="kutumb" />
 	<item drawable="kwgt_pro" />
     <category title="L" />
+    <item drawable="logo_designer" />
     <item drawable="linux_deploy" />
     <item drawable="ledger_live" />
     <item drawable="lithium" />
@@ -2667,6 +2673,10 @@
 	<item drawable="lucky_wasted" />
 	<item drawable="lux_o_meter_lichtmesser" />
     <category title="M" />
+    <item drawable="mercado_libre" />
+    <item drawable="mercado_pago" />
+    <item drawable="mi_unefon" />
+    <item drawable="movie_plus" />
     <item drawable="mysafaricom" />
     <item drawable="mysword_for_android" />
     <item drawable="m_pesa" />
@@ -3421,6 +3431,7 @@
 	<item drawable="ovag_e_mobil" />
 	<item drawable="owlfiles" />
     <category title="P" />
+    <item drawable="photodirector" />
     <item drawable="paripesa" />
     <item drawable="pastor_chris_digital_library" />
     <item drawable="pesapap" />
@@ -3979,6 +3990,7 @@
 	<item drawable="rustdesk" />
 	<item drawable="rvx_music" />
     <category title="S" />
+    <item drawable="spin_by_oxxo" />
     <item drawable="savepal" />
     <item drawable="simple_call_forwarding" />
     <item drawable="smartcookieweb" />
@@ -4907,6 +4919,7 @@
 	<item drawable="vr_banking_app" />
 	<item drawable="vsolution_app" />
     <category title="W" />
+    <item drawable="wallcraft" />
     <item drawable="workout_pro" />
     <item drawable="whiteout_survival" />
     <item drawable="whobird" />
