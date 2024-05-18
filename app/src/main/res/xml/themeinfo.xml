@@ -3,13 +3,13 @@
 
     <!-- FOR ATOM LAUNCHER -->
 
-    <packageName>com.your.package.name.here</packageName>
-    <versionName>1.0.0</versionName>
-    <versionCode>100</versionCode>
-    <themeName>Theme Name</themeName>
+    <packageName>com.froxot.cuscon</packageName>
+    <versionName>4.0.2.9</versionName>
+    <versionCode>4029</versionCode>
+    <themeName>Cuscon</themeName>
 
     <!-- Default Component Color -->
-    <themePointColor>#ffffff</themePointColor>
+    <themePointColor>#b18ee8</themePointColor>
     <themePreview img1="preview1" />
     <preview img1="preview1" />
 

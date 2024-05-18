@@ -16,7 +16,7 @@
 
     <application
         tools:ignore="GoogleAppIndexingWarning,GoogleAppIndexingUrlError"
-        android:name="com.froxot.cuscon.applications.CandyBar"
+        android:name=".applications.CandyBar"
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"
         android:networkSecurityConfig="@xml/network_config"
@@ -26,7 +26,7 @@
         tools:targetApi="n">
 
         <activity
-            android:name="com.froxot.cuscon.activities.MainActivity"
+            android:name=".activities.MainActivity"
             android:launchMode="singleTop"
             android:noHistory="true"
             android:screenOrientation="portrait"
@@ -173,7 +173,7 @@
         </activity>
 
         <provider
-            android:name="com.froxot.cuscon.services.MuzeiService"
+            android:name=".services.MuzeiService"
             android:authorities="${applicationId}.ArtProvider"
             android:label="@string/muzei_art_source_name"
             android:description="@string/muzei_art_source_desc"
@@ -188,7 +188,7 @@
         </provider>
 
         <receiver
-            android:name="com.froxot.cuscon.services.ClockWidget"
+            android:name=".services.ClockWidget"
             android:label="Clock Widget"
             android:exported="false">
             <intent-filter>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <style name="cb_CandyBar.Theme.App.DayNight" parent="CandyBar.Theme.Base">
+    <style name="CandyBar.Theme.App.DayNight" parent="CandyBar.Theme.Base">
         <item name="cb_colorPrimary">#1A73E9</item>
         <item name="cb_colorPrimaryDark">#1A73E9</item>
         <item name="cb_colorAccent">#6E3AFF</item>
