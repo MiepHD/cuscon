@@ -59,7 +59,7 @@ android {
 
 dependencies {
 	playImplementation 'com.github.zixpo:candybar:3.19.0'
-	fossImplementation 'com.github.Donnnno:candybar-foss:3.19.0'
+	fossImplementation 'com.github.Donnnno:candybar-foss:3.19.1'
 }
 
 // Code for automatically copying appfilter.xml and drawable.xml
