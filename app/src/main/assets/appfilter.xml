@@ -5290,5 +5290,51 @@
     <item component="ComponentInfo{com.devexperts.tdmobile.platform.android.thinkorswim/com.devexperts.tdmobile.android.ui.StartupActivity}" drawable="thinkorswim" />
     <item component="ComponentInfo{eu.zimbelstern.tournant/eu.zimbelstern.tournant.ui.MainActivity}" drawable="tournant" />
     <item component="ComponentInfo{com.gamma.scan/com.gamma.barcodeapp.ui.BarcodeCaptureActivity}" drawable="gamma_qr_and_barcode_scanner" />
+    <item component="ComponentInfo{com.motorola.camera2/com.motorola.camera.Camera}" drawable="appareil_photo" />
+    <item component="ComponentInfo{com.app.hider.master.pro/com.android.launcher3.icon_disguise11}" drawable="calculatrice" />
+    <item component="ComponentInfo{com.desjardins.mobile/com.desjardins.mobile.ui.launcher.LauncherActivity}" drawable="desjardins" />
+    <item component="ComponentInfo{org.godotengine.editor.v4/org.godotengine.editor.GodotProjectManager}" drawable="godot_editor_4" />
+    <item component="ComponentInfo{ru.meefik.linuxdeploy/ru.meefik.linuxdeploy.Launcher}" drawable="linux_deploy" />
+    <item component="ComponentInfo{ca.luckymobile/ca.luckymobile.splashscreen.SplashActivity}" drawable="mon_compte" />
+    <item component="ComponentInfo{de.csicar.ning/de.csicar.ning.MainActivity}" drawable="ning" />
+    <item component="ComponentInfo{no.nordicsemi.android.mcp/no.nordicsemi.android.mcp.MainActivity}" drawable="nrf_connect" />
+    <item component="ComponentInfo{me.twrp.twrpapp/me.twrp.officialtwrpapp.activities.MainActivity}" drawable="official_twrp_app" />
+    <item component="ComponentInfo{com.openingwifi.networkshield/org.toolman.wifi.SplashyActivity}" drawable="opening_wifi" />
+    <item component="ComponentInfo{com.td/com.td.mobile.controllers.StartupActivity}" drawable="td_canada_" />
+    <item component="ComponentInfo{com.vmos.pro/com.vmos.pro.activities.splash.SplashActivity}" drawable="vmos_pro" />
+    <item component="ComponentInfo{com.lemon.lvoverseas/com.google.android.archive.ReactivateActivity}" drawable="capcut_reactivate" />
+    <item component="ComponentInfo{com.todoist/com.todoist.alias.HomeActivityDark}" drawable="todoist" />
+    <item component="ComponentInfo{com.aldiko.classic/com.aldiko.android.ui.AliasHomeScreen}" drawable="aldiko_classic" />
+    <item component="ComponentInfo{co.around/co.around.MainActivity}" drawable="around" />
+    <item component="ComponentInfo{com.bookkeeper/com.bookkeeper.SplashScreen}" drawable="book_keeper" />
+    <item component="ComponentInfo{com.cj.dropshipping/com.cj.dropshipping.general.activity.splash.SplashActivity}" drawable="cjdropshipping" />
+    <item component="ComponentInfo{com.lagradost.cloudstream3.prerelease/com.lagradost.cloudstream3.ui.account.AccountSelectActivity}" drawable="cloudstream_beta" />
+    <item component="ComponentInfo{com.dataviz.docstogo/com.dataviz.dxtg.common.launcher.android.LauncherActivity}" drawable="docs_to_go" />
+    <item component="ComponentInfo{online.espees.espeeswallet/online.espees.espeeswallet.MainActivity}" drawable="espees_wallet" />
+    <item component="ComponentInfo{com.ezpuppies.ezdebt_book/com.ezpuppies.ezdebt_book.MainActivity}" drawable="ezdebt_book" />
+    <item component="ComponentInfo{com.flynx/com.flynx.MainActivity}" drawable="flynx" />
+    <item component="ComponentInfo{com.glovo/com.glovoapp.onboarding.splash.SplashActivity}" drawable="glovo" />
+    <item component="ComponentInfo{com.galaxy.app.goaltracker/com.galaxy.app.goaltracker.activity.NavigationDrawerActivity}" drawable="goaltracker" />
+    <item component="ComponentInfo{pan.alexander.tordnscrypt.stable/pan.alexander.tordnscrypt.MainActivity}" drawable="invizible_pro" />
+    <item component="ComponentInfo{com.joinkingschat.android/com.kingschat.main.view.splashScreen.SplashActivity}" drawable="kingschat" />
+    <item component="ComponentInfo{net.simonmuthusi.payecalculatorkenya/net.simonmuthusi.payecalculatorkenya.StartActivity}" drawable="kra_paye_calculator_kenya" />
+    <item component="ComponentInfo{com.safaricom.mysafaricom/com.safaricom.mysafaricom.ui.main.MainActivity}" drawable="mysafaricom" />
+    <item component="ComponentInfo{com.riversoft.android.mysword/com.riversoft.android.mysword.MySword}" drawable="mysword_for_android" />
+    <item component="ComponentInfo{com.safaricom.mpesa.lifestyle/com.mpesa.splash.SplashActivity}" drawable="m_pesa" />
+    <item component="ComponentInfo{org.paripesa.client/org.xbet.client1.features.appactivity.ApplicationActivity}" drawable="paripesa" />
+    <item component="ComponentInfo{org.lwnm.digitallib/org.lwnm.digitallib.ui.activities.WelcomeActivity}" drawable="pastor_chris_digital_library" />
+    <item component="ComponentInfo{com.mode.familykenya.ui/com.mode.familykenya.ui.SplashScreen}" drawable="pesapap" />
+    <item component="ComponentInfo{jp.moo.myworks.progressofproject/jp.moo.myworks.progressv2.views.project.MainActivity}" drawable="progress" />
+    <item component="ComponentInfo{bg.remove.android/bg.remove.android.ui.main.MainActivity}" drawable="removebg" />
+    <item component="ComponentInfo{com.saving/com.saving.ui.onboarding.launch.LauncherActivity}" drawable="savepal" />
+    <item component="ComponentInfo{com.guywmustang.callforward/com.guywmustang.callforward.ConfigurationActivity}" drawable="simple_call_forwarding" />
+    <item component="ComponentInfo{com.cookiegames.smartcookie/com.cookiegames.smartcookie.MainActivity}" drawable="smartcookieweb" />
+    <item component="ComponentInfo{org.christembassysoultracker.soul/org.christembassysoultracker.soul.MainActivity}" drawable="soul_tracker" />
+    <item component="ComponentInfo{com.stuff.todo/com.stuff.todo.activities.OrganizeActivity}" drawable="stuff" />
+    <item component="ComponentInfo{nz.co.impressioncreative.timezone_viewer/nz.co.impressioncreative.timezone_viewer.MainActivity}" drawable="timezone_converter" />
+    <item component="ComponentInfo{devian.tubemate.v3/devian.tubemate.v3.Main}" drawable="tubemate" />
+    <item component="ComponentInfo{com.Relmtech.RemotePaid/com.unified.v3.frontend.views.MainActivity}" drawable="unified_remote_full" />
+    <item component="ComponentInfo{com.fundevs.app.mediaconverter/com.fundevs.app.mediaconverter.SplashActivity}" drawable="video_mp3_converter" />
+    <item component="ComponentInfo{com.technicles.videosplitter/com.technicles.videosplitter.HomePageActivity}" drawable="video_splitter" />
 
 </resources>
