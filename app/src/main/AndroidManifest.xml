@@ -3,9 +3,6 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:installLocation="auto">
 
-    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" tools:node="remove"/>
-    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" tools:node="remove"/>
-    <uses-permission android:name="android.permission.INTERNET" tools:node="remove"/>
     <uses-permission android:name="android.permission.SET_WALLPAPER" tools:node="remove"/>
 
     <supports-screens
@@ -171,31 +168,6 @@
                 <category android:name="android.intent.category.DEFAULT" />
             </intent-filter>
         </activity>
-
-        <provider
-            android:name=".services.MuzeiService"
-            android:authorities="${applicationId}.ArtProvider"
-            android:label="@string/muzei_art_source_name"
-            android:description="@string/muzei_art_source_desc"
-            android:exported="true"
-            android:permission="com.google.android.apps.muzei.api.ACCESS_PROVIDER">
-            <intent-filter>
-                <action android:name="com.google.android.apps.muzei.api.MuzeiArtProvider" />
-            </intent-filter>
-            <meta-data
-                android:name="color"
-                android:value="@color/muzei_color" />
-        </provider>
-
-        <receiver
-            android:name=".services.ClockWidget"
-            android:label="Clock Widget"
-            android:exported="false">
-            <intent-filter>
-                <action android:name="android.appwidget.action.APPWIDGET_UPDATE" />
-            </intent-filter>
-            <meta-data android:name="android.appwidget.provider" android:resource="@xml/analog_clock" />
-        </receiver>
 
         <!-- This is important -->
         <provider
