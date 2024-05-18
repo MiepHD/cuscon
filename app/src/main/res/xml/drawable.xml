@@ -662,6 +662,7 @@
 	<item drawable="awox_homecontrol" />
 	<item drawable="axp_apk_extractor" />
     <category title="B" />
+    <item drawable="blockchain" />
     <item drawable="book_keeper" />
     <item drawable="better_network_tiles" />
     <item drawable="bible" />
@@ -885,6 +886,8 @@
 	<item drawable="bycs_drive" />
     <item drawable="ballozi_skynox" />
     <category title="C" />
+    <item drawable="credit_karma" />
+    <item drawable="credit_one" />
     <item drawable="calculo_de_prestamos" />
     <item drawable="cjdropshipping" />
     <item drawable="cloudstream_beta" />
@@ -1640,6 +1643,7 @@
 	<item drawable="explorer" />
 	<item drawable="exteragram" />
     <category title="F" />
+    <item drawable="firstprogress" />
     <item drawable="flynx" />
     <item drawable="fortuneo" />
     <item drawable="finance" />
@@ -1865,6 +1869,7 @@
 	<item drawable="futo_voice_input" />
 	<item drawable="fx" />
     <category title="G" />
+    <item drawable="glinet" />
     <item drawable="glovo" />
     <item drawable="goaltracker" />
     <item drawable="godot_editor_4" />
@@ -2204,6 +2209,8 @@
 	<item drawable="hypatia" />
 	<item drawable="hyperrogue_gold" />
     <category title="I" />
+    <item drawable="ihop" />
+    <item drawable="instacart" />
     <item drawable="i2pd" />
     <item drawable="imagesearchman" />
     <item drawable="invizible_pro" />
@@ -2523,6 +2530,7 @@
 	<item drawable="kutumb" />
 	<item drawable="kwgt_pro" />
     <category title="L" />
+    <item drawable="latch" />
     <item drawable="logo_designer" />
     <item drawable="linux_deploy" />
     <item drawable="ledger_live" />
@@ -2673,6 +2681,9 @@
 	<item drawable="lucky_wasted" />
 	<item drawable="lux_o_meter_lichtmesser" />
     <category title="M" />
+    <item drawable="mcafee_security" />
+    <item drawable="mission_lane" />
+    <item drawable="moneylion" />
     <item drawable="mercado_libre" />
     <item drawable="mercado_pago" />
     <item drawable="mi_unefon" />
@@ -3102,6 +3113,7 @@
 	<item drawable="mytelkomsel" />
 	<item drawable="myumobile" />
     <category title="N" />
+    <item drawable="nanoleaf" />
     <item drawable="ning" />
     <item drawable="nrf_connect" />
     <item drawable="nightwave_plaza" />
@@ -3431,6 +3443,8 @@
 	<item drawable="ovag_e_mobil" />
 	<item drawable="owlfiles" />
     <category title="P" />
+    <item drawable="pandora" />
+    <item drawable="public_storage" />
     <item drawable="photodirector" />
     <item drawable="paripesa" />
     <item drawable="pastor_chris_digital_library" />
@@ -3794,6 +3808,8 @@
 	<item drawable="quik" />
 	<item drawable="quillpad" />
     <category title="R" />
+    <item drawable="realtorcom" />
+    <item drawable="robinhood" />
     <item drawable="removebg" />
     <item drawable="risale_i_nur_kutuphanesi" />
     <item drawable="ringtone_maker" />
@@ -3990,6 +4006,13 @@
 	<item drawable="rustdesk" />
 	<item drawable="rvx_music" />
     <category title="S" />
+    <item drawable="scam_shield" />
+    <item drawable="shop_samsung" />
+    <item drawable="socialgood" />
+    <item drawable="sofi" />
+    <item drawable="solitaire" />
+    <item drawable="supertreat_solitaire" />
+    <item drawable="sonder" />
     <item drawable="spin_by_oxxo" />
     <item drawable="savepal" />
     <item drawable="simple_call_forwarding" />
@@ -4438,6 +4461,9 @@
 	<item drawable="swiss_post" />
 	<item drawable="systemui_tuner" />
     <category title="T" />
+    <item drawable="tv" />
+    <item drawable="t_mobile_play" />
+    <item drawable="t_visual_voicemail" />
     <item drawable="timezone_converter" />
     <item drawable="tubemate" />
     <item drawable="td_canada_" />
@@ -4791,6 +4817,7 @@
 	<item drawable="utiles" />
 	<item drawable="utilidades_amaze" />
     <category title="V" />
+    <item drawable="vrbo" />
     <item drawable="video_mp3_converter" />
     <item drawable="video_splitter" />
     <item drawable="vmos_pro" />
@@ -4919,6 +4946,7 @@
 	<item drawable="vr_banking_app" />
 	<item drawable="vsolution_app" />
     <category title="W" />
+    <item drawable="wyze" />
     <item drawable="wallcraft" />
     <item drawable="workout_pro" />
     <item drawable="whiteout_survival" />
@@ -5168,6 +5196,8 @@
 	<item drawable="yuka" />
 	<item drawable="yuzu_browser" />
     <category title="Z" />
+    <item drawable="zettle" />
+    <item drawable="zillow" />
     <item drawable="ziraat_mobil" />
     <item drawable="zarchiver_pro" />
     <item drawable="zepp" />

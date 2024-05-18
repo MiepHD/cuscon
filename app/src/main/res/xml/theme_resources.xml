@@ -5333,5 +5333,36 @@
     <AppIcon name="com.cyberlink.photodirector/com.cyberlink.photodirector.SplashActivity" image="photodirector"/>
     <AppIcon name="com.pagopopmobile/com.pagopopmobile.MainActivity" image="spin_by_oxxo"/>
     <AppIcon name="com.wallpaperscraft.wallpaper/com.wallpaperscraft.wallpaper.feature.main.MainActivity" image="wallcraft"/>
+    <AppIcon name="piuk.blockchain.android/piuk.blockchain.android.ui.launcher.LauncherActivity" image="blockchain"/>
+    <AppIcon name="com.creditkarma.mobile/com.creditkarma.mobile.welcome.ui.WelcomeActivity" image="credit_karma"/>
+    <AppIcon name="com.creditonebank.mobile/com.creditonebank.mobile.phase3.onboarding.activity.SplashScreen" image="credit_one"/>
+    <AppIcon name="com.firstprogress/com.firstprogress.ui.splash.SplashActivity" image="firstprogress"/>
+    <AppIcon name="xyz.goodcloud.glinet/xyz.goodcloud.glinet.MainActivity" image="glinet"/>
+    <AppIcon name="com.olo.ihop/com.wearehathway.apps.NomNomStock.Views.Splash.SplashActivity" image="ihop"/>
+    <AppIcon name="com.instacart.client/com.instacart.client.browse.ICBrowseActivity" image="instacart"/>
+    <AppIcon name="com.latch.android.latchapp/com.latch.android.latchapp.screen.splash.SplashActivity" image="latch"/>
+    <AppIcon name="com.wsandroid.suite.tmobile/com.android.mcafee.ui.framework.BaseActivity" image="mcafee_security"/>
+    <AppIcon name="com.lcard_app/com.lcard_app.MainActivity" image="mission_lane"/>
+    <AppIcon name="com.moneylion/com.moneylion.MainActivityDefault" image="moneylion"/>
+    <AppIcon name="me.nanoleaf.nanoleaf/me.nanoleaf.nanoleaf.activities.SplashActivity" image="nanoleaf"/>
+    <AppIcon name="com.pandora.android/com.pandora.android.LauncherActivity" image="pandora"/>
+    <AppIcon name="com.publicstorage.officialapp/crc640c5ad777eafaadde.MainActivity" image="public_storage"/>
+    <AppIcon name="com.move.realtor/com.move.realtor.splash.SplashActivity" image="realtorcom"/>
+    <AppIcon name="com.robinhood.android/com.robinhood.android.activity.WelcomeActivity" image="robinhood"/>
+    <AppIcon name="com.tmobile.services.nameid/com.tmobile.services.nameid.Startup.IdentifyingNumbersActivity" image="scam_shield"/>
+    <AppIcon name="com.samsung.ecomm/com.samsung.ecomm.MainActivity" image="shop_samsung"/>
+    <AppIcon name="com.socialgood_foundation.sg_app_android/com.sg.android.MainActivity" image="socialgood"/>
+    <AppIcon name="com.sofi.mobile/com.sofi.mobile.login.splashscreen.SplashScreenActivity" image="sofi"/>
+    <AppIcon name="com.dna.solitaireapp/com.unity3d.player.UnityPlayerActivity" image="solitaire"/>
+    <AppIcon name="net.supertreat.solitaire/com.playtika.unity.plugincomposition.CompositeActivity" image="supertreat_solitaire"/>
+    <AppIcon name="com.sonder.mahalo/com.sonder.mahalo.MainActivity" image="sonder"/>
+    <AppIcon name="com.samsung.android.tvplus/com.samsung.android.tvplus.MainActivity" image="tv"/>
+    <AppIcon name="com.tmobile.m1/com.sliide.content.MainActivity" image="t_mobile_play"/>
+    <AppIcon name="com.tmobile.vvm.application/com.tmobile.vvm.application.activity.setup.WelcomeActivity" image="t_visual_voicemail"/>
+    <AppIcon name="com.vrbo.android/com.expedia.bookings.activity.SearchActivity" image="vrbo"/>
+    <AppIcon name="com.tripledot.woodoku/com.unity3d.player.UnityPlayerActivity" image="woodoku"/>
+    <AppIcon name="com.hualai/com.hualai.home.StartActivity" image="wyze"/>
+    <AppIcon name="com.izettle.android/com.izettle.android.ActivitySplash" image="zettle"/>
+    <AppIcon name="com.zillow.android.zillowmap/com.zillow.android.re.ui.SplashScreenActivity" image="zillow"/>
 
 </Theme>

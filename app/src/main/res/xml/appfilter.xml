@@ -5349,5 +5349,36 @@
     <item component="ComponentInfo{com.cyberlink.photodirector/com.cyberlink.photodirector.SplashActivity}" drawable="photodirector" />
     <item component="ComponentInfo{com.pagopopmobile/com.pagopopmobile.MainActivity}" drawable="spin_by_oxxo" />
     <item component="ComponentInfo{com.wallpaperscraft.wallpaper/com.wallpaperscraft.wallpaper.feature.main.MainActivity}" drawable="wallcraft" />
+    <item component="ComponentInfo{piuk.blockchain.android/piuk.blockchain.android.ui.launcher.LauncherActivity}" drawable="blockchain" />
+    <item component="ComponentInfo{com.creditkarma.mobile/com.creditkarma.mobile.welcome.ui.WelcomeActivity}" drawable="credit_karma" />
+    <item component="ComponentInfo{com.creditonebank.mobile/com.creditonebank.mobile.phase3.onboarding.activity.SplashScreen}" drawable="credit_one" />
+    <item component="ComponentInfo{com.firstprogress/com.firstprogress.ui.splash.SplashActivity}" drawable="firstprogress" />
+    <item component="ComponentInfo{xyz.goodcloud.glinet/xyz.goodcloud.glinet.MainActivity}" drawable="glinet" />
+    <item component="ComponentInfo{com.olo.ihop/com.wearehathway.apps.NomNomStock.Views.Splash.SplashActivity}" drawable="ihop" />
+    <item component="ComponentInfo{com.instacart.client/com.instacart.client.browse.ICBrowseActivity}" drawable="instacart" />
+    <item component="ComponentInfo{com.latch.android.latchapp/com.latch.android.latchapp.screen.splash.SplashActivity}" drawable="latch" />
+    <item component="ComponentInfo{com.wsandroid.suite.tmobile/com.android.mcafee.ui.framework.BaseActivity}" drawable="mcafee_security" />
+    <item component="ComponentInfo{com.lcard_app/com.lcard_app.MainActivity}" drawable="mission_lane" />
+    <item component="ComponentInfo{com.moneylion/com.moneylion.MainActivityDefault}" drawable="moneylion" />
+    <item component="ComponentInfo{me.nanoleaf.nanoleaf/me.nanoleaf.nanoleaf.activities.SplashActivity}" drawable="nanoleaf" />
+    <item component="ComponentInfo{com.pandora.android/com.pandora.android.LauncherActivity}" drawable="pandora" />
+    <item component="ComponentInfo{com.publicstorage.officialapp/crc640c5ad777eafaadde.MainActivity}" drawable="public_storage" />
+    <item component="ComponentInfo{com.move.realtor/com.move.realtor.splash.SplashActivity}" drawable="realtorcom" />
+    <item component="ComponentInfo{com.robinhood.android/com.robinhood.android.activity.WelcomeActivity}" drawable="robinhood" />
+    <item component="ComponentInfo{com.tmobile.services.nameid/com.tmobile.services.nameid.Startup.IdentifyingNumbersActivity}" drawable="scam_shield" />
+    <item component="ComponentInfo{com.samsung.ecomm/com.samsung.ecomm.MainActivity}" drawable="shop_samsung" />
+    <item component="ComponentInfo{com.socialgood_foundation.sg_app_android/com.sg.android.MainActivity}" drawable="socialgood" />
+    <item component="ComponentInfo{com.sofi.mobile/com.sofi.mobile.login.splashscreen.SplashScreenActivity}" drawable="sofi" />
+    <item component="ComponentInfo{com.dna.solitaireapp/com.unity3d.player.UnityPlayerActivity}" drawable="solitaire" />
+    <item component="ComponentInfo{net.supertreat.solitaire/com.playtika.unity.plugincomposition.CompositeActivity}" drawable="supertreat_solitaire" />
+    <item component="ComponentInfo{com.sonder.mahalo/com.sonder.mahalo.MainActivity}" drawable="sonder" />
+    <item component="ComponentInfo{com.samsung.android.tvplus/com.samsung.android.tvplus.MainActivity}" drawable="tv" />
+    <item component="ComponentInfo{com.tmobile.m1/com.sliide.content.MainActivity}" drawable="t_mobile_play" />
+    <item component="ComponentInfo{com.tmobile.vvm.application/com.tmobile.vvm.application.activity.setup.WelcomeActivity}" drawable="t_visual_voicemail" />
+    <item component="ComponentInfo{com.vrbo.android/com.expedia.bookings.activity.SearchActivity}" drawable="vrbo" />
+    <item component="ComponentInfo{com.tripledot.woodoku/com.unity3d.player.UnityPlayerActivity}" drawable="woodoku" />
+    <item component="ComponentInfo{com.hualai/com.hualai.home.StartActivity}" drawable="wyze" />
+    <item component="ComponentInfo{com.izettle.android/com.izettle.android.ActivitySplash}" drawable="zettle" />
+    <item component="ComponentInfo{com.zillow.android.zillowmap/com.zillow.android.re.ui.SplashScreenActivity}" drawable="zillow" />
 
 </resources>
