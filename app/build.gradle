@@ -42,10 +42,11 @@ android {
 		}
 	}
 
-
     sourceSets {
         play {
             java.srcDirs = ['src/play/java/']
+            res.srcDirs = ["src/play/res/"]
+            manifest.srcFile "play/AndroidManifest.xml"
         }
         foss {
             java.srcDirs = ['src/foss/java/']
