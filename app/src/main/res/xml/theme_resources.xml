@@ -5364,5 +5364,6 @@
     <AppIcon name="com.hualai/com.hualai.home.StartActivity" image="wyze"/>
     <AppIcon name="com.izettle.android/com.izettle.android.ActivitySplash" image="zettle"/>
     <AppIcon name="com.zillow.android.zillowmap/com.zillow.android.re.ui.SplashScreenActivity" image="zillow"/>
+    <AppIcon name="leko.valmx.thegameoflife/leko.valmx.thegameoflife.MainActivity" image="game_of_life"/>
 
 </Theme>

@@ -5380,5 +5380,6 @@
     <item component="ComponentInfo{com.hualai/com.hualai.home.StartActivity}" drawable="wyze" />
     <item component="ComponentInfo{com.izettle.android/com.izettle.android.ActivitySplash}" drawable="zettle" />
     <item component="ComponentInfo{com.zillow.android.zillowmap/com.zillow.android.re.ui.SplashScreenActivity}" drawable="zillow" />
+    <item component="ComponentInfo{leko.valmx.thegameoflife/leko.valmx.thegameoflife.MainActivity}" drawable="game_of_life" />
 
 </resources>

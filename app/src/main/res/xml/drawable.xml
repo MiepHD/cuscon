@@ -1869,6 +1869,7 @@
 	<item drawable="futo_voice_input" />
 	<item drawable="fx" />
     <category title="G" />
+    <item drawable="game_of_life" />
     <item drawable="glinet" />
     <item drawable="glovo" />
     <item drawable="goaltracker" />
