@@ -5438,5 +5438,11 @@
     <AppIcon name="br.com.vidaas.sp/br.com.valid.app.rgapp.features.MainActivity" image="rg_digital_sp"/>
     <AppIcon name="com.picturerock.rock/com.glority.android.picturexx.splash.SplashActivity" image="rock_identifier"/>
     <AppIcon name="com.olalab.lockscreen/com.olalab.lockscreen.MainActivity" image="lock_screen"/>
+    <AppIcon name="colorwidgets.ios.widget.topwidgets/colorwidgets.ios.widget.topwidgets.ui.activity.loading.LoadingActivity" image="ios_widgets_iwidgets"/>
+    <AppIcon name="com.circuit.tracker/com.circuit.recipient.ui.MainActivity" image="tracker"/>
+    <AppIcon name="art.widgeet.android/com.leaves.MainActivity" image="widgeet"/>
+    <AppIcon name="com.binarysmith.webclipwidget.ad/com.binarysmith.webclipwidget.MainActivity" image="widgetify"/>
+    <AppIcon name="com.sunrisegiya.grand.passtyocco/com.freeandroidapp.wifiroutersetupnetworkinfo.allwifiroutersettings.routeradminrouter.Activities.Splash" image="wifi_pass_map"/>
+    <AppIcon name="uk.co.yodel.app/uk.co.yodel.app.MainActivity" image="yodel"/>
 
 </Theme>

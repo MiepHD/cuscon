@@ -5454,5 +5454,11 @@
     <item component="ComponentInfo{br.com.vidaas.sp/br.com.valid.app.rgapp.features.MainActivity}" drawable="rg_digital_sp" />
     <item component="ComponentInfo{com.picturerock.rock/com.glority.android.picturexx.splash.SplashActivity}" drawable="rock_identifier" />
     <item component="ComponentInfo{com.olalab.lockscreen/com.olalab.lockscreen.MainActivity}" drawable="lock_screen" />
+    <item component="ComponentInfo{colorwidgets.ios.widget.topwidgets/colorwidgets.ios.widget.topwidgets.ui.activity.loading.LoadingActivity}" drawable="ios_widgets_iwidgets" />
+    <item component="ComponentInfo{com.circuit.tracker/com.circuit.recipient.ui.MainActivity}" drawable="tracker" />
+    <item component="ComponentInfo{art.widgeet.android/com.leaves.MainActivity}" drawable="widgeet" />
+    <item component="ComponentInfo{com.binarysmith.webclipwidget.ad/com.binarysmith.webclipwidget.MainActivity}" drawable="widgetify" />
+    <item component="ComponentInfo{com.sunrisegiya.grand.passtyocco/com.freeandroidapp.wifiroutersetupnetworkinfo.allwifiroutersettings.routeradminrouter.Activities.Splash}" drawable="wifi_pass_map" />
+    <item component="ComponentInfo{uk.co.yodel.app/uk.co.yodel.app.MainActivity}" drawable="yodel" />
 
 </resources>

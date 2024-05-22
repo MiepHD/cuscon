@@ -2236,6 +2236,7 @@
 	<item drawable="hypatia" />
 	<item drawable="hyperrogue_gold" />
     <category title="I" />
+    <item drawable="ios_widgets_iwidgets" />
     <item drawable="ifood" />
     <item drawable="info_bmkg" />
     <item drawable="ihop" />
@@ -4525,6 +4526,7 @@
 	<item drawable="swiss_post" />
 	<item drawable="systemui_tuner" />
     <category title="T" />
+    <item drawable="tracker" />
     <item drawable="trainchinese" />
     <item drawable="tv" />
     <item drawable="t_mobile_play" />
@@ -5012,6 +5014,9 @@
 	<item drawable="vr_banking_app" />
 	<item drawable="vsolution_app" />
     <category title="W" />
+    <item drawable="widgeet" />
+    <item drawable="widgetify" />
+    <item drawable="wifi_pass_map" />
     <item drawable="wallpaper_changer" />
     <item drawable="wyze" />
     <item drawable="wallcraft" />
@@ -5222,6 +5227,7 @@
 	<item drawable="xodo" />
 	<item drawable="xposed_edge" />
     <category title="Y" />
+    <item drawable="yodel" />
     <item drawable="youtube_tv" />
     <item drawable="yelp" />
     <item drawable="youtrack" />
