@@ -5380,5 +5380,11 @@
     <item component="ComponentInfo{com.hualai/com.hualai.home.StartActivity}" drawable="wyze" />
     <item component="ComponentInfo{com.izettle.android/com.izettle.android.ActivitySplash}" drawable="zettle" />
     <item component="ComponentInfo{com.zillow.android.zillowmap/com.zillow.android.re.ui.SplashScreenActivity}" drawable="zillow" />
+    <item component="ComponentInfo{leko.valmx.thegameoflife/leko.valmx.thegameoflife.MainActivity}" drawable="game_of_life" />
+    <item component="ComponentInfo{org.fcitx.fcitx5.android/org.fcitx.fcitx5.android.ui.main.MainActivity}" drawable="fcitx5_for_android" />
+    <item component="ComponentInfo{com.fooddrop.customer/com.tookancustomer.SplashActivity}" drawable="fooddrop" />
+    <item component="ComponentInfo{org.fdroid.nearby/org.fdroid.fdroid.MainActivity}" drawable="f_droid_nearby" />
+    <item component="ComponentInfo{com.hellochinese/com.hellochinese.ui.PreLoadActivity}" drawable="hellochinese" />
+    <item component="ComponentInfo{com.kyocera.kyoprint/com.kyocera.kyoprint.KyoPrintKM}" drawable="kyocera_print" />
 
 </resources>

@@ -1643,6 +1643,9 @@
 	<item drawable="explorer" />
 	<item drawable="exteragram" />
     <category title="F" />
+    <item drawable="fcitx5_for_android" />
+    <item drawable="fooddrop" />
+    <item drawable="f_droid_nearby" />
     <item drawable="firstprogress" />
     <item drawable="flynx" />
     <item drawable="fortuneo" />
@@ -1869,6 +1872,7 @@
 	<item drawable="futo_voice_input" />
 	<item drawable="fx" />
     <category title="G" />
+    <item drawable="game_of_life" />
     <item drawable="glinet" />
     <item drawable="glovo" />
     <item drawable="goaltracker" />
@@ -2066,6 +2070,7 @@
 	<item drawable="gspace" />
 	<item drawable="guerrilla_mail" />
     <category title="H" />
+    <item drawable="hellochinese" />
     <item drawable="hiper_scientific_calculator" />
     <item drawable="headspace" />
     <item drawable="hardlopen_met_evy" />
@@ -2407,6 +2412,7 @@
 	<item drawable="justchess" />
 	<item drawable="justdial" />
     <category title="K" />
+    <item drawable="kyocera_print" />
     <item drawable="kwai" />
     <item drawable="kingschat" />
     <item drawable="kra_paye_calculator_kenya" />
