@@ -5429,5 +5429,6 @@
     <item component="ComponentInfo{com.opera.max.oem/com.opera.max.ui.v2.MainActivity}" drawable="samsung_max" />
     <item component="ComponentInfo{com.gmail.blandilyte.silverdict/com.gmail.blandilyte.silverdict.MainActivity}" drawable="silverdict" />
     <item component="ComponentInfo{com.molatra.trainchinese/com.trainchinese.internal.MainActivity}" drawable="trainchinese" />
+    <item component="ComponentInfo{com.vitotechnology.StarWalk2Free/com.unity3d.player.UnityPlayerActivity}" drawable="star_walk_2" />
 
 </resources>

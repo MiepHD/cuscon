@@ -5413,5 +5413,6 @@
     <AppIcon name="com.opera.max.oem/com.opera.max.ui.v2.MainActivity" image="samsung_max"/>
     <AppIcon name="com.gmail.blandilyte.silverdict/com.gmail.blandilyte.silverdict.MainActivity" image="silverdict"/>
     <AppIcon name="com.molatra.trainchinese/com.trainchinese.internal.MainActivity" image="trainchinese"/>
+    <AppIcon name="com.vitotechnology.StarWalk2Free/com.unity3d.player.UnityPlayerActivity" image="star_walk_2"/>
 
 </Theme>
