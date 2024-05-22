@@ -5423,5 +5423,11 @@
     <item component="ComponentInfo{com.antutu.ABenchMark/com.android.module.app.ui.start.ABenchMarkStart}" drawable="antutu_benchmark" />
     <item component="ComponentInfo{uz.unnarsx.cherrygram/uz.unnarsx.cherrygram.CG_Icon_Sunrise}" drawable="cherrygram" />
     <item component="ComponentInfo{org.fossify.messages/org.fossify.messages.activities.SplashActivity.Light_blue}" drawable="fossify_messages_blue" />
+    <item component="ComponentInfo{com.lgeha.nuts/com.lgeha.nuts.MainActivity}" drawable="lg_thinq" />
+    <item component="ComponentInfo{com.nhn.android.navercafe/com.nhn.android.navercafe.feature.LauncherActivity}" drawable="naver_cafe" />
+    <item component="ComponentInfo{com.nhn.android.naverdic/com.nhn.android.naverdic.WelcomeActivity}" drawable="naver_dictionary" />
+    <item component="ComponentInfo{com.opera.max.oem/com.opera.max.ui.v2.MainActivity}" drawable="samsung_max" />
+    <item component="ComponentInfo{com.gmail.blandilyte.silverdict/com.gmail.blandilyte.silverdict.MainActivity}" drawable="silverdict" />
+    <item component="ComponentInfo{com.molatra.trainchinese/com.trainchinese.internal.MainActivity}" drawable="trainchinese" />
 
 </resources>

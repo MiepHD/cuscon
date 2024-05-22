@@ -5407,5 +5407,11 @@
     <AppIcon name="com.antutu.ABenchMark/com.android.module.app.ui.start.ABenchMarkStart" image="antutu_benchmark"/>
     <AppIcon name="uz.unnarsx.cherrygram/uz.unnarsx.cherrygram.CG_Icon_Sunrise" image="cherrygram"/>
     <AppIcon name="org.fossify.messages/org.fossify.messages.activities.SplashActivity.Light_blue" image="fossify_messages_blue"/>
+    <AppIcon name="com.lgeha.nuts/com.lgeha.nuts.MainActivity" image="lg_thinq"/>
+    <AppIcon name="com.nhn.android.navercafe/com.nhn.android.navercafe.feature.LauncherActivity" image="naver_cafe"/>
+    <AppIcon name="com.nhn.android.naverdic/com.nhn.android.naverdic.WelcomeActivity" image="naver_dictionary"/>
+    <AppIcon name="com.opera.max.oem/com.opera.max.ui.v2.MainActivity" image="samsung_max"/>
+    <AppIcon name="com.gmail.blandilyte.silverdict/com.gmail.blandilyte.silverdict.MainActivity" image="silverdict"/>
+    <AppIcon name="com.molatra.trainchinese/com.trainchinese.internal.MainActivity" image="trainchinese"/>
 
 </Theme>

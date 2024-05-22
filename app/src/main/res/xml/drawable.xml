@@ -2556,6 +2556,7 @@
 	<item drawable="kutumb" />
 	<item drawable="kwgt_pro" />
     <category title="L" />
+    <item drawable="lg_thinq" />
     <item drawable="led_me_know" />
     <item drawable="latch" />
     <item drawable="logo_designer" />
@@ -3141,6 +3142,8 @@
 	<item drawable="mytelkomsel" />
 	<item drawable="myumobile" />
     <category title="N" />
+    <item drawable="naver_cafe" />
+    <item drawable="naver_dictionary" />
     <item drawable="nextpush" />
     <item drawable="nanoleaf" />
     <item drawable="ning" />
@@ -4040,6 +4043,8 @@
 	<item drawable="rustdesk" />
 	<item drawable="rvx_music" />
     <category title="S" />
+    <item drawable="samsung_max" />
+    <item drawable="silverdict" />
     <item drawable="storm_battle" />
     <item drawable="shouter" />
     <item drawable="spotiq_ten" />
@@ -4498,6 +4503,7 @@
 	<item drawable="swiss_post" />
 	<item drawable="systemui_tuner" />
     <category title="T" />
+    <item drawable="trainchinese" />
     <item drawable="tv" />
     <item drawable="t_mobile_play" />
     <item drawable="t_visual_voicemail" />
