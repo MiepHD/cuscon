@@ -5370,5 +5370,9 @@
     <AppIcon name="org.fdroid.nearby/org.fdroid.fdroid.MainActivity" image="f_droid_nearby"/>
     <AppIcon name="com.hellochinese/com.hellochinese.ui.PreLoadActivity" image="hellochinese"/>
     <AppIcon name="com.kyocera.kyoprint/com.kyocera.kyoprint.KyoPrintKM" image="kyocera_print"/>
+    <AppIcon name="com.asda.android/com.asda.android.app.main.view.SplashActivity" image="asda"/>
+    <AppIcon name="com.tritech.network.refresher/com.tritech.network.refresher.Activity.SplashActivity_NativeAd_New" image="auto_signal_refresh"/>
+    <AppIcon name="com.gojauntly.app/com.gojauntly.app.MainActivity" image="go_jauntly"/>
+    <AppIcon name="voicechanger.voiceeffects.soundeffects.voiceavatar/app.better.voicechange.activity.SplashActivity" image="voice_changer"/>
 
 </Theme>

@@ -252,6 +252,8 @@
     <item drawable="google_wifi" />
     <item drawable="googleassistant2" />
     <category title="A" />
+    <item drawable="asda" />
+    <item drawable="auto_signal_refresh" />
     <item drawable="aldiko_classic" />
     <item drawable="around" />
     <item drawable="appareil_photo" />
@@ -1872,6 +1874,7 @@
 	<item drawable="futo_voice_input" />
 	<item drawable="fx" />
     <category title="G" />
+    <item drawable="go_jauntly" />
     <item drawable="game_of_life" />
     <item drawable="glinet" />
     <item drawable="glovo" />
@@ -4823,6 +4826,7 @@
 	<item drawable="utiles" />
 	<item drawable="utilidades_amaze" />
     <category title="V" />
+    <item drawable="voice_changer" />
     <item drawable="vrbo" />
     <item drawable="video_mp3_converter" />
     <item drawable="video_splitter" />

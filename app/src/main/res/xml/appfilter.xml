@@ -5386,5 +5386,9 @@
     <item component="ComponentInfo{org.fdroid.nearby/org.fdroid.fdroid.MainActivity}" drawable="f_droid_nearby" />
     <item component="ComponentInfo{com.hellochinese/com.hellochinese.ui.PreLoadActivity}" drawable="hellochinese" />
     <item component="ComponentInfo{com.kyocera.kyoprint/com.kyocera.kyoprint.KyoPrintKM}" drawable="kyocera_print" />
+    <item component="ComponentInfo{com.asda.android/com.asda.android.app.main.view.SplashActivity}" drawable="asda" />
+    <item component="ComponentInfo{com.tritech.network.refresher/com.tritech.network.refresher.Activity.SplashActivity_NativeAd_New}" drawable="auto_signal_refresh" />
+    <item component="ComponentInfo{com.gojauntly.app/com.gojauntly.app.MainActivity}" drawable="go_jauntly" />
+    <item component="ComponentInfo{voicechanger.voiceeffects.soundeffects.voiceavatar/app.better.voicechange.activity.SplashActivity}" drawable="voice_changer" />
 
 </resources>
