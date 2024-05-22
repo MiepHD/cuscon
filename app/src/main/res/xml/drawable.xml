@@ -890,6 +890,7 @@
 	<item drawable="bycs_drive" />
     <item drawable="ballozi_skynox" />
     <category title="C" />
+    <item drawable="cuaca" />
     <item drawable="coin" />
     <item drawable="cube_acr_helper" />
     <item drawable="credit_karma" />
@@ -1651,6 +1652,7 @@
 	<item drawable="explorer" />
 	<item drawable="exteragram" />
     <category title="F" />
+    <item drawable="flyy" />
     <item drawable="fetch" />
     <item drawable="fcitx5_for_android" />
     <item drawable="fooddrop" />
@@ -2225,6 +2227,7 @@
 	<item drawable="hypatia" />
 	<item drawable="hyperrogue_gold" />
     <category title="I" />
+    <item drawable="info_bmkg" />
     <item drawable="ihop" />
     <item drawable="instacart" />
     <item drawable="i2pd" />
@@ -2364,6 +2367,7 @@
 	<item drawable="ir_remote" />
 	<item drawable="iron" />
     <category title="J" />
+    <item drawable="jam" />
     <item drawable="jrdcom_filemanager" />
     <item drawable="jaumo" />
     <item drawable="jisho" />
@@ -2423,6 +2427,7 @@
 	<item drawable="justchess" />
 	<item drawable="justdial" />
     <category title="K" />
+    <item drawable="kontak" />
     <item drawable="kyocera_print" />
     <item drawable="kwai" />
     <item drawable="kingschat" />
@@ -2699,6 +2704,7 @@
 	<item drawable="lucky_wasted" />
 	<item drawable="lux_o_meter_lichtmesser" />
     <category title="M" />
+    <item drawable="my_indihome" />
     <item drawable="mcafee_security" />
     <item drawable="mission_lane" />
     <item drawable="moneylion" />
@@ -3462,6 +3468,9 @@
 	<item drawable="ovag_e_mobil" />
 	<item drawable="owlfiles" />
     <category title="P" />
+    <item drawable="pemindai_cerdas" />
+    <item drawable="pemutar_visha" />
+    <item drawable="pesan" />
     <item drawable="pandora" />
     <item drawable="public_storage" />
     <item drawable="photodirector" />
@@ -3782,6 +3791,7 @@
 	<item drawable="puzzles" />
 	<item drawable="pysolfc" />
     <category title="Q" />
+    <item drawable="qurrotul_uyun_fathul_izar_uqudu_lujain_terjemahan" />
     <item drawable="questmobile" />
     <item drawable="qbitcontroller" />
     <item drawable="quien_esta_en_mi_wifi" />
@@ -4026,6 +4036,7 @@
 	<item drawable="rustdesk" />
 	<item drawable="rvx_music" />
     <category title="S" />
+    <item drawable="storm_battle" />
     <item drawable="shouter" />
     <item drawable="spotiq_ten" />
     <item drawable="scam_shield" />
@@ -5145,6 +5156,7 @@
 	<item drawable="wx" />
 	<item drawable="wynk_music" />
     <category title="X" />
+    <item drawable="xystv" />
     <item drawable="xtra" />
     <item drawable="xbrowsersync" />
     <item drawable="x_gamepad_tester" />

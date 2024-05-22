@@ -5388,5 +5388,19 @@
     <AppIcon name="com.frack.spotiqten/com.frack.spotiqten.SplashActivity" image="spotiq_ten"/>
     <AppIcon name="de.j4velin.wallpaperChanger/de.j4velin.wallpaperChanger.settings.Settings" image="wallpaper_changer"/>
     <AppIcon name="org.unifiedpush.distributor.nextpush/org.unifiedpush.distributor.nextpush.activities.StartActivity" image="nextpush"/>
+    <AppIcon name="com.shopee.id/com.shopee.app.ui.home.HomeActivity_" image="shopee"/>
+    <AppIcon name="com.sh.smart.caller/com.android.dialer.ContactMainActivity" image="kontak"/>
+    <AppIcon name="com.sh.smart.caller/com.android.dialer.main.impl.MainActivity" image="kontak"/>
+    <AppIcon name="com.rlk.weathers/com.rlk.weathers.ui.main.MainActivity" image="cuaca"/>
+    <AppIcon name="com.caij.twiper/com.caij.twiper.activity.MainActivity" image="flyy"/>
+    <AppIcon name="com.Info_BMKG/com.Info_BMKG.MainActivity" image="info_bmkg"/>
+    <AppIcon name="com.transsion.deskclock/com.transsion.deskclock.DeskClock" image="jam"/>
+    <AppIcon name="com.telkom.indihome.external/com.telkom.indihome.external.presentation.onboarding.SplashActivity" image="my_indihome"/>
+    <AppIcon name="com.transsion.scanningrecharger/com.transsion.scanningrecharger.view.activity.textrecognized.TextRecognizedActivity" image="pemindai_cerdas"/>
+    <AppIcon name="com.transsion.magicshow/com.transsion.magicmovie.activity.TRSplashActivity" image="pemutar_visha"/>
+    <AppIcon name="com.transsion.smartmessage/com.android.messaging.ui.conversationlist.ConversationListActivity" image="pesan"/>
+    <AppIcon name="com.kitabterjemahan.ifajrus/com.kitabterjemahan.ifajrus.MainActivity" image="qurrotul_uyun_fathul_izar_uqudu_lujain_terjemahan"/>
+    <AppIcon name="com.seal.ninjia.ol/com.channel.play.LZUnityContext" image="storm_battle"/>
+    <AppIcon name="com.xys.tv/com.xys.tv.preinicio" image="xystv"/>
 
 </Theme>

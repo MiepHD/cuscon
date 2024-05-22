@@ -5404,5 +5404,19 @@
     <item component="ComponentInfo{com.frack.spotiqten/com.frack.spotiqten.SplashActivity}" drawable="spotiq_ten" />
     <item component="ComponentInfo{de.j4velin.wallpaperChanger/de.j4velin.wallpaperChanger.settings.Settings}" drawable="wallpaper_changer" />
     <item component="ComponentInfo{org.unifiedpush.distributor.nextpush/org.unifiedpush.distributor.nextpush.activities.StartActivity}" drawable="nextpush" />
+    <item component="ComponentInfo{com.shopee.id/com.shopee.app.ui.home.HomeActivity_}" drawable="shopee" />
+    <item component="ComponentInfo{com.sh.smart.caller/com.android.dialer.ContactMainActivity}" drawable="kontak" />
+    <item component="ComponentInfo{com.sh.smart.caller/com.android.dialer.main.impl.MainActivity}" drawable="kontak" />
+    <item component="ComponentInfo{com.rlk.weathers/com.rlk.weathers.ui.main.MainActivity}" drawable="cuaca" />
+    <item component="ComponentInfo{com.caij.twiper/com.caij.twiper.activity.MainActivity}" drawable="flyy" />
+    <item component="ComponentInfo{com.Info_BMKG/com.Info_BMKG.MainActivity}" drawable="info_bmkg" />
+    <item component="ComponentInfo{com.transsion.deskclock/com.transsion.deskclock.DeskClock}" drawable="jam" />
+    <item component="ComponentInfo{com.telkom.indihome.external/com.telkom.indihome.external.presentation.onboarding.SplashActivity}" drawable="my_indihome" />
+    <item component="ComponentInfo{com.transsion.scanningrecharger/com.transsion.scanningrecharger.view.activity.textrecognized.TextRecognizedActivity}" drawable="pemindai_cerdas" />
+    <item component="ComponentInfo{com.transsion.magicshow/com.transsion.magicmovie.activity.TRSplashActivity}" drawable="pemutar_visha" />
+    <item component="ComponentInfo{com.transsion.smartmessage/com.android.messaging.ui.conversationlist.ConversationListActivity}" drawable="pesan" />
+    <item component="ComponentInfo{com.kitabterjemahan.ifajrus/com.kitabterjemahan.ifajrus.MainActivity}" drawable="qurrotul_uyun_fathul_izar_uqudu_lujain_terjemahan" />
+    <item component="ComponentInfo{com.seal.ninjia.ol/com.channel.play.LZUnityContext}" drawable="storm_battle" />
+    <item component="ComponentInfo{com.xys.tv/com.xys.tv.preinicio}" drawable="xystv" />
 
 </resources>
