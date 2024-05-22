@@ -5444,5 +5444,7 @@
     <AppIcon name="com.binarysmith.webclipwidget.ad/com.binarysmith.webclipwidget.MainActivity" image="widgetify"/>
     <AppIcon name="com.sunrisegiya.grand.passtyocco/com.freeandroidapp.wifiroutersetupnetworkinfo.allwifiroutersettings.routeradminrouter.Activities.Splash" image="wifi_pass_map"/>
     <AppIcon name="uk.co.yodel.app/uk.co.yodel.app.MainActivity" image="yodel"/>
+    <AppIcon name="com.oneplus.gallery/com.oneplus.gallery.app.MainActivity" image="oneplus_photos"/>
+    <AppIcon name="com.oneplus.brickmode/com.oneplus.brickmode.activity.MainControlActivity" image="zen_mode"/>
 
 </Theme>

@@ -3336,6 +3336,7 @@
 	<item drawable="nozzle" />
 	<item drawable="nytimes" />
     <category title="O" />
+    <item drawable="oneplus_photos" />
     <item drawable="official_twrp_app" />
     <item drawable="opening_wifi" />
     <item drawable="orange_flex" />
@@ -5270,6 +5271,7 @@
 	<item drawable="yuka" />
 	<item drawable="yuzu_browser" />
     <category title="Z" />
+    <item drawable="zen_mode" />
     <item drawable="zettle" />
     <item drawable="zillow" />
     <item drawable="ziraat_mobil" />

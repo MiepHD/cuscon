@@ -5460,5 +5460,7 @@
     <item component="ComponentInfo{com.binarysmith.webclipwidget.ad/com.binarysmith.webclipwidget.MainActivity}" drawable="widgetify" />
     <item component="ComponentInfo{com.sunrisegiya.grand.passtyocco/com.freeandroidapp.wifiroutersetupnetworkinfo.allwifiroutersettings.routeradminrouter.Activities.Splash}" drawable="wifi_pass_map" />
     <item component="ComponentInfo{uk.co.yodel.app/uk.co.yodel.app.MainActivity}" drawable="yodel" />
+    <item component="ComponentInfo{com.oneplus.gallery/com.oneplus.gallery.app.MainActivity}" drawable="oneplus_photos" />
+    <item component="ComponentInfo{com.oneplus.brickmode/com.oneplus.brickmode.activity.MainControlActivity}" drawable="zen_mode" />
 
 </resources>
