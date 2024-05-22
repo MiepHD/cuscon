@@ -5414,5 +5414,28 @@
     <AppIcon name="com.gmail.blandilyte.silverdict/com.gmail.blandilyte.silverdict.MainActivity" image="silverdict"/>
     <AppIcon name="com.molatra.trainchinese/com.trainchinese.internal.MainActivity" image="trainchinese"/>
     <AppIcon name="com.vitotechnology.StarWalk2Free/com.unity3d.player.UnityPlayerActivity" image="star_walk_2"/>
+    <AppIcon name="com.siwalusoftware.catscanner/com.siwalusoftware.scanner.activities.MainActivity" image="cat_scanner"/>
+    <AppIcon name="eu.siacs.conversations/eu.siacs.conversations.ui.ConversationActivity" image="conversations"/>
+    <AppIcon name="com.siwalusoftware.dogscanner/com.siwalusoftware.scanner.activities.MainActivity" image="dog_scanner"/>
+    <AppIcon name="com.ilyin.geomi/com.ilyin.app_google_core.GoogleAppActivity" image="geomi"/>
+    <AppIcon name="com.simplemobiletools.filemanager.pro/com.simplemobiletools.filemanager.pro.activities.SplashActivity.Light_blue" image="gerenciador_de_arquivos"/>
+    <AppIcon name="com.ionicframework.tarot371308/com.ionicframework.tarot371308.MainActivity" image="golden_thread_tarot"/>
+    <AppIcon name="br.com.brainweb.ifood/br.com.ifood.activity.HomeActivity" image="ifood"/>
+    <AppIcon name="com.labyrinthos.app/com.labyrinthos.app.MainActivity" image="labyrinthos"/>
+    <AppIcon name="com.mapswithme.maps.pro/com.mapswithme.maps.pro.DefaultIcon" image="mapsme"/>
+    <AppIcon name="net.gsantner.markor/net.gsantner.markor.activity.MainActivity" image="markor"/>
+    <AppIcon name="br.com.timbrasil.meutim/com.accenture.meutim.activities.SplashScreenActivity" image="meu_tim"/>
+    <AppIcon name="com.jrustonapps.mymoonphase/com.jrustonapps.mymoonphase.controllers.MainActivity" image="moon"/>
+    <AppIcon name="com.nespresso.activities/com.nespresso.ui.activity.LaunchActivity" image="nespresso"/>
+    <AppIcon name="com.mirofox.numerologija/com.mirofox.numerologija.activities.MainActivity" image="numerologia"/>
+    <AppIcon name="com.picpay/com.picpay.features.enter.ReleasePicPayEnter" image="picpay"/>
+    <AppIcon name="com.glority.picturebird/com.glority.android.picturexx.splash.SplashActivity" image="picture_bird"/>
+    <AppIcon name="com.glority.picturemushroom/com.glority.android.picturexx.splash.SplashActivity" image="picture_mushroom"/>
+    <AppIcon name="com.simplemobiletools.musicplayer/com.simplemobiletools.musicplayer.activities.SplashActivity.Light_blue" image="player_de_musica"/>
+    <AppIcon name="com.obreey.reader/com.obreey.reader.StartActivity" image="pocketbook"/>
+    <AppIcon name="com.playstation.remoteplay/com.playstation.remoteplay.RpActivityMain" image="ps_remote_play"/>
+    <AppIcon name="com.randonautica.app/com.randonautica.app.LaunchLoadingActivity" image="randonautica"/>
+    <AppIcon name="br.com.vidaas.sp/br.com.valid.app.rgapp.features.MainActivity" image="rg_digital_sp"/>
+    <AppIcon name="com.picturerock.rock/com.glority.android.picturexx.splash.SplashActivity" image="rock_identifier"/>
 
 </Theme>

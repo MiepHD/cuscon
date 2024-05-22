@@ -892,6 +892,8 @@
 	<item drawable="bycs_drive" />
     <item drawable="ballozi_skynox" />
     <category title="C" />
+    <item drawable="cat_scanner" />
+    <item drawable="conversations" />
     <item drawable="cherrygram" />
     <item drawable="cuaca" />
     <item drawable="coin" />
@@ -1228,6 +1230,7 @@
 	<item drawable="cubic_2_3_4_player_games" />
 	<item drawable="currencies" />
     <category title="D" />
+    <item drawable="dog_scanner" />
     <item drawable="default_app_manager_lite" />
     <item drawable="droid_dashcam" />
     <item drawable="descargador_de_video" />
@@ -1887,6 +1890,8 @@
 	<item drawable="futo_voice_input" />
 	<item drawable="fx" />
     <category title="G" />
+    <item drawable="gerenciador_de_arquivos" />
+    <item drawable="golden_thread_tarot" />
     <item drawable="go_jauntly" />
     <item drawable="game_of_life" />
     <item drawable="glinet" />
@@ -2231,6 +2236,7 @@
 	<item drawable="hypatia" />
 	<item drawable="hyperrogue_gold" />
     <category title="I" />
+    <item drawable="ifood" />
     <item drawable="info_bmkg" />
     <item drawable="ihop" />
     <item drawable="instacart" />
@@ -2556,6 +2562,7 @@
 	<item drawable="kutumb" />
 	<item drawable="kwgt_pro" />
     <category title="L" />
+    <item drawable="labyrinthos" />
     <item drawable="lg_thinq" />
     <item drawable="led_me_know" />
     <item drawable="latch" />
@@ -2709,6 +2716,10 @@
 	<item drawable="lucky_wasted" />
 	<item drawable="lux_o_meter_lichtmesser" />
     <category title="M" />
+    <item drawable="mapsme" />
+    <item drawable="markor" />
+    <item drawable="meu_tim" />
+    <item drawable="moon" />
     <item drawable="my_indihome" />
     <item drawable="mcafee_security" />
     <item drawable="mission_lane" />
@@ -3142,6 +3153,8 @@
 	<item drawable="mytelkomsel" />
 	<item drawable="myumobile" />
     <category title="N" />
+    <item drawable="nespresso" />
+    <item drawable="numerologia" />
     <item drawable="naver_cafe" />
     <item drawable="naver_dictionary" />
     <item drawable="nextpush" />
@@ -3475,6 +3488,12 @@
 	<item drawable="ovag_e_mobil" />
 	<item drawable="owlfiles" />
     <category title="P" />
+    <item drawable="picpay" />
+    <item drawable="picture_bird" />
+    <item drawable="picture_mushroom" />
+    <item drawable="player_de_musica" />
+    <item drawable="pocketbook" />
+    <item drawable="ps_remote_play" />
     <item drawable="pemindai_cerdas" />
     <item drawable="pemutar_visha" />
     <item drawable="pesan" />
@@ -3844,6 +3863,9 @@
 	<item drawable="quik" />
 	<item drawable="quillpad" />
     <category title="R" />
+    <item drawable="randonautica" />
+    <item drawable="rg_digital_sp" />
+    <item drawable="rock_identifier" />
     <item drawable="rocket_money" />
     <item drawable="realtorcom" />
     <item drawable="robinhood" />

@@ -5430,5 +5430,28 @@
     <item component="ComponentInfo{com.gmail.blandilyte.silverdict/com.gmail.blandilyte.silverdict.MainActivity}" drawable="silverdict" />
     <item component="ComponentInfo{com.molatra.trainchinese/com.trainchinese.internal.MainActivity}" drawable="trainchinese" />
     <item component="ComponentInfo{com.vitotechnology.StarWalk2Free/com.unity3d.player.UnityPlayerActivity}" drawable="star_walk_2" />
+    <item component="ComponentInfo{com.siwalusoftware.catscanner/com.siwalusoftware.scanner.activities.MainActivity}" drawable="cat_scanner" />
+    <item component="ComponentInfo{eu.siacs.conversations/eu.siacs.conversations.ui.ConversationActivity}" drawable="conversations" />
+    <item component="ComponentInfo{com.siwalusoftware.dogscanner/com.siwalusoftware.scanner.activities.MainActivity}" drawable="dog_scanner" />
+    <item component="ComponentInfo{com.ilyin.geomi/com.ilyin.app_google_core.GoogleAppActivity}" drawable="geomi" />
+    <item component="ComponentInfo{com.simplemobiletools.filemanager.pro/com.simplemobiletools.filemanager.pro.activities.SplashActivity.Light_blue}" drawable="gerenciador_de_arquivos" />
+    <item component="ComponentInfo{com.ionicframework.tarot371308/com.ionicframework.tarot371308.MainActivity}" drawable="golden_thread_tarot" />
+    <item component="ComponentInfo{br.com.brainweb.ifood/br.com.ifood.activity.HomeActivity}" drawable="ifood" />
+    <item component="ComponentInfo{com.labyrinthos.app/com.labyrinthos.app.MainActivity}" drawable="labyrinthos" />
+    <item component="ComponentInfo{com.mapswithme.maps.pro/com.mapswithme.maps.pro.DefaultIcon}" drawable="mapsme" />
+    <item component="ComponentInfo{net.gsantner.markor/net.gsantner.markor.activity.MainActivity}" drawable="markor" />
+    <item component="ComponentInfo{br.com.timbrasil.meutim/com.accenture.meutim.activities.SplashScreenActivity}" drawable="meu_tim" />
+    <item component="ComponentInfo{com.jrustonapps.mymoonphase/com.jrustonapps.mymoonphase.controllers.MainActivity}" drawable="moon" />
+    <item component="ComponentInfo{com.nespresso.activities/com.nespresso.ui.activity.LaunchActivity}" drawable="nespresso" />
+    <item component="ComponentInfo{com.mirofox.numerologija/com.mirofox.numerologija.activities.MainActivity}" drawable="numerologia" />
+    <item component="ComponentInfo{com.picpay/com.picpay.features.enter.ReleasePicPayEnter}" drawable="picpay" />
+    <item component="ComponentInfo{com.glority.picturebird/com.glority.android.picturexx.splash.SplashActivity}" drawable="picture_bird" />
+    <item component="ComponentInfo{com.glority.picturemushroom/com.glority.android.picturexx.splash.SplashActivity}" drawable="picture_mushroom" />
+    <item component="ComponentInfo{com.simplemobiletools.musicplayer/com.simplemobiletools.musicplayer.activities.SplashActivity.Light_blue}" drawable="player_de_musica" />
+    <item component="ComponentInfo{com.obreey.reader/com.obreey.reader.StartActivity}" drawable="pocketbook" />
+    <item component="ComponentInfo{com.playstation.remoteplay/com.playstation.remoteplay.RpActivityMain}" drawable="ps_remote_play" />
+    <item component="ComponentInfo{com.randonautica.app/com.randonautica.app.LaunchLoadingActivity}" drawable="randonautica" />
+    <item component="ComponentInfo{br.com.vidaas.sp/br.com.valid.app.rgapp.features.MainActivity}" drawable="rg_digital_sp" />
+    <item component="ComponentInfo{com.picturerock.rock/com.glority.android.picturexx.splash.SplashActivity}" drawable="rock_identifier" />
 
 </resources>
