@@ -1655,6 +1655,7 @@
 	<item drawable="explorer" />
 	<item drawable="exteragram" />
     <category title="F" />
+    <item drawable="fossify_messages_blue" />
     <item drawable="flyy" />
     <item drawable="fetch" />
     <item drawable="fcitx5_for_android" />

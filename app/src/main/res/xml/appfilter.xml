@@ -5422,5 +5422,6 @@
     <item component="ComponentInfo{com.antutu.benchmark.full.lite/com.android.module.graphics.app.MainActivity}" drawable="antutu_3dbench_lite" />
     <item component="ComponentInfo{com.antutu.ABenchMark/com.android.module.app.ui.start.ABenchMarkStart}" drawable="antutu_benchmark" />
     <item component="ComponentInfo{uz.unnarsx.cherrygram/uz.unnarsx.cherrygram.CG_Icon_Sunrise}" drawable="cherrygram" />
+    <item component="ComponentInfo{org.fossify.messages/org.fossify.messages.activities.SplashActivity.Light_blue}" drawable="fossify_messages_blue" />
 
 </resources>

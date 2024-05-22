@@ -5406,5 +5406,6 @@
     <AppIcon name="com.antutu.benchmark.full.lite/com.android.module.graphics.app.MainActivity" image="antutu_3dbench_lite"/>
     <AppIcon name="com.antutu.ABenchMark/com.android.module.app.ui.start.ABenchMarkStart" image="antutu_benchmark"/>
     <AppIcon name="uz.unnarsx.cherrygram/uz.unnarsx.cherrygram.CG_Icon_Sunrise" image="cherrygram"/>
+    <AppIcon name="org.fossify.messages/org.fossify.messages.activities.SplashActivity.Light_blue" image="fossify_messages_blue"/>
 
 </Theme>
