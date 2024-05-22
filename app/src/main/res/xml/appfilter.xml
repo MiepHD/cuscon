@@ -5418,5 +5418,6 @@
     <item component="ComponentInfo{com.kitabterjemahan.ifajrus/com.kitabterjemahan.ifajrus.MainActivity}" drawable="qurrotul_uyun_fathul_izar_uqudu_lujain_terjemahan" />
     <item component="ComponentInfo{com.seal.ninjia.ol/com.channel.play.LZUnityContext}" drawable="storm_battle" />
     <item component="ComponentInfo{com.xys.tv/com.xys.tv.preinicio}" drawable="xystv" />
+    <item component="ComponentInfo{com.fmwhatsapp/com.fmwhatsapp.Icon0}" drawable="whatsapp" />
 
 </resources>
