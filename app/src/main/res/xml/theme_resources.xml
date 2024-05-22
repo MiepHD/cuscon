@@ -5403,5 +5403,8 @@
     <AppIcon name="com.seal.ninjia.ol/com.channel.play.LZUnityContext" image="storm_battle"/>
     <AppIcon name="com.xys.tv/com.xys.tv.preinicio" image="xystv"/>
     <AppIcon name="com.fmwhatsapp/com.fmwhatsapp.Icon0" image="whatsapp"/>
+    <AppIcon name="com.antutu.benchmark.full.lite/com.android.module.graphics.app.MainActivity" image="antutu_3dbench_lite"/>
+    <AppIcon name="com.antutu.ABenchMark/com.android.module.app.ui.start.ABenchMarkStart" image="antutu_benchmark"/>
+    <AppIcon name="uz.unnarsx.cherrygram/uz.unnarsx.cherrygram.CG_Icon_Sunrise" image="cherrygram"/>
 
 </Theme>

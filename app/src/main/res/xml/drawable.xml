@@ -252,6 +252,8 @@
     <item drawable="google_wifi" />
     <item drawable="googleassistant2" />
     <category title="A" />
+    <item drawable="antutu_3dbench_lite" />
+    <item drawable="antutu_benchmark" />
     <item drawable="app_share" />
     <item drawable="autoguard" />
     <item drawable="asda" />
@@ -890,6 +892,7 @@
 	<item drawable="bycs_drive" />
     <item drawable="ballozi_skynox" />
     <category title="C" />
+    <item drawable="cherrygram" />
     <item drawable="cuaca" />
     <item drawable="coin" />
     <item drawable="cube_acr_helper" />
