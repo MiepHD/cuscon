@@ -5403,5 +5403,6 @@
     <item component="ComponentInfo{com.bhkapps.proshouter/com.bhkapps.shouter.ui.ShouterActivity}" drawable="shouter" />
     <item component="ComponentInfo{com.frack.spotiqten/com.frack.spotiqten.SplashActivity}" drawable="spotiq_ten" />
     <item component="ComponentInfo{de.j4velin.wallpaperChanger/de.j4velin.wallpaperChanger.settings.Settings}" drawable="wallpaper_changer" />
+    <item component="ComponentInfo{org.unifiedpush.distributor.nextpush/org.unifiedpush.distributor.nextpush.activities.StartActivity}" drawable="nextpush" />
 
 </resources>

@@ -5387,5 +5387,6 @@
     <AppIcon name="com.bhkapps.proshouter/com.bhkapps.shouter.ui.ShouterActivity" image="shouter"/>
     <AppIcon name="com.frack.spotiqten/com.frack.spotiqten.SplashActivity" image="spotiq_ten"/>
     <AppIcon name="de.j4velin.wallpaperChanger/de.j4velin.wallpaperChanger.settings.Settings" image="wallpaper_changer"/>
+    <AppIcon name="org.unifiedpush.distributor.nextpush/org.unifiedpush.distributor.nextpush.activities.StartActivity" image="nextpush"/>
 
 </Theme>

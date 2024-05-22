@@ -3131,6 +3131,7 @@
 	<item drawable="mytelkomsel" />
 	<item drawable="myumobile" />
     <category title="N" />
+    <item drawable="nextpush" />
     <item drawable="nanoleaf" />
     <item drawable="ning" />
     <item drawable="nrf_connect" />
