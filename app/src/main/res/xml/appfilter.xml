@@ -5390,5 +5390,18 @@
     <item component="ComponentInfo{com.tritech.network.refresher/com.tritech.network.refresher.Activity.SplashActivity_NativeAd_New}" drawable="auto_signal_refresh" />
     <item component="ComponentInfo{com.gojauntly.app/com.gojauntly.app.MainActivity}" drawable="go_jauntly" />
     <item component="ComponentInfo{voicechanger.voiceeffects.soundeffects.voiceavatar/app.better.voicechange.activity.SplashActivity}" drawable="voice_changer" />
+    <item component="ComponentInfo{com.taskmanager.appshare/com.taskmanager.appshare.MainActivity}" drawable="app_share" />
+    <item component="ComponentInfo{com.hovans.autoguard/com.hovans.autoguard.ui.HomeActivity}" drawable="autoguard" />
+    <item component="ComponentInfo{network.xyo.coin/network.xyo.coin.LoginActivity}" drawable="coin" />
+    <item component="ComponentInfo{com.catalinagroup.callrecorder.helper/com.catalinagroup.callrecorder.AppListActivityAlias}" drawable="cube_acr_helper" />
+    <item component="ComponentInfo{com.webserveis.app.defaultappmanager/com.webserveis.app.defaultappmanager.MainActivity}" drawable="default_app_manager_lite" />
+    <item component="ComponentInfo{com.helge.droiddashcam/com.helge.droiddashcam.ui.rec.RecActivity}" drawable="droid_dashcam" />
+    <item component="ComponentInfo{com.fetchrewards.fetchrewards.hop/com.fetchrewards.fetchrewards.splash.activities.SplashActivity}" drawable="fetch" />
+    <item component="ComponentInfo{com.webascender.callerid/com.hiya.stingray.features.splash.presentation.SplashActivity}" drawable="hiya" />
+    <item component="ComponentInfo{com.anker.ledmeknow/com.anker.ledmeknow.activity.MainActivity}" drawable="led_me_know" />
+    <item component="ComponentInfo{com.truebill/com.truebill.MainActivity}" drawable="rocket_money" />
+    <item component="ComponentInfo{com.bhkapps.proshouter/com.bhkapps.shouter.ui.ShouterActivity}" drawable="shouter" />
+    <item component="ComponentInfo{com.frack.spotiqten/com.frack.spotiqten.SplashActivity}" drawable="spotiq_ten" />
+    <item component="ComponentInfo{de.j4velin.wallpaperChanger/de.j4velin.wallpaperChanger.settings.Settings}" drawable="wallpaper_changer" />
 
 </resources>

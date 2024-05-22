@@ -252,6 +252,8 @@
     <item drawable="google_wifi" />
     <item drawable="googleassistant2" />
     <category title="A" />
+    <item drawable="app_share" />
+    <item drawable="autoguard" />
     <item drawable="asda" />
     <item drawable="auto_signal_refresh" />
     <item drawable="aldiko_classic" />
@@ -888,6 +890,8 @@
 	<item drawable="bycs_drive" />
     <item drawable="ballozi_skynox" />
     <category title="C" />
+    <item drawable="coin" />
+    <item drawable="cube_acr_helper" />
     <item drawable="credit_karma" />
     <item drawable="credit_one" />
     <item drawable="calculo_de_prestamos" />
@@ -1220,6 +1224,8 @@
 	<item drawable="cubic_2_3_4_player_games" />
 	<item drawable="currencies" />
     <category title="D" />
+    <item drawable="default_app_manager_lite" />
+    <item drawable="droid_dashcam" />
     <item drawable="descargador_de_video" />
     <item drawable="docs_to_go" />
     <item drawable="desjardins" />
@@ -1645,6 +1651,7 @@
 	<item drawable="explorer" />
 	<item drawable="exteragram" />
     <category title="F" />
+    <item drawable="fetch" />
     <item drawable="fcitx5_for_android" />
     <item drawable="fooddrop" />
     <item drawable="f_droid_nearby" />
@@ -2073,6 +2080,7 @@
 	<item drawable="gspace" />
 	<item drawable="guerrilla_mail" />
     <category title="H" />
+    <item drawable="hiya" />
     <item drawable="hellochinese" />
     <item drawable="hiper_scientific_calculator" />
     <item drawable="headspace" />
@@ -2539,6 +2547,7 @@
 	<item drawable="kutumb" />
 	<item drawable="kwgt_pro" />
     <category title="L" />
+    <item drawable="led_me_know" />
     <item drawable="latch" />
     <item drawable="logo_designer" />
     <item drawable="linux_deploy" />
@@ -3817,6 +3826,7 @@
 	<item drawable="quik" />
 	<item drawable="quillpad" />
     <category title="R" />
+    <item drawable="rocket_money" />
     <item drawable="realtorcom" />
     <item drawable="robinhood" />
     <item drawable="removebg" />
@@ -4015,6 +4025,8 @@
 	<item drawable="rustdesk" />
 	<item drawable="rvx_music" />
     <category title="S" />
+    <item drawable="shouter" />
+    <item drawable="spotiq_ten" />
     <item drawable="scam_shield" />
     <item drawable="shop_samsung" />
     <item drawable="socialgood" />
@@ -4956,6 +4968,7 @@
 	<item drawable="vr_banking_app" />
 	<item drawable="vsolution_app" />
     <category title="W" />
+    <item drawable="wallpaper_changer" />
     <item drawable="wyze" />
     <item drawable="wallcraft" />
     <item drawable="workout_pro" />

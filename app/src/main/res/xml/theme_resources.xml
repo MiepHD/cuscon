@@ -5374,5 +5374,18 @@
     <AppIcon name="com.tritech.network.refresher/com.tritech.network.refresher.Activity.SplashActivity_NativeAd_New" image="auto_signal_refresh"/>
     <AppIcon name="com.gojauntly.app/com.gojauntly.app.MainActivity" image="go_jauntly"/>
     <AppIcon name="voicechanger.voiceeffects.soundeffects.voiceavatar/app.better.voicechange.activity.SplashActivity" image="voice_changer"/>
+    <AppIcon name="com.taskmanager.appshare/com.taskmanager.appshare.MainActivity" image="app_share"/>
+    <AppIcon name="com.hovans.autoguard/com.hovans.autoguard.ui.HomeActivity" image="autoguard"/>
+    <AppIcon name="network.xyo.coin/network.xyo.coin.LoginActivity" image="coin"/>
+    <AppIcon name="com.catalinagroup.callrecorder.helper/com.catalinagroup.callrecorder.AppListActivityAlias" image="cube_acr_helper"/>
+    <AppIcon name="com.webserveis.app.defaultappmanager/com.webserveis.app.defaultappmanager.MainActivity" image="default_app_manager_lite"/>
+    <AppIcon name="com.helge.droiddashcam/com.helge.droiddashcam.ui.rec.RecActivity" image="droid_dashcam"/>
+    <AppIcon name="com.fetchrewards.fetchrewards.hop/com.fetchrewards.fetchrewards.splash.activities.SplashActivity" image="fetch"/>
+    <AppIcon name="com.webascender.callerid/com.hiya.stingray.features.splash.presentation.SplashActivity" image="hiya"/>
+    <AppIcon name="com.anker.ledmeknow/com.anker.ledmeknow.activity.MainActivity" image="led_me_know"/>
+    <AppIcon name="com.truebill/com.truebill.MainActivity" image="rocket_money"/>
+    <AppIcon name="com.bhkapps.proshouter/com.bhkapps.shouter.ui.ShouterActivity" image="shouter"/>
+    <AppIcon name="com.frack.spotiqten/com.frack.spotiqten.SplashActivity" image="spotiq_ten"/>
+    <AppIcon name="de.j4velin.wallpaperChanger/de.j4velin.wallpaperChanger.settings.Settings" image="wallpaper_changer"/>
 
 </Theme>
