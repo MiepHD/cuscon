@@ -5453,5 +5453,6 @@
     <item component="ComponentInfo{com.randonautica.app/com.randonautica.app.LaunchLoadingActivity}" drawable="randonautica" />
     <item component="ComponentInfo{br.com.vidaas.sp/br.com.valid.app.rgapp.features.MainActivity}" drawable="rg_digital_sp" />
     <item component="ComponentInfo{com.picturerock.rock/com.glority.android.picturexx.splash.SplashActivity}" drawable="rock_identifier" />
+    <item component="ComponentInfo{com.olalab.lockscreen/com.olalab.lockscreen.MainActivity}" drawable="lock_screen" />
 
 </resources>

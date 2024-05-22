@@ -5437,5 +5437,6 @@
     <AppIcon name="com.randonautica.app/com.randonautica.app.LaunchLoadingActivity" image="randonautica"/>
     <AppIcon name="br.com.vidaas.sp/br.com.valid.app.rgapp.features.MainActivity" image="rg_digital_sp"/>
     <AppIcon name="com.picturerock.rock/com.glority.android.picturexx.splash.SplashActivity" image="rock_identifier"/>
+    <AppIcon name="com.olalab.lockscreen/com.olalab.lockscreen.MainActivity" image="lock_screen"/>
 
 </Theme>
