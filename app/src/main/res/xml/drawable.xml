@@ -5368,5 +5368,6 @@
     <item drawable="mobiletrans" />
     <item drawable="smart_switch_data_transfer" />
     <item drawable="wifi_map" />
+    <item drawable="authpass" />
 
 </resources>

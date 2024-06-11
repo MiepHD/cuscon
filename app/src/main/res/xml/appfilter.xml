@@ -5469,5 +5469,9 @@
     <item component="ComponentInfo{com.wondershare.mobiletrans/com.wondershare.mobiletrans.ui.SplashActivity}" drawable="mobiletrans" />
     <item component="ComponentInfo{com.app.smartswitchmobile.copymydata.transfermydata/com.datatransfer.smartswitch.startups.SplashActivity}" drawable="smart_switch_data_transfer" />
     <item component="ComponentInfo{io.wifimap.wifimap/io.wifimap.wifimap.main.view.SplashActivity}" drawable="wifi_map" />
+    <item component="ComponentInfo{app.mihon.debug/eu.kanade.tachiyomi.ui.main.MainActivity}" drawable="mihon" />
+    <item component="ComponentInfo{com.mixplorer.beta/com.mixplorer.activities.BrowseActivity}" drawable="mix" />
+    <item component="ComponentInfo{app.shosetsu.android.debug/app.shosetsu.android.activity.MainActivity}" drawable="shosetsu" />
+    <item component="ComponentInfo{design.codeux.authpass.fdroid/design.codeux.authpass.MainActivity}" drawable="authpass" />
 
 </resources>

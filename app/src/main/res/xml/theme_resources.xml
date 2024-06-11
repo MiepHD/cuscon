@@ -5453,5 +5453,9 @@
     <AppIcon name="com.wondershare.mobiletrans/com.wondershare.mobiletrans.ui.SplashActivity" image="mobiletrans"/>
     <AppIcon name="com.app.smartswitchmobile.copymydata.transfermydata/com.datatransfer.smartswitch.startups.SplashActivity" image="smart_switch_data_transfer"/>        
     <AppIcon name="io.wifimap.wifimap/io.wifimap.wifimap.main.view.SplashActivity" image="wifi_map"/>
+    <AppIcon name="app.mihon.debug/eu.kanade.tachiyomi.ui.main.MainActivity" image="mihon"/>
+    <AppIcon name="com.mixplorer.beta/com.mixplorer.activities.BrowseActivity" image="mix"/>
+    <AppIcon name="app.shosetsu.android.debug/app.shosetsu.android.activity.MainActivity" image="shosetsu"/>
+    <AppIcon name="design.codeux.authpass.fdroid/design.codeux.authpass.MainActivity" image="authpass"/>
 
 </Theme>
