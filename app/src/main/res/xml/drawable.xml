@@ -5368,5 +5368,13 @@
     <item drawable="_f_droid_kdi" />
     <item drawable="_sound_" />
     <category title="Unsorted" />
+    <item drawable="appgallery" />
+    <item drawable="myrecorder" />
+    <item drawable="notistar" />
+    <item drawable="switch" />
+    <item drawable="mobiletrans" />
+    <item drawable="smart_switch_data_transfer" />
+    <item drawable="wifi_map" />
+    <item drawable="authpass" />
 
 </resources>

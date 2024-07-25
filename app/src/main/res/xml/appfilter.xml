@@ -5462,6 +5462,17 @@
     <item component="ComponentInfo{uk.co.yodel.app/uk.co.yodel.app.MainActivity}" drawable="yodel" />
     <item component="ComponentInfo{com.oneplus.gallery/com.oneplus.gallery.app.MainActivity}" drawable="oneplus_photos" />
     <item component="ComponentInfo{com.oneplus.brickmode/com.oneplus.brickmode.activity.MainControlActivity}" drawable="zen_mode" />
+    <item component="ComponentInfo{com.huawei.appmarket/com.huawei.appmarket.MainActivity}" drawable="appgallery" />
+    <item component="ComponentInfo{myrecorder.voicerecorder.voicememos.audiorecorder.recordingapp/com.myviocerecorder.voicerecorder.ui.activities.SplashActivity}" drawable="myrecorder" />
+    <item component="ComponentInfo{com.samsung.systemui.notilus/com.samsung.systemui.notilus.NotiCenterPage}" drawable="notistar" />
+    <item component="ComponentInfo{zheng.meizi.com.dataswitchfree/zheng.meizi.com.data.DataActivity}" drawable="switch" />
+    <item component="ComponentInfo{com.wondershare.mobiletrans/com.wondershare.mobiletrans.ui.SplashActivity}" drawable="mobiletrans" />
+    <item component="ComponentInfo{com.app.smartswitchmobile.copymydata.transfermydata/com.datatransfer.smartswitch.startups.SplashActivity}" drawable="smart_switch_data_transfer" />
+    <item component="ComponentInfo{io.wifimap.wifimap/io.wifimap.wifimap.main.view.SplashActivity}" drawable="wifi_map" />
+    <item component="ComponentInfo{app.mihon.debug/eu.kanade.tachiyomi.ui.main.MainActivity}" drawable="mihon" />
+    <item component="ComponentInfo{com.mixplorer.beta/com.mixplorer.activities.BrowseActivity}" drawable="mix" />
+    <item component="ComponentInfo{app.shosetsu.android.debug/app.shosetsu.android.activity.MainActivity}" drawable="shosetsu" />
+    <item component="ComponentInfo{design.codeux.authpass.fdroid/design.codeux.authpass.MainActivity}" drawable="authpass" />
     <item component="ComponentInfo{com.shopee.ph/com.shopee.app.ui.home.HomeActivity_}" drawable="shopee" />
     <item component="ComponentInfo{pl.planmieszkania.android/com.ml.planik.android.activity.list.ListActivity}" drawable="floor_plan_creator" />
     <item component="ComponentInfo{com.convergeict.gofiber/com.convergeict.gofiber.MainActivity}" drawable="gofiber" />
