@@ -5465,7 +5465,7 @@
     <item component="ComponentInfo{com.huawei.appmarket/com.huawei.appmarket.MainActivity}" drawable="appgallery" />
     <item component="ComponentInfo{myrecorder.voicerecorder.voicememos.audiorecorder.recordingapp/com.myviocerecorder.voicerecorder.ui.activities.SplashActivity}" drawable="myrecorder" />
     <item component="ComponentInfo{com.samsung.systemui.notilus/com.samsung.systemui.notilus.NotiCenterPage}" drawable="notistar" />
-    <item component="ComponentInfo{zheng.meizi.com.dataswitchfree/zheng.meizi.com.data.DataActivity}" drawable="switch" />
+    <item component="ComponentInfo{zheng.meizi.com.dataswitchfree/zheng.meizi.com.data.DataActivity}" drawable="_switch" />
     <item component="ComponentInfo{com.wondershare.mobiletrans/com.wondershare.mobiletrans.ui.SplashActivity}" drawable="mobiletrans" />
     <item component="ComponentInfo{com.app.smartswitchmobile.copymydata.transfermydata/com.datatransfer.smartswitch.startups.SplashActivity}" drawable="smart_switch_data_transfer" />
     <item component="ComponentInfo{io.wifimap.wifimap/io.wifimap.wifimap.main.view.SplashActivity}" drawable="wifi_map" />

@@ -5449,7 +5449,7 @@
     <AppIcon name="com.huawei.appmarket/com.huawei.appmarket.MainActivity" image="appgallery"/>
     <AppIcon name="myrecorder.voicerecorder.voicememos.audiorecorder.recordingapp/com.myviocerecorder.voicerecorder.ui.activities.SplashActivity" image="myrecorder"/>   
     <AppIcon name="com.samsung.systemui.notilus/com.samsung.systemui.notilus.NotiCenterPage" image="notistar"/>
-    <AppIcon name="zheng.meizi.com.dataswitchfree/zheng.meizi.com.data.DataActivity" image="switch"/>
+    <AppIcon name="zheng.meizi.com.dataswitchfree/zheng.meizi.com.data.DataActivity" image="_switch"/>
     <AppIcon name="com.wondershare.mobiletrans/com.wondershare.mobiletrans.ui.SplashActivity" image="mobiletrans"/>
     <AppIcon name="com.app.smartswitchmobile.copymydata.transfermydata/com.datatransfer.smartswitch.startups.SplashActivity" image="smart_switch_data_transfer"/>        
     <AppIcon name="io.wifimap.wifimap/io.wifimap.wifimap.main.view.SplashActivity" image="wifi_map"/>

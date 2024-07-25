@@ -5371,7 +5371,7 @@
     <item drawable="appgallery" />
     <item drawable="myrecorder" />
     <item drawable="notistar" />
-    <item drawable="switch" />
+    <item drawable="_switch" />
     <item drawable="mobiletrans" />
     <item drawable="smart_switch_data_transfer" />
     <item drawable="wifi_map" />
