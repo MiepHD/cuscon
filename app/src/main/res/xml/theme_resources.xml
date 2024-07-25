@@ -5446,5 +5446,13 @@
     <AppIcon name="uk.co.yodel.app/uk.co.yodel.app.MainActivity" image="yodel"/>
     <AppIcon name="com.oneplus.gallery/com.oneplus.gallery.app.MainActivity" image="oneplus_photos"/>
     <AppIcon name="com.oneplus.brickmode/com.oneplus.brickmode.activity.MainControlActivity" image="zen_mode"/>
+    <AppIcon name="com.shopee.ph/com.shopee.app.ui.home.HomeActivity_" image="shopee"/>
+    <AppIcon name="pl.planmieszkania.android/com.ml.planik.android.activity.list.ListActivity" image="floor_plan_creator"/>
+    <AppIcon name="com.convergeict.gofiber/com.convergeict.gofiber.MainActivity" image="gofiber"/>
+    <AppIcon name="com.artem.scotepio/com.loklok.flash.android.MainActivity" image="loklok"/>
+    <AppIcon name="com.sunshine.maki/com.sunshine.maki.launch.Launcher" image="maki_plus"/>
+    <AppIcon name="com.comikin.reader2/com.bnn.imanga.EntranceAC" image="manga_reader"/>
+    <AppIcon name="com.macrovideo.v380pro/com.macrovideo.v380pro.activities.LaunchActivityTopOnAD" image="v380_pro"/>
+    <AppIcon name="com.loudtalks/com.zello.ui.MainActivity" image="zello"/>
 
 </Theme>

@@ -5462,5 +5462,13 @@
     <item component="ComponentInfo{uk.co.yodel.app/uk.co.yodel.app.MainActivity}" drawable="yodel" />
     <item component="ComponentInfo{com.oneplus.gallery/com.oneplus.gallery.app.MainActivity}" drawable="oneplus_photos" />
     <item component="ComponentInfo{com.oneplus.brickmode/com.oneplus.brickmode.activity.MainControlActivity}" drawable="zen_mode" />
+    <item component="ComponentInfo{com.shopee.ph/com.shopee.app.ui.home.HomeActivity_}" drawable="shopee" />
+    <item component="ComponentInfo{pl.planmieszkania.android/com.ml.planik.android.activity.list.ListActivity}" drawable="floor_plan_creator" />
+    <item component="ComponentInfo{com.convergeict.gofiber/com.convergeict.gofiber.MainActivity}" drawable="gofiber" />
+    <item component="ComponentInfo{com.artem.scotepio/com.loklok.flash.android.MainActivity}" drawable="loklok" />
+    <item component="ComponentInfo{com.sunshine.maki/com.sunshine.maki.launch.Launcher}" drawable="maki_plus" />
+    <item component="ComponentInfo{com.comikin.reader2/com.bnn.imanga.EntranceAC}" drawable="manga_reader" />
+    <item component="ComponentInfo{com.macrovideo.v380pro/com.macrovideo.v380pro.activities.LaunchActivityTopOnAD}" drawable="v380_pro" />
+    <item component="ComponentInfo{com.loudtalks/com.zello.ui.MainActivity}" drawable="zello" />
 
 </resources>

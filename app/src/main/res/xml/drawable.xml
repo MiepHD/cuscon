@@ -1658,6 +1658,7 @@
 	<item drawable="explorer" />
 	<item drawable="exteragram" />
     <category title="F" />
+    <item drawable="floor_plan_creator" />
     <item drawable="fossify_messages_blue" />
     <item drawable="flyy" />
     <item drawable="fetch" />
@@ -1890,6 +1891,7 @@
 	<item drawable="futo_voice_input" />
 	<item drawable="fx" />
     <category title="G" />
+    <item drawable="gofiber" />
     <item drawable="gerenciador_de_arquivos" />
     <item drawable="golden_thread_tarot" />
     <item drawable="go_jauntly" />
@@ -2563,6 +2565,7 @@
 	<item drawable="kutumb" />
 	<item drawable="kwgt_pro" />
     <category title="L" />
+    <item drawable="loklok" />
     <item drawable="labyrinthos" />
     <item drawable="lg_thinq" />
     <item drawable="led_me_know" />
@@ -2717,6 +2720,8 @@
 	<item drawable="lucky_wasted" />
 	<item drawable="lux_o_meter_lichtmesser" />
     <category title="M" />
+    <item drawable="maki_plus" />
+    <item drawable="manga_reader" />
     <item drawable="mapsme" />
     <item drawable="markor" />
     <item drawable="meu_tim" />
@@ -4885,6 +4890,7 @@
 	<item drawable="utiles" />
 	<item drawable="utilidades_amaze" />
     <category title="V" />
+    <item drawable="v380_pro" />
     <item drawable="voice_changer" />
     <item drawable="vrbo" />
     <item drawable="video_mp3_converter" />
@@ -5271,6 +5277,7 @@
 	<item drawable="yuka" />
 	<item drawable="yuzu_browser" />
     <category title="Z" />
+    <item drawable="zello" />
     <item drawable="zen_mode" />
     <item drawable="zettle" />
     <item drawable="zillow" />
