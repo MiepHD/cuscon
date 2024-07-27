@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="changelog_date">25.7.2024</string>
+    <string name="changelog_date">27.7.2024</string>
     <string-array name="changelog">
+        <item>4.0.3.2:</item>
+        <item>Added All Documents Viewer, Office Reader, Smallpdf, TapOffice</item>
         <item>4.0.3.1:</item>
         <item>Added Floor Plan Creator, GoFiber, Loklok, Maki Plus, Manga Reader, V380 Pro, Zello</item>
         <item>Fixed Switch</item>

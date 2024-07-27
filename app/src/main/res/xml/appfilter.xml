@@ -5481,5 +5481,9 @@
     <item component="ComponentInfo{com.comikin.reader2/com.bnn.imanga.EntranceAC}" drawable="manga_reader" />
     <item component="ComponentInfo{com.macrovideo.v380pro/com.macrovideo.v380pro.activities.LaunchActivityTopOnAD}" drawable="v380_pro" />
     <item component="ComponentInfo{com.loudtalks/com.zello.ui.MainActivity}" drawable="zello" />
+    <item component="ComponentInfo{com.office.reader.all.docs.viewer/com.office.reader.all.docs.viewer.Splash_Activity}" drawable="all_documents_viewer" />
+    <item component="ComponentInfo{com.document.office.docx.viewer.pdfreader.free/com.zipoapps.premiumhelper.ui.splash.PHSplashActivity}" drawable="office_reader_free" />
+    <item component="ComponentInfo{com.smallpdf.app.android/com.smallpdf.app.android.Launcher}" drawable="smallpdf" />
+    <item component="ComponentInfo{com.tapoffice/com.tapoffice.MainActivity}" drawable="tapoffice" />
 
 </resources>

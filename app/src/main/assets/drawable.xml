@@ -252,6 +252,7 @@
     <item drawable="google_wifi" />
     <item drawable="googleassistant2" />
     <category title="A" />
+    <item drawable="all_documents_viewer" />
     <item drawable="antutu_3dbench_lite" />
     <item drawable="antutu_benchmark" />
     <item drawable="app_share" />
@@ -3341,6 +3342,7 @@
 	<item drawable="nozzle" />
 	<item drawable="nytimes" />
     <category title="O" />
+    <item drawable="office_reader_free" />
     <item drawable="oneplus_photos" />
     <item drawable="official_twrp_app" />
     <item drawable="opening_wifi" />
@@ -4072,6 +4074,7 @@
 	<item drawable="rustdesk" />
 	<item drawable="rvx_music" />
     <category title="S" />
+    <item drawable="smallpdf" />
     <item drawable="samsung_max" />
     <item drawable="silverdict" />
     <item drawable="storm_battle" />
@@ -4532,6 +4535,7 @@
 	<item drawable="swiss_post" />
 	<item drawable="systemui_tuner" />
     <category title="T" />
+    <item drawable="tapoffice" />
     <item drawable="tracker" />
     <item drawable="trainchinese" />
     <item drawable="tv" />

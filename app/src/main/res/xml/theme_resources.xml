@@ -5465,5 +5465,9 @@
     <AppIcon name="com.comikin.reader2/com.bnn.imanga.EntranceAC" image="manga_reader"/>
     <AppIcon name="com.macrovideo.v380pro/com.macrovideo.v380pro.activities.LaunchActivityTopOnAD" image="v380_pro"/>
     <AppIcon name="com.loudtalks/com.zello.ui.MainActivity" image="zello"/>
+    <AppIcon name="com.office.reader.all.docs.viewer/com.office.reader.all.docs.viewer.Splash_Activity" image="all_documents_viewer"/>
+    <AppIcon name="com.document.office.docx.viewer.pdfreader.free/com.zipoapps.premiumhelper.ui.splash.PHSplashActivity" image="office_reader_free"/>
+    <AppIcon name="com.smallpdf.app.android/com.smallpdf.app.android.Launcher" image="smallpdf"/>
+    <AppIcon name="com.tapoffice/com.tapoffice.MainActivity" image="tapoffice"/>
 
 </Theme>
