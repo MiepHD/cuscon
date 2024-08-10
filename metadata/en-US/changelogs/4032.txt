@@ -1,1 +1,1 @@
-Added All Documents Viewer, Office Reader, Smallpdf, TapOffice
+Added All Documents Viewer, Office Reader, Smallpdf, TapOffice, Ruler

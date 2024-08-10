@@ -5485,5 +5485,6 @@
     <item component="ComponentInfo{com.document.office.docx.viewer.pdfreader.free/com.zipoapps.premiumhelper.ui.splash.PHSplashActivity}" drawable="office_reader_free" />
     <item component="ComponentInfo{com.smallpdf.app.android/com.smallpdf.app.android.Launcher}" drawable="smallpdf" />
     <item component="ComponentInfo{com.tapoffice/com.tapoffice.MainActivity}" drawable="tapoffice" />
+    <item component="ComponentInfo{org.secuso.privacyfriendlyrulerapp/org.secuso.privacyfriendlyrulerapp.activities.SplashActivity}" drawable="ruler_privacyfriendlyrulerapp" />
 
 </resources>

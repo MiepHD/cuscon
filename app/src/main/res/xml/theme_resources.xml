@@ -5469,5 +5469,6 @@
     <AppIcon name="com.document.office.docx.viewer.pdfreader.free/com.zipoapps.premiumhelper.ui.splash.PHSplashActivity" image="office_reader_free"/>
     <AppIcon name="com.smallpdf.app.android/com.smallpdf.app.android.Launcher" image="smallpdf"/>
     <AppIcon name="com.tapoffice/com.tapoffice.MainActivity" image="tapoffice"/>
+    <AppIcon name="org.secuso.privacyfriendlyrulerapp/org.secuso.privacyfriendlyrulerapp.activities.SplashActivity" image="ruler_privacyfriendlyrulerapp"/>
 
 </Theme>
