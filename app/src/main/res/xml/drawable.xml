@@ -252,6 +252,10 @@
     <item drawable="google_wifi" />
     <item drawable="googleassistant2" />
     <category title="A" />
+    <item drawable="appgallery" />
+    <item drawable="authpass" />
+    <item drawable="alihelper" />
+    <item drawable="arlo_secure" />
     <item drawable="all_documents_viewer" />
     <item drawable="antutu_3dbench_lite" />
     <item drawable="antutu_benchmark" />
@@ -1231,6 +1235,11 @@
 	<item drawable="cubic_2_3_4_player_games" />
 	<item drawable="currencies" />
     <category title="D" />
+    <item drawable="daily_apod_wallpaper" />
+    <item drawable="data_wing" />
+    <item drawable="dest_sol" />
+    <item drawable="digikey" />
+    <item drawable="duorem" />
     <item drawable="dog_scanner" />
     <item drawable="default_app_manager_lite" />
     <item drawable="droid_dashcam" />
@@ -1503,6 +1512,7 @@
 	<item drawable="dynalist" />
 	<item drawable="dynamicspot" />
     <category title="E" />
+    <item drawable="ebay" />
     <item drawable="espees_wallet" />
     <item drawable="ezdebt_book" />
     <item drawable="endless_sky" />
@@ -2723,6 +2733,10 @@
 	<item drawable="lucky_wasted" />
 	<item drawable="lux_o_meter_lichtmesser" />
     <category title="M" />
+    <item drawable="mcmaster" />
+    <item drawable="mouser" />
+    <item drawable="mobiletrans" />
+    <item drawable="myrecorder" />
     <item drawable="maki_plus" />
     <item drawable="manga_reader" />
     <item drawable="mapsme" />
@@ -3162,6 +3176,8 @@
 	<item drawable="mytelkomsel" />
 	<item drawable="myumobile" />
     <category title="N" />
+    <item drawable="network_survey" />
+    <item drawable="notistar" />
     <item drawable="nespresso" />
     <item drawable="numerologia" />
     <item drawable="naver_cafe" />
@@ -3350,7 +3366,6 @@
     <item drawable="opening_wifi" />
     <item drawable="orange_flex" />
     <item drawable="olxpl" />
-    <item drawable="og_network_tools" />
     <item drawable="orange_tv" />
     <item drawable="ohealth" />
     <item drawable="outlook_lite" />
@@ -3499,6 +3514,9 @@
 	<item drawable="ovag_e_mobil" />
 	<item drawable="owlfiles" />
     <category title="P" />
+    <item drawable="pdanet_" />
+    <item drawable="piano_designer" />
+    <item drawable="principia" />
     <item drawable="picpay" />
     <item drawable="picture_bird" />
     <item drawable="picture_mushroom" />
@@ -4077,8 +4095,10 @@
 	<item drawable="rustdesk" />
 	<item drawable="rvx_music" />
     <category title="S" />
+    <item drawable="spirit_airlines" />
+    <item drawable="smart_switch_data_transfer" />
+    <item drawable="_switch" />
     <item drawable="smallpdf" />
-    <item drawable="samsung_max" />
     <item drawable="silverdict" />
     <item drawable="storm_battle" />
     <item drawable="shouter" />
@@ -4538,6 +4558,7 @@
 	<item drawable="swiss_post" />
 	<item drawable="systemui_tuner" />
     <category title="T" />
+    <item drawable="termuc" />
     <item drawable="tapoffice" />
     <item drawable="tracker" />
     <item drawable="trainchinese" />
@@ -4826,6 +4847,9 @@
 	<item drawable="tux_paint_config" />
 	<item drawable="twelve_key_dialer" />
     <category title="U" />
+    <item drawable="uno_calc" />
+    <item drawable="usps_mobile" />
+    <item drawable="us_bank" />
     <item drawable="unified_remote_full" />
     <item drawable="unciv" />
     <item drawable="unexpected_keyboard" />
@@ -4897,6 +4921,7 @@
 	<item drawable="utiles" />
 	<item drawable="utilidades_amaze" />
     <category title="V" />
+    <item drawable="ventra" />
     <item drawable="v380_pro" />
     <item drawable="voice_changer" />
     <item drawable="vrbo" />
@@ -5028,6 +5053,8 @@
 	<item drawable="vr_banking_app" />
 	<item drawable="vsolution_app" />
     <category title="W" />
+    <item drawable="wintrust" />
+    <item drawable="wifi_map" />
     <item drawable="widgeet" />
     <item drawable="widgetify" />
     <item drawable="wifi_pass_map" />
@@ -5375,34 +5402,22 @@
     <item drawable="_f_droid_kdi" />
     <item drawable="_sound_" />
     <category title="Unsorted" />
-    <item drawable="appgallery" />
-    <item drawable="myrecorder" />
-    <item drawable="notistar" />
-    <item drawable="_switch" />
-    <item drawable="mobiletrans" />
-    <item drawable="smart_switch_data_transfer" />
-    <item drawable="wifi_map" />
-    <item drawable="authpass" />
-    <item drawable="alihelper" />
-    <item drawable="arlo_secure" />
-    <item drawable="daily_apod_wallpaper" />
-    <item drawable="data_wing" />
-    <item drawable="dest_sol" />
-    <item drawable="digikey" />
-    <item drawable="duorem" />
-    <item drawable="mcmaster" />
-    <item drawable="mouser" />
-    <item drawable="network_survey" />
-    <item drawable="pdanet_" />
-    <item drawable="piano_designer" />
-    <item drawable="principia" />
-    <item drawable="spirit_airlines" />
-    <item drawable="termuc" />
-    <item drawable="uno_calc" />
-    <item drawable="usps_mobile" />
-    <item drawable="us_bank" />
-    <item drawable="ventra" />
-    <item drawable="wintrust" />
-    <item drawable="ebay" />
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
 
 </resources>
