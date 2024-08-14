@@ -5493,4 +5493,5 @@
     <AppIcon name="com.usbank.mobilebanking/com.usb.module.environment.ui.SplashActivity" image="us_bank"/>
     <AppIcon name="com.ventrachicago.riderapp/com.cmtventra.MainActivity" image="ventra"/>
     <AppIcon name="com.wintrust.production/com.mobile.MainActivity" image="wintrust"/>
+    <AppIcon name="com.ebay.mobile/com.ebay.mobile.home.impl.main.MainActivity" image="ebay"/>
 </Theme>

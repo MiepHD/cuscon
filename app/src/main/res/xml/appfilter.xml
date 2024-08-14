@@ -5509,5 +5509,6 @@
     <item component="ComponentInfo{com.usbank.mobilebanking/com.usb.module.environment.ui.SplashActivity}" drawable="us_bank" />
     <item component="ComponentInfo{com.ventrachicago.riderapp/com.cmtventra.MainActivity}" drawable="ventra" />
     <item component="ComponentInfo{com.wintrust.production/com.mobile.MainActivity}" drawable="wintrust" />
+    <item component="ComponentInfo{com.ebay.mobile/com.ebay.mobile.home.impl.main.MainActivity}" drawable="ebay" />
 
 </resources>

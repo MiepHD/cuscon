@@ -5403,5 +5403,6 @@
     <item drawable="us_bank" />
     <item drawable="ventra" />
     <item drawable="wintrust" />
+    <item drawable="ebay" />
 
 </resources>
