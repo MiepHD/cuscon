@@ -1471,6 +1471,8 @@
 	<AppIcon name="com.plexapp.android/com.plexapp.plex.activities.SplashActivity" image="plex"/>
 	<AppIcon name="com.google.android.apps.wellbeing/com.google.android.apps.wellbeing.settings.LauncherActivity" image="digital_wellbeing"/>
 	<AppIcon name="org.fossify.gallery/org.fossify.gallery.activities.SplashActivity.Grey_black" image="gallery_grey_black"/>
+    <AppIcon name="org.fossify.voicerecorder/org.fossify.voicerecorder.activities.SplashActivity.Grey_black" image="fossify_voice_recorder_grey_black"/>
+    <AppIcon name="org.fossify.voicerecorder/org.fossify.voicerecorder.activities.SplashActivity.Green" image="fossify_voice_recorder_green"/>
 	<AppIcon name="org.lichess.mobileapp.free/org.lichess.mobileapp.MainActivity" image="lichess"/>
 	<AppIcon name="io.github.muntashirakon.Music/code.name.monkey.retromusic.activities.MainActivity" image="metro"/>
 	<AppIcon name="com.scaleforce.mobile.myexcitel/com.scaleforce.mobile.myexcitel.MainActivity" image="myexcitel"/>
@@ -1616,6 +1618,7 @@
 	<AppIcon name="com.edzondm.linebit/com.edzondm.linebit.MainActivity" image="linebit"/>
 	<AppIcon name="com.generalmagic.magicearth/com.magiclane.androidsphere.map.MapActivity" image="magic_earth"/>
 	<AppIcon name="com.gokadzev.musify/com.ryanheise.audioservice.AudioServiceActivity" image="musify"/>
+	<AppIcon name="com.gokadzev.musify.fdroid/com.ryanheise.audioservice.AudioServiceActivity" image="musify"/>
 	<AppIcon name="com.saggitt.omega/com.saggitt.omega.OmegaLauncher" image="neo_launcher"/>
 	<AppIcon name="org.schabi.newpipelegacy/org.schabi.newpipelegacy.MainActivity" image="newpipe_legacy"/>
 	<AppIcon name="org.schabi.newpipe.preunified/org.schabi.newpipe.MainActivity" image="newpipe_legacy"/>
@@ -5470,5 +5473,24 @@
     <AppIcon name="com.smallpdf.app.android/com.smallpdf.app.android.Launcher" image="smallpdf"/>
     <AppIcon name="com.tapoffice/com.tapoffice.MainActivity" image="tapoffice"/>
     <AppIcon name="org.secuso.privacyfriendlyrulerapp/org.secuso.privacyfriendlyrulerapp.activities.SplashActivity" image="ruler_privacyfriendlyrulerapp"/>
-
+    <AppIcon name="com.xyz.alihelper/com.xyz.alihelper.ui.activities.MainActivity" image="alihelper"/>
+    <AppIcon name="com.arlo.app/com.arlo.app.main.MainActivity" image="arlo_secure"/>
+    <AppIcon name="uk.co.jakelee.apodwallpaper/uk.co.jakelee.apodwallpaper.MainActivity" image="daily_apod_wallpaper"/>
+    <AppIcon name="com.DanVogt.DATAWING/com.unity3d.player.UnityPlayerActivity" image="data_wing"/>
+    <AppIcon name="com.miloshpetrov.sol2.android/com.miloshpetrov.sol2.android.SolAndroid" image="dest_sol"/>
+    <AppIcon name="com.digikey.mobile/com.digikey.mobile.ui.activity.StartupActivity" image="digikey"/>
+    <AppIcon name="com.vadimfrolov.duorem/com.vadimfrolov.duorem.MainActivity" image="duorem"/>
+    <AppIcon name="com.mcmaster.mcmaster_carr_app/com.mcmaster.mcmaster_carr_app.architecture.MainActivity" image="mcmaster"/>
+    <AppIcon name="com.mouser.mouserApplication/com.mouser.mouserApplication.ui.splash.SplashActivity" image="mouser"/>
+    <AppIcon name="com.craxiom.networksurvey/com.craxiom.networksurvey.NetworkSurveyActivity" image="network_survey"/>
+    <AppIcon name="com.pdanet/com.foxfi.HotspotSettings" image="pdanet_"/>
+    <AppIcon name="jp.co.roland.PianoDesigner/jp.co.roland.quattro.SplashActivity" image="piano_designer"/>
+    <AppIcon name="com.bithack.principia/com.bithack.principia.PrincipiaActivity" image="principia"/>
+    <AppIcon name="com.spirit.customerapp/com.spirit.enterprise.guestmobileapp.ui.main.LandingActivity" image="spirit_airlines"/>
+    <AppIcon name="cn.rbc.termuc/cn.rbc.termuc.MainActivity" image="termuc"/>
+    <AppIcon name="uno.platform.calculator/crc6426eaf249022d8948.MainActivity" image="uno_calc"/>
+    <AppIcon name="com.usps.app/com.usps.app.mobile.SplashScreenActivity" image="usps_mobile"/>
+    <AppIcon name="com.usbank.mobilebanking/com.usb.module.environment.ui.SplashActivity" image="us_bank"/>
+    <AppIcon name="com.ventrachicago.riderapp/com.cmtventra.MainActivity" image="ventra"/>
+    <AppIcon name="com.wintrust.production/com.mobile.MainActivity" image="wintrust"/>
 </Theme>

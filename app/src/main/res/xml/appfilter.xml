@@ -1482,6 +1482,8 @@
 	<item component="ComponentInfo{com.plexapp.android/com.plexapp.plex.activities.SplashActivity}" drawable="plex" />
 	<item component="ComponentInfo{com.google.android.apps.wellbeing/com.google.android.apps.wellbeing.settings.LauncherActivity}" drawable="digital_wellbeing" />
 	<item component="ComponentInfo{org.fossify.gallery/org.fossify.gallery.activities.SplashActivity.Grey_black}" drawable="gallery_grey_black" />
+	<item component="ComponentInfo{org.fossify.voicerecorder/org.fossify.voicerecorder.activities.SplashActivity.Grey_black}" drawable="fossify_voice_recorder_grey_black" />
+    <item component="ComponentInfo{org.fossify.voicerecorder/org.fossify.voicerecorder.activities.SplashActivity.Green}" drawable="fossify_voice_recorder_green" />
 	<item component="ComponentInfo{org.lichess.mobileapp.free/org.lichess.mobileapp.MainActivity}" drawable="lichess" />
 	<item component="ComponentInfo{io.github.muntashirakon.Music/code.name.monkey.retromusic.activities.MainActivity}" drawable="metro" />
 	<item component="ComponentInfo{com.scaleforce.mobile.myexcitel/com.scaleforce.mobile.myexcitel.MainActivity}" drawable="myexcitel" />
@@ -1627,6 +1629,7 @@
 	<item component="ComponentInfo{com.edzondm.linebit/com.edzondm.linebit.MainActivity}" drawable="linebit" />
 	<item component="ComponentInfo{com.generalmagic.magicearth/com.magiclane.androidsphere.map.MapActivity}" drawable="magic_earth" />
 	<item component="ComponentInfo{com.gokadzev.musify/com.ryanheise.audioservice.AudioServiceActivity}" drawable="musify" />
+	<item component="ComponentInfo{com.gokadzev.musify.fdroid/com.ryanheise.audioservice.AudioServiceActivity}" drawable="musify" />
 	<item component="ComponentInfo{com.saggitt.omega/com.saggitt.omega.OmegaLauncher}" drawable="neo_launcher" />
 	<item component="ComponentInfo{org.schabi.newpipelegacy/org.schabi.newpipelegacy.MainActivity}" drawable="newpipe_legacy" />
 	<item component="ComponentInfo{org.schabi.newpipe.preunified/org.schabi.newpipe.MainActivity}" drawable="newpipe_legacy" />
@@ -5486,5 +5489,25 @@
     <item component="ComponentInfo{com.smallpdf.app.android/com.smallpdf.app.android.Launcher}" drawable="smallpdf" />
     <item component="ComponentInfo{com.tapoffice/com.tapoffice.MainActivity}" drawable="tapoffice" />
     <item component="ComponentInfo{org.secuso.privacyfriendlyrulerapp/org.secuso.privacyfriendlyrulerapp.activities.SplashActivity}" drawable="ruler_privacyfriendlyrulerapp" />
+    <item component="ComponentInfo{com.xyz.alihelper/com.xyz.alihelper.ui.activities.MainActivity}" drawable="alihelper" />
+    <item component="ComponentInfo{com.arlo.app/com.arlo.app.main.MainActivity}" drawable="arlo_secure" />
+    <item component="ComponentInfo{uk.co.jakelee.apodwallpaper/uk.co.jakelee.apodwallpaper.MainActivity}" drawable="daily_apod_wallpaper" />
+    <item component="ComponentInfo{com.DanVogt.DATAWING/com.unity3d.player.UnityPlayerActivity}" drawable="data_wing" />
+    <item component="ComponentInfo{com.miloshpetrov.sol2.android/com.miloshpetrov.sol2.android.SolAndroid}" drawable="dest_sol" />
+    <item component="ComponentInfo{com.digikey.mobile/com.digikey.mobile.ui.activity.StartupActivity}" drawable="digikey" />
+    <item component="ComponentInfo{com.vadimfrolov.duorem/com.vadimfrolov.duorem.MainActivity}" drawable="duorem" />
+    <item component="ComponentInfo{com.mcmaster.mcmaster_carr_app/com.mcmaster.mcmaster_carr_app.architecture.MainActivity}" drawable="mcmaster" />
+    <item component="ComponentInfo{com.mouser.mouserApplication/com.mouser.mouserApplication.ui.splash.SplashActivity}" drawable="mouser" />
+    <item component="ComponentInfo{com.craxiom.networksurvey/com.craxiom.networksurvey.NetworkSurveyActivity}" drawable="network_survey" />
+    <item component="ComponentInfo{com.pdanet/com.foxfi.HotspotSettings}" drawable="pdanet_" />
+    <item component="ComponentInfo{jp.co.roland.PianoDesigner/jp.co.roland.quattro.SplashActivity}" drawable="piano_designer" />
+    <item component="ComponentInfo{com.bithack.principia/com.bithack.principia.PrincipiaActivity}" drawable="principia" />
+    <item component="ComponentInfo{com.spirit.customerapp/com.spirit.enterprise.guestmobileapp.ui.main.LandingActivity}" drawable="spirit_airlines" />
+    <item component="ComponentInfo{cn.rbc.termuc/cn.rbc.termuc.MainActivity}" drawable="termuc" />
+    <item component="ComponentInfo{uno.platform.calculator/crc6426eaf249022d8948.MainActivity}" drawable="uno_calc" />
+    <item component="ComponentInfo{com.usps.app/com.usps.app.mobile.SplashScreenActivity}" drawable="usps_mobile" />
+    <item component="ComponentInfo{com.usbank.mobilebanking/com.usb.module.environment.ui.SplashActivity}" drawable="us_bank" />
+    <item component="ComponentInfo{com.ventrachicago.riderapp/com.cmtventra.MainActivity}" drawable="ventra" />
+    <item component="ComponentInfo{com.wintrust.production/com.mobile.MainActivity}" drawable="wintrust" />
 
 </resources>

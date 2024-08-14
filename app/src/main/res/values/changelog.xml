@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="changelog_date">10.8.2024</string>
+    <string name="changelog_date">13.8.2024</string>
     <string-array name="changelog">
         <item>4.0.3.2:</item>
-        <item>Added All Documents Viewer, Office Reader, Smallpdf, TapOffice, Ruler</item>
+        <item>Added All Documents Viewer, Office Reader, Smallpdf, TapOffice, Ruler, AliHelper, Arlo Secure, Daily APOD Wallpaper, DATA WING, Dest. Sol, DigiKey, Duorem, McMaster, Mouser, Network Survey, PdaNet+, Piano Designer, Principia, Spirit Airlines, TermuC, Uno Calc, USPS Mobile, U.S. Bank, Ventra, Wintrust, Musify.fdroid, Fossify Voice Recorder</item>
         <item>4.0.3.1:</item>
         <item>Added Floor Plan Creator, GoFiber, Loklok, Maki Plus, Manga Reader, V380 Pro, Zello</item>
         <item>Fixed Switch</item>

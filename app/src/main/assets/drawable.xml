@@ -1882,6 +1882,8 @@
 	<item drawable="forkyz" />
 	<item drawable="forpda" />
 	<item drawable="fossify_calendar_green" />
+    <item drawable="fossify_voice_recorder_grey_black" />
+    <item drawable="fossify_voice_recorder_green" />
 	<item drawable="foxy_droid" />
 	<item drawable="frankly" />
 	<item drawable="free_basics" />
@@ -4005,6 +4007,7 @@
     <item drawable="ruhrbahn" />
     <item drawable="ruler" />
     <item drawable="ruler_csw" />
+    <item drawable="ruler_privacyfriendlyrulerapp" />
     <item drawable="rumble" />
     <item drawable="runcam" />
     <item drawable="ruppu" />
@@ -5380,5 +5383,25 @@
     <item drawable="smart_switch_data_transfer" />
     <item drawable="wifi_map" />
     <item drawable="authpass" />
+    <item drawable="alihelper" />
+    <item drawable="arlo_secure" />
+    <item drawable="daily_apod_wallpaper" />
+    <item drawable="data_wing" />
+    <item drawable="dest_sol" />
+    <item drawable="digikey" />
+    <item drawable="duorem" />
+    <item drawable="mcmaster" />
+    <item drawable="mouser" />
+    <item drawable="network_survey" />
+    <item drawable="pdanet_" />
+    <item drawable="piano_designer" />
+    <item drawable="principia" />
+    <item drawable="spirit_airlines" />
+    <item drawable="termuc" />
+    <item drawable="uno_calc" />
+    <item drawable="usps_mobile" />
+    <item drawable="us_bank" />
+    <item drawable="ventra" />
+    <item drawable="wintrust" />
 
 </resources>
