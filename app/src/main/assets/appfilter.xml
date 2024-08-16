@@ -5510,5 +5510,19 @@
     <item component="ComponentInfo{com.ventrachicago.riderapp/com.cmtventra.MainActivity}" drawable="ventra" />
     <item component="ComponentInfo{com.wintrust.production/com.mobile.MainActivity}" drawable="wintrust" />
     <item component="ComponentInfo{com.ebay.mobile/com.ebay.mobile.home.impl.main.MainActivity}" drawable="ebay" />
+    <item component="ComponentInfo{com.donnnno.arcticons.daynight/com.donnnno.arcticons.activities.SplashActivity}" drawable="arcticons" />
+    <item component="ComponentInfo{com.disney.WMW/com.disney.WMW.WMWActivity}" drawable="water_" />
+    <item component="ComponentInfo{com.grofers.customerapp/com.grofers.customerapp.VALENTINES}" drawable="blinkit" />
+    <item component="ComponentInfo{com.wonder/com.pegasus.feature.main.MainActivity}" drawable="elevate" />
+    <item component="ComponentInfo{com.jar.app/com.jar.app.feature.home.ui.activity.HomeActivity}" drawable="jar" />
+    <item component="ComponentInfo{com.lumoslabs.lumosity/com.lumoslabs.lumosity.activity.LaunchActivity}" drawable="lumosity" />
+    <item component="ComponentInfo{com.ea.games.nfs13_row/com.ea.ironmonkey.GameActivity}" drawable="nfs_most_wanted" />
+    <item component="ComponentInfo{com.sweak.qralarm/com.sweak.qralarm.MainActivity}" drawable="qralarm" />
+    <item component="ComponentInfo{com.simplified.reborn/com.simplified.reborn.activities.SplashActivity}" drawable="simplified" />
+    <item component="ComponentInfo{com.rohit2810.spotit/com.rohit2810.spotit.SplashActivity}" drawable="spotit" />
+    <item component="ComponentInfo{in.swiggy.deliveryapp/in.swiggy.deliveryapp.activity.MainActivity}" drawable="swiggy_delivery" />
+    <item component="ComponentInfo{com.zorinos.zorin_connect/org.kde.kdeconnect.UserInterface.MainActivity}" drawable="zorin_connect" />
+    <item component="ComponentInfo{com.skype.insiders/com.skype4life.MainActivity}" drawable="skype_insider" />
+    <item component="ComponentInfo{com.mattel163.uno2/com.mattel163.uno2.extendlib.UNO2Activity}" drawable="uno_2_go" />
 
 </resources>
