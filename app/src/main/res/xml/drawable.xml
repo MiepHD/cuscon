@@ -4102,6 +4102,7 @@
 	<item drawable="rustdesk" />
 	<item drawable="rvx_music" />
     <category title="S" />
+    <item drawable="skype_insider" />
     <item drawable="simplified" />
     <item drawable="spotit" />
     <item drawable="swiggy_delivery" />
@@ -4857,6 +4858,7 @@
 	<item drawable="tux_paint_config" />
 	<item drawable="twelve_key_dialer" />
     <category title="U" />
+    <item drawable="uno_2_go" />
     <item drawable="uno_calc" />
     <item drawable="usps_mobile" />
     <item drawable="us_bank" />

@@ -5506,5 +5506,7 @@
     <AppIcon name="com.rohit2810.spotit/com.rohit2810.spotit.SplashActivity" image="spotit"/>
     <AppIcon name="in.swiggy.deliveryapp/in.swiggy.deliveryapp.activity.MainActivity" image="swiggy_delivery"/>
     <AppIcon name="com.zorinos.zorin_connect/org.kde.kdeconnect.UserInterface.MainActivity" image="zorin_connect"/>
+    <AppIcon name="com.skype.insiders/com.skype4life.MainActivity" image="skype_insider"/>
+    <AppIcon name="com.mattel163.uno2/com.mattel163.uno2.extendlib.UNO2Activity" image="uno_2_go"/>
 
 </Theme>

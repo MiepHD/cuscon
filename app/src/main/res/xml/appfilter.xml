@@ -5522,5 +5522,7 @@
     <item component="ComponentInfo{com.rohit2810.spotit/com.rohit2810.spotit.SplashActivity}" drawable="spotit" />
     <item component="ComponentInfo{in.swiggy.deliveryapp/in.swiggy.deliveryapp.activity.MainActivity}" drawable="swiggy_delivery" />
     <item component="ComponentInfo{com.zorinos.zorin_connect/org.kde.kdeconnect.UserInterface.MainActivity}" drawable="zorin_connect" />
+    <item component="ComponentInfo{com.skype.insiders/com.skype4life.MainActivity}" drawable="skype_insider" />
+    <item component="ComponentInfo{com.mattel163.uno2/com.mattel163.uno2.extendlib.UNO2Activity}" drawable="uno_2_go" />
 
 </resources>
