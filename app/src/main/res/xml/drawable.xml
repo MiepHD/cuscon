@@ -252,6 +252,7 @@
     <item drawable="google_wifi" />
     <item drawable="googleassistant2" />
     <category title="A" />
+    <item drawable="arcticons" />
     <item drawable="appgallery" />
     <item drawable="authpass" />
     <item drawable="alihelper" />
@@ -436,7 +437,7 @@
     <item drawable="arabic_english_dictionary" />
     <item drawable="aramex" />
     <item drawable="arc" />
-    <item drawable="arcticons_black" />
+    <item drawable="arcticons" />
     <item drawable="ard_audiothek" />
     <item drawable="ard_mediathek" />
     <item drawable="area_x" />
@@ -673,6 +674,7 @@
 	<item drawable="awox_homecontrol" />
 	<item drawable="axp_apk_extractor" />
     <category title="B" />
+    <item drawable="blinkit" />
     <item drawable="blockchain" />
     <item drawable="book_keeper" />
     <item drawable="better_network_tiles" />
@@ -1512,6 +1514,7 @@
 	<item drawable="dynalist" />
 	<item drawable="dynamicspot" />
     <category title="E" />
+    <item drawable="elevate" />
     <item drawable="ebay" />
     <item drawable="espees_wallet" />
     <item drawable="ezdebt_book" />
@@ -2393,6 +2396,7 @@
 	<item drawable="ir_remote" />
 	<item drawable="iron" />
     <category title="J" />
+    <item drawable="jar" />
     <item drawable="jam" />
     <item drawable="jrdcom_filemanager" />
     <item drawable="jaumo" />
@@ -2578,6 +2582,7 @@
 	<item drawable="kutumb" />
 	<item drawable="kwgt_pro" />
     <category title="L" />
+    <item drawable="lumosity" />
     <item drawable="loklok" />
     <item drawable="labyrinthos" />
     <item drawable="lg_thinq" />
@@ -3176,6 +3181,7 @@
 	<item drawable="mytelkomsel" />
 	<item drawable="myumobile" />
     <category title="N" />
+    <item drawable="nfs_most_wanted" />
     <item drawable="network_survey" />
     <item drawable="notistar" />
     <item drawable="nespresso" />
@@ -3846,6 +3852,7 @@
 	<item drawable="puzzles" />
 	<item drawable="pysolfc" />
     <category title="Q" />
+    <item drawable="qralarm" />
     <item drawable="qurrotul_uyun_fathul_izar_uqudu_lujain_terjemahan" />
     <item drawable="questmobile" />
     <item drawable="qbitcontroller" />
@@ -4095,6 +4102,9 @@
 	<item drawable="rustdesk" />
 	<item drawable="rvx_music" />
     <category title="S" />
+    <item drawable="simplified" />
+    <item drawable="spotit" />
+    <item drawable="swiggy_delivery" />
     <item drawable="spirit_airlines" />
     <item drawable="smart_switch_data_transfer" />
     <item drawable="_switch" />
@@ -5053,6 +5063,7 @@
 	<item drawable="vr_banking_app" />
 	<item drawable="vsolution_app" />
     <category title="W" />
+    <item drawable="water_" />
     <item drawable="wintrust" />
     <item drawable="wifi_map" />
     <item drawable="widgeet" />
@@ -5311,6 +5322,7 @@
 	<item drawable="yuka" />
 	<item drawable="yuzu_browser" />
     <category title="Z" />
+    <item drawable="zorin_connect" />
     <item drawable="zello" />
     <item drawable="zen_mode" />
     <item drawable="zettle" />
@@ -5402,22 +5414,5 @@
     <item drawable="_f_droid_kdi" />
     <item drawable="_sound_" />
     <category title="Unsorted" />
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-
 
 </resources>

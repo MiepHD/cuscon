@@ -2692,7 +2692,7 @@
 	<item component="ComponentInfo{dev.zwander.mastodonredirect/dev.zwander.mastodonredirect.MainActivity}" drawable="lemmy_redirect" />
 	<item component="ComponentInfo{com.machiav3lli.fdroid.neo/com.machiav3lli.fdroid.NeoActivity}" drawable="neo_store" />
 	<item component="ComponentInfo{app.accrescent.client/app.accrescent.client.ui.MainActivity}" drawable="accrescent" />
-    <item component="ComponentInfo{com.donnnno.arcticons.light/com.donnnno.arcticons.activities.SplashActivity}" drawable="arcticons_black" />
+    <item component="ComponentInfo{com.donnnno.arcticons.light/com.donnnno.arcticons.activities.SplashActivity}" drawable="arcticons" />
     <item component="ComponentInfo{com.github.muellerma.coffee/com.github.muellerma.coffee.activities.MainActivity}" drawable="coffee" />
     <item component="ComponentInfo{com.sosauce.cutecalc/com.sosauce.cutecalc.MainActivity}" drawable="cutecalc" />
     <item component="ComponentInfo{com.afkanerd.deku/com.afkanerd.deku.DefaultSMS.DefaultCheckActivity}" drawable="deku_sms" />
@@ -4875,7 +4875,7 @@
     <item component="ComponentInfo{com.mynoise.mynoise/com.mynoise.mynoise.activity.SetupActivity}" drawable="mynoise" />
     <item component="ComponentInfo{com.discogs.app/com.discogs.app.MainActivity}" drawable="discogs" />
     <item component="ComponentInfo{com.donnnno.arcticons/com.donnnno.arcticons.activities.MainActivity}" drawable="arcticons" />
-    <item component="ComponentInfo{com.donnnno.arcticons.light/com.donnnno.arcticons.activities.MainActivity}" drawable="arcticons_black" />
+    <item component="ComponentInfo{com.donnnno.arcticons.light/com.donnnno.arcticons.activities.MainActivity}" drawable="arcticons" />
     <item component="ComponentInfo{com.donnnno.arcticons.you/com.donnnno.arcticons.activities.MainActivity}" drawable="arcticons_material_you" />
     <item component="ComponentInfo{ch.protonmail.android/ch.protonmail.android.MainActivity}" drawable="proton_mail" />
     <item component="ComponentInfo{com.server.auditor.ssh.client/com.server.auditor.ssh.client.navigation.SplashScreenActivity}" drawable="termius" />
@@ -5510,5 +5510,17 @@
     <item component="ComponentInfo{com.ventrachicago.riderapp/com.cmtventra.MainActivity}" drawable="ventra" />
     <item component="ComponentInfo{com.wintrust.production/com.mobile.MainActivity}" drawable="wintrust" />
     <item component="ComponentInfo{com.ebay.mobile/com.ebay.mobile.home.impl.main.MainActivity}" drawable="ebay" />
+    <item component="ComponentInfo{com.donnnno.arcticons.daynight/com.donnnno.arcticons.activities.SplashActivity}" drawable="arcticons" />
+    <item component="ComponentInfo{com.disney.WMW/com.disney.WMW.WMWActivity}" drawable="water_" />
+    <item component="ComponentInfo{com.grofers.customerapp/com.grofers.customerapp.VALENTINES}" drawable="blinkit" />
+    <item component="ComponentInfo{com.wonder/com.pegasus.feature.main.MainActivity}" drawable="elevate" />
+    <item component="ComponentInfo{com.jar.app/com.jar.app.feature.home.ui.activity.HomeActivity}" drawable="jar" />
+    <item component="ComponentInfo{com.lumoslabs.lumosity/com.lumoslabs.lumosity.activity.LaunchActivity}" drawable="lumosity" />
+    <item component="ComponentInfo{com.ea.games.nfs13_row/com.ea.ironmonkey.GameActivity}" drawable="nfs_most_wanted" />
+    <item component="ComponentInfo{com.sweak.qralarm/com.sweak.qralarm.MainActivity}" drawable="qralarm" />
+    <item component="ComponentInfo{com.simplified.reborn/com.simplified.reborn.activities.SplashActivity}" drawable="simplified" />
+    <item component="ComponentInfo{com.rohit2810.spotit/com.rohit2810.spotit.SplashActivity}" drawable="spotit" />
+    <item component="ComponentInfo{in.swiggy.deliveryapp/in.swiggy.deliveryapp.activity.MainActivity}" drawable="swiggy_delivery" />
+    <item component="ComponentInfo{com.zorinos.zorin_connect/org.kde.kdeconnect.UserInterface.MainActivity}" drawable="zorin_connect" />
 
 </resources>
