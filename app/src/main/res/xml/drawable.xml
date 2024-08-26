@@ -252,6 +252,10 @@
     <item drawable="google_wifi" />
     <item drawable="googleassistant2" />
     <category title="A" />
+    <item drawable="adv_gravador_de_telas" />
+    <item drawable="aluno_online" />
+    <item drawable="app_ops" />
+    <item drawable="assistente" />
     <item drawable="alfacast_x" />
     <item drawable="arcticons" />
     <item drawable="appgallery" />
@@ -675,6 +679,8 @@
 	<item drawable="awox_homecontrol" />
 	<item drawable="axp_apk_extractor" />
     <category title="B" />
+    <item drawable="big_font" />
+    <item drawable="blue_line_console" />
     <item drawable="big_digital" />
     <item drawable="blinkit" />
     <item drawable="blockchain" />
@@ -901,6 +907,7 @@
 	<item drawable="bycs_drive" />
     <item drawable="ballozi_skynox" />
     <category title="C" />
+    <item drawable="colorblendr" />
     <item drawable="clear_square_icon_pack" />
     <item drawable="clear_square_white_icon_pack" />
     <item drawable="cyandiant" />
@@ -1915,6 +1922,7 @@
 	<item drawable="futo_voice_input" />
 	<item drawable="fx" />
     <category title="G" />
+    <item drawable="gbwhatsapp" />
     <item drawable="geminiman_wearos_manager" />
     <item drawable="gofiber" />
     <item drawable="gerenciador_de_arquivos" />
@@ -2263,6 +2271,7 @@
 	<item drawable="hypatia" />
 	<item drawable="hyperrogue_gold" />
     <category title="I" />
+    <item drawable="inter" />
     <item drawable="ios_widgets_iwidgets" />
     <item drawable="ifood" />
     <item drawable="info_bmkg" />
@@ -2750,6 +2759,8 @@
 	<item drawable="lucky_wasted" />
 	<item drawable="lux_o_meter_lichtmesser" />
     <category title="M" />
+    <item drawable="manual_do_usuario" />
+    <item drawable="modo_noturno" />
     <item drawable="mcmaster" />
     <item drawable="mouser" />
     <item drawable="mobiletrans" />
@@ -3193,6 +3204,7 @@
 	<item drawable="mytelkomsel" />
 	<item drawable="myumobile" />
     <category title="N" />
+    <item drawable="nutricash" />
     <item drawable="n_digital_watch_face" />
     <item drawable="nfs_most_wanted" />
     <item drawable="network_survey" />
@@ -3534,6 +3546,7 @@
 	<item drawable="ovag_e_mobil" />
 	<item drawable="owlfiles" />
     <category title="P" />
+    <item drawable="pixapencil" />
     <item drawable="plockaupp_watchface" />
     <item drawable="pdanet_" />
     <item drawable="piano_designer" />
@@ -3914,6 +3927,7 @@
 	<item drawable="quik" />
 	<item drawable="quillpad" />
     <category title="R" />
+    <item drawable="reprodutor_de_musica_ddmusic" />
     <item drawable="radii" />
     <item drawable="randonautica" />
     <item drawable="rg_digital_sp" />
@@ -4118,6 +4132,8 @@
 	<item drawable="rustdesk" />
 	<item drawable="rvx_music" />
     <category title="S" />
+    <item drawable="save_editor_stardew" />
+    <item drawable="stickerly" />
     <item drawable="shapy" />
     <item drawable="sharp_icon_pack" />
     <item drawable="shiny_ski_resort" />
@@ -4593,6 +4609,9 @@
 	<item drawable="swiss_post" />
 	<item drawable="systemui_tuner" />
     <category title="T" />
+    <item drawable="tempo_real" />
+    <item drawable="terraria" />
+    <item drawable="tomato" />
     <item drawable="terminal_command_watch_face" />
     <item drawable="timr_face" />
     <item drawable="tt_rideshare" />
@@ -4960,6 +4979,8 @@
 	<item drawable="utiles" />
 	<item drawable="utilidades_amaze" />
     <category title="V" />
+    <item drawable="vivo_easy" />
+    <item drawable="video_splitter_psma" />
     <item drawable="ventra" />
     <item drawable="v380_pro" />
     <item drawable="voice_changer" />
@@ -5092,6 +5113,8 @@
 	<item drawable="vr_banking_app" />
 	<item drawable="vsolution_app" />
     <category title="W" />
+    <item drawable="waveup" />
+    <item drawable="webview_devtools" />
     <item drawable="water_" />
     <item drawable="wintrust" />
     <item drawable="wifi_map" />

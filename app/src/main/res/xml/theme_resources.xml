@@ -5536,5 +5536,32 @@
     <AppIcon name="net.kairosoft.android.ski_en/main.Main" image="shiny_ski_resort"/>
     <AppIcon name="com.square.dark.iconpack/com.square.dark.iconpack.activities.SplashActivity" image="square_dark_icon_pack"/>
     <AppIcon name="com.gmg.you.r.square.icon.pack.theme/com.gmg.you.r.square.icon.pack.theme.activities.SplashActivity" image="your_square_icon_pack"/>
+    <AppIcon name="com.sec.android.app.sbrowser.lite/com.sec.android.app.sbrowser.SBrowserMainActivity" image="samsung_internet"/>
+    <AppIcon name="com.kwai.video/com.yxcorp.gifshow.homepage.HomeActivity" image="kwai"/>
+    <AppIcon name="com.instapro2.android/com.instagram.android.activity.MainTabActivity1" image="instagram"/>
+    <AppIcon name="com.google.android.go.documentsui/com.android.documentsui.LauncherActivity" image="files"/>
+    <AppIcon name="com.psma.videosplitter/com.psma.videosplitter.main.SplashActivity" image="video_splitter_psma"/>
+    <AppIcon name="com.blogspot.byterevapps.lollipopscreenrecorder/com.blogspot.byterevapps.lollipopscreenrecorder.MainActivity" image="adv_gravador_de_telas"/>
+    <AppIcon name="br.gov.ce.seduc.aluno/br.gov.ce.seduc.aluno.MainActivity" image="aluno_online"/>
+    <AppIcon name="rikka.appops/rikka.appops.home.HomeActivity" image="app_ops"/>
+    <AppIcon name="com.google.android.apps.assistant/com.google.android.apps.assistant.go.MainActivity" image="assistente"/>
+    <AppIcon name="com.awesomedroid.bigfont/com.awesomedroid.app.feature.splash.SplashActivity" image="big_font"/>
+    <AppIcon name="net.nhiroki.bluelineconsole/net.nhiroki.bluelineconsole.applicationMain.MainActivity" image="blue_line_console"/>
+    <AppIcon name="com.drdisagree.colorblendr/com.drdisagree.colorblendr.ui.activities.SplashActivity" image="colorblendr"/>
+    <AppIcon name="com.gbwhatsapp/com.gbwhatsapp.Icon0" image="gbwhatsapp"/>
+    <AppIcon name="br.com.intermedium/br.com.intermedium.splash.SplashActivity" image="inter"/>
+    <AppIcon name="com.sec.android.usermanual/com.sec.android.usermanual.UserManualActivity" image="manual_do_usuario"/>
+    <AppIcon name="com.eyefilter.nightmode.bluelightfilter/com.eyefilter.nightmode.bluelightfilter.ui.WelcomeActivity" image="modo_noturno"/>
+    <AppIcon name="br.com.nutricash.saldos/br.com.nutricash.saldos.MainActivity" image="nutricash"/>
+    <AppIcon name="com.therealbluepandabear.pixapencil/com.therealbluepandabear.pixapencil.activities.main.MainActivity" image="pixapencil"/>
+    <AppIcon name="musicplayer.playmusic.audioplayer/musicplayer.playmusic.audioplayer.ui.splash.SplashActivity" image="reprodutor_de_musica_ddmusic"/>
+    <AppIcon name="com.savestardeweditor/com.stardewvalleysave.MainActivity" image="save_editor_stardew"/>
+    <AppIcon name="com.snowcorp.stickerly.android/com.snowcorp.stickerly.android.LauncherEntryActivity" image="stickerly"/>
+    <AppIcon name="com.ruivop.realweather/com.ruivop.realweather.MainActivity" image="tempo_real"/>
+    <AppIcon name="com.and.games505.TerrariaPaid/com.unity3d.player.UnityPlayerActivity" image="terraria"/>
+    <AppIcon name="com.tomatos.appclient/com.tomatos.appclient.SplashActivity" image="tomato"/>
+    <AppIcon name="br.com.vivo.vivoeasy/br.com.zup.vivoeasy3.presentation.MainActivity" image="vivo_easy"/>
+    <AppIcon name="com.jarsilio.android.waveup/com.jarsilio.android.waveup.MainActivity" image="waveup"/>
+    <AppIcon name="com.google.android.webview.dev/org.chromium.android_webview.devui.LauncherActivity" image="webview_devtools"/>
 
 </Theme>

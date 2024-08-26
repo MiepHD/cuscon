@@ -5552,5 +5552,32 @@
     <item component="ComponentInfo{net.kairosoft.android.ski_en/main.Main}" drawable="shiny_ski_resort" />
     <item component="ComponentInfo{com.square.dark.iconpack/com.square.dark.iconpack.activities.SplashActivity}" drawable="square_dark_icon_pack" />
     <item component="ComponentInfo{com.gmg.you.r.square.icon.pack.theme/com.gmg.you.r.square.icon.pack.theme.activities.SplashActivity}" drawable="your_square_icon_pack" />
+    <item component="ComponentInfo{com.sec.android.app.sbrowser.lite/com.sec.android.app.sbrowser.SBrowserMainActivity}" drawable="samsung_internet" />
+    <item component="ComponentInfo{com.kwai.video/com.yxcorp.gifshow.homepage.HomeActivity}" drawable="kwai" />
+    <item component="ComponentInfo{com.instapro2.android/com.instagram.android.activity.MainTabActivity1}" drawable="instagram" />
+    <item component="ComponentInfo{com.google.android.go.documentsui/com.android.documentsui.LauncherActivity}" drawable="files" />
+    <item component="ComponentInfo{com.psma.videosplitter/com.psma.videosplitter.main.SplashActivity}" drawable="video_splitter_psma" />
+    <item component="ComponentInfo{com.blogspot.byterevapps.lollipopscreenrecorder/com.blogspot.byterevapps.lollipopscreenrecorder.MainActivity}" drawable="adv_gravador_de_telas" />
+    <item component="ComponentInfo{br.gov.ce.seduc.aluno/br.gov.ce.seduc.aluno.MainActivity}" drawable="aluno_online" />
+    <item component="ComponentInfo{rikka.appops/rikka.appops.home.HomeActivity}" drawable="app_ops" />
+    <item component="ComponentInfo{com.google.android.apps.assistant/com.google.android.apps.assistant.go.MainActivity}" drawable="assistente" />
+    <item component="ComponentInfo{com.awesomedroid.bigfont/com.awesomedroid.app.feature.splash.SplashActivity}" drawable="big_font" />
+    <item component="ComponentInfo{net.nhiroki.bluelineconsole/net.nhiroki.bluelineconsole.applicationMain.MainActivity}" drawable="blue_line_console" />
+    <item component="ComponentInfo{com.drdisagree.colorblendr/com.drdisagree.colorblendr.ui.activities.SplashActivity}" drawable="colorblendr" />
+    <item component="ComponentInfo{com.gbwhatsapp/com.gbwhatsapp.Icon0}" drawable="gbwhatsapp" />
+    <item component="ComponentInfo{br.com.intermedium/br.com.intermedium.splash.SplashActivity}" drawable="inter" />
+    <item component="ComponentInfo{com.sec.android.usermanual/com.sec.android.usermanual.UserManualActivity}" drawable="manual_do_usuario" />
+    <item component="ComponentInfo{com.eyefilter.nightmode.bluelightfilter/com.eyefilter.nightmode.bluelightfilter.ui.WelcomeActivity}" drawable="modo_noturno" />
+    <item component="ComponentInfo{br.com.nutricash.saldos/br.com.nutricash.saldos.MainActivity}" drawable="nutricash" />
+    <item component="ComponentInfo{com.therealbluepandabear.pixapencil/com.therealbluepandabear.pixapencil.activities.main.MainActivity}" drawable="pixapencil" />
+    <item component="ComponentInfo{musicplayer.playmusic.audioplayer/musicplayer.playmusic.audioplayer.ui.splash.SplashActivity}" drawable="reprodutor_de_musica_ddmusic" />
+    <item component="ComponentInfo{com.savestardeweditor/com.stardewvalleysave.MainActivity}" drawable="save_editor_stardew" />
+    <item component="ComponentInfo{com.snowcorp.stickerly.android/com.snowcorp.stickerly.android.LauncherEntryActivity}" drawable="stickerly" />
+    <item component="ComponentInfo{com.ruivop.realweather/com.ruivop.realweather.MainActivity}" drawable="tempo_real" />
+    <item component="ComponentInfo{com.and.games505.TerrariaPaid/com.unity3d.player.UnityPlayerActivity}" drawable="terraria" />
+    <item component="ComponentInfo{com.tomatos.appclient/com.tomatos.appclient.SplashActivity}" drawable="tomato" />
+    <item component="ComponentInfo{br.com.vivo.vivoeasy/br.com.zup.vivoeasy3.presentation.MainActivity}" drawable="vivo_easy" />
+    <item component="ComponentInfo{com.jarsilio.android.waveup/com.jarsilio.android.waveup.MainActivity}" drawable="waveup" />
+    <item component="ComponentInfo{com.google.android.webview.dev/org.chromium.android_webview.devui.LauncherActivity}" drawable="webview_devtools" />
 
 </resources>
