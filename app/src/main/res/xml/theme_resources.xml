@@ -5563,5 +5563,31 @@
     <AppIcon name="br.com.vivo.vivoeasy/br.com.zup.vivoeasy3.presentation.MainActivity" image="vivo_easy"/>
     <AppIcon name="com.jarsilio.android.waveup/com.jarsilio.android.waveup.MainActivity" image="waveup"/>
     <AppIcon name="com.google.android.webview.dev/org.chromium.android_webview.devui.LauncherActivity" image="webview_devtools"/>
+    <AppIcon name="com.textra/com.mplus.lib.ui.main.Main" image="textra"/>
+    <AppIcon name="com.vivokey.apexmanager/com.vivokey.apexmanager.presentation.ApexManagerActivity" image="apex_manager"/>
+    <AppIcon name="dev.firebase.appdistribution/dev.firebase.appdistribution.main.MainActivity" image="app tester"/>
+    <AppIcon name="com.bdouin.awladschool/com.bdouin.awladschool.MainActivity" image="awlad_school"/>
+    <AppIcon name="com.acloudguru/com.acloudguru.MainActivity" image="a_cloud_guru"/>
+    <AppIcon name="de.chadenas.cpudefense/com.example.cpudefense.WelcomeActivity" image="chipdefense"/>
+    <AppIcon name="com.imaginecurve.curve.prd/com.imaginecurve.curve.startup.launch.LaunchActivity" image="curve"/>
+    <AppIcon name="com.centrify.mdm.samsung/com.centrify.directcontrol.Identity" image="cyberark_identity"/>
+    <AppIcon name="com.centrify.mdm.samsung.internal/com.centrify.directcontrol.Identity" image="cyberark_identity_internal"/>
+    <AppIcon name="com.cyberark.alero/com.cyberark.alero.MainActivity" image="cyberark_mobile"/>
+    <AppIcon name="org.me.mobiexpensifyg/org.me.mobiexpensifyg.ExpensifyActivityBase" image="expensify"/>
+    <AppIcon name="com.fidesmo.sec.android/com.fidesmo.sec.android.ui.MainActivity" image="fidesmo"/>
+    <AppIcon name="fr.taxisg7.grandpublic/fr.taxisg7.app.launcher" image="g7_taxi"/>
+    <AppIcon name="keepass2android.plugin.keyboardswap2/crc64546702c72fe163a8.MainActivity" image="keyboardswap_plugin"/>
+    <AppIcon name="fr.leboncoin/fr.leboncoin.features.splashscreen.ui.activities.SplashScreenActivity" image="leboncoin"/>
+    <AppIcon name="com.lemonde.androidapp/com.lemonde.androidapp.MainActivity" image="le_monde"/>
+    <AppIcon name="net.mariages.launcher/net.bodas.launcher.presentation.screens.splash.SplashScreenActivity" image="mariagesnet"/>
+    <AppIcon name="fr.lcl.android.customerarea/fr.lcl.android.customerarea.activities.notconnected.SplashScreenActivity" image="mes_comptes_lcl"/>
+    <AppIcon name="com.yamaha.av.musiccastcontroller/com.yamaha.av.musiccastcontroller.activity.MainActivity" image="musiccast"/>
+    <AppIcon name="net.oqee.androidmobile/net.oqee.android.ui.main.splash.SplashActivity" image="oqee_by_free"/>
+    <AppIcon name="com.guerdons.passresto/com.sodexo.passresto.loading.presentation.activites.LoadingActivity" image="pluxee_fr"/>
+    <AppIcon name="com.xargsgrep.portknocker/com.xargsgrep.portknocker.activity.HostListActivity" image="port_knocker"/>
+    <AppIcon name="com.vonglasow.michael.satstat/com.vonglasow.michael.satstat.ui.MainActivity" image="satstat"/>
+    <AppIcon name="com.vsct.vsc.mobile.horaireetresa.android/com.evoyageurs.invictus.flutter.MainActivity" image="sncf_connect"/>
+    <AppIcon name="com.orange.phone/com.orange.phone.DialtactsActivity" image="telephone"/>
+    <AppIcon name="org.moire.ultrasonic/org.moire.ultrasonic.activity.NavigationActivity" image="ultrasonic"/>
 
 </Theme>

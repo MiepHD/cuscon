@@ -252,6 +252,10 @@
     <item drawable="google_wifi" />
     <item drawable="googleassistant2" />
     <category title="A" />
+    <item drawable="apex_manager" />
+    <item drawable="app tester" />
+    <item drawable="awlad_school" />
+    <item drawable="a_cloud_guru" />
     <item drawable="adv_gravador_de_telas" />
     <item drawable="aluno_online" />
     <item drawable="app_ops" />
@@ -907,6 +911,11 @@
 	<item drawable="bycs_drive" />
     <item drawable="ballozi_skynox" />
     <category title="C" />
+    <item drawable="chipdefense" />
+    <item drawable="curve" />
+    <item drawable="cyberark_identity" />
+    <item drawable="cyberark_identity_internal" />
+    <item drawable="cyberark_mobile" />
     <item drawable="colorblendr" />
     <item drawable="clear_square_icon_pack" />
     <item drawable="clear_square_white_icon_pack" />
@@ -1526,6 +1535,7 @@
 	<item drawable="dynalist" />
 	<item drawable="dynamicspot" />
     <category title="E" />
+    <item drawable="expensify" />
     <item drawable="emerald" />
     <item drawable="ecp_ruler" />
     <item drawable="elevate" />
@@ -1922,6 +1932,7 @@
 	<item drawable="futo_voice_input" />
 	<item drawable="fx" />
     <category title="G" />
+    <item drawable="g7_taxi" />
     <item drawable="gbwhatsapp" />
     <item drawable="geminiman_wearos_manager" />
     <item drawable="gofiber" />
@@ -2475,6 +2486,7 @@
 	<item drawable="justchess" />
 	<item drawable="justdial" />
     <category title="K" />
+    <item drawable="keyboardswap_plugin" />
     <item drawable="kontak" />
     <item drawable="kyocera_print" />
     <item drawable="kwai" />
@@ -2600,6 +2612,8 @@
 	<item drawable="kutumb" />
 	<item drawable="kwgt_pro" />
     <category title="L" />
+    <item drawable="leboncoin" />
+    <item drawable="le_monde" />
     <item drawable="light_blue" />
     <item drawable="light_green" />
     <item drawable="limeline" />
@@ -2759,6 +2773,9 @@
 	<item drawable="lucky_wasted" />
 	<item drawable="lux_o_meter_lichtmesser" />
     <category title="M" />
+    <item drawable="mariagesnet" />
+    <item drawable="mes_comptes_lcl" />
+    <item drawable="musiccast" />
     <item drawable="manual_do_usuario" />
     <item drawable="modo_noturno" />
     <item drawable="mcmaster" />
@@ -3391,6 +3408,7 @@
 	<item drawable="nozzle" />
 	<item drawable="nytimes" />
     <category title="O" />
+    <item drawable="oqee_by_free" />
     <item drawable="one_swipe_notes" />
     <item drawable="office_reader_free" />
     <item drawable="oneplus_photos" />
@@ -3546,6 +3564,8 @@
 	<item drawable="ovag_e_mobil" />
 	<item drawable="owlfiles" />
     <category title="P" />
+    <item drawable="pluxee_fr" />
+    <item drawable="port_knocker" />
     <item drawable="pixapencil" />
     <item drawable="plockaupp_watchface" />
     <item drawable="pdanet_" />
@@ -4132,6 +4152,8 @@
 	<item drawable="rustdesk" />
 	<item drawable="rvx_music" />
     <category title="S" />
+    <item drawable="satstat" />
+    <item drawable="sncf_connect" />
     <item drawable="save_editor_stardew" />
     <item drawable="stickerly" />
     <item drawable="shapy" />
@@ -4609,6 +4631,7 @@
 	<item drawable="swiss_post" />
 	<item drawable="systemui_tuner" />
     <category title="T" />
+    <item drawable="telephone" />
     <item drawable="tempo_real" />
     <item drawable="terraria" />
     <item drawable="tomato" />
@@ -4904,6 +4927,7 @@
 	<item drawable="tux_paint_config" />
 	<item drawable="twelve_key_dialer" />
     <category title="U" />
+    <item drawable="ultrasonic" />
     <item drawable="uno_2_go" />
     <item drawable="uno_calc" />
     <item drawable="usps_mobile" />

@@ -5579,5 +5579,31 @@
     <item component="ComponentInfo{br.com.vivo.vivoeasy/br.com.zup.vivoeasy3.presentation.MainActivity}" drawable="vivo_easy" />
     <item component="ComponentInfo{com.jarsilio.android.waveup/com.jarsilio.android.waveup.MainActivity}" drawable="waveup" />
     <item component="ComponentInfo{com.google.android.webview.dev/org.chromium.android_webview.devui.LauncherActivity}" drawable="webview_devtools" />
+    <item component="ComponentInfo{com.textra/com.mplus.lib.ui.main.Main}" drawable="textra" />
+    <item component="ComponentInfo{com.vivokey.apexmanager/com.vivokey.apexmanager.presentation.ApexManagerActivity}" drawable="apex_manager" />
+    <item component="ComponentInfo{dev.firebase.appdistribution/dev.firebase.appdistribution.main.MainActivity}" drawable="app tester" />
+    <item component="ComponentInfo{com.bdouin.awladschool/com.bdouin.awladschool.MainActivity}" drawable="awlad_school" />
+    <item component="ComponentInfo{com.acloudguru/com.acloudguru.MainActivity}" drawable="a_cloud_guru" />
+    <item component="ComponentInfo{de.chadenas.cpudefense/com.example.cpudefense.WelcomeActivity}" drawable="chipdefense" />
+    <item component="ComponentInfo{com.imaginecurve.curve.prd/com.imaginecurve.curve.startup.launch.LaunchActivity}" drawable="curve" />
+    <item component="ComponentInfo{com.centrify.mdm.samsung/com.centrify.directcontrol.Identity}" drawable="cyberark_identity" />
+    <item component="ComponentInfo{com.centrify.mdm.samsung.internal/com.centrify.directcontrol.Identity}" drawable="cyberark_identity_internal" />
+    <item component="ComponentInfo{com.cyberark.alero/com.cyberark.alero.MainActivity}" drawable="cyberark_mobile" />
+    <item component="ComponentInfo{org.me.mobiexpensifyg/org.me.mobiexpensifyg.ExpensifyActivityBase}" drawable="expensify" />
+    <item component="ComponentInfo{com.fidesmo.sec.android/com.fidesmo.sec.android.ui.MainActivity}" drawable="fidesmo" />
+    <item component="ComponentInfo{fr.taxisg7.grandpublic/fr.taxisg7.app.launcher}" drawable="g7_taxi" />
+    <item component="ComponentInfo{keepass2android.plugin.keyboardswap2/crc64546702c72fe163a8.MainActivity}" drawable="keyboardswap_plugin" />
+    <item component="ComponentInfo{fr.leboncoin/fr.leboncoin.features.splashscreen.ui.activities.SplashScreenActivity}" drawable="leboncoin" />
+    <item component="ComponentInfo{com.lemonde.androidapp/com.lemonde.androidapp.MainActivity}" drawable="le_monde" />
+    <item component="ComponentInfo{net.mariages.launcher/net.bodas.launcher.presentation.screens.splash.SplashScreenActivity}" drawable="mariagesnet" />
+    <item component="ComponentInfo{fr.lcl.android.customerarea/fr.lcl.android.customerarea.activities.notconnected.SplashScreenActivity}" drawable="mes_comptes_lcl" />    
+    <item component="ComponentInfo{com.yamaha.av.musiccastcontroller/com.yamaha.av.musiccastcontroller.activity.MainActivity}" drawable="musiccast" />
+    <item component="ComponentInfo{net.oqee.androidmobile/net.oqee.android.ui.main.splash.SplashActivity}" drawable="oqee_by_free" />
+    <item component="ComponentInfo{com.guerdons.passresto/com.sodexo.passresto.loading.presentation.activites.LoadingActivity}" drawable="pluxee_fr" />
+    <item component="ComponentInfo{com.xargsgrep.portknocker/com.xargsgrep.portknocker.activity.HostListActivity}" drawable="port_knocker" />
+    <item component="ComponentInfo{com.vonglasow.michael.satstat/com.vonglasow.michael.satstat.ui.MainActivity}" drawable="satstat" />
+    <item component="ComponentInfo{com.vsct.vsc.mobile.horaireetresa.android/com.evoyageurs.invictus.flutter.MainActivity}" drawable="sncf_connect" />
+    <item component="ComponentInfo{com.orange.phone/com.orange.phone.DialtactsActivity}" drawable="telephone" />
+    <item component="ComponentInfo{org.moire.ultrasonic/org.moire.ultrasonic.activity.NavigationActivity}" drawable="ultrasonic" />
 
 </resources>
