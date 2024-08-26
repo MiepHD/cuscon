@@ -5607,5 +5607,6 @@
     <AppIcon name="fred.tasks/fred.tasks.MainActivity" image="review"/>
     <AppIcon name="torrent.search.revolutionv2/com.example.torrentsearchrevolutionv2.presentation.activities.InitActivity" image="torrent_search_revolution_v2"/>
     <AppIcon name="com.pittvandewitt.viperfx/com.pittvandewitt.viperfx.MainActivity" image="viper4android_fx"/>
+    <AppIcon name="biz.ajoshi.kolandroid/com.github.kolandroid.kol.android.login.LoginScreen" image="kol"/>
 
 </Theme>

@@ -5623,5 +5623,6 @@
     <item component="ComponentInfo{fred.tasks/fred.tasks.MainActivity}" drawable="review" />
     <item component="ComponentInfo{torrent.search.revolutionv2/com.example.torrentsearchrevolutionv2.presentation.activities.InitActivity}" drawable="torrent_search_revolution_v2" />      
     <item component="ComponentInfo{com.pittvandewitt.viperfx/com.pittvandewitt.viperfx.MainActivity}" drawable="viper4android_fx" />
+    <item component="ComponentInfo{biz.ajoshi.kolandroid/com.github.kolandroid.kol.android.login.LoginScreen}" drawable="kol" />
 
 </resources>
