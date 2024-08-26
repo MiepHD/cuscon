@@ -5592,5 +5592,12 @@
     <AppIcon name="github.daneren2005.dsub/github.daneren2005.dsub.activity.SubsonicFragmentActivity" image="dsub"/>
     <AppIcon name="com.cappielloantonio.notquitemy.tempo/com.cappielloantonio.tempo.ui.activity.MainActivity" image="tempo_blue"/>
     <AppIcon name="org.fossify.calendar/org.fossify.calendar.activities.SplashActivity.Light_blue" image="fossify_calendar_light_blue"/>
+    <AppIcon name="jp.co.canon.ic.cameraconnect/jp.co.canon.ic.cameraconnect.top.CCTopActivity" image="camera_connect"/>
+    <AppIcon name="org.fossify.phone/org.fossify.phone.activities.SplashActivity.Green" image="fossify_phone_green"/>
+    <AppIcon name="org.fossify.contacts/org.fossify.contacts.activities.SplashActivity.Green" image="kontakty"/>
+    <AppIcon name="com.piorko.obrazkowo/com.piorko.obrazkowo.SplashScreen" image="obrazkowo"/>
+    <AppIcon name="com.ssamedi.Packages_Tracker/com.ssamedi.Packages_Tracker.MainActivity" image="sledzenie_przesyłek"/>
+    <AppIcon name="io.bakehaus.wypiek/io.bakehaus.wypiek.MainActivity" image="wypiek"/>
+    <AppIcon name="com.simplemobiletools.clock/com.simplemobiletools.clock.activities.SplashActivity.Grey_black" image="zegar"/>
 
 </Theme>

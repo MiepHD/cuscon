@@ -5608,5 +5608,12 @@
     <item component="ComponentInfo{github.daneren2005.dsub/github.daneren2005.dsub.activity.SubsonicFragmentActivity}" drawable="dsub" />
     <item component="ComponentInfo{com.cappielloantonio.notquitemy.tempo/com.cappielloantonio.tempo.ui.activity.MainActivity}" drawable="tempo_blue" />
     <item component="ComponentInfo{org.fossify.calendar/org.fossify.calendar.activities.SplashActivity.Light_blue}" drawable="fossify_calendar_light_blue" />
+    <item component="ComponentInfo{jp.co.canon.ic.cameraconnect/jp.co.canon.ic.cameraconnect.top.CCTopActivity}" drawable="camera_connect" />
+    <item component="ComponentInfo{org.fossify.phone/org.fossify.phone.activities.SplashActivity.Green}" drawable="fossify_phone_green" />
+    <item component="ComponentInfo{org.fossify.contacts/org.fossify.contacts.activities.SplashActivity.Green}" drawable="kontakty" />
+    <item component="ComponentInfo{com.piorko.obrazkowo/com.piorko.obrazkowo.SplashScreen}" drawable="obrazkowo" />
+    <item component="ComponentInfo{com.ssamedi.Packages_Tracker/com.ssamedi.Packages_Tracker.MainActivity}" drawable="sledzenie_przesyłek" />
+    <item component="ComponentInfo{io.bakehaus.wypiek/io.bakehaus.wypiek.MainActivity}" drawable="wypiek" />
+    <item component="ComponentInfo{com.simplemobiletools.clock/com.simplemobiletools.clock.activities.SplashActivity.Grey_black}" drawable="zegar" />
 
 </resources>

@@ -911,6 +911,7 @@
 	<item drawable="bycs_drive" />
     <item drawable="ballozi_skynox" />
     <category title="C" />
+    <item drawable="camera_connect" />
     <item drawable="chipdefense" />
     <item drawable="curve" />
     <item drawable="cyberark_identity" />
@@ -1697,6 +1698,7 @@
 	<item drawable="explorer" />
 	<item drawable="exteragram" />
     <category title="F" />
+    <item drawable="fossify_phone_green" />
     <item drawable="fossify_calendar_light_blue" />
     <item drawable="fledermaus_icon_pack" />
     <item drawable="floor_plan_creator" />
@@ -2488,6 +2490,7 @@
 	<item drawable="justchess" />
 	<item drawable="justdial" />
     <category title="K" />
+    <item drawable="kontakty" />
     <item drawable="keyboardswap_plugin" />
     <item drawable="kontak" />
     <item drawable="kyocera_print" />
@@ -3410,6 +3413,7 @@
 	<item drawable="nozzle" />
 	<item drawable="nytimes" />
     <category title="O" />
+    <item drawable="obrazkowo" />
     <item drawable="oqee_by_free" />
     <item drawable="one_swipe_notes" />
     <item drawable="office_reader_free" />
@@ -4154,6 +4158,7 @@
 	<item drawable="rustdesk" />
 	<item drawable="rvx_music" />
     <category title="S" />
+    <item drawable="sledzenie_przesyłek" />
     <item drawable="satstat" />
     <item drawable="sncf_connect" />
     <item drawable="save_editor_stardew" />
@@ -5140,6 +5145,7 @@
 	<item drawable="vr_banking_app" />
 	<item drawable="vsolution_app" />
     <category title="W" />
+    <item drawable="wypiek" />
     <item drawable="waveup" />
     <item drawable="webview_devtools" />
     <item drawable="water_" />
@@ -5402,6 +5408,7 @@
 	<item drawable="yuka" />
 	<item drawable="yuzu_browser" />
     <category title="Z" />
+    <item drawable="zegar" />
     <item drawable="zorin_connect" />
     <item drawable="zello" />
     <item drawable="zen_mode" />
