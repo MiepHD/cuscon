@@ -5565,7 +5565,7 @@
     <AppIcon name="com.google.android.webview.dev/org.chromium.android_webview.devui.LauncherActivity" image="webview_devtools"/>
     <AppIcon name="com.textra/com.mplus.lib.ui.main.Main" image="textra"/>
     <AppIcon name="com.vivokey.apexmanager/com.vivokey.apexmanager.presentation.ApexManagerActivity" image="apex_manager"/>
-    <AppIcon name="dev.firebase.appdistribution/dev.firebase.appdistribution.main.MainActivity" image="app tester"/>
+    <AppIcon name="dev.firebase.appdistribution/dev.firebase.appdistribution.main.MainActivity" image="app_tester"/>
     <AppIcon name="com.bdouin.awladschool/com.bdouin.awladschool.MainActivity" image="awlad_school"/>
     <AppIcon name="com.acloudguru/com.acloudguru.MainActivity" image="a_cloud_guru"/>
     <AppIcon name="de.chadenas.cpudefense/com.example.cpudefense.WelcomeActivity" image="chipdefense"/>
@@ -5596,7 +5596,7 @@
     <AppIcon name="org.fossify.phone/org.fossify.phone.activities.SplashActivity.Green" image="fossify_phone_green"/>
     <AppIcon name="org.fossify.contacts/org.fossify.contacts.activities.SplashActivity.Green" image="kontakty"/>
     <AppIcon name="com.piorko.obrazkowo/com.piorko.obrazkowo.SplashScreen" image="obrazkowo"/>
-    <AppIcon name="com.ssamedi.Packages_Tracker/com.ssamedi.Packages_Tracker.MainActivity" image="sledzenie_przesyłek"/>
+    <AppIcon name="com.ssamedi.Packages_Tracker/com.ssamedi.Packages_Tracker.MainActivity" image="sledzenie_przesylek"/>
     <AppIcon name="io.bakehaus.wypiek/io.bakehaus.wypiek.MainActivity" image="wypiek"/>
     <AppIcon name="com.simplemobiletools.clock/com.simplemobiletools.clock.activities.SplashActivity.Grey_black" image="zegar"/>
     <AppIcon name="money.myhubble/money.myhubble.MainActivity" image="hubble"/>

@@ -253,7 +253,7 @@
     <item drawable="googleassistant2" />
     <category title="A" />
     <item drawable="apex_manager" />
-    <item drawable="app tester" />
+    <item drawable="app_tester" />
     <item drawable="awlad_school" />
     <item drawable="a_cloud_guru" />
     <item drawable="adv_gravador_de_telas" />
@@ -4167,7 +4167,7 @@
 	<item drawable="rustdesk" />
 	<item drawable="rvx_music" />
     <category title="S" />
-    <item drawable="sledzenie_przesyłek" />
+    <item drawable="sledzenie_przesylek" />
     <item drawable="satstat" />
     <item drawable="sncf_connect" />
     <item drawable="save_editor_stardew" />
