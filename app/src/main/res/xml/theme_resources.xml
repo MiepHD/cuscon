@@ -5589,5 +5589,7 @@
     <AppIcon name="com.vsct.vsc.mobile.horaireetresa.android/com.evoyageurs.invictus.flutter.MainActivity" image="sncf_connect"/>
     <AppIcon name="com.orange.phone/com.orange.phone.DialtactsActivity" image="telephone"/>
     <AppIcon name="org.moire.ultrasonic/org.moire.ultrasonic.activity.NavigationActivity" image="ultrasonic"/>
+    <AppIcon name="github.daneren2005.dsub/github.daneren2005.dsub.activity.SubsonicFragmentActivity" image="dsub"/>
+    <AppIcon name="com.cappielloantonio.notquitemy.tempo/com.cappielloantonio.tempo.ui.activity.MainActivity" image="tempo_blue"/>
 
 </Theme>

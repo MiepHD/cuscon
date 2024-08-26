@@ -1258,6 +1258,7 @@
 	<item drawable="cubic_2_3_4_player_games" />
 	<item drawable="currencies" />
     <category title="D" />
+    <item drawable="dsub" />
     <item drawable="daily_apod_wallpaper" />
     <item drawable="data_wing" />
     <item drawable="dest_sol" />
@@ -4631,6 +4632,7 @@
 	<item drawable="swiss_post" />
 	<item drawable="systemui_tuner" />
     <category title="T" />
+    <item drawable="tempo_blue" />
     <item drawable="telephone" />
     <item drawable="tempo_real" />
     <item drawable="terraria" />
