@@ -5608,5 +5608,8 @@
     <AppIcon name="torrent.search.revolutionv2/com.example.torrentsearchrevolutionv2.presentation.activities.InitActivity" image="torrent_search_revolution_v2"/>
     <AppIcon name="com.pittvandewitt.viperfx/com.pittvandewitt.viperfx.MainActivity" image="viper4android_fx"/>
     <AppIcon name="biz.ajoshi.kolandroid/com.github.kolandroid.kol.android.login.LoginScreen" image="kol"/>
+    <AppIcon name="com.appdeuna.wallet/com.pichincha.bpbilletera.MainActivity" image="deuna_20"/>
+    <AppIcon name="ec.push.multicines/ec.push.multicines.MainActivity" image="multicines"/>
+    <AppIcon name="im.molly.app/org.thoughtcrime.securesms.RoutingActivity" image="molly_solid"/>
 
 </Theme>

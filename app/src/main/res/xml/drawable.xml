@@ -1259,6 +1259,7 @@
 	<item drawable="cubic_2_3_4_player_games" />
 	<item drawable="currencies" />
     <category title="D" />
+    <item drawable="deuna_20" />
     <item drawable="dsub" />
     <item drawable="daily_apod_wallpaper" />
     <item drawable="data_wing" />
@@ -2780,6 +2781,8 @@
 	<item drawable="lucky_wasted" />
 	<item drawable="lux_o_meter_lichtmesser" />
     <category title="M" />
+    <item drawable="multicines" />
+    <item drawable="molly_solid" />
     <item drawable="mindly" />
     <item drawable="moneycontrol_pro" />
     <item drawable="mariagesnet" />
