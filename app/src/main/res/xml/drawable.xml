@@ -1697,6 +1697,7 @@
 	<item drawable="explorer" />
 	<item drawable="exteragram" />
     <category title="F" />
+    <item drawable="fossify_calendar_light_blue" />
     <item drawable="fledermaus_icon_pack" />
     <item drawable="floor_plan_creator" />
     <item drawable="fossify_messages_blue" />
