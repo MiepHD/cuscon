@@ -252,6 +252,7 @@
     <item drawable="google_wifi" />
     <item drawable="googleassistant2" />
     <category title="A" />
+    <item drawable="alfacast_x" />
     <item drawable="arcticons" />
     <item drawable="appgallery" />
     <item drawable="authpass" />
@@ -674,6 +675,7 @@
 	<item drawable="awox_homecontrol" />
 	<item drawable="axp_apk_extractor" />
     <category title="B" />
+    <item drawable="big_digital" />
     <item drawable="blinkit" />
     <item drawable="blockchain" />
     <item drawable="book_keeper" />
@@ -899,6 +901,9 @@
 	<item drawable="bycs_drive" />
     <item drawable="ballozi_skynox" />
     <category title="C" />
+    <item drawable="clear_square_icon_pack" />
+    <item drawable="clear_square_white_icon_pack" />
+    <item drawable="cyandiant" />
     <item drawable="cat_scanner" />
     <item drawable="conversations" />
     <item drawable="cherrygram" />
@@ -1514,6 +1519,7 @@
 	<item drawable="dynalist" />
 	<item drawable="dynamicspot" />
     <category title="E" />
+    <item drawable="emerald" />
     <item drawable="ecp_ruler" />
     <item drawable="elevate" />
     <item drawable="ebay" />
@@ -1673,6 +1679,7 @@
 	<item drawable="explorer" />
 	<item drawable="exteragram" />
     <category title="F" />
+    <item drawable="fledermaus_icon_pack" />
     <item drawable="floor_plan_creator" />
     <item drawable="fossify_messages_blue" />
     <item drawable="flyy" />
@@ -1908,6 +1915,7 @@
 	<item drawable="futo_voice_input" />
 	<item drawable="fx" />
     <category title="G" />
+    <item drawable="geminiman_wearos_manager" />
     <item drawable="gofiber" />
     <item drawable="gerenciador_de_arquivos" />
     <item drawable="golden_thread_tarot" />
@@ -2583,6 +2591,9 @@
 	<item drawable="kutumb" />
 	<item drawable="kwgt_pro" />
     <category title="L" />
+    <item drawable="light_blue" />
+    <item drawable="light_green" />
+    <item drawable="limeline" />
     <item drawable="lumosity" />
     <item drawable="loklok" />
     <item drawable="labyrinthos" />
@@ -3182,6 +3193,7 @@
 	<item drawable="mytelkomsel" />
 	<item drawable="myumobile" />
     <category title="N" />
+    <item drawable="n_digital_watch_face" />
     <item drawable="nfs_most_wanted" />
     <item drawable="network_survey" />
     <item drawable="notistar" />
@@ -3367,6 +3379,7 @@
 	<item drawable="nozzle" />
 	<item drawable="nytimes" />
     <category title="O" />
+    <item drawable="one_swipe_notes" />
     <item drawable="office_reader_free" />
     <item drawable="oneplus_photos" />
     <item drawable="official_twrp_app" />
@@ -4105,6 +4118,11 @@
 	<item drawable="rustdesk" />
 	<item drawable="rvx_music" />
     <category title="S" />
+    <item drawable="shapy" />
+    <item drawable="sharp_icon_pack" />
+    <item drawable="shiny_ski_resort" />
+    <item drawable="square_dark_icon_pack" />
+    <item drawable="sound_meter_decibel" />
     <item drawable="skull_wear" />
     <item drawable="slideshow_watchface" />
     <item drawable="swf_solar_v2_planets_watch_face_installation" />
@@ -5290,6 +5308,7 @@
 	<item drawable="xodo" />
 	<item drawable="xposed_edge" />
     <category title="Y" />
+    <item drawable="your_square_icon_pack" />
     <item drawable="yodel" />
     <item drawable="youtube_tv" />
     <item drawable="yelp" />

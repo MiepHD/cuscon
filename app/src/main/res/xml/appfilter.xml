@@ -5533,5 +5533,24 @@
     <item component="ComponentInfo{com.vishnu.terminalcommandwatchface/com.vishnu.terminalcommandwatchface.MainActivity}" drawable="terminal_command_watch_face" />        
     <item component="ComponentInfo{com.timrface/com.timrface.ConfigurationActivity}" drawable="timr_face" />
     <item component="ComponentInfo{production.ttrides.customer/product.clicklabs.jugnoo.SplashNewActivity}" drawable="tt_rideshare" />
+    <item component="ComponentInfo{app.tools.soundmeter.decibel.noisedetector.pro/cn.coocent.tools.soundmeter.app.LaunchActivity}" drawable="sound_meter_decibel" />
+    <item component="ComponentInfo{net.alfacast.x/net.alfacast.mobile.AlfacastActivity}" drawable="alfacast_x" />
+    <item component="ComponentInfo{com.amoledwatchfaces.bigdigital/com.amoledwatchfaces.bigdigital.MainActivity}" drawable="big_digital" />
+    <item component="ComponentInfo{com.panotogomo.squareclear/com.panotogomo.squareclear.activities.SplashActivity}" drawable="clear_square_icon_pack" />
+    <item component="ComponentInfo{com.panotogomo.clwsquare/com.panotogomo.clwsquare.activities.SplashActivity}" drawable="clear_square_white_icon_pack" />
+    <item component="ComponentInfo{com.panotogomo.bdtosca/com.panotogomo.bdtosca.activities.SplashActivity}" drawable="cyandiant" />
+    <item component="ComponentInfo{com.panotogomo.darktosca/com.panotogomo.darktosca.activities.SplashActivity}" drawable="emerald" />
+    <item component="ComponentInfo{com.panotogomo.fledermaus/com.panotogomo.fledermaus.activities.SplashActivity}" drawable="fledermaus_icon_pack" />
+    <item component="ComponentInfo{com.geminiman.wearosmanager/com.geminiman.wearosmanager.MainActivity}" drawable="geminiman_wearos_manager" />
+    <item component="ComponentInfo{com.panotogomo.blue/com.panotogomo.blue.activities.SplashActivity}" drawable="light_blue" />
+    <item component="ComponentInfo{com.panotogomo.green/com.panotogomo.green.activities.SplashActivity}" drawable="light_green" />
+    <item component="ComponentInfo{com.panotogomo.lbgreen/com.panotogomo.lbgreen.activities.SplashActivity}" drawable="limeline" />
+    <item component="ComponentInfo{com.watchfacestudio.awfnewdigital/com.watchfacestudio.awfnewdigital.MainMobileActivity}" drawable="n_digital_watch_face" />
+    <item component="ComponentInfo{com.greatapps.oneswipenotes/com.greatapps.oneswipenotes.activities.MainActivity}" drawable="one_swipe_notes" />
+    <item component="ComponentInfo{com.osheden.shapy/com.osheden.shapy.activities.MainActivity}" drawable="shapy" />
+    <item component="ComponentInfo{com.sharp.square.iconpack/com.sharp.square.iconpack.activities.SplashActivity}" drawable="sharp_icon_pack" />
+    <item component="ComponentInfo{net.kairosoft.android.ski_en/main.Main}" drawable="shiny_ski_resort" />
+    <item component="ComponentInfo{com.square.dark.iconpack/com.square.dark.iconpack.activities.SplashActivity}" drawable="square_dark_icon_pack" />
+    <item component="ComponentInfo{com.gmg.you.r.square.icon.pack.theme/com.gmg.you.r.square.icon.pack.theme.activities.SplashActivity}" drawable="your_square_icon_pack" />
 
 </resources>

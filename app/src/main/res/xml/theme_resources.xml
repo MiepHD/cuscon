@@ -5517,5 +5517,24 @@
     <AppIcon name="com.vishnu.terminalcommandwatchface/com.vishnu.terminalcommandwatchface.MainActivity" image="terminal_command_watch_face"/>
     <AppIcon name="com.timrface/com.timrface.ConfigurationActivity" image="timr_face"/>
     <AppIcon name="production.ttrides.customer/product.clicklabs.jugnoo.SplashNewActivity" image="tt_rideshare"/>
+    <AppIcon name="app.tools.soundmeter.decibel.noisedetector.pro/cn.coocent.tools.soundmeter.app.LaunchActivity" image="sound_meter_decibel"/>
+    <AppIcon name="net.alfacast.x/net.alfacast.mobile.AlfacastActivity" image="alfacast_x"/>
+    <AppIcon name="com.amoledwatchfaces.bigdigital/com.amoledwatchfaces.bigdigital.MainActivity" image="big_digital"/>
+    <AppIcon name="com.panotogomo.squareclear/com.panotogomo.squareclear.activities.SplashActivity" image="clear_square_icon_pack"/>
+    <AppIcon name="com.panotogomo.clwsquare/com.panotogomo.clwsquare.activities.SplashActivity" image="clear_square_white_icon_pack"/>
+    <AppIcon name="com.panotogomo.bdtosca/com.panotogomo.bdtosca.activities.SplashActivity" image="cyandiant"/>
+    <AppIcon name="com.panotogomo.darktosca/com.panotogomo.darktosca.activities.SplashActivity" image="emerald"/>
+    <AppIcon name="com.panotogomo.fledermaus/com.panotogomo.fledermaus.activities.SplashActivity" image="fledermaus_icon_pack"/>
+    <AppIcon name="com.geminiman.wearosmanager/com.geminiman.wearosmanager.MainActivity" image="geminiman_wearos_manager"/>
+    <AppIcon name="com.panotogomo.blue/com.panotogomo.blue.activities.SplashActivity" image="light_blue"/>
+    <AppIcon name="com.panotogomo.green/com.panotogomo.green.activities.SplashActivity" image="light_green"/>
+    <AppIcon name="com.panotogomo.lbgreen/com.panotogomo.lbgreen.activities.SplashActivity" image="limeline"/>
+    <AppIcon name="com.watchfacestudio.awfnewdigital/com.watchfacestudio.awfnewdigital.MainMobileActivity" image="n_digital_watch_face"/>
+    <AppIcon name="com.greatapps.oneswipenotes/com.greatapps.oneswipenotes.activities.MainActivity" image="one_swipe_notes"/>
+    <AppIcon name="com.osheden.shapy/com.osheden.shapy.activities.MainActivity" image="shapy"/>
+    <AppIcon name="com.sharp.square.iconpack/com.sharp.square.iconpack.activities.SplashActivity" image="sharp_icon_pack"/>
+    <AppIcon name="net.kairosoft.android.ski_en/main.Main" image="shiny_ski_resort"/>
+    <AppIcon name="com.square.dark.iconpack/com.square.dark.iconpack.activities.SplashActivity" image="square_dark_icon_pack"/>
+    <AppIcon name="com.gmg.you.r.square.icon.pack.theme/com.gmg.you.r.square.icon.pack.theme.activities.SplashActivity" image="your_square_icon_pack"/>
 
 </Theme>
