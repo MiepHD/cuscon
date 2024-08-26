@@ -5524,5 +5524,14 @@
     <item component="ComponentInfo{com.zorinos.zorin_connect/org.kde.kdeconnect.UserInterface.MainActivity}" drawable="zorin_connect" />
     <item component="ComponentInfo{com.skype.insiders/com.skype4life.MainActivity}" drawable="skype_insider" />
     <item component="ComponentInfo{com.mattel163.uno2/com.mattel163.uno2.extendlib.UNO2Activity}" drawable="uno_2_go" />
+    <item component="ComponentInfo{fr.ecp.ruler.app/com.xalphalab.rulerlib.MainActivity}" drawable="ecp_ruler" />
+    <item component="ComponentInfo{com.forzaone.watches.plockaupp/com.forzaone.watches.plockaupp.WelcomeActivity}" drawable="plockaupp_watchface" />
+    <item component="ComponentInfo{in.thedesigncycle.radii/in.thedesigncycle.radii.LaunchActivity}" drawable="radii" />
+    <item component="ComponentInfo{fr.thema.wear.watch.skull/fr.thema.wear.watch.skull.WatchFaceCompanionConfigActivity}" drawable="skull_wear" />
+    <item component="ComponentInfo{de.Bit_Bite.SlideshowWatchface/crc647cdb993a12d77b7f.MainActivity}" drawable="slideshow_watchface" />
+    <item component="ComponentInfo{com.swisswatchface.swf.solar.v2.planets.proseries/com.swisswatchface.swf.solar.v2.planets.proseries.MainMobileActivity}" drawable="swf_solar_v2_planets_watch_face_installation" />
+    <item component="ComponentInfo{com.vishnu.terminalcommandwatchface/com.vishnu.terminalcommandwatchface.MainActivity}" drawable="terminal_command_watch_face" />        
+    <item component="ComponentInfo{com.timrface/com.timrface.ConfigurationActivity}" drawable="timr_face" />
+    <item component="ComponentInfo{production.ttrides.customer/product.clicklabs.jugnoo.SplashNewActivity}" drawable="tt_rideshare" />
 
 </resources>

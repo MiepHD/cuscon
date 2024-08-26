@@ -5508,5 +5508,14 @@
     <AppIcon name="com.zorinos.zorin_connect/org.kde.kdeconnect.UserInterface.MainActivity" image="zorin_connect"/>
     <AppIcon name="com.skype.insiders/com.skype4life.MainActivity" image="skype_insider"/>
     <AppIcon name="com.mattel163.uno2/com.mattel163.uno2.extendlib.UNO2Activity" image="uno_2_go"/>
+    <AppIcon name="fr.ecp.ruler.app/com.xalphalab.rulerlib.MainActivity" image="ecp_ruler"/>
+    <AppIcon name="com.forzaone.watches.plockaupp/com.forzaone.watches.plockaupp.WelcomeActivity" image="plockaupp_watchface"/>
+    <AppIcon name="in.thedesigncycle.radii/in.thedesigncycle.radii.LaunchActivity" image="radii"/>
+    <AppIcon name="fr.thema.wear.watch.skull/fr.thema.wear.watch.skull.WatchFaceCompanionConfigActivity" image="skull_wear"/>
+    <AppIcon name="de.Bit_Bite.SlideshowWatchface/crc647cdb993a12d77b7f.MainActivity" image="slideshow_watchface"/>
+    <AppIcon name="com.swisswatchface.swf.solar.v2.planets.proseries/com.swisswatchface.swf.solar.v2.planets.proseries.MainMobileActivity" image="swf_solar_v2_planets_watch_face_installation"/>
+    <AppIcon name="com.vishnu.terminalcommandwatchface/com.vishnu.terminalcommandwatchface.MainActivity" image="terminal_command_watch_face"/>
+    <AppIcon name="com.timrface/com.timrface.ConfigurationActivity" image="timr_face"/>
+    <AppIcon name="production.ttrides.customer/product.clicklabs.jugnoo.SplashNewActivity" image="tt_rideshare"/>
 
 </Theme>

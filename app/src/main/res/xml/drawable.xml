@@ -1514,6 +1514,7 @@
 	<item drawable="dynalist" />
 	<item drawable="dynamicspot" />
     <category title="E" />
+    <item drawable="ecp_ruler" />
     <item drawable="elevate" />
     <item drawable="ebay" />
     <item drawable="espees_wallet" />
@@ -3520,6 +3521,7 @@
 	<item drawable="ovag_e_mobil" />
 	<item drawable="owlfiles" />
     <category title="P" />
+    <item drawable="plockaupp_watchface" />
     <item drawable="pdanet_" />
     <item drawable="piano_designer" />
     <item drawable="principia" />
@@ -3899,6 +3901,7 @@
 	<item drawable="quik" />
 	<item drawable="quillpad" />
     <category title="R" />
+    <item drawable="radii" />
     <item drawable="randonautica" />
     <item drawable="rg_digital_sp" />
     <item drawable="rock_identifier" />
@@ -4102,6 +4105,9 @@
 	<item drawable="rustdesk" />
 	<item drawable="rvx_music" />
     <category title="S" />
+    <item drawable="skull_wear" />
+    <item drawable="slideshow_watchface" />
+    <item drawable="swf_solar_v2_planets_watch_face_installation" />
     <item drawable="skype_insider" />
     <item drawable="simplified" />
     <item drawable="spotit" />
@@ -4569,6 +4575,9 @@
 	<item drawable="swiss_post" />
 	<item drawable="systemui_tuner" />
     <category title="T" />
+    <item drawable="terminal_command_watch_face" />
+    <item drawable="timr_face" />
+    <item drawable="tt_rideshare" />
     <item drawable="termuc" />
     <item drawable="tapoffice" />
     <item drawable="tracker" />
