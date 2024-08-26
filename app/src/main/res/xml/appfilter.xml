@@ -5615,5 +5615,13 @@
     <item component="ComponentInfo{com.ssamedi.Packages_Tracker/com.ssamedi.Packages_Tracker.MainActivity}" drawable="sledzenie_przesyłek" />
     <item component="ComponentInfo{io.bakehaus.wypiek/io.bakehaus.wypiek.MainActivity}" drawable="wypiek" />
     <item component="ComponentInfo{com.simplemobiletools.clock/com.simplemobiletools.clock.activities.SplashActivity.Grey_black}" drawable="zegar" />
+    <item component="ComponentInfo{money.myhubble/money.myhubble.MainActivity}" drawable="hubble" />
+    <item component="ComponentInfo{life.liquide.app/life.liquide.app.MainActivity}" drawable="liquide" />
+    <item component="ComponentInfo{com.dripgrind.mindly/com.dripgrind.mindly.highlights.MainActivity}" drawable="mindly" />
+    <item component="ComponentInfo{com.divum.MoneyControl/com.moneycontrol.handheld.SplashActivity.PRO}" drawable="moneycontrol_pro" />
+    <item component="ComponentInfo{com.planetmarathi.android/com.planetmarathi.android.SplashActivity}" drawable="planet_marathi" />
+    <item component="ComponentInfo{fred.tasks/fred.tasks.MainActivity}" drawable="review" />
+    <item component="ComponentInfo{torrent.search.revolutionv2/com.example.torrentsearchrevolutionv2.presentation.activities.InitActivity}" drawable="torrent_search_revolution_v2" />      
+    <item component="ComponentInfo{com.pittvandewitt.viperfx/com.pittvandewitt.viperfx.MainActivity}" drawable="viper4android_fx" />
 
 </resources>

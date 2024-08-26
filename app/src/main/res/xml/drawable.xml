@@ -2141,6 +2141,7 @@
 	<item drawable="gspace" />
 	<item drawable="guerrilla_mail" />
     <category title="H" />
+    <item drawable="hubble" />
     <item drawable="hiya" />
     <item drawable="hellochinese" />
     <item drawable="hiper_scientific_calculator" />
@@ -2617,6 +2618,7 @@
 	<item drawable="kutumb" />
 	<item drawable="kwgt_pro" />
     <category title="L" />
+    <item drawable="liquide" />
     <item drawable="leboncoin" />
     <item drawable="le_monde" />
     <item drawable="light_blue" />
@@ -2778,6 +2780,8 @@
 	<item drawable="lucky_wasted" />
 	<item drawable="lux_o_meter_lichtmesser" />
     <category title="M" />
+    <item drawable="mindly" />
+    <item drawable="moneycontrol_pro" />
     <item drawable="mariagesnet" />
     <item drawable="mes_comptes_lcl" />
     <item drawable="musiccast" />
@@ -3570,6 +3574,7 @@
 	<item drawable="ovag_e_mobil" />
 	<item drawable="owlfiles" />
     <category title="P" />
+    <item drawable="planet_marathi" />
     <item drawable="pluxee_fr" />
     <item drawable="port_knocker" />
     <item drawable="pixapencil" />
@@ -3953,6 +3958,7 @@
 	<item drawable="quik" />
 	<item drawable="quillpad" />
     <category title="R" />
+    <item drawable="review" />
     <item drawable="reprodutor_de_musica_ddmusic" />
     <item drawable="radii" />
     <item drawable="randonautica" />
@@ -4638,6 +4644,7 @@
 	<item drawable="swiss_post" />
 	<item drawable="systemui_tuner" />
     <category title="T" />
+    <item drawable="torrent_search_revolution_v2" />
     <item drawable="tempo_blue" />
     <item drawable="telephone" />
     <item drawable="tempo_real" />
@@ -5011,6 +5018,7 @@
 	<item drawable="utiles" />
 	<item drawable="utilidades_amaze" />
     <category title="V" />
+    <item drawable="viper4android_fx" />
     <item drawable="vivo_easy" />
     <item drawable="video_splitter_psma" />
     <item drawable="ventra" />

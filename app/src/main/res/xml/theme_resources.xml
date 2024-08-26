@@ -5599,5 +5599,13 @@
     <AppIcon name="com.ssamedi.Packages_Tracker/com.ssamedi.Packages_Tracker.MainActivity" image="sledzenie_przesyłek"/>
     <AppIcon name="io.bakehaus.wypiek/io.bakehaus.wypiek.MainActivity" image="wypiek"/>
     <AppIcon name="com.simplemobiletools.clock/com.simplemobiletools.clock.activities.SplashActivity.Grey_black" image="zegar"/>
+    <AppIcon name="money.myhubble/money.myhubble.MainActivity" image="hubble"/>
+    <AppIcon name="life.liquide.app/life.liquide.app.MainActivity" image="liquide"/>
+    <AppIcon name="com.dripgrind.mindly/com.dripgrind.mindly.highlights.MainActivity" image="mindly"/>
+    <AppIcon name="com.divum.MoneyControl/com.moneycontrol.handheld.SplashActivity.PRO" image="moneycontrol_pro"/>
+    <AppIcon name="com.planetmarathi.android/com.planetmarathi.android.SplashActivity" image="planet_marathi"/>
+    <AppIcon name="fred.tasks/fred.tasks.MainActivity" image="review"/>
+    <AppIcon name="torrent.search.revolutionv2/com.example.torrentsearchrevolutionv2.presentation.activities.InitActivity" image="torrent_search_revolution_v2"/>
+    <AppIcon name="com.pittvandewitt.viperfx/com.pittvandewitt.viperfx.MainActivity" image="viper4android_fx"/>
 
 </Theme>
