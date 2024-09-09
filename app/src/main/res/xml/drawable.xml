@@ -2785,6 +2785,8 @@
 	<item drawable="lucky_wasted" />
 	<item drawable="lux_o_meter_lichtmesser" />
     <category title="M" />
+    <item drawable="mojddv" />
+    <item drawable="myiute" />
     <item drawable="multicines" />
     <item drawable="molly_solid" />
     <item drawable="mindly" />

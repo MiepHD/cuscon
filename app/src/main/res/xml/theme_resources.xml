@@ -5619,5 +5619,7 @@
     <AppIcon name="io.horizontalsystems.bankwallet/io.horizontalsystems.bankwallet.MainLauncherAlias" image="unstoppable"/>
     <AppIcon name="com.ninjakiwi.bloonstd6/com.unity3d.player.UnityPlayerActivity" image="bloons_td_6"/>
     <AppIcon name="com.ocbc.mobile/com.ocbc.mib.activities.ActivitySplash" image="ocbc_digital"/>
+    <AppIcon name="mk.accent.vatret/mk.accent.vatret.MainActivity" image="mojddv"/>
+    <AppIcon name="com.iutecredit.myiute.macedonia/com.iutecredit.myiute.MainActivity" image="myiute"/>
 
 </Theme>
