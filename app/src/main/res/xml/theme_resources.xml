@@ -5613,5 +5613,9 @@
     <AppIcon name="im.molly.app/org.thoughtcrime.securesms.RoutingActivity" image="molly_solid"/>
     <AppIcon name="com.bloomberg.android.anywhere/com.bloomberg.android.coreapps.launcher.LauncherActivity" image="bloomberg_professional"/>
     <AppIcon name="sg.com.hsbc.hsbcsingapore/com.hsbc.mobilebanking.splash.SplashActivity" image="hsbc_singapore"/>
+    <AppIcon name="com.singtel.hiaccount/com.singtel.hiaccount.ui.HiAppActivity" image="hi_app"/>
+    <AppIcon name="sg.ndi.sp/sg.ndi.activity.DashBoardActivity" image="singpass"/>
+    <AppIcon name="io.mvlchain.tada/io.mvlchain.tada.rider.view.splash.SplashActivity" image="tada"/>
+    <AppIcon name="io.horizontalsystems.bankwallet/io.horizontalsystems.bankwallet.MainLauncherAlias" image="unstoppable"/>
 
 </Theme>

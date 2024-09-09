@@ -5629,5 +5629,9 @@
     <item component="ComponentInfo{im.molly.app/org.thoughtcrime.securesms.RoutingActivity}" drawable="molly_solid" />
     <item component="ComponentInfo{com.bloomberg.android.anywhere/com.bloomberg.android.coreapps.launcher.LauncherActivity}" drawable="bloomberg_professional" />
     <item component="ComponentInfo{sg.com.hsbc.hsbcsingapore/com.hsbc.mobilebanking.splash.SplashActivity}" drawable="hsbc_singapore" />
+    <item component="ComponentInfo{com.singtel.hiaccount/com.singtel.hiaccount.ui.HiAppActivity}" drawable="hi_app" />
+    <item component="ComponentInfo{sg.ndi.sp/sg.ndi.activity.DashBoardActivity}" drawable="singpass" />
+    <item component="ComponentInfo{io.mvlchain.tada/io.mvlchain.tada.rider.view.splash.SplashActivity}" drawable="tada" />
+    <item component="ComponentInfo{io.horizontalsystems.bankwallet/io.horizontalsystems.bankwallet.MainLauncherAlias}" drawable="unstoppable" />
 
 </resources>

@@ -2143,6 +2143,7 @@
 	<item drawable="gspace" />
 	<item drawable="guerrilla_mail" />
     <category title="H" />
+    <item drawable="hi_app" />
     <item drawable="hsbc_singapore" />
     <item drawable="hubble" />
     <item drawable="hiya" />
@@ -4169,6 +4170,7 @@
 	<item drawable="rustdesk" />
 	<item drawable="rvx_music" />
     <category title="S" />
+    <item drawable="singpass" />
     <item drawable="sledzenie_przesylek" />
     <item drawable="satstat" />
     <item drawable="sncf_connect" />
@@ -4649,6 +4651,7 @@
 	<item drawable="swiss_post" />
 	<item drawable="systemui_tuner" />
     <category title="T" />
+    <item drawable="tada" />
     <item drawable="torrent_search_revolution_v2" />
     <item drawable="tempo_blue" />
     <item drawable="telephone" />
@@ -4947,6 +4950,7 @@
 	<item drawable="tux_paint_config" />
 	<item drawable="twelve_key_dialer" />
     <category title="U" />
+    <item drawable="unstoppable" />
     <item drawable="ultrasonic" />
     <item drawable="uno_2_go" />
     <item drawable="uno_calc" />
