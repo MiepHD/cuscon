@@ -683,6 +683,7 @@
 	<item drawable="awox_homecontrol" />
 	<item drawable="axp_apk_extractor" />
     <category title="B" />
+    <item drawable="bloons_td_6" />
     <item drawable="bloomberg_professional" />
     <item drawable="big_font" />
     <item drawable="blue_line_console" />
@@ -3423,6 +3424,7 @@
 	<item drawable="nozzle" />
 	<item drawable="nytimes" />
     <category title="O" />
+    <item drawable="ocbc_digital" />
     <item drawable="obrazkowo" />
     <item drawable="oqee_by_free" />
     <item drawable="one_swipe_notes" />

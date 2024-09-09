@@ -5633,5 +5633,7 @@
     <item component="ComponentInfo{sg.ndi.sp/sg.ndi.activity.DashBoardActivity}" drawable="singpass" />
     <item component="ComponentInfo{io.mvlchain.tada/io.mvlchain.tada.rider.view.splash.SplashActivity}" drawable="tada" />
     <item component="ComponentInfo{io.horizontalsystems.bankwallet/io.horizontalsystems.bankwallet.MainLauncherAlias}" drawable="unstoppable" />
+    <item component="ComponentInfo{com.ninjakiwi.bloonstd6/com.unity3d.player.UnityPlayerActivity}" drawable="bloons_td_6" />
+    <item component="ComponentInfo{com.ocbc.mobile/com.ocbc.mib.activities.ActivitySplash}" drawable="ocbc_digital" />
 
 </resources>
