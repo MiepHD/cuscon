@@ -5627,5 +5627,15 @@
     <item component="ComponentInfo{com.appdeuna.wallet/com.pichincha.bpbilletera.MainActivity}" drawable="deuna_20" />
     <item component="ComponentInfo{ec.push.multicines/ec.push.multicines.MainActivity}" drawable="multicines" />
     <item component="ComponentInfo{im.molly.app/org.thoughtcrime.securesms.RoutingActivity}" drawable="molly_solid" />
+    <item component="ComponentInfo{com.bloomberg.android.anywhere/com.bloomberg.android.coreapps.launcher.LauncherActivity}" drawable="bloomberg_professional" />
+    <item component="ComponentInfo{sg.com.hsbc.hsbcsingapore/com.hsbc.mobilebanking.splash.SplashActivity}" drawable="hsbc_singapore" />
+    <item component="ComponentInfo{com.singtel.hiaccount/com.singtel.hiaccount.ui.HiAppActivity}" drawable="hi_app" />
+    <item component="ComponentInfo{sg.ndi.sp/sg.ndi.activity.DashBoardActivity}" drawable="singpass" />
+    <item component="ComponentInfo{io.mvlchain.tada/io.mvlchain.tada.rider.view.splash.SplashActivity}" drawable="tada" />
+    <item component="ComponentInfo{io.horizontalsystems.bankwallet/io.horizontalsystems.bankwallet.MainLauncherAlias}" drawable="unstoppable" />
+    <item component="ComponentInfo{com.ninjakiwi.bloonstd6/com.unity3d.player.UnityPlayerActivity}" drawable="bloons_td_6" />
+    <item component="ComponentInfo{com.ocbc.mobile/com.ocbc.mib.activities.ActivitySplash}" drawable="ocbc_digital" />
+    <item component="ComponentInfo{mk.accent.vatret/mk.accent.vatret.MainActivity}" drawable="mojddv" />
+    <item component="ComponentInfo{com.iutecredit.myiute.macedonia/com.iutecredit.myiute.MainActivity}" drawable="myiute" />
 
 </resources>
