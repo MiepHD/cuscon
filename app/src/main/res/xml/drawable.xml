@@ -683,6 +683,7 @@
 	<item drawable="awox_homecontrol" />
 	<item drawable="axp_apk_extractor" />
     <category title="B" />
+    <item drawable="bloomberg_professional" />
     <item drawable="big_font" />
     <item drawable="blue_line_console" />
     <item drawable="big_digital" />
@@ -2142,6 +2143,7 @@
 	<item drawable="gspace" />
 	<item drawable="guerrilla_mail" />
     <category title="H" />
+    <item drawable="hsbc_singapore" />
     <item drawable="hubble" />
     <item drawable="hiya" />
     <item drawable="hellochinese" />

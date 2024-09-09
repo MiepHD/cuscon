@@ -5611,5 +5611,7 @@
     <AppIcon name="com.appdeuna.wallet/com.pichincha.bpbilletera.MainActivity" image="deuna_20"/>
     <AppIcon name="ec.push.multicines/ec.push.multicines.MainActivity" image="multicines"/>
     <AppIcon name="im.molly.app/org.thoughtcrime.securesms.RoutingActivity" image="molly_solid"/>
+    <AppIcon name="com.bloomberg.android.anywhere/com.bloomberg.android.coreapps.launcher.LauncherActivity" image="bloomberg_professional"/>
+    <AppIcon name="sg.com.hsbc.hsbcsingapore/com.hsbc.mobilebanking.splash.SplashActivity" image="hsbc_singapore"/>
 
 </Theme>
