@@ -5621,5 +5621,13 @@
     <AppIcon name="com.ocbc.mobile/com.ocbc.mib.activities.ActivitySplash" image="ocbc_digital"/>
     <AppIcon name="mk.accent.vatret/mk.accent.vatret.MainActivity" image="mojddv"/>
     <AppIcon name="com.iutecredit.myiute.macedonia/com.iutecredit.myiute.MainActivity" image="myiute"/>
+    <AppIcon name="net.xelnaga.exchanger/net.xelnaga.exchanger.activity.MainActivity" image="currency"/>
+    <AppIcon name="com.imsgroups.exyuradio/com.exampleyu.MainActivity" image="exyu_radio"/>
+    <AppIcon name="com.morescreens.mksvod/co.profi.spectartv.ui.activities.MainActivity" image="gley"/>
+    <AppIcon name="one4studio.wallpaper.one4wall/one4studio.wallpaper.one4wall.MainActivity" image="one4wall"/>
+    <AppIcon name="com.quad9.aegis/com.quad9.aegis.MainActivity" image="quad9_connect"/>
+    <AppIcon name="mk.com.stb/mk.com.stb.activities.SplashActivity" image="stb"/>
+    <AppIcon name="net.thematica.app/net.thematica.app.MainActivity" image="thematica"/>
+    <AppIcon name="com.tubitv.samsung/com.tubitv.activities.MainActivity" image="tubi_for_samsung"/>
 
 </Theme>

@@ -5637,5 +5637,15 @@
     <item component="ComponentInfo{com.ocbc.mobile/com.ocbc.mib.activities.ActivitySplash}" drawable="ocbc_digital" />
     <item component="ComponentInfo{mk.accent.vatret/mk.accent.vatret.MainActivity}" drawable="mojddv" />
     <item component="ComponentInfo{com.iutecredit.myiute.macedonia/com.iutecredit.myiute.MainActivity}" drawable="myiute" />
+    <item component="ComponentInfo{net.xelnaga.exchanger/net.xelnaga.exchanger.activity.MainActivity}" drawable="currency" />
+    <item component="ComponentInfo{com.imsgroups.exyuradio/com.exampleyu.MainActivity}" drawable="exyu_radio" />
+    <item component="ComponentInfo{com.morescreens.mksvod/co.profi.spectartv.ui.activities.MainActivity}" drawable="gley" />
+    <item component="ComponentInfo{com.monastery.eleusa.orthodoxprayerbook/com.monastery.eleusa.orthodoxprayerbook.SplashScreen}" drawable="monastery_eleusa" />
+    <item component="ComponentInfo{com.monastery.eleusa.holyscripturemacedonia/com.monastery.eleusa.holyscripturemacedonia.SplashScreen}" drawable="monastery_eleusa" />   
+    <item component="ComponentInfo{one4studio.wallpaper.one4wall/one4studio.wallpaper.one4wall.MainActivity}" drawable="one4wall" />
+    <item component="ComponentInfo{com.quad9.aegis/com.quad9.aegis.MainActivity}" drawable="quad9_connect" />
+    <item component="ComponentInfo{mk.com.stb/mk.com.stb.activities.SplashActivity}" drawable="stb" />
+    <item component="ComponentInfo{net.thematica.app/net.thematica.app.MainActivity}" drawable="thematica" />
+    <item component="ComponentInfo{com.tubitv.samsung/com.tubitv.activities.MainActivity}" drawable="tubi_for_samsung" />
 
 </resources>

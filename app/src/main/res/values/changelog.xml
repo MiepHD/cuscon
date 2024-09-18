@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="changelog_date">09.9.2024</string>
+    <string name="changelog_date">18.9.2024</string>
     <string-array name="changelog">
+        <item>4.0.3.5:</item>
+        <item>Added Currency, ExYu Radio, GLEY, Православен молитвеник, Свето Писмо, One4Wall, Quad9 Connect, STB, Thematica, Tubi for Samsung</item>
         <item>4.0.3.4:</item>
         <item>Added Bloomberg Professional, HSBC Singapore, hi!App, Singpass, TADA, Unstoppable, Bloons TD 6, OCBC Digital, MojDDV, MyIute</item>
         <item>4.0.3.3:</item>
