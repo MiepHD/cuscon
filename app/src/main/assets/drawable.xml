@@ -913,6 +913,7 @@
 	<item drawable="bycs_drive" />
     <item drawable="ballozi_skynox" />
     <category title="C" />
+    <item drawable="currency" />
     <item drawable="camera_connect" />
     <item drawable="chipdefense" />
     <item drawable="curve" />
@@ -1540,6 +1541,7 @@
 	<item drawable="dynalist" />
 	<item drawable="dynamicspot" />
     <category title="E" />
+    <item drawable="exyu_radio" />
     <item drawable="expensify" />
     <item drawable="emerald" />
     <item drawable="ecp_ruler" />
@@ -1939,6 +1941,7 @@
 	<item drawable="futo_voice_input" />
 	<item drawable="fx" />
     <category title="G" />
+    <item drawable="gley" />
     <item drawable="g7_taxi" />
     <item drawable="gbwhatsapp" />
     <item drawable="geminiman_wearos_manager" />
@@ -2785,6 +2788,7 @@
 	<item drawable="lucky_wasted" />
 	<item drawable="lux_o_meter_lichtmesser" />
     <category title="M" />
+    <item drawable="monastery_eleusa" />
     <item drawable="mojddv" />
     <item drawable="myiute" />
     <item drawable="multicines" />
@@ -3426,6 +3430,7 @@
 	<item drawable="nozzle" />
 	<item drawable="nytimes" />
     <category title="O" />
+    <item drawable="one4wall" />
     <item drawable="ocbc_digital" />
     <item drawable="obrazkowo" />
     <item drawable="oqee_by_free" />
@@ -3921,6 +3926,7 @@
 	<item drawable="puzzles" />
 	<item drawable="pysolfc" />
     <category title="Q" />
+    <item drawable="quad9_connect" />
     <item drawable="qralarm" />
     <item drawable="qurrotul_uyun_fathul_izar_uqudu_lujain_terjemahan" />
     <item drawable="questmobile" />
@@ -4174,6 +4180,7 @@
 	<item drawable="rustdesk" />
 	<item drawable="rvx_music" />
     <category title="S" />
+    <item drawable="stb" />
     <item drawable="singpass" />
     <item drawable="sledzenie_przesylek" />
     <item drawable="satstat" />
@@ -4655,6 +4662,8 @@
 	<item drawable="swiss_post" />
 	<item drawable="systemui_tuner" />
     <category title="T" />
+    <item drawable="thematica" />
+    <item drawable="tubi_for_samsung" />
     <item drawable="tada" />
     <item drawable="torrent_search_revolution_v2" />
     <item drawable="tempo_blue" />
