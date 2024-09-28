@@ -5650,5 +5650,12 @@
     <item component="ComponentInfo{com.github.bmx666.appcachecleaner/com.github.bmx666.appcachecleaner.ui.activity.AppCacheCleanerActivity}" drawable="cache_cleaner" />   
     <item component="ComponentInfo{ch.protonvpn.android/ch.protonvpn.android.RoutingActivity}" drawable="proton_vpn" />
     <item component="ComponentInfo{com.sec.android.easyMover/com.sec.android.easyMover.ui.launch.LauncherActivity}" drawable="smart_switch" />
+    <item component="ComponentInfo{com.streamsoftinc.artistconnection/com.streamsoftinc.artistconnection.splash.SplashScreenActivity}" drawable="artist_connection" />     
+    <item component="ComponentInfo{shu.galaxy.camera/shu.galaxy.camera.PrefActivity}" drawable="camera_one" />
+    <item component="ComponentInfo{com.samsung.hellomoji/com.samsung.hellomoji.EmojiActivity}" drawable="hellomoji" />
+    <item component="ComponentInfo{mk.telekom.telekomtv/com.telekom.splashui.splash.SplashActivity}" drawable="magentatv_go" />
+    <item component="ComponentInfo{arcelik.android.grundig.remote/arcelik.android.grundig.remote.MainActivity}" drawable="smart_remote" />
+    <item component="ComponentInfo{com.cw.fullepisodes.android/com.cw.fullepisodes.android.activity.LaunchActivity}" drawable="the_cw" />
+    <item component="ComponentInfo{com.macrovideo.v380/com.macrovideo.v380.activities.LaunchActivityTopOnAD}" drawable="v380" />
 
 </resources>
