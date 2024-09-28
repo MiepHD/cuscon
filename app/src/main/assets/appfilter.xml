@@ -5647,5 +5647,8 @@
     <item component="ComponentInfo{mk.com.stb/mk.com.stb.activities.SplashActivity}" drawable="stb" />
     <item component="ComponentInfo{net.thematica.app/net.thematica.app.MainActivity}" drawable="thematica" />
     <item component="ComponentInfo{com.tubitv.samsung/com.tubitv.activities.MainActivity}" drawable="tubi_for_samsung" />
+    <item component="ComponentInfo{com.github.bmx666.appcachecleaner/com.github.bmx666.appcachecleaner.ui.activity.AppCacheCleanerActivity}" drawable="cache_cleaner" />   
+    <item component="ComponentInfo{ch.protonvpn.android/ch.protonvpn.android.RoutingActivity}" drawable="proton_vpn" />
+    <item component="ComponentInfo{com.sec.android.easyMover/com.sec.android.easyMover.ui.launch.LauncherActivity}" drawable="smart_switch" />
 
 </resources>

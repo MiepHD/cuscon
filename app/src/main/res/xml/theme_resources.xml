@@ -5629,5 +5629,15 @@
     <AppIcon name="mk.com.stb/mk.com.stb.activities.SplashActivity" image="stb"/>
     <AppIcon name="net.thematica.app/net.thematica.app.MainActivity" image="thematica"/>
     <AppIcon name="com.tubitv.samsung/com.tubitv.activities.MainActivity" image="tubi_for_samsung"/>
+    <AppIcon name="com.github.bmx666.appcachecleaner/com.github.bmx666.appcachecleaner.ui.activity.AppCacheCleanerActivity" image="cache_cleaner"/>
+    <AppIcon name="ch.protonvpn.android/ch.protonvpn.android.RoutingActivity" image="proton_vpn"/>
+    <AppIcon name="com.sec.android.easyMover/com.sec.android.easyMover.ui.launch.LauncherActivity" image="smart_switch"/>
+    <AppIcon name="com.streamsoftinc.artistconnection/com.streamsoftinc.artistconnection.splash.SplashScreenActivity" image="artist_connection"/>
+    <AppIcon name="shu.galaxy.camera/shu.galaxy.camera.PrefActivity" image="camera_one"/>
+    <AppIcon name="com.samsung.hellomoji/com.samsung.hellomoji.EmojiActivity" image="hellomoji"/>
+    <AppIcon name="mk.telekom.telekomtv/com.telekom.splashui.splash.SplashActivity" image="magentatv_go"/>
+    <AppIcon name="arcelik.android.grundig.remote/arcelik.android.grundig.remote.MainActivity" image="smart_remote"/>
+    <AppIcon name="com.cw.fullepisodes.android/com.cw.fullepisodes.android.activity.LaunchActivity" image="the_cw"/>
+    <AppIcon name="com.macrovideo.v380/com.macrovideo.v380.activities.LaunchActivityTopOnAD" image="v380"/>
 
 </Theme>

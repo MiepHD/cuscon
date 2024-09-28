@@ -252,6 +252,7 @@
     <item drawable="google_wifi" />
     <item drawable="googleassistant2" />
     <category title="A" />
+    <item drawable="artist_connection" />
     <item drawable="apex_manager" />
     <item drawable="app_tester" />
     <item drawable="awlad_school" />
@@ -913,6 +914,8 @@
 	<item drawable="bycs_drive" />
     <item drawable="ballozi_skynox" />
     <category title="C" />
+    <item drawable="camera_one" />
+    <item drawable="cache_cleaner" />
     <item drawable="currency" />
     <item drawable="camera_connect" />
     <item drawable="chipdefense" />
@@ -2147,6 +2150,7 @@
 	<item drawable="gspace" />
 	<item drawable="guerrilla_mail" />
     <category title="H" />
+    <item drawable="hellomoji" />
     <item drawable="hi_app" />
     <item drawable="hsbc_singapore" />
     <item drawable="hubble" />
@@ -2788,6 +2792,7 @@
 	<item drawable="lucky_wasted" />
 	<item drawable="lux_o_meter_lichtmesser" />
     <category title="M" />
+    <item drawable="magentatv_go" />
     <item drawable="monastery_eleusa" />
     <item drawable="mojddv" />
     <item drawable="myiute" />
@@ -3589,6 +3594,7 @@
 	<item drawable="ovag_e_mobil" />
 	<item drawable="owlfiles" />
     <category title="P" />
+    <item drawable="proton_vpn" />
     <item drawable="planet_marathi" />
     <item drawable="pluxee_fr" />
     <item drawable="port_knocker" />
@@ -4180,6 +4186,8 @@
 	<item drawable="rustdesk" />
 	<item drawable="rvx_music" />
     <category title="S" />
+    <item drawable="smart_remote" />
+    <item drawable="smart_switch" />
     <item drawable="stb" />
     <item drawable="singpass" />
     <item drawable="sledzenie_przesylek" />
@@ -4662,6 +4670,7 @@
 	<item drawable="swiss_post" />
 	<item drawable="systemui_tuner" />
     <category title="T" />
+    <item drawable="the_cw" />
     <item drawable="thematica" />
     <item drawable="tubi_for_samsung" />
     <item drawable="tada" />
@@ -5040,6 +5049,7 @@
 	<item drawable="utiles" />
 	<item drawable="utilidades_amaze" />
     <category title="V" />
+    <item drawable="v380" />
     <item drawable="viper4android_fx" />
     <item drawable="vivo_easy" />
     <item drawable="video_splitter_psma" />

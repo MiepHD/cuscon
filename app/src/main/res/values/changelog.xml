@@ -2,6 +2,9 @@
 <resources>
     <string name="changelog_date">18.9.2024</string>
     <string-array name="changelog">
+        <item>4.0.3.6:</item>
+        <item>Added Artist Connection, Camera One, HelloMoji, MagentaTV GO, Smart Remote, The CW, V380</item>
+        <item>Updatedd Cache Cleaner, Proton VPN, Smart Switch</item>
         <item>4.0.3.5:</item>
         <item>Added Currency, ExYu Radio, GLEY, Православен молитвеник, Свето Писмо, One4Wall, Quad9 Connect, STB, Thematica, Tubi for Samsung</item>
         <item>4.0.3.4:</item>

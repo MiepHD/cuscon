@@ -913,6 +913,7 @@
 	<item drawable="bycs_drive" />
     <item drawable="ballozi_skynox" />
     <category title="C" />
+    <item drawable="cache_cleaner" />
     <item drawable="currency" />
     <item drawable="camera_connect" />
     <item drawable="chipdefense" />
@@ -3589,6 +3590,7 @@
 	<item drawable="ovag_e_mobil" />
 	<item drawable="owlfiles" />
     <category title="P" />
+    <item drawable="proton_vpn" />
     <item drawable="planet_marathi" />
     <item drawable="pluxee_fr" />
     <item drawable="port_knocker" />
@@ -4180,6 +4182,7 @@
 	<item drawable="rustdesk" />
 	<item drawable="rvx_music" />
     <category title="S" />
+    <item drawable="smart_switch" />
     <item drawable="stb" />
     <item drawable="singpass" />
     <item drawable="sledzenie_przesylek" />
