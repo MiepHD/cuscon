@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="changelog_date">18.9.2024</string>
+    <string name="changelog_date">29.9.2024</string>
     <string-array name="changelog">
+        <item>4.0.3.7:</item>
+        <item>Added Balance, APKMirror Installer (beta), BeeTV, BPlayer, FilmPlus, Freevee, Telekom MK, TuneIn Radio Pro</item>
+        <item>Updated Max, Sound Assistant</item>
         <item>4.0.3.6:</item>
         <item>Added Artist Connection, Camera One, HelloMoji, MagentaTV GO, Smart Remote, The CW, V380</item>
         <item>Updatedd Cache Cleaner, Proton VPN, Smart Switch</item>

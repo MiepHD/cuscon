@@ -252,6 +252,7 @@
     <item drawable="google_wifi" />
     <item drawable="googleassistant2" />
     <category title="A" />
+    <item drawable="apkmirror_installer_beta_" />
     <item drawable="artist_connection" />
     <item drawable="apex_manager" />
     <item drawable="app_tester" />
@@ -684,6 +685,9 @@
 	<item drawable="awox_homecontrol" />
 	<item drawable="axp_apk_extractor" />
     <category title="B" />
+    <item drawable="beetv" />
+    <item drawable="bplayer" />
+    <item drawable="balance_elevatelabs" />
     <item drawable="bloons_td_6" />
     <item drawable="bloomberg_professional" />
     <item drawable="big_font" />
@@ -1706,6 +1710,8 @@
 	<item drawable="explorer" />
 	<item drawable="exteragram" />
     <category title="F" />
+    <item drawable="filmplus" />
+    <item drawable="freevee" />
     <item drawable="fossify_phone_green" />
     <item drawable="fossify_calendar_light_blue" />
     <item drawable="fledermaus_icon_pack" />
@@ -4670,6 +4676,8 @@
 	<item drawable="swiss_post" />
 	<item drawable="systemui_tuner" />
     <category title="T" />
+    <item drawable="telekom_mk" />
+    <item drawable="tunein_radio_pro" />
     <item drawable="the_cw" />
     <item drawable="thematica" />
     <item drawable="tubi_for_samsung" />

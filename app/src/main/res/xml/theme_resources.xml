@@ -5639,5 +5639,15 @@
     <AppIcon name="arcelik.android.grundig.remote/arcelik.android.grundig.remote.MainActivity" image="smart_remote"/>
     <AppIcon name="com.cw.fullepisodes.android/com.cw.fullepisodes.android.activity.LaunchActivity" image="the_cw"/>
     <AppIcon name="com.macrovideo.v380/com.macrovideo.v380.activities.LaunchActivityTopOnAD" image="v380"/>
+    <AppIcon name="com.wbd.stream/com.wbd.fuse.appcore.FuseActivity" image="max"/>
+    <AppIcon name="com.elevatelabs.geonosis/com.elevatelabs.geonosis.MainActivity" image="balance_elevatelabs"/>
+    <AppIcon name="com.samsung.android.soundassistant/com.samsung.android.soundassistant.activities.MainActivity" image="samsung_sound_assistant"/>
+    <AppIcon name="com.apkmirror.helper.prod/com.apkmirror.presentation.start.StartActivity" image="apkmirror_installer_beta_"/>
+    <AppIcon name="com.bweather.forecast/com.bweather.forecast.MainActivity" image="beetv"/>
+    <AppIcon name="com.ae.video.bplayer/com.ae.video.bplayer.ui.SplashActivity" image="bplayer"/>
+    <AppIcon name="com.guideplus.co/com.guideplus.co.SplashActivity" image="filmplus"/>
+    <AppIcon name="com.amazon.imdb.tv.mobile.app/com.amazon.imdb.tv.mobile.app.rn.PlatformReactNativeActivity" image="freevee"/>
+    <AppIcon name="com.telekom.telekommk/com.telekom.oneapp.launcher.components.launcher.LauncherActivity" image="telekom_mk"/>
+    <AppIcon name="radiotime.player/tunein.ui.activities.TuneInHomeActivity" image="tunein_radio_pro"/>
 
 </Theme>

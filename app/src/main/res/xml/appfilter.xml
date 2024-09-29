@@ -5657,5 +5657,15 @@
     <item component="ComponentInfo{arcelik.android.grundig.remote/arcelik.android.grundig.remote.MainActivity}" drawable="smart_remote" />
     <item component="ComponentInfo{com.cw.fullepisodes.android/com.cw.fullepisodes.android.activity.LaunchActivity}" drawable="the_cw" />
     <item component="ComponentInfo{com.macrovideo.v380/com.macrovideo.v380.activities.LaunchActivityTopOnAD}" drawable="v380" />
+    <item component="ComponentInfo{com.wbd.stream/com.wbd.fuse.appcore.FuseActivity}" drawable="max" />
+    <item component="ComponentInfo{com.elevatelabs.geonosis/com.elevatelabs.geonosis.MainActivity}" drawable="balance_elevatelabs" />
+    <item component="ComponentInfo{com.samsung.android.soundassistant/com.samsung.android.soundassistant.activities.MainActivity}" drawable="samsung_sound_assistant" />
+    <item component="ComponentInfo{com.apkmirror.helper.prod/com.apkmirror.presentation.start.StartActivity}" drawable="apkmirror_installer_beta_" />
+    <item component="ComponentInfo{com.bweather.forecast/com.bweather.forecast.MainActivity}" drawable="beetv" />
+    <item component="ComponentInfo{com.ae.video.bplayer/com.ae.video.bplayer.ui.SplashActivity}" drawable="bplayer" />
+    <item component="ComponentInfo{com.guideplus.co/com.guideplus.co.SplashActivity}" drawable="filmplus" />
+    <item component="ComponentInfo{com.amazon.imdb.tv.mobile.app/com.amazon.imdb.tv.mobile.app.rn.PlatformReactNativeActivity}" drawable="freevee" />
+    <item component="ComponentInfo{com.telekom.telekommk/com.telekom.oneapp.launcher.components.launcher.LauncherActivity}" drawable="telekom_mk" />
+    <item component="ComponentInfo{radiotime.player/tunein.ui.activities.TuneInHomeActivity}" drawable="tunein_radio_pro" />
 
 </resources>
