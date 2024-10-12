@@ -252,6 +252,7 @@
     <item drawable="google_wifi" />
     <item drawable="googleassistant2" />
     <category title="A" />
+    <item drawable="ai_wallart" />
     <item drawable="apkmirror_installer_beta_" />
     <item drawable="artist_connection" />
     <item drawable="apex_manager" />
@@ -685,6 +686,7 @@
 	<item drawable="awox_homecontrol" />
 	<item drawable="axp_apk_extractor" />
     <category title="B" />
+    <item drawable="bbc_sounds" />
     <item drawable="beetv" />
     <item drawable="bplayer" />
     <item drawable="balance_elevatelabs" />
@@ -3441,6 +3443,7 @@
 	<item drawable="nozzle" />
 	<item drawable="nytimes" />
     <category title="O" />
+    <item drawable="orhtodoxcalendarmacedonia" />
     <item drawable="one4wall" />
     <item drawable="ocbc_digital" />
     <item drawable="obrazkowo" />
@@ -5193,6 +5196,7 @@
 	<item drawable="vr_banking_app" />
 	<item drawable="vsolution_app" />
     <category title="W" />
+    <item drawable="wonderland" />
     <item drawable="wypiek" />
     <item drawable="waveup" />
     <item drawable="webview_devtools" />

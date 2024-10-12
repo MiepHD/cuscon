@@ -5667,5 +5667,9 @@
     <item component="ComponentInfo{com.amazon.imdb.tv.mobile.app/com.amazon.imdb.tv.mobile.app.rn.PlatformReactNativeActivity}" drawable="freevee" />
     <item component="ComponentInfo{com.telekom.telekommk/com.telekom.oneapp.launcher.components.launcher.LauncherActivity}" drawable="telekom_mk" />
     <item component="ComponentInfo{radiotime.player/tunein.ui.activities.TuneInHomeActivity}" drawable="tunein_radio_pro" />
+    <item component="ComponentInfo{com.wallart.ai.wallpapers/com.wallart.ai.wallpapers.activity.MainActivity}" drawable="ai_wallart" />
+    <item component="ComponentInfo{com.bbc.sounds/com.bbc.sounds.ui.activity.MainActivity}" drawable="bbc_sounds" />
+    <item component="ComponentInfo{com.monastery.eleusa.orhtodoxcalendarmacedonia/com.monastery.eleusa.orhtodoxcalendarmacedonia.SplashScreen}" drawable="orhtodoxcalendarmacedonia" />
+    <item component="ComponentInfo{com.samsung.android.wonderland.wallpaper/com.samsung.android.wonderland.wallpaper.settings.LandingActivity}" drawable="wonderland" />
 
 </resources>

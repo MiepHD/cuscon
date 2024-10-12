@@ -5649,5 +5649,9 @@
     <AppIcon name="com.amazon.imdb.tv.mobile.app/com.amazon.imdb.tv.mobile.app.rn.PlatformReactNativeActivity" image="freevee"/>
     <AppIcon name="com.telekom.telekommk/com.telekom.oneapp.launcher.components.launcher.LauncherActivity" image="telekom_mk"/>
     <AppIcon name="radiotime.player/tunein.ui.activities.TuneInHomeActivity" image="tunein_radio_pro"/>
+    <AppIcon name="com.wallart.ai.wallpapers/com.wallart.ai.wallpapers.activity.MainActivity" image="ai_wallart"/>
+    <AppIcon name="com.bbc.sounds/com.bbc.sounds.ui.activity.MainActivity" image="bbc_sounds"/>
+    <AppIcon name="com.samsung.android.wonderland.wallpaper/com.samsung.android.wonderland.wallpaper.settings.LandingActivity" image="wonderland"/>
+    <AppIcon name="com.monastery.eleusa.orhtodoxcalendarmacedonia/com.monastery.eleusa.orhtodoxcalendarmacedonia.SplashScreen" image="orhtodoxcalendarmacedonia" />
 
 </Theme>

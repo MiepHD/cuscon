@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="changelog_date">29.9.2024</string>
+    <string name="changelog_date">12.10.2024</string>
     <string-array name="changelog">
+        <item>4.0.3.8:</item>
+        <item>Added Ai WallArt, BBC Sounds, Православен календар, Wonderland</item>
         <item>4.0.3.7:</item>
         <item>Added Balance, APKMirror Installer (beta), BeeTV, BPlayer, FilmPlus, Freevee, Telekom MK, TuneIn Radio Pro</item>
         <item>Updated Max, Sound Assistant</item>
