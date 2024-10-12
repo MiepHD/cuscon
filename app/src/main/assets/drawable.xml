@@ -1712,6 +1712,7 @@
 	<item drawable="explorer" />
 	<item drawable="exteragram" />
     <category title="F" />
+    <item drawable="fahrenlernen" />
     <item drawable="folder_blue" />
     <item drawable="folder_dark_blue" />
     <item drawable="folder_dark_green" />
@@ -3277,6 +3278,8 @@
 	<item drawable="mytelkomsel" />
 	<item drawable="myumobile" />
     <category title="N" />
+    <item drawable="notenapp" />
+    <item drawable="notewise" />
     <item drawable="nutricash" />
     <item drawable="n_digital_watch_face" />
     <item drawable="nfs_most_wanted" />
@@ -3464,6 +3467,7 @@
 	<item drawable="nozzle" />
 	<item drawable="nytimes" />
     <category title="O" />
+    <item drawable="ostrom" />
     <item drawable="orhtodoxcalendarmacedonia" />
     <item drawable="one4wall" />
     <item drawable="ocbc_digital" />
@@ -4216,6 +4220,9 @@
 	<item drawable="rustdesk" />
 	<item drawable="rvx_music" />
     <category title="S" />
+    <item drawable="schildinext" />
+    <item drawable="spck_editor" />
+    <item drawable="synchronized_tally" />
     <item drawable="smart_remote" />
     <item drawable="smart_switch" />
     <item drawable="stb" />
@@ -5004,6 +5011,7 @@
 	<item drawable="tux_paint_config" />
 	<item drawable="twelve_key_dialer" />
     <category title="U" />
+    <item drawable="umweltbanking" />
     <item drawable="unstoppable" />
     <item drawable="ultrasonic" />
     <item drawable="uno_2_go" />

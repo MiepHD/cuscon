@@ -2,6 +2,10 @@
 <resources>
     <string name="changelog_date">12.10.2024</string>
     <string-array name="changelog">
+        <item>4.0.3.9:</item>
+        <item>Updated YTDLnis</item>
+        <item>Added FahrenLernen, Notenapp., Notewise, Spck Editor</item>
+        <item>Ostrom, SchildiNext, Synchronized Tally and UmweltBanking added by Gnorv (Icon sumbission for 5 apps #38 on github:MiepHD/cuscon)</item>
         <item>4.0.3.8:</item>
         <item>Added Ai WallArt, BBC Sounds, Православен календар, Wonderland</item>
         <item>Added folders</item>

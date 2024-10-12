@@ -5671,5 +5671,14 @@
     <item component="ComponentInfo{com.bbc.sounds/com.bbc.sounds.ui.activity.MainActivity}" drawable="bbc_sounds" />
     <item component="ComponentInfo{com.monastery.eleusa.orhtodoxcalendarmacedonia/com.monastery.eleusa.orhtodoxcalendarmacedonia.SplashScreen}" drawable="orhtodoxcalendarmacedonia" />
     <item component="ComponentInfo{com.samsung.android.wonderland.wallpaper/com.samsung.android.wonderland.wallpaper.settings.LandingActivity}" drawable="wonderland" />
+    <item component="ComponentInfo{com.deniscerri.ytdl/com.deniscerri.ytdl.Default}" drawable="ytdlnis" />
+    <item component="ComponentInfo{air.de.fahren_lernen.app/air.de.fahren_lernen.app.AppEntry}" drawable="fahrenlernen" />
+    <item component="ComponentInfo{com.notenapp/com.notenapp.MainActivity}" drawable="notenapp" />
+    <item component="ComponentInfo{com.yygg.note.app/com.yygg.note.app.home.HomeActivity}" drawable="notewise" />
+    <item component="ComponentInfo{com.ostrommobile/com.ostrommobile.MainActivity}" drawable="ostrom" />
+    <item component="ComponentInfo{chat.schildi.android/io.element.android.x.MainActivity}" drawable="schildinext" />
+    <item component="ComponentInfo{io.spck/io.spck.editor.EditorActivity}" drawable="spck_editor" />
+    <item component="ComponentInfo{com.rightclick.tally/com.rightclick.tally.MainActivity}" drawable="synchronized_tally" />
+    <item component="ComponentInfo{de.umweltbank.banking.app/de.fiduciagad.banking.screens.navigation.NavigationActivity}" drawable="umweltbanking" />
 
 </resources>

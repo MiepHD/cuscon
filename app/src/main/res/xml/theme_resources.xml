@@ -5653,5 +5653,14 @@
     <AppIcon name="com.bbc.sounds/com.bbc.sounds.ui.activity.MainActivity" image="bbc_sounds"/>
     <AppIcon name="com.samsung.android.wonderland.wallpaper/com.samsung.android.wonderland.wallpaper.settings.LandingActivity" image="wonderland"/>
     <AppIcon name="com.monastery.eleusa.orhtodoxcalendarmacedonia/com.monastery.eleusa.orhtodoxcalendarmacedonia.SplashScreen" image="orhtodoxcalendarmacedonia" />
+    <AppIcon name="com.deniscerri.ytdl/com.deniscerri.ytdl.Default" image="ytdlnis"/>
+    <AppIcon name="air.de.fahren_lernen.app/air.de.fahren_lernen.app.AppEntry" image="fahrenlernen"/>
+    <AppIcon name="com.notenapp/com.notenapp.MainActivity" image="notenapp"/>
+    <AppIcon name="com.yygg.note.app/com.yygg.note.app.home.HomeActivity" image="notewise"/>
+    <AppIcon name="com.ostrommobile/com.ostrommobile.MainActivity" image="ostrom"/>
+    <AppIcon name="chat.schildi.android/io.element.android.x.MainActivity" image="schildinext"/>
+    <AppIcon name="io.spck/io.spck.editor.EditorActivity" image="spck_editor"/>
+    <AppIcon name="com.rightclick.tally/com.rightclick.tally.MainActivity" image="synchronized_tally"/>
+    <AppIcon name="de.umweltbank.banking.app/de.fiduciagad.banking.screens.navigation.NavigationActivity" image="umweltbanking"/>
 
 </Theme>
