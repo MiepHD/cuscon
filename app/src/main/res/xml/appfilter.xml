@@ -5680,5 +5680,10 @@
     <item component="ComponentInfo{io.spck/io.spck.editor.EditorActivity}" drawable="spck_editor" />
     <item component="ComponentInfo{com.rightclick.tally/com.rightclick.tally.MainActivity}" drawable="synchronized_tally" />
     <item component="ComponentInfo{de.umweltbank.banking.app/de.fiduciagad.banking.screens.navigation.NavigationActivity}" drawable="umweltbanking" />
+    <item component="ComponentInfo{com.sovanta.cities/de.endios.endiosone.foundation.main.ui.activity.MainActivity}" drawable="meinheidelberg" />
+    <item component="ComponentInfo{com.domobile.applockwatcher/com.domobile.applockwatcher.LaunchActivity}" drawable="applock" />
+    <item component="ComponentInfo{com.habitrpg.android.habitica/com.habitrpg.android.habitica.ui.activities.MainActivity}" drawable="habitica" />
+    <item component="ComponentInfo{com.chimbori.hermitcrab/com.chimbori.hermitcrab.AdminActivity}" drawable="hermit" />
+    <item component="ComponentInfo{com.pdf.suite.app.word2pdfconverter/com.pdf.suite.app.word2pdfconverter.MainActivity}" drawable="word2pdf" />
 
 </resources>

@@ -252,6 +252,7 @@
     <item drawable="google_wifi" />
     <item drawable="googleassistant2" />
     <category title="A" />
+    <item drawable="applock" />
     <item drawable="ai_wallart" />
     <item drawable="apkmirror_installer_beta_" />
     <item drawable="artist_connection" />
@@ -2180,6 +2181,8 @@
 	<item drawable="gspace" />
 	<item drawable="guerrilla_mail" />
     <category title="H" />
+    <item drawable="habitica" />
+    <item drawable="hermit" />
     <item drawable="hellomoji" />
     <item drawable="hi_app" />
     <item drawable="hsbc_singapore" />
@@ -2822,6 +2825,7 @@
 	<item drawable="lucky_wasted" />
 	<item drawable="lux_o_meter_lichtmesser" />
     <category title="M" />
+    <item drawable="meinheidelberg" />
     <item drawable="magentatv_go" />
     <item drawable="monastery_eleusa" />
     <item drawable="mojddv" />
@@ -5225,6 +5229,7 @@
 	<item drawable="vr_banking_app" />
 	<item drawable="vsolution_app" />
     <category title="W" />
+    <item drawable="word2pdf" />
     <item drawable="wonderland" />
     <item drawable="wypiek" />
     <item drawable="waveup" />

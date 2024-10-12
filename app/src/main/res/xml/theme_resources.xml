@@ -5662,5 +5662,10 @@
     <AppIcon name="io.spck/io.spck.editor.EditorActivity" image="spck_editor"/>
     <AppIcon name="com.rightclick.tally/com.rightclick.tally.MainActivity" image="synchronized_tally"/>
     <AppIcon name="de.umweltbank.banking.app/de.fiduciagad.banking.screens.navigation.NavigationActivity" image="umweltbanking"/>
+    <AppIcon name="com.sovanta.cities/de.endios.endiosone.foundation.main.ui.activity.MainActivity" image="meinheidelberg"/>
+    <AppIcon name="com.domobile.applockwatcher/com.domobile.applockwatcher.LaunchActivity" image="applock"/>
+    <AppIcon name="com.habitrpg.android.habitica/com.habitrpg.android.habitica.ui.activities.MainActivity" image="habitica"/>
+    <AppIcon name="com.chimbori.hermitcrab/com.chimbori.hermitcrab.AdminActivity" image="hermit"/>
+    <AppIcon name="com.pdf.suite.app.word2pdfconverter/com.pdf.suite.app.word2pdfconverter.MainActivity" image="word2pdf"/>
 
 </Theme>
