@@ -1713,6 +1713,7 @@
 	<item drawable="explorer" />
 	<item drawable="exteragram" />
     <category title="F" />
+    <item drawable="fraenk" />
     <item drawable="fahrenlernen" />
     <item drawable="folder_blue" />
     <item drawable="folder_dark_blue" />
@@ -2181,6 +2182,7 @@
 	<item drawable="gspace" />
 	<item drawable="guerrilla_mail" />
     <category title="H" />
+    <item drawable="hanseatic_bank_secure" />
     <item drawable="habitica" />
     <item drawable="hermit" />
     <item drawable="hellomoji" />
@@ -3471,6 +3473,7 @@
 	<item drawable="nozzle" />
 	<item drawable="nytimes" />
     <category title="O" />
+    <item drawable="oss_kartenetui" />
     <item drawable="ostrom" />
     <item drawable="orhtodoxcalendarmacedonia" />
     <item drawable="one4wall" />
@@ -3632,6 +3635,7 @@
 	<item drawable="ovag_e_mobil" />
 	<item drawable="owlfiles" />
     <category title="P" />
+    <item drawable="postident" />
     <item drawable="proton_vpn" />
     <item drawable="planet_marathi" />
     <item drawable="pluxee_fr" />
@@ -5229,6 +5233,8 @@
 	<item drawable="vr_banking_app" />
 	<item drawable="vsolution_app" />
     <category title="W" />
+    <item drawable="weather_master" />
+    <item drawable="wifi4eu_map" />
     <item drawable="word2pdf" />
     <item drawable="wonderland" />
     <item drawable="wypiek" />

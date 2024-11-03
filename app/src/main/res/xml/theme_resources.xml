@@ -5667,5 +5667,13 @@
     <AppIcon name="com.habitrpg.android.habitica/com.habitrpg.android.habitica.ui.activities.MainActivity" image="habitica"/>
     <AppIcon name="com.chimbori.hermitcrab/com.chimbori.hermitcrab.AdminActivity" image="hermit"/>
     <AppIcon name="com.pdf.suite.app.word2pdfconverter/com.pdf.suite.app.word2pdfconverter.MainActivity" image="word2pdf"/>
+    <AppIcon name="de.materna.bbk.mobile.app/de.materna.bbk.mobile.app.ui.MainActivity" image="nina"/>
+    <AppIcon name="de.congstar.fraenk/de.congstar.fraenk.MainActivity" image="fraenk"/>
+    <AppIcon name="com.hanseaticbank.secure/com.netcetera.tpmw.core.app.presentation.launch.launcher.view.LauncherActivity" image="hanseatic_bank_secure"/>
+    <AppIcon name="com.akylas.cardwallet/com.akylas.cardwallet.MainActivity" image="oss_kartenetui"/>
+    <AppIcon name="de.deutschepost.postident/de.post.ident.ui.WelcomeActivity" image="postident"/>
+    <AppIcon name="com.example.weathermaster/com.example.weathermaster.MainActivity" image="weather_master"/>
+    <AppIcon name="eu.europa.publications.wifi4eu/eu.europa.publications.wifi4eu.MainActivity" image="wifi4eu_map"/>
+    <AppIcon name="com.keylesspalace.tusky/com.keylesspalace.tusky.MainActivity" image="tusky"/>
 
 </Theme>

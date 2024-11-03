@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="changelog_date">12.10.2024</string>
+    <string name="changelog_date">03.11.2024</string>
     <string-array name="changelog">
+        <item>4.0.4.0:</item>
+        <item>Added fraenk, Hanseatic Bank Secure, OSS Kartenetui, Postident, Weather Master, WiFi4EU Map</item>
+        <item>Updated NINA, Habitica, Tusky</item>
         <item>4.0.3.9:</item>
         <item>Updated YTDLnis</item>
         <item>Added FahrenLernen, Notenapp., Notewise, Spck Editor, AppLock, Habitica, Hermit, Word2Pdf</item>

@@ -5685,5 +5685,13 @@
     <item component="ComponentInfo{com.habitrpg.android.habitica/com.habitrpg.android.habitica.ui.activities.MainActivity}" drawable="habitica" />
     <item component="ComponentInfo{com.chimbori.hermitcrab/com.chimbori.hermitcrab.AdminActivity}" drawable="hermit" />
     <item component="ComponentInfo{com.pdf.suite.app.word2pdfconverter/com.pdf.suite.app.word2pdfconverter.MainActivity}" drawable="word2pdf" />
+    <item component="ComponentInfo{de.materna.bbk.mobile.app/de.materna.bbk.mobile.app.ui.MainActivity}" drawable="nina" />
+    <item component="ComponentInfo{de.congstar.fraenk/de.congstar.fraenk.MainActivity}" drawable="fraenk" />
+    <item component="ComponentInfo{com.hanseaticbank.secure/com.netcetera.tpmw.core.app.presentation.launch.launcher.view.LauncherActivity}" drawable="hanseatic_bank_secure" />
+    <item component="ComponentInfo{com.akylas.cardwallet/com.akylas.cardwallet.MainActivity}" drawable="oss_kartenetui" />
+    <item component="ComponentInfo{de.deutschepost.postident/de.post.ident.ui.WelcomeActivity}" drawable="postident" />
+    <item component="ComponentInfo{com.example.weathermaster/com.example.weathermaster.MainActivity}" drawable="weather_master" />
+    <item component="ComponentInfo{eu.europa.publications.wifi4eu/eu.europa.publications.wifi4eu.MainActivity}" drawable="wifi4eu_map" />
+    <item component="ComponentInfo{com.keylesspalace.tusky/com.keylesspalace.tusky.MainActivity}" drawable="tusky" />
 
 </resources>
