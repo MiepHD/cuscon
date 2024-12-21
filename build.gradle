@@ -5,7 +5,7 @@ buildscript {
     }
 
     dependencies {
-        classpath 'com.android.tools.build:gradle:8.2.1'
+        classpath 'com.android.tools.build:gradle:8.7.3'
     }
 }
 
@@ -19,11 +19,11 @@ allprojects {
 
     rootProject.ext {
         MinSdk = 21
-        TargetSdk = 34
-        CompileSdk = 34
+        TargetSdk = 35
+        CompileSdk = 35
     }
 }
 
 task clean(type: Delete) {
-    delete rootProject.buildDir
+    delete layout.buildDirectory
 }

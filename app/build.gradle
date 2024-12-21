@@ -11,12 +11,14 @@ android {
         applicationId 'com.froxot.cuscon'
         minSdkVersion rootProject.ext.MinSdk
         targetSdkVersion rootProject.ext.TargetSdk
-        versionCode 4041
-        versionName '4.0.4.1'
+        versionCode 4042
+        versionName '4.0.4.2'
         multiDexEnabled true
 
         // Naming app bundles
-        setArchivesBaseName("${parent.name}-v${versionCode}")
+        tasks.withType(Jar).configureEach {
+            archiveBaseName.set("${parent.name}-v${versionCode}")
+        }
     }
 
     bundle {
@@ -76,8 +78,8 @@ android {
 }
 
 dependencies {
-	playImplementation 'com.github.zixpo:candybar:3.20.3'
-	fossImplementation 'com.github.Donnnno:candybar-foss:3.20.3'
+	playImplementation 'com.github.zixpo:candybar:3.20.4'
+	fossImplementation 'com.github.Donnnno:candybar-foss:3.20.4'
 }
 
 // Code for automatically copying appfilter.xml and drawable.xml
