@@ -535,7 +535,6 @@
 	<item drawable="analizador_wifi" />
     <item drawable="activearmor" />
 	<item drawable="amazon_photos" />
-	<item drawable="amazon_shopping" />
 	<item drawable="ar_emoji_stickers" />
     <item drawable="amc_cooking" />
     <item drawable="aldi_talk" />
@@ -1205,7 +1204,6 @@
 	<item drawable="correos_express" />
     <item drawable="consell_republica" />
     <item drawable="compra_online" />
-	<item drawable="cache_cleaner" />
 	<item drawable="cactus_run_" />
 	<item drawable="caf_fm_radio" />
 	<item drawable="calces" />

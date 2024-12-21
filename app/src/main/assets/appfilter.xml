@@ -784,7 +784,7 @@
 	<item component="ComponentInfo{com.microsoft.office.word/com.microsoft.office.apphost.LaunchActivity}" drawable="word" />
 	<item component="ComponentInfo{com.att.mobilesecurity/com.att.mobilesecurity.ui.launcher.AttOneAppLoadDispatchActivity}" drawable="activearmor" />
 	<item component="ComponentInfo{com.amazon.clouddrive.photos/com.amazon.photos.activity.LauncherActivity}" drawable="amazon_photos" />
-	<item component="ComponentInfo{com.amazon.mShop.android.shopping/com.amazon.mShop.home.HomeActivity}" drawable="amazon_shopping" />
+	<item component="ComponentInfo{com.amazon.mShop.android.shopping/com.amazon.mShop.home.HomeActivity}" drawable="amazon" />
 	<item component="ComponentInfo{com.sec.android.mimage.avatarstickers/com.sec.android.mimage.avatarstickers.activity.ShortcutActivity}" drawable="ar_emoji_stickers" />
 	<item component="ComponentInfo{com.backdrops.wallpapers/com.backdrops.wallpapers.WelcomeActivity}" drawable="backdrops" />
 	<item component="ComponentInfo{com.bitstrips.imoji/com.bitstrips.imoji.ui.activities.LandingActivity}" drawable="bitmoji" />

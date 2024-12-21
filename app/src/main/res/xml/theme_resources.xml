@@ -772,7 +772,7 @@
 	<AppIcon name="com.microsoft.office.word/com.microsoft.office.apphost.LaunchActivity" image="word"/>
 	<AppIcon name="com.att.mobilesecurity/com.att.mobilesecurity.ui.launcher.AttOneAppLoadDispatchActivity" image="activearmor"/>
 	<AppIcon name="com.amazon.clouddrive.photos/com.amazon.photos.activity.LauncherActivity" image="amazon_photos"/>
-	<AppIcon name="com.amazon.mShop.android.shopping/com.amazon.mShop.home.HomeActivity" image="amazon_shopping"/>
+	<AppIcon name="com.amazon.mShop.android.shopping/com.amazon.mShop.home.HomeActivity" image="amazon"/>
 	<AppIcon name="com.sec.android.mimage.avatarstickers/com.sec.android.mimage.avatarstickers.activity.ShortcutActivity" image="ar_emoji_stickers"/>
 	<AppIcon name="com.backdrops.wallpapers/com.backdrops.wallpapers.WelcomeActivity" image="backdrops"/>
 	<AppIcon name="com.bitstrips.imoji/com.bitstrips.imoji.ui.activities.LandingActivity" image="bitmoji"/>
