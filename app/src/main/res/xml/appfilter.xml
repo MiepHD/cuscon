@@ -1900,7 +1900,7 @@
 	<item component="ComponentInfo{com.coindcx.btc/com.coindcx.MainActivity}" drawable="coindcx" />
 	<item component="ComponentInfo{com.coloros.soundrecorder/com.soundrecorder.browsefile.BrowseFile}" drawable="coloros_recorder" />
 	<item component="ComponentInfo{com.dunzo.user/in.dunzo.splashScreen.ui.LauncherActivity}" drawable="dunzo" />
-	<item component="ComponentInfo{com.delphicoder.flud.paid/com.delphicoder.flud.MainActivity}" drawable="flud_" />
+	<item component="ComponentInfo{com.delphicoder.flud.paid/com.delphicoder.flud.MainActivity}" drawable="flud" />
 	<item component="ComponentInfo{com.checkitt/vc.ucic.SplashActivity}" drawable="ground_news" />
 	<item component="ComponentInfo{com.hm.goe/com.hm.goe.app.home.HomeActivity}" drawable="h_and_m" />
 	<item component="ComponentInfo{bubustudio.jugo.pack/bubustudio.jugo.pack.activities.SplashActivity}" drawable="jugo" />
@@ -3207,7 +3207,7 @@
     <item component="ComponentInfo{com.homesrus.app/com.homesrus.app.ui.splash.SplashActivity}" drawable="homesrus" />
     <item component="ComponentInfo{com.landmarkgroup.homeboxstores/com.landmarkgroupreactapps.SplashActivityDefault}" drawable="home_box" />
     <item component="ComponentInfo{com.landmarkgroup.homecentrestores/com.landmarkgroupreactapps.SplashActivityDefault}" drawable="home_centre" />
-    <item component="ComponentInfo{com.hm.mena/com.hm.MainActivity}" drawable="h_and_m_mena" />
+    <item component="ComponentInfo{com.hm.mena/com.hm.MainActivity}" drawable="h_and_m" />
 	<item component="ComponentInfo{com.google.android.apps.accessibility.reveal/com.google.android.apps.accessibility.reveal.activities.ProxyActivity}" drawable="google_lookout" />
 	<item component="ComponentInfo{com.mcdonalds.mobileapp/mcdonalds.core.SplashActivity}" drawable="mcdonalds" />
 	<item component="ComponentInfo{com.ikea.alfuttaim.store/com.ikea.kompis.SplashActivity}" drawable="ikea" />
@@ -4614,7 +4614,7 @@
     <item component="ComponentInfo{com.figure1.android/com.zoontek.rnbootsplash.RNBootSplashActivity}" drawable="figure_1" />
     <item component="ComponentInfo{com.fiio.music/com.fiio.music.activity.SplashActivity}" drawable="fiio_music" />
     <item component="ComponentInfo{com.flightview.flightview_free/com.flightview.flightview.Startup}" drawable="flightview_free" />
-    <item component="ComponentInfo{com.fmwhatsapp/com.fmwhatsapp.Icon39}" drawable="fmwhatsapp" />
+    <item component="ComponentInfo{com.fmwhatsapp/com.fmwhatsapp.Icon39}" drawable="whatsapp" />
     <item component="ComponentInfo{forties.rasoulallah.net/forties.rasoulallah.net.SplashActivity}" drawable="forties_rasoulallah" />
     <item component="ComponentInfo{com.freepikcompany.freepik/com.freepikcompany.freepik.launcher.presentation.ui.LauncherActivity}" drawable="freepik" />
     <item component="ComponentInfo{de.qwerty287.ftpclient/de.qwerty287.ftpclient.MainActivity}" drawable="ftpclient" />

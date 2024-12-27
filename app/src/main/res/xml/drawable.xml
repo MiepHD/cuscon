@@ -1,6 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <version>1</version>
+    <category title="Folders" />
+    <item drawable="folder_blue" />
+    <item drawable="folder_dark_blue" />
+    <item drawable="folder_dark_green" />
+    <item drawable="folder_dark_lilac" />
+    <item drawable="folder_dark_orange" />
+    <item drawable="folder_dark_pink" />
+    <item drawable="folder_dark_red" />
+    <item drawable="folder_dark_yellow" />
+    <item drawable="folder_green" />
+    <item drawable="folder_light_blue" />
+    <item drawable="folder_light_green" />
+    <item drawable="folder_light_lilac" />
+    <item drawable="folder_light_orange" />
+    <item drawable="folder_light_pink" />
+    <item drawable="folder_light_red" />
+    <item drawable="folder_light_yellow" />
+    <item drawable="folder_lilac" />
+    <item drawable="folder_orange" />
+    <item drawable="folder_pink" />
+    <item drawable="folder_red" />
+    <item drawable="folder_yellow" />
     <category title="Dynamic Calendars" />
     <item drawable="samsung_calendar_1" />
     <item drawable="samsung_calendar_2" />
@@ -1713,27 +1735,6 @@
     <category title="F" />
     <item drawable="fraenk" />
     <item drawable="fahrenlernen" />
-    <item drawable="folder_blue" />
-    <item drawable="folder_dark_blue" />
-    <item drawable="folder_dark_green" />
-    <item drawable="folder_dark_lilac" />
-    <item drawable="folder_dark_orange" />
-    <item drawable="folder_dark_pink" />
-    <item drawable="folder_dark_red" />
-    <item drawable="folder_dark_yellow" />
-    <item drawable="folder_green" />
-    <item drawable="folder_light_blue" />
-    <item drawable="folder_light_green" />
-    <item drawable="folder_light_lilac" />
-    <item drawable="folder_light_orange" />
-    <item drawable="folder_light_pink" />
-    <item drawable="folder_light_red" />
-    <item drawable="folder_light_yellow" />
-    <item drawable="folder_lilac" />
-    <item drawable="folder_orange" />
-    <item drawable="folder_pink" />
-    <item drawable="folder_red" />
-    <item drawable="folder_yellow" />
     <item drawable="filmplus" />
     <item drawable="freevee" />
     <item drawable="fossify_phone_green" />
@@ -1844,7 +1845,6 @@
     <item drawable="flowwow" />
     <item drawable="flud" />
     <item drawable="fm_radio" />
-    <item drawable="fmwhatsapp" />
     <item drawable="focus_launcher" />
     <item drawable="focus_to_do" />
     <item drawable="focusmeter" />
@@ -1949,7 +1949,6 @@
 	<item drawable="florisboard_beta" />
 	<item drawable="florisboard_debug" />
 	<item drawable="flowx" />
-	<item drawable="flud_" />
 	<item drawable="fluffychat" />
 	<item drawable="flym" />
 	<item drawable="fm_xradio" />
@@ -2197,7 +2196,6 @@
     <item drawable="hanseatic_bank_mobile" />
     <item drawable="honkai_star_rail" />
     <item drawable="h_and_b" />
-    <item drawable="h_and_m_mena" />
     <item drawable="habit_ally" />
     <item drawable="habitbull" />
     <item drawable="habitnow" />

@@ -1888,7 +1888,7 @@
 	<AppIcon name="com.coindcx.btc/com.coindcx.MainActivity" image="coindcx"/>
 	<AppIcon name="com.coloros.soundrecorder/com.soundrecorder.browsefile.BrowseFile" image="coloros_recorder"/>
 	<AppIcon name="com.dunzo.user/in.dunzo.splashScreen.ui.LauncherActivity" image="dunzo"/>
-	<AppIcon name="com.delphicoder.flud.paid/com.delphicoder.flud.MainActivity" image="flud_"/>
+	<AppIcon name="com.delphicoder.flud.paid/com.delphicoder.flud.MainActivity" image="flud"/>
 	<AppIcon name="com.checkitt/vc.ucic.SplashActivity" image="ground_news"/>
 	<AppIcon name="com.hm.goe/com.hm.goe.app.home.HomeActivity" image="h_and_m"/>
 	<AppIcon name="bubustudio.jugo.pack/bubustudio.jugo.pack.activities.SplashActivity" image="jugo"/>
@@ -3195,7 +3195,7 @@
     <AppIcon name="com.homesrus.app/com.homesrus.app.ui.splash.SplashActivity" image="homesrus"/>
     <AppIcon name="com.landmarkgroup.homeboxstores/com.landmarkgroupreactapps.SplashActivityDefault" image="home_box"/>
     <AppIcon name="com.landmarkgroup.homecentrestores/com.landmarkgroupreactapps.SplashActivityDefault" image="home_centre"/>
-    <AppIcon name="com.hm.mena/com.hm.MainActivity" image="h_and_m_mena"/>
+    <AppIcon name="com.hm.mena/com.hm.MainActivity" image="h_and_m"/>
 	<AppIcon name="com.google.android.apps.accessibility.reveal/com.google.android.apps.accessibility.reveal.activities.ProxyActivity" image="google_lookout"/>
 	<AppIcon name="com.mcdonalds.mobileapp/mcdonalds.core.SplashActivity" image="mcdonalds"/>
 	<AppIcon name="com.ikea.alfuttaim.store/com.ikea.kompis.SplashActivity" image="ikea"/>
@@ -4600,7 +4600,7 @@
     <AppIcon name="com.figure1.android/com.zoontek.rnbootsplash.RNBootSplashActivity" image="figure_1"/>
     <AppIcon name="com.fiio.music/com.fiio.music.activity.SplashActivity" image="fiio_music"/>
     <AppIcon name="com.flightview.flightview_free/com.flightview.flightview.Startup" image="flightview_free"/>
-    <AppIcon name="com.fmwhatsapp/com.fmwhatsapp.Icon39" image="fmwhatsapp"/>
+    <AppIcon name="com.fmwhatsapp/com.fmwhatsapp.Icon39" image="whatsapp"/>
     <AppIcon name="forties.rasoulallah.net/forties.rasoulallah.net.SplashActivity" image="forties_rasoulallah"/>
     <AppIcon name="com.freepikcompany.freepik/com.freepikcompany.freepik.launcher.presentation.ui.LauncherActivity" image="freepik"/>
     <AppIcon name="de.qwerty287.ftpclient/de.qwerty287.ftpclient.MainActivity" image="ftpclient"/>
