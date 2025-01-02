@@ -2342,7 +2342,7 @@
     <item drawable="ice_box" />
     <item drawable="iko" />
     <item drawable="infoblock" />
-    <item drawable="icsx5" />
+    <item drawable="icsx5_31" />
     <item drawable="i_am_programmer" />
     <item drawable="i_care_2020" />
     <item drawable="i_net_menue" />
@@ -2398,7 +2398,6 @@
     <item drawable="innim_my_finance" />
     <item drawable="inoreader" />
     <item drawable="inpost" />
-    <item drawable="inpost_mobile" />
     <item drawable="inshorts" />
     <item drawable="inshot" />
     <item drawable="insider_business" />

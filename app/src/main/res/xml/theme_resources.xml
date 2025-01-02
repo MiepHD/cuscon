@@ -2571,7 +2571,7 @@
     <AppIcon name="com.fun.mxw/io.dcloud.PandoraEntry" image="fun_print"/>
     <AppIcon name="nl.viter.glider/nl.viter.glider.MainActivity" image="glider"/>
     <AppIcon name="com.ikea.tradfri.lighting/com.ikea.tradfri.lighting.startup.activity.SplashActivity" image="home_smart_1"/>
-    <AppIcon name="pl.inpost.inmobile/pl.inpost.inmobile.splashScreen.presentation.SplashScreenActivity" image="inpost_mobile"/>
+    <AppIcon name="pl.inpost.inmobile/pl.inpost.inmobile.splashScreen.presentation.SplashScreenActivity" image="inpost"/>
     <AppIcon name="pl.plus.plusonline/pl.plus.plusonline.activity.SSO_WelcomeActivity" image="iplus"/>
     <AppIcon name="com.citynav.jakdojade.pl.android/com.citynav.jakdojade.pl.android.SplashScreenActivity" image="jakdojade"/>
     <AppIcon name="org.jellyfin.mobile/org.jellyfin.mobile.MainActivity" image="jellyfin"/>
@@ -5155,7 +5155,7 @@
     <AppIcon name="com.kanopy/com.kanopy.RootTabbarActivity" image="kanopy"/>
     <AppIcon name="xyz.pisoj.og.nettools/xyz.pisoj.og.nettools.MainActivity" image="og_network_tools"/>
     <AppIcon name="ac.mdiq.podcini/ac.mdiq.podcini.ui.activity.SplashActivity" image="podcini"/>
-    <AppIcon name="at.bitfire.icsdroid/at.bitfire.icsdroid.ui.CalendarListActivity" image="icsx5"/>
+    <AppIcon name="at.bitfire.icsdroid/at.bitfire.icsdroid.ui.CalendarListActivity" image="icsx5_31"/>
     <AppIcon name="fr.avianey.altimeter/fr.avianey.altimeter.AltimeterConsentActivity" image="altimeter"/>
     <AppIcon name="com.unimob.castle.defender.heroes.premium/com.unity3d.player.UnityPlayerActivity" image="castle_defender_premium"/>
     <AppIcon name="com.amoledwatchfaces.infoblock/com.amoledwatchfaces.infoblock.MainActivity" image="infoblock"/>
