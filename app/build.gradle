@@ -11,8 +11,8 @@ android {
         applicationId 'com.froxot.cuscon'
         minSdkVersion rootProject.ext.MinSdk
         targetSdkVersion rootProject.ext.TargetSdk
-        versionCode 4044
-        versionName '4.0.4.4'
+        versionCode 4045
+        versionName '4.0.4.5'
         multiDexEnabled true
 
         // Naming app bundles
@@ -67,17 +67,18 @@ android {
             manifest.srcFile "foss/AndroidManifest.xml"
         }
     }
-
-    compileOptions {
-        sourceCompatibility JavaVersion.VERSION_1_8
-        targetCompatibility JavaVersion.VERSION_1_8
-    }
     namespace 'com.froxot.cuscon'
 }
 
+java {
+    toolchain {
+        languageVersion = JavaLanguageVersion.of(11)
+    }
+}
+
 dependencies {
-	playImplementation 'com.github.zixpo:candybar:3.21.0'
-	fossImplementation 'com.github.Donnnno:candybar-foss:3.20.4'
+	playImplementation 'com.github.zixpo:candybar:3.21.1'
+	fossImplementation 'com.github.Donnnno:candybar-foss:3.21.1'
 }
 
 // Code for automatically copying appfilter.xml and drawable.xml
