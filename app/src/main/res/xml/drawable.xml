@@ -5369,5 +5369,14 @@
     <item drawable="smart_switch_data_transfer" />
     <item drawable="wifi_map" />
     <item drawable="authpass" />
+    <item drawable="anrich" />
+    <item drawable="der_spiegel" />
+    <item drawable="g_data_vpn" />
+    <item drawable="hessenschau" />
+    <item drawable="mobile_security" />
+    <item drawable="schildichat" />
+    <item drawable="s_miles_home" />
+    <item drawable="tagesschau" />
+    <item drawable="thunderbird" />
 
 </resources>
