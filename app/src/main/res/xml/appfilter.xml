@@ -5702,5 +5702,6 @@
     <item component="ComponentInfo{com.example.weathermaster/com.example.weathermaster.MainActivity}" drawable="weather_master" />
     <item component="ComponentInfo{eu.europa.publications.wifi4eu/eu.europa.publications.wifi4eu.MainActivity}" drawable="wifi4eu_map" />
     <item component="ComponentInfo{com.keylesspalace.tusky/com.keylesspalace.tusky.MainActivity}" drawable="tusky" />
+    <item component="ComponentInfo{org.mozilla.klar/org.mozilla.focus.activity.MainActivity}" drawable="firefox_focus"/>
 
 </resources>
