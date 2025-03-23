@@ -1,0 +1,2 @@
+- Improved quality of 118 icons from I to L
+- Added dynamic calendar for ICSX5

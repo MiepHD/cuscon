@@ -1,0 +1,3 @@
+- Updated YTDLnis
+- Added FahrenLernen, Notenapp., Notewise, Spck Editor, AppLock, Habitica, Hermit, Word2Pdf
+- MeinHeidelberg, Ostrom, SchildiNext, Synchronized Tally and UmweltBanking added by Gnorv (Icon sumbission for 5 apps #38 on github:MiepHD/cuscon)

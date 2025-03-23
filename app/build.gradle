@@ -1,14 +1,18 @@
 apply plugin: 'com.android.application'
 
 android {
+    dependenciesInfo {
+        includeInApk = false
+        includeInBundle = false
+    }
     compileSdk rootProject.ext.CompileSdk
 
     defaultConfig {
         applicationId 'com.froxot.cuscon'
         minSdkVersion rootProject.ext.MinSdk
         targetSdkVersion rootProject.ext.TargetSdk
-        versionCode 4031
-        versionName '4.0.3.1'
+        versionCode 4046
+        versionName '4.0.4.6'
         multiDexEnabled true
 
         // Naming app bundles
@@ -19,8 +23,18 @@ android {
         language { enableSplit false }
     }
 
+    signingConfigs {
+        release {
+            storeFile file(RELEASE_STORE_FILE)
+            storePassword RELEASE_STORE_PASSWORD
+            keyAlias RELEASE_KEY_ALIAS
+            keyPassword RELEASE_KEY_PASSWORD
+        }
+    }
+
     buildTypes {
         release {
+            signingConfig signingConfigs.release
             debuggable false
             minifyEnabled true
             proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
@@ -53,17 +67,18 @@ android {
             manifest.srcFile "foss/AndroidManifest.xml"
         }
     }
-
-    compileOptions {
-        sourceCompatibility JavaVersion.VERSION_1_8
-        targetCompatibility JavaVersion.VERSION_1_8
-    }
     namespace 'com.froxot.cuscon'
 }
 
+java {
+    toolchain {
+        languageVersion = JavaLanguageVersion.of(11)
+    }
+}
+
 dependencies {
-	playImplementation 'com.github.zixpo:candybar:3.19.0'
-	fossImplementation 'com.github.Donnnno:candybar-foss:3.19.1'
+	playImplementation 'com.github.zixpo:candybar:3.21.1'
+	fossImplementation 'com.github.Donnnno:candybar-foss:3.21.1'
 }
 
 // Code for automatically copying appfilter.xml and drawable.xml

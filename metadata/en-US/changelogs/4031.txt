@@ -1,0 +1,2 @@
+- Added Floor Plan Creator, GoFiber, Loklok, Maki Plus, Manga Reader, V380 Pro, Zello
+- Fixed Switch

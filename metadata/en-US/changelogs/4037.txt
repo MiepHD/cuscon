@@ -1,0 +1,2 @@
+- Added Balance, APKMirror Installer (beta), BeeTV, BPlayer, FilmPlus, Freevee, Telekom MK, TuneIn Radio Pro
+- Updated Max, Sound Assistant

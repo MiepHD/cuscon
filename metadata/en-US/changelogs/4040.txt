@@ -1,0 +1,2 @@
+- Added fraenk, Hanseatic Bank Secure, OSS Kartenetui, Postident, Weather Master, WiFi4EU Map
+- Updated NINA, Habitica, Tusky
