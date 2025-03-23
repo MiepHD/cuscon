@@ -5460,6 +5460,15 @@
     <AppIcon name="com.mixplorer.beta/com.mixplorer.activities.BrowseActivity" image="mix"/>
     <AppIcon name="app.shosetsu.android.debug/app.shosetsu.android.activity.MainActivity" image="shosetsu"/>
     <AppIcon name="design.codeux.authpass.fdroid/design.codeux.authpass.MainActivity" image="authpass"/>
+    <AppIcon name="sd.net.anrich/sd.net.anrich.activities.LoginActivity" image="anrich"/>
+    <AppIcon name="de.spiegel.android.app.spon/de.spiegel.android.app.spon.activities.SplashScreenActivity" image="der_spiegel"/>
+    <AppIcon name="de.gdata.vpn/com.wlvpn.consumervpn.presentation.features.splash.SplashActivity" image="g_data_vpn"/>
+    <AppIcon name="de.hr.hessenschau/de.hr.hessenschau.base.view.SplashActivity" image="hessenschau"/>
+    <AppIcon name="de.gdata.mobilesecurity/de.gdata.mobilesecurity.navigation.RootActivity" image="mobile_security"/>
+    <AppIcon name="de.spiritcroc.riotx/im.vector.application.features.Alias" image="schildichat"/>
+    <AppIcon name="com.hm.balcony/com.balcony.activity.SplashActivity" image="s_miles_home"/>
+    <AppIcon name="de.tagesschau/de.tagesschau.ui.splashscreen.SplashScreen" image="tagesschau"/>
+    <AppIcon name="net.thunderbird.android/com.fsck.k9.activity.MessageList" image="thunderbird"/>
     <AppIcon name="com.shopee.ph/com.shopee.app.ui.home.HomeActivity_" image="shopee"/>
     <AppIcon name="pl.planmieszkania.android/com.ml.planik.android.activity.list.ListActivity" image="floor_plan_creator"/>
     <AppIcon name="com.convergeict.gofiber/com.convergeict.gofiber.MainActivity" image="gofiber"/>
