@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="changelog_date">20.03.2025</string>
+    <string name="changelog_date">15.04.2025</string>
     <string-array name="changelog">
         <item>4.0.4.6:</item>
         <item>Added nRICH, DER SPIEGEL, G DATA VPN, hessenschau, Mobile Security, SchildiChat, S-Miles Home, tagesschau, Thunderbird</item>
         <item>Updated Firefox Klar</item>
+        <item>Improved quality of icons</item>
         <item>4.0.4.4:</item>
         <item>Improved quality of 118 icons from I to L</item>
         <item>Added dynamic calendar for ICSX5</item>

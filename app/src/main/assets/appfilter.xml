@@ -5476,6 +5476,15 @@
     <item component="ComponentInfo{com.mixplorer.beta/com.mixplorer.activities.BrowseActivity}" drawable="mix" />
     <item component="ComponentInfo{app.shosetsu.android.debug/app.shosetsu.android.activity.MainActivity}" drawable="shosetsu" />
     <item component="ComponentInfo{design.codeux.authpass.fdroid/design.codeux.authpass.MainActivity}" drawable="authpass" />
+    <item component="ComponentInfo{sd.net.anrich/sd.net.anrich.activities.LoginActivity}" drawable="anrich" />
+    <item component="ComponentInfo{de.spiegel.android.app.spon/de.spiegel.android.app.spon.activities.SplashScreenActivity}" drawable="der_spiegel" />
+    <item component="ComponentInfo{de.gdata.vpn/com.wlvpn.consumervpn.presentation.features.splash.SplashActivity}" drawable="g_data_vpn" />
+    <item component="ComponentInfo{de.hr.hessenschau/de.hr.hessenschau.base.view.SplashActivity}" drawable="hessenschau" />
+    <item component="ComponentInfo{de.gdata.mobilesecurity/de.gdata.mobilesecurity.navigation.RootActivity}" drawable="mobile_security" />
+    <item component="ComponentInfo{de.spiritcroc.riotx/im.vector.application.features.Alias}" drawable="schildichat" />
+    <item component="ComponentInfo{com.hm.balcony/com.balcony.activity.SplashActivity}" drawable="s_miles_home" />
+    <item component="ComponentInfo{de.tagesschau/de.tagesschau.ui.splashscreen.SplashScreen}" drawable="tagesschau" />
+    <item component="ComponentInfo{net.thunderbird.android/com.fsck.k9.activity.MessageList}" drawable="thunderbird" />
     <item component="ComponentInfo{com.shopee.ph/com.shopee.app.ui.home.HomeActivity_}" drawable="shopee" />
     <item component="ComponentInfo{pl.planmieszkania.android/com.ml.planik.android.activity.list.ListActivity}" drawable="floor_plan_creator" />
     <item component="ComponentInfo{com.convergeict.gofiber/com.convergeict.gofiber.MainActivity}" drawable="gofiber" />
@@ -5693,5 +5702,6 @@
     <item component="ComponentInfo{com.example.weathermaster/com.example.weathermaster.MainActivity}" drawable="weather_master" />
     <item component="ComponentInfo{eu.europa.publications.wifi4eu/eu.europa.publications.wifi4eu.MainActivity}" drawable="wifi4eu_map" />
     <item component="ComponentInfo{com.keylesspalace.tusky/com.keylesspalace.tusky.MainActivity}" drawable="tusky" />
+    <item component="ComponentInfo{org.mozilla.klar/org.mozilla.focus.activity.MainActivity}" drawable="firefox_focus"/>
 
 </resources>
