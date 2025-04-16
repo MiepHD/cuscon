@@ -49,8 +49,7 @@ How-To:
 
 1. If you want to contribute icons, you can use<br>
    &nbsp;&nbsp;&nbsp;a) the icons under `requests`<br>
-   &nbsp;&nbsp;&nbsp;b) send a icon request to yourself (use v4.0.1.7)<br>
-   to get the details you need
+   &nbsp;&nbsp;&nbsp;b) send a icon request to yourself (use [v4.0.1.7](https://github.com/MiepHD/cuscon/releases/tag/v4.0.1.7)) to get the details you need
 2. Extract the content of your request into `requests/icon_request`
 3. Run `python ../e.py` in the extracted request folder to get these details:
    1. List of icons that are in the request but already in the latest version. To remove them run `python ..\e.py -rmaa`
