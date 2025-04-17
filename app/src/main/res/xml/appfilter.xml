@@ -5703,5 +5703,11 @@
     <item component="ComponentInfo{eu.europa.publications.wifi4eu/eu.europa.publications.wifi4eu.MainActivity}" drawable="wifi4eu_map" />
     <item component="ComponentInfo{com.keylesspalace.tusky/com.keylesspalace.tusky.MainActivity}" drawable="tusky" />
     <item component="ComponentInfo{org.mozilla.klar/org.mozilla.focus.activity.MainActivity}" drawable="firefox_focus"/>
+    <item component="ComponentInfo{org.ironfoxoss.ironfox/org.ironfoxoss.ironfox.App}" drawable="ironfox" />
+    <item component="ComponentInfo{app.lawnchair.nightly/app.lawnchair.LawnchairLauncher}" drawable="lawnchair" />
+    <item component="ComponentInfo{com.linkedin.android/com.linkedin.android.authenticator.LaunchActivityDefault}" drawable="linkedin" />
+    <item component="ComponentInfo{mega.privacy.android.app/mega.privacy.android.app.presentation.login.LoginActivity}" drawable="mega" />
+    <item component="ComponentInfo{dev.imranr.obtainium.fdroid/dev.imranr.obtainium.MainActivity}" drawable="obtainium" />
+    <item component="ComponentInfo{app.passwordstore.agrahn/app.passwordstore.ui.main.LaunchActivity}" drawable="password_store" />
 
 </resources>

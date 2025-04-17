@@ -5605,5 +5605,11 @@
     <item drawable="s_miles_home" />
     <item drawable="tagesschau" />
     <item drawable="thunderbird" />
+    <item drawable="ironfox" />
+    <item drawable="lawnchair" />
+    <item drawable="linkedin" />
+    <item drawable="mega" />
+    <item drawable="obtainium" />
+    <item drawable="password_store" />
 
 </resources>

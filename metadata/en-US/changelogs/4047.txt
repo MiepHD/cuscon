@@ -1,0 +1,2 @@
+- Added Ironfox
+- Fixed Lawnchair, LinkedIn, MEGA, Obtainium, Password Store
