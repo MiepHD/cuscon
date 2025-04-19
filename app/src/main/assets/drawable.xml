@@ -236,6 +236,7 @@
     <item drawable="samsung_messages" />
     <category title="Google" />
     <item drawable="google"/>
+    <item drawable="google_lens_camera"/>
     <item drawable="google_ads" />
     <item drawable="google_assistant" />
     <item drawable="google_authenticator" />
@@ -274,6 +275,9 @@
     <item drawable="google_wifi" />
     <item drawable="googleassistant2" />
     <category title="A" />
+    <item drawable="authpass" />
+    <item drawable="anrich" />
+    <item drawable="appgallery" />
     <item drawable="applock" />
     <item drawable="ai_wallart" />
     <item drawable="apkmirror_installer_beta_" />
@@ -708,6 +712,7 @@
 	<item drawable="awox_homecontrol" />
 	<item drawable="axp_apk_extractor" />
     <category title="B" />
+    <item drawable="buzzkill" />
     <item drawable="bbc_sounds" />
     <item drawable="beetv" />
     <item drawable="bplayer" />
@@ -1292,6 +1297,7 @@
 	<item drawable="cubic_2_3_4_player_games" />
 	<item drawable="currencies" />
     <category title="D" />
+    <item drawable="der_spiegel" />
     <item drawable="deuna_20" />
     <item drawable="dsub" />
     <item drawable="daily_apod_wallpaper" />
@@ -1973,6 +1979,7 @@
 	<item drawable="futo_voice_input" />
 	<item drawable="fx" />
     <category title="G" />
+    <item drawable="g_data_vpn" />
     <item drawable="gley" />
     <item drawable="g7_taxi" />
     <item drawable="gbwhatsapp" />
@@ -2179,6 +2186,7 @@
 	<item drawable="gspace" />
 	<item drawable="guerrilla_mail" />
     <category title="H" />
+    <item drawable="hessenschau" />
     <item drawable="hanseatic_bank_secure" />
     <item drawable="habitica" />
     <item drawable="hermit" />
@@ -2330,6 +2338,7 @@
 	<item drawable="hypatia" />
 	<item drawable="hyperrogue_gold" />
     <category title="I" />
+    <item drawable="ironfox" />
     <item drawable="inter" />
     <item drawable="ios_widgets_iwidgets" />
     <item drawable="ifood" />
@@ -2660,6 +2669,8 @@
 	<item drawable="kutumb" />
 	<item drawable="kwgt_pro" />
     <category title="L" />
+    <item drawable="lawnchair" />
+    <item drawable="linkedin" />
     <item drawable="liquide" />
     <item drawable="leboncoin" />
     <item drawable="le_monde" />
@@ -2822,6 +2833,10 @@
 	<item drawable="lucky_wasted" />
 	<item drawable="lux_o_meter_lichtmesser" />
     <category title="M" />
+    <item drawable="mega" />
+    <item drawable="mobile_security" />
+    <item drawable="mobiletrans" />
+    <item drawable="myrecorder" />
     <item drawable="meinheidelberg" />
     <item drawable="magentatv_go" />
     <item drawable="monastery_eleusa" />
@@ -3279,6 +3294,7 @@
 	<item drawable="mytelkomsel" />
 	<item drawable="myumobile" />
     <category title="N" />
+    <item drawable="notistar" />
     <item drawable="notenapp" />
     <item drawable="notewise" />
     <item drawable="nutricash" />
@@ -3468,6 +3484,7 @@
 	<item drawable="nozzle" />
 	<item drawable="nytimes" />
     <category title="O" />
+    <item drawable="obtainium" />
     <item drawable="oss_kartenetui" />
     <item drawable="ostrom" />
     <item drawable="orhtodoxcalendarmacedonia" />
@@ -3630,6 +3647,7 @@
 	<item drawable="ovag_e_mobil" />
 	<item drawable="owlfiles" />
     <category title="P" />
+    <item drawable="password_store" />
     <item drawable="postident" />
     <item drawable="proton_vpn" />
     <item drawable="planet_marathi" />
@@ -4223,6 +4241,12 @@
 	<item drawable="rustdesk" />
 	<item drawable="rvx_music" />
     <category title="S" />
+    <item drawable="simplemind_lite" />
+    <item drawable="spontacts" />
+    <item drawable="schildichat" />
+    <item drawable="s_miles_home" />
+    <item drawable="smart_switch_data_transfer" />
+    <item drawable="switch" />
     <item drawable="schildinext" />
     <item drawable="spck_editor" />
     <item drawable="synchronized_tally" />
@@ -4710,6 +4734,9 @@
 	<item drawable="swiss_post" />
 	<item drawable="systemui_tuner" />
     <category title="T" />
+    <item drawable="translate_on_screen" />
+    <item drawable="tagesschau" />
+    <item drawable="thunderbird" />
     <item drawable="telekom_mk" />
     <item drawable="tunein_radio_pro" />
     <item drawable="the_cw" />
@@ -5228,6 +5255,7 @@
 	<item drawable="vr_banking_app" />
 	<item drawable="vsolution_app" />
     <category title="W" />
+    <item drawable="wifi_map" />
     <item drawable="weather_master" />
     <item drawable="wifi4eu_map" />
     <item drawable="word2pdf" />
@@ -5588,28 +5616,5 @@
     <item drawable="_f_droid_kdi" />
     <item drawable="_sound_" />
     <category title="Unsorted" />
-    <item drawable="appgallery" />
-    <item drawable="myrecorder" />
-    <item drawable="notistar" />
-    <item drawable="switch" />
-    <item drawable="mobiletrans" />
-    <item drawable="smart_switch_data_transfer" />
-    <item drawable="wifi_map" />
-    <item drawable="authpass" />
-    <item drawable="anrich" />
-    <item drawable="der_spiegel" />
-    <item drawable="g_data_vpn" />
-    <item drawable="hessenschau" />
-    <item drawable="mobile_security" />
-    <item drawable="schildichat" />
-    <item drawable="s_miles_home" />
-    <item drawable="tagesschau" />
-    <item drawable="thunderbird" />
-    <item drawable="ironfox" />
-    <item drawable="lawnchair" />
-    <item drawable="linkedin" />
-    <item drawable="mega" />
-    <item drawable="obtainium" />
-    <item drawable="password_store" />
 
 </resources>

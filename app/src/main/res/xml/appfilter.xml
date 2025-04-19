@@ -5711,5 +5711,15 @@
     <item component="ComponentInfo{mega.privacy.android.app/mega.privacy.android.app.presentation.login.LoginActivity}" drawable="mega" />
     <item component="ComponentInfo{dev.imranr.obtainium.fdroid/dev.imranr.obtainium.MainActivity}" drawable="obtainium" />
     <item component="ComponentInfo{app.passwordstore.agrahn/app.passwordstore.ui.main.LaunchActivity}" drawable="password_store" />
+    <item component="ComponentInfo{com.aeroinsta.android/com.instagram.android.activity.MainTabActivity}" drawable="instagram" />
+    <item component="ComponentInfo{com.samsung.android.goodlock/com.samsung.android.goodlock.MainActivity}" drawable="good_lock" />
+    <item component="ComponentInfo{com.burockgames.timeclocker/com.burockgames.timeclocker.activityAliasDefault}" drawable="stayfree" />
+    <item component="ComponentInfo{com.samsung.android.themedesigner/com.samsung.android.themedesigner.ui.view.SplashComposeActivity}" drawable="theme_park" />
+    <item component="ComponentInfo{com.weather.Weather/com.weather.corgikit.view.CorgiActivity}" drawable="the_weather_channel" />
+    <item component="ComponentInfo{app.passwordstore.agrahn/app.passwordstore.ui.main.LaunchActivity}" drawable="password_store" />
+    <item component="ComponentInfo{com.samruston.buzzkill/com.samruston.buzzkill.ui.MainActivity}" drawable="buzzkill" />
+    <item component="ComponentInfo{com.modelmakertools.simplemindfree/com.modelmakertools.simplemindfree.SimpleMindFreeEditorActivity}" drawable="simplemind_lite" />
+    <item component="ComponentInfo{com.conceptworks.spontacts/com.conceptworks.spontacts.MainActivity}" drawable="spontacts" />
+    <item component="ComponentInfo{com.recognize_text.translate.screen/com.recognize_text.translate.screen.domain.main.SplashActivity}" drawable="translate_on_screen" />
 
 </resources>

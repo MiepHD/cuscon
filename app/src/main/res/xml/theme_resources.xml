@@ -5693,5 +5693,15 @@
     <AppIcon name="app.passwordstore.agrahn/app.passwordstore.ui.main.LaunchActivity" image="password_store"/>
     <AppIcon component="proton.android.pass.fdroid/proton.android.pass.ui.MainActivity" image="proton_pass" />
     <AppIcon component="proton.android.pass.fdroid/proton.android.pass.fdroid.ui.MainActivity" image="proton_pass" />
+    <AppIcon name="com.aeroinsta.android/com.instagram.android.activity.MainTabActivity" image="instagram"/>
+    <AppIcon name="com.samsung.android.goodlock/com.samsung.android.goodlock.MainActivity" image="good_lock"/>
+    <AppIcon name="com.burockgames.timeclocker/com.burockgames.timeclocker.activityAliasDefault" image="stayfree"/>
+    <AppIcon name="com.samsung.android.themedesigner/com.samsung.android.themedesigner.ui.view.SplashComposeActivity" image="theme_park"/>
+    <AppIcon name="com.weather.Weather/com.weather.corgikit.view.CorgiActivity" image="the_weather_channel"/>
+    <AppIcon name="app.passwordstore.agrahn/app.passwordstore.ui.main.LaunchActivity" image="password_store"/>
+    <AppIcon name="com.samruston.buzzkill/com.samruston.buzzkill.ui.MainActivity" image="buzzkill"/>
+    <AppIcon name="com.modelmakertools.simplemindfree/com.modelmakertools.simplemindfree.SimpleMindFreeEditorActivity" image="simplemind_lite"/>
+    <AppIcon name="com.conceptworks.spontacts/com.conceptworks.spontacts.MainActivity" image="spontacts"/>
+    <AppIcon name="com.recognize_text.translate.screen/com.recognize_text.translate.screen.domain.main.SplashActivity" image="translate_on_screen"/>
 
 </Theme>
