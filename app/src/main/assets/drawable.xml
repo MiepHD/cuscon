@@ -3241,7 +3241,7 @@
 	<item drawable="mobility_carsharing" />
 	<item drawable="mobizen" />
 	<item drawable="mobvoi_health" />
-	<item drawable="modi_und_routinen" />
+	<item drawable="modi_und_routinen" name="Bixby Routines" />
 	<item drawable="moinmoin" />
 	<item drawable="moneywallet" />
 	<item drawable="moonlight" />
