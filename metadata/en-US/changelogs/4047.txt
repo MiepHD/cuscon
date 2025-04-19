@@ -1,3 +1,3 @@
 - Added Ironfox
-- Fixed Lawnchair, LinkedIn, MEGA, Obtainium, Password Store
+- Fixed Lawnchair, LinkedIn, MEGA, Obtainium, Password Store, Proton Pass
 - Updated Youtube icon

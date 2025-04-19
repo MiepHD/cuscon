@@ -5086,6 +5086,8 @@
     <item component="ComponentInfo{com.heytap.health.international/com.heytap.health.launch.LaunchActivity}" drawable="ohealth" />
     <item component="ComponentInfo{me.proton.android.calendar/me.proton.android.calendar.presentation.main.MainActivity}" drawable="proton_calendar" />
     <item component="ComponentInfo{proton.android.pass/proton.android.pass.ui.MainActivity}" drawable="proton_pass" />
+    <item component="ComponentInfo{proton.android.pass.fdroid/proton.android.pass.ui.MainActivity}" drawable="proton_pass" />
+    <item component="ComponentInfo{proton.android.pass.fdroid/proton.android.pass.fdroid.ui.MainActivity}" drawable="proton_pass" />
     <item component="ComponentInfo{com.agilecontent.agiletv.mobile/com.agilecontent.agiletv.presentation.ui.splash.SplashActivity}" drawable="agiletv" />
     <item component="ComponentInfo{com.orange.sp.cybersecurity/com.cyan.osp.MainActivity}" drawable="ciber_proteccion" />
     <item component="ComponentInfo{com.mitelelite/es.mediaset.mitelelite.ui.splash.SplashActivity}" drawable="mitele" />

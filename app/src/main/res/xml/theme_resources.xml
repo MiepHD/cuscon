@@ -5691,5 +5691,7 @@
     <AppIcon name="mega.privacy.android.app/mega.privacy.android.app.presentation.login.LoginActivity" image="mega"/>
     <AppIcon name="dev.imranr.obtainium.fdroid/dev.imranr.obtainium.MainActivity" image="obtainium"/>
     <AppIcon name="app.passwordstore.agrahn/app.passwordstore.ui.main.LaunchActivity" image="password_store"/>
+    <AppIcon component="proton.android.pass.fdroid/proton.android.pass.ui.MainActivity" image="proton_pass" />
+    <AppIcon component="proton.android.pass.fdroid/proton.android.pass.fdroid.ui.MainActivity" image="proton_pass" />
 
 </Theme>
