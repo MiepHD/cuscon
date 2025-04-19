@@ -5703,5 +5703,13 @@
     <AppIcon name="com.modelmakertools.simplemindfree/com.modelmakertools.simplemindfree.SimpleMindFreeEditorActivity" image="simplemind_lite"/>
     <AppIcon name="com.conceptworks.spontacts/com.conceptworks.spontacts.MainActivity" image="spontacts"/>
     <AppIcon name="com.recognize_text.translate.screen/com.recognize_text.translate.screen.domain.main.SplashActivity" image="translate_on_screen"/>
+    <AppIcon name="dev.lucanlm.antimine/dev.lucasnlm.antimine.main.MainActivity" image="antimine"/>
+    <AppIcon name="com.deutschebahn.dbmobidig/com.deutschebahn.dbmobidig.MainActivity" image="db_mobidig"/>
+    <AppIcon name="de.gls.banking/de.fiduciagad.banking.screens.navigation.NavigationActivity" image="gls_banking"/>
+    <AppIcon name="de.hkk.hkkApp/de.bitmarck.bitone.baseapp.ui.splashscreen.RoutingActivity" image="hkk"/>
+    <AppIcon name="rocks.poopjournal.metadataremover/rocks.poopjournal.metadataremover.ui.MainActivity" image="metadatenentferner"/>
+    <AppIcon name="com.mdv.VRNCompanion/com.mdv.VRNCompanion.MainActivity" image="myvrn"/>
+    <AppIcon name="de.blau.android/de.blau.android.Splash" image="vespucci"/>
+    <AppIcon name="com.unicornsonlsd.finamp/com.ryanheise.audioservice.AudioServiceActivity" image="finamp"/>
 
 </Theme>

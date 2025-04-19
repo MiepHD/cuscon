@@ -1,3 +1,3 @@
-- Added Ironfox, BuzzKill, SimpleMind Lite, Spontacts, Translate On Screen, Google Lens Camera
+- Added Ironfox, BuzzKill, SimpleMind Lite, Spontacts, Translate On Screen, Google Lens Camera, Antimine, DB MobiDig, GLS Banking, hkk, Metadatenentferner, myVRN, Vespucci, Finamp
 - Fixed Lawnchair, LinkedIn, MEGA, Obtainium, Password Store, Proton Pass, Instagram, Good Lock, StayFree, Theme Park, The Weather Channel, Password Store
 - Updated Youtube icon, Google Play Store, Google Chat, Musixmatch

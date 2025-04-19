@@ -5721,5 +5721,13 @@
     <item component="ComponentInfo{com.modelmakertools.simplemindfree/com.modelmakertools.simplemindfree.SimpleMindFreeEditorActivity}" drawable="simplemind_lite" />
     <item component="ComponentInfo{com.conceptworks.spontacts/com.conceptworks.spontacts.MainActivity}" drawable="spontacts" />
     <item component="ComponentInfo{com.recognize_text.translate.screen/com.recognize_text.translate.screen.domain.main.SplashActivity}" drawable="translate_on_screen" />
+    <item component="ComponentInfo{dev.lucanlm.antimine/dev.lucasnlm.antimine.main.MainActivity}" drawable="antimine" />
+    <item component="ComponentInfo{com.deutschebahn.dbmobidig/com.deutschebahn.dbmobidig.MainActivity}" drawable="db_mobidig" />
+    <item component="ComponentInfo{de.gls.banking/de.fiduciagad.banking.screens.navigation.NavigationActivity}" drawable="gls_banking" />
+    <item component="ComponentInfo{de.hkk.hkkApp/de.bitmarck.bitone.baseapp.ui.splashscreen.RoutingActivity}" drawable="hkk" />
+    <item component="ComponentInfo{rocks.poopjournal.metadataremover/rocks.poopjournal.metadataremover.ui.MainActivity}" drawable="metadatenentferner" />
+    <item component="ComponentInfo{com.mdv.VRNCompanion/com.mdv.VRNCompanion.MainActivity}" drawable="myvrn" />
+    <item component="ComponentInfo{de.blau.android/de.blau.android.Splash}" drawable="vespucci" />
+    <item component="ComponentInfo{com.unicornsonlsd.finamp/com.ryanheise.audioservice.AudioServiceActivity}" drawable="finamp" />
 
 </resources>

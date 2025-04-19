@@ -275,6 +275,7 @@
     <item drawable="google_wifi" />
     <item drawable="googleassistant2" />
     <category title="A" />
+    <item drawable="antimine" />
     <item drawable="authpass" />
     <item drawable="anrich" />
     <item drawable="appgallery" />
@@ -1297,6 +1298,7 @@
 	<item drawable="cubic_2_3_4_player_games" />
 	<item drawable="currencies" />
     <category title="D" />
+    <item drawable="db_mobidig" />
     <item drawable="der_spiegel" />
     <item drawable="deuna_20" />
     <item drawable="dsub" />
@@ -1739,6 +1741,7 @@
 	<item drawable="explorer" />
 	<item drawable="exteragram" />
     <category title="F" />
+    <item drawable="finamp" />
     <item drawable="fraenk" />
     <item drawable="fahrenlernen" />
     <item drawable="filmplus" />
@@ -1979,6 +1982,7 @@
 	<item drawable="futo_voice_input" />
 	<item drawable="fx" />
     <category title="G" />
+    <item drawable="gls_banking" />
     <item drawable="g_data_vpn" />
     <item drawable="gley" />
     <item drawable="g7_taxi" />
@@ -2186,6 +2190,7 @@
 	<item drawable="gspace" />
 	<item drawable="guerrilla_mail" />
     <category title="H" />
+    <item drawable="hkk" />
     <item drawable="hessenschau" />
     <item drawable="hanseatic_bank_secure" />
     <item drawable="habitica" />
@@ -2833,6 +2838,8 @@
 	<item drawable="lucky_wasted" />
 	<item drawable="lux_o_meter_lichtmesser" />
     <category title="M" />
+    <item drawable="metadatenentferner" />
+    <item drawable="myvrn" />
     <item drawable="mega" />
     <item drawable="mobile_security" />
     <item drawable="mobiletrans" />
@@ -5119,6 +5126,7 @@
 	<item drawable="utiles" />
 	<item drawable="utilidades_amaze" />
     <category title="V" />
+    <item drawable="vespucci" />
     <item drawable="v380" />
     <item drawable="viper4android_fx" />
     <item drawable="vivo_easy" />
