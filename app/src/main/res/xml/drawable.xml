@@ -275,6 +275,7 @@
     <item drawable="google_wifi" />
     <item drawable="googleassistant2" />
     <category title="A" />
+    <item drawable="ally" />
     <item drawable="antimine" />
     <item drawable="authpass" />
     <item drawable="anrich" />
@@ -1579,6 +1580,7 @@
 	<item drawable="dynalist" />
 	<item drawable="dynamicspot" />
     <category title="E" />
+    <item drawable="egg_inc" />
     <item drawable="exyu_radio" />
     <item drawable="expensify" />
     <item drawable="emerald" />
@@ -1741,6 +1743,7 @@
 	<item drawable="explorer" />
 	<item drawable="exteragram" />
     <category title="F" />
+    <item drawable="feedflow" />
     <item drawable="finamp" />
     <item drawable="fraenk" />
     <item drawable="fahrenlernen" />
@@ -2674,6 +2677,7 @@
 	<item drawable="kutumb" />
 	<item drawable="kwgt_pro" />
     <category title="L" />
+    <item drawable="loops" />
     <item drawable="lawnchair" />
     <item drawable="linkedin" />
     <item drawable="liquide" />
@@ -2838,6 +2842,7 @@
 	<item drawable="lucky_wasted" />
 	<item drawable="lux_o_meter_lichtmesser" />
     <category title="M" />
+    <item drawable="memories" />
     <item drawable="metadatenentferner" />
     <item drawable="myvrn" />
     <item drawable="mega" />
@@ -3654,6 +3659,8 @@
 	<item drawable="ovag_e_mobil" />
 	<item drawable="owlfiles" />
     <category title="P" />
+    <item drawable="phonetrack" />
+    <item drawable="power_ampache_2" />
     <item drawable="password_store" />
     <item drawable="postident" />
     <item drawable="proton_vpn" />
@@ -4042,6 +4049,8 @@
 	<item drawable="quik" />
 	<item drawable="quillpad" />
     <category title="R" />
+    <item drawable="raccoon" />
+    <item drawable="robo_defense" />
     <item drawable="review" />
     <item drawable="reprodutor_de_musica_ddmusic" />
     <item drawable="radii" />

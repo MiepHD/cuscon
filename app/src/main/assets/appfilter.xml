@@ -5729,5 +5729,15 @@
     <item component="ComponentInfo{com.mdv.VRNCompanion/com.mdv.VRNCompanion.MainActivity}" drawable="myvrn" />
     <item component="ComponentInfo{de.blau.android/de.blau.android.Splash}" drawable="vespucci" />
     <item component="ComponentInfo{com.unicornsonlsd.finamp/com.ryanheise.audioservice.AudioServiceActivity}" drawable="finamp" />
+    <item component="ComponentInfo{org.breezyweather/org.breezyweather.ui.main.MainActivity}" drawable="breezyweather" />
+    <item component="ComponentInfo{com.ally.MobileBanking/com.ally.MobileBanking.SplashScreen}" drawable="ally" />
+    <item component="ComponentInfo{com.auxbrain.egginc/com.auxbrain.egginc.EggIncActivity}" drawable="egg_inc" />
+    <item component="ComponentInfo{com.prof18.feedflow/com.prof18.feedflow.android.MainActivity}" drawable="feedflow" />
+    <item component="ComponentInfo{com.pixelfed.loops/com.pixelfed.loops.MainActivity}" drawable="loops" />
+    <item component="ComponentInfo{gallery.memories/gallery.memories.MainActivity}" drawable="memories" />
+    <item component="ComponentInfo{net.eneiluj.nextcloud.phonetrack/net.eneiluj.nextcloud.phonetrack.android.activity.LogjobsListViewActivity}" drawable="phonetrack" />
+    <item component="ComponentInfo{luci.sixsixsix.powerampache2.fdroid/luci.sixsixsix.powerampache2.presentation.MainActivity}" drawable="power_ampache_2" />
+    <item component="ComponentInfo{com.livefast.eattrash.raccoonforlemmy.android/com.livefast.eattrash.raccoonforlemmy.android.MainActivity}" drawable="raccoon" />
+    <item component="ComponentInfo{com.magicwach.rdefense/com.magicwach.rdefense.TitleActivity}" drawable="robo_defense" />
 
 </resources>

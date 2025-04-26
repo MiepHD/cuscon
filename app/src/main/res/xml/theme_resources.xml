@@ -5711,5 +5711,15 @@
     <AppIcon name="com.mdv.VRNCompanion/com.mdv.VRNCompanion.MainActivity" image="myvrn"/>
     <AppIcon name="de.blau.android/de.blau.android.Splash" image="vespucci"/>
     <AppIcon name="com.unicornsonlsd.finamp/com.ryanheise.audioservice.AudioServiceActivity" image="finamp"/>
+    <AppIcon name="org.breezyweather/org.breezyweather.ui.main.MainActivity" image="breezyweather"/>
+    <AppIcon name="com.ally.MobileBanking/com.ally.MobileBanking.SplashScreen" image="ally"/>
+    <AppIcon name="com.auxbrain.egginc/com.auxbrain.egginc.EggIncActivity" image="egg_inc"/>
+    <AppIcon name="com.prof18.feedflow/com.prof18.feedflow.android.MainActivity" image="feedflow"/>
+    <AppIcon name="com.pixelfed.loops/com.pixelfed.loops.MainActivity" image="loops"/>
+    <AppIcon name="gallery.memories/gallery.memories.MainActivity" image="memories"/>
+    <AppIcon name="net.eneiluj.nextcloud.phonetrack/net.eneiluj.nextcloud.phonetrack.android.activity.LogjobsListViewActivity" image="phonetrack"/>
+    <AppIcon name="luci.sixsixsix.powerampache2.fdroid/luci.sixsixsix.powerampache2.presentation.MainActivity" image="power_ampache_2"/>
+    <AppIcon name="com.livefast.eattrash.raccoonforlemmy.android/com.livefast.eattrash.raccoonforlemmy.android.MainActivity" image="raccoon"/>
+    <AppIcon name="com.magicwach.rdefense/com.magicwach.rdefense.TitleActivity" image="robo_defense"/>
 
 </Theme>
