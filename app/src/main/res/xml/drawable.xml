@@ -803,6 +803,7 @@
 	<item drawable="awox_homecontrol" />
 	<item drawable="axp_apk_extractor" />
     <category title="B" />
+    <item drawable="buy_me_a_coffee" />
     <item drawable="banco_ctt" />
     <item drawable="bankieren" />
     <item drawable="battery_level_indicators" />
@@ -1451,6 +1452,7 @@
 	<item drawable="cubic_2_3_4_player_games" />
 	<item drawable="currencies" />
     <category title="D" />
+    <item drawable="droidcam" />
     <item drawable="darkmodelivewallpaper" />
     <item drawable="darq" />
     <item drawable="date_calculator_pro" />

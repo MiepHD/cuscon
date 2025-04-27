@@ -5895,5 +5895,7 @@
     <item component="ComponentInfo{us.spotco.extirpater/us.spotco.extirpater.MainActivity}" drawable="extirpater" />
     <item component="ComponentInfo{it.rortos.extremelandingspro/com.google.firebase.MessagingUnityPlayerActivity}" drawable="extreme_landings_pro" />
     <item component="ComponentInfo{com.fonlow.VAC/crc643ad3c6bdbac0127e.MainActivityVAC}" drawable="eye_charts" />
+    <item component="ComponentInfo{app.buymeacoffee/app.buymeacoffee.MainActivity}" drawable="buy_me_a_coffee" />
+    <item component="ComponentInfo{com.dev47apps.droidcam/com.dev47apps.droidcam.DroidCam}" drawable="droidcam" />
 
 </resources>

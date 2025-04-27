@@ -5778,5 +5778,7 @@
     <AppIcon name="com.anthropic.claude/com.anthropic.claude.mainactivity.MainActivity" image="anthropic_claude"/>
     <AppIcon name="com.coloros.backuprestore/com.oplus.phoneclone.PhoneCloneMainActivity" image="oplus_clone_phone"/>
     <AppIcon name="de.lukasneugebauer.nextcloudcookbook/de.lukasneugebauer.nextcloudcookbook.core.presentation.MainActivity" image="lukasneugebauer_cookbook"/>
+    <AppIcon name="app.buymeacoffee/app.buymeacoffee.MainActivity" image="buy_me_a_coffee"/>
+    <AppIcon name="com.dev47apps.droidcam/com.dev47apps.droidcam.DroidCam" image="droidcam"/>
 
 </Theme>
