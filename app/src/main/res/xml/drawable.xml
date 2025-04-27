@@ -276,7 +276,6 @@
     <item drawable="googleassistant2" />
     <category title="#" />
     <item drawable="_4pda" />
-    <item drawable="∞_energy" />
     <item drawable="_324" />
     <item drawable="_0h_h1" />
 	<item drawable="_1dm" />
@@ -326,7 +325,7 @@
     <item drawable="adbungfu" />
     <item drawable="adb_otg_shell" />
     <item drawable="adb_over_wifi" />
-    <item drawable="adb⚡otg" />
+    <item drawable="adb_otg" />
     <item drawable="afk_arena" />
     <item drawable="af_weather_widget" />
     <item drawable="airdroid" />
@@ -2537,6 +2536,7 @@
 	<item drawable="hypatia" />
 	<item drawable="hyperrogue_gold" />
     <category title="I" />
+    <item drawable="infinity_energy" />
     <item drawable="ironfox" />
     <item drawable="inter" />
     <item drawable="ios_widgets_iwidgets" />

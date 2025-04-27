@@ -276,7 +276,6 @@
     <item drawable="googleassistant2" />
     <category title="#" />
     <item drawable="_4pda" />
-    <item drawable="∞_energy" />
     <item drawable="_324" />
     <item drawable="_0h_h1" />
 	<item drawable="_1dm" />
@@ -326,7 +325,7 @@
     <item drawable="adbungfu" />
     <item drawable="adb_otg_shell" />
     <item drawable="adb_over_wifi" />
-    <item drawable="adb⚡otg" />
+    <item drawable="adb_otg" />
     <item drawable="afk_arena" />
     <item drawable="af_weather_widget" />
     <item drawable="airdroid" />
@@ -803,6 +802,7 @@
 	<item drawable="awox_homecontrol" />
 	<item drawable="axp_apk_extractor" />
     <category title="B" />
+    <item drawable="buy_me_a_coffee" />
     <item drawable="banco_ctt" />
     <item drawable="bankieren" />
     <item drawable="battery_level_indicators" />
@@ -1451,6 +1451,7 @@
 	<item drawable="cubic_2_3_4_player_games" />
 	<item drawable="currencies" />
     <category title="D" />
+    <item drawable="droidcam" />
     <item drawable="darkmodelivewallpaper" />
     <item drawable="darq" />
     <item drawable="date_calculator_pro" />
@@ -2535,6 +2536,7 @@
 	<item drawable="hypatia" />
 	<item drawable="hyperrogue_gold" />
     <category title="I" />
+    <item drawable="infinity_energy" />
     <item drawable="ironfox" />
     <item drawable="inter" />
     <item drawable="ios_widgets_iwidgets" />

@@ -5751,7 +5751,7 @@
     <item component="ComponentInfo{com.oF2pks.adbungfu/com.oF2pks.adbungfu.MainActivity}" drawable="adbungfu" />
     <item component="ComponentInfo{app.adbotg.shell/app.adbotg.shell.views.MainActivity}" drawable="adb_otg_shell" />
     <item component="ComponentInfo{com.github.warren_bank.adb_over_wifi/com.github.warren_bank.adb_over_wifi.MainActivity}" drawable="adb_over_wifi" />
-    <item component="ComponentInfo{com.htetznaing.adbotg/com.htetznaing.adbotg.MainActivity}" drawable="adb⚡otg" />
+    <item component="ComponentInfo{com.htetznaing.adbotg/com.htetznaing.adbotg.MainActivity}" drawable="adb_otg" />
     <item component="ComponentInfo{com.lilithgame.hgame.gp/sh.lilithgame.hgame.AppActivity}" drawable="afk_arena" />
     <item component="ComponentInfo{net.gitsaibot.af/net.gitsaibot.af.AfIntro}" drawable="af_weather_widget" />
     <item component="ComponentInfo{com.sand.airdroid/com.sand.airdroid.ui.splash.SplashActivity_}" drawable="airdroid" />
@@ -5790,7 +5790,7 @@
     <item component="ComponentInfo{org.awallet.cloud/org.awallet.ui.HomeActivityCloud}" drawable="awallet_cloud" />
     <item component="ComponentInfo{com.momocode.shortcuts/com.momocode.shortcuts.ui.main.MainActivity}" drawable="awesome_icons" />
     <item component="ComponentInfo{ru.fourpda.client/ru.fourpda.client.MainActivity}" drawable="_4pda" />
-    <item component="ComponentInfo{com.infinitygames.loopenergy/com.unity3d.player.UnityPlayerActivity}" drawable="∞_energy" />
+    <item component="ComponentInfo{com.infinitygames.loopenergy/com.unity3d.player.UnityPlayerActivity}" drawable="infinity_energy" />
     <item component="ComponentInfo{com.yuandroid.Battery.Widget/com.yuandroid.Battery.Widget.MainActivity}" drawable="yuandroid_battery_widget" />
     <item component="ComponentInfo{com.hifnawy.caffeinate/com.hifnawy.caffeinate.view.MainActivity}" drawable="hifnawy_caffeinate" />
     <item component="ComponentInfo{com.anthropic.claude/com.anthropic.claude.mainactivity.MainActivity}" drawable="anthropic_claude" />
@@ -5895,5 +5895,7 @@
     <item component="ComponentInfo{us.spotco.extirpater/us.spotco.extirpater.MainActivity}" drawable="extirpater" />
     <item component="ComponentInfo{it.rortos.extremelandingspro/com.google.firebase.MessagingUnityPlayerActivity}" drawable="extreme_landings_pro" />
     <item component="ComponentInfo{com.fonlow.VAC/crc643ad3c6bdbac0127e.MainActivityVAC}" drawable="eye_charts" />
+    <item component="ComponentInfo{app.buymeacoffee/app.buymeacoffee.MainActivity}" drawable="buy_me_a_coffee" />
+    <item component="ComponentInfo{com.dev47apps.droidcam/com.dev47apps.droidcam.DroidCam}" drawable="droidcam" />
 
 </resources>

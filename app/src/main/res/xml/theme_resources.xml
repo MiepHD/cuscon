@@ -5733,7 +5733,7 @@
     <AppIcon name="com.oF2pks.adbungfu/com.oF2pks.adbungfu.MainActivity" image="adbungfu"/>
     <AppIcon name="app.adbotg.shell/app.adbotg.shell.views.MainActivity" image="adb_otg_shell"/>
     <AppIcon name="com.github.warren_bank.adb_over_wifi/com.github.warren_bank.adb_over_wifi.MainActivity" image="adb_over_wifi"/>
-    <AppIcon name="com.htetznaing.adbotg/com.htetznaing.adbotg.MainActivity" image="adb⚡otg"/>
+    <AppIcon name="com.htetznaing.adbotg/com.htetznaing.adbotg.MainActivity" image="adb_otg"/>
     <AppIcon name="com.lilithgame.hgame.gp/sh.lilithgame.hgame.AppActivity" image="afk_arena"/>
     <AppIcon name="net.gitsaibot.af/net.gitsaibot.af.AfIntro" image="af_weather_widget"/>
     <AppIcon name="com.sand.airdroid/com.sand.airdroid.ui.splash.SplashActivity_" image="airdroid"/>
@@ -5772,7 +5772,7 @@
     <AppIcon name="org.awallet.cloud/org.awallet.ui.HomeActivityCloud" image="awallet_cloud"/>
     <AppIcon name="com.momocode.shortcuts/com.momocode.shortcuts.ui.main.MainActivity" image="awesome_icons"/>
     <AppIcon name="ru.fourpda.client/ru.fourpda.client.MainActivity" image="_4pda"/>
-    <AppIcon name="com.infinitygames.loopenergy/com.unity3d.player.UnityPlayerActivity" image="∞_energy"/>
+    <AppIcon name="com.infinitygames.loopenergy/com.unity3d.player.UnityPlayerActivity" image="infinity_energy"/>
     <AppIcon name="com.yuandroid.Battery.Widget/com.yuandroid.Battery.Widget.MainActivity" image="yuandroid_battery_widget"/>
     <AppIcon name="com.hifnawy.caffeinate/com.hifnawy.caffeinate.view.MainActivity" image="hifnawy_caffeinate"/>
     <AppIcon name="com.anthropic.claude/com.anthropic.claude.mainactivity.MainActivity" image="anthropic_claude"/>
