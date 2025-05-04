@@ -6139,5 +6139,13 @@
     <item component="ComponentInfo{com.barcode.qrcode.scanner.reader.pro/com.barcode.qrcode.scanner.reader.pro.activity.MainActivity}" drawable="qr_barcode_scanner_pro" />
     <item component="ComponentInfo{com.quiziopro/com.quiziopro.activity.SplashActivity}" drawable="quizio_pro" />
     <item component="ComponentInfo{com.ist.quotescreator/com.ist.quotescreator.app.LicenceActivity}" drawable="quotes_creator_quotes_maker" />
+    <item component="ComponentInfo{org.fossify.calendar/org.fossify.calendar.activities.SplashActivity.Blue}" drawable="fossify_calendar_green" />
+    <item component="ComponentInfo{ch.protonvpn.android/ch.protonvpn.android.RoutingDark}" drawable="proton_vpn" />
+    <item component="ComponentInfo{org.bklynlibrary.discover.twa/org.bklynlibrary.discover.twa.LauncherActivity}" drawable="bklyn_library" />
+    <item component="ComponentInfo{com.collegehumor.chdropout/tv.vhx.LauncherActivity}" drawable="dropout" />
+    <item component="ComponentInfo{com.urbandroid.kinestop/com.urbandroid.kinestop.MainActivity}" drawable="kinestop" />
+    <item component="ComponentInfo{net.sharewire.Nycdot/group.flowbird.mpp.activities.SplashActivity}" drawable="parknyc" />
+    <item component="ComponentInfo{com.NotYetMedia.RoyalRoad/crc64d22d936ca88f8d15.MainActivity}" drawable="royal_road" />
+    <item component="ComponentInfo{com.waist.line/com.waist.line.MainActivity}" drawable="waistline" />
 
 </resources>

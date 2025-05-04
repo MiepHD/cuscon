@@ -6021,5 +6021,13 @@
     <AppIcon name="com.barcode.qrcode.scanner.reader.pro/com.barcode.qrcode.scanner.reader.pro.activity.MainActivity" image="qr_barcode_scanner_pro"/>
     <AppIcon name="com.quiziopro/com.quiziopro.activity.SplashActivity" image="quizio_pro"/>
     <AppIcon name="com.ist.quotescreator/com.ist.quotescreator.app.LicenceActivity" image="quotes_creator_quotes_maker"/>
+    <AppIcon name="org.fossify.calendar/org.fossify.calendar.activities.SplashActivity.Blue" image="fossify_calendar_green"/>
+    <AppIcon name="ch.protonvpn.android/ch.protonvpn.android.RoutingDark" image="proton_vpn"/>
+    <AppIcon name="org.bklynlibrary.discover.twa/org.bklynlibrary.discover.twa.LauncherActivity" image="bklyn_library"/>
+    <AppIcon name="com.collegehumor.chdropout/tv.vhx.LauncherActivity" image="dropout"/>
+    <AppIcon name="com.urbandroid.kinestop/com.urbandroid.kinestop.MainActivity" image="kinestop"/>
+    <AppIcon name="net.sharewire.Nycdot/group.flowbird.mpp.activities.SplashActivity" image="parknyc"/>
+    <AppIcon name="com.NotYetMedia.RoyalRoad/crc64d22d936ca88f8d15.MainActivity" image="royal_road"/>
+    <AppIcon name="com.waist.line/com.waist.line.MainActivity" image="waistline"/>
 
 </Theme>
