@@ -6088,7 +6088,7 @@
     <item component="ComponentInfo{net.retiolus.osm2gmaps/net.retiolus.osm2gmaps.activities.MainActivity}" drawable="osm2gmaps" />
     <item component="ComponentInfo{org.gittner.osmbugs/org.gittner.osmbugs.ui.MainActivity}" drawable="osmbugs" />
     <item component="ComponentInfo{net.pfiers.osmfocus/net.pfiers.osmfocus.view.MainActivity}" drawable="osmfocus_reborn" />
-    <item component="ComponentInfo{net.osmtracker/net.osmtracker.activity.TrackManager}" drawable="osmtracker_for_android™" />
+    <item component="ComponentInfo{net.osmtracker/net.osmtracker.activity.TrackManager}" drawable="osmtracker_for_android" />
     <item component="ComponentInfo{de.storchp.opentracks.osmplugin/de.storchp.opentracks.osmplugin.MainActivity}" drawable="osm_dashboard" />
     <item component="ComponentInfo{de.storchp.opentracks.osmplugin.offline/de.storchp.opentracks.osmplugin.MainActivity}" drawable="osm_dashboard_offline_" />
     <item component="ComponentInfo{com.akylas.weather/com.akylas.weather.MainActivity}" drawable="oss_weather" />

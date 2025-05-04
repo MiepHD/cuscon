@@ -5970,7 +5970,7 @@
     <AppIcon name="net.retiolus.osm2gmaps/net.retiolus.osm2gmaps.activities.MainActivity" image="osm2gmaps"/>
     <AppIcon name="org.gittner.osmbugs/org.gittner.osmbugs.ui.MainActivity" image="osmbugs"/>
     <AppIcon name="net.pfiers.osmfocus/net.pfiers.osmfocus.view.MainActivity" image="osmfocus_reborn"/>
-    <AppIcon name="net.osmtracker/net.osmtracker.activity.TrackManager" image="osmtracker_for_android™"/>
+    <AppIcon name="net.osmtracker/net.osmtracker.activity.TrackManager" image="osmtracker_for_android"/>
     <AppIcon name="de.storchp.opentracks.osmplugin/de.storchp.opentracks.osmplugin.MainActivity" image="osm_dashboard"/>
     <AppIcon name="de.storchp.opentracks.osmplugin.offline/de.storchp.opentracks.osmplugin.MainActivity" image="osm_dashboard_offline_"/>
     <AppIcon name="com.akylas.weather/com.akylas.weather.MainActivity" image="oss_weather"/>
