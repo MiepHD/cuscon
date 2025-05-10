@@ -6147,5 +6147,8 @@
     <item component="ComponentInfo{net.sharewire.Nycdot/group.flowbird.mpp.activities.SplashActivity}" drawable="parknyc" />
     <item component="ComponentInfo{com.NotYetMedia.RoyalRoad/crc64d22d936ca88f8d15.MainActivity}" drawable="royal_road" />
     <item component="ComponentInfo{com.waist.line/com.waist.line.MainActivity}" drawable="waistline" />
+    <item component="ComponentInfo{com.venmo/com.venmo.android.platform.AppExperienceLauncherActivity}" drawable="venmo" />
+    <item component="ComponentInfo{com.kaii.photos/com.kaii.photos.MainActivity}" drawable="kaii_photos" />
+    <item component="ComponentInfo{me.lecaro.breakout/me.lecaro.breakout.MainActivity}" drawable="breakout_71" />
 
 </resources>

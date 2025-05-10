@@ -798,6 +798,7 @@
 	<item drawable="awox_homecontrol" />
 	<item drawable="axp_apk_extractor" />
     <category title="B" />
+    <item drawable="breakout_71" />
     <item drawable="bklyn_library" />
     <item drawable="buy_me_a_coffee" />
     <item drawable="banco_ctt" />
@@ -2810,6 +2811,7 @@
 	<item drawable="justchess" />
 	<item drawable="justdial" />
     <category title="K" />
+    <item drawable="kaii_photos" />
     <item drawable="kinestop" />
     <item drawable="kanade" />
     <item drawable="kaossilator" />

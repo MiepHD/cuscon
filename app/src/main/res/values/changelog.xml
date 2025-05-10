@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="changelog_date">07.05.2025</string>
+    <string name="changelog_date">10.05.2025</string>
     <string-array name="changelog">
         <item>4.0.5.0:</item>
         <item>Updated My Verizon, Verizon Protect, Pluto TV, Google Play Books, RiMusic</item>
+        <item>Fixed Venmo</item>
+        <item>Added Photos, Breakout 71</item>
         <item>4.0.4.9:</item>
         <item>Removed duplicates</item>
         <item>Updated ashell You</item>

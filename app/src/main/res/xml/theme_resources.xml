@@ -6029,5 +6029,8 @@
     <AppIcon name="net.sharewire.Nycdot/group.flowbird.mpp.activities.SplashActivity" image="parknyc"/>
     <AppIcon name="com.NotYetMedia.RoyalRoad/crc64d22d936ca88f8d15.MainActivity" image="royal_road"/>
     <AppIcon name="com.waist.line/com.waist.line.MainActivity" image="waistline"/>
+    <AppIcon name="com.venmo/com.venmo.android.platform.AppExperienceLauncherActivity" image="venmo"/>
+    <AppIcon name="com.kaii.photos/com.kaii.photos.MainActivity" image="kaii_photos"/>
+    <AppIcon name="me.lecaro.breakout/me.lecaro.breakout.MainActivity" image="breakout_71"/>
 
 </Theme>
