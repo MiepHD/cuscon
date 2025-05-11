@@ -30,10 +30,6 @@ android {
             keyAlias System.getenv("RELEASE_KEY_ALIAS")
             keyPassword System.getenv("RELEASE_KEY_PASSWORD")
         }
-        debug {
-            v1SigningEnabled false
-            v2SigningEnabled false
-        }
     }
 
     buildTypes {
@@ -44,7 +40,7 @@ android {
             proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
         }
         debug {
-            signingConfig signingConfigs.debug
+            signingConfig null
         }
     }
     
