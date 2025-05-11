@@ -1,8 +1,8 @@
 version: 2
 registries:
   github-releases:
-    type: 'maven'
-    url: 'https://maven.pkg.github.com/Donnnno/candybar-foss'
+    type: 'git'
+    url: 'https://github.com/Donnnno/candybar-foss/releases'
 updates:
   - package-ecosystem: 'gradle'
     directory: '/'
