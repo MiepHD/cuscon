@@ -1,13 +1,15 @@
 version: 2
+registries:
+  github-releases:
+    type: 'maven'
+    url: 'https://maven.pkg.github.com/Donnnno/candybar-foss'
 updates:
   - package-ecosystem: 'gradle'
     directory: '/'
     schedule:
       interval: 'weekly'
     registries:
-      github-releases:
-        type: 'maven'
-        url: 'https://maven.pkg.github.com/Donnnno/candybar-foss'
+      - github-releases
     dependencies:
       - package-name: 'com.github.Donnnno:candybar-foss'
         registry: 'github-releases'
