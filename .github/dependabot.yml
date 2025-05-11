@@ -10,9 +10,6 @@ updates:
     directory: '/'
     schedule:
       interval: 'weekly'
-    source:
-      type: 'git'
-      url: 'https://github.com/Donnnno/candybar-foss'
   - package-ecosystem: 'gradle'
     directory: '/app'
     schedule:
