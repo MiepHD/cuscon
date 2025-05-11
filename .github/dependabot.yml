@@ -2,7 +2,7 @@ version: 2
 registries:
   github-releases:
     type: 'git'
-    url: 'https://github.com/Donnnno/candybar-foss/releases'
+    url: 'https://github.com/Donnnno/candybar-foss'
     username: ''
     password: ''
 updates:
