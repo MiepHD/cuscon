@@ -18,6 +18,11 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       contents: read
+    env:
+      RELEASE_STORE_FILE: 'X'
+      RELEASE_STORE_PASSWORD: 'X'
+      RELEASE_KEY_ALIAS: 'X'
+      RELEASE_KEY_PASSWORD: 'X'
 
     steps:
       - uses: actions/checkout@v4
