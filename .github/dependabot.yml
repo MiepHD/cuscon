@@ -3,8 +3,8 @@ registries:
   github-releases:
     type: 'git'
     url: 'https://github.com'
-    username: ''
-    password: ''
+    username: '${{ secrets.GITHUB_ACTOR }}'
+    password: '${{ secrets.GITHUB_TOKEN }}'
 updates:
   - package-ecosystem: 'gradle'
     directory: '/'
