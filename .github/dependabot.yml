@@ -2,7 +2,7 @@ version: 2
 registries:
   github-releases:
     type: 'git'
-    url: 'https://github.com/Donnnno/candybar-foss'
+    url: 'https://github.com'
     username: ''
     password: ''
 updates:
@@ -10,8 +10,9 @@ updates:
     directory: '/'
     schedule:
       interval: 'weekly'
-    registries:
-      - github-releases
+    source:
+      type: 'git'
+      url: 'https://github.com/Donnnno/candybar-foss'
   - package-ecosystem: 'gradle'
     directory: '/app'
     schedule:
