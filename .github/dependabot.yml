@@ -10,9 +10,6 @@ updates:
       interval: 'weekly'
     registries:
       - github-releases
-    dependencies:
-      - package-name: 'com.github.Donnnno:candybar-foss'
-        registry: 'github-releases'
   - package-ecosystem: 'gradle'
     directory: '/app'
     schedule:
