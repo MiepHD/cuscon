@@ -1,0 +1,33 @@
+<resources>
+
+	<!-- 1Password -->
+	<item component="ComponentInfo{com.onepassword.android/com.onepassword.android.app.StartActivity}" drawable="_1password" />
+
+	<!-- Fastmail -->
+	<item component="ComponentInfo{com.fastmail.app/com.fastmail.app.ui.webview.WebViewActivity}" drawable="fastmail" />
+
+	<!-- Le Chat -->
+	<item component="ComponentInfo{ai.mistral.chat/ai.mistral.chat.MainActivity}" drawable="le_chat" />
+
+	<!-- NotebookLM -->
+	<item component="ComponentInfo{com.google.android.apps.labs.language.tailwind/com.google.android.apps.labs.language.tailwind.MainActivityDev}" drawable="notebooklm" />
+
+	<!-- PINcredible -->
+	<item component="ComponentInfo{de.cyb3rko.pincredible/de.cyb3rko.pincredible.MainActivityDefault}" drawable="pincredible" />
+
+	<!-- RTR-NetTest -->
+	<item component="ComponentInfo{at.alladin.rmbt.android/at.rtr.rmbt.android.ui.activity.HomeActivity}" drawable="rtr_nettest" />
+
+	<!-- S3Drive -->
+	<item component="ComponentInfo{com.s3.drive.file.explorer.storage.cloud.manager/com.s3.drive.file.explorer.storage.cloud.manager.MainActivity}" drawable="s3drive" />
+
+	<!-- SubTotal -->
+	<item component="ComponentInfo{partl.grandtotal/crc640404af33f7a788d3.MainActivity}" drawable="subtotal" />
+
+	<!-- WorkingHours -->
+	<item component="ComponentInfo{partl.workinghours/crc64cd18cf298694e84d.MainActivity}" drawable="workinghours" />
+
+	<!-- YT Create -->
+	<item component="ComponentInfo{com.google.android.apps.youtube.producer/com.google.android.apps.youtube.producer.application.MainActivity}" drawable="yt_create" />
+
+</resources>

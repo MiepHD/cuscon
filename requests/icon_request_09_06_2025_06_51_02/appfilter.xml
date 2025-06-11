@@ -1,0 +1,21 @@
+<resources>
+
+	<!-- atvTools -->
+	<item component="ComponentInfo{dev.vodik7.atvtools/dev.vodik7.atvtools.MainActivity}" drawable="atvtools" />
+
+	<!-- CBC Listen -->
+	<item component="ComponentInfo{com.nobexinc.cbcradio.rc/cbcradio.ca.listenandroid.app_v2.MainActivity}" drawable="cbc_listen" />
+
+	<!-- HRTi -->
+	<item component="ComponentInfo{hr.hrt.hrti/hr.cs.aviion.ui.splash.SplashActivity}" drawable="hrti" />
+
+	<!-- NPO Luister -->
+	<item component="ComponentInfo{nl.omroep.npo.luister/nl.omroep.npo.luister.MainActivity}" drawable="npo_luister" />
+
+	<!-- ORF SOUND -->
+	<item component="ComponentInfo{at.orf.sound/at.orf.sound.MainActivity}" drawable="orf_sound" />
+
+	<!-- tvQuickActions Pro -->
+	<item component="ComponentInfo{dev.vodik7.tvquickactions/dev.vodik7.tvquickactions.MainActivity}" drawable="tvquickactions_pro" />
+
+</resources>

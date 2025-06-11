@@ -1,0 +1,33 @@
+<Theme version="1">
+
+	<!-- 1Password -->
+	<AppIcon name="com.onepassword.android/com.onepassword.android.app.StartActivity" image="_1password"/>
+
+	<!-- Fastmail -->
+	<AppIcon name="com.fastmail.app/com.fastmail.app.ui.webview.WebViewActivity" image="fastmail"/>
+
+	<!-- Le Chat -->
+	<AppIcon name="ai.mistral.chat/ai.mistral.chat.MainActivity" image="le_chat"/>
+
+	<!-- NotebookLM -->
+	<AppIcon name="com.google.android.apps.labs.language.tailwind/com.google.android.apps.labs.language.tailwind.MainActivityDev" image="notebooklm"/>
+
+	<!-- PINcredible -->
+	<AppIcon name="de.cyb3rko.pincredible/de.cyb3rko.pincredible.MainActivityDefault" image="pincredible"/>
+
+	<!-- RTR-NetTest -->
+	<AppIcon name="at.alladin.rmbt.android/at.rtr.rmbt.android.ui.activity.HomeActivity" image="rtr_nettest"/>
+
+	<!-- S3Drive -->
+	<AppIcon name="com.s3.drive.file.explorer.storage.cloud.manager/com.s3.drive.file.explorer.storage.cloud.manager.MainActivity" image="s3drive"/>
+
+	<!-- SubTotal -->
+	<AppIcon name="partl.grandtotal/crc640404af33f7a788d3.MainActivity" image="subtotal"/>
+
+	<!-- WorkingHours -->
+	<AppIcon name="partl.workinghours/crc64cd18cf298694e84d.MainActivity" image="workinghours"/>
+
+	<!-- YT Create -->
+	<AppIcon name="com.google.android.apps.youtube.producer/com.google.android.apps.youtube.producer.application.MainActivity" image="yt_create"/>
+
+</Theme>

@@ -6341,5 +6341,26 @@
     <item component="ComponentInfo{app.yog.zeelwalls/app.yog.zeelwalls.MainActivity}" drawable="zeel" />
     <item component="ComponentInfo{zenjob.android/zenjob.android.MainActivity}" drawable="zenjob" />
     <item component="ComponentInfo{com.brunopiovan.avozdazueira/com.brunopiovan.avozdazueira.MainActivity}" drawable="zueiras_voice" />
+    <item component="ComponentInfo{com.patreon.android/com.patreon.android.screens.launcher.LauncherActivity}" drawable="patreon" />
+    <item component="ComponentInfo{dev.vodik7.atvtools/dev.vodik7.atvtools.MainActivity}" drawable="atvtools" />
+    <item component="ComponentInfo{com.nobexinc.cbcradio.rc/cbcradio.ca.listenandroid.app_v2.MainActivity}" drawable="cbc_listen" />
+    <item component="ComponentInfo{hr.hrt.hrti/hr.cs.aviion.ui.splash.SplashActivity}" drawable="hrti" />
+    <item component="ComponentInfo{nl.omroep.npo.luister/nl.omroep.npo.luister.MainActivity}" drawable="npo_luister" />
+    <item component="ComponentInfo{de.mail.android.mailapp.ch/de.mail.android.mailapp.MainActivity}" drawable="mailch" />
+    <item component="ComponentInfo{de.mail.android.mailapp.co.uk/de.mail.android.mailapp.MainActivity}" drawable="mailcouk" />
+    <item component="ComponentInfo{de.mail.android.mailapp/de.mail.android.mailapp.MainActivity}" drawable="mailde" />
+    <item component="ComponentInfo{com.contactoffice.mailfence/com.contactoffice.mailfence.MainActivity}" drawable="mailfence" />
+    <item component="ComponentInfo{de.mail.android.mailapp.fr/de.mail.android.mailapp.MainActivity}" drawable="mailfr" />
+    <item component="ComponentInfo{com.ugreen.pro/com.ugreen.pro.ui.Splash}" drawable="ugreen_nas" />
+    <item component="ComponentInfo{org.zotero.android/org.zotero.android.screens.root.RootActivity}" drawable="zotero" />
+    <item component="ComponentInfo{com.motorola.camera5/com.motorola.camera.MirrorCameraActivity}" drawable="motorola_mirror" />
+    <item component="ComponentInfo{com.motorola.journal/com.motorola.journal.manager.NoteManagerActivity}" drawable="motorola_journal" />
+    <item component="ComponentInfo{ai.mistral.chat/ai.mistral.chat.MainActivity}" drawable="le_chat" />
+    <item component="ComponentInfo{com.google.android.apps.labs.language.tailwind/com.google.android.apps.labs.language.tailwind.MainActivityDev}" drawable="notebooklm" />      
+    <item component="ComponentInfo{at.alladin.rmbt.android/at.rtr.rmbt.android.ui.activity.HomeActivity}" drawable="rtr_nettest" />
+    <item component="ComponentInfo{com.s3.drive.file.explorer.storage.cloud.manager/com.s3.drive.file.explorer.storage.cloud.manager.MainActivity}" drawable="s3drive" />        
+    <item component="ComponentInfo{partl.grandtotal/crc640404af33f7a788d3.MainActivity}" drawable="subtotal" />
+    <item component="ComponentInfo{partl.workinghours/crc64cd18cf298694e84d.MainActivity}" drawable="workinghours" />
+    <item component="ComponentInfo{com.google.android.apps.youtube.producer/com.google.android.apps.youtube.producer.application.MainActivity}" drawable="yt_create" />
 
 </resources>

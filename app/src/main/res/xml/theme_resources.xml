@@ -6224,5 +6224,26 @@
     <AppIcon name="app.yog.zeelwalls/app.yog.zeelwalls.MainActivity" image="zeel"/>
     <AppIcon name="zenjob.android/zenjob.android.MainActivity" image="zenjob"/>
     <AppIcon name="com.brunopiovan.avozdazueira/com.brunopiovan.avozdazueira.MainActivity" image="zueiras_voice"/>
+    <AppIcon name="com.patreon.android/com.patreon.android.screens.launcher.LauncherActivity" image="patreon"/>
+    <AppIcon name="dev.vodik7.atvtools/dev.vodik7.atvtools.MainActivity" image="atvtools"/>
+    <AppIcon name="com.nobexinc.cbcradio.rc/cbcradio.ca.listenandroid.app_v2.MainActivity" image="cbc_listen"/>
+    <AppIcon name="hr.hrt.hrti/hr.cs.aviion.ui.splash.SplashActivity" image="hrti"/>
+    <AppIcon name="nl.omroep.npo.luister/nl.omroep.npo.luister.MainActivity" image="npo_luister"/>
+    <AppIcon name="de.mail.android.mailapp.ch/de.mail.android.mailapp.MainActivity" image="mailch"/>
+    <AppIcon name="de.mail.android.mailapp.co.uk/de.mail.android.mailapp.MainActivity" image="mailcouk"/>
+    <AppIcon name="de.mail.android.mailapp/de.mail.android.mailapp.MainActivity" image="mailde"/>
+    <AppIcon name="com.contactoffice.mailfence/com.contactoffice.mailfence.MainActivity" image="mailfence"/>
+    <AppIcon name="de.mail.android.mailapp.fr/de.mail.android.mailapp.MainActivity" image="mailfr"/>
+    <AppIcon name="com.ugreen.pro/com.ugreen.pro.ui.Splash" image="ugreen_nas"/>
+    <AppIcon name="org.zotero.android/org.zotero.android.screens.root.RootActivity" image="zotero"/>
+    <AppIcon name="com.motorola.camera5/com.motorola.camera.MirrorCameraActivity" image="motorola_mirror"/>
+    <AppIcon name="com.motorola.journal/com.motorola.journal.manager.NoteManagerActivity" image="motorola_journal"/>
+    <AppIcon name="ai.mistral.chat/ai.mistral.chat.MainActivity" image="le_chat"/>
+    <AppIcon name="com.google.android.apps.labs.language.tailwind/com.google.android.apps.labs.language.tailwind.MainActivityDev" image="notebooklm"/>
+    <AppIcon name="at.alladin.rmbt.android/at.rtr.rmbt.android.ui.activity.HomeActivity" image="rtr_nettest"/>
+    <AppIcon name="com.s3.drive.file.explorer.storage.cloud.manager/com.s3.drive.file.explorer.storage.cloud.manager.MainActivity" image="s3drive"/>
+    <AppIcon name="partl.grandtotal/crc640404af33f7a788d3.MainActivity" image="subtotal"/>
+    <AppIcon name="partl.workinghours/crc64cd18cf298694e84d.MainActivity" image="workinghours"/>
+    <AppIcon name="com.google.android.apps.youtube.producer/com.google.android.apps.youtube.producer.application.MainActivity" image="yt_create"/>
 
 </Theme>

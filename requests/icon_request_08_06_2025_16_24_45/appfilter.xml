@@ -1,0 +1,27 @@
+<resources>
+
+	<!-- FairNote -->
+	<item component="ComponentInfo{com.rgiskard.fairnote/com.rgiskard.fairnote.activity.MainActivity}" drawable="fairnote" />
+
+	<!-- mail.ch -->
+	<item component="ComponentInfo{de.mail.android.mailapp.ch/de.mail.android.mailapp.MainActivity}" drawable="mailch" />
+
+	<!-- mail.co.uk -->
+	<item component="ComponentInfo{de.mail.android.mailapp.co.uk/de.mail.android.mailapp.MainActivity}" drawable="mailcouk" />
+
+	<!-- mail.de -->
+	<item component="ComponentInfo{de.mail.android.mailapp/de.mail.android.mailapp.MainActivity}" drawable="mailde" />
+
+	<!-- mail.fr -->
+	<item component="ComponentInfo{de.mail.android.mailapp.fr/de.mail.android.mailapp.MainActivity}" drawable="mailfr" />
+
+	<!-- Mailfence -->
+	<item component="ComponentInfo{com.contactoffice.mailfence/com.contactoffice.mailfence.MainActivity}" drawable="mailfence" />
+
+	<!-- UGREEN NAS -->
+	<item component="ComponentInfo{com.ugreen.pro/com.ugreen.pro.ui.Splash}" drawable="ugreen_nas" />
+
+	<!-- Zotero -->
+	<item component="ComponentInfo{org.zotero.android/org.zotero.android.screens.root.RootActivity}" drawable="zotero" />
+
+</resources>

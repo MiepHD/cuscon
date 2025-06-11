@@ -314,6 +314,7 @@
     <item drawable="_f_droid_kdi" />
     <item drawable="_sound_" />
     <category title="A" />
+    <item drawable="atvtools" />
     <item drawable="anthropic_claude" />
     <item drawable="a13_theme_for_klwp" />
     <item drawable="abn_amro" />
@@ -1075,6 +1076,7 @@
 	<item drawable="bycs_drive" />
     <item drawable="ballozi_skynox" />
     <category title="C" />
+    <item drawable="cbc_listen" />
     <item drawable="cobos_svg_viewer" />
     <item drawable="calculator_pro" />
     <item drawable="calls_blacklist" />
@@ -2424,6 +2426,7 @@
 	<item drawable="gspace" />
 	<item drawable="guerrilla_mail" />
     <category title="H" />
+    <item drawable="hrti" />
     <item drawable="hack" />
     <item drawable="hacki" />
     <item drawable="harmonic" />
@@ -2955,6 +2958,7 @@
 	<item drawable="kutumb" />
 	<item drawable="kwgt_pro" />
     <category title="L" />
+    <item drawable="le_chat" />
     <item drawable="lozsolutiont_svg_viewer" />
     <item drawable="lenovo_pc_diagnostics" />
     <item drawable="lexis_audio_editor" />
@@ -3133,6 +3137,8 @@
 	<item drawable="lucky_wasted" />
 	<item drawable="lux_o_meter_lichtmesser" />
     <category title="M" />
+    <item drawable="motorola_mirror" />
+    <item drawable="motorola_journal" />
     <item drawable="mina_svg_viewer" />
     <item drawable="m3u" />
     <item drawable="machinarium" />
@@ -3642,7 +3648,14 @@
 	<item drawable="myteletalk" />
 	<item drawable="mytelkomsel" />
 	<item drawable="myumobile" />
+    <item drawable="mailch" />
+    <item drawable="mailcouk" />
+    <item drawable="mailde" />
+    <item drawable="mailfence" />
+    <item drawable="mailfr" />
     <category title="N" />
+    <item drawable="notebooklm" />
+    <item drawable="npo_luister" />
     <item drawable="nativ" />
     <item drawable="neevo" />
     <item drawable="neo" />
@@ -4468,6 +4481,7 @@
 	<item drawable="quik" />
 	<item drawable="quillpad" />
     <category title="R" />
+    <item drawable="rtr_nettest" />
     <item drawable="rabobank" />
     <item drawable="race" />
     <item drawable="rainbow_kwgt" />
@@ -4695,6 +4709,8 @@
 	<item drawable="rustdesk" />
 	<item drawable="rvx_music" />
     <category title="S" />
+    <item drawable="s3drive" />
+    <item drawable="subtotal" />
     <item drawable="sa2138" />
     <item drawable="saf_media_scanner" />
     <item drawable="seguranca_social" />
@@ -5599,6 +5615,7 @@
 	<item drawable="tux_paint_config" />
 	<item drawable="twelve_key_dialer" />
     <category title="U" />
+    <item drawable="ugreen_nas" />
     <item drawable="ultra_lock" />
     <item drawable="unholy_neighbourhood_2" />
     <item drawable="unjumbleapp" />
@@ -5838,6 +5855,7 @@
 	<item drawable="vr_banking_app" />
 	<item drawable="vsolution_app" />
     <category title="W" />
+    <item drawable="workinghours" />
     <item drawable="wadb" />
     <item drawable="walk_band" />
     <item drawable="wallfarm" />
@@ -6087,6 +6105,7 @@
 	<item drawable="xodo" />
 	<item drawable="xposed_edge" />
     <category title="Y" />
+    <item drawable="yt_create" />
     <item drawable="youdj_mixer" />
     <item drawable="your_local_weather" />
     <item drawable="yuandroid_battery_widget" />
@@ -6134,6 +6153,7 @@
 	<item drawable="yuka" />
 	<item drawable="yuzu_browser" />
     <category title="Z" />
+    <item drawable="zotero" />
     <item drawable="zeel" />
     <item drawable="zenjob" />
     <item drawable="zueiras_voice" />
