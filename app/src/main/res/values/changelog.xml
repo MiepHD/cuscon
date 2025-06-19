@@ -2,6 +2,9 @@
 <resources>
     <string name="changelog_date">11.06.2025</string>
     <string-array name="changelog">
+        <item>4.0.5.3:</item>
+        <item>Added Fastmail, PINcredible, 1Password, FairNote, ORF SOUND, tvQuickActions Pro, Busy App, Feedback, Flipper, Moto AI, SiYuan, Storage Image Viewer, Tuta Calendar, Deliveries, Mindroid, SayI</item>
+        <item>Updated MuPDF</item>
         <item>4.0.5.2:</item>
         <item>Fixed Patreon</item>
         <item>Added atvTools, CBC Listen, HRTi, NPO Luister, mail.ch, mail.co.uk, mail.de, Mailfence, mail.fr, UGREEN NAS, Zotero, Mirror, Notes, Le Chat, NotebookLM, RTR-NetTest, S3Drive, SubTotal, WorkingHours, YT Create</item>

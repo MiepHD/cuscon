@@ -6362,5 +6362,8 @@
     <item component="ComponentInfo{partl.grandtotal/crc640404af33f7a788d3.MainActivity}" drawable="subtotal" />
     <item component="ComponentInfo{partl.workinghours/crc64cd18cf298694e84d.MainActivity}" drawable="workinghours" />
     <item component="ComponentInfo{com.google.android.apps.youtube.producer/com.google.android.apps.youtube.producer.application.MainActivity}" drawable="yt_create" />
+    <item component="ComponentInfo{com.fastmail.app/com.fastmail.app.ui.webview.WebViewActivity}" drawable="fastmail" />
+    <item component="ComponentInfo{de.cyb3rko.pincredible/de.cyb3rko.pincredible.MainActivityDefault}" drawable="pincredible" />
+    <item component="ComponentInfo{com.onepassword.android/com.onepassword.android.app.StartActivity}" drawable="_1password" />
 
 </resources>

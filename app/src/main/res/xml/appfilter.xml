@@ -6362,5 +6362,21 @@
     <item component="ComponentInfo{partl.grandtotal/crc640404af33f7a788d3.MainActivity}" drawable="subtotal" />
     <item component="ComponentInfo{partl.workinghours/crc64cd18cf298694e84d.MainActivity}" drawable="workinghours" />
     <item component="ComponentInfo{com.google.android.apps.youtube.producer/com.google.android.apps.youtube.producer.application.MainActivity}" drawable="yt_create" />
+    <item component="ComponentInfo{com.fastmail.app/com.fastmail.app.ui.webview.WebViewActivity}" drawable="fastmail" />
+    <item component="ComponentInfo{de.cyb3rko.pincredible/de.cyb3rko.pincredible.MainActivityDefault}" drawable="pincredible" />
+    <item component="ComponentInfo{com.onepassword.android/com.onepassword.android.app.StartActivity}" drawable="_1password" />
+    <item component="ComponentInfo{com.rgiskard.fairnote/com.rgiskard.fairnote.activity.MainActivity}" drawable="fairnote" />
+    <item component="ComponentInfo{at.orf.sound/at.orf.sound.MainActivity}" drawable="orf_sound" />
+    <item component="ComponentInfo{dev.vodik7.tvquickactions/dev.vodik7.tvquickactions.MainActivity}" drawable="tvquickactions_pro" />
+     <item component="ComponentInfo{com.flipperdevices.busybar/com.flipperdevices.bsb.MainActivity}" drawable="busy_app" />
+    <item component="ComponentInfo{com.motorola.help/com.motorola.feedback.HomeScreenActivityLauncher}" drawable="feedback" />
+    <item component="ComponentInfo{com.flipperdevices.app/com.flipperdevices.singleactivity.impl.SingleActivity}" drawable="flipper" />
+    <item component="ComponentInfo{com.motorola.uxcore/com.motorola.eldin.launcher.MotoAIDashboardActivity}" drawable="moto_ai" />
+    <item component="ComponentInfo{org.b3log.siyuan/org.b3log.siyuan.BootActivity}" drawable="siyuan" />
+    <item component="ComponentInfo{com.wa2c.android.storageimageviewer/com.wa2c.android.storageimageviewer.presentation.ui.MainActivity}" drawable="storage_image_viewer" />     
+    <item component="ComponentInfo{de.tutao.calendar/de.tutao.calendar.MainActivity}" drawable="tuta_calendar" />
+    <item component="ComponentInfo{de.orrs.deliveries/de.orrs.deliveries.LaunchActivity}" drawable="deliveries" />
+    <item component="ComponentInfo{com.urbandroid.mind/com.urbandroid.mind.MainActivity}" drawable="mindroid" />
+    <item component="ComponentInfo{com.urbandroid.sayit/com.urbandroid.sayit.MainActivity}" drawable="sayit" />
 
 </resources>

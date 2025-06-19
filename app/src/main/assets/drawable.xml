@@ -275,6 +275,7 @@
     <item drawable="google_wifi" />
     <item drawable="googleassistant2" />
     <category title="#" />
+    <item drawable="_1password" />
     <item drawable="_4pda" />
     <item drawable="_324" />
     <item drawable="_0h_h1" />
@@ -1936,6 +1937,7 @@
 	<item drawable="explorer" />
 	<item drawable="exteragram" />
     <category title="F" />
+    <item drawable="fastmail" />
     <item drawable="farlex_worterbuch" />
     <item drawable="fadcam" />
     <item drawable="fast_scanner" />
@@ -4049,6 +4051,7 @@
 	<item drawable="ovag_e_mobil" />
 	<item drawable="owlfiles" />
     <category title="P" />
+    <item drawable="pincredible" />
     <item drawable="parknyc" />
     <item drawable="p2play" />
     <item drawable="paidwork" />

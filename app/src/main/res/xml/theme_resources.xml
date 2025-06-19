@@ -6245,5 +6245,21 @@
     <AppIcon name="partl.grandtotal/crc640404af33f7a788d3.MainActivity" image="subtotal"/>
     <AppIcon name="partl.workinghours/crc64cd18cf298694e84d.MainActivity" image="workinghours"/>
     <AppIcon name="com.google.android.apps.youtube.producer/com.google.android.apps.youtube.producer.application.MainActivity" image="yt_create"/>
+    <AppIcon name="com.fastmail.app/com.fastmail.app.ui.webview.WebViewActivity" image="fastmail"/>
+    <AppIcon name="de.cyb3rko.pincredible/de.cyb3rko.pincredible.MainActivityDefault" image="pincredible"/>
+    <AppIcon name="com.onepassword.android/com.onepassword.android.app.StartActivity" image="_1password"/>
+    <AppIcon name="com.rgiskard.fairnote/com.rgiskard.fairnote.activity.MainActivity" image="fairnote"/>
+    <AppIcon name="at.orf.sound/at.orf.sound.MainActivity" image="orf_sound"/>
+    <AppIcon name="dev.vodik7.tvquickactions/dev.vodik7.tvquickactions.MainActivity" image="tvquickactions_pro"/>
+     <AppIcon name="com.flipperdevices.busybar/com.flipperdevices.bsb.MainActivity" image="busy_app"/>
+    <AppIcon name="com.motorola.help/com.motorola.feedback.HomeScreenActivityLauncher" image="feedback"/>
+    <AppIcon name="com.flipperdevices.app/com.flipperdevices.singleactivity.impl.SingleActivity" image="flipper"/>
+    <AppIcon name="com.motorola.uxcore/com.motorola.eldin.launcher.MotoAIDashboardActivity" image="moto_ai"/>
+    <AppIcon name="org.b3log.siyuan/org.b3log.siyuan.BootActivity" image="siyuan"/>
+    <AppIcon name="com.wa2c.android.storageimageviewer/com.wa2c.android.storageimageviewer.presentation.ui.MainActivity" image="storage_image_viewer"/>
+    <AppIcon name="de.tutao.calendar/de.tutao.calendar.MainActivity" image="tuta_calendar"/>
+    <AppIcon name="de.orrs.deliveries/de.orrs.deliveries.LaunchActivity" image="deliveries"/>
+    <AppIcon name="com.urbandroid.mind/com.urbandroid.mind.MainActivity" image="mindroid"/>
+    <AppIcon name="com.urbandroid.sayit/com.urbandroid.sayit.MainActivity" image="sayit"/>
 
 </Theme>
