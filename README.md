@@ -86,10 +86,14 @@ How-To:
 - should have approximate 30px transparent border
 - should have approximate 12px brush size
 
+# Background info
+
+It always annoyed me that all apps are forced into the same rectangle. I searched for icon packs with transparent background but none did fit my idea. I wanted to preserve the beauty of the colors and style the designer of the app chose and not redesign the icon completely. That made me want to create my own icon pack exactly matching my vision. (I didn't think of doing it through applying every image myself as I already had in mind to share my pack with frineds.) I searched a lot on how to create my own icon pack but it felt very complex. So I started the icon pack as a modded version of an already existing icon pack. One day @LeHuman came over and told me that there exists a library called candybar. Now things got way easier even though it was my first time developing an android application. I first started publishing on Github, then added Google Play and finally F-Droid using candybar-foss. My first time publishing a real application too.
+
 # License
 
 The app is built with the **[CandyBar Dashboard](https://github.com/zixpo/candybar)** (and also with the **[FOSS version](https://github.com/Donnnno/candybar-foss)**) licensed under **[Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0)**
 
 The icons are licensed under **[Creative Commons BY-NC-ND License 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)**
 
-All files under `/store` and `/metadata` except `metadata/en-US/changelogs` are © Copyrighted by [@MiepHD](https://github.com/MiepHD) 2024
+All files under `/store` and `/metadata` except `metadata/en-US/changelogs` are © Copyrighted by [@MiepHD](https://github.com/MiepHD) 2024-2025
