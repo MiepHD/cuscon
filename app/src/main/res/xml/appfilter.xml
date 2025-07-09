@@ -6378,5 +6378,29 @@
     <item component="ComponentInfo{de.orrs.deliveries/de.orrs.deliveries.LaunchActivity}" drawable="deliveries" />
     <item component="ComponentInfo{com.urbandroid.mind/com.urbandroid.mind.MainActivity}" drawable="mindroid" />
     <item component="ComponentInfo{com.urbandroid.sayit/com.urbandroid.sayit.MainActivity}" drawable="sayit" />
+    <item component="ComponentInfo{org.kde.itinerary/org.kde.itinerary.Activity}" drawable="itinerary" />
+    <item component="ComponentInfo{eu.epicompany.wero.wallet/eu.epicompany.wero.wallet.MainActivity}" drawable="wero" />
+    <item component="ComponentInfo{de.wger.flutter/de.wger.flutter.MainActivity}" drawable="wger" />
+    <item component="ComponentInfo{com.llamalab.automate/com.llamalab.automate.FlowListActivity}" drawable="automate_llamalab" />
+    <item component="ComponentInfo{com.kokoschka.michael.qrtools/com.kokoschka.michael.qrtools.MainActivity}" drawable="codora" />
+    <item component="ComponentInfo{com.samruston.flip/com.samruston.flip.Launcher}" drawable="coincalc" />
+    <item component="ComponentInfo{com.kokoschka.michael.crypto/com.kokoschka.michael.crypto.ui.views.MainActivity}" drawable="crypto" />
+    <item component="ComponentInfo{com.urbandroid.ddc/com.urbandroid.ddc.activity.TourActivity}" drawable="digital_detox" />
+    <item component="ComponentInfo{nz.eloque.foss_wallet/nz.eloque.foss_wallet.MainActivity}" drawable="fosswallet" />
+    <item component="ComponentInfo{com.nintendo.znba/com.nintendo.znba.MainActivity}" drawable="nintendo_music" />
+    <item component="ComponentInfo{com.onemoresecret/com.onemoresecret.MainActivity}" drawable="onemoresecret" />
+    <item component="ComponentInfo{com.ulfdittmer.android.ping/com.ulfdittmer.android.ping.Main}" drawable="ping_and_net" />
+    <item component="ComponentInfo{ch.martinstoeckli.silentnotes/crc648277fc4e7fdf71d0.MainActivity}" drawable="silentnotes" />
+    <item component="ComponentInfo{com.anime_sticker.sticker_anime/com.anime_sticker.sticker_anime.ui.SplashActivity}" drawable="anime_stickers" />
+    <item component="ComponentInfo{com.deutschebahn.bahnbonus/com.deutschebahn.bahnbonus.ui.login.LoginActivityInitial}" drawable="bahnbonus" />
+    <item component="ComponentInfo{ai.character.app/ai.character.app.MainActivityDefault}" drawable="characterai" />
+    <item component="ComponentInfo{keepass2android.keepass2android/crc64c98c008c0cd742cb.KeePass}" drawable="keepass2android" />
+    <item component="ComponentInfo{org.klimabuendnis.Stadtradeln/org.klimabuendnis.stadtradeln.ui.startup.StartupActivity}" drawable="stadtradeln" />
+    <item component="ComponentInfo{com.zdf.android.mediathek/com.zdf.android.mediathek.handheld.MainActivity}" drawable="zdfmediathek" />
+    <item component="ComponentInfo{de.filmfriend/FilmwerteVod.App.Android.Common.Application.MainActivity}" drawable="filmfriend" />
+    <item component="ComponentInfo{com.owncloud.android/com.owncloud.android.ui.activity.SplashActivity}" drawable="owncloud" />
+    <item component="ComponentInfo{com.aliucord.manager/com.aliucord.manager.MainActivity}" drawable="aliucord_installer" />
+    <item component="ComponentInfo{com.netflix.NGP.MonumentValley2/com.unity3d.player.UnityPlayerActivity}" drawable="monument_valley_2" />
+    <item component="ComponentInfo{com.netflix.NGP.PaperTrail/com.unity3d.player.UnityPlayerActivity}" drawable="paper_trail" />
 
 </resources>

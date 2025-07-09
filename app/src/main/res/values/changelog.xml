@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="changelog_date">11.06.2025</string>
+    <string name="changelog_date">09.07.2025</string>
     <string-array name="changelog">
+        <item>4.0.5.4:</item>
+        <item>Added Itinerary, Wero, wger, Automate, Codora, CoinCalc, Crypto, Digital Detox, FossWallet, Nintendo Music, OneMoreSecret, Ping and Net, SilentNotes, Anime Stickers, filmfriend, ownCloud, Monument Valley 2, Paper Trail</item>
+        <item>Fixed BahnBonus, Character.AI, Keepass2Android, STADTRADELN, ZDF, Aliucord Manager</item>
         <item>4.0.5.3:</item>
         <item>Added Fastmail, PINcredible, 1Password, FairNote, ORF SOUND, tvQuickActions Pro, Busy App, Feedback, Flipper, Moto AI, SiYuan, Storage Image Viewer, Tuta Calendar, Deliveries, Mindroid, SayI</item>
         <item>Updated MuPDF</item>

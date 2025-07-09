@@ -315,6 +315,9 @@
     <item drawable="_f_droid_kdi" />
     <item drawable="_sound_" />
     <category title="A" />
+    <item drawable="aliucord_installer" />
+    <item drawable="anime_stickers" />
+    <item drawable="automate_llamalab" />
     <item drawable="atvtools" />
     <item drawable="anthropic_claude" />
     <item drawable="a13_theme_for_klwp" />
@@ -800,6 +803,7 @@
 	<item drawable="awox_homecontrol" />
 	<item drawable="axp_apk_extractor" />
     <category title="B" />
+    <item drawable="bahnbonus" />
      <item drawable="busy_app" />
     <item drawable="bitcoin_testnet3" />
     <item drawable="black_squircle_ce" />
@@ -1078,6 +1082,10 @@
 	<item drawable="bycs_drive" />
     <item drawable="ballozi_skynox" />
     <category title="C" />
+    <item drawable="characterai" />
+    <item drawable="codora" />
+    <item drawable="coincalc" />
+    <item drawable="crypto" />
     <item drawable="cbc_listen" />
     <item drawable="cobos_svg_viewer" />
     <item drawable="calculator_pro" />
@@ -1455,6 +1463,7 @@
 	<item drawable="cubic_2_3_4_player_games" />
 	<item drawable="currencies" />
     <category title="D" />
+    <item drawable="digital_detox" />
     <item drawable="deliveries" />
     <item drawable="dropout" />
     <item drawable="droidcam" />
@@ -1939,6 +1948,8 @@
 	<item drawable="explorer" />
 	<item drawable="exteragram" />
     <category title="F" />
+    <item drawable="filmfriend" />
+    <item drawable="fosswallet" />
      <item drawable="feedback" />
     <item drawable="flipper" />
     <item drawable="fairnote" />
@@ -2599,6 +2610,7 @@
 	<item drawable="hypatia" />
 	<item drawable="hyperrogue_gold" />
     <category title="I" />
+    <item drawable="itinerary" />
     <item drawable="icon_changer" />
     <item drawable="icon_changer_free" />
     <item drawable="icon_creator" />
@@ -2827,6 +2839,7 @@
 	<item drawable="justchess" />
 	<item drawable="justdial" />
     <category title="K" />
+    <item drawable="keepass2android" />
     <item drawable="kaii_photos" />
     <item drawable="kinestop" />
     <item drawable="kanade" />
@@ -3144,8 +3157,9 @@
 	<item drawable="lucky_wasted" />
 	<item drawable="lux_o_meter_lichtmesser" />
     <category title="M" />
+    <item drawable="monument_valley_2" />
     <item drawable="mindroid" />
-     <item drawable="moto_ai" />
+    <item drawable="moto_ai" />
     <item drawable="motorola_mirror" />
     <item drawable="motorola_journal" />
     <item drawable="mina_svg_viewer" />
@@ -3663,6 +3677,7 @@
     <item drawable="mailfence" />
     <item drawable="mailfr" />
     <category title="N" />
+    <item drawable="nintendo_music" />
     <item drawable="notebooklm" />
     <item drawable="npo_luister" />
     <item drawable="nativ" />
@@ -3876,6 +3891,8 @@
 	<item drawable="nozzle" />
 	<item drawable="nytimes" />
     <category title="O" />
+    <item drawable="owncloud" />
+    <item drawable="onemoresecret" />
     <item drawable="orf_sound" />
     <item drawable="ogram" />
     <item drawable="olho_no_carro" />
@@ -4059,6 +4076,8 @@
 	<item drawable="ovag_e_mobil" />
 	<item drawable="owlfiles" />
     <category title="P" />
+    <item drawable="paper_trail" />
+    <item drawable="ping_and_net" />
     <item drawable="pincredible" />
     <item drawable="parknyc" />
     <item drawable="p2play" />
@@ -4720,6 +4739,8 @@
 	<item drawable="rustdesk" />
 	<item drawable="rvx_music" />
     <category title="S" />
+    <item drawable="stadtradeln" />
+    <item drawable="silentnotes" />
     <item drawable="sayit" />
     <item drawable="siyuan" />
     <item drawable="storage_image_viewer" />
@@ -5871,6 +5892,8 @@
 	<item drawable="vr_banking_app" />
 	<item drawable="vsolution_app" />
     <category title="W" />
+    <item drawable="wero" />
+    <item drawable="wger" />
     <item drawable="workinghours" />
     <item drawable="wadb" />
     <item drawable="walk_band" />
@@ -6169,6 +6192,7 @@
 	<item drawable="yuka" />
 	<item drawable="yuzu_browser" />
     <category title="Z" />
+    <item drawable="zdfmediathek" />
     <item drawable="zotero" />
     <item drawable="zeel" />
     <item drawable="zenjob" />

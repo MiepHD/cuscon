@@ -6261,5 +6261,29 @@
     <AppIcon name="de.orrs.deliveries/de.orrs.deliveries.LaunchActivity" image="deliveries"/>
     <AppIcon name="com.urbandroid.mind/com.urbandroid.mind.MainActivity" image="mindroid"/>
     <AppIcon name="com.urbandroid.sayit/com.urbandroid.sayit.MainActivity" image="sayit"/>
+    <AppIcon name="org.kde.itinerary/org.kde.itinerary.Activity" image="itinerary"/>
+    <AppIcon name="eu.epicompany.wero.wallet/eu.epicompany.wero.wallet.MainActivity" image="wero"/>
+    <AppIcon name="de.wger.flutter/de.wger.flutter.MainActivity" image="wger"/>
+    <AppIcon name="com.llamalab.automate/com.llamalab.automate.FlowListActivity" image="automate_llamalab"/>
+    <AppIcon name="com.kokoschka.michael.qrtools/com.kokoschka.michael.qrtools.MainActivity" image="codora"/>
+    <AppIcon name="com.samruston.flip/com.samruston.flip.Launcher" image="coincalc"/>
+    <AppIcon name="com.kokoschka.michael.crypto/com.kokoschka.michael.crypto.ui.views.MainActivity" image="crypto"/>
+    <AppIcon name="com.urbandroid.ddc/com.urbandroid.ddc.activity.TourActivity" image="digital_detox"/>
+    <AppIcon name="nz.eloque.foss_wallet/nz.eloque.foss_wallet.MainActivity" image="fosswallet"/>
+    <AppIcon name="com.nintendo.znba/com.nintendo.znba.MainActivity" image="nintendo_music"/>
+    <AppIcon name="com.onemoresecret/com.onemoresecret.MainActivity" image="onemoresecret"/>
+    <AppIcon name="com.ulfdittmer.android.ping/com.ulfdittmer.android.ping.Main" image="ping_and_net"/>
+    <AppIcon name="ch.martinstoeckli.silentnotes/crc648277fc4e7fdf71d0.MainActivity" image="silentnotes"/>
+    <AppIcon name="com.anime_sticker.sticker_anime/com.anime_sticker.sticker_anime.ui.SplashActivity" image="anime_stickers"/>
+    <AppIcon name="com.deutschebahn.bahnbonus/com.deutschebahn.bahnbonus.ui.login.LoginActivityInitial" image="bahnbonus"/>
+    <AppIcon name="ai.character.app/ai.character.app.MainActivityDefault" image="characterai"/>
+    <AppIcon name="keepass2android.keepass2android/crc64c98c008c0cd742cb.KeePass" image="keepass2android"/>
+    <AppIcon name="org.klimabuendnis.Stadtradeln/org.klimabuendnis.stadtradeln.ui.startup.StartupActivity" image="stadtradeln"/>
+    <AppIcon name="com.zdf.android.mediathek/com.zdf.android.mediathek.handheld.MainActivity" image="zdfmediathek"/>
+    <AppIcon name="de.filmfriend/FilmwerteVod.App.Android.Common.Application.MainActivity" image="filmfriend"/>
+    <AppIcon name="com.owncloud.android/com.owncloud.android.ui.activity.SplashActivity" image="owncloud"/>
+    <AppIcon name="com.aliucord.manager/com.aliucord.manager.MainActivity" image="aliucord_installer"/>
+    <AppIcon name="com.netflix.NGP.MonumentValley2/com.unity3d.player.UnityPlayerActivity" image="monument_valley_2"/>
+    <AppIcon name="com.netflix.NGP.PaperTrail/com.unity3d.player.UnityPlayerActivity" image="paper_trail"/>
 
 </Theme>
