@@ -2082,7 +2082,7 @@
     <AppIcon name="com.pharmacysa.farmaciasapp/com.pharmacysa.farmaciasapp.view.SplashScreenActivity" image="farmacias_app"/>
     <AppIcon name="com.pcmehanik.smarttoolbox/com.pcmehanik.smarttoolsutilities.MainActivity" image="herramientas_inteligentes"/>
     <AppIcon name="br.gov.dataprev.meuinss/br.gov.dataprev.meuinss.MainActivity" image="meuinss"/>
-    <AppIcon name="com.nu.production/br.com.nubank.app.SplashScreenActivity" image="nu"/>
+    <AppIcon name="com.nu.production/br.com.nubank.app.SplashScreenActivity" image="nubank"/>
     <AppIcon name="com.playit.videoplayer/com.quantum.player.ui.activities.MainActivity" image="playit"/>
     <AppIcon name="com.shopee.br/com.shopee.app.ui.home.HomeActivity_" image="shopee"/>
     <AppIcon name="com.streema.simpleradio/com.streema.simpleradio.MainActivity" image="simple_radio"/>
@@ -3457,7 +3457,7 @@
     <AppIcon name="la.hieta.posterprint/la.hieta.posterprint.MainActivity" image="posterprint"/>
     <AppIcon name="com.prezi.android/com.prezi.android.viewer.login.LoginActivity" image="prezi"/>
     <AppIcon name="com.dynamixsoftware.printhand.premium/com.dynamixsoftware.printhand.ui.ActivityMain" image="printhand_premium"/>
-    <AppIcon name="com.rhmsoft.edit.pro/com.rhmsoft.edit.activity.MainActivity" image="quickedit_"/>
+    <AppIcon name="com.rhmsoft.edit.pro/com.rhmsoft.edit.activity.MainActivity" image="quickedit"/>
     <AppIcon name="de.radio.android/de.radio.android.ui.AppActivity" image="radionet"/>
     <AppIcon name="de.radioplayer.android/de.radioplayer.android.controller.activity.intro.DEIntroActivity" image="radioplayer"/>
     <AppIcon name="org.eurail.railplanner/nl.elastique.eurail.ui.startup.StartupActivity" image="rail_planner"/>

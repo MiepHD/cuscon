@@ -2093,7 +2093,7 @@
     <item component="ComponentInfo{com.pharmacysa.farmaciasapp/com.pharmacysa.farmaciasapp.view.SplashScreenActivity}" drawable="farmacias_app" />
     <item component="ComponentInfo{com.pcmehanik.smarttoolbox/com.pcmehanik.smarttoolsutilities.MainActivity}" drawable="herramientas_inteligentes" />
     <item component="ComponentInfo{br.gov.dataprev.meuinss/br.gov.dataprev.meuinss.MainActivity}" drawable="meuinss" />
-    <item component="ComponentInfo{com.nu.production/br.com.nubank.app.SplashScreenActivity}" drawable="nu" />
+    <item component="ComponentInfo{com.nu.production/br.com.nubank.app.SplashScreenActivity}" drawable="nubank" />
     <item component="ComponentInfo{com.playit.videoplayer/com.quantum.player.ui.activities.MainActivity}" drawable="playit" />
     <item component="ComponentInfo{com.shopee.br/com.shopee.app.ui.home.HomeActivity_}" drawable="shopee" />
     <item component="ComponentInfo{com.streema.simpleradio/com.streema.simpleradio.MainActivity}" drawable="simple_radio" />
@@ -3469,7 +3469,7 @@
     <item component="ComponentInfo{la.hieta.posterprint/la.hieta.posterprint.MainActivity}" drawable="posterprint" />
     <item component="ComponentInfo{com.prezi.android/com.prezi.android.viewer.login.LoginActivity}" drawable="prezi" />
     <item component="ComponentInfo{com.dynamixsoftware.printhand.premium/com.dynamixsoftware.printhand.ui.ActivityMain}" drawable="printhand_premium" />
-    <item component="ComponentInfo{com.rhmsoft.edit.pro/com.rhmsoft.edit.activity.MainActivity}" drawable="quickedit_" />
+    <item component="ComponentInfo{com.rhmsoft.edit.pro/com.rhmsoft.edit.activity.MainActivity}" drawable="quickedit" />
     <item component="ComponentInfo{de.radio.android/de.radio.android.ui.AppActivity}" drawable="radionet" />
     <item component="ComponentInfo{de.radioplayer.android/de.radioplayer.android.controller.activity.intro.DEIntroActivity}" drawable="radioplayer" />
     <item component="ComponentInfo{org.eurail.railplanner/nl.elastique.eurail.ui.startup.StartupActivity}" drawable="rail_planner" />

@@ -234,6 +234,28 @@
     <item drawable="samsung_contacts" />
     <item drawable="samsung_mail" />
     <item drawable="samsung_messages" />
+    <category title="Netflix" />
+    <item drawable="netflix" />
+    <item drawable="scriptic_crime_stories" />
+    <item drawable="reigns3k" />
+    <item drawable="paper_trail" />
+    <item drawable="asphalt_xtreme" />
+    <item drawable="bloons_td_6_netflix" />
+    <item drawable="moonlighter_netflix_edition" />
+    <item drawable="bowling_ballers" />
+    <item drawable="country_friends" />
+    <item drawable="desta" />
+    <item drawable="dragon_up" />
+    <item drawable="dungeon_dwarves" />
+    <item drawable="exploding_kittens" />
+    <item drawable="hello_kitty_happiness_parade" />
+    <item drawable="hextech_mayhem" />
+    <item drawable="katzen_and_suppe" />
+    <item drawable="krispee_street" />
+    <item drawable="krz" />
+    <item drawable="mahjong_solitaire" />
+    <item drawable="monument_valley_2" />
+    <item drawable="oxenfree" />
     <category title="Google" />
     <item drawable="google"/>
     <item drawable="google_lens_camera"/>
@@ -591,7 +613,6 @@
     <item drawable="askway" />
     <item drawable="asmaky" />
     <item drawable="asos" />
-    <item drawable="asphalt_xtreme" />
     <item drawable="asq" />
     <item drawable="asr" />
     <item drawable="asus_extender" />
@@ -972,7 +993,6 @@
     <item drawable="blockerhero" />
     <item drawable="blockpit" />
     <item drawable="blokada_ekranu" />
-    <item drawable="bloons_td_6_netflix" />
     <item drawable="blossom" />
     <item drawable="blue_rewards" />
     <item drawable="bluebird_albanian" />
@@ -1001,7 +1021,6 @@
     <item drawable="bot_designer_for_discord" />
     <item drawable="botim" />
     <item drawable="boursobank" />
-    <item drawable="bowling_ballers" />
     <item drawable="box" />
     <item drawable="boxcryptor" />
     <item drawable="boxing_news" />
@@ -1456,7 +1475,6 @@
 	<item drawable="coocent_file_manager" />
 	<item drawable="coolapk" />
 	<item drawable="copilot" />
-	<item drawable="country_friends" />
 	<item drawable="cpu_info" />
 	<item drawable="cred" />
 	<item drawable="credai" />
@@ -1568,7 +1586,6 @@
     <item drawable="deskclock" />
     <item drawable="desmos" />
     <item drawable="despotism_3k" />
-    <item drawable="desta" />
     <item drawable="deutsch" />
     <item drawable="deutschlandcard" />
     <item drawable="deutschlandticket" />
@@ -1650,7 +1667,6 @@
     <item drawable="downmack" />
     <item drawable="dr_control" />
     <item drawable="dragon_mart" />
-    <item drawable="dragon_up" />
     <item drawable="dragoncity" />
     <item drawable="drastic" />
     <item drawable="dream" />
@@ -1683,7 +1699,6 @@
     <item drawable="duden_worterbucher" />
     <item drawable="dumbphone_assistant" />
     <item drawable="dunelm_outlet_store" />
-    <item drawable="dungeon_dwarves" />
     <item drawable="dunkin" />
     <item drawable="duo_mobile" />
     <item drawable="duolingo"/>
@@ -1905,7 +1920,6 @@
     <item drawable="experian" />
     <item drawable="experience_abu_dhabi" />
     <item drawable="expert_raw" />
-    <item drawable="exploding_kittens" />
     <item drawable="expo2020dubai" />
     <item drawable="exported_icon_pack" />
     <item drawable="expressvpn" />
@@ -2527,7 +2541,6 @@
     <item drawable="heartpedia" />
     <item drawable="hebrew_translator" />
     <item drawable="hello_history" />
-    <item drawable="hello_kitty_happiness_parade" />
     <item drawable="hellofresh" />
     <item drawable="henner_" />
     <item drawable="hentoid" />
@@ -2535,7 +2548,6 @@
     <item drawable="hepsiburada" />
     <item drawable="herofit" />
     <item drawable="herramientas_inteligentes" />
-    <item drawable="hextech_mayhem" />
     <item drawable="hexviewer" />
     <item drawable="hexx_vpn" />
     <item drawable="heyfun" />
@@ -2951,7 +2963,6 @@
     <item drawable="krazy_coupon_lady" />
     <item drawable="krispy_kreme" />
     <item drawable="krita" />
-    <item drawable="krz" />
     <item drawable="kuboom" />
     <item drawable="kuda" />
     <item drawable="kuizu" />
@@ -2965,7 +2976,6 @@
 	<item drawable="k_9_mail" />
 	<item drawable="kamasutra_gay" />
 	<item drawable="kamera" />
-	<item drawable="katzen_and_suppe" />
 	<item drawable="kde_connect" />
 	<item drawable="keep" />
 	<item drawable="keepa" />
@@ -2981,7 +2991,6 @@
 	<item drawable="kolel" />
 	<item drawable="kore" />
 	<item drawable="koreader" />
-	<item drawable="krispee_street" />
 	<item drawable="kurobaex" />
 	<item drawable="kutumb" />
 	<item drawable="kwgt_pro" />
@@ -3170,7 +3179,6 @@
     <item drawable="moto_unplugged" />
     <item drawable="multi_calculator" />
     <item drawable="music_theory_companion" />
-    <item drawable="monument_valley_2" />
     <item drawable="mindroid" />
     <item drawable="moto_ai" />
     <item drawable="motorola_mirror" />
@@ -3314,7 +3322,6 @@
     <item drawable="magentatv" />
     <item drawable="magic_home" />
     <item drawable="magicaldraw" />
-    <item drawable="mahjong_solitaire" />
     <item drawable="maid" />
     <item drawable="makemytrip" />
     <item drawable="malt" />
@@ -3651,7 +3658,6 @@
 	<item drawable="moinmoin" />
 	<item drawable="moneywallet" />
 	<item drawable="moonlight" />
-	<item drawable="moonlighter_netflix_edition" />
 	<item drawable="moqo" />
 	<item drawable="moroway" />
 	<item drawable="moshidon" />
@@ -3770,7 +3776,6 @@
     <item drawable="nekogram" />
     <item drawable="nerd_vpn_2024" />
     <item drawable="nesnezeno" />
-    <item drawable="netflix" />
     <item drawable="netis_router_manager" />
     <item drawable="netman"/>
     <item drawable="netmonitor" />
@@ -3848,7 +3853,6 @@
     <item drawable="ns_international" />
     <item drawable="ntes" />
     <item drawable="ntfy" />
-    <item drawable="nu" />
     <item drawable="nui" />
     <item drawable="number26" />
     <item drawable="nuri_ex_bitwala_" />
@@ -3904,6 +3908,7 @@
 	<item drawable="nozzle" />
 	<item drawable="nytimes" />
     <category title="O" />
+    <item drawable="open_maps" />
     <item drawable="openscale_sync" />
     <item drawable="owncloud" />
     <item drawable="onemoresecret" />
@@ -4040,7 +4045,6 @@
     <item drawable="ovos_play_demo" />
     <item drawable="owline" />
     <item drawable="owncloudnewsreader" />
-    <item drawable="oxenfree" />
     <item drawable="oyo" />
     <item drawable="onleihe"/>
     <item drawable="ok_transporte_barcelona" />
@@ -4090,7 +4094,6 @@
 	<item drawable="ovag_e_mobil" />
 	<item drawable="owlfiles" />
     <category title="P" />
-    <item drawable="paper_trail" />
     <item drawable="ping_and_net" />
     <item drawable="pincredible" />
     <item drawable="parknyc" />
@@ -4503,7 +4506,6 @@
     <item drawable="quick_settings" />
     <item drawable="quickdic" />
     <item drawable="quickedit" />
-    <item drawable="quickedit_" />
     <item drawable="quickib" />
     <item drawable="quickmemo_" />
     <item drawable="quidco" />
@@ -4618,7 +4620,6 @@
     <item drawable="regex_crossword" />
     <item drawable="regiojet" />
     <item drawable="rehlat" />
-    <item drawable="reigns3k" />
     <item drawable="relaxing_sleep_sounds_pro" />
     <item drawable="remarkable" />
     <item drawable="remember_the_milk" />
@@ -4928,7 +4929,6 @@
     <item drawable="screenshot_assistant" />
     <item drawable="screwfix" />
     <item drawable="scribot" />
-    <item drawable="scriptic_crime_stories" />
     <item drawable="scrolller" />
     <item drawable="scummvm" />
     <item drawable="sd_maid" />
