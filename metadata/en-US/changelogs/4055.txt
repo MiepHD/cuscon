@@ -1,0 +1,2 @@
+Added Banking, Flavorish, Galerie, Thunderbird Beta, VIMpay, FUTO Keyboard, Aqara Home, Automate flow, BinEd, GPSLogger II, Multi-Calculator, Music Theory Companion, openScale sync, SherpaTTS, Tiny Weather Forecast Germany, Udderance AAC, Weather, meteocat, Moto Note, Moto Unplugged
+Fixed YAZIO

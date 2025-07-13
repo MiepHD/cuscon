@@ -6285,5 +6285,26 @@
     <AppIcon name="com.aliucord.manager/com.aliucord.manager.MainActivity" image="aliucord_installer"/>
     <AppIcon name="com.netflix.NGP.MonumentValley2/com.unity3d.player.UnityPlayerActivity" image="monument_valley_2"/>
     <AppIcon name="com.netflix.NGP.PaperTrail/com.unity3d.player.UnityPlayerActivity" image="paper_trail"/>
+    <AppIcon name="com.yazio.android/yazio.feature.MainActivity" image="yazio"/>
+    <AppIcon name="de.commerzbanking.mobil/de.commerzbank.app.future.prelogin.splash.SplashActivity" image="banking"/>
+    <AppIcon name="ai.flavorish.app/ai.flavorish.app.MainActivity" image="flavorish"/>
+    <AppIcon name="com.nothing.gallery/com.nothing.gallery.activity.EntryActivity" image="galerie"/>
+    <AppIcon name="net.thunderbird.android.beta/com.fsck.k9.activity.MessageList" image="thunderbird_beta"/>
+    <AppIcon name="net.petafuel.mobile.vimpay/net.petafuel.mobile.vimpay.StartActivity" image="vimpay"/>
+    <AppIcon name="org.futo.inputmethod.latin.playstore/org.futo.inputmethod.latin.uix.settings.SettingsActivity" image="futo_keyboard"/>
+    <AppIcon name="com.lumiunited.aqarahome.play/com.lumiunited.aqara.main.SplashActivity" image="aqara_home"/>
+    <AppIcon name="com.llamalab.automate/com.llamalab.automate.AlternativeLaunchActivity" image="automate_flow"/>
+    <AppIcon name="org.exbin.bined.editor.android/org.exbin.bined.editor.android.MainActivity" image="bined"/>
+    <AppIcon name="com.emacberry.gpslogger/com.emacberry.gpslogger.GPSLoggerActivity" image="gpslogger_ii"/>
+    <AppIcon name="com.yangdai.calc/com.yangdai.calc.main.MainActivity" image="multi_calculator"/>
+    <AppIcon name="app.pg.scalechordprogression/app.pg.libscalechordprogression.ActivityMain" image="music_theory_companion"/>
+    <AppIcon name="com.health.openscale.sync.oss/com.health.openscale.sync.gui.MainActivity" image="openscale_sync"/>
+    <AppIcon name="org.woheller69.ttsengine/com.k2fsa.sherpa.onnx.tts.engine.MainActivity" image="sherpatts"/>
+    <AppIcon name="de.kaffeemitkoffein.tinyweatherforecastgermany/de.kaffeemitkoffein.tinyweatherforecastgermany.MainActivity" image="tiny_weather_forecast_germany"/>
+    <AppIcon name="app.udderance/app.udderance.MainActivity" image="udderance_aac"/>
+    <AppIcon name="com.inmobi.weather/com.handmark.expressweather.ui.activities.MainActivity" image="weather_inmobi"/>
+    <AppIcon name="cat.gencat.mobi.meteocat/cat.gencat.mobi.meteocat.MainActivity" image="meteocat"/>
+    <AppIcon name="com.motorola.stylus/com.motorola.stylus.manager.NoteManagerActivity" image="moto_note"/>
+    <AppIcon name="com.motorola.om/com.motorola.om.presentation.LauncherActivity" image="moto_unplugged"/>
 
 </Theme>

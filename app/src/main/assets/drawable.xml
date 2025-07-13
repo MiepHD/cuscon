@@ -315,6 +315,8 @@
     <item drawable="_f_droid_kdi" />
     <item drawable="_sound_" />
     <category title="A" />
+    <item drawable="aqara_home" />
+    <item drawable="automate_flow" />
     <item drawable="aliucord_installer" />
     <item drawable="anime_stickers" />
     <item drawable="automate_llamalab" />
@@ -803,6 +805,8 @@
 	<item drawable="awox_homecontrol" />
 	<item drawable="axp_apk_extractor" />
     <category title="B" />
+    <item drawable="bined" />
+    <item drawable="banking" />
     <item drawable="bahnbonus" />
      <item drawable="busy_app" />
     <item drawable="bitcoin_testnet3" />
@@ -1948,6 +1952,8 @@
 	<item drawable="explorer" />
 	<item drawable="exteragram" />
     <category title="F" />
+    <item drawable="futo_keyboard" />
+    <item drawable="flavorish" />
     <item drawable="filmfriend" />
     <item drawable="fosswallet" />
      <item drawable="feedback" />
@@ -2216,6 +2222,8 @@
 	<item drawable="futo_voice_input" />
 	<item drawable="fx" />
     <category title="G" />
+    <item drawable="gpslogger_ii" />
+    <item drawable="galerie" />
     <item drawable="green_avk_svg_viewer" />
     <item drawable="g30" />
     <item drawable="geddit" />
@@ -3157,6 +3165,11 @@
 	<item drawable="lucky_wasted" />
 	<item drawable="lux_o_meter_lichtmesser" />
     <category title="M" />
+    <item drawable="meteocat" />
+    <item drawable="moto_note" />
+    <item drawable="moto_unplugged" />
+    <item drawable="multi_calculator" />
+    <item drawable="music_theory_companion" />
     <item drawable="monument_valley_2" />
     <item drawable="mindroid" />
     <item drawable="moto_ai" />
@@ -3891,6 +3904,7 @@
 	<item drawable="nozzle" />
 	<item drawable="nytimes" />
     <category title="O" />
+    <item drawable="openscale_sync" />
     <item drawable="owncloud" />
     <item drawable="onemoresecret" />
     <item drawable="orf_sound" />
@@ -4739,6 +4753,7 @@
 	<item drawable="rustdesk" />
 	<item drawable="rvx_music" />
     <category title="S" />
+    <item drawable="sherpatts" />
     <item drawable="stadtradeln" />
     <item drawable="silentnotes" />
     <item drawable="sayit" />
@@ -5303,6 +5318,8 @@
 	<item drawable="swiss_post" />
 	<item drawable="systemui_tuner" />
     <category title="T" />
+    <item drawable="tiny_weather_forecast_germany" />
+    <item drawable="thunderbird_beta" />
     <item drawable="tuta_calendar" />
     <item drawable="tvquickactions_pro" />
     <item drawable="technoify_svg_viewer" />
@@ -5652,6 +5669,7 @@
 	<item drawable="tux_paint_config" />
 	<item drawable="twelve_key_dialer" />
     <category title="U" />
+    <item drawable="udderance_aac" />
     <item drawable="ugreen_nas" />
     <item drawable="ultra_lock" />
     <item drawable="unholy_neighbourhood_2" />
@@ -5746,6 +5764,7 @@
 	<item drawable="utiles" />
 	<item drawable="utilidades_amaze" />
     <category title="V" />
+    <item drawable="vimpay" />
     <item drawable="vansite" />
     <item drawable="vectormotion" />
     <item drawable="vector_asset_creator" />
@@ -5891,6 +5910,22 @@
 	<item drawable="vpn_super" />
 	<item drawable="vr_banking_app" />
 	<item drawable="vsolution_app" />
+    <category title="Weather"/>
+    <item drawable="weather_inmobi" />
+    <item drawable="weather_widget" />
+    <item drawable="weather_master" />
+    <item drawable="weather" />
+    <item drawable="weather_live0" />
+    <item drawable="weather_m8"/>
+    <item drawable="weather_network" />
+    <item drawable="weather_sky" />
+    <item drawable="weather_station_barometer"/>
+    <item drawable="weathermind" />
+    <item drawable="weather_hi_def_radar" />
+	<item drawable="weather_radar" />
+	<item drawable="weatherbug" />
+	<item drawable="weatherzone" />
+    <item drawable="whatweather" />
     <category title="W" />
     <item drawable="wero" />
     <item drawable="wger" />
@@ -5900,7 +5935,6 @@
     <item drawable="wallfarm" />
     <item drawable="war_machines" />
     <item drawable="water_sort_pro" />
-    <item drawable="weather_widget" />
     <item drawable="webmonkey" />
     <item drawable="whatcaristhat"/>
     <item drawable="whatsave" />
@@ -5918,7 +5952,6 @@
     <item drawable="word_search_unlimited_pro" />
     <item drawable="waistline" />
     <item drawable="wifi_map" />
-    <item drawable="weather_master" />
     <item drawable="wifi4eu_map" />
     <item drawable="word2pdf" />
     <item drawable="wonderland" />
@@ -5974,13 +6007,6 @@
     <item drawable="wawanpro" />
     <item drawable="waze" />
     <item drawable="wear_flashlight" />
-    <item drawable="weather" />
-    <item drawable="weather_live0" />
-    <item drawable="weather_m8"/>
-    <item drawable="weather_network" />
-    <item drawable="weather_sky" />
-    <item drawable="weather_station_barometer"/>
-    <item drawable="weathermind" />
     <item drawable="web_opac" />
     <item drawable="webapk_thredup" />
     <item drawable="webde_mail" />
@@ -6075,15 +6101,10 @@
 	<item drawable="waveeditor" />
 	<item drawable="wear_os" />
 	<item drawable="weasce_clima" />
-	<item drawable="weather_hi_def_radar" />
-	<item drawable="weather_radar" />
-	<item drawable="weatherbug" />
-	<item drawable="weatherzone" />
 	<item drawable="web_media_share" />
 	<item drawable="wechat" />
 	<item drawable="whale" />
 	<item drawable="what3words" />
-	<item drawable="whatweather" />
 	<item drawable="where_is_my_train" />
 	<item drawable="wifi_signal_meter" />
 	<item drawable="wikipedia" />

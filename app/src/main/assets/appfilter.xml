@@ -6402,5 +6402,26 @@
     <item component="ComponentInfo{com.aliucord.manager/com.aliucord.manager.MainActivity}" drawable="aliucord_installer" />
     <item component="ComponentInfo{com.netflix.NGP.MonumentValley2/com.unity3d.player.UnityPlayerActivity}" drawable="monument_valley_2" />
     <item component="ComponentInfo{com.netflix.NGP.PaperTrail/com.unity3d.player.UnityPlayerActivity}" drawable="paper_trail" />
+    <item component="ComponentInfo{com.yazio.android/yazio.feature.MainActivity}" drawable="yazio" />
+    <item component="ComponentInfo{de.commerzbanking.mobil/de.commerzbank.app.future.prelogin.splash.SplashActivity}" drawable="banking" />
+    <item component="ComponentInfo{ai.flavorish.app/ai.flavorish.app.MainActivity}" drawable="flavorish" />
+    <item component="ComponentInfo{com.nothing.gallery/com.nothing.gallery.activity.EntryActivity}" drawable="galerie" />
+    <item component="ComponentInfo{net.thunderbird.android.beta/com.fsck.k9.activity.MessageList}" drawable="thunderbird_beta" />
+    <item component="ComponentInfo{net.petafuel.mobile.vimpay/net.petafuel.mobile.vimpay.StartActivity}" drawable="vimpay" />
+    <item component="ComponentInfo{org.futo.inputmethod.latin.playstore/org.futo.inputmethod.latin.uix.settings.SettingsActivity}" drawable="futo_keyboard" />
+    <item component="ComponentInfo{com.lumiunited.aqarahome.play/com.lumiunited.aqara.main.SplashActivity}" drawable="aqara_home" />
+    <item component="ComponentInfo{com.llamalab.automate/com.llamalab.automate.AlternativeLaunchActivity}" drawable="automate_flow" />
+    <item component="ComponentInfo{org.exbin.bined.editor.android/org.exbin.bined.editor.android.MainActivity}" drawable="bined" />
+    <item component="ComponentInfo{com.emacberry.gpslogger/com.emacberry.gpslogger.GPSLoggerActivity}" drawable="gpslogger_ii" />
+    <item component="ComponentInfo{com.yangdai.calc/com.yangdai.calc.main.MainActivity}" drawable="multi_calculator" />
+    <item component="ComponentInfo{app.pg.scalechordprogression/app.pg.libscalechordprogression.ActivityMain}" drawable="music_theory_companion" />
+    <item component="ComponentInfo{com.health.openscale.sync.oss/com.health.openscale.sync.gui.MainActivity}" drawable="openscale_sync" />
+    <item component="ComponentInfo{org.woheller69.ttsengine/com.k2fsa.sherpa.onnx.tts.engine.MainActivity}" drawable="sherpatts" />
+    <item component="ComponentInfo{de.kaffeemitkoffein.tinyweatherforecastgermany/de.kaffeemitkoffein.tinyweatherforecastgermany.MainActivity}" drawable="tiny_weather_forecast_germany" />
+    <item component="ComponentInfo{app.udderance/app.udderance.MainActivity}" drawable="udderance_aac" />
+    <item component="ComponentInfo{com.inmobi.weather/com.handmark.expressweather.ui.activities.MainActivity}" drawable="weather_inmobi" />
+    <item component="ComponentInfo{cat.gencat.mobi.meteocat/cat.gencat.mobi.meteocat.MainActivity}" drawable="meteocat" />
+    <item component="ComponentInfo{com.motorola.stylus/com.motorola.stylus.manager.NoteManagerActivity}" drawable="moto_note" />
+    <item component="ComponentInfo{com.motorola.om/com.motorola.om.presentation.LauncherActivity}" drawable="moto_unplugged" />
 
 </resources>

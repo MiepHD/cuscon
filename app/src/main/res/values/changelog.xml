@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="changelog_date">09.07.2025</string>
+    <string name="changelog_date">13.07.2025</string>
     <string-array name="changelog">
+        <item>4.0.5.5:</item>
+        <item>Added Banking, Flavorish, Galerie, Thunderbird Beta, VIMpay, FUTO Keyboard, Aqara Home, Automate flow, BinEd, GPSLogger II, Multi-Calculator, Music Theory Companion, openScale sync, SherpaTTS, Tiny Weather Forecast Germany, Udderance AAC, Weather, meteocat, Moto Note, Moto Unplugged</item>
+        <item>Fixed YAZIO</item>
         <item>4.0.5.4:</item>
         <item>Added Itinerary, Wero, wger, Automate, Codora, CoinCalc, Crypto, Digital Detox, FossWallet, Nintendo Music, OneMoreSecret, Ping and Net, SilentNotes, Anime Stickers, filmfriend, ownCloud, Monument Valley 2, Paper Trail</item>
         <item>Fixed BahnBonus, Character.AI, Keepass2Android, STADTRADELN, ZDF, Aliucord Manager</item>
