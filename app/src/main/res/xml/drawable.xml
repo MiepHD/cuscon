@@ -297,6 +297,7 @@
     <item drawable="google_wifi" />
     <item drawable="googleassistant2" />
     <category title="#" />
+    <item drawable="_0ffice_documents_reader_and_viewer" />
     <item drawable="_1password" />
     <item drawable="_4pda" />
     <item drawable="_324" />
@@ -1791,6 +1792,7 @@
 	<item drawable="dynalist" />
 	<item drawable="dynamicspot" />
     <category title="E" />
+    <item drawable="editor_de_docx" />
     <item drawable="ebusky_svg_viewer" />
     <item drawable="electrum" />
     <item drawable="english_guess_the_phrase" />
@@ -2995,6 +2997,7 @@
 	<item drawable="kutumb" />
 	<item drawable="kwgt_pro" />
     <category title="L" />
+    <item drawable="lector_de_documentos" />
     <item drawable="le_chat" />
     <item drawable="lozsolutiont_svg_viewer" />
     <item drawable="lenovo_pc_diagnostics" />
@@ -3174,6 +3177,9 @@
 	<item drawable="lucky_wasted" />
 	<item drawable="lux_o_meter_lichtmesser" />
     <category title="M" />
+    <item drawable="mario_kart" />
+    <item drawable="mario_run" />
+    <item drawable="musescore" />
     <item drawable="meteocat" />
     <item drawable="moto_note" />
     <item drawable="moto_unplugged" />
@@ -4094,6 +4100,9 @@
 	<item drawable="ovag_e_mobil" />
 	<item drawable="owlfiles" />
     <category title="P" />
+    <item drawable="pdfgear" />
+    <item drawable="pdf_reader_hi_read" />
+    <item drawable="polaris_office" />
     <item drawable="ping_and_net" />
     <item drawable="pincredible" />
     <item drawable="parknyc" />
@@ -4754,6 +4763,7 @@
 	<item drawable="rustdesk" />
 	<item drawable="rvx_music" />
     <category title="S" />
+    <item drawable="synthesia" />
     <item drawable="sherpatts" />
     <item drawable="stadtradeln" />
     <item drawable="silentnotes" />
@@ -5764,6 +5774,7 @@
 	<item drawable="utiles" />
 	<item drawable="utilidades_amaze" />
     <category title="V" />
+    <item drawable="visor_de_documentos" />
     <item drawable="vimpay" />
     <item drawable="vansite" />
     <item drawable="vectormotion" />

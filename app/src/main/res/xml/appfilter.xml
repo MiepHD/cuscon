@@ -6423,5 +6423,18 @@
     <item component="ComponentInfo{cat.gencat.mobi.meteocat/cat.gencat.mobi.meteocat.MainActivity}" drawable="meteocat" />
     <item component="ComponentInfo{com.motorola.stylus/com.motorola.stylus.manager.NoteManagerActivity}" drawable="moto_note" />
     <item component="ComponentInfo{com.motorola.om/com.motorola.om.presentation.LauncherActivity}" drawable="moto_unplugged" />
+    <item component="ComponentInfo{com.andropenoffice/aoo.android.X11Activity}" drawable="andropen_office" />
+    <item component="ComponentInfo{com.onlyoffice.documents/app.editors.manager.ui.activities.main.MainActivity}" drawable="onlyoffice_dokumente" />
+    <item component="ComponentInfo{com.a1.xlsx.reader.spread.sheets.viewer.xls.files.sheet.editor.converter/com.snappy.docreader.ui.activity.SplashActivity}" drawable="editor_de_docx" />
+    <item component="ComponentInfo{documentreader.pdfviewerapp.filereader.word.docs/arr.pdfreader.documentreader.view.activities.SplashActivity}" drawable="lector_de_documentos" />
+    <item component="ComponentInfo{com.pdfeditor.pdfeditorandriod/com.pdfeditor.pdfeditorandriod.activity.MainActivity}" drawable="pdfgear" />
+    <item component="ComponentInfo{pdf.reader.pdfviewer.pdfeditor/pdf.reader.pdfviewer.pdfeditor.ui.act.SplashActivity}" drawable="pdf_reader_hi_read" />
+    <item component="ComponentInfo{com.infraware.office.link/com.infraware.service.ActLauncher}" drawable="polaris_office" />
+    <item component="ComponentInfo{com.office.document.viewer/com.office.document.viewer.SplashActivity}" drawable="visor_de_documentos" />
+    <item component="ComponentInfo{com.palmmob.officefileviewer/com.palmmob.officefileviewer.MainActivity}" drawable="_0ffice_documents_reader_and_viewer" />
+    <item component="ComponentInfo{com.nintendo.zaka/com.google.firebase.MessagingUnityPlayerActivity}" drawable="mario_kart" />
+    <item component="ComponentInfo{com.nintendo.zara/com.dena.unity3d.player.MyUnityPlayerActivity}" drawable="mario_run" />
+    <item component="ComponentInfo{com.musescore.playerlite/com.zoontek.rnbootsplash.RNBootSplashActivity}" drawable="musescore" />
+    <item component="ComponentInfo{com.synthesia.synthesia/com.synthesia.synthesia.SynthesiaActivity}" drawable="synthesia" />
 
 </resources>

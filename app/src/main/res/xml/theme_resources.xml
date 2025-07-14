@@ -6306,5 +6306,18 @@
     <AppIcon name="cat.gencat.mobi.meteocat/cat.gencat.mobi.meteocat.MainActivity" image="meteocat"/>
     <AppIcon name="com.motorola.stylus/com.motorola.stylus.manager.NoteManagerActivity" image="moto_note"/>
     <AppIcon name="com.motorola.om/com.motorola.om.presentation.LauncherActivity" image="moto_unplugged"/>
+    <AppIcon name="com.andropenoffice/aoo.android.X11Activity" image="andropen_office"/>
+    <AppIcon name="com.onlyoffice.documents/app.editors.manager.ui.activities.main.MainActivity" image="onlyoffice_dokumente"/>
+    <AppIcon name="com.a1.xlsx.reader.spread.sheets.viewer.xls.files.sheet.editor.converter/com.snappy.docreader.ui.activity.SplashActivity" image="editor_de_docx"/>
+    <AppIcon name="documentreader.pdfviewerapp.filereader.word.docs/arr.pdfreader.documentreader.view.activities.SplashActivity" image="lector_de_documentos"/>
+    <AppIcon name="com.pdfeditor.pdfeditorandriod/com.pdfeditor.pdfeditorandriod.activity.MainActivity" image="pdfgear"/>
+    <AppIcon name="pdf.reader.pdfviewer.pdfeditor/pdf.reader.pdfviewer.pdfeditor.ui.act.SplashActivity" image="pdf_reader_hi_read"/>
+    <AppIcon name="com.infraware.office.link/com.infraware.service.ActLauncher" image="polaris_office"/>
+    <AppIcon name="com.office.document.viewer/com.office.document.viewer.SplashActivity" image="visor_de_documentos"/>
+    <AppIcon name="com.palmmob.officefileviewer/com.palmmob.officefileviewer.MainActivity" image="_0ffice_documents_reader_and_viewer"/>
+    <AppIcon name="com.nintendo.zaka/com.google.firebase.MessagingUnityPlayerActivity" image="mario_kart"/>
+    <AppIcon name="com.nintendo.zara/com.dena.unity3d.player.MyUnityPlayerActivity" image="mario_run"/>
+    <AppIcon name="com.musescore.playerlite/com.zoontek.rnbootsplash.RNBootSplashActivity" image="musescore"/>
+    <AppIcon name="com.synthesia.synthesia/com.synthesia.synthesia.SynthesiaActivity" image="synthesia"/>
 
 </Theme>

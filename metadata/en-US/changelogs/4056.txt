@@ -1,0 +1,3 @@
+Improved quality of icons from M to S
+Fixed AndrOpen Office, ONLYOFFICE Documentos
+Added Editor de Docx, Lector de documentos, PDFgear, PDF Reader, Polaris Office, Visor de documentos, 0ffice Documents Reader&Viewer, Mario Kart, MARIO RUN, MuseScore, Synthesia
