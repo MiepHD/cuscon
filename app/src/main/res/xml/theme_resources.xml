@@ -6319,5 +6319,49 @@
     <AppIcon name="com.nintendo.zara/com.dena.unity3d.player.MyUnityPlayerActivity" image="mario_run"/>
     <AppIcon name="com.musescore.playerlite/com.zoontek.rnbootsplash.RNBootSplashActivity" image="musescore"/>
     <AppIcon name="com.synthesia.synthesia/com.synthesia.synthesia.SynthesiaActivity" image="synthesia"/>
+    <AppIcon name="de.apodiscounter.androidphone/de.apodiscounter.androidphone.ApoDiscounterActivity" image="apo_discounter"/>
+    <AppIcon name="com.gengcon.android.jccloudprinter/com.gengcon.android.jccloudprinter.LaunchActivity" image="niimbot"/>
+    <AppIcon name="de.adac.mobile.pannenhilfe/de.adac.mobile.pannenhilfe.ui.splash.SplashActivity" image="pannenhilfe"/>
+    <AppIcon name="com.tuxfusion.polizeibericht/com.tuxfusion.polizeibericht.StartActivity" image="polizeibericht"/>
+    <AppIcon name="com.android.stk/com.android.stk.StkLauncherListActivity" image="sim_toolkit"/>
+    <AppIcon name="de.sdvrz.ihb.mobile.app/de.sdvrz.ihb.bankingapp.feature.start.StartActivity" image="spardaapp"/>
+    <AppIcon name="com.edsbestapps.catalunya/com.edsbestapps.brazilNews.MainActivity" image="catalunya_noticies"/>
+    <AppIcon name="com.db.pbc.mibanco/com.db.pbc.mibanco.MainActivity" image="db_app"/>
+    <AppIcon name="com.alldocument.kitkit/com.alldocument.kitkit.ui.app.start.AppSplashPage" image="kit_de_todos_los_documentos"/>
+    <AppIcon name="com.motorola.lmsaappclient/com.motorola.lmsaappclient.ui.FlashActivity" image="mobile_assistant"/>
+    <AppIcon name="com.motorola.mototalk/com.motorola.ptt.MainActivity" image="mototalk"/>
+    <AppIcon name="com.motorola.motobuds/com.motorola.motobuds.ui.activity.LandingPageActivity" image="moto_buds"/>
+    <AppIcon name="com.motorola.oemconfig.rel/com.motorola.oemconfig.rel.activities.MainActivity" image="moto_oemconfig"/>
+    <AppIcon name="com.motorola.tag/com.motorola.tag.ui.activities.LandingPageActivity" image="moto_tag"/>
+    <AppIcon name="com.motorola.watch/com.motorola.watch.ui.activity.LandingPageActivity" image="moto_watch"/>
+    <AppIcon name="com.alldocument.focus/com.alldocument.focus.ui.app.splash.AppSplashPageAct" image="todo_el_enfoque_del_documento"/>
+    <AppIcon name="com.danruddev.budgetum/com.danruddev.budgetum.MainActivity" image="budgetum"/>
+    <AppIcon name="org.howwefeel.moodmeter/org.howwefeel.moodmeter.screens.main.MainActivity" image="how_we_feel"/>
+    <AppIcon name="app.reflection.reflection/app.reflection.reflection.MainActivity" image="reflectionapp"/>
+    <AppIcon name="com.nothing.smartcenter/com.nothing.smartcenter.host.MainActivity" image="nothing_x"/>
+    <AppIcon name="com.nothing.camera/com.nothing.camera.activity.CameraActivity" image="kamera_nothing"/>
+    <AppIcon name="com.cyanchill.missingcore.music/com.cyanchill.missingcore.music.MainActivity" image="music_cyanchill"/>
+    <AppIcon name="com.techsip.noid/com.techsip.noid.MainActivity" image="noid"/>
+    <AppIcon name="com.hearthborn.studios.notingnotes/com.hearthborn.studios.notingnotes.AuthorizationActivity" image="noting"/>
+    <AppIcon name="com.qingniu.renpho/com.renpho.app.main.view.activity.LauncherActivity" image="renpho"/>
+    <AppIcon name="com.oktransportebarcelona/oktransit.MainActivity" image="ok_transporte_barcelona_2"/>
+    <AppIcon name="cat.bcn.smoubcn/crc6412790008f64465e8.MainActivity" image="smou_2"/>
+    <AppIcon name="app.wizink.es/com.wizink.superapp.MainActivity" image="wizink_2"/>
+    <AppIcon name="net.triphub.transport.barcelona/crc641266ad5942542b71.MainActivity" image="barcelona_transport_map"/>
+    <AppIcon name="com.cabify.rider/com.cabify.rider.presentation.splash.SplashActivity" image="cabify"/>
+    <AppIcon name="com.geoactio.moventis/com.geoactio.moventis.PantallaCarga" image="moventis"/>
+    <AppIcon name="com.geomobile.tmbmobile/com.geomobile.tmbmobile.ui.splash.SplashActivity" image="tmbapp"/>
+    <AppIcon name="cat.atm.tmobilitat/es.smarting.tmobilitatnfc.framework.ui.splash.SplashActivity" image="t_mobilitat"/>
+    <AppIcon name="es.com.yellow.taxi.barcelona.pasajero/com.multibrains.taxi.passenger.view.PassengerLauncherActivity" image="yellow_taxi"/>
+    <AppIcon name="com.hm.goe/com.hm.goe.startup.StartupActivity" image="h_and_m"/>
+    <AppIcon name="com.aireuropa.mobile/com.aireuropa.mobile.common.presentation.activity.AEMainActivity" image="aireuropa"/>
+    <AppIcon name="zena.dominos/zena.dominos.MainActivity" image="dominospizza"/>
+    <AppIcon name="es.mercadona.tienda/es.mercadona.tienda.modules.startup.activity.StartupActivity" image="mercadona"/>
+    <AppIcon name="com.microsoft.amp.apps.bingweather/com.microsoft.amp.msnweather.MainActivity" image="msn_eltiempo"/>
+    <AppIcon name="com.consum/com.mundo_consum_rn.MainActivity" image="mundo_consum"/>
+    <AppIcon name="com.rtve.eltiempo/com.rtve.eltiempo.ui.view.splash.SplashActivity" image="rtve_el_tiempo"/>
+    <AppIcon name="com.inditex.stradivarius/com.inditex.stradivarius.splash.activity.SplashActivity" image="stradivarius"/>
+    <AppIcon name="com.wetter.androidclient/com.wetter.androidclient.entry.EntryActivity" image="tiempoes"/>
+    <AppIcon name="com.rtve.mas24/com.rtve.mas24.ui.view.splash.SplashActivity" image="rtve_noticias_2"/>
 
 </Theme>

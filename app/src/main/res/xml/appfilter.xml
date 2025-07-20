@@ -6436,5 +6436,49 @@
     <item component="ComponentInfo{com.nintendo.zara/com.dena.unity3d.player.MyUnityPlayerActivity}" drawable="mario_run" />
     <item component="ComponentInfo{com.musescore.playerlite/com.zoontek.rnbootsplash.RNBootSplashActivity}" drawable="musescore" />
     <item component="ComponentInfo{com.synthesia.synthesia/com.synthesia.synthesia.SynthesiaActivity}" drawable="synthesia" />
+    <item component="ComponentInfo{de.apodiscounter.androidphone/de.apodiscounter.androidphone.ApoDiscounterActivity}" drawable="apo_discounter" />
+    <item component="ComponentInfo{com.gengcon.android.jccloudprinter/com.gengcon.android.jccloudprinter.LaunchActivity}" drawable="niimbot" />
+    <item component="ComponentInfo{de.adac.mobile.pannenhilfe/de.adac.mobile.pannenhilfe.ui.splash.SplashActivity}" drawable="pannenhilfe" />
+    <item component="ComponentInfo{com.tuxfusion.polizeibericht/com.tuxfusion.polizeibericht.StartActivity}" drawable="polizeibericht" />
+    <item component="ComponentInfo{com.android.stk/com.android.stk.StkLauncherListActivity}" drawable="sim_toolkit" />
+    <item component="ComponentInfo{de.sdvrz.ihb.mobile.app/de.sdvrz.ihb.bankingapp.feature.start.StartActivity}" drawable="spardaapp" />
+    <item component="ComponentInfo{com.edsbestapps.catalunya/com.edsbestapps.brazilNews.MainActivity}" drawable="catalunya_noticies" />
+    <item component="ComponentInfo{com.db.pbc.mibanco/com.db.pbc.mibanco.MainActivity}" drawable="db_app" />
+    <item component="ComponentInfo{com.alldocument.kitkit/com.alldocument.kitkit.ui.app.start.AppSplashPage}" drawable="kit_de_todos_los_documentos" />
+    <item component="ComponentInfo{com.motorola.lmsaappclient/com.motorola.lmsaappclient.ui.FlashActivity}" drawable="mobile_assistant" />
+    <item component="ComponentInfo{com.motorola.mototalk/com.motorola.ptt.MainActivity}" drawable="mototalk" />
+    <item component="ComponentInfo{com.motorola.motobuds/com.motorola.motobuds.ui.activity.LandingPageActivity}" drawable="moto_buds" />
+    <item component="ComponentInfo{com.motorola.oemconfig.rel/com.motorola.oemconfig.rel.activities.MainActivity}" drawable="moto_oemconfig" />
+    <item component="ComponentInfo{com.motorola.tag/com.motorola.tag.ui.activities.LandingPageActivity}" drawable="moto_tag" />
+    <item component="ComponentInfo{com.motorola.watch/com.motorola.watch.ui.activity.LandingPageActivity}" drawable="moto_watch" />
+    <item component="ComponentInfo{com.alldocument.focus/com.alldocument.focus.ui.app.splash.AppSplashPageAct}" drawable="todo_el_enfoque_del_documento" />
+    <item component="ComponentInfo{com.danruddev.budgetum/com.danruddev.budgetum.MainActivity}" drawable="budgetum" />
+    <item component="ComponentInfo{org.howwefeel.moodmeter/org.howwefeel.moodmeter.screens.main.MainActivity}" drawable="how_we_feel" />
+    <item component="ComponentInfo{app.reflection.reflection/app.reflection.reflection.MainActivity}" drawable="reflectionapp" />
+    <item component="ComponentInfo{com.nothing.smartcenter/com.nothing.smartcenter.host.MainActivity}" drawable="nothing_x" />
+    <item component="ComponentInfo{com.nothing.camera/com.nothing.camera.activity.CameraActivity}" drawable="kamera_nothing" />
+    <item component="ComponentInfo{com.cyanchill.missingcore.music/com.cyanchill.missingcore.music.MainActivity}" drawable="music_cyanchill" />
+    <item component="ComponentInfo{com.techsip.noid/com.techsip.noid.MainActivity}" drawable="noid" />
+    <item component="ComponentInfo{com.hearthborn.studios.notingnotes/com.hearthborn.studios.notingnotes.AuthorizationActivity}" drawable="noting" />
+    <item component="ComponentInfo{com.qingniu.renpho/com.renpho.app.main.view.activity.LauncherActivity}" drawable="renpho" />
+    <item component="ComponentInfo{com.oktransportebarcelona/oktransit.MainActivity}" drawable="ok_transporte_barcelona_2" />
+    <item component="ComponentInfo{cat.bcn.smoubcn/crc6412790008f64465e8.MainActivity}" drawable="smou_2" />
+    <item component="ComponentInfo{app.wizink.es/com.wizink.superapp.MainActivity}" drawable="wizink_2" />
+    <item component="ComponentInfo{net.triphub.transport.barcelona/crc641266ad5942542b71.MainActivity}" drawable="barcelona_transport_map" />
+    <item component="ComponentInfo{com.cabify.rider/com.cabify.rider.presentation.splash.SplashActivity}" drawable="cabify" />
+    <item component="ComponentInfo{com.geoactio.moventis/com.geoactio.moventis.PantallaCarga}" drawable="moventis" />
+    <item component="ComponentInfo{com.geomobile.tmbmobile/com.geomobile.tmbmobile.ui.splash.SplashActivity}" drawable="tmbapp" />
+    <item component="ComponentInfo{cat.atm.tmobilitat/es.smarting.tmobilitatnfc.framework.ui.splash.SplashActivity}" drawable="t_mobilitat" />
+    <item component="ComponentInfo{es.com.yellow.taxi.barcelona.pasajero/com.multibrains.taxi.passenger.view.PassengerLauncherActivity}" drawable="yellow_taxi" />
+    <item component="ComponentInfo{com.hm.goe/com.hm.goe.startup.StartupActivity}" drawable="h_and_m" />
+    <item component="ComponentInfo{com.aireuropa.mobile/com.aireuropa.mobile.common.presentation.activity.AEMainActivity}" drawable="aireuropa" />
+    <item component="ComponentInfo{zena.dominos/zena.dominos.MainActivity}" drawable="dominospizza" />
+    <item component="ComponentInfo{es.mercadona.tienda/es.mercadona.tienda.modules.startup.activity.StartupActivity}" drawable="mercadona" />
+    <item component="ComponentInfo{com.microsoft.amp.apps.bingweather/com.microsoft.amp.msnweather.MainActivity}" drawable="msn_eltiempo" />
+    <item component="ComponentInfo{com.consum/com.mundo_consum_rn.MainActivity}" drawable="mundo_consum" />
+    <item component="ComponentInfo{com.rtve.eltiempo/com.rtve.eltiempo.ui.view.splash.SplashActivity}" drawable="rtve_el_tiempo" />
+    <item component="ComponentInfo{com.inditex.stradivarius/com.inditex.stradivarius.splash.activity.SplashActivity}" drawable="stradivarius" />
+    <item component="ComponentInfo{com.wetter.androidclient/com.wetter.androidclient.entry.EntryActivity}" drawable="tiempoes" />
+    <item component="ComponentInfo{com.rtve.mas24/com.rtve.mas24.ui.view.splash.SplashActivity}" drawable="rtve_noticias_2" />
 
 </resources>

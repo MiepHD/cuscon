@@ -338,6 +338,8 @@
     <item drawable="_f_droid_kdi" />
     <item drawable="_sound_" />
     <category title="A" />
+    <item drawable="aireuropa" />
+    <item drawable="apo_discounter" />
     <item drawable="aqara_home" />
     <item drawable="automate_flow" />
     <item drawable="aliucord_installer" />
@@ -827,6 +829,8 @@
 	<item drawable="awox_homecontrol" />
 	<item drawable="axp_apk_extractor" />
     <category title="B" />
+    <item drawable="barcelona_transport_map" />
+    <item drawable="budgetum" />
     <item drawable="bined" />
     <item drawable="banking" />
     <item drawable="bahnbonus" />
@@ -1106,6 +1110,7 @@
 	<item drawable="bycs_drive" />
     <item drawable="ballozi_skynox" />
     <category title="C" />
+    <item drawable="cabify" />
     <item drawable="characterai" />
     <item drawable="codora" />
     <item drawable="coincalc" />
@@ -1486,6 +1491,8 @@
 	<item drawable="cubic_2_3_4_player_games" />
 	<item drawable="currencies" />
     <category title="D" />
+    <item drawable="dominospizza" />
+    <item drawable="db_app" />
     <item drawable="digital_detox" />
     <item drawable="deliveries" />
     <item drawable="dropout" />
@@ -2468,6 +2475,7 @@
 	<item drawable="gspace" />
 	<item drawable="guerrilla_mail" />
     <category title="H" />
+    <item drawable="how_we_feel" />
     <item drawable="hrti" />
     <item drawable="hack" />
     <item drawable="hacki" />
@@ -2861,6 +2869,8 @@
 	<item drawable="justchess" />
 	<item drawable="justdial" />
     <category title="K" />
+    <item drawable="kamera_nothing" />
+    <item drawable="kit_de_todos_los_documentos" />
     <item drawable="keepass2android" />
     <item drawable="kaii_photos" />
     <item drawable="kinestop" />
@@ -3177,6 +3187,16 @@
 	<item drawable="lucky_wasted" />
 	<item drawable="lux_o_meter_lichtmesser" />
     <category title="M" />
+    <item drawable="msn_eltiempo" />
+    <item drawable="mundo_consum" />
+    <item drawable="moventis" />
+    <item drawable="music_cyanchill" />
+    <item drawable="mobile_assistant" />
+    <item drawable="mototalk" />
+    <item drawable="moto_buds" />
+    <item drawable="moto_oemconfig" />
+    <item drawable="moto_tag" />
+    <item drawable="moto_watch" />
     <item drawable="mario_kart" />
     <item drawable="mario_run" />
     <item drawable="musescore" />
@@ -3702,6 +3722,10 @@
     <item drawable="mailfence" />
     <item drawable="mailfr" />
     <category title="N" />
+    <item drawable="noid" />
+    <item drawable="noting" />
+    <item drawable="nothing_x" />
+    <item drawable="niimbot" />
     <item drawable="nintendo_music" />
     <item drawable="notebooklm" />
     <item drawable="npo_luister" />
@@ -3914,6 +3938,7 @@
 	<item drawable="nozzle" />
 	<item drawable="nytimes" />
     <category title="O" />
+    <item drawable="ok_transporte_barcelona_2" />
     <item drawable="open_maps" />
     <item drawable="openscale_sync" />
     <item drawable="owncloud" />
@@ -4100,6 +4125,8 @@
 	<item drawable="ovag_e_mobil" />
 	<item drawable="owlfiles" />
     <category title="P" />
+    <item drawable="pannenhilfe" />
+    <item drawable="polizeibericht" />
     <item drawable="pdfgear" />
     <item drawable="pdf_reader_hi_read" />
     <item drawable="polaris_office" />
@@ -4536,6 +4563,10 @@
 	<item drawable="quik" />
 	<item drawable="quillpad" />
     <category title="R" />
+    <item drawable="rtve_noticias_2" />
+    <item drawable="rtve_el_tiempo" />
+    <item drawable="renpho" />
+    <item drawable="reflectionapp" />
     <item drawable="rtr_nettest" />
     <item drawable="rabobank" />
     <item drawable="race" />
@@ -4763,6 +4794,9 @@
 	<item drawable="rustdesk" />
 	<item drawable="rvx_music" />
     <category title="S" />
+    <item drawable="smou_2" />
+    <item drawable="sim_toolkit" />
+    <item drawable="spardaapp" />
     <item drawable="synthesia" />
     <item drawable="sherpatts" />
     <item drawable="stadtradeln" />
@@ -5328,6 +5362,9 @@
 	<item drawable="swiss_post" />
 	<item drawable="systemui_tuner" />
     <category title="T" />
+    <item drawable="tmbapp" />
+    <item drawable="t_mobilitat" />
+    <item drawable="todo_el_enfoque_del_documento" />
     <item drawable="tiny_weather_forecast_germany" />
     <item drawable="thunderbird_beta" />
     <item drawable="tuta_calendar" />
@@ -5938,6 +5975,7 @@
 	<item drawable="weatherzone" />
     <item drawable="whatweather" />
     <category title="W" />
+    <item drawable="wizink_2" />
     <item drawable="wero" />
     <item drawable="wger" />
     <item drawable="workinghours" />
@@ -6176,6 +6214,7 @@
 	<item drawable="xodo" />
 	<item drawable="xposed_edge" />
     <category title="Y" />
+    <item drawable="yellow_taxi" />
     <item drawable="yt_create" />
     <item drawable="youdj_mixer" />
     <item drawable="your_local_weather" />
