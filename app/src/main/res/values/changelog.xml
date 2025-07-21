@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="changelog_date">20.07.2025</string>
+    <string name="changelog_date">21.07.2025</string>
     <string-array name="changelog">
+        <item>4.0.5.8:</item>
+        <item>Added GeoFlota, Just Eat, My Package Tracking, OUIGO España, Package Tracker, Pans and Company, Parcel Tracker, pkge, Seguimiento de correos, Analizador WiFi, WiFi Analyzer, WifiAnalyzer, Analizador WiFi, Escáner Wi-Fi, Network Analyzer, WiFi Analyzer and Surveyor, WiFi Analyzer PI</item>
+        <item>Fixed Correos, analiti</item>
+        <item>Fixed and improved quality of Netmonitor</item>
         <item>4.0.5.7:</item>
         <item>Added apo-discounter, NIIMBOT, Pannenhilfe, Polizeibericht, SIM-Toolkit, SpardaApp, DB-App, Kit de todos los documentos, Mobile Assistant, MOTOTALK, Moto Buds, Moto OEMConfig, Moto Tag, Moto Watch, Todo el enfoque del documento, budgetum, How We Feel, Reflection.app, Kamera, Music, Noid, Noting, Renpho, OK Transporte Barcelona, smou, WiZink, Barcelona Transport Map, Cabify, MOVENTIS, TMBApp, T-mobilitat, Yellow Taxi, AirEuropa, DominosPizza, MSN Eltiempo, Mundo Consum, RTVE el Tiempo, RTVE Noticias</item>
         <item>Fixed Catalunya Noticies, Nothing X, H and M</item>

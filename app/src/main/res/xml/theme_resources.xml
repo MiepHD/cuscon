@@ -6363,5 +6363,25 @@
     <AppIcon name="com.inditex.stradivarius/com.inditex.stradivarius.splash.activity.SplashActivity" image="stradivarius"/>
     <AppIcon name="com.wetter.androidclient/com.wetter.androidclient.entry.EntryActivity" image="tiempoes"/>
     <AppIcon name="com.rtve.mas24/com.rtve.mas24.ui.view.splash.SplashActivity" image="rtve_noticias_2"/>
+    <AppIcon name="es.correos.app/es.correos.app.MainActivity" image="correos"/>
+    <AppIcon name="es.correos.geoflota/es.correos.geoflota.MainActivity" image="geoflota"/>
+    <AppIcon name="com.justeat.app.es/com.jet.singleactivity.ui.MainActivity" image="just_eat"/>
+    <AppIcon name="de.suchplus.tracking_app_client/com.example.my_package_tracking.MainActivity" image="my_package_tracking"/>
+    <AppIcon name="com.sncf.ouigo.espana/com.sncf.rielsfera.falbala.MainActivity" image="ouigo_espana"/>
+    <AppIcon name="com.shoptrack.android/com.shoptrack.android.ui.splash.SplashActivity" image="package_tracker"/>
+    <AppIcon name="es.eatout.panscompany/io.flutter.embedding.android.FlutterActivity" image="pans_and_company"/>
+    <AppIcon name="com.trackinglabs.parceltracker/com.trackinglabs.parceltracker.activity.SplashActivity" image="parcel_tracker"/>
+    <AppIcon name="net.pkge.pkge/net.posylka.posylka.ui.screens.initial.SplashActivity" image="pkge"/>
+    <AppIcon name="net.kelmer.correostracker/net.kelmer.correostracker.ui.activity.MainActivity" image="seguimiento_de_correos"/>
+    <AppIcon name="com.analiti.fastest.android/com.analiti.fastest.android.NonTVAnalitiActivity" image="analiti"/>
+    <AppIcon name="com.parizene.netmonitor/com.parizene.netmonitor.ui.main.MainActivity" image="netmonitor"/>
+    <AppIcon name="com.wifianalyzer.networktools.wifitest/com.wifi.analyzer.test.view.activity.SplashActivity" image="analizador_wifi_wifitest"/>
+    <AppIcon name="com.name.wifi.analyzer/com.name.wifi.analyzer.RsreCsxZaa" image="wifi_analyzer_2"/>
+    <AppIcon name="com.vic.wifianalyzer/com.vic.wifianalyzer.MainActivity" image="wifianalyzer_vic"/>
+    <AppIcon name="dev.egl.com.analizadorwifi/dev.egl.com.analizadorwifi.ui.SplashActivity" image="analizador_wifi_1753032836210"/>
+    <AppIcon name="ru.angryrobot.wifiscanner/ru.angryrobot.wifiscanner.MainActivity" image="escaner_wi_fi"/>
+    <AppIcon name="com.appsinception.networkinfo/com.appsinception.networkinfo.ui.splash.SplashScreenActivity" image="network_analyzer"/>
+    <AppIcon name="com.manageengine.wifimonitor/com.manageengine.wifimonitor.brain.mode_analyzer.MEAnalyzer_ChannelGraph" image="wifi_analyzer_and_surveyor"/>
+    <AppIcon name="com.infernus.androidwifianalyzer/com.infernus.androidwifianalyzer.MainActivity" image="wifi_analyzer_pi"/>
 
 </Theme>

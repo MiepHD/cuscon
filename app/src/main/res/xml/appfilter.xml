@@ -6480,5 +6480,25 @@
     <item component="ComponentInfo{com.inditex.stradivarius/com.inditex.stradivarius.splash.activity.SplashActivity}" drawable="stradivarius" />
     <item component="ComponentInfo{com.wetter.androidclient/com.wetter.androidclient.entry.EntryActivity}" drawable="tiempoes" />
     <item component="ComponentInfo{com.rtve.mas24/com.rtve.mas24.ui.view.splash.SplashActivity}" drawable="rtve_noticias_2" />
+    <item component="ComponentInfo{es.correos.app/es.correos.app.MainActivity}" drawable="correos" />
+    <item component="ComponentInfo{es.correos.geoflota/es.correos.geoflota.MainActivity}" drawable="geoflota" />
+    <item component="ComponentInfo{com.justeat.app.es/com.jet.singleactivity.ui.MainActivity}" drawable="just_eat" />
+    <item component="ComponentInfo{de.suchplus.tracking_app_client/com.example.my_package_tracking.MainActivity}" drawable="my_package_tracking" />
+    <item component="ComponentInfo{com.sncf.ouigo.espana/com.sncf.rielsfera.falbala.MainActivity}" drawable="ouigo_espana" />
+    <item component="ComponentInfo{com.shoptrack.android/com.shoptrack.android.ui.splash.SplashActivity}" drawable="package_tracker" />
+    <item component="ComponentInfo{es.eatout.panscompany/io.flutter.embedding.android.FlutterActivity}" drawable="pans_and_company" />
+    <item component="ComponentInfo{com.trackinglabs.parceltracker/com.trackinglabs.parceltracker.activity.SplashActivity}" drawable="parcel_tracker" />
+    <item component="ComponentInfo{net.pkge.pkge/net.posylka.posylka.ui.screens.initial.SplashActivity}" drawable="pkge" />
+    <item component="ComponentInfo{net.kelmer.correostracker/net.kelmer.correostracker.ui.activity.MainActivity}" drawable="seguimiento_de_correos" />
+    <item component="ComponentInfo{com.analiti.fastest.android/com.analiti.fastest.android.NonTVAnalitiActivity}" drawable="analiti" />
+    <item component="ComponentInfo{com.parizene.netmonitor/com.parizene.netmonitor.ui.main.MainActivity}" drawable="netmonitor" />
+    <item component="ComponentInfo{com.wifianalyzer.networktools.wifitest/com.wifi.analyzer.test.view.activity.SplashActivity}" drawable="analizador_wifi_wifitest" />
+    <item component="ComponentInfo{com.name.wifi.analyzer/com.name.wifi.analyzer.RsreCsxZaa}" drawable="wifi_analyzer_2" />
+    <item component="ComponentInfo{com.vic.wifianalyzer/com.vic.wifianalyzer.MainActivity}" drawable="wifianalyzer_vic" />
+    <item component="ComponentInfo{dev.egl.com.analizadorwifi/dev.egl.com.analizadorwifi.ui.SplashActivity}" drawable="analizador_wifi_1753032836210" />
+    <item component="ComponentInfo{ru.angryrobot.wifiscanner/ru.angryrobot.wifiscanner.MainActivity}" drawable="escaner_wi_fi" />
+    <item component="ComponentInfo{com.appsinception.networkinfo/com.appsinception.networkinfo.ui.splash.SplashScreenActivity}" drawable="network_analyzer" />
+    <item component="ComponentInfo{com.manageengine.wifimonitor/com.manageengine.wifimonitor.brain.mode_analyzer.MEAnalyzer_ChannelGraph}" drawable="wifi_analyzer_and_surveyor" />
+    <item component="ComponentInfo{com.infernus.androidwifianalyzer/com.infernus.androidwifianalyzer.MainActivity}" drawable="wifi_analyzer_pi" />
 
 </resources>

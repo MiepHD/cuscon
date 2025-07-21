@@ -356,7 +356,6 @@
     <item drawable="adbify" />
     <item drawable="adbungfu" />
     <item drawable="adb_otg_shell" />
-    <item drawable="adb_over_wifi" />
     <item drawable="adb_otg" />
     <item drawable="afk_arena" />
     <item drawable="af_weather_widget" />
@@ -532,7 +531,6 @@
     <item drawable="amigo" />
     <item drawable="amnis" />
     <item drawable="amplenote" />
-    <item drawable="ampwifi" />
     <item drawable="amway" />
     <item drawable="ancient_treasures_full" />
     <item drawable="anddaaven" />
@@ -673,9 +671,7 @@
     <item drawable="at_and_t_cloud" />
 	<item drawable="at_and_t_smart_wi_fi" />
     <item drawable="atomic" />
-    <item drawable="alerta_de_wifi_en_casa" />
 	<item drawable="analiti" />
-	<item drawable="analizador_wifi" />
     <item drawable="activearmor" />
 	<item drawable="amazon_photos" />
 	<item drawable="ar_emoji_stickers" />
@@ -1384,7 +1380,6 @@
     <item drawable="country_tunnel_vip" />
     <item drawable="couple_app" />
     <item drawable="coursera" />
-    <item drawable="cox_wifi" />
     <item drawable="cozi" />
     <item drawable="cpgrams" />
     <item drawable="cpu_z" />
@@ -1799,6 +1794,7 @@
 	<item drawable="dynalist" />
 	<item drawable="dynamicspot" />
     <category title="E" />
+    <item drawable="escaner_wi_fi" />
     <item drawable="editor_de_docx" />
     <item drawable="ebusky_svg_viewer" />
     <item drawable="electrum" />
@@ -2245,6 +2241,7 @@
 	<item drawable="futo_voice_input" />
 	<item drawable="fx" />
     <category title="G" />
+    <item drawable="geoflota" />
     <item drawable="gpslogger_ii" />
     <item drawable="galerie" />
     <item drawable="green_avk_svg_viewer" />
@@ -2597,7 +2594,6 @@
     <item drawable="hrs_hotels" />
     <item drawable="http_request_tunnel" />
     <item drawable="http_shortcuts" />
-    <item drawable="huajian_jiang_wifi_service" />
     <item drawable="huawei_health" />
     <item drawable="huawei_wear" />
     <item drawable="hue" />
@@ -2748,7 +2744,6 @@
     <item drawable="inware" />
     <item drawable="ionos" />
     <item drawable="ip_tools" />
-    <item drawable="ip_tools_wifi_analyzer" />
     <item drawable="ipaint_coloring_book" />
     <item drawable="ipc360" />
     <item drawable="iplus" />
@@ -2804,6 +2799,7 @@
 	<item drawable="ir_remote" />
 	<item drawable="iron" />
     <category title="J" />
+    <item drawable="just_eat" />
     <item drawable="jina_drawer" />
     <item drawable="jina_sidebar" />
     <item drawable="json_list" />
@@ -3073,7 +3069,6 @@
     <item drawable="lemmy_redirect" />
     <item drawable="lemuroid" />
     <item drawable="lena_adaptive" />
-    <item drawable="lengkeng_lab_wifi_analyzer_plus" />
     <item drawable="lens" />
     <item drawable="lensa" />
     <item drawable="lenyo_icons" />
@@ -3187,6 +3182,7 @@
 	<item drawable="lucky_wasted" />
 	<item drawable="lux_o_meter_lichtmesser" />
     <category title="M" />
+    <item drawable="my_package_tracking" />
     <item drawable="msn_eltiempo" />
     <item drawable="mundo_consum" />
     <item drawable="moventis" />
@@ -3433,7 +3429,6 @@
     <item drawable="mi_movistar" />
     <item drawable="mi_orange" />
     <item drawable="mi_remote" />
-    <item drawable="mi_wifi" />
     <item drawable="micro_habits" />
     <item drawable="microbiology_guide" />
     <item drawable="microg" />
@@ -3626,7 +3621,6 @@
 	<item drawable="materialos" />
 	<item drawable="math" />
 	<item drawable="matlog" />
-	<item drawable="maverick_soft_wifianalyzer" />
 	<item drawable="max_browser" />
 	<item drawable="maxim" />
 	<item drawable="maxthon" />
@@ -3722,6 +3716,7 @@
     <item drawable="mailfence" />
     <item drawable="mailfr" />
     <category title="N" />
+    <item drawable="network_analyzer" />
     <item drawable="noid" />
     <item drawable="noting" />
     <item drawable="nothing_x" />
@@ -3938,6 +3933,7 @@
 	<item drawable="nozzle" />
 	<item drawable="nytimes" />
     <category title="O" />
+    <item drawable="ouigo_espana" />
     <item drawable="ok_transporte_barcelona_2" />
     <item drawable="open_maps" />
     <item drawable="openscale_sync" />
@@ -3975,7 +3971,6 @@
     <item drawable="office_reader_free" />
     <item drawable="oneplus_photos" />
     <item drawable="official_twrp_app" />
-    <item drawable="opening_wifi" />
     <item drawable="orange_flex" />
     <item drawable="olxpl" />
     <item drawable="orange_tv" />
@@ -4006,7 +4001,6 @@
     <item drawable="okx" />
     <item drawable="ola" />
     <item drawable="olauncher" />
-    <item drawable="olgor_wifi_analyzer" />
     <item drawable="olxua" />
     <item drawable="omt_pay" />
     <item drawable="omweather" />
@@ -4125,6 +4119,10 @@
 	<item drawable="ovag_e_mobil" />
 	<item drawable="owlfiles" />
     <category title="P" />
+    <item drawable="package_tracker" />
+    <item drawable="pans_and_company" />
+    <item drawable="parcel_tracker" />
+    <item drawable="pkge" />
     <item drawable="pannenhilfe" />
     <item drawable="polizeibericht" />
     <item drawable="pdfgear" />
@@ -4521,7 +4519,6 @@
     <item drawable="qurrotul_uyun_fathul_izar_uqudu_lujain_terjemahan" />
     <item drawable="questmobile" />
     <item drawable="qbitcontroller" />
-    <item drawable="quien_esta_en_mi_wifi" />
     <item drawable="qare" />
     <item drawable="qatar_airways" />
     <item drawable="qauxiliary" />
@@ -4553,7 +4550,6 @@
     <item drawable="quranapp" />
     <item drawable="quranly" />
     <item drawable="qweather" />
-    <item drawable="quien_es_usar_mi_wifi_pro_"/>
 	<item drawable="qksms" />
 	<item drawable="qr_and_barcode_scanner" />
 	<item drawable="qr_scanner" />
@@ -4794,6 +4790,7 @@
 	<item drawable="rustdesk" />
 	<item drawable="rvx_music" />
     <category title="S" />
+    <item drawable="seguimiento_de_correos" />
     <item drawable="smou_2" />
     <item drawable="sim_toolkit" />
     <item drawable="spardaapp" />
@@ -4985,7 +4982,6 @@
     <item drawable="secure_vpn" />
     <item drawable="securify" />
     <item drawable="securus_mobile" />
-    <item drawable="seed_wifi_manager" />
     <item drawable="seek" />
     <item drawable="seekaitools" />
     <item drawable="seeker" />
@@ -5101,12 +5097,10 @@
     <item drawable="smart_launcher" />
     <item drawable="smart_things" />
     <item drawable="smart_tutor" />
-    <item drawable="smart_wifi" />
     <item drawable="smarter_wi_fi_manager" />
     <item drawable="smartlogin" />
     <item drawable="smartmouse" />
     <item drawable="smartride" />
-    <item drawable="smartwifiselector" />
     <item drawable="smarty" />
     <item drawable="smi" />
     <item drawable="smoke_sense" />
@@ -5593,7 +5587,6 @@
     <item drawable="torrent_client" />
     <item drawable="total_adblock_for_samsung" />
     <item drawable="totalcmd_ftp_file_transfers_" />
-    <item drawable="totalcmd_wifi_transfer" />
     <item drawable="totaljobs" />
     <item drawable="totum" />
     <item drawable="touch_portal" />
@@ -5974,6 +5967,47 @@
 	<item drawable="weatherbug" />
 	<item drawable="weatherzone" />
     <item drawable="whatweather" />
+    <category title="Wifi" />
+    <item drawable="totalcmd_wifi_transfer" />
+    <item drawable="smartwifiselector" />
+    <item drawable="smart_wifi" />
+    <item drawable="seed_wifi_manager" />
+    <item drawable="quien_es_usar_mi_wifi_pro_"/>
+    <item drawable="quien_esta_en_mi_wifi" />
+    <item drawable="olgor_wifi_analyzer" />
+    <item drawable="opening_wifi" />
+    <item drawable="maverick_soft_wifianalyzer" />
+    <item drawable="mi_wifi" />
+    <item drawable="lengkeng_lab_wifi_analyzer_plus" />
+    <item drawable="ip_tools_wifi_analyzer" />
+    <item drawable="huajian_jiang_wifi_service" />
+    <item drawable="cox_wifi" />
+    <item drawable="analizador_wifi" />
+    <item drawable="alerta_de_wifi_en_casa" />
+    <item drawable="analizador_wifi_1753032836210" />
+    <item drawable="analizador_wifi_wifitest" />
+    <item drawable="wifi_analyzer_and_surveyor" />
+    <item drawable="wifi_analyzer_pi" />
+    <item drawable="wifi_analyzer_2" />
+    <item drawable="wifianalyzer_vic" />
+    <item drawable="wifi_mouse" />
+    <item drawable="wifi_map" />
+    <item drawable="wifi4eu_map" />
+    <item drawable="wifi_pass_map" />
+    <item drawable="webprovider_wifi_analyzer" />
+    <item drawable="wifi_channel" />
+    <item drawable="wifi_data" />
+    <item drawable="wifi_interference_analyzer" />
+    <item drawable="wifi_maestro" />
+    <item drawable="wifi_monitor_pro"/>
+    <item drawable="wifi_tools" />
+    <item drawable="wifiallnep_scanner" />
+    <item drawable="wifianalyzer" />
+    <item drawable="wifiman"/>
+    <item drawable="wifi_analyzer" />
+    <item drawable="wifi_signal_meter" />
+    <item drawable="adb_over_wifi" />
+    <item drawable="ampwifi" />
     <category title="W" />
     <item drawable="wizink_2" />
     <item drawable="wero" />
@@ -5988,7 +6022,6 @@
     <item drawable="whatcaristhat"/>
     <item drawable="whatsave" />
     <item drawable="whid_injector" />
-    <item drawable="wifi_mouse" />
     <item drawable="wikiloc" />
     <item drawable="wireless_adb" />
     <item drawable="wireless_mixer" />
@@ -6000,8 +6033,6 @@
     <item drawable="word_search_games" />
     <item drawable="word_search_unlimited_pro" />
     <item drawable="waistline" />
-    <item drawable="wifi_map" />
-    <item drawable="wifi4eu_map" />
     <item drawable="word2pdf" />
     <item drawable="wonderland" />
     <item drawable="wypiek" />
@@ -6011,7 +6042,6 @@
     <item drawable="wintrust" />
     <item drawable="widgeet" />
     <item drawable="widgetify" />
-    <item drawable="wifi_pass_map" />
     <item drawable="wallpaper_changer" />
     <item drawable="wyze" />
     <item drawable="wallcraft" />
@@ -6062,7 +6092,6 @@
     <item drawable="webex" />
     <item drawable="webex_meet" />
     <item drawable="webmoney_keeper" />
-    <item drawable="webprovider_wifi_analyzer" />
     <item drawable="website_monitor" />
     <item drawable="webtoon" />
     <item drawable="webview_browser_tester" />
@@ -6092,15 +6121,6 @@
     <item drawable="wi_fi_segura" />
     <item drawable="wi_fi_toolkit" />
     <item drawable="widgetshare" />
-    <item drawable="wifi_channel" />
-    <item drawable="wifi_data" />
-    <item drawable="wifi_interference_analyzer" />
-    <item drawable="wifi_maestro" />
-    <item drawable="wifi_monitor_pro"/>
-    <item drawable="wifi_tools" />
-    <item drawable="wifiallnep_scanner" />
-    <item drawable="wifianalyzer" />
-    <item drawable="wifiman"/>
     <item drawable="wikianime" />
     <item drawable="wikihow" />
     <item drawable="wildberries" />
@@ -6134,7 +6154,6 @@
     <item drawable="wxxi" />
     <item drawable="whitart" />
 	<item drawable="wiz" />
-    <item drawable="wifi_analyzer" />
     <item drawable="walli_4k" />
 	<item drawable="wallnut" />
     <item drawable="whatsapp_sim"/>
@@ -6155,7 +6174,6 @@
 	<item drawable="whale" />
 	<item drawable="what3words" />
 	<item drawable="where_is_my_train" />
-	<item drawable="wifi_signal_meter" />
 	<item drawable="wikipedia" />
 	<item drawable="wikipedia_beta" />
 	<item drawable="windy" />

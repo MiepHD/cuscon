@@ -1,0 +1,33 @@
+<Theme version="1">
+
+	<!-- analiti -->
+	<AppIcon name="com.analiti.fastest.android/com.analiti.fastest.android.NonTVAnalitiActivity" image="analiti"/>
+
+	<!-- Analizador WiFi -->
+	<AppIcon name="com.wifianalyzer.networktools.wifitest/com.wifi.analyzer.test.view.activity.SplashActivity" image="analizador_wifi"/>
+
+	<!-- Analizador WiFi -->
+	<AppIcon name="dev.egl.com.analizadorwifi/dev.egl.com.analizadorwifi.ui.SplashActivity" image="analizador_wifi_1753032836210"/>
+
+	<!-- Escáner Wi-Fi -->
+	<AppIcon name="ru.angryrobot.wifiscanner/ru.angryrobot.wifiscanner.MainActivity" image="escaner_wi_fi"/>
+
+	<!-- Netmonitor -->
+	<AppIcon name="com.parizene.netmonitor/com.parizene.netmonitor.ui.main.MainActivity" image="netmonitor"/>
+
+	<!-- Network Analyzer -->
+	<AppIcon name="com.appsinception.networkinfo/com.appsinception.networkinfo.ui.splash.SplashScreenActivity" image="network_analyzer"/>
+
+	<!-- WiFi Analyzer -->
+	<AppIcon name="com.name.wifi.analyzer/com.name.wifi.analyzer.RsreCsxZaa" image="wifi_analyzer"/>
+
+	<!-- WiFi Analyzer and Surveyor -->
+	<AppIcon name="com.manageengine.wifimonitor/com.manageengine.wifimonitor.brain.mode_analyzer.MEAnalyzer_ChannelGraph" image="wifi_analyzer_and_surveyor"/>
+
+	<!-- WiFi Analyzer PI -->
+	<AppIcon name="com.infernus.androidwifianalyzer/com.infernus.androidwifianalyzer.MainActivity" image="wifi_analyzer_pi"/>
+
+	<!-- WifiAnalyzer -->
+	<AppIcon name="com.vic.wifianalyzer/com.vic.wifianalyzer.MainActivity" image="wifianalyzer"/>
+
+</Theme>

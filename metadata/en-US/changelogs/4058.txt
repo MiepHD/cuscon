@@ -1,0 +1,3 @@
+Added GeoFlota, Just Eat, My Package Tracking, OUIGO España, Package Tracker, Pans & Company, Parcel Tracker, pkge, Seguimiento de correos, Analizador WiFi, WiFi Analyzer, WifiAnalyzer, Analizador WiFi, Escáner Wi-Fi, Network Analyzer, WiFi Analyzer and Surveyor, WiFi Analyzer PI
+Fixed Correos, analiti
+Fixed and improved quality of Netmonitor
