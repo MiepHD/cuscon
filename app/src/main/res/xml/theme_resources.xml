@@ -6383,5 +6383,25 @@
     <AppIcon name="com.appsinception.networkinfo/com.appsinception.networkinfo.ui.splash.SplashScreenActivity" image="network_analyzer"/>
     <AppIcon name="com.manageengine.wifimonitor/com.manageengine.wifimonitor.brain.mode_analyzer.MEAnalyzer_ChannelGraph" image="wifi_analyzer_and_surveyor"/>
     <AppIcon name="com.infernus.androidwifianalyzer/com.infernus.androidwifianalyzer.MainActivity" image="wifi_analyzer_pi"/>
+    <AppIcon name="com.motivait.ctf.springfield/com.tendam.MainActivity" image="springfield"/>
+    <AppIcon name="com.osp.alcampo/com.ocado.mobile.android.feature.main.ui.MainActivity" image="alcampoes"/>
+    <AppIcon name="es.aldi.android/de.aldiNord.android.applobby.AppLobbyActivity" image="aldi"/>
+    <AppIcon name="info.bauhaus.bauhaus/info.bauhaus.bauhaus.MainActivity" image="bauhaus"/>
+    <AppIcon name="es.dia/es.dia.degradado" image="dia"/>
+    <AppIcon name="com.elcorteingles.app/com.elcorteingles.app.features.onboarding.view.activity.OnboardingActivity" image="el_corte_ingles"/>
+    <AppIcon name="com.joom/com.joom.ui.main.MainActivity" image="joom"/>
+    <AppIcon name="com.pictime.kiabi.activity/com.pictime.kiabi.activity.presentation.activity.routing.RoutingActivity" image="kiabi"/>
+    <AppIcon name="com.miravia.android/com.miravia.android.EnterActivityDefault" image="miravia"/>
+    <AppIcon name="eu.primor.app/eu.primor.app.MainActivity" image="primor"/>
+    <AppIcon name="com.avast.android.secure.browser/com.tenta.android.activities.MainActivity" image="avast_secure_browser"/>
+    <AppIcon name="com.avg.android.secure.browser/com.tenta.android.activities.MainActivity" image="avg_secure_browser"/>
+    <AppIcon name="com.conforama/com.conforama.MainActivity" image="conforama"/>
+    <AppIcon name="fr.fnac.com/com.fnac.fnacdirect.ui.splashscreen.SplashScreenActivity" image="fnac"/>
+    <AppIcon name="site.mises.browser/com.google.android.apps.chrome.Main" image="mises"/>
+    <AppIcon name="com.vidibond.pccomponentes2/com.vidibond.pccomponentes2.MainActivity" image="pccomponentes"/>
+    <AppIcon name="pure.lite.browser/com.pure.browser.MainActivity" image="pure_browser"/>
+    <AppIcon name="net.quetta.browser/com.google.android.apps.chrome.Main" image="quetta"/>
+    <AppIcon name="com.vivaldi.browser.snapshot/com.google.android.apps.chrome.Main" image="vivaldi_snapshot"/>
+    <AppIcon name="com.vivo.browser/com.vivo.browser.BrowserActivity" image="vivo_browser"/>
 
 </Theme>

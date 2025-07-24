@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="changelog_date">21.07.2025</string>
+    <string name="changelog_date">24.07.2025</string>
     <string-array name="changelog">
+        <item>4.0.5.9:</item>
+        <item>Added Alcampo.es, ALDI, BAUHAUS, Dia, El Corte Inglés, Joom, Kiabi, Miravia, Primor, Avast Secure Browser, AVG Secure Browser, Conforama, Fnac, Mises, PcComponentes, Pure Browser, Quetta, Vivaldi Snapshot, Navegador</item>
+        <item>Fixed Springfield</item>
         <item>4.0.5.8:</item>
         <item>Added GeoFlota, Just Eat, My Package Tracking, OUIGO España, Package Tracker, Pans and Company, Parcel Tracker, pkge, Seguimiento de correos, Analizador WiFi, WiFi Analyzer, WifiAnalyzer, Analizador WiFi, Escáner Wi-Fi, Network Analyzer, WiFi Analyzer and Surveyor, WiFi Analyzer PI</item>
         <item>Fixed Correos, analiti</item>

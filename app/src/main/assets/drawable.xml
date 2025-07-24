@@ -338,6 +338,10 @@
     <item drawable="_f_droid_kdi" />
     <item drawable="_sound_" />
     <category title="A" />
+    <item drawable="avast_secure_browser" />
+    <item drawable="avg_secure_browser" />
+    <item drawable="alcampoes" />
+    <item drawable="aldi" />
     <item drawable="aireuropa" />
     <item drawable="apo_discounter" />
     <item drawable="aqara_home" />
@@ -825,6 +829,7 @@
 	<item drawable="awox_homecontrol" />
 	<item drawable="axp_apk_extractor" />
     <category title="B" />
+    <item drawable="bauhaus" />
     <item drawable="barcelona_transport_map" />
     <item drawable="budgetum" />
     <item drawable="bined" />
@@ -1106,6 +1111,7 @@
 	<item drawable="bycs_drive" />
     <item drawable="ballozi_skynox" />
     <category title="C" />
+    <item drawable="conforama" />
     <item drawable="cabify" />
     <item drawable="characterai" />
     <item drawable="codora" />
@@ -1486,6 +1492,7 @@
 	<item drawable="cubic_2_3_4_player_games" />
 	<item drawable="currencies" />
     <category title="D" />
+    <item drawable="dia" />
     <item drawable="dominospizza" />
     <item drawable="db_app" />
     <item drawable="digital_detox" />
@@ -1794,6 +1801,7 @@
 	<item drawable="dynalist" />
 	<item drawable="dynamicspot" />
     <category title="E" />
+    <item drawable="el_corte_ingles" />
     <item drawable="escaner_wi_fi" />
     <item drawable="editor_de_docx" />
     <item drawable="ebusky_svg_viewer" />
@@ -1971,6 +1979,7 @@
 	<item drawable="explorer" />
 	<item drawable="exteragram" />
     <category title="F" />
+    <item drawable="fnac" />
     <item drawable="futo_keyboard" />
     <item drawable="flavorish" />
     <item drawable="filmfriend" />
@@ -2799,6 +2808,7 @@
 	<item drawable="ir_remote" />
 	<item drawable="iron" />
     <category title="J" />
+    <item drawable="joom" />
     <item drawable="just_eat" />
     <item drawable="jina_drawer" />
     <item drawable="jina_sidebar" />
@@ -2865,6 +2875,7 @@
 	<item drawable="justchess" />
 	<item drawable="justdial" />
     <category title="K" />
+    <item drawable="kiabi" />
     <item drawable="kamera_nothing" />
     <item drawable="kit_de_todos_los_documentos" />
     <item drawable="keepass2android" />
@@ -3182,6 +3193,8 @@
 	<item drawable="lucky_wasted" />
 	<item drawable="lux_o_meter_lichtmesser" />
     <category title="M" />
+    <item drawable="mises" />
+    <item drawable="miravia" />
     <item drawable="my_package_tracking" />
     <item drawable="msn_eltiempo" />
     <item drawable="mundo_consum" />
@@ -4119,6 +4132,9 @@
 	<item drawable="ovag_e_mobil" />
 	<item drawable="owlfiles" />
     <category title="P" />
+    <item drawable="pccomponentes" />
+    <item drawable="pure_browser" />
+    <item drawable="primor" />
     <item drawable="package_tracker" />
     <item drawable="pans_and_company" />
     <item drawable="parcel_tracker" />
@@ -4511,6 +4527,7 @@
 	<item drawable="puzzles" />
 	<item drawable="pysolfc" />
     <category title="Q" />
+    <item drawable="quetta" />
     <item drawable="qr_barcode_scanner_pro" />
     <item drawable="quizio_pro" />
     <item drawable="quotes_creator_quotes_maker" />
@@ -5804,6 +5821,8 @@
 	<item drawable="utiles" />
 	<item drawable="utilidades_amaze" />
     <category title="V" />
+    <item drawable="vivaldi_snapshot" />
+    <item drawable="vivo_browser" />
     <item drawable="visor_de_documentos" />
     <item drawable="vimpay" />
     <item drawable="vansite" />

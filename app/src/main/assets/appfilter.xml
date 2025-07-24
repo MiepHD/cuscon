@@ -6500,5 +6500,25 @@
     <item component="ComponentInfo{com.appsinception.networkinfo/com.appsinception.networkinfo.ui.splash.SplashScreenActivity}" drawable="network_analyzer" />
     <item component="ComponentInfo{com.manageengine.wifimonitor/com.manageengine.wifimonitor.brain.mode_analyzer.MEAnalyzer_ChannelGraph}" drawable="wifi_analyzer_and_surveyor" />
     <item component="ComponentInfo{com.infernus.androidwifianalyzer/com.infernus.androidwifianalyzer.MainActivity}" drawable="wifi_analyzer_pi" />
+    <item component="ComponentInfo{com.motivait.ctf.springfield/com.tendam.MainActivity}" drawable="springfield" />
+    <item component="ComponentInfo{com.osp.alcampo/com.ocado.mobile.android.feature.main.ui.MainActivity}" drawable="alcampoes" />
+    <item component="ComponentInfo{es.aldi.android/de.aldiNord.android.applobby.AppLobbyActivity}" drawable="aldi" />
+    <item component="ComponentInfo{info.bauhaus.bauhaus/info.bauhaus.bauhaus.MainActivity}" drawable="bauhaus" />
+    <item component="ComponentInfo{es.dia/es.dia.degradado}" drawable="dia" />
+    <item component="ComponentInfo{com.elcorteingles.app/com.elcorteingles.app.features.onboarding.view.activity.OnboardingActivity}" drawable="el_corte_ingles" />
+    <item component="ComponentInfo{com.joom/com.joom.ui.main.MainActivity}" drawable="joom" />
+    <item component="ComponentInfo{com.pictime.kiabi.activity/com.pictime.kiabi.activity.presentation.activity.routing.RoutingActivity}" drawable="kiabi" />
+    <item component="ComponentInfo{com.miravia.android/com.miravia.android.EnterActivityDefault}" drawable="miravia" />
+    <item component="ComponentInfo{eu.primor.app/eu.primor.app.MainActivity}" drawable="primor" />
+    <item component="ComponentInfo{com.avast.android.secure.browser/com.tenta.android.activities.MainActivity}" drawable="avast_secure_browser" />
+    <item component="ComponentInfo{com.avg.android.secure.browser/com.tenta.android.activities.MainActivity}" drawable="avg_secure_browser" />
+    <item component="ComponentInfo{com.conforama/com.conforama.MainActivity}" drawable="conforama" />
+    <item component="ComponentInfo{fr.fnac.com/com.fnac.fnacdirect.ui.splashscreen.SplashScreenActivity}" drawable="fnac" />
+    <item component="ComponentInfo{site.mises.browser/com.google.android.apps.chrome.Main}" drawable="mises" />
+    <item component="ComponentInfo{com.vidibond.pccomponentes2/com.vidibond.pccomponentes2.MainActivity}" drawable="pccomponentes" />
+    <item component="ComponentInfo{pure.lite.browser/com.pure.browser.MainActivity}" drawable="pure_browser" />
+    <item component="ComponentInfo{net.quetta.browser/com.google.android.apps.chrome.Main}" drawable="quetta" />
+    <item component="ComponentInfo{com.vivaldi.browser.snapshot/com.google.android.apps.chrome.Main}" drawable="vivaldi_snapshot" />
+    <item component="ComponentInfo{com.vivo.browser/com.vivo.browser.BrowserActivity}" drawable="vivo_browser" />
 
 </resources>
