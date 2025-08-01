@@ -6403,5 +6403,7 @@
     <AppIcon name="net.quetta.browser/com.google.android.apps.chrome.Main" image="quetta"/>
     <AppIcon name="com.vivaldi.browser.snapshot/com.google.android.apps.chrome.Main" image="vivaldi_snapshot"/>
     <AppIcon name="com.vivo.browser/com.vivo.browser.BrowserActivity" image="vivo_browser"/>
+    <AppIcon name="it.dbtecno.pizzaboygbapro/it.dbtecno.pizzaboygbapro.MainActivity" image="pizza_boy_a_pro"/>
+    <AppIcon name="com.samsung.vvm/com.samsung.vvm.views.ui.mainview.VVMApplicationAlias" image="voicemail_green"/>
 
 </Theme>

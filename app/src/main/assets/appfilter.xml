@@ -6520,5 +6520,7 @@
     <item component="ComponentInfo{net.quetta.browser/com.google.android.apps.chrome.Main}" drawable="quetta" />
     <item component="ComponentInfo{com.vivaldi.browser.snapshot/com.google.android.apps.chrome.Main}" drawable="vivaldi_snapshot" />
     <item component="ComponentInfo{com.vivo.browser/com.vivo.browser.BrowserActivity}" drawable="vivo_browser" />
+    <item component="ComponentInfo{it.dbtecno.pizzaboygbapro/it.dbtecno.pizzaboygbapro.MainActivity}" drawable="pizza_boy_a_pro" />
+    <item component="ComponentInfo{com.samsung.vvm/com.samsung.vvm.views.ui.mainview.VVMApplicationAlias}" drawable="voicemail_green" />
 
 </resources>

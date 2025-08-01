@@ -4132,6 +4132,7 @@
 	<item drawable="ovag_e_mobil" />
 	<item drawable="owlfiles" />
     <category title="P" />
+    <item drawable="pizza_boy_a_pro" />
     <item drawable="pccomponentes" />
     <item drawable="pure_browser" />
     <item drawable="primor" />
@@ -5821,6 +5822,7 @@
 	<item drawable="utiles" />
 	<item drawable="utilidades_amaze" />
     <category title="V" />
+    <item drawable="voicemail_green" />
     <item drawable="vivaldi_snapshot" />
     <item drawable="vivo_browser" />
     <item drawable="visor_de_documentos" />
