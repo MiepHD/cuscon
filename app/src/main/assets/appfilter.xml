@@ -123,7 +123,8 @@
     <item component="ComponentInfo{com.android.settings/com.android.settings.Settings}" drawable="settings"/>
     <item component="ComponentInfo{com.easilydo.mail/com.easilydo.mail.ui.SplashActivity}" drawable="samsung_mail"/>
     <item component="ComponentInfo{com.android.gallery3d/com.android.gallery3d.app.GalleryActivity}" drawable="samsung_gallery"/>
-    <item component="ComponentInfo{org.lineageos.etar/com.android.calendar.AllInOneActivity}" drawable="samsung_calender_28"/>
+    <item component="ComponentInfo{org.lineageos.etar/com.android.calendar.AllInOneActivity}" drawable="samsung_calendar_28"/>
+	<calendar component="ComponentInfo{org.lineageos.etar/com.android.calendar.AllInOneActivity}" prefix="samsung_calendar_"/>
 	<item component="ComponentInfo{com.android.contacts/com.android.contacts.activities.PeopleActivity}" drawable="samsung_contacts"/>
 	<item component="ComponentInfo{com.google.android.contacts/com.android.contacts.activities.PeopleActivity}" drawable="samsung_contacts" />
     <item component="ComponentInfo{org.lineageos.eleven/org.lineageos.eleven.ui.activities.HomeActivity}" drawable="samsung_music"/>
@@ -533,6 +534,8 @@
 	<item component="ComponentInfo{de.hafas.android.bayernnavi/com.moovel.mobility.screens.main.splash.SplashActivity}" drawable="db_streckenagent" />
 	<item component="ComponentInfo{com.vidiludi.dbtrainsimulator/com.unity3d.player.UnityPlayerActivity}" drawable="db_train_simulator" />
 	<item component="ComponentInfo{ml.docilealligator.infinityforreddit/ml.docilealligator.infinityforreddit.activities.MainActivity}" drawable="infinity" />
+	<item component="ComponentInfo{ml.docilealligator.infinityforreddit.plus/ml.docilealligator.infinityforreddit.activities.MainActivity}" drawable="infinity" />
+	<item component="ComponentInfo{ml.docilealligator.infinityforreddit.patreon/ml.docilealligator.infinityforreddit.activities.MainActivity}" drawable="infinity" />
 	<item component="ComponentInfo{com.YGameStudios.LawyersLegacy/com.unity3d.player.UnityPlayerActivity}" drawable="lawyerslegacy" />
 	<item component="ComponentInfo{com.wakdev.wdnfc/com.wakdev.nfctools.free.views.MainActivityFree}" drawable="nfc_tools" />
 	<item component="ComponentInfo{com.kitkagames.fallbuddies/com.scopely.unity.ScopelyUnityActivity}" drawable="stumble_guys" />
@@ -6522,5 +6525,6 @@
     <item component="ComponentInfo{com.vivo.browser/com.vivo.browser.BrowserActivity}" drawable="vivo_browser" />
     <item component="ComponentInfo{it.dbtecno.pizzaboygbapro/it.dbtecno.pizzaboygbapro.MainActivity}" drawable="pizza_boy_a_pro" />
     <item component="ComponentInfo{com.samsung.vvm/com.samsung.vvm.views.ui.mainview.VVMApplicationAlias}" drawable="voicemail_green" />
+	<item component="ComponentInfo{com.voltage.flash/com.voltage.flash.CameraLauncher}" drawable="kamera" />
 
 </resources>
