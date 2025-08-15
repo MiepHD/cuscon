@@ -2,6 +2,9 @@
 <resources>
     <string name="changelog_date">24.07.2025</string>
     <string-array name="changelog">
+        <item>4.0.6.0:</item>
+        <item>Added HiperDino, Próximo bus Barcelona, Banggood, C and A, Lidl Home, Nike, OYSHO, Voghion, Decathlon, Papa Johns, Docs Reader, Editor de Docx, PDF Pro, All Document Reader, PDF Reader, Word Office, Orbot, Broearn, Fully Kiosk Browser, Herond, Lemur Browser, Qwant, Stay Browser, Tempest, Gallery, AllTrails, CCU Mobile, Equate, Jitsi Meet, Kroger, Mint Mobile, MyHealth, MyHumana, Omio, Paprika 3, Amerigo, Archivos BD, FileTransfer, File Manager, File Manager, File Manager Plus, Folder hider, Nuclias Connect, Wifi File Transfer, PDF Reader, Word Office, InBrowser, All Document Reader, Lector de Documentos, All Document Reader, Lector de Documentos, Todas las herramientas de documentos, Administrador de archivos, All Documents Reader, File Manager</item>
+        <item>Fixed adidas, Lidl Plus, All Documents Reader, DocxReader, Editor de Docx, App Lounge, Cryptomator</item>
         <item>4.0.5.9:</item>
         <item>Added Alcampo.es, ALDI, BAUHAUS, Dia, El Corte Inglés, Joom, Kiabi, Miravia, Primor, Avast Secure Browser, AVG Secure Browser, Conforama, Fnac, Mises, PcComponentes, Pure Browser, Quetta, Vivaldi Snapshot, Navegador, Pizza Boy A Pro, Voicemail</item>
         <item>Fixed Springfield</item>
