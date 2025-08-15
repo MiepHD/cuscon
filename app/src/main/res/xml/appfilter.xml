@@ -6588,6 +6588,7 @@
     <item component="ComponentInfo{bls.filesmanager.easy/myfiles.filemanager.fileexplorer.cleaner.view.activities.SplashActivity}" drawable="administrador_de_archivos_easy" />
     <item component="ComponentInfo{office.document.reader.excel.pdf.word.doc.ppt.xls/app.ui.activity.ActivitySplash}" drawable="all_documents_reader_office" />
     <item component="ComponentInfo{com.cutestudio.filemanager/com.cutestudio.filemanager.SplashActivity}" drawable="file_manager_cutestudio" />
+    <item component="ComponentInfo{documentreader.officeviewer.filereader.all.doc/com.test.hftq.splash.SplashActivity}" drawable="lector_de_todos_los_documentos" />
 
 </resources>
 

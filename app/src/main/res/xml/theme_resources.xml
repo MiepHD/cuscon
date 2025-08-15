@@ -6467,5 +6467,6 @@
     <AppIcon name="bls.filesmanager.easy/myfiles.filemanager.fileexplorer.cleaner.view.activities.SplashActivity" image="administrador_de_archivos_easy"/>     
     <AppIcon name="office.document.reader.excel.pdf.word.doc.ppt.xls/app.ui.activity.ActivitySplash" image="all_documents_reader_office"/>
     <AppIcon name="com.cutestudio.filemanager/com.cutestudio.filemanager.SplashActivity" image="file_manager_cutestudio"/>
+    <AppIcon name="documentreader.officeviewer.filereader.all.doc/com.test.hftq.splash.SplashActivity" image="lector_de_todos_los_documentos"/>
 
 </Theme>

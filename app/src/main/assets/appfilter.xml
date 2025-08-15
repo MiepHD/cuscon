@@ -6525,7 +6525,7 @@
     <item component="ComponentInfo{com.vivo.browser/com.vivo.browser.BrowserActivity}" drawable="vivo_browser" />
     <item component="ComponentInfo{it.dbtecno.pizzaboygbapro/it.dbtecno.pizzaboygbapro.MainActivity}" drawable="pizza_boy_a_pro" />
     <item component="ComponentInfo{com.samsung.vvm/com.samsung.vvm.views.ui.mainview.VVMApplicationAlias}" drawable="voicemail_green" />
-	  <item component="ComponentInfo{com.voltage.flash/com.voltage.flash.CameraLauncher}" drawable="kamera" />
+	<item component="ComponentInfo{com.voltage.flash/com.voltage.flash.CameraLauncher}" drawable="kamera" />
     <item component="ComponentInfo{com.hiperdino.compraonline/com.singularfactory.hiperdino.MainActivity}" drawable="hiperdino" />
     <item component="ComponentInfo{org.apache.cordova.Kingasbusbarcelona/org.apache.cordova.Kingasbusbarcelona.MainActivity}" drawable="proximo_bus_barcelona" />
     <item component="ComponentInfo{com.banggood.client/com.banggood.client.Launcher}" drawable="banggood" />
@@ -6588,5 +6588,7 @@
     <item component="ComponentInfo{bls.filesmanager.easy/myfiles.filemanager.fileexplorer.cleaner.view.activities.SplashActivity}" drawable="administrador_de_archivos_easy" />
     <item component="ComponentInfo{office.document.reader.excel.pdf.word.doc.ppt.xls/app.ui.activity.ActivitySplash}" drawable="all_documents_reader_office" />
     <item component="ComponentInfo{com.cutestudio.filemanager/com.cutestudio.filemanager.SplashActivity}" drawable="file_manager_cutestudio" />
+    <item component="ComponentInfo{documentreader.officeviewer.filereader.all.doc/com.test.hftq.splash.SplashActivity}" drawable="lector_de_todos_los_documentos" />
 
 </resources>
+

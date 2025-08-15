@@ -297,6 +297,7 @@
     <item drawable="google_wifi" />
     <item drawable="googleassistant2" />
     <category title="Documents" />
+    <item drawable="lector_de_todos_los_documentos" />
     <item drawable="all_documents_reader_office" />
     <item drawable="all_document_reader_1754654832164" />
     <item drawable="lector_de_documentos_1754654832312" />
