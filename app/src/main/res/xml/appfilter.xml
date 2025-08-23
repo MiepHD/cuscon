@@ -6589,6 +6589,16 @@
     <item component="ComponentInfo{office.document.reader.excel.pdf.word.doc.ppt.xls/app.ui.activity.ActivitySplash}" drawable="all_documents_reader_office" />
     <item component="ComponentInfo{com.cutestudio.filemanager/com.cutestudio.filemanager.SplashActivity}" drawable="file_manager_cutestudio" />
     <item component="ComponentInfo{documentreader.officeviewer.filereader.all.doc/com.test.hftq.splash.SplashActivity}" drawable="lector_de_todos_los_documentos" />
+    <item component="ComponentInfo{com.techprd.filetransfer.pro/com.techprd.filetransfer.pro.MainActivity}" drawable="filetransfer" />
+    <item component="ComponentInfo{de.aokbv.twofa/com.kobil.MainActivity}" drawable="aok_2_faktor" />
+    <item component="ComponentInfo{com.anysoftkeyboard.languagepack.german/com.anysoftkeyboard.languagepack.german.MainActivity}" drawable="german_for_anysoftkeyboard" />
+    <item component="ComponentInfo{com.commerzbank.photoTAN/de.commerzbank.phototan.container.ui.ContainerActivity}" drawable="phototan" />
+    <item component="ComponentInfo{com.deutschebahn.bahnbonus/com.deutschebahn.bahnbonus.ui.login.LoginActivityTwentyYearsBabo}" drawable="bahnbonus_2" />
+    <item component="ComponentInfo{com.nordcurrent.canteenhd/com.nordcurrent.canteenhd.MainActivity}" drawable="cooking_fever" />
+    <item component="ComponentInfo{com.github.android/com.github.android.main.MainActivity}" drawable="github" />
+    <item component="ComponentInfo{com.instathunder.android/com.instagram.android.activity.MainTabActivity}" drawable="instagram" />
+    <item component="ComponentInfo{com.thirtydays.headset/com.xingkeqi.peats.MainActivity}" drawable="soundpeats" />
+    <item component="ComponentInfo{com.OtherTales.TickTock/com.unity3d.player.UnityPlayerActivity}" drawable="tick_tock" />
 
 </resources>
 

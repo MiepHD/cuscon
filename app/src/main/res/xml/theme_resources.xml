@@ -6468,5 +6468,15 @@
     <AppIcon name="office.document.reader.excel.pdf.word.doc.ppt.xls/app.ui.activity.ActivitySplash" image="all_documents_reader_office"/>
     <AppIcon name="com.cutestudio.filemanager/com.cutestudio.filemanager.SplashActivity" image="file_manager_cutestudio"/>
     <AppIcon name="documentreader.officeviewer.filereader.all.doc/com.test.hftq.splash.SplashActivity" image="lector_de_todos_los_documentos"/>
+    <AppIcon name="com.techprd.filetransfer.pro/com.techprd.filetransfer.pro.MainActivity" image="filetransfer"/>
+    <AppIcon name="de.aokbv.twofa/com.kobil.MainActivity" image="aok_2_faktor"/> 
+    <AppIcon name="com.anysoftkeyboard.languagepack.german/com.anysoftkeyboard.languagepack.german.MainActivity" image="german_for_anysoftkeyboard"/>
+    <AppIcon name="com.commerzbank.photoTAN/de.commerzbank.phototan.container.ui.ContainerActivity" image="phototan"/>
+    <AppIcon name="com.deutschebahn.bahnbonus/com.deutschebahn.bahnbonus.ui.login.LoginActivityTwentyYearsBabo" image="bahnbonus_2"/>
+    <AppIcon name="com.nordcurrent.canteenhd/com.nordcurrent.canteenhd.MainActivity" image="cooking_fever"/>
+    <AppIcon name="com.github.android/com.github.android.main.MainActivity" image="github"/>
+    <AppIcon name="com.instathunder.android/com.instagram.android.activity.MainTabActivity" image="instagram"/>
+    <AppIcon name="com.thirtydays.headset/com.xingkeqi.peats.MainActivity" image="soundpeats"/>
+    <AppIcon name="com.OtherTales.TickTock/com.unity3d.player.UnityPlayerActivity" image="tick_tock"/>
 
 </Theme>

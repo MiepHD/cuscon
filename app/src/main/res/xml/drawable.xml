@@ -399,6 +399,7 @@
     <item drawable="_f_droid_kdi" />
     <item drawable="_sound_" />
     <category title="A" />
+    <item drawable="aok_2_faktor" />
     <item drawable="administrador_de_archivos_easy" />
     <item drawable="amerigo" />
     <item drawable="archivos_bd" />
@@ -888,6 +889,7 @@
 	<item drawable="awox_homecontrol" />
 	<item drawable="axp_apk_extractor" />
     <category title="B" />
+    <item drawable="bahnbonus_2" />
     <item drawable="broearn" />
     <item drawable="banggood" />
     <item drawable="bauhaus" />
@@ -1172,6 +1174,7 @@
 	<item drawable="bycs_drive" />
     <item drawable="ballozi_skynox" />
     <category title="C" />
+    <item drawable="cooking_fever" />
     <item drawable="ccu_mobile" />
     <item drawable="c_and_a" />
     <item drawable="conforama" />
@@ -2316,6 +2319,7 @@
 	<item drawable="futo_voice_input" />
 	<item drawable="fx" />
     <category title="G" />
+    <item drawable="german_for_anysoftkeyboard" />
     <item drawable="gallery_lineageos" />
     <item drawable="geoflota" />
     <item drawable="gpslogger_ii" />
@@ -4201,6 +4205,7 @@
 	<item drawable="ovag_e_mobil" />
 	<item drawable="owlfiles" />
     <category title="P" />
+    <item drawable="phototan" />
     <item drawable="paprika_3" />
     <item drawable="papa_johns_green" />
     <item drawable="proximo_bus_barcelona" />
@@ -5432,6 +5437,7 @@
 	<item drawable="swiss_post" />
 	<item drawable="systemui_tuner" />
     <category title="T" />
+    <item drawable="tick_tock" />
     <item drawable="tempest" />
     <item drawable="tmbapp" />
     <item drawable="t_mobilitat" />
