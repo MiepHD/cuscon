@@ -6478,5 +6478,6 @@
     <AppIcon name="com.instathunder.android/com.instagram.android.activity.MainTabActivity" image="instagram"/>
     <AppIcon name="com.thirtydays.headset/com.xingkeqi.peats.MainActivity" image="soundpeats"/>
     <AppIcon name="com.OtherTales.TickTock/com.unity3d.player.UnityPlayerActivity" image="tick_tock"/>
+    <AppIcon name="com.application.zomato/com.application.zomato.default" image="zomato"/>
 
 </Theme>
