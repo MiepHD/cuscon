@@ -6599,6 +6599,8 @@
     <item component="ComponentInfo{com.instathunder.android/com.instagram.android.activity.MainTabActivity}" drawable="instagram" />
     <item component="ComponentInfo{com.thirtydays.headset/com.xingkeqi.peats.MainActivity}" drawable="soundpeats" />
     <item component="ComponentInfo{com.OtherTales.TickTock/com.unity3d.player.UnityPlayerActivity}" drawable="tick_tock" />
+    <item component="ComponentInfo{com.application.zomato/com.application.zomato.default}" drawable="zomato" />
+    <item component="ComponentInfo{in.org.npci.upiapp/ikrvqi.t}" drawable="bhim" />
 
 </resources>
 
