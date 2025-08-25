@@ -6610,6 +6610,7 @@
     <item component="ComponentInfo{com.conver.editor/obstrtori.slenpat.cluiner.stecialt.PresstratActivity}" drawable="office_viewer" />
     <item component="ComponentInfo{com.greenrocketapps.pdftoword.pdfconverter/com.example.pdftoword.ui.activities.StartScreen}" drawable="pdf_a_word" />
     <item component="ComponentInfo{xyz.minimalistapps.smartcsv/xyz.minimalistapps.smart_csv.MainActivity}" drawable="smart_csv" />
+    <item component="ComponentInfo{org.cygnusx1.discoverium/dev.imranr.obtainium.MainActivity}" drawable="discoverium" />
 
 </resources>
 

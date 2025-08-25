@@ -1564,6 +1564,7 @@
 	<item drawable="cubic_2_3_4_player_games" />
 	<item drawable="currencies" />
     <category title="D" />
+    <item drawable="discoverium" />
     <item drawable="docs_reader_oficina_de_palabras" />
     <item drawable="decathlon_image" />
     <item drawable="dia" />

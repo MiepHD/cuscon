@@ -1,1 +1,1 @@
-Added Docx Reader, Visor de documentos, AI Chat PDF, All Document Reader and Viewer, All Doc Reader, CERT Firma, PDF a Word, Smart CSV, Office Viewer
+Added Docx Reader, Visor de documentos, AI Chat PDF, All Document Reader and Viewer, All Doc Reader, CERT Firma, PDF a Word, Smart CSV, Office Viewer, Discoverium
