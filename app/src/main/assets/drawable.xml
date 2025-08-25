@@ -297,6 +297,11 @@
     <item drawable="google_wifi" />
     <item drawable="googleassistant2" />
     <category title="Documents" />
+    <item drawable="ai_chat_pdf_office_docs_bot_assistant_offiwiz" />
+    <item drawable="all_document_reader_and_viewer" />
+    <item drawable="all_doc_reader" />
+    <item drawable="visor_de_documentos_2" />
+    <item drawable="docx_reader_2" />
     <item drawable="lector_de_todos_los_documentos" />
     <item drawable="all_documents_reader_office" />
     <item drawable="all_document_reader_1754654832164" />
@@ -325,6 +330,7 @@
 	<item drawable="all_documents_reader" />
     <item drawable="all_document_reader_appone" />
     <category title="PDF" />
+    <item drawable="pdf_a_word" />
     <item drawable="pdf_reader_charles" />
     <item drawable="pdf_reader_smash" />
     <item drawable="wps_pdf" />
@@ -1174,6 +1180,7 @@
 	<item drawable="bycs_drive" />
     <item drawable="ballozi_skynox" />
     <category title="C" />
+    <item drawable="cert_firma" />
     <item drawable="cooking_fever" />
     <item drawable="ccu_mobile" />
     <item drawable="c_and_a" />
@@ -1557,6 +1564,7 @@
 	<item drawable="cubic_2_3_4_player_games" />
 	<item drawable="currencies" />
     <category title="D" />
+    <item drawable="discoverium" />
     <item drawable="docs_reader_oficina_de_palabras" />
     <item drawable="decathlon_image" />
     <item drawable="dia" />
@@ -4872,6 +4880,7 @@
 	<item drawable="rustdesk" />
 	<item drawable="rvx_music" />
     <category title="S" />
+    <item drawable="smart_csv" />
     <item drawable="stay_browser" />
     <item drawable="seguimiento_de_correos" />
     <item drawable="smou_2" />

@@ -6601,6 +6601,16 @@
     <item component="ComponentInfo{com.OtherTales.TickTock/com.unity3d.player.UnityPlayerActivity}" drawable="tick_tock" />
     <item component="ComponentInfo{com.application.zomato/com.application.zomato.default}" drawable="zomato" />
     <item component="ComponentInfo{in.org.npci.upiapp/ikrvqi.t}" drawable="bhim" />
+    <item component="ComponentInfo{com.wordoffice.docxviewer.documenteditor/com.wordoffice.docxviewer.documenteditor.ActivitySplash}" drawable="docx_reader_2" />
+    <item component="ComponentInfo{com.document.manager.filescanner/com.document.manager.filescanner.SplashActivity}" drawable="visor_de_documentos_2" />
+    <item component="ComponentInfo{com.offiwiz.ai.chat.pdf.docs.bot.office/com.offiwiz.ai.chat.pdf.docs.bot.office.splash.ui.activities.SplashActivity}" drawable="ai_chat_pdf_office_docs_bot_assistant_offiwiz" />      
+    <item component="ComponentInfo{com.officereader.editor/com.officereader.editor.activity.SplashActivity}" drawable="all_document_reader_and_viewer" />
+    <item component="ComponentInfo{com.apps.alldocumentreader.office.viewer.filereader.pdfeditor/com.example.alldocreader.DefaultActivities.SplashActivity}" drawable="all_doc_reader" />
+    <item component="ComponentInfo{com.dnie_sign.cert_firmas/com.dnie_sign.cert_firmas.Splash_firmas}" drawable="cert_firma" />
+    <item component="ComponentInfo{com.conver.editor/obstrtori.slenpat.cluiner.stecialt.PresstratActivity}" drawable="office_viewer" />
+    <item component="ComponentInfo{com.greenrocketapps.pdftoword.pdfconverter/com.example.pdftoword.ui.activities.StartScreen}" drawable="pdf_a_word" />
+    <item component="ComponentInfo{xyz.minimalistapps.smartcsv/xyz.minimalistapps.smart_csv.MainActivity}" drawable="smart_csv" />
+    <item component="ComponentInfo{org.cygnusx1.discoverium/dev.imranr.obtainium.MainActivity}" drawable="discoverium" />
 
 </resources>
 
