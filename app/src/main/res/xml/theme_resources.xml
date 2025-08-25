@@ -6480,5 +6480,14 @@
     <AppIcon name="com.OtherTales.TickTock/com.unity3d.player.UnityPlayerActivity" image="tick_tock"/>
     <AppIcon name="com.application.zomato/com.application.zomato.default" image="zomato"/>
     <AppIcon name="in.org.npci.upiapp/ikrvqi.t" image="bhim"/>
+    <AppIcon name="com.wordoffice.docxviewer.documenteditor/com.wordoffice.docxviewer.documenteditor.ActivitySplash" image="docx_reader_2"/>
+    <AppIcon name="com.document.manager.filescanner/com.document.manager.filescanner.SplashActivity" image="visor_de_documentos_2"/>
+    <AppIcon name="com.offiwiz.ai.chat.pdf.docs.bot.office/com.offiwiz.ai.chat.pdf.docs.bot.office.splash.ui.activities.SplashActivity" image="ai_chat_pdf_office_docs_bot_assistant_offiwiz"/>
+    <AppIcon name="com.officereader.editor/com.officereader.editor.activity.SplashActivity" image="all_document_reader_and_viewer"/>
+    <AppIcon name="com.apps.alldocumentreader.office.viewer.filereader.pdfeditor/com.example.alldocreader.DefaultActivities.SplashActivity" image="all_doc_reader"/>
+    <AppIcon name="com.dnie_sign.cert_firmas/com.dnie_sign.cert_firmas.Splash_firmas" image="cert_firma"/>
+    <AppIcon name="com.conver.editor/obstrtori.slenpat.cluiner.stecialt.PresstratActivity" image="office_viewer"/>
+    <AppIcon name="com.greenrocketapps.pdftoword.pdfconverter/com.example.pdftoword.ui.activities.StartScreen" image="pdf_a_word"/>
+    <AppIcon name="xyz.minimalistapps.smartcsv/xyz.minimalistapps.smart_csv.MainActivity" image="smart_csv"/>
 
 </Theme>
