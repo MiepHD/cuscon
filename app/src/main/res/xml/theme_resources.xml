@@ -6490,5 +6490,7 @@
     <AppIcon name="com.greenrocketapps.pdftoword.pdfconverter/com.example.pdftoword.ui.activities.StartScreen" image="pdf_a_word"/>
     <AppIcon name="xyz.minimalistapps.smartcsv/xyz.minimalistapps.smart_csv.MainActivity" image="smart_csv"/>
     <AppIcon name="org.cygnusx1.discoverium/dev.imranr.obtainium.MainActivity" image="discoverium"/>
+    <AppIcon name="pl.edu.uj.mobilny/pl.edu.usos.mobilny.SplashActivity" image="mobilny_usos_uj"/>
+    <AppIcon name="org.eu.thedoc.zettelnotes/org.eu.thedoc.zettelnotes.screens.MainActivity" image="zettel_notes_thedoc"/>
 
 </Theme>

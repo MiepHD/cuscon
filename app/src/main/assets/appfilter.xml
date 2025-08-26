@@ -6611,6 +6611,8 @@
     <item component="ComponentInfo{com.greenrocketapps.pdftoword.pdfconverter/com.example.pdftoword.ui.activities.StartScreen}" drawable="pdf_a_word" />
     <item component="ComponentInfo{xyz.minimalistapps.smartcsv/xyz.minimalistapps.smart_csv.MainActivity}" drawable="smart_csv" />
     <item component="ComponentInfo{org.cygnusx1.discoverium/dev.imranr.obtainium.MainActivity}" drawable="discoverium" />
+    <item component="ComponentInfo{pl.edu.uj.mobilny/pl.edu.usos.mobilny.SplashActivity}" drawable="mobilny_usos_uj" />
+    <item component="ComponentInfo{org.eu.thedoc.zettelnotes/org.eu.thedoc.zettelnotes.screens.MainActivity}" drawable="zettel_notes_thedoc" />
 
 </resources>
 

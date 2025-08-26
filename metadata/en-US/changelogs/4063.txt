@@ -1,0 +1,4 @@
+Added Mobilny USOS UJ, Zettel Notes
+Moved more apps to Documents
+Added translations
+Improved quality of Zettel Notes

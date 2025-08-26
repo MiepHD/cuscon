@@ -297,6 +297,15 @@
     <item drawable="google_wifi" />
     <item drawable="googleassistant2" />
     <category title="Documents" />
+    <item drawable="xsdev_docxreader" />
+    <item drawable="word_office_visor_de_docx" />
+    <item drawable="mobile_doc_scanner" />
+    <item drawable="editor_de_docx" />
+    <item drawable="docs_viewer" />
+    <item drawable="docvault" />
+    <item drawable="docxreader" />
+    <item drawable="docs_reader_oficina_de_palabras" />
+    <item drawable="zettel_notes_thedoc" />
     <item drawable="ai_chat_pdf_office_docs_bot_assistant_offiwiz" />
     <item drawable="all_document_reader_and_viewer" />
     <item drawable="all_doc_reader" />
@@ -1565,7 +1574,6 @@
 	<item drawable="currencies" />
     <category title="D" />
     <item drawable="discoverium" />
-    <item drawable="docs_reader_oficina_de_palabras" />
     <item drawable="decathlon_image" />
     <item drawable="dia" />
     <item drawable="dominospizza" />
@@ -1725,8 +1733,6 @@
     <item drawable="dns_manager" />
     <item drawable="dns_speed_test" />
     <item drawable="do_it_now" />
-    <item drawable="docvault" />
-    <item drawable="docxreader" />
     <item drawable="doduae" />
     <item drawable="dokan" />
     <item drawable="dollar_general" />
@@ -1833,7 +1839,6 @@
 	<item drawable="dns_hero" />
 	<item drawable="dns_test" />
 	<item drawable="docmorris" />
-	<item drawable="docs_viewer" />
 	<item drawable="doctolib" />
 	<item drawable="dolby_atmos" />
 	<item drawable="dolby_atmos_lite" />
@@ -1874,7 +1879,6 @@
     <item drawable="equate" />
     <item drawable="el_corte_ingles" />
     <item drawable="escaner_wi_fi" />
-    <item drawable="editor_de_docx" />
     <item drawable="ebusky_svg_viewer" />
     <item drawable="electrum" />
     <item drawable="english_guess_the_phrase" />
@@ -3271,6 +3275,7 @@
 	<item drawable="lucky_wasted" />
 	<item drawable="lux_o_meter_lichtmesser" />
     <category title="M" />
+    <item drawable="mobilny_usos_uj" />
     <item drawable="mint_mobile" />
     <item drawable="myhealth" />
     <item drawable="myhumana" />
@@ -3565,7 +3570,6 @@
     <item drawable="mixplorer_theme_creator" />
     <item drawable="ml_adventure" />
     <item drawable="mlite" />
-    <item drawable="mobile_doc_scanner" />
     <item drawable="mobile_health" />
     <item drawable="mobile_legends_bang_bang" />
     <item drawable="mobilni_klic_egovernmentu" />
@@ -6101,7 +6105,6 @@
     <item drawable="adb_over_wifi" />
     <item drawable="ampwifi" />
     <category title="W" />
-    <item drawable="word_office_visor_de_docx" />
     <item drawable="wifi_file_transfer" />
     <item drawable="word_office" />
     <item drawable="wizink_2" />
@@ -6312,7 +6315,6 @@
     <item drawable="xplayer_video_player" />
     <item drawable="xrecorder" />
     <item drawable="xscreensaver" />
-    <item drawable="xsdev_docxreader" />
 	<item drawable="x" />
 	<item drawable="x_new" />
 	<item drawable="xbrowser" />
