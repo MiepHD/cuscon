@@ -384,7 +384,7 @@
 	<item drawable="_3bmeteo" />
 	<item drawable="_3cat" />
 	<item drawable="_3d_earth_pro" />
-	<item drawable="_3d_rechner" />
+	<item drawable="_3d_rechner" name="_3d_calculator" />
 	<item drawable="_8bit_photo_lab" />
 	<item drawable="_hex_" />
     <item drawable="_1_1_cloud" />
@@ -992,7 +992,7 @@
     <item drawable="bad_north" />
     <item drawable="badanie_sluchu" />
     <item drawable="bahai_prayers" />
-    <item drawable="bahn_fahrplan_und_live_tracking" />
+    <item drawable="bahn_fahrplan_und_live_tracking" name="train_timetable_and_live_tracking" />
     <item drawable="bahnhof_live" />
     <item drawable="bahnhofsfotos" />
     <item drawable="bajaj" />
@@ -1015,7 +1015,7 @@
     <item drawable="battery_widget" />
     <item drawable="battlecruisers" />
     <item drawable="battlegrounds_india" />
-    <item drawable="bayern_fahrplan" />
+    <item drawable="bayern_fahrplan" name="bayern_timetable" />
     <item drawable="bayut" />
     <item drawable="bb" />
     <item drawable="bbc_iplayer" />
@@ -1130,7 +1130,7 @@
     <item drawable="bundled_notes" />
     <item drawable="burger_king" />
     <item drawable="burger_king_fr" />
-    <item drawable="bus_and_bahn" />
+    <item drawable="bus_and_bahn" name="bus_and_train" />
     <item drawable="buscador" />
     <item drawable="business_suite" />
     <item drawable="buslive" />
@@ -1161,7 +1161,7 @@
 	<item drawable="bcr" />
 	<item drawable="beeper" />
 	<item drawable="beowulf_weather" />
-	<item drawable="bergfex_wetter" />
+	<item drawable="bergfex_wetter" name="bergfex_weather" />
 	<item drawable="berry_browser" />
 	<item drawable="biblia" />
 	<item drawable="binaural_beats" />
@@ -2070,7 +2070,7 @@
     <item drawable="flipper" />
     <item drawable="fairnote" />
     <item drawable="fastmail" />
-    <item drawable="farlex_worterbuch" />
+    <item drawable="farlex_worterbuch" name="farlex_dictionary" />
     <item drawable="fadcam" />
     <item drawable="fast_scanner" />
     <item drawable="feast_kwgt" />
@@ -2335,7 +2335,7 @@
     <item drawable="gallery_lineageos" />
     <item drawable="geoflota" />
     <item drawable="gpslogger_ii" />
-    <item drawable="galerie" />
+    <item drawable="galerie" name="gallery" />
     <item drawable="green_avk_svg_viewer" />
     <item drawable="g30" />
     <item drawable="geddit" />
@@ -2985,7 +2985,7 @@
     <item drawable="kentkart_mobile" />
     <item drawable="kanopy" />
     <item drawable="komoot" />
-    <item drawable="kontakte_goodwy" />
+    <item drawable="kontakte_goodwy" name="contacts_goodwy" />
     <item drawable="kanji_dojo" />
     <item drawable="katwarn" />
     <item drawable="kitchen_timer" />
@@ -3004,7 +3004,7 @@
     <item drawable="karma_fw" />
     <item drawable="karout_online" />
     <item drawable="karteikarten" />
-    <item drawable="karten" />
+    <item drawable="karten" name="maps" />
     <item drawable="kaufland" />
     <item drawable="kayak" />
     <item drawable="keep_screen_on" />
@@ -3058,7 +3058,7 @@
     <item drawable="koler" />
     <item drawable="kollex" />
     <item drawable="koloro" />
-    <item drawable="kontakte" />
+    <item drawable="kontakte" name="contacts" />
     <item drawable="kook" />
     <item drawable="kotak_bank" />
     <item drawable="kotatsu" />
@@ -3069,7 +3069,7 @@
     <item drawable="kuboom" />
     <item drawable="kuda" />
     <item drawable="kuizu" />
-    <item drawable="kulturpass_de" name="kulturpass_of" />
+    <item drawable="kulturpass_de" />
     <item drawable="kurfurstengrill_kleve" />
     <item drawable="kvaesitso" />
     <item drawable="kvaesitso_nightly" />
@@ -3662,7 +3662,7 @@
     <item drawable="mycore" />
     <item drawable="mycricket" />
     <item drawable="mydealz" />
-    <item drawable="mydvg_bus_and_bahn" />
+    <item drawable="mydvg_bus_and_bahn" name="mydvg_bus_and_train" />
     <item drawable="myfritz_" />
     <item drawable="myhyundai" />
     <item drawable="myirving" />
@@ -3923,7 +3923,7 @@
     <item drawable="nextory" />
     <item drawable="nexus_revamped" />
     <item drawable="nfc_kartensimulation" />
-    <item drawable="nfc_leser" />
+    <item drawable="nfc_leser" name="nfc_reader" />
     <item drawable="nfc_tools_plugin_reuse_tag" />
     <item drawable="nhs_app" />
     <item drawable="ni2ce" />
@@ -4123,7 +4123,7 @@
     <item drawable="online_auction" />
     <item drawable="online_ide" />
     <item drawable="onlyfans" />
-    <item drawable="onlyoffice_dokumente" />
+    <item drawable="onlyoffice_dokumente" name="onlyoffice_documents" />
     <item drawable="onthemarket" />
     <item drawable="ooni_probe" />
     <item drawable="open_camera" />
@@ -4288,7 +4288,7 @@
     <item drawable="picpay" />
     <item drawable="picture_bird" />
     <item drawable="picture_mushroom" />
-    <item drawable="player_de_musica" name="player_of_musica" />
+    <item drawable="player_de_musica" name="player_of_music" />
     <item drawable="pocketbook" />
     <item drawable="ps_remote_play" />
     <item drawable="pemindai_cerdas" />
@@ -4680,7 +4680,7 @@
     <item drawable="raccoon" />
     <item drawable="robo_defense" />
     <item drawable="review" />
-    <item drawable="reprodutor_de_musica_ddmusic" name="reprodutor_of_musica_ddmusic" />
+    <item drawable="reprodutor_de_musica_ddmusic" name="reprodutor_of_music_ddmusic" />
     <item drawable="radii" />
     <item drawable="randonautica" />
     <item drawable="rg_digital_sp" />
@@ -4809,7 +4809,7 @@
     <item drawable="rstua" />
     <item drawable="rtkgps_" />
     <item drawable="rtl_" />
-    <item drawable="rtl_musik" />
+    <item drawable="rtl_musik" name="rtl_music" />
     <item drawable="ruffle" />
     <item drawable="ruhrbahn" />
     <item drawable="ruler" />
@@ -5535,7 +5535,7 @@
     <item drawable="trendyol" />
     <item drawable="tubular" />
     <item drawable="tv_freebox" />
-    <item drawable="telefon_goodwy" />
+    <item drawable="telefon_goodwy" name="phone_goodwy" />
     <item drawable="tice" />
     <item drawable="twint" />
     <item drawable="todoist" />
@@ -5592,7 +5592,7 @@
     <item drawable="techet_net_analyzer" />
     <item drawable="tecka" />
     <item drawable="telebox" />
-    <item drawable="telefon" />
+    <item drawable="telefon" name="phone" />
     <item drawable="telegram" />
     <item drawable="telegram_premium" />
     <item drawable="telegram_x" />
@@ -5832,7 +5832,7 @@
     <item drawable="unciv" />
     <item drawable="unexpected_keyboard" />
     <item drawable="unet" />
-    <item drawable="uhr" />
+    <item drawable="uhr" name="clock" />
     <item drawable="ua_color_picker" />
     <item drawable="uav_forecast" />
     <item drawable="uber_driver" />
@@ -6008,7 +6008,7 @@
     <item drawable="vr_pay" />
     <item drawable="vr_securego_plus" />
     <item drawable="vrr_app" />
-    <item drawable="vrr_bus_and_bahn" />
+    <item drawable="vrr_bus_and_bahn" name="vrr_bus_and_train" />
     <item drawable="vsco" />
     <item drawable="vson" />
     <item drawable="vvt_tickets" />
@@ -6079,7 +6079,7 @@
     <item drawable="huajian_jiang_wifi_service" />
     <item drawable="cox_wifi" />
     <item drawable="analizador_wifi" />
-    <item drawable="alerta_de_wifi_en_casa" name="alerta_of_wifi_en_casa" />
+    <item drawable="alerta_de_wifi_en_casa" name="alert_of_wifi_en_casa" />
     <item drawable="analizador_wifi_1753032836210" />
     <item drawable="analizador_wifi_wifitest" />
     <item drawable="wifi_analyzer_and_surveyor" />
@@ -6281,7 +6281,7 @@
 	<item drawable="wohin_du_willst" />
 	<item drawable="wonderputt_forever" />
 	<item drawable="word" />
-	<item drawable="worterbuch" />
+	<item drawable="worterbuch" name="dictionary" />
 	<item drawable="wps_office" />
 	<item drawable="wunderground" />
 	<item drawable="wurfelspiel" />
