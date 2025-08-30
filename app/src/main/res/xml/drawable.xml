@@ -295,41 +295,41 @@
     <item drawable="google_wallpapers" />
     <item drawable="google_weather_activity" />
     <item drawable="google_wifi" />
-    <item drawable="googleassistant2" />
+    <item drawable="googleassistant2" name="googleassistant" />
     <category title="Documents" />
     <item drawable="xsdev_docxreader" />
-    <item drawable="word_office_visor_de_docx" name="word_office_viewer_of_docx" />
+    <item drawable="word_office_visor_de_docx" name="Word Office DOCX Viewer" />
     <item drawable="mobile_doc_scanner" />
-    <item drawable="editor_de_docx" name="editor_of_docx" />
+    <item drawable="editor_de_docx" name="DOCX Editor" />
     <item drawable="docs_viewer" />
     <item drawable="docvault" />
     <item drawable="docxreader" />
-    <item drawable="docs_reader_oficina_de_palabras" name="docs_reader_office_of_words" />
-    <item drawable="zettel_notes_thedoc" />
+    <item drawable="docs_reader_oficina_de_palabras" name="Docs Reader for Microsoft Word" />
+    <item drawable="zettel_notes_thedoc" name="The Doc Zettel Notes" />
     <item drawable="ai_chat_pdf_office_docs_bot_assistant_offiwiz" />
     <item drawable="all_document_reader_and_viewer" />
     <item drawable="all_doc_reader" />
-    <item drawable="visor_de_documentos_2" name="viewer_of_documents_2" />
-    <item drawable="docx_reader_2" />
-    <item drawable="lector_de_todos_los_documentos" name="reader_of_all_los_documents" />
+    <item drawable="visor_de_documentos_2" name="Document Viewer" />
+    <item drawable="docx_reader_2" name="docx_reader" />
+    <item drawable="lector_de_todos_los_documentos" name="All Documents Reader" />
     <item drawable="all_documents_reader_office" />
-    <item drawable="all_document_reader_1754654832164" />
-    <item drawable="lector_de_documentos_1754654832312" name="reader_of_documents_1754654832312" />
-    <item drawable="todas_las_herramientas_de_documentos" name="all_las_tools_of_documents" />
+    <item drawable="all_document_reader_1754654832164" name="all_document_reader"/>
+    <item drawable="lector_de_documentos_1754654832312" name="Document Reader" />
+    <item drawable="todas_las_herramientas_de_documentos" name="All-in-One Document Tools" />
     <item drawable="all_document_reader" />
-    <item drawable="lector_de_documentos_2" name="reader_of_documents_2" />
+    <item drawable="lector_de_documentos_2" name="Document Reader" />
     <item drawable="_0ffice_documents_reader_and_viewer" />
-    <item drawable="visor_de_documentos" name="viewer_of_documents" />
-    <item drawable="todo_el_enfoque_del_documento" name="todo_el_focus_del_document" />
+    <item drawable="visor_de_documentos" name="Document Viewer" />
+    <item drawable="todo_el_enfoque_del_documento" name="Entire Focus of the Document" />
     <item drawable="oss_document_scanner" />
     <item drawable="opendocument_reader" />
-    <item drawable="lector_de_documentos_documentreader_officeapp_pdfreader_wordreader_excelviewer_filereader" name="reader_of_documents_documentreader_officeapp_pdfreader_wordreader_excelviewer_filereader" />
-    <item drawable="lector_de_documentos" name="reader_of_documents" />
-    <item drawable="kit_de_todos_los_documentos" name="kit_of_all_los_documents" />
+    <item drawable="lector_de_documentos_documentreader_officeapp_pdfreader_wordreader_excelviewer_filereader" name="Document Reader – PDF, Word, Excel, Office File Viewer" />
+    <item drawable="lector_de_documentos" name="Document Reader" />
+    <item drawable="kit_de_todos_los_documentos" name="All Documents Kit" />
     <item drawable="girls_all_document_reader" />
     <item drawable="document_reader" />
     <item drawable="document_viewer" />
-    <item drawable="documentreader_pdfviewerapp_filereader_word_docs" />
+    <item drawable="documentreader_pdfviewerapp_filereader_word_docs" name="Document Reader – PDF, Word, File Viewer App" />
     <item drawable="documents" />
     <item drawable="cifs_documents_provider" />
     <item drawable="all_documents_viewer" />
@@ -366,7 +366,7 @@
     <item drawable="orange_pdf_converter" />
     <item drawable="mj_pdf" />
     <item drawable="mupdf_mini" />
-    <item drawable="lector_de_pdf_pdfreader_viewer_editor_free" name="reader_of_pdf_pdfreader_viewer_editor_free" />
+    <item drawable="lector_de_pdf_pdfreader_viewer_editor_free" name="PDF Reader, Viewer, Editor – Free" />
     <item drawable="ilovepdf" />
     <item drawable="image_to_pdf" />
     <item drawable="foxit_pdf_editor" />
@@ -375,7 +375,7 @@
     <item drawable="pdf_reader_hi_read" />
     <category title="File Manager" />
     <item drawable="zfile" />
-    <item drawable="rs_gestor_de_archivos" name="rs_gestor_of_files" />
+    <item drawable="rs_gestor_de_archivos" name="RS File Manager" />
     <item drawable="qfile_pro" />
     <item drawable="owlfiles" />
     <item drawable="my_files" />
@@ -390,28 +390,28 @@
     <item drawable="ny_state_parks_explorer" />
     <item drawable="fs_explorer" />
     <item drawable="explorer" />
-    <item drawable="gestion_archivos" name="gestion_files" />
-	<item drawable="gestor_de_archivos_" name="gestor_of_files_" />
-    <item drawable="gestor_de_archivos" name="gestor_of_files" />
+    <item drawable="gestion_archivos" name="File Management" />
+	<item drawable="gestor_de_archivos_" name="File Manager" />
+    <item drawable="gestor_de_archivos" name="File Manager" />
     <item drawable="files" />
     <item drawable="fv_file_explorer" />
     <item drawable="fv_file_explorer_pro" />
     <item drawable="freebox_files" />
     <item drawable="file_commander" />
-    <item drawable="ex_explorador_de_archivos" name="ex_explorador_of_files" />
-    <item drawable="esuper_archivo" name="esuper_file" />
+    <item drawable="ex_explorador_de_archivos" name="Ex File Explorer" />
+    <item drawable="esuper_archivo" name="eSuper File" />
     <item drawable="es_file_explorer" />
     <item drawable="es_files" />
     <item drawable="ds_file" />
-    <item drawable="cx_explorador_de_archivos" name="cx_explorer_of_files" />
-    <item drawable="admin_de_archivos" name="admin_of_files" />
-    <item drawable="archivos_bd" name="files_bd" />
-    <item drawable="administrador_de_archivos_easy" name="manager_of_files_easy" />
-    <item drawable="administradora_de_archivos" name="manager_of_files" />
+    <item drawable="cx_explorador_de_archivos" name="CX File Explorer" />
+    <item drawable="admin_de_archivos" name="File Admin" />
+    <item drawable="archivos_bd" name="Database Files" />
+    <item drawable="administrador_de_archivos_easy" name="Easy File Manager" />
+    <item drawable="administradora_de_archivos" name="File Manager" />
     <item drawable="simple_file_manager" />
     <item drawable="sjh_file_manager" />
     <item drawable="otg_file_manager" />
-    <item drawable="mi_file_manager" />
+    <item drawable="mi_file_manager" name="My File Manager"/>
     <item drawable="jrdcom_filemanager" />
     <item drawable="hazelfilemanager" />
     <item drawable="helios_file_manager" />
@@ -424,19 +424,19 @@
     <item drawable="file_manager_green" />
     <item drawable="file_explorer" />
     <item drawable="file_manager_splend" />
-    <item drawable="file_manager_1755090929382" />
-    <item drawable="file_manager_1755090929416" />
+    <item drawable="file_manager_1755090929382" name="file_manager" />
+    <item drawable="file_manager_1755090929416" name="file_manager" />
     <item drawable="file_manager_plus" />
-    <item drawable="explorer_administrador_de_archivos" name="explorer_manager_of_files" />
+    <item drawable="explorer_administrador_de_archivos" name="Explorer – File Manager" />
     <item drawable="dani_filemanager" />
     <item drawable="coocent_file_manager" />
-    <item drawable="administrador_de_archivos" name="manager_of_files" />
+    <item drawable="administrador_de_archivos" name="File Manager" />
     <item drawable="i5e21dbfa0749014d5d34c777c6b51c119a20244c" name="File Manager" />
     <item drawable="i60f79c3f4f098281fcdabbc91f502027bbd0ed67" name="File Explorer" />
     <item drawable="f9bdfc2c4e09e63e9beeb4c06afc8d3906c450e0" name="File Manager" />
     <item drawable="files_pro" />
-    <item drawable="file_manager_1756404584849" />
-    <item drawable="file_manager_1756404584868" />
+    <item drawable="file_manager_1756404584849" name="File Manager" />
+    <item drawable="file_manager_1756404584868" name="File Manager"/>
     <item drawable="file_manager_explorer_amp_cleaner" />
     <item drawable="file_manager_cutestudio" />
     <category title="#" />
@@ -450,7 +450,7 @@
 	<item drawable="_3bmeteo" />
 	<item drawable="_3cat" />
 	<item drawable="_3d_earth_pro" />
-	<item drawable="_3d_rechner" name="_3d_calculator" />
+	<item drawable="_3d_rechner" name="3d_calculator" />
 	<item drawable="_8bit_photo_lab" />
 	<item drawable="_hex_" />
     <item drawable="_1_1_cloud" />
@@ -481,7 +481,7 @@
     <item drawable="_sound_" />
     <category title="A" />
     <item drawable="aqua_mail" />
-    <item drawable="aok_2_faktor" />
+    <item drawable="aok_2_faktor" name="AOK 2-Factor" />
     <item drawable="amerigo" />
     <item drawable="alltrails" />
     <item drawable="avast_secure_browser" />
@@ -536,8 +536,7 @@
     <item drawable="atgo" />
     <item drawable="attapoll" />
     <item drawable="audio_converter" />
-    <item drawable="autenticacao_gov" />
-    <item drawable="authenticator2" />
+    <item drawable="authenticator2" name="authenticator" />
     <item drawable="autocrop" />
     <item drawable="automatag" />
     <item drawable="automate" />
@@ -553,12 +552,11 @@
     <item drawable="artist_connection" />
     <item drawable="apex_manager" />
     <item drawable="app_tester" />
-    <item drawable="awlad_school" />
     <item drawable="a_cloud_guru" />
-    <item drawable="adv_gravador_de_telas" name="adv_gravador_of_telas" />
+    <item drawable="adv_gravador_de_telas" name="ADV Screen Recorder" />
     <item drawable="aluno_online" />
     <item drawable="app_ops" />
-    <item drawable="assistente" />
+    <item drawable="assistente" name="Assistant" />
     <item drawable="alfacast_x" />
     <item drawable="appgallery" />
     <item drawable="authpass" />
@@ -572,16 +570,12 @@
     <item drawable="auto_signal_refresh" />
     <item drawable="aldiko_classic" />
     <item drawable="around" />
-    <item drawable="appareil_photo" />
     <item drawable="ashell_you" />
-    <item drawable="angol_szotar" />
     <item drawable="audiobookshelf" />
-    <item drawable="aday_islemleri" />
     <item drawable="adobe_fill_and_sign" />
     <item drawable="alan" />
     <item drawable="automation_freebox" />
     <item drawable="altimeter" />
-    <item drawable="asistente_de_ready_for" name="asistente_of_ready_for" />
     <item drawable="asana" />
     <item drawable="audials_play" />
     <item drawable="about_you" />
@@ -597,7 +591,7 @@
     <item drawable="absher" />
     <item drawable="acaltasks" />
     <item drawable="account_book" />
-    <item drawable="acep_toxicology_antidote_app" />
+    <item drawable="acep_toxicology_antidote_app" name="acep_toxicology_antidote" />
     <item drawable="acko" />
     <item drawable="acrobat_sign" />
     <item drawable="action" />
@@ -645,11 +639,10 @@
     <item drawable="airtime_rewards" />
     <item drawable="aisle" />
     <item drawable="ajmal" />
-    <item drawable="akhtaa_manasek" />
     <item drawable="alansariex" />
     <item drawable="alarm_clock_xtreme" />
     <item drawable="alblingo" />
-    <item drawable="aldi_sud" />
+    <item drawable="aldi_sud" name="Aldi Süd" />
     <item drawable="aldi_uk" />
     <item drawable="alga" />
     <item drawable="algeo" />
@@ -662,8 +655,7 @@
     <item drawable="all_tools" />
     <item drawable="allcom" />
     <item drawable="allegro" />
-    <item drawable="almaany_arar" />
-    <item drawable="almaany_tadad" />
+    <item drawable="almaany_arar" name="Arar Dictionary" />
     <item drawable="almowafir" />
     <item drawable="alpinequest" />
     <item drawable="amarok" />
@@ -671,10 +663,8 @@
     <item drawable="amazon_kids_" />
     <item drawable="amazon_shopper_panel" />
     <item drawable="amber_weather" />
-    <item drawable="ameixa" />
     <item drawable="americanas" />
     <item drawable="amex" />
-    <item drawable="amigo" />
     <item drawable="amnis" />
     <item drawable="amplenote" />
     <item drawable="amway" />
@@ -729,7 +719,6 @@
     <item drawable="appchecker" />
     <item drawable="appdash" />
     <item drawable="appdrop" />
-    <item drawable="apprendre" />
     <item drawable="apps" />
     <item drawable="apps2fire" />
     <item drawable="appstorm" />
@@ -739,8 +728,8 @@
     <item drawable="arabic_english_dictionary" />
     <item drawable="aramex" />
     <item drawable="arc" />
-    <item drawable="ard_audiothek" />
-    <item drawable="ard_mediathek" />
+    <item drawable="ard_audiothek" name="ARD Audio Library" />
+    <item drawable="ard_mediathek" name="ARD Media Library" />
     <item drawable="area_x" />
     <item drawable="argos" />
     <item drawable="armoury_crate" />
@@ -750,7 +739,6 @@
     <item drawable="arts_and_culture" />
     <item drawable="artspira" />
     <item drawable="artstation" />
-    <item drawable="arzteblatt" />
     <item drawable="ascent" />
     <item drawable="asd_player" />
     <item drawable="asda_rewards" />
@@ -758,7 +746,6 @@
     <item drawable="ask_ai_plus" />
     <item drawable="askthis" />
     <item drawable="askway" />
-    <item drawable="asmaky" />
     <item drawable="asos" />
     <item drawable="asq" />
     <item drawable="asr" />
@@ -804,31 +791,25 @@
     <item drawable="autoweb" />
     <item drawable="autowebvideo" />
     <item drawable="avatarify" />
-    <item drawable="aviones_en_vivo" />
-    <item drawable="avsar" />
     <item drawable="award_vpn" />
     <item drawable="aware" />
-    <item drawable="awfarli" />
     <item drawable="axis_mobile" />
     <item drawable="axonify" />
-    <item drawable="ayah" />
     <item drawable="azfcu" />
     <item drawable="azure" />
     <item drawable="at_and_t_cloud" />
 	<item drawable="at_and_t_smart_wi_fi" />
     <item drawable="atomic" />
-	<item drawable="analiti" />
+	<item drawable="analiti" name="analytics" />
     <item drawable="activearmor" />
 	<item drawable="amazon_photos" />
 	<item drawable="ar_emoji_stickers" />
     <item drawable="amc_cooking" />
     <item drawable="aldi_talk" />
     <item drawable="alarm_clock_for_me" />
-    <item drawable="amb_mobilitat" />
+    <item drawable="amb_mobilitat" name="amb Mobility" />
     <item drawable="antennapod" />
-    <item drawable="ausweisapp2" />
     <item drawable="aloha" />
-    <item drawable="al_quran_indonesia" />
     <item drawable="axisnet" />
     <item drawable="abp_for_samsung_internet" />
     <item drawable="ameixa_monochrome" />
@@ -867,7 +848,7 @@
     <item drawable="apkpure" />
     <item drawable="ar_zone" />
     <item drawable="adventure_lab" />
-	<item drawable="aard_2" />
+	<item drawable="aard_2" name="aard" />
 	<item drawable="aba_mobile" />
 	<item drawable="abel_and_cole" />
 	<item drawable="acalendar" />
@@ -884,7 +865,7 @@
 	<item drawable="adguard_content_blocker" />
 	<item drawable="adidas" />
 	<item drawable="adif" />
-	<item drawable="adif_elcanomovil" />
+	<item drawable="adif_elcanomovil" name="ADIF Mobile Elcano" />
 	<item drawable="adm" />
 	<item drawable="adobe_photoshop_express" />
 	<item drawable="aeat" />
@@ -900,7 +881,7 @@
 	<item drawable="alarmy" />
 	<item drawable="alibi" />
 	<item drawable="aliexpress" />
-	<item drawable="alipaczka" />
+	<item drawable="alipaczka" name="Aliexpress Package" />
 	<item drawable="alovoa" />
 	<item drawable="alpi_maps" />
 	<item drawable="amaze" />
@@ -910,14 +891,12 @@
 	<item drawable="andotp" />
 	<item drawable="android_contacts" />
 	<item drawable="android_developers" />
-	<item drawable="android_developers2" />
+	<item drawable="android_developers2" name="android_developers" />
 	<item drawable="android_dialer" />
 	<item drawable="android_mms" />
 	<item drawable="android_settings" />
 	<item drawable="androoster" />
 	<item drawable="androtainer" />
-	<item drawable="anghami" />
-	<item drawable="anima" />
 	<item drawable="anime_slayer" />
 	<item drawable="another_widget" />
 	<item drawable="anotherpass" />
@@ -939,34 +918,29 @@
 	<item drawable="ara_note" />
 	<item drawable="arcticons" />
 	<item drawable="arcticons_material_you" />
-	<item drawable="arztsuche" />
 	<item drawable="ashell" />
 	<item drawable="astro" />
 	<item drawable="astrology_master" />
 	<item drawable="astron" />
 	<item drawable="athena" />
-	<item drawable="atlas_obscura" />
 	<item drawable="atomas" />
 	<item drawable="au_0101" />
 	<item drawable="audible" />
 	<item drawable="audile" />
 	<item drawable="audio_recorder" />
 	<item drawable="audiorecorder" />
-	<item drawable="audioverstarker" />
-	<item drawable="audire" />
+	<item drawable="audioverstarker" name="audio amplifier" />
 	<item drawable="aurora_droid" />
 	<item drawable="authenticator" />
 	<item drawable="authy" />
 	<item drawable="auto_clicker" />
 	<item drawable="autotagger" />
 	<item drawable="auxio" />
-	<item drawable="aves_libre" />
 	<item drawable="avito" />
 	<item drawable="awoken" />
 	<item drawable="awox_homecontrol" />
 	<item drawable="axp_apk_extractor" />
     <category title="B" />
-    <item drawable="bahnbonus_2" />
     <item drawable="broearn" />
     <item drawable="banggood" />
     <item drawable="bauhaus" />
@@ -974,15 +948,14 @@
     <item drawable="budgetum" />
     <item drawable="bined" />
     <item drawable="banking" />
-    <item drawable="bahnbonus" />
-     <item drawable="busy_app" />
+    <item drawable="busy_app" />
     <item drawable="bitcoin_testnet3" />
     <item drawable="black_squircle_ce" />
     <item drawable="breakout_71" />
     <item drawable="bklyn_library" />
     <item drawable="buy_me_a_coffee" />
     <item drawable="banco_ctt" />
-    <item drawable="bankieren" />
+    <item drawable="bankieren" name="banking" />
     <item drawable="battery_level_indicators" />
     <item drawable="battlecry" />
     <item drawable="beacon_locator" />
@@ -1008,7 +981,7 @@
     <item drawable="boxes_lost_fragments" />
     <item drawable="bricks_breaker_quest" />
     <item drawable="bubble_pop_shooter_puzzle" />
-    <item drawable="bugjaeger_premium" />
+    <item drawable="bugjaeger_premium" name="Bug Hunter Premium" />
     <item drawable="bullet_boy" />
     <item drawable="bunny_media_editor" />
     <item drawable="bunq" />
@@ -1036,14 +1009,12 @@
     <item drawable="budapestgo" />
     <item drawable="bluebubbles" />
     <item drawable="biglybt" />
-    <item drawable="biedronka" />
     <item drawable="bluetooth_keyboard_and_mouse" />
     <item drawable="bunpro" />
     <item drawable="bankin" />
     <item drawable="bromite" />
     <item drawable="boost" />
     <item drawable="bangla_dictionary" />
-    <item drawable="blitzortung_moniteur_dactivite_orageuse" />
     <item drawable="byu" />
     <item drawable="b_and_h" />
     <item drawable="b_and_q" />
@@ -1052,14 +1023,10 @@
     <item drawable="background_eraser_remove_bg" />
     <item drawable="backit_epn_" />
     <item drawable="bad_north" />
-    <item drawable="badanie_sluchu" />
     <item drawable="bahai_prayers" />
     <item drawable="bahn_fahrplan_und_live_tracking" name="train_timetable_and_live_tracking" />
-    <item drawable="bahnhof_live" />
-    <item drawable="bahnhofsfotos" />
     <item drawable="bajaj" />
     <item drawable="balance" />
-    <item drawable="banco_sabadell" />
     <item drawable="bankinter" />
     <item drawable="barclays" />
     <item drawable="barcode_scanner" />
@@ -1077,7 +1044,7 @@
     <item drawable="battery_widget" />
     <item drawable="battlecruisers" />
     <item drawable="battlegrounds_india" />
-    <item drawable="bayern_fahrplan" name="bayern_timetable" />
+    <item drawable="bayern_fahrplan" name="bavarian_timetable" />
     <item drawable="bayut" />
     <item drawable="bb" />
     <item drawable="bbc_iplayer" />
@@ -1103,7 +1070,7 @@
     <item drawable="bhim" />
     <item drawable="bhim_sbi_pay" />
     <item drawable="bhs" />
-    <item drawable="bibel_" />
+    <item drawable="bibel_" name="bible" />
     <item drawable="big_icons" />
     <item drawable="bigbustours" />
     <item drawable="bigdata_interview_guide" />
@@ -1132,7 +1099,6 @@
     <item drawable="blackstar_clipboard" />
     <item drawable="ble_radar" />
     <item drawable="blinx" />
-    <item drawable="blitzerde_pro" />
     <item drawable="block_this_" />
     <item drawable="blockchain_wallet" />
     <item drawable="blocker" />
@@ -1154,7 +1120,6 @@
     <item drawable="bolt" />
     <item drawable="bolt_food" />
     <item drawable="bondbeyond" />
-    <item drawable="bonjour_ratp" />
     <item drawable="boodmo" />
     <item drawable="book_reader" />
     <item drawable="bookbeat" />
@@ -1173,7 +1138,7 @@
     <item drawable="brain_gym" />
     <item drawable="brain_tutor_3d" />
     <item drawable="brainstorm" />
-    <item drawable="brainyoo_karteikarten" />
+    <item drawable="brainyoo_karteikarten" name="Brainyoo Flashcards" />
     <item drawable="brave" />
     <item drawable="brawl_stars" />
     <item drawable="breakdowntimer" />
@@ -1200,7 +1165,7 @@
     <item drawable="bvg_muva" />
     <item drawable="bycs_messenger" />
     <item drawable="browser" />
-    <item drawable="ber_bausimulator" />
+    <item drawable="ber_bausimulator" name="BER Construction Simulator" />
     <item drawable="backdrops" />
 	<item drawable="bitmoji" />
     <item drawable="barcelona_bus_tracker" />
@@ -1210,8 +1175,6 @@
     <item drawable="barcelona_transport" />
     <item drawable="barcelona_transit" />
     <item drawable="bob_world" />
-    <item drawable="bahnbonus" />
-    <item drawable="bonpreu" />
 	<item drawable="back_market" />
 	<item drawable="bajaj_finserv" />
 	<item drawable="bale" />
@@ -1223,9 +1186,8 @@
 	<item drawable="bcr" />
 	<item drawable="beeper" />
 	<item drawable="beowulf_weather" />
-	<item drawable="bergfex_wetter" name="bergfex_weather" />
 	<item drawable="berry_browser" />
-	<item drawable="biblia" />
+	<item drawable="biblia" name="bible" />
 	<item drawable="binaural_beats" />
 	<item drawable="bio_company" />
 	<item drawable="bixby" />
@@ -1251,6 +1213,8 @@
 	<item drawable="bycs_drive" />
     <item drawable="ballozi_skynox" />
     <category title="C" />
+    <item drawable="aday_islemleri" name="Candidate Management" />
+    <item drawable="appareil_photo" name="Camera" />
     <item drawable="computadora" />
     <item drawable="cert_firma" />
     <item drawable="cooking_fever" />
@@ -1490,7 +1454,7 @@
     <item drawable="colornote" />
     <item drawable="coloros_calculator" />
     <item drawable="coloros_clone_phone" />
-    <item drawable="coloros_compass2" />
+    <item drawable="coloros_compass2" name="coloros_compass" />
     <item drawable="coloros_gallery3d_photos" />
     <item drawable="coloros_game_space" />
     <item drawable="coloros_soundrecorder" />
@@ -1634,6 +1598,8 @@
 	<item drawable="cubic_2_3_4_player_games" />
 	<item drawable="currencies" />
     <category title="D" />
+    <item drawable="arztsuche" name="doctor search" />
+    <item drawable="arzteblatt" name="Doctors’ Journal" />
     <item drawable="certificado_digital" name="Digital Certificate"/>
     <item drawable="discoverium" />
     <item drawable="decathlon_image" />
@@ -1936,6 +1902,7 @@
 	<item drawable="dynalist" />
 	<item drawable="dynamicspot" />
     <category title="E" />
+    <item drawable="angol_szotar" name="English Dictionary" />
     <item drawable="equate" />
     <item drawable="el_corte_ingles" />
     <item drawable="escaner_wi_fi" name="scanner_wi_fi" />
@@ -2109,6 +2076,8 @@
 	<item drawable="exodus" />
 	<item drawable="exteragram" />
     <category title="F" />
+    <item drawable="aves_libre" name="free birds" />
+    <item drawable="amigo" name="Friend" />
     <item drawable="filetransfer" />
     <item drawable="folder_hider" />
     <item drawable="fully_kiosk_browser" />
@@ -2368,6 +2337,8 @@
 	<item drawable="futo_voice_input" />
 	<item drawable="fx" />
     <category title="G" />
+    <item drawable="bonpreu" name="good price" />
+    <item drawable="autenticacao_gov" name="Government Authentication" />
     <item drawable="german_for_anysoftkeyboard" />
     <item drawable="gallery_lineageos" />
     <item drawable="geoflota" />
@@ -2596,6 +2567,8 @@
 	<item drawable="gspace" />
 	<item drawable="guerrilla_mail" />
     <category title="H" />
+    <item drawable="bonjour_ratp" name="Hello RATP" />
+    <item drawable="badanie_sluchu" name="hearing test" />
     <item drawable="herond" />
     <item drawable="hiperdino" />
     <item drawable="how_we_feel" />
@@ -2761,6 +2734,8 @@
 	<item drawable="hypatia" />
 	<item drawable="hyperrogue_gold" />
     <category title="I" />
+    <item drawable="al_quran_indonesia" name="Indonesian Quran" />
+    <item drawable="ausweisapp2" name="ID Card App" />
     <item drawable="inbrowser_tommie" />
     <item drawable="itinerary" />
     <item drawable="icon_changer" />
@@ -2990,6 +2965,7 @@
 	<item drawable="justchess" />
 	<item drawable="justdial" />
     <category title="K" />
+    <item drawable="awlad_school" name="Kids School" />
     <item drawable="kroger" />
     <item drawable="kiabi" />
     <item drawable="kamera_nothing" />
@@ -3129,6 +3105,11 @@
 	<item drawable="kutumb" />
 	<item drawable="kwgt_pro" />
     <category title="L" />
+    <item drawable="blitzortung_moniteur_dactivite_orageuse" name="Lightning Location Thunderstorm Activity Monitor" />
+    <item drawable="biedronka" name="ladybug" />
+    <item drawable="audire" name="listen" />
+    <item drawable="aviones_en_vivo" name="live airplanes" />
+    <item drawable="apprendre" name="Learn" />
     <item drawable="lemur_browser" />
     <item drawable="lidl_home" />
     <item drawable="le_chat" />
@@ -3306,6 +3287,10 @@
 	<item drawable="lucky_wasted" />
 	<item drawable="lux_o_meter_lichtmesser" />
     <category title="M" />
+    <item drawable="bergfex_wetter" name="Mountain Fan Weather" />
+    <item drawable="anghami" name="my tunes" />
+    <item drawable="asmaky" name="my fish" />
+    <item drawable="akhtaa_manasek" name="Mistakes in Rituals" />
     <item drawable="matcha_and_co" />
     <item drawable="meta_ai" />
     <item drawable="meteotrends" name="Meteo Trends"/>
@@ -3840,6 +3825,7 @@
     <item drawable="mailfence" />
     <item drawable="mailfr" />
     <category title="N" />
+    <item drawable="almaany_tadad" name="Numbers Dictionary" />
     <item drawable="nuclias_connect" />
     <item drawable="nike" />
     <item drawable="network_analyzer" />
@@ -4058,6 +4044,8 @@
 	<item drawable="nozzle" />
 	<item drawable="nytimes" />
     <category title="O" />
+    <item drawable="atlas_obscura" name="Obscure Atlas" />
+    <item drawable="avsar" name="opportunity" />
     <item drawable="odt_reader" />
     <item drawable="office_one" />
     <item drawable="ooreader" />
@@ -4065,7 +4053,7 @@
     <item drawable="orbot_ornet" />
     <item drawable="oysho" />
     <item drawable="ouigo_espana" />
-    <item drawable="ok_transporte_barcelona_2" />
+    <item drawable="ok_transporte_barcelona_2" name="ok_transporte_barcelona" />
     <item drawable="open_maps" />
     <item drawable="openscale_sync" />
     <item drawable="owncloud" />
@@ -4165,7 +4153,7 @@
     <item drawable="opencomicvine" />
     <item drawable="openhab_beta" />
     <item drawable="openlib" />
-    <item drawable="openrct2" />
+    <item drawable="openrct2" name="openrct" />
     <item drawable="openscale" />
     <item drawable="openscan" />
     <item drawable="opensea" />
@@ -4245,6 +4233,7 @@
 	<item drawable="osmand_" />
 	<item drawable="ovag_e_mobil" />
     <category title="P" />
+    <item drawable="ameixa" name="Plum" />
     <item drawable="phototan" />
     <item drawable="paprika_3" />
     <item drawable="papa_johns_green" />
@@ -4300,10 +4289,10 @@
     <item drawable="print_size" />
     <item drawable="prism_style_for_klwp" />
     <item drawable="proofmode" />
-    <item drawable="provision_cam2" />
+    <item drawable="provision_cam2" name="provision_cam" />
     <item drawable="psychedelics" />
     <item drawable="phonetrack" />
-    <item drawable="power_ampache_2" />
+    <item drawable="power_ampache_2" name="power_ampache" />
     <item drawable="postident" />
     <item drawable="planet_marathi" />
     <item drawable="pluxee_fr" />
@@ -4390,7 +4379,7 @@
     <item drawable="pepperfry" />
     <item drawable="perfect_viewer" />
     <item drawable="perfectly_clear" />
-    <item drawable="perfectly_clear2" />
+    <item drawable="perfectly_clear2" name="perfectly_clear" />
     <item drawable="performance_control" />
     <item drawable="performancetest_mobile" />
     <item drawable="peristyle" />
@@ -4680,9 +4669,13 @@
 	<item drawable="quik" />
 	<item drawable="quillpad" />
     <category title="R" />
+    <item drawable="blitzerde_pro" name="Radar Trap Germany Pro" />
+    <item drawable="bahnbonus" name="Railway Bonus" />
+    <item drawable="bahnbonus_2" name="Railway Bonus" />
+    <item drawable="asistente_de_ready_for" name="Ready For Assistant" />
     <item drawable="rakuten_tv" />
     <item drawable="rtf_viewer" />
-    <item drawable="rtve_noticias_2" />
+    <item drawable="rtve_noticias_2" name="rtve_noticias" />
     <item drawable="rtve_el_tiempo" name="rtve_el_time" />
     <item drawable="renpho" />
     <item drawable="reflectionapp" />
@@ -4911,11 +4904,14 @@
 	<item drawable="rustdesk" />
 	<item drawable="rvx_music" />
     <category title="S" />
+    <item drawable="banco_sabadell" name="Sabadell Bank" />
+    <item drawable="anima" name="spirit" />
+    <item drawable="awfarli" name="save for me" />
     <item drawable="speed_test" />
     <item drawable="smart_csv" />
     <item drawable="stay_browser" />
     <item drawable="seguimiento_de_correos" name="seguimiento_of_correos" />
-    <item drawable="smou_2" />
+    <item drawable="smou_2" name="smou" />
     <item drawable="sim_toolkit" />
     <item drawable="spardaapp" />
     <item drawable="synthesia" />
@@ -5448,7 +5444,7 @@
 	<item drawable="soundcloud" />
 	<item drawable="soundhound" />
 	<item drawable="soundpeats" />
-	<item drawable="soundrecorder2" />
+	<item drawable="soundrecorder2" name="soundrecorder" />
 	<item drawable="space_intern" />
 	<item drawable="sparkasse" />
 	<item drawable="spin" />
@@ -5475,6 +5471,8 @@
 	<item drawable="swiss_post" />
 	<item drawable="systemui_tuner" />
     <category title="T" />
+    <item drawable="bahnhof_live" name="Train Station Live" />
+    <item drawable="bahnhofsfotos" name="train station photos" />
     <item drawable="text_viewer" />
     <item drawable="tick_tock" />
     <item drawable="tempest" />
@@ -5781,7 +5779,7 @@
 	<item drawable="technave" />
 	<item drawable="telda" />
 	<item drawable="telegram_aqua" />
-	<item drawable="telegram_aqua2" />
+	<item drawable="telegram_aqua2" name="telegram_aqua" />
 	<item drawable="telegram_plus" />
 	<item drawable="teletalk_stk_menu" />
 	<item drawable="tellows" />
@@ -5923,6 +5921,7 @@
 	<item drawable="utiles" />
 	<item drawable="utilidades_amaze" />
     <category title="V" />
+    <item drawable="ayah" name="verse" />
     <item drawable="voghion" />
     <item drawable="voicemail_green" />
     <item drawable="vivaldi_snapshot" />
@@ -6108,7 +6107,7 @@
     <item drawable="analizador_wifi_wifitest" />
     <item drawable="wifi_analyzer_and_surveyor" />
     <item drawable="wifi_analyzer_pi" />
-    <item drawable="wifi_analyzer_2" />
+    <item drawable="wifi_analyzer_2" name="wifi_analyzer" />
     <item drawable="wifianalyzer_vic" />
     <item drawable="wifi_mouse" />
     <item drawable="wifi_map" />
@@ -6132,7 +6131,7 @@
     <item drawable="wordpress" />
     <item drawable="wifi_file_transfer" />
     <item drawable="word_office" />
-    <item drawable="wizink_2" />
+    <item drawable="wizink_2" name="wizink" />
     <item drawable="wero" />
     <item drawable="wger" />
     <item drawable="workinghours" />
