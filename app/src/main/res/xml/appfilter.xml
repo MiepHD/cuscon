@@ -6613,6 +6613,30 @@
     <item component="ComponentInfo{org.cygnusx1.discoverium/dev.imranr.obtainium.MainActivity}" drawable="discoverium" />
     <item component="ComponentInfo{pl.edu.uj.mobilny/pl.edu.usos.mobilny.SplashActivity}" drawable="mobilny_usos_uj" />
     <item component="ComponentInfo{org.eu.thedoc.zettelnotes/org.eu.thedoc.zettelnotes.screens.MainActivity}" drawable="zettel_notes_thedoc" />
+    <item component="ComponentInfo{com.odt.ott.ods.ots.odp.otp.reader/com.office.pdf.documentreader.view.activities.splash.SplashActivity}" drawable="odt_reader" />
+    <item component="ComponentInfo{com.yeahh.pptone/com.yeahh.office.app.MainActivity}" drawable="office_one" />
+    <item component="ComponentInfo{com.bml.ooreader/com.bml.ooreader.ItemListActivity}" drawable="ooreader" />
+    <item component="ComponentInfo{com.rtf.read.richtext.reader/com.rtf.read.richtext.reader.Splash_Activity}" drawable="rtf_viewer" />
+    <item component="ComponentInfo{com.panagola.app.textviewer/com.panagola.app.textviewer.MainActivity}" drawable="text_viewer" />
+    <item component="ComponentInfo{app.lawnchair.play/app.lawnchair.LawnchairLauncher}" drawable="lawnchair" />
+    <item component="ComponentInfo{com.pcvirt.Computer/com.pcvirt.Computer.ComputerActivity}" drawable="computadora" />
+    <item component="ComponentInfo{com.File.Manager.Filemanager/com.File.Manager.Filemanager.activity.SplashActivity}" drawable="es_files" />
+    <item component="ComponentInfo{files.filesexplorer.filesmanager/com.filespro.app.ApMainActivity}" drawable="files_pro" />
+    <item component="ComponentInfo{com.manager.filemanager.myfiles.files.tools.free/com.manager.filemanager.myfiles.files.tools.free.appUi.appActivity.PVM_SplashActivity}" drawable="file_manager_1756404584849" />      
+    <item component="ComponentInfo{com.pulse.pixel.filemanager.fileexplorer/com.pulse.pixel.filemanager.fileexplorer.MainActivity}" drawable="file_manager_1756404584868" />
+    <item component="ComponentInfo{com.transferfilenow.quickfiletransfer.largefileshareapp/com.transferfilenow.quickfiletransfer.largefileshareapp.SplashActivity}" drawable="file_manager_explorer_amp_cleaner" />       
+    <item component="ComponentInfo{com.ape.apps.filebrowser/com.ape.apps.apeappscore.MainActivity}" drawable="helios_file_manager" />
+    <item component="ComponentInfo{com.filemanager.fileexplorer.myfiles.securefolder/com.filemanager.fileexplorer.myfiles.securefolder.activity.SplashActivity}" drawable="f9bdfc2c4e09e63e9beeb4c06afc8d3906c450e0" />
+    <item component="ComponentInfo{com.disk.space/com.disk.space.MainActivity}" drawable="5e21dbfa0749014d5d34c777c6b51c119a20244c" />
+    <item component="ComponentInfo{com.devs.fileexplorer/com.devs.fileexplorer.ActivitySplash}" drawable="60f79c3f4f098281fcdabbc91f502027bbd0ed67" />
+    <item component="ComponentInfo{org.kman.AquaMail/org.kman.AquaMail.ui.AccountListActivity}" drawable="aqua_mail" />
+    <item component="ComponentInfo{com.dnie_sign.certificado_digital/com.dnie_sign.certificado_digital.Intro}" drawable="certificado_digital" />
+    <item component="ComponentInfo{com.lluraferi.matchaandco/com.lluraferi.matchaandco.MainActivity}" drawable="matcha_and_co" />
+    <item component="ComponentInfo{com.facebook.stella/com.facebook.wearable.companion.silverstone.main.view.SilverstoneMainActivity}" drawable="meta_ai" />
+    <item component="ComponentInfo{com.vivoti.meteotrends/com.vivoti.meteotrends.MainActivity}" drawable="meteotrends" />
+    <item component="ComponentInfo{tv.wuaki/tv.wuaki.mobile.activity.LaunchActivity}" drawable="rakuten_tv" />
+    <item component="ComponentInfo{net.speedgeo.android/net.speedgeo.android.Main}" drawable="speed_test" />
+    <item component="ComponentInfo{org.wordpress.android/org.wordpress.android.ui.WPLaunchActivity}" drawable="wordpress" />
 
 </resources>
 

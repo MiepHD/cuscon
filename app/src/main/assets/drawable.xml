@@ -373,6 +373,72 @@
     <item drawable="docx2pdf" />
     <item drawable="accumpdf" />
     <item drawable="pdf_reader_hi_read" />
+    <category title="File Manager" />
+    <item drawable="zfile" />
+    <item drawable="rs_gestor_de_archivos" name="rs_gestor_of_files" />
+    <item drawable="qfile_pro" />
+    <item drawable="owlfiles" />
+    <item drawable="my_files" />
+    <item drawable="marc_files" />
+    <item drawable="material_files" />
+    <item drawable="meizu_files" />
+    <item drawable="maple_media_file_explorer" />
+    <item drawable="visa_explore" />
+    <item drawable="upnp_explorer" />
+    <item drawable="solid_explorer" />
+    <item drawable="root_explorer" />
+    <item drawable="ny_state_parks_explorer" />
+    <item drawable="fs_explorer" />
+    <item drawable="explorer" />
+    <item drawable="gestion_archivos" name="gestion_files" />
+	<item drawable="gestor_de_archivos_" name="gestor_of_files_" />
+    <item drawable="gestor_de_archivos" name="gestor_of_files" />
+    <item drawable="files" />
+    <item drawable="fv_file_explorer" />
+    <item drawable="fv_file_explorer_pro" />
+    <item drawable="freebox_files" />
+    <item drawable="file_commander" />
+    <item drawable="ex_explorador_de_archivos" name="ex_explorador_of_files" />
+    <item drawable="esuper_archivo" name="esuper_file" />
+    <item drawable="es_file_explorer" />
+    <item drawable="es_files" />
+    <item drawable="ds_file" />
+    <item drawable="cx_explorador_de_archivos" name="cx_explorer_of_files" />
+    <item drawable="admin_de_archivos" name="admin_of_files" />
+    <item drawable="archivos_bd" name="files_bd" />
+    <item drawable="administrador_de_archivos_easy" name="manager_of_files_easy" />
+    <item drawable="administradora_de_archivos" name="manager_of_files" />
+    <item drawable="simple_file_manager" />
+    <item drawable="sjh_file_manager" />
+    <item drawable="otg_file_manager" />
+    <item drawable="mi_file_manager" />
+    <item drawable="jrdcom_filemanager" />
+    <item drawable="hazelfilemanager" />
+    <item drawable="helios_file_manager" />
+    <item drawable="globalfileexplorer_file_manager" />
+    <item drawable="filemanager" />
+    <item drawable="file_manager" />
+    <item drawable="fennec_file_manager" />
+    <item drawable="file_manager" />
+    <item drawable="file_manager_by_lufick" />
+    <item drawable="file_manager_green" />
+    <item drawable="file_explorer" />
+    <item drawable="file_manager_splend" />
+    <item drawable="file_manager_1755090929382" />
+    <item drawable="file_manager_1755090929416" />
+    <item drawable="file_manager_plus" />
+    <item drawable="explorer_administrador_de_archivos" name="explorer_manager_of_files" />
+    <item drawable="dani_filemanager" />
+    <item drawable="coocent_file_manager" />
+    <item drawable="administrador_de_archivos" name="manager_of_files" />
+    <item drawable="5e21dbfa0749014d5d34c777c6b51c119a20244c" name="File Manager" />
+    <item drawable="60f79c3f4f098281fcdabbc91f502027bbd0ed67" name="File Explorer" />
+    <item drawable="f9bdfc2c4e09e63e9beeb4c06afc8d3906c450e0" name="File Manager" />
+    <item drawable="files_pro" />
+    <item drawable="file_manager_1756404584849" />
+    <item drawable="file_manager_1756404584868" />
+    <item drawable="file_manager_explorer_amp_cleaner" />
+    <item drawable="file_manager_cutestudio" />
     <category title="#" />
     <item drawable="_1password" />
     <item drawable="_4pda" />
@@ -414,10 +480,9 @@
     <item drawable="_f_droid_kdi" />
     <item drawable="_sound_" />
     <category title="A" />
+    <item drawable="aqua_mail" />
     <item drawable="aok_2_faktor" />
-    <item drawable="administrador_de_archivos_easy" name="manager_of_files_easy" />
     <item drawable="amerigo" />
-    <item drawable="archivos_bd" name="files_bd" />
     <item drawable="alltrails" />
     <item drawable="avast_secure_browser" />
     <item drawable="avg_secure_browser" />
@@ -518,7 +583,6 @@
     <item drawable="altimeter" />
     <item drawable="asistente_de_ready_for" name="asistente_of_ready_for" />
     <item drawable="asana" />
-    <item drawable="administradora_de_archivos" name="manager_of_files" />
     <item drawable="audials_play" />
     <item drawable="about_you" />
     <item drawable="aumio" />
@@ -822,8 +886,6 @@
 	<item drawable="adif" />
 	<item drawable="adif_elcanomovil" />
 	<item drawable="adm" />
-	<item drawable="admin_de_archivos" name="admin_of_files" />
-	<item drawable="administrador_de_archivos" name="manager_of_files" />
 	<item drawable="adobe_photoshop_express" />
 	<item drawable="aeat" />
 	<item drawable="ai_browser" />
@@ -1189,6 +1251,7 @@
 	<item drawable="bycs_drive" />
     <item drawable="ballozi_skynox" />
     <category title="C" />
+    <item drawable="computadora" />
     <item drawable="cert_firma" />
     <item drawable="cooking_fever" />
     <item drawable="ccu_mobile" />
@@ -1491,7 +1554,6 @@
     <item drawable="cutlist_optimizer" />
     <item drawable="cuto" />
     <item drawable="cv_library" />
-    <item drawable="cx_explorador_de_archivos" name="cx_explorador_of_files" />
     <item drawable="cyrillic" />
     <item drawable="cytus_ii" />
     <item drawable="clima_diario" name="weather_diario" />
@@ -1560,7 +1622,6 @@
 	<item drawable="contactos" />
 	<item drawable="contacts" />
 	<item drawable="converter_now" />
-	<item drawable="coocent_file_manager" />
 	<item drawable="coolapk" />
 	<item drawable="copilot" />
 	<item drawable="cpu_info" />
@@ -1573,6 +1634,7 @@
 	<item drawable="cubic_2_3_4_player_games" />
 	<item drawable="currencies" />
     <category title="D" />
+    <item drawable="certificado_digital" name="Digital Certificate"/>
     <item drawable="discoverium" />
     <item drawable="decathlon_image" />
     <item drawable="dia" />
@@ -1626,7 +1688,6 @@
     <item drawable="deprem_agi" />
     <item drawable="dls24" />
     <item drawable="digitales_bezahlen" />
-    <item drawable="dani_filemanager" />
     <item drawable="dictcc" />
     <item drawable="d4d" />
     <item drawable="daily_quotes_widget" />
@@ -1767,7 +1828,6 @@
     <item drawable="druckdienste_plug_in_von_samsung" />
     <item drawable="drugscom" />
     <item drawable="ds_audio" />
-    <item drawable="ds_file" />
     <item drawable="ds_finder" />
     <item drawable="ds_get" />
     <item drawable="ds_video" />
@@ -1903,7 +1963,6 @@
     <item drawable="ezdebt_book" />
     <item drawable="endless_sky" />
     <item drawable="eddie_airvpn_gui" />
-    <item drawable="explorer_administrador_de_archivos" name="explorer_manager_of_files" />
     <item drawable="epsxe" />
     <item drawable="epsxe_opengl_plugin" />
     <item drawable="electricity_maps" />
@@ -1983,7 +2042,6 @@
     <item drawable="era_of_conquest" />
     <item drawable="erklar_app" />
     <item drawable="erste_hilfe_drk" />
-    <item drawable="es_file_explorer" />
     <item drawable="ess_41_reflexis_one" />
     <item drawable="ess_42_reflexis_one" />
     <item drawable="essentials4" />
@@ -2042,23 +2100,16 @@
 	<item drawable="energy_ease" />
 	<item drawable="englisch" />
 	<item drawable="englishwords" />
-	<item drawable="esuper_archivo" name="esuper_file" />
 	<item drawable="etchdroid" />
 	<item drawable="eternium" />
 	<item drawable="etsy" />
 	<item drawable="everest" />
 	<item drawable="evernote" />
 	<item drawable="every_door" />
-	<item drawable="ex_explorador_de_archivos" name="ex_explorador_of_files" />
 	<item drawable="exodus" />
-	<item drawable="explorer" />
 	<item drawable="exteragram" />
     <category title="F" />
-    <item drawable="file_manager_cutestudio" />
     <item drawable="filetransfer" />
-    <item drawable="file_manager_1755090929382" />
-    <item drawable="file_manager_1755090929416" />
-    <item drawable="file_manager_plus" />
     <item drawable="folder_hider" />
     <item drawable="fully_kiosk_browser" />
     <item drawable="fnac" />
@@ -2077,8 +2128,6 @@
     <item drawable="fetchit" />
     <item drawable="filester" />
     <item drawable="files_shortcut" />
-    <item drawable="file_explorer" />
-    <item drawable="file_manager_splend" />
     <item drawable="find5x" />
     <item drawable="firefight" />
     <item drawable="fitotrack" />
@@ -2115,7 +2164,6 @@
     <item drawable="fongo" />
     <item drawable="fulguris" />
     <item drawable="freeotp_" />
-    <item drawable="fs_explorer" />
     <item drawable="fender_tune" />
     <item drawable="fotocamera" />
     <item drawable="foldplay" />
@@ -2156,11 +2204,7 @@
     <item drawable="fewo_direkt" />
     <item drawable="figure_1" />
     <item drawable="fiio_music" />
-    <item drawable="file_commander" />
     <item drawable="file_converter" />
-    <item drawable="file_manager" />
-    <item drawable="file_manager_by_lufick" />
-    <item drawable="file_manager_green" />
     <item drawable="findr" />
     <item drawable="findroid" />
     <item drawable="fine_lock" />
@@ -2234,7 +2278,6 @@
     <item drawable="free_now" />
     <item drawable="freebox_connect" />
     <item drawable="freebox_espace_abonne" />
-    <item drawable="freebox_files" />
     <item drawable="freecbt" />
     <item drawable="freecodecamp" />
     <item drawable="freedom24" />
@@ -2257,8 +2300,6 @@
     <item drawable="funimate" />
     <item drawable="funk" />
     <item drawable="fur_affinity_noc" />
-    <item drawable="fv_file_explorer" />
-    <item drawable="fv_file_explorer_pro" />
     <item drawable="fv_theme_black_golden" />
     <item drawable="fv_theme_es_classics" />
     <item drawable="fv_theme_mysterious_blue" />
@@ -2282,15 +2323,11 @@
 	<item drawable="fastlyrics" />
 	<item drawable="fedilab" />
 	<item drawable="feeder" />
-	<item drawable="fennec_file_manager" />
 	<item drawable="ffshare" />
 	<item drawable="ffupdater" />
 	<item drawable="fi" />
 	<item drawable="fido_webauthn_example" />
-	<item drawable="file_manager" />
 	<item drawable="file_viewer" />
-	<item drawable="filemanager" />
-	<item drawable="files" />
 	<item drawable="findmydevice" />
 	<item drawable="findpenguins" />
 	<item drawable="fire_tv" />
@@ -2381,7 +2418,6 @@
     <item drawable="gomo_ph" />
     <item drawable="gesture_control" />
     <item drawable="groundwire" />
-    <item drawable="globalfileexplorer_file_manager" />
     <item drawable="genshin_impact" />
     <item drawable="geogebra" />
     <item drawable="gauguin" />
@@ -2415,7 +2451,6 @@
     <item drawable="geo_tracker" />
     <item drawable="geoguessr" />
     <item drawable="geonotes" />
-    <item drawable="gestor_de_archivos" name="gestor_of_files" />
     <item drawable="gestureplus" />
     <item drawable="gesundde" />
     <item drawable="get_current_wallpaper" />
@@ -2534,8 +2569,6 @@
 	<item drawable="geometry_dash" />
 	<item drawable="geratewartung" />
 	<item drawable="gerdoo_plus" />
-	<item drawable="gestion_archivos" name="gestion_files" />
-	<item drawable="gestor_de_archivos_" name="gestor_of_files_" />
 	<item drawable="ghost_commander" />
 	<item drawable="gif_live_wallpaper" />
 	<item drawable="global_goals" />
@@ -2706,7 +2739,6 @@
     <item drawable="horarios_renfe_feve" />
 	<item drawable="h_and_m" />
 	<item drawable="hastings_direct" />
-	<item drawable="hazelfilemanager" />
 	<item drawable="hdfc_bank" />
 	<item drawable="hello_weather" />
 	<item drawable="here_wego" />
@@ -2900,7 +2932,6 @@
     <item drawable="jvdroid" />
     <item drawable="jar" />
     <item drawable="jam" />
-    <item drawable="jrdcom_filemanager" />
     <item drawable="jaumo" />
     <item drawable="jisho" />
     <item drawable="jeux" />
@@ -3275,6 +3306,9 @@
 	<item drawable="lucky_wasted" />
 	<item drawable="lux_o_meter_lichtmesser" />
     <category title="M" />
+    <item drawable="matcha_and_co" />
+    <item drawable="meta_ai" />
+    <item drawable="meteotrends" name="Meteo Trends"/>
     <item drawable="mobilny_usos_uj" />
     <item drawable="mint_mobile" />
     <item drawable="myhealth" />
@@ -3447,7 +3481,6 @@
     <item drawable="malt" />
     <item drawable="mango" />
     <item drawable="map2fly" />
-    <item drawable="maple_media_file_explorer" />
     <item drawable="mapmyfitness" />
     <item drawable="mapmyride" />
     <item drawable="mapmyrun" />
@@ -3495,7 +3528,6 @@
     <item drawable="meine_aok" />
     <item drawable="meine_arztdokumente" />
     <item drawable="meistertask" />
-    <item drawable="meizu_files" />
     <item drawable="meizu_safe" />
     <item drawable="meizu_videos" />
     <item drawable="melodia_fm" />
@@ -3521,7 +3553,6 @@
     <item drawable="mhr_tunnel_vip" />
     <item drawable="mi_and_ju" />
     <item drawable="mi_app_vault" />
-    <item drawable="mi_file_manager" />
     <item drawable="mi_lowi" />
     <item drawable="mi_mover" />
     <item drawable="mi_movistar" />
@@ -3683,7 +3714,6 @@
     <item drawable="mytonies" />
     <item drawable="mytonwallet" />
     <item drawable="myworldlink" />
-    <item drawable="material_files" />
     <item drawable="myat_and_t" />
     <item drawable="messenger" />
     <item drawable="mhq" />
@@ -3711,7 +3741,6 @@
 	<item drawable="maprun_6" />
 	<item drawable="maps_go" />
 	<item drawable="maps_viewer" />
-	<item drawable="marc_files" />
 	<item drawable="marine_aquarium_pro" />
 	<item drawable="marklife" />
 	<item drawable="marrow" />
@@ -3792,7 +3821,6 @@
 	<item drawable="musixmatch" />
 	<item drawable="muslim_pro" />
 	<item drawable="mx_player" />
-	<item drawable="my_files" />
 	<item drawable="my_home_inventory" />
 	<item drawable="my_huawei" />
 	<item drawable="my_robi" />
@@ -3981,7 +4009,6 @@
     <item drawable="nuri_ex_bitwala_" />
     <item drawable="nuts_vol_booster" />
     <item drawable="nv_player" />
-    <item drawable="ny_state_parks_explorer" />
     <item drawable="nzb360" />
     <item drawable="navegador_einkbro" name="browser_einkbro" />
     <item drawable="next_bus_barcelona" />
@@ -4031,6 +4058,9 @@
 	<item drawable="nozzle" />
 	<item drawable="nytimes" />
     <category title="O" />
+    <item drawable="odt_reader" />
+    <item drawable="office_one" />
+    <item drawable="ooreader" />
     <item drawable="omio" />
     <item drawable="orbot_ornet" />
     <item drawable="oysho" />
@@ -4055,7 +4085,6 @@
     <item drawable="osm_dashboard" />
     <item drawable="osm_dashboard_offline_" />
     <item drawable="oss_weather" />
-    <item drawable="otg_file_manager" />
     <item drawable="otg_guru" />
     <item drawable="owntracks" />
     <item drawable="oxxo" />
@@ -4215,7 +4244,6 @@
 	<item drawable="osmand" />
 	<item drawable="osmand_" />
 	<item drawable="ovag_e_mobil" />
-	<item drawable="owlfiles" />
     <category title="P" />
     <item drawable="phototan" />
     <item drawable="paprika_3" />
@@ -4617,7 +4645,6 @@
     <item drawable="qatar_airways" />
     <item drawable="qauxiliary" />
     <item drawable="qerko" />
-    <item drawable="qfile_pro" />
     <item drawable="qidz" />
     <item drawable="qiwi" />
     <item drawable="qmanager" />
@@ -4653,6 +4680,8 @@
 	<item drawable="quik" />
 	<item drawable="quillpad" />
     <category title="R" />
+    <item drawable="rakuten_tv" />
+    <item drawable="rtf_viewer" />
     <item drawable="rtve_noticias_2" />
     <item drawable="rtve_el_tiempo" name="rtve_el_time" />
     <item drawable="renpho" />
@@ -4874,16 +4903,15 @@
 	<item drawable="rocks_n_diamonds" />
 	<item drawable="root_booster" />
 	<item drawable="root_checker_basic" />
-	<item drawable="root_explorer" />
 	<item drawable="rootlessjamesdsp" />
 	<item drawable="rotation_control_pro" />
 	<item drawable="round_sync" />
-	<item drawable="rs_gestor_de_archivos" name="rs_gestor_of_files" />
 	<item drawable="rtve_audio" />
 	<item drawable="runmefit" />
 	<item drawable="rustdesk" />
 	<item drawable="rvx_music" />
     <category title="S" />
+    <item drawable="speed_test" />
     <item drawable="smart_csv" />
     <item drawable="stay_browser" />
     <item drawable="seguimiento_de_correos" name="seguimiento_of_correos" />
@@ -5024,8 +5052,6 @@
     <item drawable="smart" />
     <item drawable="snotz" />
     <item drawable="securego_plus" />
-    <item drawable="simple_file_manager" />
-    <item drawable="sjh_file_manager" />
     <item drawable="supercard" />
     <item drawable="swissid" />
     <item drawable="spinny" />
@@ -5412,7 +5438,6 @@
 	<item drawable="snoopsnitch" />
 	<item drawable="sofascore" />
 	<item drawable="softwareaktualisierung" />
-	<item drawable="solid_explorer" />
 	<item drawable="sololearn" />
 	<item drawable="songtube" />
 	<item drawable="sonos" />
@@ -5450,6 +5475,7 @@
 	<item drawable="swiss_post" />
 	<item drawable="systemui_tuner" />
     <category title="T" />
+    <item drawable="text_viewer" />
     <item drawable="tick_tock" />
     <item drawable="tempest" />
     <item drawable="tmbapp" />
@@ -5812,7 +5838,6 @@
     <item drawable="update_me" />
     <item drawable="upland" />
     <item drawable="upland_racing" />
-    <item drawable="upnp_explorer" />
     <item drawable="uprock_earning" />
     <item drawable="usb_debugging" />
     <item drawable="usb_hid_client" />
@@ -5978,7 +6003,6 @@
     <item drawable="virtual_master" />
     <item drawable="virustotal" />
     <item drawable="virustotal_mobile" />
-    <item drawable="visa_explore" />
     <item drawable="visit_dubai" />
     <item drawable="visitsaudi" />
     <item drawable="visual_voicemail_mizmowireless" />
@@ -6105,6 +6129,7 @@
     <item drawable="adb_over_wifi" />
     <item drawable="ampwifi" />
     <category title="W" />
+    <item drawable="wordpress" />
     <item drawable="wifi_file_transfer" />
     <item drawable="word_office" />
     <item drawable="wizink_2" />
@@ -6408,7 +6433,6 @@
     <item drawable="zerotier_one" />
     <item drawable="zestmoney" />
     <item drawable="zettel_notes" />
-    <item drawable="zfile" />
     <item drawable="zihua_mytracks" />
     <item drawable="zillow_rentals" />
     <item drawable="zimbra" />

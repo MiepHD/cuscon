@@ -1,12 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="changelog_date">26.08.2025</string>
+    <string name="changelog_date">30.08.2025</string>
     <string-array name="changelog">
         <item>4.0.6.3:</item>
-        <item>Added Mobilny USOS UJ, Zettel Notes</item>
+        <item>Added Mobilny USOS UJ, Zettel Notes, ODT Reader, Office One, OOReader, RTF Viewer, Text Viewer, Computadora, ES Files, Files Pro, File Manager, File Manager, File Manager: Explorer amp; Cleaner, Helios File Manager, File Manager, File Manager, File Explorer, Aqua Mail, Certificado Digital, Matcha and CO, Meta AI, MeteoTrends, Rakuten TV, Speed Test, WordPress</item>
         <item>Moved more apps to Documents</item>
         <item>Added translations</item>
         <item>Improved quality of Zettel Notes</item>
+        <item>Fixed Lawnchair</item>
+        <item>Added category File Manager</item>
         <item>4.0.6.2:</item>
         <item>Added Docx Reader, Visor de documentos, AI Chat PDF, All Document Reader and Viewer, All Doc Reader, CERT Firma, PDF a Word, Smart CSV, Office Viewer, Discoverium</item>
         <item>4.0.6.1:</item>

@@ -6492,5 +6492,34 @@
     <AppIcon name="org.cygnusx1.discoverium/dev.imranr.obtainium.MainActivity" image="discoverium"/>
     <AppIcon name="pl.edu.uj.mobilny/pl.edu.usos.mobilny.SplashActivity" image="mobilny_usos_uj"/>
     <AppIcon name="org.eu.thedoc.zettelnotes/org.eu.thedoc.zettelnotes.screens.MainActivity" image="zettel_notes_thedoc"/>
+    <AppIcon name="com.odt.ott.ods.ots.odp.otp.reader/com.office.pdf.documentreader.view.activities.splash.SplashActivity" image="odt_reader"/>
+    <AppIcon name="com.yeahh.pptone/com.yeahh.office.app.MainActivity" image="office_one"/>
+    <AppIcon name="com.bml.ooreader/com.bml.ooreader.ItemListActivity" image="ooreader"/>
+    <AppIcon name="com.rtf.read.richtext.reader/com.rtf.read.richtext.reader.Splash_Activity" image="rtf_viewer"/>
+    <AppIcon name="com.panagola.app.textviewer/com.panagola.app.textviewer.MainActivity" image="text_viewer"/>
+    <AppIcon name="com.odt.ott.ods.ots.odp.otp.reader/com.office.pdf.documentreader.view.activities.splash.SplashActivity" image="odt_reader"/>
+    <AppIcon name="com.yeahh.pptone/com.yeahh.office.app.MainActivity" image="office_one"/>
+    <AppIcon name="com.bml.ooreader/com.bml.ooreader.ItemListActivity" image="ooreader"/>
+    <AppIcon name="com.rtf.read.richtext.reader/com.rtf.read.richtext.reader.Splash_Activity" image="rtf_viewer"/>
+    <AppIcon name="com.panagola.app.textviewer/com.panagola.app.textviewer.MainActivity" image="text_viewer"/>
+    <AppIcon name="app.lawnchair.play/app.lawnchair.LawnchairLauncher" image="lawnchair"/>
+    <AppIcon name="com.pcvirt.Computer/com.pcvirt.Computer.ComputerActivity" image="computadora"/>
+    <AppIcon name="com.File.Manager.Filemanager/com.File.Manager.Filemanager.activity.SplashActivity" image="es_files"/>
+    <AppIcon name="files.filesexplorer.filesmanager/com.filespro.app.ApMainActivity" image="files_pro"/>
+    <AppIcon name="com.manager.filemanager.myfiles.files.tools.free/com.manager.filemanager.myfiles.files.tools.free.appUi.appActivity.PVM_SplashActivity" image="file_manager_1756404584849"/>
+    <AppIcon name="com.pulse.pixel.filemanager.fileexplorer/com.pulse.pixel.filemanager.fileexplorer.MainActivity" image="file_manager_1756404584868"/>
+    <AppIcon name="com.transferfilenow.quickfiletransfer.largefileshareapp/com.transferfilenow.quickfiletransfer.largefileshareapp.SplashActivity" image="file_manager_explorer_amp_cleaner"/>
+    <AppIcon name="com.ape.apps.filebrowser/com.ape.apps.apeappscore.MainActivity" image="helios_file_manager"/>
+    <AppIcon name="com.filemanager.fileexplorer.myfiles.securefolder/com.filemanager.fileexplorer.myfiles.securefolder.activity.SplashActivity" image="f9bdfc2c4e09e63e9beeb4c06afc8d3906c450e0"/>
+    <AppIcon name="com.disk.space/com.disk.space.MainActivity" image="5e21dbfa0749014d5d34c777c6b51c119a20244c"/>
+    <AppIcon name="com.devs.fileexplorer/com.devs.fileexplorer.ActivitySplash" image="60f79c3f4f098281fcdabbc91f502027bbd0ed67"/>
+    <AppIcon name="org.kman.AquaMail/org.kman.AquaMail.ui.AccountListActivity" image="aqua_mail"/>
+    <AppIcon name="com.dnie_sign.certificado_digital/com.dnie_sign.certificado_digital.Intro" image="certificado_digital"/>
+    <AppIcon name="com.lluraferi.matchaandco/com.lluraferi.matchaandco.MainActivity" image="matcha_and_co"/>
+    <AppIcon name="com.facebook.stella/com.facebook.wearable.companion.silverstone.main.view.SilverstoneMainActivity" image="meta_ai"/>
+    <AppIcon name="com.vivoti.meteotrends/com.vivoti.meteotrends.MainActivity" image="meteotrends"/>
+    <AppIcon name="tv.wuaki/tv.wuaki.mobile.activity.LaunchActivity" image="rakuten_tv"/>
+    <AppIcon name="net.speedgeo.android/net.speedgeo.android.Main" image="speed_test"/>
+    <AppIcon name="org.wordpress.android/org.wordpress.android.ui.WPLaunchActivity" image="wordpress"/>
 
 </Theme>
