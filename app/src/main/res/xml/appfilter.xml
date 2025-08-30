@@ -6627,8 +6627,8 @@
     <item component="ComponentInfo{com.transferfilenow.quickfiletransfer.largefileshareapp/com.transferfilenow.quickfiletransfer.largefileshareapp.SplashActivity}" drawable="file_manager_explorer_amp_cleaner" />       
     <item component="ComponentInfo{com.ape.apps.filebrowser/com.ape.apps.apeappscore.MainActivity}" drawable="helios_file_manager" />
     <item component="ComponentInfo{com.filemanager.fileexplorer.myfiles.securefolder/com.filemanager.fileexplorer.myfiles.securefolder.activity.SplashActivity}" drawable="f9bdfc2c4e09e63e9beeb4c06afc8d3906c450e0" />
-    <item component="ComponentInfo{com.disk.space/com.disk.space.MainActivity}" drawable="5e21dbfa0749014d5d34c777c6b51c119a20244c" />
-    <item component="ComponentInfo{com.devs.fileexplorer/com.devs.fileexplorer.ActivitySplash}" drawable="60f79c3f4f098281fcdabbc91f502027bbd0ed67" />
+    <item component="ComponentInfo{com.disk.space/com.disk.space.MainActivity}" drawable="i5e21dbfa0749014d5d34c777c6b51c119a20244c" />
+    <item component="ComponentInfo{com.devs.fileexplorer/com.devs.fileexplorer.ActivitySplash}" drawable="i60f79c3f4f098281fcdabbc91f502027bbd0ed67" />
     <item component="ComponentInfo{org.kman.AquaMail/org.kman.AquaMail.ui.AccountListActivity}" drawable="aqua_mail" />
     <item component="ComponentInfo{com.dnie_sign.certificado_digital/com.dnie_sign.certificado_digital.Intro}" drawable="certificado_digital" />
     <item component="ComponentInfo{com.lluraferi.matchaandco/com.lluraferi.matchaandco.MainActivity}" drawable="matcha_and_co" />

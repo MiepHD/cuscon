@@ -431,8 +431,8 @@
     <item drawable="dani_filemanager" />
     <item drawable="coocent_file_manager" />
     <item drawable="administrador_de_archivos" name="manager_of_files" />
-    <item drawable="5e21dbfa0749014d5d34c777c6b51c119a20244c" name="File Manager" />
-    <item drawable="60f79c3f4f098281fcdabbc91f502027bbd0ed67" name="File Explorer" />
+    <item drawable="i5e21dbfa0749014d5d34c777c6b51c119a20244c" name="File Manager" />
+    <item drawable="i60f79c3f4f098281fcdabbc91f502027bbd0ed67" name="File Explorer" />
     <item drawable="f9bdfc2c4e09e63e9beeb4c06afc8d3906c450e0" name="File Manager" />
     <item drawable="files_pro" />
     <item drawable="file_manager_1756404584849" />
