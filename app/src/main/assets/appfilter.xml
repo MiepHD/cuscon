@@ -3499,7 +3499,7 @@
     <item component="ComponentInfo{com.wix.android/com.wix.MainActivity}" drawable="spaces_by_wix" />
     <item component="ComponentInfo{app.supershift/app.supershift.TabbarActivity}" drawable="supershift" />
     <item component="ComponentInfo{com.stt.android.suunto/com.stt.android.launcher.ProxyActivity}" drawable="suunto" />
-    <item component="ComponentInfo{net.kollnig.missioncontrol.play/eu.faircode.netguard.ActivityMain}" drawable="tc_slim" />
+    <item component="ComponentInfo{net.kollnig.missioncontrol.play/eu.faircode.netguard.ActivityMain}" drawable="tc" />
     <item component="ComponentInfo{de.tellonym.app/de.tellonym.app.MainActivity}" drawable="tellonym" />
     <item component="ComponentInfo{eu.thalia.app/eu.thalia.app.ui.appstart.BootActivity}" drawable="thalia" />
     <item component="ComponentInfo{com.tier.app/com.tier.legacy.ui.splash.SplashActivity}" drawable="tier" />

@@ -3484,7 +3484,7 @@
     <AppIcon name="com.wix.android/com.wix.MainActivity" image="spaces_by_wix"/>
     <AppIcon name="app.supershift/app.supershift.TabbarActivity" image="supershift"/>
     <AppIcon name="com.stt.android.suunto/com.stt.android.launcher.ProxyActivity" image="suunto"/>
-    <AppIcon name="net.kollnig.missioncontrol.play/eu.faircode.netguard.ActivityMain" image="tc_slim"/>
+    <AppIcon name="net.kollnig.missioncontrol.play/eu.faircode.netguard.ActivityMain" image="tc"/>
     <AppIcon name="de.tellonym.app/de.tellonym.app.MainActivity" image="tellonym"/>
     <AppIcon name="eu.thalia.app/eu.thalia.app.ui.appstart.BootActivity" image="thalia"/>
     <AppIcon name="com.tier.app/com.tier.legacy.ui.splash.SplashActivity" image="tier"/>
