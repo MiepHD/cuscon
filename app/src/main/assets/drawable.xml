@@ -480,6 +480,7 @@
     <item drawable="_f_droid_kdi" />
     <item drawable="_sound_" />
     <category title="A" />
+    <item drawable="avg_cleaner" />
     <item drawable="aqua_mail" />
     <item drawable="aok_2_faktor" name="AOK 2-Factor" />
     <item drawable="amerigo" />
@@ -1902,6 +1903,8 @@
 	<item drawable="dynalist" />
 	<item drawable="dynamicspot" />
     <category title="E" />
+    <item drawable="evmap" />
+    <item drawable="explorador_de_archivos" name="file explorer" />
     <item drawable="angol_szotar" name="English Dictionary" />
     <item drawable="equate" />
     <item drawable="el_corte_ingles" />
@@ -2076,6 +2079,8 @@
 	<item drawable="exodus" />
 	<item drawable="exteragram" />
     <category title="F" />
+    <item drawable="filex" />
+    <item drawable="fondly" />
     <item drawable="aves_libre" name="free birds" />
     <item drawable="amigo" name="Friend" />
     <item drawable="filetransfer" />
@@ -2567,6 +2572,7 @@
 	<item drawable="gspace" />
 	<item drawable="guerrilla_mail" />
     <category title="H" />
+    <item drawable="http_file_server" />
     <item drawable="bonjour_ratp" name="Hello RATP" />
     <item drawable="badanie_sluchu" name="hearing test" />
     <item drawable="herond" />
@@ -2898,6 +2904,7 @@
 	<item drawable="ir_remote" />
 	<item drawable="iron" />
     <category title="J" />
+    <item drawable="jpg_to_pdf_converter_pdftools" />
     <item drawable="jitsi_meet" />
     <item drawable="joom" />
     <item drawable="just_eat" />
@@ -3825,6 +3832,8 @@
     <item drawable="mailfence" />
     <item drawable="mailfr" />
     <category title="N" />
+    <item drawable="network_analyzer_cumberland" />
+    <item drawable="noutube" />
     <item drawable="almaany_tadad" name="Numbers Dictionary" />
     <item drawable="nuclias_connect" />
     <item drawable="nike" />
@@ -4044,6 +4053,8 @@
 	<item drawable="nozzle" />
 	<item drawable="nytimes" />
     <category title="O" />
+    <item drawable="opa" />
+    <item drawable="open_sudoku" />
     <item drawable="atlas_obscura" name="Obscure Atlas" />
     <item drawable="avsar" name="opportunity" />
     <item drawable="odt_reader" />
@@ -4669,6 +4680,7 @@
 	<item drawable="quik" />
 	<item drawable="quillpad" />
     <category title="R" />
+    <item drawable="renombrar_y_organizar" name="rename and organize" />
     <item drawable="blitzerde_pro" name="Radar Trap Germany Pro" />
     <item drawable="bahnbonus" name="Railway Bonus" />
     <item drawable="bahnbonus_2" name="Railway Bonus" />
@@ -5471,6 +5483,7 @@
 	<item drawable="swiss_post" />
 	<item drawable="systemui_tuner" />
     <category title="T" />
+    <item drawable="trenes_app" name="Trains App" />
     <item drawable="bahnhof_live" name="Train Station Live" />
     <item drawable="bahnhofsfotos" name="train station photos" />
     <item drawable="text_viewer" />
@@ -5920,6 +5933,7 @@
 	<item drawable="utiles" />
 	<item drawable="utilidades_amaze" />
     <category title="V" />
+    <item drawable="vista_de_documentos" name="documents viewer" />
     <item drawable="ayah" name="verse" />
     <item drawable="voghion" />
     <item drawable="voicemail_green" />
@@ -6397,6 +6411,7 @@
 	<item drawable="yuka" />
 	<item drawable="yuzu_browser" />
     <category title="Z" />
+    <item drawable="zip_extractor" />
     <item drawable="zdfmediathek" />
     <item drawable="zotero" />
     <item drawable="zeel" />

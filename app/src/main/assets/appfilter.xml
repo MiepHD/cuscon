@@ -6637,6 +6637,24 @@
     <item component="ComponentInfo{tv.wuaki/tv.wuaki.mobile.activity.LaunchActivity}" drawable="rakuten_tv" />
     <item component="ComponentInfo{net.speedgeo.android/net.speedgeo.android.Main}" drawable="speed_test" />
     <item component="ComponentInfo{org.wordpress.android/org.wordpress.android.ui.WPLaunchActivity}" drawable="wordpress" />
+    <item component="ComponentInfo{com.audible.application/com.audible.application.MainLauncher}" drawable="audible" />
+    <item component="ComponentInfo{de.szalkowski.activitylauncher.oss/de.szalkowski.activitylauncher.MainActivity}" drawable="activity_launcher" />
+    <item component="ComponentInfo{com.connectedmedia.fondly/com.connectedmedia.fondly.MainActivity}" drawable="fondly" />
+    <item component="ComponentInfo{org.fsociety.vernet.store/org.fsociety.vernet.MainActivity}" drawable="vernet" />
+    <item component="ComponentInfo{com.avg.cleaner/com.avast.android.cleaner.activity.StartActivity}" drawable="avg_cleaner" />
+    <item component="ComponentInfo{com.alldocreader.officesuite.documents.viewer/com.alldocreader.officesuite.documents.viewer.file_explorer_module.explorer_module_activities.Latest_M_SplashScreenActivity_search_module}" drawable="explorador_de_archivos" />
+    <item component="ComponentInfo{com.amosmobile.filex/com.amosmobile.filex.SuperExploperActivity}" drawable="filex" />
+    <item component="ComponentInfo{slowscript.httpfileserver/slowscript.httpfileserver.MainActivity}" drawable="http_file_server" />
+    <item component="ComponentInfo{com.srdev.jpgtopdf/com.srdev.jpgtopdf.Splash_Activity}" drawable="jpg_to_pdf_converter_pdftools" />
+    <item component="ComponentInfo{eu.duong.picturemanager/eu.duong.picturemanager.activities.MainActivity}" drawable="renombrar_y_organizar" />
+    <item component="ComponentInfo{trenes.com/trenes.trenes_app.MainActivity}" drawable="trenes_app" />
+    <item component="ComponentInfo{cab.office.reader/cab.ui.start.StartActivity}" drawable="vista_de_documentos" />
+    <item component="ComponentInfo{hn.zip.unzip.compressfile.extractfile.compressfolder/com.zipoapps.premiumhelper.ui.splash.PHSplashActivity}" drawable="zip_extractor" />
+    <item component="ComponentInfo{net.vonforst.evmap/net.vonforst.evmap.MapsActivity}" drawable="evmap" />
+    <item component="ComponentInfo{jp.nonbili.noutube/jp.nonbili.noutube.MainActivity}" drawable="noutube" />
+    <item component="ComponentInfo{de.noisruker.openPasskeyAuth/de.noisruker.openPasskeyAuth.ui.MainActivity}" drawable="opa" />
+    <item component="ComponentInfo{org.moire.opensudoku/org.moire.opensudoku.gui.screen.title.TitleScreenActivity}" drawable="open_sudoku" />
+    <item component="ComponentInfo{com.cumberland.rf.app/com.cumberland.rf.app.MainActivity}" drawable="network_analyzer_cumberland" />
 
 </resources>
 

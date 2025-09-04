@@ -6521,5 +6521,23 @@
     <AppIcon name="tv.wuaki/tv.wuaki.mobile.activity.LaunchActivity" image="rakuten_tv"/>
     <AppIcon name="net.speedgeo.android/net.speedgeo.android.Main" image="speed_test"/>
     <AppIcon name="org.wordpress.android/org.wordpress.android.ui.WPLaunchActivity" image="wordpress"/>
+    <AppIcon name="com.audible.application/com.audible.application.MainLauncher" image="audible"/>
+    <AppIcon name="de.szalkowski.activitylauncher.oss/de.szalkowski.activitylauncher.MainActivity" image="activity_launcher"/>
+    <AppIcon name="com.connectedmedia.fondly/com.connectedmedia.fondly.MainActivity" image="fondly"/>
+    <AppIcon name="org.fsociety.vernet.store/org.fsociety.vernet.MainActivity" image="vernet"/>
+    <AppIcon name="com.avg.cleaner/com.avast.android.cleaner.activity.StartActivity" image="avg_cleaner"/>
+    <AppIcon name="com.alldocreader.officesuite.documents.viewer/com.alldocreader.officesuite.documents.viewer.file_explorer_module.explorer_module_activities.Latest_M_SplashScreenActivity_search_module" image="explorador_de_archivos"/>
+    <AppIcon name="com.amosmobile.filex/com.amosmobile.filex.SuperExploperActivity" image="filex"/>
+    <AppIcon name="slowscript.httpfileserver/slowscript.httpfileserver.MainActivity" image="http_file_server"/>
+    <AppIcon name="com.srdev.jpgtopdf/com.srdev.jpgtopdf.Splash_Activity" image="jpg_to_pdf_converter_pdftools"/>
+    <AppIcon name="eu.duong.picturemanager/eu.duong.picturemanager.activities.MainActivity" image="renombrar_y_organizar"/>
+    <AppIcon name="trenes.com/trenes.trenes_app.MainActivity" image="trenes_app"/>
+    <AppIcon name="cab.office.reader/cab.ui.start.StartActivity" image="vista_de_documentos"/>
+    <AppIcon name="hn.zip.unzip.compressfile.extractfile.compressfolder/com.zipoapps.premiumhelper.ui.splash.PHSplashActivity" image="zip_extractor"/>
+    <AppIcon name="net.vonforst.evmap/net.vonforst.evmap.MapsActivity" image="evmap"/>
+    <AppIcon name="jp.nonbili.noutube/jp.nonbili.noutube.MainActivity" image="noutube"/>
+    <AppIcon name="de.noisruker.openPasskeyAuth/de.noisruker.openPasskeyAuth.ui.MainActivity" image="opa"/>
+    <AppIcon name="org.moire.opensudoku/org.moire.opensudoku.gui.screen.title.TitleScreenActivity" image="open_sudoku"/>
+    <AppIcon name="com.cumberland.rf.app/com.cumberland.rf.app.MainActivity" image="network_analyzer_cumberland"/>
 
 </Theme>
