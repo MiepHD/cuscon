@@ -297,6 +297,7 @@
     <item drawable="google_wifi" />
     <item drawable="googleassistant2" name="googleassistant" />
     <category title="Documents" />
+    <item drawable="read_all_document" />
     <item drawable="xsdev_docxreader" />
     <item drawable="word_office_visor_de_docx" name="Word Office DOCX Viewer" />
     <item drawable="mobile_doc_scanner" />
@@ -339,6 +340,8 @@
 	<item drawable="all_documents_reader" />
     <item drawable="all_document_reader_appone" />
     <category title="PDF" />
+    <item drawable="pdf_reader_pdfviewer_pdftozip_pdfeditor_jpgtopdf" />
+    <item drawable="pdf_scanner_app" />
     <item drawable="pdf_a_word" />
     <item drawable="pdf_reader_charles" />
     <item drawable="pdf_reader_smash" />
@@ -480,6 +483,7 @@
     <item drawable="_f_droid_kdi" />
     <item drawable="_sound_" />
     <category title="A" />
+    <item drawable="androxls" />
     <item drawable="avg_cleaner" />
     <item drawable="aqua_mail" />
     <item drawable="aok_2_faktor" name="AOK 2-Factor" />
@@ -1599,6 +1603,7 @@
 	<item drawable="cubic_2_3_4_player_games" />
 	<item drawable="currencies" />
     <category title="D" />
+    <item drawable="dr_nettools" />
     <item drawable="arztsuche" name="doctor search" />
     <item drawable="arzteblatt" name="Doctors’ Journal" />
     <item drawable="certificado_digital" name="Digital Certificate"/>
@@ -1903,6 +1908,7 @@
 	<item drawable="dynalist" />
 	<item drawable="dynamicspot" />
     <category title="E" />
+    <item drawable="escaner_de_red" name="network scanner" />
     <item drawable="evmap" />
     <item drawable="explorador_de_archivos" name="file explorer" />
     <item drawable="angol_szotar" name="English Dictionary" />
@@ -2079,6 +2085,7 @@
 	<item drawable="exodus" />
 	<item drawable="exteragram" />
     <category title="F" />
+    <item drawable="flair_wifi_analyzer" />
     <item drawable="filex" />
     <item drawable="fondly" />
     <item drawable="aves_libre" name="free birds" />
@@ -3294,6 +3301,7 @@
 	<item drawable="lucky_wasted" />
 	<item drawable="lux_o_meter_lichtmesser" />
     <category title="M" />
+    <item drawable="m_office" />
     <item drawable="bergfex_wetter" name="Mountain Fan Weather" />
     <item drawable="anghami" name="my tunes" />
     <item drawable="asmaky" name="my fish" />
@@ -3832,6 +3840,8 @@
     <item drawable="mailfence" />
     <item drawable="mailfr" />
     <category title="N" />
+    <item drawable="network_signal_strength_on_map" />
+    <item drawable="nuyo_wifi" />
     <item drawable="network_analyzer_cumberland" />
     <item drawable="noutube" />
     <item drawable="almaany_tadad" name="Numbers Dictionary" />
@@ -4680,6 +4690,7 @@
 	<item drawable="quik" />
 	<item drawable="quillpad" />
     <category title="R" />
+    <item drawable="control_remoto_de_impress" name="Remote Control for Impress" />
     <item drawable="renombrar_y_organizar" name="rename and organize" />
     <item drawable="blitzerde_pro" name="Radar Trap Germany Pro" />
     <item drawable="bahnbonus" name="Railway Bonus" />
@@ -4916,6 +4927,8 @@
 	<item drawable="rustdesk" />
 	<item drawable="rvx_music" />
     <category title="S" />
+    <item drawable="sheets_reader" />
+    <item drawable="sheet_editor" />
     <item drawable="banco_sabadell" name="Sabadell Bank" />
     <item drawable="anima" name="spirit" />
     <item drawable="awfarli" name="save for me" />
@@ -6141,6 +6154,9 @@
     <item drawable="adb_over_wifi" />
     <item drawable="ampwifi" />
     <category title="W" />
+    <item drawable="wifi_refresh" />
+    <item drawable="wifi_scanner_network_info" />
+    <item drawable="wi_fi_monitor" />
     <item drawable="wordpress" />
     <item drawable="wifi_file_transfer" />
     <item drawable="word_office" />
@@ -6325,6 +6341,7 @@
 	<item drawable="wx" />
 	<item drawable="wynk_music" />
     <category title="X" />
+    <item drawable="xls_viewer" />
     <item drawable="xed_editor" />
     <item drawable="xiaomi_earbuds" />
     <item drawable="xproguard_anti_theft" />

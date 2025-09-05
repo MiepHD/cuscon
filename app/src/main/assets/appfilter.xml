@@ -6655,6 +6655,23 @@
     <item component="ComponentInfo{de.noisruker.openPasskeyAuth/de.noisruker.openPasskeyAuth.ui.MainActivity}" drawable="opa" />
     <item component="ComponentInfo{org.moire.opensudoku/org.moire.opensudoku.gui.screen.title.TitleScreenActivity}" drawable="open_sudoku" />
     <item component="ComponentInfo{com.cumberland.rf.app/com.cumberland.rf.app.MainActivity}" drawable="network_analyzer_cumberland" />
+    <item component="ComponentInfo{pl.dronline.nettools/pl.dronline.nettools.MainActivity}" drawable="dr_nettools" />
+    <item component="ComponentInfo{daniel25.soft.networkscanner/daniel25.soft.networkscanner.MainActivity}" drawable="escaner_de_red" />
+    <item component="ComponentInfo{com.flairnetworks.wifi_analyzer/com.flairnetworks.wifi_analyzer.MainActivity}" drawable="flair_wifi_analyzer" />
+    <item component="ComponentInfo{com.cac.networkstrength/com.cac.networkstrength.activities.SplashActivity}" drawable="network_signal_strength_on_map" />
+    <item component="ComponentInfo{com.roysolberg.android.wifianalyzer/com.roysolberg.android.wifianalyzer.MainActivity}" drawable="nuyo_wifi" />
+    <item component="ComponentInfo{com.gonext.wifirepair/com.gonext.wifirepair.activities.SplashActivity}" drawable="wifi_refresh" />
+    <item component="ComponentInfo{com.wifimonitor.scan.smartscan.networkmanage/com.wifimonitor.scan.smartscan.networkmanage.ui.SplashActivity}" drawable="wifi_scanner_network_info" />
+    <item component="ComponentInfo{ru.andr7e.wifimonitor/ru.andr7e.deviceinfohw.DeviceInfoActivity}" drawable="wi_fi_monitor" />
+    <item component="ComponentInfo{com.entertain.androxls/com.entertain.androxls.MainActivity}" drawable="androxls" />
+    <item component="ComponentInfo{org.libreoffice.impressremote/org.libreoffice.impressremote.activity.ComputersActivity}" drawable="control_remoto_de_impress" />
+    <item component="ComponentInfo{com.mofficeprobg.allofficeformobile/com.mofficeprobg.allofficeformobile.screens.activities.SplashActivity}" drawable="m_office" />
+    <item component="ComponentInfo{com.pdfreader.pdfviewer.pdftozip.pdfeditor.jpgtopdf/com.pdfreader.pdfviewer.pdftozip.pdfeditor.jpgtopdf.UI.CheckPermissionUi}" drawable="pdf_reader_pdfviewer_pdftozip_pdfeditor_jpgtopdf" />
+    <item component="ComponentInfo{com.xstudios.fastscan/com.xstudios.fastscan.SplashActivity}" drawable="pdf_scanner_app" />
+    <item component="ComponentInfo{com.alldocument.pdfreader.pdfviewer.documentreader/com.alldocument.pdfreader.pdfviewer.documentreader.activitys.SplashActivity}" drawable="read_all_document" />
+    <item component="ComponentInfo{com.excel.spreadsheet.reader/com.excel.spreadsheet.reader.activities.opening.SplashActivity}" drawable="sheets_reader" />
+    <item component="ComponentInfo{com.xlsxviewerapp.xlsxreader.xlsxeditor.editexel.exel.xlsx.xls.spreadsheeteditor/com.its.ecxelreader.ui.activity.SplashScreenActivity}" drawable="sheet_editor" />
+    <item component="ComponentInfo{com.aq.excelviewer.xlspreadsheets.xlsreader.xlsfiles.xlsviewer.xlsfilereader.excelreader/com.xlsxfilesviewer.activities.StartActivity}" drawable="xls_viewer" />
 
 </resources>
 
