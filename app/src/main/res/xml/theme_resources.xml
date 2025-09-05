@@ -6539,5 +6539,22 @@
     <AppIcon name="de.noisruker.openPasskeyAuth/de.noisruker.openPasskeyAuth.ui.MainActivity" image="opa"/>
     <AppIcon name="org.moire.opensudoku/org.moire.opensudoku.gui.screen.title.TitleScreenActivity" image="open_sudoku"/>
     <AppIcon name="com.cumberland.rf.app/com.cumberland.rf.app.MainActivity" image="network_analyzer_cumberland"/>
+    <AppIcon name="pl.dronline.nettools/pl.dronline.nettools.MainActivity" image="dr_nettools"/>
+    <AppIcon name="daniel25.soft.networkscanner/daniel25.soft.networkscanner.MainActivity" image="escaner_de_red"/>
+    <AppIcon name="com.flairnetworks.wifi_analyzer/com.flairnetworks.wifi_analyzer.MainActivity" image="flair_wifi_analyzer"/>
+    <AppIcon name="com.cac.networkstrength/com.cac.networkstrength.activities.SplashActivity" image="network_signal_strength_on_map"/>
+    <AppIcon name="com.roysolberg.android.wifianalyzer/com.roysolberg.android.wifianalyzer.MainActivity" image="nuyo_wifi"/>
+    <AppIcon name="com.gonext.wifirepair/com.gonext.wifirepair.activities.SplashActivity" image="wifi_refresh"/>
+    <AppIcon name="com.wifimonitor.scan.smartscan.networkmanage/com.wifimonitor.scan.smartscan.networkmanage.ui.SplashActivity" image="wifi_scanner_network_info"/>
+    <AppIcon name="ru.andr7e.wifimonitor/ru.andr7e.deviceinfohw.DeviceInfoActivity" image="wi_fi_monitor"/>
+    <AppIcon name="com.entertain.androxls/com.entertain.androxls.MainActivity" image="androxls"/>
+    <AppIcon name="org.libreoffice.impressremote/org.libreoffice.impressremote.activity.ComputersActivity" image="control_remoto_de_impress"/>
+    <AppIcon name="com.mofficeprobg.allofficeformobile/com.mofficeprobg.allofficeformobile.screens.activities.SplashActivity" image="m_office"/>
+    <AppIcon name="com.pdfreader.pdfviewer.pdftozip.pdfeditor.jpgtopdf/com.pdfreader.pdfviewer.pdftozip.pdfeditor.jpgtopdf.UI.CheckPermissionUi" image="pdf_reader_pdfviewer_pdftozip_pdfeditor_jpgtopdf"/>
+    <AppIcon name="com.xstudios.fastscan/com.xstudios.fastscan.SplashActivity" image="pdf_scanner_app"/>
+    <AppIcon name="com.alldocument.pdfreader.pdfviewer.documentreader/com.alldocument.pdfreader.pdfviewer.documentreader.activitys.SplashActivity" image="read_all_document"/>
+    <AppIcon name="com.excel.spreadsheet.reader/com.excel.spreadsheet.reader.activities.opening.SplashActivity" image="sheets_reader"/>
+    <AppIcon name="com.xlsxviewerapp.xlsxreader.xlsxeditor.editexel.exel.xlsx.xls.spreadsheeteditor/com.its.ecxelreader.ui.activity.SplashScreenActivity" image="sheet_editor"/>
+    <AppIcon name="com.aq.excelviewer.xlspreadsheets.xlsreader.xlsfiles.xlsviewer.xlsfilereader.excelreader/com.xlsxfilesviewer.activities.StartActivity" image="xls_viewer"/>
 
 </Theme>
