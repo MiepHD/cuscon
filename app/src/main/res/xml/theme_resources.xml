@@ -4170,7 +4170,7 @@
     <AppIcon name="cc.microblock.TGStickerProvider/cc.microblock.TGStickerProvider.Home" image="tgstickerprovider"/>
     <AppIcon name="com.fankes.tsbattery/com.fankes.tsbattery.Home" image="tsbattery"/>
     <AppIcon name="com.ubisoft.uplay/com.zoontek.rnbootsplash.RNBootSplashActivity" image="ubisoft_connect"/>
-    <AppIcon name="com.microsoft.xboxone.smartglass.beta/com.microsoft.xbox.MainActivity" image="xbox_beta"/>
+    <AppIcon name="com.microsoft.xboxone.smartglass.beta/com.microsoft.xbox.MainActivity" image="xbox"/>
     <AppIcon name="org.yuzu.yuzu_emu/org.yuzu.yuzu_emu.ui.main.MainActivity" image="yuzu"/>
     <AppIcon name="com.pleiades.pleione.base64/com.pleiades.pleione.base64.ui.SplashActivity" image="base_64"/>
     <AppIcon name="org.akanework.gramophone/org.akanework.gramophone.ui.MainActivity" image="gramophone"/>

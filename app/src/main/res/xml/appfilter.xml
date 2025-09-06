@@ -4188,7 +4188,7 @@
     <item component="ComponentInfo{cc.microblock.TGStickerProvider/cc.microblock.TGStickerProvider.Home}" drawable="tgstickerprovider" />
     <item component="ComponentInfo{com.fankes.tsbattery/com.fankes.tsbattery.Home}" drawable="tsbattery" />
     <item component="ComponentInfo{com.ubisoft.uplay/com.zoontek.rnbootsplash.RNBootSplashActivity}" drawable="ubisoft_connect" />
-    <item component="ComponentInfo{com.microsoft.xboxone.smartglass.beta/com.microsoft.xbox.MainActivity}" drawable="xbox_beta" />
+    <item component="ComponentInfo{com.microsoft.xboxone.smartglass.beta/com.microsoft.xbox.MainActivity}" drawable="xbox" />
     <item component="ComponentInfo{org.yuzu.yuzu_emu/org.yuzu.yuzu_emu.ui.main.MainActivity}" drawable="yuzu" />
     <item component="ComponentInfo{com.pleiades.pleione.base64/com.pleiades.pleione.base64.ui.SplashActivity}" drawable="base_64" />
     <item component="ComponentInfo{org.akanework.gramophone/org.akanework.gramophone.ui.MainActivity}" drawable="gramophone" />
