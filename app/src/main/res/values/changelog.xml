@@ -3,7 +3,9 @@
     <string name="changelog_date">06.09.2025</string>
     <string-array name="changelog">
         <item>4.0.6.5:</item>
-        <item>Improved quality of Minecraft and icons from U to end of Z</item>
+        <item>Improved quality of Minecraft and icons from U to end of C</item>
+        <item>Fixed Ally, Weather Master</item>
+        <item>Added JoiPlay</item>
         <item>4.0.6.4:</item>
         <item>Added fondly, AVG Cleaner, Explorador de archivos, FILEX, HTTP File Server, JPG to PDF Converter, PDFTools, Renombrar y organizar, trenes_app, Vista de documentos, Zip Extractor, EVMap, NouTube, OPA, Open Sudoku, Network Analyzer, DR-NetTools, Escáner de Red, Flair Wifi Analyzer, Network Signal Strength On Map, Nuyo WiFi, Wifi Refresh, WiFi Scanner: Network Info, Wi-Fi Monitor, AndroXLS, Control remoto de Impress, M-Office, PDF Reader, PDF Scanner App, Read All Document, Sheets Reader, Sheet Editor, XLS Viewer</item>
         <item>Fixed Audible, Activity Launcher, Vernet</item>

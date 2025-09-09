@@ -1227,7 +1227,6 @@
     <item drawable="c_and_a" />
     <item drawable="conforama" />
     <item drawable="cabify" />
-    <item drawable="characterai" />
     <item drawable="codora" />
     <item drawable="coincalc" />
     <item drawable="crypto" />
@@ -1517,7 +1516,7 @@
     <item drawable="cubex" />
     <item drawable="curawork" />
     <item drawable="curiosity_stream" />
-    <item drawable="curso_de_mecanica" name="curso_of_mecanica" />
+    <item drawable="curso_de_mecanica" name="Curso of Mecanica" />
     <item drawable="cuscon" />
     <item drawable="cutecalc" />
     <item drawable="cutlist_optimizer" />
@@ -2911,6 +2910,7 @@
 	<item drawable="ir_remote" />
 	<item drawable="iron" />
     <category title="J" />
+    <item drawable="joiplay" />
     <item drawable="jpg_to_pdf_converter_pdftools" />
     <item drawable="jitsi_meet" />
     <item drawable="joom" />

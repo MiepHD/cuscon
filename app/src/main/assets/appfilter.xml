@@ -6672,6 +6672,9 @@
     <item component="ComponentInfo{com.excel.spreadsheet.reader/com.excel.spreadsheet.reader.activities.opening.SplashActivity}" drawable="sheets_reader" />
     <item component="ComponentInfo{com.xlsxviewerapp.xlsxreader.xlsxeditor.editexel.exel.xlsx.xls.spreadsheeteditor/com.its.ecxelreader.ui.activity.SplashScreenActivity}" drawable="sheet_editor" />
     <item component="ComponentInfo{com.aq.excelviewer.xlspreadsheets.xlsreader.xlsfiles.xlsviewer.xlsfilereader.excelreader/com.xlsxfilesviewer.activities.StartActivity}" drawable="xls_viewer" />
+    <item component="ComponentInfo{com.ally.MobileBanking/com.ally.MobileBanking.splash.SplashScreenActivity}" drawable="ally" />
+    <item component="ComponentInfo{com.pranshulgg.weather_master_app/com.pranshulgg.weather_master_app.MainActivity}" drawable="weather_master" />
+    <item component="ComponentInfo{cyou.joiplay.joiplay/cyou.joiplay.joiplay.activities.SplashActivity}" drawable="joiplay" />
 
 </resources>
 

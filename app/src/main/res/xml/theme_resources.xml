@@ -6556,5 +6556,8 @@
     <AppIcon name="com.excel.spreadsheet.reader/com.excel.spreadsheet.reader.activities.opening.SplashActivity" image="sheets_reader"/>
     <AppIcon name="com.xlsxviewerapp.xlsxreader.xlsxeditor.editexel.exel.xlsx.xls.spreadsheeteditor/com.its.ecxelreader.ui.activity.SplashScreenActivity" image="sheet_editor"/>
     <AppIcon name="com.aq.excelviewer.xlspreadsheets.xlsreader.xlsfiles.xlsviewer.xlsfilereader.excelreader/com.xlsxfilesviewer.activities.StartActivity" image="xls_viewer"/>
+    <AppIcon name="com.ally.MobileBanking/com.ally.MobileBanking.splash.SplashScreenActivity" image="ally"/>
+    <AppIcon name="com.pranshulgg.weather_master_app/com.pranshulgg.weather_master_app.MainActivity" image="weather_master"/>
+    <AppIcon name="cyou.joiplay.joiplay/cyou.joiplay.joiplay.activities.SplashActivity" image="joiplay"/>
 
 </Theme>
