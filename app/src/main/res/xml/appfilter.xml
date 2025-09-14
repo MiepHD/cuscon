@@ -6675,6 +6675,26 @@
     <item component="ComponentInfo{com.ally.MobileBanking/com.ally.MobileBanking.splash.SplashScreenActivity}" drawable="ally" />
     <item component="ComponentInfo{com.pranshulgg.weather_master_app/com.pranshulgg.weather_master_app.MainActivity}" drawable="weather_master" />
     <item component="ComponentInfo{cyou.joiplay.joiplay/cyou.joiplay.joiplay.activities.SplashActivity}" drawable="joiplay" />
+    <item component="ComponentInfo{com.amazfitwatchfaces.st/com.amazfitwatchfaces.st.MainActivity}" drawable="amazfaces" />
+    <item component="ComponentInfo{it.aruba.pec.mobile/it.aruba.mobile.uxlib.loginUx.LoginActivity}" drawable="aruba_pec" />
+    <item component="ComponentInfo{com.playstack.balatro.android/org.love2d.android.PlatformActivity}" drawable="balatro" />
+    <item component="ComponentInfo{com.ominous.batterynotification/com.ominous.batterynotification.activity.SettingsActivity}" drawable="battery_notification" />
+    <item component="ComponentInfo{com.gree.ewpesmart/io.gree.activity.loading.LoadingInitActivity}" drawable="ewpe_smart" />
+    <item component="ComponentInfo{com.blizzard.wtcg.hearthstone/com.blizzard.wtcg.hearthstone.HearthstoneActivity}" drawable="hearthstone" />
+    <item component="ComponentInfo{org.axpos.lovelaceav/us.spotco.malwarescanner.MainActivity}" drawable="lovelaceav" />
+    <item component="ComponentInfo{com.futsch1.medtimer/com.futsch1.medtimer.MainActivity}" drawable="medtimer" />
+    <item component="ComponentInfo{net.myanimelist.app/net.myanimelist.presentation.activity.HomeActivity}" drawable="myanimelist" />
+    <item component="ComponentInfo{it.telecomitalia.centodiciannove/it.tim.mytim.SplashActivity}" drawable="mytim" />
+    <item component="ComponentInfo{com.streetwriters.notesnook/com.streetwriters.notesnook.MainActivity}" drawable="notesnook" />
+    <item component="ComponentInfo{app.panoramax/com.panoramax.app.MainActivity}" drawable="panoramax" />
+    <item component="ComponentInfo{posteitaliane.posteapp.appposteid/posteitaliane.posteapp.appposteid.welcome.WelcomeAct}" drawable="posteid" />
+    <item component="ComponentInfo{posteitaliane.posteapp.apppostepay/posteitaliane.posteapp.apppostepay.ui.activity.SplashActivity}" drawable="postepay" />
+    <item component="ComponentInfo{com.posteitaliane.spim/it.posteitaliane.df_home.splash.SplashActivity}" drawable="poste_italiane" />
+    <item component="ComponentInfo{it.relaxbanking/com.relax.MainActivity}" drawable="relax_banking" />
+    <item component="ComponentInfo{com.honeywell.android.lyric/com.honeywell.granite.graniteui.presentation.activity.dashboard.DashBoardActivity}" drawable="resideo" />
+    <item component="ComponentInfo{com.ammar.sharing/com.ammar.sharing.activities.MainActivity.MainActivity}" drawable="sharing" />
+    <item component="ComponentInfo{com.marsvard.stickermakerforwhatsapp/com.marsvard.stickermakerforwhatsapp.main.MainActivity}" drawable="sticker_maker" />
+    <item component="ComponentInfo{com.groupeseb.ext.xplorer/com.smart.ThingSplashActivity}" drawable="x_plorer_s75_s95" />
 
 </resources>
 

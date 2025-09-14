@@ -483,6 +483,8 @@
     <item drawable="_f_droid_kdi" />
     <item drawable="_sound_" />
     <category title="A" />
+    <item drawable="amazfaces" />
+    <item drawable="aruba_pec" />
     <item drawable="androxls" />
     <item drawable="avg_cleaner" />
     <item drawable="aqua_mail" />
@@ -946,6 +948,8 @@
 	<item drawable="awox_homecontrol" />
 	<item drawable="axp_apk_extractor" />
     <category title="B" />
+    <item drawable="balatro" name="clown" />
+    <item drawable="battery_notification" />
     <item drawable="broearn" />
     <item drawable="banggood" />
     <item drawable="bauhaus" />
@@ -1907,6 +1911,7 @@
 	<item drawable="dynalist" />
 	<item drawable="dynamicspot" />
     <category title="E" />
+    <item drawable="ewpe_smart" />
     <item drawable="escaner_de_red" name="network scanner" />
     <item drawable="evmap" />
     <item drawable="explorador_de_archivos" name="file explorer" />
@@ -2578,6 +2583,7 @@
 	<item drawable="gspace" />
 	<item drawable="guerrilla_mail" />
     <category title="H" />
+    <item drawable="hearthstone" />
     <item drawable="http_file_server" />
     <item drawable="bonjour_ratp" name="Hello RATP" />
     <item drawable="badanie_sluchu" name="hearing test" />
@@ -3119,6 +3125,7 @@
 	<item drawable="kutumb" />
 	<item drawable="kwgt_pro" />
     <category title="L" />
+    <item drawable="lovelaceav" />
     <item drawable="blitzortung_moniteur_dactivite_orageuse" name="Lightning Location Thunderstorm Activity Monitor" />
     <item drawable="biedronka" name="ladybug" />
     <item drawable="audire" name="listen" />
@@ -3301,6 +3308,9 @@
 	<item drawable="lucky_wasted" />
 	<item drawable="lux_o_meter_lichtmesser" />
     <category title="M" />
+    <item drawable="medtimer" />
+    <item drawable="myanimelist" />
+    <item drawable="mytim" />
     <item drawable="m_office" />
     <item drawable="bergfex_wetter" name="Mountain Fan Weather" />
     <item drawable="anghami" name="my tunes" />
@@ -3840,6 +3850,7 @@
     <item drawable="mailfence" />
     <item drawable="mailfr" />
     <category title="N" />
+    <item drawable="notesnook" />
     <item drawable="network_signal_strength_on_map" />
     <item drawable="nuyo_wifi" />
     <item drawable="network_analyzer_cumberland" />
@@ -4254,6 +4265,10 @@
 	<item drawable="osmand_" />
 	<item drawable="ovag_e_mobil" />
     <category title="P" />
+    <item drawable="panoramax" />
+    <item drawable="posteid" name="PostID" />
+    <item drawable="postepay" name="PostPay" />
+    <item drawable="poste_italiane" name="Italien Mail" />
     <item drawable="ameixa" name="Plum" />
     <item drawable="phototan" />
     <item drawable="paprika_3" />
@@ -4690,6 +4705,8 @@
 	<item drawable="quik" />
 	<item drawable="quillpad" />
     <category title="R" />
+    <item drawable="relax_banking" />
+    <item drawable="resideo" />
     <item drawable="control_remoto_de_impress" name="Remote Control for Impress" />
     <item drawable="renombrar_y_organizar" name="rename and organize" />
     <item drawable="blitzerde_pro" name="Radar Trap Germany Pro" />
@@ -4927,6 +4944,8 @@
 	<item drawable="rustdesk" />
 	<item drawable="rvx_music" />
     <category title="S" />
+    <item drawable="sharing" />
+    <item drawable="sticker_maker" />
     <item drawable="sheets_reader" />
     <item drawable="sheet_editor" />
     <item drawable="banco_sabadell" name="Sabadell Bank" />
@@ -6341,6 +6360,7 @@
 	<item drawable="wx" />
 	<item drawable="wynk_music" />
     <category title="X" />
+    <item drawable="x_plorer_s75_s95" />
     <item drawable="xls_viewer" />
     <item drawable="xed_editor" />
     <item drawable="xiaomi_earbuds" />

@@ -6559,5 +6559,25 @@
     <AppIcon name="com.ally.MobileBanking/com.ally.MobileBanking.splash.SplashScreenActivity" image="ally"/>
     <AppIcon name="com.pranshulgg.weather_master_app/com.pranshulgg.weather_master_app.MainActivity" image="weather_master"/>
     <AppIcon name="cyou.joiplay.joiplay/cyou.joiplay.joiplay.activities.SplashActivity" image="joiplay"/>
+    <AppIcon name="com.amazfitwatchfaces.st/com.amazfitwatchfaces.st.MainActivity" image="amazfaces"/>
+    <AppIcon name="it.aruba.pec.mobile/it.aruba.mobile.uxlib.loginUx.LoginActivity" image="aruba_pec"/>
+    <AppIcon name="com.playstack.balatro.android/org.love2d.android.PlatformActivity" image="balatro"/>
+    <AppIcon name="com.ominous.batterynotification/com.ominous.batterynotification.activity.SettingsActivity" image="battery_notification"/>
+    <AppIcon name="com.gree.ewpesmart/io.gree.activity.loading.LoadingInitActivity" image="ewpe_smart"/>
+    <AppIcon name="com.blizzard.wtcg.hearthstone/com.blizzard.wtcg.hearthstone.HearthstoneActivity" image="hearthstone"/>
+    <AppIcon name="org.axpos.lovelaceav/us.spotco.malwarescanner.MainActivity" image="lovelaceav"/>
+    <AppIcon name="com.futsch1.medtimer/com.futsch1.medtimer.MainActivity" image="medtimer"/>
+    <AppIcon name="net.myanimelist.app/net.myanimelist.presentation.activity.HomeActivity" image="myanimelist"/>
+    <AppIcon name="it.telecomitalia.centodiciannove/it.tim.mytim.SplashActivity" image="mytim"/>
+    <AppIcon name="com.streetwriters.notesnook/com.streetwriters.notesnook.MainActivity" image="notesnook"/>
+    <AppIcon name="app.panoramax/com.panoramax.app.MainActivity" image="panoramax"/>
+    <AppIcon name="posteitaliane.posteapp.appposteid/posteitaliane.posteapp.appposteid.welcome.WelcomeAct" image="posteid"/>
+    <AppIcon name="posteitaliane.posteapp.apppostepay/posteitaliane.posteapp.apppostepay.ui.activity.SplashActivity" image="postepay"/>
+    <AppIcon name="com.posteitaliane.spim/it.posteitaliane.df_home.splash.SplashActivity" image="poste_italiane"/>
+    <AppIcon name="it.relaxbanking/com.relax.MainActivity" image="relax_banking"/>
+    <AppIcon name="com.honeywell.android.lyric/com.honeywell.granite.graniteui.presentation.activity.dashboard.DashBoardActivity" image="resideo"/>
+    <AppIcon name="com.ammar.sharing/com.ammar.sharing.activities.MainActivity.MainActivity" image="sharing"/>
+    <AppIcon name="com.marsvard.stickermakerforwhatsapp/com.marsvard.stickermakerforwhatsapp.main.MainActivity" image="sticker_maker"/>
+    <AppIcon name="com.groupeseb.ext.xplorer/com.smart.ThingSplashActivity" image="x_plorer_s75_s95"/>
 
 </Theme>
