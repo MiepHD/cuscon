@@ -76,10 +76,13 @@
             -->
     <string name="home_description">
         <![CDATA[
+            Hi there,
+            I'm doing a little survey to get to know how my app is used. Please consider doing the quick survey with 5-20 questions. It'd help me a lot. <3
+            <a href="yazazuyo.limesurvey.net/571155">yazazuyo.limesurvey.net/571155</a>
+
             Please donate if you like this icon pack: <a href="https://www.buymeacoffee.com/yazazuyo">buymeacoffee.com/yazazuyo</a><br>
             If you want to help extend the icon pack through adding your icons you can open an issue on <a href="https://github.com/MiepHD/cuscon">Github</a> containing the request with edited images that match the requirements.<br>
             If you don\'t want to do them yourself you can purchase premium requests in the Google Play Store version or use the donation option and create a request as explained on <a href="https://github.com/MiepHD/cuscon">Github</a>.
-            Can be used with Themepark (from Samsung Store)
         ]]>
     </string>
 
