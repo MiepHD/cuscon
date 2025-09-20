@@ -6579,5 +6579,8 @@
     <AppIcon name="com.ammar.sharing/com.ammar.sharing.activities.MainActivity.MainActivity" image="sharing"/>
     <AppIcon name="com.marsvard.stickermakerforwhatsapp/com.marsvard.stickermakerforwhatsapp.main.MainActivity" image="sticker_maker"/>
     <AppIcon name="com.groupeseb.ext.xplorer/com.smart.ThingSplashActivity" image="x_plorer_s75_s95"/>
+    <AppIcon name="com.github.catfriend1.syncthingfork/com.nutomic.syncthingandroid.activities.FirstStartActivity" image="syncthing_fork"/>
+    <AppIcon name="at.bitfire.icsdroid/at.bitfire.icsdroid.MainActivity" image="icsx5_31"/>
+    <AppIcon name="com.machiav3lli.backup/com.machiav3lli.backup.ui.activities.NeoActivity" image="neo_backup_blue"/>
 
 </Theme>

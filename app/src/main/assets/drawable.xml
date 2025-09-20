@@ -4038,6 +4038,7 @@
 	<item drawable="navegador_web_basico" name="browser_web_basico" />
 	<item drawable="nekogram_x" />
 	<item drawable="neo_backup" />
+    <item drawable="neo_backup_blue" />
 	<item drawable="neo_launcher" />
 	<item drawable="neo_store" />
 	<item drawable="netguard" />
