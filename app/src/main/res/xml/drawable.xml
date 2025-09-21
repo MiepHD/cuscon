@@ -4274,6 +4274,7 @@
 	<item drawable="osmand_" />
 	<item drawable="ovag_e_mobil" />
     <category title="P" />
+    <item drawable="puppygit" />
     <item drawable="panoramax" />
     <item drawable="posteid" name="PostID" />
     <item drawable="postepay" name="PostPay" />

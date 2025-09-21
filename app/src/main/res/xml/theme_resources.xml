@@ -6593,5 +6593,7 @@
     <AppIcon name="com.oF2pks.jquarks/org.lineageos.jelly.MainActivity" image="jquarks"/>
     <AppIcon name="com.tengu.sharetoclipboard/com.tengu.sharetoclipboard.MainActivity" image="share_to_clipboard"/>
     <AppIcon name="com.tobykurien.webapps/com.tobykurien.webapps.activity.MainActivity" image="webapps"/>
+    <AppIcon name="jp.ne.ibis.ibispaintx.app/jp.ne.ibis.ibispaintx.app.InitializeCheckActivity" image="ibispaint_x"/>
+    <AppIcon name="com.catpuppyapp.puppygit.play.pro/com.catpuppyapp.puppygit.activity.MainActivity" image="puppygit"/>
 
 </Theme>

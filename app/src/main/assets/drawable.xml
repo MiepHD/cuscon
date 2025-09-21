@@ -948,6 +948,7 @@
 	<item drawable="awox_homecontrol" />
 	<item drawable="axp_apk_extractor" />
     <category title="B" />
+    <item drawable="bt_remote" />
     <item drawable="balatro" name="clown" />
     <item drawable="battery_notification" />
     <item drawable="broearn" />
@@ -1222,6 +1223,7 @@
 	<item drawable="bycs_drive" />
     <item drawable="ballozi_skynox" />
     <category title="C" />
+    <item drawable="comaps" />
     <item drawable="aday_islemleri" name="Candidate Management" />
     <item drawable="appareil_photo" name="Camera" />
     <item drawable="computadora" />
@@ -1606,6 +1608,7 @@
 	<item drawable="cubic_2_3_4_player_games" />
 	<item drawable="currencies" />
     <category title="D" />
+    <item drawable="dr_lyd" />
     <item drawable="dr_nettools" />
     <item drawable="arztsuche" name="doctor search" />
     <item drawable="arzteblatt" name="Doctors’ Journal" />
@@ -2089,6 +2092,10 @@
 	<item drawable="exodus" />
 	<item drawable="exteragram" />
     <category title="F" />
+    <item drawable="foldersync_pro" />
+    <item drawable="fork_client" />
+    <item drawable="f_droid_classic" />
+    <item drawable="flight_pass" />
     <item drawable="flair_wifi_analyzer" />
     <item drawable="filex" />
     <item drawable="fondly" />
@@ -2916,6 +2923,7 @@
 	<item drawable="ir_remote" />
 	<item drawable="iron" />
     <category title="J" />
+    <item drawable="jquarks" />
     <item drawable="joiplay" />
     <item drawable="jpg_to_pdf_converter_pdftools" />
     <item drawable="jitsi_meet" />
@@ -4266,6 +4274,7 @@
 	<item drawable="osmand_" />
 	<item drawable="ovag_e_mobil" />
     <category title="P" />
+    <item drawable="puppygit" />
     <item drawable="panoramax" />
     <item drawable="posteid" name="PostID" />
     <item drawable="postepay" name="PostPay" />
@@ -4945,6 +4954,7 @@
 	<item drawable="rustdesk" />
 	<item drawable="rvx_music" />
     <category title="S" />
+    <item drawable="share_to_clipboard" />
     <item drawable="sharing" />
     <item drawable="sticker_maker" />
     <item drawable="sheets_reader" />
@@ -6174,6 +6184,7 @@
     <item drawable="adb_over_wifi" />
     <item drawable="ampwifi" />
     <category title="W" />
+    <item drawable="webapps" />
     <item drawable="wifi_refresh" />
     <item drawable="wifi_scanner_network_info" />
     <item drawable="wi_fi_monitor" />

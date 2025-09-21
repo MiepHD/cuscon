@@ -6709,6 +6709,8 @@
     <item component="ComponentInfo{com.oF2pks.jquarks/org.lineageos.jelly.MainActivity}" drawable="jquarks" />
     <item component="ComponentInfo{com.tengu.sharetoclipboard/com.tengu.sharetoclipboard.MainActivity}" drawable="share_to_clipboard" />
     <item component="ComponentInfo{com.tobykurien.webapps/com.tobykurien.webapps.activity.MainActivity}" drawable="webapps" />
+    <item component="ComponentInfo{jp.ne.ibis.ibispaintx.app/jp.ne.ibis.ibispaintx.app.InitializeCheckActivity}" drawable="ibispaint_x" />
+    <item component="ComponentInfo{com.catpuppyapp.puppygit.play.pro/com.catpuppyapp.puppygit.activity.MainActivity}" drawable="puppygit" />
 
 </resources>
 
