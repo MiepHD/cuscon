@@ -1,2 +1,2 @@
-Fixed Syncthing-Fork, ICSx⁵
-Added Neo Backup
+Fixed Syncthing-Fork, ICSx⁵, Wire
+Added Neo Backup, BT Remote, DR LYD, Flight Pass, CoMaps, FolderSync Pro, Fork Client, F-Droid Classic, jQuarks, Share to Clipboard, WebApps

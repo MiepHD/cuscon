@@ -6698,6 +6698,17 @@
     <item component="ComponentInfo{com.github.catfriend1.syncthingfork/com.nutomic.syncthingandroid.activities.FirstStartActivity}" drawable="syncthing_fork" />
     <calendar component="ComponentInfo{at.bitfire.icsdroid/at.bitfire.icsdroid.MainActivity}" prefix="icsx5_" />
     <item component="ComponentInfo{com.machiav3lli.backup/com.machiav3lli.backup.ui.activities.NeoActivity}" drawable="neo_backup_blue" />
+    <item component="ComponentInfo{com.wire/com.wire.android.ui.WireActivity}" drawable="wire" />
+    <item component="ComponentInfo{com.atharok.btremote/com.atharok.btremote.presentation.activities.MainActivity}" drawable="bt_remote" />
+    <item component="ComponentInfo{dk.dr.radio/dk.dr.radio.SplashActivity}" drawable="dr_lyd" />
+    <item component="ComponentInfo{com.flight.manager.scanner/com.flight.manager.scanner.home.HomeActivity}" drawable="flight_pass" />
+    <item component="ComponentInfo{app.comaps.fdroid/app.organicmaps.DownloadResourcesActivity}" drawable="comaps" />
+    <item component="ComponentInfo{dk.tacit.android.foldersync.app/dk.tacit.android.foldersync.activity.MainActivity}" drawable="foldersync_pro" />
+    <item component="ComponentInfo{org.forkgram.messenger/org.telegram.messenger.DefaultIcon}" drawable="fork_client" />
+    <item component="ComponentInfo{eu.bubu1.fdroidclassic/org.fdroid.fdroid.FDroid}" drawable="f_droid_classic" />
+    <item component="ComponentInfo{com.oF2pks.jquarks/org.lineageos.jelly.MainActivity}" drawable="jquarks" />
+    <item component="ComponentInfo{com.tengu.sharetoclipboard/com.tengu.sharetoclipboard.MainActivity}" drawable="share_to_clipboard" />
+    <item component="ComponentInfo{com.tobykurien.webapps/com.tobykurien.webapps.activity.MainActivity}" drawable="webapps" />
 
 </resources>
 

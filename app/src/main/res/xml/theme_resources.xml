@@ -6582,5 +6582,16 @@
     <AppIcon name="com.github.catfriend1.syncthingfork/com.nutomic.syncthingandroid.activities.FirstStartActivity" image="syncthing_fork"/>
     <AppIcon name="at.bitfire.icsdroid/at.bitfire.icsdroid.MainActivity" image="icsx5_31"/>
     <AppIcon name="com.machiav3lli.backup/com.machiav3lli.backup.ui.activities.NeoActivity" image="neo_backup_blue"/>
+    <AppIcon name="com.wire/com.wire.android.ui.WireActivity" image="wire"/>
+    <AppIcon name="com.atharok.btremote/com.atharok.btremote.presentation.activities.MainActivity" image="bt_remote"/>
+    <AppIcon name="dk.dr.radio/dk.dr.radio.SplashActivity" image="dr_lyd"/>
+    <AppIcon name="com.flight.manager.scanner/com.flight.manager.scanner.home.HomeActivity" image="flight_pass"/>
+    <AppIcon name="app.comaps.fdroid/app.organicmaps.DownloadResourcesActivity" image="comaps"/>
+    <AppIcon name="dk.tacit.android.foldersync.app/dk.tacit.android.foldersync.activity.MainActivity" image="foldersync_pro"/>
+    <AppIcon name="org.forkgram.messenger/org.telegram.messenger.DefaultIcon" image="fork_client"/>
+    <AppIcon name="eu.bubu1.fdroidclassic/org.fdroid.fdroid.FDroid" image="f_droid_classic"/>
+    <AppIcon name="com.oF2pks.jquarks/org.lineageos.jelly.MainActivity" image="jquarks"/>
+    <AppIcon name="com.tengu.sharetoclipboard/com.tengu.sharetoclipboard.MainActivity" image="share_to_clipboard"/>
+    <AppIcon name="com.tobykurien.webapps/com.tobykurien.webapps.activity.MainActivity" image="webapps"/>
 
 </Theme>

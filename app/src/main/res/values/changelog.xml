@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="changelog_date">20.09.2025</string>
+    <string name="changelog_date">21.09.2025</string>
     <string-array name="changelog">
         <item>4.0.6.7:</item>
-        <item>Fixed Syncthing-Fork, ICSx⁵</item>
-        <item>Added Neo Backup</item>
+        <item>Fixed Syncthing-Fork, ICSx⁵, Wire</item>
+        <item>Added Neo Backup, BT Remote, DR LYD, Flight Pass, CoMaps, FolderSync Pro, Fork Client, F-Droid Classic, jQuarks, Share to Clipboard, WebApps</item>
         <item>4.0.6.6:</item>
         <item>Added AmazFaces, Aruba PEC, Balatro, Battery Notification, Ewpe Smart, Hearthstone, LoveLaceAV, MedTimer, MyAnimeList, MyTIM, Notesnook, Panoramax, PosteID, Postepay, Poste Italiane, Relax Banking, Resideo, sharing, Sticker Maker, X-Plorer S75-S95</item>
         <item>4.0.6.5:</item>
