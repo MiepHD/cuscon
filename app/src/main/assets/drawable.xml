@@ -432,7 +432,6 @@
     <item drawable="helios_file_manager" />
     <item drawable="globalfileexplorer_file_manager" />
     <item drawable="filemanager" />
-    <item drawable="file_manager" />
     <item drawable="fennec_file_manager" />
     <item drawable="file_manager" />
     <item drawable="file_manager_by_lufick" />
@@ -527,7 +526,6 @@
     <item drawable="mysword_for_android" />
     <item drawable="keepass2android" />
     <item drawable="keepass2android_offline" />
-    <item drawable="keepass2android" />
     <item drawable="fcitx5_for_android" />
     <item drawable="el_androide_libre" />
     <item drawable="calculator_for_android_wear" />
@@ -681,7 +679,6 @@
     <item drawable="next_db_navigator" />
     <item drawable="db_navigator" />
     <item drawable="db_streckenagent" />
-    <item drawable="db_navigator" />
     <item drawable="db_nrway" />
     <item drawable="db_signale" />
     <item drawable="db_app" />
@@ -746,7 +743,6 @@
     <item drawable="screen_recorder" />
     <item drawable="super_recorder" />
     <item drawable="srecorder" />
-    <item drawable="screen_recorder" />
     <item drawable="screen_recorder_with_facecam" />
     <item drawable="smart_recorder" />
     <item drawable="recorder" />
@@ -1180,6 +1176,7 @@
 	<item drawable="awoken" />
 	<item drawable="awox_homecontrol" />
     <category title="B" />
+    <item drawable="bluetooth_scanner" />
     <item drawable="bt_remote" />
     <item drawable="balatro" name="clown" />
     <item drawable="battery_notification" />
@@ -1450,6 +1447,7 @@
 	<item drawable="bycs_drive" />
     <item drawable="ballozi_skynox" />
     <category title="C" />
+    <item drawable="camscanner" />
     <item drawable="comaps" />
     <item drawable="aday_islemleri" name="Candidate Management" />
     <item drawable="appareil_photo" name="Camera" />
@@ -2539,6 +2537,7 @@
 	<item drawable="futo_voice_input" />
 	<item drawable="fx" />
     <category title="G" />
+    <item drawable="gimp" />
     <item drawable="bonpreu" name="good price" />
     <item drawable="autenticacao_gov" name="Government Authentication" />
     <item drawable="german_for_anysoftkeyboard" />
@@ -2751,6 +2750,7 @@
 	<item drawable="gsmarena" />
 	<item drawable="gspace" />
     <category title="H" />
+    <item drawable="hello_you" />
     <item drawable="hearthstone" />
     <item drawable="http_file_server" />
     <item drawable="bonjour_ratp" name="Hello RATP" />
@@ -3308,7 +3308,6 @@
     <item drawable="lukasneugebauer_cookbook" />
     <item drawable="loops" />
     <item drawable="lawnchair" />
-    <item drawable="linkedin" />
     <item drawable="liquide" />
     <item drawable="leboncoin" />
     <item drawable="le_monde" />
@@ -3338,7 +3337,6 @@
     <item drawable="lastpass" />
     <item drawable="lato" />
     <item drawable="launcher_ops" />
-    <item drawable="lawnchair" />
     <item drawable="lawnchair_einstellungen" />
     <item drawable="lawnicons" />
     <item drawable="lawyerslegacy" />
@@ -3670,7 +3668,6 @@
     <item drawable="meet" />
     <item drawable="meeting" />
     <item drawable="meeye" />
-    <item drawable="mega" />
     <item drawable="mein_dm" />
     <item drawable="mein_kochbuch" />
     <item drawable="meinaldi" />
@@ -3956,6 +3953,7 @@
 	<item drawable="mytelkomsel" />
 	<item drawable="myumobile" />
     <category title="N" />
+    <item drawable="nora_nonbili" />
     <item drawable="notesnook" />
     <item drawable="network_signal_strength_on_map" />
     <item drawable="nuyo_wifi" />
@@ -4105,7 +4103,6 @@
     <item drawable="notepaper" />
     <item drawable="nothing_material_you" />
     <item drawable="nothing_neon" />
-    <item drawable="nothing_x" />
     <item drawable="noti_sender" />
     <item drawable="noticias_de_ultima_hora" name="noticias_of_ultima_hora" />
     <item drawable="notification_log" />
@@ -4648,7 +4645,6 @@
     <item drawable="pubg_mobile_gift_box" />
     <item drawable="pull_and_bear" />
     <item drawable="pulsar" />
-    <item drawable="pure_browser" />
     <item drawable="push_note" />
     <item drawable="pushbullet" />
     <item drawable="pushover" />
@@ -4735,6 +4731,7 @@
 	<item drawable="puzzles" />
 	<item drawable="pysolfc" />
     <category title="Q" />
+    <item drawable="quicksy" />
     <item drawable="qwant" />
     <item drawable="quetta" />
     <item drawable="qr_barcode_scanner_pro" />
@@ -5016,6 +5013,7 @@
 	<item drawable="rustdesk" />
 	<item drawable="rvx_music" />
     <category title="S" />
+    <item drawable="super_prod" />
     <item drawable="share_to_clipboard" />
     <item drawable="sharing" />
     <item drawable="sticker_maker" />
@@ -5583,7 +5581,6 @@
     <item drawable="test_em_all" />
     <item drawable="tetrd" />
     <item drawable="text_tools" />
-    <item drawable="text_tools" />
     <item drawable="tgmonet_theme" />
     <item drawable="theme_store" />
     <item drawable="the_house_of_da_vinci" />
@@ -5995,6 +5992,7 @@
 	<item drawable="utiles" />
 	<item drawable="utilidades_amaze" />
     <category title="V" />
+    <item drawable="vscode" />
     <item drawable="vista_de_documentos" name="documents viewer" />
     <item drawable="ayah" name="verse" />
     <item drawable="voghion" />
