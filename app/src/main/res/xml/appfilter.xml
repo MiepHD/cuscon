@@ -406,7 +406,6 @@
 	<item component="ComponentInfo{net.one97.paytm/net.one97.paytm.app.LauncherActivity}" drawable="paytm" />
 	<item component="ComponentInfo{com.phonepe.app/com.phonepe.app.v4.nativeapps.splash.Navigator_SplashActivity}" drawable="phonepe" />
 	<item component="ComponentInfo{in.mohalla.sharechat/sharechat.ads.feature.eva.EvaActivity}" drawable="sharechat" />
-	<item component="ComponentInfo{org.telegram.messenger/org.telegram.messenger.DefaultIcon}" drawable="telegram_aqua2" />
 	<item component="ComponentInfo{com.truecaller/com.truecaller.ui.TruecallerInit}" drawable="truecaller" />
 	<item component="ComponentInfo{com.whatsapp.w4b/com.whatsapp.Main}" drawable="wa_business" />
     <item component="ComponentInfo{net.tsapps.appsales/net.tsapps.appsales.ui.main.MainActivity}" drawable="appsales" />
@@ -1416,7 +1415,6 @@
 	<item component="ComponentInfo{eu.depau.etchdroid/eu.depau.etchdroid.ui.MainActivity}" drawable="etchdroid" />
 	<item component="ComponentInfo{com.gregacucnik.fishingpoints/com.gregacucnik.fishingpoints.WelcomeActivity}" drawable="fishing_points" />
 	<item component="ComponentInfo{com.github.emavgl.piggybankpro/com.example.piggybank.MainActivity}" drawable="oinkoin" />
-	<item component="ComponentInfo{org.telegram.messenger/org.telegram.messenger.AquaIcon}" drawable="telegram_aqua" />
 	<item component="ComponentInfo{com.torrents_csv_android/com.torrents_csv_android.MainActivity}" drawable="torrents_csv" />
 	<item component="ComponentInfo{com.wstxda.viper4android/com.wstxda.viper4android.MainActivity}" drawable="viperfx" />
 	<item component="ComponentInfo{com.eci.citizen/com.eci.citizen.features.splash.Splash}" drawable="voter_helpline" />
@@ -2069,7 +2067,6 @@
     <item component="ComponentInfo{com.poshmark.app/com.poshmark.ui.MainActivity}" drawable="poshmark" />
     <item component="ComponentInfo{com.priceline.android.negotiator/com.priceline.android.negotiator.Launcher}" drawable="priceline" />
     <item component="ComponentInfo{com.securus.videoclient/com.securus.videoclient.activity.LoadingActivity}" drawable="securus_mobile" />
-    <item component="ComponentInfo{org.telegram.messenger/org.telegram.messenger.PremiumIcon}" drawable="telegram_premium" />
     <item component="ComponentInfo{com.thredup.android/com.thredup.android.feature.splash.SplashActivity}" drawable="thredup" />
     <item component="ComponentInfo{com.tmobile.tuesdays/com.tmobile.tuesdays.MainActivity}" drawable="tuesdays" />
     <item component="ComponentInfo{free.vpn.unblock.proxy.turbovpn/free.vpn.unblock.proxy.turbovpn.activity.StartupActivity}" drawable="turbo_vpn" />
@@ -2188,7 +2185,6 @@
     <item component="ComponentInfo{com.usegroup.usegroup/com.azowo.azowo.ui.activities.splashscreen.SplashScreen}" drawable="use_mobility_app" />
 	<item component="ComponentInfo{de.ph1b.audiobook/voice.app.features.MainActivity}" drawable="voice" />
     <item component="ComponentInfo{com.zaneschepke.wireguardautotunnel/com.zaneschepke.wireguardautotunnel.ui.MainActivity}" drawable="wg_tunnel" />
-	<item component="ComponentInfo{org.telegram.messenger/org.telegram.messenger.NoxIcon}" drawable="telegram_aqua2" />
     <item component="ComponentInfo{org.telegram.messenger.web/org.telegram.messenger.TurboIcon}" drawable="telegram" />
 	<item component="ComponentInfo{com.paygo24.ibank/com.aba.ibank.ui.activities.SplashActivity}" drawable="aba_mobile" />
     <item component="ComponentInfo{com.microsoft.office.officehub/com.microsoft.office.officesuite.OfficeSuiteActivity}" drawable="microsoft_365_office_" />
@@ -6711,6 +6707,10 @@
     <item component="ComponentInfo{com.tobykurien.webapps/com.tobykurien.webapps.activity.MainActivity}" drawable="webapps" />
     <item component="ComponentInfo{jp.ne.ibis.ibispaintx.app/jp.ne.ibis.ibispaintx.app.InitializeCheckActivity}" drawable="ibispaint_x" />
     <item component="ComponentInfo{com.catpuppyapp.puppygit.play.pro/com.catpuppyapp.puppygit.activity.MainActivity}" drawable="puppygit" />
+    <item component="ComponentInfo{org.telegram.messenger/org.telegram.messenger.DefaultIcon}" drawable="telegram_aqua2" />
+    <item component="ComponentInfo{org.telegram.messenger/org.telegram.messenger.NoxIcon}" drawable="telegram_aqua2" />
+    <item component="ComponentInfo{org.telegram.messenger/org.telegram.messenger.PremiumIcon}" drawable="telegram_premium" />
+    <item component="ComponentInfo{org.telegram.messenger/org.telegram.messenger.AquaIcon}" drawable="telegram_aqua" />
 
 </resources>
 

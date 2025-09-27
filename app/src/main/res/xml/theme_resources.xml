@@ -393,7 +393,6 @@
 	<AppIcon name="net.one97.paytm/net.one97.paytm.app.LauncherActivity" image="paytm"/>
 	<AppIcon name="com.phonepe.app/com.phonepe.app.v4.nativeapps.splash.Navigator_SplashActivity" image="phonepe"/>
 	<AppIcon name="in.mohalla.sharechat/sharechat.ads.feature.eva.EvaActivity" image="sharechat"/>
-	<AppIcon name="org.telegram.messenger/org.telegram.messenger.DefaultIcon" image="telegram_aqua2"/>
 	<AppIcon name="com.truecaller/com.truecaller.ui.TruecallerInit" image="truecaller"/>
 	<AppIcon name="com.whatsapp.w4b/com.whatsapp.Main" image="wa_business"/>
     <AppIcon name="net.tsapps.appsales/net.tsapps.appsales.ui.main.MainActivity" image="appsales"/>
@@ -1402,7 +1401,6 @@
 	<AppIcon name="eu.depau.etchdroid/eu.depau.etchdroid.ui.MainActivity" image="etchdroid"/>
 	<AppIcon name="com.gregacucnik.fishingpoints/com.gregacucnik.fishingpoints.WelcomeActivity" image="fishing_points"/>
 	<AppIcon name="com.github.emavgl.piggybankpro/com.example.piggybank.MainActivity" image="oinkoin"/>
-	<AppIcon name="org.telegram.messenger/org.telegram.messenger.AquaIcon" image="telegram_aqua"/>
 	<AppIcon name="com.torrents_csv_android/com.torrents_csv_android.MainActivity" image="torrents_csv"/>
 	<AppIcon name="com.wstxda.viper4android/com.wstxda.viper4android.MainActivity" image="viperfx"/>
 	<AppIcon name="com.eci.citizen/com.eci.citizen.features.splash.Splash" image="voter_helpline"/>
@@ -2056,7 +2054,6 @@
     <AppIcon name="com.poshmark.app/com.poshmark.ui.MainActivity" image="poshmark"/>
     <AppIcon name="com.priceline.android.negotiator/com.priceline.android.negotiator.Launcher" image="priceline"/>
     <AppIcon name="com.securus.videoclient/com.securus.videoclient.activity.LoadingActivity" image="securus_mobile"/>
-    <AppIcon name="org.telegram.messenger/org.telegram.messenger.PremiumIcon" image="telegram_premium"/>
     <AppIcon name="com.thredup.android/com.thredup.android.feature.splash.SplashActivity" image="thredup"/>
     <AppIcon name="com.tmobile.tuesdays/com.tmobile.tuesdays.MainActivity" image="tuesdays"/>
     <AppIcon name="free.vpn.unblock.proxy.turbovpn/free.vpn.unblock.proxy.turbovpn.activity.StartupActivity" image="turbo_vpn"/>
@@ -2174,7 +2171,6 @@
     <AppIcon name="com.usegroup.usegroup/com.azowo.azowo.ui.activities.splashscreen.SplashScreen" image="use_mobility_app"/>
 	<AppIcon name="de.ph1b.audiobook/voice.app.features.MainActivity" image="voice"/>
     <AppIcon name="com.zaneschepke.wireguardautotunnel/com.zaneschepke.wireguardautotunnel.ui.MainActivity" image="wg_tunnel"/>
-	<AppIcon name="org.telegram.messenger/org.telegram.messenger.NoxIcon" image="telegram_aqua2"/>
     <AppIcon name="org.telegram.messenger.web/org.telegram.messenger.TurboIcon" image="telegram"/>
 	<AppIcon name="com.paygo24.ibank/com.aba.ibank.ui.activities.SplashActivity" image="aba_mobile"/>
     <AppIcon name="com.microsoft.office.officehub/com.microsoft.office.officesuite.OfficeSuiteActivity" image="microsoft_365_office_"/>
@@ -6595,5 +6591,9 @@
     <AppIcon name="com.tobykurien.webapps/com.tobykurien.webapps.activity.MainActivity" image="webapps"/>
     <AppIcon name="jp.ne.ibis.ibispaintx.app/jp.ne.ibis.ibispaintx.app.InitializeCheckActivity" image="ibispaint_x"/>
     <AppIcon name="com.catpuppyapp.puppygit.play.pro/com.catpuppyapp.puppygit.activity.MainActivity" image="puppygit"/>
+    <AppIcon name="org.telegram.messenger/org.telegram.messenger.NoxIcon" image="telegram_aqua2"/>
+    <AppIcon name="org.telegram.messenger/org.telegram.messenger.PremiumIcon" image="telegram_premium"/>
+    <AppIcon name="org.telegram.messenger/org.telegram.messenger.AquaIcon" image="telegram_aqua"/>
+    <AppIcon name="org.telegram.messenger/org.telegram.messenger.DefaultIcon" image="telegram_aqua2"/>
 
 </Theme>
