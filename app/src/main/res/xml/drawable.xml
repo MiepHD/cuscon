@@ -724,7 +724,7 @@
     <item drawable="apk_getter" />
     <item drawable="apkdone_installer" />
     <item drawable="apktool_m" />
-    <category="Recorder" />
+    <category title="Recorder" />
     <item drawable="audio_recorder" />
 	<item drawable="audiorecorder" />
     <item drawable="az_screen_recorder" />
