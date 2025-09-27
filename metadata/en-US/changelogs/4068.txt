@@ -1,0 +1,4 @@
+Added Nora, Bluetooth Scanner, Quicksy, Super Prod, CamScanner, Hello You, GIMP, VScode
+Added more categories
+Removed duplicates
+Fixed NHS App

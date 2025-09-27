@@ -6595,5 +6595,14 @@
     <AppIcon name="org.telegram.messenger/org.telegram.messenger.PremiumIcon" image="telegram_premium"/>
     <AppIcon name="org.telegram.messenger/org.telegram.messenger.AquaIcon" image="telegram_aqua"/>
     <AppIcon name="org.telegram.messenger/org.telegram.messenger.DefaultIcon" image="telegram_aqua2"/>
+    <AppIcon name="jp.nonbili.nora/jp.nonbili.nora.MainActivity" image="nora_nonbili"/>
+    <AppIcon name="com.pzolee.bluetoothscanner/com.pzolee.bluetoothscanner.MainActivity" image="bluetooth_scanner"/>
+    <AppIcon name="im.quicksy.client/eu.siacs.conversations.ui.ConversationActivity" image="quicksy"/>
+    <AppIcon name="com.superproductivity.superproductivity/com.superproductivity.superproductivity.FullscreenActivity" image="super_prod"/>
+    <AppIcon name="com.intsig.camscanner/com.intsig.camscanner.mainmenu.mainactivity.MainActivity" image="camscanner"/>
+    <AppIcon name="com.motorola.ccc.notification/com.motorola.engageapp.ui.HelloYouActivity" image="hello_you"/>
+    <AppIcon name="com.nhs.online.nhsonline/com.nhs.online.nhsonline.MainActivity" image="nhs_app"/>
+    <AppIcon name="tech.ula.gimp/tech.ula.gimp.MainActivity" image="gimp"/>
+    <AppIcon name="dev.environment.VScode_PaidR1/dev.environment.VScode_PaidR1.AutoStart" image="vscode"/>
 
 </Theme>

@@ -6711,6 +6711,15 @@
     <item component="ComponentInfo{org.telegram.messenger/org.telegram.messenger.NoxIcon}" drawable="telegram_aqua2" />
     <item component="ComponentInfo{org.telegram.messenger/org.telegram.messenger.PremiumIcon}" drawable="telegram_premium" />
     <item component="ComponentInfo{org.telegram.messenger/org.telegram.messenger.AquaIcon}" drawable="telegram_aqua" />
+    <item component="ComponentInfo{jp.nonbili.nora/jp.nonbili.nora.MainActivity}" drawable="nora_nonbili" />
+    <item component="ComponentInfo{com.pzolee.bluetoothscanner/com.pzolee.bluetoothscanner.MainActivity}" drawable="bluetooth_scanner" />
+    <item component="ComponentInfo{im.quicksy.client/eu.siacs.conversations.ui.ConversationActivity}" drawable="quicksy" />
+    <item component="ComponentInfo{com.superproductivity.superproductivity/com.superproductivity.superproductivity.FullscreenActivity}" drawable="super_prod" />
+    <item component="ComponentInfo{com.intsig.camscanner/com.intsig.camscanner.mainmenu.mainactivity.MainActivity}" drawable="camscanner" />
+    <item component="ComponentInfo{com.motorola.ccc.notification/com.motorola.engageapp.ui.HelloYouActivity}" drawable="hello_you" />
+    <item component="ComponentInfo{com.nhs.online.nhsonline/com.nhs.online.nhsonline.MainActivity}" drawable="nhs_app" />
+    <item component="ComponentInfo{tech.ula.gimp/tech.ula.gimp.MainActivity}" drawable="gimp" />
+    <item component="ComponentInfo{dev.environment.VScode_PaidR1/dev.environment.VScode_PaidR1.AutoStart}" drawable="vscode" />
 
 </resources>
 

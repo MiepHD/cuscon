@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="changelog_date">21.09.2025</string>
+    <string name="changelog_date">27.09.2025</string>
     <string-array name="changelog">
+        <item>4.0.6.8:</item>
+        <item>Added Nora, Bluetooth Scanner, Quicksy, Super Prod, CamScanner, Hello You, GIMP, VScode</item>
+        <item>Added more categories</item>
+        <item>Removed duplicates</item>
+        <item>Fixed NHS App</item>
         <item>4.0.6.7:</item>
         <item>Fixed Syncthing-Fork, ICSx⁵, Wire, ibisPaint X</item>
         <item>Added Neo Backup, BT Remote, DR LYD, Flight Pass, CoMaps, FolderSync Pro, Fork Client, F-Droid Classic, jQuarks, Share to Clipboard, WebApps, PuppyGit</item>
