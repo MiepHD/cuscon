@@ -1,0 +1,1 @@
+Added Infomaniak Mail, kAuth, kChat, kDrive, kMeet, SwissTransfer

@@ -6604,5 +6604,11 @@
     <AppIcon name="com.nhs.online.nhsonline/com.nhs.online.nhsonline.MainActivity" image="nhs_app"/>
     <AppIcon name="tech.ula.gimp/tech.ula.gimp.MainActivity" image="gimp"/>
     <AppIcon name="dev.environment.VScode_PaidR1/dev.environment.VScode_PaidR1.AutoStart" image="vscode"/>
+    <AppIcon name="com.infomaniak.mail/com.infomaniak.mail.ui.LaunchActivity" image="infomaniak_mail"/>
+    <AppIcon name="com.infomaniak.auth/com.infomaniak.auth.ui.MainActivity" image="kauth"/>
+    <AppIcon name="com.infomaniak.chat/com.infomaniak.chat.MainActivity" image="kchat"/>
+    <AppIcon name="com.infomaniak.drive/com.infomaniak.drive.ui.LaunchActivity" image="kdrive"/>
+    <AppIcon name="com.infomaniak.meet/com.infomaniak.meet.HomeActivity" image="kmeet"/>
+    <AppIcon name="com.infomaniak.swisstransfer/com.infomaniak.swisstransfer.ui.LaunchActivity" image="swisstransfer"/>
 
 </Theme>

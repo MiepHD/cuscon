@@ -6720,6 +6720,12 @@
     <item component="ComponentInfo{com.nhs.online.nhsonline/com.nhs.online.nhsonline.MainActivity}" drawable="nhs_app" />
     <item component="ComponentInfo{tech.ula.gimp/tech.ula.gimp.MainActivity}" drawable="gimp" />
     <item component="ComponentInfo{dev.environment.VScode_PaidR1/dev.environment.VScode_PaidR1.AutoStart}" drawable="vscode" />
+    <item component="ComponentInfo{com.infomaniak.mail/com.infomaniak.mail.ui.LaunchActivity}" drawable="infomaniak_mail" />
+    <item component="ComponentInfo{com.infomaniak.auth/com.infomaniak.auth.ui.MainActivity}" drawable="kauth" />
+    <item component="ComponentInfo{com.infomaniak.chat/com.infomaniak.chat.MainActivity}" drawable="kchat" />
+    <item component="ComponentInfo{com.infomaniak.drive/com.infomaniak.drive.ui.LaunchActivity}" drawable="kdrive" />
+    <item component="ComponentInfo{com.infomaniak.meet/com.infomaniak.meet.HomeActivity}" drawable="kmeet" />
+    <item component="ComponentInfo{com.infomaniak.swisstransfer/com.infomaniak.swisstransfer.ui.LaunchActivity}" drawable="swisstransfer" />
 
 </resources>
 

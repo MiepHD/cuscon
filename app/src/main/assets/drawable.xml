@@ -1,6 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <version>1</version>
+    <category title="New Icons" />
+    <item drawable="infomaniak_mail" />
+    <item drawable="kauth" />
+    <item drawable="kchat" />
+    <item drawable="kdrive" />
+    <item drawable="kmeet" />
+    <item drawable="swisstransfer" />
     <category title="Folders" />
     <item drawable="folder_blue" />
     <item drawable="folder_dark_blue" />
@@ -634,6 +641,7 @@
 	<item drawable="ai_browser" />
 	<item drawable="ai_gallery" />
     <category title="Mail" />
+    <item drawable="infomaniak_mail" />
     <item drawable="zoho_mail" />
     <item drawable="yahoo_mail" />
     <item drawable="webde_mail" />
@@ -3150,6 +3158,10 @@
 	<item drawable="justchess" />
 	<item drawable="justdial" />
     <category title="K" />
+    <item drawable="kauth" />
+    <item drawable="kchat" />
+    <item drawable="kdrive" />
+    <item drawable="kmeet" />
     <item drawable="awlad_school" name="Kids School" />
     <item drawable="kroger" />
     <item drawable="kiabi" />
@@ -5013,6 +5025,7 @@
 	<item drawable="rustdesk" />
 	<item drawable="rvx_music" />
     <category title="S" />
+    <item drawable="swisstransfer" />
     <item drawable="super_prod" />
     <item drawable="share_to_clipboard" />
     <item drawable="sharing" />
