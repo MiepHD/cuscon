@@ -36,7 +36,7 @@
     <item drawable="reigns" />
     <item drawable="reigns_her_majesty" />
     <item drawable="riseup_vpn" />
-    <item drawable="scopa_più" />
+    <item drawable="scopa_piu" />
     <item drawable="screen_time" />
     <item drawable="seedship" />
     <item drawable="slay_the_spire" />
@@ -5111,7 +5111,7 @@
 	<item drawable="rvx_music" />
     <category title="S" />
     <item drawable="sign_me_2fa_authenticator" />
-    <item drawable="scopa_più" />
+    <item drawable="scopa_piu" />
     <item drawable="screen_time" />
     <item drawable="seedship" />
     <item drawable="slay_the_spire" />

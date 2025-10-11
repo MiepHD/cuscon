@@ -6648,7 +6648,7 @@
     <AppIcon name="com.devolver.reigns/com.unity3d.player.UnityPlayerActivity" image="reigns"/>
     <AppIcon name="com.devolver.reigns2/com.unity3d.player.UnityPlayerActivity" image="reigns_her_majesty"/>
     <AppIcon name="se.leap.riseupvpn/se.leap.bitmaskclient.base.StartActivity" image="riseup_vpn"/>
-    <AppIcon name="it.spaghettiinteractive.scopapiu/it.spaghettiinteractive.scopapiu.MainActivity" image="scopa_più"/>
+    <AppIcon name="it.spaghettiinteractive.scopapiu/it.spaghettiinteractive.scopapiu.MainActivity" image="scopa_piu"/>
     <AppIcon name="de.markusfisch.android.screentime/de.markusfisch.android.screentime.activity.MainActivity" image="screen_time"/>
     <AppIcon name="com.johnayliff.seedship/com.johnayliff.seedship.MainActivity" image="seedship"/>
     <AppIcon name="com.humble.SlayTheSpire/android.app.NativeActivity" image="slay_the_spire"/>

@@ -6764,7 +6764,7 @@
     <item component="ComponentInfo{com.devolver.reigns/com.unity3d.player.UnityPlayerActivity}" drawable="reigns" />
     <item component="ComponentInfo{com.devolver.reigns2/com.unity3d.player.UnityPlayerActivity}" drawable="reigns_her_majesty" />
     <item component="ComponentInfo{se.leap.riseupvpn/se.leap.bitmaskclient.base.StartActivity}" drawable="riseup_vpn" />
-    <item component="ComponentInfo{it.spaghettiinteractive.scopapiu/it.spaghettiinteractive.scopapiu.MainActivity}" drawable="scopa_più" />
+    <item component="ComponentInfo{it.spaghettiinteractive.scopapiu/it.spaghettiinteractive.scopapiu.MainActivity}" drawable="scopa_piu" />
     <item component="ComponentInfo{de.markusfisch.android.screentime/de.markusfisch.android.screentime.activity.MainActivity}" drawable="screen_time" />
     <item component="ComponentInfo{com.johnayliff.seedship/com.johnayliff.seedship.MainActivity}" drawable="seedship" />
     <item component="ComponentInfo{com.humble.SlayTheSpire/android.app.NativeActivity}" drawable="slay_the_spire" />
