@@ -6788,6 +6788,7 @@
     <item component="ComponentInfo{com.entersekt.authapp.dtrust/de.bdr.signme.authenticator.MainActivity}" drawable="sign_me_2fa_authenticator" />
     <item component="ComponentInfo{org.nsh07.pomodoro/org.nsh07.pomodoro.MainActivity}" drawable="tomato_pomodoro" />
     <item component="ComponentInfo{com.arobasmusic.guitarpro/com.arobasmusic.guitarpro.ui.LibraryActivity}" drawable="guitar_pro" />
+    <item component="ComponentInfo{com.dkbcodefactory.banking/com.dkbcodefactory.banking.screens.BankingAppActivity}" drawable="dkb" />
 
 </resources>
 
