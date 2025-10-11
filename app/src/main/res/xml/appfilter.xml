@@ -6726,6 +6726,12 @@
     <item component="ComponentInfo{com.infomaniak.drive/com.infomaniak.drive.ui.LaunchActivity}" drawable="kdrive" />
     <item component="ComponentInfo{com.infomaniak.meet/com.infomaniak.meet.HomeActivity}" drawable="kmeet" />
     <item component="ComponentInfo{com.infomaniak.swisstransfer/com.infomaniak.swisstransfer.ui.LaunchActivity}" drawable="swisstransfer" />
+    <item component="ComponentInfo{net.techet.netanalyzer.an/net.techet.netanalyzer.an.activity.MainActivity}" drawable="techet_net_analyzer" />
+    <item component="ComponentInfo{com.imaginecurve.curve.prd/com.curve.startup.launch.LaunchActivity}" drawable="curve" />
+    <item component="ComponentInfo{at.tomtasche.reader.pro/at.tomtasche.reader.ui.activity.MainActivity}" drawable="opendocument_reader" />
+    <item component="ComponentInfo{com.tailscale.ipn/com.tailscale.ipn.MainActivity}" drawable="tailscale" />
+    <item component="ComponentInfo{com.android.music/com.android.music.MusicBrowserActivity}" drawable="music_android" />
+    <item component="ComponentInfo{com.blockchainvault/com.pinetwork.MainActivity}" drawable="pinetwork" />
 
 </resources>
 

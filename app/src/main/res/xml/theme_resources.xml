@@ -6610,5 +6610,11 @@
     <AppIcon name="com.infomaniak.drive/com.infomaniak.drive.ui.LaunchActivity" image="kdrive"/>
     <AppIcon name="com.infomaniak.meet/com.infomaniak.meet.HomeActivity" image="kmeet"/>
     <AppIcon name="com.infomaniak.swisstransfer/com.infomaniak.swisstransfer.ui.LaunchActivity" image="swisstransfer"/>
+    <AppIcon name="net.techet.netanalyzer.an/net.techet.netanalyzer.an.activity.MainActivity" image="techet_net_analyzer"/>
+    <AppIcon name="com.imaginecurve.curve.prd/com.curve.startup.launch.LaunchActivity" image="curve"/>
+    <AppIcon name="at.tomtasche.reader.pro/at.tomtasche.reader.ui.activity.MainActivity" image="opendocument_reader"/>
+    <AppIcon name="com.tailscale.ipn/com.tailscale.ipn.MainActivity" image="tailscale"/>
+    <AppIcon name="com.android.music/com.android.music.MusicBrowserActivity" image="music_android"/>
+    <AppIcon name="com.blockchainvault/com.pinetwork.MainActivity" image="pinetwork"/>
 
 </Theme>
