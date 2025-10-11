@@ -1,3 +1,3 @@
 Updated Net Analyzer, Zettel Notes
-Fixed Curve Pay, OpenDocument Reader, Tailscale
+Fixed Curve Pay, OpenDocument Reader, Tailscale, DKB
 Added Music, Pi, Aniyomi, App Finder, Assembly Line, Baba, BancoPosta, BBTAN, Cells, Citra, Civ VI, Commons, CUE, EdXposed Manager, Fallout Shelter, FightList, Geometry Dash Meltdown, Geometry Dash SubZero, Geometry Dash World, Juno: New Origins, Kitsune, Logline, Magikarp, Master Duel, melonDS, MMRL, myUniBo, Phonto, PhotoSwooper, Private DNS Quick Toggle, Pydroid 3, Reigns, Reigns Her Majesty, Riseup VPN, Scopa Più, Screen Time, Seedship, Slay the Spire, Smartphone Tycoon 2, Sniper, Songsterr, Subway Surf, Untappd, VirIT Mobile Security, Zynga Poker – Texas Holdem, 1024 Puzzle Numbers Game, Camera, Mapy.com, RTL+, sign-me 2FA, Tomato, Guitar Pro

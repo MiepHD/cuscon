@@ -6672,5 +6672,6 @@
     <AppIcon name="com.entersekt.authapp.dtrust/de.bdr.signme.authenticator.MainActivity" image="sign_me_2fa_authenticator"/>
     <AppIcon name="org.nsh07.pomodoro/org.nsh07.pomodoro.MainActivity" image="tomato_pomodoro"/>
     <AppIcon name="com.arobasmusic.guitarpro/com.arobasmusic.guitarpro.ui.LibraryActivity" image="guitar_pro"/>
+    <AppIcon name="com.dkbcodefactory.banking/com.dkbcodefactory.banking.screens.BankingAppActivity" image="dkb"/>
 
 </Theme>
