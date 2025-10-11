@@ -6732,6 +6732,50 @@
     <item component="ComponentInfo{com.tailscale.ipn/com.tailscale.ipn.MainActivity}" drawable="tailscale" />
     <item component="ComponentInfo{com.android.music/com.android.music.MusicBrowserActivity}" drawable="music_android" />
     <item component="ComponentInfo{com.blockchainvault/com.pinetwork.MainActivity}" drawable="pinetwork" />
+    <item component="ComponentInfo{xyz.jmir.tachiyomi.mi/eu.kanade.tachiyomi.ui.main.MainActivity}" drawable="aniyomi" />
+    <item component="ComponentInfo{scadica.aq/scadica.aq.AC}" drawable="app_finder" />
+    <item component="ComponentInfo{com.olympus.assemblyline/com.unity3d.player.UnityPlayerActivity}" drawable="assembly_line" />
+    <item component="ComponentInfo{com.ravenfeld.panoramax.baba/com.ravenfeld.panoramax.baba.MainActivity}" drawable="baba" />
+    <item component="ComponentInfo{posteitaliane.posteapp.appbpol/posteitaliane.posteapp.appbpol.ui.activity.SplashActivity}" drawable="bancoposta" />
+    <item component="ComponentInfo{com.crater.bbtan/com.unity3d.player.UnityPlayerActivity}" drawable="bbtan" />
+    <item component="ComponentInfo{com.computerlunch.evolution/com.unity3d.player.UnityPlayerActivity}" drawable="cells" />
+    <item component="ComponentInfo{org.citra.citra_emu/org.citra.citra_emu.ui.main.MainActivity}" drawable="citra" />
+    <item component="ComponentInfo{com.aspyr.civvi/com.aspyr.civvi.BootstrapActivity}" drawable="civ_vi" />
+    <item component="ComponentInfo{fr.free.nrw.commons/fr.free.nrw.commons.auth.LoginActivity}" drawable="commons" />
+    <item component="ComponentInfo{com.avid.cue/com.singular.unitybridge.SingularUnityActivity}" drawable="cue" />
+    <item component="ComponentInfo{org.meowcat.edxposed.manager/org.meowcat.edxposed.manager.WelcomeActivityMlgmXyysd}" drawable="edxposed_manager" />
+    <item component="ComponentInfo{com.bethsoft.falloutshelter/com.bhvr.MainActivity}" drawable="fallout_shelter" />
+    <item component="ComponentInfo{fr.two4tea.fightlist/com.two4tea.fightlist.activities.HWMHomeActivity}" drawable="fightlist" />
+    <item component="ComponentInfo{com.robtopx.geometrydashmeltdown/com.robtopx.geometryjumplite.GeometryDashLite}" drawable="geometry_dash_meltdown" />
+    <item component="ComponentInfo{com.robtopx.geometrydashsubzero/com.robtopx.geometryjumplite.GeometryDashLite}" drawable="geometry_dash_subzero" />
+    <item component="ComponentInfo{com.robtopx.geometrydashworld/com.robtopx.geometryjumplite.GeometryDashLite}" drawable="geometry_dash_world" />
+    <item component="ComponentInfo{com.jundroo.junoneworigins/com.jundroo.simplerockets2plugin.MainActivity}" drawable="juno_new_origins" />
+    <item component="ComponentInfo{io.github.drumber.kitsune/io.github.drumber.kitsune.ui.main.MainActivity}" drawable="kitsune" />
+    <item component="ComponentInfo{com.patch4code.logline/com.patch4code.logline.MainActivity}" drawable="logline" />
+    <item component="ComponentInfo{jp.pokemon.koiking/org.cocos2dx.cpp.AppActivity}" drawable="magikarp" />
+    <item component="ComponentInfo{jp.konami.masterduel/jp.konami.masterduel.plugins.YgomdMainActivity}" drawable="master_duel" />
+    <item component="ComponentInfo{me.magnum.melonds/me.magnum.melonds.ui.romlist.RomListActivity}" drawable="melonds" />
+    <item component="ComponentInfo{com.dergoogler.mmrl/com.dergoogler.mmrl.ui.activity.MainActivity}" drawable="mmrl" />
+    <item component="ComponentInfo{com.myunibo/com.myunibo.MainActivity}" drawable="myunibo" />
+    <item component="ComponentInfo{com.youthhr.phonto/com.youthhr.phonto.PhontoActivity}" drawable="phonto" />
+    <item component="ComponentInfo{com.example.photoswooper/com.example.photoswooper.MainActivity}" drawable="photoswooper" />
+    <item component="ComponentInfo{ru.karasevm.privatednstoggle/ru.karasevm.privatednstoggle.ui.MainActivity}" drawable="private_dns_quick_toggle" />
+    <item component="ComponentInfo{ru.iiec.pydroid3/ru.iiec.pydroid.MainActivity}" drawable="pydroid_3" />
+    <item component="ComponentInfo{com.devolver.reigns/com.unity3d.player.UnityPlayerActivity}" drawable="reigns" />
+    <item component="ComponentInfo{com.devolver.reigns2/com.unity3d.player.UnityPlayerActivity}" drawable="reigns_her_majesty" />
+    <item component="ComponentInfo{se.leap.riseupvpn/se.leap.bitmaskclient.base.StartActivity}" drawable="riseup_vpn" />
+    <item component="ComponentInfo{it.spaghettiinteractive.scopapiu/it.spaghettiinteractive.scopapiu.MainActivity}" drawable="scopa_più" />
+    <item component="ComponentInfo{de.markusfisch.android.screentime/de.markusfisch.android.screentime.activity.MainActivity}" drawable="screen_time" />
+    <item component="ComponentInfo{com.johnayliff.seedship/com.johnayliff.seedship.MainActivity}" drawable="seedship" />
+    <item component="ComponentInfo{com.humble.SlayTheSpire/android.app.NativeActivity}" drawable="slay_the_spire" />
+    <item component="ComponentInfo{com.roasterygames.smartphonetycoon2/com.roasterygames.smartphonetycoon2.MainActivity}" drawable="smartphone_tycoon_2" />
+    <item component="ComponentInfo{com.squareenixmontreal.hitmansniperandroid/com.unity3d.player.UnityPlayerActivity}" drawable="sniper" />
+    <item component="ComponentInfo{com.songsterr/com.songsterr.main.MainActivity}" drawable="songsterr" />
+    <item component="ComponentInfo{com.kiloo.subwaysurf/com.sybogames.chili.multidex.ChiliMultidexSupportActivity}" drawable="subway_surf" />
+    <item component="ComponentInfo{com.untappdllc.app/com.untappdllc.app.MainActivityDefault}" drawable="untappd" />
+    <item component="ComponentInfo{it.tgsoft.virit/it.tgsoft.virit.PrivacyActivity}" drawable="virit_mobile_security" />
+    <item component="ComponentInfo{com.zynga.livepoker/com.zynga.ZyngaUnityActivity.ZyngaUnityActivity}" drawable="zynga_poker_–_texas_holdem" />
+    <item component="ComponentInfo{game2048.b2048game.twozerofoureight2048.game/game2048.b2048game.twozerofoureight2048.game.SplashActivity}" drawable="_1024_puzzle_numbers_game" />
 
 </resources>
 

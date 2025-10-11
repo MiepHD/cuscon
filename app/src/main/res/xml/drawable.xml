@@ -4,6 +4,50 @@
     <category title="New Icons" />
     <item drawable="music_android" />
     <item drawable="pinetwork" />
+    <item drawable="aniyomi" />
+    <item drawable="app_finder" />
+    <item drawable="assembly_line" />
+    <item drawable="baba" />
+    <item drawable="bancoposta" />
+    <item drawable="bbtan" />
+    <item drawable="cells" />
+    <item drawable="citra" />
+    <item drawable="civ_vi" />
+    <item drawable="commons" />
+    <item drawable="cue" />
+    <item drawable="edxposed_manager" />
+    <item drawable="fallout_shelter" />
+    <item drawable="fightlist" />
+    <item drawable="geometry_dash_meltdown" />
+    <item drawable="geometry_dash_subzero" />
+    <item drawable="geometry_dash_world" />
+    <item drawable="juno_new_origins" />
+    <item drawable="kitsune" />
+    <item drawable="logline" />
+    <item drawable="magikarp" />
+    <item drawable="master_duel" />
+    <item drawable="melonds" />
+    <item drawable="mmrl" />
+    <item drawable="myunibo" />
+    <item drawable="phonto" />
+    <item drawable="photoswooper" />
+    <item drawable="private_dns_quick_toggle" />
+    <item drawable="pydroid_3" />
+    <item drawable="reigns" />
+    <item drawable="reigns_her_majesty" />
+    <item drawable="riseup_vpn" />
+    <item drawable="scopa_più" />
+    <item drawable="screen_time" />
+    <item drawable="seedship" />
+    <item drawable="slay_the_spire" />
+    <item drawable="smartphone_tycoon_2" />
+    <item drawable="sniper" />
+    <item drawable="songsterr" />
+    <item drawable="subway_surf" />
+    <item drawable="untappd" />
+    <item drawable="virit_mobile_security" />
+    <item drawable="zynga_poker_–_texas_holdem" />
+    <item drawable="_1024_puzzle_numbers_game" />
     <category title="Folders" />
     <item drawable="folder_blue" />
     <item drawable="folder_dark_blue" />
@@ -758,6 +802,7 @@
     <item drawable="gu_recorder" />
     <item drawable="easy_voice_recorder" />
     <category title="#" />
+    <item drawable="_1024_puzzle_numbers_game" />
     <item drawable="_1password" />
     <item drawable="_4pda" />
     <item drawable="_324" />
@@ -796,6 +841,9 @@
     <item drawable="_f_droid_kdi" />
     <item drawable="_sound_" />
     <category title="A" />
+    <item drawable="aniyomi" />
+    <item drawable="app_finder" />
+    <item drawable="assembly_line" />
     <item drawable="amazfaces" />
     <item drawable="aruba_pec" />
     <item drawable="androxls" />
@@ -1180,6 +1228,9 @@
 	<item drawable="awoken" />
 	<item drawable="awox_homecontrol" />
     <category title="B" />
+    <item drawable="baba" />
+    <item drawable="bancoposta" />
+    <item drawable="bbtan" />
     <item drawable="bluetooth_scanner" />
     <item drawable="bt_remote" />
     <item drawable="balatro" name="clown" />
@@ -1451,6 +1502,11 @@
 	<item drawable="bycs_drive" />
     <item drawable="ballozi_skynox" />
     <category title="C" />
+    <item drawable="cells" />
+    <item drawable="citra" />
+    <item drawable="civ_vi" />
+    <item drawable="commons" />
+    <item drawable="cue" />
     <item drawable="camscanner" />
     <item drawable="comaps" />
     <item drawable="aday_islemleri" name="Candidate Management" />
@@ -2109,6 +2165,7 @@
 	<item drawable="dynalist" />
 	<item drawable="dynamicspot" />
     <category title="E" />
+    <item drawable="edxposed_manager" />
     <item drawable="ewpe_smart" />
     <item drawable="escaner_de_red" name="network scanner" />
     <item drawable="evmap" />
@@ -2285,6 +2342,8 @@
 	<item drawable="exodus" />
 	<item drawable="exteragram" />
     <category title="F" />
+    <item drawable="fallout_shelter" />
+    <item drawable="fightlist" />
     <item drawable="foldersync_pro" />
     <item drawable="fork_client" />
     <item drawable="f_droid_classic" />
@@ -2541,6 +2600,9 @@
 	<item drawable="futo_voice_input" />
 	<item drawable="fx" />
     <category title="G" />
+    <item drawable="geometry_dash_meltdown" />
+    <item drawable="geometry_dash_subzero" />
+    <item drawable="geometry_dash_world" />
     <item drawable="gimp" />
     <item drawable="bonpreu" name="good price" />
     <item drawable="autenticacao_gov" name="Government Authentication" />
@@ -3085,6 +3147,7 @@
 	<item drawable="ir_remote" />
 	<item drawable="iron" />
     <category title="J" />
+    <item drawable="juno_new_origins" />
     <item drawable="jquarks" />
     <item drawable="joiplay" />
     <item drawable="jpg_to_pdf_converter_pdftools" />
@@ -3154,6 +3217,7 @@
 	<item drawable="justchess" />
 	<item drawable="justdial" />
     <category title="K" />
+    <item drawable="kitsune" />
     <item drawable="kauth" />
     <item drawable="kchat" />
     <item drawable="kdrive" />
@@ -3292,6 +3356,7 @@
 	<item drawable="kutumb" />
 	<item drawable="kwgt_pro" />
     <category title="L" />
+    <item drawable="logline" />
     <item drawable="lovelaceav" />
     <item drawable="blitzortung_moniteur_dactivite_orageuse" name="Lightning Location Thunderstorm Activity Monitor" />
     <item drawable="biedronka" name="ladybug" />
@@ -3471,6 +3536,11 @@
 	<item drawable="lucky_wasted" />
 	<item drawable="lux_o_meter_lichtmesser" />
     <category title="M" />
+    <item drawable="magikarp" />
+    <item drawable="master_duel" />
+    <item drawable="melonds" />
+    <item drawable="mmrl" />
+    <item drawable="myunibo" />
     <item drawable="music_android" />
     <item drawable="medtimer" />
     <item drawable="myanimelist" />
@@ -4359,6 +4429,10 @@
 	<item drawable="osmand_" />
 	<item drawable="ovag_e_mobil" />
     <category title="P" />
+    <item drawable="phonto" />
+    <item drawable="photoswooper" />
+    <item drawable="private_dns_quick_toggle" />
+    <item drawable="pydroid_3" />
     <item drawable="pinetwork" />
     <item drawable="puppygit" />
     <item drawable="panoramax" />
@@ -4788,6 +4862,9 @@
 	<item drawable="quik" />
 	<item drawable="quillpad" />
     <category title="R" />
+    <item drawable="reigns" />
+    <item drawable="reigns_her_majesty" />
+    <item drawable="riseup_vpn" />
     <item drawable="relax_banking" />
     <item drawable="resideo" />
     <item drawable="control_remoto_de_impress" name="Remote Control for Impress" />
@@ -5023,6 +5100,14 @@
 	<item drawable="rustdesk" />
 	<item drawable="rvx_music" />
     <category title="S" />
+    <item drawable="scopa_più" />
+    <item drawable="screen_time" />
+    <item drawable="seedship" />
+    <item drawable="slay_the_spire" />
+    <item drawable="smartphone_tycoon_2" />
+    <item drawable="sniper" />
+    <item drawable="songsterr" />
+    <item drawable="subway_surf" />
     <item drawable="swisstransfer" />
     <item drawable="super_prod" />
     <item drawable="share_to_clipboard" />
@@ -5911,6 +5996,7 @@
 	<item drawable="tux_paint_config" />
 	<item drawable="twelve_key_dialer" />
     <category title="U" />
+    <item drawable="untappd" />
     <item drawable="udderance_aac" />
     <item drawable="ugreen_nas" />
     <item drawable="ultra_lock" />
@@ -6003,6 +6089,7 @@
 	<item drawable="utiles" />
 	<item drawable="utilidades_amaze" />
     <category title="V" />
+    <item drawable="virit_mobile_security" />
     <item drawable="vscode" />
     <item drawable="vista_de_documentos" name="documents viewer" />
     <item drawable="ayah" name="verse" />
@@ -6488,6 +6575,7 @@
 	<item drawable="yuka" />
 	<item drawable="yuzu_browser" />
     <category title="Z" />
+    <item drawable="zynga_poker_–_texas_holdem" />
     <item drawable="zip_extractor" />
     <item drawable="zdfheute" />
     <item drawable="zdfmediathek" />

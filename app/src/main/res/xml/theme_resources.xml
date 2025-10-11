@@ -6616,5 +6616,49 @@
     <AppIcon name="com.tailscale.ipn/com.tailscale.ipn.MainActivity" image="tailscale"/>
     <AppIcon name="com.android.music/com.android.music.MusicBrowserActivity" image="music_android"/>
     <AppIcon name="com.blockchainvault/com.pinetwork.MainActivity" image="pinetwork"/>
+    <AppIcon name="xyz.jmir.tachiyomi.mi/eu.kanade.tachiyomi.ui.main.MainActivity" image="aniyomi"/>
+    <AppIcon name="scadica.aq/scadica.aq.AC" image="app_finder"/>
+    <AppIcon name="com.olympus.assemblyline/com.unity3d.player.UnityPlayerActivity" image="assembly_line"/>
+    <AppIcon name="com.ravenfeld.panoramax.baba/com.ravenfeld.panoramax.baba.MainActivity" image="baba"/>
+    <AppIcon name="posteitaliane.posteapp.appbpol/posteitaliane.posteapp.appbpol.ui.activity.SplashActivity" image="bancoposta"/>
+    <AppIcon name="com.crater.bbtan/com.unity3d.player.UnityPlayerActivity" image="bbtan"/>
+    <AppIcon name="com.computerlunch.evolution/com.unity3d.player.UnityPlayerActivity" image="cells"/>
+    <AppIcon name="org.citra.citra_emu/org.citra.citra_emu.ui.main.MainActivity" image="citra"/>
+    <AppIcon name="com.aspyr.civvi/com.aspyr.civvi.BootstrapActivity" image="civ_vi"/>
+    <AppIcon name="fr.free.nrw.commons/fr.free.nrw.commons.auth.LoginActivity" image="commons"/>
+    <AppIcon name="com.avid.cue/com.singular.unitybridge.SingularUnityActivity" image="cue"/>
+    <AppIcon name="org.meowcat.edxposed.manager/org.meowcat.edxposed.manager.WelcomeActivityMlgmXyysd" image="edxposed_manager"/>
+    <AppIcon name="com.bethsoft.falloutshelter/com.bhvr.MainActivity" image="fallout_shelter"/>
+    <AppIcon name="fr.two4tea.fightlist/com.two4tea.fightlist.activities.HWMHomeActivity" image="fightlist"/>
+    <AppIcon name="com.robtopx.geometrydashmeltdown/com.robtopx.geometryjumplite.GeometryDashLite" image="geometry_dash_meltdown"/>
+    <AppIcon name="com.robtopx.geometrydashsubzero/com.robtopx.geometryjumplite.GeometryDashLite" image="geometry_dash_subzero"/>
+    <AppIcon name="com.robtopx.geometrydashworld/com.robtopx.geometryjumplite.GeometryDashLite" image="geometry_dash_world"/>
+    <AppIcon name="com.jundroo.junoneworigins/com.jundroo.simplerockets2plugin.MainActivity" image="juno_new_origins"/>
+    <AppIcon name="io.github.drumber.kitsune/io.github.drumber.kitsune.ui.main.MainActivity" image="kitsune"/>
+    <AppIcon name="com.patch4code.logline/com.patch4code.logline.MainActivity" image="logline"/>
+    <AppIcon name="jp.pokemon.koiking/org.cocos2dx.cpp.AppActivity" image="magikarp"/>
+    <AppIcon name="jp.konami.masterduel/jp.konami.masterduel.plugins.YgomdMainActivity" image="master_duel"/>
+    <AppIcon name="me.magnum.melonds/me.magnum.melonds.ui.romlist.RomListActivity" image="melonds"/>
+    <AppIcon name="com.dergoogler.mmrl/com.dergoogler.mmrl.ui.activity.MainActivity" image="mmrl"/>
+    <AppIcon name="com.myunibo/com.myunibo.MainActivity" image="myunibo"/>
+    <AppIcon name="com.youthhr.phonto/com.youthhr.phonto.PhontoActivity" image="phonto"/>
+    <AppIcon name="com.example.photoswooper/com.example.photoswooper.MainActivity" image="photoswooper"/>
+    <AppIcon name="ru.karasevm.privatednstoggle/ru.karasevm.privatednstoggle.ui.MainActivity" image="private_dns_quick_toggle"/>
+    <AppIcon name="ru.iiec.pydroid3/ru.iiec.pydroid.MainActivity" image="pydroid_3"/>
+    <AppIcon name="com.devolver.reigns/com.unity3d.player.UnityPlayerActivity" image="reigns"/>
+    <AppIcon name="com.devolver.reigns2/com.unity3d.player.UnityPlayerActivity" image="reigns_her_majesty"/>
+    <AppIcon name="se.leap.riseupvpn/se.leap.bitmaskclient.base.StartActivity" image="riseup_vpn"/>
+    <AppIcon name="it.spaghettiinteractive.scopapiu/it.spaghettiinteractive.scopapiu.MainActivity" image="scopa_più"/>
+    <AppIcon name="de.markusfisch.android.screentime/de.markusfisch.android.screentime.activity.MainActivity" image="screen_time"/>
+    <AppIcon name="com.johnayliff.seedship/com.johnayliff.seedship.MainActivity" image="seedship"/>
+    <AppIcon name="com.humble.SlayTheSpire/android.app.NativeActivity" image="slay_the_spire"/>
+    <AppIcon name="com.roasterygames.smartphonetycoon2/com.roasterygames.smartphonetycoon2.MainActivity" image="smartphone_tycoon_2"/>
+    <AppIcon name="com.squareenixmontreal.hitmansniperandroid/com.unity3d.player.UnityPlayerActivity" image="sniper"/>
+    <AppIcon name="com.songsterr/com.songsterr.main.MainActivity" image="songsterr"/>
+    <AppIcon name="com.kiloo.subwaysurf/com.sybogames.chili.multidex.ChiliMultidexSupportActivity" image="subway_surf"/>
+    <AppIcon name="com.untappdllc.app/com.untappdllc.app.MainActivityDefault" image="untappd"/>
+    <AppIcon name="it.tgsoft.virit/it.tgsoft.virit.PrivacyActivity" image="virit_mobile_security"/>
+    <AppIcon name="com.zynga.livepoker/com.zynga.ZyngaUnityActivity.ZyngaUnityActivity" image="zynga_poker_–_texas_holdem"/>
+    <AppIcon name="game2048.b2048game.twozerofoureight2048.game/game2048.b2048game.twozerofoureight2048.game.SplashActivity" image="_1024_puzzle_numbers_game"/>
 
 </Theme>
