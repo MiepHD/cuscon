@@ -6658,7 +6658,19 @@
     <AppIcon name="com.kiloo.subwaysurf/com.sybogames.chili.multidex.ChiliMultidexSupportActivity" image="subway_surf"/>
     <AppIcon name="com.untappdllc.app/com.untappdllc.app.MainActivityDefault" image="untappd"/>
     <AppIcon name="it.tgsoft.virit/it.tgsoft.virit.PrivacyActivity" image="virit_mobile_security"/>
-    <AppIcon name="com.zynga.livepoker/com.zynga.ZyngaUnityActivity.ZyngaUnityActivity" image="zynga_poker_–_texas_holdem"/>
+    <AppIcon name="com.zynga.livepoker/com.zynga.ZyngaUnityActivity.ZyngaUnityActivity" image="zynga_poker_texas_holdem"/>
     <AppIcon name="game2048.b2048game.twozerofoureight2048.game/game2048.b2048game.twozerofoureight2048.game.SplashActivity" image="_1024_puzzle_numbers_game"/>
+    <AppIcon name="com.motorola.camera5/com.motorola.camera.Camera" image="camera5_motorola"/>
+    <AppIcon name="cz.seznam.mapy/cz.seznam.mapy.PremiumActivity" image="mapycom_premium"/>
+    <AppIcon name="de.rtli.tvnow/de.rtl.plus.RtlPlusLauncherActivity" image="rtl_plus"/>
+    <AppIcon name="com.entersekt.authapp.dtrust/de.bdr.signme.authenticator.MainActivity" image="sign_me_2fa_authenticator"/>
+    <AppIcon name="org.nsh07.pomodoro/org.nsh07.pomodoro.MainActivity" image="tomato_pomodoro"/>
+    <AppIcon name="com.arobasmusic.guitarpro/com.arobasmusic.guitarpro.ui.LibraryActivity" image="guitar_pro"/>
+    <AppIcon name="com.motorola.camera5/com.motorola.camera.Camera" image="camera5_motorola"/>
+    <AppIcon name="cz.seznam.mapy/cz.seznam.mapy.PremiumActivity" image="mapycom_premium"/>
+    <AppIcon name="de.rtli.tvnow/de.rtl.plus.RtlPlusLauncherActivity" image="rtl_plus"/>
+    <AppIcon name="com.entersekt.authapp.dtrust/de.bdr.signme.authenticator.MainActivity" image="sign_me_2fa_authenticator"/>
+    <AppIcon name="org.nsh07.pomodoro/org.nsh07.pomodoro.MainActivity" image="tomato_pomodoro"/>
+    <AppIcon name="com.arobasmusic.guitarpro/com.arobasmusic.guitarpro.ui.LibraryActivity" image="guitar_pro"/>
 
 </Theme>

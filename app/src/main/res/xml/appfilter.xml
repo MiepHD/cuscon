@@ -6774,8 +6774,20 @@
     <item component="ComponentInfo{com.kiloo.subwaysurf/com.sybogames.chili.multidex.ChiliMultidexSupportActivity}" drawable="subway_surf" />
     <item component="ComponentInfo{com.untappdllc.app/com.untappdllc.app.MainActivityDefault}" drawable="untappd" />
     <item component="ComponentInfo{it.tgsoft.virit/it.tgsoft.virit.PrivacyActivity}" drawable="virit_mobile_security" />
-    <item component="ComponentInfo{com.zynga.livepoker/com.zynga.ZyngaUnityActivity.ZyngaUnityActivity}" drawable="zynga_poker_–_texas_holdem" />
+    <item component="ComponentInfo{com.zynga.livepoker/com.zynga.ZyngaUnityActivity.ZyngaUnityActivity}" drawable="zynga_poker_texas_holdem" />
     <item component="ComponentInfo{game2048.b2048game.twozerofoureight2048.game/game2048.b2048game.twozerofoureight2048.game.SplashActivity}" drawable="_1024_puzzle_numbers_game" />
+    <item component="ComponentInfo{com.motorola.camera5/com.motorola.camera.Camera}" drawable="camera5_motorola" />
+    <item component="ComponentInfo{cz.seznam.mapy/cz.seznam.mapy.PremiumActivity}" drawable="mapycom_premium" />
+    <item component="ComponentInfo{de.rtli.tvnow/de.rtl.plus.RtlPlusLauncherActivity}" drawable="rtl_plus" />
+    <item component="ComponentInfo{com.entersekt.authapp.dtrust/de.bdr.signme.authenticator.MainActivity}" drawable="sign_me_2fa_authenticator" />
+    <item component="ComponentInfo{org.nsh07.pomodoro/org.nsh07.pomodoro.MainActivity}" drawable="tomato_pomodoro" />
+    <item component="ComponentInfo{com.arobasmusic.guitarpro/com.arobasmusic.guitarpro.ui.LibraryActivity}" drawable="guitar_pro" />
+    <item component="ComponentInfo{com.motorola.camera5/com.motorola.camera.Camera}" drawable="camera5_motorola" />
+    <item component="ComponentInfo{cz.seznam.mapy/cz.seznam.mapy.PremiumActivity}" drawable="mapycom_premium" />
+    <item component="ComponentInfo{de.rtli.tvnow/de.rtl.plus.RtlPlusLauncherActivity}" drawable="rtl_plus" />
+    <item component="ComponentInfo{com.entersekt.authapp.dtrust/de.bdr.signme.authenticator.MainActivity}" drawable="sign_me_2fa_authenticator" />
+    <item component="ComponentInfo{org.nsh07.pomodoro/org.nsh07.pomodoro.MainActivity}" drawable="tomato_pomodoro" />
+    <item component="ComponentInfo{com.arobasmusic.guitarpro/com.arobasmusic.guitarpro.ui.LibraryActivity}" drawable="guitar_pro" />
 
 </resources>
 

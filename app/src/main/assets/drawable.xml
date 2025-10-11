@@ -46,8 +46,14 @@
     <item drawable="subway_surf" />
     <item drawable="untappd" />
     <item drawable="virit_mobile_security" />
-    <item drawable="zynga_poker_–_texas_holdem" />
+    <item drawable="zynga_poker_texas_holdem" />
     <item drawable="_1024_puzzle_numbers_game" />
+    <item drawable="camera5_motorola" />
+    <item drawable="mapycom_premium" />
+    <item drawable="rtl_plus" />
+    <item drawable="sign_me_2fa_authenticator" />
+    <item drawable="tomato_pomodoro" />
+    <item drawable="guitar_pro" />
     <category title="Folders" />
     <item drawable="folder_blue" />
     <item drawable="folder_dark_blue" />
@@ -513,6 +519,7 @@
     <item drawable="galaxy_store" />
     <item drawable="galaxy_wearable" />
     <category title="Motorola" />
+    <item drawable="camera5_motorola" />
     <item drawable="moto_camera_3" />
     <item drawable="moto_gametime" />
     <item drawable="motorola_camera3" />
@@ -2600,6 +2607,7 @@
 	<item drawable="futo_voice_input" />
 	<item drawable="fx" />
     <category title="G" />
+    <item drawable="guitar_pro" />
     <item drawable="geometry_dash_meltdown" />
     <item drawable="geometry_dash_subzero" />
     <item drawable="geometry_dash_world" />
@@ -3536,6 +3544,7 @@
 	<item drawable="lucky_wasted" />
 	<item drawable="lux_o_meter_lichtmesser" />
     <category title="M" />
+    <item drawable="mapycom_premium" />
     <item drawable="magikarp" />
     <item drawable="master_duel" />
     <item drawable="melonds" />
@@ -4862,6 +4871,7 @@
 	<item drawable="quik" />
 	<item drawable="quillpad" />
     <category title="R" />
+    <item drawable="rtl_plus" />
     <item drawable="reigns" />
     <item drawable="reigns_her_majesty" />
     <item drawable="riseup_vpn" />
@@ -5100,6 +5110,7 @@
 	<item drawable="rustdesk" />
 	<item drawable="rvx_music" />
     <category title="S" />
+    <item drawable="sign_me_2fa_authenticator" />
     <item drawable="scopa_più" />
     <item drawable="screen_time" />
     <item drawable="seedship" />
@@ -5658,6 +5669,7 @@
 	<item drawable="swiss_post" />
 	<item drawable="systemui_tuner" />
     <category title="T" />
+    <item drawable="tomato_pomodoro" />
     <item drawable="text_viewer" />
     <item drawable="tick_tock" />
     <item drawable="tempest" />
@@ -6575,7 +6587,7 @@
 	<item drawable="yuka" />
 	<item drawable="yuzu_browser" />
     <category title="Z" />
-    <item drawable="zynga_poker_–_texas_holdem" />
+    <item drawable="zynga_poker_texas_holdem" />
     <item drawable="zip_extractor" />
     <item drawable="zdfheute" />
     <item drawable="zdfmediathek" />
