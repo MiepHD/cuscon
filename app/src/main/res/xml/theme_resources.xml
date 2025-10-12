@@ -6673,5 +6673,9 @@
     <AppIcon name="org.nsh07.pomodoro/org.nsh07.pomodoro.MainActivity" image="tomato_pomodoro"/>
     <AppIcon name="com.arobasmusic.guitarpro/com.arobasmusic.guitarpro.ui.LibraryActivity" image="guitar_pro"/>
     <AppIcon name="com.dkbcodefactory.banking/com.dkbcodefactory.banking.screens.BankingAppActivity" image="dkb"/>
+    <AppIcon name="com.letterboxd.letterboxd/com.letterboxd.letterboxd.MainActivity" image="letterboxd"/>
+    <AppIcon name="nu.gpu.nagram/org.telegram.messenger.NielloIcon" image="nagram_x"/>
+    <AppIcon name="com.philkes.notallyx/com.philkes.notallyx.presentation.activity.main.MainActivity" image="notallyx"/>
+    <AppIcon name="ca.chancehorizon.paseo/ca.chancehorizon.paseo.MainActivity" image="paseo"/>
 
 </Theme>

@@ -6789,6 +6789,10 @@
     <item component="ComponentInfo{org.nsh07.pomodoro/org.nsh07.pomodoro.MainActivity}" drawable="tomato_pomodoro" />
     <item component="ComponentInfo{com.arobasmusic.guitarpro/com.arobasmusic.guitarpro.ui.LibraryActivity}" drawable="guitar_pro" />
     <item component="ComponentInfo{com.dkbcodefactory.banking/com.dkbcodefactory.banking.screens.BankingAppActivity}" drawable="dkb" />
+    <item component="ComponentInfo{com.letterboxd.letterboxd/com.letterboxd.letterboxd.MainActivity}" drawable="letterboxd" />
+    <item component="ComponentInfo{nu.gpu.nagram/org.telegram.messenger.NielloIcon}" drawable="nagram_x" />
+    <item component="ComponentInfo{com.philkes.notallyx/com.philkes.notallyx.presentation.activity.main.MainActivity}" drawable="notallyx" />
+    <item component="ComponentInfo{ca.chancehorizon.paseo/ca.chancehorizon.paseo.MainActivity}" drawable="paseo" />
 
 </resources>
 

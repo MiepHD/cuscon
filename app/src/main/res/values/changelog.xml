@@ -2,6 +2,9 @@
 <resources>
     <string name="changelog_date">11.10.2025</string>
     <string-array name="changelog">
+        <item>4.0.7.1:</item>
+        <item>Fixed Letterboxd</item>
+        <item>Added Nagram X, NotallyX, Paseo</item>
         <item>4.0.7.0:</item>
         <item>Updated Net Analyzer, Zettel Notes</item>
         <item>Fixed Curve Pay, OpenDocument Reader, Tailscale, DKB</item>
