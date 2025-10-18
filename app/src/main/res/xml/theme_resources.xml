@@ -6677,5 +6677,6 @@
     <AppIcon name="nu.gpu.nagram/org.telegram.messenger.NielloIcon" image="nagram_x"/>
     <AppIcon name="com.philkes.notallyx/com.philkes.notallyx.presentation.activity.main.MainActivity" image="notallyx"/>
     <AppIcon name="ca.chancehorizon.paseo/ca.chancehorizon.paseo.MainActivity" image="paseo"/>
+    <AppIcon name="com.atoss.ses.scspt/com.atoss.ses.scspt.ui.MainActivity" image="staff_center"/>
 
 </Theme>

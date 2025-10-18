@@ -2,6 +2,7 @@
 <resources>
     <version>1</version>
     <category title="New Icons" />
+    <item drawable="staff_center" />
     <item drawable="nagram_x" />
     <item drawable="notallyx" />
     <item drawable="paseo" />
@@ -5064,6 +5065,7 @@
 	<item drawable="rustdesk" />
 	<item drawable="rvx_music" />
     <category title="S" />
+    <item drawable="staff_center" />
     <item drawable="sign_me_2fa_authenticator" />
     <item drawable="scopa_piu" />
     <item drawable="screen_time" />
