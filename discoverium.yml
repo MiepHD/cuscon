@@ -1,8 +1,0 @@
-app:
-  name: Cuscon
-  authors: Yazazuyo
-  category: tools
-  description: This icon pack adds variety and dynamism to your Home screen
-  icon: https://raw.githubusercontent.com/MiepHD/cuscon/refs/heads/master/app/src/main/res/drawable-nodpi/cuscon.webp
-  releases:
-    url: https://github.com/MiepHD/cuscon/releases

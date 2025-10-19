@@ -6678,5 +6678,8 @@
     <AppIcon name="com.philkes.notallyx/com.philkes.notallyx.presentation.activity.main.MainActivity" image="notallyx"/>
     <AppIcon name="ca.chancehorizon.paseo/ca.chancehorizon.paseo.MainActivity" image="paseo"/>
     <AppIcon name="com.atoss.ses.scspt/com.atoss.ses.scspt.ui.MainActivity" image="staff_center"/>
+    <AppIcon name="com.xjrx98.cp_aquaplants/com.xjrx98.cp_aquaplants.MainActivity" image="c_and_p_aquaplants"/>
+    <AppIcon name="com.mbusa.mercedesme.android/com.mbusa.mercedesme.app.views.initialization.SplashScreenActivity" image="mercedes_me"/>
+    <AppIcon name="com.ledvance.smartunify/com.ledvance.smartunify.ui.activities.SplashActivity" image="smart_"/>
 
 </Theme>
