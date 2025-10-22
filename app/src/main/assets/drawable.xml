@@ -2,9 +2,11 @@
 <resources>
     <version>1</version>
     <category title="New Icons" />
-    <item drawable="c_and_p_aquaplants" />
-    <item drawable="mercedes_me" />
-    <item drawable="smart_" />
+    <item drawable="loga3app" />
+    <item drawable="mercedes_benz" />
+    <item drawable="momogram" />
+    <item drawable="netwalk" />
+    <item drawable="volla_messages" />
     <category title="Folders" />
     <item drawable="folder_blue" />
     <item drawable="folder_dark_blue" />
@@ -3316,6 +3318,7 @@
 	<item drawable="kutumb" />
 	<item drawable="kwgt_pro" />
     <category title="L" />
+    <item drawable="loga3app" />
     <item drawable="logline" />
     <item drawable="lovelaceav" />
     <item drawable="blitzortung_moniteur_dactivite_orageuse" name="Lightning Location Thunderstorm Activity Monitor" />
@@ -3496,6 +3499,8 @@
 	<item drawable="lucky_wasted" />
 	<item drawable="lux_o_meter_lichtmesser" />
     <category title="M" />
+    <item drawable="mercedes_benz" />
+    <item drawable="momogram" />
     <item drawable="mercedes_me" />
     <item drawable="mapycom_premium" />
     <item drawable="magikarp" />
@@ -3994,6 +3999,7 @@
 	<item drawable="mytelkomsel" />
 	<item drawable="myumobile" />
     <category title="N" />
+    <item drawable="netwalk" />
     <item drawable="nagram_x" />
     <item drawable="notallyx" />
     <item drawable="nora_nonbili" />
@@ -6059,6 +6065,7 @@
 	<item drawable="utiles" />
 	<item drawable="utilidades_amaze" />
     <category title="V" />
+    <item drawable="volla_messages" />
     <item drawable="virit_mobile_security" />
     <item drawable="vscode" />
     <item drawable="vista_de_documentos" name="documents viewer" />

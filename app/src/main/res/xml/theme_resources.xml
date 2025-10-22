@@ -6681,5 +6681,10 @@
     <AppIcon name="com.xjrx98.cp_aquaplants/com.xjrx98.cp_aquaplants.MainActivity" image="c_and_p_aquaplants"/>
     <AppIcon name="com.mbusa.mercedesme.android/com.mbusa.mercedesme.app.views.initialization.SplashScreenActivity" image="mercedes_me"/>
     <AppIcon name="com.ledvance.smartunify/com.ledvance.smartunify.ui.activities.SplashActivity" image="smart_"/>
+    <AppIcon name="com.loga3app/com.loga3app.MainActivity" image="loga3app"/>
+    <AppIcon name="com.daimler.ris.mercedesme.ece.android/com.daimler.mycar.screen.splash.SplashActivity" image="mercedes_benz"/>
+    <AppIcon name="nekox.messenger.broken/org.telegram.messenger.MomogramDefaultIcon" image="momogram"/>
+    <AppIcon name="com.schustermannborenstein.netwalk.android/com.staffbase.capacitor.MainActivity" image="netwalk"/>
+    <AppIcon name="com.volla.messages/com.volla.messages.MainActivity" image="volla_messages"/>
 
 </Theme>

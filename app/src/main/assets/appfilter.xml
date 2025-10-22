@@ -6797,6 +6797,11 @@
     <item component="ComponentInfo{com.xjrx98.cp_aquaplants/com.xjrx98.cp_aquaplants.MainActivity}" drawable="c_and_p_aquaplants" />
     <item component="ComponentInfo{com.mbusa.mercedesme.android/com.mbusa.mercedesme.app.views.initialization.SplashScreenActivity}" drawable="mercedes_me" />
     <item component="ComponentInfo{com.ledvance.smartunify/com.ledvance.smartunify.ui.activities.SplashActivity}" drawable="smart_" />
+    <item component="ComponentInfo{com.loga3app/com.loga3app.MainActivity}" drawable="loga3app" />
+    <item component="ComponentInfo{com.daimler.ris.mercedesme.ece.android/com.daimler.mycar.screen.splash.SplashActivity}" drawable="mercedes_benz" />
+    <item component="ComponentInfo{nekox.messenger.broken/org.telegram.messenger.MomogramDefaultIcon}" drawable="momogram" />
+    <item component="ComponentInfo{com.schustermannborenstein.netwalk.android/com.staffbase.capacitor.MainActivity}" drawable="netwalk" />
+    <item component="ComponentInfo{com.volla.messages/com.volla.messages.MainActivity}" drawable="volla_messages" />
 
 </resources>
 

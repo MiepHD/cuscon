@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="changelog_date">19.10.2025</string>
+    <string name="changelog_date">22.10.2025</string>
     <string-array name="changelog">
+        <item>4.0.7.3:</item>
+        <item>Added Loga3app, Mercedes-Benz, Momogram, NETWALK, Volla Messages</item>
         <item>4.0.7.2:</item>
         <item>Added C and P Aquaplants, Mercedes me, SMART+</item>
         <item>4.0.7.1:</item>
