@@ -1,0 +1,3 @@
+Added 3CatInfo, SkyShowtime, Magic Sort, slither.io
+Updated Discord
+Fixed Smart+, Youtube

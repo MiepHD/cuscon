@@ -1280,7 +1280,7 @@
 	<AppIcon name="com.smartwidgetlabs.chatgpt/com.smartwidgetlabs.chatgpt.ui.splash_screen.SplashActivity" image="chat_smith" />
 	<AppIcon name="com.openai.chatgpt/com.openai.chatgpt.MainActivity" image="chatgpt" />
 	<AppIcon name="com.miui.compass/com.miui.compass.CompassActivity" image="compass" />
-	<AppIcon name="com.discord/com.discord.main.MainDefault" image="discord_default" />
+	<AppIcon name="com.discord/com.discord.main.MainDefault" image="discord" />
 	<AppIcon name="com.hoangnguyen.textsmileypro/com.hoangnguyen.textsmileypro.ui.Main.SplashFragment" image="fancy_text_symbols" />
 	<AppIcon name="com.sofarsogood.incredibox/com.sofarsogood.incredibox.MainActivity" image="incredibox" />
 	<AppIcon name="com.dywx.larkplayer/com.dywx.larkplayer.main.MainActivity" image="lark_player" />
@@ -3560,7 +3560,7 @@
     <AppIcon name="app.disciplined.productive.structured.habit.tracker/app.disciplined.productive.structured.habit.tracker.MainActivity" image="disciplined"/>
     <AppIcon name="com.awgstudios.discordtools/crc641526ba6564b08f07.SplashActivity" image="discord_tools"/>
     <AppIcon name="com.awgstudios.discordwebhookremoteapp/crc6490bee2440872efc7.SplashActivity" image="discord_webhook_remote"/>
-    <AppIcon name="dev.beefers.vendetta/com.discord.main.MainGalaxy" image="discord_ghost"/>
+    <AppIcon name="dev.beefers.vendetta/com.discord.main.MainGalaxy" image="discord"/>
     <AppIcon name="com.atlantis.launcher/com.atlantis.launcher.home.HomeActivity" image="dna_launcher"/>
     <AppIcon name="com.blackboard.transact.android.v2/com.blackboard.transact.android.v2.Launcher" image="eaccounts"/>
     <AppIcon name="easy.launcher/easy.launcher.AppStartActivity" image="easy_homescreen"/>
@@ -6686,5 +6686,11 @@
     <AppIcon name="nekox.messenger.broken/org.telegram.messenger.MomogramDefaultIcon" image="momogram"/>
     <AppIcon name="com.schustermannborenstein.netwalk.android/com.staffbase.capacitor.MainActivity" image="netwalk"/>
     <AppIcon name="com.volla.messages/com.volla.messages.MainActivity" image="volla_messages"/>
+    <AppIcon name="com.ledvance.smartunify/com.ledvance.smartunify.ui.activities.LdvMainActivity" image="smart_"/>
+    <AppIcon name="app.revanced.android.youtube/app.revanced.android.youtube.revanced_original_1" image="youtube"/>
+    <AppIcon name="com.tres24/com.cat3info.MainActivity" image="_3catinfo"/>
+    <AppIcon name="com.skyshowtime.skyshowtime.google/com.peacocktv.legacy.monolith.main.MainActivity" image="skyshowtime"/>
+    <AppIcon name="com.grandgames.magicsort/com.unity3d.player.UnityPlayerActivity" image="magic_sort"/>
+    <AppIcon name="air.com.hypah.io.slither/air.com.hypah.io.slither.AIRAppEntry" image="slitherio"/>
 
 </Theme>
