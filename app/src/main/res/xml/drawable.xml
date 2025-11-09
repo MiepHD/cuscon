@@ -6,6 +6,15 @@
     <item drawable="skyshowtime" />
     <item drawable="magic_sort" />
     <item drawable="slitherio" />
+    <item drawable="dice_fm" />
+    <item drawable="happycow" />
+    <item drawable="seterra" />
+    <item drawable="sg" />
+    <item drawable="wordreference" />
+    <item drawable="easyphysics" />
+    <item drawable="numeros" />
+    <item drawable="das_absolute_gehor" />
+    <item drawable="pitch_black_wallpaper" />
     <category title="Folders" />
     <item drawable="folder_blue" />
     <item drawable="folder_dark_blue" />
@@ -1833,6 +1842,8 @@
 	<item drawable="cubic_2_3_4_player_games" />
 	<item drawable="currencies" />
     <category title="D" />
+    <item drawable="das_absolute_gehor" />
+    <item drawable="dice_fm" />
     <item drawable="dr_lyd" />
     <item drawable="dr_nettools" />
     <item drawable="arztsuche" name="doctor search" />
@@ -2124,6 +2135,7 @@
 	<item drawable="dynalist" />
 	<item drawable="dynamicspot" />
     <category title="E" />
+    <item drawable="easyphysics" />
     <item drawable="edxposed_manager" />
     <item drawable="ewpe_smart" />
     <item drawable="escaner_de_red" name="network scanner" />
@@ -2776,6 +2788,7 @@
 	<item drawable="gsmarena" />
 	<item drawable="gspace" />
     <category title="H" />
+    <item drawable="happycow" />
     <item drawable="hello_you" />
     <item drawable="hearthstone" />
     <item drawable="http_file_server" />
@@ -3998,6 +4011,7 @@
 	<item drawable="mytelkomsel" />
 	<item drawable="myumobile" />
     <category title="N" />
+    <item drawable="numeros" />
     <item drawable="netwalk" />
     <item drawable="nagram_x" />
     <item drawable="notallyx" />
@@ -4398,6 +4412,7 @@
 	<item drawable="osmand_" />
 	<item drawable="ovag_e_mobil" />
     <category title="P" />
+    <item drawable="pitch_black_wallpaper" />
     <item drawable="paseo" />
     <item drawable="phonto" />
     <item drawable="photoswooper" />
@@ -5071,6 +5086,8 @@
 	<item drawable="rustdesk" />
 	<item drawable="rvx_music" />
     <category title="S" />
+    <item drawable="seterra" />
+    <item drawable="sg" />
     <item drawable="slitherio" />
     <item drawable="skyshowtime" />
     <item drawable="smart_" />
@@ -6297,6 +6314,7 @@
     <item drawable="wifi_signal_meter" />
     <item drawable="ampwifi" />
     <category title="W" />
+    <item drawable="wordreference" />
     <item drawable="webapps" />
     <item drawable="wifi_refresh" />
     <item drawable="wifi_scanner_network_info" />

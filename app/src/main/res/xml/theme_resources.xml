@@ -6696,5 +6696,15 @@
     <AppIcon name="com.skyshowtime.skyshowtime.google/com.peacocktv.legacy.monolith.main.MainActivity" image="skyshowtime"/>
     <AppIcon name="com.grandgames.magicsort/com.unity3d.player.UnityPlayerActivity" image="magic_sort"/>
     <AppIcon name="air.com.hypah.io.slither/air.com.hypah.io.slither.AIRAppEntry" image="slitherio"/>
+    <AppIcon name="fm.dice/fm.dice.splash.presentation.views.SplashActivity" image="dice_fm"/>
+    <AppIcon name="com.hcceg.veg.compassionfree/com.sisow.hcvg.healthydiningguide.app.splash.ui.SplashScreenActivity" image="happycow"/>
+    <AppIcon name="com.seterra/com.seterra.MainActivity" image="seterra"/>
+    <AppIcon name="mobi.societegenerale.mobile.lappli/mobi.societegenerale.mobile.lappli.MainActivity" image="sg"/>
+    <AppIcon name="com.wordreference/com.wordreference.MainApp" image="wordreference"/>
+    <AppIcon name="com.podesta03gmail.francesco.easyphisich/francesco.podesta03.easyphysics.Splash" image="easyphysics"/>
+    <AppIcon name="kz.onelab.numerology/kz.onelab.numerology.MainActivity" image="numeros"/>
+    <AppIcon name="com.evilduck.musiciankit/com.evilduck.musiciankit.pearlets.home.HomeActivity" image="das_absolute_gehor"/>
+    <AppIcon name="io.github.samolego.canta/io.github.samolego.canta.MainActivity" image="canta"/>
+    <AppIcon name="com.tecdrop.pitchblackwallpaper/com.tecdrop.pitchblackwallpaper.PitchBlackWallpaperActivity" image="pitch_black_wallpaper"/>
 
 </Theme>

@@ -6808,6 +6808,16 @@
     <item component="ComponentInfo{com.skyshowtime.skyshowtime.google/com.peacocktv.legacy.monolith.main.MainActivity}" drawable="skyshowtime" />
     <item component="ComponentInfo{com.grandgames.magicsort/com.unity3d.player.UnityPlayerActivity}" drawable="magic_sort" />
     <item component="ComponentInfo{air.com.hypah.io.slither/air.com.hypah.io.slither.AIRAppEntry}" drawable="slitherio" />
+    <item component="ComponentInfo{fm.dice/fm.dice.splash.presentation.views.SplashActivity}" drawable="dice_fm" />
+    <item component="ComponentInfo{com.hcceg.veg.compassionfree/com.sisow.hcvg.healthydiningguide.app.splash.ui.SplashScreenActivity}" drawable="happycow" />
+    <item component="ComponentInfo{com.seterra/com.seterra.MainActivity}" drawable="seterra" />
+    <item component="ComponentInfo{mobi.societegenerale.mobile.lappli/mobi.societegenerale.mobile.lappli.MainActivity}" drawable="sg" />
+    <item component="ComponentInfo{com.wordreference/com.wordreference.MainApp}" drawable="wordreference" />
+    <item component="ComponentInfo{com.podesta03gmail.francesco.easyphisich/francesco.podesta03.easyphysics.Splash}" drawable="easyphysics" />
+    <item component="ComponentInfo{kz.onelab.numerology/kz.onelab.numerology.MainActivity}" drawable="numeros" />
+    <item component="ComponentInfo{com.evilduck.musiciankit/com.evilduck.musiciankit.pearlets.home.HomeActivity}" drawable="das_absolute_gehor" />
+    <item component="ComponentInfo{io.github.samolego.canta/io.github.samolego.canta.MainActivity}" drawable="canta" />
+    <item component="ComponentInfo{com.tecdrop.pitchblackwallpaper/com.tecdrop.pitchblackwallpaper.PitchBlackWallpaperActivity}" drawable="pitch_black_wallpaper" />
 
 </resources>
 
