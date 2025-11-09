@@ -6,7 +6,7 @@
     <!-- Nova Launcher Stuff -->
     <item component=":BROWSER" drawable="browser" />
     <item component=":CALCULATOR" drawable="samsung_calculator" />
-    <item component=":CALENDAR" drawable="smasung_calendar_28" />
+    <item component=":CALENDAR" drawable="samsung_calendar_28" />
     <item component=":CAMERA" drawable="samsung_camera" />
     <item component=":CLOCK" drawable="clock" />
     <item component=":CONTACTS" drawable="samsung_contacts" />
