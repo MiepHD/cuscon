@@ -75,7 +75,7 @@ android {
 }
 
 base {
-    archivesName = "${parent.name}-${android.defaultConfig.versionCode}"
+    archivesName = "${parent.name}-v${android.defaultConfig.versionCode}"
 }
 
 java {
