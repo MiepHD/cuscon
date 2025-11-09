@@ -3,6 +3,10 @@
 
     <!-- FOR LG HOME -->
     <Label value="Cuscon" />
+    <ThemePreview image="preview_cuscon" />
+    <ThemePreviewWork image="preview_cuscon" />
+    <ThemePreviewMenu image="preview_cuscon" />
+    <DockMenuAppIcon selector="preview_cuscon" />
     <AppIcon name="com.cloudflare.onedotonedotonedotone/com.cloudflare.app.presentation.main.SplashActivity" image="cloudflare_warp"/>
     <AppIcon name="com.adguard.android/com.adguard.android.ui.MainActivity" image="adguard"/>
     <AppIcon name="com.adguard.android/com.adguard.android.ui.SplashActivity" image="adguard"/>

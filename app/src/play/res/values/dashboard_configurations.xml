@@ -15,6 +15,7 @@
         - dark
     -->
     <string name="default_theme">auto</string>
+    <bool name="material_you_by_default">false</bool>
 
 
     <!--
@@ -67,19 +68,20 @@
     -->
     <string name="home_image_style">card_landscape</string>
 
-        <!-- Description which will be shown in the home page.
-            Put your markup/text inside of `<![CDATA[` and `]]>`
-            ex: `<![CDATA[ There are - <b>Bold</b> <i>Italic</i> <u>Underline</u> <a href="url">Link</a> ]]>`
+    <!-- Description which will be shown in the home page.
+        Put your markup/text inside of `<![CDATA[` and `]]>`
+        ex: `<![CDATA[ There are - <b>Bold</b> <i>Italic</i> <u>Underline</u> <a href="url">Link</a> ]]>`
 
-            If you don't want to show any description, just leave this empty
-            ex: <string name="home_description"></string>
-            -->
+        If you don't want to show any description, just leave this empty
+        ex: <string name="home_description"></string>
+        -->
     <string name="home_description">
         <![CDATA[
             Hi there,<br>
             I\'m doing a little survey to get to know how my app is used. Please consider doing the quick survey with 5-20 questions. It\'d help me a lot. ♡<br>
             <a href="https://froxot.com/limesurvey/995933?lang=en">froxot.com/limesurvey/995933</a><br>
             <br>
+            Please donate if you like this icon pack: <a href="https://www.buymeacoffee.com/yazazuyo">buymeacoffee.com/yazazuyo</a><br>
             If you want to help extend the icon pack through adding your icons you can open an issue on <a href="https://github.com/MiepHD/cuscon">Github</a> containing the request with edited images that match the requirements.<br>
             If you don\'t want to do them yourself you can purchase premium requests or use the donation option and create a request as explained on <a href="https://github.com/MiepHD/cuscon">Github</a>.
         ]]>
@@ -164,6 +166,7 @@
         When enabled users will be able to request only the specified number of icons.
         The number of icon a user can request should be specified in the "icon_request_limit" section -->
     <bool name="enable_icon_request_limit">false</bool>
+    <bool name="enable_icon_request_multiple">false</bool>
 
     <!-- Limit the numbers of icon a user can request
         IGNORE if "enable_icon_request_limit" option is disabled
@@ -188,6 +191,7 @@
         Later they can use the premium request product to do premium icon request.
         It's something like, paying a sum of money for getting requested icons faster. -->
     <bool name="enable_premium_request">true</bool>
+    <bool name="enable_restore_purchases">false</bool>
 
     <!-- Take a look inside "License.java" for premium request product -->
 
@@ -300,13 +304,13 @@
         -->
     <string-array name="about_social_links">
         <item>cuscon@froxot.de</item>
-        <item>http://miep-hd.froxot.com/app/cuscon.html</item>
+        <item>https://froxot.com</item>
     </string-array>
 
     <!-- Contributors dialog
         If you want to show contributors dialog unable this, if not then disable this.
         Take a look inside res/xml/contributors.xml to add contributors -->
-    <bool name="show_contributors_dialog">true</bool>
+    <bool name="show_contributors_dialog">false</bool>
 
     <!-- Privacy policy link.
         Leave empty to disable this.
@@ -339,5 +343,14 @@
 
     <!-- Show intro guides on first run -->
     <bool name="show_intro">true</bool>
+
+    <!-- Enable/disable in-app review -->
+    <bool name="enable_in_app_review">true</bool>
+    <!-- After how many seconds the dashboard should count that the user visited the app.
+        By default it is set to 30 seconds. If the user opens the app and stays for 30 seconds,
+        it would be counted as a visit -->
+    <integer name="in_app_review_visit_time">30</integer>
+    <!-- After how many visits the in app review dialog should pop up -->
+    <integer name="in_app_review_after_visits">2</integer>
 
 </resources>

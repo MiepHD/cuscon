@@ -20,9 +20,16 @@
         <item name="cb_navigationViewText">#FFFFFF</item>
         <item name="cb_navigationViewTextSelected">#1A73E9</item>
         <item name="cb_navigationViewSelectedBackground">#2A1A73E9</item>
+        <item name="cb_navigationViewRippleColor">#25000000</item>
 
         <!-- Swipe Refresh -->
         <item name="cb_swipeRefresh">#6E3AFF</item>
+
+        <!-- Tap Intro -->
+        <item name="cb_tapIntroTitle">?cb_mainBackground</item>
+        <item name="cb_tapIntroDescription">?cb_mainBackground</item>
+        <item name="cb_tapIntroCircleInner">?cb_primaryText</item>
+        <item name="cb_tapIntroCircleOuter">?cb_secondaryText</item>
 
         <!-- Toolbar -->
         <item name="cb_toolbarIcon">#FFF</item>

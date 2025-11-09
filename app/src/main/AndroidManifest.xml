@@ -26,8 +26,6 @@
         <activity
             android:name=".activities.MainActivity"
             android:launchMode="singleTop"
-            android:noHistory="true"
-            android:screenOrientation="portrait"
             android:theme="@style/Theme.App.Starting"
             android:configChanges="uiMode|orientation|keyboardHidden|screenSize"
             android:exported="true">

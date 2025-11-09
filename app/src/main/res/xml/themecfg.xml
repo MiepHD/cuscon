@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <theme>
-    <version>4029</version>
+    <version>4074</version>
 
     <pkgName>com.froxot.cuscon</pkgName>
     <themeName>Cuscon</themeName>
     <themeInfo>This icon pack adds variety and dynamism to your Home screen</themeInfo>
     <preview
-        img1="preview1"
-        img2="preview2" />
+        img1="preview_cuscon"
+        img2="preview_games" />
 
 </theme>

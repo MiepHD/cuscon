@@ -1,13 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
+    <string name="app_name">Cuscon</string>
 
     <string name="theme_title">Cuscon</string>
     <string name="theme_name">Cuscon</string>
 
-    <string name="theme_author">Miep_HD</string>
-    <string name="developer_name">Miep_HD</string>
-    <string name="developerName">Miep_HD</string>
-    <string name="authorName">Miep_HD</string>
+    <string name="theme_author">Yazazuyo</string>
+    <string name="developer_name">Yazazuyo</string>
+    <string name="developerName">Yazazuyo</string>
+    <string name="authorName">Yazazuyo</string>
 
     <string name="authorLink">http://www.yourlink.com</string>
     <string name="developer_link">http://www.yourlink.com/</string>
@@ -16,10 +17,10 @@
     <string name="theme_info">Icons with transparent background</string>
     <string name="theme_ad_msg">Icons with transparent background</string>
 
-    <string name="theme_feature">feature</string>
+    <string name="theme_feature">preview_features</string>
 
-    <string name="theme_preview1">preview1</string>
-    <string name="theme_preview2">preview2</string>
+    <string name="theme_preview1">preview_cuscon</string>
+    <string name="theme_preview2">preview_games</string>
 
     <string name="iconpack">com.froxot.cuscon</string>
 

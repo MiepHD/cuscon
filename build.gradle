@@ -24,6 +24,6 @@ allprojects {
     }
 }
 
-task clean(type: Delete) {
-    delete layout.buildDirectory
+tasks.register('clean', Delete) {
+    delete rootProject.layout.buildDirectory
 }
