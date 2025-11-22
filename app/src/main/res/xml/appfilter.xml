@@ -6818,6 +6818,28 @@
     <item component="ComponentInfo{com.evilduck.musiciankit/com.evilduck.musiciankit.pearlets.home.HomeActivity}" drawable="das_absolute_gehor" />
     <item component="ComponentInfo{io.github.samolego.canta/io.github.samolego.canta.MainActivity}" drawable="canta" />
     <item component="ComponentInfo{com.tecdrop.pitchblackwallpaper/com.tecdrop.pitchblackwallpaper.PitchBlackWallpaperActivity}" drawable="pitch_black_wallpaper" />
+    <item component="ComponentInfo{com.dot.gallery/com.dot.gallery.feature_node.presentation.main.MainActivity}" drawable="galerie_dot" />
+    <item component="ComponentInfo{com.rifsxd.ksunext/com.rifsxd.ksunext.ui.MainActivity}" drawable="kernelsu_next" />
+    <item component="ComponentInfo{ru.tech.imageresizershrinker/com.t8rin.imagetoolbox.app.presentation.AppActivity}" drawable="image_toolbox_resizershrinker" />
+    <item component="ComponentInfo{com.pixelbypixel.mosmobile/com.epicgames.unreal.SplashActivity}" drawable="marbles_on_stream_mobile" />
+    <item component="ComponentInfo{com.chemistry.admin.chemistrylab/com.chemistry.admin.chemistrylab.activity.MainActivity}" drawable="chemistrylab"/>
+    <item component="ComponentInfo{fi.rojekti.clipper/fi.rojekti.clipper.library.activity.LauncherActivity}" drawable="clipper"/>
+    <item component="ComponentInfo{ru.andr7e.deviceinfohw.pro/ru.andr7e.deviceinfohw.MainActivity}" drawable="deviceinfohw"/>
+    <item component="ComponentInfo{giraffine.dimmer/giraffine.dimmer.Dimmer}" drawable="dimmer"/>
+    <item component="ComponentInfo{com.shezik.drawanywhere/com.shezik.drawanywhere.MainActivity}" drawable="drawanywhere"/>
+    <item component="ComponentInfo{com.silentlexx.ffmpeggui/com.silentlexx.ffmpeggui.activities.Gui}" drawable="ffmpegmediaencoder"/>
+    <item component="ComponentInfo{com.asm.hiddencamera/com.asm.hiddencamera.SplashActivity}" drawable="hiddeneye"/>
+    <item component="ComponentInfo{org.vinaygopinath.launchchat/org.vinaygopinath.launchchat.screens.main.MainActivity}" drawable="launchchat"/>
+    <item component="ComponentInfo{it.giccisw.midi/it.giccisw.midi.MidiActivityIntro}" drawable="midiclef"/>
+    <item component="ComponentInfo{com.ghisler.appinstaller/com.ghisler.appinstaller.MainActivity}" drawable="multi-apk-installer"/>
+    <item component="ComponentInfo{com.everydaycalculation.allinone.pro/com.everydaycalculation.allinone.Main}" drawable="onecalc"/>
+    <item component="ComponentInfo{com.paintastic/com.paintastic.main.activity.MainActivity}" drawable="paintastic"/>
+    <item component="ComponentInfo{com.quaap.primary/com.quaap.primary.MainActivity}" drawable="primary"/>
+    <item component="ComponentInfo{com.write.Quill/com.write.Quill.QuillWriterActivity}" drawable="quill"/>
+    <item component="ComponentInfo{kr.aboy.sound/kr.aboy.sound.IntroCheck}" drawable="soundmeterpro"/>
+    <item component="ComponentInfo{app.varlorg.unote/app.varlorg.unote.NoteMain}" drawable="unote"/>
+    <item component="ComponentInfo{com.punksta.apps.volumecontrol/com.example.punksta.volumecontrol.MainActivity}" drawable="volumecontrol"/>
+    <item component="ComponentInfo{in.workindia.nileshdungarwal.workindiaandroid/in.workindia.nileshdungarwal.workindiaandroid.SplashScreenActivity}" drawable="workindia"/>
 
 </resources>
 

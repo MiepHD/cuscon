@@ -2,19 +2,28 @@
 <resources>
     <version>1</version>
     <category title="New Icons" />
-    <item drawable="_3catinfo" />
-    <item drawable="skyshowtime" />
-    <item drawable="magic_sort" />
-    <item drawable="slitherio" />
-    <item drawable="dice_fm" />
-    <item drawable="happycow" />
-    <item drawable="seterra" />
-    <item drawable="sg" />
-    <item drawable="wordreference" />
-    <item drawable="easyphysics" />
-    <item drawable="numeros" />
-    <item drawable="das_absolute_gehor" />
-    <item drawable="pitch_black_wallpaper" />
+    <item drawable="galerie_dot" />
+    <item drawable="kernelsu_next" />
+    <item drawable="image_toolbox_resizershrinker" />
+    <item drawable="marbles_on_stream_mobile" />
+    <item drawable="chemistrylab"/>
+    <item drawable="clipper"/>
+    <item drawable="deviceinfohw"/>
+    <item drawable="dimmer"/>
+    <item drawable="drawanywhere"/>
+    <item drawable="ffmpegmediaencoder"/>
+    <item drawable="hiddeneye"/>
+    <item drawable="launchchat"/>
+    <item drawable="midiclef"/>
+    <item drawable="multi-apk-installer"/>
+    <item drawable="onecalc"/>
+    <item drawable="paintastic"/>
+    <item drawable="primary"/>
+    <item drawable="quill"/>
+    <item drawable="soundmeterpro"/>
+    <item drawable="unote"/>
+    <item drawable="volumecontrol"/>
+    <item drawable="workindia"/>
     <category title="Folders" />
     <item drawable="folder_blue" />
     <item drawable="folder_dark_blue" />
@@ -1469,6 +1478,8 @@
 	<item drawable="bycs_drive" />
     <item drawable="ballozi_skynox" />
     <category title="C" />
+    <item drawable="chemistrylab"/>
+    <item drawable="clipper"/>
     <item drawable="c_and_p_aquaplants" />
     <item drawable="cells" />
     <item drawable="citra" />
@@ -1842,6 +1853,9 @@
 	<item drawable="cubic_2_3_4_player_games" />
 	<item drawable="currencies" />
     <category title="D" />
+    <item drawable="deviceinfohw"/>
+    <item drawable="dimmer"/>
+    <item drawable="drawanywhere"/>
     <item drawable="das_absolute_gehor" />
     <item drawable="dice_fm" />
     <item drawable="dr_lyd" />
@@ -2313,6 +2327,7 @@
 	<item drawable="exodus" />
 	<item drawable="exteragram" />
     <category title="F" />
+    <item drawable="ffmpegmediaencoder"/>
     <item drawable="fallout_shelter" />
     <item drawable="fightlist" />
     <item drawable="foldersync_pro" />
@@ -2571,6 +2586,7 @@
 	<item drawable="futo_voice_input" />
 	<item drawable="fx" />
     <category title="G" />
+    <item drawable="galerie_dot" />
     <item drawable="guitar_pro" />
     <item drawable="geometry_dash_meltdown" />
     <item drawable="geometry_dash_subzero" />
@@ -2788,6 +2804,7 @@
 	<item drawable="gsmarena" />
 	<item drawable="gspace" />
     <category title="H" />
+    <item drawable="hiddeneye"/>
     <item drawable="happycow" />
     <item drawable="hello_you" />
     <item drawable="hearthstone" />
@@ -2956,6 +2973,7 @@
 	<item drawable="hypatia" />
 	<item drawable="hyperrogue_gold" />
     <category title="I" />
+    <item drawable="image_toolbox_resizershrinker" />
     <item drawable="al_quran_indonesia" name="Indonesian Quran" />
     <item drawable="ausweisapp2" name="ID Card App" />
     <item drawable="inbrowser_tommie" />
@@ -3190,6 +3208,7 @@
 	<item drawable="justchess" />
 	<item drawable="justdial" />
     <category title="K" />
+    <item drawable="kernelsu_next" />
     <item drawable="kitsune" />
     <item drawable="kauth" />
     <item drawable="kchat" />
@@ -3329,6 +3348,7 @@
 	<item drawable="kutumb" />
 	<item drawable="kwgt_pro" />
     <category title="L" />
+    <item drawable="launchchat"/>
     <item drawable="loga3app" />
     <item drawable="logline" />
     <item drawable="lovelaceav" />
@@ -3510,6 +3530,9 @@
 	<item drawable="lucky_wasted" />
 	<item drawable="lux_o_meter_lichtmesser" />
     <category title="M" />
+    <item drawable="midiclef"/>
+    <item drawable="multi-apk-installer"/>
+    <item drawable="marbles_on_stream_mobile" />
     <item drawable="magic_sort" />
     <item drawable="mercedes_benz" />
     <item drawable="momogram" />
@@ -4236,6 +4259,7 @@
 	<item drawable="nozzle" />
 	<item drawable="nytimes" />
     <category title="O" />
+    <item drawable="onecalc"/>
     <item drawable="opa" />
     <item drawable="open_sudoku" />
     <item drawable="atlas_obscura" name="Obscure Atlas" />
@@ -4412,6 +4436,8 @@
 	<item drawable="osmand_" />
 	<item drawable="ovag_e_mobil" />
     <category title="P" />
+    <item drawable="paintastic"/>
+    <item drawable="primary"/>
     <item drawable="pitch_black_wallpaper" />
     <item drawable="paseo" />
     <item drawable="phonto" />
@@ -4800,6 +4826,7 @@
 	<item drawable="puzzles" />
 	<item drawable="pysolfc" />
     <category title="Q" />
+    <item drawable="quill"/>
     <item drawable="quicksy" />
     <item drawable="qwant" />
     <item drawable="quetta" />
@@ -5086,6 +5113,7 @@
 	<item drawable="rustdesk" />
 	<item drawable="rvx_music" />
     <category title="S" />
+    <item drawable="soundmeterpro"/>
     <item drawable="seterra" />
     <item drawable="sg" />
     <item drawable="slitherio" />
@@ -5990,6 +6018,7 @@
 	<item drawable="tux_paint_config" />
 	<item drawable="twelve_key_dialer" />
     <category title="U" />
+    <item drawable="unote"/>
     <item drawable="untappd" />
     <item drawable="udderance_aac" />
     <item drawable="ugreen_nas" />
@@ -6083,6 +6112,7 @@
 	<item drawable="utiles" />
 	<item drawable="utilidades_amaze" />
     <category title="V" />
+    <item drawable="volumecontrol"/>
     <item drawable="volla_messages" />
     <item drawable="virit_mobile_security" />
     <item drawable="vscode" />
@@ -6314,6 +6344,7 @@
     <item drawable="wifi_signal_meter" />
     <item drawable="ampwifi" />
     <category title="W" />
+    <item drawable="workindia"/>
     <item drawable="wordreference" />
     <item drawable="webapps" />
     <item drawable="wifi_refresh" />

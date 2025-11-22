@@ -6706,5 +6706,27 @@
     <AppIcon name="com.evilduck.musiciankit/com.evilduck.musiciankit.pearlets.home.HomeActivity" image="das_absolute_gehor"/>
     <AppIcon name="io.github.samolego.canta/io.github.samolego.canta.MainActivity" image="canta"/>
     <AppIcon name="com.tecdrop.pitchblackwallpaper/com.tecdrop.pitchblackwallpaper.PitchBlackWallpaperActivity" image="pitch_black_wallpaper"/>
+    <AppIcon name="com.dot.gallery/com.dot.gallery.feature_node.presentation.main.MainActivity" image="galerie_dot"/>
+    <AppIcon name="com.rifsxd.ksunext/com.rifsxd.ksunext.ui.MainActivity" image="kernelsu_next"/>
+    <AppIcon name="ru.tech.imageresizershrinker/com.t8rin.imagetoolbox.app.presentation.AppActivity" image="image_toolbox_resizershrinker"/>
+    <AppIcon name="com.pixelbypixel.mosmobile/com.epicgames.unreal.SplashActivity" image="marbles_on_stream_mobile"/>
+    <AppIcon name="com.chemistry.admin.chemistrylab/com.chemistry.admin.chemistrylab.activity.MainActivity" image="chemistrylab"/>
+    <AppIcon name="fi.rojekti.clipper/fi.rojekti.clipper.library.activity.LauncherActivity" image="clipper"/>
+    <AppIcon name="ru.andr7e.deviceinfohw.pro/ru.andr7e.deviceinfohw.MainActivity" image="deviceinfohw"/>
+    <AppIcon name="giraffine.dimmer/giraffine.dimmer.Dimmer" image="dimmer"/>
+    <AppIcon name="com.shezik.drawanywhere/com.shezik.drawanywhere.MainActivity" image="drawanywhere"/>
+    <AppIcon name="com.silentlexx.ffmpeggui/com.silentlexx.ffmpeggui.activities.Gui" image="ffmpegmediaencoder"/>
+    <AppIcon name="com.asm.hiddencamera/com.asm.hiddencamera.SplashActivity" image="hiddeneye"/>
+    <AppIcon name="org.vinaygopinath.launchchat/org.vinaygopinath.launchchat.screens.main.MainActivity" image="launchchat"/>
+    <AppIcon name="it.giccisw.midi/it.giccisw.midi.MidiActivityIntro" image="midiclef"/>
+    <AppIcon name="com.ghisler.appinstaller/com.ghisler.appinstaller.MainActivity" image="multi-apk-installer"/>
+    <AppIcon name="com.everydaycalculation.allinone.pro/com.everydaycalculation.allinone.Main" image="onecalc"/>
+    <AppIcon name="com.paintastic/com.paintastic.main.activity.MainActivity" image="paintastic"/>
+    <AppIcon name="com.quaap.primary/com.quaap.primary.MainActivity" image="primary"/>
+    <AppIcon name="com.write.Quill/com.write.Quill.QuillWriterActivity" image="quill"/>
+    <AppIcon name="kr.aboy.sound/kr.aboy.sound.IntroCheck" image="soundmeterpro"/>
+    <AppIcon name="app.varlorg.unote/app.varlorg.unote.NoteMain" image="unote"/>
+    <AppIcon name="com.punksta.apps.volumecontrol/com.example.punksta.volumecontrol.MainActivity" image="volumecontrol"/>
+    <AppIcon name="in.workindia.nileshdungarwal.workindiaandroid/in.workindia.nileshdungarwal.workindiaandroid.SplashScreenActivity" image="workindia"/>
 
 </Theme>
