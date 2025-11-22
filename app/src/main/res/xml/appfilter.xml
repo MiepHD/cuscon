@@ -6831,7 +6831,7 @@
     <item component="ComponentInfo{com.asm.hiddencamera/com.asm.hiddencamera.SplashActivity}" drawable="hiddeneye"/>
     <item component="ComponentInfo{org.vinaygopinath.launchchat/org.vinaygopinath.launchchat.screens.main.MainActivity}" drawable="launchchat"/>
     <item component="ComponentInfo{it.giccisw.midi/it.giccisw.midi.MidiActivityIntro}" drawable="midiclef"/>
-    <item component="ComponentInfo{com.ghisler.appinstaller/com.ghisler.appinstaller.MainActivity}" drawable="multi-apk-installer"/>
+    <item component="ComponentInfo{com.ghisler.appinstaller/com.ghisler.appinstaller.MainActivity}" drawable="multi_apk_installer"/>
     <item component="ComponentInfo{com.everydaycalculation.allinone.pro/com.everydaycalculation.allinone.Main}" drawable="onecalc"/>
     <item component="ComponentInfo{com.paintastic/com.paintastic.main.activity.MainActivity}" drawable="paintastic"/>
     <item component="ComponentInfo{com.quaap.primary/com.quaap.primary.MainActivity}" drawable="primary"/>

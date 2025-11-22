@@ -6719,7 +6719,7 @@
     <AppIcon name="com.asm.hiddencamera/com.asm.hiddencamera.SplashActivity" image="hiddeneye"/>
     <AppIcon name="org.vinaygopinath.launchchat/org.vinaygopinath.launchchat.screens.main.MainActivity" image="launchchat"/>
     <AppIcon name="it.giccisw.midi/it.giccisw.midi.MidiActivityIntro" image="midiclef"/>
-    <AppIcon name="com.ghisler.appinstaller/com.ghisler.appinstaller.MainActivity" image="multi-apk-installer"/>
+    <AppIcon name="com.ghisler.appinstaller/com.ghisler.appinstaller.MainActivity" image="multi_apk_installer"/>
     <AppIcon name="com.everydaycalculation.allinone.pro/com.everydaycalculation.allinone.Main" image="onecalc"/>
     <AppIcon name="com.paintastic/com.paintastic.main.activity.MainActivity" image="paintastic"/>
     <AppIcon name="com.quaap.primary/com.quaap.primary.MainActivity" image="primary"/>

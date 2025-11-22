@@ -15,7 +15,7 @@
     <item drawable="hiddeneye"/>
     <item drawable="launchchat"/>
     <item drawable="midiclef"/>
-    <item drawable="multi-apk-installer"/>
+    <item drawable="multi_apk_installer"/>
     <item drawable="onecalc"/>
     <item drawable="paintastic"/>
     <item drawable="primary"/>
@@ -3531,7 +3531,7 @@
 	<item drawable="lux_o_meter_lichtmesser" />
     <category title="M" />
     <item drawable="midiclef"/>
-    <item drawable="multi-apk-installer"/>
+    <item drawable="multi_apk_installer"/>
     <item drawable="marbles_on_stream_mobile" />
     <item drawable="magic_sort" />
     <item drawable="mercedes_benz" />
