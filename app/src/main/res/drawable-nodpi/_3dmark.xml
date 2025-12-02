@@ -1,20 +1,34 @@
-<?xml version="1.0" encoding="utf-8"?>
-<vector xmlns:android="http://schemas.android.com/apk/res/android"
-    android:width="512dp"
-    android:height="512dp"
-    android:viewportWidth="135.47"
-    android:viewportHeight="135.47">
+<vector xmlns:android="http://schemas.android.com/apk/res/android" xmlns:aapt="http://schemas.android.com/aapt"
+    android:viewportWidth="135.4667"
+    android:viewportHeight="135.4667"
+    android:width="480dp"
+    android:height="480dp">
     <group
-        android:translateX="-37.31"
-        android:translateY="-80.7">
+        android:translateX="-37.30626"
+        android:translateY="-80.69792">
         <path
-            android:fillColor="#FF000000"
-            android:pathData="M92.7 205.06l36.47-2.15 26.67-25.11Z"/>
+            android:pathData="M92.704062 205.05836L129.16968 202.9114 155.8439 177.7986Z"
+            android:fillColor="#FD7D16"
+            android:strokeColor="#000000"
+            android:strokeWidth="3.175"
+            android:strokeLineCap="round"
+            android:strokeLineJoin="round"
+            android:strokeMiterLimit="50" />
         <path
-            android:fillColor="#FF000000"
-            android:pathData="M154.34 171.6l-39.54 12.74-61.88-28Z"/>
+            android:pathData="M154.33971 171.60127L114.79952 184.3443 52.920434 156.34537Z"
+            android:fillColor="#FD7D16"
+            android:strokeColor="#000000"
+            android:strokeWidth="3.175"
+            android:strokeLineCap="round"
+            android:strokeLineJoin="round"
+            android:strokeMiterLimit="50" />
         <path
-            android:fillColor="#FF000000"
-            android:pathData="M156.64 165.57l-44.83-10.97-43.65-62.87Z"/>
+            android:pathData="M156.6399 165.57478L111.80927 154.60289 68.160524 91.725436Z"
+            android:fillColor="#FD7D16"
+            android:strokeColor="#000000"
+            android:strokeWidth="3.175"
+            android:strokeLineCap="round"
+            android:strokeLineJoin="round"
+            android:strokeMiterLimit="50" />
     </group>
 </vector>
