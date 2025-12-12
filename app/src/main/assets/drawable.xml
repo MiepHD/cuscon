@@ -2,28 +2,15 @@
 <resources>
     <version>1</version>
     <category title="New Icons" />
-    <item drawable="galerie_dot" />
-    <item drawable="kernelsu_next" />
-    <item drawable="image_toolbox_resizershrinker" />
-    <item drawable="marbles_on_stream_mobile" />
-    <item drawable="chemistrylab"/>
-    <item drawable="clipper"/>
-    <item drawable="deviceinfohw"/>
-    <item drawable="dimmer"/>
-    <item drawable="drawanywhere"/>
-    <item drawable="ffmpegmediaencoder"/>
-    <item drawable="hiddeneye"/>
-    <item drawable="launchchat"/>
-    <item drawable="midiclef"/>
-    <item drawable="multi_apk_installer"/>
-    <item drawable="onecalc"/>
-    <item drawable="paintastic"/>
-    <item drawable="primary"/>
-    <item drawable="quill"/>
-    <item drawable="soundmeterpro"/>
-    <item drawable="unote"/>
-    <item drawable="volumecontrol"/>
-    <item drawable="workindia"/>
+    <item drawable="ente_auth" />
+    <item drawable="androidify"/>
+    <item drawable="expressionevaluator"/>
+    <item drawable="fmradio"/>
+    <item drawable="hololauncher"/>
+    <item drawable="lockscreen"/>
+    <item drawable="particlesim"/>
+    <item drawable="timidityae"/>
+    <item drawable="vradio"/>
     <category title="Folders" />
     <item drawable="folder_blue" />
     <item drawable="folder_dark_blue" />
@@ -817,6 +804,7 @@
     <item drawable="_f_droid_kdi" />
     <item drawable="_sound_" />
     <category title="A" />
+    <item drawable="androidify"/>
     <item drawable="aniyomi" />
     <item drawable="app_finder" />
     <item drawable="assembly_line" />
@@ -2149,6 +2137,8 @@
 	<item drawable="dynalist" />
 	<item drawable="dynamicspot" />
     <category title="E" />
+    <item drawable="expressionevaluator"/>
+    <item drawable="ente_auth" />
     <item drawable="easyphysics" />
     <item drawable="edxposed_manager" />
     <item drawable="ewpe_smart" />
@@ -2327,6 +2317,7 @@
 	<item drawable="exodus" />
 	<item drawable="exteragram" />
     <category title="F" />
+    <item drawable="fmradio"/>
     <item drawable="ffmpegmediaencoder"/>
     <item drawable="fallout_shelter" />
     <item drawable="fightlist" />
@@ -2804,6 +2795,7 @@
 	<item drawable="gsmarena" />
 	<item drawable="gspace" />
     <category title="H" />
+    <item drawable="hololauncher"/>
     <item drawable="hiddeneye"/>
     <item drawable="happycow" />
     <item drawable="hello_you" />
@@ -3348,6 +3340,7 @@
 	<item drawable="kutumb" />
 	<item drawable="kwgt_pro" />
     <category title="L" />
+    <item drawable="lockscreen"/>
     <item drawable="launchchat"/>
     <item drawable="loga3app" />
     <item drawable="logline" />
@@ -4436,6 +4429,7 @@
 	<item drawable="osmand_" />
 	<item drawable="ovag_e_mobil" />
     <category title="P" />
+    <item drawable="particlesim"/>
     <item drawable="paintastic"/>
     <item drawable="primary"/>
     <item drawable="pitch_black_wallpaper" />
@@ -5679,6 +5673,7 @@
 	<item drawable="swiss_post" />
 	<item drawable="systemui_tuner" />
     <category title="T" />
+    <item drawable="timidityae"/>
     <item drawable="tomato_pomodoro" />
     <item drawable="text_viewer" />
     <item drawable="tick_tock" />
@@ -6112,6 +6107,7 @@
 	<item drawable="utiles" />
 	<item drawable="utilidades_amaze" />
     <category title="V" />
+    <item drawable="vradio"/>
     <item drawable="volumecontrol"/>
     <item drawable="volla_messages" />
     <item drawable="virit_mobile_security" />

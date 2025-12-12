@@ -2758,7 +2758,7 @@
 	<item component="ComponentInfo{com.syntellia.fleksy.keyboard/com.syntellia.fleksy.settings.activities.SplashActivity}" drawable="fleksy" />
 	<item component="ComponentInfo{com.alovoa.expo/com.alovoa.expo.MainActivity}" drawable="alovoa" />
     <item component="ComponentInfo{org.woheller69.audio_analyzer_for_android/org.woheller69.audio_analyzer_for_android.AnalyzerActivity}" drawable="audio_spectrum_analyzer" />
-    <item component="ComponentInfo{io.ente.auth/io.ente.auth.MainActivity}" drawable="auth" />
+    <item component="ComponentInfo{io.ente.auth/io.ente.auth.MainActivity}" drawable="ente_auth" />
     <item component="ComponentInfo{org.diasurgical.devilutionx/org.diasurgical.devilutionx.DevilutionXSDLActivity}" drawable="devilutionx" />
     <item component="ComponentInfo{com.dsemu.drastic/com.dsemu.drastic.DraSticActivity}" drawable="drastic" />
     <item component="ComponentInfo{com.duckduckgo.mobile.android/com.duckduckgo.app.launch.LauncherBlack}" drawable="duckduckgo_white" />
@@ -6840,6 +6840,14 @@
     <item component="ComponentInfo{app.varlorg.unote/app.varlorg.unote.NoteMain}" drawable="unote"/>
     <item component="ComponentInfo{com.punksta.apps.volumecontrol/com.example.punksta.volumecontrol.MainActivity}" drawable="volumecontrol"/>
     <item component="ComponentInfo{in.workindia.nileshdungarwal.workindiaandroid/in.workindia.nileshdungarwal.workindiaandroid.SplashScreenActivity}" drawable="workindia"/>
+    <item component="ComponentInfo{com.google.android.apps.androidify/com.google.android.apps.androidify.Androidify}" drawable="androidify"/>
+    <item component="ComponentInfo{dudeofx.eval/dudeofx.eval.EvalScreen}" drawable="expressionevaluator"/>
+    <item component="ComponentInfo{com.transsion.fmradio/com.transsion.fmradio.FmMainActivity}" drawable="fmradio"/>
+    <item component="ComponentInfo{com.mobint.hololauncher/com.mobint.hololauncher.Launcher}" drawable="hololauncher"/>
+    <item component="ComponentInfo{it.reyboz.screenlock/it.reyboz.screenslock.MainActivity}" drawable="lockscreen"/>
+    <item component="ComponentInfo{com.tss.android/com.tss.android.NBodyActivity}" drawable="particlesim"/>
+    <item component="ComponentInfo{com.xperia64.timidityae/com.xperia64.timidityae.TimidityActivity}" drawable="timidityae"/>
+    <item component="ComponentInfo{com.ilv.vradio/com.ilv.vradio.MainActivity}" drawable="vradio"/>
 
 </resources>
 

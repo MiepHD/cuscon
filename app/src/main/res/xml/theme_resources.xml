@@ -2746,7 +2746,7 @@
 	<AppIcon name="com.syntellia.fleksy.keyboard/com.syntellia.fleksy.settings.activities.SplashActivity" image="fleksy"/>
 	<AppIcon name="com.alovoa.expo/com.alovoa.expo.MainActivity" image="alovoa"/>
     <AppIcon name="org.woheller69.audio_analyzer_for_android/org.woheller69.audio_analyzer_for_android.AnalyzerActivity" image="audio_spectrum_analyzer"/>
-    <AppIcon name="io.ente.auth/io.ente.auth.MainActivity" image="auth"/>
+    <AppIcon name="io.ente.auth/io.ente.auth.MainActivity" image="ente_auth"/>
     <AppIcon name="org.diasurgical.devilutionx/org.diasurgical.devilutionx.DevilutionXSDLActivity" image="devilutionx"/>
 	<AppIcon name="com.dsemu.drastic/com.dsemu.drastic.DraSticActivity" image="drastic"/>
     <AppIcon name="com.duckduckgo.mobile.android/com.duckduckgo.app.launch.LauncherBlack" image="duckduckgo_white"/>
@@ -6728,5 +6728,13 @@
     <AppIcon name="app.varlorg.unote/app.varlorg.unote.NoteMain" image="unote"/>
     <AppIcon name="com.punksta.apps.volumecontrol/com.example.punksta.volumecontrol.MainActivity" image="volumecontrol"/>
     <AppIcon name="in.workindia.nileshdungarwal.workindiaandroid/in.workindia.nileshdungarwal.workindiaandroid.SplashScreenActivity" image="workindia"/>
+    <AppIcon name="com.google.android.apps.androidify/com.google.android.apps.androidify.Androidify" image="androidify"/>
+    <AppIcon name="dudeofx.eval/dudeofx.eval.EvalScreen" image="expressionevaluator"/>
+    <AppIcon name="com.transsion.fmradio/com.transsion.fmradio.FmMainActivity" image="fmradio"/>
+    <AppIcon name="com.mobint.hololauncher/com.mobint.hololauncher.Launcher" image="hololauncher"/>
+    <AppIcon name="it.reyboz.screenlock/it.reyboz.screenslock.MainActivity" image="lockscreen"/>
+    <AppIcon name="com.tss.android/com.tss.android.NBodyActivity" image="particlesim"/>
+    <AppIcon name="com.xperia64.timidityae/com.xperia64.timidityae.TimidityActivity" image="timidityae"/>
+    <AppIcon name="com.ilv.vradio/com.ilv.vradio.MainActivity" image="vradio"/>
 
 </Theme>
