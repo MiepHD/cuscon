@@ -6736,5 +6736,36 @@
     <AppIcon name="com.tss.android/com.tss.android.NBodyActivity" image="particlesim"/>
     <AppIcon name="com.xperia64.timidityae/com.xperia64.timidityae.TimidityActivity" image="timidityae"/>
     <AppIcon name="com.ilv.vradio/com.ilv.vradio.MainActivity" image="vradio"/>
+    <AppIcon name="com.appseleration.android.selfcare/com.meinvodafone.rn.dev.MainActivity" image="meinvodafone"/>
+    <AppIcon name="net.thunderbird.android.beta/com.fsck.k9.activity.MainActivity" image="thunderbird_beta"/>
+    <AppIcon name="de.blitzer.plus/com.eifrig.blitzerde.activity.splash.SplashActivity" image="blitzerde_pro"/>
+    <AppIcon name="com.paybyphone/com.paybyphone.MainActivity" image="paybyphone"/>
+    <AppIcon name="net.youapps.calcyou/net.youapps.calcyou.MainActivity" image="calcyou"/>
+    <AppIcon name="se.parkster.client.android/se.parkster.client.android.base.feature.start.MainActivity" image="parkster"/>
+    <AppIcon name="org.briarproject.briar.android/org.briarproject.briar.android.splash.SplashScreenActivity" image="briar"/>
+    <AppIcon name="org.fossify.math/org.fossify.math.activities.SplashActivity.Green" image="fossify_math"/>
+    <AppIcon name="com.app_orientamento/com.app_orientamento.MainActivity" image="almaorienta"/>
+    <AppIcon name="com.abdurazaaqmohammed.AntiSplit/com.abdurazaaqmohammed.AntiSplit.main.MainActivity" image="antisplit_m"/>
+    <AppIcon name="com.The717pixels.cardFall/com.unity3d.player.UnityPlayerActivity" image="card_fall"/>
+    <AppIcon name="com.The717pixels.DungeonCards/com.unity3d.player.UnityPlayerActivity" image="dungeon_cards"/>
+    <AppIcon name="com.The717pixels.DungeonCards2/com.unity3d.player.UnityPlayerActivity" image="dungeon_cards_2"/>
+    <AppIcon name="com.epicgames.portal/com.epicgames.portal.ui.MainActivity" image="epic_games"/>
+    <AppIcon name="zed.rainxch.githubstore/zed.rainxch.githubstore.MainActivity" image="github_store"/>
+    <AppIcon name="com.ParallelSpace.Cerberus/com.google.firebase.MessagingUnityPlayerActivity" image="hades_star"/>
+    <AppIcon name="com.honeygain.make.money/com.honeygain.app.ui.splash.SplashActivity" image="honeygain"/>
+    <AppIcon name="fun.neal.infinite.craft/fun.neal.infinite.craft.MainActivity" image="infinite_craft"/>
+    <AppIcon name="it.pagopa.io.app/it.pagopa.io.app.MainActivity" image="io"/>
+    <AppIcon name="com.jundroo.SimpleRockets2/com.jundroo.simplerockets2plugin.MainActivity" image="juno_new_origins_complete_edition"/>
+    <AppIcon name="it.horizons.mlolreaderlcp/it.horizons.mlolreader.ui.SplashActivity" image="mlol_ebook_reader"/>
+    <AppIcon name="com.tre.openstreetmapwiki/com.tre.openstreetmapwiki.MainActivity" image="openstreetmap_wiki_app"/>
+    <AppIcon name="org.openlibrary.testing.twa/org.openlibrary.testing.twa.LauncherActivity" image="open_library"/>
+    <AppIcon name="com.keeweed.pathofadventure/com.keeweed.pathofadventure.MainActivity" image="path_of_adventure"/>
+    <AppIcon name="com.nianticlabs.pokemongo/com.nianticproject.holoholo.libholoholo.unity.UnityMainActivity" image="pokémon_go"/>
+    <AppIcon name="com.github.jameshnsears.quoteunquote/com.github.jameshnsears.quoteunquote.QuoteUnquoteInstructions" image="quote_unquote"/>
+    <AppIcon name="com.The717pixels.robotColony2/com.unity3d.player.UnityPlayerActivity" image="robot_colony_2"/>
+    <AppIcon name="pro.sketchware/pro.sketchware.activities.main.activities.MainActivity" image="sketchware_pro"/>
+    <AppIcon name="com.hedihadi.steamletter/com.hedihadi.steamletter.MainActivity" image="steamletter"/>
+    <AppIcon name="com.bringyour.network/com.bringyour.network.LoginActivity" image="urnetwork"/>
+    <AppIcon name="com.pixonic.wwr/com.unity3d.player.UnityPlayerActivity" image="war_robots"/>
 
 </Theme>

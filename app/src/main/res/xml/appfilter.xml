@@ -6848,6 +6848,37 @@
     <item component="ComponentInfo{com.tss.android/com.tss.android.NBodyActivity}" drawable="particlesim"/>
     <item component="ComponentInfo{com.xperia64.timidityae/com.xperia64.timidityae.TimidityActivity}" drawable="timidityae"/>
     <item component="ComponentInfo{com.ilv.vradio/com.ilv.vradio.MainActivity}" drawable="vradio"/>
+    <item component="ComponentInfo{com.appseleration.android.selfcare/com.meinvodafone.rn.dev.MainActivity}" drawable="meinvodafone" />
+    <item component="ComponentInfo{net.thunderbird.android.beta/com.fsck.k9.activity.MainActivity}" drawable="thunderbird_beta" />
+    <item component="ComponentInfo{de.blitzer.plus/com.eifrig.blitzerde.activity.splash.SplashActivity}" drawable="blitzerde_pro" />
+    <item component="ComponentInfo{com.paybyphone/com.paybyphone.MainActivity}" drawable="paybyphone" />
+    <item component="ComponentInfo{net.youapps.calcyou/net.youapps.calcyou.MainActivity}" drawable="calcyou" />
+    <item component="ComponentInfo{se.parkster.client.android/se.parkster.client.android.base.feature.start.MainActivity}" drawable="parkster" />
+    <item component="ComponentInfo{org.briarproject.briar.android/org.briarproject.briar.android.splash.SplashScreenActivity}" drawable="briar" />
+    <item component="ComponentInfo{org.fossify.math/org.fossify.math.activities.SplashActivity.Green}" drawable="fossify_math" />
+    <item component="ComponentInfo{com.app_orientamento/com.app_orientamento.MainActivity}" drawable="almaorienta" />
+    <item component="ComponentInfo{com.abdurazaaqmohammed.AntiSplit/com.abdurazaaqmohammed.AntiSplit.main.MainActivity}" drawable="antisplit_m" />
+    <item component="ComponentInfo{com.The717pixels.cardFall/com.unity3d.player.UnityPlayerActivity}" drawable="card_fall" />
+    <item component="ComponentInfo{com.The717pixels.DungeonCards/com.unity3d.player.UnityPlayerActivity}" drawable="dungeon_cards" />
+    <item component="ComponentInfo{com.The717pixels.DungeonCards2/com.unity3d.player.UnityPlayerActivity}" drawable="dungeon_cards_2" />
+    <item component="ComponentInfo{com.epicgames.portal/com.epicgames.portal.ui.MainActivity}" drawable="epic_games" />
+    <item component="ComponentInfo{zed.rainxch.githubstore/zed.rainxch.githubstore.MainActivity}" drawable="github_store" />
+    <item component="ComponentInfo{com.ParallelSpace.Cerberus/com.google.firebase.MessagingUnityPlayerActivity}" drawable="hades_star" />
+    <item component="ComponentInfo{com.honeygain.make.money/com.honeygain.app.ui.splash.SplashActivity}" drawable="honeygain" />
+    <item component="ComponentInfo{fun.neal.infinite.craft/fun.neal.infinite.craft.MainActivity}" drawable="infinite_craft" />
+    <item component="ComponentInfo{it.pagopa.io.app/it.pagopa.io.app.MainActivity}" drawable="io" />
+    <item component="ComponentInfo{com.jundroo.SimpleRockets2/com.jundroo.simplerockets2plugin.MainActivity}" drawable="juno_new_origins_complete_edition" />
+    <item component="ComponentInfo{it.horizons.mlolreaderlcp/it.horizons.mlolreader.ui.SplashActivity}" drawable="mlol_ebook_reader" />
+    <item component="ComponentInfo{com.tre.openstreetmapwiki/com.tre.openstreetmapwiki.MainActivity}" drawable="openstreetmap_wiki_app" />
+    <item component="ComponentInfo{org.openlibrary.testing.twa/org.openlibrary.testing.twa.LauncherActivity}" drawable="open_library" />
+    <item component="ComponentInfo{com.keeweed.pathofadventure/com.keeweed.pathofadventure.MainActivity}" drawable="path_of_adventure" />
+    <item component="ComponentInfo{com.nianticlabs.pokemongo/com.nianticproject.holoholo.libholoholo.unity.UnityMainActivity}" drawable="pokémon_go" />
+    <item component="ComponentInfo{com.github.jameshnsears.quoteunquote/com.github.jameshnsears.quoteunquote.QuoteUnquoteInstructions}" drawable="quote_unquote" />
+    <item component="ComponentInfo{com.The717pixels.robotColony2/com.unity3d.player.UnityPlayerActivity}" drawable="robot_colony_2" />
+    <item component="ComponentInfo{pro.sketchware/pro.sketchware.activities.main.activities.MainActivity}" drawable="sketchware_pro" />
+    <item component="ComponentInfo{com.hedihadi.steamletter/com.hedihadi.steamletter.MainActivity}" drawable="steamletter" />
+    <item component="ComponentInfo{com.bringyour.network/com.bringyour.network.LoginActivity}" drawable="urnetwork" />
+    <item component="ComponentInfo{com.pixonic.wwr/com.unity3d.player.UnityPlayerActivity}" drawable="war_robots" />
 
 </resources>
 

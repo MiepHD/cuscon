@@ -6848,6 +6848,12 @@
     <item component="ComponentInfo{com.tss.android/com.tss.android.NBodyActivity}" drawable="particlesim"/>
     <item component="ComponentInfo{com.xperia64.timidityae/com.xperia64.timidityae.TimidityActivity}" drawable="timidityae"/>
     <item component="ComponentInfo{com.ilv.vradio/com.ilv.vradio.MainActivity}" drawable="vradio"/>
+    <item component="ComponentInfo{com.appseleration.android.selfcare/com.meinvodafone.rn.dev.MainActivity}" drawable="meinvodafone" />
+    <item component="ComponentInfo{net.thunderbird.android.beta/com.fsck.k9.activity.MainActivity}" drawable="thunderbird_beta" />
+    <item component="ComponentInfo{de.blitzer.plus/com.eifrig.blitzerde.activity.splash.SplashActivity}" drawable="blitzerde_pro" />
+    <item component="ComponentInfo{com.paybyphone/com.paybyphone.MainActivity}" drawable="paybyphone" />
+    <item component="ComponentInfo{net.youapps.calcyou/net.youapps.calcyou.MainActivity}" drawable="calcyou" />
+    <item component="ComponentInfo{se.parkster.client.android/se.parkster.client.android.base.feature.start.MainActivity}" drawable="parkster" />
 
 </resources>
 

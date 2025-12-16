@@ -2,15 +2,8 @@
 <resources>
     <version>1</version>
     <category title="New Icons" />
-    <item drawable="ente_auth" />
-    <item drawable="androidify"/>
-    <item drawable="expressionevaluator"/>
-    <item drawable="fmradio"/>
-    <item drawable="hololauncher"/>
-    <item drawable="lockscreen"/>
-    <item drawable="particlesim"/>
-    <item drawable="timidityae"/>
-    <item drawable="vradio"/>
+    <item drawable="calcyou" />
+    <item drawable="parkster" />
     <category title="Folders" />
     <item drawable="folder_blue" />
     <item drawable="folder_dark_blue" />
@@ -1466,6 +1459,7 @@
 	<item drawable="bycs_drive" />
     <item drawable="ballozi_skynox" />
     <category title="C" />
+    <item drawable="calcyou" />
     <item drawable="chemistrylab"/>
     <item drawable="clipper"/>
     <item drawable="c_and_p_aquaplants" />
@@ -4429,6 +4423,7 @@
 	<item drawable="osmand_" />
 	<item drawable="ovag_e_mobil" />
     <category title="P" />
+    <item drawable="parkster" />
     <item drawable="particlesim"/>
     <item drawable="paintastic"/>
     <item drawable="primary"/>
