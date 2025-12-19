@@ -6872,7 +6872,7 @@
     <item component="ComponentInfo{com.tre.openstreetmapwiki/com.tre.openstreetmapwiki.MainActivity}" drawable="openstreetmap_wiki_app" />
     <item component="ComponentInfo{org.openlibrary.testing.twa/org.openlibrary.testing.twa.LauncherActivity}" drawable="open_library" />
     <item component="ComponentInfo{com.keeweed.pathofadventure/com.keeweed.pathofadventure.MainActivity}" drawable="path_of_adventure" />
-    <item component="ComponentInfo{com.nianticlabs.pokemongo/com.nianticproject.holoholo.libholoholo.unity.UnityMainActivity}" drawable="pokémon_go" />
+    <item component="ComponentInfo{com.nianticlabs.pokemongo/com.nianticproject.holoholo.libholoholo.unity.UnityMainActivity}" drawable="pokemon_go" />
     <item component="ComponentInfo{com.github.jameshnsears.quoteunquote/com.github.jameshnsears.quoteunquote.QuoteUnquoteInstructions}" drawable="quote_unquote" />
     <item component="ComponentInfo{com.The717pixels.robotColony2/com.unity3d.player.UnityPlayerActivity}" drawable="robot_colony_2" />
     <item component="ComponentInfo{pro.sketchware/pro.sketchware.activities.main.activities.MainActivity}" drawable="sketchware_pro" />
@@ -6883,7 +6883,7 @@
     <item component="ComponentInfo{org.wikipedia/org.wikipedia.DefaultIcon}" drawable="wikipedia" />
     <item component="ComponentInfo{de.sternberg24.anrich.Buerger/sd.net.anrich.activities.LoginActivity}" drawable="anrich_burger" />
     <item component="ComponentInfo{de.echo.newsapp/de.prepublic.pp_newsapp.presentation.page.main.MainActivity}" drawable="echo_news" />
-    <item component="ComponentInfo{com.logmein.gotoconnect/com.logmein.gotoconnect.MainActivity}" drawable="goto" />
+    <item component="ComponentInfo{com.logmein.gotoconnect/com.logmein.gotoconnect.MainActivity}" drawable="goto_" />
     <item component="ComponentInfo{de.heise.android.heiseonlineapp/heise.activity.MainActivity}" drawable="heise_online" />
     <item component="ComponentInfo{it.pinenuts.technews/it.pinenuts.newsengine.PinenutsRssReaderActivity}" drawable="tech_news" />
     <item component="ComponentInfo{de.markusliebschner.thatlist.pro/de.markusliebschner.thatlist.pro.MainActivity}" drawable="that_shopping_list_pro" />

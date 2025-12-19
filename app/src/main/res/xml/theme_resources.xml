@@ -6760,7 +6760,7 @@
     <AppIcon name="com.tre.openstreetmapwiki/com.tre.openstreetmapwiki.MainActivity" image="openstreetmap_wiki_app"/>
     <AppIcon name="org.openlibrary.testing.twa/org.openlibrary.testing.twa.LauncherActivity" image="open_library"/>
     <AppIcon name="com.keeweed.pathofadventure/com.keeweed.pathofadventure.MainActivity" image="path_of_adventure"/>
-    <AppIcon name="com.nianticlabs.pokemongo/com.nianticproject.holoholo.libholoholo.unity.UnityMainActivity" image="pokémon_go"/>
+    <AppIcon name="com.nianticlabs.pokemongo/com.nianticproject.holoholo.libholoholo.unity.UnityMainActivity" image="pokemon_go"/>
     <AppIcon name="com.github.jameshnsears.quoteunquote/com.github.jameshnsears.quoteunquote.QuoteUnquoteInstructions" image="quote_unquote"/>
     <AppIcon name="com.The717pixels.robotColony2/com.unity3d.player.UnityPlayerActivity" image="robot_colony_2"/>
     <AppIcon name="pro.sketchware/pro.sketchware.activities.main.activities.MainActivity" image="sketchware_pro"/>
@@ -6771,7 +6771,7 @@
     <AppIcon name="org.wikipedia/org.wikipedia.DefaultIcon" image="wikipedia"/>
     <AppIcon name="de.sternberg24.anrich.Buerger/sd.net.anrich.activities.LoginActivity" image="anrich_burger"/>
     <AppIcon name="de.echo.newsapp/de.prepublic.pp_newsapp.presentation.page.main.MainActivity" image="echo_news"/>
-    <AppIcon name="com.logmein.gotoconnect/com.logmein.gotoconnect.MainActivity" image="goto"/>
+    <AppIcon name="com.logmein.gotoconnect/com.logmein.gotoconnect.MainActivity" image="goto_"/>
     <AppIcon name="de.heise.android.heiseonlineapp/heise.activity.MainActivity" image="heise_online"/>
     <AppIcon name="it.pinenuts.technews/it.pinenuts.newsengine.PinenutsRssReaderActivity" image="tech_news"/>
     <AppIcon name="de.markusliebschner.thatlist.pro/de.markusliebschner.thatlist.pro.MainActivity" image="that_shopping_list_pro"/>

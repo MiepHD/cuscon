@@ -22,7 +22,7 @@
     <item drawable="openstreetmap_wiki_app" />
     <item drawable="open_library" />
     <item drawable="path_of_adventure" />
-    <item drawable="pokémon_go" />
+    <item drawable="pokemon_go" />
     <item drawable="quote_unquote" />
     <item drawable="robot_colony_2" />
     <item drawable="sketchware_pro" />
@@ -31,7 +31,7 @@
     <item drawable="war_robots" />
     <item drawable="anrich_burger" />
     <item drawable="echo_news" />
-    <item drawable="goto" />
+    <item drawable="goto_" />
     <item drawable="heise_online" />
     <item drawable="tech_news" />
     <item drawable="that_shopping_list_pro" />
@@ -2622,7 +2622,7 @@
 	<item drawable="futo_voice_input" />
 	<item drawable="fx" />
     <category title="G" />
-    <item drawable="goto" />
+    <item drawable="goto_" />
     <item drawable="github_store" />
     <item drawable="galerie_dot" />
     <item drawable="guitar_pro" />
@@ -4490,7 +4490,7 @@
 	<item drawable="ovag_e_mobil" />
     <category title="P" />
     <item drawable="path_of_adventure" />
-    <item drawable="pokémon_go" />
+    <item drawable="pokemon_go" />
     <item drawable="parkster" />
     <item drawable="particlesim"/>
     <item drawable="paintastic"/>
