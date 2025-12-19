@@ -6767,5 +6767,21 @@
     <AppIcon name="com.hedihadi.steamletter/com.hedihadi.steamletter.MainActivity" image="steamletter"/>
     <AppIcon name="com.bringyour.network/com.bringyour.network.LoginActivity" image="urnetwork"/>
     <AppIcon name="com.pixonic.wwr/com.unity3d.player.UnityPlayerActivity" image="war_robots"/>
+    <AppIcon name="deezer.android.app/com.deezer.android.ui.activity.LauncherActivityDark" image="deezer"/>
+    <AppIcon name="org.wikipedia/org.wikipedia.DefaultIcon" image="wikipedia"/>
+    <AppIcon name="de.sternberg24.anrich.Buerger/sd.net.anrich.activities.LoginActivity" image="anrich_burger"/>
+    <AppIcon name="de.echo.newsapp/de.prepublic.pp_newsapp.presentation.page.main.MainActivity" image="echo_news"/>
+    <AppIcon name="com.logmein.gotoconnect/com.logmein.gotoconnect.MainActivity" image="goto"/>
+    <AppIcon name="de.heise.android.heiseonlineapp/heise.activity.MainActivity" image="heise_online"/>
+    <AppIcon name="it.pinenuts.technews/it.pinenuts.newsengine.PinenutsRssReaderActivity" image="tech_news"/>
+    <AppIcon name="de.markusliebschner.thatlist.pro/de.markusliebschner.thatlist.pro.MainActivity" image="that_shopping_list_pro"/>
+    <AppIcon name="at.apa.pdfwlclient.vrm_darmstaedterecho/at.apa.pdfwlclient.ui.splash.SplashActivity" image="echo_e_paper"/>
+    <AppIcon name="com.ehwplus/com.ehwplus.MainActivity" image="ehw_"/>
+    <AppIcon name="com.bosch.ebike.onebikeapp/com.bosch.ebike.onebikeapp.MainActivity" image="flow"/>
+    <AppIcon name="de.funke.hoerzu/de.proofit.hoerzu.app.SplashActivity" image="horzu"/>
+    <AppIcon name="multamedio.de.app_android_ltg/multamedio.de.app_android_ltg.activities.LoadingScreenActivity" image="lotto_hessen"/>
+    <AppIcon name="com.generalmagic.magicearth/com.generalmagic.magicearth.MainActivity" image="magic_earth_general"/>
+    <AppIcon name="com.hemispheregames.osmos/com.hemispheregames.osmos.GameActivity" image="osmos"/>
+    <AppIcon name="com.roku.remote/com.roku.remote.ui.activities.BrowseContentActivity" image="roku"/>
 
 </Theme>

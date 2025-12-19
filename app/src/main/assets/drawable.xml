@@ -4,6 +4,44 @@
     <category title="New Icons" />
     <item drawable="calcyou" />
     <item drawable="parkster" />
+    <item drawable="briar" />
+    <item drawable="fossify_math" name="calculator" />
+    <item drawable="almaorienta" />
+    <item drawable="antisplit_m" />
+    <item drawable="card_fall" />
+    <item drawable="dungeon_cards" />
+    <item drawable="dungeon_cards_2" />
+    <item drawable="epic_games" />
+    <item drawable="github_store" />
+    <item drawable="hades_star" />
+    <item drawable="honeygain" />
+    <item drawable="infinite_craft" />
+    <item drawable="io" />
+    <item drawable="juno_new_origins_complete_edition" />
+    <item drawable="mlol_ebook_reader" />
+    <item drawable="openstreetmap_wiki_app" />
+    <item drawable="open_library" />
+    <item drawable="path_of_adventure" />
+    <item drawable="pokémon_go" />
+    <item drawable="quote_unquote" />
+    <item drawable="robot_colony_2" />
+    <item drawable="sketchware_pro" />
+    <item drawable="steamletter" />
+    <item drawable="urnetwork" />
+    <item drawable="war_robots" />
+    <item drawable="anrich_burger" />
+    <item drawable="echo_news" />
+    <item drawable="goto" />
+    <item drawable="heise_online" />
+    <item drawable="tech_news" />
+    <item drawable="that_shopping_list_pro" />
+    <item drawable="echo_e_paper" />
+    <item drawable="ehw_" />
+    <item drawable="flow" />
+    <item drawable="horzu" />
+    <item drawable="lotto_hessen" />
+    <item drawable="magic_earth_general" />
+    <item drawable="osmos" />
     <category title="Folders" />
     <item drawable="folder_blue" />
     <item drawable="folder_dark_blue" />
@@ -797,6 +835,9 @@
     <item drawable="_f_droid_kdi" />
     <item drawable="_sound_" />
     <category title="A" />
+    <item drawable="anrich_burger" />
+    <item drawable="almaorienta" />
+    <item drawable="antisplit_m" />
     <item drawable="androidify"/>
     <item drawable="aniyomi" />
     <item drawable="app_finder" />
@@ -1185,6 +1226,7 @@
 	<item drawable="awoken" />
 	<item drawable="awox_homecontrol" />
     <category title="B" />
+    <item drawable="briar" />
     <item drawable="baba" />
     <item drawable="bancoposta" />
     <item drawable="bbtan" />
@@ -1459,6 +1501,8 @@
 	<item drawable="bycs_drive" />
     <item drawable="ballozi_skynox" />
     <category title="C" />
+    <item drawable="card_fall" />
+    <item drawable="fossify_math" name="calculator" />
     <item drawable="calcyou" />
     <item drawable="chemistrylab"/>
     <item drawable="clipper"/>
@@ -1835,6 +1879,8 @@
 	<item drawable="cubic_2_3_4_player_games" />
 	<item drawable="currencies" />
     <category title="D" />
+    <item drawable="dungeon_cards" />
+    <item drawable="dungeon_cards_2" />
     <item drawable="deviceinfohw"/>
     <item drawable="dimmer"/>
     <item drawable="drawanywhere"/>
@@ -2131,6 +2177,10 @@
 	<item drawable="dynalist" />
 	<item drawable="dynamicspot" />
     <category title="E" />
+    <item drawable="echo_e_paper" />
+    <item drawable="ehw_" />
+    <item drawable="echo_news" />
+    <item drawable="epic_games" />
     <item drawable="expressionevaluator"/>
     <item drawable="ente_auth" />
     <item drawable="easyphysics" />
@@ -2311,6 +2361,7 @@
 	<item drawable="exodus" />
 	<item drawable="exteragram" />
     <category title="F" />
+    <item drawable="flow" />
     <item drawable="fmradio"/>
     <item drawable="ffmpegmediaencoder"/>
     <item drawable="fallout_shelter" />
@@ -2571,6 +2622,8 @@
 	<item drawable="futo_voice_input" />
 	<item drawable="fx" />
     <category title="G" />
+    <item drawable="goto" />
+    <item drawable="github_store" />
     <item drawable="galerie_dot" />
     <item drawable="guitar_pro" />
     <item drawable="geometry_dash_meltdown" />
@@ -2789,6 +2842,10 @@
 	<item drawable="gsmarena" />
 	<item drawable="gspace" />
     <category title="H" />
+    <item drawable="horzu" />
+    <item drawable="heise_online" />
+    <item drawable="hades_star" />
+    <item drawable="honeygain" />
     <item drawable="hololauncher"/>
     <item drawable="hiddeneye"/>
     <item drawable="happycow" />
@@ -2959,6 +3016,8 @@
 	<item drawable="hypatia" />
 	<item drawable="hyperrogue_gold" />
     <category title="I" />
+    <item drawable="infinite_craft" />
+    <item drawable="io" />
     <item drawable="image_toolbox_resizershrinker" />
     <item drawable="al_quran_indonesia" name="Indonesian Quran" />
     <item drawable="ausweisapp2" name="ID Card App" />
@@ -3124,6 +3183,7 @@
 	<item drawable="ir_remote" />
 	<item drawable="iron" />
     <category title="J" />
+    <item drawable="juno_new_origins_complete_edition" />
     <item drawable="juno_new_origins" />
     <item drawable="jquarks" />
     <item drawable="joiplay" />
@@ -3334,6 +3394,7 @@
 	<item drawable="kutumb" />
 	<item drawable="kwgt_pro" />
     <category title="L" />
+    <item drawable="lotto_hessen" />
     <item drawable="lockscreen"/>
     <item drawable="launchchat"/>
     <item drawable="loga3app" />
@@ -3517,6 +3578,8 @@
 	<item drawable="lucky_wasted" />
 	<item drawable="lux_o_meter_lichtmesser" />
     <category title="M" />
+    <item drawable="magic_earth_general" />
+    <item drawable="mlol_ebook_reader" />
     <item drawable="midiclef"/>
     <item drawable="multi_apk_installer"/>
     <item drawable="marbles_on_stream_mobile" />
@@ -4246,6 +4309,9 @@
 	<item drawable="nozzle" />
 	<item drawable="nytimes" />
     <category title="O" />
+    <item drawable="osmos" />
+    <item drawable="openstreetmap_wiki_app" />
+    <item drawable="open_library" />
     <item drawable="onecalc"/>
     <item drawable="opa" />
     <item drawable="open_sudoku" />
@@ -4423,6 +4489,8 @@
 	<item drawable="osmand_" />
 	<item drawable="ovag_e_mobil" />
     <category title="P" />
+    <item drawable="path_of_adventure" />
+    <item drawable="pokémon_go" />
     <item drawable="parkster" />
     <item drawable="particlesim"/>
     <item drawable="paintastic"/>
@@ -4815,6 +4883,7 @@
 	<item drawable="puzzles" />
 	<item drawable="pysolfc" />
     <category title="Q" />
+    <item drawable="quote_unquote" />
     <item drawable="quill"/>
     <item drawable="quicksy" />
     <item drawable="qwant" />
@@ -4863,6 +4932,7 @@
 	<item drawable="quik" />
 	<item drawable="quillpad" />
     <category title="R" />
+    <item drawable="robot_colony_2" />
     <item drawable="rtl_plus" />
     <item drawable="reigns" />
     <item drawable="reigns_her_majesty" />
@@ -5102,6 +5172,8 @@
 	<item drawable="rustdesk" />
 	<item drawable="rvx_music" />
     <category title="S" />
+    <item drawable="sketchware_pro" />
+    <item drawable="steamletter" />
     <item drawable="soundmeterpro"/>
     <item drawable="seterra" />
     <item drawable="sg" />
@@ -5668,6 +5740,8 @@
 	<item drawable="swiss_post" />
 	<item drawable="systemui_tuner" />
     <category title="T" />
+    <item drawable="tech_news" />
+    <item drawable="that_shopping_list_pro" />
     <item drawable="timidityae"/>
     <item drawable="tomato_pomodoro" />
     <item drawable="text_viewer" />
@@ -6008,6 +6082,7 @@
 	<item drawable="tux_paint_config" />
 	<item drawable="twelve_key_dialer" />
     <category title="U" />
+    <item drawable="urnetwork" />
     <item drawable="unote"/>
     <item drawable="untappd" />
     <item drawable="udderance_aac" />
@@ -6335,6 +6410,7 @@
     <item drawable="wifi_signal_meter" />
     <item drawable="ampwifi" />
     <category title="W" />
+    <item drawable="war_robots" />
     <item drawable="workindia"/>
     <item drawable="wordreference" />
     <item drawable="webapps" />

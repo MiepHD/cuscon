@@ -1,6 +1,6 @@
-Added CalcYou, Parkster, Briar, Calculator, AlmaOrienta, AntiSplit M, Card Fall, Dungeon Cards, Dungeon Cards 2, Epic Games, Github Store, Hades' Star, Honeygain, Infinite Craft, IO, Juno: New Origins Complete Edition, MLOL Ebook Reader, OpenStreetMap wiki app, Open Library, Path of Adventure, Pokémon GO, Quote Unquote, Robot Colony 2, Sketchware Pro, Steamletter, URnetwork, War Robots
-Fixed MeinVodafone, Thunderbird Beta, PayByPhone
-Improved quality of Blitzer.de PRO
+Added CalcYou, Parkster, Briar, Calculator, AlmaOrienta, AntiSplit M, Card Fall, Dungeon Cards, Dungeon Cards 2, Epic Games, Github Store, Hades' Star, Honeygain, Infinite Craft, IO, Juno: New Origins Complete Edition, MLOL Ebook Reader, OpenStreetMap wiki app, Open Library, Path of Adventure, Pokémon GO, Quote Unquote, Robot Colony 2, Sketchware Pro, Steamletter, URnetwork, War Robots, anRICH Bürger, Echo News, GoTo, heise online, Tech News, That Shopping List PRO, Echo E-Paper, EHW+, Flow, HÖRZU, LOTTO Hessen, Magic Earth, Osmos
+Fixed MeinVodafone, Thunderbird Beta, PayByPhone, Deezer, Wikipedia, Roku
+Improved quality of Blitzer.de PRO, Roku
 Vectorized PayByPhone
 
 Thanks a lot to @github:Champ0999 who contribute many icons to this release

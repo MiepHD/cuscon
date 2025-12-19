@@ -6879,6 +6879,22 @@
     <item component="ComponentInfo{com.hedihadi.steamletter/com.hedihadi.steamletter.MainActivity}" drawable="steamletter" />
     <item component="ComponentInfo{com.bringyour.network/com.bringyour.network.LoginActivity}" drawable="urnetwork" />
     <item component="ComponentInfo{com.pixonic.wwr/com.unity3d.player.UnityPlayerActivity}" drawable="war_robots" />
+    <item component="ComponentInfo{deezer.android.app/com.deezer.android.ui.activity.LauncherActivityDark}" drawable="deezer" />
+    <item component="ComponentInfo{org.wikipedia/org.wikipedia.DefaultIcon}" drawable="wikipedia" />
+    <item component="ComponentInfo{de.sternberg24.anrich.Buerger/sd.net.anrich.activities.LoginActivity}" drawable="anrich_burger" />
+    <item component="ComponentInfo{de.echo.newsapp/de.prepublic.pp_newsapp.presentation.page.main.MainActivity}" drawable="echo_news" />
+    <item component="ComponentInfo{com.logmein.gotoconnect/com.logmein.gotoconnect.MainActivity}" drawable="goto" />
+    <item component="ComponentInfo{de.heise.android.heiseonlineapp/heise.activity.MainActivity}" drawable="heise_online" />
+    <item component="ComponentInfo{it.pinenuts.technews/it.pinenuts.newsengine.PinenutsRssReaderActivity}" drawable="tech_news" />
+    <item component="ComponentInfo{de.markusliebschner.thatlist.pro/de.markusliebschner.thatlist.pro.MainActivity}" drawable="that_shopping_list_pro" />
+    <item component="ComponentInfo{at.apa.pdfwlclient.vrm_darmstaedterecho/at.apa.pdfwlclient.ui.splash.SplashActivity}" drawable="echo_e_paper" />
+    <item component="ComponentInfo{com.ehwplus/com.ehwplus.MainActivity}" drawable="ehw_" />
+    <item component="ComponentInfo{com.bosch.ebike.onebikeapp/com.bosch.ebike.onebikeapp.MainActivity}" drawable="flow" />
+    <item component="ComponentInfo{de.funke.hoerzu/de.proofit.hoerzu.app.SplashActivity}" drawable="horzu" />
+    <item component="ComponentInfo{multamedio.de.app_android_ltg/multamedio.de.app_android_ltg.activities.LoadingScreenActivity}" drawable="lotto_hessen" />
+    <item component="ComponentInfo{com.generalmagic.magicearth/com.generalmagic.magicearth.MainActivity}" drawable="magic_earth_general" />
+    <item component="ComponentInfo{com.hemispheregames.osmos/com.hemispheregames.osmos.GameActivity}" drawable="osmos" />
+    <item component="ComponentInfo{com.roku.remote/com.roku.remote.ui.activities.BrowseContentActivity}" drawable="roku" />
 
 </resources>
 

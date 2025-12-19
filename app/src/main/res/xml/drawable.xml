@@ -29,6 +29,19 @@
     <item drawable="steamletter" />
     <item drawable="urnetwork" />
     <item drawable="war_robots" />
+    <item drawable="anrich_burger" />
+    <item drawable="echo_news" />
+    <item drawable="goto" />
+    <item drawable="heise_online" />
+    <item drawable="tech_news" />
+    <item drawable="that_shopping_list_pro" />
+    <item drawable="echo_e_paper" />
+    <item drawable="ehw_" />
+    <item drawable="flow" />
+    <item drawable="horzu" />
+    <item drawable="lotto_hessen" />
+    <item drawable="magic_earth_general" />
+    <item drawable="osmos" />
     <category title="Folders" />
     <item drawable="folder_blue" />
     <item drawable="folder_dark_blue" />
@@ -822,6 +835,7 @@
     <item drawable="_f_droid_kdi" />
     <item drawable="_sound_" />
     <category title="A" />
+    <item drawable="anrich_burger" />
     <item drawable="almaorienta" />
     <item drawable="antisplit_m" />
     <item drawable="androidify"/>
@@ -2163,6 +2177,9 @@
 	<item drawable="dynalist" />
 	<item drawable="dynamicspot" />
     <category title="E" />
+    <item drawable="echo_e_paper" />
+    <item drawable="ehw_" />
+    <item drawable="echo_news" />
     <item drawable="epic_games" />
     <item drawable="expressionevaluator"/>
     <item drawable="ente_auth" />
@@ -2344,6 +2361,7 @@
 	<item drawable="exodus" />
 	<item drawable="exteragram" />
     <category title="F" />
+    <item drawable="flow" />
     <item drawable="fmradio"/>
     <item drawable="ffmpegmediaencoder"/>
     <item drawable="fallout_shelter" />
@@ -2604,6 +2622,7 @@
 	<item drawable="futo_voice_input" />
 	<item drawable="fx" />
     <category title="G" />
+    <item drawable="goto" />
     <item drawable="github_store" />
     <item drawable="galerie_dot" />
     <item drawable="guitar_pro" />
@@ -2823,6 +2842,8 @@
 	<item drawable="gsmarena" />
 	<item drawable="gspace" />
     <category title="H" />
+    <item drawable="horzu" />
+    <item drawable="heise_online" />
     <item drawable="hades_star" />
     <item drawable="honeygain" />
     <item drawable="hololauncher"/>
@@ -3373,6 +3394,7 @@
 	<item drawable="kutumb" />
 	<item drawable="kwgt_pro" />
     <category title="L" />
+    <item drawable="lotto_hessen" />
     <item drawable="lockscreen"/>
     <item drawable="launchchat"/>
     <item drawable="loga3app" />
@@ -3556,6 +3578,7 @@
 	<item drawable="lucky_wasted" />
 	<item drawable="lux_o_meter_lichtmesser" />
     <category title="M" />
+    <item drawable="magic_earth_general" />
     <item drawable="mlol_ebook_reader" />
     <item drawable="midiclef"/>
     <item drawable="multi_apk_installer"/>
@@ -4286,6 +4309,7 @@
 	<item drawable="nozzle" />
 	<item drawable="nytimes" />
     <category title="O" />
+    <item drawable="osmos" />
     <item drawable="openstreetmap_wiki_app" />
     <item drawable="open_library" />
     <item drawable="onecalc"/>
@@ -5716,6 +5740,8 @@
 	<item drawable="swiss_post" />
 	<item drawable="systemui_tuner" />
     <category title="T" />
+    <item drawable="tech_news" />
+    <item drawable="that_shopping_list_pro" />
     <item drawable="timidityae"/>
     <item drawable="tomato_pomodoro" />
     <item drawable="text_viewer" />

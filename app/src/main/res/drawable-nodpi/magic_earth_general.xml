@@ -1,0 +1,34 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android" xmlns:aapt="http://schemas.android.com/aapt"
+    android:viewportWidth="135.4667"
+    android:viewportHeight="135.4667"
+    android:width="480dp"
+    android:height="480dp">
+    <group
+        android:translateX="-37.30626"
+        android:translateY="-80.69792">
+        <path
+            android:pathData="M47.979117 191.88891c5.474443 4.78438 10.76487 -0.50604 10.76487 -0.50604l22.311802 -22.31181c0 0 3.220262 -2.39219 3.542286 -12.83503 0.322027 -10.44285 0 -31.92658 0 -31.92658 0 0 -0.460036 -6.85456 -7.222582 -6.90056 -6.762546 -0.046 -8.050651 6.2565 -8.050651 6.2565l-0.322026 34.5948 -22.495817 23.87593c0 0 -4.002325 5.06041 1.472118 9.75279z"
+            android:fillColor="#9E86FF"
+            android:strokeColor="#000000"
+            android:strokeWidth="3.175"
+            android:strokeLineCap="round"
+            android:strokeLineJoin="round"
+            android:strokeMiterLimit="50" />
+        <path
+            android:pathData="M160.81369 192.78381c-5.47444 4.78438 -10.76487 -0.50604 -10.76487 -0.50604l-22.3118 -22.31181c0 0 -3.22026 -2.39219 -3.54229 -12.83503 -0.32202 -10.44285 0 -31.92658 0 -31.92658 0 0 0.46004 -6.85456 7.22258 -6.90056 6.76255 -0.046 8.05066 6.2565 8.05066 6.2565l0.32202 34.5948 22.49582 23.87593c0 0 4.00232 5.06041 -1.47212 9.75279z"
+            android:fillColor="#9E86FF"
+            android:strokeColor="#000000"
+            android:strokeWidth="3.175"
+            android:strokeLineCap="round"
+            android:strokeLineJoin="round"
+            android:strokeMiterLimit="50" />
+        <path
+            android:pathData="M112.96996 110.56004v74.62277c0 0 0 7.74203 -7.74203 7.74203 -7.742025 0 -7.742025 -8.00227 -7.742025 -8.00227v-75.14324c0 0 0.455412 -7.22156 7.742025 -7.02638 7.28662 0.19518 7.74203 7.80709 7.74203 7.80709z"
+            android:fillColor="#9E86FF"
+            android:strokeColor="#000000"
+            android:strokeWidth="3.175"
+            android:strokeLineCap="round"
+            android:strokeLineJoin="round"
+            android:strokeMiterLimit="50" />
+    </group>
+</vector>
