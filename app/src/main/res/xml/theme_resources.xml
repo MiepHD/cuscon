@@ -6783,5 +6783,14 @@
     <AppIcon name="com.generalmagic.magicearth/com.generalmagic.magicearth.MainActivity" image="magic_earth_general"/>
     <AppIcon name="com.hemispheregames.osmos/com.hemispheregames.osmos.GameActivity" image="osmos"/>
     <AppIcon name="com.roku.remote/com.roku.remote.ui.activities.BrowseContentActivity" image="roku"/>
+    <AppIcon name="com.jagex.oldscape.android/com.jagex.android.MainActivity" image="old_school_runescape"/>
+    <AppIcon name="com.media.markt/com.mediamarkt.mms_oscapps_flutter.MainActivity" image="mediamarkt"/>
+    <AppIcon name="com.tuyware.mygamecollection/com.tuyware.mygamecollection.UI.Activities.SplashActivity" image="my_game_collection"/>
+    <AppIcon name="com.playstation.ohana.android/com.playstation.ohana.android.TopActivity" image="ps_family"/>
+    <AppIcon name="org.emunix.unipatcher/org.emunix.unipatcher.ui.activity.MainActivity" image="unipatcher"/>
+    <AppIcon name="com.otp.octopilauncher/com.otp.octopilauncher.MainActivity" image="octopi_launcher"/>
+    <AppIcon name="com.acty.myfuellog2/com.acty.myfuellog2.MainActivity" image="myfuellog2"/>
+    <AppIcon name="it.pinenuts.rassegnastampa/it.pinenuts.newsengine.PinenutsRssReaderActivity" image="presseschau"/>
+    <AppIcon name="io.ente.auth/io.ente.auth.IconDefault" image="ente_auth"/>
 
 </Theme>

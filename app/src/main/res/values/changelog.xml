@@ -1,8 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="changelog_date">16.12.2025</string>
+    <string name="changelog_date">01.01.2026</string>
     <string-array name="changelog">
-        <item>4.0.7.9:</item>
+        <item>4.0.8.0:</item>
+        <item>Added Old School RuneScape, My Game Collection, PS Family, UniPatcher, Octopi Launcher, MyFuelLog2, Presseschau</item>
+        <item>Updated and fixed MediaMarkt</item>
+        <item>Fixed Ente Auth</item>
+        <item>4.0.8.0:</item>
         <item>Added CalcYou, Parkster, Briar, Calculator, AlmaOrienta, AntiSplit M, Card Fall, Dungeon Cards, Dungeon Cards 2, Epic Games, Github Store, Hades Star, Honeygain, Infinite Craft, IO, Juno: New Origins Complete Edition, MLOL Ebook Reader, OpenStreetMap wiki app, Open Library, Path of Adventure, Pokemon GO, Quote Unquote, Robot Colony 2, Sketchware Pro, Steamletter, URnetwork, War Robots, anRICH Bürger, Echo News, GoTo, heise online, Tech News, That Shopping List PRO, Echo E-Paper, EHW+, Flow, HORZU, LOTTO Hessen, Magic Earth, Osmos</item>
         <item>Fixed MeinVodafone, Thunderbird Beta, PayByPhone, Deezer, Wikipedia, Roku</item>
         <item>Improved quality of Blitzer.de PRO, Roku</item>

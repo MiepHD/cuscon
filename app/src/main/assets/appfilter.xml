@@ -6895,6 +6895,15 @@
     <item component="ComponentInfo{com.generalmagic.magicearth/com.generalmagic.magicearth.MainActivity}" drawable="magic_earth_general" />
     <item component="ComponentInfo{com.hemispheregames.osmos/com.hemispheregames.osmos.GameActivity}" drawable="osmos" />
     <item component="ComponentInfo{com.roku.remote/com.roku.remote.ui.activities.BrowseContentActivity}" drawable="roku" />
+    <item component="ComponentInfo{com.jagex.oldscape.android/com.jagex.android.MainActivity}" drawable="old_school_runescape" />
+    <item component="ComponentInfo{com.media.markt/com.mediamarkt.mms_oscapps_flutter.MainActivity}" drawable="mediamarkt" />
+    <item component="ComponentInfo{com.tuyware.mygamecollection/com.tuyware.mygamecollection.UI.Activities.SplashActivity}" drawable="my_game_collection" />
+    <item component="ComponentInfo{com.playstation.ohana.android/com.playstation.ohana.android.TopActivity}" drawable="ps_family" />
+    <item component="ComponentInfo{org.emunix.unipatcher/org.emunix.unipatcher.ui.activity.MainActivity}" drawable="unipatcher" />
+    <item component="ComponentInfo{com.otp.octopilauncher/com.otp.octopilauncher.MainActivity}" drawable="octopi_launcher" />
+    <item component="ComponentInfo{com.acty.myfuellog2/com.acty.myfuellog2.MainActivity}" drawable="myfuellog2" />
+    <item component="ComponentInfo{it.pinenuts.rassegnastampa/it.pinenuts.newsengine.PinenutsRssReaderActivity}" drawable="presseschau" />
+    <item component="ComponentInfo{io.ente.auth/io.ente.auth.IconDefault}" drawable="ente_auth" />
 
 </resources>
 

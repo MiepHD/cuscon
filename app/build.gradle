@@ -11,8 +11,8 @@ android {
         applicationId 'com.froxot.cuscon'
         minSdkVersion rootProject.ext.MinSdk
         targetSdkVersion rootProject.ext.TargetSdk
-        versionCode 4079
-        versionName '4.0.7.9'
+        versionCode 4080
+        versionName '4.0.8.0'
         multiDexEnabled true
     }
 
@@ -35,9 +35,6 @@ android {
             debuggable false
             minifyEnabled true
             proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
-        }
-        debug {
-            signingConfig null
         }
     }
 
