@@ -4,8 +4,8 @@
     <!-- FOR ATOM LAUNCHER -->
 
     <packageName>com.froxot.cuscon</packageName>
-    <versionName>4.0.8.0</versionName>
-    <versionCode>4080</versionCode>
+    <versionName>4.0.8.1</versionName>
+    <versionCode>4081</versionCode>
     <themeName>Cuscon</themeName>
 
     <!-- Default Component Color -->
