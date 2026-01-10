@@ -2,14 +2,9 @@
 <resources>
     <version>1</version>
     <category title="New Icons" />
-    <item drawable="my_game_collection" />
-    <item drawable="ps_family" />
-    <item drawable="unipatcher" />
-    <item drawable="mediamarkt" />
-    <item drawable="old_school_runescape" />
-    <item drawable="octopi_launcher" />
-    <item drawable="myfuellog2" />
-    <item drawable="presseschau" />
+    <item drawable="cowsay"/>
+    <item drawable="drawpile"/>
+    <item drawable="supertuxkart"/>
     <category title="Folders" />
     <item drawable="folder_blue" />
     <item drawable="folder_dark_blue" />
@@ -1469,6 +1464,7 @@
 	<item drawable="bycs_drive" />
     <item drawable="ballozi_skynox" />
     <category title="C" />
+    <item drawable="cowsay"/>
     <item drawable="card_fall" />
     <item drawable="fossify_math" name="calculator" />
     <item drawable="calcyou" />
@@ -1847,6 +1843,7 @@
 	<item drawable="cubic_2_3_4_player_games" />
 	<item drawable="currencies" />
     <category title="D" />
+    <item drawable="drawpile"/>
     <item drawable="dungeon_cards" />
     <item drawable="dungeon_cards_2" />
     <item drawable="deviceinfohw"/>
@@ -5146,6 +5143,7 @@
 	<item drawable="rustdesk" />
 	<item drawable="rvx_music" />
     <category title="S" />
+    <item drawable="supertuxkart"/>
     <item drawable="sketchware_pro" />
     <item drawable="steamletter" />
     <item drawable="soundmeterpro"/>

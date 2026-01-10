@@ -6904,6 +6904,9 @@
     <item component="ComponentInfo{com.acty.myfuellog2/com.acty.myfuellog2.MainActivity}" drawable="myfuellog2" />
     <item component="ComponentInfo{it.pinenuts.rassegnastampa/it.pinenuts.newsengine.PinenutsRssReaderActivity}" drawable="presseschau" />
     <item component="ComponentInfo{io.ente.auth/io.ente.auth.IconDefault}" drawable="ente_auth" />
+    <item component="ComponentInfo{ch.fixme.cowsay/ch.fixme.cowsay.Main}" drawable="cowsay"/>
+<item component="ComponentInfo{net.drawpile/net.drawpile.android.MainActivity}" drawable="drawpile"/>
+<item component="ComponentInfo{org.supertuxkart.stk/org.supertuxkart.stk.SuperTuxKartActivity}" drawable="supertuxkart"/>
 
 </resources>
 

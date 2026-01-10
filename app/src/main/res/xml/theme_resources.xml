@@ -6792,5 +6792,8 @@
     <AppIcon name="com.acty.myfuellog2/com.acty.myfuellog2.MainActivity" image="myfuellog2"/>
     <AppIcon name="it.pinenuts.rassegnastampa/it.pinenuts.newsengine.PinenutsRssReaderActivity" image="presseschau"/>
     <AppIcon name="io.ente.auth/io.ente.auth.IconDefault" image="ente_auth"/>
+    <AppIcon name="ComponentInfo{ch.fixme.cowsay/ch.fixme.cowsay.Main}" image="cowsay"/>
+<AppIcon name="ComponentInfo{net.drawpile/net.drawpile.android.MainActivity}" image="drawpile"/>
+<AppIcon name="ComponentInfo{org.supertuxkart.stk/org.supertuxkart.stk.SuperTuxKartActivity}" image="supertuxkart"/>
 
 </Theme>
