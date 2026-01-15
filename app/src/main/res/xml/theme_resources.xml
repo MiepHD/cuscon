@@ -6792,8 +6792,14 @@
     <AppIcon name="com.acty.myfuellog2/com.acty.myfuellog2.MainActivity" image="myfuellog2"/>
     <AppIcon name="it.pinenuts.rassegnastampa/it.pinenuts.newsengine.PinenutsRssReaderActivity" image="presseschau"/>
     <AppIcon name="io.ente.auth/io.ente.auth.IconDefault" image="ente_auth"/>
-    <AppIcon name="ComponentInfo{ch.fixme.cowsay/ch.fixme.cowsay.Main}" image="cowsay"/>
-<AppIcon name="ComponentInfo{net.drawpile/net.drawpile.android.MainActivity}" image="drawpile"/>
-<AppIcon name="ComponentInfo{org.supertuxkart.stk/org.supertuxkart.stk.SuperTuxKartActivity}" image="supertuxkart"/>
+    <AppIcon name="ch.fixme.cowsay/ch.fixme.cowsay.Main" image="cowsay"/>
+    <AppIcon name="net.drawpile/net.drawpile.android.MainActivity" image="drawpile"/>
+    <AppIcon name="org.supertuxkart.stk/org.supertuxkart.stk.SuperTuxKartActivity" image="supertuxkart"/>
+    <AppIcon name="org.lds.ldssa/org.lds.ldssa.ux.main.MainActivity" image="library"/>
+    <AppIcon name="org.lds.ldstools/org.lds.ldstools.ux.main.MainActivity" image="tools"/>
+    <AppIcon name="de.klett.dua.schueler/de.klett.lernen.ApeActivity" image="klett_lernen"/>
+    <AppIcon name="ch.protonmail.android/ch.protonmail.android.RoutingActivity" image="proton_mail"/>
+    <AppIcon name="com.fc.goods.sort.matching.puzzle.triplemaster/com.google.firebase.MessagingUnityPlayerActivity" image="goods_sorting"/>
+    <AppIcon name="com.netflix.NGP.Kamo/com.rockstargames.rdr.LauncherActivity" image="rdr"/>
 
 </Theme>
