@@ -11,8 +11,8 @@ android {
         applicationId 'com.froxot.cuscon'
         minSdkVersion rootProject.ext.MinSdk
         targetSdkVersion rootProject.ext.TargetSdk
-        versionCode 4083
-        versionName '4.0.8.3'
+        versionCode 4084
+        versionName '4.0.8.4'
         multiDexEnabled true
     }
 
@@ -23,9 +23,9 @@ android {
     signingConfigs {
         release {
             storeFile file("upload-keystore.jks")
-            storePassword ''
-            keyAlias ''
-            keyPassword ''
+            storePassword findProperty("PASSWORD")
+            keyAlias 'upload'
+            keyPassword findProperty("PASSWORD")
         }
     }
 

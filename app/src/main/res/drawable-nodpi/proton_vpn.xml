@@ -4,17 +4,17 @@
     android:width="512dp"
     android:height="512dp">
     <path
-        android:pathData="M211.75517 435.44574c17.10127 30.74503 61.02131 32.41003 80.43758 3.05001L473.24292 164.72549c19.20001 -29.03315 0.83 -67.957561 -33.93754 -71.913565L83.445427 52.321512C45.505517 48.004633 18.491992 88.009921 36.945659 121.18483l1.447214 2.58812 158.786037 108.80385 -1.92875 173.08892z"
+        android:pathData="M211.75517 435.94574c17.10127 30.74503 61.02131 32.41003 80.43758 3.05001L473.24292 165.22549c19.20001 -29.03315 0.83 -67.957561 -33.93754 -71.913565L83.445427 52.821512C45.505517 48.504633 18.491992 88.509921 36.945659 121.68483l1.447214 2.58812 158.786037 108.80385 -1.92875 173.08892z"
         android:fillType="evenOdd"
         android:strokeColor="#000000"
-        android:strokeWidth="12">
+        android:strokeWidth="12.5">
         <aapt:attr
             name="android:fillColor">
             <gradient
                 android:startX="437.9304"
-                android:startY="435.4245"
+                android:startY="435.9245"
                 android:endX="148.3774"
-                android:endY="-63.91385"
+                android:endY="-63.41385"
                 android:tileMode="clamp">
                 <item
                     android:color="#8EFFEE"
@@ -29,15 +29,15 @@
         </aapt:attr>
     </path>
     <path
-        android:pathData="M221.95143 406.76822L238.01895 382.8032 360.06906 198.43927c10.67126 -16.11876 0.48625 -37.74253 -18.82127 -39.95878L38.350548 123.70545 195.26016 405.78947c5.72625 10.09626 20.20627 10.65126 26.69127 0.97875z"
+        android:pathData="M221.95143 407.26822L238.01895 383.3032 360.06906 198.93927c10.67126 -16.11876 0.48625 -37.74253 -18.82127 -39.95878L38.350548 124.20545 195.26016 406.28947c5.72625 10.09626 20.20627 10.65126 26.69127 0.97875z"
         android:strokeColor="#000000"
-        android:strokeWidth="12">
+        android:strokeWidth="12.5">
         <aapt:attr
             name="android:fillColor">
             <gradient
                 android:type="radial"
                 android:centerX="222.3677"
-                android:centerY="-5.430167"
+                android:centerY="-4.930167"
                 android:gradientRadius="459.4442"
                 android:tileMode="clamp">
                 <item

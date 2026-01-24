@@ -168,4 +168,5 @@ autorequest/
 stats/
 icon_request_*/
 icon_request_*.zip
-svgs
+
+app/gradle.properties

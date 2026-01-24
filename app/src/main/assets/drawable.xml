@@ -2,8 +2,8 @@
 <resources>
     <version>1</version>
     <category title="New Icons" />
-    <item drawable="library" />
-    <item drawable="tools" />
+    <item drawable="my_pixel" />
+    <item drawable="wtf" />
     <category title="Folders" />
     <item drawable="folder_blue" />
     <item drawable="folder_dark_blue" />
@@ -3544,6 +3544,7 @@
 	<item drawable="lucky_wasted" />
 	<item drawable="lux_o_meter_lichtmesser" />
     <category title="M" />
+    <item drawable="my_pixel" />
     <item drawable="myfuellog2" />
     <item drawable="my_game_collection" />
     <item drawable="magic_earth_general" />
@@ -6386,6 +6387,7 @@
     <item drawable="wifi_signal_meter" />
     <item drawable="ampwifi" />
     <category title="W" />
+    <item drawable="wtf" />
     <item drawable="war_robots" />
     <item drawable="workindia"/>
     <item drawable="wordreference" />

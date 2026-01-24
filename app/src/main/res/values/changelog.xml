@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="changelog_date">14.01.2026</string>
+    <string name="changelog_date">24.01.2026</string>
     <string-array name="changelog">
+        <item>4.0.8.4:</item>
+        <item>Added My Pixel, WTF</item>
         <item>4.0.8.3:</item>
         <item>Added Library, Tools, Goods Sorting, RDR</item>
         <item>Fixed Cowsay, Drawpile, SuperTuxKart, Klett Lernen, Proton Mail</item>

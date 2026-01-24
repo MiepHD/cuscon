@@ -6913,6 +6913,8 @@
     <item component="ComponentInfo{ch.protonmail.android/ch.protonmail.android.RoutingActivity}" drawable="proton_mail" />
     <item component="ComponentInfo{com.fc.goods.sort.matching.puzzle.triplemaster/com.google.firebase.MessagingUnityPlayerActivity}" drawable="goods_sorting" />
     <item component="ComponentInfo{com.netflix.NGP.Kamo/com.rockstargames.rdr.LauncherActivity}" drawable="rdr" />
+    <item component="ComponentInfo{com.google.android.apps.tips/com.google.android.apps.tips.fortnite.p8}" drawable="my_pixel" />
+    <item component="ComponentInfo{pt.nos.wtfbb/pt.nos.wtfbb.MainActivity}" drawable="wtf" />
 
 </resources>
 

@@ -6801,5 +6801,7 @@
     <AppIcon name="ch.protonmail.android/ch.protonmail.android.RoutingActivity" image="proton_mail"/>
     <AppIcon name="com.fc.goods.sort.matching.puzzle.triplemaster/com.google.firebase.MessagingUnityPlayerActivity" image="goods_sorting"/>
     <AppIcon name="com.netflix.NGP.Kamo/com.rockstargames.rdr.LauncherActivity" image="rdr"/>
+    <AppIcon name="com.google.android.apps.tips/com.google.android.apps.tips.fortnite.p8" image="my_pixel"/>
+    <AppIcon name="pt.nos.wtfbb/pt.nos.wtfbb.MainActivity" image="wtf"/>
 
 </Theme>
