@@ -2,8 +2,10 @@
 <resources>
     <version>1</version>
     <category title="New Icons" />
-    <item drawable="my_pixel" />
-    <item drawable="wtf" />
+    <item drawable="meo_go" />
+    <item drawable="my_meo" />
+    <item drawable="wallpapers_by_idtr" />
+    <item drawable="weather_google" />
     <category title="Folders" />
     <item drawable="folder_blue" />
     <item drawable="folder_dark_blue" />
@@ -3544,6 +3546,8 @@
 	<item drawable="lucky_wasted" />
 	<item drawable="lux_o_meter_lichtmesser" />
     <category title="M" />
+    <item drawable="meo_go" />
+    <item drawable="my_meo" />
     <item drawable="my_pixel" />
     <item drawable="myfuellog2" />
     <item drawable="my_game_collection" />
@@ -6387,6 +6391,8 @@
     <item drawable="wifi_signal_meter" />
     <item drawable="ampwifi" />
     <category title="W" />
+    <item drawable="wallpapers_by_idtr" />
+    <item drawable="weather_google" />
     <item drawable="wtf" />
     <item drawable="war_robots" />
     <item drawable="workindia"/>

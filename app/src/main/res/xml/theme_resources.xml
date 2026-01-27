@@ -6803,5 +6803,9 @@
     <AppIcon name="com.netflix.NGP.Kamo/com.rockstargames.rdr.LauncherActivity" image="rdr"/>
     <AppIcon name="com.google.android.apps.tips/com.google.android.apps.tips.fortnite.p8" image="my_pixel"/>
     <AppIcon name="pt.nos.wtfbb/pt.nos.wtfbb.MainActivity" image="wtf"/>
+    <AppIcon name="pt.ptinovacao.rma.meomobile/com.alticelabs.meogo.android.features.splash.ui.SplashActivity" image="meo_go"/>
+    <AppIcon name="pt.tmn.android.ptcenter/pt.mymeo.app.LaunchActivity" image="my_meo"/>
+    <AppIcon name="com.idtr.wallpapersidtr/com.idtr.wallpapersidtr.MainActivity" image="wallpapers_by_idtr"/>
+    <AppIcon name="com.google.android.apps.weather/com.google.android.apps.weather.home.HomeActivity" image="weather_google"/>
 
 </Theme>

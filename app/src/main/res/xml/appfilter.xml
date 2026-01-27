@@ -6915,6 +6915,10 @@
     <item component="ComponentInfo{com.netflix.NGP.Kamo/com.rockstargames.rdr.LauncherActivity}" drawable="rdr" />
     <item component="ComponentInfo{com.google.android.apps.tips/com.google.android.apps.tips.fortnite.p8}" drawable="my_pixel" />
     <item component="ComponentInfo{pt.nos.wtfbb/pt.nos.wtfbb.MainActivity}" drawable="wtf" />
+    <item component="ComponentInfo{pt.ptinovacao.rma.meomobile/com.alticelabs.meogo.android.features.splash.ui.SplashActivity}" drawable="meo_go" />
+    <item component="ComponentInfo{pt.tmn.android.ptcenter/pt.mymeo.app.LaunchActivity}" drawable="my_meo" />
+    <item component="ComponentInfo{com.idtr.wallpapersidtr/com.idtr.wallpapersidtr.MainActivity}" drawable="wallpapers_by_idtr" />
+    <item component="ComponentInfo{com.google.android.apps.weather/com.google.android.apps.weather.home.HomeActivity}" drawable="weather_google" />
 
 </resources>
 
