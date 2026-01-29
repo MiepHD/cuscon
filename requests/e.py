@@ -13,7 +13,7 @@ with open("../../app/src/main/res/xml/appfilter.xml", encoding="utf-8") as f1:
                 line = re.sub(r"[\\\t]+", "", line)
                 find = re.sub(r'drawable=".*?\n', "", line)
                 name = re.search('(?<=e=").*?(?=")', line).group()
-                if (exists(name + ".png")):
+                if (exists(name + ".png") or exists(name + ".webp")):
                     if (find in already):
                         appfilter = appfilter + name + '\n'
                     if (exists("../../app/src/main/res/drawable-nodpi/" + name + ".webp")):

@@ -6807,5 +6807,9 @@
     <AppIcon name="pt.tmn.android.ptcenter/pt.mymeo.app.LaunchActivity" image="my_meo"/>
     <AppIcon name="com.idtr.wallpapersidtr/com.idtr.wallpapersidtr.MainActivity" image="wallpapers_by_idtr"/>
     <AppIcon name="com.google.android.apps.weather/com.google.android.apps.weather.home.HomeActivity" image="weather_google"/>
+    <AppIcon name="pt.santander.oneappparticulares/es.bancosantander.apps.mobile.android.activities.PublicActivity" image="santander_pt"/>
+    <AppIcon name="com.apple.atve.androidtv.appletv/com.apple.android.tv.MainActivity" image="apple_tv"/>
+    <AppIcon name="com.neutroncode.mp/com.neutroncode.mp.NeutronMPCore" image="neutron_player"/>
+    <AppIcon name="com.qobuz.music/com.qobuz.android.mobile.app.refont.screen.launch.LauncherActivity" image="qobuz"/>
 
 </Theme>

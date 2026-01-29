@@ -6919,6 +6919,10 @@
     <item component="ComponentInfo{pt.tmn.android.ptcenter/pt.mymeo.app.LaunchActivity}" drawable="my_meo" />
     <item component="ComponentInfo{com.idtr.wallpapersidtr/com.idtr.wallpapersidtr.MainActivity}" drawable="wallpapers_by_idtr" />
     <item component="ComponentInfo{com.google.android.apps.weather/com.google.android.apps.weather.home.HomeActivity}" drawable="weather_google" />
+    <item component="ComponentInfo{pt.santander.oneappparticulares/es.bancosantander.apps.mobile.android.activities.PublicActivity}" drawable="santander_pt" />
+    <item component="ComponentInfo{com.apple.atve.androidtv.appletv/com.apple.android.tv.MainActivity}" drawable="apple_tv" />
+    <item component="ComponentInfo{com.neutroncode.mp/com.neutroncode.mp.NeutronMPCore}" drawable="neutron_player" />
+    <item component="ComponentInfo{com.qobuz.music/com.qobuz.android.mobile.app.refont.screen.launch.LauncherActivity}" drawable="qobuz" />
 
 </resources>
 
