@@ -6811,5 +6811,11 @@
     <AppIcon name="com.apple.atve.androidtv.appletv/com.apple.android.tv.MainActivity" image="apple_tv"/>
     <AppIcon name="com.neutroncode.mp/com.neutroncode.mp.NeutronMPCore" image="neutron_player"/>
     <AppIcon name="com.qobuz.music/com.qobuz.android.mobile.app.refont.screen.launch.LauncherActivity" image="qobuz"/>
+    <AppIcon name="cz.alza.eshop/cz.alza.base.android.setup.ui.activity.MainActivity" image="alza"/>
+    <AppIcon name="cz.anytime.mobile.android/online.cartrek.app.flows.splash.SplashActivity" image="anytime_cz"/>
+    <AppIcon name="ai.perplexity.comet/ai.perplexity.comet.ui.CometActivity" image="comet"/>
+    <AppIcon name="org.chromium.webapk.aea3c77d23c4ecf26_v2/org.chromium.webapk.shell_apk.h2o.H2OOpaqueMainActivity" image="mammouth"/>
+    <AppIcon name="tech.butterfly.app/tech.butterfly.app.MainActivity" image="manus"/>
+    <AppIcon name="org.thoughtcrime.securesms/org.thoughtcrime.securesms.RoutingActivityAltWaves" image="signal"/>
 
 </Theme>

@@ -6923,6 +6923,12 @@
     <item component="ComponentInfo{com.apple.atve.androidtv.appletv/com.apple.android.tv.MainActivity}" drawable="apple_tv" />
     <item component="ComponentInfo{com.neutroncode.mp/com.neutroncode.mp.NeutronMPCore}" drawable="neutron_player" />
     <item component="ComponentInfo{com.qobuz.music/com.qobuz.android.mobile.app.refont.screen.launch.LauncherActivity}" drawable="qobuz" />
+    <item component="ComponentInfo{cz.alza.eshop/cz.alza.base.android.setup.ui.activity.MainActivity}" drawable="alza" />
+    <item component="ComponentInfo{cz.anytime.mobile.android/online.cartrek.app.flows.splash.SplashActivity}" drawable="anytime_cz" />
+    <item component="ComponentInfo{ai.perplexity.comet/ai.perplexity.comet.ui.CometActivity}" drawable="comet" />
+    <item component="ComponentInfo{org.chromium.webapk.aea3c77d23c4ecf26_v2/org.chromium.webapk.shell_apk.h2o.H2OOpaqueMainActivity}" drawable="mammouth" />
+    <item component="ComponentInfo{tech.butterfly.app/tech.butterfly.app.MainActivity}" drawable="manus" />
+    <item component="ComponentInfo{org.thoughtcrime.securesms/org.thoughtcrime.securesms.RoutingActivityAltWaves}" drawable="signal" />
 
 </resources>
 
