@@ -6929,6 +6929,10 @@
     <item component="ComponentInfo{org.chromium.webapk.aea3c77d23c4ecf26_v2/org.chromium.webapk.shell_apk.h2o.H2OOpaqueMainActivity}" drawable="mammouth" />
     <item component="ComponentInfo{tech.butterfly.app/tech.butterfly.app.MainActivity}" drawable="manus" />
     <item component="ComponentInfo{org.thoughtcrime.securesms/org.thoughtcrime.securesms.RoutingActivityAltWaves}" drawable="signal" />
+    <item component="ComponentInfo{com.football433/com.football433.MainActivity}" drawable="_433_football" />
+    <item component="ComponentInfo{net.blip.android/net.blip.android.MainActivity}" drawable="blip" />
+    <item component="ComponentInfo{pt.digimobil.mydigi/pt.digimobil.mydigi.app.main.MainActivity}" drawable="my_digi" />
+    <item component="ComponentInfo{com.sfr.android.sfrjeux.samsung/com.sfr.android.sfrjeux.SFRJeuxMain}" drawable="my_games" />
 
 </resources>
 

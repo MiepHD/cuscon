@@ -6817,5 +6817,9 @@
     <AppIcon name="org.chromium.webapk.aea3c77d23c4ecf26_v2/org.chromium.webapk.shell_apk.h2o.H2OOpaqueMainActivity" image="mammouth"/>
     <AppIcon name="tech.butterfly.app/tech.butterfly.app.MainActivity" image="manus"/>
     <AppIcon name="org.thoughtcrime.securesms/org.thoughtcrime.securesms.RoutingActivityAltWaves" image="signal"/>
+    <AppIcon name="com.football433/com.football433.MainActivity" image="_433_football"/>
+    <AppIcon name="net.blip.android/net.blip.android.MainActivity" image="blip"/>
+    <AppIcon name="pt.digimobil.mydigi/pt.digimobil.mydigi.app.main.MainActivity" image="my_digi"/>
+    <AppIcon name="com.sfr.android.sfrjeux.samsung/com.sfr.android.sfrjeux.SFRJeuxMain" image="my_games"/>
 
 </Theme>

@@ -8,6 +8,10 @@
     <item drawable="mammouth" />
     <item drawable="manus" />
     <item drawable="signal" />
+    <item drawable="_433_football" />
+    <item drawable="blip" />
+    <item drawable="my_digi" />
+    <item drawable="my_games" />
     <category title="Folders" />
     <item drawable="folder_blue" />
     <item drawable="folder_dark_blue" />
@@ -761,6 +765,7 @@
     <item drawable="gu_recorder" />
     <item drawable="easy_voice_recorder" />
     <category title="#" />
+    <item drawable="_433_football" />
     <item drawable="_3catinfo" />
     <item drawable="_1024_puzzle_numbers_game" />
     <item drawable="_1password" />
@@ -1195,6 +1200,7 @@
 	<item drawable="awoken" />
 	<item drawable="awox_homecontrol" />
     <category title="B" />
+    <item drawable="blip" />
     <item drawable="briar" />
     <item drawable="baba" />
     <item drawable="bancoposta" />
@@ -3552,6 +3558,8 @@
 	<item drawable="lucky_wasted" />
 	<item drawable="lux_o_meter_lichtmesser" />
     <category title="M" />
+    <item drawable="my_digi" />
+    <item drawable="my_games" />
     <item drawable="mammouth" />
     <item drawable="manus" />
     <item drawable="meo_go" />
