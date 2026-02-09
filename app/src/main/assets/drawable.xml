@@ -6664,7 +6664,7 @@
     <item drawable="yuito" />
     <item drawable="yulu" />
     <item drawable="yuzu" />
-    <item drawable="yt_studio" />
+    <item drawable="yt_studio" name="Youtube Studio"/>
 	<item drawable="yandexmaps" />
 	<item drawable="yasnac" />
 	<item drawable="yet_another_call_blocker" />
