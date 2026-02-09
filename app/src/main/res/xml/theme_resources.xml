@@ -6821,5 +6821,11 @@
     <AppIcon name="net.blip.android/net.blip.android.MainActivity" image="blip"/>
     <AppIcon name="pt.digimobil.mydigi/pt.digimobil.mydigi.app.main.MainActivity" image="my_digi"/>
     <AppIcon name="com.sfr.android.sfrjeux.samsung/com.sfr.android.sfrjeux.SFRJeuxMain" image="my_games"/>
+    <AppIcon name="com.webapp.awvisarinn/com.webapp.awido.SplashScreen" image="awv_isar_inn_abfall_app"/>
+    <AppIcon name="org.framasoft.peertube/org.framasoft.peertube.MainActivity" image="peertube"/>
+    <AppIcon name="com.finch.finch/com.finch.finch.MainActivity" image="finch"/>
+    <AppIcon name="com.sdui.sdui/com.sdui.sdui.MainActivity" image="sdui"/>
+    <AppIcon name="io.filen.app/io.filen.app.MainActivity" image="filen"/>
+    <AppIcon name="io.ente.photos.fdroid/io.ente.photos.fdroid.IconGreen" image="ente_photos_green"/>
 
 </Theme>

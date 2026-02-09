@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="changelog_date">02.02.2026</string>
+    <string name="changelog_date">09.02.2026</string>
     <string-array name="changelog">
-        <item>4.0.8.7:</item>
+        <item>4.0.8.8:</item>
+        <item>Added AWV-Isar-Inn Abfall-App, PeerTube, Finch, Sdui, Filen, Ente Photos</item>
+        <item>Made Youtube icons consistent</item>
+        <item>4.0.8.8:</item>
         <item>Added Alza, Anytime CZ, Comet, Mammouth, Manus, Vlny, 433 Football, Blip, My DIGI, My Games</item>
         <item>4.0.8.6:</item>
         <item>Added Santander, Apple TV, Neutron Player, Qobuz</item>

@@ -6933,6 +6933,12 @@
     <item component="ComponentInfo{net.blip.android/net.blip.android.MainActivity}" drawable="blip" />
     <item component="ComponentInfo{pt.digimobil.mydigi/pt.digimobil.mydigi.app.main.MainActivity}" drawable="my_digi" />
     <item component="ComponentInfo{com.sfr.android.sfrjeux.samsung/com.sfr.android.sfrjeux.SFRJeuxMain}" drawable="my_games" />
+    <item component="ComponentInfo{com.webapp.awvisarinn/com.webapp.awido.SplashScreen}" drawable="awv_isar_inn_abfall_app" />
+    <item component="ComponentInfo{org.framasoft.peertube/org.framasoft.peertube.MainActivity}" drawable="peertube" />
+    <item component="ComponentInfo{com.finch.finch/com.finch.finch.MainActivity}" drawable="finch" />
+    <item component="ComponentInfo{com.sdui.sdui/com.sdui.sdui.MainActivity}" drawable="sdui" />
+    <item component="ComponentInfo{io.filen.app/io.filen.app.MainActivity}" drawable="filen" />
+    <item component="ComponentInfo{io.ente.photos.fdroid/io.ente.photos.fdroid.IconGreen}" drawable="ente_photos_green" />
 
 </resources>
 
