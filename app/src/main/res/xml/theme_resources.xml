@@ -6827,5 +6827,27 @@
     <AppIcon name="com.sdui.sdui/com.sdui.sdui.MainActivity" image="sdui"/>
     <AppIcon name="io.filen.app/io.filen.app.MainActivity" image="filen"/>
     <AppIcon name="io.ente.photos.fdroid/io.ente.photos.fdroid.IconGreen" image="ente_photos_green"/>
+    <AppIcon name="app.linkwarden/app.linkwarden.MainActivity" image="linkwarden" />
+    <AppIcon name="com.sweak.qralarm/com.sweak.qralarm.app.activity.MainActivity" image="qralarm" />
+    <AppIcon name="com.zaneschepke.wireguardautotunnel/com.zaneschepke.wireguardautotunnel.MainActivity" image="wg_tunnel" />
+    <AppIcon name="de.readeckapp/de.readeckapp.MainActivity" image="readeck_app" />
+    <AppIcon name="dev.clombardo.dnsnet/dev.clombardo.dnsnet.MainActivity" image="dnsnet" />
+    <AppIcon name="com.fibelatti.pinboard/com.fibelatti.pinboard.features.main.MainComposeActivity" image="pinkt" />
+    <AppIcon name="app.comaps.fdroid/app.organicmaps.DownloadResourcesActivity" image="comaps" />
+    <AppIcon name="org.fossify.thankyou/org.fossify.thankyou.activities.SplashActivity.Green" image="thankyou" />
+    <AppIcon name="com.demizo.daily_you/com.demizo.daily_you.MainActivity" image="daily_you" />
+    <AppIcon name="app.hoarder.hoardermobile/app.hoarder.hoardermobile.MainActivity" image="karakeep" />
+    <AppIcon name="io.github.hathibelagal.eidetic/io.github.hathibelagal.eidetic.MainActivity" image="eidetic" />
+    <AppIcon name="com.jherkenhoff.qalculate/com.jherkenhoff.qalculate.ui.MainActivity" image="qalculate_" />
+    <AppIcon name="com.jgeek00.linkdy/com.jgeek00.linkdy.MainActivity" image="linkdy" />
+    <AppIcon name="net.eneiluj.moneybuster/net.eneiluj.moneybuster.android.activity.BillsListViewActivity" image="moneybuster" />
+    <AppIcon name="com.mindfulnotifier.app/com.mindfulnotifier.app.MainActivity" image="mindful_notifier" />
+    <AppIcon name="it.dshare.topolinoco.android/com.paperlit.paperlitsp.presentation.view.activity.SPSplashScreenActivity" image="topolino" />
+    <AppIcon name="org.fossify.musicplayer/org.fossify.musicplayer.activities.SplashActivity.Green" image="musicplayer" />
+    <AppIcon name="si.jakobkreft.ontime/si.jakobkreft.ontime.MainActivity" image="ontime" />
+    <AppIcon name="de.doen1el.calibreWebCompanion/de.doen1el.calibreWebCompanion.MainActivity" image="calibre_web_companion" />
+    <AppIcon name="com.samco.trackandgraph/com.samco.trackandgraph.main.MainActivity" image="track_and_graph" />
+    <AppIcon name="xyz.zedler.patrick.tack/xyz.zedler.patrick.tack.activity.SplashActivity" image="tack" />
+    <AppIcon name="io.jozo.prayerbook/io.jozo.prayerbook.MainActivity" image="prayer_book" />
 
 </Theme>

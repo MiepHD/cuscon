@@ -2,12 +2,28 @@
 <resources>
     <version>1</version>
     <category title="New Icons" />
-    <item drawable="awv_isar_inn_abfall_app" />
-    <item drawable="peertube" />
-    <item drawable="finch" />
-    <item drawable="sdui" />
-    <item drawable="filen" />
-    <item drawable="ente_photos_green" />
+    <item drawable="linkwarden" />
+    <item drawable="qralarm" />
+    <item drawable="wg_tunnel" />
+    <item drawable="readeck_app" />
+    <item drawable="dnsnet" />
+    <item drawable="pinkt" />
+    <item drawable="comaps" />
+    <item drawable="thankyou" />
+    <item drawable="daily_you" />
+    <item drawable="karakeep" />
+    <item drawable="eidetic" />
+    <item drawable="qalculate_" />
+    <item drawable="linkdy" />
+    <item drawable="moneybuster" />
+    <item drawable="mindful_notifier" />
+    <item drawable="topolino" />
+    <item drawable="musicplayer" />
+    <item drawable="ontime" />
+    <item drawable="calibre_web_companion" />
+    <item drawable="track_and_graph" />
+    <item drawable="tack" />
+    <item drawable="prayer_book" />
     <category title="Folders" />
     <item drawable="folder_blue" />
     <item drawable="folder_dark_blue" />
@@ -1473,6 +1489,8 @@
 	<item drawable="bycs_drive" />
     <item drawable="ballozi_skynox" />
     <category title="C" />
+    <item drawable="calibre_web_companion" />
+    <item drawable="comaps" />
     <item drawable="comet" />
     <item drawable="cowsay"/>
     <item drawable="card_fall" />
@@ -1853,6 +1871,8 @@
 	<item drawable="cubic_2_3_4_player_games" />
 	<item drawable="currencies" />
     <category title="D" />
+    <item drawable="daily_you" />
+    <item drawable="dnsnet" />
     <item drawable="drawpile"/>
     <item drawable="dungeon_cards" />
     <item drawable="dungeon_cards_2" />
@@ -2152,6 +2172,7 @@
 	<item drawable="dynalist" />
 	<item drawable="dynamicspot" />
     <category title="E" />
+    <item drawable="eidetic" />
     <item drawable="ente_photos_green" />
     <item drawable="echo_e_paper" />
     <item drawable="ehw_" />
@@ -3233,6 +3254,7 @@
 	<item drawable="justchess" />
 	<item drawable="justdial" />
     <category title="K" />
+    <item drawable="karakeep" />
     <item drawable="kernelsu_next" />
     <item drawable="kitsune" />
     <item drawable="kauth" />
@@ -3373,6 +3395,8 @@
 	<item drawable="kutumb" />
 	<item drawable="kwgt_pro" />
     <category title="L" />
+    <item drawable="linkdy" />
+    <item drawable="linkwarden" />
     <item drawable="library" />
     <item drawable="lotto_hessen" />
     <item drawable="lockscreen"/>
@@ -3558,6 +3582,9 @@
 	<item drawable="lucky_wasted" />
 	<item drawable="lux_o_meter_lichtmesser" />
     <category title="M" />
+    <item drawable="musicplayer" />
+    <item drawable="moneybuster" />
+    <item drawable="mindful_notifier" />
     <item drawable="my_digi" />
     <item drawable="my_games" />
     <item drawable="mammouth" />
@@ -4299,6 +4326,7 @@
 	<item drawable="nozzle" />
 	<item drawable="nytimes" />
     <category title="O" />
+    <item drawable="ontime" />
     <item drawable="octopi_launcher" />
     <item drawable="old_school_runescape" />
     <item drawable="osmos" />
@@ -4481,6 +4509,8 @@
 	<item drawable="osmand_" />
 	<item drawable="ovag_e_mobil" />
     <category title="P" />
+    <item drawable="prayer_book" />
+    <item drawable="pinkt" />
     <item drawable="peertube" />
     <item drawable="presseschau" />
     <item drawable="ps_family" />
@@ -4878,6 +4908,8 @@
 	<item drawable="puzzles" />
 	<item drawable="pysolfc" />
     <category title="Q" />
+    <item drawable="qalculate_" />
+    <item drawable="qralarm" />
     <item drawable="qobuz" />
     <item drawable="quote_unquote" />
     <item drawable="quill"/>
@@ -4928,6 +4960,7 @@
 	<item drawable="quik" />
 	<item drawable="quillpad" />
     <category title="R" />
+    <item drawable="readeck_app" />
     <item drawable="rdr" />
     <item drawable="robot_colony_2" />
     <item drawable="rtl_plus" />
@@ -5741,6 +5774,10 @@
 	<item drawable="swiss_post" />
 	<item drawable="systemui_tuner" />
     <category title="T" />
+    <item drawable="track_and_graph" />
+    <item drawable="tack" />
+    <item drawable="topolino" />
+    <item drawable="thankyou" />
     <item drawable="tools" />
     <item drawable="tech_news" />
     <item drawable="that_shopping_list_pro" />
@@ -6413,6 +6450,7 @@
     <item drawable="wifi_signal_meter" />
     <item drawable="ampwifi" />
     <category title="W" />
+    <item drawable="wg_tunnel" />
     <item drawable="wallpapers_by_idtr" />
     <item drawable="weather_google" />
     <item drawable="wtf" />
