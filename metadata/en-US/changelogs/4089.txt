@@ -1,0 +1,2 @@
+Added Linkwarden, QRAlarm, WG Tunnel, Readeck App, DNSNet, Pinkt, CoMaps, thankyou, Daily You, Karakeep, Eidetic, Qalculate!, Linkdy, MoneyBuster, Mindful Notifier, Topolino, musicplayer, OnTime, Calibre Web Companion, Track and Graph, Tack, Prayer Book
+Thanks a lot to @github:desk7 who made the icons of this release

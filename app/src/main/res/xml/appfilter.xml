@@ -6944,6 +6944,28 @@
     <item component="ComponentInfo{com.sdui.sdui/com.sdui.sdui.MainActivity}" drawable="sdui" />
     <item component="ComponentInfo{io.filen.app/io.filen.app.MainActivity}" drawable="filen" />
     <item component="ComponentInfo{io.ente.photos.fdroid/io.ente.photos.fdroid.IconGreen}" drawable="ente_photos_green" />
+    <item component="ComponentInfo{app.linkwarden/app.linkwarden.MainActivity}" drawable="linkwarden" />
+    <item component="ComponentInfo{com.sweak.qralarm/com.sweak.qralarm.app.activity.MainActivity}" drawable="qralarm" />
+    <item component="ComponentInfo{com.zaneschepke.wireguardautotunnel/com.zaneschepke.wireguardautotunnel.MainActivity}" drawable="wg_tunnel" />
+    <item component="ComponentInfo{de.readeckapp/de.readeckapp.MainActivity}" drawable="readeck_app" />
+    <item component="ComponentInfo{dev.clombardo.dnsnet/dev.clombardo.dnsnet.MainActivity}" drawable="dnsnet" />
+    <item component="ComponentInfo{com.fibelatti.pinboard/com.fibelatti.pinboard.features.main.MainComposeActivity}" drawable="pinkt" />
+    <item component="ComponentInfo{app.comaps.fdroid/app.organicmaps.DownloadResourcesActivity}" drawable="comaps" />
+    <item component="ComponentInfo{org.fossify.thankyou/org.fossify.thankyou.activities.SplashActivity.Green}" drawable="thankyou" />
+    <item component="ComponentInfo{com.demizo.daily_you/com.demizo.daily_you.MainActivity}" drawable="daily_you" />
+    <item component="ComponentInfo{app.hoarder.hoardermobile/app.hoarder.hoardermobile.MainActivity}" drawable="karakeep" />
+    <item component="ComponentInfo{io.github.hathibelagal.eidetic/io.github.hathibelagal.eidetic.MainActivity}" drawable="eidetic" />
+    <item component="ComponentInfo{com.jherkenhoff.qalculate/com.jherkenhoff.qalculate.ui.MainActivity}" drawable="qalculate_" />
+    <item component="ComponentInfo{com.jgeek00.linkdy/com.jgeek00.linkdy.MainActivity}" drawable="linkdy" />
+    <item component="ComponentInfo{net.eneiluj.moneybuster/net.eneiluj.moneybuster.android.activity.BillsListViewActivity}" drawable="moneybuster" />
+    <item component="ComponentInfo{com.mindfulnotifier.app/com.mindfulnotifier.app.MainActivity}" drawable="mindful_notifier" />
+    <item component="ComponentInfo{it.dshare.topolinoco.android/com.paperlit.paperlitsp.presentation.view.activity.SPSplashScreenActivity}" drawable="topolino" />
+    <item component="ComponentInfo{org.fossify.musicplayer/org.fossify.musicplayer.activities.SplashActivity.Green}" drawable="musicplayer" />
+    <item component="ComponentInfo{si.jakobkreft.ontime/si.jakobkreft.ontime.MainActivity}" drawable="ontime" />
+    <item component="ComponentInfo{de.doen1el.calibreWebCompanion/de.doen1el.calibreWebCompanion.MainActivity}" drawable="calibre_web_companion" />
+    <item component="ComponentInfo{com.samco.trackandgraph/com.samco.trackandgraph.main.MainActivity}" drawable="track_and_graph" />
+    <item component="ComponentInfo{xyz.zedler.patrick.tack/xyz.zedler.patrick.tack.activity.SplashActivity}" drawable="tack" />
+    <item component="ComponentInfo{io.jozo.prayerbook/io.jozo.prayerbook.MainActivity}" drawable="prayer_book" />
 
 </resources>
 

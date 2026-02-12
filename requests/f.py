@@ -11,6 +11,7 @@ if ("-get" in sys.argv):
     params = os.listdir("get/")
     params = [e.replace(".png", "") for e in params]
     params = [e.replace(".webp", "") for e in params]
+    params = [e.replace(".svg", "") for e in params]
     if ("-rmget" in sys.argv):
         for file in params:
             if (exists(file + ".png")):
