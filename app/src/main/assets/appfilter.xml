@@ -982,6 +982,7 @@
 	<item component="ComponentInfo{com.here.app.maps/com.here.app.wego.MainActivity}" drawable="here_wego" />
 	<item component="ComponentInfo{ru.tech.imageresizershrinker/ru.tech.imageresizershrinker.presentation.main_screen.MainActivity}" drawable="image_toolbox_resizer_" />
 	<item component="ComponentInfo{com.fsck.k9/com.fsck.k9.activity.MessageList}" drawable="k_9_mail" />
+	<item component="ComponentInfo{com.fsck.k9/com.fsck.k9.activity.MainActivity}" drawable="k_9_mail" />
 	<item component="ComponentInfo{com.oriondev.moneywallet/com.oriondev.moneywallet.ui.activity.LauncherActivity}" drawable="moneywallet" />
 	<item component="ComponentInfo{com.maltaisn.notes.sync/com.maltaisn.notes.ui.main.MainActivity}" drawable="notes" />
 	<item component="ComponentInfo{dev.imranr.obtainium/dev.imranr.obtainium.MainActivity}" drawable="obtainium" />
@@ -1266,6 +1267,7 @@
 	<item component="ComponentInfo{net.ise.telefonbuch0180/net.ise.telefonbuch0180.MainActivity}" drawable="teltarifde" />
 	<item component="ComponentInfo{com.einnovation.temu/com.baogong.splash.activity.MainFrameActivity}" drawable="temu" />
 	<item component="ComponentInfo{com.microsoft.translator/com.microsoft.translator.activity.SplashActivity}" drawable="translator" />
+	<item component="ComponentInfo{com.microsoft.translator/com.microsoft.translator.TranslateHomeActivity}" drawable="translator" />
 	<item component="ComponentInfo{foundation.e.apps/foundation.e.apps.MainActivity}" drawable="app_lounge" />
 	<item component="ComponentInfo{ir.nasim/ir.nasim.features.MainActivity}" drawable="bale" />
 	<item component="ComponentInfo{foundation.e.browser/com.google.android.apps.chrome.Main}" drawable="e_browser" />
@@ -1666,6 +1668,7 @@
 	<item component="ComponentInfo{app.grapheneos.pdfviewer/app.grapheneos.pdfviewer.PdfViewer}" drawable="pdf_viewer" />
 	<item component="ComponentInfo{com.google.android.apps.wearables.maestro.companion/com.google.android.apps.wearables.maestro.companion.ui.ShortCutActivity}" drawable="pixel_buds" />
 	<item component="ComponentInfo{com.celzero.bravedns/com.celzero.bravedns.ui.HomeScreenActivity}" drawable="rethink" />
+	<item component="ComponentInfo{com.celzero.bravedns/com.celzero.bravedns.ui.LauncherAliasHome}" drawable="rethink" />
 	<item component="ComponentInfo{de.felixnuesse.extract/ca.pkay.rcloneexplorer.Activities.MainActivity}" drawable="round_sync" />
 	<item component="ComponentInfo{s1m.savertuner/com.draco.buoy.views.MainActivity}" drawable="savertuner" />
 	<item component="ComponentInfo{network.loki.messenger/network.loki.messenger.RoutingActivity}" drawable="session" />
@@ -4931,7 +4934,9 @@
     <item component="ComponentInfo{com.solotech.apps.document.viewer.reader.scaner.pdfreader/com.solotech.activity.SplashScreenActivity}" drawable="visor_de_documentos" />
     <item component="ComponentInfo{cz.martykan.forecastie/cz.martykan.forecastie.activities.SplashActivity}" drawable="forecastie" />
     <item component="ComponentInfo{com.embermitre.hanping.cantodict.app.pro/com.embermitre.dictroid.ui.SearchActivity}" drawable="hanping_cantonese" />
+	<item component="ComponentInfo{com.embermitre.hanping.cantodict.app.pro/app.geckodict.app.dict.hanping.android.MainActivity}" drawable="hanping_cantonese" />
     <item component="ComponentInfo{com.embermitre.hanping.app.pro/com.embermitre.dictroid.ui.SearchActivity}" drawable="hanping_chinese_pro" />
+	<item component="ComponentInfo{com.embermitre.hanping.app.pro/app.geckodict.app.dict.hanping.android.MainActivity}" drawable="hanping_chinese_pro" />
     <item component="ComponentInfo{de.reimardoeffinger.quickdic/com.hughes.android.dictionary.DictionaryManagerActivity}" drawable="quickdic" />
     <item component="ComponentInfo{com.topultragame.slotlasvega/org.cocos2dx.lua.AppActivity}" drawable="cash_tornado" />
     <item component="ComponentInfo{com.screenshake.dominodreams/com.screenshake.dominodreams.DominoMainActivity}" drawable="domino_dreams" />
@@ -6963,4 +6968,5 @@
     <item component="ComponentInfo{io.jozo.prayerbook/io.jozo.prayerbook.MainActivity}" drawable="prayer_book" />
 
 </resources>
+
 

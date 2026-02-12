@@ -4,7 +4,8 @@
     <string-array name="changelog">
         <item>4.0.8.9:</item>
         <item>Added Linkwarden, QRAlarm, WG Tunnel, Readeck App, DNSNet, Pinkt, CoMaps, thankyou, Daily You, Karakeep, Eidetic, Qalculate!, Linkdy, MoneyBuster, Mindful Notifier, Topolino, musicplayer, OnTime, Calibre Web Companion, Track and Graph, Tack, Prayer Book</item>
-        <item>Thanks a lot to @github:desk7 who made the icons of this release</item>
+        <item>Fixed k_9_mail, translator, rethink, hanping_cantonese, hanping_chinese_pro</item>
+        <item>Thanks a lot to @github:desk7 who made the new icons of this release and to @github:alisonatwork who contributed the fixes in this release.</item>
         <item>4.0.8.8:</item>
         <item>Added AWV-Isar-Inn Abfall-App, PeerTube, Finch, Sdui, Filen, Ente Photos</item>
         <item>Made Youtube icons consistent</item>
