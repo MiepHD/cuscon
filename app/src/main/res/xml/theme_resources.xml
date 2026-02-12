@@ -6834,7 +6834,7 @@
     <AppIcon name="com.embermitre.hanping.app.pro/app.geckodict.app.dict.hanping.android.MainActivity" image="hanping_chinese_pro" />
     <AppIcon name="app.linkwarden/app.linkwarden.MainActivity" image="linkwarden" />
     <AppIcon name="com.sweak.qralarm/com.sweak.qralarm.app.activity.MainActivity" image="qralarm" />
-    <AppIcon name="com.zaneschepke.wireguardautotunnel/com.zaneschepke.wireguardautotunnel.MainActivity" image="wg_tunnel" />
+    <AppIcon name="com.zaneschepke.wireguardautotunnel/com.zaneschepke.wireguardautotunnel.MainActivity" image="wg_tunnel_new" />
     <AppIcon name="de.readeckapp/de.readeckapp.MainActivity" image="readeck_app" />
     <AppIcon name="dev.clombardo.dnsnet/dev.clombardo.dnsnet.MainActivity" image="dnsnet" />
     <AppIcon name="com.fibelatti.pinboard/com.fibelatti.pinboard.features.main.MainComposeActivity" image="pinkt" />

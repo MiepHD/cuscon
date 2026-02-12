@@ -4,7 +4,7 @@
     <category title="New Icons" />
     <item drawable="linkwarden" />
     <item drawable="qralarm" />
-    <item drawable="wg_tunnel" />
+    <item drawable="wg_tunnel_new" />
     <item drawable="readeck_app" />
     <item drawable="dnsnet" />
     <item drawable="pinkt" />
@@ -6450,7 +6450,7 @@
     <item drawable="wifi_signal_meter" />
     <item drawable="ampwifi" />
     <category title="W" />
-    <item drawable="wg_tunnel" />
+    <item drawable="wg_tunnel_new" />
     <item drawable="wallpapers_by_idtr" />
     <item drawable="weather_google" />
     <item drawable="wtf" />
