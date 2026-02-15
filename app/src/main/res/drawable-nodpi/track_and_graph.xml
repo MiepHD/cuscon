@@ -3,19 +3,6 @@
     android:viewportHeight="135.4667"
     android:width="512dp"
     android:height="512dp">
-    <group
-        android:scaleX="0.5785404"
-        android:scaleY="0.5785404"
-        android:translateX="-42.32884"
-        android:translateY="-42.27337">
-        <path
-            android:pathData="M166.39453 86.789062l-0.16992 79.251958 -79.251954 -0.16993 -2.837152 48.02141 79.092866 79.49243 130.35304 0.10004V163.66942L211.75 86.884766 211.6523 132.04688Z"
-            android:fillType="evenOdd"
-            android:fillColor="#000000"
-            android:fillAlpha="0.709845"
-            android:strokeLineCap="square"
-            android:strokeLineJoin="bevel" />
-    </group>
     <group>
         <clip-path
             android:pathData="M53.937477 7.9375l-0.09822 45.850461 -45.8504608 -0.0982 -0.051257 26.239308 45.8504578 0.0982 -0.09822 45.850471 26.239309 0.0512 0.09822 -45.850471 45.846194 0.0982 0.0555 -26.239319 -45.850457 -0.0982 0.09822 -45.8461899z" />
