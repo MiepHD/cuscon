@@ -39,22 +39,18 @@ Please send requests to <a href="mailto:cuscon-requests@froxot.de">cuscon-reques
 
 <b>If you just want to create the images, please upload the request with edited images as an issue.</b>
 For that you can follow the steps 1-4 under Pull Requests
-(File types can be any images but WEBP, PNG or JPEG/JPG is preferred)
+(File types can be any images but SVG, WEBP, PNG is preferred)
 
 ## Pull Requests
 
 Requirements:
 
-- Python
-- Bash
+- [Python](https://www.python.org/downloads/)
 
 How-To:
 
-1. If you want to contribute icons, you can use<br>
-   &nbsp;&nbsp;&nbsp;a) the icons under `requests`<br>
-   &nbsp;&nbsp;&nbsp;b) send an icon request to yourself
-   uninstall your current version of cuscon and install [v4.0.1.7](https://github.com/MiepHD/cuscon/releases/tag/v4.0.1.7)) to get the details you need (This is the last version that included the free request feature)
-2. Extract the content of your request into `requests/icon_request`
+1. If you want to contribute icons, you can uninstall your current version of cuscon and install [v4.0.1.7](https://github.com/MiepHD/cuscon/releases/tag/v4.0.1.7)) to send an icon request to yourself (This is the last version that included the free request feature)
+2. Extract the content of your request into `/requests/icon_request` (The images and xml files should be directly in this folder now.)
 3. Run `python ../e.py` in the extracted request folder to get these details:
    1. List of icons that are in the request but already in the latest version. To remove them run `python ..\e.py -rmaa`
    2. List with filename conflicts.<br>
@@ -68,7 +64,6 @@ How-To:
       c) If you don't want to handle these:<br>
       &nbsp;&nbsp;&nbsp;Use `python ../e.py -rmcon` to delete all conflicts
 4. Edit the icons so they match the criteria (Requirements for contributing icons)
-   For simple ones you can use the `../cusconify.sh` but almost all need manual editing e.g. using GIMP.
 5. Put them into a subfolder called `get`
 6. Check if the latest version in `app/src/main/res/values/changelog.xml` is already released
    True) 1. Add new items for the new version in the changelog 2. Update the `versionCode` and `versionName` in `app/build.gradle` 3. Create `metadata/en-US/changelogs/<versionCode>.txt`
@@ -100,3 +95,4 @@ The app is built with the **[CandyBar Dashboard](https://github.com/zixpo/candyb
 The icons are licensed under **[Creative Commons BY-NC-ND License 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)**
 
 All files under `/store` and `/metadata` except `metadata/en-US/changelogs` are © Copyrighted by [@MiepHD](https://github.com/MiepHD) 2024-2025
+
