@@ -2,6 +2,8 @@
 <resources>
     <string name="changelog_date">02.03.2026</string>
     <string-array name="changelog">
+        <item>4.0.9.1:</item>
+        <item>Updated Facer</item>
         <item>4.0.9.0:</item>
         <item>Added PDF Viewer, Golem.de, Morph Reader, SotN, Telehealth</item>
         <item>Fixed StreetComplete</item>
