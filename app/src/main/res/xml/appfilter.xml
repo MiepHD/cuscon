@@ -6966,6 +6966,10 @@
     <item component="ComponentInfo{com.samco.trackandgraph/com.samco.trackandgraph.main.MainActivity}" drawable="track_and_graph" />
     <item component="ComponentInfo{xyz.zedler.patrick.tack/xyz.zedler.patrick.tack.activity.SplashActivity}" drawable="tack" />
     <item component="ComponentInfo{io.jozo.prayerbook/io.jozo.prayerbook.MainActivity}" drawable="prayer_book" />
+    <item component="ComponentInfo{com.pspdfkit.viewer/com.pspdfkit.viewer.ui.activity.MainActivity}" drawable="pdf_viewer_pspdfkit" />
+    <item component="ComponentInfo{de.eknoes.inofficialgolem/de.eknoes.inofficialgolem.MainActivity}" drawable="golemde" />
+    <item component="ComponentInfo{de.themorpheus.morph_reader_app/de.themorpheus.morph_reader_app.MainActivity}" drawable="morph_reader" />
+    <item component="ComponentInfo{de.westnordost.streetcomplete/de.westnordost.streetcomplete.screens.main.MainActivity}" drawable="streetcomplete" />
 
 </resources>
 

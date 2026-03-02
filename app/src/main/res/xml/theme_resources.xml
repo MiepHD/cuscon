@@ -6854,5 +6854,9 @@
     <AppIcon name="com.samco.trackandgraph/com.samco.trackandgraph.main.MainActivity" image="track_and_graph" />
     <AppIcon name="xyz.zedler.patrick.tack/xyz.zedler.patrick.tack.activity.SplashActivity" image="tack" />
     <AppIcon name="io.jozo.prayerbook/io.jozo.prayerbook.MainActivity" image="prayer_book" />
+    <AppIcon name="com.pspdfkit.viewer/com.pspdfkit.viewer.ui.activity.MainActivity" image="pdf_viewer_pspdfkit"/>
+    <AppIcon name="de.eknoes.inofficialgolem/de.eknoes.inofficialgolem.MainActivity" image="golemde"/>
+    <AppIcon name="de.themorpheus.morph_reader_app/de.themorpheus.morph_reader_app.MainActivity" image="morph_reader"/>
+    <AppIcon name="de.westnordost.streetcomplete/de.westnordost.streetcomplete.screens.main.MainActivity" image="streetcomplete"/>
 
 </Theme>

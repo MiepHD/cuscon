@@ -2,28 +2,9 @@
 <resources>
     <version>1</version>
     <category title="New Icons" />
-    <item drawable="linkwarden" />
-    <item drawable="qralarm" />
-    <item drawable="wg_tunnel_new" />
-    <item drawable="readeck_app" />
-    <item drawable="dnsnet" />
-    <item drawable="pinkt" />
-    <item drawable="comaps" />
-    <item drawable="thankyou" />
-    <item drawable="daily_you" />
-    <item drawable="karakeep" />
-    <item drawable="eidetic" />
-    <item drawable="qalculate_" />
-    <item drawable="linkdy" />
-    <item drawable="moneybuster" />
-    <item drawable="mindful_notifier" />
-    <item drawable="topolino" />
-    <item drawable="musicplayer" />
-    <item drawable="ontime" />
-    <item drawable="calibre_web_companion" />
-    <item drawable="track_and_graph" />
-    <item drawable="tack" />
-    <item drawable="prayer_book" />
+    <item drawable="pdf_viewer_pspdfkit" />
+    <item drawable="golemde" />
+    <item drawable="morph_reader" />
     <category title="Folders" />
     <item drawable="folder_blue" />
     <item drawable="folder_dark_blue" />
@@ -2621,6 +2602,7 @@
 	<item drawable="futo_voice_input" />
 	<item drawable="fx" />
     <category title="G" />
+    <item drawable="golemde" />
     <item drawable="goods_sorting" />
     <item drawable="goto_" />
     <item drawable="github_store" />
@@ -3582,6 +3564,7 @@
 	<item drawable="lucky_wasted" />
 	<item drawable="lux_o_meter_lichtmesser" />
     <category title="M" />
+    <item drawable="morph_reader" />
     <item drawable="musicplayer" />
     <item drawable="moneybuster" />
     <item drawable="mindful_notifier" />
@@ -4509,6 +4492,7 @@
 	<item drawable="osmand_" />
 	<item drawable="ovag_e_mobil" />
     <category title="P" />
+    <item drawable="pdf_viewer_pspdfkit" />
     <item drawable="prayer_book" />
     <item drawable="pinkt" />
     <item drawable="peertube" />

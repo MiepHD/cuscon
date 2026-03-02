@@ -1,0 +1,2 @@
+Added PDF Viewer, Golem.de, Morph Reader
+Fixed StreetComplete

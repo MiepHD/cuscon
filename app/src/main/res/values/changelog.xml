@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="changelog_date">12.02.2026</string>
+    <string name="changelog_date">02.03.2026</string>
     <string-array name="changelog">
+        <item>4.0.9.0:</item>
+        <item>Added PDF Viewer, Golem.de, Morph Reader</item>
+        <item>Fixed StreetComplete</item>
         <item>4.0.8.9:</item>
         <item>Added Linkwarden, QRAlarm, WG Tunnel, Readeck App, DNSNet, Pinkt, CoMaps, thankyou, Daily You, Karakeep, Eidetic, Qalculate!, Linkdy, MoneyBuster, Mindful Notifier, Topolino, musicplayer, OnTime, Calibre Web Companion, Track and Graph, Tack, Prayer Book</item>
         <item>Fixed k_9_mail, translator, rethink, hanping_cantonese, hanping_chinese_pro</item>
