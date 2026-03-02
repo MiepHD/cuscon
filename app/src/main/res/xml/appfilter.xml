@@ -6970,6 +6970,8 @@
     <item component="ComponentInfo{de.eknoes.inofficialgolem/de.eknoes.inofficialgolem.MainActivity}" drawable="golemde" />
     <item component="ComponentInfo{de.themorpheus.morph_reader_app/de.themorpheus.morph_reader_app.MainActivity}" drawable="morph_reader" />
     <item component="ComponentInfo{de.westnordost.streetcomplete/de.westnordost.streetcomplete.screens.main.MainActivity}" drawable="streetcomplete" />
+    <item component="ComponentInfo{jp.konami.epjCastlevania2/com.dotemu.castlevania.LaunchActivity}" drawable="sotn" />
+    <item component="ComponentInfo{com.simplepractice.video/com.simplepractice.video.welcome.WelcomeActivity}" drawable="telehealth" />
 
 </resources>
 

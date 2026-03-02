@@ -1,2 +1,2 @@
-Added PDF Viewer, Golem.de, Morph Reader
+Added PDF Viewer, Golem.de, Morph Reader, SotN, Telehealth
 Fixed StreetComplete

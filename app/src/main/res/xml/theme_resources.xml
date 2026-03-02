@@ -6858,5 +6858,7 @@
     <AppIcon name="de.eknoes.inofficialgolem/de.eknoes.inofficialgolem.MainActivity" image="golemde"/>
     <AppIcon name="de.themorpheus.morph_reader_app/de.themorpheus.morph_reader_app.MainActivity" image="morph_reader"/>
     <AppIcon name="de.westnordost.streetcomplete/de.westnordost.streetcomplete.screens.main.MainActivity" image="streetcomplete"/>
+    <AppIcon name="jp.konami.epjCastlevania2/com.dotemu.castlevania.LaunchActivity" image="sotn"/>
+    <AppIcon name="com.simplepractice.video/com.simplepractice.video.welcome.WelcomeActivity" image="telehealth"/>
 
 </Theme>

@@ -5,6 +5,8 @@
     <item drawable="pdf_viewer_pspdfkit" />
     <item drawable="golemde" />
     <item drawable="morph_reader" />
+    <item drawable="sotn" />
+    <item drawable="telehealth" />
     <category title="Folders" />
     <item drawable="folder_blue" />
     <item drawable="folder_dark_blue" />
@@ -5186,6 +5188,7 @@
 	<item drawable="rustdesk" />
 	<item drawable="rvx_music" />
     <category title="S" />
+    <item drawable="sotn" />
     <item drawable="sdui" />
     <item drawable="signal" />
     <item drawable="santander_pt" />
@@ -5758,6 +5761,7 @@
 	<item drawable="swiss_post" />
 	<item drawable="systemui_tuner" />
     <category title="T" />
+    <item drawable="telehealth" />
     <item drawable="track_and_graph" />
     <item drawable="tack" />
     <item drawable="topolino" />
