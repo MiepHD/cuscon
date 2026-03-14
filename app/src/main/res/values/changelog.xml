@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="changelog_date">02.03.2026</string>
+    <string name="changelog_date">14.03.2026</string>
     <string-array name="changelog">
         <item>4.0.9.1:</item>
-        <item>Updated Facer</item>
+        <item>Added Audio Connect, GeForce NOW, my Santa Maria, Now Playing</item>
+        <item>Updated Facer, Voice, Tux Paint, Lockscreen, EFootball</item>
         <item>4.0.9.0:</item>
         <item>Added PDF Viewer, Golem.de, Morph Reader, SotN, Telehealth</item>
         <item>Fixed StreetComplete</item>

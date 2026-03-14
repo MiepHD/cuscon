@@ -6860,5 +6860,9 @@
     <AppIcon name="de.westnordost.streetcomplete/de.westnordost.streetcomplete.screens.main.MainActivity" image="streetcomplete"/>
     <AppIcon name="jp.konami.epjCastlevania2/com.dotemu.castlevania.LaunchActivity" image="sotn"/>
     <AppIcon name="com.simplepractice.video/com.simplepractice.video.welcome.WelcomeActivity" image="telehealth"/>
+    <AppIcon name="com.panasonic.technicsaudioconnect/com.panasonic.audioconnect.ui.view.SplashActivity" image="audio_connect"/>
+    <AppIcon name="com.nvidia.geforcenow/com.nvidia.geforcenow.LaunchActivity" image="geforce_now"/>
+    <AppIcon name="com.seamlink.gatewaybox.chln/com.seamlink.gatewaybox.chln.MainActivity" image="my_santa_maria"/>
+    <AppIcon name="com.google.android.apps.pixel.nowplaying/com.google.android.apps.pixel.nowplaying.mainscreen.NowPlayingMainActivity" image="now_playing"/>
 
 </Theme>

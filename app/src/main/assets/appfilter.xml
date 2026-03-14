@@ -6972,6 +6972,10 @@
     <item component="ComponentInfo{de.westnordost.streetcomplete/de.westnordost.streetcomplete.screens.main.MainActivity}" drawable="streetcomplete" />
     <item component="ComponentInfo{jp.konami.epjCastlevania2/com.dotemu.castlevania.LaunchActivity}" drawable="sotn" />
     <item component="ComponentInfo{com.simplepractice.video/com.simplepractice.video.welcome.WelcomeActivity}" drawable="telehealth" />
+    <item component="ComponentInfo{com.panasonic.technicsaudioconnect/com.panasonic.audioconnect.ui.view.SplashActivity}" drawable="audio_connect" />
+    <item component="ComponentInfo{com.nvidia.geforcenow/com.nvidia.geforcenow.LaunchActivity}" drawable="geforce_now" />
+    <item component="ComponentInfo{com.seamlink.gatewaybox.chln/com.seamlink.gatewaybox.chln.MainActivity}" drawable="my_santa_maria" />
+    <item component="ComponentInfo{com.google.android.apps.pixel.nowplaying/com.google.android.apps.pixel.nowplaying.mainscreen.NowPlayingMainActivity}" drawable="now_playing" />
 
 </resources>
 
