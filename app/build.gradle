@@ -43,6 +43,9 @@ android {
     }
     
     flavorDimensions "variant"
+	buildFeatures {
+		resValues true
+	}
 	productFlavors {
 		play {
 			dimension "variant"
