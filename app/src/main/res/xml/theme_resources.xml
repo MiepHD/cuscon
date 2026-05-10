@@ -6934,5 +6934,24 @@
     <AppIcon name="com.loadcomplete.aichainsaw/com.loadcomplete.UnityPlayerSayKitBridgeActivityExtension" image="juice_king"/>
     <AppIcon name="com.tmobile.tuesdays/com.telekom.tworld.dashboard.LauncherActivity" image="t_life_2"/>
     <AppIcon name="fr.vinted/com.vinted.feature.shell.MDActivity" image="vinted"/>
+    <AppIcon name="com.sevenprinciples.android.mdm.safeclient/com.sevenprinciples.android.mdm.safeclient.ui.Splash" image="o2_mdm"/>
+    <AppIcon name="com.AnatomyLearning.Anatomy3DViewer3/com.unity3d.player.UnityPlayerActivity" image="anatomy_learning"/>
+    <AppIcon name="com.tisoware.tisowareAPP/com.tisoware.twhrapp.MainActivity" image="tisowareapp"/>
+    <AppIcon name="com.callpod.android_apps.keeper/com.callpod.android_apps.keeper.VaultActivity" image="keeper"/>
+    <AppIcon name="com.prineside.tdi2/com.prineside.tdi2.AndroidLauncher" image="infinitode_2"/>
+    <AppIcon name="com.smilla.greentooth/com.smilla.greentooth.MainActivity" image="greentooth"/>
+    <AppIcon name="com.zafaco.breitbandmessung/com.zafaco.breitbandmessung.activities.MainActivity" image="messung"/>
+    <AppIcon name="com.money.manager.ex.android/com.money.manager.ex.home.MainActivity" image="money_manager_ex"/>
+    <AppIcon name="com.labs.merlinbirdid.app/edu.cornell.birds.merlin.onboarding.OnBoardingActivity" image="merlin_bird_id"/>
+    <AppIcon name="com.xlink.trailcamgo/com.xlink.trailcamgo.activity.SplashActivity" image="trailcam_go"/>
+    <AppIcon name="com.elasticrock.keepscreenon/com.elasticrock.keepscreenon.ui.MainActivity" image="keep_screen_on"/>
+    <AppIcon name="com.gitlab.mudlej.MjPdfReader/com.gitlab.mudlej.MjPdfReader.ui.main.MainActivity" image="mj_pdf"/>
+    <AppIcon name="org.briarproject.mailbox/org.briarproject.mailbox.android.ui.MainActivity" image="briar_mailbox"/>
+    <AppIcon name="de.komoot.android/de.komoot.android.ui.RootActivityDefault" image="komoot_darkgreen"/>
+    <AppIcon name="org.twisevictory.apps.ex/com.qsdbih.tww.eight.ui.splash.SplashActivity" image="oje_ich_wachse_"/>
+    <AppIcon name="org.fossify.clock/org.fossify.clock.activities.SplashActivity.Green" image="uhr_green"/>
+    <AppIcon name="com.dkbcodefactory.banking/com.dkbcodefactory.banking.RoutingDefault" image="dkb"/>
+    <AppIcon name="com.janitor.ai/com.janitor.ai.MainActivity" image="janitor"/>
+    <AppIcon name="com.animetra.stoneskipperdash/com.unity3d.player.UnityPlayerActivity" image="stone_skipper_dash"/>
 
 </Theme>

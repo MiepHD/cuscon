@@ -7046,6 +7046,25 @@
     <item component="ComponentInfo{com.loadcomplete.aichainsaw/com.loadcomplete.UnityPlayerSayKitBridgeActivityExtension}" drawable="juice_king" />
     <item component="ComponentInfo{com.tmobile.tuesdays/com.telekom.tworld.dashboard.LauncherActivity}" drawable="t_life_2" />
     <item component="ComponentInfo{fr.vinted/com.vinted.feature.shell.MDActivity}" drawable="vinted" />
+    <item component="ComponentInfo{com.sevenprinciples.android.mdm.safeclient/com.sevenprinciples.android.mdm.safeclient.ui.Splash}" drawable="o2_mdm" />
+    <item component="ComponentInfo{com.AnatomyLearning.Anatomy3DViewer3/com.unity3d.player.UnityPlayerActivity}" drawable="anatomy_learning" />
+    <item component="ComponentInfo{com.tisoware.tisowareAPP/com.tisoware.twhrapp.MainActivity}" drawable="tisowareapp" />
+    <item component="ComponentInfo{com.callpod.android_apps.keeper/com.callpod.android_apps.keeper.VaultActivity}" drawable="keeper" />
+    <item component="ComponentInfo{com.prineside.tdi2/com.prineside.tdi2.AndroidLauncher}" drawable="infinitode_2" />
+    <item component="ComponentInfo{com.smilla.greentooth/com.smilla.greentooth.MainActivity}" drawable="greentooth" />
+    <item component="ComponentInfo{com.zafaco.breitbandmessung/com.zafaco.breitbandmessung.activities.MainActivity}" drawable="messung" />
+    <item component="ComponentInfo{com.money.manager.ex.android/com.money.manager.ex.home.MainActivity}" drawable="money_manager_ex" />
+    <item component="ComponentInfo{com.labs.merlinbirdid.app/edu.cornell.birds.merlin.onboarding.OnBoardingActivity}" drawable="merlin_bird_id" />
+    <item component="ComponentInfo{com.xlink.trailcamgo/com.xlink.trailcamgo.activity.SplashActivity}" drawable="trailcam_go" />
+    <item component="ComponentInfo{com.elasticrock.keepscreenon/com.elasticrock.keepscreenon.ui.MainActivity}" drawable="keep_screen_on" />
+    <item component="ComponentInfo{com.gitlab.mudlej.MjPdfReader/com.gitlab.mudlej.MjPdfReader.ui.main.MainActivity}" drawable="mj_pdf" />
+    <item component="ComponentInfo{org.briarproject.mailbox/org.briarproject.mailbox.android.ui.MainActivity}" drawable="briar_mailbox" />
+    <item component="ComponentInfo{de.komoot.android/de.komoot.android.ui.RootActivityDefault}" drawable="komoot_darkgreen" />
+    <item component="ComponentInfo{org.twisevictory.apps.ex/com.qsdbih.tww.eight.ui.splash.SplashActivity}" drawable="oje_ich_wachse_" />
+    <item component="ComponentInfo{org.fossify.clock/org.fossify.clock.activities.SplashActivity.Green}" drawable="uhr_green" />
+    <item component="ComponentInfo{com.dkbcodefactory.banking/com.dkbcodefactory.banking.RoutingDefault}" drawable="dkb" />
+    <item component="ComponentInfo{com.janitor.ai/com.janitor.ai.MainActivity}" drawable="janitor" />
+    <item component="ComponentInfo{com.animetra.stoneskipperdash/com.unity3d.player.UnityPlayerActivity}" drawable="stone_skipper_dash" />
 
 </resources>
 

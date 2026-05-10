@@ -2,16 +2,20 @@
 <resources>
     <version>1</version>
     <category title="New Icons" />
-    <item drawable="campfire" />
-    <item drawable="crunchyroll" />
-    <item drawable="cube_out_3d_jam_puzzle" />
-    <item drawable="dave" />
-    <item drawable="entergy" />
-    <item drawable="ford" />
-    <item drawable="gear_truck" />
-    <item drawable="highline_fast" />
-    <item drawable="juice_king" />
-    <item drawable="t_life_2" />
+    <item drawable="o2_mdm" />
+    <item drawable="anatomy_learning" />
+    <item drawable="tisowareapp" />
+    <item drawable="keeper" />
+    <item drawable="infinitode_2" />
+    <item drawable="greentooth" />
+    <item drawable="merlin_bird_id" />
+    <item drawable="trailcam_go" />
+    <item drawable="briar_mailbox" />
+    <item drawable="komoot_darkgreen" />
+    <item drawable="oje_ich_wachse_" />
+    <item drawable="uhr_green" />
+    <item drawable="janitor" />
+    <item drawable="stone_skipper_dash" />
     <category title="Folders" />
     <item drawable="folder_blue" />
     <item drawable="folder_dark_blue" />
@@ -807,6 +811,7 @@
     <item drawable="_f_droid_kdi" />
     <item drawable="_sound_" />
     <category title="A" />
+    <item drawable="anatomy_learning" />
     <item drawable="automation" />
     <item drawable="assistant_app_launcher" />
     <item drawable="afterpay" />
@@ -1208,6 +1213,7 @@
 	<item drawable="awoken" />
 	<item drawable="awox_homecontrol" />
     <category title="B" />
+    <item drawable="briar_mailbox" />
     <item drawable="blink" />
     <item drawable="butternut" />
     <item drawable="b_and_n_nook" />
@@ -2628,6 +2634,7 @@
 	<item drawable="futo_voice_input" />
 	<item drawable="fx" />
     <category title="G" />
+    <item drawable="greentooth" />
     <item drawable="gear_truck" />
     <item drawable="gamehub" />
     <item drawable="geforce_now" />
@@ -3031,6 +3038,7 @@
 	<item drawable="hypatia" />
 	<item drawable="hyperrogue_gold" />
     <category title="I" />
+    <item drawable="infinitode_2" />
     <item drawable="insigno" />
     <item drawable="informed_delivery" />
     <item drawable="infinite_craft" />
@@ -3200,6 +3208,7 @@
 	<item drawable="ir_remote" />
 	<item drawable="iron" />
     <category title="J" />
+    <item drawable="janitor" />
     <item drawable="juice_king" />
     <item drawable="juno_new_origins_complete_edition" />
     <item drawable="juno_new_origins" />
@@ -3272,6 +3281,8 @@
 	<item drawable="justchess" />
 	<item drawable="justdial" />
     <category title="K" />
+    <item drawable="komoot_darkgreen" />
+    <item drawable="keeper" />
     <item drawable="karakeep" />
     <item drawable="kernelsu_next" />
     <item drawable="kitsune" />
@@ -3602,6 +3613,7 @@
 	<item drawable="lucky_wasted" />
 	<item drawable="lux_o_meter_lichtmesser" />
     <category title="M" />
+    <item drawable="merlin_bird_id" />
     <item drawable="mbna" />
     <item drawable="means_tv" />
     <item drawable="morphe" />
@@ -4357,6 +4369,8 @@
 	<item drawable="nozzle" />
 	<item drawable="nytimes" />
     <category title="O" />
+    <item drawable="oje_ich_wachse_" />
+    <item drawable="o2_mdm" />
     <item drawable="opentune" />
     <item drawable="ontime" />
     <item drawable="octopi_launcher" />
@@ -5241,6 +5255,7 @@
 	<item drawable="rustdesk" />
 	<item drawable="rvx_music" />
     <category title="S" />
+    <item drawable="stone_skipper_dash" />
     <item drawable="showly" />
     <item drawable="step_tracker_pedometer" />
     <item drawable="seeneva" />
@@ -5818,6 +5833,8 @@
 	<item drawable="swiss_post" />
 	<item drawable="systemui_tuner" />
     <category title="T" />
+    <item drawable="trailcam_go" />
+    <item drawable="tisowareapp" />
     <item drawable="t_life_2" />
     <item drawable="tui" />
     <item drawable="tesla" />
@@ -6169,6 +6186,7 @@
 	<item drawable="tux_paint_config" />
 	<item drawable="twelve_key_dialer" />
     <category title="U" />
+    <item drawable="uhr_green" />
     <item drawable="unifi_protect" />
     <item drawable="unipatcher" />
     <item drawable="urnetwork" />
