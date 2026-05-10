@@ -6933,5 +6933,6 @@
     <AppIcon name="com.highlinefast.smarthome/com.highlinefast.smarthome.ui.loginregconfig.Splash" image="highline_fast"/>
     <AppIcon name="com.loadcomplete.aichainsaw/com.loadcomplete.UnityPlayerSayKitBridgeActivityExtension" image="juice_king"/>
     <AppIcon name="com.tmobile.tuesdays/com.telekom.tworld.dashboard.LauncherActivity" image="t_life_2"/>
+    <AppIcon name="fr.vinted/com.vinted.feature.shell.MDActivity" image="vinted"/>
 
 </Theme>

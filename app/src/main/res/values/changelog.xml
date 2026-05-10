@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="changelog_date">22.04.2026</string>
+    <string name="changelog_date">10.05.2026</string>
     <string-array name="changelog">
+        <item>4.0.9.8:</item>
+        <item>Fixed Vinted</item>
         <item>4.0.9.7:</item>
         <item>Added Campfire, Crunchyroll, Cube Out 3D :Jam Puzzle, Dave, Entergy, Ford, Gear Truck, Highline Fast, Juice King, T-Life</item>
         <item>4.0.9.6:</item>

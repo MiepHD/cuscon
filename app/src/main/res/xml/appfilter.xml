@@ -7045,6 +7045,7 @@
     <item component="ComponentInfo{com.highlinefast.smarthome/com.highlinefast.smarthome.ui.loginregconfig.Splash}" drawable="highline_fast" />
     <item component="ComponentInfo{com.loadcomplete.aichainsaw/com.loadcomplete.UnityPlayerSayKitBridgeActivityExtension}" drawable="juice_king" />
     <item component="ComponentInfo{com.tmobile.tuesdays/com.telekom.tworld.dashboard.LauncherActivity}" drawable="t_life_2" />
+    <item component="ComponentInfo{fr.vinted/com.vinted.feature.shell.MDActivity}" drawable="vinted" />
 
 </resources>
 
