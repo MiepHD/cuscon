@@ -6953,5 +6953,9 @@
     <AppIcon name="com.dkbcodefactory.banking/com.dkbcodefactory.banking.RoutingDefault" image="dkb"/>
     <AppIcon name="com.janitor.ai/com.janitor.ai.MainActivity" image="janitor"/>
     <AppIcon name="com.animetra.stoneskipperdash/com.unity3d.player.UnityPlayerActivity" image="stone_skipper_dash"/>
+    <AppIcon name="com.podmux.bam/com.podmux.bam.ui.SplashActivity" image="bam_comic_reader"/>
+    <AppIcon name="com.fiio.control/com.fiio.control.SplashActivity" image="fiio_control"/>
+    <AppIcon name="pt.emel.bikeshare/pt.emel.bikeshare.MainActivity" image="gira"/>
+    <AppIcon name="com.bowerswilkins.splice/com.bowerswilkins.splice.views.StartupView" image="music_bowers_and_wilkins"/>
 
 </Theme>

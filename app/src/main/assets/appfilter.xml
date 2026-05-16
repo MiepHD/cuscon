@@ -7065,6 +7065,10 @@
     <item component="ComponentInfo{com.dkbcodefactory.banking/com.dkbcodefactory.banking.RoutingDefault}" drawable="dkb" />
     <item component="ComponentInfo{com.janitor.ai/com.janitor.ai.MainActivity}" drawable="janitor" />
     <item component="ComponentInfo{com.animetra.stoneskipperdash/com.unity3d.player.UnityPlayerActivity}" drawable="stone_skipper_dash" />
+    <item component="ComponentInfo{com.podmux.bam/com.podmux.bam.ui.SplashActivity}" drawable="bam_comic_reader" />
+    <item component="ComponentInfo{com.fiio.control/com.fiio.control.SplashActivity}" drawable="fiio_control" />
+    <item component="ComponentInfo{pt.emel.bikeshare/pt.emel.bikeshare.MainActivity}" drawable="gira" />
+    <item component="ComponentInfo{com.bowerswilkins.splice/com.bowerswilkins.splice.views.StartupView}" drawable="music_bowers_and_wilkins" />
 
 </resources>
 

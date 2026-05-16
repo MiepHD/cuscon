@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="changelog_date">10.05.2026</string>
+    <string name="changelog_date">16.05.2026</string>
     <string-array name="changelog">
+        <item>4.0.9.9:</item>
+        <item>Added BAM! Comic Reader, FiiO Control, Gira, Music | Bowers & Wilkins</item>
         <item>4.0.9.8:</item>
         <item>Fixed Vinted, Messung, Money Manager Ex, Keep Screen On, MJ PDF, DKB</item>
         <item>Added o2 MDM, Anatomy Learning, tisoware.APP, Keeper, Infinitode 2, Greentooth, Merlin Bird ID, TrailCam Go, Briar Mailbox, Komoot, Oje, ich wachse!, Uhr, Janitor, Stone Skipper Dash</item>

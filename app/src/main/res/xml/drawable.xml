@@ -2,20 +2,10 @@
 <resources>
     <version>1</version>
     <category title="New Icons" />
-    <item drawable="o2_mdm" />
-    <item drawable="anatomy_learning" />
-    <item drawable="tisowareapp" />
-    <item drawable="keeper" />
-    <item drawable="infinitode_2" />
-    <item drawable="greentooth" />
-    <item drawable="merlin_bird_id" />
-    <item drawable="trailcam_go" />
-    <item drawable="briar_mailbox" />
-    <item drawable="komoot_darkgreen" />
-    <item drawable="oje_ich_wachse_" />
-    <item drawable="uhr_green" />
-    <item drawable="janitor" />
-    <item drawable="stone_skipper_dash" />
+    <item drawable="bam_comic_reader" />
+    <item drawable="fiio_control" />
+    <item drawable="gira" />
+    <item drawable="music_bowers_and_wilkins" />
     <category title="Folders" />
     <item drawable="folder_blue" />
     <item drawable="folder_dark_blue" />
@@ -1213,6 +1203,7 @@
 	<item drawable="awoken" />
 	<item drawable="awox_homecontrol" />
     <category title="B" />
+    <item drawable="bam_comic_reader" />
     <item drawable="briar_mailbox" />
     <item drawable="blink" />
     <item drawable="butternut" />
@@ -2369,6 +2360,7 @@
 	<item drawable="exodus" />
 	<item drawable="exteragram" />
     <category title="F" />
+    <item drawable="fiio_control" />
     <item drawable="ford" />
     <item drawable="follow" />
     <item drawable="filen" />
@@ -2634,6 +2626,7 @@
 	<item drawable="futo_voice_input" />
 	<item drawable="fx" />
     <category title="G" />
+    <item drawable="gira" />
     <item drawable="greentooth" />
     <item drawable="gear_truck" />
     <item drawable="gamehub" />
@@ -3613,6 +3606,7 @@
 	<item drawable="lucky_wasted" />
 	<item drawable="lux_o_meter_lichtmesser" />
     <category title="M" />
+    <item drawable="music_bowers_and_wilkins" />
     <item drawable="merlin_bird_id" />
     <item drawable="mbna" />
     <item drawable="means_tv" />
