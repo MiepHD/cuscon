@@ -82,8 +82,8 @@ java {
 }
 
 dependencies {
-	playImplementation 'com.github.zixpo:candybar:3.22.2'
-	fossImplementation 'com.github.Donnnno:candybar-foss:3.22.2'
+	playImplementation 'com.github.zixpo:candybar:3.23.0'
+	fossImplementation 'com.github.Donnnno:candybar-foss:3.23.0'
 }
 
 // Code for automatically copying appfilter.xml and drawable.xml
