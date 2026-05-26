@@ -6957,5 +6957,7 @@
     <AppIcon name="com.fiio.control/com.fiio.control.SplashActivity" image="fiio_control"/>
     <AppIcon name="pt.emel.bikeshare/pt.emel.bikeshare.MainActivity" image="gira"/>
     <AppIcon name="com.bowerswilkins.splice/com.bowerswilkins.splice.views.StartupView" image="music_bowers_and_wilkins"/>
+    <AppIcon name="com.supercell.hayday/com.supercell.hayday.GameApp" image="hay_day"/>
+    <AppIcon name="com.hidive.android/com.imggaming.dicemobile.MainActivity" image="hidive"/>
 
 </Theme>

@@ -7069,6 +7069,8 @@
     <item component="ComponentInfo{com.fiio.control/com.fiio.control.SplashActivity}" drawable="fiio_control" />
     <item component="ComponentInfo{pt.emel.bikeshare/pt.emel.bikeshare.MainActivity}" drawable="gira" />
     <item component="ComponentInfo{com.bowerswilkins.splice/com.bowerswilkins.splice.views.StartupView}" drawable="music_bowers_and_wilkins" />
+    <item component="ComponentInfo{com.supercell.hayday/com.supercell.hayday.GameApp}" drawable="hay_day" />
+    <item component="ComponentInfo{com.hidive.android/com.imggaming.dicemobile.MainActivity}" drawable="hidive" />
 
 </resources>
 
