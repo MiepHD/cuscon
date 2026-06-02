@@ -7071,6 +7071,12 @@
     <item component="ComponentInfo{com.bowerswilkins.splice/com.bowerswilkins.splice.views.StartupView}" drawable="music_bowers_and_wilkins" />
     <item component="ComponentInfo{com.supercell.hayday/com.supercell.hayday.GameApp}" drawable="hay_day" />
     <item component="ComponentInfo{com.hidive.android/com.imggaming.dicemobile.MainActivity}" drawable="hidive" />
+    <item component="ComponentInfo{org.freepoc.wearinstaller2/org.freepoc.wearinstaller2.MainActivity}" drawable="wear_installer_2" />
+    <item component="ComponentInfo{slide.watchFrenzy/slide.watchFrenzy.MainActivity}" drawable="watchmaker" />
+    <item component="ComponentInfo{eu.sisik.hackendebug/eu.sisik.hackendebug.SplashActivity}" drawable="bugjaeger" />
+    <item component="ComponentInfo{com.extreamsd.usbaudioplayerpro/com.extreamsd.usbaudioplayershared.ScreenSlidePagerActivity}" drawable="usb_audio_player_pro" />
+    <item component="ComponentInfo{dev.casraf.pantry/dev.casraf.pantry.MainActivity}" drawable="pantry" />
+    <item component="ComponentInfo{de.kitshn.android/de.kitshn.AppActivity}" drawable="kitshn" />
 
 </resources>
 

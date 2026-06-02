@@ -6959,5 +6959,11 @@
     <AppIcon name="com.bowerswilkins.splice/com.bowerswilkins.splice.views.StartupView" image="music_bowers_and_wilkins"/>
     <AppIcon name="com.supercell.hayday/com.supercell.hayday.GameApp" image="hay_day"/>
     <AppIcon name="com.hidive.android/com.imggaming.dicemobile.MainActivity" image="hidive"/>
+    <AppIcon name="org.freepoc.wearinstaller2/org.freepoc.wearinstaller2.MainActivity" image="wear_installer_2"/>
+    <AppIcon name="slide.watchFrenzy/slide.watchFrenzy.MainActivity" image="watchmaker"/>
+    <AppIcon name="eu.sisik.hackendebug/eu.sisik.hackendebug.SplashActivity" image="bugjaeger"/>
+    <AppIcon name="com.extreamsd.usbaudioplayerpro/com.extreamsd.usbaudioplayershared.ScreenSlidePagerActivity" image="usb_audio_player_pro"/>
+    <AppIcon name="dev.casraf.pantry/dev.casraf.pantry.MainActivity" image="pantry"/>
+    <AppIcon name="de.kitshn.android/de.kitshn.AppActivity" image="kitshn"/>
 
 </Theme>

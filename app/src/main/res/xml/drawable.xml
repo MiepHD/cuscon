@@ -2,12 +2,12 @@
 <resources>
     <version>1</version>
     <category title="New Icons" />
-    <item drawable="bam_comic_reader" />
-    <item drawable="fiio_control" />
-    <item drawable="gira" />
-    <item drawable="music_bowers_and_wilkins" />
-    <item drawable="hay_day" />
-    <item drawable="hidive" />
+    <item drawable="wear_installer_2" />
+    <item drawable="watchmaker" />
+    <item drawable="bugjaeger" />
+    <item drawable="usb_audio_player_pro" />
+    <item drawable="pantry" />
+    <item drawable="kitshn" />
     <category title="Folders" />
     <item drawable="folder_blue" />
     <item drawable="folder_dark_blue" />
@@ -1205,6 +1205,7 @@
 	<item drawable="awoken" />
 	<item drawable="awox_homecontrol" />
     <category title="B" />
+    <item drawable="bugjaeger" />
     <item drawable="bam_comic_reader" />
     <item drawable="briar_mailbox" />
     <item drawable="blink" />
@@ -3278,6 +3279,7 @@
 	<item drawable="justchess" />
 	<item drawable="justdial" />
     <category title="K" />
+    <item drawable="kitshn" />
     <item drawable="komoot_darkgreen" />
     <item drawable="keeper" />
     <item drawable="karakeep" />
@@ -4553,6 +4555,7 @@
 	<item drawable="osmand_" />
 	<item drawable="ovag_e_mobil" />
     <category title="P" />
+    <item drawable="pantry" />
     <item drawable="proton_authenticator" />
     <item drawable="paltopia" />
     <item drawable="pokemon_home" />
@@ -6184,6 +6187,7 @@
 	<item drawable="tux_paint_config" />
 	<item drawable="twelve_key_dialer" />
     <category title="U" />
+    <item drawable="usb_audio_player_pro" />
     <item drawable="uhr_green" />
     <item drawable="unifi_protect" />
     <item drawable="unipatcher" />
@@ -6516,6 +6520,8 @@
     <item drawable="wifi_signal_meter" />
     <item drawable="ampwifi" />
     <category title="W" />
+    <item drawable="wear_installer_2" />
+    <item drawable="watchmaker" />
     <item drawable="wowcam" />
     <item drawable="waterfox" />
     <item drawable="wiser_home" />
