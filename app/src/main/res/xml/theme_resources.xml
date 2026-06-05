@@ -6965,5 +6965,15 @@
     <AppIcon name="com.extreamsd.usbaudioplayerpro/com.extreamsd.usbaudioplayershared.ScreenSlidePagerActivity" image="usb_audio_player_pro"/>
     <AppIcon name="dev.casraf.pantry/dev.casraf.pantry.MainActivity" image="pantry"/>
     <AppIcon name="de.kitshn.android/de.kitshn.AppActivity" image="kitshn"/>
+    <AppIcon name="com.best.deskclock/com.best.deskclock.DeskClock" image="best_deskclock"/>
+    <AppIcon name="com.sidhant.path/com.sidhant.path.MainActivity" image="path"/>
+    <AppIcon name="eu.bischofs.photomap/eu.bischofs.photomap.MainActivity" image="photomap"/>
+    <AppIcon name="com.mine.autooffbluetooth/com.mine.autooffbluetooth.MainActivity" image="auto_off_bluetooth"/>
+    <AppIcon name="org.myklos.inote/org.myklos.inote.NoteList" image="tasks_and_notes"/>
+    <AppIcon name="app.grapheneos.pdfviewer.play/app.grapheneos.pdfviewer.PdfViewer" image="pdf_viewer"/>
+    <AppIcon name="rocks.loeschmeister.Production/rocks.konzertmeister.production.activity.StartActivity" image="loschmeister"/>
+    <AppIcon name="de.teufel.android.app.bluetooth.playstore/de.teufel.android.app.bluetooth.external.ui.MainActivity" image="teufel_go"/>
+    <AppIcon name="com.ringapp/com.ring.launch.LaunchActivity" image="ring"/>
+    <AppIcon name="org.chromium.webapk.a9c0950e2facdce65_v2/org.chromium.webapk.shell_apk.h2o.H2OOpaqueMainActivity" image="grimmory"/>
 
 </Theme>

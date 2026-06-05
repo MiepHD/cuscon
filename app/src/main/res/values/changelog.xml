@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="changelog_date">02.06.2026</string>
+    <string name="changelog_date">05.06.2026</string>
     <string-array name="changelog">
+        <item>4.1.0.1:</item>
+        <item>Added Uhr, Path, PhotoMap, Auto Off Bluetooth, Tasks and Notes, PDF Viewer, Löschmeister, Teufel Go, Ring, Grimmory</item>
         <item>4.1.0.0:</item>
         <item>Added Wear Installer 2, WatchMaker, Bugjaeger, USB Audio Player PRO, Pantry, kitshn</item>
         <item>4.0.9.9:</item>

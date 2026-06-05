@@ -2,12 +2,16 @@
 <resources>
     <version>1</version>
     <category title="New Icons" />
-    <item drawable="wear_installer_2" />
-    <item drawable="watchmaker" />
-    <item drawable="bugjaeger" />
-    <item drawable="usb_audio_player_pro" />
-    <item drawable="pantry" />
-    <item drawable="kitshn" />
+    <item drawable="best_deskclock" />
+    <item drawable="path" />
+    <item drawable="photomap" />
+    <item drawable="auto_off_bluetooth" />
+    <item drawable="tasks_and_notes" />
+    <item drawable="pdf_viewer" />
+    <item drawable="loschmeister" />
+    <item drawable="teufel_go" />
+    <item drawable="ring" />
+    <item drawable="grimmory" />
     <category title="Folders" />
     <item drawable="folder_blue" />
     <item drawable="folder_dark_blue" />
@@ -803,6 +807,7 @@
     <item drawable="_f_droid_kdi" />
     <item drawable="_sound_" />
     <category title="A" />
+    <item drawable="auto_off_bluetooth" />
     <item drawable="anatomy_learning" />
     <item drawable="automation" />
     <item drawable="assistant_app_launcher" />
@@ -1873,6 +1878,7 @@
 	<item drawable="cubic_2_3_4_player_games" />
 	<item drawable="currencies" />
     <category title="D" />
+    <item drawable="best_deskclock" />
     <item drawable="dave" />
     <item drawable="daily_you" />
     <item drawable="dnsnet" />
@@ -2629,6 +2635,7 @@
 	<item drawable="futo_voice_input" />
 	<item drawable="fx" />
     <category title="G" />
+    <item drawable="grimmory" />
     <item drawable="gira" />
     <item drawable="greentooth" />
     <item drawable="gear_truck" />
@@ -3423,6 +3430,7 @@
 	<item drawable="kutumb" />
 	<item drawable="kwgt_pro" />
     <category title="L" />
+    <item drawable="loschmeister" />
     <item drawable="life360" />
     <item drawable="librefind" />
     <item drawable="linkdy" />
@@ -4555,6 +4563,9 @@
 	<item drawable="osmand_" />
 	<item drawable="ovag_e_mobil" />
     <category title="P" />
+    <item drawable="pdf_viewer" />
+    <item drawable="path" />
+    <item drawable="photomap" />
     <item drawable="pantry" />
     <item drawable="proton_authenticator" />
     <item drawable="paltopia" />
@@ -5013,6 +5024,7 @@
 	<item drawable="quik" />
 	<item drawable="quillpad" />
     <category title="R" />
+    <item drawable="ring" />
     <item drawable="royal_bank" />
     <item drawable="readeck_app" />
     <item drawable="rdr" />
@@ -5834,6 +5846,8 @@
 	<item drawable="swiss_post" />
 	<item drawable="systemui_tuner" />
     <category title="T" />
+    <item drawable="teufel_go" />
+    <item drawable="tasks_and_notes" />
     <item drawable="trailcam_go" />
     <item drawable="tisowareapp" />
     <item drawable="t_life_2" />

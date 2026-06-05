@@ -7077,6 +7077,16 @@
     <item component="ComponentInfo{com.extreamsd.usbaudioplayerpro/com.extreamsd.usbaudioplayershared.ScreenSlidePagerActivity}" drawable="usb_audio_player_pro" />
     <item component="ComponentInfo{dev.casraf.pantry/dev.casraf.pantry.MainActivity}" drawable="pantry" />
     <item component="ComponentInfo{de.kitshn.android/de.kitshn.AppActivity}" drawable="kitshn" />
+    <item component="ComponentInfo{com.best.deskclock/com.best.deskclock.DeskClock}" drawable="best_deskclock" />
+    <item component="ComponentInfo{com.sidhant.path/com.sidhant.path.MainActivity}" drawable="path" />
+    <item component="ComponentInfo{eu.bischofs.photomap/eu.bischofs.photomap.MainActivity}" drawable="photomap" />
+    <item component="ComponentInfo{com.mine.autooffbluetooth/com.mine.autooffbluetooth.MainActivity}" drawable="auto_off_bluetooth" />
+    <item component="ComponentInfo{org.myklos.inote/org.myklos.inote.NoteList}" drawable="tasks_and_notes" />
+    <item component="ComponentInfo{app.grapheneos.pdfviewer.play/app.grapheneos.pdfviewer.PdfViewer}" drawable="pdf_viewer" />
+    <item component="ComponentInfo{rocks.loeschmeister.Production/rocks.konzertmeister.production.activity.StartActivity}" drawable="loschmeister" />
+    <item component="ComponentInfo{de.teufel.android.app.bluetooth.playstore/de.teufel.android.app.bluetooth.external.ui.MainActivity}" drawable="teufel_go" />
+    <item component="ComponentInfo{com.ringapp/com.ring.launch.LaunchActivity}" drawable="ring" />
+    <item component="ComponentInfo{org.chromium.webapk.a9c0950e2facdce65_v2/org.chromium.webapk.shell_apk.h2o.H2OOpaqueMainActivity}" drawable="grimmory" />
 
 </resources>
 
