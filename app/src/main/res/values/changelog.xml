@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="changelog_date">05.06.2026</string>
+    <string name="changelog_date">09.06.2026</string>
     <string-array name="changelog">
+        <item>4.1.0.2:</item>
+        <item>Added Beam, Grim Quest, Goat Simulator Free, Winelivery, Doodle God, Nitterium, ShizuWall, Lone Wolf Saga, Corebound, WiFi Password Manager, Idle Fantasy, App Cloner, Privacium, Fauxx</item>
         <item>4.1.0.1:</item>
         <item>Added Uhr, Path, PhotoMap, Auto Off Bluetooth, Tasks and Notes, PDF Viewer, Löschmeister, Teufel Go, Ring, Grimmory</item>
         <item>4.1.0.0:</item>

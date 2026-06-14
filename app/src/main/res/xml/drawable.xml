@@ -2,16 +2,20 @@
 <resources>
     <version>1</version>
     <category title="New Icons" />
-    <item drawable="best_deskclock" />
-    <item drawable="path" />
-    <item drawable="photomap" />
-    <item drawable="auto_off_bluetooth" />
-    <item drawable="tasks_and_notes" />
-    <item drawable="pdf_viewer" />
-    <item drawable="loschmeister" />
-    <item drawable="teufel_go" />
-    <item drawable="ring" />
-    <item drawable="grimmory" />
+    <item drawable="beam_montafra" />
+    <item drawable="grim_quest" />
+    <item drawable="goat_simulator_free" />
+    <item drawable="winelivery" />
+    <item drawable="doodle_god" />
+    <item drawable="shizuwall" />
+    <item drawable="lone_wolf_saga" />
+    <item drawable="nitterium" />
+    <item drawable="corebound" />
+    <item drawable="wifi_password_manager" />
+    <item drawable="idle_fantasy" />
+    <item drawable="app_cloner" />
+    <item drawable="privacium" />
+    <item drawable="fauxx" />
     <category title="Folders" />
     <item drawable="folder_blue" />
     <item drawable="folder_dark_blue" />
@@ -807,6 +811,7 @@
     <item drawable="_f_droid_kdi" />
     <item drawable="_sound_" />
     <category title="A" />
+    <item drawable="app_cloner" />
     <item drawable="auto_off_bluetooth" />
     <item drawable="anatomy_learning" />
     <item drawable="automation" />
@@ -1210,6 +1215,7 @@
 	<item drawable="awoken" />
 	<item drawable="awox_homecontrol" />
     <category title="B" />
+    <item drawable="beam_montafra" />
     <item drawable="bugjaeger" />
     <item drawable="bam_comic_reader" />
     <item drawable="briar_mailbox" />
@@ -1492,6 +1498,7 @@
 	<item drawable="bycs_drive" />
     <item drawable="ballozi_skynox" />
     <category title="C" />
+    <item drawable="corebound" />
     <item drawable="campfire" />
     <item drawable="crunchyroll" />
     <item drawable="cube_out_3d_jam_puzzle" />
@@ -1878,6 +1885,7 @@
 	<item drawable="cubic_2_3_4_player_games" />
 	<item drawable="currencies" />
     <category title="D" />
+    <item drawable="doodle_god" />
     <item drawable="best_deskclock" />
     <item drawable="dave" />
     <item drawable="daily_you" />
@@ -2369,6 +2377,7 @@
 	<item drawable="exodus" />
 	<item drawable="exteragram" />
     <category title="F" />
+    <item drawable="fauxx" />
     <item drawable="fiio_control" />
     <item drawable="ford" />
     <item drawable="follow" />
@@ -2635,6 +2644,8 @@
 	<item drawable="futo_voice_input" />
 	<item drawable="fx" />
     <category title="G" />
+    <item drawable="grim_quest" />
+    <item drawable="goat_simulator_free" />
     <item drawable="grimmory" />
     <item drawable="gira" />
     <item drawable="greentooth" />
@@ -3043,6 +3054,7 @@
 	<item drawable="hypatia" />
 	<item drawable="hyperrogue_gold" />
     <category title="I" />
+    <item drawable="idle_fantasy" />
     <item drawable="infinitode_2" />
     <item drawable="insigno" />
     <item drawable="informed_delivery" />
@@ -3430,6 +3442,7 @@
 	<item drawable="kutumb" />
 	<item drawable="kwgt_pro" />
     <category title="L" />
+    <item drawable="lone_wolf_saga" />
     <item drawable="loschmeister" />
     <item drawable="life360" />
     <item drawable="librefind" />
@@ -4147,6 +4160,7 @@
 	<item drawable="myumobile" />
     <item drawable="mbank" />
     <category title="N" />
+    <item drawable="nitterium" />
     <item drawable="natwest" />
     <item drawable="ninjaone" />
     <item drawable="ninja_remote" />
@@ -4563,6 +4577,7 @@
 	<item drawable="osmand_" />
 	<item drawable="ovag_e_mobil" />
     <category title="P" />
+    <item drawable="privacium" />
     <item drawable="pdf_viewer" />
     <item drawable="path" />
     <item drawable="photomap" />
@@ -5268,6 +5283,7 @@
 	<item drawable="rustdesk" />
 	<item drawable="rvx_music" />
     <category title="S" />
+    <item drawable="shizuwall" />
     <item drawable="stone_skipper_dash" />
     <item drawable="showly" />
     <item drawable="step_tracker_pedometer" />
@@ -6534,6 +6550,8 @@
     <item drawable="wifi_signal_meter" />
     <item drawable="ampwifi" />
     <category title="W" />
+    <item drawable="wifi_password_manager" />
+    <item drawable="winelivery" />
     <item drawable="wear_installer_2" />
     <item drawable="watchmaker" />
     <item drawable="wowcam" />

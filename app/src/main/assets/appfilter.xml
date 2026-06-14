@@ -7087,6 +7087,20 @@
     <item component="ComponentInfo{de.teufel.android.app.bluetooth.playstore/de.teufel.android.app.bluetooth.external.ui.MainActivity}" drawable="teufel_go" />
     <item component="ComponentInfo{com.ringapp/com.ring.launch.LaunchActivity}" drawable="ring" />
     <item component="ComponentInfo{org.chromium.webapk.a9c0950e2facdce65_v2/org.chromium.webapk.shell_apk.h2o.H2OOpaqueMainActivity}" drawable="grimmory" />
+    <item component="ComponentInfo{montafra.beam/montafra.beam.MainActivity}" drawable="beam_montafra" />
+    <item component="ComponentInfo{com.grimdev.grimquest/com.grimdev.grimquest.MainActivity}" drawable="grim_quest" />
+    <item component="ComponentInfo{com.coffeestainstudios.goatsimulator.free/com.epicgames.ue4.SplashActivity}" drawable="goat_simulator_free" />
+    <item component="ComponentInfo{com.winelivery1.oos/com.winelivery1.oos.MainActivity}" drawable="winelivery" />
+    <item component="ComponentInfo{joybits.doodlegod_epic/com.joybits.doodleeverything.GameActivity}" drawable="doodle_god" />
+    <item component="ComponentInfo{com.arslan.shizuwall/com.arslan.shizuwall.ui.MainActivity}" drawable="shizuwall" />
+    <item component="ComponentInfo{com.GDVGames.LoneWolfBiblio/com.GDVGames.LoneWolfBiblio.activities.menus.Splash}" drawable="lone_wolf_saga" />
+    <item component="ComponentInfo{com.kaleedtc.nitterium/com.kaleedtc.nitterium.MainActivity}" drawable="nitterium" />
+    <item component="ComponentInfo{com.Overcurve.Corebound/com.unity3d.player.UnityPlayerActivity}" drawable="corebound" />
+    <item component="ComponentInfo{io.github.wifi_password_manager/io.github.wifi_password_manager.MainActivity}" drawable="wifi_password_manager" />
+    <item component="ComponentInfo{com.tristinbaker.idlefantasy/com.fantasyidler.MainActivity}" drawable="idle_fantasy" />
+    <item component="ComponentInfo{com.applisto.appcloner/com.applisto.appcloner.activity.StartActivity}" drawable="app_cloner" />
+    <item component="ComponentInfo{com.kaleedtc.privacium/com.kaleedtc.privacium.MainActivity}" drawable="privacium" />
+    <item component="ComponentInfo{com.fauxx.full/com.fauxx.ui.MainActivity}" drawable="fauxx" />
 
 </resources>
 

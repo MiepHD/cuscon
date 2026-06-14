@@ -6975,5 +6975,19 @@
     <AppIcon name="de.teufel.android.app.bluetooth.playstore/de.teufel.android.app.bluetooth.external.ui.MainActivity" image="teufel_go"/>
     <AppIcon name="com.ringapp/com.ring.launch.LaunchActivity" image="ring"/>
     <AppIcon name="org.chromium.webapk.a9c0950e2facdce65_v2/org.chromium.webapk.shell_apk.h2o.H2OOpaqueMainActivity" image="grimmory"/>
+    <AppIcon name="montafra.beam/montafra.beam.MainActivity" image="beam_montafra"/>
+    <AppIcon name="com.grimdev.grimquest/com.grimdev.grimquest.MainActivity" image="grim_quest"/>
+    <AppIcon name="com.coffeestainstudios.goatsimulator.free/com.epicgames.ue4.SplashActivity" image="goat_simulator_free"/>
+    <AppIcon name="com.winelivery1.oos/com.winelivery1.oos.MainActivity" image="winelivery"/>
+    <AppIcon name="joybits.doodlegod_epic/com.joybits.doodleeverything.GameActivity" image="doodle_god"/>
+    <AppIcon name="com.arslan.shizuwall/com.arslan.shizuwall.ui.MainActivity" image="shizuwall"/>
+    <AppIcon name="com.GDVGames.LoneWolfBiblio/com.GDVGames.LoneWolfBiblio.activities.menus.Splash" image="lone_wolf_saga"/>
+    <AppIcon name="com.kaleedtc.nitterium/com.kaleedtc.nitterium.MainActivity" image="nitterium"/>
+    <AppIcon name="com.Overcurve.Corebound/com.unity3d.player.UnityPlayerActivity" image="corebound"/>
+    <AppIcon name="io.github.wifi_password_manager/io.github.wifi_password_manager.MainActivity" image="wifi_password_manager"/>
+    <AppIcon name="com.tristinbaker.idlefantasy/com.fantasyidler.MainActivity" image="idle_fantasy"/>
+    <AppIcon name="com.applisto.appcloner/com.applisto.appcloner.activity.StartActivity" image="app_cloner"/>
+    <AppIcon name="com.kaleedtc.privacium/com.kaleedtc.privacium.MainActivity" image="privacium"/>
+    <AppIcon name="com.fauxx.full/com.fauxx.ui.MainActivity" image="fauxx"/>
 
 </Theme>
