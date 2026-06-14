@@ -2,6 +2,7 @@
 <resources>
     <version>1</version>
     <category title="New Icons" />
+    <item drawable="mlol_reader" />
     <item drawable="beam_montafra" />
     <item drawable="grim_quest" />
     <item drawable="goat_simulator_free" />
@@ -3633,6 +3634,7 @@
 	<item drawable="lucky_wasted" />
 	<item drawable="lux_o_meter_lichtmesser" />
     <category title="M" />
+    <item drawable="mlol_reader" />
     <item drawable="music_bowers_and_wilkins" />
     <item drawable="merlin_bird_id" />
     <item drawable="mbna" />

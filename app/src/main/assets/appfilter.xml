@@ -7101,6 +7101,7 @@
     <item component="ComponentInfo{com.applisto.appcloner/com.applisto.appcloner.activity.StartActivity}" drawable="app_cloner" />
     <item component="ComponentInfo{com.kaleedtc.privacium/com.kaleedtc.privacium.MainActivity}" drawable="privacium" />
     <item component="ComponentInfo{com.fauxx.full/com.fauxx.ui.MainActivity}" drawable="fauxx" />
+    <item component="ComponentInfo{it.horizons.mlolreaderlcp/it.horizons.mlolreader.MainActivity}" drawable="mlol_reader" />
 
 </resources>
 

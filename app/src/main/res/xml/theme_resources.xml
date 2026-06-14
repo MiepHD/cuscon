@@ -6989,5 +6989,6 @@
     <AppIcon name="com.applisto.appcloner/com.applisto.appcloner.activity.StartActivity" image="app_cloner"/>
     <AppIcon name="com.kaleedtc.privacium/com.kaleedtc.privacium.MainActivity" image="privacium"/>
     <AppIcon name="com.fauxx.full/com.fauxx.ui.MainActivity" image="fauxx"/>
+    <AppIcon name="it.horizons.mlolreaderlcp/it.horizons.mlolreader.MainActivity" image="mlol_reader"/>
 
 </Theme>
