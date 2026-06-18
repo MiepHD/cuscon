@@ -7104,6 +7104,21 @@
     <item component="ComponentInfo{it.horizons.mlolreaderlcp/it.horizons.mlolreader.MainActivity}" drawable="mlol_reader" />
     <item component="ComponentInfo{com.chickfila.cfaflagship/com.chickfila.cfaflagship.StandardTheme}" drawable="chick_fil_a" />
     <item component="ComponentInfo{com.ford.fordpass/com.ford.home.views.HomeActivity}" drawable="ford" />
+    <item component="ComponentInfo{com.microsoft.xboxone.smartglass/com.microsoft.xbox.LauncherActivity}" drawable="xbox_26" />
+    <item component="ComponentInfo{com.oceanwing.battery.cam/com.oceanwing.battery.feature_main.mega_splash.SplashActivity}" drawable="eufy" />
+    <item component="ComponentInfo{com.samsung.android.app.find/com.samsung.android.app.find.MainActivity}" drawable="find" />
+    <item component="ComponentInfo{com.cyborgkitten.dotcounter/com.cyborgkitten.dominodotcounter.MainActivity}" drawable="domino_dot_counter" />
+    <item component="ComponentInfo{com.danlev.dododex/com.danlev.dododex.MainActivity}" drawable="dododex" />
+    <item component="ComponentInfo{com.fitnow.loseit/com.fitnow.loseit.MainActivity}" drawable="lose_it_" />
+    <item component="ComponentInfo{com.withings.wiscale2/com.withings.wiscale2.MainActivity}" drawable="withings" />
+    <item component="ComponentInfo{com.lonoperationsllc.breadmobile/com.lonoperationsllc.breadmobile.MainActivity}" drawable="bread_financial" />
+    <item component="ComponentInfo{com.meijer.mobile.meijer/com.meijer.mobile.meijer.launcher.Default}" drawable="meijer" />
+    <item component="ComponentInfo{com.cube.arc.blood/com.cube.arc.blood.BootActivity}" drawable="blood_donor" />
+    <item component="ComponentInfo{jp.pokemon.pokemontcgp/com.unity3d.player.UnityPlayerActivity}" drawable="pokemon_tcgp" />
+    <item component="ComponentInfo{com.usaa.mobile.android.usaa/com.usaa.mobile.android.app.entry.view.MainEntryActivity}" drawable="usaa" />
+    <item component="ComponentInfo{com.citysourced.lansingmi/com.citysourced.lansingmi.MainActivity}" drawable="lansing_mi" />
+    <item component="ComponentInfo{com.ukg.oneapp/com.ukg.oneapp.shell.PreLaunchActivity}" drawable="ukg_pro" />
+    <item component="ComponentInfo{com.achievers.client/com.achievers.client.activity.splash.SplashActivity}" drawable="achievers" />
 
 </resources>
 

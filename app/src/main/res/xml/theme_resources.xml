@@ -7000,5 +7000,12 @@
     <AppIcon name="com.fitnow.loseit/com.fitnow.loseit.MainActivity" image="lose_it_"/>
     <AppIcon name="com.withings.wiscale2/com.withings.wiscale2.MainActivity" image="withings"/>
     <AppIcon name="com.lonoperationsllc.breadmobile/com.lonoperationsllc.breadmobile.MainActivity" image="bread_financial"/>
+    <AppIcon name="com.meijer.mobile.meijer/com.meijer.mobile.meijer.launcher.Default" image="meijer"/>
+    <AppIcon name="com.cube.arc.blood/com.cube.arc.blood.BootActivity" image="blood_donor"/>
+    <AppIcon name="jp.pokemon.pokemontcgp/com.unity3d.player.UnityPlayerActivity" image="pokemon_tcgp"/>
+    <AppIcon name="com.usaa.mobile.android.usaa/com.usaa.mobile.android.app.entry.view.MainEntryActivity" image="usaa"/>
+    <AppIcon name="com.citysourced.lansingmi/com.citysourced.lansingmi.MainActivity" image="lansing_mi"/>
+    <AppIcon name="com.ukg.oneapp/com.ukg.oneapp.shell.PreLaunchActivity" image="ukg_pro"/>
+    <AppIcon name="com.achievers.client/com.achievers.client.activity.splash.SplashActivity" image="achievers"/>
 
 </Theme>

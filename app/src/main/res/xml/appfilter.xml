@@ -7112,6 +7112,13 @@
     <item component="ComponentInfo{com.fitnow.loseit/com.fitnow.loseit.MainActivity}" drawable="lose_it_" />
     <item component="ComponentInfo{com.withings.wiscale2/com.withings.wiscale2.MainActivity}" drawable="withings" />
     <item component="ComponentInfo{com.lonoperationsllc.breadmobile/com.lonoperationsllc.breadmobile.MainActivity}" drawable="bread_financial" />
+    <item component="ComponentInfo{com.meijer.mobile.meijer/com.meijer.mobile.meijer.launcher.Default}" drawable="meijer" />
+    <item component="ComponentInfo{com.cube.arc.blood/com.cube.arc.blood.BootActivity}" drawable="blood_donor" />
+    <item component="ComponentInfo{jp.pokemon.pokemontcgp/com.unity3d.player.UnityPlayerActivity}" drawable="pokemon_tcgp" />
+    <item component="ComponentInfo{com.usaa.mobile.android.usaa/com.usaa.mobile.android.app.entry.view.MainEntryActivity}" drawable="usaa" />
+    <item component="ComponentInfo{com.citysourced.lansingmi/com.citysourced.lansingmi.MainActivity}" drawable="lansing_mi" />
+    <item component="ComponentInfo{com.ukg.oneapp/com.ukg.oneapp.shell.PreLaunchActivity}" drawable="ukg_pro" />
+    <item component="ComponentInfo{com.achievers.client/com.achievers.client.activity.splash.SplashActivity}" drawable="achievers" />
 
 </resources>
 
