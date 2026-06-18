@@ -7102,6 +7102,8 @@
     <item component="ComponentInfo{com.kaleedtc.privacium/com.kaleedtc.privacium.MainActivity}" drawable="privacium" />
     <item component="ComponentInfo{com.fauxx.full/com.fauxx.ui.MainActivity}" drawable="fauxx" />
     <item component="ComponentInfo{it.horizons.mlolreaderlcp/it.horizons.mlolreader.MainActivity}" drawable="mlol_reader" />
+    <item component="ComponentInfo{com.chickfila.cfaflagship/com.chickfila.cfaflagship.StandardTheme}" drawable="chick_fil_a" />
+    <item component="ComponentInfo{com.ford.fordpass/com.ford.home.views.HomeActivity}" drawable="ford" />
 
 </resources>
 

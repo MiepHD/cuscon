@@ -2,21 +2,14 @@
 <resources>
     <version>1</version>
     <category title="New Icons" />
-    <item drawable="mlol_reader" />
-    <item drawable="beam_montafra" />
-    <item drawable="grim_quest" />
-    <item drawable="goat_simulator_free" />
-    <item drawable="winelivery" />
-    <item drawable="doodle_god" />
-    <item drawable="shizuwall" />
-    <item drawable="lone_wolf_saga" />
-    <item drawable="nitterium" />
-    <item drawable="corebound" />
-    <item drawable="wifi_password_manager" />
-    <item drawable="idle_fantasy" />
-    <item drawable="app_cloner" />
-    <item drawable="privacium" />
-    <item drawable="fauxx" />
+    <item drawable="xbox_26" />
+    <item drawable="eufy" />
+    <item drawable="find" />
+    <item drawable="domino_dot_counter" />
+    <item drawable="dododex" />
+    <item drawable="lose_it_" />
+    <item drawable="withings" />
+    <item drawable="bread_financial" />
     <category title="Folders" />
     <item drawable="folder_blue" />
     <item drawable="folder_dark_blue" />
@@ -1216,6 +1209,7 @@
 	<item drawable="awoken" />
 	<item drawable="awox_homecontrol" />
     <category title="B" />
+    <item drawable="bread_financial" />
     <item drawable="beam_montafra" />
     <item drawable="bugjaeger" />
     <item drawable="bam_comic_reader" />
@@ -1886,6 +1880,8 @@
 	<item drawable="cubic_2_3_4_player_games" />
 	<item drawable="currencies" />
     <category title="D" />
+    <item drawable="domino_dot_counter" />
+    <item drawable="dododex" />
     <item drawable="doodle_god" />
     <item drawable="best_deskclock" />
     <item drawable="dave" />
@@ -2190,6 +2186,7 @@
 	<item drawable="dynalist" />
 	<item drawable="dynamicspot" />
     <category title="E" />
+    <item drawable="eufy" />
     <item drawable="entergy" />
     <item drawable="expo_go" />
     <item drawable="eidetic" />
@@ -2378,6 +2375,7 @@
 	<item drawable="exodus" />
 	<item drawable="exteragram" />
     <category title="F" />
+    <item drawable="find" />
     <item drawable="fauxx" />
     <item drawable="fiio_control" />
     <item drawable="ford" />
@@ -3443,6 +3441,7 @@
 	<item drawable="kutumb" />
 	<item drawable="kwgt_pro" />
     <category title="L" />
+    <item drawable="lose_it_" />
     <item drawable="lone_wolf_saga" />
     <item drawable="loschmeister" />
     <item drawable="life360" />
@@ -6552,6 +6551,7 @@
     <item drawable="wifi_signal_meter" />
     <item drawable="ampwifi" />
     <category title="W" />
+    <item drawable="withings" />
     <item drawable="wifi_password_manager" />
     <item drawable="winelivery" />
     <item drawable="wear_installer_2" />
@@ -6746,6 +6746,7 @@
 	<item drawable="wx" />
 	<item drawable="wynk_music" />
     <category title="X" />
+    <item drawable="xbox_26" />
     <item drawable="x_plorer_s75_s95" />
     <item drawable="xls_viewer" />
     <item drawable="xed_editor" />

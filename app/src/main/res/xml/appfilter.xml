@@ -7102,6 +7102,16 @@
     <item component="ComponentInfo{com.kaleedtc.privacium/com.kaleedtc.privacium.MainActivity}" drawable="privacium" />
     <item component="ComponentInfo{com.fauxx.full/com.fauxx.ui.MainActivity}" drawable="fauxx" />
     <item component="ComponentInfo{it.horizons.mlolreaderlcp/it.horizons.mlolreader.MainActivity}" drawable="mlol_reader" />
+    <item component="ComponentInfo{com.chickfila.cfaflagship/com.chickfila.cfaflagship.StandardTheme}" drawable="chick_fil_a" />
+    <item component="ComponentInfo{com.ford.fordpass/com.ford.home.views.HomeActivity}" drawable="ford" />
+    <item component="ComponentInfo{com.microsoft.xboxone.smartglass/com.microsoft.xbox.LauncherActivity}" drawable="xbox_26" />
+    <item component="ComponentInfo{com.oceanwing.battery.cam/com.oceanwing.battery.feature_main.mega_splash.SplashActivity}" drawable="eufy" />
+    <item component="ComponentInfo{com.samsung.android.app.find/com.samsung.android.app.find.MainActivity}" drawable="find" />
+    <item component="ComponentInfo{com.cyborgkitten.dotcounter/com.cyborgkitten.dominodotcounter.MainActivity}" drawable="domino_dot_counter" />
+    <item component="ComponentInfo{com.danlev.dododex/com.danlev.dododex.MainActivity}" drawable="dododex" />
+    <item component="ComponentInfo{com.fitnow.loseit/com.fitnow.loseit.MainActivity}" drawable="lose_it_" />
+    <item component="ComponentInfo{com.withings.wiscale2/com.withings.wiscale2.MainActivity}" drawable="withings" />
+    <item component="ComponentInfo{com.lonoperationsllc.breadmobile/com.lonoperationsllc.breadmobile.MainActivity}" drawable="bread_financial" />
 
 </resources>
 

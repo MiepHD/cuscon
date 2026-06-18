@@ -6990,5 +6990,15 @@
     <AppIcon name="com.kaleedtc.privacium/com.kaleedtc.privacium.MainActivity" image="privacium"/>
     <AppIcon name="com.fauxx.full/com.fauxx.ui.MainActivity" image="fauxx"/>
     <AppIcon name="it.horizons.mlolreaderlcp/it.horizons.mlolreader.MainActivity" image="mlol_reader"/>
+    <AppIcon name="com.chickfila.cfaflagship/com.chickfila.cfaflagship.StandardTheme" image="chick_fil_a"/>
+    <AppIcon name="com.ford.fordpass/com.ford.home.views.HomeActivity" image="ford"/>
+    <AppIcon name="com.microsoft.xboxone.smartglass/com.microsoft.xbox.LauncherActivity" image="xbox_26"/>
+    <AppIcon name="com.oceanwing.battery.cam/com.oceanwing.battery.feature_main.mega_splash.SplashActivity" image="eufy"/>
+    <AppIcon name="com.samsung.android.app.find/com.samsung.android.app.find.MainActivity" image="find"/>
+    <AppIcon name="com.cyborgkitten.dotcounter/com.cyborgkitten.dominodotcounter.MainActivity" image="domino_dot_counter"/>
+    <AppIcon name="com.danlev.dododex/com.danlev.dododex.MainActivity" image="dododex"/>
+    <AppIcon name="com.fitnow.loseit/com.fitnow.loseit.MainActivity" image="lose_it_"/>
+    <AppIcon name="com.withings.wiscale2/com.withings.wiscale2.MainActivity" image="withings"/>
+    <AppIcon name="com.lonoperationsllc.breadmobile/com.lonoperationsllc.breadmobile.MainActivity" image="bread_financial"/>
 
 </Theme>

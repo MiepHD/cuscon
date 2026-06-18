@@ -2,21 +2,6 @@
 <resources>
     <version>1</version>
     <category title="New Icons" />
-    <item drawable="mlol_reader" />
-    <item drawable="beam_montafra" />
-    <item drawable="grim_quest" />
-    <item drawable="goat_simulator_free" />
-    <item drawable="winelivery" />
-    <item drawable="doodle_god" />
-    <item drawable="shizuwall" />
-    <item drawable="lone_wolf_saga" />
-    <item drawable="nitterium" />
-    <item drawable="corebound" />
-    <item drawable="wifi_password_manager" />
-    <item drawable="idle_fantasy" />
-    <item drawable="app_cloner" />
-    <item drawable="privacium" />
-    <item drawable="fauxx" />
     <category title="Folders" />
     <item drawable="folder_blue" />
     <item drawable="folder_dark_blue" />
