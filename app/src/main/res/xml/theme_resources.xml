@@ -7007,5 +7007,15 @@
     <AppIcon name="com.citysourced.lansingmi/com.citysourced.lansingmi.MainActivity" image="lansing_mi"/>
     <AppIcon name="com.ukg.oneapp/com.ukg.oneapp.shell.PreLaunchActivity" image="ukg_pro"/>
     <AppIcon name="com.achievers.client/com.achievers.client.activity.splash.SplashActivity" image="achievers"/>
+    <AppIcon name="proton.android.authenticator/proton.android.authenticator.app.ui.MainActivity" image="proton_authenticator"/>
+    <AppIcon name="is.klappid/is.klappid.MainActivity" image="klappid"/>
+    <AppIcon name="me.proton.android.lumo/me.proton.android.lumo.MainActivity" image="lumo"/>
+    <AppIcon name="com.talzz.datadex/com.talzz.datadex.activities.main.MainActivity" image="datadex"/>
+    <AppIcon name="is.island.app/is.island.app.MainActivity" image="islandis"/>
+    <AppIcon name="is.dk.endurvinnslan/com.dk.endurvinnslan.MainActivity" image="endurvinnslan"/>
+    <AppIcon name="ar.com.indiesoftware.ps3trophies.alpha/ar.com.indiesoftware.ps3trophies.alpha.ui.activities.SplashActivity" image="ps_trophies"/>
+    <AppIcon name="is.landsbankinn.personal/is.landsbankinn.personal.MainActivity" image="landsbankinn"/>
+    <AppIcon name="fm.libro.librofm/fm.libro.presentation.screens.MainActivity.default" image="librofm"/>
+    <AppIcon name="proton.android.meet/proton.android.meet.activity.MainActivity" image="proton_meet"/>
 
 </Theme>

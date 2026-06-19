@@ -17,6 +17,15 @@
     <item drawable="lansing_mi" />
     <item drawable="ukg_pro" />
     <item drawable="achievers" />
+    <item drawable="klappid" name="KLAPPIÐ" />
+    <item drawable="lumo" />
+    <item drawable="datadex" />
+    <item drawable="islandis" />
+    <item drawable="endurvinnslan" />
+    <item drawable="ps_trophies" />
+    <item drawable="landsbankinn" />
+    <item drawable="librofm" />
+    <item drawable="proton_meet" />
     <category title="Folders" />
     <item drawable="folder_blue" />
     <item drawable="folder_dark_blue" />
@@ -1889,6 +1898,7 @@
 	<item drawable="cubic_2_3_4_player_games" />
 	<item drawable="currencies" />
     <category title="D" />
+    <item drawable="datadex" />
     <item drawable="domino_dot_counter" />
     <item drawable="dododex" />
     <item drawable="doodle_god" />
@@ -2195,6 +2205,7 @@
 	<item drawable="dynalist" />
 	<item drawable="dynamicspot" />
     <category title="E" />
+    <item drawable="endurvinnslan" />
     <item drawable="eufy" />
     <item drawable="entergy" />
     <item drawable="expo_go" />
@@ -3062,6 +3073,7 @@
 	<item drawable="hypatia" />
 	<item drawable="hyperrogue_gold" />
     <category title="I" />
+    <item drawable="islandis" />
     <item drawable="idle_fantasy" />
     <item drawable="infinitode_2" />
     <item drawable="insigno" />
@@ -3306,6 +3318,7 @@
 	<item drawable="justchess" />
 	<item drawable="justdial" />
     <category title="K" />
+    <item drawable="klappid" name="KLAPPIÐ" />
     <item drawable="kitshn" />
     <item drawable="komoot_darkgreen" />
     <item drawable="keeper" />
@@ -3450,6 +3463,9 @@
 	<item drawable="kutumb" />
 	<item drawable="kwgt_pro" />
     <category title="L" />
+    <item drawable="landsbankinn" />
+    <item drawable="librofm" />
+    <item drawable="lumo" />
     <item drawable="lansing_mi" />
     <item drawable="lose_it_" />
     <item drawable="lone_wolf_saga" />
@@ -4589,6 +4605,8 @@
 	<item drawable="osmand_" />
 	<item drawable="ovag_e_mobil" />
     <category title="P" />
+    <item drawable="proton_meet" />
+    <item drawable="ps_trophies" />
     <item drawable="pokemon_tcgp" />
     <item drawable="privacium" />
     <item drawable="pdf_viewer" />

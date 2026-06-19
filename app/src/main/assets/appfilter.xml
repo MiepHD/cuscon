@@ -7119,6 +7119,16 @@
     <item component="ComponentInfo{com.citysourced.lansingmi/com.citysourced.lansingmi.MainActivity}" drawable="lansing_mi" />
     <item component="ComponentInfo{com.ukg.oneapp/com.ukg.oneapp.shell.PreLaunchActivity}" drawable="ukg_pro" />
     <item component="ComponentInfo{com.achievers.client/com.achievers.client.activity.splash.SplashActivity}" drawable="achievers" />
+    <item component="ComponentInfo{proton.android.authenticator/proton.android.authenticator.app.ui.MainActivity}" drawable="proton_authenticator" />
+    <item component="ComponentInfo{is.klappid/is.klappid.MainActivity}" drawable="klappid" />
+    <item component="ComponentInfo{me.proton.android.lumo/me.proton.android.lumo.MainActivity}" drawable="lumo" />
+    <item component="ComponentInfo{com.talzz.datadex/com.talzz.datadex.activities.main.MainActivity}" drawable="datadex" />
+    <item component="ComponentInfo{is.island.app/is.island.app.MainActivity}" drawable="islandis" />
+    <item component="ComponentInfo{is.dk.endurvinnslan/com.dk.endurvinnslan.MainActivity}" drawable="endurvinnslan" />
+    <item component="ComponentInfo{ar.com.indiesoftware.ps3trophies.alpha/ar.com.indiesoftware.ps3trophies.alpha.ui.activities.SplashActivity}" drawable="ps_trophies" />
+    <item component="ComponentInfo{is.landsbankinn.personal/is.landsbankinn.personal.MainActivity}" drawable="landsbankinn" />
+    <item component="ComponentInfo{fm.libro.librofm/fm.libro.presentation.screens.MainActivity.default}" drawable="librofm" />
+    <item component="ComponentInfo{proton.android.meet/proton.android.meet.activity.MainActivity}" drawable="proton_meet" />
 
 </resources>
 
