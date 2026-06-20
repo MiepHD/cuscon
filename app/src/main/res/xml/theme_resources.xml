@@ -6828,6 +6828,7 @@
     <AppIcon name="io.filen.app/io.filen.app.MainActivity" image="filen"/>
     <AppIcon name="io.ente.photos.fdroid/io.ente.photos.fdroid.IconGreen" image="ente_photos_green"/>
     <AppIcon name="com.fsck.k9/com.fsck.k9.activity.MainActivity" image="k_9_mail" />
+    <AppIcon name="com.fsck.k9/net.thunderbird.app.common.MainActivity" image="k_9_mail" />
     <AppIcon name="com.microsoft.translator/com.microsoft.translator.TranslateHomeActivity" image="translator" />
     <AppIcon name="com.celzero.bravedns/com.celzero.bravedns.ui.LauncherAliasHome" image="rethink" />
     <AppIcon name="com.celzero.bravedns/com.celzero.bravedns.ui.LauncherAliasAppLock" image="rethink" />
