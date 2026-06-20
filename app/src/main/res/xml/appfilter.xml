@@ -1669,6 +1669,7 @@
 	<item component="ComponentInfo{com.google.android.apps.wearables.maestro.companion/com.google.android.apps.wearables.maestro.companion.ui.ShortCutActivity}" drawable="pixel_buds" />
 	<item component="ComponentInfo{com.celzero.bravedns/com.celzero.bravedns.ui.HomeScreenActivity}" drawable="rethink" />
 	<item component="ComponentInfo{com.celzero.bravedns/com.celzero.bravedns.ui.LauncherAliasHome}" drawable="rethink" />
+	<item component="ComponentInfo{com.celzero.bravedns/com.celzero.bravedns.ui.LauncherAliasAppLock}" drawable="rethink" />
 	<item component="ComponentInfo{de.felixnuesse.extract/ca.pkay.rcloneexplorer.Activities.MainActivity}" drawable="round_sync" />
 	<item component="ComponentInfo{s1m.savertuner/com.draco.buoy.views.MainActivity}" drawable="savertuner" />
 	<item component="ComponentInfo{network.loki.messenger/network.loki.messenger.RoutingActivity}" drawable="session" />

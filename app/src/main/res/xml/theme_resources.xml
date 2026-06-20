@@ -6830,6 +6830,7 @@
     <AppIcon name="com.fsck.k9/com.fsck.k9.activity.MainActivity" image="k_9_mail" />
     <AppIcon name="com.microsoft.translator/com.microsoft.translator.TranslateHomeActivity" image="translator" />
     <AppIcon name="com.celzero.bravedns/com.celzero.bravedns.ui.LauncherAliasHome" image="rethink" />
+    <AppIcon name="com.celzero.bravedns/com.celzero.bravedns.ui.LauncherAliasAppLock" image="rethink" />
     <AppIcon name="com.embermitre.hanping.cantodict.app.pro/app.geckodict.app.dict.hanping.android.MainActivity" image="hanping_cantonese" />
     <AppIcon name="com.embermitre.hanping.app.pro/app.geckodict.app.dict.hanping.android.MainActivity" image="hanping_chinese_pro" />
     <AppIcon name="app.linkwarden/app.linkwarden.MainActivity" image="linkwarden" />
