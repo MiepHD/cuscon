@@ -1,2 +1,4 @@
 Added Azahar, Hardcover, ZayZoon, Acloset, STADTRADELN
-Updated lieferando
+Updated lieferando, K9 Mail
+Fixed Rethink
+Thanks a lot to @github:alisonatwork who contributed some updates to this release.

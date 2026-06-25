@@ -4,7 +4,9 @@
     <string-array name="changelog">
         <item>4.1.0.4:</item>
         <item>Added Azahar, Hardcover, ZayZoon, Acloset, STADTRADELN</item>
-        <item>Updated lieferando</item>
+        <item>Updated lieferando, K9 Mail</item>
+        <item>Fixed Rethink</item>
+        <item>Thanks a lot to @github:alisonatwork who contributed some updates to this release.</item>
         <item>4.1.0.3:</item>
         <item>Fixed Chick-fil-A, Ford, Proton Authenticator</item>
         <item>Updated Xbox</item>
