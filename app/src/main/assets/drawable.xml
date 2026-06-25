@@ -2,30 +2,11 @@
 <resources>
     <version>1</version>
     <category title="New Icons" />
-    <item drawable="xbox_26" />
-    <item drawable="eufy" />
-    <item drawable="find" />
-    <item drawable="domino_dot_counter" />
-    <item drawable="dododex" />
-    <item drawable="lose_it_" />
-    <item drawable="withings" />
-    <item drawable="bread_financial" />
-    <item drawable="meijer" />
-    <item drawable="blood_donor" />
-    <item drawable="pokemon_tcgp" />
-    <item drawable="usaa" />
-    <item drawable="lansing_mi" />
-    <item drawable="ukg_pro" />
-    <item drawable="achievers" />
-    <item drawable="klappid" name="KLAPPIÐ" />
-    <item drawable="lumo" />
-    <item drawable="datadex" />
-    <item drawable="islandis" />
-    <item drawable="endurvinnslan" />
-    <item drawable="ps_trophies" />
-    <item drawable="landsbankinn" />
-    <item drawable="librofm" />
-    <item drawable="proton_meet" />
+    <item drawable="azahar" />
+    <item drawable="hardcover" />
+    <item drawable="zayzoon" />
+    <item drawable="acloset" />
+    <item drawable="stadtradeln_mono" name="Stadtradeln" />
     <category title="Folders" />
     <item drawable="folder_blue" />
     <item drawable="folder_dark_blue" />
@@ -821,6 +802,8 @@
     <item drawable="_f_droid_kdi" />
     <item drawable="_sound_" />
     <category title="A" />
+    <item drawable="acloset" />
+    <item drawable="azahar" />
     <item drawable="achievers" />
     <item drawable="app_cloner" />
     <item drawable="auto_off_bluetooth" />
@@ -2893,6 +2876,7 @@
 	<item drawable="gsmarena" />
 	<item drawable="gspace" />
     <category title="H" />
+    <item drawable="hardcover" />
     <item drawable="hay_day" />
     <item drawable="hidive" />
     <item drawable="highline_fast" />
@@ -5314,6 +5298,7 @@
 	<item drawable="rustdesk" />
 	<item drawable="rvx_music" />
     <category title="S" />
+    <item drawable="stadtradeln_mono" name="Stadtradeln" />
     <item drawable="shizuwall" />
     <item drawable="stone_skipper_dash" />
     <item drawable="showly" />
@@ -6856,6 +6841,7 @@
 	<item drawable="yuka" />
 	<item drawable="yuzu_browser" />
     <category title="Z" />
+    <item drawable="zayzoon" />
     <item drawable="zynga_poker_texas_holdem" />
     <item drawable="zip_extractor" />
     <item drawable="zdfheute" />

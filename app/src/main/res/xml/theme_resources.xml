@@ -7019,5 +7019,11 @@
     <AppIcon name="is.landsbankinn.personal/is.landsbankinn.personal.MainActivity" image="landsbankinn"/>
     <AppIcon name="fm.libro.librofm/fm.libro.presentation.screens.MainActivity.default" image="librofm"/>
     <AppIcon name="proton.android.meet/proton.android.meet.activity.MainActivity" image="proton_meet"/>
+    <AppIcon name="org.azahar_emu.azahar/org.citra.citra_emu.ui.main.MainActivity" image="azahar"/>
+    <AppIcon name="hardcover.app/hardcover.app.MainActivity" image="hardcover"/>
+    <AppIcon name="com.zayzoon.app/com.zayzoon.app.MainActivity" image="zayzoon"/>
+    <AppIcon name="com.yopeso.lieferando/com.jet.singleactivity.ui.MainActivity" image="lieferando"/>
+    <AppIcon name="com.looko.acloset/com.looko.acloset.MainActivity" image="acloset"/>
+    <AppIcon name="org.klimabuendnis.Stadtradeln/org.klimabuendnis.stadtradeln.MainActivity" image="stadtradeln_mono"/>
 
 </Theme>

@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="changelog_date">16.06.2026</string>
+    <string name="changelog_date">25.06.2026</string>
     <string-array name="changelog">
+        <item>4.1.0.4:</item>
+        <item>Added Azahar, Hardcover, ZayZoon, Acloset, STADTRADELN</item>
+        <item>Updated lieferando</item>
         <item>4.1.0.3:</item>
         <item>Fixed Chick-fil-A, Ford, Proton Authenticator</item>
         <item>Updated Xbox</item>

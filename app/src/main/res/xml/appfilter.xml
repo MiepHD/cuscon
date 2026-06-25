@@ -7131,6 +7131,12 @@
     <item component="ComponentInfo{is.landsbankinn.personal/is.landsbankinn.personal.MainActivity}" drawable="landsbankinn" />
     <item component="ComponentInfo{fm.libro.librofm/fm.libro.presentation.screens.MainActivity.default}" drawable="librofm" />
     <item component="ComponentInfo{proton.android.meet/proton.android.meet.activity.MainActivity}" drawable="proton_meet" />
+    <item component="ComponentInfo{org.azahar_emu.azahar/org.citra.citra_emu.ui.main.MainActivity}" drawable="azahar" />
+    <item component="ComponentInfo{hardcover.app/hardcover.app.MainActivity}" drawable="hardcover" />
+    <item component="ComponentInfo{com.zayzoon.app/com.zayzoon.app.MainActivity}" drawable="zayzoon" />
+    <item component="ComponentInfo{com.yopeso.lieferando/com.jet.singleactivity.ui.MainActivity}" drawable="lieferando" />
+    <item component="ComponentInfo{com.looko.acloset/com.looko.acloset.MainActivity}" drawable="acloset" />
+    <item component="ComponentInfo{org.klimabuendnis.Stadtradeln/org.klimabuendnis.stadtradeln.MainActivity}" drawable="stadtradeln_mono"/>
 
 </resources>
 
