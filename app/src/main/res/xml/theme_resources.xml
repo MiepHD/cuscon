@@ -7025,5 +7025,7 @@
     <AppIcon name="com.yopeso.lieferando/com.jet.singleactivity.ui.MainActivity" image="lieferando"/>
     <AppIcon name="com.looko.acloset/com.looko.acloset.MainActivity" image="acloset"/>
     <AppIcon name="org.klimabuendnis.Stadtradeln/org.klimabuendnis.stadtradeln.MainActivity" image="stadtradeln_mono"/>
+    <AppIcon name="com.erieinsurance.customermobile/com.mendix.nativetemplate.MainActivity" image="erie_insurance"/>
+    <AppIcon name="com.pitbossgrills.app/com.pitbossgrills.MainActivity" image="pit_boss_grills"/>
 
 </Theme>

@@ -7137,6 +7137,8 @@
     <item component="ComponentInfo{com.yopeso.lieferando/com.jet.singleactivity.ui.MainActivity}" drawable="lieferando" />
     <item component="ComponentInfo{com.looko.acloset/com.looko.acloset.MainActivity}" drawable="acloset" />
     <item component="ComponentInfo{org.klimabuendnis.Stadtradeln/org.klimabuendnis.stadtradeln.MainActivity}" drawable="stadtradeln_mono"/>
+    <item component="ComponentInfo{com.erieinsurance.customermobile/com.mendix.nativetemplate.MainActivity}" drawable="erie_insurance" />
+    <item component="ComponentInfo{com.pitbossgrills.app/com.pitbossgrills.MainActivity}" drawable="pit_boss_grills" />
 
 </resources>
 

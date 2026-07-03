@@ -2,11 +2,8 @@
 <resources>
     <version>1</version>
     <category title="New Icons" />
-    <item drawable="azahar" />
-    <item drawable="hardcover" />
-    <item drawable="zayzoon" />
-    <item drawable="acloset" />
-    <item drawable="stadtradeln_mono" name="Stadtradeln" />
+    <item drawable="erie_insurance" />
+    <item drawable="pit_boss_grills" />
     <category title="Folders" />
     <item drawable="folder_blue" />
     <item drawable="folder_dark_blue" />
@@ -2188,6 +2185,7 @@
 	<item drawable="dynalist" />
 	<item drawable="dynamicspot" />
     <category title="E" />
+    <item drawable="erie_insurance" />
     <item drawable="endurvinnslan" />
     <item drawable="eufy" />
     <item drawable="entergy" />
@@ -4589,6 +4587,7 @@
 	<item drawable="osmand_" />
 	<item drawable="ovag_e_mobil" />
     <category title="P" />
+    <item drawable="pit_boss_grills" />
     <item drawable="proton_meet" />
     <item drawable="ps_trophies" />
     <item drawable="pokemon_tcgp" />

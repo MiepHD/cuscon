@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="changelog_date">25.06.2026</string>
+    <string name="changelog_date">03.07.2026</string>
     <string-array name="changelog">
+        <item>4.1.0.5:</item>
+        <item>Added Erie Insurance, Pit Boss Grills</item>
         <item>4.1.0.4:</item>
         <item>Added Azahar, Hardcover, ZayZoon, Acloset, STADTRADELN</item>
         <item>Updated lieferando, K9 Mail</item>
