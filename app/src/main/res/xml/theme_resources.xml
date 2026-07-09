@@ -7037,5 +7037,21 @@
     <AppIcon name="me.barta.stayintouch/me.barta.stayintouch.main.MainActivity" image="smart_contact_reminder"/>
     <AppIcon name="mx.bancosantander.supermovil/mx.bancosantander.supermovil.activities.splash.SplashActivity" image="santander_mx"/>
     <AppIcon name="org.cygnusx1.continuum/ml.docilealligator.infinityforreddit.activities.MainActivity" image="continuum"/>
+    <AppIcon name="com.vayunmathur.calendar/com.vayunmathur.calendar.MainActivity" image="calendar_vayunmathur"/>
+    <AppIcon name="com.unicornsonlsd.finamp/com.unicornsonlsd.finamp.MainActivity" image="finamp"/>
+    <AppIcon name="co.fable.fable/co.fable.fable.ui.main.MainActivity" image="fable"/>
+    <AppIcon name="com.globalcomix.mobileapp/com.globalcomix.mobileapp.MainActivity" image="globalcomix"/>
+    <AppIcon name="com.grupet.web.app/com.untis.mobile.ui.activities.launcher.LauncherActivity" image="untis_mobile"/>
+    <AppIcon name="com.voodoo.almanac/com.google.firebase.MessagingUnityPlayerActivity" image="almanac"/>
+    <AppIcon name="com.tuya.smartlife/com.smart.ThingSplashActivity" image="smartlife"/>
+    <AppIcon name="com.kikoff/com.kikoff.MainActivity" image="kikoff"/>
+    <AppIcon name="com.cyberjoy.galaxydefense/com.unity3d.player.UnityPlayerActivity" image="galaxy_defense"/>
+    <AppIcon name="com.spiceworks.helpdesk/com.spiceworks.presentation.MainActivity" image="spiceworks_help_desk"/>
+    <AppIcon name="com.ktre.android.weather/com.wsi.android.weather.ui.SplashScreen" image="ktreweather"/>
+    <AppIcon name="com.sonic.sonicdrivein/com.idpwhitelabel.MainActivity" image="sonic"/>
+    <AppIcon name="com.subway.mobile.subwayapp03/com.subway.na.lower.MainActivity" image="subway"/>
+    <AppIcon name="gov.texas.dir.txt.eProd/gov.texas.dir.txt.MainActivity" image="txt"/>
+    <AppIcon name="com.starlink.mobile/com.starlink.mobile.MainActivity" image="starlink"/>
+    <AppIcon name="com.matteljv.uno/com.netease.uno.CustomOverrideActivity" image="uno"/>
 
 </Theme>

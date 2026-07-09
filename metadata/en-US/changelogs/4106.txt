@@ -1,2 +1,3 @@
-Added Translator, WELT News, Kicktipp, Mergin Maps, TotalCmd-WebDAV (WEB-Ordner), Zoom Earth, Smart Contact Reminder, Santander, Continuum
-Fixed tagesschau
+Added Translator, WELT News, Kicktipp, Mergin Maps, TotalCmd-WebDAV (WEB-Ordner), Zoom Earth, Smart Contact Reminder, Santander, Continuum, Calendar, Fable, GlobalComix, Untis Mobile, Almanac, SmartLife, Kikoff, Galaxy Defense, Spiceworks, KTREweather, TxT, Starlink, UNO
+Fixed tagesschau, Finamp, Subway
+Improved and fixed Sonic

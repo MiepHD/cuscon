@@ -7149,6 +7149,23 @@
     <item component="ComponentInfo{me.barta.stayintouch/me.barta.stayintouch.main.MainActivity}" drawable="smart_contact_reminder" />
     <item component="ComponentInfo{mx.bancosantander.supermovil/mx.bancosantander.supermovil.activities.splash.SplashActivity}" drawable="santander_mx" />
     <item component="ComponentInfo{org.cygnusx1.continuum/ml.docilealligator.infinityforreddit.activities.MainActivity}" drawable="continuum" />
+    <item component="ComponentInfo{com.vayunmathur.calendar/com.vayunmathur.calendar.MainActivity}" drawable="calendar_vayunmathur" />
+    <item component="ComponentInfo{com.unicornsonlsd.finamp/com.unicornsonlsd.finamp.MainActivity}" drawable="finamp" />
+    <AppIcon name="com.unicornsonlsd.finamp/com.unicornsonlsd.finamp.MainActivity" image="finamp"/>
+    <item component="ComponentInfo{co.fable.fable/co.fable.fable.ui.main.MainActivity}" drawable="fable" />
+    <item component="ComponentInfo{com.globalcomix.mobileapp/com.globalcomix.mobileapp.MainActivity}" drawable="globalcomix" />
+    <item component="ComponentInfo{com.grupet.web.app/com.untis.mobile.ui.activities.launcher.LauncherActivity}" drawable="untis_mobile" />
+    <item component="ComponentInfo{com.voodoo.almanac/com.google.firebase.MessagingUnityPlayerActivity}" drawable="almanac" />
+    <item component="ComponentInfo{com.tuya.smartlife/com.smart.ThingSplashActivity}" drawable="smartlife" />
+    <item component="ComponentInfo{com.kikoff/com.kikoff.MainActivity}" drawable="kikoff" />
+    <item component="ComponentInfo{com.cyberjoy.galaxydefense/com.unity3d.player.UnityPlayerActivity}" drawable="galaxy_defense" />
+    <item component="ComponentInfo{com.spiceworks.helpdesk/com.spiceworks.presentation.MainActivity}" drawable="spiceworks_help_desk" />
+    <item component="ComponentInfo{com.ktre.android.weather/com.wsi.android.weather.ui.SplashScreen}" drawable="ktreweather" />
+    <item component="ComponentInfo{com.sonic.sonicdrivein/com.idpwhitelabel.MainActivity}" drawable="sonic" />
+    <item component="ComponentInfo{com.subway.mobile.subwayapp03/com.subway.na.lower.MainActivity}" drawable="subway" />
+    <item component="ComponentInfo{gov.texas.dir.txt.eProd/gov.texas.dir.txt.MainActivity}" drawable="txt" />
+    <item component="ComponentInfo{com.starlink.mobile/com.starlink.mobile.MainActivity}" drawable="starlink" />
+    <item component="ComponentInfo{com.matteljv.uno/com.netease.uno.CustomOverrideActivity}" drawable="uno" />
 
 </resources>
 
