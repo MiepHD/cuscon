@@ -7139,6 +7139,16 @@
     <item component="ComponentInfo{org.klimabuendnis.Stadtradeln/org.klimabuendnis.stadtradeln.MainActivity}" drawable="stadtradeln_mono"/>
     <item component="ComponentInfo{com.erieinsurance.customermobile/com.mendix.nativetemplate.MainActivity}" drawable="erie_insurance" />
     <item component="ComponentInfo{com.pitbossgrills.app/com.pitbossgrills.MainActivity}" drawable="pit_boss_grills" />
+    <item component="ComponentInfo{dev.davidv.translator/dev.davidv.translator.MainActivity}" drawable="translator_davidv" />
+    <item component="ComponentInfo{de.tagesschau/de.tagesschau.ui.MainActivity}" drawable="tagesschau" />
+    <item component="ComponentInfo{de.cellular.n24hybrid/de.weltn24.news.main.view.MainScreenActivity}" drawable="welt_news" />
+    <item component="ComponentInfo{de.kicktipp.mbookmark/de.kicktipp.mbookmark.KicktippActivity}" drawable="kicktipp" />
+    <item component="ComponentInfo{uk.co.lutraconsulting/uk.co.lutraconsulting.MMActivity}" drawable="mergin_maps" />
+    <item component="ComponentInfo{com.ghisler.tcplugins.WebDAV/com.android.tcplugins.FileSystem.AboutActivity}" drawable="totalcmd_webdav_web_ordner_" />
+    <item component="ComponentInfo{com.neave.zoomearth/com.neave.zoomearth.MainActivity}" drawable="zoom_earth" />
+    <item component="ComponentInfo{me.barta.stayintouch/me.barta.stayintouch.main.MainActivity}" drawable="smart_contact_reminder" />
+    <item component="ComponentInfo{mx.bancosantander.supermovil/mx.bancosantander.supermovil.activities.splash.SplashActivity}" drawable="santander_mx" />
+    <item component="ComponentInfo{org.cygnusx1.continuum/ml.docilealligator.infinityforreddit.activities.MainActivity}" drawable="continuum" />
 
 </resources>
 

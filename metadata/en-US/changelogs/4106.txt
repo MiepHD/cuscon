@@ -1,0 +1,2 @@
+Added Translator, WELT News, Kicktipp, Mergin Maps, TotalCmd-WebDAV (WEB-Ordner), Zoom Earth, Smart Contact Reminder, Santander, Continuum
+Fixed tagesschau

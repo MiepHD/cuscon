@@ -7027,5 +7027,15 @@
     <AppIcon name="org.klimabuendnis.Stadtradeln/org.klimabuendnis.stadtradeln.MainActivity" image="stadtradeln_mono"/>
     <AppIcon name="com.erieinsurance.customermobile/com.mendix.nativetemplate.MainActivity" image="erie_insurance"/>
     <AppIcon name="com.pitbossgrills.app/com.pitbossgrills.MainActivity" image="pit_boss_grills"/>
+    <AppIcon name="dev.davidv.translator/dev.davidv.translator.MainActivity" image="translator_davidv"/>
+    <AppIcon name="de.tagesschau/de.tagesschau.ui.MainActivity" image="tagesschau"/>
+    <AppIcon name="de.cellular.n24hybrid/de.weltn24.news.main.view.MainScreenActivity" image="welt_news"/>
+    <AppIcon name="de.kicktipp.mbookmark/de.kicktipp.mbookmark.KicktippActivity" image="kicktipp"/>
+    <AppIcon name="uk.co.lutraconsulting/uk.co.lutraconsulting.MMActivity" image="mergin_maps"/>
+    <AppIcon name="com.ghisler.tcplugins.WebDAV/com.android.tcplugins.FileSystem.AboutActivity" image="totalcmd_webdav_web_ordner_"/>
+    <AppIcon name="com.neave.zoomearth/com.neave.zoomearth.MainActivity" image="zoom_earth"/>
+    <AppIcon name="me.barta.stayintouch/me.barta.stayintouch.main.MainActivity" image="smart_contact_reminder"/>
+    <AppIcon name="mx.bancosantander.supermovil/mx.bancosantander.supermovil.activities.splash.SplashActivity" image="santander_mx"/>
+    <AppIcon name="org.cygnusx1.continuum/ml.docilealligator.infinityforreddit.activities.MainActivity" image="continuum"/>
 
 </Theme>
