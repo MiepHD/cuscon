@@ -7055,5 +7055,20 @@
     <AppIcon name="com.matteljv.uno/com.netease.uno.CustomOverrideActivity" image="uno"/>
     <AppIcon name="ai.x.grok/ai.x.grok.main.GrokActivity" image="grok"/>
     <AppIcon name="com.vitotechnology.StarWalk2Free/com.google.firebase.MessagingUnityPlayerActivity" image="star_walk_2"/>
+    <AppIcon name="com.rbc.mobile.android/com.rbc.mobile.bud.pre_auth.common.activity.SplashActivity" image="rbc_mobile"/>
+    <AppIcon name="com.wealthsimple.trade/com.wealthsimple.trade.MainActivityDefault" image="wealthsimple"/>
+    <AppIcon name="com.cibc.android.mobi/com.cibc.android.mobi.banking.main.activities.MainActivity" image="cibc_banking"/>
+    <AppIcon name="ca.allstate.blueocean/ca.allstate.blueocean.launcher.LauncherActivity" image="allstate"/>
+    <AppIcon name="com.affirm.central/com.affirm.central.RootActivity" image="affirm"/>
+    <AppIcon name="com.americanexpress.android.acctsvcs.ca/com.americanexpress.android.intl.app.view.activity.SplashInitializationActivity" image="amex_ca"/>
+    <AppIcon name="de.authada.id/de.authada.app.base.MainActivity" image="authada"/>
+    <AppIcon name="app.based.mobile/app.based.mobile.MainActivity" image="based"/>
+    <AppIcon name="com.spond.spond/com.spond.view.activities.LaunchActivity" image="spond"/>
+    <AppIcon name="com.lostf1sh.pixelplayeross/com.lostf1sh.pixelplayeross.MainActivity" image="pixelplayeross"/>
+    <AppIcon name="com.myprospera.banking/com.lumindigital.MainActivity" image="prosperacu"/>
+    <AppIcon name="com.bestbuy.android/com.bestbuy.android.activity.SplashActivity" image="best_buy"/>
+    <AppIcon name="com.cvs.launchers.cvs/com.cvs.MainActivity" image="cvs_health"/>
+    <AppIcon name="com.pushd.client/com.pushd.client.ui.LaunchActivity" image="aura"/>
+    <AppIcon name="de.jeanlucmakiola.calendula/de.jeanlucmakiola.calendula.MainActivity" image="calendula"/>
 
 </Theme>

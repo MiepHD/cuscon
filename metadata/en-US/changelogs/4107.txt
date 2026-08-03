@@ -1,2 +1,2 @@
-Added Grok
-Updated & fixed Star Walk 2
+Added Grok, RBC Mobile, Wealthsimple, CIBC Banking, Allstate, Amex CA, AUTHADA, based, Spond, PixelPlayerOSS, ProsperaCU, Best Buy, CVS Health, Aura, Calendula
+Updated and fixed Star Walk 2, Affirm

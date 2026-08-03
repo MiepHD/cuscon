@@ -7168,7 +7168,23 @@
     <item component="ComponentInfo{com.matteljv.uno/com.netease.uno.CustomOverrideActivity}" drawable="uno" />
     <item component="ComponentInfo{ai.x.grok/ai.x.grok.main.GrokActivity}" drawable="grok" />
     <item component="ComponentInfo{com.vitotechnology.StarWalk2Free/com.google.firebase.MessagingUnityPlayerActivity}" drawable="star_walk_2" />
-
+    <item component="ComponentInfo{com.rbc.mobile.android/com.rbc.mobile.bud.pre_auth.common.activity.SplashActivity}" drawable="rbc_mobile" />
+    <item component="ComponentInfo{com.wealthsimple.trade/com.wealthsimple.trade.MainActivityDefault}" drawable="wealthsimple" />
+    <item component="ComponentInfo{com.cibc.android.mobi/com.cibc.android.mobi.banking.main.activities.MainActivity}" drawable="cibc_banking" />
+    <item component="ComponentInfo{ca.allstate.blueocean/ca.allstate.blueocean.launcher.LauncherActivity}" drawable="allstate" />
+    <item component="ComponentInfo{com.affirm.central/com.affirm.central.RootActivity}" drawable="affirm" />
+    <item component="ComponentInfo{com.americanexpress.android.acctsvcs.ca/com.americanexpress.android.intl.app.view.activity.SplashInitializationActivity}" drawable="amex_ca" />
+    <item component="ComponentInfo{de.authada.id/de.authada.app.base.MainActivity}" drawable="authada" />
+    <item component="ComponentInfo{app.based.mobile/app.based.mobile.MainActivity}" drawable="based" />
+    <item component="ComponentInfo{com.spond.spond/com.spond.view.activities.LaunchActivity}" drawable="spond" />
+    <item component="ComponentInfo{com.lostf1sh.pixelplayeross/com.lostf1sh.pixelplayeross.MainActivity}" drawable="pixelplayeross" />
+    <item component="ComponentInfo{com.myprospera.banking/com.lumindigital.MainActivity}" drawable="prosperacu" />
+    <item component="ComponentInfo{com.bestbuy.android/com.bestbuy.android.activity.SplashActivity}" drawable="best_buy" />
+    <item component="ComponentInfo{com.cvs.launchers.cvs/com.cvs.MainActivity}" drawable="cvs_health" />
+    <item component="ComponentInfo{com.pushd.client/com.pushd.client.ui.LaunchActivity}" drawable="aura" />
+    <item component="ComponentInfo{de.jeanlucmakiola.calendula/de.jeanlucmakiola.calendula.MainActivity}" drawable="calendula" />
+    <calendar component="ComponentInfo{de.jeanlucmakiola.calendula/de.jeanlucmakiola.calendula.MainActivity}" prefix="calendula_" />
+    
 </resources>
 
 

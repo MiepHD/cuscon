@@ -3,8 +3,8 @@
     <string name="changelog_date">03.08.2026</string>
     <string-array name="changelog">
         <item>4.1.0.7:</item>
-        <item>Added Grok</item>
-        <item>Updated & fixed Star Walk 2</item>
+        <item>Added Grok, RBC Mobile, Wealthsimple, CIBC Banking, Allstate, Amex CA, AUTHADA, based, Spond, PixelPlayerOSS, ProsperaCU, Best Buy, CVS Health, Aura, Calendula</item>
+        <item>Updated and fixed Star Walk 2, Affirm</item>
         <item>4.1.0.6:</item>
         <item>Added Translator, WELT News, Kicktipp, Mergin Maps, TotalCmd-WebDAV (WEB-Ordner), Zoom Earth, Smart Contact Reminder, Santander, Continuum, Calendar, Fable, GlobalComix, Untis Mobile, Almanac, SmartLife, Kikoff, Galaxy Defense, Spiceworks, KTREweather, TxT, Starlink, UNO</item>
         <item>Fixed tagesschau, Finamp, Subway</item>
