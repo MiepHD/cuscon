@@ -7166,6 +7166,8 @@
     <item component="ComponentInfo{gov.texas.dir.txt.eProd/gov.texas.dir.txt.MainActivity}" drawable="txt" />
     <item component="ComponentInfo{com.starlink.mobile/com.starlink.mobile.MainActivity}" drawable="starlink" />
     <item component="ComponentInfo{com.matteljv.uno/com.netease.uno.CustomOverrideActivity}" drawable="uno" />
+    <item component="ComponentInfo{ai.x.grok/ai.x.grok.main.GrokActivity}" drawable="grok" />
+    <item component="ComponentInfo{com.vitotechnology.StarWalk2Free/com.google.firebase.MessagingUnityPlayerActivity}" drawable="star_walk_2" />
 
 </resources>
 

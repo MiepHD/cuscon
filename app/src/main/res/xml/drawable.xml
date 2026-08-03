@@ -2,28 +2,8 @@
 <resources>
     <version>1</version>
     <category title="New Icons" />
-    <item drawable="translator_davidv" />
-    <item drawable="welt_news" />
-    <item drawable="kicktipp" />
-    <item drawable="mergin_maps" />
-    <item drawable="totalcmd_webdav_web_ordner_" />
-    <item drawable="zoom_earth" />
-    <item drawable="smart_contact_reminder" />
-    <item drawable="santander_mx" />
-    <item drawable="continuum" />
-    <item drawable="calendar_vayunmathur" />
-    <item drawable="fable" />
-    <item drawable="globalcomix" />
-    <item drawable="untis_mobile" />
-    <item drawable="almanac" />
-    <item drawable="smartlife" />
-    <item drawable="kikoff" />
-    <item drawable="galaxy_defense" />
-    <item drawable="spiceworks_help_desk" />
-    <item drawable="ktreweather" />
-    <item drawable="txt" />
-    <item drawable="starlink" />
-    <item drawable="uno" />
+    <item drawable="grok" />
+    <item drawable="star_walk_2" />
     <category title="Folders" />
     <item drawable="folder_blue" />
     <item drawable="folder_dark_blue" />
@@ -2668,6 +2648,7 @@
 	<item drawable="futo_voice_input" />
 	<item drawable="fx" />
     <category title="G" />
+    <item drawable="grok" />
     <item drawable="galaxy_defense" />
     <item drawable="globalcomix" />
     <item drawable="grim_quest" />

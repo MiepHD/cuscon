@@ -7053,5 +7053,7 @@
     <AppIcon name="gov.texas.dir.txt.eProd/gov.texas.dir.txt.MainActivity" image="txt"/>
     <AppIcon name="com.starlink.mobile/com.starlink.mobile.MainActivity" image="starlink"/>
     <AppIcon name="com.matteljv.uno/com.netease.uno.CustomOverrideActivity" image="uno"/>
+    <AppIcon name="ai.x.grok/ai.x.grok.main.GrokActivity" image="grok"/>
+    <AppIcon name="com.vitotechnology.StarWalk2Free/com.google.firebase.MessagingUnityPlayerActivity" image="star_walk_2"/>
 
 </Theme>
