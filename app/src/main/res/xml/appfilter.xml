@@ -7184,6 +7184,26 @@
     <item component="ComponentInfo{com.pushd.client/com.pushd.client.ui.LaunchActivity}" drawable="aura" />
     <item component="ComponentInfo{de.jeanlucmakiola.calendula/de.jeanlucmakiola.calendula.MainActivity}" drawable="calendula" />
     <calendar component="ComponentInfo{de.jeanlucmakiola.calendula/de.jeanlucmakiola.calendula.MainActivity}" prefix="calendula_" />
+    <item component="ComponentInfo{com.wecenergygroup.we/com.wec.weenergies.screens.landing.LandingActivity}" drawable="we_energies" />
+    <item component="ComponentInfo{casa.dsen.ghee/casa.dsen.ghee.MainActivity}" drawable="ghee" />
+    <item component="ComponentInfo{org.woheller69.level/org.woheller69.level.Level}" drawable="bubble_woheller69" />
+    <item component="ComponentInfo{org.chromium.webapk.aa6cef6396229c2e3_v2/org.chromium.webapk.shell_apk.h2o.H2OOpaqueMainActivity}" drawable="onlyfans" />
+    <item component="ComponentInfo{com.microsoft.copilot/com.microsoft.copilotn.MainActivityDefault}" drawable="copilot" />
+    <item component="ComponentInfo{journal.gratitude.com.gratitudejournal/journal.gratitude.com.gratitudejournal.ContainerActivity}" drawable="presently" />
+    <item component="ComponentInfo{com.corymottice.wiseweather/com.corymottice.wiseweather.MainActivity}" drawable="everythingwx" />
+    <item component="ComponentInfo{com.motorola.timeweatherwidget/com.motorola.commandcenter.MainActivity}" drawable="el_tiempo_motorola" />
+    <item component="ComponentInfo{com.cosmovex.nettoolkit/com.cosmovex.nettoolkit.MainActivity}" drawable="network_toolkit" />
+    <item component="ComponentInfo{com.theboisclub.pokemonred/org.love2d.android.GameActivity}" drawable="gen1recomp" />
+    <item component="ComponentInfo{app.symfonik.music.player/app.symfonik.ui.MainActivity.Note}" drawable="symfonium_v2" />
+    <item component="ComponentInfo{com.picknsave.mobile/com.kroger.mobile.BannerSelectionActivity}" drawable="pick_n_save" />
+    <item component="ComponentInfo{com.goodrx/com.goodrx.splash.ui.SplashActivity}" drawable="goodrx" />
+    <item component="ComponentInfo{com.begma.bhoppro/com.unity3d.player.UnityPlayerActivity}" drawable="bhop_pro" />
+    <item component="ComponentInfo{com.elation.patientpassportapp/com.elation.patientpassportapp.MainActivity}" drawable="passport_elation" />
+    <item component="ComponentInfo{org.chromium.webapk.a7f0206848ad54ad2_v2/org.chromium.webapk.shell_apk.h2o.H2OOpaqueMainActivity}" drawable="bookorbit" />
+    <item component="ComponentInfo{io.github.rinoprogram.audiovisualizer/io.github.rinoprogram.audiovisualizer.MainActivity}" drawable="audiovisualizer"/>
+    <item component="ComponentInfo{com.netflix.NGP.underwatermelonfruitmerge/com.unity3d.player.UnityPlayerActivity}" drawable="underwatermelon" />
+    <item component="ComponentInfo{com.littletrickster.scanner/com.littletrickster.scanner.ScanActivity}" drawable="pdfdocscan"/>
+    <item component="ComponentInfo{app.pwhs.universalinstaller/app.pwhs.universalinstaller.presentation.splash.SplashActivity}" drawable="universalinstaller"/>
     
 </resources>
 

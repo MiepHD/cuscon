@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="changelog_date">03.08.2026</string>
+    <string name="changelog_date">19.08.2026</string>
     <string-array name="changelog">
+        <item>4.1.0.8:</item>
+        <item>Added We Energies, Ghee, Bubble, Presently, EverythingWx, El tiempo, Network Toolkit, gen1recomp, Pick n Save, GoodRx, bhop pro, Passport, BookOrbit, Audio Visualizer, Underwatermelon, PDF Doc Scan, Universal Installer</item>
+        <item>Fixed and improved OnlyFans, Copilot</item>
+        <item>Fixed and updated Symfonium</item>
         <item>4.1.0.7:</item>
         <item>Added Grok, RBC Mobile, Wealthsimple, CIBC Banking, Allstate, Amex CA, AUTHADA, based, Spond, PixelPlayerOSS, ProsperaCU, Best Buy, CVS Health, Aura, Calendula</item>
         <item>Updated and fixed Star Walk 2, Affirm</item>

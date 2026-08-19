@@ -2,23 +2,26 @@
 <resources>
     <version>1</version>
     <category title="New Icons" />
-    <item drawable="grok" />
-    <item drawable="star_walk_2" />
-    <item drawable="rbc_mobile" />
-    <item drawable="wealthsimple" />
-    <item drawable="cibc_banking" />
-    <item drawable="allstate" />
-    <item drawable="affirm" />
-    <item drawable="amex_ca" />
-    <item drawable="authada" />
-    <item drawable="based" />
-    <item drawable="spond" />
-    <item drawable="pixelplayeross" />
-    <item drawable="prosperacu" />
-    <item drawable="best_buy" />
-    <item drawable="cvs_health" />
-    <item drawable="aura" />
-    <item drawable="calendula" />
+    <item drawable="we_energies" />
+    <item drawable="ghee" />
+    <item drawable="bubble_woheller69" />
+    <item drawable="onlyfans" />
+    <item drawable="copilot" />
+    <item drawable="presently" />
+    <item drawable="everythingwx" />
+    <item drawable="el_tiempo_motorola" />
+    <item drawable="network_toolkit" />
+    <item drawable="gen1recomp" />
+    <item drawable="symfonium_v2" />
+    <item drawable="pick_n_save" />
+    <item drawable="goodrx" />
+    <item drawable="bhop_pro" />
+    <item drawable="passport_elation" />
+    <item drawable="bookorbit" />
+    <item drawable="audiovisualizer"/>
+    <item drawable="underwatermelon" />
+    <item drawable="pdfdocscan"/>
+    <item drawable="universalinstaller"/>
     <category title="Folders" />
     <item drawable="folder_blue" />
     <item drawable="folder_dark_blue" />
@@ -845,6 +848,7 @@
     <item drawable="_f_droid_kdi" />
     <item drawable="_sound_" />
     <category title="A" />
+    <item drawable="audiovisualizer"/>
     <item drawable="aura" />
     <item drawable="authada" />
     <item drawable="amex_ca" />
@@ -1257,6 +1261,9 @@
 	<item drawable="awoken" />
 	<item drawable="awox_homecontrol" />
     <category title="B" />
+    <item drawable="bookorbit" />
+    <item drawable="bhop_pro" />
+    <item drawable="bubble_woheller69" />
     <item drawable="based" />
     <item drawable="best_buy" />
     <item drawable="blood_donor" />
@@ -2243,6 +2250,8 @@
 	<item drawable="dynalist" />
 	<item drawable="dynamicspot" />
     <category title="E" />
+    <item drawable="el_tiempo_motorola" />
+    <item drawable="everythingwx" />
     <item drawable="erie_insurance" />
     <item drawable="endurvinnslan" />
     <item drawable="eufy" />
@@ -2703,6 +2712,9 @@
 	<item drawable="futo_voice_input" />
 	<item drawable="fx" />
     <category title="G" />
+    <item drawable="goodrx" />
+    <item drawable="gen1recomp" />
+    <item drawable="ghee" />
     <item drawable="grok" />
     <item drawable="galaxy_defense" />
     <item drawable="globalcomix" />
@@ -4236,6 +4248,7 @@
 	<item drawable="myumobile" />
     <item drawable="mbank" />
     <category title="N" />
+    <item drawable="network_toolkit" />
     <item drawable="nitterium" />
     <item drawable="natwest" />
     <item drawable="ninjaone" />
@@ -4653,6 +4666,10 @@
 	<item drawable="osmand_" />
 	<item drawable="ovag_e_mobil" />
     <category title="P" />
+    <item drawable="pdfdocscan"/>
+    <item drawable="passport_elation" />
+    <item drawable="pick_n_save" />
+    <item drawable="presently" />
     <item drawable="prosperacu" />
     <item drawable="pixelplayeross" />
     <item drawable="pit_boss_grills" />
@@ -5366,6 +5383,7 @@
 	<item drawable="rustdesk" />
 	<item drawable="rvx_music" />
     <category title="S" />
+    <item drawable="symfonium_v2" />
     <item drawable="spond" />
     <item drawable="starlink" />
     <item drawable="spiceworks_help_desk" />
@@ -6310,6 +6328,8 @@
 	<item drawable="tux_paint_config" />
 	<item drawable="twelve_key_dialer" />
     <category title="U" />
+    <item drawable="universalinstaller"/>
+    <item drawable="underwatermelon" />
     <item drawable="uno" />
     <item drawable="untis_mobile" />
     <item drawable="ukg_pro" />
@@ -6647,6 +6667,7 @@
     <item drawable="wifi_signal_meter" />
     <item drawable="ampwifi" />
     <category title="W" />
+    <item drawable="we_energies" />
     <item drawable="wealthsimple" />
     <item drawable="welt_news" />
     <item drawable="withings" />

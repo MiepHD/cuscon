@@ -7070,5 +7070,25 @@
     <AppIcon name="com.cvs.launchers.cvs/com.cvs.MainActivity" image="cvs_health"/>
     <AppIcon name="com.pushd.client/com.pushd.client.ui.LaunchActivity" image="aura"/>
     <AppIcon name="de.jeanlucmakiola.calendula/de.jeanlucmakiola.calendula.MainActivity" image="calendula"/>
+    <AppIcon name="com.wecenergygroup.we/com.wec.weenergies.screens.landing.LandingActivity" image="we_energies"/>
+    <AppIcon name="casa.dsen.ghee/casa.dsen.ghee.MainActivity" image="ghee"/>
+    <AppIcon name="org.woheller69.level/org.woheller69.level.Level" image="bubble_woheller69"/>
+    <AppIcon name="org.chromium.webapk.aa6cef6396229c2e3_v2/org.chromium.webapk.shell_apk.h2o.H2OOpaqueMainActivity" image="onlyfans"/>
+    <AppIcon name="com.microsoft.copilot/com.microsoft.copilotn.MainActivityDefault" image="copilot"/>
+    <AppIcon name="journal.gratitude.com.gratitudejournal/journal.gratitude.com.gratitudejournal.ContainerActivity" image="presently"/>
+    <AppIcon name="com.corymottice.wiseweather/com.corymottice.wiseweather.MainActivity" image="everythingwx"/>
+    <AppIcon name="com.motorola.timeweatherwidget/com.motorola.commandcenter.MainActivity" image="el_tiempo_motorola"/>
+    <AppIcon name="com.cosmovex.nettoolkit/com.cosmovex.nettoolkit.MainActivity" image="network_toolkit"/>
+    <AppIcon name="com.theboisclub.pokemonred/org.love2d.android.GameActivity" image="gen1recomp"/>
+    <AppIcon name="app.symfonik.music.player/app.symfonik.ui.MainActivity.Note" image="symfonium_v2"/>
+    <AppIcon name="com.picknsave.mobile/com.kroger.mobile.BannerSelectionActivity" image="pick_n_save"/>
+    <AppIcon name="com.goodrx/com.goodrx.splash.ui.SplashActivity" image="goodrx"/>
+    <AppIcon name="com.begma.bhoppro/com.unity3d.player.UnityPlayerActivity" image="bhop_pro"/>
+    <AppIcon name="com.elation.patientpassportapp/com.elation.patientpassportapp.MainActivity" image="passport_elation"/>
+    <AppIcon name="org.chromium.webapk.a7f0206848ad54ad2_v2/org.chromium.webapk.shell_apk.h2o.H2OOpaqueMainActivity" image="bookorbit"/>
+    <AppIcon name="io.github.rinoprogram.audiovisualizer/io.github.rinoprogram.audiovisualizer.MainActivity" image="audiovisualizer"/>
+    <AppIcon name="com.netflix.NGP.underwatermelonfruitmerge/com.unity3d.player.UnityPlayerActivity" image="underwatermelon"/>
+    <AppIcon name="com.littletrickster.scanner/com.littletrickster.scanner.ScanActivity" image="pdfdocscan"/>
+    <AppIcon name="app.pwhs.universalinstaller/app.pwhs.universalinstaller.presentation.splash.SplashActivity" image="universalinstaller"/>
 
 </Theme>
