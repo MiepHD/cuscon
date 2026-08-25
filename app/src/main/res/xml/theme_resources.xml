@@ -7090,5 +7090,21 @@
     <AppIcon name="com.netflix.NGP.underwatermelonfruitmerge/com.unity3d.player.UnityPlayerActivity" image="underwatermelon"/>
     <AppIcon name="com.littletrickster.scanner/com.littletrickster.scanner.ScanActivity" image="pdfdocscan"/>
     <AppIcon name="app.pwhs.universalinstaller/app.pwhs.universalinstaller.presentation.splash.SplashActivity" image="universalinstaller"/>
+    <AppIcon name="net.mullvad.mullvadvpn/net.mullvad.mullvadvpn.feature.appearance.impl.obfuscation.MainActivityAltDefault" image="mullvad_vpn"/>
+    <AppIcon name="ch.tpg.boldor/ch.tpg.boldor.MainActivity" image="tpg_"/>
+    <AppIcon name="com.cern_alumni.app/com.cern_alumni.app.MainActivity" image="cern_alumni"/>
+    <AppIcon name="coredevices.coreapp/coredevices.coreapp.MainActivity" image="pebble"/>
+    <AppIcon name="com.mona_prod.bad/com.e_i.bad.controls.activities.StartActivity" image="monabanq"/>
+    <AppIcon name="org.pocketcampus.pccern/org.pocketcampus.plugin.dashboard.android.DashboardMainActivity" image="cern_campus"/>
+    <AppIcon name="com.ubs.swidKXJ.android/com.ubs.swidKXJ.mobilebanking.shared.activity.ApplicationActivity" image="ubs_banking"/>
+    <AppIcon name="fr.bouyguestelecom.ecm.android/com.bouyguestelecom.mcare.debug.LaunchActivity" image="bouygues"/>
+    <AppIcon name="ma.gbp.pocketbank/ma.gbp.pocketbank.MainActivity" image="pocket_bank"/>
+    <AppIcon name="ma.inwi.win/ma.inwi.noor.ui.splash.SplashActivity" image="win"/>
+    <AppIcon name="com.voltasit.obdeleven/com.voltasit.obdeleven.presentation.startup.StartupActivity" image="obdeleven"/>
+    <AppIcon name="com.activision.callofduty.shooter/com.tencent.tmgp.cod.CODMPrivatePermissionActivity" image="call_of_duty"/>
+    <AppIcon name="com.xe.currency/com.xe.currency.MainActivity" image="xe"/>
+    <AppIcon name="zxc.laitooo.manga.online/zxc.laitooo.manga.online.MainActivity" image="zxc_laitooo_manga_online"/>
+    <AppIcon name="ma.neoxia.macnss/ma.neoxia.macnss.MainActivity" image="macnss"/>
+    <AppIcon name="com.corelink.earfun/com.corelink.earfun.page.login.WelcomeActivity" image="earfun_audio"/>
 
 </Theme>

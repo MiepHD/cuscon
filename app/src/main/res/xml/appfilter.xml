@@ -7204,6 +7204,22 @@
     <item component="ComponentInfo{com.netflix.NGP.underwatermelonfruitmerge/com.unity3d.player.UnityPlayerActivity}" drawable="underwatermelon" />
     <item component="ComponentInfo{com.littletrickster.scanner/com.littletrickster.scanner.ScanActivity}" drawable="pdfdocscan"/>
     <item component="ComponentInfo{app.pwhs.universalinstaller/app.pwhs.universalinstaller.presentation.splash.SplashActivity}" drawable="universalinstaller"/>
+    <item component="ComponentInfo{net.mullvad.mullvadvpn/net.mullvad.mullvadvpn.feature.appearance.impl.obfuscation.MainActivityAltDefault}" drawable="mullvad_vpn" />
+    <item component="ComponentInfo{ch.tpg.boldor/ch.tpg.boldor.MainActivity}" drawable="tpg_" />
+    <item component="ComponentInfo{com.cern_alumni.app/com.cern_alumni.app.MainActivity}" drawable="cern_alumni" />
+    <item component="ComponentInfo{coredevices.coreapp/coredevices.coreapp.MainActivity}" drawable="pebble" />
+    <item component="ComponentInfo{com.mona_prod.bad/com.e_i.bad.controls.activities.StartActivity}" drawable="monabanq" />
+    <item component="ComponentInfo{org.pocketcampus.pccern/org.pocketcampus.plugin.dashboard.android.DashboardMainActivity}" drawable="cern_campus" />
+    <item component="ComponentInfo{com.ubs.swidKXJ.android/com.ubs.swidKXJ.mobilebanking.shared.activity.ApplicationActivity}" drawable="ubs_banking" />
+    <item component="ComponentInfo{fr.bouyguestelecom.ecm.android/com.bouyguestelecom.mcare.debug.LaunchActivity}" drawable="bouygues" />
+    <item component="ComponentInfo{ma.gbp.pocketbank/ma.gbp.pocketbank.MainActivity}" drawable="pocket_bank" />
+    <item component="ComponentInfo{ma.inwi.win/ma.inwi.noor.ui.splash.SplashActivity}" drawable="win" />
+    <item component="ComponentInfo{com.voltasit.obdeleven/com.voltasit.obdeleven.presentation.startup.StartupActivity}" drawable="obdeleven" />
+    <item component="ComponentInfo{com.activision.callofduty.shooter/com.tencent.tmgp.cod.CODMPrivatePermissionActivity}" drawable="call_of_duty" />
+    <item component="ComponentInfo{com.xe.currency/com.xe.currency.MainActivity}" drawable="xe" />
+    <item component="ComponentInfo{zxc.laitooo.manga.online/zxc.laitooo.manga.online.MainActivity}" drawable="zxc_laitooo_manga_online" />
+    <item component="ComponentInfo{ma.neoxia.macnss/ma.neoxia.macnss.MainActivity}" drawable="macnss" />
+    <item component="ComponentInfo{com.corelink.earfun/com.corelink.earfun.page.login.WelcomeActivity}" drawable="earfun_audio" />
     
 </resources>
 
