@@ -1,0 +1,26 @@
+name: Test F-Droid Buildserver
+
+on:
+  push:
+    branches: [ "main", "master" ]
+  pull_request:
+    branches: [ "main", "master" ]
+  workflow_dispatch:
+
+jobs:
+  fdroid-test:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Test F-Droid Build Environment
+        uses: addnab/docker-run-action@v3
+        with:
+          image: registry.gitlab.com/fdroid/fdroidserver:buildserver
+          options: -v ${{ github.workspace }}:/build
+          run: |
+            cd /build
+            fdroid readmeta
+            fdroid build --verbose --dry-run
