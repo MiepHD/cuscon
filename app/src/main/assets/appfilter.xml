@@ -7220,6 +7220,16 @@
     <item component="ComponentInfo{zxc.laitooo.manga.online/zxc.laitooo.manga.online.MainActivity}" drawable="zxc_laitooo_manga_online" />
     <item component="ComponentInfo{ma.neoxia.macnss/ma.neoxia.macnss.MainActivity}" drawable="macnss" />
     <item component="ComponentInfo{com.corelink.earfun/com.corelink.earfun.page.login.WelcomeActivity}" drawable="earfun_audio" />
+    <item component="ComponentInfo{com.useorigin.employee.android/com.useorigin.employee.android.MainActivity}" drawable="origin" />
+    <item component="ComponentInfo{io.github.tsutsu3.pi_hole_client/io.github.tsutsu3.pi_hole_client.MainActivity}" drawable="pi_hole_client" />
+    <item component="ComponentInfo{de.parteibook24/de.parteibook24.MainActivity}" drawable="poli_social" />
+    <item component="ComponentInfo{com.restegourmet.rg_eat/com.restegourmet.rg_eat.MainActivity}" drawable="restegourmet" />
+    <item component="ComponentInfo{com.ladeon.shortstop/com.ladeon.shortstop.MainActivity}" drawable="shortstop" />
+    <item component="ComponentInfo{com.recipesage.app/com.recipesage.app.LauncherActivity}" drawable="recipesage" />
+    <item component="ComponentInfo{de.lomino.kobuu/de.lomino.kobuu.MainActivity}" drawable="kobuu" />
+    <item component="ComponentInfo{com.intvl.app/com.intvl.app.MainActivity}" drawable="intvl" />
+    <item component="ComponentInfo{com.clearchannel.iheartradio.controller/com.iheart.activities.NavDrawerActivity}" drawable="iheartradio" />
+    <item component="ComponentInfo{com.rubberbandgames.wobblylifev2/com.google.firebase.MessagingUnityPlayerActivity}" drawable="wobbly_life" />
     
 </resources>
 

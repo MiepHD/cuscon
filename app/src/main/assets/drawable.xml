@@ -7,6 +7,9 @@
     <item drawable="cern_alumni"/>
     <item drawable="cern_campus"/>
     <item drawable="earfun_audio"/>
+    <item drawable="iheartradio"/>
+    <item drawable="intvl"/>
+    <item drawable="kobuu"/>
     <item drawable="macnss"/>
     <item drawable="monabanq"/>
     <item drawable="mullvad_vpn"/>
@@ -15,9 +18,14 @@
     <item drawable="pebble"/>
     <item drawable="pi_hole_client"/>
     <item drawable="pocket_bank"/>
+    <item drawable="poli_social"/>
+    <item drawable="recipesage"/>
+    <item drawable="restegourmet"/>
+    <item drawable="shortstop"/>
     <item drawable="tpg_"/>
     <item drawable="ubs_banking"/>
     <item drawable="win"/>
+    <item drawable="wobbly_life"/>
     <item drawable="xe"/>
     <item drawable="zxc_laitooo_manga_online"/>
     <category title="Folders"/>
@@ -3172,6 +3180,7 @@
     <item drawable="ifttt"/>
     <item drawable="ifvod"/>
     <item drawable="ignition_casino"/>
+    <item drawable="iheartradio"/>
     <item drawable="iherb"/>
     <item drawable="ihg"/>
     <item drawable="ihop"/>
@@ -3263,6 +3272,7 @@
     <item drawable="intervall_timer"/>
     <item drawable="intervalltimer"/>
     <item drawable="intixdwc_adc"/>
+    <item drawable="intvl"/>
     <item drawable="inure"/>
     <item drawable="inventory"/>
     <item drawable="invizible_pro"/>
@@ -3481,6 +3491,7 @@
     <item drawable="kmeet"/>
     <item drawable="knowdrugs"/>
     <item drawable="kobocollect"/>
+    <item drawable="kobuu"/>
     <item drawable="kochloffel"/>
     <item drawable="koda_for_kustom"/>
     <item drawable="kodak_mobile_film_scanner"/>
@@ -4971,6 +4982,7 @@
     <item drawable="polar_mirror"/>
     <item drawable="polaris_office"/>
     <item drawable="polarsteps"/>
+    <item drawable="poli_social"/>
     <item drawable="policybazaar"/>
     <item drawable="polizeibericht"/>
     <item drawable="poly_bridge_2"/>
@@ -5214,6 +5226,7 @@
     <item drawable="realtorcom"/>
     <item drawable="rec_studio_lite"/>
     <item drawable="recap"/>
+    <item drawable="recipesage"/>
     <item drawable="record_you"/>
     <item drawable="recreationgov"/>
     <item drawable="recup"/>
@@ -5274,6 +5287,7 @@
     <item drawable="resplash"/>
     <item drawable="resso"/>
     <item drawable="rest"/>
+    <item drawable="restegourmet"/>
     <item drawable="resume_builder"/>
     <item drawable="rethink"/>
     <item drawable="retouch"/>
@@ -5563,6 +5577,7 @@
     <item drawable="shortcut_maker"/>
     <item drawable="shortcut_manager"/>
     <item drawable="shortcuts_widget"/>
+    <item drawable="shortstop"/>
     <item drawable="shortwave"/>
     <item drawable="shosetsu"/>
     <item drawable="shouter"/>
@@ -6835,6 +6850,7 @@
     <item drawable="wizz_air"/>
     <item drawable="wlanscanner"/>
     <item drawable="wlanscanner_by_latetech"/>
+    <item drawable="wobbly_life"/>
     <item drawable="wochenplaner"/>
     <item drawable="wodbuster"/>
     <item drawable="wohin_du_willst"/>

@@ -86,20 +86,19 @@ dependencies {
 	fossImplementation 'com.github.Donnnno:candybar-foss:3.22.2'
 }
 
-// Code for automatically copying appfilter.xml and drawable.xml
-// from `res/xml` directory to `assets` directory
-tasks.register('finishXMLs', Exec) {
+def sortDrawable = tasks.register('sortDrawable', Exec) {
     commandLine 'python', 'sort_drawable.py'
-    ['appfilter.xml', 'drawable.xml'].each { file ->
-        copy {
-            from "$projectDir/src/main/res/xml/$file"
-            into "$projectDir/src/main/assets/"
-        }
-    }
 }
 
-tasks.configureEach { task ->
-    if (task.name == 'assembleFossRelease' || task.name == 'bundlePlayRelease') {
-        task.dependsOn finishXMLs
-    }
+// Code for automatically copying appfilter.xml and drawable.xml
+// from `res/xml` directory to `assets` directory
+tasks.register('finishXMLs', Copy) {
+    dependsOn sortDrawable
+    from "$projectDir/src/main/res/xml"
+    into "$projectDir/src/main/assets"
+    include 'appfilter.xml', 'drawable.xml'
+}
+
+tasks.named('preBuild') {
+    dependsOn 'finishXMLs'
 }

@@ -3,7 +3,8 @@
     <string name="changelog_date">25.08.2026</string>
     <string-array name="changelog">
         <item>4.1.0.9:</item>
-        <item>Added tpg+, CERN Alumni, Pebble, Monabanq, CERN Campus, UBS Banking, Bouygues, Pocket Bank, win, OBDeleven, Call of Duty, Xe, مانجا اونلاين, MaCNSS, EarFun Audio</item>
+        <item>Icons are now sorted alphabetically within each category</item>
+        <item>Added tpg+, CERN Alumni, Pebble, Monabanq, CERN Campus, UBS Banking, Bouygues, Pocket Bank, win, OBDeleven, Call of Duty, Xe, مانجا اونلاين, MaCNSS, EarFun Audio, Origin, Pi-hole client, POLI SOCIAL, Restegourmet, Shortstop, RecipeSage, kobuu, INTVL, iHeartRadio, Wobbly Life</item>
         <item>Fixed and improved Mullvad VPN</item>
         <item>4.1.0.8:</item>
         <item>Added We Energies, Ghee, Bubble, Presently, EverythingWx, El tiempo, Network Toolkit, gen1recomp, Pick n Save, GoodRx, bhop pro, Passport, BookOrbit, Audio Visualizer, Underwatermelon, PDF Doc Scan, Universal Installer</item>

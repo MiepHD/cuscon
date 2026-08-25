@@ -7106,5 +7106,15 @@
     <AppIcon name="zxc.laitooo.manga.online/zxc.laitooo.manga.online.MainActivity" image="zxc_laitooo_manga_online"/>
     <AppIcon name="ma.neoxia.macnss/ma.neoxia.macnss.MainActivity" image="macnss"/>
     <AppIcon name="com.corelink.earfun/com.corelink.earfun.page.login.WelcomeActivity" image="earfun_audio"/>
+    <AppIcon name="com.useorigin.employee.android/com.useorigin.employee.android.MainActivity" image="origin"/>
+    <AppIcon name="io.github.tsutsu3.pi_hole_client/io.github.tsutsu3.pi_hole_client.MainActivity" image="pi_hole_client"/>
+    <AppIcon name="de.parteibook24/de.parteibook24.MainActivity" image="poli_social"/>
+    <AppIcon name="com.restegourmet.rg_eat/com.restegourmet.rg_eat.MainActivity" image="restegourmet"/>
+    <AppIcon name="com.ladeon.shortstop/com.ladeon.shortstop.MainActivity" image="shortstop"/>
+    <AppIcon name="com.recipesage.app/com.recipesage.app.LauncherActivity" image="recipesage"/>
+    <AppIcon name="de.lomino.kobuu/de.lomino.kobuu.MainActivity" image="kobuu"/>
+    <AppIcon name="com.intvl.app/com.intvl.app.MainActivity" image="intvl"/>
+    <AppIcon name="com.clearchannel.iheartradio.controller/com.iheart.activities.NavDrawerActivity" image="iheartradio"/>
+    <AppIcon name="com.rubberbandgames.wobblylifev2/com.google.firebase.MessagingUnityPlayerActivity" image="wobbly_life"/>
 
 </Theme>
