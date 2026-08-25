@@ -69,7 +69,7 @@ def sort_drawable_file(infile: str) -> None:
 
 def main() -> None:
     try:
-        sort_drawable_file("app/src/main/res/xml/drawable.xml")
+        sort_drawable_file("src/main/res/xml/drawable.xml")
     except Exception as e:
         print('Error:', e, file=sys.stderr)
         sys.exit(2)

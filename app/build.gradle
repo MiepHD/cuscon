@@ -88,7 +88,8 @@ dependencies {
 
 // Code for automatically copying appfilter.xml and drawable.xml
 // from `res/xml` directory to `assets` directory
-tasks.register('copyXMLs') {
+tasks.register('finishXMLs', Exec) {
+    commandLine 'python', 'sort_drawable.py'
     ['appfilter.xml', 'drawable.xml'].each { file ->
         copy {
             from "$projectDir/src/main/res/xml/$file"
@@ -98,7 +99,7 @@ tasks.register('copyXMLs') {
 }
 
 tasks.configureEach { task ->
-    if (task.name == 'assembleDebug' || task.name == 'assembleRelease') {
-        task.dependsOn copyXMLs
+    if (task.name == 'assembleFossRelease' || task.name == 'bundlePlayRelease') {
+        task.dependsOn finishXMLs
     }
 }
