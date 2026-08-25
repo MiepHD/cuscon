@@ -1,4 +1,4 @@
 Icons are now sorted alphabetically within each category
 
-Added tpg+, CERN Alumni, Pebble, Monabanq, CERN Campus, UBS Banking, Bouygues, Pocket Bank, win, OBDeleven, Call of Duty, Xe, مانجا اونلاين, MaCNSS, EarFun Audio, Origin, Pi-hole client, POLI SOCIAL, Restegourmet, Shortstop, RecipeSage, kobuu, INTVL, iHeartRadio, Wobbly Life
+Added tpg+, CERN Alumni, Pebble, Monabanq, CERN Campus, UBS Banking, Bouygues, Pocket Bank, win, OBDeleven, Call of Duty, Xe, مانجا اونلاين, MaCNSS, EarFun Audio, Origin, Pi-hole client, POLI SOCIAL, Restegourmet, Shortstop, RecipeSage, kobuu, INTVL, iHeartRadio, Wobbly Life, MiniVAN
 Fixed and improved Mullvad VPN

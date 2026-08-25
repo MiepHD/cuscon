@@ -11,6 +11,7 @@
     <item drawable="intvl"/>
     <item drawable="kobuu"/>
     <item drawable="macnss"/>
+    <item drawable="minivan"/>
     <item drawable="monabanq"/>
     <item drawable="mullvad_vpn"/>
     <item drawable="obdeleven"/>
@@ -813,6 +814,7 @@
     <item drawable="xrecorder"/>
     <category title="#"/>
     <item drawable="_3d_rechner" name="3d_calculator"/>
+    <item drawable="_061_salut_respon"/>
     <item drawable="_0h_h1"/>
     <item drawable="_1024_puzzle_numbers_game"/>
     <item drawable="_116117app"/>
@@ -850,9 +852,6 @@
     <item drawable="_8_bit_wonders"/>
     <item drawable="_8bit_photo_lab"/>
     <item drawable="_8vim"/>
-    <item drawable="_f_droid_kdi"/>
-    <item drawable="_hex_"/>
-    <item drawable="_sound_"/>
     <category title="A"/>
     <item drawable="a13_theme_for_klwp"/>
     <item drawable="a_cloud_guru"/>
@@ -1355,6 +1354,7 @@
     <item drawable="berry_browser"/>
     <item drawable="bershka"/>
     <item drawable="best_buy"/>
+    <item drawable="best_deskclock"/>
     <item drawable="best_piano"/>
     <item drawable="betatv"/>
     <item drawable="better_network_tiles"/>
@@ -1398,6 +1398,7 @@
     <item drawable="bitrix24"/>
     <item drawable="bitwarden"/>
     <item drawable="bixby"/>
+    <item drawable="modi_und_routinen" name="Bixby Routines"/>
     <item drawable="bixby_vision"/>
     <item drawable="bk_portugal"/>
     <item drawable="bkash"/>
@@ -1514,7 +1515,13 @@
     <item drawable="broearn"/>
     <item drawable="bromite"/>
     <item drawable="browsehere"/>
+    <item drawable="navegador" name="browser"/>
     <item drawable="browser"/>
+    <item drawable="navegador_apus" name="browser_apus"/>
+    <item drawable="navegador_einkbro" name="browser_einkbro"/>
+    <item drawable="navegador_mi" name="browser_mi"/>
+    <item drawable="navegador_de_incognito" name="browser_of_incognito"/>
+    <item drawable="navegador_web_basico" name="browser_web_basico"/>
     <item drawable="bsnl_selfcare"/>
     <item drawable="bt_remote"/>
     <item drawable="btc_map"/>
@@ -1556,7 +1563,6 @@
     <item drawable="bycs_drive"/>
     <item drawable="bycs_messenger"/>
     <item drawable="byu"/>
-    <item drawable="balatro" name="clown"/>
     <category title="C"/>
     <item drawable="c24_bank"/>
     <item drawable="c_and_a"/>
@@ -1782,6 +1788,7 @@
     <item drawable="clipper"/>
     <item drawable="clipshare"/>
     <item drawable="clipt"/>
+    <item drawable="uhr" name="clock"/>
     <item drawable="clock"/>
     <item drawable="clock_you"/>
     <item drawable="clone_phone"/>
@@ -1790,6 +1797,7 @@
     <item drawable="cloudedge"/>
     <item drawable="cloudflare_warp"/>
     <item drawable="cloudstream_beta"/>
+    <item drawable="balatro" name="clown"/>
     <item drawable="club_apparel"/>
     <item drawable="co__star"/>
     <item drawable="co_op"/>
@@ -1858,7 +1866,9 @@
     <item drawable="constellations_pro_live_wallpaper"/>
     <item drawable="construction_set"/>
     <item drawable="contactos"/>
+    <item drawable="kontakte" name="contacts"/>
     <item drawable="contacts"/>
+    <item drawable="kontakte_goodwy" name="contacts_goodwy"/>
     <item drawable="contacts_optimizer"/>
     <item drawable="continuum"/>
     <item drawable="control_center"/>
@@ -1953,7 +1963,6 @@
     <item drawable="cyrillic"/>
     <item drawable="cytus_ii"/>
     <category title="D"/>
-    <item drawable="best_deskclock"/>
     <item drawable="d4d"/>
     <item drawable="d_link_wi_fi"/>
     <item drawable="da_fit"/>
@@ -2073,6 +2082,7 @@
     <item drawable="dicio"/>
     <item drawable="diconfinement"/>
     <item drawable="dictcc"/>
+    <item drawable="worterbuch" name="dictionary"/>
     <item drawable="dictionary"/>
     <item drawable="dictionarycom"/>
     <item drawable="dictionnaire"/>
@@ -2140,6 +2150,7 @@
     <item drawable="doctolib"/>
     <item drawable="arztsuche" name="doctor search"/>
     <item drawable="arzteblatt" name="Doctors’ Journal"/>
+    <item drawable="vista_de_documentos" name="documents viewer"/>
     <item drawable="dododex"/>
     <item drawable="doduae"/>
     <item drawable="dog_scanner"/>
@@ -2454,6 +2465,7 @@
     <item drawable="escaner_de_red" name="network scanner"/>
     <item drawable="escaner_wi_fi" name="scanner_wi_fi"/>
     <category title="F"/>
+    <item drawable="_f_droid_kdi" name="F-Droid KDI"/>
     <item drawable="f_droid"/>
     <item drawable="f_droid_basic"/>
     <item drawable="f_droid_build_status"/>
@@ -3043,6 +3055,7 @@
     <item drawable="herond"/>
     <item drawable="hessenschau"/>
     <item drawable="hews_2"/>
+    <item drawable="_hex_" name="Hex"/>
     <item drawable="hexanet"/>
     <item drawable="hexviewer"/>
     <item drawable="hexx_vpn"/>
@@ -3138,7 +3151,6 @@
     <item drawable="hyperlocal_meteorologica"/>
     <item drawable="hyperos_clock_for_kwgt"/>
     <item drawable="hyperrogue_gold"/>
-    <item drawable="herramientas_inteligentes" name="tools_inteligentes"/>
     <category title="I"/>
     <item drawable="i2pd"/>
     <item drawable="i_am"/>
@@ -3387,8 +3399,6 @@
     <item drawable="justwatch"/>
     <item drawable="jvdroid"/>
     <category title="K"/>
-    <item drawable="kontakte" name="contacts"/>
-    <item drawable="kontakte_goodwy" name="contacts_goodwy"/>
     <item drawable="kabbalah"/>
     <item drawable="kafka"/>
     <item drawable="kahoot_"/>
@@ -3534,7 +3544,6 @@
     <item drawable="kwgt"/>
     <item drawable="kwgt_pro"/>
     <item drawable="kyocera_print"/>
-    <item drawable="karten" name="maps"/>
     <category title="L"/>
     <item drawable="la_meva_salut"/>
     <item drawable="la_republica"/>
@@ -3732,7 +3741,6 @@
     <item drawable="lyft"/>
     <item drawable="lynx_launcher"/>
     <category title="M"/>
-    <item drawable="modi_und_routinen" name="Bixby Routines"/>
     <item drawable="m3u"/>
     <item drawable="m4marry"/>
     <item drawable="m_and_s"/>
@@ -3784,6 +3792,7 @@
     <item drawable="mapmywalk"/>
     <item drawable="mappls_mapmyindia"/>
     <item drawable="maprun_6"/>
+    <item drawable="karten" name="maps"/>
     <item drawable="maps_geofavorites"/>
     <item drawable="maps_go"/>
     <item drawable="maps_viewer"/>
@@ -3988,6 +3997,7 @@
     <item drawable="mingo"/>
     <item drawable="mini_metro"/>
     <item drawable="minimal_wallpaper"/>
+    <item drawable="minivan"/>
     <item drawable="minma_icon_pack"/>
     <item drawable="mint_browser"/>
     <item drawable="mint_calculator"/>
@@ -4264,12 +4274,6 @@
     <item drawable="mywingo"/>
     <item drawable="myworldlink"/>
     <category title="N"/>
-    <item drawable="navegador" name="browser"/>
-    <item drawable="navegador_apus" name="browser_apus"/>
-    <item drawable="navegador_einkbro" name="browser_einkbro"/>
-    <item drawable="navegador_mi" name="browser_mi"/>
-    <item drawable="navegador_de_incognito" name="browser_of_incognito"/>
-    <item drawable="navegador_web_basico" name="browser_web_basico"/>
     <item drawable="n26"/>
     <item drawable="n_digital"/>
     <item drawable="n_digital_watch_face"/>
@@ -4812,7 +4816,9 @@
     <item drawable="pharmeasy"/>
     <item drawable="phiola"/>
     <item drawable="phoenix"/>
+    <item drawable="telefon" name="phone"/>
     <item drawable="phone"/>
+    <item drawable="telefon_goodwy" name="phone_goodwy"/>
     <item drawable="phone_manager"/>
     <item drawable="phone_master"/>
     <item drawable="phone_saver"/>
@@ -5407,7 +5413,6 @@
     <item drawable="rvx_reddit"/>
     <item drawable="rysiek"/>
     <category title="S"/>
-    <item drawable="_061_salut_respon"/>
     <item drawable="_switch"/>
     <item drawable="s3drive"/>
     <item drawable="s_miles_home"/>
@@ -5774,6 +5779,7 @@
     <item drawable="soul_knight_prequel"/>
     <item drawable="soul_searching"/>
     <item drawable="soul_tracker"/>
+    <item drawable="_sound_" name="Sound"/>
     <item drawable="sound_amplifier"/>
     <item drawable="sound_meter"/>
     <item drawable="sound_meter_decibel"/>
@@ -5995,8 +6001,6 @@
     <item drawable="system_launcher"/>
     <item drawable="systemui_tuner"/>
     <category title="T"/>
-    <item drawable="telefon" name="phone"/>
-    <item drawable="telefon_goodwy" name="phone_goodwy"/>
     <item drawable="t_life"/>
     <item drawable="t_life_2"/>
     <item drawable="t_mobile"/>
@@ -6238,6 +6242,7 @@
     <item drawable="tool_shells"/>
     <item drawable="toolmaps"/>
     <item drawable="tools"/>
+    <item drawable="herramientas_inteligentes" name="tools_inteligentes"/>
     <item drawable="toolstation"/>
     <item drawable="tooly"/>
     <item drawable="top_box_poland"/>
@@ -6354,7 +6359,6 @@
     <item drawable="twitch"/>
     <item drawable="txt"/>
     <category title="U"/>
-    <item drawable="uhr" name="clock"/>
     <item drawable="ua_color_picker"/>
     <item drawable="uav_forecast"/>
     <item drawable="uber"/>
@@ -6460,7 +6464,6 @@
     <item drawable="ux_apps"/>
     <item drawable="ux_led_free"/>
     <category title="V"/>
-    <item drawable="vista_de_documentos" name="documents viewer"/>
     <item drawable="v2rayng"/>
     <item drawable="v380"/>
     <item drawable="v380_pro"/>
@@ -6694,7 +6697,6 @@
     <item drawable="wifianalyzer_vic"/>
     <item drawable="wifiman"/>
     <category title="W"/>
-    <item drawable="worterbuch" name="dictionary"/>
     <item drawable="wa_business"/>
     <item drawable="wabox"/>
     <item drawable="wadbs"/>
@@ -6893,211 +6895,6 @@
     <item drawable="wynk_music"/>
     <item drawable="wypiek"/>
     <item drawable="wyze"/>
-    <category title="X"/>
-    <item drawable="x"/>
-    <item drawable="x_gamepad_tester"/>
-    <item drawable="x_icon_changer"/>
-    <item drawable="x_new"/>
-    <item drawable="x_plore"/>
-    <item drawable="x_plorer_s75_s95"/>
-    <item drawable="xbox_26"/>
-    <item drawable="xbrowser"/>
-    <item drawable="xbrowsersync"/>
-    <item drawable="xbstream_controller"/>
-    <item drawable="xda_developers"/>
-    <item drawable="xe"/>
-    <item drawable="xed_editor"/>
-    <item drawable="xefx_pro"/>
-    <item drawable="xender"/>
-    <item drawable="xhamster"/>
-    <item drawable="xhs"/>
-    <item drawable="xiaomi_earbuds"/>
-    <item drawable="xiaomi_home"/>
-    <item drawable="xkcd"/>
-    <item drawable="xls_viewer"/>
-    <item drawable="xmanager"/>
-    <item drawable="xmeye"/>
-    <item drawable="xmind"/>
-    <item drawable="xodo"/>
-    <item drawable="xoom"/>
-    <item drawable="xperia"/>
-    <item drawable="xperience"/>
-    <item drawable="xplayer_video_player"/>
-    <item drawable="xposed_edge"/>
-    <item drawable="xproguard_anti_theft"/>
-    <item drawable="xscreensaver"/>
-    <item drawable="xtra"/>
-    <item drawable="xystv"/>
-    <category title="Y"/>
-    <item drawable="yaacc"/>
-    <item drawable="yababa"/>
-    <item drawable="yacine_tv"/>
-    <item drawable="yandex_start"/>
-    <item drawable="yandexmaps"/>
-    <item drawable="yas"/>
-    <item drawable="yasan_launcher"/>
-    <item drawable="yasnac"/>
-    <item drawable="yatra"/>
-    <item drawable="yazio"/>
-    <item drawable="yellow_taxi"/>
-    <item drawable="yelp"/>
-    <item drawable="yes_seatel"/>
-    <item drawable="yet_another_call_blocker"/>
-    <item drawable="ymusic"/>
-    <item drawable="yodel"/>
-    <item drawable="yola"/>
-    <item drawable="yono_lite_sbi"/>
-    <item drawable="yono_sbi"/>
-    <item drawable="yorck_kinos"/>
-    <item drawable="youcam_perfect"/>
-    <item drawable="youdj_mixer"/>
-    <item drawable="yougov"/>
-    <item drawable="youhodler"/>
-    <item drawable="youline"/>
-    <item drawable="youper"/>
-    <item drawable="your_square_icon_pack"/>
-    <item drawable="yourparkingspace"/>
-    <item drawable="youtrack"/>
-    <item drawable="yt_studio" name="Youtube Studio"/>
-    <item drawable="youtube_revanced"/>
-    <item drawable="youtube_tv"/>
-    <item drawable="youtube_vr"/>
-    <item drawable="yt_create"/>
-    <item drawable="yt_kids"/>
-    <item drawable="ytdlnis"/>
-    <item drawable="ytv_pro"/>
-    <item drawable="yubico_authenticator"/>
-    <item drawable="yuito"/>
-    <item drawable="yuka"/>
-    <item drawable="yulu"/>
-    <item drawable="yuzu"/>
-    <item drawable="yuzu_browser"/>
-    <category title="Z"/>
-    <item drawable="z_lib"/>
-    <item drawable="zabehaty"/>
-    <item drawable="zad_hadith"/>
-    <item drawable="zalando"/>
-    <item drawable="zapmap"/>
-    <item drawable="zapp"/>
-    <item drawable="zapya"/>
-    <item drawable="zara"/>
-    <item drawable="zara_home"/>
-    <item drawable="zarchiver"/>
-    <item drawable="zarchiver_pro"/>
-    <item drawable="zaveit"/>
-    <item drawable="zayzoon"/>
-    <item drawable="zdfheute"/>
-    <item drawable="zdfmediathek"/>
-    <item drawable="zdftivi"/>
-    <item drawable="zedge"/>
-    <item drawable="zee5"/>
-    <item drawable="zeel"/>
-    <item drawable="zegar"/>
-    <item drawable="zego_delivery"/>
-    <item drawable="zello"/>
-    <item drawable="zen_brush"/>
-    <item drawable="zen_mode"/>
-    <item drawable="zencom"/>
-    <item drawable="zenjob"/>
-    <item drawable="zepp"/>
-    <item drawable="zepp_life"/>
-    <item drawable="zerotier_one"/>
-    <item drawable="zestmoney"/>
-    <item drawable="zettel_notes"/>
-    <item drawable="zettle"/>
-    <item drawable="zfont_3"/>
-    <item drawable="zigwheels"/>
-    <item drawable="zihua_mytracks"/>
-    <item drawable="zikir_tasbih"/>
-    <item drawable="zillow"/>
-    <item drawable="zillow_rentals"/>
-    <item drawable="zimbra"/>
-    <item drawable="zip_extractor"/>
-    <item drawable="zipxtract"/>
-    <item drawable="ziraat_mobil"/>
-    <item drawable="zmo"/>
-    <item drawable="zoho_daybook"/>
-    <item drawable="zoho_sheet"/>
-    <item drawable="zomato"/>
-    <item drawable="zomato_delivery"/>
-    <item drawable="zona"/>
-    <item drawable="zone_launcher"/>
-    <item drawable="zoner_photo_studio"/>
-    <item drawable="zood_zoodpay_and_zoodmall_"/>
-    <item drawable="zoom"/>
-    <item drawable="zoom_earth"/>
-    <item drawable="zoomquilt"/>
-    <item drawable="zoopla"/>
-    <item drawable="zorin_connect"/>
-    <item drawable="zotero"/>
-    <item drawable="zu_gut_fur_die_tonne_app"/>
-    <item drawable="zueiras_voice"/>
-    <item drawable="zxc_laitooo_manga_online"/>
-    <item drawable="zynga_poker_texas_holdem"/>
-    <category title="Unsorted"/>
-ildberries&quot; /&gt;
-    <item drawable="worterbuch" name="dictionary"/>
-    <item drawable="wall_you"/>
-    <item drawable="wallflow_plus"/>
-    <item drawable="walli_4k"/>
-    <item drawable="wallman"/>
-    <item drawable="wallnut"/>
-    <item drawable="wallwow"/>
-    <item drawable="wanderlog"/>
-    <item drawable="waveeditor"/>
-    <item drawable="wear_os"/>
-    <item drawable="weawow"/>
-    <item drawable="web_media_share"/>
-    <item drawable="wechat"/>
-    <item drawable="whale"/>
-    <item drawable="what3words"/>
-    <item drawable="whatsapp_sim"/>
-    <item drawable="whitart"/>
-    <item drawable="whiz"/>
-    <item drawable="wi_fi_switcher"/>
-    <item drawable="wienmobil"/>
-    <item drawable="wikipedia"/>
-    <item drawable="wikipedia_beta"/>
-    <item drawable="windscribe"/>
-    <item drawable="windy"/>
-    <item drawable="wingstop"/>
-    <item drawable="wink"/>
-    <item drawable="winzip"/>
-    <item drawable="wipe_files"/>
-    <item drawable="wire"/>
-    <item drawable="wireguard"/>
-    <item drawable="wise"/>
-    <item drawable="wish"/>
-    <item drawable="wiso_steuer"/>
-    <item drawable="wiz"/>
-    <item drawable="wize_browser"/>
-    <item drawable="wizink"/>
-    <item drawable="wizz_air"/>
-    <item drawable="wlanscanner"/>
-    <item drawable="wlanscanner_by_latetech"/>
-    <item drawable="wochenplaner"/>
-    <item drawable="wodbuster"/>
-    <item drawable="wohin_du_willst"/>
-    <item drawable="wolframalpha"/>
-    <item drawable="wolt"/>
-    <item drawable="wonder"/>
-    <item drawable="wonderous"/>
-    <item drawable="wonderputt_forever"/>
-    <item drawable="wooask"/>
-    <item drawable="word"/>
-    <item drawable="word_mix_pro"/>
-    <item drawable="wordup"/>
-    <item drawable="workday"/>
-    <item drawable="workspace"/>
-    <item drawable="workvivo"/>
-    <item drawable="wow"/>
-    <item drawable="wps_office"/>
-    <item drawable="writer"/>
-    <item drawable="wunderground"/>
-    <item drawable="wurfelspiel"/>
-    <item drawable="wx"/>
-    <item drawable="wxxi"/>
-    <item drawable="wynk_music"/>
     <category title="X"/>
     <item drawable="x"/>
     <item drawable="x_gamepad_tester"/>

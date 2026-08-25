@@ -7116,5 +7116,6 @@
     <AppIcon name="com.intvl.app/com.intvl.app.MainActivity" image="intvl"/>
     <AppIcon name="com.clearchannel.iheartradio.controller/com.iheart.activities.NavDrawerActivity" image="iheartradio"/>
     <AppIcon name="com.rubberbandgames.wobblylifev2/com.google.firebase.MessagingUnityPlayerActivity" image="wobbly_life"/>
+    <AppIcon name="com.voteractivationnetwork.minivan/com.voteractivationnetwork.minivan.ui.activities.LaunchActivity" image="minivan"/>
 
 </Theme>
