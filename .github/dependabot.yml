@@ -9,10 +9,10 @@ updates:
   - package-ecosystem: 'gradle'
     directory: '/'
     schedule:
-      interval: 'weekly'
+      interval: 'daily'
     registries:
       - github-releases
   - package-ecosystem: 'gradle'
     directory: '/app'
     schedule:
-      interval: 'weekly'
+      interval: 'daily'
