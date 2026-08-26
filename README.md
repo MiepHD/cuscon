@@ -38,7 +38,7 @@ Please send requests to <a href="mailto:cuscon-requests@froxot.de">cuscon-reques
 ## Issues
 
 <b>If you just want to create the images, please upload the request with edited images as an issue.</b>
-For that you can follow the steps 1-4 under Pull Requests
+For that you can follow the steps 1,2 and 4 under Pull Requests. Then zip the folder again and upload the zip file into an issue on github.
 (File types can be any images but SVG, WEBP, PNG is preferred)
 
 ## Pull Requests
@@ -49,7 +49,7 @@ Requirements:
 
 How-To:
 
-1. If you want to contribute icons, you can uninstall your current version of cuscon and install [v4.0.1.7](https://github.com/MiepHD/cuscon/releases/tag/v4.0.1.7)) to send an icon request to yourself (This is the last version that included the free request feature)
+1. If you want to contribute icons, you can install Candybar Dev from the Play Store to send an icon request to yourself
 2. Extract the content of your request into `/requests/icon_request` (The images and xml files should be directly in this folder now.)
 3. Run `python ../e.py` in the extracted request folder to get these details:
    1. List of icons that are in the request but already in the latest version. To remove them run `python ..\e.py -rmaa`
@@ -63,7 +63,7 @@ How-To:
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Replace the file with your edited version. Get the details of the icon with `python ../f.py <filename>`. Then read the details under Appfilter like `region.author.abc/`. From this info think of a filename like `author_abc` and an incremental number if neccessary. Rename the icon to the unique name. Then proceed at 4. but run `python ../f.py <filename>~<newname>` instead of step 9. .<br>
       c) If you don't want to handle these:<br>
       &nbsp;&nbsp;&nbsp;Use `python ../e.py -rmcon` to delete all conflicts
-4. Edit the icons so they match the criteria (Requirements for contributing icons)
+4. Edit the icons so they match the criteria ([Requirements for contributing icons](#Requirements-for-contributing-icons))
 5. Put them into a subfolder called `get`
 6. Check if the latest version in `app/src/main/res/values/changelog.xml` is already released
    True) 1. Add new items for the new version in the changelog 2. Update the `versionCode` and `versionName` in `app/build.gradle` 3. Create `metadata/en-US/changelogs/<versionCode>.txt`
