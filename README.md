@@ -43,38 +43,13 @@ For that you can follow the steps 1,2 and 4 under Pull Requests. Then zip the fo
 
 ## Pull Requests
 
-Requirements:
-
-- [Python](https://www.python.org/downloads/)
-
-How-To:
-
 1. If you want to contribute icons, you can install Candybar Dev from the Play Store to send an icon request to yourself
-2. Extract the content of your request into `/requests/icon_request` (The images and xml files should be directly in this folder now.)
-3. Run `python ../e.py` in the extracted request folder to get these details:
-   1. List of icons that are in the request but already in the latest version. To remove them run `python ..\e.py -rmaa`
-   2. List with filename conflicts.<br>
-      a) The icon in the request is the original version of the icon with the same filename in the app:<br>
-      &nbsp;&nbsp;&nbsp;Get the details of the icon with `python ../f.py <filename>` and add the data under `theme_resources` and `appfilter` to `app/src/main/res/xml/theme_resources.xml` and `app/src/main/res/xml/appfilter.xml`<br>
-      b) The icon in the request doesn't match the one in the app and<br>
-      &nbsp;&nbsp;&nbsp;A) the icon is already added but under another name:<br>
-      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Get the details of the icon with `python ../f.py <filename>~<filename in app>` and add the data under `theme_resources` and `appfilter` to `app/src/main/res/xml/theme_resources.xml` and `app/src/main/res/xml/appfilter.xml`<br>
-      &nbsp;&nbsp;&nbsp;B) the icon isn't added under another name:<br>
-      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Replace the file with your edited version. Get the details of the icon with `python ../f.py <filename>`. Then read the details under Appfilter like `region.author.abc/`. From this info think of a filename like `author_abc` and an incremental number if neccessary. Rename the icon to the unique name. Then proceed at 4. but run `python ../f.py <filename>~<newname>` instead of step 9. .<br>
-      c) If you don't want to handle these:<br>
-      &nbsp;&nbsp;&nbsp;Use `python ../e.py -rmcon` to delete all conflicts
-4. Edit the icons so they match the criteria ([Requirements for contributing icons](#Requirements-for-contributing-icons))
-5. Put them into a subfolder called `get`
-6. Check if the latest version in `app/src/main/res/values/changelog.xml` is already released
-   True) 1. Add new items for the new version in the changelog 2. Update the `versionCode` and `versionName` in `app/build.gradle` 3. Create `metadata/en-US/changelogs/<versionCode>.txt`
-7. Change the date in `app/src/main/res/values/changelog.xml` to the current date
-8. Run in the folder of the request `python ../f.py -get`
-9. Copy the changelog into `app\src\main\res\values\changelog.xml` and `metadata/en-US/changelogs/<versionCode>.txt`
-10. Copy the appfilter details into `app/src/main/res/xml/appfilter.xml`, the drawable into `app/src/main/res/xml/drawable.xml` and the theme_resources into `app/src/main/res/xml/theme_resources.xml`
-11. (Optional) Convert the png files in the get folder to webp files ([WebP Converter for Windows and MacOS](https://anywebp.com/de/software))
-12. Move the images to `app/src/main/res/drawable-nodpi`
-13. (Optional) Do a gradle sync
-14. Finally, create a pull request with these changes.
+2. Fork the repository
+3. Clone your fork
+4. Open the folder `/requests`
+5. Put the zip file from Candybar Dev inside the folder
+6. Run `./pull-request-creator.sh` inside `/requests`. This will lead you through all the steps to create the pull request.
+7. Push the changes to your fork and open a pull request.
 
 # Requirements for contributing icons
 

@@ -8,7 +8,7 @@ appfilter = ""
 theme_resources = ""
 
 if ("-get" in sys.argv):
-    params = os.listdir("get/")
+    params = os.listdir(".")
     params = [e.replace(".png", "") for e in params]
     params = [e.replace(".webp", "") for e in params]
     params = [e.replace(".svg", "") for e in params]
@@ -41,7 +41,7 @@ for elem in params:
                     changelog = title
                 else:
                     changelog = changelog + ", " + title
-                appfilter = appfilter + re.sub(r"[\\\t]+", "    ", line).replace(elem, nick)
+                appfilter = appfilter + re.sub(r"[\\\t]+", "    ", line).replace(elem, nick + " name=\"" + title + "\"")
             title = line
     with open("theme_resources.xml", encoding="utf-8") as f:
         for line in f.readlines():
@@ -50,7 +50,7 @@ for elem in params:
 print("Changelog:")
 print(changelog)
 print("Appfilter:")
-print(appfilter)
+print(re.sub(' name=".*?"', "", appfilter))
 print("Drawable:")
 print(re.sub(' component=".*?"', "", appfilter))
 print("Theme Resources:")

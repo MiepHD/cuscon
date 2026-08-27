@@ -16,7 +16,7 @@ with open("../../app/src/main/res/xml/appfilter.xml", encoding="utf-8") as f1:
                 if (exists(name + ".png") or exists(name + ".webp") or exists(name + ".svg")):
                     if (find in already):
                         appfilter = appfilter + name + '\n'
-                    if (exists("../../app/src/main/res/drawable-nodpi/" + name + ".webp")):
+                    if (exists("../../app/src/main/res/drawable-nodpi/" + name + ".webp") and not name in appfilter):
                         conflict = conflict + name + '\n'
 
 if (len(sys.argv) > 1):
