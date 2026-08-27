@@ -80,9 +80,9 @@ How-To:
 
 - Icons must be outlined in black
 - Icon should be visible on black background
-- dimension of 512x512px
-- should have approximate 30px transparent border
-- The black border should be approximately 12px thick
+- dimension of 256x256px
+- should have approximate 15px transparent border
+- The black border should be approximately 6px thick
 
 # Background info
 
