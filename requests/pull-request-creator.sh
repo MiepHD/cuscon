@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Absolute Pfade ermitteln
-SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
+SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")/../requests-scripts" && pwd)"
 PYTHON_SCRIPT="$SCRIPT_DIR/e.py"
 F_PYTHON_SCRIPT="$SCRIPT_DIR/f.py"
 
@@ -341,80 +341,11 @@ write_metadata_changelogs() {
         local today_date
         today_date=$(date +"%d.%m.%Y")
 
-        python3 - "$xml_changelog_file" "$version_name" "$today_date" \
+        python3 "$SCRIPT_DIR/write_metadata_changelogs.py" "$xml_changelog_file" "$version_name" "$today_date" \
                  "$(join_array_with_comma EN_ADDED)" \
                  "$(join_array_with_comma EN_UPDATED)" \
                  "$(join_array_with_comma EN_FIXED)" \
-                 "$(join_array_with_comma EN_IMPROVED)" << 'EOF'
-import sys
-import re
-
-xml_path = sys.argv[1]
-version_name = sys.argv[2]
-today_date = sys.argv[3]
-added = sys.argv[4]
-updated = sys.argv[5]
-fixed = sys.argv[6]
-improved = sys.argv[7]
-
-with open(xml_path, 'r', encoding='utf-8') as f:
-    content = f.read()
-
-content = re.sub(
-    r'(<string name="changelog_date">)[^<]+(</string>)',
-    rf'\g<1>{today_date}\g<2>',
-    content
-)
-
-version_tag = f"<item>{version_name}:</item>"
-
-updates = [
-    ("Added", added),
-    ("Updated", updated),
-    ("Fixed", fixed),
-    ("Improved", improved)
-]
-
-if version_tag in content:
-    for category, items in updates:
-        if not items:
-            continue
-        
-        pattern = rf'({re.escape(version_tag)}[\s\S]*?<item>{category}\s+)([^<]+)(</item>)'
-        match = re.search(pattern, content)
-        
-        if match:
-            content = re.sub(
-                pattern,
-                rf'\g<1>\g<2>, {items}\g<3>',
-                content,
-                count=1
-            )
-        else:
-            new_line = f"        <item>{category} {items}</item>\n"
-            content = content.replace(version_tag, f"{version_tag}\n{new_line}", 1)
-            
-    print(f"  [✓] Expanded existing entry for v{version_name} in changelog.xml.")
-
-else:
-    new_version_lines = [f"        <item>{version_name}:</item>"]
-    for category, items in updates:
-        if items:
-            new_version_lines.append(f"        <item>{category} {items}</item>")
-    
-    insert_block = "\n" + "\n".join(new_version_lines) + "\n"
-    content = re.sub(
-        r'(<string-array name="changelog">)',
-        rf'\1{insert_block}',
-        content,
-        count=1
-    )
-    print(f"  [✓] Created new entry for v{version_name} in changelog.xml.")
-
-with open(xml_path, 'w', encoding='utf-8') as f:
-    f.write(content)
-
-EOF
+                 "$(join_array_with_comma EN_IMPROVED)"
     else
         echo "  [!] Warning: '$xml_changelog_file' not found!"
     fi
@@ -451,27 +382,13 @@ manage_gradle_version_and_changelog() {
     http_code=$(curl -o /dev/null -s -w "%{http_code}" -L "$github_url")
 
     if [ "$http_code" -eq 200 ]; then
-        echo "--> Release v$version_name already exists on GitHub (HTTP 200). Increasing version..."
+        echo "--> Release v$version_name already exists on GitHub. Increasing version..."
         
         WAS_VERSION_BUMPED=true
 
         local new_version_code=$((version_code + 1))
         local new_version_name
-        new_version_name=$(python3 - "$version_name" << 'EOF'
-import sys
-
-v_str = sys.argv[1]
-parts = [int(p) for p in v_str.split('.')]
-
-parts[-1] += 1
-for i in range(len(parts) - 1, 0, -1):
-    if parts[i] >= 10:
-        parts[i] = 0
-        parts[i-1] += 1
-
-print(".".join(map(str, parts)))
-EOF
-)
+        new_version_name=$(python3 "$SCRIPT_DIR/increment_version.py" "$version_name")
 
         echo "  [✓] New Version Code : $new_version_code"
         echo "  [✓] New Version Name : $new_version_name"
@@ -607,93 +524,7 @@ process_f_get() {
             all_drawable_lines="${all_drawable_lines}${line}"$'\n'
         done
 
-        python3 - "$target_drawable" "$all_changed_ids" "$all_drawable_lines" "$WAS_VERSION_BUMPED" << 'EOF'
-import sys
-import re
-
-drawable_path = sys.argv[1]
-changed_ids = sys.argv[2].split() if len(sys.argv) > 2 and sys.argv[2] else []
-drawable_lines_raw = sys.argv[3].strip().split('\n') if len(sys.argv) > 3 and sys.argv[3].strip() else []
-was_version_bumped = sys.argv[4].lower() == "true" if len(sys.argv) > 4 else False
-
-id_to_item = {}
-for line in drawable_lines_raw:
-    line = line.strip()
-    if not line:
-        continue
-    match = re.search(r'drawable="([^"]+)"', line)
-    if match:
-        icon_id = match.group(1)
-        id_to_item[icon_id] = line
-
-with open(drawable_path, 'r', encoding='utf-8') as f:
-    content = f.read()
-
-def get_category_title(item_str, icon_id):
-    name_match = re.search(r'name="([^"]+)"', item_str)
-    if name_match:
-        target_str = name_match.group(1).strip()
-    else:
-        target_str = icon_id[1:] if icon_id.startswith('_') else icon_id
-
-    if not target_str:
-        return "#"
-
-    first_char = target_str[0]
-    
-    if first_char.isdigit():
-        return "#"
-    elif first_char.isalpha():
-        return first_char.upper()
-    else:
-        return "#"
-
-# 1. New Icons leeren, FALLS die Version erhöht wurde (bevor die neuen reinkommen)
-if was_version_bumped:
-    content = re.sub(
-        r'(<category title="New Icons"\s*/?>)([\s\S]*?)(?=<category title=|\s*</resources>)',
-        r'\1\n',
-        content,
-        count=1
-    )
-    print("  [✓] Cleared 'New Icons' category (version incremented).")
-
-# 2. New Icons befüllen (Geänderte & Neue Icons einfügen)
-for icon_id in changed_ids:
-    item_str = id_to_item.get(icon_id, f'<item drawable="{icon_id}"/>')
-    
-    pattern_exist = rf'(<category title="New Icons"\s*/?>[\s\S]*?)({re.escape(item_str)}|drawable="{re.escape(icon_id)}")(.*?<category)'
-    if not re.search(pattern_exist, content):
-        cat_pattern = r'(<category title="New Icons"\s*/?>)'
-        content = re.sub(cat_pattern, rf'\1\n    {item_str}', content, count=1)
-
-# 3. Neue/Fehlende Icons in ihre Buchstabensektion (#, A-Z) einfügen
-for icon_id in changed_ids:
-    item_str = id_to_item.get(icon_id, f'<item drawable="{icon_id}"/>')
-    clean_id = icon_id[1:] if icon_id.startswith('_') else icon_id
-    
-    first_letter_cat = re.search(r'<category title="(#|[A-Z])"\s*/?>', content)
-    already_in_letters = False
-    if first_letter_cat:
-        rest_content = content[first_letter_cat.start():]
-        if item_str in rest_content or f'drawable="{icon_id}"' in rest_content or f'drawable="{clean_id}"' in rest_content:
-            already_in_letters = True
-            
-    if not already_in_letters:
-        target_cat = get_category_title(item_str, icon_id)
-        cat_tag = f'<category title="{target_cat}"/>'
-        
-        if cat_tag in content:
-            content = content.replace(cat_tag, f'{cat_tag}\n    {item_str}', 1)
-        else:
-            new_cat_block = f'    {cat_tag}\n    {item_str}\n'
-            content = content.replace('</resources>', f'{new_cat_block}</resources>', 1)
-
-with open(drawable_path, 'w', encoding='utf-8') as f:
-    f.write(content)
-
-print("  [✓] 'drawable.xml' updated successfully.")
-EOF
+        python3 "$SCRIPT_DIR/update_drawable.py" "$target_drawable" "$all_changed_ids" "$all_drawable_lines" "$WAS_VERSION_BUMPED"
     fi
 
     # --- Gradle finishXMLs ausführen ---
@@ -751,26 +582,7 @@ process_images() {
         local base_name="${filename%.png}"
         local target_webp="$dest_dir/$base_name.webp"
 
-        python3 - "$img" "$target_webp" << 'EOF'
-import sys
-from PIL import Image
-
-src_path, dest_path = sys.argv[1], sys.argv[2]
-try:
-    with Image.open(src_path) as img:
-        width, height = img.size
-        if width != height:
-            print(f"  [!] ERROR: '{src_path}' is not square ({width}x{height})! Skipped.")
-            sys.exit(1)
-        if width != 256 or height != 256:
-            img = img.resize((256, 256), Image.Resampling.LANCZOS)
-            print(f"  [✓] Scale to 256x256: {src_path}")
-        img.save(dest_path, "WEBP", quality=100, alpha_quality=0)
-        print(f"  [✓] Created WEBP: {dest_path}")
-except Exception as e:
-    print(f"  [!] Error while processing '{src_path}': {e}")
-    sys.exit(1)
-EOF
+        python3 "$SCRIPT_DIR/resize_and_convert_webp.py" "$img" "$target_webp"
         ((process_counter++))
     done
     echo -e "\n[✓] Image processing completed."
