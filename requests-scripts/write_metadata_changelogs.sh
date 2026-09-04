@@ -16,13 +16,13 @@ write_metadata_changelogs() {
     update_single_txt_changelog "$de_file" "Aktualisiert" DE_UPDATED
     update_single_txt_changelog "$de_file" "Wiederhergestellt" DE_FIXED
     update_single_txt_changelog "$de_file" "Verbessert" DE_IMPROVED
-    echo "  [✓] Processed changelog (de-DE) in '$de_file'."
+    echo -e "  ${GREEN}[✓]${NC} Processed changelog (de-DE) in '$de_file'."
 
     update_single_txt_changelog "$en_file" "Added" EN_ADDED
     update_single_txt_changelog "$en_file" "Updated" EN_UPDATED
     update_single_txt_changelog "$en_file" "Fixed" EN_FIXED
     update_single_txt_changelog "$en_file" "Improved" EN_IMPROVED
-    echo "  [✓] Processed changelog (en-US) in '$en_file'."
+    echo -e "  ${GREEN}[✓]${NC} Processed changelog (en-US) in '$en_file'."
 
     if [ -f "$xml_changelog_file" ]; then
         echo -e "\n--> Updating XML changelog at '$xml_changelog_file'..."
@@ -35,6 +35,6 @@ write_metadata_changelogs() {
                  "$(join_array_with_comma EN_FIXED)" \
                  "$(join_array_with_comma EN_IMPROVED)"
     else
-        echo "  [!] Warning: '$xml_changelog_file' not found!"
+        echo -e "  ${RED}[!] Warning: '$xml_changelog_file' not found!${NC}"
     fi
 }

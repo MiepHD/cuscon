@@ -12,9 +12,6 @@ if [ -d "$SCRIPT_DIR" ]; then
     done
 fi
 
-TARGET_DIR="${1:-.}"
-cd "$TARGET_DIR" || exit 1
-
 # Globale Variablen
 WAS_VERSION_BUMPED=false
 CURRENT_VERSION_CODE=""
@@ -49,7 +46,7 @@ while true; do
 
     declare -A MENU_REQ
 
-    echo -e "\n--- Requests ---"
+    echo -e "=== Requests ==="
     for req in $(printf "%s\n" "${!REQUEST_NAMES[@]}" | sort); do
         echo "$counter) Open $req"
         MENU_REQ[$counter]="$req"
@@ -57,13 +54,13 @@ while true; do
     done
 
     if [ $counter -eq 1 ]; then
-        echo "No requests found. Quitting script..."
+        echo -e "${YELLOW}No requests found. Please add a request into the folder before running the script. Quitting script...${NC}"
         exit 0
     fi
 
     echo "q) Quit"
     echo ""
-    read -p "Please select request (1-$((counter-1)) or q): " choice
+    read -p "Select request (1-$((counter-1)) or q): " choice
 
     if [[ "$choice" == "q" || "$choice" == "Q" ]]; then
         echo "Quit script."
@@ -75,7 +72,7 @@ while true; do
     if [[ -n "$selected_req" ]]; then
         
         if [[ "${HAS_DIR[$selected_req]}" != "1" && "${HAS_ZIP[$selected_req]}" == "1" ]]; then
-            echo -e "\n--> Initial opening: Extracting '$selected_req.zip'..."
+            echo -e "Initial opening: Extracting '$selected_req.zip'..."
             unzip -q "$selected_req.zip" -d "$selected_req"
             process_request "$selected_req"
             continue
@@ -91,7 +88,7 @@ while true; do
         echo "3) Delete request (Folder & ZIP)"
         
         echo ""
-        read -p "Select action: " sub_choice
+        read -p "Select action (1-3): " sub_choice
         
         case "$sub_choice" in
             1)
@@ -105,24 +102,24 @@ while true; do
                     echo "Extracting '$selected_req.zip' again..."
                     unzip -q "$selected_req.zip" -d "$selected_req"
                     
-                    echo "Request resetted successfully"
+                    echo -e "${GREEN}Request resetted successfully.${NC}"
                     process_request "$selected_req"
                 else
-                    echo "Cannot reset: No ZIP file found!"
+                    echo -e "${YELLOW}Cannot reset: No ZIP file found!${NC}"
                 fi
                 ;;
             3)
                 echo "Deleting request '$selected_req'..."
                 rm -rf "$selected_req"
                 rm -f "${selected_req}.zip"
-                echo "  [✓] Folder and .zip deleted."
+                echo -e "  ${GREEN}[✓]${NC} Folder and .zip deleted."
                 continue
                 ;;
             *)
-                echo "Invalid selection!"
+                echo -e "${YELLOW}Invalid selection!${NC}"
                 ;;
         esac
     else
-        echo "Invalid selection!"
+        echo -e "${YELLOW}Invalid selection!${NC}"
     fi
 done

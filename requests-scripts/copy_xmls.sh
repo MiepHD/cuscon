@@ -3,7 +3,7 @@ copy_xmls() {
     local target_folder="$1"
     
     if [ ! -f "$PARSE_REQUEST_XMLS_SCRIPT" ]; then
-        echo "Error: The file 'parse_request_xmls.py' could not be found under '$PARSE_REQUEST_XMLS_SCRIPT'!"
+        echo -e "${RED}   [!] Error: The file 'parse_request_xmls.py' could not be found under '$PARSE_REQUEST_XMLS_SCRIPT'!${NC}"
         return 1
     fi
     
@@ -82,7 +82,7 @@ copy_xmls() {
         fi
 
         mv "$tmp_file" "$file"
-        echo "[✓] ${#entries[@]} Successfully inserted entries into '$(basename "$file")'."
+        echo -e "   ${GREEN}[✓]${NC} ${#entries[@]} Successfully inserted entries into '$(basename "$file")'."
     }
 
     insert_xml_entries "$target_appfilter" "</resources>" "false" "${appfilter_entries[@]}"

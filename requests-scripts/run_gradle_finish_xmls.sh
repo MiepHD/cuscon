@@ -16,15 +16,15 @@ run_gradle_finish_xmls() {
             if command -v gradle &> /dev/null; then
                 gradle finishXMLs
             else
-                echo "  [!] ERROR: Neither ./gradlew nor 'gradle' is available."
+                echo -e "  ${RED}[!] ERROR: Neither ./gradlew nor 'gradle' is available.${NC}"
                 return 1
             fi
         fi
     )
 
     if [ $? -eq 0 ]; then
-        echo "  [✓] Gradle task 'finishXMLs' executed successfully."
+        echo -e "  ${GREEN}[✓]${NC} Gradle task 'finishXMLs' executed successfully."
     else
-        echo "  [!] ERROR: Execution of Gradle task 'finishXMLs' failed!"
+        echo -e "  ${RED}[!] ERROR: Execution of Gradle task 'finishXMLs' failed!${NC}"
     fi
 }

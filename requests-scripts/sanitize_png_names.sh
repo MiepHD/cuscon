@@ -15,13 +15,13 @@ sanitize_png_names() {
             new_hex_name=$(generate_unique_hex_name "$target_folder")
             
             mv "$png_path" "$target_folder/$new_hex_name.png"
-            echo "  [✓] Automatic renaming: '$filename' -> '$new_hex_name.png'"
+            echo -e "  ${GREEN}[✓]${NC} Automatic renaming: '$filename' -> '$new_hex_name.png'"
             
             local xml_files=("$target_folder/appfilter.xml" "$target_folder/theme_resources.xml")
             for xml in "${xml_files[@]}"; do
                 if [ -f "$xml" ]; then
                     sed -i "s/=\"${name}\"/=\"${new_hex_name}\"/g" "$xml"
-                    echo "  [✓] XML updated: $(basename "$xml")"
+                    echo -e "  ${GREEN}[✓]${NC} XML updated: $(basename "$xml")"
                 fi
             done
         fi

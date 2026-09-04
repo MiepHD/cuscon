@@ -1,7 +1,7 @@
 # --- PNGs Resizing & WEBP Konvertierung ---
 process_images() {
     local target_folder="$1"
-    
+
     local dest_dir="../app/src/main/res/drawable-nodpi"
 
     mkdir -p "$dest_dir"
@@ -14,7 +14,8 @@ process_images() {
 
     [ ${#image_files[@]} -eq 0 ] && return 0
 
-    echo -e "\n=== EXCLUDE IMAGES FROM EXPORT ==="
+    echo -e "\n=== EXCLUDE IMAGES ==="
+    echo "Which image files already exist in the icon pack and should not be replaced? (For example if you just want to fix an icon by updating the connection to the app)"
     local img_counter=1
     declare -A IMG_INDEX
     for img in "${image_files[@]}"; do
@@ -50,5 +51,5 @@ process_images() {
         python3 "$SCRIPT_DIR/resize_and_convert_webp.py" "$img" "$target_webp"
         ((process_counter++))
     done
-    echo -e "\n[✓] Image processing completed."
+    echo -e "\n${GREEN}[✓]${NC} Image processing completed."
 }

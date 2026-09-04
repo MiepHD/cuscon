@@ -10,7 +10,7 @@ manage_gradle_version_and_changelog() {
     WAS_VERSION_BUMPED=false
 
     if [ ! -f "$gradle_file" ]; then
-        echo "[!] Error: Gradle file '$gradle_file' not found."
+        echo -e "${RED}[!] Error: Gradle file '$gradle_file' not found.${NC}"
         return 1
     fi
 
@@ -39,22 +39,22 @@ manage_gradle_version_and_changelog() {
         local new_version_name
         new_version_name=$(python3 "$SCRIPT_DIR/increment_version.py" "$version_name")
 
-        echo "  [✓] New Version Code : $new_version_code"
-        echo "  [✓] New Version Name : $new_version_name"
+        echo -e "  ${GREEN}[✓]${NC} New Version Code : $new_version_code"
+        echo -e "  ${GREEN}[✓]${NC} New Version Name : $new_version_name"
 
         sed -i -E "s/(versionCode\s+)[0-9]+/\1$new_version_code/" "$gradle_file"
         sed -i -E "s/(versionName\s+['\"])[^'\"]+(['\"])/\1$new_version_name\2/" "$gradle_file"
-        echo "  [✓] build.gradle updated."
+        echo -e "  ${GREEN}[✓]${NC} build.gradle updated."
 
         if [ -f "$themeinfo_file" ]; then
             sed -i -E "s/(<versionCode>)[0-9]+(<\/versionCode>)/\1$new_version_code\2/" "$themeinfo_file"
             sed -i -E "s/(<versionName>)[^<]+(<\/versionName>)/\1$new_version_name\2/" "$themeinfo_file"
-            echo "  [✓] themeinfo.xml updated."
+            echo -e "  ${GREEN}[✓]${NC} themeinfo.xml updated."
         fi
 
         if [ -f "$themecfg_file" ]; then
             sed -i -E "s/(<version>)[0-9]+(<\/version>)/\1$new_version_code\2/" "$themecfg_file"
-            echo "  [✓] themecfg.xml updated."
+            echo -e "  ${GREEN}[✓]${NC} themecfg.xml updated."
         fi
 
         version_code="$new_version_code"

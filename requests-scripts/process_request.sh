@@ -3,7 +3,7 @@ process_request() {
     local target_folder="$1"
     
     if [ ! -f "$COMPARE_REQUEST_TO_EXISTING_ICONS_SCRIPT" ]; then
-        echo "Error: 'compare_request_to_existing_icons.py' could not be found under '$COMPARE_REQUEST_TO_EXISTING_ICONS_SCRIPT'!"
+        echo -e "${RED}Error: 'compare_request_to_existing_icons.py' could not be found under '$COMPARE_REQUEST_TO_EXISTING_ICONS_SCRIPT'!${NC}"
         return 1
     fi
 
@@ -124,25 +124,29 @@ process_request() {
         fi
     done
 
-    echo -e "\n======================================================="
-    echo -e "# Requirements for contributing icons\n- Icons must be outlined in black\n- Icon should be visible on black background\n- dimension of 256x256px\n- should have approximate 15px transparent border\n- The black border should be approximately 6px thick"
+    echo "======================================================="
+    echo "Requirements for contributing icons"
+    echo "- Icons must be outlined in black"
+    echo "- Icon should be visible on black background"
+    echo -e "- dimension of ${GREEN}256x256px${NC}"
+    echo "- should have approximate 15px transparent border"
+    echo -e "- The black border should be approximately ${GREEN}6px thick${NC}"
+    echo ""
     echo "Please edit icons in request directory '$target_folder' now."
     echo "======================================================="
     open_directory "$target_folder"
-
-    echo ""
     read -p "Press [ENTER] when you're finished with editing..."
 
     while true; do
         read -p "Do you want to proceed and add the icons to the icon pack? (y/n): " confirm
         case "$confirm" in
-            [Yy]*)
-                echo -e "\n[✓] Process confirmed. Starting utilization of XML entries..."
+            [Yyj]*)
+                echo -e "\n${GREEN}[✓]${NC} Starting utilization of XML entries..."
                 copy_xmls "$target_folder"
                 break
                 ;;
             [Nn]*)
-                echo -e "\n[!] Operation canceled. Icons were not added."
+                echo -e "\n${YELLOW}[!]${NC} Operation canceled. Icons were not added."
                 break
                 ;;
             *) echo "Please answer with 'y' (Yes) or 'n' (No)." ;;
@@ -156,7 +160,7 @@ process_request() {
             echo "Deleting request '$target_folder'..."
             rm -rf "$target_folder"
             rm -f "${target_folder}.zip"
-            echo "  [✓] Folder and .zip deleted."
+            echo -e "  ${GREEN}[✓]${NC} Folder and .zip deleted."
             ;;
         *)
             echo "  [-] Request was not deleted."

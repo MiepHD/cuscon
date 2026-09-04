@@ -14,7 +14,7 @@ map_existing_icons() {
         done
 
         if [ ${#png_files[@]} -eq 0 ]; then
-            echo "No PNG files present in folder."
+            echo -e "${RED}No PNG files present in folder.${NC}"
             break
         fi
 
@@ -42,7 +42,7 @@ map_existing_icons() {
             if [ -d "$drawable_dir" ]; then
                 open_directory "$drawable_dir"
             else
-                echo "[!] Note: Folder '$drawable_dir' was not found locally."
+                echo -e "${YELLOW}[!] Note: Folder '$drawable_dir' was not found locally.${NC}"
             fi
 
             read -p "Enter new ID for '$selected_icon': " new_mapped_name
@@ -53,14 +53,14 @@ map_existing_icons() {
                 
                 if [ -f "$old_png" ]; then
                     mv "$old_png" "$new_png"
-                    echo "  [✓] PNG renamed: '$selected_icon.png' -> '$new_png'"
+                    echo -e "  ${GREEN}[✓]${NC} PNG renamed: '$selected_icon.png' -> '$new_png'"
                 fi
 
                 local xml_files=("$target_folder/appfilter.xml" "$target_folder/theme_resources.xml")
                 for xml in "${xml_files[@]}"; do
                     if [ -f "$xml" ]; then
                         sed -i "s/=\"${selected_icon}\"/=\"${new_mapped_name}\"/g" "$xml"
-                        echo "  [✓] XML updated: $(basename "$xml")"
+                        echo -e "  ${GREEN}[✓]${NC} XML updated: $(basename "$xml")"
                     fi
                 done
             else
