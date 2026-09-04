@@ -3,6 +3,7 @@
     <string name="changelog_date">04.09.2026</string>
     <string-array name="changelog">
         <item>4.1.1.0:</item>
+        <item><![CDATA[Contributing your icons has just become a lot easier! Read the <a href="https://github.com/MiepHD/cuscon">Readme on Github</a> for more info.]]></item>
         <item>Added Finanzguru, GIPHY, YT Music Morphe, YT Morphe, Perfect Viewer X, SyncUp, Kwik Rewards, Mealie Connect</item>
         <item>Updated CandyBar Dev</item>
 

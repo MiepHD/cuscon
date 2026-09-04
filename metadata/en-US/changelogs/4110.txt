@@ -1,2 +1,3 @@
+Contributing your icons has just become a lot easier! Read the Readme on Github (MiepHD/cuscon) for more info.
 Added Finanzguru, GIPHY, YT Music Morphe, YT Morphe, Perfect Viewer X, SyncUp, Kwik Rewards, Mealie Connect
 Updated CandyBar Dev
