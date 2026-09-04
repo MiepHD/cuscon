@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="changelog_date">25.08.2026</string>
+    <string name="changelog_date">04.09.2026</string>
     <string-array name="changelog">
+        <item>4.1.1.0:</item>
+        <item>Added Finanzguru, GIPHY, YT Music Morphe, YT Morphe, Perfect Viewer X, SyncUp, Kwik Rewards, Mealie Connect</item>
+        <item>Updated CandyBar Dev</item>
+
         <item>4.1.0.9:</item>
         <item>Icons are now sorted alphabetically within each category</item>
         <item>Added tpg+, CERN Alumni, Pebble, Monabanq, CERN Campus, UBS Banking, Bouygues, Pocket Bank, win, OBDeleven, Call of Duty, Xe, مانجا اونلاين, MaCNSS, EarFun Audio, Origin, Pi-hole client, POLI SOCIAL, Restegourmet, Shortstop, RecipeSage, kobuu, INTVL, iHeartRadio, Wobbly Life, MiniVAN</item>

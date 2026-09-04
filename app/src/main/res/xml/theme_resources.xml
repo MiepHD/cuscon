@@ -7118,4 +7118,14 @@
     <AppIcon name="com.rubberbandgames.wobblylifev2/com.google.firebase.MessagingUnityPlayerActivity" image="wobbly_life"/>
     <AppIcon name="com.voteractivationnetwork.minivan/com.voteractivationnetwork.minivan.ui.activities.LaunchActivity" image="minivan"/>
 
+    <AppIcon name="de.dwins.financeguru/de.dwins.financeguru.MainActivity" image="finanzguru"/>
+    <AppIcon name="com.giphy.messenger/com.giphy.messenger.app.MainActivity" image="giphy"/>
+    <AppIcon name="com.candybar.dev/com.candybar.dev.activities.MainActivity" image="candybar_dev"/>
+    <AppIcon name="de.dwins.financeguru/de.dwins.financeguru.MainActivity" image="finanzguru"/>
+    <AppIcon name="app.morphe.android.youtube/app.morphe.android.youtube.morphe_dark_3" image="youtube"/>
+    <AppIcon name="app.morphe.android.apps.youtube.music/app.morphe.android.apps.youtube.music.morphe_play_black_2" image="youtube_music"/>
+    <AppIcon name="com.siddarthkay.syncup/com.siddarthkay.syncup.MainActivity" image="syncup"/>
+    <AppIcon name="com.rookiestudio.perfectviewerx/com.rookiestudio.perfectviewerx.MainActivity" image="perfect_viewer_x"/>
+    <AppIcon name="com.kwiktrip/com.pk.feature.authentication.sign_in.SplashActivity" image="kwik_rewards"/>
+    <AppIcon name="com.mealieconnect.app/com.mealieconnect.app.MainActivity" image="mealie_connect"/>
 </Theme>

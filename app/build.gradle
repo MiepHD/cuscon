@@ -11,8 +11,8 @@ android {
         applicationId 'com.froxot.cuscon'
         minSdkVersion rootProject.ext.MinSdk
         targetSdkVersion rootProject.ext.TargetSdk
-        versionCode 4109
-        versionName '4.1.0.9'
+        versionCode 4110
+        versionName '4.1.1.0'
         multiDexEnabled true
     }
 

@@ -2,33 +2,15 @@
 <resources>
     <version>1</version>
     <category title="New Icons"/>
-    <item drawable="bouygues"/>
-    <item drawable="call_of_duty"/>
-    <item drawable="cern_alumni"/>
-    <item drawable="cern_campus"/>
-    <item drawable="earfun_audio"/>
-    <item drawable="iheartradio"/>
-    <item drawable="intvl"/>
-    <item drawable="kobuu"/>
-    <item drawable="macnss"/>
-    <item drawable="minivan"/>
-    <item drawable="monabanq"/>
-    <item drawable="mullvad_vpn"/>
-    <item drawable="obdeleven"/>
-    <item drawable="origin"/>
-    <item drawable="pebble"/>
-    <item drawable="pi_hole_client"/>
-    <item drawable="pocket_bank"/>
-    <item drawable="poli_social"/>
-    <item drawable="recipesage"/>
-    <item drawable="restegourmet"/>
-    <item drawable="shortstop"/>
-    <item drawable="tpg_"/>
-    <item drawable="ubs_banking"/>
-    <item drawable="win"/>
-    <item drawable="wobbly_life"/>
-    <item drawable="xe"/>
-    <item drawable="zxc_laitooo_manga_online"/>
+    <item drawable="candybar_dev" name="CandyBar Dev"/>
+    <item drawable="finanzguru" name="Finanzguru"/>
+    <item drawable="giphy" name="GIPHY"/>
+    <item drawable="kwik_rewards" name="Kwik Rewards"/>
+    <item drawable="mealie_connect" name="Mealie Connect"/>
+    <item drawable="perfect_viewer_x" name="Perfect Viewer X"/>
+    <item drawable="syncup" name="SyncUp"/>
+    <item drawable="youtube" name="YT Morphe"/>
+    <item drawable="youtube_music" name="YT Music Morphe"/>
     <category title="Folders"/>
     <item drawable="folder_blue"/>
     <item drawable="folder_dark_blue"/>
@@ -2550,6 +2532,7 @@
     <item drawable="filmplus"/>
     <item drawable="finamp"/>
     <item drawable="finance"/>
+    <item drawable="finanzguru" name="Finanzguru"/>
     <item drawable="finch"/>
     <item drawable="find"/>
     <item drawable="find5x"/>
@@ -2832,6 +2815,7 @@
     <item drawable="giga_icon"/>
     <item drawable="gigaget"/>
     <item drawable="gimp"/>
+    <item drawable="giphy" name="GIPHY"/>
     <item drawable="gira"/>
     <item drawable="git_quick_reference"/>
     <item drawable="github"/>
@@ -3543,6 +3527,7 @@
     <item drawable="kwch"/>
     <item drawable="kwgt"/>
     <item drawable="kwgt_pro"/>
+    <item drawable="kwik_rewards" name="Kwik Rewards"/>
     <item drawable="kyocera_print"/>
     <category title="L"/>
     <item drawable="la_meva_salut"/>
@@ -3845,6 +3830,7 @@
     <item drawable="mcdonalds"/>
     <item drawable="mcmaster"/>
     <item drawable="mcq_abubakr_asu_"/>
+    <item drawable="mealie_connect" name="Mealie Connect"/>
     <item drawable="mealswipe"/>
     <item drawable="means_tv"/>
     <item drawable="mebis"/>
@@ -4794,6 +4780,7 @@
     <item drawable="pepeescudo"/>
     <item drawable="pepephone"/>
     <item drawable="pepperfry"/>
+    <item drawable="perfect_viewer_x" name="Perfect Viewer X"/>
     <item drawable="perfect_piano"/>
     <item drawable="perfect_viewer"/>
     <item drawable="perfectly_clear"/>
@@ -5996,6 +5983,7 @@
     <item drawable="syncfusion_flutter_ui_widgets"/>
     <item drawable="synchronized_tally"/>
     <item drawable="syncthing_fork"/>
+    <item drawable="syncup" name="SyncUp"/>
     <item drawable="synthesia"/>
     <item drawable="syslog"/>
     <item drawable="system_launcher"/>
@@ -6964,6 +6952,8 @@
     <item drawable="youtube_revanced"/>
     <item drawable="youtube_tv"/>
     <item drawable="youtube_vr"/>
+    <item drawable="youtube" name="YT Morphe"/>
+    <item drawable="youtube_music" name="YT Music Morphe"/>
     <item drawable="yt_create"/>
     <item drawable="yt_kids"/>
     <item drawable="ytdlnis"/>

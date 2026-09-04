@@ -7232,6 +7232,16 @@
     <item component="ComponentInfo{com.rubberbandgames.wobblylifev2/com.google.firebase.MessagingUnityPlayerActivity}" drawable="wobbly_life" />
     <item component="ComponentInfo{com.voteractivationnetwork.minivan/com.voteractivationnetwork.minivan.ui.activities.LaunchActivity}" drawable="minivan" />
     
+    <item component="ComponentInfo{de.dwins.financeguru/de.dwins.financeguru.MainActivity}" drawable="finanzguru" />
+    <item component="ComponentInfo{com.giphy.messenger/com.giphy.messenger.app.MainActivity}" drawable="giphy" />
+    <item component="ComponentInfo{com.candybar.dev/com.candybar.dev.activities.MainActivity}" drawable="candybar_dev" />
+    <item component="ComponentInfo{de.dwins.financeguru/de.dwins.financeguru.MainActivity}" drawable="finanzguru" />
+    <item component="ComponentInfo{app.morphe.android.youtube/app.morphe.android.youtube.morphe_dark_3}" drawable="youtube" />
+    <item component="ComponentInfo{app.morphe.android.apps.youtube.music/app.morphe.android.apps.youtube.music.morphe_play_black_2}" drawable="youtube_music" />
+    <item component="ComponentInfo{com.siddarthkay.syncup/com.siddarthkay.syncup.MainActivity}" drawable="syncup" />
+    <item component="ComponentInfo{com.rookiestudio.perfectviewerx/com.rookiestudio.perfectviewerx.MainActivity}" drawable="perfect_viewer_x" />
+    <item component="ComponentInfo{com.kwiktrip/com.pk.feature.authentication.sign_in.SplashActivity}" drawable="kwik_rewards" />
+    <item component="ComponentInfo{com.mealieconnect.app/com.mealieconnect.app.MainActivity}" drawable="mealie_connect" />
 </resources>
 
 
