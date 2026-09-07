@@ -1,0 +1,4 @@
+Anfrage-Tab aktiviert: Verfügbare Icons direkt einsehen
+Spendenoption hinzugefügt
+Premium-Anfragen (Play Store) flexibel für 1, 3, 5, 7 oder 9 Icons möglich
+Ko-Fi integriert

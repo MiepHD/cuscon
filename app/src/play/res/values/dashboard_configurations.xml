@@ -145,7 +145,7 @@
     -->
     <!-- Enable/disable icons sorting
         Disabling this will improve performance and icons will load faster (because there is no sorting to do) -->
-    <bool name="enable_icons_sort">true</bool>
+    <bool name="enable_icons_sort">false</bool>
 
     <!-- Shows icon's name below the icon, in "Icons" section -->
     <bool name="show_icon_name">true</bool>
@@ -162,12 +162,12 @@
         CONFIG: ICON REQUEST
     -->
     <!-- Enable or disable regular icon request -->
-    <bool name="enable_icon_request">false</bool>
+    <bool name="enable_icon_request">true</bool>
 
     <!-- Enable regular icon request limit
         When enabled users will be able to request only the specified number of icons.
         The number of icon a user can request should be specified in the "icon_request_limit" section -->
-    <bool name="enable_icon_request_limit">false</bool>
+    <bool name="enable_icon_request_limit">true</bool>
     <bool name="enable_icon_request_multiple">false</bool>
 
     <!-- Limit the numbers of icon a user can request
@@ -176,13 +176,13 @@
         After making 10 icon request the user will not be able to request again.
 
         See "reset_icon_request_limit" option to learn how to reset the limit. -->
-    <integer name="icon_request_limit">10</integer>
+    <integer name="icon_request_limit">0</integer>
 
     <!-- Reset regular icon request limit every update
         IGNORE if "enable_icon_request_limit" option is disabled
         ex: If you want to limit the number of icons a user can request to 10, set "icon_request_limit" option (above) to 10,
         but you also want users able to make 10 request again after update, then enable this option -->
-    <bool name="reset_icon_request_limit">true</bool>
+    <bool name="reset_icon_request_limit">false</bool>
 
     <!-- Enable JSON check before requesting icons
         It needs the option "config_json" to be configured in order to work -->
@@ -218,8 +218,8 @@
     <!-- Email to use when sending icon requests.
         Regular request email address will be used to send bug reports.
         You can leave "premium_request_email" empty to use the regular request's email to send premium icon requests. -->
-    <string name="regular_request_email">cuscon-requests@froxot.de</string>
-    <string name="premium_request_email"></string>
+    <string name="regular_request_email"></string>
+    <string name="premium_request_email">cuscon-requests@froxot.de</string>
 
     <!-- Icon request email subjects. Leave empty to use default Subject. -->
     <string name="regular_request_email_subject"></string>

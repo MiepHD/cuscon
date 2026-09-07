@@ -2,15 +2,7 @@
 <resources>
     <version>1</version>
     <category title="New Icons"/>
-    <item drawable="candybar_dev" name="CandyBar Dev"/>
-    <item drawable="finanzguru" name="Finanzguru"/>
-    <item drawable="giphy" name="GIPHY"/>
-    <item drawable="kwik_rewards" name="Kwik Rewards"/>
-    <item drawable="mealie_connect" name="Mealie Connect"/>
-    <item drawable="perfect_viewer_x" name="Perfect Viewer X"/>
-    <item drawable="syncup" name="SyncUp"/>
-    <item drawable="youtube" name="YT Morphe"/>
-    <item drawable="youtube_music" name="YT Music Morphe"/>
+    <item drawable="ko_fi"/>
     <category title="Folders"/>
     <item drawable="folder_blue"/>
     <item drawable="folder_dark_blue"/>
@@ -3484,6 +3476,7 @@
     <item drawable="klwp"/>
     <item drawable="kmeet"/>
     <item drawable="knowdrugs"/>
+    <item drawable="ko_fi"/>
     <item drawable="kobocollect"/>
     <item drawable="kobuu"/>
     <item drawable="kochloffel"/>

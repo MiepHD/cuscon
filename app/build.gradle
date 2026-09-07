@@ -11,8 +11,8 @@ android {
         applicationId 'com.froxot.cuscon'
         minSdkVersion rootProject.ext.MinSdk
         targetSdkVersion rootProject.ext.TargetSdk
-        versionCode 4110
-        versionName '4.1.1.0'
+        versionCode 4111
+        versionName '4.1.1.1'
         multiDexEnabled true
     }
 
@@ -93,13 +93,17 @@ def sortDrawable = tasks.register('sortDrawable', Exec) {
 // Code for automatically copying appfilter.xml and drawable.xml
 // from `res/xml` directory to `assets` directory
 tasks.register('finishXMLs', Copy) {
+    mustRunAfter 'clean'
     dependsOn sortDrawable
     from "$projectDir/src/main/res/xml"
     into "$projectDir/src/main/assets"
     include 'appfilter.xml', 'drawable.xml'
 }
 
+tasks.register('buildRelease') {
+    dependsOn 'clean', 'assembleFossRelease', 'bundlePlayRelease', 'assemblePlayRelease'
+}
+
 tasks.named('preBuild') {
     dependsOn 'finishXMLs'
-    dependsOn 'clean'
 }

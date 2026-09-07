@@ -83,7 +83,6 @@
             I\'m doing a little survey to get to know how my app is used. Please consider doing the quick survey with 5-20 questions. It\'d help me a lot. ♡<br>
             <a href="https://froxot.com/limesurvey/995933?lang=en">froxot.com/limesurvey/995933</a><br>
             <br>
-            Please donate if you like this icon pack: <a href="https://www.buymeacoffee.com/yazazuyo">buymeacoffee.com/yazazuyo</a><br>
             If you want to help extend the icon pack through adding icons feel free to contribute these as issues or pull requests on the <a href="https://github.com/MiepHD/cuscon">Cuscon Github Repo</a>.
             If you don\'t want to do them yourself you can purchase premium requests in the Google Play Store version or use the donation option and create a request as explained on <a href="https://github.com/MiepHD/cuscon">Github</a>.
         ]]>
@@ -145,7 +144,7 @@
     -->
     <!-- Enable/disable icons sorting
         Disabling this will improve performance and icons will load faster (because there is no sorting to do) -->
-    <bool name="enable_icons_sort">true</bool>
+    <bool name="enable_icons_sort">false</bool>
 
     <!-- Shows icon's name below the icon, in "Icons" section -->
     <bool name="show_icon_name">true</bool>
@@ -162,12 +161,12 @@
         CONFIG: ICON REQUEST
     -->
     <!-- Enable or disable regular icon request -->
-    <bool name="enable_icon_request">false</bool>
+    <bool name="enable_icon_request">true</bool>
 
     <!-- Enable regular icon request limit
         When enabled users will be able to request only the specified number of icons.
         The number of icon a user can request should be specified in the "icon_request_limit" section -->
-    <bool name="enable_icon_request_limit">false</bool>
+    <bool name="enable_icon_request_limit">true</bool>
     <bool name="enable_icon_request_multiple">false</bool>
 
     <!-- Limit the numbers of icon a user can request
@@ -176,13 +175,13 @@
         After making 10 icon request the user will not be able to request again.
 
         See "reset_icon_request_limit" option to learn how to reset the limit. -->
-    <integer name="icon_request_limit">10</integer>
+    <integer name="icon_request_limit">0</integer>
 
     <!-- Reset regular icon request limit every update
         IGNORE if "enable_icon_request_limit" option is disabled
         ex: If you want to limit the number of icons a user can request to 10, set "icon_request_limit" option (above) to 10,
         but you also want users able to make 10 request again after update, then enable this option -->
-    <bool name="reset_icon_request_limit">true</bool>
+    <bool name="reset_icon_request_limit">false</bool>
 
     <!-- Enable JSON check before requesting icons
         It needs the option "config_json" to be configured in order to work -->
@@ -218,7 +217,7 @@
     <!-- Email to use when sending icon requests.
         Regular request email address will be used to send bug reports.
         You can leave "premium_request_email" empty to use the regular request's email to send premium icon requests. -->
-    <string name="regular_request_email">cuscon-requests@froxot.de</string>
+    <string name="regular_request_email"></string>
     <string name="premium_request_email"></string>
 
     <!-- Icon request email subjects. Leave empty to use default Subject. -->
@@ -310,7 +309,7 @@
     </string-array>
 
     <!-- Contributors dialog
-        If you want to show contributors dialog unable this, if not then disable this.
+        If you want to show contributors dialog enable this, if not then disable this.
         Take a look inside res/xml/contributors.xml to add contributors -->
     <bool name="show_contributors_dialog">false</bool>
 
@@ -330,7 +329,7 @@
     -->
     <!-- Enable/disable donation
         Show support development option in the home page. -->
-    <bool name="enable_donation">false</bool>
+    <bool name="enable_donation">true</bool>
 
     <!-- Take a look inside License.java for donation product -->
 
