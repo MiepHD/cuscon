@@ -8,21 +8,21 @@
     <item drawable="ultra" name="Ultra" />
     <item drawable="toyota_fs" name="Toyota FS" />
     <item drawable="tide" name="TIDE" />
-    <item drawable="termux_x11" name="Termux:X11" />
+    <item drawable="termux_x11" name="Termux X11" />
     <item drawable="studio" name="Studio" />
     <item drawable="srp_power" name="SRP Power" />
     <item drawable="southwest_gas" name="Southwest Gas" />
     <item drawable="safeway" name="Safeway" />
     <item drawable="sabbath_school_quarterly" name="Sabbath School Quarterly" />
     <item drawable="sabbath_school" name="Sabbath School" />
-    <item drawable="routines_" name="Routines +" />
+    <item drawable="routines_" name="Routines" />
     <item drawable="quick_search" name="Quick Search" />
     <item drawable="printer_finder" name="Printer Finder" />
     <item drawable="personify_health" name="Personify Health" />
     <item drawable="okta_verify" name="Okta Verify" />
     <item drawable="obtainx" name="ObtainX" />
     <item drawable="north_pole_christmas" name="North Pole Christmas" />
-    <item drawable="new_eos_fitness" name="New EōS Fitness" />
+    <item drawable="new_eos_fitness" name="New EoS Fitness" />
     <item drawable="mynissan" name="MyNISSAN" />
     <item drawable="liberty_mutual" name="Liberty Mutual" />
     <item drawable="high_sports_analog" name="High Sports Analog" />
@@ -35,7 +35,7 @@
     <item drawable="avnc" name="AVNC" />
     <item drawable="asphalt_1788796437574" name="Asphalt"/>
     <item drawable="anyapk" name="anyapk" />
-    <item drawable="termux_widget" name="Termux:Widget" />
+    <item drawable="termux_widget" name="Termux Widget" />
     <item drawable="bible" name="Bible" />
     <item drawable="ko_fi"/>
     <category title="Folders"/>
@@ -4301,7 +4301,7 @@
     <item drawable="myworldlink"/>
     <category title="N"/>
     <item drawable="north_pole_christmas" name="North Pole Christmas" />
-    <item drawable="new_eos_fitness" name="New EōS Fitness" />
+    <item drawable="new_eos_fitness" name="New EoS Fitness" />
     <item drawable="n26"/>
     <item drawable="n_digital"/>
     <item drawable="n_digital_watch_face"/>
@@ -5200,7 +5200,7 @@
     <item drawable="qurrotul_uyun_fathul_izar_uqudu_lujain_terjemahan"/>
     <item drawable="qwant"/>
     <category title="R"/>
-    <item drawable="routines_" name="Routines +" />
+    <item drawable="routines_" name="Routines" />
     <item drawable="r_and_b_fashion"/>
     <item drawable="rabobank"/>
     <item drawable="rac1"/>
@@ -6045,8 +6045,8 @@
     <category title="T"/>
     <item drawable="toyota_fs" name="Toyota FS" />
     <item drawable="tide" name="TIDE" />
-    <item drawable="termux_x11" name="Termux:X11" />
-    <item drawable="termux_widget" name="Termux:Widget" />
+    <item drawable="termux_x11" name="Termux X11" />
+    <item drawable="termux_widget" name="Termux Widget" />
     <item drawable="t_life"/>
     <item drawable="t_life_2"/>
     <item drawable="t_mobile"/>
