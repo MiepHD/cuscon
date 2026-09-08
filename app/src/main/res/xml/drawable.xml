@@ -2,42 +2,42 @@
 <resources>
     <version>1</version>
     <category title="New Icons"/>
-    <item drawable="wellbeats" name="Wellbeats" />
-    <item drawable="village_medical" name="Village Medical" />
-    <item drawable="umr" name="UMR" />
-    <item drawable="ultra" name="Ultra" />
-    <item drawable="toyota_fs" name="Toyota FS" />
-    <item drawable="tide" name="TIDE" />
-    <item drawable="termux_x11" name="Termux:X11" />
-    <item drawable="studio" name="Studio" />
-    <item drawable="srp_power" name="SRP Power" />
-    <item drawable="southwest_gas" name="Southwest Gas" />
-    <item drawable="safeway" name="Safeway" />
-    <item drawable="sabbath_school_quarterly" name="Sabbath School Quarterly" />
-    <item drawable="sabbath_school" name="Sabbath School" />
-    <item drawable="routines_" name="Routines +" />
-    <item drawable="quick_search" name="Quick Search" />
-    <item drawable="printer_finder" name="Printer Finder" />
-    <item drawable="personify_health" name="Personify Health" />
-    <item drawable="okta_verify" name="Okta Verify" />
-    <item drawable="obtainx" name="ObtainX" />
-    <item drawable="north_pole_christmas" name="North Pole Christmas" />
-    <item drawable="new_eos_fitness" name="New EōS Fitness" />
-    <item drawable="mynissan" name="MyNISSAN" />
-    <item drawable="liberty_mutual" name="Liberty Mutual" />
-    <item drawable="high_sports_analog" name="High Sports Analog" />
-    <item drawable="healthequity" name="HealthEquity" />
-    <item drawable="health_monitor" name="Health Monitor" />
-    <item drawable="google_japanese_input" name="Google Japanese Input" />
-    <item drawable="glendaleone" name="GlendaleOne" />
-    <item drawable="frys_food" name="Frys Food" />
-    <item drawable="az_mobile_id" name="AZ Mobile ID" />
-    <item drawable="avnc" name="AVNC" />
+    <item drawable="anyapk" name="anyapk"/>
     <item drawable="asphalt_1788796437574" name="Aspalt Legends Unite"/>
-    <item drawable="anyapk" name="anyapk" />
-    <item drawable="termux_widget" name="Termux:Widget">
-    <item drawable="bible" name="Bible" />
+    <item drawable="avnc" name="AVNC"/>
+    <item drawable="az_mobile_id" name="AZ Mobile ID"/>
+    <item drawable="bible" name="Bible"/>
+    <item drawable="frys_food" name="Frys Food"/>
+    <item drawable="glendaleone" name="GlendaleOne"/>
+    <item drawable="google_japanese_input" name="Google Japanese Input"/>
+    <item drawable="health_monitor" name="Health Monitor"/>
+    <item drawable="healthequity" name="HealthEquity"/>
+    <item drawable="high_sports_analog" name="High Sports Analog"/>
     <item drawable="ko_fi"/>
+    <item drawable="liberty_mutual" name="Liberty Mutual"/>
+    <item drawable="mynissan" name="MyNISSAN"/>
+    <item drawable="new_eos_fitness" name="New EōS Fitness"/>
+    <item drawable="north_pole_christmas" name="North Pole Christmas"/>
+    <item drawable="obtainx" name="ObtainX"/>
+    <item drawable="okta_verify" name="Okta Verify"/>
+    <item drawable="personify_health" name="Personify Health"/>
+    <item drawable="printer_finder" name="Printer Finder"/>
+    <item drawable="quick_search" name="Quick Search"/>
+    <item drawable="routines_" name="Routines +"/>
+    <item drawable="sabbath_school" name="Sabbath School"/>
+    <item drawable="sabbath_school_quarterly" name="Sabbath School Quarterly"/>
+    <item drawable="safeway" name="Safeway"/>
+    <item drawable="southwest_gas" name="Southwest Gas"/>
+    <item drawable="srp_power" name="SRP Power"/>
+    <item drawable="studio" name="Studio"/>
+    <item drawable="termux_widget" name="Termux:Widget"/>
+    <item drawable="termux_x11" name="Termux:X11"/>
+    <item drawable="tide" name="TIDE"/>
+    <item drawable="toyota_fs" name="Toyota FS"/>
+    <item drawable="ultra" name="Ultra"/>
+    <item drawable="umr" name="UMR"/>
+    <item drawable="village_medical" name="Village Medical"/>
+    <item drawable="wellbeats" name="Wellbeats"/>
     <category title="Folders"/>
     <item drawable="folder_blue"/>
     <item drawable="folder_dark_blue"/>
@@ -862,10 +862,6 @@
     <item drawable="_8bit_photo_lab"/>
     <item drawable="_8vim"/>
     <category title="A"/>
-    <item drawable="az_mobile_id" name="AZ Mobile ID" />
-    <item drawable="avnc" name="AVNC" />
-    <item drawable="asphalt_1788796437574"/>
-    <item drawable="anyapk" name="anyapk" />
     <item drawable="a13_theme_for_klwp"/>
     <item drawable="a_cloud_guru"/>
     <item drawable="aard_2" name="aard"/>
@@ -1069,6 +1065,7 @@
     <item drawable="anton"/>
     <item drawable="antutu_3dbench_lite"/>
     <item drawable="antutu_benchmark"/>
+    <item drawable="anyapk" name="anyapk"/>
     <item drawable="anybill"/>
     <item drawable="anydesk"/>
     <item drawable="anydo"/>
@@ -1169,6 +1166,7 @@
     <item drawable="askthis"/>
     <item drawable="askway"/>
     <item drawable="asos"/>
+    <item drawable="asphalt_1788796437574"/>
     <item drawable="asq"/>
     <item drawable="asr"/>
     <item drawable="assembly_line"/>
@@ -1264,6 +1262,7 @@
     <item drawable="avg_cleaner"/>
     <item drawable="avg_secure_browser"/>
     <item drawable="avito"/>
+    <item drawable="avnc" name="AVNC"/>
     <item drawable="awallet"/>
     <item drawable="awallet_cloud"/>
     <item drawable="award_vpn"/>
@@ -1275,6 +1274,7 @@
     <item drawable="axis_mobile"/>
     <item drawable="axisnet"/>
     <item drawable="axonify"/>
+    <item drawable="az_mobile_id" name="AZ Mobile ID"/>
     <item drawable="azahar"/>
     <item drawable="azfcu"/>
     <item drawable="azure"/>
@@ -2478,11 +2478,6 @@
     <item drawable="escaner_de_red" name="network scanner"/>
     <item drawable="escaner_wi_fi" name="scanner_wi_fi"/>
     <category title="F"/>
-<<<<<<< HEAD
-    <item drawable="frys_food" name="Frys Food" />
-=======
-    <item drawable="frys_food" name="Fry's Food" />
->>>>>>> 66601112 (added missing icons)
     <item drawable="_f_droid_kdi" name="F-Droid KDI"/>
     <item drawable="f_droid"/>
     <item drawable="f_droid_basic"/>
@@ -2734,6 +2729,7 @@
     <item drawable="fritz_smart_home"/>
     <item drawable="frost"/>
     <item drawable="fruity_game"/>
+    <item drawable="frys_food" name="Frys Food"/>
     <item drawable="fs_20"/>
     <item drawable="ftpclient"/>
     <item drawable="fuel_player"/>
@@ -2754,8 +2750,6 @@
     <item drawable="fx"/>
     <item drawable="fyuse"/>
     <category title="G"/>
-    <item drawable="google_japanese_input" name="Google Japanese Input" />
-    <item drawable="glendaleone" name="GlendaleOne" />
     <item drawable="g2a"/>
     <item drawable="g30"/>
     <item drawable="g7_taxi"/>
@@ -2863,6 +2857,7 @@
     <item drawable="glamai"/>
     <item drawable="glassdoor"/>
     <item drawable="glasswire"/>
+    <item drawable="glendaleone" name="GlendaleOne"/>
     <item drawable="gley"/>
     <item drawable="glider"/>
     <item drawable="glider_red"/>
@@ -2906,6 +2901,7 @@
     <item drawable="goodrx"/>
     <item drawable="goods_sorting"/>
     <item drawable="goodwall"/>
+    <item drawable="google_japanese_input" name="Google Japanese Input"/>
     <item drawable="gooutdoors_direct"/>
     <item drawable="gopinion"/>
     <item drawable="goplus_cam"/>
@@ -2993,9 +2989,6 @@
     <item drawable="gymroutines"/>
     <item drawable="gymshark"/>
     <category title="H"/>
-    <item drawable="high_sports_analog" name="High Sports Analog" />
-    <item drawable="healthequity" name="HealthEquity" />
-    <item drawable="health_monitor" name="Health Monitor" />
     <item drawable="h_and_b"/>
     <item drawable="h_and_m"/>
     <item drawable="habit_ally"/>
@@ -3051,7 +3044,9 @@
     <item drawable="headspace"/>
     <item drawable="headway"/>
     <item drawable="healico"/>
+    <item drawable="health_monitor" name="Health Monitor"/>
     <item drawable="health_studies"/>
+    <item drawable="healthequity" name="HealthEquity"/>
     <item drawable="healthy_minds"/>
     <item drawable="hear_boost"/>
     <item drawable="badanie_sluchu" name="hearing test"/>
@@ -3096,6 +3091,7 @@
     <item drawable="hiddeneye"/>
     <item drawable="hidive"/>
     <item drawable="hifnawy_caffeinate"/>
+    <item drawable="high_sports_analog" name="High Sports Analog"/>
     <item drawable="highline_fast"/>
     <item drawable="highway"/>
     <item drawable="hihello"/>
@@ -3572,7 +3568,6 @@
     <item drawable="kwik_rewards" name="Kwik Rewards"/>
     <item drawable="kyocera_print"/>
     <category title="L"/>
-    <item drawable="liberty_mutual" name="Liberty Mutual" />
     <item drawable="la_meva_salut"/>
     <item drawable="la_republica"/>
     <item drawable="lab_tests"/>
@@ -3640,6 +3635,7 @@
     <item drawable="lge_music"/>
     <item drawable="libby"/>
     <item drawable="libchecker"/>
+    <item drawable="liberty_mutual" name="Liberty Mutual"/>
     <item drawable="library"/>
     <item drawable="libre_camera"/>
     <item drawable="librefind"/>
@@ -3769,7 +3765,6 @@
     <item drawable="lyft"/>
     <item drawable="lynx_launcher"/>
     <category title="M"/>
-    <item drawable="mynissan" name="MyNISSAN" />
     <item drawable="m3u"/>
     <item drawable="m4marry"/>
     <item drawable="m_and_s"/>
@@ -4279,6 +4274,7 @@
     <item drawable="mymind"/>
     <item drawable="mymonty"/>
     <item drawable="myne"/>
+    <item drawable="mynissan" name="MyNISSAN"/>
     <item drawable="mynoise"/>
     <item drawable="myntra"/>
     <item drawable="myodeon"/>
@@ -4304,12 +4300,6 @@
     <item drawable="mywingo"/>
     <item drawable="myworldlink"/>
     <category title="N"/>
-    <item drawable="north_pole_christmas" name="North Pole Christmas" />
-<<<<<<< HEAD
-    <item drawable="new_eos_fitness" name="New EoS Fitness" />
-=======
-    <item drawable="new_eos_fitness" name="New EōS Fitness" />
->>>>>>> 66601112 (added missing icons)
     <item drawable="n26"/>
     <item drawable="n_digital"/>
     <item drawable="n_digital_watch_face"/>
@@ -4388,6 +4378,7 @@
     <item drawable="network_utilities"/>
     <item drawable="neutron_player"/>
     <item drawable="nevertoomanybooks"/>
+    <item drawable="new_eos_fitness" name="New EoS Fitness"/>
     <item drawable="newchic"/>
     <item drawable="newpipe"/>
     <item drawable="newpipe_legacy"/>
@@ -4466,6 +4457,7 @@
     <item drawable="nora"/>
     <item drawable="nora_nonbili"/>
     <item drawable="nordvpn"/>
+    <item drawable="north_pole_christmas" name="North Pole Christmas"/>
     <item drawable="norton_360"/>
     <item drawable="norton_identity"/>
     <item drawable="nos"/>
@@ -4536,8 +4528,6 @@
     <item drawable="nytimes"/>
     <item drawable="nzb360"/>
     <category title="O"/>
-    <item drawable="okta_verify" name="Okta Verify" />
-    <item drawable="obtainx" name="ObtainX" />
     <item drawable="o2_cloud"/>
     <item drawable="o2_mdm"/>
     <item drawable="oasis_launcher"/>
@@ -4550,6 +4540,7 @@
     <item drawable="observa"/>
     <item drawable="obsidian"/>
     <item drawable="obtainium"/>
+    <item drawable="obtainx" name="ObtainX"/>
     <item drawable="ocado"/>
     <item drawable="ocbc_digital"/>
     <item drawable="ocr"/>
@@ -4580,6 +4571,7 @@
     <item drawable="ok_transporte_barcelona"/>
     <item drawable="okcagent"/>
     <item drawable="okcupid"/>
+    <item drawable="okta_verify" name="Okta Verify"/>
     <item drawable="okx"/>
     <item drawable="ola"/>
     <item drawable="olauncher"/>
@@ -4726,8 +4718,6 @@
     <item drawable="oyo"/>
     <item drawable="oysho"/>
     <category title="P"/>
-    <item drawable="printer_finder" name="Printer Finder" />
-    <item drawable="personify_health" name="Personify Health" />
     <item drawable="p2play"/>
     <item drawable="p_r_o_t_o"/>
     <item drawable="pa_drivers_practice_exam"/>
@@ -4844,6 +4834,7 @@
     <item drawable="peristyle"/>
     <item drawable="perplexity"/>
     <item drawable="personaldnsfilter"/>
+    <item drawable="personify_health" name="Personify Health"/>
     <item drawable="personio"/>
     <item drawable="pesan"/>
     <item drawable="pesapap"/>
@@ -5093,6 +5084,7 @@
     <item drawable="primor"/>
     <item drawable="principia"/>
     <item drawable="print_size"/>
+    <item drawable="printer_finder" name="Printer Finder"/>
     <item drawable="printershare"/>
     <item drawable="printhand_premium"/>
     <item drawable="prism_style_for_klwp"/>
@@ -5155,7 +5147,6 @@
     <item drawable="pysolfc"/>
     <item drawable="pzizz"/>
     <category title="Q"/>
-    <item drawable="quick_search" name="Quick Search" />
     <item drawable="qalculate_"/>
     <item drawable="qare"/>
     <item drawable="qatar_airways"/>
@@ -5183,6 +5174,7 @@
     <item drawable="quad9_connect"/>
     <item drawable="questmobile"/>
     <item drawable="quetta"/>
+    <item drawable="quick_search" name="Quick Search"/>
     <item drawable="quick_measure"/>
     <item drawable="quick_settings"/>
     <item drawable="quickdic"/>
@@ -5208,11 +5200,6 @@
     <item drawable="qurrotul_uyun_fathul_izar_uqudu_lujain_terjemahan"/>
     <item drawable="qwant"/>
     <category title="R"/>
-<<<<<<< HEAD
-    <item drawable="routines_" name="Routines" />
-=======
-    <item drawable="routines_" name="Routines +" />
->>>>>>> 66601112 (added missing icons)
     <item drawable="r_and_b_fashion"/>
     <item drawable="rabobank"/>
     <item drawable="rac1"/>
@@ -5419,6 +5406,7 @@
     <item drawable="router_keygen_yolosec"/>
     <item drawable="router_setup_page"/>
     <item drawable="routinery"/>
+    <item drawable="routines_" name="Routines"/>
     <item drawable="royal_bank"/>
     <item drawable="royal_road"/>
     <item drawable="rp"/>
@@ -5460,24 +5448,21 @@
     <item drawable="rvx_reddit"/>
     <item drawable="rysiek"/>
     <category title="S"/>
-    <item drawable="studio" name="Studio" />
-    <item drawable="srp_power" name="SRP Power" />
-    <item drawable="southwest_gas" name="Southwest Gas" />
-    <item drawable="safeway" name="Safeway" />
-    <item drawable="sabbath_school_quarterly" name="Sabbath School Quarterly" />
-    <item drawable="sabbath_school" name="Sabbath School" />
     <item drawable="_switch"/>
     <item drawable="s3drive"/>
     <item drawable="s_miles_home"/>
     <item drawable="s_pushtan"/>
     <item drawable="sa2138"/>
     <item drawable="banco_sabadell" name="Sabadell Bank"/>
+    <item drawable="sabbath_school" name="Sabbath School"/>
+    <item drawable="sabbath_school_quarterly" name="Sabbath School Quarterly"/>
     <item drawable="saber"/>
     <item drawable="saf_media_scanner"/>
     <item drawable="safe_space"/>
     <item drawable="safenow"/>
     <item drawable="safenow_user"/>
     <item drawable="safety"/>
+    <item drawable="safeway" name="Safeway"/>
     <item drawable="sai"/>
     <item drawable="saikou_"/>
     <item drawable="sainsburys"/>
@@ -5847,6 +5832,7 @@
     <item drawable="soundpeats"/>
     <item drawable="soundrekorder"/>
     <item drawable="southwest"/>
+    <item drawable="southwest_gas" name="Southwest Gas"/>
     <item drawable="souvenirs"/>
     <item drawable="space_intern"/>
     <item drawable="spacedesk"/>
@@ -5898,6 +5884,7 @@
     <item drawable="squawker"/>
     <item drawable="squircle_ce"/>
     <item drawable="sride"/>
+    <item drawable="srp_power" name="SRP Power"/>
     <item drawable="sshkeyman"/>
     <item drawable="sstv_encoder"/>
     <item drawable="st_unlocker"/>
@@ -5967,6 +5954,7 @@
     <item drawable="stromgedacht"/>
     <item drawable="structured"/>
     <item drawable="student_beans"/>
+    <item drawable="studio" name="Studio"/>
     <item drawable="stuff"/>
     <item drawable="stumble_guys"/>
     <item drawable="stundenplan"/>
@@ -6055,15 +6043,6 @@
     <item drawable="system_launcher"/>
     <item drawable="systemui_tuner"/>
     <category title="T"/>
-    <item drawable="toyota_fs" name="Toyota FS" />
-    <item drawable="tide" name="TIDE" />
-<<<<<<< HEAD
-    <item drawable="termux_x11" name="Termux X11" />
-    <item drawable="termux_widget" name="Termux Widget" />
-=======
-    <item drawable="termux_x11" name="Termux:X11" />
-    <item drawable="termux_widget" name="Termux:Widget" />
->>>>>>> 66601112 (added missing icons)
     <item drawable="t_life"/>
     <item drawable="t_life_2"/>
     <item drawable="t_mobile"/>
@@ -6169,6 +6148,8 @@
     <item drawable="termius"/>
     <item drawable="termuc"/>
     <item drawable="termux"/>
+    <item drawable="termux_widget" name="Termux Widget"/>
+    <item drawable="termux_x11" name="Termux X11"/>
     <item drawable="termux_api"/>
     <item drawable="termux_gui"/>
     <item drawable="terraria"/>
@@ -6237,6 +6218,7 @@
     <item drawable="tickit"/>
     <item drawable="ticktick"/>
     <item drawable="tidal"/>
+    <item drawable="tide" name="TIDE"/>
     <item drawable="tidy"/>
     <item drawable="tiempoes"/>
     <item drawable="tier"/>
@@ -6334,6 +6316,7 @@
     <item drawable="tournant"/>
     <item drawable="tower_collector"/>
     <item drawable="township"/>
+    <item drawable="toyota_fs" name="Toyota FS"/>
     <item drawable="tpg_"/>
     <item drawable="tpmifi"/>
     <item drawable="tps"/>
@@ -6422,8 +6405,6 @@
     <item drawable="twitch"/>
     <item drawable="txt"/>
     <category title="U"/>
-    <item drawable="umr" name="UMR" />
-    <item drawable="ultra" name="Ultra" />
     <item drawable="ua_color_picker"/>
     <item drawable="uav_forecast"/>
     <item drawable="uber"/>
@@ -6444,10 +6425,12 @@
     <item drawable="ukg_pro"/>
     <item drawable="ull_del_temps"/>
     <item drawable="ullas"/>
+    <item drawable="ultra" name="Ultra"/>
     <item drawable="ultra_apps"/>
     <item drawable="ultra_lock"/>
     <item drawable="ultra_volume"/>
     <item drawable="ultrasonic"/>
+    <item drawable="umr" name="UMR"/>
     <item drawable="umweltbanking"/>
     <item drawable="unciv"/>
     <item drawable="underwatermelon"/>
@@ -6529,7 +6512,6 @@
     <item drawable="ux_apps"/>
     <item drawable="ux_led_free"/>
     <category title="V"/>
-    <item drawable="village_medical" name="Village Medical" />
     <item drawable="v2rayng"/>
     <item drawable="v380"/>
     <item drawable="v380_pro"/>
@@ -6596,6 +6578,7 @@
     <item drawable="vidya_music"/>
     <item drawable="viewer_for_khan_academy"/>
     <item drawable="vilaweb"/>
+    <item drawable="village_medical" name="Village Medical"/>
     <item drawable="vimage"/>
     <item drawable="vimeo"/>
     <item drawable="vimpay"/>
@@ -6763,7 +6746,6 @@
     <item drawable="wifianalyzer_vic"/>
     <item drawable="wifiman"/>
     <category title="W"/>
-    <item drawable="wellbeats" name="Wellbeats" />
     <item drawable="wa_business"/>
     <item drawable="wabox"/>
     <item drawable="wadbs"/>
@@ -6838,6 +6820,7 @@
     <item drawable="weenet"/>
     <item drawable="wegmans"/>
     <item drawable="wego_flights_and_hotels"/>
+    <item drawable="wellbeats" name="Wellbeats"/>
     <item drawable="wellpass"/>
     <item drawable="wells_fargo"/>
     <item drawable="welt_news"/>
