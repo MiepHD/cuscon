@@ -22,7 +22,10 @@ ensure_gradle() {
     fi
 
     echo -e "${YELLOW}--> System Gradle was not found. Attempting automatic installation...${NC}"
-    if command -v snap &> /dev/null; then
+    if command -v pkg &> /dev/null; then
+        echo "--> Installing Gradle via pkg..."
+        pkg i gradle
+    elif command -v snap &> /dev/null; then
         echo "--> Installing Gradle via Snap..."
         sudo snap install gradle --classic
     elif command -v sdk &> /dev/null; then
