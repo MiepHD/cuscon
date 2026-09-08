@@ -33,7 +33,7 @@
     <item drawable="frys_food" name="Fry's Food" />
     <item drawable="az_mobile_id" name="AZ Mobile ID" />
     <item drawable="avnc" name="AVNC" />
-    <item drawable="asphalt_1788796437574"/>
+    <item drawable="asphalt_1788796437574" name="Asphalt"/>
     <item drawable="anyapk" name="anyapk" />
     <item drawable="termux_widget" name="Termux:Widget" />
     <item drawable="bible" name="Bible" />
