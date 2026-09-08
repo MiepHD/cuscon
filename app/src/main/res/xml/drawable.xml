@@ -30,7 +30,7 @@
     <item drawable="health_monitor" name="Health Monitor" />
     <item drawable="google_japanese_input" name="Google Japanese Input" />
     <item drawable="glendaleone" name="GlendaleOne" />
-    <item drawable="frys_food" name="Fry's Food" />
+    <item drawable="frys_food" name="Frys Food" />
     <item drawable="az_mobile_id" name="AZ Mobile ID" />
     <item drawable="avnc" name="AVNC" />
     <item drawable="asphalt_1788796437574" name="Asphalt"/>
@@ -2478,7 +2478,7 @@
     <item drawable="escaner_de_red" name="network scanner"/>
     <item drawable="escaner_wi_fi" name="scanner_wi_fi"/>
     <category title="F"/>
-    <item drawable="frys_food" name="Fry's Food" />
+    <item drawable="frys_food" name="Frys Food" />
     <item drawable="_f_droid_kdi" name="F-Droid KDI"/>
     <item drawable="f_droid"/>
     <item drawable="f_droid_basic"/>
