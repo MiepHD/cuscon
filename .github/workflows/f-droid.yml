@@ -12,6 +12,21 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v4
 
+      - name: Set up Java / JDK
+        uses: actions/setup-java@v4
+        with:
+          java-version: '17' # Passe die Java-Version an dein Projekt an
+          distribution: 'temurin'
+
+      - name: Setup Android SDK
+        uses: android-actions/setup-android@v3
+
+      - name: Install Comparison Tools
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y python3-pip
+          pip3 install --break-system-packages apksigcopier
+
       - name: Download Release APK
         uses: robinraju/release-downloader@v1.8
         with:
@@ -19,43 +34,27 @@ jobs:
           fileName: "cuscon-*-foss-release.apk"
           out-file-path: "release-apk"
 
-      - name: Set up Docker
-        uses: docker/setup-buildx-action@v3
-
-      - name: Build APK with F-Droid Docker
+      - name: Build Unsigned APK (F-Droid Style)
         run: |
-          mkdir -p fdroid-workspace
-          
-          # F-Droid Build-Umgebung ausführen
-          docker run --rm -v $(pwd):/repo registry.gitlab.com/fdroid/fdroidserver:build-server bash -c "
-            cd /repo
-            fdroid build --verbose --single-build com.froxot.cuscon.foss
-          "
+          # F-Droid baut in der Regel den Release-Task ohne Signierung
+          ./gradlew assembleFossRelease --no-daemon
 
-      - name: Compare Release APK and F-Droid Build
+      - name: Compare Release APK and Self-Built APK
         run: |
           RELEASE_APK=$(find release-apk -name "cuscon-*-foss-release.apk" | head -n 1)
-          BUILT_APK=$(find fdroid-workspace/unsigned -name "*.apk" | head -n 1)
+          BUILT_APK=$(find app/build/outputs/apk/foss/release -name "*.apk" | head -n 1)
 
-          if [ -z "$RELEASE_APK" ]; then
-            echo "Fehler: Release-APK nicht gefunden!"
+          if [ -z "$RELEASE_APK" ] || [ -z "$BUILT_APK" ]; then
+            echo "Fehler: Mindestens eine APK wurde nicht gefunden!"
             exit 1
           fi
 
           echo "Release APK: $RELEASE_APK"
           echo "Built APK:   $BUILT_APK"
 
-          # APK-Inhalte entpacken
-          mkdir release_extracted built_extracted
-          unzip -q "$RELEASE_APK" -d release_extracted
-          unzip -q "$BUILT_APK" -d built_extracted
-
-          # Signatur-Ordner entfernen (F-Droid baut ununterzeichnet)
-          rm -rf release_extracted/META-INF
-          rm -rf built_extracted/META-INF
-
-          # Verzeichnisse vergleichen
-          diff -r release_extracted built_extracted
+          # apksigcopier ist das offizielle Tool von F-Droid um Signaturen 
+          # von der Release-APK auf die frisch gebaute APK zu kopieren und zu vergleichen
+          apksigcopier compare "$RELEASE_APK" "$BUILT_APK"
 
           if [ $? -eq 0 ]; then
             echo "Erfolg: Der Build ist reproduzierbar!"
