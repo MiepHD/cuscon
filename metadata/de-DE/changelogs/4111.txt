@@ -4,3 +4,4 @@ Premium-Anfragen (Play Store) flexibel für 1, 3, 5, 7 oder 9 Icons möglich
 Ko-Fi integriert
 Hinzugefügt anyapk, asphalt_1788796437574, AVNC, AZ Mobile ID, Fry's Food, GlendaleOne, Google Japanese Input, Health Monitor, HealthEquity, High Sports Analog, Liberty Mutual, MyNISSAN, New EōS Fitness, North Pole Christmas, ObtainX, Okta Verify, Personify Health, Printer Finder, Quick Search, Routines +, Sabbath School, Sabbath School Quarterly, Safeway, Southwest Gas, SRP Power, Studio, Termux:X11, TIDE, Toyota FS, Ultra, UMR, Village Medical, Wellbeats
 Verbessert Bible, Termux:Widget
+@github:Green0Field hat die meisten der Icons dieses Releases beigetragen. Vielen Dank.
