@@ -38,7 +38,7 @@ Please send requests to <a href="mailto:cuscon-requests@froxot.de">cuscon-reques
 ## Issues
 
 <b>If you just want to create the images, please upload the request with edited images as an issue.</b>
-For that you can follow the steps 1,2 and 4 under Pull Requests. Then zip the folder again and upload the zip file into an issue on github.
+For that you can follow the step 1 under Pull Requests. Then unzip the file, edit the images and zip the folder. Then upload the zip file into an issue on github.
 (File types can be any images but SVG, WEBP, PNG is preferred)
 
 ## Pull Requests
@@ -56,8 +56,11 @@ For that you can follow the steps 1,2 and 4 under Pull Requests. Then zip the fo
 - Icons must be outlined in black
 - Icon should be visible on black background
 - dimension of 256x256px
-- should have approximate 15px transparent border
+- should have approximately (±6px) 15px transparent border on two opposite sides
+- the other two sides should have apporximately 15px transparent border or more
 - The black border should be approximately 6px thick
+
+![sample_icon](sample_icon.webp)
 
 # Background info
 
