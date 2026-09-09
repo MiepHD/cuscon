@@ -170,3 +170,7 @@ icon_request_*/
 icon_request_*.zip
 
 app/gradle.properties
+.venv/
+google_credentials.json
+tokens_cache.json
+orders_db.json
