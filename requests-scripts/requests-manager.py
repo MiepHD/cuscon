@@ -4,14 +4,15 @@ import os
 import re
 import zipfile
 import base64
+import shutil
 import requests
 from msal import PublicClientApplication, SerializableTokenCache
 from google.oauth2 import service_account
 from googleapiclient.discovery import build
 
 # ================= CONFIGURATION =================
-MS_CLIENT_ID = "abe95a41-0f7d-43d6-926b-e4b27ceeda5a"  # MS Graph CLI ID
-MS_TENANT = "froxot.de"     # Deine konkrete Tenant-ID
+MS_CLIENT_ID = "abe95a41-0f7d-43d6-926b-e4b27ceeda5a"  # MS Graph CLI ID / Azure App Client ID
+MS_TENANT = "froxot.de"     # Deine konkrete Tenant-ID oder Domain
 MS_SCOPES = ["https://graph.microsoft.com/Mail.ReadWrite"]
 
 GOOGLE_JSON_PATH = "google_credentials.json"
@@ -34,8 +35,7 @@ def save_db(db):
     with open(DATABASE_FILE, "w") as f:
         json.dump(db, f, indent=4)
 
-# --- MS GRAPH AUTHENTICATION (MIT TOKEN CACHING) ---
-# --- MS GRAPH AUTHENTICATION (MIT TOKEN CACHING) ---
+# --- MS GRAPH AUTHENTICATION ---
 def get_ms_token():
     cache = SerializableTokenCache()
     if os.path.exists(CACHE_FILE):
@@ -48,14 +48,12 @@ def get_ms_token():
         token_cache=cache
     )
     
-    # 1. Versuchen, ein Token leise aus dem Cache zu holen
     accounts = app.get_accounts()
     if accounts:
         result = app.acquire_token_silent(MS_SCOPES, account=accounts[0])
         if result and "access_token" in result:
             return result['access_token']
 
-    # 2. Interaktiver Device Code Flow, falls kein Token im Cache vorhanden ist
     flow = app.initiate_device_flow(scopes=MS_SCOPES)
     if "user_code" not in flow:
         raise ValueError(f"Device Flow fehlgeschlagen: {flow.get('error_description')}")
@@ -64,12 +62,9 @@ def get_ms_token():
     print(flow['message'])
     print("=" * 60)
     
-    # Hier wartet das Skript, bis du dich im Browser angemeldet hast
     result = app.acquire_token_by_device_flow(flow)
 
-    # 3. Das Ergebnis der Anmeldung direkt überprüfen
     if "access_token" in result:
-        # Cache auf der Festplatte speichern
         if cache.has_state_changed:
             with open(CACHE_FILE, "w") as f:
                 f.write(cache.serialize())
@@ -77,6 +72,14 @@ def get_ms_token():
     else:
         error_msg = result.get("error_description", "Unbekannter Fehler")
         raise RuntimeError(f"Microsoft Token konnte nicht abgerufen werden: {error_msg}")
+
+# --- HELPER: HTML TO CLEAN TEXT ---
+def clean_html(html_content):
+    """Entfernt HTML-Tags und bereinigt Mehrfach-Leerzeichen/Zeilenumbrüche."""
+    text = re.sub(r'<[^>]+>', ' ', html_content)
+    text = re.sub(r'&nbsp;', ' ', text)
+    lines = [line.strip() for line in text.splitlines() if line.strip()]
+    return "\n".join(lines)
 
 # --- GOOGLE PLAY VALIDATION ---
 def verify_google_order(order_id, product_id, purchase_token=None):
@@ -89,20 +92,15 @@ def verify_google_order(order_id, product_id, purchase_token=None):
             GOOGLE_JSON_PATH, scopes=['https://www.googleapis.com/auth/androidpublisher']
         )
         service = build('androidpublisher', 'v3', credentials=credentials)
-        
-        # Für In-App-Purchases (sofern purchase_token vorliegt):
-        # result = service.inappproducts().purchases().get(packageName=PACKAGE_NAME, productId=product_id, token=purchase_token).execute()
-        # return result.get('purchaseState') == 0
-        
-        return True  # Fallback/Mock wenn nur Order-ID vorliegt
+        return True  # Fallback/Mock bis zur vollständigen API-Verknüpfung
     except Exception as e:
         print(f"Fehler bei Google Validation: {e}")
         return False
 
-# --- PARSING & PROCESSING ---
-def parse_email_body(body):
-    order_id_match = re.search(r"Order Id:\s*([^\s\r\n<]+)", body)
-    product_id_match = re.search(r"Product Id:\s*([^\s\r\n<]+)", body)
+# --- PARSING & INTERACTIVE PROMPT ---
+def parse_email_body(body_text):
+    order_id_match = re.search(r"Order\s*Id\s*:\s*([^\s\r\n<]+)", body_text, re.IGNORECASE)
+    product_id_match = re.search(r"Product\s*Id\s*:\s*([^\s\r\n<]+)", body_text, re.IGNORECASE)
     
     order_id = order_id_match.group(1) if order_id_match else None
     product_id = product_id_match.group(1) if product_id_match else None
@@ -113,14 +111,28 @@ def count_icons_in_zip(zip_path):
     with zipfile.ZipFile(zip_path, 'r') as z:
         return len([name for name in z.namelist() if name.lower().endswith(('.png', '.svg', '.jpg'))])
 
-def handle_error_prompt(error_msg):
-    print(f"\n[FEHLER DETEKTIERT]: {error_msg}")
+def handle_interactive_decision(subject, preview_body, error_msg):
+    print("\n" + "=" * 60)
+    print(f"[PRÜFUNG FEHLGESCHLAGEN]: {error_msg}")
+    print(f"BETREFF: {subject}")
+    print("-" * 60)
+    print("INHALT (Auszug):")
+    print(preview_body[:400] + ("..." if len(preview_body) > 400 else ""))
+    print("=" * 60)
+
     while True:
-        choice = input("Wähle eine Aktion: [s]kip (Anfrage überspringen) / [i]gnore (Fehler ignorieren & fortfahren)? ").lower()
+        choice = input("Wähle eine Aktion: [s]kip (Überspringen) / [m]anual (Order-ID händisch eingeben) / [i]gnore (Ignorieren & als gelesen abheften)? ").lower()
         if choice in ['s', 'skip']:
-            return 'skip'
+            return 'skip', None
+        elif choice in ['m', 'manual']:
+            manual_id = input("Bitte gib die Order-ID manuell ein: ").strip()
+            return 'manual', manual_id
         elif choice in ['i', 'ignore']:
-            return 'ignore'
+            return 'ignore', None
+
+def mark_as_read(msg_id, headers, status=True):
+    patch_url = f"https://graph.microsoft.com/v1.0/me/messages/{msg_id}"
+    requests.patch(patch_url, headers=headers, json={'isRead': status})
 
 # --- MAIN WORKFLOW ---
 def main():
@@ -129,7 +141,6 @@ def main():
     
     headers = {'Authorization': f'Bearer {token}'}
     
-    # Auslesen ungelesener Mails mit Betreff "Premium request"
     url = "https://graph.microsoft.com/v1.0/me/messages?$filter=isRead eq false and contains(subject, 'Premium request')"
     response = requests.get(url, headers=headers).json()
 
@@ -138,22 +149,39 @@ def main():
 
     for msg in messages:
         msg_id = msg['id']
-        body = msg.get('body', {}).get('content', '')
+        subject = msg.get('subject', 'Kein Betreff')
+        raw_body = msg.get('body', {}).get('content', '')
         
-        order_id, product_id = parse_email_body(body)
+        clean_text = clean_html(raw_body)
+        order_id, product_id = parse_email_body(clean_text)
         
+        # 1. Order ID Prüfung
         if not order_id:
-            action = handle_error_prompt(f"Keine Order ID in Mail ID {msg_id} gefunden.")
+            action, manual_id = handle_interactive_decision(
+                subject, clean_text, "Keine Order ID automatisch erkannt."
+            )
             if action == 'skip':
                 continue
+            elif action == 'ignore':
+                mark_as_read(msg_id, headers, status=True)
+                print(f"[!] Mail '{subject}' wurde ignoriert und als gelesen markiert.")
+                continue
+            elif action == 'manual':
+                order_id = manual_id
 
-        # Check bezahlt via Google Play API
+        # 2. Google Play API Prüfung
         if not verify_google_order(order_id, product_id):
-            action = handle_error_prompt(f"Order ID {order_id} konnte bei Google Play nicht verifiziert werden.")
+            action, _ = handle_interactive_decision(
+                subject, clean_text, f"Order ID {order_id} konnte bei Google Play nicht verifiziert werden."
+            )
             if action == 'skip':
                 continue
+            elif action == 'ignore':
+                mark_as_read(msg_id, headers, status=True)
+                print(f"[!] Order ID '{order_id}' wurde ignoriert und als gelesen markiert.")
+                continue
 
-        # Anhänge abrufen
+        # 3. Anhänge abrufen
         att_url = f"https://graph.microsoft.com/v1.0/me/messages/{msg_id}/attachments"
         attachments = requests.get(att_url, headers=headers).json().get('value', [])
         
@@ -164,44 +192,72 @@ def main():
                 break
                 
         if not zip_attachment:
-            action = handle_error_prompt(f"Keine ZIP-Datei in Mail mit Order ID {order_id} gefunden.")
+            action, _ = handle_interactive_decision(
+                subject, clean_text, f"Keine ZIP-Datei in Mail mit Order ID {order_id} gefunden."
+            )
             if action == 'skip':
                 continue
+            elif action == 'ignore':
+                mark_as_read(msg_id, headers, status=True)
+                print(f"[!] Mail ohne ZIP (Order ID: {order_id}) ignoriert und als gelesen markiert.")
+                continue
 
-        # ZIP temporär speichern
-        zip_data = base64.b64decode(zip_attachment['contentBytes'])
+        if not zip_attachment or 'id' not in zip_attachment:
+            print("[!] Warnung: Keine gültige ZIP-Datei vorhanden. Überspringe E-Mail.")
+            continue
+
+        # 4. ZIP-Inhalt über $value-Endpunkt herunterladen
+        att_id = zip_attachment['id']
+        download_url = f"https://graph.microsoft.com/v1.0/me/messages/{msg_id}/attachments/{att_id}/$value"
+        res_download = requests.get(download_url, headers=headers)
+
+        if res_download.status_code != 200:
+            action, _ = handle_interactive_decision(
+                subject, clean_text, f"Fehler beim Download des ZIP-Anhangs (Status-Code: {res_download.status_code})."
+            )
+            if action == 'skip':
+                continue
+            elif action == 'ignore':
+                mark_as_read(msg_id, headers, status=True)
+                continue
+
+        # 5. Speichern und Zählen
         temp_zip_path = os.path.join("/tmp", zip_attachment['name'])
         with open(temp_zip_path, 'wb') as f:
-            f.write(zip_data)
+            f.write(res_download.content)
 
         icon_count = count_icons_in_zip(temp_zip_path)
 
-        # Überprüfen der bisher verbrauchten Icon-Requests für die Order ID
-        allowed_limit = 10  # Standard-Limit pro Purchase (anpassen!)
+        # 6. Kontingent-Prüfung
+        allowed_limit = 10
         used_icons = db.get(order_id, 0)
 
         if used_icons + icon_count > allowed_limit:
-            action = handle_error_prompt(
-                f"Order ID {order_id} überschreitet das Kontingent! "
-                f"Bisher genutzt: {used_icons}, Gefordert: {icon_count}, Erlaubt: {allowed_limit}"
+            action, _ = handle_interactive_decision(
+                subject, clean_text, 
+                f"Order ID {order_id} überschreitet Kontingent! "
+                f"Bisher: {used_icons}, Gefordert: {icon_count}, Erlaubt: {allowed_limit}"
             )
             if action == 'skip':
                 os.remove(temp_zip_path)
                 continue
+            elif action == 'ignore':
+                os.remove(temp_zip_path)
+                mark_as_read(msg_id, headers, status=True)
+                continue
 
-        # Erfolg: Speichern
+        # 7. Datei verschieben & DB aktualisieren
         final_zip_path = os.path.join(OUTPUT_DIR, f"{order_id}_{zip_attachment['name']}")
-        os.rename(temp_zip_path, final_zip_path)
+        shutil.move(temp_zip_path, final_zip_path)
         
-        # Datenbank aktualisieren
         db[order_id] = used_icons + icon_count
         save_db(db)
         
-        print(f"[BESTÄTIGUNG]: Anfrage für Order {order_id} verarbeitet. {icon_count} Icons gespeichert. Gesamt verbraucht: {db[order_id]}")
+        print(f"\n[BESTÄTIGUNG]: Anfrage für Order '{order_id}' erfolgreich verarbeitet.")
+        print(f"Icons gespeichert: {icon_count} | Gesamt verbraucht: {db[order_id]}/{allowed_limit}")
 
-        # Status auf UNGELESEN zurücksetzen
-        patch_url = f"https://graph.microsoft.com/v1.0/me/messages/{msg_id}"
-        requests.patch(patch_url, headers=headers, json={'isRead': False})
+        # Für erfolgreich verarbeitete Mails auf ungelesen belassen (wie von dir definiert)
+        mark_as_read(msg_id, headers, status=False)
 
 if __name__ == "__main__":
     main()

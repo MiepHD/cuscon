@@ -173,3 +173,5 @@ app/gradle.properties
 
 .venv/
 tokens_cache.json
+google_credentials.json
+orders_db.json
