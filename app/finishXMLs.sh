@@ -8,7 +8,7 @@ ASSETS_DIR="$PROJECT_DIR/src/main/assets"
 
 # 1. Task: sortDrawable ausführen
 echo "Running sort_drawable.py..."
-python sort_drawable.py
+python3 sort_drawable.py
 
 # 2. Task: finishXMLs (Dateien kopieren)
 echo "Copy xml files to assets dir..."
