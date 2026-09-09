@@ -1,6 +1,6 @@
-# --- Gradle Task finishXMLs ausführen ---
+# --- Task finishXMLs ausführen ---
 run_gradle_finish_xmls() {
-    echo -e "\n--> Running Gradle task 'finishXMLs'..."
+    echo -e "\n--> Running 'finishXMLs.sh' script..."
     
     local root_dir
     root_dir="$(cd "$SCRIPT_DIR/.." && pwd)"
@@ -8,23 +8,20 @@ run_gradle_finish_xmls() {
     (
         cd "$root_dir" || exit 1
         
-        if [ -f "./gradlew" ]; then
-            chmod +x ./gradlew 2>/dev/null
-            ./gradlew finishXMLs
+        if [ -f "./app/finishXMLs.sh" ]; then
+            chmod +x ./app/finishXMLs.sh 2>/dev/null
+            cd app
+            bash ./finishXMLs.sh
+            cd ..
         else
-            ensure_gradle
-            if command -v gradle &> /dev/null; then
-                gradle finishXMLs
-            else
-                echo -e "  ${RED}[!] ERROR: Neither ./gradlew nor 'gradle' is available.${NC}"
-                return 1
-            fi
+            echo -e "  ${RED}[!] ERROR: 'finishXMLs.sh' was not found in $root_dir/app.${NC}"
+            return 1
         fi
     )
 
     if [ $? -eq 0 ]; then
-        echo -e "  ${GREEN}[✓]${NC} Gradle task 'finishXMLs' executed successfully."
+        echo -e "  ${GREEN}[✓]${NC} Script 'finishXMLs.sh' executed successfully."
     else
-        echo -e "  ${RED}[!] ERROR: Execution of Gradle task 'finishXMLs' failed!${NC}"
+        echo -e "  ${RED}[!] ERROR: Execution of 'finishXMLs.sh' failed!${NC}"
     fi
 }

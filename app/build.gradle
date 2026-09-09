@@ -86,18 +86,9 @@ dependencies {
 	fossImplementation 'com.github.Donnnno:candybar-foss:3.23.0'
 }
 
-def sortDrawable = tasks.register('sortDrawable', Exec) {
-    commandLine 'python', 'sort_drawable.py'
-}
-
-// Code for automatically copying appfilter.xml and drawable.xml
-// from `res/xml` directory to `assets` directory
-tasks.register('finishXMLs', Copy) {
+tasks.register('finishXMLs', Exec) {
     mustRunAfter 'clean'
-    dependsOn sortDrawable
-    from "$projectDir/src/main/res/xml"
-    into "$projectDir/src/main/assets"
-    include 'appfilter.xml', 'drawable.xml'
+    commandLine 'bash', './finishXMLs.sh'
 }
 
 tasks.register('buildRelease') {
