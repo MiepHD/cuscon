@@ -7128,4 +7128,38 @@
     <AppIcon name="com.rookiestudio.perfectviewerx/com.rookiestudio.perfectviewerx.MainActivity" image="perfect_viewer_x"/>
     <AppIcon name="com.kwiktrip/com.pk.feature.authentication.sign_in.SplashActivity" image="kwik_rewards"/>
     <AppIcon name="com.mealieconnect.app/com.mealieconnect.app.MainActivity" image="mealie_connect"/>
+    <AppIcon name="com.anyapk.installer/com.anyapk.installer.MainActivity" image="anyapk"/>
+    <AppIcon name="com.gaurav.avnc/com.gaurav.avnc.StartupActivity" image="avnc"/>
+    <AppIcon name="com.idemia.mobileid.us.az/com.morphotrust.eid.ui.welcome.WelcomeActivity" image="az_mobile_id"/>
+    <AppIcon name="com.sirma.mobile.bible.android/youversion.bible.app.MainActivity" image="bible"/>
+    <AppIcon name="com.frysfood.mobile/com.kroger.mobile.BannerSelectionActivity" image="frys_food"/>
+    <AppIcon name="com.qscend.report2gov.glendaleone/com.qscend.report2gov.glendaleone.MainActivity" image="glendaleone"/>
+    <AppIcon name="com.google.android.inputmethod.japanese/com.google.android.apps.inputmethod.libs.framework.core.LauncherActivity" image="google_japanese_input"/>
+    <AppIcon name="com.samsung.android.shealthmonitor/com.samsung.android.shealthmonitor.ui.activity.MainActivity" image="health_monitor"/>
+    <AppIcon name="com.healthequity.healthequitymobile/rEJ4B3.otJxw6.pltby4.baPc22.myGOR9" image="healthequity"/>
+    <AppIcon name="com.facer.highsports/com.facer.companion.IndividualStartActivity" image="high_sports_analog"/>
+    <AppIcon name="com.lmig.pm.internet.mobile.android.libertymutual/com.safecoinsurance.consumer.presentation.activity.MainActivity" image="liberty_mutual"/>
+    <AppIcon name="com.nissan.mynissan/com.nissan.mynissan.ui.BaseActivity" image="mynissan"/>
+    <AppIcon name="com.eosfitness/com.eosfitness.MainActivity" image="new_eos_fitness"/>
+    <AppIcon name="com.recreative.northpolechristmas/com.recreative.northpolechristmas.Screen.SplashActivity" image="north_pole_christmas"/>
+    <AppIcon name="dev.bikram.obtainx/dev.imranr.obtainium.MainActivity" image="obtainx"/>
+    <AppIcon name="com.okta.android.auth/com.okta.android.auth.activity.SplashActivity" image="okta_verify"/>
+    <AppIcon name="com.virginpulse.virginpulse/com.virginpulse.features.splash.presentation.SplashActivity" image="personify_health"/>
+    <AppIcon name="com.epson.PFinder/com.epson.PFinder.WellcomeScreenActivity" image="printer_finder"/>
+    <AppIcon name="com.tk.quicksearch/com.tk.quicksearch.app.MainActivityAliasAuroraDark" image="quick_search"/>
+    <AppIcon name="com.samsung.android.app.routineplus/com.samsung.android.app.routineplus.main.RoutinePlusLauncher" image="routines_"/>
+    <AppIcon name="com.cryart.sabbathschool/com.cryart.sabbathschool.ui.home.HomeActivity" image="sabbath_school"/>
+    <AppIcon name="com.ergonlabs.SabbathSchool/com.ergonlabs.sabbathschool.MainActivity" image="sabbath_school_quarterly"/>
+    <AppIcon name="com.safeway.client.android.safeway/com.safeway.mcommerce.android.SplashScreen" image="safeway"/>
+    <AppIcon name="com.sew.swg/com.sew.scm.module.splash.view.SplashActivity" image="southwest_gas"/>
+    <AppIcon name="com.srpnet.custsvc.srppower/com.srpnet.custsvc.srppower.LoginActivity" image="srp_power"/>
+    <AppIcon name="com.sec.android.app.vepreload/com.sec.android.app.vepreload.singleedit.activity.ProjectShortcutActivity" image="studio"/>
+    <AppIcon name="com.termux.widget/com.termux.widget.activities.TermuxWidgetLauncherActivity" image="termux_widget"/>
+    <AppIcon name="com.termux.x11/com.termux.x11.MainActivity" image="termux_x11"/>
+    <AppIcon name="io.moreless.tide/io.moreless.tide.activity.RouterActivity" image="tide"/>
+    <AppIcon name="com.tmcc.click2pay.mytfs/com.tmcc.click2pay.myfs.LaunchActivity" image="toyota_fs"/>
+    <AppIcon name="com.amoledwatchfaces.ultra/com.MainActivity" image="ultra"/>
+    <AppIcon name="com.bob.umr/com.apmobileapp.MainActivity" image="umr"/>
+    <AppIcon name="com.villagemd.patx/com.docos.patx.MainActivity" image="village_medical"/>
+    <AppIcon name="com.wellbeats2.android/com.wellbeats2.android.MainActivity" image="wellbeats"/>
 </Theme>

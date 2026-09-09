@@ -7242,6 +7242,40 @@
     <item component="ComponentInfo{com.rookiestudio.perfectviewerx/com.rookiestudio.perfectviewerx.MainActivity}" drawable="perfect_viewer_x" />
     <item component="ComponentInfo{com.kwiktrip/com.pk.feature.authentication.sign_in.SplashActivity}" drawable="kwik_rewards" />
     <item component="ComponentInfo{com.mealieconnect.app/com.mealieconnect.app.MainActivity}" drawable="mealie_connect" />
+    <item component="ComponentInfo{com.anyapk.installer/com.anyapk.installer.MainActivity}" drawable="anyapk" />
+    <item component="ComponentInfo{com.gaurav.avnc/com.gaurav.avnc.StartupActivity}" drawable="avnc" />
+    <item component="ComponentInfo{com.idemia.mobileid.us.az/com.morphotrust.eid.ui.welcome.WelcomeActivity}" drawable="az_mobile_id" />
+    <item component="ComponentInfo{com.sirma.mobile.bible.android/youversion.bible.app.MainActivity}" drawable="bible" />
+    <item component="ComponentInfo{com.frysfood.mobile/com.kroger.mobile.BannerSelectionActivity}" drawable="frys_food" />
+    <item component="ComponentInfo{com.qscend.report2gov.glendaleone/com.qscend.report2gov.glendaleone.MainActivity}" drawable="glendaleone" />
+    <item component="ComponentInfo{com.google.android.inputmethod.japanese/com.google.android.apps.inputmethod.libs.framework.core.LauncherActivity}" drawable="google_japanese_input" />
+    <item component="ComponentInfo{com.samsung.android.shealthmonitor/com.samsung.android.shealthmonitor.ui.activity.MainActivity}" drawable="health_monitor" />
+    <item component="ComponentInfo{com.healthequity.healthequitymobile/rEJ4B3.otJxw6.pltby4.baPc22.myGOR9}" drawable="healthequity" />
+    <item component="ComponentInfo{com.facer.highsports/com.facer.companion.IndividualStartActivity}" drawable="high_sports_analog" />
+    <item component="ComponentInfo{com.lmig.pm.internet.mobile.android.libertymutual/com.safecoinsurance.consumer.presentation.activity.MainActivity}" drawable="liberty_mutual" />
+    <item component="ComponentInfo{com.nissan.mynissan/com.nissan.mynissan.ui.BaseActivity}" drawable="mynissan" />
+    <item component="ComponentInfo{com.eosfitness/com.eosfitness.MainActivity}" drawable="new_eos_fitness" />
+    <item component="ComponentInfo{com.recreative.northpolechristmas/com.recreative.northpolechristmas.Screen.SplashActivity}" drawable="north_pole_christmas" />
+    <item component="ComponentInfo{dev.bikram.obtainx/dev.imranr.obtainium.MainActivity}" drawable="obtainx" />
+    <item component="ComponentInfo{com.okta.android.auth/com.okta.android.auth.activity.SplashActivity}" drawable="okta_verify" />
+    <item component="ComponentInfo{com.virginpulse.virginpulse/com.virginpulse.features.splash.presentation.SplashActivity}" drawable="personify_health" />
+    <item component="ComponentInfo{com.epson.PFinder/com.epson.PFinder.WellcomeScreenActivity}" drawable="printer_finder" />
+    <item component="ComponentInfo{com.tk.quicksearch/com.tk.quicksearch.app.MainActivityAliasAuroraDark}" drawable="quick_search" />
+    <item component="ComponentInfo{com.samsung.android.app.routineplus/com.samsung.android.app.routineplus.main.RoutinePlusLauncher}" drawable="routines_" />
+    <item component="ComponentInfo{com.cryart.sabbathschool/com.cryart.sabbathschool.ui.home.HomeActivity}" drawable="sabbath_school" />
+    <item component="ComponentInfo{com.ergonlabs.SabbathSchool/com.ergonlabs.sabbathschool.MainActivity}" drawable="sabbath_school_quarterly" />
+    <item component="ComponentInfo{com.safeway.client.android.safeway/com.safeway.mcommerce.android.SplashScreen}" drawable="safeway" />
+    <item component="ComponentInfo{com.sew.swg/com.sew.scm.module.splash.view.SplashActivity}" drawable="southwest_gas" />
+    <item component="ComponentInfo{com.srpnet.custsvc.srppower/com.srpnet.custsvc.srppower.LoginActivity}" drawable="srp_power" />
+    <item component="ComponentInfo{com.sec.android.app.vepreload/com.sec.android.app.vepreload.singleedit.activity.ProjectShortcutActivity}" drawable="studio" />
+    <item component="ComponentInfo{com.termux.widget/com.termux.widget.activities.TermuxWidgetLauncherActivity}" drawable="termux_widget" />
+    <item component="ComponentInfo{com.termux.x11/com.termux.x11.MainActivity}" drawable="termux_x11" />
+    <item component="ComponentInfo{io.moreless.tide/io.moreless.tide.activity.RouterActivity}" drawable="tide" />
+    <item component="ComponentInfo{com.tmcc.click2pay.mytfs/com.tmcc.click2pay.myfs.LaunchActivity}" drawable="toyota_fs" />
+    <item component="ComponentInfo{com.amoledwatchfaces.ultra/com.MainActivity}" drawable="ultra" />
+    <item component="ComponentInfo{com.bob.umr/com.apmobileapp.MainActivity}" drawable="umr" />
+    <item component="ComponentInfo{com.villagemd.patx/com.docos.patx.MainActivity}" drawable="village_medical" />
+    <item component="ComponentInfo{com.wellbeats2.android/com.wellbeats2.android.MainActivity}" drawable="wellbeats" />
 </resources>
 
 
