@@ -24,6 +24,9 @@ declare -a DE_IMPROVED EN_IMPROVED
 
 # --- Menüführung ---
 while true; do
+
+    run_request-manager
+    
     counter=1
     unset REQUEST_NAMES HAS_DIR HAS_ZIP MENU_REQ
     declare -A REQUEST_NAMES
