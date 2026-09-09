@@ -1,36 +1,65 @@
-name: F-Droid Build Check
+name: Check F-Droid Reproducibility
 
 on:
-  push:
-    branches: [ master ]
-  pull_request:
-    branches: [ master ]
+  release:
+    types: [published]
 
 jobs:
-  fdroid-build:
+  verify-reproducibility:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repository
+      - name: Checkout Repository
         uses: actions/checkout@v4
+
+      - name: Download Release APK
+        uses: robinraju/release-downloader@v1.8
         with:
-          fetch-depth: 0
+          tag: ${{ github.event.release.tag_name }}
+          fileName: "cuscon-*-foss-release.apk"
+          out-file-path: "release-apk"
 
-      - name: Set up JDK 17
-        uses: actions/setup-java@v4
-        with:
-          java-version: '17'
-          distribution: 'temurin'
+      - name: Set up Docker
+        uses: docker/setup-buildx-action@v3
 
-      - name: Set up Android SDK
-        uses: android-actions/setup-android@v3
-
-      - name: Install F-Droid Server Tools & Dependencies
+      - name: Build APK with F-Droid Docker
         run: |
-          sudo apt-get update
-          sudo apt-get install -y python3-pip python3-setuptools fdroidserver
+          mkdir -p fdroid-workspace
+          
+          # F-Droid Build-Umgebung ausführen
+          docker run --rm -v $(pwd):/repo registry.gitlab.com/fdroid/fdroidserver:build-server bash -c "
+            cd /repo
+            fdroid build --verbose --single-build com.froxot.cuscon.foss
+          "
 
-      - name: Run F-Droid Build
+      - name: Compare Release APK and F-Droid Build
         run: |
-          # F-Droid erwartet ein funktionierendes Build-Umfeld
-          fdroid build --verbose --only-build
+          RELEASE_APK=$(find release-apk -name "cuscon-*-foss-release.apk" | head -n 1)
+          BUILT_APK=$(find fdroid-workspace/unsigned -name "*.apk" | head -n 1)
+
+          if [ -z "$RELEASE_APK" ]; then
+            echo "Fehler: Release-APK nicht gefunden!"
+            exit 1
+          fi
+
+          echo "Release APK: $RELEASE_APK"
+          echo "Built APK:   $BUILT_APK"
+
+          # APK-Inhalte entpacken
+          mkdir release_extracted built_extracted
+          unzip -q "$RELEASE_APK" -d release_extracted
+          unzip -q "$BUILT_APK" -d built_extracted
+
+          # Signatur-Ordner entfernen (F-Droid baut ununterzeichnet)
+          rm -rf release_extracted/META-INF
+          rm -rf built_extracted/META-INF
+
+          # Verzeichnisse vergleichen
+          diff -r release_extracted built_extracted
+
+          if [ $? -eq 0 ]; then
+            echo "Erfolg: Der Build ist reproduzierbar!"
+          else
+            echo "Fehler: Die APK-Dateien stimmen nicht überein!"
+            exit 1
+          fi
