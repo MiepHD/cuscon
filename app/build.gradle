@@ -92,9 +92,5 @@ tasks.register('finishXMLs', Exec) {
 }
 
 tasks.register('buildRelease') {
-    dependsOn 'clean', 'assembleFossRelease', 'bundlePlayRelease', 'assemblePlayRelease'
-}
-
-tasks.named('preBuild') {
-    dependsOn 'finishXMLs'
+    dependsOn 'clean', 'finishXMLs', 'assembleFossRelease', 'bundlePlayRelease', 'assemblePlayRelease'
 }
