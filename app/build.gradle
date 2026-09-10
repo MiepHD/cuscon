@@ -57,18 +57,6 @@ android {
 			matchingFallbacks = ["foss"]
 		}
 	}
-
-    sourceSets {
-        play {
-            java.srcDirs = ['src/play/java/']
-            res.srcDirs = ["src/play/res/"]
-            manifest.srcFile "play/AndroidManifest.xml"
-        }
-        foss {
-            java.srcDirs = ['src/foss/java/']
-            manifest.srcFile "foss/AndroidManifest.xml"
-        }
-    }
     namespace 'com.froxot.cuscon'
 }
 
@@ -88,8 +76,11 @@ dependencies {
 }
 
 tasks.register('finishXMLs', Exec) {
-    mustRunAfter 'clean'
     commandLine 'bash', './finishXMLs.sh'
+}
+
+tasks.register('generatedpis', Exec) {
+    commandLine 'python3', './generatedpis.py'
 }
 
 // Erzwinge, dass die Build-Tasks erst NACH finishXMLs laufen
@@ -101,4 +92,20 @@ tasks.register('finishXMLs', Exec) {
 
 tasks.register('buildRelease') {
     dependsOn 'clean', 'finishXMLs', 'assembleFossRelease', 'bundlePlayRelease', 'assemblePlayRelease'
+}
+
+// Ermitteln, ob es sich um einen Bundle-Build (aab) oder APK-Build handelt
+def isBundleTask = gradle.startParameter.taskNames.any { it.toLowerCase().contains("bundle") }
+def isApkTask = gradle.startParameter.taskNames.any { it.toLowerCase().contains("assemble") }
+
+if (isBundleTask) {
+    // Beim Erstellen eines Bundles (.aab) den nodpi-Ordner ausschließen
+    android.sourceSets.main.res.exclude 'drawable-nodpi/**'
+} else if (isApkTask) {
+    // Beim Erstellen einer APK (.apk) die spezifischen DPI-Ordner ausschließen
+    android.sourceSets.main.res.exclude 'drawable-hdpi/**'
+    android.sourceSets.main.res.exclude 'drawable-mdpi/**'
+    android.sourceSets.main.res.exclude 'drawable-xhdpi/**'
+    android.sourceSets.main.res.exclude 'drawable-xxhdpi/**'
+    android.sourceSets.main.res.exclude 'drawable-xxxhdpi/**'
 }

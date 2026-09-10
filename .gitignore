@@ -174,3 +174,9 @@ app/gradle.properties
 google_credentials.json
 tokens_cache.json
 orders_db.json
+
+drawable-mdpi/
+drawable-hdpi/
+drawable-xhdpi/
+drawable-xxhdpi/
+drawable-xxxhdpi/
