@@ -1,9 +1,10 @@
 import os
 from PIL import Image
+from tqdm import tqdm
 
-# Pfad zu deinem res-Ordner (anpassen, falls notwendig)
-RES_DIR = "src/main/res"
-NODPI_DIR = os.path.join(RES_DIR, "drawable-nodpi")
+# Pfad zu deinem res-Ordner
+RES_DIR = "src/play/res"
+NODPI_DIR = os.path.join("src/foss/res", "drawable-nodpi")
 
 # Feste Standard-Icon-Größen in Pixeln (Breite x Höhe)
 ICON_SIZES = {
@@ -37,9 +38,11 @@ def generate_webp_icons():
         print(f"Keine .webp-Dateien in '{NODPI_DIR}' gefunden.")
         return
 
-    print(f"Gefundene WebP-Icons in nodpi: {expected_count}. Starte Prüfung...\n")
+    errors = []
 
-    for filename in source_files:
+    # Fortschrittsbalken über alle Dateien in nodpi
+    print(f"Verarbeite {expected_count} WebP-Icons...\n")
+    for filename in tqdm(source_files, desc="Skaliere Icons", unit="icon"):
         file_path = os.path.join(NODPI_DIR, filename)
 
         # Prüfen, welche Ordner die Datei noch benötigen
@@ -49,17 +52,14 @@ def generate_webp_icons():
             if not os.path.exists(output_path):
                 missing_folders.append(folder_name)
 
-        # Wenn die Datei in allen Zielordnern existiert, komplett überspringen
+        # Wenn die Datei bereits in allen Zielordnern existiert, überspringen
         if not missing_folders:
-            print(f"➜ Übersprungen (bereits vorhanden): {filename}")
             continue
 
         try:
             with Image.open(file_path) as img:
-                # Sicherstellen, dass das Bild im RGBA-Modus geladen wird
                 img = img.convert("RGBA")
 
-                # Nur für die Ordner verarbeiten, in denen die Datei fehlt
                 for folder_name in missing_folders:
                     size = ICON_SIZES[folder_name]
                     target_dir = os.path.join(RES_DIR, folder_name)
@@ -76,9 +76,14 @@ def generate_webp_icons():
                     # Verlustfrei als WebP speichern
                     resized_img.save(output_path, "WEBP", lossless=True)
 
-                print(f"✓ Verarbeitet ({len(missing_folders)} Ordner befüllt): {filename}")
         except Exception as e:
-            print(f"✕ Fehler bei {filename}: {e}")
+            errors.append((filename, str(e)))
+
+    # Eventuell aufgetretene Einzelfehler nach dem Balken ausgeben
+    if errors:
+        print("\nFolgende Dateien konnten nicht verarbeitet werden:")
+        for fn, err in errors:
+            print(f"  ❌ {fn}: {err}")
 
     # Validation: Dateianzahl in allen Zielordnern prüfen
     print("\n--- Überprüfe Dateianzahlen ---")
