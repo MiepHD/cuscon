@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="changelog_date">07.09.2026</string>
+    <string name="changelog_date">10.09.2026</string>
     <string-array name="changelog">
+        <item>4.1.1.2:</item>
+        <item>Removed 0 out of 0 regular requests</item>
+        <item>Reduced disk size of icon pack</item>
         <item>4.1.1.1:</item>
         <item>Enable Request Tab so you can see which icons are available for requesting</item>
         <item>New donation option to F-Droid version</item>
