@@ -11,13 +11,14 @@ android {
         applicationId 'com.froxot.cuscon'
         minSdkVersion rootProject.ext.MinSdk
         targetSdkVersion rootProject.ext.TargetSdk
-        versionCode 4112
-        versionName '4.1.1.2'
+        versionCode 4113
+        versionName '4.1.1.3'
         multiDexEnabled true
     }
 
     bundle {
         language { enableSplit false }
+        density { enableSplit true }
     }
 
     signingConfigs {
@@ -34,7 +35,7 @@ android {
             signingConfig signingConfigs.release
             debuggable false
             minifyEnabled true
-            shrinkResources = true
+            shrinkResources true
             proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
         }
     }
@@ -91,21 +92,5 @@ tasks.register('generatedpis', Exec) {
 }
 
 tasks.register('buildRelease') {
-    dependsOn 'clean', 'finishXMLs', 'assembleFossRelease', 'bundlePlayRelease', 'assemblePlayRelease'
-}
-
-// Ermitteln, ob es sich um einen Bundle-Build (aab) oder APK-Build handelt
-def isBundleTask = gradle.startParameter.taskNames.any { it.toLowerCase().contains("bundle") }
-def isApkTask = gradle.startParameter.taskNames.any { it.toLowerCase().contains("assemble") }
-
-if (isBundleTask) {
-    // Beim Erstellen eines Bundles (.aab) den nodpi-Ordner ausschließen
-    android.sourceSets.main.res.exclude 'drawable-nodpi/**'
-} else if (isApkTask) {
-    // Beim Erstellen einer APK (.apk) die spezifischen DPI-Ordner ausschließen
-    android.sourceSets.main.res.exclude 'drawable-hdpi/**'
-    android.sourceSets.main.res.exclude 'drawable-mdpi/**'
-    android.sourceSets.main.res.exclude 'drawable-xhdpi/**'
-    android.sourceSets.main.res.exclude 'drawable-xxhdpi/**'
-    android.sourceSets.main.res.exclude 'drawable-xxxhdpi/**'
+    dependsOn 'clean', 'finishXMLs', 'assembleFossRelease', 'bundlePlayRelease'
 }
