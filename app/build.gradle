@@ -92,6 +92,13 @@ tasks.register('finishXMLs', Exec) {
     commandLine 'bash', './finishXMLs.sh'
 }
 
+// Erzwinge, dass die Build-Tasks erst NACH finishXMLs laufen
+['assembleFossRelease', 'bundlePlayRelease', 'assemblePlayRelease'].each { taskName ->
+    tasks.matching { it.name == taskName }.configureEach {
+        mustRunAfter 'finishXMLs', 'clean'
+    }
+}
+
 tasks.register('buildRelease') {
     dependsOn 'clean', 'finishXMLs', 'assembleFossRelease', 'bundlePlayRelease', 'assemblePlayRelease'
 }
