@@ -34,7 +34,8 @@ android {
             signingConfig signingConfigs.release
             debuggable false
             minifyEnabled true
-            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+            shrinkResources = true
+            proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
         }
     }
 
@@ -82,8 +83,8 @@ java {
 }
 
 dependencies {
-	playImplementation 'com.github.MiepHD.candybar:library:3.23.0.5'
-	fossImplementation 'com.github.MiepHD:candybar-foss:3.23.0.5'
+	playImplementation 'com.github.MiepHD.candybar:library:3.23.0.7'
+	fossImplementation 'com.github.MiepHD:candybar-foss:3.23.0.7'
 }
 
 tasks.register('finishXMLs', Exec) {
