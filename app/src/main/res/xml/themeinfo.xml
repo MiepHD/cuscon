@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <themeInfo>
-
     <!-- FOR ATOM LAUNCHER -->
-
     <packageName>com.froxot.cuscon</packageName>
     <versionName>4.1.1.6</versionName>
     <versionCode>4116</versionCode>
