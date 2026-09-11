@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="changelog_date">10.09.2026</string>
+    <string name="changelog_date">11.09.2026</string>
     <string-array name="changelog">
         <item>4.1.1.2:</item>
         <item>Removed 0 out of 0 regular requests</item>
