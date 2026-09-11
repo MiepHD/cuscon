@@ -11,13 +11,14 @@ android {
         applicationId 'com.froxot.cuscon'
         minSdkVersion rootProject.ext.MinSdk
         targetSdkVersion rootProject.ext.TargetSdk
-        versionCode 4114
-        versionName '4.1.1.4'
+        versionCode 4116
+        versionName '4.1.1.6'
         multiDexEnabled true
     }
 
     bundle {
         language { enableSplit false }
+        density { enableSplit true }
     }
 
     signingConfigs {
@@ -56,18 +57,6 @@ android {
 			matchingFallbacks = ["foss"]
 		}
 	}
-
-    sourceSets {
-        play {
-            java.srcDirs = ['src/play/java/']
-            res.srcDirs = ["src/play/res/"]
-            manifest.srcFile "play/AndroidManifest.xml"
-        }
-        foss {
-            java.srcDirs = ['src/foss/java/']
-            manifest.srcFile "foss/AndroidManifest.xml"
-        }
-    }
     namespace 'com.froxot.cuscon'
 }
 
@@ -87,8 +76,11 @@ dependencies {
 }
 
 tasks.register('finishXMLs', Exec) {
-    mustRunAfter 'clean'
     commandLine 'bash', './finishXMLs.sh'
+}
+
+tasks.register('generatedpis', Exec) {
+    commandLine 'python3', './generatedpis.py'
 }
 
 // Erzwinge, dass die Build-Tasks erst NACH finishXMLs laufen
@@ -99,5 +91,5 @@ tasks.register('finishXMLs', Exec) {
 }
 
 tasks.register('buildRelease') {
-    dependsOn 'clean', 'finishXMLs', 'assembleFossRelease', 'bundlePlayRelease', 'assemblePlayRelease'
+    dependsOn 'clean', 'finishXMLs', 'assembleFossRelease', 'bundlePlayRelease'
 }

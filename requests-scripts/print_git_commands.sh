@@ -19,7 +19,7 @@ print_git_commands() {
     echo "git add app/build.gradle \\"
     echo "        app/src/main/assets/appfilter.xml \\"
     echo "        app/src/main/assets/drawable.xml \\"
-    echo "        app/src/main/res/drawable-nodpi/ \\"
+    echo "        app/src/foss/res/drawable-nodpi/ \\"
     echo "        app/src/main/res/values/changelog.xml \\"
     echo "        app/src/main/res/xml/appfilter.xml \\"
     echo "        app/src/main/res/xml/drawable.xml \\"
