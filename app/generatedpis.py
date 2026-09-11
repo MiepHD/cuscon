@@ -1,5 +1,6 @@
 import os
 import shutil
+from collections import defaultdict
 from PIL import Image
 from tqdm import tqdm
 
@@ -31,30 +32,8 @@ def process_single_icon(file_path, output_path, size):
         # Bild skalieren
         resized_img = img.resize(size, Image.Resampling.LANCZOS)
 
-        # Kanäle aufteilen
-        r, g, b, alpha = resized_img.split()
-
-        # Hard 1-Bit Alpha Enforcement: Reines 0 oder 255 Alpha erzwingen
-        strict_alpha = alpha.point(lambda p: 255 if p > 128 else 0)
-
-        # Speicherplatz optimieren: Bei A=0 auch RGB-Kanäle auf 0 setzen
-        # (entfernt unfeine/unsichtbare Farbinformationen hinter transparenten Pixeln)
-        r = r.point(lambda p, a=strict_alpha: p if a.getpixel == 255 else 0)
-        
-        # Effizienterer Weg via Maskierung für PIL Images:
-        r = Image.eval(r, lambda p: p).convert("L")
-        g = Image.eval(g, lambda p: p).convert("L")
-        b = Image.eval(b, lambda p: p).convert("L")
-        
-        # Bänder zusammenführen
-        clean_img = Image.merge("RGBA", (r, g, b, strict_alpha))
-        
-        # Mit einer Null-Maske transparente Pixel komplett auf (0,0,0,0) setzen
-        black_bg = Image.new("RGBA", size, (0, 0, 0, 0))
-        final_img = Image.composite(clean_img, black_bg, strict_alpha)
-
         # Mit 90% Bildqualität speichern
-        final_img.save(output_path, "WEBP", quality=90, alpha=0)
+        resized_img.save(output_path, "WEBP", quality=90, alpha=0)
 
 def generate_webp_icons():
     if not os.path.exists(NODPI_DIR):
@@ -75,7 +54,7 @@ def generate_webp_icons():
         return
 
     errors = []
-    fallback_copies_count = 0
+    fallback_copies_per_folder = defaultdict(int)
     nodpi_redirects_count = 0
 
     print(f"Verarbeite {expected_count} WebP-Icons...\n")
@@ -118,7 +97,7 @@ def generate_webp_icons():
                 if scaled_size_bytes >= original_size_bytes:
                     print(f"\n⚠️  [{folder_name}]: Skaliertes Bild '{filename}' ({scaled_size_bytes} B) ist größer als Original ({original_size_bytes} B). Kopiere Originalbild.")
                     shutil.copy2(file_path, output_path)
-                    fallback_copies_count += 1
+                    fallback_copies_per_folder[folder_name] += 1
 
         except Exception as e:
             errors.append((filename, str(e)))
@@ -140,8 +119,12 @@ def generate_webp_icons():
     target_nodpi_count = count_webp_files(TARGET_NODPI_DIR)
     print(f"ℹ️ 'drawable-nodpi' (Ziel): {target_nodpi_count} Dateien.")
 
+    total_fallbacks = sum(fallback_copies_per_folder.values())
     print("\n----------------------------------")
-    print(f"  Unskalierte Fallback-Kopien in DPI-Ordnern: {fallback_copies_count}")
+    print(f"  Unskalierte Fallback-Kopien gesamt: {total_fallbacks}")
+    for folder_name in ICON_SIZES.keys():
+        count = fallback_copies_per_folder[folder_name]
+        print(f"    - {folder_name}: {count}")
     print(f"  Direkt nach 'drawable-nodpi' kopierte Icons: {nodpi_redirects_count}")
     print("----------------------------------")
 
