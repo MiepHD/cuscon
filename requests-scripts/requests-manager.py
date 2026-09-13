@@ -96,21 +96,6 @@ def clean_html(html_content):
     lines = [line.strip() for line in text.splitlines() if line.strip()]
     return "\n".join(lines)
 
-def verify_google_order(order_id, product_id, purchase_token=None):
-    if not os.path.exists(GOOGLE_JSON_PATH):
-        print(f"[!] Google Credentials File '{GOOGLE_JSON_PATH}' fehlt.")
-        return False
-
-    try:
-        credentials = service_account.Credentials.from_service_account_file(
-            GOOGLE_JSON_PATH, scopes=['https://www.googleapis.com/auth/androidpublisher']
-        )
-        service = build('androidpublisher', 'v3', credentials=credentials)
-        return True
-    except Exception as e:
-        print(f"Fehler bei Google Validation: {e}")
-        return False
-
 def parse_email_body(body_text):
     order_id_match = re.search(r"Order\s*Id\s*:\s*([^\s\r\n<]+)", body_text, re.IGNORECASE)
     product_id_match = re.search(r"Product\s*Id\s*:\s*([^\s\r\n<]+)", body_text, re.IGNORECASE)
@@ -157,7 +142,7 @@ def main():
     
     messages = [
         m for m in all_messages 
-        if 'premium request' in m.get('subject', '').lower()
+        if 'request' in m.get('subject', '').lower()
     ]
 
     print(f"Gefundene passende Anfragen (unter den letzten 50 Mails): {len(messages)}")
@@ -189,19 +174,6 @@ def main():
                 continue
             elif action == 'manual':
                 order_id = manual_id
-
-        # 2. Google Play API Prüfung
-        if not verify_google_order(order_id, product_id):
-            action, _ = handle_interactive_decision(
-                subject, clean_text, f"Order ID {order_id} konnte bei Google Play nicht verifiziert werden."
-            )
-            if action == 'skip':
-                continue
-            elif action == 'ignore':
-                msg_db["ignored_msg_ids"].append(msg_id)
-                save_msg_ids(msg_db)
-                print(f"[!] Order ID '{order_id}' lokal als ignoriert gespeichert.")
-                continue
 
         # 3. Anhänge abrufen
         att_url = f"https://graph.microsoft.com/v1.0/me/messages/{msg_id}/attachments"

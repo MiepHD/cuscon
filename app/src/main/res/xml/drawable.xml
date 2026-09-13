@@ -2,7 +2,10 @@
 <resources>
     <version>1</version>
     <category title="New Icons"/>
+    <item drawable="_7brew" name="7Brew"/>
+    <item drawable="activity_launcher" name="Activity Launcher"/>
     <item drawable="anyapk" name="anyapk"/>
+    <item drawable="apager_pro" name="aPager PRO"/>
     <item drawable="asphalt_1788796437574" name="Aspalt Legends Unite"/>
     <item drawable="avnc" name="AVNC"/>
     <item drawable="az_mobile_id" name="AZ Mobile ID"/>
@@ -10,23 +13,35 @@
     <item drawable="frys_food" name="Frys Food"/>
     <item drawable="glendaleone" name="GlendaleOne"/>
     <item drawable="google_japanese_input" name="Google Japanese Input"/>
+    <item drawable="hdhomerun" name="HDHomeRun"/>
     <item drawable="health_monitor" name="Health Monitor"/>
     <item drawable="healthequity" name="HealthEquity"/>
     <item drawable="high_sports_analog" name="High Sports Analog"/>
+    <item drawable="isolved" name="isolved"/>
     <item drawable="ko_fi"/>
+    <item drawable="kreate" name="Kreate"/>
     <item drawable="liberty_mutual" name="Liberty Mutual"/>
+    <item drawable="lowes" name="Lowe's"/>
+    <item drawable="money_manager" name="Money Manager"/>
     <item drawable="mynissan" name="MyNISSAN"/>
+    <item drawable="n_calc" name="N Calc"/>
+    <item drawable="n_dial" name="N Dial"/>
+    <item drawable="ncalendar" name="NCalendar"/>
+    <item drawable="nclock" name="NClock"/>
     <item drawable="new_eos_fitness" name="New EōS Fitness"/>
     <item drawable="north_pole_christmas" name="North Pole Christmas"/>
     <item drawable="obtainx" name="ObtainX"/>
     <item drawable="okta_verify" name="Okta Verify"/>
     <item drawable="personify_health" name="Personify Health"/>
+    <item drawable="pr0gramm" name="pr0gramm"/>
     <item drawable="printer_finder" name="Printer Finder"/>
     <item drawable="quick_search" name="Quick Search"/>
+    <item drawable="re_entsorgt" name="RE-entsorgt"/>
     <item drawable="routines_" name="Routines +"/>
     <item drawable="sabbath_school" name="Sabbath School"/>
     <item drawable="sabbath_school_quarterly" name="Sabbath School Quarterly"/>
     <item drawable="safeway" name="Safeway"/>
+    <item drawable="shopper" name="Shopper"/>
     <item drawable="southwest_gas" name="Southwest Gas"/>
     <item drawable="srp_power" name="SRP Power"/>
     <item drawable="studio" name="Studio"/>
@@ -38,6 +53,7 @@
     <item drawable="umr" name="UMR"/>
     <item drawable="village_medical" name="Village Medical"/>
     <item drawable="wellbeats" name="Wellbeats"/>
+    <item drawable="x_sense" name="X-Sense"/>
     <category title="Folders"/>
     <item drawable="folder_blue"/>
     <item drawable="folder_dark_blue"/>
@@ -823,6 +839,7 @@
     <item drawable="xrecorder"/>
     <category title="#"/>
     <item drawable="_3d_rechner" name="3d_calculator"/>
+    <item drawable="_7brew" name="7Brew"/>
     <item drawable="_061_salut_respon"/>
     <item drawable="_0h_h1"/>
     <item drawable="_1024_puzzle_numbers_game"/>
@@ -1077,6 +1094,7 @@
     <item drawable="aok_2_faktor" name="AOK 2-Factor"/>
     <item drawable="aos_tv"/>
     <item drawable="aospstudio_systemui_tuner"/>
+    <item drawable="apager_pro" name="aPager PRO"/>
     <item drawable="apatch"/>
     <item drawable="apcoa_connect"/>
     <item drawable="apex_launcher"/>
@@ -3038,6 +3056,7 @@
     <item drawable="hay_day"/>
     <item drawable="hd_streamz"/>
     <item drawable="hdfc_bank"/>
+    <item drawable="hdhomerun" name="HDHomeRun"/>
     <item drawable="hdo_box"/>
     <item drawable="headi"/>
     <item drawable="headphones"/>
@@ -3336,6 +3355,7 @@
     <item drawable="islamqa"/>
     <item drawable="island"/>
     <item drawable="islandis"/>
+    <item drawable="isolved" name="isolved"/>
     <item drawable="iss_detector_pro"/>
     <item drawable="iss_live_now"/>
     <item drawable="italki"/>
@@ -3546,6 +3566,7 @@
     <item drawable="kraken"/>
     <item drawable="kraken_pro"/>
     <item drawable="krazy_coupon_lady"/>
+    <item drawable="kreate" name="Kreate"/>
     <item drawable="krispy_kreme"/>
     <item drawable="krita"/>
     <item drawable="kroger"/>
@@ -3745,6 +3766,7 @@
     <item drawable="lotto_hessen"/>
     <item drawable="lovelaceav"/>
     <item drawable="lovense_remote"/>
+    <item drawable="lowes" name="Lowe's"/>
     <item drawable="loyalty_card_keychain"/>
     <item drawable="lozsolutiont_svg_viewer"/>
     <item drawable="lspatch"/>
@@ -4300,6 +4322,8 @@
     <item drawable="mywingo"/>
     <item drawable="myworldlink"/>
     <category title="N"/>
+    <item drawable="n_calc" name="N Calc"/>
+    <item drawable="n_dial" name="N Dial"/>
     <item drawable="n26"/>
     <item drawable="n_digital"/>
     <item drawable="n_digital_watch_face"/>
@@ -4328,7 +4352,9 @@
     <item drawable="naver_cafe"/>
     <item drawable="naver_dictionary"/>
     <item drawable="ncalclibre"/>
+    <item drawable="ncalendar" name="NCalendar"/>
     <item drawable="ncert_book"/>
+    <item drawable="nclock" name="NClock"/>
     <item drawable="ncp"/>
     <item drawable="nearby_share"/>
     <item drawable="nearme_notes"/>
@@ -5069,6 +5095,7 @@
     <item drawable="ppsspp"/>
     <item drawable="ppsspp_gold"/>
     <item drawable="pptx_opener"/>
+    <item drawable="pr0gramm" name="pr0gramm"/>
     <item drawable="prayer_book"/>
     <item drawable="prayer_times"/>
     <item drawable="precise_level"/>
@@ -5247,6 +5274,7 @@
     <item drawable="razorpay"/>
     <item drawable="rbc_mobile"/>
     <item drawable="rdr"/>
+    <item drawable="re_entsorgt" name="RE-entsorgt"/>
     <item drawable="re_equalizer"/>
     <item drawable="re_link"/>
     <item drawable="react"/>
@@ -5617,6 +5645,7 @@
     <item drawable="shopee"/>
     <item drawable="shopee_lite"/>
     <item drawable="shopex_sharaf"/>
+    <item drawable="shopper" name="Shopper"/>
     <item drawable="shortcut_maker"/>
     <item drawable="shortcut_manager"/>
     <item drawable="shortcuts_widget"/>
@@ -6947,6 +6976,7 @@
     <item drawable="wyze"/>
     <category title="X"/>
     <item drawable="x"/>
+    <item drawable="x_sense" name="X-Sense"/>
     <item drawable="x_gamepad_tester"/>
     <item drawable="x_icon_changer"/>
     <item drawable="x_new"/>

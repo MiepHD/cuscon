@@ -7162,4 +7162,20 @@
     <AppIcon name="com.bob.umr/com.apmobileapp.MainActivity" image="umr"/>
     <AppIcon name="com.villagemd.patx/com.docos.patx.MainActivity" image="village_medical"/>
     <AppIcon name="com.wellbeats2.android/com.wellbeats2.android.MainActivity" image="wellbeats"/>
+    <AppIcon name="com.realbyteapps.moneymanagerfree/com.realbyte.money.ui.intro.Intro" image="money_manager"/>
+    <AppIcon name="de.szalkowski.activitylauncher/de.szalkowski.activitylauncher.entrypoint.MainActivity" image="activity_launcher"/>
+    <AppIcon name="com.xsense.security/com.claybox.iot.module.login.content.SplashActivity" image="x_sense"/>
+    <AppIcon name="com.instacart.shopper/com.instacart.shopper.splash.screen.SplashActivity" image="shopper"/>
+    <AppIcon name="com.myisolved.aee.twa/com.myisolved.aee.twa.LauncherActivity" image="isolved"/>
+    <AppIcon name="com.silicondust.view/com.silicondust.view.App" image="hdhomerun"/>
+    <AppIcon name="com.hearthborn.studios.ndial/com.hearthborn.studios.ndial.main.MainActivityPager" image="n_dial"/>
+    <AppIcon name="com.hearthborn.studios.ncalc/com.hearthborn.studios.ncalc.MainActivity" image="n_calc"/>
+    <AppIcon name="com.ncalendar.app/com.ncalendar.app.MainActivity" image="ncalendar"/>
+    <AppIcon name="me.knighthat.kreate/it.fast4x.rimusic.MainActivity" image="kreate"/>
+    <AppIcon name="de.nostream.nclock/de.nostream.nclock.MainActivity" image="nclock"/>
+    <AppIcon name="org.xcrypt.apager.android2/org.xcrypt.apager.android2.ui.StartActivity" image="apager_pro"/>
+    <AppIcon name="de.k4systems.regioentsorgung/de.k4systems.regioentsorgung.activity.APLaunchActivity" image="re_entsorgt"/>
+    <AppIcon name="com.pr0gramm.app/com.pr0gramm.app.ui.MainActivity" image="pr0gramm"/>
+    <AppIcon name="com.lowes.android/com.lowes.android.controller.util.OnboardingActivity" image="lowes"/>
+    <AppIcon name="com.sevenbrew.loyalty.app/com.bounteous.sevenbrew.MainActivity" image="_7brew"/>
 </Theme>

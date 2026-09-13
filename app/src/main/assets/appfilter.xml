@@ -7276,4 +7276,20 @@
     <item component="ComponentInfo{com.bob.umr/com.apmobileapp.MainActivity}" drawable="umr" />
     <item component="ComponentInfo{com.villagemd.patx/com.docos.patx.MainActivity}" drawable="village_medical" />
     <item component="ComponentInfo{com.wellbeats2.android/com.wellbeats2.android.MainActivity}" drawable="wellbeats" />
+    <item component="ComponentInfo{com.realbyteapps.moneymanagerfree/com.realbyte.money.ui.intro.Intro}" drawable="money_manager" />
+    <item component="ComponentInfo{de.szalkowski.activitylauncher/de.szalkowski.activitylauncher.entrypoint.MainActivity}" drawable="activity_launcher" />
+    <item component="ComponentInfo{com.xsense.security/com.claybox.iot.module.login.content.SplashActivity}" drawable="x_sense" />
+    <item component="ComponentInfo{com.instacart.shopper/com.instacart.shopper.splash.screen.SplashActivity}" drawable="shopper" />
+    <item component="ComponentInfo{com.myisolved.aee.twa/com.myisolved.aee.twa.LauncherActivity}" drawable="isolved" />
+    <item component="ComponentInfo{com.silicondust.view/com.silicondust.view.App}" drawable="hdhomerun" />
+    <item component="ComponentInfo{com.hearthborn.studios.ndial/com.hearthborn.studios.ndial.main.MainActivityPager}" drawable="n_dial" />
+    <item component="ComponentInfo{com.hearthborn.studios.ncalc/com.hearthborn.studios.ncalc.MainActivity}" drawable="n_calc" />
+    <item component="ComponentInfo{com.ncalendar.app/com.ncalendar.app.MainActivity}" drawable="ncalendar" />
+    <item component="ComponentInfo{me.knighthat.kreate/it.fast4x.rimusic.MainActivity}" drawable="kreate" />
+    <item component="ComponentInfo{de.nostream.nclock/de.nostream.nclock.MainActivity}" drawable="nclock" />
+    <item component="ComponentInfo{org.xcrypt.apager.android2/org.xcrypt.apager.android2.ui.StartActivity}" drawable="apager_pro" />
+    <item component="ComponentInfo{de.k4systems.regioentsorgung/de.k4systems.regioentsorgung.activity.APLaunchActivity}" drawable="re_entsorgt" />
+    <item component="ComponentInfo{com.pr0gramm.app/com.pr0gramm.app.ui.MainActivity}" drawable="pr0gramm" />
+    <item component="ComponentInfo{com.lowes.android/com.lowes.android.controller.util.OnboardingActivity}" drawable="lowes" />
+    <item component="ComponentInfo{com.sevenbrew.loyalty.app/com.bounteous.sevenbrew.MainActivity}" drawable="_7brew" />
 </resources>

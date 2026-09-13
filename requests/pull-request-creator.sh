@@ -54,11 +54,6 @@ while true; do
         ((counter++))
     done
 
-    if [ $counter -eq 1 ]; then
-        echo -e "${YELLOW}No requests found. Please add a request into the folder before running the script. Quitting script...${NC}"
-        exit 0
-    fi
-
     echo "p) Pull requests from Mail-Server"
     echo ""
 
