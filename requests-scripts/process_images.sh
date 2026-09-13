@@ -2,7 +2,7 @@
 process_images() {
     local target_folder="$1"
 
-    local dest_dir="../app/src/main/res/drawable-nodpi"
+    local dest_dir="../app/src/foss/res/drawable-nodpi"
 
     mkdir -p "$dest_dir"
 

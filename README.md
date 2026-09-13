@@ -1,4 +1,4 @@
-If you want to contribute see [Contributing](https://github.com/MiepHD/cuscon/edit/master/README.md#contributing)
+If you want to contribute see [Contributing](#contributing)
 
 ![icon_with_name](http://miep-hd.froxot.com/cuscon/res/icon_with_name.png)
 
@@ -43,7 +43,7 @@ For that you can follow the step 1 under Pull Requests. Then unzip the file, edi
 
 ## Pull Requests
 
-1. If you want to contribute icons, you can install Candybar Dev from the Play Store to send an icon request to yourself
+1. If you want to contribute icons, you can install Candybar Dev from the Play Store or [Candybar FOSS Sample from Github](https://github.com/MiepHD/candybar-foss-sample/releases) to send an icon request to yourself
 2. Fork the repository
 3. Clone your fork
 4. Open the folder `/requests`

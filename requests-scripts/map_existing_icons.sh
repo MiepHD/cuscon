@@ -2,7 +2,7 @@
 map_existing_icons() {
     local target_folder="$1"
 
-    local drawable_dir="../app/src/main/res/drawable-nodpi"
+    local drawable_dir="../app/src/foss/res/drawable-nodpi"
 
     while true; do
         echo -e "\n=== [Optional] Mapping icons to existing icons ==="
