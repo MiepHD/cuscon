@@ -21,7 +21,6 @@ CACHE_FILE = "tokens_cache.json"
 DATABASE_FILE = "orders_db.json"
 MSG_IDS_FILE = "msg_ids.json"
 OUTPUT_DIR = "."
-DEFAULT_TOTAL_AVAILABLE = 10
 # =================================================
 
 os.makedirs(OUTPUT_DIR, exist_ok=True)
@@ -41,7 +40,6 @@ def save_json(filepath, data):
 
 def load_db():
     data = load_json(DATABASE_FILE, {"orders": {}})
-    # Abwärtskompatibilität sicherstellen
     if "orders" not in data:
         data = {"orders": data}
     return data
@@ -168,7 +166,6 @@ def main():
         msg_id = msg['id']
         subject = msg.get('subject', 'Kein Betreff')
         
-        # Prüfung über die externe MSG-ID Datei
         if msg_id in msg_db.get("processed_msg_ids", []):
             continue
         if msg_id in msg_db.get("ignored_msg_ids", []):
@@ -255,39 +252,22 @@ def main():
 
         icon_count = count_icons_in_zip(temp_zip_path)
 
-        # 6. Kontingent & Objekt-Struktur verwalten
+        # 6. Kontingent & Objekt-Struktur verwalten (paid & totalavailable sind standardmäßig null)
         existing_order = db["orders"].get(order_id)
         
         if isinstance(existing_order, dict):
             used_icons = existing_order.get("requested", 0)
-            total_available = existing_order.get("totalavailable", DEFAULT_TOTAL_AVAILABLE)
-            is_paid = existing_order.get("paid", True)
+            is_paid = existing_order.get("paid", None)
+            total_available = existing_order.get("totalavailable", None)
         else:
-            # Fallback für alte Integer-Werte oder neue Orders
             used_icons = existing_order if isinstance(existing_order, int) else 0
-            total_available = DEFAULT_TOTAL_AVAILABLE
-            is_paid = True
+            is_paid = None
+            total_available = None
 
-        if used_icons + icon_count > total_available:
-            action, _ = handle_interactive_decision(
-                subject, clean_text, 
-                f"Order ID {order_id} überschreitet Kontingent! "
-                f"Bisher: {used_icons}, Gefordert: {icon_count}, Erlaubt: {total_available}"
-            )
-            if action == 'skip':
-                os.remove(temp_zip_path)
-                continue
-            elif action == 'ignore':
-                os.remove(temp_zip_path)
-                msg_db["ignored_msg_ids"].append(msg_id)
-                save_msg_ids(msg_db)
-                continue
-
-        # 7. Datei verschieben & Daten in separaten Dateien speichern
+        # 7. Datei verschieben & Daten speichern
         final_zip_path = os.path.join(OUTPUT_DIR, f"{order_id}_{zip_attachment['name']}")
         shutil.move(temp_zip_path, final_zip_path)
         
-        # In neue Objekt-Struktur eintragen
         db["orders"][order_id] = {
             "paid": is_paid,
             "requested": used_icons + icon_count,
@@ -299,8 +279,8 @@ def main():
         save_db(db)
         save_msg_ids(msg_db)
         
-        print(f"\n[BESTÄTIGUNG]: Anfrage für Order '{order_id}' erfolgreich verarbeitet.")
-        print(f"Icons gespeichert: {icon_count} | Gesamt verbraucht: {db['orders'][order_id]['requested']}/{total_available}")
+        print(f"\n[BESTÄTIGUNG]: Anfrage für Order '{order_id}' verarbeitet.")
+        print(f"Icons angefordert: {db['orders'][order_id]['requested']} (paid & totalavailable stehen auf null)")
 
 if __name__ == "__main__":
     main()
