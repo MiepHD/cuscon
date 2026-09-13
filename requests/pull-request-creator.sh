@@ -24,8 +24,6 @@ declare -a DE_IMPROVED EN_IMPROVED
 
 # --- Menüführung ---
 while true; do
-
-    run_request-manager
     
     counter=1
     unset REQUEST_NAMES HAS_DIR HAS_ZIP MENU_REQ
@@ -61,6 +59,9 @@ while true; do
         exit 0
     fi
 
+    echo "p) Pull requests from Mail-Server"
+    echo ""
+
     echo "q) Quit"
     echo ""
     read -p "Select request (1-$((counter-1)) or q): " choice
@@ -68,6 +69,11 @@ while true; do
     if [[ "$choice" == "q" || "$choice" == "Q" ]]; then
         echo "Quit script."
         exit 0
+    fi
+
+    if [[ "$choice" == "p" || "$choice" == "P" ]]; then
+        run_request-manager
+        python3 "$SCRIPT_DIR/open_google_play_console.py"
     fi
 
     selected_req="${MENU_REQ[$choice]}"

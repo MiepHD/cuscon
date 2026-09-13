@@ -1,0 +1,15 @@
+{
+  "manifest_version": 3,
+  "name": "Native Messaging File Receiver",
+  "version": "1.0",
+  "permissions": [
+    "nativeMessaging",
+    "tabs"
+  ],
+  "host_permissions": [
+    "https://*.play.google.com/*"
+  ],
+  "background": {
+    "service_worker": "background.js"
+  }
+}
