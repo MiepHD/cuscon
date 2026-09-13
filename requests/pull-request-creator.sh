@@ -74,6 +74,9 @@ while true; do
     if [[ "$choice" == "p" || "$choice" == "P" ]]; then
         run_request-manager
         python3 "$SCRIPT_DIR/open_google_play_console.py"
+        echo "Press any key to return to the menu"
+        read -n 1 -s -r
+        continue
     fi
 
     selected_req="${MENU_REQ[$choice]}"
