@@ -19,20 +19,41 @@ PACKAGE_NAME = "com.froxot.cuscon"
 
 CACHE_FILE = "tokens_cache.json"
 DATABASE_FILE = "orders_db.json"
+MSG_IDS_FILE = "msg_ids.json"
 OUTPUT_DIR = "."
+DEFAULT_TOTAL_AVAILABLE = 10
 # =================================================
 
 os.makedirs(OUTPUT_DIR, exist_ok=True)
 
+def load_json(filepath, default_value):
+    if os.path.exists(filepath):
+        try:
+            with open(filepath, "r", encoding="utf-8") as f:
+                return json.load(f)
+        except Exception as e:
+            print(f"[!] Fehler beim Laden von '{filepath}': {e}")
+    return default_value
+
+def save_json(filepath, data):
+    with open(filepath, "w", encoding="utf-8") as f:
+        json.dump(data, f, indent=4)
+
 def load_db():
-    if os.path.exists(DATABASE_FILE):
-        with open(DATABASE_FILE, "r") as f:
-            return json.load(f)
-    return {"orders": {}, "ignored_msg_ids": [], "processed_msg_ids": []}
+    data = load_json(DATABASE_FILE, {"orders": {}})
+    # Abwärtskompatibilität sicherstellen
+    if "orders" not in data:
+        data = {"orders": data}
+    return data
 
 def save_db(db):
-    with open(DATABASE_FILE, "w") as f:
-        json.dump(db, f, indent=4)
+    save_json(DATABASE_FILE, db)
+
+def load_msg_ids():
+    return load_json(MSG_IDS_FILE, {"processed_msg_ids": [], "ignored_msg_ids": []})
+
+def save_msg_ids(msg_ids_data):
+    save_json(MSG_IDS_FILE, msg_ids_data)
 
 def get_ms_token():
     cache = SerializableTokenCache()
@@ -127,22 +148,15 @@ def handle_interactive_decision(subject, preview_body, error_msg):
 def main():
     token = get_ms_token()
     db = load_db()
-    
-    # Abwärtskompatibilität der DB-Struktur sicherstellen
-    if "orders" not in db:
-        db = {"orders": db, "ignored_msg_ids": [], "processed_msg_ids": []}
+    msg_db = load_msg_ids()
 
     headers = {'Authorization': f'Bearer {token}'}
     
-    # ÄNDERUNG: $filter=isRead eq false wurde entfernt (prüft nun auch gelesene Mails)
-    # Mails abfragen: Neueste zuerst, max. 50 Stück
-    # Die neuesten 50 E-Mails abrufen (sortiert nach Empfangsdatum, neueste zuerst)
     url = "https://graph.microsoft.com/v1.0/me/messages?$orderby=receivedDateTime desc&$top=50"
     response = requests.get(url, headers=headers).json()
 
     all_messages = response.get('value', [])
     
-    # Lokale Filterung nach dem Betreff "Premium request"
     messages = [
         m for m in all_messages 
         if 'premium request' in m.get('subject', '').lower()
@@ -154,10 +168,10 @@ def main():
         msg_id = msg['id']
         subject = msg.get('subject', 'Kein Betreff')
         
-        # Prüfung: Wurde diese Mail lokal bereits verarbeitet oder ignoriert?
-        if msg_id in db.get("processed_msg_ids", []):
+        # Prüfung über die externe MSG-ID Datei
+        if msg_id in msg_db.get("processed_msg_ids", []):
             continue
-        if msg_id in db.get("ignored_msg_ids", []):
+        if msg_id in msg_db.get("ignored_msg_ids", []):
             continue
 
         raw_body = msg.get('body', {}).get('content', '')
@@ -172,8 +186,8 @@ def main():
             if action == 'skip':
                 continue
             elif action == 'ignore':
-                db["ignored_msg_ids"].append(msg_id)
-                save_db(db)
+                msg_db["ignored_msg_ids"].append(msg_id)
+                save_msg_ids(msg_db)
                 print(f"[!] Mail '{subject}' lokal als ignoriert gespeichert.")
                 continue
             elif action == 'manual':
@@ -187,8 +201,8 @@ def main():
             if action == 'skip':
                 continue
             elif action == 'ignore':
-                db["ignored_msg_ids"].append(msg_id)
-                save_db(db)
+                msg_db["ignored_msg_ids"].append(msg_id)
+                save_msg_ids(msg_db)
                 print(f"[!] Order ID '{order_id}' lokal als ignoriert gespeichert.")
                 continue
 
@@ -209,8 +223,8 @@ def main():
             if action == 'skip':
                 continue
             elif action == 'ignore':
-                db["ignored_msg_ids"].append(msg_id)
-                save_db(db)
+                msg_db["ignored_msg_ids"].append(msg_id)
+                save_msg_ids(msg_db)
                 print(f"[!] Mail ohne ZIP (Order ID: {order_id}) lokal als ignoriert gespeichert.")
                 continue
 
@@ -230,8 +244,8 @@ def main():
             if action == 'skip':
                 continue
             elif action == 'ignore':
-                db["ignored_msg_ids"].append(msg_id)
-                save_db(db)
+                msg_db["ignored_msg_ids"].append(msg_id)
+                save_msg_ids(msg_db)
                 continue
 
         # 5. Speichern und Zählen
@@ -241,35 +255,52 @@ def main():
 
         icon_count = count_icons_in_zip(temp_zip_path)
 
-        # 6. Kontingent-Prüfung
-        allowed_limit = 10
-        used_icons = db["orders"].get(order_id, 0)
+        # 6. Kontingent & Objekt-Struktur verwalten
+        existing_order = db["orders"].get(order_id)
+        
+        if isinstance(existing_order, dict):
+            used_icons = existing_order.get("requested", 0)
+            total_available = existing_order.get("totalavailable", DEFAULT_TOTAL_AVAILABLE)
+            is_paid = existing_order.get("paid", True)
+        else:
+            # Fallback für alte Integer-Werte oder neue Orders
+            used_icons = existing_order if isinstance(existing_order, int) else 0
+            total_available = DEFAULT_TOTAL_AVAILABLE
+            is_paid = True
 
-        if used_icons + icon_count > allowed_limit:
+        if used_icons + icon_count > total_available:
             action, _ = handle_interactive_decision(
                 subject, clean_text, 
                 f"Order ID {order_id} überschreitet Kontingent! "
-                f"Bisher: {used_icons}, Gefordert: {icon_count}, Erlaubt: {allowed_limit}"
+                f"Bisher: {used_icons}, Gefordert: {icon_count}, Erlaubt: {total_available}"
             )
             if action == 'skip':
                 os.remove(temp_zip_path)
                 continue
             elif action == 'ignore':
                 os.remove(temp_zip_path)
-                db["ignored_msg_ids"].append(msg_id)
-                save_db(db)
+                msg_db["ignored_msg_ids"].append(msg_id)
+                save_msg_ids(msg_db)
                 continue
 
-        # 7. Datei verschieben & Lokale DB aktualisieren
+        # 7. Datei verschieben & Daten in separaten Dateien speichern
         final_zip_path = os.path.join(OUTPUT_DIR, f"{order_id}_{zip_attachment['name']}")
         shutil.move(temp_zip_path, final_zip_path)
         
-        db["orders"][order_id] = used_icons + icon_count
-        db["processed_msg_ids"].append(msg_id)
+        # In neue Objekt-Struktur eintragen
+        db["orders"][order_id] = {
+            "paid": is_paid,
+            "requested": used_icons + icon_count,
+            "totalavailable": total_available
+        }
+        
+        msg_db["processed_msg_ids"].append(msg_id)
+        
         save_db(db)
+        save_msg_ids(msg_db)
         
         print(f"\n[BESTÄTIGUNG]: Anfrage für Order '{order_id}' erfolgreich verarbeitet.")
-        print(f"Icons gespeichert: {icon_count} | Gesamt verbraucht: {db['orders'][order_id]}/{allowed_limit}")
+        print(f"Icons gespeichert: {icon_count} | Gesamt verbraucht: {db['orders'][order_id]['requested']}/{total_available}")
 
 if __name__ == "__main__":
     main()
