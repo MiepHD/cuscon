@@ -44,7 +44,7 @@ For that you can follow the step 1 under Pull Requests. Then unzip the file, edi
 ## Pull Requests
 
 1. If you want to contribute icons, you can install Candybar Dev from the Play Store or [Candybar FOSS Sample from Github](https://github.com/MiepHD/candybar-foss-sample/releases) to send an icon request to yourself
-2. Fork the repository
+2. Fork the repository using `git clone --depth 1 https://github.com/MiepHD/cuscon.git`
 3. Clone your fork
 4. Open the folder `/requests`
 5. Put the zip file from Candybar Dev inside the folder
