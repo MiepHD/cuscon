@@ -200,7 +200,7 @@
     <!-- Enable non-mailing app to be able to send icon requests.
         By default, you can only send request using mailing apps like Gmail, Outlook etc.
         If you enable this option, your users will be able to send requests using almost any app, not just mailing apps. -->
-    <bool name="enable_non_mail_app_request">true</bool>
+    <bool name="enable_non_mail_app_request">false</bool>
 
     <!-- Hide missing app count
         In home page there is a card that shows information about how many icons are missing and covered by your icon pack app.
@@ -250,7 +250,7 @@
     <!-- Enable wallpaper downloading
         If disabled, your users will only be able to apply wallpapers from the dashboard.
         They will not be able to to download wallpapers.  -->
-    <bool name="enable_wallpaper_download">true</bool>
+    <bool name="enable_wallpaper_download">false</bool>
 
     <!-- Show name and author below wallpapers
         If you don't want to show name and author below wallpapers, just disable it (set it to `false`) -->
