@@ -86,7 +86,7 @@ tasks.register('generatedpis', Exec) {
 // Erzwinge, dass die Build-Tasks erst NACH finishXMLs laufen
 ['assembleFossRelease', 'bundlePlayRelease', 'assemblePlayRelease'].each { taskName ->
     tasks.matching { it.name == taskName }.configureEach {
-        mustRunAfter 'finishXMLs', 'clean'
+        mustRunAfter 'finishXMLs', 'clean', 'generatedpis'
     }
 }
 
