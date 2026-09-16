@@ -7292,4 +7292,26 @@
     <item component="ComponentInfo{com.pr0gramm.app/com.pr0gramm.app.ui.MainActivity}" drawable="pr0gramm" />
     <item component="ComponentInfo{com.lowes.android/com.lowes.android.controller.util.OnboardingActivity}" drawable="lowes" />
     <item component="ComponentInfo{com.sevenbrew.loyalty.app/com.bounteous.sevenbrew.MainActivity}" drawable="_7brew" />
+    <item component="ComponentInfo{com.hdfcbank.android.now/com.hdfcbank.android.now.launcher_41cf6fca43d944f0d836ecaaae18dee1bb3e1bfba101fcc59764bc1b35526221}" drawable="hdfc_bank_app" />
+    <item component="ComponentInfo{org.digiyatra.org/org.digiyatra.org.MainActivity}" drawable="digi_yatra" />
+    <item component="ComponentInfo{in.goindigo.android/in.goindigo.android.MainActivity}" drawable="indigo" />
+    <item component="ComponentInfo{com.olacabs.customer/com.olacabs.customer.ui.NewSplashActivity}" drawable="ola" />
+    <item component="ComponentInfo{in.swiggy.android.instamart/in.swiggy.android.HomeIcon}" drawable="instamart" />
+    <item component="ComponentInfo{com.winit.airarabia/airarabia.airlinesale.accelaero.activities.SplashActivity}" drawable="air_arabia" />
+    <item component="ComponentInfo{in.gov.uidai.pehchaan/in.gov.uidai.pehchaan.onboarding.SplashActivity}" drawable="aadhaar" />
+    <item component="ComponentInfo{com.LeagueofComicGeeks.app2/com.LeagueofComicGeeks.app2.MainActivity}" drawable="comic_geeks" />
+    <item component="ComponentInfo{com.sbi.SBIFreedomPlus/com.sbi.SBIFreedomPlus.MainActivity}" drawable="yono_lite_sbi_vxoutb" />
+    <item component="ComponentInfo{in.amazon.mShop.android.shopping/com.amazon.mShop.amazonpay.AmazonPayHomeActivityAlias}" drawable="amazon" />
+    <item component="ComponentInfo{org.proninyaroslav.libretorrent/org.proninyaroslav.libretorrent.MainActivity}" drawable="libretorrent" />
+    <item component="ComponentInfo{com.aurora.store/com.aurora.store.ComposeActivity}" drawable="aurora_store" />
+    <item component="ComponentInfo{com.kgurgul.cpuinfo/com.kgurgul.cpuinfo.HostActivity}" drawable="cpu_info" />
+    <item component="ComponentInfo{org.futo.inputmethod.latin/org.futo.inputmethod.latin.uix.settings.SettingsActivity}" drawable="futo_keyboard" />
+    <item component="ComponentInfo{com.om1cael.hidroly/com.om1cael.hidroly.MainActivity}" drawable="hidroly" />
+    <item component="ComponentInfo{de.tadris.fitness/de.tadris.fitness.ui.MainActivity}" drawable="fitotrack" />
+    <item component="ComponentInfo{org.tasks/com.todoroo.astrid.activity.TaskListActivity.Teal}" drawable="tasks" />
+    <item component="ComponentInfo{pro.kherel.selfprivacy/org.selfprivacy.app.MainActivity}" drawable="selfprivacy" />
+    <item component="ComponentInfo{org.mozilla.fenix/org.mozilla.fenix.App}" drawable="firefox_nightly" />
+    <item component="ComponentInfo{com.github.catfriend1.syncthingfork/com.nutomic.syncthingandroid.onboarding.OnboardingActivity}" drawable="syncthing_fork" />
+    <item component="ComponentInfo{com.furthersecrets.chemsearch/com.furthersecrets.chemsearch.MainActivity}" drawable="chemsearch" />
+    <item component="ComponentInfo{com.hhst.litube/com.hhst.youtubelite.ui.MainActivity}" drawable="litube" />
 </resources>

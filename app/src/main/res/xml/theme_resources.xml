@@ -7178,4 +7178,26 @@
     <AppIcon name="com.pr0gramm.app/com.pr0gramm.app.ui.MainActivity" image="pr0gramm"/>
     <AppIcon name="com.lowes.android/com.lowes.android.controller.util.OnboardingActivity" image="lowes"/>
     <AppIcon name="com.sevenbrew.loyalty.app/com.bounteous.sevenbrew.MainActivity" image="_7brew"/>
+    <AppIcon name="com.hdfcbank.android.now/com.hdfcbank.android.now.launcher_41cf6fca43d944f0d836ecaaae18dee1bb3e1bfba101fcc59764bc1b35526221" image="hdfc_bank_app"/>
+    <AppIcon name="org.digiyatra.org/org.digiyatra.org.MainActivity" image="digi_yatra"/>
+    <AppIcon name="in.goindigo.android/in.goindigo.android.MainActivity" image="indigo"/>
+    <AppIcon name="com.olacabs.customer/com.olacabs.customer.ui.NewSplashActivity" image="ola"/>
+    <AppIcon name="in.swiggy.android.instamart/in.swiggy.android.HomeIcon" image="instamart"/>
+    <AppIcon name="com.winit.airarabia/airarabia.airlinesale.accelaero.activities.SplashActivity" image="air_arabia"/>
+    <AppIcon name="in.gov.uidai.pehchaan/in.gov.uidai.pehchaan.onboarding.SplashActivity" image="aadhaar"/>
+    <AppIcon name="com.LeagueofComicGeeks.app2/com.LeagueofComicGeeks.app2.MainActivity" image="comic_geeks"/>
+    <AppIcon name="com.sbi.SBIFreedomPlus/com.sbi.SBIFreedomPlus.MainActivity" image="yono_lite_sbi_vxoutb"/>
+    <AppIcon name="in.amazon.mShop.android.shopping/com.amazon.mShop.amazonpay.AmazonPayHomeActivityAlias" image="amazon"/>
+    <AppIcon name="org.proninyaroslav.libretorrent/org.proninyaroslav.libretorrent.MainActivity" image="libretorrent"/>
+    <AppIcon name="com.aurora.store/com.aurora.store.ComposeActivity" image="aurora_store"/>
+    <AppIcon name="com.kgurgul.cpuinfo/com.kgurgul.cpuinfo.HostActivity" image="cpu_info"/>
+    <AppIcon name="org.futo.inputmethod.latin/org.futo.inputmethod.latin.uix.settings.SettingsActivity" image="futo_keyboard"/>
+    <AppIcon name="com.om1cael.hidroly/com.om1cael.hidroly.MainActivity" image="hidroly"/>
+    <AppIcon name="de.tadris.fitness/de.tadris.fitness.ui.MainActivity" image="fitotrack"/>
+    <AppIcon name="org.tasks/com.todoroo.astrid.activity.TaskListActivity.Teal" image="tasks"/>
+    <AppIcon name="pro.kherel.selfprivacy/org.selfprivacy.app.MainActivity" image="selfprivacy"/>
+    <AppIcon name="org.mozilla.fenix/org.mozilla.fenix.App" image="firefox_nightly"/>
+    <AppIcon name="com.github.catfriend1.syncthingfork/com.nutomic.syncthingandroid.onboarding.OnboardingActivity" image="syncthing_fork"/>
+    <AppIcon name="com.furthersecrets.chemsearch/com.furthersecrets.chemsearch.MainActivity" image="chemsearch"/>
+    <AppIcon name="com.hhst.litube/com.hhst.youtubelite.ui.MainActivity" image="litube"/>
 </Theme>

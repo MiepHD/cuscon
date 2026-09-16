@@ -11,8 +11,8 @@ android {
         applicationId 'com.froxot.cuscon'
         minSdkVersion rootProject.ext.MinSdk
         targetSdkVersion rootProject.ext.TargetSdk
-        versionCode 4117
-        versionName '4.1.1.7'
+        versionCode 4118
+        versionName '4.1.1.8'
         multiDexEnabled true
     }
 
@@ -71,8 +71,8 @@ java {
 }
 
 dependencies {
-	playImplementation 'com.github.MiepHD.candybar:library:3.23.0.7'
-	fossImplementation 'com.github.MiepHD:candybar-foss:3.23.0.7'
+	playImplementation 'com.github.MiepHD.candybar:library:3.23.0.8'
+	fossImplementation 'com.github.MiepHD:candybar-foss:3.23.0.8'
 }
 
 tasks.register('finishXMLs', Exec) {

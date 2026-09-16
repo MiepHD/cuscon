@@ -3,24 +3,41 @@
     <version>1</version>
     <category title="New Icons"/>
     <item drawable="_7brew" name="7Brew"/>
+    <item drawable="aadhaar" name="Aadhaar"/>
     <item drawable="activity_launcher" name="Activity Launcher"/>
+    <item drawable="air_arabia" name="Air Arabia"/>
+    <item drawable="amazon" name="Amazon Pay"/>
     <item drawable="anyapk" name="anyapk"/>
     <item drawable="apager_pro" name="aPager PRO"/>
     <item drawable="asphalt_1788796437574" name="Aspalt Legends Unite"/>
+    <item drawable="aurora_store" name="Aurora Store"/>
     <item drawable="avnc" name="AVNC"/>
     <item drawable="az_mobile_id" name="AZ Mobile ID"/>
     <item drawable="bible" name="Bible"/>
+    <item drawable="chemsearch" name="ChemSearch"/>
+    <item drawable="comic_geeks" name="Comic Geeks"/>
+    <item drawable="cpu_info" name="CPU Info"/>
+    <item drawable="digi_yatra" name="Digi Yatra"/>
+    <item drawable="firefox_nightly" name="Firefox Nightly"/>
+    <item drawable="fitotrack" name="FitoTrack"/>
     <item drawable="frys_food" name="Frys Food"/>
+    <item drawable="futo_keyboard" name="FUTO Keyboard"/>
     <item drawable="glendaleone" name="GlendaleOne"/>
     <item drawable="google_japanese_input" name="Google Japanese Input"/>
+    <item drawable="hdfc_bank_app" name="HDFC Bank App"/>
     <item drawable="hdhomerun" name="HDHomeRun"/>
     <item drawable="health_monitor" name="Health Monitor"/>
     <item drawable="healthequity" name="HealthEquity"/>
+    <item drawable="hidroly" name="Hidroly"/>
     <item drawable="high_sports_analog" name="High Sports Analog"/>
+    <item drawable="indigo" name="IndiGo"/>
+    <item drawable="instamart" name="Instamart"/>
     <item drawable="isolved" name="isolved"/>
     <item drawable="ko_fi"/>
     <item drawable="kreate" name="Kreate"/>
     <item drawable="liberty_mutual" name="Liberty Mutual"/>
+    <item drawable="libretorrent" name="LibreTorrent"/>
+    <item drawable="litube" name="Litube"/>
     <item drawable="lowes" name="Lowe's"/>
     <item drawable="money_manager" name="Money Manager"/>
     <item drawable="mynissan" name="MyNISSAN"/>
@@ -32,7 +49,9 @@
     <item drawable="north_pole_christmas" name="North Pole Christmas"/>
     <item drawable="obtainx" name="ObtainX"/>
     <item drawable="okta_verify" name="Okta Verify"/>
+    <item drawable="ola" name="Ola"/>
     <item drawable="personify_health" name="Personify Health"/>
+    <item drawable="power_clean"/>
     <item drawable="pr0gramm" name="pr0gramm"/>
     <item drawable="printer_finder" name="Printer Finder"/>
     <item drawable="quick_search" name="Quick Search"/>
@@ -41,12 +60,16 @@
     <item drawable="sabbath_school" name="Sabbath School"/>
     <item drawable="sabbath_school_quarterly" name="Sabbath School Quarterly"/>
     <item drawable="safeway" name="Safeway"/>
+    <item drawable="selfprivacy" name="SelfPrivacy"/>
     <item drawable="shopper" name="Shopper"/>
     <item drawable="southwest_gas" name="Southwest Gas"/>
     <item drawable="srp_power" name="SRP Power"/>
     <item drawable="studio" name="Studio"/>
+    <item drawable="syncthing_fork" name="Syncthing-Fork"/>
+    <item drawable="tasks" name="Tasks"/>
     <item drawable="termux_widget" name="Termux:Widget"/>
     <item drawable="termux_x11" name="Termux:X11"/>
+    <item drawable="the_sun_origin_post_apocalypse_action_shooter"/>
     <item drawable="tide" name="TIDE"/>
     <item drawable="toyota_fs" name="Toyota FS"/>
     <item drawable="ultra" name="Ultra"/>
@@ -54,6 +77,7 @@
     <item drawable="village_medical" name="Village Medical"/>
     <item drawable="wellbeats" name="Wellbeats"/>
     <item drawable="x_sense" name="X-Sense"/>
+    <item drawable="yono_lite_sbi_vxoutb" name="Yono Lite SBI"/>
     <category title="Folders"/>
     <item drawable="folder_blue"/>
     <item drawable="folder_dark_blue"/>
@@ -881,6 +905,7 @@
     <category title="A"/>
     <item drawable="a13_theme_for_klwp"/>
     <item drawable="a_cloud_guru"/>
+    <item drawable="aadhaar" name="Aadhaar"/>
     <item drawable="aard_2" name="aard"/>
     <item drawable="aba_mobile"/>
     <item drawable="abattery"/>
@@ -958,6 +983,7 @@
     <item drawable="aia_"/>
     <item drawable="aimp"/>
     <item drawable="aio_launcher"/>
+    <item drawable="air_arabia" name="Air Arabia"/>
     <item drawable="air_bank"/>
     <item drawable="air_control"/>
     <item drawable="air_navigation"/>
@@ -1026,6 +1052,7 @@
     <item drawable="amarok"/>
     <item drawable="amaze"/>
     <item drawable="amazfaces"/>
+    <item drawable="amazon" name="Amazon Pay"/>
     <item drawable="amb_mobilitat" name="amb Mobility"/>
     <item drawable="amc_cooking"/>
     <item drawable="ameixa_monochrome"/>
@@ -1744,6 +1771,7 @@
     <item drawable="chefkoch"/>
     <item drawable="chegg_study"/>
     <item drawable="chemistrylab"/>
+    <item drawable="chemsearch" name="ChemSearch"/>
     <item drawable="cheogram"/>
     <item drawable="cherrygram"/>
     <item drawable="chess"/>
@@ -1870,6 +1898,7 @@
     <item drawable="comboios"/>
     <item drawable="comera"/>
     <item drawable="comet"/>
+    <item drawable="comic_geeks" name="Comic Geeks"/>
     <item drawable="commbank"/>
     <item drawable="committed"/>
     <item drawable="commons"/>
@@ -2597,6 +2626,7 @@
     <item drawable="fire_tv"/>
     <item drawable="firefight"/>
     <item drawable="firefox"/>
+    <item drawable="firefox_nightly" name="Firefox Nightly"/>
     <item drawable="firefox_beta"/>
     <item drawable="firefox_focus"/>
     <item drawable="firemonkey"/>
@@ -3055,6 +3085,7 @@
     <item drawable="hastings_direct"/>
     <item drawable="hay_day"/>
     <item drawable="hd_streamz"/>
+    <item drawable="hdfc_bank_app" name="HDFC Bank App"/>
     <item drawable="hdfc_bank"/>
     <item drawable="hdhomerun" name="HDHomeRun"/>
     <item drawable="hdo_box"/>
@@ -3109,6 +3140,7 @@
     <item drawable="hidden_settings"/>
     <item drawable="hiddeneye"/>
     <item drawable="hidive"/>
+    <item drawable="hidroly" name="Hidroly"/>
     <item drawable="hifnawy_caffeinate"/>
     <item drawable="high_sports_analog" name="High Sports Analog"/>
     <item drawable="highline_fast"/>
@@ -3276,6 +3308,7 @@
     <item drawable="incredibox"/>
     <item drawable="indeed_job_search"/>
     <item drawable="indianoil_one"/>
+    <item drawable="indigo" name="IndiGo"/>
     <item drawable="indistractable"/>
     <item drawable="al_quran_indonesia" name="Indonesian Quran"/>
     <item drawable="indrive"/>
@@ -3312,6 +3345,7 @@
     <item drawable="instagram_lite"/>
     <item drawable="install_with_options"/>
     <item drawable="installerx"/>
+    <item drawable="instamart" name="Instamart"/>
     <item drawable="instander"/>
     <item drawable="instant_gaming"/>
     <item drawable="instashop"/>
@@ -3725,6 +3759,7 @@
     <item drawable="little_alchemy"/>
     <item drawable="little_music_player"/>
     <item drawable="little_nightmares"/>
+    <item drawable="litube" name="Litube"/>
     <item drawable="aviones_en_vivo" name="live airplanes"/>
     <item drawable="live_dv"/>
     <item drawable="live_transcribe"/>
@@ -5085,6 +5120,7 @@
     <item drawable="power_app"/>
     <item drawable="power_automate"/>
     <item drawable="power_bi"/>
+    <item drawable="power_clean"/>
     <item drawable="poweramp"/>
     <item drawable="poweramp_equalizer"/>
     <item drawable="poweramp_unlocker"/>
@@ -5569,6 +5605,7 @@
     <item drawable="seguranca_social"/>
     <item drawable="segway_ninebot"/>
     <item drawable="self_employed"/>
+    <item drawable="selfprivacy" name="SelfPrivacy"/>
     <item drawable="seloger"/>
     <item drawable="senal_neta"/>
     <item drawable="send_anywhere"/>
@@ -6221,6 +6258,7 @@
     <item drawable="the_jackbox_party_pack_7"/>
     <item drawable="the_one_app"/>
     <item drawable="the_past_within_lite"/>
+    <item drawable="the_sun_origin_post_apocalypse_action_shooter"/>
     <item drawable="thefork"/>
     <item drawable="thematica"/>
     <item drawable="theme_park"/>
@@ -7028,6 +7066,7 @@
     <item drawable="ymusic"/>
     <item drawable="yodel"/>
     <item drawable="yola"/>
+    <item drawable="yono_lite_sbi_vxoutb" name="Yono Lite SBI"/>
     <item drawable="yono_lite_sbi"/>
     <item drawable="yono_sbi"/>
     <item drawable="yorck_kinos"/>
