@@ -72,7 +72,7 @@ java {
 
 dependencies {
 	playImplementation 'com.github.MiepHD.candybar:library:3.23.0.8'
-	fossImplementation 'com.github.MiepHD:candybar-foss:3.23.0.8'
+	fossImplementation 'com.github.MiepHD.candybar-foss:library:3.23.0.8'
 }
 
 tasks.register('finishXMLs', Exec) {
