@@ -91,5 +91,5 @@ tasks.register('generatedpis', Exec) {
 }
 
 tasks.register('buildRelease') {
-    dependsOn 'clean', 'finishXMLs', 'assembleFossRelease', 'bundlePlayRelease'
+    dependsOn 'clean', 'generatedpis', 'finishXMLs', 'assembleFossRelease', 'bundlePlayRelease'
 }
