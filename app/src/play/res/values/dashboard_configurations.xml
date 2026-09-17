@@ -310,9 +310,9 @@
     </string-array>
 
     <!-- Contributors dialog
-        If you want to show contributors dialog unable this, if not then disable this.
+        If you want to show contributors dialog enable this, if not then disable this.
         Take a look inside res/xml/contributors.xml to add contributors -->
-    <bool name="show_contributors_dialog">false</bool>
+    <bool name="show_contributors_dialog">true</bool>
 
     <!-- Privacy policy link.
         Leave empty to disable this.
