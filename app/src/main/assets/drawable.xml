@@ -2,82 +2,10 @@
 <resources>
     <version>1</version>
     <category title="New Icons"/>
-    <item drawable="_7brew" name="7Brew"/>
-    <item drawable="aadhaar" name="Aadhaar"/>
-    <item drawable="activity_launcher" name="Activity Launcher"/>
-    <item drawable="air_arabia" name="Air Arabia"/>
-    <item drawable="amazon" name="Amazon Pay"/>
-    <item drawable="anyapk" name="anyapk"/>
-    <item drawable="apager_pro" name="aPager PRO"/>
-    <item drawable="asphalt_1788796437574" name="Aspalt Legends Unite"/>
-    <item drawable="aurora_store" name="Aurora Store"/>
-    <item drawable="avnc" name="AVNC"/>
-    <item drawable="az_mobile_id" name="AZ Mobile ID"/>
-    <item drawable="bible" name="Bible"/>
-    <item drawable="chemsearch" name="ChemSearch"/>
-    <item drawable="comic_geeks" name="Comic Geeks"/>
-    <item drawable="cpu_info" name="CPU Info"/>
-    <item drawable="digi_yatra" name="Digi Yatra"/>
-    <item drawable="firefox_nightly" name="Firefox Nightly"/>
-    <item drawable="fitotrack" name="FitoTrack"/>
-    <item drawable="frys_food" name="Frys Food"/>
-    <item drawable="futo_keyboard" name="FUTO Keyboard"/>
-    <item drawable="glendaleone" name="GlendaleOne"/>
-    <item drawable="google_japanese_input" name="Google Japanese Input"/>
-    <item drawable="hdfc_bank_app" name="HDFC Bank App"/>
-    <item drawable="hdhomerun" name="HDHomeRun"/>
-    <item drawable="health_monitor" name="Health Monitor"/>
-    <item drawable="healthequity" name="HealthEquity"/>
-    <item drawable="hidroly" name="Hidroly"/>
-    <item drawable="high_sports_analog" name="High Sports Analog"/>
-    <item drawable="indigo" name="IndiGo"/>
-    <item drawable="instamart" name="Instamart"/>
-    <item drawable="isolved" name="isolved"/>
-    <item drawable="ko_fi"/>
-    <item drawable="kreate" name="Kreate"/>
-    <item drawable="liberty_mutual" name="Liberty Mutual"/>
-    <item drawable="libretorrent" name="LibreTorrent"/>
-    <item drawable="litube" name="Litube"/>
-    <item drawable="lowes" name="Lowe's"/>
-    <item drawable="money_manager" name="Money Manager"/>
-    <item drawable="mynissan" name="MyNISSAN"/>
-    <item drawable="n_calc" name="N Calc"/>
-    <item drawable="n_dial" name="N Dial"/>
-    <item drawable="ncalendar" name="NCalendar"/>
-    <item drawable="nclock" name="NClock"/>
-    <item drawable="new_eos_fitness" name="New EōS Fitness"/>
-    <item drawable="north_pole_christmas" name="North Pole Christmas"/>
-    <item drawable="obtainx" name="ObtainX"/>
-    <item drawable="okta_verify" name="Okta Verify"/>
-    <item drawable="ola" name="Ola"/>
-    <item drawable="personify_health" name="Personify Health"/>
-    <item drawable="power_clean"/>
-    <item drawable="pr0gramm" name="pr0gramm"/>
-    <item drawable="printer_finder" name="Printer Finder"/>
-    <item drawable="quick_search" name="Quick Search"/>
-    <item drawable="re_entsorgt" name="RE-entsorgt"/>
-    <item drawable="routines_" name="Routines +"/>
-    <item drawable="sabbath_school" name="Sabbath School"/>
-    <item drawable="sabbath_school_quarterly" name="Sabbath School Quarterly"/>
-    <item drawable="safeway" name="Safeway"/>
-    <item drawable="selfprivacy" name="SelfPrivacy"/>
-    <item drawable="shopper" name="Shopper"/>
-    <item drawable="southwest_gas" name="Southwest Gas"/>
-    <item drawable="srp_power" name="SRP Power"/>
-    <item drawable="studio" name="Studio"/>
-    <item drawable="syncthing_fork" name="Syncthing-Fork"/>
-    <item drawable="tasks" name="Tasks"/>
-    <item drawable="termux_widget" name="Termux:Widget"/>
-    <item drawable="termux_x11" name="Termux:X11"/>
-    <item drawable="the_sun_origin_post_apocalypse_action_shooter"/>
-    <item drawable="tide" name="TIDE"/>
-    <item drawable="toyota_fs" name="Toyota FS"/>
-    <item drawable="ultra" name="Ultra"/>
-    <item drawable="umr" name="UMR"/>
-    <item drawable="village_medical" name="Village Medical"/>
-    <item drawable="wellbeats" name="Wellbeats"/>
-    <item drawable="x_sense" name="X-Sense"/>
-    <item drawable="yono_lite_sbi_vxoutb" name="Yono Lite SBI"/>
+    <item drawable="_6f2490a1bf0dd92d01b0a01fbcf6d949"/>
+    <item drawable="hik_connect"/>
+    <item drawable="sanlam_maroc"/>
+    <item drawable="tenda_wifi"/>
     <category title="Folders"/>
     <item drawable="folder_blue"/>
     <item drawable="folder_dark_blue"/>
@@ -896,6 +824,7 @@
     <item drawable="_4shared"/>
     <item drawable="_500px"/>
     <item drawable="_6000_thoughts"/>
+    <item drawable="_6f2490a1bf0dd92d01b0a01fbcf6d949"/>
     <item drawable="_6thstreet"/>
     <item drawable="_7_eleven"/>
     <item drawable="_7fon"/>
@@ -3146,6 +3075,7 @@
     <item drawable="highline_fast"/>
     <item drawable="highway"/>
     <item drawable="hihello"/>
+    <item drawable="hik_connect" name="Hik-Connect"/>
     <item drawable="hike"/>
     <item drawable="hill_climb_2"/>
     <item drawable="hill_climb_racing"/>
@@ -5533,6 +5463,7 @@
     <item drawable="saisonkalender"/>
     <item drawable="saksham_samiksha"/>
     <item drawable="salt_player"/>
+    <item drawable="sanlam_maroc" name="Sanlam Maroc"/>
     <item drawable="santander"/>
     <item drawable="santander_mx"/>
     <item drawable="santander_pt"/>
@@ -6206,6 +6137,7 @@
     <item drawable="tempo_blue"/>
     <item drawable="tempo_real"/>
     <item drawable="temu"/>
+    <item drawable="tenda_wifi" name="Tenda WiFi"/>
     <item drawable="terabox"/>
     <item drawable="teracube_parent"/>
     <item drawable="terminal_command_watch_face"/>

@@ -7200,4 +7200,7 @@
     <AppIcon name="com.github.catfriend1.syncthingfork/com.nutomic.syncthingandroid.onboarding.OnboardingActivity" image="syncthing_fork"/>
     <AppIcon name="com.furthersecrets.chemsearch/com.furthersecrets.chemsearch.MainActivity" image="chemsearch"/>
     <AppIcon name="com.hhst.litube/com.hhst.youtubelite.ui.MainActivity" image="litube"/>
+    <AppIcon name="com.connect.enduser/com.hikvision.hikconnect.login.LoadingActivity" image="hik_connect"/>
+    <AppIcon name="ma.tnc.sahamassurance/ma.tnc.sahamassurance.MainActivity" image="sanlam_maroc"/>
+    <AppIcon name="com.tenda.router.app/com.tenda.login.splash.FullscreenActivity" image="tenda_wifi"/>
 </Theme>
