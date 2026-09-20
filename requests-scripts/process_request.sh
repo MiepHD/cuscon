@@ -8,7 +8,7 @@ process_request() {
     fi
 
     ensure_python
-    sanitize_png_names "$target_folder"
+    python3 "$SCRIPT_DIR/sanitize_png_names.py" "$target_folder"
 
     echo -e "\n--> Opening '$target_folder' ..."
     

@@ -237,7 +237,7 @@ def main():
             total_available = None
 
         # 7. Datei verschieben & Daten speichern
-        final_zip_path = os.path.join(OUTPUT_DIR, f"{order_id}_{zip_attachment['name']}")
+        final_zip_path = os.path.join(OUTPUT_DIR, f"{order_id}.zip")
         shutil.move(temp_zip_path, final_zip_path)
         
         db["orders"][order_id] = {
@@ -252,7 +252,7 @@ def main():
         save_msg_ids(msg_db)
         
         print(f"\n[BESTÄTIGUNG]: Anfrage für Order '{order_id}' verarbeitet.")
-        print(f"Icons angefordert: {db['orders'][order_id]['requested']} (paid & totalavailable stehen auf null)")
+        print(f"Icons angefordert: {db['orders'][order_id]['requested']}")
 
 if __name__ == "__main__":
     main()
