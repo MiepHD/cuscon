@@ -83,6 +83,11 @@ tasks.register('generatedpis', Exec) {
     commandLine 'python3', './generatedpis.py'
 }
 
+tasks.register('createPosts', Exec) {
+    commandLine 'python3', './create_posts.py'
+    mustRunAfter 'clean'
+}
+
 // Erzwinge, dass die Build-Tasks erst NACH finishXMLs laufen
 ['assembleFossRelease', 'bundlePlayRelease', 'assemblePlayRelease'].each { taskName ->
     tasks.matching { it.name == taskName }.configureEach {
@@ -91,5 +96,5 @@ tasks.register('generatedpis', Exec) {
 }
 
 tasks.register('buildRelease') {
-    dependsOn 'clean', 'generatedpis', 'finishXMLs', 'assembleFossRelease', 'bundlePlayRelease'
+    dependsOn 'clean', 'generatedpis', 'finishXMLs', 'assembleFossRelease', 'bundlePlayRelease', 'createPosts'
 }
