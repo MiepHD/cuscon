@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="changelog_date">18.09.2026</string>
+    <string name="changelog_date">21.09.2026</string>
     <string-array name="changelog">
         <item>4.1.1.9:</item>
-        <item>Added Hik-Connect, Sanlam Maroc, Tenda WiFi</item>
+        <item>Added Hik-Connect, Sanlam Maroc, Tenda WiFi, Battery Monitor, Vakıf Katılım, Çizim, De1984, e-Devlet, F-Droid Temel, LibreFit, PocketPal, Streak</item>
         <item>4.1.1.8:</item>
         <item>Added Yono Lite SBI, Aadhaar, Air Arabia, Amazon Pay, Comic Geeks, HDFC Bank App, IndiGo, Instamart, Firefox Nightly, Hidroly, SelfPrivacy, ChemSearch, Litube, Power Clean, The Sun Origin Post-apocalypse action shooter</item>
         <item>Updated Digi Yatra, Ola, Aurora Store, CPU Info, FitoTrack, FUTO Keyboard, LibreTorrent, Syncthing-Fork, Tasks</item>

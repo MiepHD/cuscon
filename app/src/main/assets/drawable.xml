@@ -3,9 +3,18 @@
     <version>1</version>
     <category title="New Icons"/>
     <item drawable="_6f2490a1bf0dd92d01b0a01fbcf6d949"/>
+    <item drawable="battery_monitor" name="Battery Monitor"/>
+    <item drawable="de1984" name="De1984"/>
+    <item drawable="e_devlet" name="e-Devlet"/>
+    <item drawable="f_droid_basic" name="F-Droid Temel"/>
     <item drawable="hik_connect"/>
+    <item drawable="librefit" name="LibreFit"/>
+    <item drawable="pocketpal" name="PocketPal"/>
     <item drawable="sanlam_maroc"/>
+    <item drawable="streak" name="Streak"/>
     <item drawable="tenda_wifi"/>
+    <item drawable="_c4b6fc4b420920d6753c86c07b83c58a" name="Vakıf Katılım"/>
+    <item drawable="cizim" name="Çizim"/>
     <category title="Folders"/>
     <item drawable="folder_blue"/>
     <item drawable="folder_dark_blue"/>
@@ -1301,6 +1310,7 @@
     <item drawable="baseline"/>
     <item drawable="basit"/>
     <item drawable="batch_uninstaller"/>
+    <item drawable="battery_monitor" name="Battery Monitor"/>
     <item drawable="battery_guru"/>
     <item drawable="battery_level_indicators"/>
     <item drawable="battery_log"/>
@@ -1995,6 +2005,7 @@
     <item drawable="db_mobidig"/>
     <item drawable="dcoder"/>
     <item drawable="ddxof"/>
+    <item drawable="de1984" name="De1984"/>
     <item drawable="dead_cells"/>
     <item drawable="deadhash"/>
     <item drawable="dealerslife2"/>
@@ -2260,6 +2271,7 @@
     <item drawable="dynamic_wallpaper"/>
     <item drawable="dynamicspot"/>
     <category title="E"/>
+    <item drawable="e_devlet" name="e-Devlet"/>
     <item drawable="e_browser"/>
     <item drawable="e_camera"/>
     <item drawable="e_kartoteka"/>
@@ -3624,6 +3636,7 @@
     <item drawable="library"/>
     <item drawable="libre_camera"/>
     <item drawable="librefind"/>
+    <item drawable="librefit" name="LibreFit"/>
     <item drawable="librelink"/>
     <item drawable="libreoffice_viewer"/>
     <item drawable="librepass"/>
@@ -4989,6 +5002,7 @@
     <item drawable="pocket_sign"/>
     <item drawable="pocketbook"/>
     <item drawable="pocketmaps"/>
+    <item drawable="pocketpal" name="PocketPal"/>
     <item drawable="poco_store"/>
     <item drawable="pocus_app"/>
     <item drawable="podcast_addict"/>
@@ -5942,6 +5956,7 @@
     <item drawable="storyz"/>
     <item drawable="stradivarius"/>
     <item drawable="strava"/>
+    <item drawable="streak" name="Streak"/>
     <item drawable="stream"/>
     <item drawable="streamfab"/>
     <item drawable="streetcomplete"/>
@@ -6518,6 +6533,7 @@
     <item drawable="vaarkaart_nederland"/>
     <item drawable="vademecum_internacional"/>
     <item drawable="vakifbank"/>
+    <item drawable="_c4b6fc4b420920d6753c86c07b83c58a" name="Vakıf Katılım"/>
     <item drawable="valvoline"/>
     <item drawable="vanadium"/>
     <item drawable="vanced"/>
@@ -7090,4 +7106,6 @@
     <item drawable="zxc_laitooo_manga_online"/>
     <item drawable="zynga_poker_texas_holdem"/>
     <category title="Unsorted"/>
+    <category title="Ç"/>
+    <item drawable="cizim" name="Çizim"/>
 </resources>

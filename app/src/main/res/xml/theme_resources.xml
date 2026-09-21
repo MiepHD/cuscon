@@ -7203,4 +7203,13 @@
     <AppIcon name="com.connect.enduser/com.hikvision.hikconnect.login.LoadingActivity" image="hik_connect"/>
     <AppIcon name="ma.tnc.sahamassurance/ma.tnc.sahamassurance.MainActivity" image="sanlam_maroc"/>
     <AppIcon name="com.tenda.router.app/com.tenda.login.splash.FullscreenActivity" image="tenda_wifi"/>
+    <AppIcon name="com.streak.app/com.streak.app.MainActivityDefault" image="streak"/>
+    <AppIcon name="com.pocketpalai/com.pocketpal.MainActivity" image="pocketpal"/>
+    <AppIcon name="codes.swistak.batterymonitor/codes.swistak.batterymonitor.app.BatteryInfoActivity" image="battery_monitor"/>
+    <AppIcon name="tr.gov.turkiye.edevlet.kapisi/tr.gov.turkiye.edevlet.kapisi.ui.splash.SplashActivity" image="e_devlet"/>
+    <AppIcon name="io.github.dorumrr.de1984/io.github.dorumrr.de1984.ui.MainActivity" image="de1984"/>
+    <AppIcon name="org.librefit.app/org.librefit.activities.MainActivity" image="librefit"/>
+    <AppIcon name="com.vakifkatilim.mobil/boa.android.mobilebranch.v2.ui.splash.ACSplash" image="_c4b6fc4b420920d6753c86c07b83c58a"/>
+    <AppIcon name="org.fossify.paint/org.fossify.paint.activities.SplashActivity.Green" image="cizim"/>
+    <AppIcon name="org.fdroid.basic/org.fdroid.MainActivity" image="f_droid_basic"/>
 </Theme>

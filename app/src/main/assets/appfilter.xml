@@ -7317,4 +7317,13 @@
     <item component="ComponentInfo{com.connect.enduser/com.hikvision.hikconnect.login.LoadingActivity}" drawable="hik_connect" />
     <item component="ComponentInfo{ma.tnc.sahamassurance/ma.tnc.sahamassurance.MainActivity}" drawable="sanlam_maroc" />
     <item component="ComponentInfo{com.tenda.router.app/com.tenda.login.splash.FullscreenActivity}" drawable="tenda_wifi" />
+    <item component="ComponentInfo{com.streak.app/com.streak.app.MainActivityDefault}" drawable="streak" />
+    <item component="ComponentInfo{com.pocketpalai/com.pocketpal.MainActivity}" drawable="pocketpal" />
+    <item component="ComponentInfo{codes.swistak.batterymonitor/codes.swistak.batterymonitor.app.BatteryInfoActivity}" drawable="battery_monitor" />
+    <item component="ComponentInfo{tr.gov.turkiye.edevlet.kapisi/tr.gov.turkiye.edevlet.kapisi.ui.splash.SplashActivity}" drawable="e_devlet" />
+    <item component="ComponentInfo{io.github.dorumrr.de1984/io.github.dorumrr.de1984.ui.MainActivity}" drawable="de1984" />
+    <item component="ComponentInfo{org.librefit.app/org.librefit.activities.MainActivity}" drawable="librefit" />
+    <item component="ComponentInfo{com.vakifkatilim.mobil/boa.android.mobilebranch.v2.ui.splash.ACSplash}" drawable="_c4b6fc4b420920d6753c86c07b83c58a" />
+    <item component="ComponentInfo{org.fossify.paint/org.fossify.paint.activities.SplashActivity.Green}" drawable="cizim" />
+    <item component="ComponentInfo{org.fdroid.basic/org.fdroid.MainActivity}" drawable="f_droid_basic" />
 </resources>
