@@ -20,7 +20,9 @@ jobs:
 
       - name: Setup Android SDK
         uses: android-actions/setup-android@v3
-
+        with:
+          packages: platform-tools
+  
       - name: Install Comparison Tools
         run: |
           sudo apt-get update
