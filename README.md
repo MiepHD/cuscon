@@ -15,9 +15,15 @@ This icon pack brings variety and dynamism to your Home screen with over 5000 ic
 
 Or download the latest APK from the [Releases Section](https://github.com/MiepHD/cuscon/releases/latest).
 
-# Donate
+# Donation options
 
-https://www.buymeacoffee.com/yazazuyo
+- SEPA Bank Transfers
+  - Name: LIA KIELACK
+  - IBAN: DE05100110012822725429
+  - BIC: NTSBDEB1XX
+- https://www.buymeacoffee.com/yazazuyo
+- https://ko-fi.com/yazazuyo
+- Inside Google Play App
 
 # Images
 
