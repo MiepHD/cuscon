@@ -5,18 +5,31 @@
     <item drawable="_6f2490a1bf0dd92d01b0a01fbcf6d949"/>
     <item drawable="absorb" name="Absorb"/>
     <item drawable="battery_monitor" name="Battery Monitor"/>
+    <item drawable="c2k" name="C2K"/>
     <item drawable="circle_k" name="Circle K"/>
     <item drawable="de1984" name="De1984"/>
     <item drawable="e_devlet" name="e-Devlet"/>
     <item drawable="_7907a3c9b583f8c7e05819651a68e85d" name="e-Nabız"/>
     <item drawable="f_droid_basic" name="F-Droid Temel"/>
+    <item drawable="fennec" name="Fennec"/>
+    <item drawable="_83bf1ec848e2b04a8f6829ca0f022f05" name="Galeri Asistanı"/>
+    <item drawable="hausinventar" name="Hausinventar"/>
     <item drawable="hik_connect"/>
+    <item drawable="istanbulkart" name="İstanbulkart"/>
+    <item drawable="kuveyt_turk" name="Kuveyt Türk"/>
     <item drawable="librefit" name="LibreFit"/>
+    <item drawable="otakucix" name="OtakuciX"/>
+    <item drawable="paypal" name="PayPal"/>
     <item drawable="pocketpal" name="PocketPal"/>
     <item drawable="sanlam_maroc"/>
+    <item drawable="shop" name="Shop"/>
     <item drawable="streak" name="Streak"/>
     <item drawable="tenda_wifi"/>
+    <item drawable="tor_vpn" name="Tor VPN"/>
+    <item drawable="tradeplus" name="TradePlus"/>
+    <item drawable="turk_telekom" name="Türk Telekom"/>
     <item drawable="_c4b6fc4b420920d6753c86c07b83c58a" name="Vakıf Katılım"/>
+    <item drawable="_9a3d4d4b8f8adb36fc3f9857ad09d66b" name="Yapı Kredi Mobil"/>
     <item drawable="cizim" name="Çizim"/>
     <category title="Folders"/>
     <item drawable="folder_blue"/>
@@ -1566,6 +1579,7 @@
     <item drawable="byu"/>
     <category title="C"/>
     <item drawable="c24_bank"/>
+    <item drawable="c2k" name="C2K"/>
     <item drawable="c_and_a"/>
     <item drawable="c_and_p_aquaplants"/>
     <item drawable="c_geo"/>
@@ -2754,6 +2768,7 @@
     <item drawable="g_stomper_studio"/>
     <item drawable="gadgetbridge"/>
     <item drawable="galaxy_defense"/>
+    <item drawable="_83bf1ec848e2b04a8f6829ca0f022f05" name="Galeri Asistanı"/>
     <item drawable="galerie_dot"/>
     <item drawable="galerie" name="gallery"/>
     <item drawable="gallery"/>
@@ -3030,6 +3045,7 @@
     <item drawable="hash_checker"/>
     <item drawable="hash_droid"/>
     <item drawable="hastings_direct"/>
+    <item drawable="hausinventar" name="Hausinventar"/>
     <item drawable="hay_day"/>
     <item drawable="hd_streamz"/>
     <item drawable="hdfc_bank_app" name="HDFC Bank App"/>
@@ -3562,6 +3578,7 @@
     <item drawable="kurobaex"/>
     <item drawable="kustom_konsole"/>
     <item drawable="kutumb"/>
+    <item drawable="kuveyt_turk" name="Kuveyt Türk"/>
     <item drawable="kvaesitso"/>
     <item drawable="kvaesitso_nightly"/>
     <item drawable="kwai"/>
@@ -4706,6 +4723,7 @@
     <item drawable="osmos"/>
     <item drawable="oss_kartenetui"/>
     <item drawable="ostrom"/>
+    <item drawable="otakucix" name="OtakuciX"/>
     <item drawable="otg_guru"/>
     <item drawable="otter"/>
     <item drawable="otto"/>
@@ -6313,6 +6331,7 @@
     <item drawable="top_box_poland"/>
     <item drawable="tophy"/>
     <item drawable="topolino"/>
+    <item drawable="tor_vpn" name="Tor VPN"/>
     <item drawable="tor_browser"/>
     <item drawable="torch"/>
     <item drawable="torn"/>
@@ -6346,6 +6365,7 @@
     <item drawable="track_and_graph"/>
     <item drawable="track_replay"/>
     <item drawable="tracker"/>
+    <item drawable="tradeplus" name="TradePlus"/>
     <item drawable="traderepublic"/>
     <item drawable="trading_212"/>
     <item drawable="tradingview"/>
@@ -6424,6 +6444,7 @@
     <item drawable="twint"/>
     <item drawable="twitch"/>
     <item drawable="txt"/>
+    <item drawable="turk_telekom" name="Türk Telekom"/>
     <category title="U"/>
     <item drawable="ua_color_picker"/>
     <item drawable="uav_forecast"/>
@@ -7008,6 +7029,7 @@
     <item drawable="yacine_tv"/>
     <item drawable="yandex_start"/>
     <item drawable="yandexmaps"/>
+    <item drawable="_9a3d4d4b8f8adb36fc3f9857ad09d66b" name="Yapı Kredi Mobil"/>
     <item drawable="yas"/>
     <item drawable="yasan_launcher"/>
     <item drawable="yasnac"/>
@@ -7114,4 +7136,6 @@
     <category title="Unsorted"/>
     <category title="Ç"/>
     <item drawable="cizim" name="Çizim"/>
+    <category title="İ"/>
+    <item drawable="istanbulkart" name="İstanbulkart"/>
 </resources>

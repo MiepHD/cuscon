@@ -7215,4 +7215,17 @@
     <AppIcon name="com.circlek.gmap.na/com.circlek.gmap.SplashScreenActivity" image="circle_k"/>
     <AppIcon name="com.barnabas.absorb/com.barnabas.absorb.MainActivity" image="absorb"/>
     <AppIcon name="tr.gov.saglik.enabiz/tr.gov.saglik.enabiz.presentation.ui.main.MainActivity" image="_7907a3c9b583f8c7e05819651a68e85d"/>
+    <AppIcon name="com.ykb.android/com.ykb.mobilebanking.NonSecureActivityDefault" image="_9a3d4d4b8f8adb36fc3f9857ad09d66b"/>
+    <AppIcon name="com.hackerapps.c2k/com.hackerapps.c2k.ui.MainActivity" image="c2k"/>
+    <AppIcon name="com.samsung.android.gallery.assistant.app/com.samsung.android.gallery.assistant.app.activity.launcher.LauncherActivity" image="_83bf1ec848e2b04a8f6829ca0f022f05"/>
+    <AppIcon name="com.onmuappsllc.acxsocial/com.onmuappsllc.acxsocial.MainActivity" image="otakucix"/>
+    <AppIcon name="org.torproject.vpn/org.torproject.vpn.ui.iconsetting.model.LauncherDefault" image="tor_vpn"/>
+    <AppIcon name="com.kuveytturk.mobileinvestment/com.kuveytturk.mobileinvestment.activities.SplashActivity" image="tradeplus"/>
+    <AppIcon name="com.tmob.AveaOIM/moim.android.DefaultMoimApplicationAlias" image="turk_telekom"/>
+    <AppIcon name="org.mozilla.fennec_fdroid/org.mozilla.fennec_fdroid.AppRetro2004" image="fennec"/>
+    <AppIcon name="com.kuveytturk.mobil/boa.android.digitalbranch.arch.view.activity.launcher.LauncherActivity" image="kuveyt_turk"/>
+    <AppIcon name="com.belbim.istanbulkart/com.belbim.istanbulkart.MainActivity" image="istanbulkart"/>
+    <AppIcon name="com.shopify.arrive/com.shopify.shopnativeandroid.MainActivity" image="shop"/>
+    <AppIcon name="com.miquelcms.homeorganizer/com.miquelcms.homeorganizer.presentation.MainActivity" image="hausinventar"/>
+    <AppIcon name="com.paypal.android.p2pmobile/com.paypal.oslo.app.MainActivity" image="paypal"/>
 </Theme>

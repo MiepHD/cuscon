@@ -7329,4 +7329,17 @@
     <item component="ComponentInfo{com.circlek.gmap.na/com.circlek.gmap.SplashScreenActivity}" drawable="circle_k" />
     <item component="ComponentInfo{com.barnabas.absorb/com.barnabas.absorb.MainActivity}" drawable="absorb" />
     <item component="ComponentInfo{tr.gov.saglik.enabiz/tr.gov.saglik.enabiz.presentation.ui.main.MainActivity}" drawable="_7907a3c9b583f8c7e05819651a68e85d" />
+    <item component="ComponentInfo{com.ykb.android/com.ykb.mobilebanking.NonSecureActivityDefault}" drawable="_9a3d4d4b8f8adb36fc3f9857ad09d66b" />
+    <item component="ComponentInfo{com.hackerapps.c2k/com.hackerapps.c2k.ui.MainActivity}" drawable="c2k" />
+    <item component="ComponentInfo{com.samsung.android.gallery.assistant.app/com.samsung.android.gallery.assistant.app.activity.launcher.LauncherActivity}" drawable="_83bf1ec848e2b04a8f6829ca0f022f05" />
+    <item component="ComponentInfo{com.onmuappsllc.acxsocial/com.onmuappsllc.acxsocial.MainActivity}" drawable="otakucix" />
+    <item component="ComponentInfo{org.torproject.vpn/org.torproject.vpn.ui.iconsetting.model.LauncherDefault}" drawable="tor_vpn" />
+    <item component="ComponentInfo{com.kuveytturk.mobileinvestment/com.kuveytturk.mobileinvestment.activities.SplashActivity}" drawable="tradeplus" />
+    <item component="ComponentInfo{com.tmob.AveaOIM/moim.android.DefaultMoimApplicationAlias}" drawable="turk_telekom" />
+    <item component="ComponentInfo{org.mozilla.fennec_fdroid/org.mozilla.fennec_fdroid.AppRetro2004}" drawable="fennec" />
+    <item component="ComponentInfo{com.kuveytturk.mobil/boa.android.digitalbranch.arch.view.activity.launcher.LauncherActivity}" drawable="kuveyt_turk" />
+    <item component="ComponentInfo{com.belbim.istanbulkart/com.belbim.istanbulkart.MainActivity}" drawable="istanbulkart" />
+    <item component="ComponentInfo{com.shopify.arrive/com.shopify.shopnativeandroid.MainActivity}" drawable="shop" />
+    <item component="ComponentInfo{com.miquelcms.homeorganizer/com.miquelcms.homeorganizer.presentation.MainActivity}" drawable="hausinventar" />
+    <item component="ComponentInfo{com.paypal.android.p2pmobile/com.paypal.oslo.app.MainActivity}" drawable="paypal" />
 </resources>
