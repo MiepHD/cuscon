@@ -7212,4 +7212,7 @@
     <AppIcon name="com.vakifkatilim.mobil/boa.android.mobilebranch.v2.ui.splash.ACSplash" image="_c4b6fc4b420920d6753c86c07b83c58a"/>
     <AppIcon name="org.fossify.paint/org.fossify.paint.activities.SplashActivity.Green" image="cizim"/>
     <AppIcon name="org.fdroid.basic/org.fdroid.MainActivity" image="f_droid_basic"/>
+    <AppIcon name="com.circlek.gmap.na/com.circlek.gmap.SplashScreenActivity" image="circle_k"/>
+    <AppIcon name="com.barnabas.absorb/com.barnabas.absorb.MainActivity" image="absorb"/>
+    <AppIcon name="tr.gov.saglik.enabiz/tr.gov.saglik.enabiz.presentation.ui.main.MainActivity" image="_7907a3c9b583f8c7e05819651a68e85d"/>
 </Theme>

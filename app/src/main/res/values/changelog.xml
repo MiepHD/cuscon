@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="changelog_date">21.09.2026</string>
+    <string name="changelog_date">02.10.2026</string>
     <string-array name="changelog">
+        <item>4.1.2.1:</item>
+        <item>Added Absorb, Circle K, e-Nabız</item>
+
         <item>4.1.1.9:</item>
         <item>Added Hik-Connect, Sanlam Maroc, Tenda WiFi, Battery Monitor, Vakıf Katılım, Çizim, De1984, e-Devlet, F-Droid Temel, LibreFit, PocketPal, Streak</item>
         <item>4.1.1.8:</item>

@@ -3,9 +3,12 @@
     <version>1</version>
     <category title="New Icons"/>
     <item drawable="_6f2490a1bf0dd92d01b0a01fbcf6d949"/>
+    <item drawable="absorb" name="Absorb"/>
     <item drawable="battery_monitor" name="Battery Monitor"/>
+    <item drawable="circle_k" name="Circle K"/>
     <item drawable="de1984" name="De1984"/>
     <item drawable="e_devlet" name="e-Devlet"/>
+    <item drawable="_7907a3c9b583f8c7e05819651a68e85d" name="e-Nabız"/>
     <item drawable="f_droid_basic" name="F-Droid Temel"/>
     <item drawable="hik_connect"/>
     <item drawable="librefit" name="LibreFit"/>
@@ -852,6 +855,7 @@
     <item drawable="about_you"/>
     <item drawable="abp_for_samsung_internet"/>
     <item drawable="absher"/>
+    <item drawable="absorb" name="Absorb"/>
     <item drawable="acalendar"/>
     <item drawable="acalendar_"/>
     <item drawable="acaltasks"/>
@@ -1742,6 +1746,7 @@
     <item drawable="cinemax"/>
     <item drawable="cineplex"/>
     <item drawable="cingulo"/>
+    <item drawable="circle_k" name="Circle K"/>
     <item drawable="circledient_icon_pack"/>
     <item drawable="circo"/>
     <item drawable="circuit"/>
@@ -2272,6 +2277,7 @@
     <item drawable="dynamicspot"/>
     <category title="E"/>
     <item drawable="e_devlet" name="e-Devlet"/>
+    <item drawable="_7907a3c9b583f8c7e05819651a68e85d" name="e-Nabız"/>
     <item drawable="e_browser"/>
     <item drawable="e_camera"/>
     <item drawable="e_kartoteka"/>
