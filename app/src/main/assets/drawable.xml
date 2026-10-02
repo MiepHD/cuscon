@@ -2,35 +2,22 @@
 <resources>
     <version>1</version>
     <category title="New Icons"/>
-    <item drawable="_6f2490a1bf0dd92d01b0a01fbcf6d949"/>
     <item drawable="absorb" name="Absorb"/>
-    <item drawable="battery_monitor" name="Battery Monitor"/>
     <item drawable="c2k" name="C2K"/>
     <item drawable="circle_k" name="Circle K"/>
-    <item drawable="de1984" name="De1984"/>
-    <item drawable="e_devlet" name="e-Devlet"/>
     <item drawable="_7907a3c9b583f8c7e05819651a68e85d" name="e-Nabız"/>
-    <item drawable="f_droid_basic" name="F-Droid Temel"/>
     <item drawable="fennec" name="Fennec"/>
     <item drawable="_83bf1ec848e2b04a8f6829ca0f022f05" name="Galeri Asistanı"/>
     <item drawable="hausinventar" name="Hausinventar"/>
-    <item drawable="hik_connect"/>
     <item drawable="istanbulkart" name="İstanbulkart"/>
     <item drawable="kuveyt_turk" name="Kuveyt Türk"/>
-    <item drawable="librefit" name="LibreFit"/>
     <item drawable="otakucix" name="OtakuciX"/>
     <item drawable="paypal" name="PayPal"/>
-    <item drawable="pocketpal" name="PocketPal"/>
-    <item drawable="sanlam_maroc"/>
     <item drawable="shop" name="Shop"/>
-    <item drawable="streak" name="Streak"/>
-    <item drawable="tenda_wifi"/>
     <item drawable="tor_vpn" name="Tor VPN"/>
     <item drawable="tradeplus" name="TradePlus"/>
     <item drawable="turk_telekom" name="Türk Telekom"/>
-    <item drawable="_c4b6fc4b420920d6753c86c07b83c58a" name="Vakıf Katılım"/>
     <item drawable="_9a3d4d4b8f8adb36fc3f9857ad09d66b" name="Yapı Kredi Mobil"/>
-    <item drawable="cizim" name="Çizim"/>
     <category title="Folders"/>
     <item drawable="folder_blue"/>
     <item drawable="folder_dark_blue"/>
