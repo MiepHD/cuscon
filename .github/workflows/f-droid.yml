@@ -39,7 +39,7 @@ jobs:
       - name: Build Unsigned APK (F-Droid Style)
         run: |
           # F-Droid baut in der Regel den Release-Task ohne Signierung
-          ./gradlew assembleFossRelease --no-daemon
+          ./gradlew assembleFossRelease -PskipSigning=true --no-daemon
 
       - name: Compare Release APK and Self-Built APK
         run: |

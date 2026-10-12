@@ -21,18 +21,24 @@ android {
         density { enableSplit true }
     }
 
-    signingConfigs {
-        release {
-            storeFile file("upload-keystore.jks")
-            storePassword findProperty("PASSWORD")
-            keyAlias 'upload'
-            keyPassword findProperty("PASSWORD")
+    def skipSigning = project.hasProperty('skipSigning') && project.property('skipSigning').toString().toBoolean()
+
+    if (!skipSigning) {
+        signingConfigs {
+            release {
+                storeFile file("upload-keystore.jks")
+                storePassword findProperty("PASSWORD")
+                keyAlias 'upload'
+                keyPassword findProperty("PASSWORD")
+            }
         }
     }
 
     buildTypes {
         release {
-            signingConfig signingConfigs.release
+            if (!skipSigning) {
+                signingConfig signingConfigs.release
+            }
             debuggable false
             minifyEnabled true
             proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
