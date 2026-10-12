@@ -2,22 +2,18 @@
 <resources>
     <version>1</version>
     <category title="New Icons"/>
-    <item drawable="absorb" name="Absorb"/>
-    <item drawable="c2k" name="C2K"/>
-    <item drawable="circle_k" name="Circle K"/>
-    <item drawable="_7907a3c9b583f8c7e05819651a68e85d" name="e-Nabız"/>
-    <item drawable="fennec" name="Fennec"/>
-    <item drawable="_83bf1ec848e2b04a8f6829ca0f022f05" name="Galeri Asistanı"/>
-    <item drawable="hausinventar" name="Hausinventar"/>
-    <item drawable="istanbulkart" name="İstanbulkart"/>
-    <item drawable="kuveyt_turk" name="Kuveyt Türk"/>
-    <item drawable="otakucix" name="OtakuciX"/>
-    <item drawable="paypal" name="PayPal"/>
-    <item drawable="shop" name="Shop"/>
-    <item drawable="tor_vpn" name="Tor VPN"/>
-    <item drawable="tradeplus" name="TradePlus"/>
-    <item drawable="turk_telekom" name="Türk Telekom"/>
-    <item drawable="_9a3d4d4b8f8adb36fc3f9857ad09d66b" name="Yapı Kredi Mobil"/>
+    <item drawable="eneba" name="Eneba"/>
+    <item drawable="f_droid_basic" name="F-Droid Basic"/>
+    <item drawable="orion_store" name="Orion Store"/>
+    <item drawable="petco" name="Petco"/>
+    <item drawable="qfield" name="QField"/>
+    <item drawable="raiseright" name="RaiseRight"/>
+    <item drawable="s_miles_home" name="S-Miles Home"/>
+    <item drawable="schrittzahler" name="Schrittzähler"/>
+    <item drawable="syncthing_fork" name="Syncthing-Fork"/>
+    <item drawable="vergiftungsunfalle_bei_kindern" name="Vergiftungsunfälle bei Kindern"/>
+    <item drawable="waiputv" name="waipu.tv"/>
+    <item drawable="wmedia2" name="WMedia2"/>
     <category title="Folders"/>
     <item drawable="folder_blue"/>
     <item drawable="folder_dark_blue"/>
@@ -2371,6 +2367,7 @@
     <item drawable="endless_sky"/>
     <item drawable="endlos_quiz"/>
     <item drawable="endurvinnslan"/>
+    <item drawable="eneba" name="Eneba"/>
     <item drawable="energia"/>
     <item drawable="energize"/>
     <item drawable="energy_bar"/>
@@ -4693,6 +4690,7 @@
     <item drawable="orhtodoxcalendarmacedonia"/>
     <item drawable="origin"/>
     <item drawable="origins"/>
+    <item drawable="orion_store" name="Orion Store"/>
     <item drawable="orion_browser"/>
     <item drawable="orionstars"/>
     <item drawable="ortus_square"/>
@@ -4854,6 +4852,7 @@
     <item drawable="pesan"/>
     <item drawable="pesapap"/>
     <item drawable="petal_search"/>
+    <item drawable="petco" name="Petco"/>
     <item drawable="pets_at_home"/>
     <item drawable="pexels"/>
     <item drawable="pflege"/>
@@ -5171,6 +5170,7 @@
     <item drawable="qauxiliary"/>
     <item drawable="qbitcontroller"/>
     <item drawable="qerko"/>
+    <item drawable="qfield" name="QField"/>
     <item drawable="qidz"/>
     <item drawable="qiwi"/>
     <item drawable="qksms"/>
@@ -5250,6 +5250,7 @@
     <item drawable="rainbow_kwgt"/>
     <item drawable="raindrop"/>
     <item drawable="rainviewer"/>
+    <item drawable="raiseright" name="RaiseRight"/>
     <item drawable="raisin"/>
     <item drawable="raising_canes"/>
     <item drawable="rakuten_tv"/>
@@ -5515,6 +5516,7 @@
     <item drawable="schildichat"/>
     <item drawable="schildinext"/>
     <item drawable="schneidewerk"/>
+    <item drawable="schrittzahler" name="Schrittzähler"/>
     <item drawable="schueler_portal"/>
     <item drawable="schwab"/>
     <item drawable="scopa_piu"/>
@@ -6578,6 +6580,7 @@
     <item drawable="ventra"/>
     <item drawable="ventusky"/>
     <item drawable="venus_kwgt"/>
+    <item drawable="vergiftungsunfalle_bei_kindern" name="Vergiftungsunfälle bei Kindern"/>
     <item drawable="verimi"/>
     <item drawable="vernet"/>
     <item drawable="verschlusselung"/>
@@ -6931,6 +6934,7 @@
     <item drawable="wizz_air"/>
     <item drawable="wlanscanner"/>
     <item drawable="wlanscanner_by_latetech"/>
+    <item drawable="wmedia2" name="WMedia2"/>
     <item drawable="wobbly_life"/>
     <item drawable="wochenplaner"/>
     <item drawable="wodbuster"/>

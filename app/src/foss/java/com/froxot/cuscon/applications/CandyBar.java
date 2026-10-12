@@ -49,7 +49,13 @@ public class CandyBar extends CandyBarApplication {
                     "ko_fi",
                     "Ko-fi",
                     "Send me tips on on Ko-fi",
-                    "https://ko-fi.com/yazazuyo")
+                    "https://ko-fi.com/yazazuyo"),
+            new DonationLink(
+                "sepa",
+                "SEPA Bank Transfers",
+                "LIA KIELACK DE05100110012822725429 NTSBDEB1XX",
+                "#"
+            )
         });
 
         return configuration;

@@ -7342,4 +7342,16 @@
     <item component="ComponentInfo{com.shopify.arrive/com.shopify.shopnativeandroid.MainActivity}" drawable="shop" />
     <item component="ComponentInfo{com.miquelcms.homeorganizer/com.miquelcms.homeorganizer.presentation.MainActivity}" drawable="hausinventar" />
     <item component="ComponentInfo{com.paypal.android.p2pmobile/com.paypal.oslo.app.MainActivity}" drawable="paypal" />
+    <item component="ComponentInfo{com.orion.store/com.orion.store.MainActivity}" drawable="orion_store" />
+    <item component="ComponentInfo{com.eneba.app/com.enebaapp.MainActivity}" drawable="eneba" />
+    <item component="ComponentInfo{com.petco.mobile/com.petco.mobile.DefaultLaunchIcon}" drawable="petco" />
+    <item component="ComponentInfo{com.shopwithscrip.app/com.shopwithscrip.app.MainActivity}" drawable="raiseright" />
+    <item component="ComponentInfo{org.secuso.privacyfriendlyactivitytracker/org.secuso.privacyfriendlyactivitytracker.activities.SplashActivity}" drawable="schrittzahler" />
+    <item component="ComponentInfo{com.wirelessmedia.wmedia2/com.wirelessmedia.wmedia2.SearchActivity}" drawable="wmedia2" />
+    <item component="ComponentInfo{com.bfr/com.exozet.bfr.MainActivity}" drawable="vergiftungsunfalle_bei_kindern" />
+    <item component="ComponentInfo{de.exaring.waipu/de.exaring.waipu.ui.main.MainActivity}" drawable="waiputv" />
+    <item component="ComponentInfo{com.github.catfriend1.syncthingandroid/com.nutomic.syncthingandroid.onboarding.OnboardingActivity}" drawable="syncthing_fork" />
+    <item component="ComponentInfo{com.hm.balcony/com.balcony.host.ui.SplashActivity}" drawable="s_miles_home" />
+    <item component="ComponentInfo{org.fdroid.basic/org.fdroid.IconActivity}" drawable="f_droid_basic" />
+    <item component="ComponentInfo{ch.opengis.qfield/ch.opengis.qfield.QFieldActivity}" drawable="qfield" />
 </resources>

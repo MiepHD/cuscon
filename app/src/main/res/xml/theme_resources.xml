@@ -7228,4 +7228,16 @@
     <AppIcon name="com.shopify.arrive/com.shopify.shopnativeandroid.MainActivity" image="shop"/>
     <AppIcon name="com.miquelcms.homeorganizer/com.miquelcms.homeorganizer.presentation.MainActivity" image="hausinventar"/>
     <AppIcon name="com.paypal.android.p2pmobile/com.paypal.oslo.app.MainActivity" image="paypal"/>
+    <AppIcon name="com.orion.store/com.orion.store.MainActivity" image="orion_store"/>
+    <AppIcon name="com.eneba.app/com.enebaapp.MainActivity" image="eneba"/>
+    <AppIcon name="com.petco.mobile/com.petco.mobile.DefaultLaunchIcon" image="petco"/>
+    <AppIcon name="com.shopwithscrip.app/com.shopwithscrip.app.MainActivity" image="raiseright"/>
+    <AppIcon name="org.secuso.privacyfriendlyactivitytracker/org.secuso.privacyfriendlyactivitytracker.activities.SplashActivity" image="schrittzahler"/>
+    <AppIcon name="com.wirelessmedia.wmedia2/com.wirelessmedia.wmedia2.SearchActivity" image="wmedia2"/>
+    <AppIcon name="com.bfr/com.exozet.bfr.MainActivity" image="vergiftungsunfalle_bei_kindern"/>
+    <AppIcon name="de.exaring.waipu/de.exaring.waipu.ui.main.MainActivity" image="waiputv"/>
+    <AppIcon name="com.github.catfriend1.syncthingandroid/com.nutomic.syncthingandroid.onboarding.OnboardingActivity" image="syncthing_fork"/>
+    <AppIcon name="com.hm.balcony/com.balcony.host.ui.SplashActivity" image="s_miles_home"/>
+    <AppIcon name="org.fdroid.basic/org.fdroid.IconActivity" image="f_droid_basic"/>
+    <AppIcon name="ch.opengis.qfield/ch.opengis.qfield.QFieldActivity" image="qfield"/>
 </Theme>
