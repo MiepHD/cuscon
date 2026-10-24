@@ -7360,4 +7360,7 @@
     <item component="ComponentInfo{com.idunnololz.summit.fdroid/com.idunnololz.summit.main.MainActivity}" drawable="summit" />
     <item component="ComponentInfo{hmzinnovation.bionictape/hmzinnovation.bionicwalkman.MainActivity}" drawable="bionic_tape" />
     <item component="ComponentInfo{com.reachVoteTech/com.reachVoteTech.MainActivity}" drawable="reach" />
+    <item component="ComponentInfo{com.enreach.umca.swyx/com.enreach.umc.swyx.activity.SwyxSplashActivity}" drawable="swyx_mobile" />
+    <item component="ComponentInfo{eu.darken.apl/eu.darken.apl.main.ui.MainActivity}" drawable="airplaneslive" />
+    <item component="ComponentInfo{com.music.bitchord/com.music.bitchord.MainActivity}" drawable="bitchord" />
 </resources>

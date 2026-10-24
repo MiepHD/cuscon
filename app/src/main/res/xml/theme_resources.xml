@@ -7246,4 +7246,7 @@
     <AppIcon name="com.idunnololz.summit.fdroid/com.idunnololz.summit.main.MainActivity" image="summit"/>
     <AppIcon name="hmzinnovation.bionictape/hmzinnovation.bionicwalkman.MainActivity" image="bionic_tape"/>
     <AppIcon name="com.reachVoteTech/com.reachVoteTech.MainActivity" image="reach"/>
+    <AppIcon name="com.enreach.umca.swyx/com.enreach.umc.swyx.activity.SwyxSplashActivity" image="swyx_mobile"/>
+    <AppIcon name="eu.darken.apl/eu.darken.apl.main.ui.MainActivity" image="airplaneslive"/>
+    <AppIcon name="com.music.bitchord/com.music.bitchord.MainActivity" image="bitchord"/>
 </Theme>

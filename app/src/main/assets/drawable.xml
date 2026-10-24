@@ -2,12 +2,15 @@
 <resources>
     <version>1</version>
     <category title="New Icons"/>
+    <item drawable="airplaneslive" name="airplanes.live"/>
     <item drawable="bionic_tape" name="Bionic Tape"/>
+    <item drawable="bitchord" name="BitChord"/>
     <item drawable="lemon" name="Lemon"/>
     <item drawable="nighthawk" name="Nighthawk"/>
     <item drawable="reach" name="Reach"/>
     <item drawable="searxist" name="searxist"/>
     <item drawable="summit" name="Summit"/>
+    <item drawable="swyx_mobile" name="Swyx Mobile"/>
     <category title="Folders"/>
     <item drawable="folder_blue"/>
     <item drawable="folder_dark_blue"/>
@@ -928,6 +931,7 @@
     <item drawable="airmirror"/>
     <item drawable="airmirror_receiver"/>
     <item drawable="airnow"/>
+    <item drawable="airplaneslive" name="airplanes.live"/>
     <item drawable="airreceiver"/>
     <item drawable="airship_knights"/>
     <item drawable="airtask"/>
@@ -1381,6 +1385,7 @@
     <item drawable="bio_company"/>
     <item drawable="bionic_tape" name="Bionic Tape"/>
     <item drawable="birday"/>
+    <item drawable="bitchord" name="BitChord"/>
     <item drawable="bitcoin"/>
     <item drawable="bitcoin_cash_register"/>
     <item drawable="bitcoin_testnet3"/>
@@ -6052,6 +6057,7 @@
     <item drawable="swlapp"/>
     <item drawable="swordmaster_story"/>
     <item drawable="swu_app"/>
+    <item drawable="swyx_mobile" name="Swyx Mobile"/>
     <item drawable="sygic"/>
     <item drawable="symbolab"/>
     <item drawable="symfonium"/>
