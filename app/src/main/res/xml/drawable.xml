@@ -2,18 +2,12 @@
 <resources>
     <version>1</version>
     <category title="New Icons"/>
-    <item drawable="eneba" name="Eneba"/>
-    <item drawable="f_droid_basic" name="F-Droid Basic"/>
-    <item drawable="orion_store" name="Orion Store"/>
-    <item drawable="petco" name="Petco"/>
-    <item drawable="qfield" name="QField"/>
-    <item drawable="raiseright" name="RaiseRight"/>
-    <item drawable="s_miles_home" name="S-Miles Home"/>
-    <item drawable="schrittzahler" name="Schrittzähler"/>
-    <item drawable="syncthing_fork" name="Syncthing-Fork"/>
-    <item drawable="vergiftungsunfalle_bei_kindern" name="Vergiftungsunfälle bei Kindern"/>
-    <item drawable="waiputv" name="waipu.tv"/>
-    <item drawable="wmedia2" name="WMedia2"/>
+    <item drawable="bionic_tape" name="Bionic Tape"/>
+    <item drawable="lemon" name="Lemon"/>
+    <item drawable="nighthawk" name="Nighthawk"/>
+    <item drawable="reach" name="Reach"/>
+    <item drawable="searxist" name="searxist"/>
+    <item drawable="summit" name="Summit"/>
     <category title="Folders"/>
     <item drawable="folder_blue"/>
     <item drawable="folder_dark_blue"/>
@@ -1385,6 +1379,7 @@
     <item drawable="bined"/>
     <item drawable="bing"/>
     <item drawable="bio_company"/>
+    <item drawable="bionic_tape" name="Bionic Tape"/>
     <item drawable="birday"/>
     <item drawable="bitcoin"/>
     <item drawable="bitcoin_cash_register"/>
@@ -3616,6 +3611,7 @@
     <item drawable="lemmings"/>
     <item drawable="lemmur"/>
     <item drawable="lemmy_redirect"/>
+    <item drawable="lemon" name="Lemon"/>
     <item drawable="lemur_browser"/>
     <item drawable="lemuroid"/>
     <item drawable="lena_adaptive"/>
@@ -4433,6 +4429,7 @@
     <item drawable="night_of_the_full_moon"/>
     <item drawable="night_owl"/>
     <item drawable="night_screen"/>
+    <item drawable="nighthawk" name="Nighthawk"/>
     <item drawable="nightwave_plaza"/>
     <item drawable="niimbot"/>
     <item drawable="nike"/>
@@ -5269,6 +5266,7 @@
     <item drawable="re_entsorgt" name="RE-entsorgt"/>
     <item drawable="re_equalizer"/>
     <item drawable="re_link"/>
+    <item drawable="reach" name="Reach"/>
     <item drawable="react"/>
     <item drawable="read"/>
     <item drawable="read_you"/>
@@ -5544,6 +5542,7 @@
     <item drawable="sea_battle"/>
     <item drawable="seal"/>
     <item drawable="search"/>
+    <item drawable="searxist" name="searxist"/>
     <item drawable="secret_cat_forest"/>
     <item drawable="secscanqr"/>
     <item drawable="sectograph"/>
@@ -5993,6 +5992,7 @@
     <item drawable="sudoku_master"/>
     <item drawable="sueddeutsche_zeitung"/>
     <item drawable="summertimesaga"/>
+    <item drawable="summit" name="Summit"/>
     <item drawable="summoning_pixel_dungeon"/>
     <item drawable="sun_and_sand_sports"/>
     <item drawable="sun_locator"/>

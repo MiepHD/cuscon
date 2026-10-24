@@ -7240,4 +7240,10 @@
     <AppIcon name="com.hm.balcony/com.balcony.host.ui.SplashActivity" image="s_miles_home"/>
     <AppIcon name="org.fdroid.basic/org.fdroid.IconActivity" image="f_droid_basic"/>
     <AppIcon name="ch.opengis.qfield/ch.opengis.qfield.QFieldActivity" image="qfield"/>
+    <AppIcon name="dev.lemon.lemon_emulator/dev.lemon.lemon_emu.ui.main.MainActivity" image="lemon"/>
+    <AppIcon name="xyz.linerly.searxist/xyz.linerly.searxist.MainActivity" image="searxist"/>
+    <AppIcon name="com.netgear.netgearup/com.netgear.netgearup.LauncherActivity" image="nighthawk"/>
+    <AppIcon name="com.idunnololz.summit.fdroid/com.idunnololz.summit.main.MainActivity" image="summit"/>
+    <AppIcon name="hmzinnovation.bionictape/hmzinnovation.bionicwalkman.MainActivity" image="bionic_tape"/>
+    <AppIcon name="com.reachVoteTech/com.reachVoteTech.MainActivity" image="reach"/>
 </Theme>

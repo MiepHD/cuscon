@@ -7354,4 +7354,10 @@
     <item component="ComponentInfo{com.hm.balcony/com.balcony.host.ui.SplashActivity}" drawable="s_miles_home" />
     <item component="ComponentInfo{org.fdroid.basic/org.fdroid.IconActivity}" drawable="f_droid_basic" />
     <item component="ComponentInfo{ch.opengis.qfield/ch.opengis.qfield.QFieldActivity}" drawable="qfield" />
+    <item component="ComponentInfo{dev.lemon.lemon_emulator/dev.lemon.lemon_emu.ui.main.MainActivity}" drawable="lemon" />
+    <item component="ComponentInfo{xyz.linerly.searxist/xyz.linerly.searxist.MainActivity}" drawable="searxist" />
+    <item component="ComponentInfo{com.netgear.netgearup/com.netgear.netgearup.LauncherActivity}" drawable="nighthawk" />
+    <item component="ComponentInfo{com.idunnololz.summit.fdroid/com.idunnololz.summit.main.MainActivity}" drawable="summit" />
+    <item component="ComponentInfo{hmzinnovation.bionictape/hmzinnovation.bionicwalkman.MainActivity}" drawable="bionic_tape" />
+    <item component="ComponentInfo{com.reachVoteTech/com.reachVoteTech.MainActivity}" drawable="reach" />
 </resources>
