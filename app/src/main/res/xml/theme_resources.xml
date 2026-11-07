@@ -7249,4 +7249,22 @@
     <AppIcon name="com.enreach.umca.swyx/com.enreach.umc.swyx.activity.SwyxSplashActivity" image="swyx_mobile"/>
     <AppIcon name="eu.darken.apl/eu.darken.apl.main.ui.MainActivity" image="airplaneslive"/>
     <AppIcon name="com.music.bitchord/com.music.bitchord.MainActivity" image="bitchord"/>
+    <AppIcon name="com.seekquel.app/com.seekquel.app.LauncherCream" image="seekquel"/>
+    <AppIcon name="com.littlecaesars/com.littlecaesars.startup.StartUpActivity" image="little_caesars"/>
+    <AppIcon name="com.google.android.apps.tips/com.google.android.apps.tips.fortnite.p8a" image="my_pixel"/>
+    <AppIcon name="com.apple.android.music/com.apple.android.music.common.MainActivity" image="apple_music_2hm9j2"/>
+    <AppIcon name="com.penly.penly/com.penly.penly.CoreActivity" image="penly"/>
+    <AppIcon name="com.zarz.mornye/com.zarz.mornye.MainActivity" image="mornye"/>
+    <AppIcon name="com.underdogsports.fantasy/com.underdogsports.fantasy.MainActivity" image="underdog"/>
+    <AppIcon name="pt.nos.selfcare/pt.nos.selfcare.MainActivity" image="my_nos"/>
+    <AppIcon name="app.bookorbit.reader/app.bookorbit.reader.launcher.GildedNight" image="bookorbit_xyruzw"/>
+    <AppIcon name="com.yeedi.app/com.yeedi.app.main.activity.EcoLauncherActivity" image="yeedi"/>
+    <AppIcon name="com.nothing.ntessentialspace/com.nothing.ntessentialspace.MainActivity" image="essential_space"/>
+    <AppIcon name="com.nothing.essentialapps/com.nothing.essentialapps.MainActivity" image="essential_apps"/>
+    <AppIcon name="org.qownnotes.mobile/org.qownnotes.mobile.MainActivity" image="qownnotes"/>
+    <AppIcon name="dev.otherworld.shoppinglist/dev.otherworld.shoppinglist.MainActivity" image="shopping_list_for_nextcloud"/>
+    <AppIcon name="com.mytolino.app/com.musketeer.host.MainActivity" image="tolino"/>
+    <AppIcon name="de.apptelligence.sportschau.android/com.sportschaunext.SplashActivity" image="sportschau"/>
+    <AppIcon name="com.megamaced.nccollectives/com.megamaced.nccollectives.MainActivity" image="nc_collectives"/>
+    <AppIcon name="com.luminaapps.cairn/com.luminaapps.cairn.MainActivity" image="cairn"/>
 </Theme>

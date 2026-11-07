@@ -7363,4 +7363,22 @@
     <item component="ComponentInfo{com.enreach.umca.swyx/com.enreach.umc.swyx.activity.SwyxSplashActivity}" drawable="swyx_mobile" />
     <item component="ComponentInfo{eu.darken.apl/eu.darken.apl.main.ui.MainActivity}" drawable="airplaneslive" />
     <item component="ComponentInfo{com.music.bitchord/com.music.bitchord.MainActivity}" drawable="bitchord" />
+    <item component="ComponentInfo{com.seekquel.app/com.seekquel.app.LauncherCream}" drawable="seekquel" />
+    <item component="ComponentInfo{com.littlecaesars/com.littlecaesars.startup.StartUpActivity}" drawable="little_caesars" />
+    <item component="ComponentInfo{com.google.android.apps.tips/com.google.android.apps.tips.fortnite.p8a}" drawable="my_pixel" />
+    <item component="ComponentInfo{com.apple.android.music/com.apple.android.music.common.MainActivity}" drawable="apple_music_2hm9j2" />
+    <item component="ComponentInfo{com.penly.penly/com.penly.penly.CoreActivity}" drawable="penly" />
+    <item component="ComponentInfo{com.zarz.mornye/com.zarz.mornye.MainActivity}" drawable="mornye" />
+    <item component="ComponentInfo{com.underdogsports.fantasy/com.underdogsports.fantasy.MainActivity}" drawable="underdog" />
+    <item component="ComponentInfo{pt.nos.selfcare/pt.nos.selfcare.MainActivity}" drawable="my_nos" />
+    <item component="ComponentInfo{app.bookorbit.reader/app.bookorbit.reader.launcher.GildedNight}" drawable="bookorbit_xyruzw" />
+    <item component="ComponentInfo{com.yeedi.app/com.yeedi.app.main.activity.EcoLauncherActivity}" drawable="yeedi" />
+    <item component="ComponentInfo{com.nothing.ntessentialspace/com.nothing.ntessentialspace.MainActivity}" drawable="essential_space" />
+    <item component="ComponentInfo{com.nothing.essentialapps/com.nothing.essentialapps.MainActivity}" drawable="essential_apps" />
+    <item component="ComponentInfo{org.qownnotes.mobile/org.qownnotes.mobile.MainActivity}" drawable="qownnotes" />
+    <item component="ComponentInfo{dev.otherworld.shoppinglist/dev.otherworld.shoppinglist.MainActivity}" drawable="shopping_list_for_nextcloud" />
+    <item component="ComponentInfo{com.mytolino.app/com.musketeer.host.MainActivity}" drawable="tolino" />
+    <item component="ComponentInfo{de.apptelligence.sportschau.android/com.sportschaunext.SplashActivity}" drawable="sportschau" />
+    <item component="ComponentInfo{com.megamaced.nccollectives/com.megamaced.nccollectives.MainActivity}" drawable="nc_collectives" />
+    <item component="ComponentInfo{com.luminaapps.cairn/com.luminaapps.cairn.MainActivity}" drawable="cairn" />
 </resources>

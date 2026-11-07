@@ -2,15 +2,25 @@
 <resources>
     <version>1</version>
     <category title="New Icons"/>
-    <item drawable="airplaneslive" name="airplanes.live"/>
-    <item drawable="bionic_tape" name="Bionic Tape"/>
-    <item drawable="bitchord" name="BitChord"/>
-    <item drawable="lemon" name="Lemon"/>
-    <item drawable="nighthawk" name="Nighthawk"/>
-    <item drawable="reach" name="Reach"/>
-    <item drawable="searxist" name="searxist"/>
-    <item drawable="summit" name="Summit"/>
-    <item drawable="swyx_mobile" name="Swyx Mobile"/>
+    <item drawable="apple_music_2hm9j2" name="Apple Music"/>
+    <item drawable="bionic_tape"/>
+    <item drawable="bookorbit_xyruzw" name="BookOrbit"/>
+    <item drawable="cairn" name="Cairn"/>
+    <item drawable="essential_apps" name="Essential Apps"/>
+    <item drawable="essential_space" name="Essential Space"/>
+    <item drawable="little_caesars" name="Little Caesars"/>
+    <item drawable="mornye" name="Mornye"/>
+    <item drawable="my_nos" name="my NOS"/>
+    <item drawable="my_pixel" name="My Pixel"/>
+    <item drawable="nc_collectives" name="NC Collectives"/>
+    <item drawable="penly" name="Penly"/>
+    <item drawable="qownnotes" name="QOwnNotes"/>
+    <item drawable="seekquel" name="Seekquel"/>
+    <item drawable="shopping_list_for_nextcloud" name="Shopping List for Nextcloud"/>
+    <item drawable="sportschau" name="Sportschau"/>
+    <item drawable="tolino" name="tolino"/>
+    <item drawable="underdog" name="Underdog"/>
+    <item drawable="yeedi" name="yeedi"/>
     <category title="Folders"/>
     <item drawable="folder_blue"/>
     <item drawable="folder_dark_blue"/>
@@ -1088,6 +1098,7 @@
     <item drawable="appdrop"/>
     <item drawable="appgallery"/>
     <item drawable="appinio"/>
+    <item drawable="apple_music_2hm9j2" name="Apple Music"/>
     <item drawable="apple_music"/>
     <item drawable="apple_tv"/>
     <item drawable="applock"/>
@@ -1472,6 +1483,7 @@
     <item drawable="bookingcom"/>
     <item drawable="bookmarks"/>
     <item drawable="bookmyshow"/>
+    <item drawable="bookorbit_xyruzw" name="BookOrbit"/>
     <item drawable="bookorbit"/>
     <item drawable="bookshelf"/>
     <item drawable="booksy"/>
@@ -1576,6 +1588,7 @@
     <item drawable="caffe_nero"/>
     <item drawable="caffeinate"/>
     <item drawable="caffeine"/>
+    <item drawable="cairn" name="Cairn"/>
     <item drawable="caixabanknow"/>
     <item drawable="cake"/>
     <item drawable="calces"/>
@@ -2410,6 +2423,8 @@
     <item drawable="espees_wallet"/>
     <item drawable="ess_41_reflexis_one"/>
     <item drawable="ess_42_reflexis_one"/>
+    <item drawable="essential_apps" name="Essential Apps"/>
+    <item drawable="essential_space" name="Essential Space"/>
     <item drawable="essentials4"/>
     <item drawable="estsoft_picnic"/>
     <item drawable="esupnfctagdroid"/>
@@ -3707,6 +3722,7 @@
     <item drawable="lite"/>
     <item drawable="lithium"/>
     <item drawable="litiaotiao"/>
+    <item drawable="little_caesars" name="Little Caesars"/>
     <item drawable="little_alchemy"/>
     <item drawable="little_music_player"/>
     <item drawable="little_nightmares"/>
@@ -4130,6 +4146,7 @@
     <item drawable="mopria_print"/>
     <item drawable="mopria_scan"/>
     <item drawable="moqo"/>
+    <item drawable="mornye" name="Mornye"/>
     <item drawable="moroway"/>
     <item drawable="morph_reader"/>
     <item drawable="morphe"/>
@@ -4219,6 +4236,7 @@
     <item drawable="muzia"/>
     <item drawable="mx_player"/>
     <item drawable="asmaky" name="my fish"/>
+    <item drawable="my_nos" name="my NOS"/>
     <item drawable="anghami" name="my tunes"/>
     <item drawable="my_boy_"/>
     <item drawable="my_brain"/>
@@ -4337,6 +4355,7 @@
     <item drawable="naver_blog"/>
     <item drawable="naver_cafe"/>
     <item drawable="naver_dictionary"/>
+    <item drawable="nc_collectives" name="NC Collectives"/>
     <item drawable="ncalclibre"/>
     <item drawable="ncalendar" name="NCalendar"/>
     <item drawable="ncert_book"/>
@@ -4832,6 +4851,7 @@
     <item drawable="pemindai_cerdas"/>
     <item drawable="pemutar_visha"/>
     <item drawable="pen_tool_svg"/>
+    <item drawable="penly" name="Penly"/>
     <item drawable="penny"/>
     <item drawable="pentastic"/>
     <item drawable="penup"/>
@@ -5179,6 +5199,7 @@
     <item drawable="qmanager"/>
     <item drawable="qobuz"/>
     <item drawable="qooapp"/>
+    <item drawable="qownnotes" name="QOwnNotes"/>
     <item drawable="qq"/>
     <item drawable="qr_and_barcode_scanner"/>
     <item drawable="qr_and_barcode_scanner_generator"/>
@@ -5560,6 +5581,7 @@
     <item drawable="seedship"/>
     <item drawable="seek"/>
     <item drawable="seeker"/>
+    <item drawable="seekquel" name="Seekquel"/>
     <item drawable="seeneva"/>
     <item drawable="seez"/>
     <item drawable="sefaria"/>
@@ -5645,6 +5667,7 @@
     <item drawable="shopee_lite"/>
     <item drawable="shopex_sharaf"/>
     <item drawable="shopper" name="Shopper"/>
+    <item drawable="shopping_list_for_nextcloud" name="Shopping List for Nextcloud"/>
     <item drawable="shortcut_maker"/>
     <item drawable="shortcut_manager"/>
     <item drawable="shortcuts_widget"/>
@@ -5897,6 +5920,7 @@
     <item drawable="sponge"/>
     <item drawable="spontacts"/>
     <item drawable="sporter"/>
+    <item drawable="sportschau" name="Sportschau"/>
     <item drawable="spotiflyer"/>
     <item drawable="spotify"/>
     <item drawable="spotiq_ten"/>
@@ -6307,6 +6331,7 @@
     <item drawable="tokei"/>
     <item drawable="toko_mas_hidup"/>
     <item drawable="tokopedia"/>
+    <item drawable="tolino" name="tolino"/>
     <item drawable="toloka"/>
     <item drawable="toluna"/>
     <item drawable="tomato"/>
@@ -6469,6 +6494,7 @@
     <item drawable="umr" name="UMR"/>
     <item drawable="umweltbanking"/>
     <item drawable="unciv"/>
+    <item drawable="underdog" name="Underdog"/>
     <item drawable="underwatermelon"/>
     <item drawable="unet"/>
     <item drawable="unexpected_keyboard"/>
@@ -7032,6 +7058,7 @@
     <item drawable="yasnac"/>
     <item drawable="yatra"/>
     <item drawable="yazio"/>
+    <item drawable="yeedi" name="yeedi"/>
     <item drawable="yellow_taxi"/>
     <item drawable="yelp"/>
     <item drawable="yes_seatel"/>
