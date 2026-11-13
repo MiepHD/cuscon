@@ -2,25 +2,16 @@
 <resources>
     <version>1</version>
     <category title="New Icons"/>
-    <item drawable="apple_music_2hm9j2" name="Apple Music"/>
-    <item drawable="bionic_tape"/>
-    <item drawable="bookorbit_xyruzw" name="BookOrbit"/>
-    <item drawable="cairn" name="Cairn"/>
-    <item drawable="essential_apps" name="Essential Apps"/>
-    <item drawable="essential_space" name="Essential Space"/>
-    <item drawable="little_caesars" name="Little Caesars"/>
-    <item drawable="mornye" name="Mornye"/>
-    <item drawable="my_nos" name="my NOS"/>
-    <item drawable="my_pixel" name="My Pixel"/>
-    <item drawable="nc_collectives" name="NC Collectives"/>
-    <item drawable="penly" name="Penly"/>
-    <item drawable="qownnotes" name="QOwnNotes"/>
-    <item drawable="seekquel" name="Seekquel"/>
-    <item drawable="shopping_list_for_nextcloud" name="Shopping List for Nextcloud"/>
-    <item drawable="sportschau" name="Sportschau"/>
-    <item drawable="tolino" name="tolino"/>
-    <item drawable="underdog" name="Underdog"/>
-    <item drawable="yeedi" name="yeedi"/>
+    <item drawable="flowchart_studio" name="FlowChart Studio"/>
+    <item drawable="game_maps_irl" name="Game Maps IRL"/>
+    <item drawable="how_we_feel" name="How We Feel"/>
+    <item drawable="life_reset" name="Life Reset"/>
+    <item drawable="mini_player_" name="Mini Player+"/>
+    <item drawable="pixel_" name="Pixel+"/>
+    <item drawable="pop" name="POP"/>
+    <item drawable="sociallite" name="SocialLite"/>
+    <item drawable="morphe" name="YouTube"/>
+    <item drawable="youtube"/>
     <category title="Folders"/>
     <item drawable="folder_blue"/>
     <item drawable="folder_dark_blue"/>
@@ -2644,6 +2635,7 @@
     <item drawable="flow"/>
     <item drawable="flow_free"/>
     <item drawable="floward"/>
+    <item drawable="flowchart_studio" name="FlowChart Studio"/>
     <item drawable="flowwow"/>
     <item drawable="flowx"/>
     <item drawable="flud"/>
@@ -2778,6 +2770,7 @@
     <item drawable="gallery_light_blue"/>
     <item drawable="gallery_lineageos"/>
     <item drawable="game"/>
+    <item drawable="game_maps_irl" name="Game Maps IRL"/>
     <item drawable="game_center"/>
     <item drawable="game_centre"/>
     <item drawable="game_deals"/>
@@ -3678,6 +3671,7 @@
     <item drawable="lidl_home"/>
     <item drawable="lidl_plus"/>
     <item drawable="lieferando"/>
+    <item drawable="life_reset" name="Life Reset"/>
     <item drawable="life360"/>
     <item drawable="life_gallery"/>
     <item drawable="lifesum"/>
@@ -4044,6 +4038,7 @@
     <item drawable="minesweeper"/>
     <item drawable="minetest"/>
     <item drawable="mingo"/>
+    <item drawable="mini_player_" name="Mini Player+"/>
     <item drawable="mini_metro"/>
     <item drawable="minimal_wallpaper"/>
     <item drawable="minivan"/>
@@ -4961,6 +4956,7 @@
     <item drawable="pix_pie_icon_pack"/>
     <item drawable="pix_wallpapers"/>
     <item drawable="pixapencil"/>
+    <item drawable="pixel_" name="Pixel+"/>
     <item drawable="pixel_art"/>
     <item drawable="pixel_buds"/>
     <item drawable="pixel_clock_widgets"/>
@@ -5067,6 +5063,7 @@
     <item drawable="polytopia"/>
     <item drawable="pomelody"/>
     <item drawable="pons"/>
+    <item drawable="pop" name="POP"/>
     <item drawable="popeyes"/>
     <item drawable="popup_widget"/>
     <item drawable="popupcontrol"/>
@@ -5840,6 +5837,7 @@
     <item drawable="sns_24"/>
     <item drawable="so_vegan"/>
     <item drawable="socialgood"/>
+    <item drawable="sociallite" name="SocialLite"/>
     <item drawable="socrative"/>
     <item drawable="soda"/>
     <item drawable="sofascore"/>

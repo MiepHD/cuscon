@@ -7267,4 +7267,13 @@
     <AppIcon name="de.apptelligence.sportschau.android/com.sportschaunext.SplashActivity" image="sportschau"/>
     <AppIcon name="com.megamaced.nccollectives/com.megamaced.nccollectives.MainActivity" image="nc_collectives"/>
     <AppIcon name="com.luminaapps.cairn/com.luminaapps.cairn.MainActivity" image="cairn"/>
+    <AppIcon name="it.ncaferra.pixelplayerpaid/it.pixel.ui.activity.PixelMainActivity" image="pixel_"/>
+    <AppIcon name="com.ram.chocolate.otphead/com.dowble.velora.MainActivity" image="mini_player_"/>
+    <AppIcon name="com.pop.rider/com.pop.rider.pop.views.splash.SplashActivity" image="pop"/>
+    <AppIcon name="app.morphe.android.youtube/app.morphe.android.youtube.morphe_black_1" image="morphe"/>
+    <AppIcon name="build.designand.riselife/build.designand.riselife.MainActivityAliasDefault" image="life_reset"/>
+    <AppIcon name="com.sociallite.android/com.sociallite.android.MainActivity" image="sociallite"/>
+    <AppIcon name="org.howwefeel.moodmeter/org.howwefeel.moodmeter.launcher.EmotionIconDefault" image="how_we_feel"/>
+    <AppIcon name="info.camposha.flow_chart/info.camposha.flow_chart.tool.FlowchartBuilderActivity" image="flowchart_studio"/>
+    <AppIcon name="com.retryapps.game.maps.irl/com.retryapps.game.maps.irl.MainActivity" image="game_maps_irl"/>
 </Theme>

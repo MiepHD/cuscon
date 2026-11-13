@@ -7381,4 +7381,13 @@
     <item component="ComponentInfo{de.apptelligence.sportschau.android/com.sportschaunext.SplashActivity}" drawable="sportschau" />
     <item component="ComponentInfo{com.megamaced.nccollectives/com.megamaced.nccollectives.MainActivity}" drawable="nc_collectives" />
     <item component="ComponentInfo{com.luminaapps.cairn/com.luminaapps.cairn.MainActivity}" drawable="cairn" />
+    <item component="ComponentInfo{it.ncaferra.pixelplayerpaid/it.pixel.ui.activity.PixelMainActivity}" drawable="pixel_" />
+    <item component="ComponentInfo{com.ram.chocolate.otphead/com.dowble.velora.MainActivity}" drawable="mini_player_" />
+    <item component="ComponentInfo{com.pop.rider/com.pop.rider.pop.views.splash.SplashActivity}" drawable="pop" />
+    <item component="ComponentInfo{app.morphe.android.youtube/app.morphe.android.youtube.morphe_black_1}" drawable="morphe" />
+    <item component="ComponentInfo{build.designand.riselife/build.designand.riselife.MainActivityAliasDefault}" drawable="life_reset" />
+    <item component="ComponentInfo{com.sociallite.android/com.sociallite.android.MainActivity}" drawable="sociallite" />
+    <item component="ComponentInfo{org.howwefeel.moodmeter/org.howwefeel.moodmeter.launcher.EmotionIconDefault}" drawable="how_we_feel" />
+    <item component="ComponentInfo{info.camposha.flow_chart/info.camposha.flow_chart.tool.FlowchartBuilderActivity}" drawable="flowchart_studio" />
+    <item component="ComponentInfo{com.retryapps.game.maps.irl/com.retryapps.game.maps.irl.MainActivity}" drawable="game_maps_irl" />
 </resources>
