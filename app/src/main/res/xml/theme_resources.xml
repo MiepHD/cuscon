@@ -7249,6 +7249,7 @@
     <AppIcon name="com.enreach.umca.swyx/com.enreach.umc.swyx.activity.SwyxSplashActivity" image="swyx_mobile"/>
     <AppIcon name="eu.darken.apl/eu.darken.apl.main.ui.MainActivity" image="airplaneslive"/>
     <AppIcon name="com.music.bitchord/com.music.bitchord.MainActivity" image="bitchord"/>
+    <AppIcon name="com.bitchord.mussiic/com.bitchord.mussiic.MainActivity" image="bitchord"/>
     <AppIcon name="com.seekquel.app/com.seekquel.app.LauncherCream" image="seekquel"/>
     <AppIcon name="com.littlecaesars/com.littlecaesars.startup.StartUpActivity" image="little_caesars"/>
     <AppIcon name="com.google.android.apps.tips/com.google.android.apps.tips.fortnite.p8a" image="my_pixel"/>
