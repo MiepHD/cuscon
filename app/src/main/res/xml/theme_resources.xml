@@ -7278,4 +7278,24 @@
     <AppIcon name="org.howwefeel.moodmeter/org.howwefeel.moodmeter.launcher.EmotionIconDefault" image="how_we_feel"/>
     <AppIcon name="info.camposha.flow_chart/info.camposha.flow_chart.tool.FlowchartBuilderActivity" image="flowchart_studio"/>
     <AppIcon name="com.retryapps.game.maps.irl/com.retryapps.game.maps.irl.MainActivity" image="game_maps_irl"/>
+    <AppIcon name="io.silentsuite.android/io.silentsuite.sync.ui.AccountActivity" image="silentsuite"/>
+    <AppIcon name="io.capacities.mobile/io.capacities.mobile.LauncherDefault" image="capacities"/>
+    <AppIcon name="de.pharmatechnik.meineapotheke/de.pharmatechnik.meineapotheke.PtAndroidJniActivity" image="meine_apotheke"/>
+    <AppIcon name="com.splashtop.sos/com.splashtop.sos.oobe.FirstActivity" image="splashtop_sos"/>
+    <AppIcon name="com.huawei.smartaudio/com.huawei.smartaudio.ui.view.SplashActivity" image="huawei_audio_connect"/>
+    <AppIcon name="org.fdroid.fdroid/org.fdroid.IconActivity" image="f_droid"/>
+    <AppIcon name="com.supernova.launcher/com.supernova.launcher.LauncherActivity" image="supernova"/>
+    <AppIcon name="com.korgnote.androidapp/com.korgnote.app.MainActivity" image="korgnote"/>
+    <AppIcon name="com.supernova.launcher/com.supernova.launcher.SettingsLauncherAlias" image="supernova_settings"/>
+    <AppIcon name="com.assaabloy.yale/com.aaecosystem.luna.ui.startup.LandingPage" image="yale_home"/>
+    <AppIcon name="com.glasgowlive/com.reachplc.main.ui.splash.SplashActivity_Default" image="glasgow_live"/>
+    <AppIcon name="com.bskyb.skynews.android/com.sky.sport.group.MainActivity" image="sky_news"/>
+    <AppIcon name="bbl.intl.bambulab.com/com.bambulab.bambulab.MainActivity" image="bambu_handy"/>
+    <AppIcon name="org.astermail.android/org.astermail.android.MainActivity" image="aster_mail"/>
+    <AppIcon name="com.affilemanager.app/com.affilemanager.app.MainActivity" image="af_file_manager"/>
+    <AppIcon name="com.amanoteam.kahon/eu.kanade.tachiyomi.ui.main.MainActivity" image="kahon"/>
+    <AppIcon name="com.empik.empikapp/com.empik.empikapp.entry.view.EntryActivity" image="empik"/>
+    <AppIcon name="com.google.android.apps.wellbeing/com.google.android.apps.wellbeing.settings.MultiPaneLauncherActivity" image="digital_wellbeing"/>
+    <AppIcon name="com.radolyn.ayugram/com.exteragram.messenger.MonetIcon" image="ayugram"/>
+    <AppIcon name="com.twitter.android/com.x.android.main.MainActivity" image="x"/>
 </Theme>

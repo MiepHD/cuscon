@@ -7392,4 +7392,24 @@
     <item component="ComponentInfo{org.howwefeel.moodmeter/org.howwefeel.moodmeter.launcher.EmotionIconDefault}" drawable="how_we_feel" />
     <item component="ComponentInfo{info.camposha.flow_chart/info.camposha.flow_chart.tool.FlowchartBuilderActivity}" drawable="flowchart_studio" />
     <item component="ComponentInfo{com.retryapps.game.maps.irl/com.retryapps.game.maps.irl.MainActivity}" drawable="game_maps_irl" />
+    <item component="ComponentInfo{io.silentsuite.android/io.silentsuite.sync.ui.AccountActivity}" drawable="silentsuite" />
+    <item component="ComponentInfo{io.capacities.mobile/io.capacities.mobile.LauncherDefault}" drawable="capacities" />
+    <item component="ComponentInfo{de.pharmatechnik.meineapotheke/de.pharmatechnik.meineapotheke.PtAndroidJniActivity}" drawable="meine_apotheke" />
+    <item component="ComponentInfo{com.splashtop.sos/com.splashtop.sos.oobe.FirstActivity}" drawable="splashtop_sos" />
+    <item component="ComponentInfo{com.huawei.smartaudio/com.huawei.smartaudio.ui.view.SplashActivity}" drawable="huawei_audio_connect" />
+    <item component="ComponentInfo{org.fdroid.fdroid/org.fdroid.IconActivity}" drawable="f_droid" />
+    <item component="ComponentInfo{com.supernova.launcher/com.supernova.launcher.LauncherActivity}" drawable="supernova" />
+    <item component="ComponentInfo{com.korgnote.androidapp/com.korgnote.app.MainActivity}" drawable="korgnote" />
+    <item component="ComponentInfo{com.supernova.launcher/com.supernova.launcher.SettingsLauncherAlias}" drawable="supernova_settings" />
+    <item component="ComponentInfo{com.assaabloy.yale/com.aaecosystem.luna.ui.startup.LandingPage}" drawable="yale_home" />
+    <item component="ComponentInfo{com.glasgowlive/com.reachplc.main.ui.splash.SplashActivity_Default}" drawable="glasgow_live" />
+    <item component="ComponentInfo{com.bskyb.skynews.android/com.sky.sport.group.MainActivity}" drawable="sky_news" />
+    <item component="ComponentInfo{bbl.intl.bambulab.com/com.bambulab.bambulab.MainActivity}" drawable="bambu_handy" />
+    <item component="ComponentInfo{org.astermail.android/org.astermail.android.MainActivity}" drawable="aster_mail" />
+    <item component="ComponentInfo{com.affilemanager.app/com.affilemanager.app.MainActivity}" drawable="af_file_manager" />
+    <item component="ComponentInfo{com.amanoteam.kahon/eu.kanade.tachiyomi.ui.main.MainActivity}" drawable="kahon" />
+    <item component="ComponentInfo{com.empik.empikapp/com.empik.empikapp.entry.view.EntryActivity}" drawable="empik" />
+    <item component="ComponentInfo{com.google.android.apps.wellbeing/com.google.android.apps.wellbeing.settings.MultiPaneLauncherActivity}" drawable="digital_wellbeing" />
+    <item component="ComponentInfo{com.radolyn.ayugram/com.exteragram.messenger.MonetIcon}" drawable="ayugram" />
+    <item component="ComponentInfo{com.twitter.android/com.x.android.main.MainActivity}" drawable="x" />
 </resources>

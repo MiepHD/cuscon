@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="changelog_date">13.11.2026</string>
+    <string name="changelog_date">21.11.2026</string>
     <string-array name="changelog">
+        <item>4.1.2.6:</item>
+        <item>Added Capacities, HUAWEI Audio Connect, Meine Apotheke, SilentSuite, Splashtop SOS, KorgNote, Supernova, Supernova Settings, Bambu Handy, Glasgow Live, Sky News, Yale Home, Aster Mail, AF File Manager, AyuGram, Cyfrowa równowaga, Empik, Kahon</item>
+        <item>Updated F-Droid, X</item>
+
         <item>4.1.2.5:</item>
         <item>Added Mini Player+, Pixel+, POP, FlowChart Studio, Game Maps IRL, Life Reset, YouTube, SocialLite</item>
 

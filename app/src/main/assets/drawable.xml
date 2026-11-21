@@ -2,16 +2,26 @@
 <resources>
     <version>1</version>
     <category title="New Icons"/>
-    <item drawable="flowchart_studio" name="FlowChart Studio"/>
-    <item drawable="game_maps_irl" name="Game Maps IRL"/>
-    <item drawable="how_we_feel" name="How We Feel"/>
-    <item drawable="life_reset" name="Life Reset"/>
-    <item drawable="mini_player_" name="Mini Player+"/>
-    <item drawable="pixel_" name="Pixel+"/>
-    <item drawable="pop" name="POP"/>
-    <item drawable="sociallite" name="SocialLite"/>
-    <item drawable="morphe" name="YouTube"/>
-    <item drawable="youtube"/>
+    <item drawable="af_file_manager" name="AF File Manager"/>
+    <item drawable="aster_mail" name="Aster Mail"/>
+    <item drawable="ayugram" name="AyuGram"/>
+    <item drawable="bambu_handy" name="Bambu Handy"/>
+    <item drawable="capacities" name="Capacities"/>
+    <item drawable="digital_wellbeing" name="Cyfrowa równowaga"/>
+    <item drawable="empik" name="Empik"/>
+    <item drawable="f_droid" name="F-Droid"/>
+    <item drawable="glasgow_live" name="Glasgow Live"/>
+    <item drawable="huawei_audio_connect" name="HUAWEI Audio Connect"/>
+    <item drawable="kahon" name="Kahon"/>
+    <item drawable="korgnote" name="KorgNote"/>
+    <item drawable="meine_apotheke" name="Meine Apotheke"/>
+    <item drawable="silentsuite" name="SilentSuite"/>
+    <item drawable="sky_news" name="Sky News"/>
+    <item drawable="splashtop_sos" name="Splashtop SOS"/>
+    <item drawable="supernova" name="Supernova"/>
+    <item drawable="supernova_settings" name="Supernova Settings"/>
+    <item drawable="x" name="X"/>
+    <item drawable="yale_home" name="Yale Home"/>
     <category title="Folders"/>
     <item drawable="folder_blue"/>
     <item drawable="folder_dark_blue"/>
@@ -905,6 +915,7 @@
     <item drawable="aegis"/>
     <item drawable="aemet"/>
     <item drawable="aethersx2"/>
+    <item drawable="af_file_manager" name="AF File Manager"/>
     <item drawable="affirm"/>
     <item drawable="afk_arena"/>
     <item drawable="afterpay"/>
@@ -1155,6 +1166,7 @@
     <item drawable="assembly_line"/>
     <item drawable="assistente" name="Assistant"/>
     <item drawable="assistant_app_launcher"/>
+    <item drawable="aster_mail" name="Aster Mail"/>
     <item drawable="astro"/>
     <item drawable="astrology_master"/>
     <item drawable="astron"/>
@@ -1257,6 +1269,7 @@
     <item drawable="axis_mobile"/>
     <item drawable="axisnet"/>
     <item drawable="axonify"/>
+    <item drawable="ayugram" name="AyuGram"/>
     <item drawable="az_mobile_id" name="AZ Mobile ID"/>
     <item drawable="azahar"/>
     <item drawable="azfcu"/>
@@ -1282,6 +1295,7 @@
     <item drawable="bale"/>
     <item drawable="ballozi_skynox"/>
     <item drawable="bam_comic_reader"/>
+    <item drawable="bambu_handy" name="Bambu Handy"/>
     <item drawable="banco_ctt"/>
     <item drawable="bancoposta"/>
     <item drawable="bandcamp"/>
@@ -1630,6 +1644,7 @@
     <item drawable="canta"/>
     <item drawable="canva"/>
     <item drawable="canvas_student"/>
+    <item drawable="capacities" name="Capacities"/>
     <item drawable="capcut"/>
     <item drawable="capcut_reactivate"/>
     <item drawable="capital_fm"/>
@@ -2364,6 +2379,7 @@
     <item drawable="emirates"/>
     <item drawable="emirates_post"/>
     <item drawable="emp_shop"/>
+    <item drawable="empik" name="Empik"/>
     <item drawable="empty_folder_cleaner"/>
     <item drawable="empty_text"/>
     <item drawable="emtrainer"/>
@@ -2857,6 +2873,7 @@
     <item drawable="gitnex"/>
     <item drawable="gkd"/>
     <item drawable="glamai"/>
+    <item drawable="glasgow_live" name="Glasgow Live"/>
     <item drawable="glassdoor"/>
     <item drawable="glasswire"/>
     <item drawable="glendaleone" name="GlendaleOne"/>
@@ -3158,6 +3175,7 @@
     <item drawable="http_file_server"/>
     <item drawable="http_request_tunnel"/>
     <item drawable="http_shortcuts"/>
+    <item drawable="huawei_audio_connect" name="HUAWEI Audio Connect"/>
     <item drawable="huawei_health"/>
     <item drawable="huawei_wear"/>
     <item drawable="hubble"/>
@@ -3432,6 +3450,7 @@
     <category title="K"/>
     <item drawable="kabbalah"/>
     <item drawable="kafka"/>
+    <item drawable="kahon" name="Kahon"/>
     <item drawable="kahoot_"/>
     <item drawable="kai"/>
     <item drawable="kaii_photos"/>
@@ -3550,6 +3569,7 @@
     <item drawable="kook"/>
     <item drawable="kore"/>
     <item drawable="koreader"/>
+    <item drawable="korgnote" name="KorgNote"/>
     <item drawable="kotak_bank"/>
     <item drawable="kotatsu"/>
     <item drawable="kra_paye_calculator_kenya"/>
@@ -3921,6 +3941,7 @@
     <item drawable="mein_dm"/>
     <item drawable="mein_kochbuch"/>
     <item drawable="meinaldi"/>
+    <item drawable="meine_apotheke" name="Meine Apotheke"/>
     <item drawable="meine_aok"/>
     <item drawable="meine_arztdokumente"/>
     <item drawable="meine_ausgaben"/>
@@ -5695,6 +5716,7 @@
     <item drawable="sikucontrol"/>
     <item drawable="silence"/>
     <item drawable="silentnotes"/>
+    <item drawable="silentsuite" name="SilentSuite"/>
     <item drawable="silicone_calculator"/>
     <item drawable="silverdict"/>
     <item drawable="sim_2_toolkit"/>
@@ -5743,6 +5765,7 @@
     <item drawable="skrill"/>
     <item drawable="skull_wear"/>
     <item drawable="skullcandy"/>
+    <item drawable="sky_news" name="Sky News"/>
     <item drawable="sky_map"/>
     <item drawable="skycash"/>
     <item drawable="skyfish_2"/>
@@ -5909,6 +5932,7 @@
     <item drawable="anima" name="spirit"/>
     <item drawable="spirit_airlines"/>
     <item drawable="splash"/>
+    <item drawable="splashtop_sos" name="Splashtop SOS"/>
     <item drawable="splayer"/>
     <item drawable="splitcat"/>
     <item drawable="splyce"/>
@@ -6040,6 +6064,8 @@
     <item drawable="superfreezz"/>
     <item drawable="superimage"/>
     <item drawable="superimage_pro"/>
+    <item drawable="supernova" name="Supernova"/>
+    <item drawable="supernova_settings" name="Supernova Settings"/>
     <item drawable="supershift"/>
     <item drawable="supersu"/>
     <item drawable="supertreat_solitaire"/>
@@ -7048,6 +7074,7 @@
     <item drawable="yaacc"/>
     <item drawable="yababa"/>
     <item drawable="yacine_tv"/>
+    <item drawable="yale_home" name="Yale Home"/>
     <item drawable="yandex_start"/>
     <item drawable="yandexmaps"/>
     <item drawable="_9a3d4d4b8f8adb36fc3f9857ad09d66b" name="Yapı Kredi Mobil"/>
