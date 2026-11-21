@@ -329,6 +329,7 @@
 	<AppIcon name="cat.ereza.properbusbcn/cat.ereza.properbusbcn.ui.activities.MainActivity" image="next_bus_barcelona"/>
     <AppIcon name="com.bubblesoft.android.bubbleupnp/com.bubblesoft.android.bubbleupnp.MainActivity" image="bubbleupnp"/>
 	<AppIcon name="org.chromium.chrome/com.google.android.apps.chrome.Main" image="chromium" />
+	<AppIcon name="org.ungoogled.chromium.stable/com.google.android.apps.chrome.Main" image="chromium" />
 	<AppIcon name="com.collabora.libreoffice/org.libreoffice.androidapp.ui.LibreOfficeUIActivity" image="collabora_office"/>
 	<AppIcon name="me.thanel.dank/me.saket.dank.Launcher" image="dawn"/>
 	<AppIcon name="us.spotco.maps/us.spotco.maps.MainActivity" image="gmaps_wv"/>
