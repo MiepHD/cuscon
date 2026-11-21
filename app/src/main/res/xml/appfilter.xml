@@ -338,6 +338,7 @@
 	<item component="ComponentInfo{cat.ereza.properbusbcn/cat.ereza.properbusbcn.ui.activities.MainActivity}" drawable="next_bus_barcelona" />
     <item component="ComponentInfo{com.bubblesoft.android.bubbleupnp/com.bubblesoft.android.bubbleupnp.MainActivity}" drawable="bubbleupnp" />
 	<item component="ComponentInfo{org.chromium.chrome/com.google.android.apps.chrome.Main}" drawable="chromium" />
+	<item component="ComponentInfo{org.ungoogled.chromium.stable/com.google.android.apps.chrome.Main}" drawable="chromium" />
 	<item component="ComponentInfo{com.collabora.libreoffice/org.libreoffice.androidapp.ui.LibreOfficeUIActivity}" drawable="collabora_office" />
 	<item component="ComponentInfo{me.thanel.dank/me.saket.dank.Launcher}" drawable="dawn" />
 	<item component="ComponentInfo{us.spotco.maps/us.spotco.maps.MainActivity}" drawable="gmaps_wv" />
@@ -1670,7 +1671,7 @@
 	<item component="ComponentInfo{com.google.android.apps.wearables.maestro.companion/com.google.android.apps.wearables.maestro.companion.ui.ShortCutActivity}" drawable="pixel_buds" />
 	<item component="ComponentInfo{com.celzero.bravedns/com.celzero.bravedns.ui.HomeScreenActivity}" drawable="rethink" />
 	<item component="ComponentInfo{com.celzero.bravedns/com.celzero.bravedns.ui.LauncherAliasHome}" drawable="rethink" />
-	<item component="ComponentInfo{com.celzero.bravedns/com.celzero.bravedns.ui.LauncherAliasAppLock}" drawable="rethink" />
+	<item component="ComponentInfo{com.celzero.bravedns/com.celzero.bravedns.ui.activity.LauncherAliasAppLock}" drawable="rethink" />
 	<item component="ComponentInfo{de.felixnuesse.extract/ca.pkay.rcloneexplorer.Activities.MainActivity}" drawable="round_sync" />
 	<item component="ComponentInfo{s1m.savertuner/com.draco.buoy.views.MainActivity}" drawable="savertuner" />
 	<item component="ComponentInfo{network.loki.messenger/network.loki.messenger.RoutingActivity}" drawable="session" />

@@ -329,6 +329,7 @@
 	<AppIcon name="cat.ereza.properbusbcn/cat.ereza.properbusbcn.ui.activities.MainActivity" image="next_bus_barcelona"/>
     <AppIcon name="com.bubblesoft.android.bubbleupnp/com.bubblesoft.android.bubbleupnp.MainActivity" image="bubbleupnp"/>
 	<AppIcon name="org.chromium.chrome/com.google.android.apps.chrome.Main" image="chromium" />
+	<AppIcon name="org.ungoogled.chromium.stable/com.google.android.apps.chrome.Main" image="chromium" />
 	<AppIcon name="com.collabora.libreoffice/org.libreoffice.androidapp.ui.LibreOfficeUIActivity" image="collabora_office"/>
 	<AppIcon name="me.thanel.dank/me.saket.dank.Launcher" image="dawn"/>
 	<AppIcon name="us.spotco.maps/us.spotco.maps.MainActivity" image="gmaps_wv"/>
@@ -6831,7 +6832,7 @@
     <AppIcon name="com.fsck.k9/net.thunderbird.app.common.MainActivity" image="k_9_mail" />
     <AppIcon name="com.microsoft.translator/com.microsoft.translator.TranslateHomeActivity" image="translator" />
     <AppIcon name="com.celzero.bravedns/com.celzero.bravedns.ui.LauncherAliasHome" image="rethink" />
-    <AppIcon name="com.celzero.bravedns/com.celzero.bravedns.ui.LauncherAliasAppLock" image="rethink" />
+    <AppIcon name="com.celzero.bravedns/com.celzero.bravedns.ui.activity.LauncherAliasAppLock" image="rethink" />
     <AppIcon name="com.embermitre.hanping.cantodict.app.pro/app.geckodict.app.dict.hanping.android.MainActivity" image="hanping_cantonese" />
     <AppIcon name="com.embermitre.hanping.app.pro/app.geckodict.app.dict.hanping.android.MainActivity" image="hanping_chinese_pro" />
     <AppIcon name="app.linkwarden/app.linkwarden.MainActivity" image="linkwarden" />
