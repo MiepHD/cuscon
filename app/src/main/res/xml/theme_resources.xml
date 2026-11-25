@@ -7298,4 +7298,5 @@
     <AppIcon name="com.google.android.apps.wellbeing/com.google.android.apps.wellbeing.settings.MultiPaneLauncherActivity" image="digital_wellbeing"/>
     <AppIcon name="com.radolyn.ayugram/com.exteragram.messenger.MonetIcon" image="ayugram"/>
     <AppIcon name="com.twitter.android/com.x.android.main.MainActivity" image="x"/>
+    <AppIcon name="btools.routingapp/btools.routingapp.BRouterActivity" image="brouter"/>
 </Theme>
