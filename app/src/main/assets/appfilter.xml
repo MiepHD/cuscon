@@ -7412,4 +7412,5 @@
     <item component="ComponentInfo{com.google.android.apps.wellbeing/com.google.android.apps.wellbeing.settings.MultiPaneLauncherActivity}" drawable="digital_wellbeing" />
     <item component="ComponentInfo{com.radolyn.ayugram/com.exteragram.messenger.MonetIcon}" drawable="ayugram" />
     <item component="ComponentInfo{com.twitter.android/com.x.android.main.MainActivity}" drawable="x" />
+    <item component="ComponentInfo{btools.routingapp/btools.routingapp.BRouterActivity}" drawable="brouter" />
 </resources>
